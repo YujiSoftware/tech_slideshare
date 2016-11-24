@@ -4,7 +4,7 @@ USE tech_slideshare;
 CREATE TABLE slide (
   slide_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   title  TEXT NOT NULL,
-  url    TEXT NOT NULL
+  url    VARCHAR(1024) NOT NULL UNIQUE
 );
 
 CREATE TABLE tweet_queue (
