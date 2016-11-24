@@ -1,7 +1,7 @@
 package tech.slideshare;
 
-import tech.slideshare.rss.Item;
 import tech.slideshare.rss.Rss;
+import tech.slideshare.rss.Item;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
