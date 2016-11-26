@@ -19,33 +19,39 @@ import java.util.Date;
 
 public class Main {
 
-    private static final String HATENA_BOOKMARK_SLIDESHARE =
-            "http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss";
+    private static final String[] HATENA_BOOKMARK_LIST =
+            new String[]{
+                    "http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss",
+                    "http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss",
+                    "http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fdocs.com%2F&mode=rss",
+            };
 
     public static void main(String[] args) throws JAXBException, MalformedURLException, SQLException, ParseException {
         String user = args[0];
         String password = args[1];
-
-        JAXBContext context = JAXBContext.newInstance(Rss.class);
-        Unmarshaller unmarshaller = context.createUnmarshaller();
-        Rss r = (Rss) unmarshaller.unmarshal(new URL(HATENA_BOOKMARK_SLIDESHARE));
-
-        DateFormat format = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssX");
 
         Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password);
         con.setAutoCommit(false);
 
         SlideDao slideDao = new SlideDao(con);
 
-        for (Item i : r.items) {
-            Date date = format.parse(i.date);
-            if (slideDao.tryEnqueue(i.title, i.link, date)) {
-                System.out.println("Enqueue: " + i.title);
-            } else {
-                System.out.println("Already: " + i.title);
-            }
-        }
+        JAXBContext context = JAXBContext.newInstance(Rss.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        DateFormat format = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssX");
 
-        con.commit();
+        for(String url : HATENA_BOOKMARK_LIST) {
+            Rss r = (Rss) unmarshaller.unmarshal(new URL(url));
+
+            for (Item i : r.items) {
+                Date date = format.parse(i.date);
+                if (slideDao.tryEnqueue(i.title, i.link, date)) {
+                    System.out.println("Enqueue: " + i.title);
+                } else {
+                    System.out.println("Already: " + i.title);
+                }
+            }
+
+            con.commit();
+        }
     }
 }
