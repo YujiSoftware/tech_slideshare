@@ -7,6 +7,13 @@ apply plugin: 'application'
 sourceCompatibility = 1.8
 mainClassName = 'tech.slideshare.twitter.Main'
 
+applicationDefaultJvmArgs = [
+    "-Dtwitter4j.oauth.consumerKey=${project.consumerKey}",
+    "-Dtwitter4j.oauth.consumerSecret=${project.consumerSecret}",
+    "-Dtwitter4j.oauth.accessToken=${project.accessToken}",
+    "-Dtwitter4j.oauth.accessTokenSecret=${project.accessTokenSecret}"
+]
+
 run {
     if (project.hasProperty('args')) {
         args project.args.split('\\s+')
