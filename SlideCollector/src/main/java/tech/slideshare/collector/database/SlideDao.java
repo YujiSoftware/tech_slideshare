@@ -1,8 +1,9 @@
-package tech.slideshare.database;
+package tech.slideshare.collector.database;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
+import java.sql.Timestamp;
 import java.util.Date;
 
 public class SlideDao extends AbstractDao {
@@ -28,7 +29,7 @@ public class SlideDao extends AbstractDao {
         if (pstmt.executeUpdate() > 0) {
             pstmt =
                     con.prepareStatement("INSERT INTO tweet_queue (slide_id, date) VALUES (LAST_INSERT_ID(), ?)");
-            pstmt.setDate(1, new java.sql.Date(date.getTime()));
+            pstmt.setTimestamp(1, new Timestamp(date.getTime()));
 
             return pstmt.executeUpdate() > 0;
         } else {

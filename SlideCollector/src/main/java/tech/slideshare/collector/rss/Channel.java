@@ -1,4 +1,4 @@
-package tech.slideshare.rss;
+package tech.slideshare.collector.rss;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;

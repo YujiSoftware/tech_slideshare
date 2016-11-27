@@ -5,7 +5,7 @@ apply plugin: 'java'
 apply plugin: 'application'
 
 sourceCompatibility = 1.8
-mainClassName = 'tech.slideshare.Main'
+mainClassName = 'tech.slideshare.collector.Main'
 
 run {
     if (project.hasProperty('args')) {

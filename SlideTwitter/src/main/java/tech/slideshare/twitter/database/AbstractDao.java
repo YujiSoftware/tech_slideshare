@@ -1,4 +1,4 @@
-package tech.slideshare.database;
+package tech.slideshare.twitter.database;
 
 import java.sql.Connection;
 import java.util.Objects;

@@ -1,7 +1,7 @@
-package tech.slideshare;
+package tech.slideshare.collector;
 
-import tech.slideshare.database.SlideDao;
-import tech.slideshare.rss.Rss;
+import tech.slideshare.collector.database.SlideDao;
+import tech.slideshare.collector.rss.Rss;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
