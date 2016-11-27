@@ -29,34 +29,35 @@ public class Main {
         String user = args[0];
         String password = args[1];
 
-        Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password);
-        con.setAutoCommit(false);
+        try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password)) {
+            con.setAutoCommit(false);
 
-        SlideDao slideDao = new SlideDao(con);
+            SlideDao slideDao = new SlideDao(con);
 
-        JAXBContext context = JAXBContext.newInstance(Rss.class);
-        Unmarshaller unmarshaller = context.createUnmarshaller();
-        DateFormat format = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssX");
+            JAXBContext context = JAXBContext.newInstance(Rss.class);
+            Unmarshaller unmarshaller = context.createUnmarshaller();
+            DateFormat format = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssX");
 
-        for (String url : HATENA_BOOKMARK_LIST) {
-            Rss r = (Rss) unmarshaller.unmarshal(new URL(url));
+            for (String url : HATENA_BOOKMARK_LIST) {
+                Rss r = (Rss) unmarshaller.unmarshal(new URL(url));
 
-            r.items.stream()
-                    .filter(i -> i.subject.equals("テクノロジー"))
-                    .forEach(item -> {
-                        try {
-                            Date date = format.parse(item.date);
-                            if (slideDao.tryEnqueue(item.title, item.link, date)) {
-                                System.out.println("Enqueue: " + item.title);
-                            } else {
-                                System.out.println("Already: " + item.title);
+                r.items.stream()
+                        .filter(i -> i.subject.equals("テクノロジー"))
+                        .forEach(item -> {
+                            try {
+                                Date date = format.parse(item.date);
+                                if (slideDao.tryEnqueue(item.title, item.link, date)) {
+                                    System.out.println("Enqueue: " + item.title);
+                                } else {
+                                    System.out.println("Already: " + item.title);
+                                }
+                            } catch (ParseException | SQLException e) {
+                                throw new RuntimeException(e);
                             }
-                        } catch (ParseException | SQLException e) {
-                            throw new RuntimeException(e);
-                        }
-                    });
+                        });
 
-            con.commit();
+                con.commit();
+            }
         }
     }
 }

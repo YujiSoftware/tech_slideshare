@@ -2,8 +2,6 @@ package tech.slideshare.twitter;
 
 import tech.slideshare.twitter.database.SlideDao;
 import tech.slideshare.twitter.database.SlideDto;
-import twitter4j.Twitter;
-import twitter4j.TwitterFactory;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -14,12 +12,13 @@ public class Main {
         String user = args[0];
         String password = args[1];
 
-        Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password);
-        con.setAutoCommit(false);
+        try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password)) {
+            con.setAutoCommit(false);
 
-        SlideDao slideDao = new SlideDao(con);
-        SlideDto slideDto = slideDao.getOne();
+            SlideDao slideDao = new SlideDao(con);
+            SlideDto slideDto = slideDao.getOne();
 
-        System.out.println(slideDto.getTitle());
+            System.out.println(slideDto.getTitle());
+        }
     }
 }
