@@ -11,7 +11,7 @@ public class SlideDao extends AbstractDao {
         super(con);
     }
 
-    public SlideDto getOne() throws SQLException {
+    public SlideDto dequeue() throws SQLException {
         String sql = "SELECT " +
                 "  s.slide_id" +
                 "  , s.title" +
@@ -31,6 +31,8 @@ public class SlideDao extends AbstractDao {
                 dto.setSlideId(rs.getInt("slide_id"));
                 dto.setTitle(rs.getString("title"));
                 dto.setUrl(rs.getString("url"));
+
+                new TweetQueueDao(con).delete(dto.getSlideId());
 
                 return dto;
             }
