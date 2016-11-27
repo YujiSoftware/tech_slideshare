@@ -27,12 +27,14 @@ public class Main {
             con.setAutoCommit(false);
 
             SlideDto dto = new SlideDao(con).dequeue();
-            Twitter twitter = TwitterFactory.getSingleton();
-            Status status = twitter.updateStatus(dto.getTitle() + "\r\n" + dto.getUrl());
+            if (dto != null) {
+                Twitter twitter = TwitterFactory.getSingleton();
+                Status status = twitter.updateStatus(dto.getTitle() + "\r\n" + dto.getUrl());
 
-            logger.info("Successfully updated the status to [{}].", status.getText());
+                logger.info("Successfully updated the status to [{}].", status.getText());
 
-            con.commit();
+                con.commit();
+            }
         }
 
         logger.info("End {}", Main.class.toString());
