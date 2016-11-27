@@ -4,7 +4,6 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.Date;
 
 public class SlideDao extends AbstractDao {
 
@@ -15,23 +14,27 @@ public class SlideDao extends AbstractDao {
     public SlideDto getOne() throws SQLException {
         PreparedStatement pstmt =
                 con.prepareStatement(
-                        "SELECT \n" +
-                                "  title, url \n" +
-                                "FROM \n" +
-                                "  slide s \n" +
-                                "  INNER JOIN tweet_queue tq \n" +
-                                "  USING (slide_id) \n" +
-                                "ORDER BY \n" +
-                                "  tq.date ASC \n" +
+                        "SELECT " +
+                                "  s.slide_id" +
+                                "  , s.title" +
+                                "  , s.url " +
+                                "FROM " +
+                                "  slide s " +
+                                "  INNER JOIN tweet_queue tq " +
+                                "  USING (slide_id) " +
+                                "ORDER BY " +
+                                "  tq.date ASC " +
                                 "LIMIT 1");
 
-        ResultSet rs = pstmt.executeQuery();
+        try(ResultSet rs = pstmt.executeQuery()) {
+            rs.next();
 
-        SlideDto dto = new SlideDto();
-        rs.next();
-        dto.setTitle(rs.getString("title"));
-        dto.setUrl(rs.getString("url"));
+            SlideDto dto = new SlideDto();
+            dto.setSlideId(rs.getInt("slide_id"));
+            dto.setTitle(rs.getString("title"));
+            dto.setUrl(rs.getString("url"));
 
-        return dto;
+            return dto;
+        }
     }
 }
