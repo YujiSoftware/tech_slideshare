@@ -1,7 +1,6 @@
 package tech.slideshare;
 
 import tech.slideshare.database.SlideDao;
-import tech.slideshare.rss.Item;
 import tech.slideshare.rss.Rss;
 
 import javax.xml.bind.JAXBContext;
@@ -39,17 +38,23 @@ public class Main {
         Unmarshaller unmarshaller = context.createUnmarshaller();
         DateFormat format = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssX");
 
-        for(String url : HATENA_BOOKMARK_LIST) {
+        for (String url : HATENA_BOOKMARK_LIST) {
             Rss r = (Rss) unmarshaller.unmarshal(new URL(url));
 
-            for (Item i : r.items) {
-                Date date = format.parse(i.date);
-                if (slideDao.tryEnqueue(i.title, i.link, date)) {
-                    System.out.println("Enqueue: " + i.title);
-                } else {
-                    System.out.println("Already: " + i.title);
-                }
-            }
+            r.items.stream()
+                    .filter(i -> i.subject.equals("テクノロジー"))
+                    .forEach(item -> {
+                        try {
+                            Date date = format.parse(item.date);
+                            if (slideDao.tryEnqueue(item.title, item.link, date)) {
+                                System.out.println("Enqueue: " + item.title);
+                            } else {
+                                System.out.println("Already: " + item.title);
+                            }
+                        } catch (ParseException | SQLException e) {
+                            throw new RuntimeException(e);
+                        }
+                    });
 
             con.commit();
         }
