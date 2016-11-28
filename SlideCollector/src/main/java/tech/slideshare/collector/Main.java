@@ -35,6 +35,16 @@ public class Main {
 
         logger.info("Start {}", Main.class.toString());
 
+        try {
+            run(user, password);
+        } catch (Exception e) {
+            logger.error("Collect failed!", e);
+        }
+
+        logger.info("End {}", Main.class.toString());
+    }
+
+    private static void run(String user, String password) throws SQLException, JAXBException, MalformedURLException {
         try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password)) {
             con.setAutoCommit(false);
 
@@ -65,7 +75,5 @@ public class Main {
                 con.commit();
             }
         }
-
-        logger.info("End {}", Main.class.toString());
     }
 }

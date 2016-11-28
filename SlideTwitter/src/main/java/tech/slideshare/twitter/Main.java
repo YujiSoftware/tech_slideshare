@@ -23,6 +23,16 @@ public class Main {
 
         logger.info("Start {}", Main.class.toString());
 
+        try {
+            run(user, password);
+        } catch (Exception e) {
+            logger.error("Tweet failed!", e);
+        }
+
+        logger.info("End {}", Main.class.toString());
+    }
+
+    private static void run(String user, String password) throws SQLException, TwitterException {
         try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password)) {
             con.setAutoCommit(false);
 
@@ -36,7 +46,5 @@ public class Main {
                 con.commit();
             }
         }
-
-        logger.info("End {}", Main.class.toString());
     }
 }
