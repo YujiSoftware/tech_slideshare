@@ -1,2 +1,5 @@
 Manifest-Version: 1.0
+Main-Class: tech.slideshare.twitter.Main
+Class-Path: mysql-connector-java-5.1.6.jar twitter4j-core-4.0.3.jar sl
+ f4j-api-1.7.21.jar logback-classic-1.1.7.jar logback-core-1.1.7.jar
 
