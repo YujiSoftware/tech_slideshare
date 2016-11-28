@@ -1,5 +1,7 @@
 package tech.slideshare.collector;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import tech.slideshare.collector.database.SlideDao;
 import tech.slideshare.collector.rss.Rss;
 
@@ -18,6 +20,8 @@ import java.util.Date;
 
 public class Main {
 
+    private static Logger logger = LoggerFactory.getLogger(Main.class);
+
     private static final String[] HATENA_BOOKMARK_LIST =
             new String[]{
                     "http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss",
@@ -28,6 +32,8 @@ public class Main {
     public static void main(String[] args) throws JAXBException, MalformedURLException, SQLException, ParseException {
         String user = args[0];
         String password = args[1];
+
+        logger.info("Start {}", Main.class.toString());
 
         try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password)) {
             con.setAutoCommit(false);
@@ -41,15 +47,15 @@ public class Main {
             for (String url : HATENA_BOOKMARK_LIST) {
                 Rss r = (Rss) unmarshaller.unmarshal(new URL(url));
 
+                logger.info("Got hatena bookmark. [url={}, length={}]", url, r.items.size());
+
                 r.items.stream()
                         .filter(i -> i.subject.equals("テクノロジー"))
                         .forEach(item -> {
                             try {
                                 Date date = format.parse(item.date);
                                 if (slideDao.tryEnqueue(item.title, item.link, date)) {
-                                    System.out.println("Enqueue: " + item.title);
-                                } else {
-                                    System.out.println("Already: " + item.title);
+                                    logger.debug("Enqueue: {}, {}", item.title, item.link);
                                 }
                             } catch (ParseException | SQLException e) {
                                 throw new RuntimeException(e);
@@ -59,5 +65,7 @@ public class Main {
                 con.commit();
             }
         }
+
+        logger.info("End {}", Main.class.toString());
     }
 }
