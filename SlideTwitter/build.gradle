@@ -39,3 +39,16 @@ dependencies {
 
     testCompile group: 'junit', name: 'junit', version: '4.11'
 }
+
+jar {
+    manifest {
+        attributes(
+                "Main-Class" : mainClassName,
+                "Class-Path": configurations.compile.collect { it.getName() }.join(' '))
+    }
+}
+
+task copyLib(type: Copy){
+    from configurations.compile
+    into 'build/libs'
+}
