@@ -35,13 +35,17 @@ public class Main {
 
         logger.info("Start {}", Main.class.toString());
 
+        int exitCode = 0;
         try {
             run(user, password);
         } catch (Exception e) {
             logger.error("Collect failed!", e);
+            exitCode = 1;
         }
 
         logger.info("End {}", Main.class.toString());
+
+        System.exit(exitCode);
     }
 
     private static void run(String user, String password) throws SQLException, JAXBException, MalformedURLException {
