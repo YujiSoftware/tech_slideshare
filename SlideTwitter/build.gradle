@@ -8,10 +8,10 @@ sourceCompatibility = 1.8
 mainClassName = 'tech.slideshare.twitter.Main'
 
 applicationDefaultJvmArgs = [
-        "-Dtwitter4j.oauth.consumerKey=${project.consumerKey}",
-        "-Dtwitter4j.oauth.consumerSecret=${project.consumerSecret}",
-        "-Dtwitter4j.oauth.accessToken=${project.accessToken}",
-        "-Dtwitter4j.oauth.accessTokenSecret=${project.accessTokenSecret}"
+        "-Dtwitter4j.oauth.consumerKey=${project.hasProperty("consumerKey") ? project.consumerKey : ""}",
+        "-Dtwitter4j.oauth.consumerSecret=${project.hasProperty("consumerSecret") ? project.consumerSecret : ""}",
+        "-Dtwitter4j.oauth.accessToken=${project.hasProperty("accessToken") ? project.accessToken : ""}",
+        "-Dtwitter4j.oauth.accessTokenSecret=${project.hasProperty("accessTokenSecret") ? project.accessTokenSecret : ""}"
 ]
 
 run {
@@ -43,12 +43,12 @@ dependencies {
 jar {
     manifest {
         attributes(
-                "Main-Class" : mainClassName,
+                "Main-Class": mainClassName,
                 "Class-Path": configurations.compile.collect { "lib/" + it.getName() }.join(' '))
     }
 }
 
-task copyLib(type: Copy){
+task copyLib(type: Copy) {
     from configurations.compile
     into 'build/libs/lib'
 }
