@@ -34,11 +34,11 @@ jar {
     manifest {
         attributes (
                 "Main-Class" : mainClassName,
-                "Class-Path": configurations.compile.collect { it.getName() }.join(' '))
+                "Class-Path": configurations.compile.collect { "lib/" + it.getName() }.join(' '))
     }
 }
 
 task copyLib(type: Copy){
     from configurations.compile
-    into 'build/libs'
+    into 'build/libs/lib'
 }
