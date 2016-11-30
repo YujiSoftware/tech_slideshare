@@ -37,4 +37,14 @@ public class SlideDao extends AbstractDao {
             return pstmt.executeUpdate() > 0;
         }
     }
+
+    public void updateTitle(String url, String title) throws SQLException {
+        String sql = "UPDATE slide SET title = ? WHERE url = ?";
+        try(PreparedStatement pstmt = con.prepareStatement(sql)){
+            pstmt.setString(1, title);
+            pstmt.setString(2, url);
+
+            pstmt.executeUpdate();
+        }
+    }
 }

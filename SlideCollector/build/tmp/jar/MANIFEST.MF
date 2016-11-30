@@ -1,5 +1,6 @@
 Manifest-Version: 1.0
 Main-Class: tech.slideshare.collector.Main
 Class-Path: lib/mysql-connector-java-5.1.6.jar lib/slf4j-api-1.7.21.ja
- r lib/logback-classic-1.1.7.jar lib/logback-core-1.1.7.jar
+ r lib/logback-classic-1.1.7.jar lib/jsoup-1.10.1.jar lib/logback-core
+ -1.1.7.jar
 
