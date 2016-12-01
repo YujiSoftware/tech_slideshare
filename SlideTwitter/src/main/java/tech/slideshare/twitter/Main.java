@@ -26,7 +26,7 @@ public class Main {
         int exitCode = 0;
         try {
             run(user, password);
-        } catch (Exception e) {
+        } catch (Throwable e) {
             logger.error("Tweet failed!", e);
             exitCode = 1;
         }
