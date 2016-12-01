@@ -70,7 +70,7 @@ public class Main {
                 logger.info("Got hatena bookmark. [url={}, length={}]", url, r.items.size());
 
                 r.items.stream()
-                        .filter(i -> i.subject.equals("テクノロジー"))
+                        .filter(i -> i.subject != null && i.subject.equals("テクノロジー"))
                         .forEach(item -> {
                             try {
                                 Date date = format.parse(item.date);
