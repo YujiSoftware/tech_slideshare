@@ -42,12 +42,21 @@ public class Main {
 
             SlideDto dto = new SlideDao(con).dequeue();
             if (dto != null) {
-                Twitter twitter = TwitterFactory.getSingleton();
-                Status status = twitter.updateStatus(dto.getTitle() + "\r\n" + dto.getUrl());
+                try {
+                    Twitter twitter = TwitterFactory.getSingleton();
+                    Status status = twitter.updateStatus(dto.getTitle() + "\r\n" + dto.getUrl());
 
-                logger.info("Successfully updated the status to [{}].", status.getText());
+                    logger.info("Successfully updated the status to [{}]. [slide_id={}]", status.getText(), dto.getSlideId());
 
-                con.commit();
+                    con.commit();
+                }catch(TwitterException e){
+                    if(e.getStatusCode() < 500) {
+                        logger.error("Unsuccessfully updated the status. Skipped. [slide_id={}]", dto.getSlideId(), e);
+                        con.commit();
+                    }else{
+                        throw e;
+                    }
+                }
             }
         }
     }
