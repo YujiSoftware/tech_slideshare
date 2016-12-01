@@ -111,7 +111,12 @@ public class Main {
             String content = metaTag.attr("content");
 
             if ("slideshare:name".equals(property)) {
-                return content;
+                String twitter = doc.select("div.profile-social-links > a.twitter").attr("href");
+                if (!twitter.equals("")) {
+                    return content + ", @" + twitter.substring(twitter.lastIndexOf('/') + 1);
+                } else {
+                    return content;
+                }
             }
         }
 
