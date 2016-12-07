@@ -3,6 +3,7 @@ package tech.slideshare.collector;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import tech.slideshare.collector.database.SlideDao;
@@ -98,6 +99,8 @@ public class Main {
         switch (url.getHost()) {
             case "www.slideshare.net":
                 return getAuthorFromSlideshare(link);
+            case "speakerdeck.com":
+                return getAuthorFromSpeakerDeck(link);
         }
 
         return null;
@@ -121,5 +124,12 @@ public class Main {
         }
 
         return null;
+    }
+
+    private static String getAuthorFromSpeakerDeck(String link) throws IOException, URISyntaxException {
+        Document doc = Jsoup.connect(new URI(link + "/../").normalize().toASCIIString()).get();
+        Elements h2 = doc.getElementsByTag("h2");
+
+        return (h2.size() > 0) ? h2.get(0).text() : null;
     }
 }
