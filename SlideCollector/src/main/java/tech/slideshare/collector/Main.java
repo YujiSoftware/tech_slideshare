@@ -74,15 +74,17 @@ public class Main {
                         .filter(i -> i.subject != null && i.subject.equals("テクノロジー"))
                         .forEach(item -> {
                             try {
+                                String title = item.title.replace(" // Speaker Deck", "");
                                 Date date = format.parse(item.date);
-                                if (slideDao.tryEnqueue(item.title, item.link, date)) {
+
+                                if (slideDao.tryEnqueue(title, item.link, date)) {
                                     String author = getAuthor(item.link);
                                     if (author != null) {
                                         slideDao.updateTitle(
                                                 item.link,
-                                                String.format("%s (%s)", item.title, author));
+                                                String.format("%s (%s)", title, author));
                                     }
-                                    logger.debug("Enqueue: {}, {}", item.title, item.link);
+                                    logger.debug("Enqueue: {}, {}", title, item.link);
                                 }
                             } catch (ParseException | SQLException | IOException | URISyntaxException e) {
                                 throw new RuntimeException(e);
