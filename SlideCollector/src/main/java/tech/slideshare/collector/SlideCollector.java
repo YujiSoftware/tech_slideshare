@@ -1,4 +1,11 @@
 package tech.slideshare.collector;
 
-public interface SlideCollector extends Iterable<Slide> {
+import tech.slideshare.collector.rss.Item;
+
+import javax.xml.bind.JAXBException;
+import java.net.MalformedURLException;
+import java.util.List;
+
+public interface SlideCollector {
+    public List<Slide> getSlides() throws JAXBException, MalformedURLException;
 }
