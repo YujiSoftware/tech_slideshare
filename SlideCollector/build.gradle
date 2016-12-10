@@ -1,7 +1,7 @@
 group 'tech.slideshare'
 version '1.0-SNAPSHOT'
 
-apply plugin: 'java'
+apply plugin: "kotlin"
 apply plugin: 'application'
 
 sourceCompatibility = 1.8
@@ -10,6 +10,16 @@ mainClassName = 'tech.slideshare.collector.Main'
 run {
     if (project.hasProperty('args')) {
         args project.args.split('\\s+')
+    }
+}
+
+buildscript {
+    ext.kotlin_version = '1.0.5'
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
     }
 }
 
@@ -29,6 +39,8 @@ dependencies {
 
     // https://mvnrepository.com/artifact/org.jsoup/jsoup
     compile group: 'org.jsoup', name: 'jsoup', version: '1.10.1'
+
+    compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 
     testCompile group: 'junit', name: 'junit', version: '4.11'
 }
