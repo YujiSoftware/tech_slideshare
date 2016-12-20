@@ -13,6 +13,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class HatenaBookmarkCollector implements SlideCollector {
     private final String url;
@@ -22,7 +23,7 @@ public class HatenaBookmarkCollector implements SlideCollector {
     }
 
     @Override
-    public List<Slide> getSlides() throws JAXBException, MalformedURLException {
+    public Stream<Slide> getSlides() throws JAXBException, MalformedURLException {
         JAXBContext context = JAXBContext.newInstance(Rss.class);
         Unmarshaller unmarshaller = context.createUnmarshaller();
         DateFormat format = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssX");
@@ -41,7 +42,6 @@ public class HatenaBookmarkCollector implements SlideCollector {
                     } catch (ParseException e) {
                         throw new RuntimeException(e);
                     }
-                })
-                .collect(Collectors.toList());
+                });
     }
 }

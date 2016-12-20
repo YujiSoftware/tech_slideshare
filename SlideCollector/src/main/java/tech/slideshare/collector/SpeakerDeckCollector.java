@@ -2,7 +2,7 @@ package tech.slideshare.collector;
 
 import javax.xml.bind.JAXBException;
 import java.net.MalformedURLException;
-import java.util.List;
+import java.util.stream.Stream;
 
 public class SpeakerDeckCollector extends HatenaBookmarkCollector {
 
@@ -11,10 +11,7 @@ public class SpeakerDeckCollector extends HatenaBookmarkCollector {
     }
 
     @Override
-    public List<Slide> getSlides() throws JAXBException, MalformedURLException {
-        List<Slide> slides = super.getSlides();
-        slides.forEach(s -> s.setTitle(s.getTitle().replace(" // Speaker Deck", "")));
-
-        return slides;
+    public Stream<Slide> getSlides() throws JAXBException, MalformedURLException {
+        return super.getSlides().peek(s -> s.setTitle(s.getTitle().replace(" // Speaker Deck", "")));
     }
 }

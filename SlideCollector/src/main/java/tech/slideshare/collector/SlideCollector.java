@@ -1,11 +1,9 @@
 package tech.slideshare.collector;
 
-import tech.slideshare.collector.rss.Item;
-
 import javax.xml.bind.JAXBException;
 import java.net.MalformedURLException;
-import java.util.List;
+import java.util.stream.Stream;
 
 public interface SlideCollector {
-    public List<Slide> getSlides() throws JAXBException, MalformedURLException;
+    public Stream<Slide> getSlides() throws JAXBException, MalformedURLException;
 }
