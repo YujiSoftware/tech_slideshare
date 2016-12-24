@@ -33,10 +33,8 @@ public class HatenaBookmarkCollector implements SlideCollector {
         return r.items.stream()
                 .filter(i -> i.subject != null && i.subject.equals("テクノロジー"))
                 .map(i -> {
-                    Date date = null;
-
                     try {
-                        date = format.parse(i.date);
+                        Date date = format.parse(i.date);
 
                         return new Slide(i.title, i.link, date, i.title);
                     } catch (ParseException e) {
