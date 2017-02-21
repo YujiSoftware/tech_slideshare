@@ -27,11 +27,12 @@ public class SlideDao extends AbstractDao {
         try (PreparedStatement pstmt = con.prepareStatement(sql)) {
             try (ResultSet rs = pstmt.executeQuery()) {
                 if (rs.next()) {
-                    SlideDto dto = new SlideDto();
-                    dto.setSlideId(rs.getInt("slide_id"));
-                    dto.setTitle(rs.getString("title"));
-                    dto.setUrl(rs.getString("url"));
-                    dto.setDate(rs.getDate("date"));
+                    SlideDto dto = new SlideDto(
+                            rs.getInt("slide_id"),
+                            rs.getString("title"),
+                            rs.getString("url"),
+                            rs.getDate("date")
+                    );
 
                     new TweetQueueDao(con).delete(dto.getSlideId());
 
