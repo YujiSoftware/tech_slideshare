@@ -12,7 +12,7 @@ public class TweetQueueDao extends AbstractDao {
 
     public boolean delete(int slideId) throws SQLException {
         String sql = "DELETE FROM tweet_queue WHERE slide_id = ?";
-        try (PreparedStatement pstmt = con.prepareStatement(sql)) {
+        try (PreparedStatement pstmt = getCon().prepareStatement(sql)) {
             pstmt.setInt(1, slideId);
 
             return pstmt.executeUpdate() > 0;

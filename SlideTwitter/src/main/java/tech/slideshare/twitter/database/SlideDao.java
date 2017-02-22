@@ -24,7 +24,7 @@ public class SlideDao extends AbstractDao {
                 "ORDER BY " +
                 "  s.date ASC " +
                 "LIMIT 1";
-        try (PreparedStatement pstmt = con.prepareStatement(sql)) {
+        try (PreparedStatement pstmt = getCon().prepareStatement(sql)) {
             try (ResultSet rs = pstmt.executeQuery()) {
                 if (rs.next()) {
                     SlideDto dto = new SlideDto(
@@ -34,7 +34,7 @@ public class SlideDao extends AbstractDao {
                             rs.getDate("date")
                     );
 
-                    new TweetQueueDao(con).delete(dto.getSlideId());
+                    new TweetQueueDao(getCon()).delete(dto.getSlideId());
 
                     return dto;
                 } else {
