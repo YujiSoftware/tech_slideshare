@@ -1,6 +1,8 @@
 Manifest-Version: 1.0
 Main-Class: tech.slideshare.twitter.Main
 Class-Path: lib/mysql-connector-java-5.1.6.jar lib/twitter4j-core-4.0.
- 3.jar lib/slf4j-api-1.7.21.jar lib/logback-classic-1.1.7.jar lib/logb
- ack-core-1.1.7.jar
+ 3.jar lib/slf4j-api-1.7.21.jar lib/logback-classic-1.1.7.jar lib/kotl
+ in-stdlib-1.0.5.jar lib/kotlinx-support-jdk8-0.3.jar lib/logback-core
+ -1.1.7.jar lib/kotlin-runtime-1.0.5.jar lib/kotlinx-support-jdk7-0.3.
+ jar
 
