@@ -1,8 +1,7 @@
 package tech.slideshare.twitter.database
 
+import kotlinx.support.jdk7.use
 import java.sql.Connection
-import java.sql.PreparedStatement
-import java.sql.ResultSet
 
 class SlideDao(con: Connection) : AbstractDao(con) {
 
@@ -20,29 +19,24 @@ class SlideDao(con: Connection) : AbstractDao(con) {
                 "  s.date ASC " +
                 "LIMIT 1"
 
-        var pstmt: PreparedStatement? = null
-        var rs: ResultSet? = null
-        try {
-            pstmt = con.prepareStatement(sql)
-            rs = pstmt.executeQuery()
+        con.prepareStatement(sql).use {
+            it.executeQuery().use {
 
-            if (rs.next()) {
-                val dto = SlideDto (
-                        rs.getInt("slide_id"),
-                        rs.getString("title"),
-                        rs.getString("url"),
-                        rs.getDate("date")
-                );
+                if (it.next()) {
+                    val dto = SlideDto(
+                            it.getInt("slide_id"),
+                            it.getString("title"),
+                            it.getString("url"),
+                            it.getDate("date")
+                    );
 
-                TweetQueueDao (con).delete(dto.slideId)
+                    TweetQueueDao(con).delete(dto.slideId)
 
-                return dto
-            } else {
-                return null
+                    return dto
+                } else {
+                    return null
+                }
             }
-        } finally {
-            pstmt?.close()
-            rs?.close()
         }
     }
 }
