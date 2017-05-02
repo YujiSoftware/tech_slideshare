@@ -7,6 +7,9 @@ apply plugin: 'application'
 sourceCompatibility = 1.8
 mainClassName = 'tech.slideshare.collector.Main'
 
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
 run {
     if (project.hasProperty('args')) {
         args project.args.split('\\s+')
