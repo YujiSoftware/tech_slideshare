@@ -32,7 +32,7 @@ object Main {
 
     private fun run(user: String, password: String) {
         DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password).use { con ->
-            con.setAutoCommit(false)
+            con.autoCommit = false
 
             SlideDao(con).dequeue()?.let {
                 try {
