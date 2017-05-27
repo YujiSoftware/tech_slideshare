@@ -34,6 +34,7 @@ public class Main {
                     "http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss",
                     "http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss",
                     "http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fdocs.com%2F&mode=rss",
+                    "http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fbackpaper0.github.io%2Fghosts%2F&mode=rss",
             };
 
     public static void main(String[] args) throws JAXBException, MalformedURLException, SQLException, ParseException {
@@ -76,7 +77,10 @@ public class Main {
                         .forEach(item -> {
                             try {
                                 String title = item.title.replace(" // Speaker Deck", "");
-                                String link = item.link.replace("http://www.slideshare.net/", "https://www.slideshare.net/");
+                                String link =
+                                    item.link
+                                        .replace("http://www.slideshare.net/", "https://www.slideshare.net/")
+                                        .replace("http://backpaper0.github.io/", "https://backpaper0.github.io/");
                                 Date date = format.parse(item.date);
 
                                 if (slideDao.tryEnqueue(title, link, date)) {
@@ -105,6 +109,8 @@ public class Main {
                 return getAuthorFromSlideshare(link);
             case "speakerdeck.com":
                 return getAuthorFromSpeakerDeck(link);
+            case "backpaper0.github.io":
+                return getAuthorFromBackpaper0(link);
         }
 
         return null;
@@ -135,5 +141,9 @@ public class Main {
         Elements h2 = doc.getElementsByTag("h2");
 
         return (h2.size() > 0) ? h2.get(0).text() : null;
+    }
+
+    private static String getAuthorFromBackpaper0(String link){
+        return "うらがみ, @backpaper0";
     }
 }
