@@ -1,9 +1,6 @@
 package tech.slideshare.collector.database;
 
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
-import java.sql.Timestamp;
+import java.sql.*;
 import java.util.Date;
 
 public class SlideDao extends AbstractDao {
@@ -45,6 +42,21 @@ public class SlideDao extends AbstractDao {
             pstmt.setString(2, url);
 
             pstmt.executeUpdate();
+        }
+    }
+
+    public boolean exists(String url) throws SQLException {
+        String sql = "SELECT EXISTS (SELECT * FROM slide WHERE url = ?)";
+        try(PreparedStatement pstmt = con.prepareStatement(sql)){
+            pstmt.setString(1, url);
+
+            if(pstmt.execute()){
+                try(ResultSet rs = pstmt.getResultSet()){
+                    return rs.getBoolean(1);
+                }
+            }else{
+                return false;
+            }
         }
     }
 }
