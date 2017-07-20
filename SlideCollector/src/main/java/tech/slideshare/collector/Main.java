@@ -74,6 +74,7 @@ public class Main {
                 r.items.stream()
                         .filter(i -> i.subject != null && i.subject.equals("テクノロジー"))
                         .filter(i -> !i.link.contains("://www.slideshare.net/slideshow/embed_code/"))
+                        .filter(i -> !i.link.contains("://speakerdeck.com/player/"))
                         .forEach(item -> {
                             try {
                                 String title = item.title.replace(" // Speaker Deck", "");
