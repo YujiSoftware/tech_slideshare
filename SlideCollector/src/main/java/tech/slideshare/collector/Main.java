@@ -128,7 +128,7 @@ public class Main {
             if ("slideshare:name".equals(property)) {
                 String twitter = doc.select("div.profile-social-links > a.twitter").attr("href");
                 if (!twitter.equals("")) {
-                    return content + ", @" + twitter.substring(twitter.lastIndexOf('/') + 1);
+                    return content + ", " + twitter.substring(twitter.lastIndexOf('/') + 1);
                 } else {
                     return content;
                 }
@@ -146,6 +146,6 @@ public class Main {
     }
 
     private static String getAuthorFromBackpaper0(String link){
-        return "うらがみ, @backpaper0";
+        return "うらがみ, backpaper0";
     }
 }
