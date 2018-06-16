@@ -76,11 +76,13 @@ public class Main {
                         .filter(i -> !i.link.contains("://speakerdeck.com/player/"))
                         .forEach(item -> {
                             try {
-                                String title = item.title.replace(" // Speaker Deck", "");
+                                String title = item.title.replace(" - Speaker Deck", "");
                                 String link =
                                     item.link
                                         .replace("http://www.slideshare.net/", "https://www.slideshare.net/")
-                                        .replace("http://backpaper0.github.io/", "https://backpaper0.github.io/");
+                                        .replace("http://backpaper0.github.io/", "https://backpaper0.github.io/")
+                                        .replaceAll("\\?slide=\\d+", "")
+                                        .replaceAll("#.*$", "");;
                                 Date date = format.parse(item.date);
 
                                 if (slideDao.tryEnqueue(title, link, date)) {
@@ -138,9 +140,9 @@ public class Main {
 
     private static String getAuthorFromSpeakerDeck(String link) throws IOException, URISyntaxException {
         Document doc = Jsoup.connect(new URI(link + "/../").normalize().toASCIIString()).get();
-        Elements h2 = doc.getElementsByTag("h2");
+        Elements header = doc.getElementsByTag("h1");
 
-        return (h2.size() > 0) ? h2.get(0).text() : null;
+        return (header.size() > 0) ? header.get(0).text() : null;
     }
 
     private static String getAuthorFromBackpaper0(String link){
