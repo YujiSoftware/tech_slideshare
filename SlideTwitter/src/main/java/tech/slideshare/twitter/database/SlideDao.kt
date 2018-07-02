@@ -16,7 +16,7 @@ class SlideDao(con: Connection) : AbstractDao(con) {
                 "  INNER JOIN tweet_queue tq " +
                 "  USING (slide_id) " +
                 "ORDER BY " +
-                "  s.date ASC " +
+                "  s.date DESC " +
                 "LIMIT 1"
 
         con.prepareStatement(sql).use {
