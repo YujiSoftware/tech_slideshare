@@ -75,14 +75,15 @@ public class Main {
                         .filter(i -> !i.link.contains("://www.slideshare.net/slideshow/embed_code/"))
                         .filter(i -> !i.link.contains("://speakerdeck.com/player/"))
                         .forEach(item -> {
+                            String title = item.title.replace(" - Speaker Deck", "");
+                            String link =
+                                item.link
+                                    .replace("http://www.slideshare.net/", "https://www.slideshare.net/")
+                                    .replace("http://backpaper0.github.io/", "https://backpaper0.github.io/")
+                                    .replaceAll("\\?slide=\\d+", "")
+                                    .replaceAll("#.*$", "");
+
                             try {
-                                String title = item.title.replace(" - Speaker Deck", "");
-                                String link =
-                                    item.link
-                                        .replace("http://www.slideshare.net/", "https://www.slideshare.net/")
-                                        .replace("http://backpaper0.github.io/", "https://backpaper0.github.io/")
-                                        .replaceAll("\\?slide=\\d+", "")
-                                        .replaceAll("#.*$", "");;
                                 Date date = format.parse(item.date);
 
                                 if (slideDao.tryEnqueue(title, link, date)) {
@@ -94,12 +95,19 @@ public class Main {
                                     }
                                     logger.debug("Enqueue: {}, {}", title, link);
                                 }
+
+                                con.commit();
                             } catch (ParseException | SQLException | IOException | URISyntaxException e) {
-                                throw new RuntimeException(e);
+                                logger.error("Enqueue failed. [title={}, link={}]", title, link);
+
+                                try {
+                                    con.rollback();
+                                }catch(SQLException ex){
+                                    throw new RuntimeException(ex);
+                                }
                             }
                         });
 
-                con.commit();
             }
         }
     }
