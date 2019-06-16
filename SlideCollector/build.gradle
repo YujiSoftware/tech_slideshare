@@ -43,6 +43,18 @@ dependencies {
     // https://mvnrepository.com/artifact/org.jsoup/jsoup
     compile group: 'org.jsoup', name: 'jsoup', version: '1.10.1'
 
+    // https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api
+    compile group: 'javax.xml.bind', name: 'jaxb-api', version: '2.3.0'
+
+    // https://mvnrepository.com/artifact/com.sun.xml.bind/jaxb-core
+    compile group: 'com.sun.xml.bind', name: 'jaxb-core', version: '2.3.0'
+
+    // https://mvnrepository.com/artifact/com.sun.xml.bind/jaxb-impl
+    compile group: 'com.sun.xml.bind', name: 'jaxb-impl', version: '2.3.0'
+
+    // https://mvnrepository.com/artifact/com.sun.activation/javax.activation
+    compile group: 'com.sun.activation', name: 'javax.activation', version: '1.2.0'
+
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 
     testCompile group: 'junit', name: 'junit', version: '4.11'
