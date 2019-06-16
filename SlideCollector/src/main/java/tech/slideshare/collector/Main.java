@@ -31,9 +31,9 @@ public class Main {
 
     private static final String[] HATENA_BOOKMARK_LIST =
             new String[]{
-                    "http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss",
-                    "http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss",
-                    "http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fbackpaper0.github.io%2Fghosts%2F&mode=rss",
+                    "https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss",
+                    "https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss",
+                    "https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fbackpaper0.github.io%2Fghosts%2F&mode=rss",
             };
 
     public static void main(String[] args) throws JAXBException, MalformedURLException, SQLException, ParseException {
@@ -74,6 +74,8 @@ public class Main {
                         .filter(i -> i.subject != null && i.subject.equals("テクノロジー"))
                         .filter(i -> !i.link.contains("://www.slideshare.net/slideshow/embed_code/"))
                         .filter(i -> !i.link.contains("://speakerdeck.com/player/"))
+                        .filter(i -> !i.title.contains("film") && !i.title.contains("Film") && !i.title.contains("!VAR4") && !i.title.contains("4KTUBE-HD"))
+                        .filter(i -> i.link.split("/").length > 4)  // https://speakerdeck.com/katzmanncatarina71 のようなユーザページを含まないための対応
                         .forEach(item -> {
                             String title = item.title.replace(" - Speaker Deck", "");
                             String link =
