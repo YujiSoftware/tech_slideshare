@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Main-Class: tech.slideshare.collector.Main
-Class-Path: lib/mysql-connector-java-5.1.6.jar lib/slf4j-api-1.7.21.ja
- r lib/logback-classic-1.1.7.jar lib/jsoup-1.10.1.jar lib/jaxb-api-2.3
- .0.jar lib/jaxb-core-2.3.0.jar lib/jaxb-impl-2.3.0.jar lib/javax.acti
- vation-1.2.0.jar lib/kotlin-stdlib-1.0.5.jar lib/logback-core-1.1.7.j
- ar lib/kotlin-runtime-1.0.5.jar
+Class-Path: lib/mysql-connector-java-5.1.47.jar lib/slf4j-api-1.7.21.j
+ ar lib/logback-classic-1.1.7.jar lib/jsoup-1.10.1.jar lib/jaxb-api-2.
+ 3.0.jar lib/jaxb-core-2.3.0.jar lib/jaxb-impl-2.3.0.jar lib/javax.act
+ ivation-1.2.0.jar lib/kotlin-stdlib-1.0.5.jar lib/logback-core-1.1.7.
+ jar lib/kotlin-runtime-1.0.5.jar
 
