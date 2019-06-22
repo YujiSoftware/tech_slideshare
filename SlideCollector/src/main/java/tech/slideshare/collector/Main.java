@@ -100,7 +100,7 @@ public class Main {
 
                                 con.commit();
                             } catch (ParseException | SQLException | IOException | URISyntaxException e) {
-                                logger.error("Enqueue failed. [title={}, link={}]", title, link);
+                                logger.error("Enqueue failed. [title={}, link={}]", title, link, e);
 
                                 try {
                                     con.rollback();
