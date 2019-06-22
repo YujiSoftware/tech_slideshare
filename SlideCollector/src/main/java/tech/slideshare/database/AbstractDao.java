@@ -1,4 +1,4 @@
-package tech.slideshare.collector.database;
+package tech.slideshare.database;
 
 import java.sql.Connection;
 import java.util.Objects;

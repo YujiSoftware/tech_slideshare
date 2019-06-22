@@ -1,17 +1,41 @@
 package tech.slideshare.collector;
 
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.select.Elements;
+import tech.slideshare.rss.HatenaBookmark;
+
 import javax.xml.bind.JAXBException;
+import java.io.IOException;
 import java.net.MalformedURLException;
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.util.Optional;
 import java.util.stream.Stream;
 
-public class SpeakerDeckCollector extends HatenaBookmarkCollector {
+public class SpeakerDeckCollector implements SlideCollector {
 
-    public SpeakerDeckCollector() {
-        super("http://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss");
-    }
+    private HatenaBookmark collector
+            = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss");
 
     @Override
-    public Stream<Slide> getSlides() throws JAXBException, MalformedURLException {
-        return super.getSlides().peek(s -> s.setTitle(s.getTitle().replace(" // Speaker Deck", "")));
+    public Stream<Slide> collect() throws JAXBException, MalformedURLException {
+        return collector.get()
+                .filter(i -> !i.link.contains("://speakerdeck.com/player/"))
+                .filter(i -> i.link.split("/").length > 4)  // https://speakerdeck.com/katzmanncatarina71 のようなユーザページを含まないための対応
+                .peek(i -> i.link = i.link.replaceAll("\\?slide=\\d+", ""))
+                .peek(i -> i.title = i.title.replaceAll(" - Speaker Deck", ""))
+                .map(i -> new Slide(i, () -> getAuthor(i.link)));
+    }
+
+    private static Optional<String> getAuthor(String link) {
+        try {
+            Document doc = Jsoup.connect(new URI(link + "/../").normalize().toASCIIString()).get();
+            Elements header = doc.getElementsByTag("h1");
+
+            return (header.size() > 0) ? Optional.of(header.get(0).text()) : Optional.empty();
+        } catch (IOException | URISyntaxException e) {
+            return Optional.empty();
+        }
     }
 }

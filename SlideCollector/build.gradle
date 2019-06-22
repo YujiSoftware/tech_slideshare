@@ -5,7 +5,7 @@ apply plugin: "kotlin"
 apply plugin: 'application'
 
 sourceCompatibility = 1.8
-mainClassName = 'tech.slideshare.collector.Main'
+mainClassName = 'tech.slideshare.Main'
 
 tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
@@ -43,6 +43,8 @@ dependencies {
     // https://mvnrepository.com/artifact/org.jsoup/jsoup
     compile group: 'org.jsoup', name: 'jsoup', version: '1.10.1'
 
+    compile group: 'name.falgout.jeffrey', name: 'throwing-streams', version: '3.2.0'
+
     // https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api
     compile group: 'javax.xml.bind', name: 'jaxb-api', version: '2.3.0'
 
@@ -62,13 +64,13 @@ dependencies {
 
 jar {
     manifest {
-        attributes (
-                "Main-Class" : mainClassName,
+        attributes(
+                "Main-Class": mainClassName,
                 "Class-Path": configurations.compile.collect { "lib/" + it.getName() }.join(' '))
     }
 }
 
-task copyLib(type: Copy){
+task copyLib(type: Copy) {
     from configurations.compile
     into 'build/libs/lib'
 }

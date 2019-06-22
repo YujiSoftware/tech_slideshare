@@ -1,4 +1,4 @@
-package tech.slideshare.collector.rss;
+package tech.slideshare.rss;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
@@ -13,5 +13,5 @@ public class Rss {
     public Channel channel;
 
     @XmlElement(name = "item", namespace = "http://purl.org/rss/1.0/")
-    public ArrayList<Item> items = new ArrayList<Item>();
+    public ArrayList<Item> items = new ArrayList<>();
 }
