@@ -29,6 +29,7 @@ public class SlideShareCollector implements SlideCollector {
                 .filter(i -> !i.title.contains("4KTUBE-HD"))
                 .filter(i -> !i.link.contains("/embed_code/"))
                 .peek(i -> i.link = i.link.replaceAll("/mobile/", "/"))
+                .filter(i -> i.link.split("/").length > 4)  // https://www.slideshare.net/ConsommeDoping のようなユーザページを含まないための対応
                 .map(i -> new Slide(i, () -> getAuthor(i.link)));
     }
 
