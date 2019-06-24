@@ -3,10 +3,7 @@ package tech.slideshare;
 import name.falgout.jeffrey.throwing.stream.ThrowingStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import tech.slideshare.collector.Backpaper0Collector;
-import tech.slideshare.collector.SlideCollector;
-import tech.slideshare.collector.SlideShareCollector;
-import tech.slideshare.collector.SpeakerDeckCollector;
+import tech.slideshare.collector.*;
 import tech.slideshare.database.SlideDao;
 import tech.slideshare.database.TweetQueueDao;
 
@@ -24,6 +21,7 @@ public class Main {
             new SlideCollector[]{
                     new SlideShareCollector(),
                     new SpeakerDeckCollector(),
+                    new GoogleSlideCollector(),
                     new Backpaper0Collector()
             };
 
