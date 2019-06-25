@@ -4,6 +4,7 @@ import name.falgout.jeffrey.throwing.stream.ThrowingStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import tech.slideshare.collector.*;
+import tech.slideshare.common.CharUtilities;
 import tech.slideshare.database.SlideDao;
 import tech.slideshare.database.TweetQueueDao;
 
@@ -60,7 +61,10 @@ public class Main {
                             return;
                         }
 
-                        String title = s.getTitle();
+                        // タイトルにスパムURLが付与されている可能性があるため、
+                        // ドットの後に不可視文字を入れてリンクにならないようにする。
+                        String title = s.getTitle().replaceAll("\\.", "\\." + CharUtilities.ZERO_WIDTH_SPACE);
+
                         if (s.getAuthor().isPresent()) {
                             title += " (" + s.getAuthor().get() + ")";
                         }

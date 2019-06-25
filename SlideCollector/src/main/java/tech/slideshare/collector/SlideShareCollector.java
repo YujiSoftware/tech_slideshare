@@ -3,6 +3,7 @@ package tech.slideshare.collector;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import tech.slideshare.common.CharUtilities;
 import tech.slideshare.rss.HatenaBookmark;
 
 import javax.xml.bind.JAXBException;
@@ -14,8 +15,6 @@ import java.util.Optional;
 import java.util.stream.Stream;
 
 public class SlideShareCollector implements SlideCollector {
-
-    private static final String ZERO_WIDTH_SPACE = "\u200B";
 
     private HatenaBookmark collector
             = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss");
@@ -45,7 +44,7 @@ public class SlideShareCollector implements SlideCollector {
                     String twitter = doc.select("div.profile-social-links > a.twitter").attr("href");
                     if (!twitter.equals("")) {
                         // 通知を送るとうざがられてしまうので、@ の後ろにゼロ幅スペースを入れてメンションにならないようにする
-                        return Optional.of(content + ", @" + ZERO_WIDTH_SPACE + twitter.substring(twitter.lastIndexOf('/') + 1));
+                        return Optional.of(content + ", @" + CharUtilities.ZERO_WIDTH_SPACE + twitter.substring(twitter.lastIndexOf('/') + 1));
                     } else {
                         return Optional.of(content);
                     }
