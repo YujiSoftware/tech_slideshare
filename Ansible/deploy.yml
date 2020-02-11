@@ -1,0 +1,19 @@
+- hosts: tech_slideshare
+  tasks:
+    - name: Deploy jar
+      copy:
+       src: ..
+       dest: ~/tech_slideshare
+
+    - cron:
+        name: SlideCollector
+        minute: 3
+        job: "cd ~/tech_slideshare/SlideCollector; java -Dlogback.configurationFile=./logback.xml -jar SlideCollector-1.0-SNAPSHOT.jar root mysql"
+        state: present
+
+    - cron:
+        name: SlideTwitter
+        minute: 3,33
+        hour: 8-23
+        job: "cd ~/tech_slideshare/SlideTwitter; java -Dlogback.configurationFile=./logback.xml -Dtwitter4j.oauth.consumerKey={{ consumer_key }} -Dtwitter4j.oauth.consumerSecret={{ consumer_secret }} -Dtwitter4j.oauth.accessToken={{ access_token }} -Dtwitter4j.oauth.accessTokenSecret={{ access_token_secret }} -jar SlideTwitter-1.0-SNAPSHOT.jar root mysql"
+        state: present

@@ -1,9 +1,0 @@
-- hosts: localhost
-  connection: local
-  tasks:
-    - name: install packages from apt-get
-      apt: name={{item}} state=present update_cache=yes
-      with_items:
-        - oracle-java8-jdk
-        - mysql-server
-

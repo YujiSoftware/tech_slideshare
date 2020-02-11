@@ -1,0 +1,36 @@
+- hosts: tech_slideshare
+
+  vars_prompt:
+    - name: "mackerel_api_key"
+      prompt: "Please enter Mackerel API key"
+      private: no
+
+  tasks:
+    - name: Install packages from apt-get
+      apt: 
+        name: "{{ item }}"
+        state: present
+        update_cache: yes
+      become: yes
+      with_items:
+        - openjdk-11-jdk
+        - mariadb-server
+
+    - name: Install mackerel-agent.deb
+      apt:
+        deb: https://mackerel.io/file/agent/deb/mackerel-agent_latest.all.deb
+      become: yes
+      notify: Restart mackerel-agent
+      
+    - name: Setup mackerel-agent API key
+      blockinfile:
+        dest: /etc/mackerel-agent/mackerel-agent.conf
+        content: "apikey = \"{{ mackerel_api_key }}\""
+      become: yes
+
+  handlers:
+    - name: Restart mackerel-agent
+      systemd: 
+        name: mackerel-agent
+        state: restarted
+      become: yes
