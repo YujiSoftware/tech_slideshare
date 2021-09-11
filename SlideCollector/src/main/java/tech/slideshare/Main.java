@@ -8,7 +8,7 @@ import tech.slideshare.common.CharUtilities;
 import tech.slideshare.database.SlideDao;
 import tech.slideshare.database.TweetQueueDao;
 
-import javax.xml.bind.JAXBException;
+import jakarta.xml.bind.JAXBException;
 import java.net.MalformedURLException;
 import java.sql.Connection;
 import java.sql.DriverManager;

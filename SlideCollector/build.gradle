@@ -18,13 +18,10 @@ dependencies {
     implementation group: 'name.falgout.jeffrey', name: 'throwing-streams', version: '3.2.0'
 
     // https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api
-    implementation group: 'javax.xml.bind', name: 'jaxb-api', version: '2.3.0'
-
-    // https://mvnrepository.com/artifact/com.sun.xml.bind/jaxb-core
-    implementation group: 'com.sun.xml.bind', name: 'jaxb-core', version: '2.3.0'
+    implementation group: 'jakarta.xml.bind', name: 'jakarta.xml.bind-api', version: '3.0.0'
 
     // https://mvnrepository.com/artifact/com.sun.xml.bind/jaxb-impl
-    implementation group: 'com.sun.xml.bind', name: 'jaxb-impl', version: '2.3.0'
+    runtimeOnly group: 'com.sun.xml.bind', name: 'jaxb-impl', version: '3.0.0'
 
     // https://mvnrepository.com/artifact/com.sun.activation/javax.activation
     implementation group: 'com.sun.activation', name: 'javax.activation', version: '1.2.0'

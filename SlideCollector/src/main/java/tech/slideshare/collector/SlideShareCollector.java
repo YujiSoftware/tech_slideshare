@@ -6,7 +6,7 @@ import org.jsoup.nodes.Element;
 import tech.slideshare.common.CharUtilities;
 import tech.slideshare.rss.HatenaBookmark;
 
-import javax.xml.bind.JAXBException;
+import jakarta.xml.bind.JAXBException;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URI;

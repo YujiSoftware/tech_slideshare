@@ -2,7 +2,7 @@ package tech.slideshare.collector;
 
 import tech.slideshare.rss.HatenaBookmark;
 
-import javax.xml.bind.JAXBException;
+import jakarta.xml.bind.JAXBException;
 import java.net.MalformedURLException;
 import java.util.Optional;
 import java.util.stream.Stream;

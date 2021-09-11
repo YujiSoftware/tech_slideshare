@@ -1,6 +1,6 @@
 package tech.slideshare.collector;
 
-import javax.xml.bind.JAXBException;
+import jakarta.xml.bind.JAXBException;
 import java.net.MalformedURLException;
 import java.util.stream.Stream;
 
