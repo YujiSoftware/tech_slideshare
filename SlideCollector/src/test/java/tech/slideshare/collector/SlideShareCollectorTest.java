@@ -2,6 +2,8 @@ package tech.slideshare.collector;
 
 import jakarta.xml.bind.JAXBException;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.MethodSource;
 import tech.slideshare.rss.Item;
 
 import java.net.MalformedURLException;
@@ -53,5 +55,59 @@ public class SlideShareCollectorTest {
 
         Slide slide = slides.get(0);
         assertEquals(Optional.empty(), slide.getAuthor());
+    }
+
+    @Test
+    public void presentation以外を除外() throws MalformedURLException, JAXBException {
+        var item = new Item();
+        item.title = "YujiSoftware | SlideShare";
+        item.link = "https://www.slideshare.net/YujiSoftware";
+
+        var collector = new SlideShareCollector(() -> Stream.of(item));
+
+        List<Slide> slides = collector.collect().collect(Collectors.toList());
+        assertEquals(0, slides.size());
+    }
+
+    static List<Object[]> spam() {
+        return List.of(
+                new Object[]{
+                        "[4KTUBE-HD]™ Ben Is Back Stream German Ben Is Back Stream",
+                        "https://www.slideshare.net/imoneyjon/4ktubehd-ben-is-back-stream-german-ben-is-back-stream-122889509"
+                },
+                new Object[]{
+                        "Sehen Complete Stream Deutsch HD Aquaman 2018 - Siegen CineStar - Kin…",
+                        "https://www.slideshare.net/desirait1988ixx1/sehen-complete-stream-deutsch-hd-aquaman-2018-siegen-cinestar-kinoprogramm-und-var4-123099787"
+                }
+        );
+    }
+
+    @ParameterizedTest
+    @MethodSource("spam")
+    public void スパムを除外(String title, String link) throws MalformedURLException, JAXBException {
+        var item = new Item();
+        item.title = title;
+        item.link = link;
+
+        var collector = new SlideShareCollector(() -> Stream.of(item));
+
+        List<Slide> slides = collector.collect().collect(Collectors.toList());
+        assertEquals(0, slides.size());
+    }
+
+    @Test
+    public void embedを正規化() throws MalformedURLException, JAXBException {
+        var item = new Item();
+        item.title = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc";
+        item.link = "https://www.slideshare.net/slideshow/embed_code/key/7gOoDv2qMSirPN";
+        item.description = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc 1. Java 9 で 文字列結合の 処理が変わるぞ！ 準備はいいか！？ @YujiSoftware 2. 問題 • ＋演算子による文字列結合は最終的に どのような処理になる？ private static String test(String str, int value) { return \"ABC” + str + value; } 3...";
+        item.date = "2017-11-18T12:44:04Z";
+        item.subject = "テクノロジー";
+
+        var collector = new SlideShareCollector(() -> Stream.of(item));
+
+        // TODO: canonicalリンクをたどって、正規化したURLを取得
+        List<Slide> slides = collector.collect().collect(Collectors.toList());
+        assertEquals(0, slides.size());
     }
 }

@@ -30,7 +30,7 @@ public class SlideShareCollector implements SlideCollector {
         return bookmark.get()
                 .filter(i -> !i.title.contains("film"))
                 .filter(i -> !i.title.contains("Film"))
-                .filter(i -> !i.title.contains("!VAR4"))
+                .filter(i -> !i.link.contains("-var4-"))
                 .filter(i -> !i.title.contains("4KTUBE-HD"))
                 .filter(i -> !i.link.contains("/embed_code/"))
                 .peek(i -> i.link = i.link.replaceAll("/mobile/", "/"))
