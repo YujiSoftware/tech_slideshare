@@ -6,5 +6,5 @@ import java.net.MalformedURLException;
 import java.util.stream.Stream;
 
 public interface Bookmark {
-    Stream<Item> getTechnology() throws JAXBException, MalformedURLException;
+    Stream<Item> get() throws JAXBException, MalformedURLException;
 }

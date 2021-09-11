@@ -1,8 +1,8 @@
 package tech.slideshare.collector;
 
+import jakarta.xml.bind.JAXBException;
 import tech.slideshare.rss.HatenaBookmark;
 
-import jakarta.xml.bind.JAXBException;
 import java.net.MalformedURLException;
 import java.util.Optional;
 import java.util.stream.Stream;
@@ -14,7 +14,7 @@ public class Backpaper0Collector implements SlideCollector {
 
     @Override
     public Stream<Slide> collect() throws JAXBException, MalformedURLException {
-        return collector.getTechnology()
+        return collector.get()
                 .peek(i -> i.link = i.link.replaceAll("#.*$", ""))
                 .map(i -> new Slide(i, () -> Optional.of("うらがみ, @\u200Bbackpaper0")));
     }

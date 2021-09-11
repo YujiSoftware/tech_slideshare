@@ -1,8 +1,8 @@
 package tech.slideshare.collector;
 
+import jakarta.xml.bind.JAXBException;
 import tech.slideshare.rss.HatenaBookmark;
 
-import jakarta.xml.bind.JAXBException;
 import java.net.MalformedURLException;
 import java.util.Optional;
 import java.util.stream.Stream;
@@ -14,7 +14,7 @@ public class GoogleSlideCollector implements SlideCollector {
 
     @Override
     public Stream<Slide> collect() throws JAXBException, MalformedURLException {
-        return collector.getTechnology()
+        return collector.get()
                 .filter(i -> !i.title.equals("Google スライド - オンラインでプレゼンテーションを作成/編集できる無料サービスです"))
                 .peek(i -> i.link = i.link.replaceAll("\\?.*", ""))
                 .peek(i -> i.link = i.link.replaceAll("#.*", ""))

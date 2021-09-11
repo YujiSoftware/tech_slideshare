@@ -27,7 +27,7 @@ public class SlideShareCollector implements SlideCollector {
 
     @Override
     public Stream<Slide> collect() throws JAXBException, MalformedURLException {
-        return bookmark.getTechnology()
+        return bookmark.get()
                 .filter(i -> !i.title.contains("film"))
                 .filter(i -> !i.title.contains("Film"))
                 .filter(i -> !i.title.contains("!VAR4"))

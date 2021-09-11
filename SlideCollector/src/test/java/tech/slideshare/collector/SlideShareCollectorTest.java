@@ -2,7 +2,6 @@ package tech.slideshare.collector;
 
 import jakarta.xml.bind.JAXBException;
 import org.junit.jupiter.api.Test;
-import tech.slideshare.rss.Bookmark;
 import tech.slideshare.rss.Item;
 
 import java.net.MalformedURLException;
@@ -26,12 +25,7 @@ public class SlideShareCollectorTest {
         item.date = "2017-11-18T12:44:04Z";
         item.subject = "テクノロジー";    // TODO: 複数あるみたい
 
-        var collector = new SlideShareCollector(new Bookmark() {
-            @Override
-            public Stream<Item> getTechnology() {
-                return Stream.of(item);
-            }
-        });
+        var collector = new SlideShareCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());
@@ -52,12 +46,7 @@ public class SlideShareCollectorTest {
         item.date = "2021-09-04T06:53:05Z";
         item.subject = "テクノロジー";
 
-        var collector = new SlideShareCollector(new Bookmark() {
-            @Override
-            public Stream<Item> getTechnology() {
-                return Stream.of(item);
-            }
-        });
+        var collector = new SlideShareCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());
