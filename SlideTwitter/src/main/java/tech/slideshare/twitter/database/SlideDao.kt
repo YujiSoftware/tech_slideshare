@@ -18,22 +18,22 @@ class SlideDao(con: Connection) : AbstractDao(con) {
                 "  s.date DESC " +
                 "LIMIT 1"
 
-        con.prepareStatement(sql).use {
+        con.prepareStatement(sql).use { it ->
             it.executeQuery().use {
 
-                if (it.next()) {
+                return if (it.next()) {
                     val dto = SlideDto(
-                            it.getInt("slide_id"),
-                            it.getString("title"),
-                            it.getString("url"),
-                            it.getDate("date")
-                    );
+                        it.getInt("slide_id"),
+                        it.getString("title"),
+                        it.getString("url"),
+                        it.getDate("date")
+                    )
 
                     TweetQueueDao(con).delete(dto.slideId)
 
-                    return dto
+                    dto
                 } else {
-                    return null
+                    null
                 }
             }
         }

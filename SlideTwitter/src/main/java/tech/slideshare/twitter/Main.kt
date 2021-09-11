@@ -5,6 +5,7 @@ import tech.slideshare.twitter.database.SlideDao
 import twitter4j.TwitterException
 import twitter4j.TwitterFactory
 import java.sql.DriverManager
+import kotlin.system.exitProcess
 
 object Main {
 
@@ -26,7 +27,7 @@ object Main {
 
         logger.info("End {}", Main.javaClass.toString())
 
-        System.exit(exitCode)
+        exitProcess(exitCode)
     }
 
     private fun run(user: String, password: String) {
