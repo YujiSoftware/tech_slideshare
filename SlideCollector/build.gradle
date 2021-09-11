@@ -23,8 +23,5 @@ dependencies {
     // https://mvnrepository.com/artifact/com.sun.xml.bind/jaxb-impl
     runtimeOnly group: 'com.sun.xml.bind', name: 'jaxb-impl', version: '3.0.0'
 
-    // https://mvnrepository.com/artifact/com.sun.activation/javax.activation
-    implementation group: 'com.sun.activation', name: 'javax.activation', version: '1.2.0'
-
     testImplementation group: 'junit', name: 'junit', version: '4.11'
 }
