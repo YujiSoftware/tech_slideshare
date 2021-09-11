@@ -1,6 +1,5 @@
 package tech.slideshare.twitter.database
 
-import kotlinx.support.jdk7.use
 import java.sql.Connection
 
 class TweetQueueDao(con: Connection) : AbstractDao(con) {

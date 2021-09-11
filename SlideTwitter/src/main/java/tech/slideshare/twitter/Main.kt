@@ -1,6 +1,5 @@
 package tech.slideshare.twitter
 
-import kotlinx.support.jdk7.use
 import org.slf4j.LoggerFactory
 import tech.slideshare.twitter.database.SlideDao
 import twitter4j.TwitterException

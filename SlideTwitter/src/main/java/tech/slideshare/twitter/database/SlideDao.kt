@@ -1,6 +1,5 @@
 package tech.slideshare.twitter.database
 
-import kotlinx.support.jdk7.use
 import java.sql.Connection
 
 class SlideDao(con: Connection) : AbstractDao(con) {
