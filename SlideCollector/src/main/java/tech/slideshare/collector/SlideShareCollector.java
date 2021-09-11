@@ -1,27 +1,33 @@
 package tech.slideshare.collector;
 
+import jakarta.xml.bind.JAXBException;
 import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import tech.slideshare.common.CharUtilities;
+import tech.slideshare.rss.Bookmark;
 import tech.slideshare.rss.HatenaBookmark;
 
-import jakarta.xml.bind.JAXBException;
 import java.io.IOException;
 import java.net.MalformedURLException;
-import java.net.URI;
-import java.net.URISyntaxException;
 import java.util.Optional;
 import java.util.stream.Stream;
 
 public class SlideShareCollector implements SlideCollector {
 
-    private final HatenaBookmark collector
-            = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss");
+    public static final String USER_AGENT
+            = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0";
+
+    private final Bookmark bookmark;
+
+    public SlideShareCollector() {
+        bookmark = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss");
+    }
+
+    public SlideShareCollector(Bookmark bookmark) {
+        this.bookmark = bookmark;
+    }
 
     @Override
     public Stream<Slide> collect() throws JAXBException, MalformedURLException {
-        return collector.getTechnology()
+        return bookmark.getTechnology()
                 .filter(i -> !i.title.contains("film"))
                 .filter(i -> !i.title.contains("Film"))
                 .filter(i -> !i.title.contains("!VAR4"))
@@ -34,25 +40,30 @@ public class SlideShareCollector implements SlideCollector {
 
     private static Optional<String> getAuthor(String link) {
         try {
-            Document doc = Jsoup.connect(new URI(link + "/../").normalize().toASCIIString()).get();
-
-            for (Element metaTag : doc.getElementsByTag("meta")) {
-                String property = metaTag.attr("property");
-                String content = metaTag.attr("content");
-
-                if ("slideshare:name".equals(property)) {
-                    String twitter = doc.select("div.profile-social-links > a.twitter").attr("href");
-                    if (!twitter.equals("")) {
-                        // 通知を送るとうざがられてしまうので、@ の後ろにゼロ幅スペースを入れてメンションにならないようにする
-                        return Optional.of(content + ", @" + CharUtilities.ZERO_WIDTH_SPACE + twitter.substring(twitter.lastIndexOf('/') + 1));
-                    } else {
-                        return Optional.of(content);
-                    }
-                }
+            // SlideShare はデフォルトでモバイル用のページを返してくるので、
+            // 明示的にPC用のユーザエージェントを設定する必要がある
+            Optional<String> author = Jsoup.connect(link).userAgent(USER_AGENT).get()
+                    .getElementsByTag("meta")
+                    .stream()
+                    .filter(e -> e.attr("name").equals("slideshow_author"))
+                    .findFirst()
+                    .map(e -> e.attr("content"));
+            if (author.isEmpty()) {
+                return Optional.empty();
             }
 
-            return Optional.empty();
-        } catch (IOException | URISyntaxException e) {
+            return Jsoup.connect(author.get()).userAgent(USER_AGENT).get()
+                    .getElementsByTag("a")
+                    .stream()
+                    .filter(e -> e.classNames().contains("twitter"))
+                    .findFirst()
+                    .map(e -> e.attr("href"))
+                    .map(t -> {
+                        String[] paths = t.split("/");
+
+                        return paths[paths.length - 1];
+                    });
+        } catch (IOException e) {
             return Optional.empty();
         }
     }

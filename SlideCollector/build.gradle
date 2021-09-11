@@ -23,5 +23,5 @@ dependencies {
     // https://mvnrepository.com/artifact/com.sun.xml.bind/jaxb-impl
     runtimeOnly group: 'com.sun.xml.bind', name: 'jaxb-impl', version: '3.0.0'
 
-    testImplementation group: 'junit', name: 'junit', version: '4.11'
+    testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter', version: '5.7.0'
 }

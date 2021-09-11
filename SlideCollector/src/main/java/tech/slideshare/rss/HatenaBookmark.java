@@ -7,7 +7,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.stream.Stream;
 
-public class HatenaBookmark {
+public class HatenaBookmark implements Bookmark {
 
     private final String url;
 
