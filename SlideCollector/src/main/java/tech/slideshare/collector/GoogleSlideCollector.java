@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 
 public class GoogleSlideCollector implements SlideCollector {
 
-    private HatenaBookmark collector
+    private final HatenaBookmark collector
             = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=docs.google.com/presentation&mode=rss");
 
     @Override

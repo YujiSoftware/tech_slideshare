@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 
 public class Backpaper0Collector implements SlideCollector {
 
-    private HatenaBookmark collector
+    private final HatenaBookmark collector
             = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fbackpaper0.github.io%2Fghosts%2F&mode=rss");
 
     @Override

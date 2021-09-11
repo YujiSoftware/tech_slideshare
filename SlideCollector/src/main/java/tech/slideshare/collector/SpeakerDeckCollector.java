@@ -15,7 +15,7 @@ import java.util.stream.Stream;
 
 public class SpeakerDeckCollector implements SlideCollector {
 
-    private HatenaBookmark collector
+    private final HatenaBookmark collector
             = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss");
 
     @Override

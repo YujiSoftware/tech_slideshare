@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 
 public class SlideShareCollector implements SlideCollector {
 
-    private HatenaBookmark collector
+    private final HatenaBookmark collector
             = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss");
 
     @Override

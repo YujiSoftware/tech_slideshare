@@ -16,7 +16,7 @@ import java.sql.SQLException;
 
 public class Main {
 
-    private static Logger logger = LoggerFactory.getLogger(Main.class);
+    private static final Logger logger = LoggerFactory.getLogger(Main.class);
 
     private static final SlideCollector[] SLIDE_COLLECTOR_LIST =
             new SlideCollector[]{
@@ -30,7 +30,7 @@ public class Main {
         String user = args[0];
         String password = args[1];
 
-        logger.info("Start {}", Main.class.toString());
+        logger.info("Start {}", Main.class);
 
         int exitCode = 0;
         try {
@@ -40,7 +40,7 @@ public class Main {
             exitCode = 1;
         }
 
-        logger.info("End {}", Main.class.toString());
+        logger.info("End {}", Main.class);
 
         System.exit(exitCode);
     }
