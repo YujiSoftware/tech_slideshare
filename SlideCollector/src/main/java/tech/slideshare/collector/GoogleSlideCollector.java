@@ -21,7 +21,7 @@ public class GoogleSlideCollector implements SlideCollector {
                 .peek(i -> i.link = i.link.replaceAll("/mobilepresent$", "/edit"))
                 .peek(i -> i.link = i.link.replaceAll("/preview$", "/edit"))
                 .peek(i -> i.title = i.title.replaceAll(" - Google スライド", ""))
-                .map(i -> new Slide(i, () -> getAuthor(i.link)));
+                .map(i -> new Slide(i, getAuthor(i.link)));
     }
 
     private static Optional<String> getAuthor(String link) {

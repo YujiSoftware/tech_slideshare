@@ -106,8 +106,28 @@ public class SlideShareCollectorTest {
 
         var collector = new SlideShareCollector(() -> Stream.of(item));
 
-        // TODO: canonicalリンクをたどって、正規化したURLを取得
         List<Slide> slides = collector.collect().collect(Collectors.toList());
-        assertEquals(0, slides.size());
+        assertEquals(1, slides.size());
+
+        Slide slide = slides.get(0);
+        assertEquals("https://www.slideshare.net/YujiSoftware/jep280-java-9", slide.getLink());
+    }
+
+    @Test
+    public void mobileを正規化() throws MalformedURLException, JAXBException {
+        var item = new Item();
+        item.title = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc";
+        item.link = "https://www.slideshare.net/mobile/YujiSoftware/jep280-java-9";
+        item.description = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc 1. Java 9 で 文字列結合の 処理が変わるぞ！ 準備はいいか！？ @YujiSoftware 2. 問題 • ＋演算子による文字列結合は最終的に どのような処理になる？ private static String test(String str, int value) { return \"ABC” + str + value; } 3...";
+        item.date = "2017-11-18T12:44:04Z";
+        item.subject = "テクノロジー";
+
+        var collector = new SlideShareCollector(() -> Stream.of(item));
+
+        List<Slide> slides = collector.collect().collect(Collectors.toList());
+        assertEquals(1, slides.size());
+
+        Slide slide = slides.get(0);
+        assertEquals("https://www.slideshare.net/YujiSoftware/jep280-java-9", slide.getLink());
     }
 }

@@ -6,15 +6,21 @@ import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Optional;
-import java.util.function.Supplier;
 
 public class Slide {
     private final String title;
     private final String link;
     private final ZonedDateTime date;
-    private final Supplier<Optional<String>> author;
+    private final Optional<String> author;
 
-    public Slide(Item item, Supplier<Optional<String>> author) {
+    public Slide(String title, String link, String date, Optional<String> author) {
+        this.title = title;
+        this.link = link;
+        this.date = DateTimeFormatter.ISO_INSTANT.withZone(ZoneId.of("Asia/Tokyo")).parse(date, ZonedDateTime::from);
+        this.author = author;
+    }
+
+    public Slide(Item item, Optional<String> author) {
         this.title = item.title;
         this.link = item.link;
         this.date = DateTimeFormatter.ISO_INSTANT.withZone(ZoneId.of("Asia/Tokyo")).parse(item.date, ZonedDateTime::from);
@@ -34,6 +40,6 @@ public class Slide {
     }
 
     public Optional<String> getAuthor() {
-        return author.get();
+        return author;
     }
 }

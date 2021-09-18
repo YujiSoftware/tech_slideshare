@@ -16,6 +16,6 @@ public class Backpaper0Collector implements SlideCollector {
     public Stream<Slide> collect() throws JAXBException, MalformedURLException {
         return collector.get()
                 .peek(i -> i.link = i.link.replaceAll("#.*$", ""))
-                .map(i -> new Slide(i, () -> Optional.of("うらがみ, @\u200Bbackpaper0")));
+                .map(i -> new Slide(i, Optional.of("うらがみ, @\u200Bbackpaper0")));
     }
 }

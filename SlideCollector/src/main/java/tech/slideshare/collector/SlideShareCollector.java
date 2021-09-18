@@ -2,15 +2,22 @@ package tech.slideshare.collector;
 
 import jakarta.xml.bind.JAXBException;
 import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import tech.slideshare.rss.Bookmark;
 import tech.slideshare.rss.HatenaBookmark;
+import tech.slideshare.rss.Item;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
+import java.util.Objects;
 import java.util.Optional;
 import java.util.stream.Stream;
 
 public class SlideShareCollector implements SlideCollector {
+
+    private static final Logger logger = LoggerFactory.getLogger(SlideShareCollector.class);
 
     public static final String USER_AGENT
             = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0";
@@ -32,17 +39,51 @@ public class SlideShareCollector implements SlideCollector {
                 .filter(i -> !i.title.contains("Film"))
                 .filter(i -> !i.link.contains("-var4-"))
                 .filter(i -> !i.title.contains("4KTUBE-HD"))
-                .filter(i -> !i.link.contains("/embed_code/"))
-                .peek(i -> i.link = i.link.replaceAll("/mobile/", "/"))
-                .filter(i -> i.link.split("/").length > 4)  // https://www.slideshare.net/ConsommeDoping のようなユーザページを含まないための対応
-                .map(i -> new Slide(i, () -> getAuthor(i.link)));
+                .map(i -> getSlide(i).orElse(null))
+                .filter(Objects::nonNull);
     }
 
-    private static Optional<String> getAuthor(String link) {
+    private static Optional<Slide> getSlide(Item item) {
         try {
+            String link = item.link;
+
             // SlideShare はデフォルトでモバイル用のページを返してくるので、
             // 明示的にPC用のユーザエージェントを設定する必要がある
-            Optional<String> author = Jsoup.connect(link).userAgent(USER_AGENT).get()
+            Document doc = Jsoup.connect(link).userAgent(USER_AGENT).get();
+
+            // URL を正規化
+            Optional<String> canonical = doc.getElementsByTag("link")
+                    .stream()
+                    .filter(e -> e.attr("rel").equals("canonical"))
+                    .findFirst()
+                    .map(e -> e.attr("href"));
+            if (canonical.isPresent() && !link.equals(canonical.get())) {
+                link = canonical.get();
+                doc = Jsoup.connect(link).userAgent(USER_AGENT).get();
+            }
+
+            // スライドページかどうかの判定
+            boolean isPresentation = doc.getElementsByTag("meta")
+                    .stream()
+                    .filter(e -> e.attr("property").equals("og:type"))
+                    .anyMatch(e -> e.attr("content").equals("slideshare:presentation"));
+            if (!isPresentation) {
+                return Optional.empty();
+            }
+
+            String title = doc.title();
+            Optional<String> author = getAuthor(doc);
+
+            return Optional.of(new Slide(title, link, item.date, author));
+        } catch (IOException e) {
+            logger.warn("Can't get slideshare document.", e);
+            return Optional.empty();
+        }
+    }
+
+    private static Optional<String> getAuthor(Document doc) {
+        try {
+            Optional<String> author = doc
                     .getElementsByTag("meta")
                     .stream()
                     .filter(e -> e.attr("name").equals("slideshow_author"))
@@ -64,6 +105,7 @@ public class SlideShareCollector implements SlideCollector {
                         return paths[paths.length - 1];
                     });
         } catch (IOException e) {
+            logger.warn("Can't get slideshare author.", e);
             return Optional.empty();
         }
     }
