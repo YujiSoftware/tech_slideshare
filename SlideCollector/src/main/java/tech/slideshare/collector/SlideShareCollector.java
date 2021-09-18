@@ -1,6 +1,7 @@
 package tech.slideshare.collector;
 
 import jakarta.xml.bind.JAXBException;
+import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.slf4j.Logger;
@@ -46,6 +47,9 @@ public class SlideShareCollector implements SlideCollector {
     private static Optional<Slide> getSlide(Item item) {
         try {
             String link = item.link;
+            if (link.contains("://www.slideshare.net/secret/")) {
+                return Optional.empty();
+            }
 
             // SlideShare はデフォルトでモバイル用のページを返してくるので、
             // 明示的にPC用のユーザエージェントを設定する必要がある
@@ -75,8 +79,11 @@ public class SlideShareCollector implements SlideCollector {
             Optional<String> author = getAuthor(doc);
 
             return Optional.of(new Slide(title, link, item.date, author));
+        } catch (HttpStatusException e) {
+            logger.warn(String.format("Can't get SlideShare document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
+            return Optional.empty();
         } catch (IOException e) {
-            logger.warn("Can't get slideshare document.", e);
+            logger.warn("Can't get SlideShare document.", e);
             return Optional.empty();
         }
     }
@@ -104,8 +111,11 @@ public class SlideShareCollector implements SlideCollector {
 
                         return paths[paths.length - 1];
                     });
+        } catch (HttpStatusException e) {
+            logger.warn(String.format("Can't get SlideShare author. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
+            return Optional.empty();
         } catch (IOException e) {
-            logger.warn("Can't get slideshare author.", e);
+            logger.warn("Can't get SlideShare author.", e);
             return Optional.empty();
         }
     }

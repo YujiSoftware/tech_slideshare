@@ -1,6 +1,7 @@
 package tech.slideshare.collector;
 
 import jakarta.xml.bind.JAXBException;
+import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.slf4j.Logger;
@@ -84,8 +85,11 @@ public class GoogleSlideCollector implements SlideCollector {
             Optional<String> author = getAuthor(link);
 
             return Optional.of(new Slide(title, link, item.date, author));
+        } catch (HttpStatusException e) {
+            logger.warn(String.format("Can't get GoogleSlide document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
+            return Optional.empty();
         } catch (IOException e) {
-            logger.warn("Can't get SpeakerDeck document.", e);
+            logger.warn("Can't get GoogleSlide document.", e);
             return Optional.empty();
         }
     }

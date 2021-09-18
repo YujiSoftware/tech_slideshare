@@ -1,6 +1,7 @@
 package tech.slideshare.collector;
 
 import jakarta.xml.bind.JAXBException;
+import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -73,6 +74,9 @@ public class SpeakerDeckCollector implements SlideCollector {
             Optional<String> author = getAuthor(link);
 
             return Optional.of(new Slide(title, link, item.date, author));
+        } catch (HttpStatusException e) {
+            logger.warn(String.format("Can't get SpeakerDeck document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
+            return Optional.empty();
         } catch (IOException e) {
             logger.warn("Can't get SpeakerDeck document.", e);
             return Optional.empty();
@@ -86,6 +90,9 @@ public class SpeakerDeckCollector implements SlideCollector {
                     .stream()
                     .findFirst()
                     .map(Element::text);
+        } catch (HttpStatusException e) {
+            logger.warn(String.format("Can't get SpeakerDeck author. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
+            return Optional.empty();
         } catch (IOException | URISyntaxException e) {
             logger.warn("Can't get SpeakerDeck author.", e);
             return Optional.empty();
