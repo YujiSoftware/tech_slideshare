@@ -1,5 +1,6 @@
 package tech.slideshare;
 
+import jakarta.xml.bind.JAXBException;
 import name.falgout.jeffrey.throwing.stream.ThrowingStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -8,8 +9,7 @@ import tech.slideshare.common.CharUtilities;
 import tech.slideshare.database.SlideDao;
 import tech.slideshare.database.TweetQueueDao;
 
-import jakarta.xml.bind.JAXBException;
-import java.net.MalformedURLException;
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -45,7 +45,7 @@ public class Main {
         System.exit(exitCode);
     }
 
-    private static void run(String user, String password) throws SQLException, JAXBException, MalformedURLException {
+    private static void run(String user, String password) throws SQLException, JAXBException, IOException {
         try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password)) {
             con.setAutoCommit(false);
 

@@ -6,7 +6,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 import tech.slideshare.rss.Item;
 
-import java.net.MalformedURLException;
+import java.io.IOException;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.util.List;
@@ -30,7 +30,7 @@ class Backpaper0CollectorTest {
     }
 
     @Test
-    public void collect() throws MalformedURLException, JAXBException {
+    public void collect() throws IOException, JAXBException {
         var item = getItem();
         var collector = new Backpaper0Collector(() -> Stream.of(item));
 
@@ -50,7 +50,7 @@ class Backpaper0CollectorTest {
             "https://backpaper0.github.io/ghosts/reactive/index.html",
             "https://backpaper0.github.io/ghosts/reactive/index.html#1"
     })
-    void 正規化(String link) throws MalformedURLException, JAXBException {
+    void 正規化(String link) throws IOException, JAXBException {
         var item = getItem();
         item.link = link;
         var collector = new Backpaper0Collector(() -> Stream.of(item));

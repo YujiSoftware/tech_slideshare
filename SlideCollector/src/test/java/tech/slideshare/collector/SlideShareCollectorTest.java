@@ -6,7 +6,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
 import tech.slideshare.rss.Item;
 
-import java.net.MalformedURLException;
+import java.io.IOException;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.util.List;
@@ -19,7 +19,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class SlideShareCollectorTest {
 
     @Test
-    public void collect() throws MalformedURLException, JAXBException {
+    public void collect() throws IOException, JAXBException {
         var item = new Item();
         item.title = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc";
         item.link = "https://www.slideshare.net/YujiSoftware/jep280-java-9";
@@ -40,7 +40,7 @@ public class SlideShareCollectorTest {
     }
 
     @Test
-    public void twitterリンクなし() throws MalformedURLException, JAXBException {
+    public void twitterリンクなし() throws IOException, JAXBException {
         var item = new Item();
         item.title = "セガサターンマシン語プログラミングの紹介";
         item.link = "https://www.slideshare.net/yarakawa/ss-250079982";
@@ -58,7 +58,7 @@ public class SlideShareCollectorTest {
     }
 
     @Test
-    public void presentation以外を除外() throws MalformedURLException, JAXBException {
+    public void presentation以外を除外() throws IOException, JAXBException {
         var item = new Item();
         item.title = "YujiSoftware | SlideShare";
         item.link = "https://www.slideshare.net/YujiSoftware";
@@ -84,7 +84,7 @@ public class SlideShareCollectorTest {
 
     @ParameterizedTest
     @MethodSource("spam")
-    public void スパムを除外(String title, String link) throws MalformedURLException, JAXBException {
+    public void スパムを除外(String title, String link) throws IOException, JAXBException {
         var item = new Item();
         item.title = title;
         item.link = link;
@@ -96,7 +96,7 @@ public class SlideShareCollectorTest {
     }
 
     @Test
-    public void embedを正規化() throws MalformedURLException, JAXBException {
+    public void embedを正規化() throws IOException, JAXBException {
         var item = new Item();
         item.title = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc";
         item.link = "https://www.slideshare.net/slideshow/embed_code/key/7gOoDv2qMSirPN";
@@ -114,7 +114,7 @@ public class SlideShareCollectorTest {
     }
 
     @Test
-    public void mobileを正規化() throws MalformedURLException, JAXBException {
+    public void mobileを正規化() throws IOException, JAXBException {
         var item = new Item();
         item.title = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc";
         item.link = "https://www.slideshare.net/mobile/YujiSoftware/jep280-java-9";

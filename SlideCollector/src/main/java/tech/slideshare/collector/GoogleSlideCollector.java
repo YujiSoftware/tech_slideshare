@@ -11,7 +11,6 @@ import tech.slideshare.rss.HatenaBookmark;
 import tech.slideshare.rss.Item;
 
 import java.io.IOException;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Objects;
 import java.util.Optional;
@@ -35,7 +34,7 @@ public class GoogleSlideCollector implements SlideCollector {
     }
 
     @Override
-    public Stream<Slide> collect() throws JAXBException, MalformedURLException {
+    public Stream<Slide> collect() throws JAXBException, IOException {
         return bookmark.get()
                 .map(i -> getSlide(i).orElse(null))
                 .filter(Objects::nonNull);

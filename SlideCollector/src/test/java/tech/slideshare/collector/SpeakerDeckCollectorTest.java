@@ -4,7 +4,7 @@ import jakarta.xml.bind.JAXBException;
 import org.junit.jupiter.api.Test;
 import tech.slideshare.rss.Item;
 
-import java.net.MalformedURLException;
+import java.io.IOException;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.util.List;
@@ -28,7 +28,7 @@ class SpeakerDeckCollectorTest {
     }
 
     @Test
-    public void collect() throws MalformedURLException, JAXBException {
+    public void collect() throws IOException, JAXBException {
         var item = getItem();
         var collector = new SpeakerDeckCollector(() -> Stream.of(item));
 
@@ -43,7 +43,7 @@ class SpeakerDeckCollectorTest {
     }
 
     @Test
-    public void presentation以外を除外() throws MalformedURLException, JAXBException {
+    public void presentation以外を除外() throws IOException, JAXBException {
         var item = new Item();
         item.title = "yasaichi (@yasaichi) on Speaker Deck";
         item.link = "https://speakerdeck.com/yasaichi";
@@ -55,7 +55,7 @@ class SpeakerDeckCollectorTest {
     }
 
     @Test
-    public void playerを正規化() throws MalformedURLException, JAXBException {
+    public void playerを正規化() throws IOException, JAXBException {
         var item = getItem();
         item.link = "https://speakerdeck.com/player/c8556affd0f3401388af6d664d320c42";
 
@@ -69,7 +69,7 @@ class SpeakerDeckCollectorTest {
     }
 
     @Test
-    public void pageを正規化() throws MalformedURLException, JAXBException {
+    public void pageを正規化() throws IOException, JAXBException {
         var item = getItem();
         item.link += "?slide=2";
 

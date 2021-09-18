@@ -12,7 +12,6 @@ import tech.slideshare.rss.HatenaBookmark;
 import tech.slideshare.rss.Item;
 
 import java.io.IOException;
-import java.net.MalformedURLException;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.Objects;
@@ -34,7 +33,7 @@ public class SpeakerDeckCollector implements SlideCollector {
     }
 
     @Override
-    public Stream<Slide> collect() throws JAXBException, MalformedURLException {
+    public Stream<Slide> collect() throws JAXBException, IOException {
         return bookmark.get()
                 .map(i -> getSlide(i).orElse(null))
                 .filter(Objects::nonNull);

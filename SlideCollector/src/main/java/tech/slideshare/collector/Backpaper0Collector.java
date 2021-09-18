@@ -7,6 +7,7 @@ import tech.slideshare.rss.Bookmark;
 import tech.slideshare.rss.HatenaBookmark;
 import tech.slideshare.rss.Item;
 
+import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Objects;
@@ -27,7 +28,7 @@ public class Backpaper0Collector implements SlideCollector {
     }
 
     @Override
-    public Stream<Slide> collect() throws JAXBException, MalformedURLException {
+    public Stream<Slide> collect() throws JAXBException, IOException {
         return bookmark.get()
                 .map(i -> getSlide(i).orElse(null))
                 .filter(Objects::nonNull);

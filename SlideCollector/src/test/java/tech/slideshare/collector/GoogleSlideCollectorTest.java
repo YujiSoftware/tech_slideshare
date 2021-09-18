@@ -6,7 +6,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 import tech.slideshare.rss.Item;
 
-import java.net.MalformedURLException;
+import java.io.IOException;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.util.List;
@@ -30,7 +30,7 @@ class GoogleSlideCollectorTest {
     }
 
     @Test
-    public void collect() throws MalformedURLException, JAXBException {
+    public void collect() throws IOException, JAXBException {
         var item = getItem();
         var collector = new GoogleSlideCollector(() -> Stream.of(item));
 
@@ -51,7 +51,7 @@ class GoogleSlideCollectorTest {
             "https://docs.google.com/presentation/u/0/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/edit#slide=id.p",
             "https://docs.google.com/presentation/u/0/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/mobilepresent",
     })
-    public void 正規化(String link) throws MalformedURLException, JAXBException {
+    public void 正規化(String link) throws IOException, JAXBException {
         var item = getItem();
         item.link = link;
         var collector = new GoogleSlideCollector(() -> Stream.of(item));
@@ -64,7 +64,7 @@ class GoogleSlideCollectorTest {
     }
 
     @Test
-    public void publicを正規化() throws MalformedURLException, JAXBException {
+    public void publicを正規化() throws IOException, JAXBException {
         var item = getItem();
         item.title = "The newsletter of RBS updates - RubyKaigi Takeout 2021 - Google スライド";
         item.link = "https://docs.google.com/presentation/d/e/2PACX-1vREU6ZguqLxGk_k1l3zvKbRo_TbMTKN3yEgfzrjA85foVXrmeYvWnOTefsaBycsb9m6H924VsZw_YKt/pub?start=false&loop=false&delayms=3000&slide=id.p";
@@ -81,7 +81,7 @@ class GoogleSlideCollectorTest {
     }
 
     @Test
-    public void accessDenied() throws MalformedURLException, JAXBException {
+    public void accessDenied() throws IOException, JAXBException {
         var item = getItem();
         item.title = "Google スライド - オンラインでプレゼンテーションを作成/編集できる無料サービスです";
         item.link = "https://docs.google.com/presentation/d/1PjqrNO4r0-lRcJrNls-iT2CJ-kubNY31c9eJVo_eFSk/edit?resourcekey=0-pyJknY9TXGs9BUh0F0UjpA";

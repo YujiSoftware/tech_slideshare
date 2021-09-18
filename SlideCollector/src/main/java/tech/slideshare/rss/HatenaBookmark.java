@@ -3,12 +3,24 @@ package tech.slideshare.rss;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;
 import jakarta.xml.bind.Unmarshaller;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import tech.slideshare.common.DigestUtils;
 
-import java.net.MalformedURLException;
+import java.io.IOException;
 import java.net.URL;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class HatenaBookmark implements Bookmark {
+
+    private static final Logger logger = LoggerFactory.getLogger(HatenaBookmark.class);
 
     private final String url;
 
@@ -16,12 +28,33 @@ public class HatenaBookmark implements Bookmark {
         this.url = url;
     }
 
-    public Stream<Item> get() throws JAXBException, MalformedURLException {
+    public Stream<Item> get() throws JAXBException, IOException {
         JAXBContext context = JAXBContext.newInstance(Rss.class);
         Unmarshaller unmarshaller = context.createUnmarshaller();
 
         Rss r = (Rss) unmarshaller.unmarshal(new URL(url));
 
-        return r.items.stream().filter(i -> i.subject != null && i.subject.equals("テクノロジー"));
+        Set<String> used = cache(r.items);
+        return r.items
+                .stream()
+                .filter(i -> !used.contains(i.link))
+                .filter(i -> i.subject != null && i.subject.equals("テクノロジー"));
+    }
+
+    public Set<String> cache(List<Item> items) throws IOException {
+        String tempDir = System.getProperty("java.io.tmpdir");
+        Path dir = Path.of(tempDir, "SlideCollector");
+        Files.createDirectories(dir);
+
+        Path file = dir.resolve(DigestUtils.getSHA1(url) + ".log");
+        logger.info(String.format("Cached. [url=%s, file=%s, count=%d]", url, file, items.size()));
+
+        // 前回の内容を取得
+        List<String> lines = Files.exists(file) ? Files.readAllLines(file) : Collections.emptyList();
+
+        // 今回の内容を保存
+        Files.writeString(file, items.stream().map(i -> i.link).collect(Collectors.joining(System.lineSeparator())));
+
+        return new HashSet<>(lines);
     }
 }
