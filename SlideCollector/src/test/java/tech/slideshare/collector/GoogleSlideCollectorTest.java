@@ -10,11 +10,11 @@ import java.io.IOException;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.util.List;
-import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNull;
 
 class GoogleSlideCollectorTest {
 
@@ -40,7 +40,8 @@ class GoogleSlideCollectorTest {
         Slide slide = slides.get(0);
         assertEquals(item.title, slide.getTitle());
         assertEquals(item.link, slide.getLink());
-        assertEquals(Optional.empty(), slide.getAuthor());
+        assertNull(slide.getAuthor());
+        assertNull(slide.getTwitter());
         assertEquals(ZonedDateTime.of(2021, 9, 9, 22, 53, 13, 0, ZoneId.of("Asia/Tokyo")), slide.getDate());
     }
 

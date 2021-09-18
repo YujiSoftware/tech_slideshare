@@ -5,6 +5,8 @@ CREATE TABLE slide (
   slide_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   title    TEXT NOT NULL,
   url      VARCHAR(1024) NOT NULL UNIQUE,
+  author   TEXT,
+  twitter  VARCHAR(15),
   date     TIMESTAMP NOT NULL
 );
 

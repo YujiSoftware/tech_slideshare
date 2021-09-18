@@ -10,21 +10,21 @@ import java.io.IOException;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.util.List;
-import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNull;
 
 public class SlideShareCollectorTest {
 
     @Test
     public void collect() throws IOException, JAXBException {
         var item = new Item();
-        item.title = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc";
-        item.link = "https://www.slideshare.net/YujiSoftware/jep280-java-9";
-        item.description = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc 1. Java 9 で 文字列結合の 処理が変わるぞ！ 準備はいいか！？ @YujiSoftware 2. 問題 • ＋演算子による文字列結合は最終的に どのような処理になる？ private static String test(String str, int value) { return \"ABC” + str + value; } 3...";
-        item.date = "2017-11-18T12:44:04Z";
+        item.title = "Cmdstanr入門とreduce_sum()解説";
+        item.link = "https://www.slideshare.net/simizu706/cmdstanrreducesum";
+        item.description = "Cmdstanrとreduce_sum()の使い方を解説します";
+        item.date = "2021-09-14T12:18:46Z";
         item.subject = "テクノロジー";    // TODO: 複数あるみたい
 
         var collector = new SlideShareCollector(() -> Stream.of(item));
@@ -35,8 +35,9 @@ public class SlideShareCollectorTest {
         Slide slide = slides.get(0);
         assertEquals(item.title, slide.getTitle());
         assertEquals(item.link, slide.getLink());
-        assertEquals(Optional.of("YujiSoftware"), slide.getAuthor());
-        assertEquals(ZonedDateTime.of(2017, 11, 18, 21, 44, 4, 0, ZoneId.of("Asia/Tokyo")), slide.getDate());
+        assertEquals("Hiroshi Shimizu", slide.getAuthor());
+        assertEquals("simizu706", slide.getTwitter());
+        assertEquals(ZonedDateTime.of(2021, 9, 14, 21, 18, 46, 0, ZoneId.of("Asia/Tokyo")), slide.getDate());
     }
 
     @Test
@@ -54,7 +55,8 @@ public class SlideShareCollectorTest {
         assertEquals(1, slides.size());
 
         Slide slide = slides.get(0);
-        assertEquals(Optional.empty(), slide.getAuthor());
+        assertEquals("Yuma Ohgami", slide.getAuthor());
+        assertNull(slide.getTwitter());
     }
 
     @Test

@@ -5,7 +5,6 @@ import name.falgout.jeffrey.throwing.stream.ThrowingStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import tech.slideshare.collector.*;
-import tech.slideshare.common.CharUtilities;
 import tech.slideshare.database.SlideDao;
 import tech.slideshare.database.TweetQueueDao;
 
@@ -61,16 +60,9 @@ public class Main {
                             return;
                         }
 
-                        // タイトルにスパムURLが付与されている可能性があるため、
-                        // ドットの後に不可視文字を入れてリンクにならないようにする。
-                        String title = s.getTitle().replaceAll("\\.", "\\." + CharUtilities.ZERO_WIDTH_SPACE);
+                        logger.debug("Enqueue: {}, {}", s.getTitle(), s.getLink());
 
-                        if (s.getAuthor().isPresent()) {
-                            title += " (" + s.getAuthor().get() + ")";
-                        }
-                        logger.debug("Enqueue: {}, {}", title, s.getLink());
-
-                        int slideId = slideDao.insert(title, s.getLink(), s.getDate());
+                        int slideId = slideDao.insert(s.getTitle(), s.getLink(), s.getDate(), s.getAuthor(), s.getTwitter());
                         tweetQueueDao.insert(slideId);
 
                         con.commit();

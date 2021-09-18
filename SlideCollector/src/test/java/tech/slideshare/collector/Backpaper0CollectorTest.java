@@ -10,7 +10,6 @@ import java.io.IOException;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.util.List;
-import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -40,7 +39,8 @@ class Backpaper0CollectorTest {
         Slide slide = slides.get(0);
         assertEquals(item.title, slide.getTitle());
         assertEquals(item.link, slide.getLink());
-        assertEquals(Optional.of("うらがみ, @\u200Bbackpaper0"), slide.getAuthor());
+        assertEquals("うらがみ", slide.getAuthor());
+        assertEquals("backpaper0", slide.getTwitter());
         assertEquals(ZonedDateTime.of(2021, 8, 15, 0, 12, 29, 0, ZoneId.of("Asia/Tokyo")), slide.getDate());
     }
 

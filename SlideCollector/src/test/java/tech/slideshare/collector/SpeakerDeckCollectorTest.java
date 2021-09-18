@@ -8,11 +8,11 @@ import java.io.IOException;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.util.List;
-import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNull;
 
 class SpeakerDeckCollectorTest {
 
@@ -38,7 +38,8 @@ class SpeakerDeckCollectorTest {
         Slide slide = slides.get(0);
         assertEquals(item.title, slide.getTitle());
         assertEquals(item.link, slide.getLink());
-        assertEquals(Optional.of("yasaichi"), slide.getAuthor());
+        assertEquals("yasaichi", slide.getAuthor());
+        assertNull(slide.getTwitter());
         assertEquals(ZonedDateTime.of(2021, 9, 16, 18, 56, 20, 0, ZoneId.of("Asia/Tokyo")), slide.getDate());
     }
 

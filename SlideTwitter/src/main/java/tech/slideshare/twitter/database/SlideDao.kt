@@ -10,6 +10,8 @@ class SlideDao(con: Connection) : AbstractDao(con) {
                 "  , s.title" +
                 "  , s.url " +
                 "  , s.date " +
+                "  , s.author " +
+                "  , s.twitter " +
                 "FROM " +
                 "  slide s " +
                 "  INNER JOIN tweet_queue tq " +
@@ -20,13 +22,14 @@ class SlideDao(con: Connection) : AbstractDao(con) {
 
         con.prepareStatement(sql).use { it ->
             it.executeQuery().use {
-
                 return if (it.next()) {
                     val dto = SlideDto(
                         it.getInt("slide_id"),
                         it.getString("title"),
                         it.getString("url"),
-                        it.getDate("date")
+                        it.getDate("date"),
+                        it.getString("author"),
+                        it.getString("twitter"),
                     )
 
                     TweetQueueDao(con).delete(dto.slideId)

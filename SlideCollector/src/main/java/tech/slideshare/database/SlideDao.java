@@ -9,13 +9,15 @@ public class SlideDao extends AbstractDao {
         super(con);
     }
 
-    public int insert(String title, String url, ZonedDateTime date) throws SQLException {
-        String sql = "INSERT INTO slide (title, url, date) VALUES (?, ?, ?)";
+    public int insert(String title, String url, ZonedDateTime date, String author, String twitter) throws SQLException {
+        String sql = "INSERT INTO slide (title, url, date, author, twitter) VALUES (?, ?, ?, ?, ?)";
 
         try (PreparedStatement statement = con.prepareStatement(sql)) {
             statement.setString(1, title);
             statement.setString(2, url);
             statement.setTimestamp(3, Timestamp.valueOf(date.toLocalDateTime()));
+            statement.setString(4, author);
+            statement.setString(5, twitter);
 
             statement.executeUpdate();
         }

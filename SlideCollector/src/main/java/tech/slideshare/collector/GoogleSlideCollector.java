@@ -84,9 +84,9 @@ public class GoogleSlideCollector implements SlideCollector {
                     .findFirst()
                     .map(e -> e.attr("content"))
                     .orElse(doc.title().replaceAll(" - Google スライド", ""));
-            Optional<String> author = getAuthor(link);
+            String author = getAuthor(link);
 
-            return Optional.of(new Slide(title, link, item.date, author));
+            return Optional.of(new Slide(title, link, item.date, author, null));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get GoogleSlide document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();
@@ -96,8 +96,8 @@ public class GoogleSlideCollector implements SlideCollector {
         }
     }
 
-    private static Optional<String> getAuthor(String link) {
+    private static String getAuthor(String link) {
         // TODO; 取得方法がなさそう
-        return Optional.empty();
+        return null;
     }
 }

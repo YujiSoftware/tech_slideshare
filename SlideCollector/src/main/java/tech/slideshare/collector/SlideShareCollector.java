@@ -75,9 +75,10 @@ public class SlideShareCollector implements SlideCollector {
             }
 
             String title = doc.title();
-            Optional<String> author = getAuthor(doc);
+            String author = getAuthor(doc);
+            String twitter = getTwitter(doc);
 
-            return Optional.of(new Slide(title, link, item.date, author));
+            return Optional.of(new Slide(title, link, item.date, author, twitter));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get SlideShare document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();
@@ -87,7 +88,16 @@ public class SlideShareCollector implements SlideCollector {
         }
     }
 
-    private static Optional<String> getAuthor(Document doc) {
+    private static String getAuthor(Document doc) {
+        return doc.getElementsByTag("a")
+                .stream()
+                .filter(e -> e.attr("rel").equals("author"))
+                .findFirst()
+                .map(e -> e.text().trim())
+                .orElse(null);
+    }
+
+    private static String getTwitter(Document doc) {
         try {
             Optional<String> author = doc
                     .getElementsByTag("meta")
@@ -96,7 +106,7 @@ public class SlideShareCollector implements SlideCollector {
                     .findFirst()
                     .map(e -> e.attr("content"));
             if (author.isEmpty()) {
-                return Optional.empty();
+                return null;
             }
 
             return Jsoup.connect(author.get()).userAgent(USER_AGENT).get()
@@ -109,13 +119,14 @@ public class SlideShareCollector implements SlideCollector {
                         String[] paths = t.split("/");
 
                         return paths[paths.length - 1];
-                    });
+                    })
+                    .orElse(null);
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get SlideShare author. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
-            return Optional.empty();
+            return null;
         } catch (IOException e) {
             logger.warn("Can't get SlideShare author.", e);
-            return Optional.empty();
+            return null;
         }
     }
 }

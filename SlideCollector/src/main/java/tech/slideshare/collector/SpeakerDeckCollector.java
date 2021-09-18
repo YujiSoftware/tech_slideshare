@@ -70,9 +70,9 @@ public class SpeakerDeckCollector implements SlideCollector {
                     .findFirst()
                     .map(e -> e.attr("content"))
                     .orElse(doc.title().replaceAll(" - Speaker Deck", ""));
-            Optional<String> author = getAuthor(link);
+            String author = getAuthor(link);
 
-            return Optional.of(new Slide(title, link, item.date, author));
+            return Optional.of(new Slide(title, link, item.date, author, null));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get SpeakerDeck document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();
@@ -82,19 +82,20 @@ public class SpeakerDeckCollector implements SlideCollector {
         }
     }
 
-    private static Optional<String> getAuthor(String link) {
+    private static String getAuthor(String link) {
         try {
             return Jsoup.connect(new URI(link + "/../").normalize().toASCIIString()).get()
                     .getElementsByTag("h1")
                     .stream()
                     .findFirst()
-                    .map(Element::text);
+                    .map(Element::text)
+                    .orElse(null);
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get SpeakerDeck author. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
-            return Optional.empty();
+            return null;
         } catch (IOException | URISyntaxException e) {
             logger.warn("Can't get SpeakerDeck author.", e);
-            return Optional.empty();
+            return null;
         }
     }
 }

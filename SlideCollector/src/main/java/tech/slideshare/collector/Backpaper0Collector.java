@@ -39,7 +39,7 @@ public class Backpaper0Collector implements SlideCollector {
             URL url = new URL(item.link);
             String link = new URL(url.getProtocol(), url.getHost(), url.getPath().replaceFirst("index.html", "")).toString();
 
-            return Optional.of(new Slide(item.title, link, item.date, Optional.of("うらがみ, @\u200Bbackpaper0")));
+            return Optional.of(new Slide(item.title, link, item.date, "うらがみ", "backpaper0"));
         } catch (MalformedURLException e) {
             return Optional.empty();
         }
