@@ -15,11 +15,14 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Objects;
 import java.util.Optional;
+import java.util.concurrent.TimeUnit;
 import java.util.stream.Stream;
 
 public class GoogleSlideCollector implements SlideCollector {
 
     private static final Logger logger = LoggerFactory.getLogger(GoogleSlideCollector.class);
+
+    public static final int TIMEOUT = (int) TimeUnit.MILLISECONDS.toMinutes(1);
 
     private final Bookmark bookmark;
 
@@ -41,7 +44,7 @@ public class GoogleSlideCollector implements SlideCollector {
     private static Optional<Slide> getSlide(Item item) {
         try {
             String link = item.link;
-            Document doc = Jsoup.connect(link).get();
+            Document doc = Jsoup.connect(link).timeout(TIMEOUT).get();
 
             // 権限が必要なページの場合、docs.google.com から accounts.google.com にリダイレクトされる。
             // その場合、プレゼンテーションは取得できないので処理をスキップする。
@@ -67,7 +70,7 @@ public class GoogleSlideCollector implements SlideCollector {
 
                 if (!link.equals(embed.get())) {
                     link = embed.get();
-                    doc = Jsoup.connect(link).get();
+                    doc = Jsoup.connect(link).timeout(TIMEOUT).get();
                 }
             }
 
