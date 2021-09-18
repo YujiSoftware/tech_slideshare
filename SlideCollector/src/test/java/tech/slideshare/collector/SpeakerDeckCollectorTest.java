@@ -2,6 +2,8 @@ package tech.slideshare.collector;
 
 import jakarta.xml.bind.JAXBException;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.ValueSource;
 import tech.slideshare.rss.Item;
 
 import java.io.IOException;
@@ -55,24 +57,14 @@ class SpeakerDeckCollectorTest {
         assertEquals(0, slides.size());
     }
 
-    @Test
-    public void playerを正規化() throws IOException, JAXBException {
+    @ParameterizedTest
+    @ValueSource(strings = {
+            "https://speakerdeck.com/player/c8556affd0f3401388af6d664d320c42",
+            "https://speakerdeck.com/yasaichi/architecture-decision-for-the-next-10-years-at-pixta?slide=2",
+    })
+    public void 正規化(String link) throws IOException, JAXBException {
         var item = getItem();
-        item.link = "https://speakerdeck.com/player/c8556affd0f3401388af6d664d320c42";
-
-        var collector = new SpeakerDeckCollector(() -> Stream.of(item));
-
-        List<Slide> slides = collector.collect().collect(Collectors.toList());
-        assertEquals(1, slides.size());
-
-        Slide slide = slides.get(0);
-        assertEquals("https://speakerdeck.com/yasaichi/architecture-decision-for-the-next-10-years-at-pixta", slide.getLink());
-    }
-
-    @Test
-    public void pageを正規化() throws IOException, JAXBException {
-        var item = getItem();
-        item.link += "?slide=2";
+        item.link = link;
 
         var collector = new SpeakerDeckCollector(() -> Stream.of(item));
 

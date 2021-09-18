@@ -4,6 +4,7 @@ import jakarta.xml.bind.JAXBException;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
+import org.junit.jupiter.params.provider.ValueSource;
 import tech.slideshare.rss.Item;
 
 import java.io.IOException;
@@ -102,29 +103,15 @@ public class SlideShareCollectorTest {
         assertEquals(0, slides.size());
     }
 
-    @Test
-    public void embedを正規化() throws IOException, JAXBException {
+    @ParameterizedTest
+    @ValueSource(strings = {
+            "https://www.slideshare.net/slideshow/embed_code/key/7gOoDv2qMSirPN",
+            "https://www.slideshare.net/mobile/YujiSoftware/jep280-java-9",
+    })
+    public void 正規化(String link) throws IOException, JAXBException {
         var item = new Item();
         item.title = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc";
-        item.link = "https://www.slideshare.net/slideshow/embed_code/key/7gOoDv2qMSirPN";
-        item.description = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc 1. Java 9 で 文字列結合の 処理が変わるぞ！ 準備はいいか！？ @YujiSoftware 2. 問題 • ＋演算子による文字列結合は最終的に どのような処理になる？ private static String test(String str, int value) { return \"ABC” + str + value; } 3...";
-        item.date = "2017-11-18T12:44:04Z";
-        item.subject = "テクノロジー";
-
-        var collector = new SlideShareCollector(() -> Stream.of(item));
-
-        List<Slide> slides = collector.collect().collect(Collectors.toList());
-        assertEquals(1, slides.size());
-
-        Slide slide = slides.get(0);
-        assertEquals("https://www.slideshare.net/YujiSoftware/jep280-java-9", slide.getLink());
-    }
-
-    @Test
-    public void mobileを正規化() throws IOException, JAXBException {
-        var item = new Item();
-        item.title = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc";
-        item.link = "https://www.slideshare.net/mobile/YujiSoftware/jep280-java-9";
+        item.link = link;
         item.description = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc 1. Java 9 で 文字列結合の 処理が変わるぞ！ 準備はいいか！？ @YujiSoftware 2. 問題 • ＋演算子による文字列結合は最終的に どのような処理になる？ private static String test(String str, int value) { return \"ABC” + str + value; } 3...";
         item.date = "2017-11-18T12:44:04Z";
         item.subject = "テクノロジー";
