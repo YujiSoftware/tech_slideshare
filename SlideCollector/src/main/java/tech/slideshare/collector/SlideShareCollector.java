@@ -74,6 +74,16 @@ public class SlideShareCollector implements SlideCollector {
                 return Optional.empty();
             }
 
+            // 1ページしかないものは、スパムと判定して除外
+            long pageCount = doc.getElementsByTag("ol")
+                    .stream()
+                    .filter(e -> e.classNames().contains("transcripts"))
+                    .mapToLong(e -> e.getElementsByTag("li").size())
+                    .sum();
+            if (pageCount <= 1) {
+                return Optional.empty();
+            }
+
             String title = doc.title();
             String author = getAuthor(doc);
             String twitter = getTwitter(doc);

@@ -80,6 +80,11 @@ public class SlideShareCollectorTest {
                 new Object[]{
                         "Sehen Complete Stream Deutsch HD Aquaman 2018 - Siegen CineStar - Kin…",
                         "https://www.slideshare.net/desirait1988ixx1/sehen-complete-stream-deutsch-hd-aquaman-2018-siegen-cinestar-kinoprogramm-und-var4-123099787"
+                },
+                new Object[]{
+                        // 1ページしかない
+                        "The Role of Knowledge in Human Life",
+                        "https://www.slideshare.net/ebookreviewpro/the-role-of-knowledge-in-human-life"
                 }
         );
     }
