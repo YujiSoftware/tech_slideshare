@@ -5,12 +5,14 @@ plugins {
 application {
     mainClass = 'tech.slideshare.twitter.Main'
 
-    applicationDefaultJvmArgs = [
-            "-Dtwitter4j.oauth.consumerKey=${project.hasProperty("consumerKey") ? project.consumerKey : ""}",
-            "-Dtwitter4j.oauth.consumerSecret=${project.hasProperty("consumerSecret") ? project.consumerSecret : ""}",
-            "-Dtwitter4j.oauth.accessToken=${project.hasProperty("accessToken") ? project.accessToken : ""}",
-            "-Dtwitter4j.oauth.accessTokenSecret=${project.hasProperty("accessTokenSecret") ? project.accessTokenSecret : ""}"
-    ]
+    /**
+     applicationDefaultJvmArgs = [
+     project.hasProperty("consumerKey") ? "-Dtwitter4j.oauth.consumerKey=${project.consumerKey}" : "",
+     project.hasProperty("consumerSecret") ? "-Dtwitter4j.oauth.consumerSecret=${project.consumerSecret}" : "",
+     project.hasProperty("accessToken") ? "-Dtwitter4j.oauth.accessToken=${project.accessToken}" : "",
+     project.hasProperty("accessTokenSecret") ? "-Dtwitter4j.oauth.accessTokenSecret=${project.accessTokenSecret}" : "",
+     ]
+     */
 }
 
 dependencies {
