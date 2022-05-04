@@ -22,7 +22,8 @@ public class Main {
                     new SlideShareCollector(),
                     new SpeakerDeckCollector(),
                     new GoogleSlideCollector(),
-                    new Backpaper0Collector()
+                    new Backpaper0Collector(),
+                    new DocswellCollector()
             };
 
     public static void main(String[] args) {
