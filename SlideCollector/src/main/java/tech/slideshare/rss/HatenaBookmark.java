@@ -11,10 +11,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -38,7 +35,7 @@ public class HatenaBookmark implements Bookmark {
         return r.items
                 .stream()
                 .filter(i -> !used.contains(i.link))
-                .filter(i -> i.subject != null && i.subject.equals("テクノロジー"));
+                .filter(i -> i.subject != null && Arrays.asList(i.subject).contains("テクノロジー"));
     }
 
     public Set<String> cache(List<Item> items) throws IOException {

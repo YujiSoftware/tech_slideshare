@@ -23,7 +23,7 @@ class Backpaper0CollectorTest {
         item.link = "https://backpaper0.github.io/ghosts/reactive/";
         item.description = "";
         item.date = "2021-08-14T15:12:29Z";
-        item.subject = "テクノロジー";    // TODO: 複数あるみたい
+        item.subject = new String[]{"テクノロジー"};
 
         return item;
     }

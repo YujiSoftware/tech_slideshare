@@ -26,7 +26,7 @@ public class SlideShareCollectorTest {
         item.link = "https://www.slideshare.net/simizu706/cmdstanrreducesum";
         item.description = "Cmdstanrとreduce_sum()の使い方を解説します";
         item.date = "2021-09-14T12:18:46Z";
-        item.subject = "テクノロジー";    // TODO: 複数あるみたい
+        item.subject = new String[]{"テクノロジー"};
 
         var collector = new SlideShareCollector(() -> Stream.of(item));
 
@@ -48,7 +48,7 @@ public class SlideShareCollectorTest {
         item.link = "https://www.slideshare.net/yarakawa/ss-250079982";
         item.description = "× You’ve unlocked unlimited downloads on SlideShare! Your download should start automatically, if not click here to download You also get free access to Scribd! Instant access to millions of ebooks, audiobooks, magazines, podcasts, and more. Read and listen offline with any device. Free access to...";
         item.date = "2021-09-04T06:53:05Z";
-        item.subject = "テクノロジー";
+        item.subject = new String[]{"テクノロジー"};
 
         var collector = new SlideShareCollector(() -> Stream.of(item));
 
@@ -114,7 +114,7 @@ public class SlideShareCollectorTest {
         item.link = link;
         item.description = "JEP280: Java 9 で文字列結合の処理が変わるぞ！準備はいいか！？ #jjug_ccc 1. Java 9 で 文字列結合の 処理が変わるぞ！ 準備はいいか！？ @YujiSoftware 2. 問題 • ＋演算子による文字列結合は最終的に どのような処理になる？ private static String test(String str, int value) { return \"ABC” + str + value; } 3...";
         item.date = "2017-11-18T12:44:04Z";
-        item.subject = "テクノロジー";
+        item.subject = new String[]{"テクノロジー"};
 
         var collector = new SlideShareCollector(() -> Stream.of(item));
 

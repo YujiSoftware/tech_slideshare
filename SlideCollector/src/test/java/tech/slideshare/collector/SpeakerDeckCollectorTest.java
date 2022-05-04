@@ -24,7 +24,7 @@ class SpeakerDeckCollectorTest {
         item.link = "https://speakerdeck.com/yasaichi/architecture-decision-for-the-next-10-years-at-pixta";
         item.description = "Transcript Active Record から考える 次の 10 年を見据えた技術選定 Yuichi Goto (@_yasaichi) September 15，2021 @ iCARE Dev Meetup #25 自己紹介 Yuichi Goto（@_yasaichi） ピクスタ株式会社 執行役員 CTO 兼 開発部長 2020 年 7 月発売の「パーフェクト Ruby on Rails 【増補改訂版】」の 共著者（Part 5 担当） ...";
         item.date = "2021-09-16T09:56:20Z";
-        item.subject = "テクノロジー";    // TODO: 複数あるみたい
+        item.subject = new String[]{"テクノロジー"};
 
         return item;
     }

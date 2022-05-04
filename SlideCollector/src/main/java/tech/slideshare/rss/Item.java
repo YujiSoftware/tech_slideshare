@@ -21,5 +21,5 @@ public class Item {
     public String date;
 
     @XmlElement(name = "subject", namespace = "http://purl.org/dc/elements/1.1/")
-    public String subject;
+    public String[] subject;
 }

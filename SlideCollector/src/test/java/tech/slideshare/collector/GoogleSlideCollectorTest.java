@@ -24,7 +24,7 @@ class GoogleSlideCollectorTest {
         item.link = "https://docs.google.com/presentation/u/0/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/preview";
         item.description = "YAVIの紹介 Toshiaki Maki (@making), https://ik.am JSUG勉強会 2021-07-02 質問はTwitter(#jsug)にお願いします";
         item.date = "2021-09-09T13:53:13Z";
-        item.subject = "テクノロジー";    // TODO: 複数あるみたい
+        item.subject = new String[]{"テクノロジー"};
 
         return item;
     }
@@ -71,7 +71,7 @@ class GoogleSlideCollectorTest {
         item.link = "https://docs.google.com/presentation/d/e/2PACX-1vREU6ZguqLxGk_k1l3zvKbRo_TbMTKN3yEgfzrjA85foVXrmeYvWnOTefsaBycsb9m6H924VsZw_YKt/pub?start=false&loop=false&delayms=3000&slide=id.p";
         item.description = "The newsletter of RBS updates RubyKaigi Takeout 2021 Sep. 10th それでは、The newsletter of RBS updatesというタイトルで話させていただきたいと思います。 ----- 25 mins https://rubykaigi.org/2021-takeout Proposal";
         item.date = "2021-09-12T06:24:05Z";
-        item.subject = "テクノロジー";
+        item.subject = new String[]{"テクノロジー"};
         var collector = new GoogleSlideCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
@@ -88,7 +88,7 @@ class GoogleSlideCollectorTest {
         item.link = "https://docs.google.com/presentation/d/1PjqrNO4r0-lRcJrNls-iT2CJ-kubNY31c9eJVo_eFSk/edit?resourcekey=0-pyJknY9TXGs9BUh0F0UjpA";
         item.description = "パソコン、携帯電話、タブレットで新しいプレゼンテーションを作成し、他のユーザーと同時に共同編集できます。インターネット接続の有無に関係なく作業できます。Google スライドを使用して、PowerPoint ファイルを編集できます。本サービスは Google から無料で提供されています。";
         item.date = "2021-09-09T13:53:13Z";
-        item.subject = "テクノロジー";
+        item.subject = new String[]{"テクノロジー"};
 
         var collector = new GoogleSlideCollector(() -> Stream.of(item));
 

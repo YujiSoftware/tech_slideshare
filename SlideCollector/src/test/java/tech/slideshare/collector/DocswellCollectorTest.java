@@ -21,7 +21,7 @@ class DocswellCollectorTest {
         item.link = "https://www.docswell.com/s/kojimadev/534M2Z-2022-04-27-002038";
         item.description = "作者について: 30代後半から発信活動を始めて人生が楽しくなりました。 主にC#/設計技法/マネジメント/チームビルディングの情報を発信します。 デブサミ2020関西ベストスピーカー賞1位。 ITエンジニア向けの月刊誌「Software Design」4月号より連載記事を執筆中。 デンソークリエイト所属。発言は個人の見解。 スライド...";
         item.date = "2022-05-02T05:51:00Z";
-        item.subject = "テクノロジー";    // TODO: 複数あるみたい
+        item.subject = new String[]{"テクノロジー"};
 
         return item;
     }
