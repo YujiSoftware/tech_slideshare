@@ -2,6 +2,8 @@ package tech.slideshare.database;
 
 import java.sql.*;
 import java.time.ZonedDateTime;
+import java.util.ArrayList;
+import java.util.List;
 
 public class SlideDao extends AbstractDao {
 
@@ -41,6 +43,32 @@ public class SlideDao extends AbstractDao {
                 rs.next();
                 return rs.getBoolean(1);
             }
+        }
+    }
+
+    public List<SlideDto> getLatest(int limit) throws SQLException {
+        String sql = "SELECT slide_id, title, url, date, author, twitter FROM slide ORDER BY date DESC LIMIT ?";
+        try (PreparedStatement statement = con.prepareStatement(sql)) {
+            statement.setInt(1, limit);
+
+            statement.execute();
+
+            List<SlideDto> list = new ArrayList<>(limit);
+            try (ResultSet rs = statement.getResultSet()) {
+                while (rs.next()) {
+                    SlideDto slideDto = new SlideDto();
+                    slideDto.slideId = rs.getInt(1);
+                    slideDto.title = rs.getString(2);
+                    slideDto.url = rs.getString(3);
+                    slideDto.date = rs.getDate(4);
+                    slideDto.author = rs.getString(5);
+                    slideDto.twitter = rs.getString(6);
+
+                    list.add(slideDto);
+                }
+            }
+
+            return list;
         }
     }
 }
