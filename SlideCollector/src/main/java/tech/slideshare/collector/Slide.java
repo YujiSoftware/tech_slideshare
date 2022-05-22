@@ -12,7 +12,7 @@ public class Slide {
     private final String twitter;
 
     public Slide(String title, String link, String date, String author, String twitter) {
-        this.title = title;
+        this.title = title.replaceAll("\\p{Cntrl}", " ");
         this.link = link;
         this.date = DateTimeFormatter.ISO_INSTANT.withZone(ZoneId.of("Asia/Tokyo")).parse(date, ZonedDateTime::from);
         this.author = author;
