@@ -50,11 +50,10 @@ public class Main {
         try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password)) {
             con.setAutoCommit(false);
 
-            boolean updated = collect(con);
-            if (updated) {
-                Rss rss = createRSS(con);
-                publishRss(rss);
-            }
+            collect(con);
+
+            Rss rss = createRSS(con);
+            publishRss(rss);
         } catch (Throwable e) {
             logger.error("Collect failed!", e);
             exitCode = 1;
@@ -65,45 +64,31 @@ public class Main {
         System.exit(exitCode);
     }
 
-    private static boolean collect(Connection con) throws SQLException, JAXBException, IOException {
+    private static void collect(Connection con) throws SQLException, JAXBException, IOException {
         SlideDao slideDao = new SlideDao(con);
         TweetQueueDao tweetQueueDao = new TweetQueueDao(con);
-        boolean updated = false;
 
         for (SlideCollector collector : SLIDE_COLLECTOR_LIST) {
             logger.info("Got hatena bookmark. [collector={}]", collector.getClass().getCanonicalName());
 
-            long count = ThrowingStream.of(collector.collect(), SQLException.class)
-                    .map(s -> {
-                        try {
-                            if (slideDao.exists(s.getLink())) {
-                                return false;
-                            }
+            ThrowingStream.of(collector.collect(), SQLException.class).forEach(s -> {
+                try {
+                    if (slideDao.exists(s.getLink())) {
+                        return;
+                    }
 
-                            logger.debug("Enqueue: {}, {}", s.getTitle(), s.getLink());
+                    logger.debug("Enqueue: {}, {}", s.getTitle(), s.getLink());
 
-                            int slideId = slideDao.insert(s.getTitle(), s.getLink(), s.getDate(), s.getAuthor(), s.getTwitter());
-                            tweetQueueDao.insert(slideId);
+                    int slideId = slideDao.insert(s.getTitle(), s.getLink(), s.getDate(), s.getAuthor(), s.getTwitter());
+                    tweetQueueDao.insert(slideId);
 
-                            con.commit();
-
-                            return true;
-                        } catch (SQLException e) {
-                            logger.error("Enqueue failed. [title={}, link={}]", s.getTitle(), s.getLink(), e);
-                            con.rollback();
-
-                            return false;
-                        }
-                    })
-                    .normalFilter(b -> b)
-                    .count();
-
-            if (count > 0) {
-                updated = true;
-            }
+                    con.commit();
+                } catch (SQLException e) {
+                    logger.error("Enqueue failed. [title={}, link={}]", s.getTitle(), s.getLink(), e);
+                    con.rollback();
+                }
+            });
         }
-
-        return updated;
     }
 
     private static Rss createRSS(Connection con) throws SQLException {
