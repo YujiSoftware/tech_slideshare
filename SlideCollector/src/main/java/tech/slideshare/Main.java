@@ -1,5 +1,6 @@
 package tech.slideshare;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;
 import jakarta.xml.bind.Marshaller;
@@ -10,6 +11,7 @@ import tech.slideshare.collector.*;
 import tech.slideshare.database.SlideDao;
 import tech.slideshare.database.SlideDto;
 import tech.slideshare.database.TweetQueueDao;
+import tech.slideshare.json.Json;
 import tech.slideshare.rss.Channel;
 import tech.slideshare.rss.Item;
 import tech.slideshare.rss.Rss;
@@ -54,6 +56,8 @@ public class Main {
 
             Rss rss = createRSS(con);
             publishRss(rss);
+            Json json = createJson(con);
+            publishJson(json);
         } catch (Throwable e) {
             logger.error("Collect failed!", e);
             exitCode = 1;
@@ -133,6 +137,32 @@ public class Main {
 
         try (Writer writer = Files.newBufferedWriter(Path.of("feed.xml"), StandardCharsets.UTF_8)) {
             marshaller.marshal(rss, writer);
+        }
+    }
+
+    private static Json createJson(Connection con) throws SQLException {
+        ArrayList<Json.Item> items = new ArrayList<>(RSS_ITEMS);
+        for (SlideDto slide : new SlideDao(con).getLatest(RSS_ITEMS)) {
+            Json.Item item = new Json.Item();
+            item.title = slide.title;
+            item.author = slide.author;
+            item.twitter = slide.twitter;
+            item.link = slide.url;
+            item.date = Item.RSS_DATE_FORMATTER.format(Instant.ofEpochMilli(slide.date.getTime()));
+
+            items.add(item);
+        }
+
+        Json json = new Json();
+        json.items = items;
+
+        return json;
+    }
+
+    private static void publishJson(Json json) throws IOException {
+        ObjectMapper mapper = new ObjectMapper();
+        try (Writer writer = Files.newBufferedWriter(Path.of("feed.json"), StandardCharsets.UTF_8)) {
+            mapper.writeValue(writer, json);
         }
     }
 }
