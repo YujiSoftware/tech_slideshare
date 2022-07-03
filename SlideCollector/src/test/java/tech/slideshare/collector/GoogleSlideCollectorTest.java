@@ -20,9 +20,9 @@ class GoogleSlideCollectorTest {
 
     private Item getItem() {
         var item = new Item();
-        item.title = "YAVIの紹介";
-        item.link = "https://docs.google.com/presentation/u/0/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/preview";
-        item.description = "YAVIの紹介 Toshiaki Maki (@making), https://ik.am JSUG勉強会 2021-07-02 質問はTwitter(#jsug)にお願いします";
+        item.title = "スケールするGo";
+        item.link = "https://docs.google.com/presentation/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/preview";
+        item.description = "スケールするGo 2022年7月1日（金） @Qiita Night 資料URL：https://tenn.in/goscaling";
         item.date = "2021-09-09T13:53:13Z";
         item.subject = new String[]{"テクノロジー"};
 
@@ -43,14 +43,16 @@ class GoogleSlideCollectorTest {
         assertNull(slide.getAuthor());
         assertNull(slide.getTwitter());
         assertEquals(ZonedDateTime.of(2021, 9, 9, 22, 53, 13, 0, ZoneId.of("Asia/Tokyo")), slide.getDate());
+        assertEquals("スケールするGo 2022年7月1日（金） @Qiita Night 資料URL：https://tenn.in/goscaling", slide.getDescription());
+        assertEquals("https://lh4.googleusercontent.com/4hoEl59In9uZyxMvNyzYYq2eRw_jKLSERFsIUx23z3X0okAVDpIPVrhoxMGAmPIPBYTmONh5qiAH2A=w1200-h630-p", slide.getImage());
     }
 
     @ParameterizedTest
     @ValueSource(strings = {
-            "https://docs.google.com/presentation/u/0/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/edit",
-            "https://docs.google.com/presentation/u/0/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/edit?usp=embed_googleplus",
-            "https://docs.google.com/presentation/u/0/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/edit#slide=id.p",
-            "https://docs.google.com/presentation/u/0/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/mobilepresent",
+            "https://docs.google.com/presentation/u/0/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/edit",
+            "https://docs.google.com/presentation/u/0/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/edit?usp=embed_googleplus",
+            "https://docs.google.com/presentation/u/0/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/edit#slide=id.p",
+            "https://docs.google.com/presentation/u/0/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/mobilepresent",
     })
     public void 正規化(String link) throws IOException, JAXBException {
         var item = getItem();
@@ -61,7 +63,7 @@ class GoogleSlideCollectorTest {
         assertEquals(1, slides.size());
 
         Slide slide = slides.get(0);
-        assertEquals("https://docs.google.com/presentation/u/0/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/preview", slide.getLink());
+        assertEquals("https://docs.google.com/presentation/u/0/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/preview", slide.getLink());
     }
 
     @Test

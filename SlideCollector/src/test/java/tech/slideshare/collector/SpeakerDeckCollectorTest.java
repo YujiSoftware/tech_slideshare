@@ -43,6 +43,8 @@ class SpeakerDeckCollectorTest {
         assertEquals("yasaichi", slide.getAuthor());
         assertNull(slide.getTwitter());
         assertEquals(ZonedDateTime.of(2021, 9, 16, 18, 56, 20, 0, ZoneId.of("Asia/Tokyo")), slide.getDate());
+        assertEquals("September 15, 2021 @ iCARE Dev Meetup #25", slide.getDescription());
+        assertEquals("https://files.speakerdeck.com/presentations/c8556affd0f3401388af6d664d320c42/slide_0.jpg?19034361", slide.getImage());
     }
 
     @Test

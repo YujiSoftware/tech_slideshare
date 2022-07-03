@@ -14,6 +14,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNull;
 
 class Backpaper0CollectorTest {
 
@@ -42,6 +43,8 @@ class Backpaper0CollectorTest {
         assertEquals("うらがみ", slide.getAuthor());
         assertEquals("backpaper0", slide.getTwitter());
         assertEquals(ZonedDateTime.of(2021, 8, 15, 0, 12, 29, 0, ZoneId.of("Asia/Tokyo")), slide.getDate());
+        assertNull(slide.getDescription());
+        assertNull(slide.getImage());
     }
 
     @ParameterizedTest

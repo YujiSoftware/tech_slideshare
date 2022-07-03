@@ -11,8 +11,8 @@ public class SlideDao extends AbstractDao {
         super(con);
     }
 
-    public int insert(String title, String url, ZonedDateTime date, String author, String twitter) throws SQLException {
-        String sql = "INSERT INTO slide (title, url, date, author, twitter) VALUES (?, ?, ?, ?, ?)";
+    public int insert(String title, String url, ZonedDateTime date, String author, String twitter, String description, String image) throws SQLException {
+        String sql = "INSERT INTO slide (title, url, date, author, twitter, description, image) VALUES (?, ?, ?, ?, ?, ?, ?)";
 
         try (PreparedStatement statement = con.prepareStatement(sql)) {
             statement.setString(1, title);
@@ -20,6 +20,8 @@ public class SlideDao extends AbstractDao {
             statement.setTimestamp(3, Timestamp.valueOf(date.toLocalDateTime()));
             statement.setString(4, author);
             statement.setString(5, twitter);
+            statement.setString(6, description);
+            statement.setString(7, image);
 
             statement.executeUpdate();
         }
@@ -47,7 +49,7 @@ public class SlideDao extends AbstractDao {
     }
 
     public List<SlideDto> getLatest(int limit) throws SQLException {
-        String sql = "SELECT slide_id, title, url, date, author, twitter FROM slide ORDER BY date DESC LIMIT ?";
+        String sql = "SELECT slide_id, title, url, date, author, twitter, description, image FROM slide ORDER BY date DESC LIMIT ?";
         try (PreparedStatement statement = con.prepareStatement(sql)) {
             statement.setInt(1, limit);
 
@@ -63,6 +65,8 @@ public class SlideDao extends AbstractDao {
                     slideDto.date = rs.getDate(4);
                     slideDto.author = rs.getString(5);
                     slideDto.twitter = rs.getString(6);
+                    slideDto.description = rs.getString(7);
+                    slideDto.image = rs.getString(8);
 
                     list.add(slideDto);
                 }

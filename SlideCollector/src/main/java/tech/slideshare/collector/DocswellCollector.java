@@ -62,8 +62,10 @@ public class DocswellCollector implements SlideCollector {
             String title = article.headline;
             String author = article.author.name;
             String twitter = getTwitter(article.author.url);
+            String description = article.description;
+            String image = article.image;
 
-            return Optional.of(new Slide(title, link, item.date, author, twitter));
+            return Optional.of(new Slide(title, link, item.date, author, twitter, description, image));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get Docswell document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();

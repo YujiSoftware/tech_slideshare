@@ -78,15 +78,12 @@ public class GoogleSlideCollector implements SlideCollector {
             URL url = new URL(link);
             link = new URL(url.getProtocol(), url.getHost(), url.getPath()).toString();
 
-            String title = doc.getElementsByTag("meta")
-                    .stream()
-                    .filter(e -> e.attr("property").equals("og:title"))
-                    .findFirst()
-                    .map(e -> e.attr("content"))
-                    .orElse(doc.title().replaceAll(" - Google スライド", ""));
+            String title = doc.select("meta[property~=og:title]").attr("content");
             String author = getAuthor(link);
+            String description = doc.select("meta[property~=og:description]").attr("content");
+            String image = doc.select("meta[property~=og:image]").attr("content");
 
-            return Optional.of(new Slide(title, link, item.date, author, null));
+            return Optional.of(new Slide(title, link, item.date, author, null, description, image));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get GoogleSlide document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();

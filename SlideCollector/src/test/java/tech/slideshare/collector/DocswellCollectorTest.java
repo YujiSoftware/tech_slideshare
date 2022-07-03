@@ -40,6 +40,8 @@ class DocswellCollectorTest {
         assertEquals("小島 優介", slide.getAuthor());
         assertEquals("kojimadev", slide.getTwitter());
         assertEquals(ZonedDateTime.of(2022, 5, 2, 14, 51, 0, 0, ZoneId.of("Asia/Tokyo")), slide.getDate());
+        assertEquals("Engineering Manager Meetup #10 での発表資料です。\r\nhttps://engineering-manager-meetup.connpass.com/event/239203/", slide.getDescription());
+        assertEquals("https://www.docswell.com/thumbnail/NPJX1D85JX.jpg", slide.getImage());
     }
 
 }

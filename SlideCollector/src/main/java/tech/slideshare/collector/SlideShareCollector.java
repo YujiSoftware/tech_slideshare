@@ -84,11 +84,13 @@ public class SlideShareCollector implements SlideCollector {
                 return Optional.empty();
             }
 
-            String title = doc.title();
+            String title = doc.select("meta[property~=og:title]").attr("content");
             String author = getAuthor(doc);
             String twitter = getTwitter(doc);
+            String description = doc.select("meta[property~=og:description]").attr("content");
+            String image = doc.select("meta[property~=og:image]").attr("content");
 
-            return Optional.of(new Slide(title, link, item.date, author, twitter));
+            return Optional.of(new Slide(title, link, item.date, author, twitter, description, image));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get SlideShare document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();

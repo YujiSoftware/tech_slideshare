@@ -83,7 +83,7 @@ public class Main {
 
                     logger.debug("Enqueue: {}, {}", s.getTitle(), s.getLink());
 
-                    int slideId = slideDao.insert(s.getTitle(), s.getLink(), s.getDate(), s.getAuthor(), s.getTwitter());
+                    int slideId = slideDao.insert(s.getTitle(), s.getLink(), s.getDate(), s.getAuthor(), s.getTwitter(), s.getDescription(), s.getImage());
                     tweetQueueDao.insert(slideId);
 
                     con.commit();
@@ -147,6 +147,8 @@ public class Main {
             item.title = slide.title;
             item.author = slide.author;
             item.twitter = slide.twitter;
+            item.description = slide.description;
+            item.image = slide.image;
             item.link = slide.url;
             item.date = Item.RSS_DATE_FORMATTER.format(Instant.ofEpochMilli(slide.date.getTime()));
 

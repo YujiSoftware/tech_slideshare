@@ -11,12 +11,18 @@ public class Slide {
     private final String author;
     private final String twitter;
 
-    public Slide(String title, String link, String date, String author, String twitter) {
+    private final String description;
+
+    private final String image;
+
+    public Slide(String title, String link, String date, String author, String twitter, String description, String image) {
         this.title = title.replaceAll("\\p{Cntrl}", " ");
         this.link = link;
         this.date = DateTimeFormatter.ISO_INSTANT.withZone(ZoneId.of("Asia/Tokyo")).parse(date, ZonedDateTime::from);
         this.author = author;
         this.twitter = twitter;
+        this.description = description;
+        this.image = image;
     }
 
     public String getTitle() {
@@ -37,5 +43,13 @@ public class Slide {
 
     public String getTwitter() {
         return twitter;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public String getImage() {
+        return image;
     }
 }

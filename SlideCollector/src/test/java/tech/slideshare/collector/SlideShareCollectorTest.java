@@ -39,6 +39,8 @@ public class SlideShareCollectorTest {
         assertEquals("Hiroshi Shimizu", slide.getAuthor());
         assertEquals("simizu706", slide.getTwitter());
         assertEquals(ZonedDateTime.of(2021, 9, 14, 21, 18, 46, 0, ZoneId.of("Asia/Tokyo")), slide.getDate());
+        assertEquals("Cmdstanrとreduce_sum()の使い方を解説します", slide.getDescription());
+        assertEquals("https://cdn.slidesharecdn.com/ss_thumbnails/cmdstanrintroduction-210913075930-thumbnail-4.jpg?cb=1631520361", slide.getImage());
     }
 
     @Test

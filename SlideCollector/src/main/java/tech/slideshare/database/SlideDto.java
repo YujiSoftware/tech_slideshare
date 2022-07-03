@@ -14,4 +14,8 @@ public class SlideDto {
     public String author;
 
     public String twitter;
+
+    public String description;
+
+    public String image;
 }
