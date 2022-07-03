@@ -33,6 +33,8 @@ public class Main {
 
     private static final int RSS_ITEMS = 20;
 
+    private static final int JSON_ITEMS = 50;
+
     private static final SlideCollector[] SLIDE_COLLECTOR_LIST =
             new SlideCollector[]{
                     new SlideShareCollector(),
@@ -141,8 +143,8 @@ public class Main {
     }
 
     private static Json createJson(Connection con) throws SQLException {
-        ArrayList<Json.Item> items = new ArrayList<>(RSS_ITEMS);
-        for (SlideDto slide : new SlideDao(con).getLatest(RSS_ITEMS)) {
+        ArrayList<Json.Item> items = new ArrayList<>(JSON_ITEMS);
+        for (SlideDto slide : new SlideDao(con).getLatest(JSON_ITEMS)) {
             Json.Item item = new Json.Item();
             item.title = slide.title;
             item.author = slide.author;
