@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンド研修【ミクシィ22新卒技術研修】 (mixi_engineers)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2022-frontend-training</link>
+        <dc:date>2022-07-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組織にアジャイルを芽吹かせる (市谷聡啓,@papanda)</title>
         <link>https://www.docswell.com/s/papanda/5PY3E5-2022-04-12-163026</link>
         <dc:date>2022-07-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Tokyor37 (TokorosawaYoshio)</title>
         <link>https://www.slideshare.net/TokorosawaYoshio/tokyor37</link>
-        <dc:date>2022-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FedCM - OpenID TechNight vol.19 (Nov Matake,@nov)</title>
-        <link>https://www.slideshare.net/matake/fedcmtechnight19pdf</link>
         <dc:date>2022-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
