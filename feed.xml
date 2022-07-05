@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織にアジャイルを芽吹かせる (市谷聡啓,@papanda)</title>
+        <link>https://www.docswell.com/s/papanda/5PY3E5-2022-04-12-163026</link>
+        <dc:date>2022-07-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MLOpsを始めよう!/MLOps-Getting-Started (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/mlops-getting-started</link>
         <dc:date>2022-07-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>FedCM - OpenID TechNight vol.19 (Nov Matake,@nov)</title>
         <link>https://www.slideshare.net/matake/fedcmtechnight19pdf</link>
-        <dc:date>2022-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Real Problems Behind Indexing | 5 Hours of Technical SEO (Onely)</title>
-        <link>https://www.slideshare.net/Onelycom/the-real-problems-behind-indexing-5-hours-of-technical-seo</link>
         <dc:date>2022-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
