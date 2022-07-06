@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュリティ研修【ミクシィ22新卒技術研修】 (mixi_engineers)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2022-security-training</link>
+        <dc:date>2022-07-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>働きやすく、成長し続けられるエンジニア組織を目指して  /  Growth-Ready Engineering Team (株式会社カオナビ)</title>
         <link>https://speakerdeck.com/kaonavi/growth-ready-engineering-team</link>
         <dc:date>2022-07-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JJUGCCC2022spring_連続画像処理による位置情報計算を支えるマイクロサービスアーキテクチャ (Kaname Motoyama)</title>
         <link>https://www.slideshare.net/ssuserce3925/jjugccc2022spring</link>
-        <dc:date>2022-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The precision blade (Alberto Brandolini,@ziobrando)</title>
-        <link>https://www.slideshare.net/ziobrando/the-precision-blade</link>
         <dc:date>2022-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
