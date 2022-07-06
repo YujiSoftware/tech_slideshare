@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>可用性の高いチーム / go to high availability team (kyonmm)</title>
+        <link>https://speakerdeck.com/kyonmm/go-to-high-availability-team</link>
+        <dc:date>2022-07-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンドエンジニアが変える現場のモデリング意識/modeling-awareness-changed-by-front-end-engineers (uggds)</title>
         <link>https://speakerdeck.com/uggds/modeling-awareness-changed-by-front-end-engineers</link>
         <dc:date>2022-07-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>UnityでAddComponentするだけで3DViwerを作れた話 (akoto)</title>
         <link>https://www.slideshare.net/MakotoAdachi/unityaddcomponent3dviwer</link>
-        <dc:date>2022-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSではじめるMLOps (MariOhbuchi)</title>
-        <link>https://www.slideshare.net/MariOhbuchi/awsmlops</link>
         <dc:date>2022-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
