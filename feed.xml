@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アジャイルで不確実性に向き合うための開発タスクの切り方 (tanden)</title>
+        <link>https://speakerdeck.com/tanden/aziyairudebu-que-shi-xing-nixiang-kihe-utamefalsekai-fa-tasukufalseqie-rifang</link>
+        <dc:date>2022-07-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CodePipelineを用いたECS on EC2でのBlue/Greenデプロイメント (hikaru-champion)</title>
         <link>https://speakerdeck.com/hikaruchampion/greendepuroimento</link>
         <dc:date>2022-07-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>商流物流金流.pdf (Zenji Kanzaki)</title>
         <link>https://www.slideshare.net/zenjikanzaki/pdf-252038641</link>
-        <dc:date>2022-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【15-E-7】セキュアな環境でDevOpsを実現する厳選ツール (Developers Summit,@devsumi)</title>
-        <link>https://www.slideshare.net/devsumi/15e7devops</link>
         <dc:date>2022-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
