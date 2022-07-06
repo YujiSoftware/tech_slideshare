@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CodePipelineを用いたECS on EC2でのBlue/Greenデプロイメント (hikaru-champion)</title>
+        <link>https://speakerdeck.com/hikaruchampion/greendepuroimento</link>
+        <dc:date>2022-07-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Off-Policy Evaluation for Large Action Spaces via Embeddings (ICML'22) (usaito)</title>
         <link>https://speakerdeck.com/usaito/off-policy-evaluation-for-large-action-spaces-via-embeddings-icml-22-fa637679-6fae-4b04-8e3a-5d2809e4408d</link>
         <dc:date>2022-07-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【15-E-7】セキュアな環境でDevOpsを実現する厳選ツール (Developers Summit,@devsumi)</title>
         <link>https://www.slideshare.net/devsumi/15e7devops</link>
-        <dc:date>2022-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AlloyDB のデータ分析基盤での活用におけるポテンシャルとは？ (Takuya Ogawa)</title>
-        <link>https://www.slideshare.net/TakuyaOgawa8/whatisthepotentialofalloydbindataanalysisinfrastructurepdf</link>
         <dc:date>2022-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
