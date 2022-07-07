@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS Organizations 組織を移動する時に 考えること 100 連発 (AWS Control Tower への組み込みを添えて) / Hatena Engineer Seminar #20 (nabeo)</title>
+        <link>https://speakerdeck.com/nabeo/hatena-engineer-seminar-number-20</link>
+        <dc:date>2022-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>可用性の高いチーム / go to high availability team (kyonmm)</title>
         <link>https://speakerdeck.com/kyonmm/go-to-high-availability-team</link>
         <dc:date>2022-07-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Linked Open Data勉強会2020 後編：SPARQLの簡単な使い方、SPARQLを使った簡単なアプリ開発 (KnowledgeGraph,@kgrchallenge)</title>
         <link>https://www.slideshare.net/KnowledgeGraph/linked-open-data2020-sparqlsparql</link>
-        <dc:date>2022-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UnityでAddComponentするだけで3DViwerを作れた話 (akoto)</title>
-        <link>https://www.slideshare.net/MakotoAdachi/unityaddcomponent3dviwer</link>
         <dc:date>2022-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
