@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オンラインとオフラインのハイブリット開発 (KMiura)</title>
+        <link>https://speakerdeck.com/miura55/yahuming-gu-wu-tech-meetup-lt-number-2-rimotowakudebian-hua-sitakai-fa-sutairu</link>
+        <dc:date>2022-07-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI活用やデータ分析をする前に知っておきたい！エンタープライズデータアーキテクチャ入門/ What You Need to Know Before Using AI and Analyzing Data! Introduction to Enterprise Data Architecture (Takahiro Esaki)</title>
+        <link>https://speakerdeck.com/tkhresk/what-you-need-to-know-before-using-ai-and-analyzing-data-introduction-to-enterprise-data-architecture</link>
+        <dc:date>2022-07-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクトマネジメントを学ぶための推しの書籍 (mizuman)</title>
         <link>https://speakerdeck.com/mizuman/recommended-books-for-product-management</link>
         <dc:date>2022-07-07T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>組織にアジャイルを芽吹かせる (市谷聡啓,@papanda)</title>
         <link>https://www.docswell.com/s/papanda/5PY3E5-2022-04-12-163026</link>
         <dc:date>2022-07-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MLOpsを始めよう!/MLOps-Getting-Started (oracle4engineer)</title>
-        <link>https://speakerdeck.com/oracle4engineer/mlops-getting-started</link>
-        <dc:date>2022-07-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>統計的因果探索: 領域知識とデータによる因果構造グラフの推測 (Shohei SHIMIZU)</title>
-        <link>https://speakerdeck.com/sshimizu2006/tong-ji-de-yin-guo-tan-suo-ling-yu-zhi-shi-todetaniyoruyin-guo-gou-zao-gurahufalsetui-ce</link>
-        <dc:date>2022-07-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
