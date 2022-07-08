@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクトマネジメントを学ぶための推しの書籍 (mizuman)</title>
+        <link>https://speakerdeck.com/mizuman/recommended-books-for-product-management</link>
+        <dc:date>2022-07-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>バックドアの発見と検証 (lumin)</title>
         <link>https://speakerdeck.com/luminjp/batukudoafalsefa-jian-tojian-zheng</link>
         <dc:date>2022-07-07T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>統計的因果探索: 領域知識とデータによる因果構造グラフの推測 (Shohei SHIMIZU)</title>
         <link>https://speakerdeck.com/sshimizu2006/tong-ji-de-yin-guo-tan-suo-ling-yu-zhi-shi-todetaniyoruyin-guo-gou-zao-gurahufalsetui-ce</link>
         <dc:date>2022-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction to MLOps (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/introduction-to-mlops</link>
-        <dc:date>2022-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
