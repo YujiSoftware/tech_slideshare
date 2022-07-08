@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜNotionを使うのか2022 / Why use notion as our workspace in 2022 (linyows)</title>
+        <link>https://speakerdeck.com/linyows/why-use-notion-as-our-workspace-in-2022</link>
+        <dc:date>2022-07-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リモートでも本音が言い合えるチームに なるためにやったこと (1coin)</title>
         <link>https://speakerdeck.com/1coin/rimotodemoben-yin-gayan-ihe-erutimuni-narutameniyatutakoto</link>
         <dc:date>2022-07-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[DL輪読会]Model soups: averaging weights of multiple fine-tuned models i… (Deep Learning JP)</title>
         <link>https://www.slideshare.net/DeepLearningJP2016/dlmodel-soups-averaging-weights-of-multiple-finetuned-models-improves-accuracy-without-increasing-inference-time</link>
-        <dc:date>2022-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SLAM開発における課題と対策の一例の紹介 (miyanegi)</title>
-        <link>https://www.slideshare.net/miyanegi/problems-and-solutions-for-slam-development-206014778</link>
         <dc:date>2022-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
