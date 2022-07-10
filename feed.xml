@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Web5のビットコイナーによる俯瞰 (Toshihide Hara)</title>
+        <link>https://speakerdeck.com/toshihr/web5falsebitutokoinaniyorufu-kan</link>
+        <dc:date>2022-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>安全なPHPアプリケーションの作り方2016 (徳丸 浩,@ockeghem)</title>
         <link>https://www.docswell.com/s/ockeghem/58W1LZ-phpconf2016</link>
         <dc:date>2022-07-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>セキュリティ研修【ミクシィ22新卒技術研修】 (mixi_engineers)</title>
         <link>https://speakerdeck.com/mixi_engineers/2022-security-training</link>
-        <dc:date>2022-07-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>働きやすく、成長し続けられるエンジニア組織を目指して  /  Growth-Ready Engineering Team (株式会社カオナビ)</title>
-        <link>https://speakerdeck.com/kaonavi/growth-ready-engineering-team</link>
         <dc:date>2022-07-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
