@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>シリーズAの教科書（検定外） (Yoshiki)</title>
+        <link>https://speakerdeck.com/shiraishi/sirizuafalsejiao-ke-shu-jian-ding-wai</link>
+        <dc:date>2022-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>高知こどもの図書館のウェブサイト制作から学ぶ “一緒に作り、育てる” ウェブサイト (Rocket Martue)</title>
         <link>https://speakerdeck.com/rocketmartue/gao-zhi-kodomofalsetu-shu-guan-falseuebusaitozhi-zuo-karaxue-bu-xu-nizuo-ri-yu-teru-uebusaito</link>
         <dc:date>2022-07-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CodePipelineを用いたECS on EC2でのBlue/Greenデプロイメント (hikaru-champion)</title>
         <link>https://speakerdeck.com/hikaruchampion/greendepuroimento</link>
-        <dc:date>2022-07-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Off-Policy Evaluation for Large Action Spaces via Embeddings (ICML'22) (usaito)</title>
-        <link>https://speakerdeck.com/usaito/off-policy-evaluation-for-large-action-spaces-via-embeddings-icml-22-fa637679-6fae-4b04-8e3a-5d2809e4408d</link>
         <dc:date>2022-07-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
