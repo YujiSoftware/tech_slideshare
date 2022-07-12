@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サイバー攻撃から Kubernetes クラスタを守るための効果的なセキュリティ対策 (Kyohei Mizumoto)</title>
+        <link>https://speakerdeck.com/kyohmizu/saibagong-ji-kara-kubernetes-kurasutawoshou-rutamefalsexiao-guo-de-nasekiyuriteidui-ce</link>
+        <dc:date>2022-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>The HIG &amp; Software UI Design (usagimaru)</title>
         <link>https://speakerdeck.com/usagimaru/the-hig-and-software-ui-design</link>
         <dc:date>2022-07-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>可用性の高いチーム / go to high availability team (kyonmm)</title>
         <link>https://speakerdeck.com/kyonmm/go-to-high-availability-team</link>
-        <dc:date>2022-07-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドエンジニアが変える現場のモデリング意識/modeling-awareness-changed-by-front-end-engineers (uggds)</title>
-        <link>https://speakerdeck.com/uggds/modeling-awareness-changed-by-front-end-engineers</link>
         <dc:date>2022-07-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
