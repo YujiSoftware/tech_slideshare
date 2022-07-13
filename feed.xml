@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ログ基盤をCloudWatchLogからNewRelic Logs + S3に変えたら 利便性も上がってコストも下がった話  (ono-hiroshi1)</title>
+        <link>https://speakerdeck.com/onohiroshi1/roguji-pan-wocloudwatchlogkaranewrelic-logs-plus-s3nibian-etara-li-bian-xing-moshang-gatutekosutomoxia-gatutahua</link>
+        <dc:date>2022-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ウェブセキュリティのありがちな誤解を解説する (徳丸 浩,@ockeghem)</title>
         <link>https://www.docswell.com/s/ockeghem/K44J1K-phpconf2020</link>
         <dc:date>2022-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>認知科学のススメ (takanorip)</title>
         <link>https://speakerdeck.com/takanorip/ren-zhi-ke-xue-falsesusume</link>
-        <dc:date>2022-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Organizations 組織を移動する時に 考えること 100 連発 (AWS Control Tower への組み込みを添えて) / Hatena Engineer Seminar #20 (nabeo)</title>
-        <link>https://speakerdeck.com/nabeo/hatena-engineer-seminar-number-20</link>
         <dc:date>2022-07-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
