@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ウェブセキュリティのありがちな誤解を解説する (徳丸 浩,@ockeghem)</title>
+        <link>https://www.docswell.com/s/ockeghem/K44J1K-phpconf2020</link>
+        <dc:date>2022-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サイバー攻撃から Kubernetes クラスタを守るための効果的なセキュリティ対策 (Kyohei Mizumoto)</title>
         <link>https://speakerdeck.com/kyohmizu/saibagong-ji-kara-kubernetes-kurasutawoshou-rutamefalsexiao-guo-de-nasekiyuriteidui-ce</link>
         <dc:date>2022-07-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AWS Organizations 組織を移動する時に 考えること 100 連発 (AWS Control Tower への組み込みを添えて) / Hatena Engineer Seminar #20 (nabeo)</title>
         <link>https://speakerdeck.com/nabeo/hatena-engineer-seminar-number-20</link>
         <dc:date>2022-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>可用性の高いチーム / go to high availability team (kyonmm)</title>
-        <link>https://speakerdeck.com/kyonmm/go-to-high-availability-team</link>
-        <dc:date>2022-07-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
