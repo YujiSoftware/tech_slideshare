@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アーキテクトに求められるマインドとは / mindset for an architect (iselegant)</title>
+        <link>https://speakerdeck.com/iselegant/mindset-for-an-architect</link>
+        <dc:date>2022-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代に向けたクラウドにおける信頼性エンジニアリングの未来構想 / DICOMO2022 6A-1 (Yuuki Tsubouchi (yuuk1))</title>
         <link>https://speakerdeck.com/yuukit/dicomo2022-6a-1</link>
         <dc:date>2022-07-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>バックドアの発見と検証 (lumin)</title>
         <link>https://speakerdeck.com/luminjp/batukudoafalsefa-jian-tojian-zheng</link>
-        <dc:date>2022-07-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜNotionを使うのか2022 / Why use notion as our workspace in 2022 (linyows)</title>
-        <link>https://speakerdeck.com/linyows/why-use-notion-as-our-workspace-in-2022</link>
         <dc:date>2022-07-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
