@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MoT TechTalk #13 タクシーアプリ『GO』のデータサイエンス〜配車マッチングの継続的改善〜 (MoT dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/mot-techtalk-13</link>
+        <dc:date>2022-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ログ基盤をCloudWatchLogからNewRelic Logs + S3に変えたら 利便性も上がってコストも下がった話  (ono-hiroshi1)</title>
         <link>https://speakerdeck.com/onohiroshi1/roguji-pan-wocloudwatchlogkaranewrelic-logs-plus-s3nibian-etara-li-bian-xing-moshang-gatutekosutomoxia-gatutahua</link>
         <dc:date>2022-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>dbtとLookerにたどり着いたデータ基盤 ~しくじり先生俺みたいになるなを添えて~ (tenajima)</title>
         <link>https://speakerdeck.com/tenajima/dbttolookernitadorizhao-itadetaji-pan-sikuzirixian-sheng-an-mitaininarunawotian-ete</link>
-        <dc:date>2022-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>認知科学のススメ (takanorip)</title>
-        <link>https://speakerdeck.com/takanorip/ren-zhi-ke-xue-falsesusume</link>
         <dc:date>2022-07-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
