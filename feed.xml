@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Gitの便利ワザ</title>
+        <link>https://docs.google.com/presentation/d/1IOBGmIaa7pwYngWtg7_TjsRTGsUVn-YEyv03mtiC-3U/preview</link>
+        <dc:date>2022-07-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アーキテクトに求められるマインドとは / mindset for an architect (iselegant)</title>
         <link>https://speakerdeck.com/iselegant/mindset-for-an-architect</link>
         <dc:date>2022-07-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロダクトマネジメントを学ぶための推しの書籍 (mizuman)</title>
         <link>https://speakerdeck.com/mizuman/recommended-books-for-product-management</link>
-        <dc:date>2022-07-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バックドアの発見と検証 (lumin)</title>
-        <link>https://speakerdeck.com/luminjp/batukudoafalsefa-jian-tojian-zheng</link>
         <dc:date>2022-07-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
