@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>メルカリDesign Systemの実装と責務</title>
+        <link>https://docs.google.com/presentation/d/1RGMV6-bVkfdTUDbWkTr1XHqCY-_-sdR8umG5r47OOBE/preview</link>
+        <dc:date>2022-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>220720_ウェブアプリのダークモード対応</title>
+        <link>https://docs.google.com/presentation/d/1A_EZOsuM4sGV4wuzCxkyOqpNhEbZ5MYzkuSV6KwDoNQ/preview</link>
+        <dc:date>2022-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>保育園にカオスエンジニアリングを提案した話 / Chaos Night #1 (Mahito)</title>
         <link>https://speakerdeck.com/mahito/chaos-night-number-1</link>
         <dc:date>2022-07-19T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>The HIG &amp; Software UI Design (usagimaru)</title>
         <link>https://speakerdeck.com/usagimaru/the-hig-and-software-ui-design</link>
         <dc:date>2022-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアによるエンジニアのためのクックパッドマートLIVE説明会 - クックパッドマートのサーバーサイド開発 -  (Motoi Okuzono)</title>
-        <link>https://speakerdeck.com/mokuzon/enzinianiyoruenziniafalsetamefalsekutukupatudomatoliveshuo-ming-hui-kutukupatudomatofalsesabasaidokai-fa</link>
-        <dc:date>2022-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Meet passkeys (Sato Takeshi)</title>
-        <link>https://speakerdeck.com/satotakeshi/meet-passkeys</link>
-        <dc:date>2022-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
