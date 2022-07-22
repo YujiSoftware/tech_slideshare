@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>このタイミングで知っておきたい 開発生産性の高いエンジニア組織の特徴とは / dev-sumi-20220721-productivity-features (Findy)</title>
+        <link>https://speakerdeck.com/findyinc/dev-sumi-20220721-productivity-features</link>
+        <dc:date>2022-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Atomic Design とテストの○○な話 (takf)</title>
         <link>https://speakerdeck.com/takfjp/atomic-design-totesutofalse-nahua</link>
         <dc:date>2022-07-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ウェブセキュリティのありがちな誤解を解説する (徳丸 浩,@ockeghem)</title>
         <link>https://www.docswell.com/s/ockeghem/K44J1K-phpconf2020</link>
         <dc:date>2022-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイバー攻撃から Kubernetes クラスタを守るための効果的なセキュリティ対策 (Kyohei Mizumoto)</title>
-        <link>https://speakerdeck.com/kyohmizu/saibagong-ji-kara-kubernetes-kurasutawoshou-rutamefalsexiao-guo-de-nasekiyuriteidui-ce</link>
-        <dc:date>2022-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
