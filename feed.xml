@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>dbtとLookerにたどり着いたデータ基盤 ~混ざり合う境界線を考える~ (tenajima)</title>
+        <link>https://speakerdeck.com/tenajima/dbttolookernitadorizhao-itadetaji-pan-hun-zarihe-ujing-jie-xian-wokao-eru</link>
+        <dc:date>2022-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>このタイミングで知っておきたい 開発生産性の高いエンジニア組織の特徴とは / dev-sumi-20220721-productivity-features (Findy)</title>
         <link>https://speakerdeck.com/findyinc/dev-sumi-20220721-productivity-features</link>
         <dc:date>2022-07-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ログ基盤をCloudWatchLogからNewRelic Logs + S3に変えたら 利便性も上がってコストも下がった話  (ono-hiroshi1)</title>
         <link>https://speakerdeck.com/onohiroshi1/roguji-pan-wocloudwatchlogkaranewrelic-logs-plus-s3nibian-etara-li-bian-xing-moshang-gatutekosutomoxia-gatutahua</link>
-        <dc:date>2022-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウェブセキュリティのありがちな誤解を解説する (徳丸 浩,@ockeghem)</title>
-        <link>https://www.docswell.com/s/ockeghem/K44J1K-phpconf2020</link>
         <dc:date>2022-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
