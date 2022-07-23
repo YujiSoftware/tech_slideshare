@@ -16,6 +16,11 @@
         <dc:date>2022-07-22T15:00:00Z</dc:date>
     </item>
     <item>
+        <title>回帰分析ではlm()ではなくestimatr::lm_robust()を使おう / TokyoR100 (森下光之助)</title>
+        <link>https://speakerdeck.com/dropout009/tokyor100</link>
+        <dc:date>2022-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>dbtとLookerにたどり着いたデータ基盤 ~混ざり合う境界線を考える~ (tenajima)</title>
         <link>https://speakerdeck.com/tenajima/dbttolookernitadorizhao-itadetaji-pan-hun-zarihe-ujing-jie-xian-wokao-eru</link>
         <dc:date>2022-07-21T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Gitの便利ワザ</title>
         <link>https://docs.google.com/presentation/d/1IOBGmIaa7pwYngWtg7_TjsRTGsUVn-YEyv03mtiC-3U/preview</link>
         <dc:date>2022-07-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アーキテクトに求められるマインドとは / mindset for an architect (iselegant)</title>
-        <link>https://speakerdeck.com/iselegant/mindset-for-an-architect</link>
-        <dc:date>2022-07-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
