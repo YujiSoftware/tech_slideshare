@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JJUGナイトセミナー「Jakarta EE特集：Java EE / Jakarta EE」 (Takakiyo Tanaka)</title>
+        <link>https://speakerdeck.com/takakiyo/jakarta-ee</link>
+        <dc:date>2022-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Recap CDN, Edge, WebAssembly | ワインと鍋.js#1 (sadnessOjisan)</title>
         <link>https://speakerdeck.com/sadnessojisan/recap-cdn-edge-webassembly-waintoguo-dot-js-number-1</link>
         <dc:date>2022-07-22T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>機械学習システムアーキテクチャ入門 ＃2 (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/ji-jie-xue-xi-sisutemuakitekutiyaru-men-2</link>
         <dc:date>2022-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Gitの便利ワザ</title>
-        <link>https://docs.google.com/presentation/d/1IOBGmIaa7pwYngWtg7_TjsRTGsUVn-YEyv03mtiC-3U/preview</link>
-        <dc:date>2022-07-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
