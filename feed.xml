@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2022年のモダンCSS改 (tonkotsuboy_com)</title>
+        <link>https://speakerdeck.com/tonkotsuboy_com/2022nian-falsemodancssgai</link>
+        <dc:date>2022-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コンテキストとセマンティクスを意識してリーダブルなE2Eテストコードを書こう (tsuemura)</title>
+        <link>https://speakerdeck.com/tsuemura/kontekisutotosemanteikusuwoyi-shi-siteridaburunae2etesutokodowoshu-kou</link>
+        <dc:date>2022-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リーダブルテストコード / #vstat (Junichi Ito)</title>
         <link>https://speakerdeck.com/jnchito/number-vstat</link>
         <dc:date>2022-07-26T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>保育園にカオスエンジニアリングを提案した話 / Chaos Night #1 (Mahito)</title>
         <link>https://speakerdeck.com/mahito/chaos-night-number-1</link>
         <dc:date>2022-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アノテーションのバイアス排除に関する2020年代の研究動向 (kuri8ive)</title>
-        <link>https://speakerdeck.com/kuri8ive/not-to-introduce-bias-into-annotation</link>
-        <dc:date>2022-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スクラムと見積り</title>
-        <link>https://docs.google.com/presentation/d/1s0ZVo6O7cs8wDAFLAwV2xyaMJCQ3yYSd1yf5sW3e-Pg/preview</link>
-        <dc:date>2022-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
