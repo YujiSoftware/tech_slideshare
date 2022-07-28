@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>10歳の minne から、これから長く続くプロダクトを作るすべての人へ (tsumichan)</title>
+        <link>https://speakerdeck.com/tsumichan/10sui-false-minne-kara-korekarachang-kusok-kupurodakutowozuo-rusubetefalseren-he</link>
+        <dc:date>2022-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DBRE 活動と information_schema (_awache)</title>
         <link>https://speakerdeck.com/_awache/dbre-huo-dong-to-information-schema</link>
         <dc:date>2022-07-27T15:00:00Z</dc:date>
@@ -13,6 +18,11 @@
     <item>
         <title>ECサイトの脆弱性診断をいい感じにやりたい/OWASPKansaiNight_LT1_220727 (OWASP Kansai)</title>
         <link>https://speakerdeck.com/owaspkansai/owaspkansainight-lt1-220727</link>
+        <dc:date>2022-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SRE Gaps#2「SREの実践」 スタートアップカオスとSRE (Takuya Kawatsu)</title>
+        <link>https://speakerdeck.com/kw2/sre-gaps-number-2-srefalseshi-jian-sutatoatupukaosutosre</link>
         <dc:date>2022-07-27T15:00:00Z</dc:date>
     </item>
     <item>
@@ -94,15 +104,5 @@
         <title>回帰分析ではlm()ではなくestimatr::lm_robust()を使おう / TokyoR100 (森下光之助)</title>
         <link>https://speakerdeck.com/dropout009/tokyor100</link>
         <dc:date>2022-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbtとLookerにたどり着いたデータ基盤 ~混ざり合う境界線を考える~ (tenajima)</title>
-        <link>https://speakerdeck.com/tenajima/dbttolookernitadorizhao-itadetaji-pan-hun-zarihe-ujing-jie-xian-wokao-eru</link>
-        <dc:date>2022-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>bitkey流DDD活用術 〜なぜDDD?なにを活かしてどこを壊すのか〜 (株式会社ビットキー / Bitkey Inc.)</title>
-        <link>https://speakerdeck.com/bitkey/bitkeyliu-dddhuo-yong-shu-nazeddd-naniwohuo-kasitedokowohuai-sufalseka</link>
-        <dc:date>2022-07-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
