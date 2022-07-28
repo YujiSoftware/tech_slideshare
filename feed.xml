@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DBRE 活動と information_schema (_awache)</title>
+        <link>https://speakerdeck.com/_awache/dbre-huo-dong-to-information-schema</link>
+        <dc:date>2022-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ECサイトの脆弱性診断をいい感じにやりたい/OWASPKansaiNight_LT1_220727 (OWASP Kansai)</title>
         <link>https://speakerdeck.com/owaspkansai/owaspkansainight-lt1-220727</link>
         <dc:date>2022-07-27T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>bitkey流DDD活用術 〜なぜDDD?なにを活かしてどこを壊すのか〜 (株式会社ビットキー / Bitkey Inc.)</title>
         <link>https://speakerdeck.com/bitkey/bitkeyliu-dddhuo-yong-shu-nazeddd-naniwohuo-kasitedokowohuai-sufalseka</link>
         <dc:date>2022-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>このタイミングで知っておきたい 開発生産性の高いエンジニア組織の特徴とは / dev-sumi-20220721-productivity-features (Findy)</title>
-        <link>https://speakerdeck.com/findyinc/dev-sumi-20220721-productivity-features</link>
-        <dc:date>2022-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
