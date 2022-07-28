@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ECサイトの脆弱性診断をいい感じにやりたい/OWASPKansaiNight_LT1_220727 (OWASP Kansai)</title>
+        <link>https://speakerdeck.com/owaspkansai/owaspkansainight-lt1-220727</link>
+        <dc:date>2022-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PMにとって（地味だけど）重要な 「相談される」スキルとは (_mmakiyama)</title>
         <link>https://speakerdeck.com/mirutemakiyama/pmnitotute-di-wei-dakedo-zhong-yao-na-xiang-tan-sareru-sukirutoha</link>
         <dc:date>2022-07-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ベストプラクティス・ドリフト (SSSSSSSSSSSSHHHHHHHHHH)</title>
         <link>https://speakerdeck.com/sssssssssssshhhhhhhhhh/besutopurakuteisudorihuto</link>
-        <dc:date>2022-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「サプライチェーン攻撃」に立ち向かう！SBOMを使った脆弱性管理がもたらす品質とスピード向上 (ihcomega56)</title>
-        <link>https://speakerdeck.com/ihcomega56/sbom-makes-your-work-more-efficient-and-secure</link>
         <dc:date>2022-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
