@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>rqlite: The lighweight, distibuted database built on Raft and SQLite</title>
+        <link>https://docs.google.com/presentation/d/1Q8lQgCaODlecHa2hS-OeMGoij22oMZ_xhyeRTrQnn6o/preview</link>
+        <dc:date>2022-07-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title> 〇〇みたいな検索作ってと言われたときに考えること / thinking before developing search system like that one (ryokato)</title>
         <link>https://speakerdeck.com/ryook/thinking-before-developing-search-system-like-that-one</link>
         <dc:date>2022-07-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>パスワードに関する最近の動向 (kenchan0130)</title>
         <link>https://speakerdeck.com/kenchan0130/hasuwatoniguan-suruzui-jin-falsedong-xiang</link>
-        <dc:date>2022-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今こそ知りたいSpringエコシステム</title>
-        <link>https://docs.google.com/presentation/d/1kadTi0yG-_tKQ5cR7nyE4BBmdDOnEVXUmkncZueZgv8/preview</link>
         <dc:date>2022-07-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
