@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コンテナ・サーバーレスを使えばモダンアプリケーションになりますか？ (track3jyo-hama)</title>
+        <link>https://speakerdeck.com/track3jyo/modern-application-awssummit</link>
+        <dc:date>2022-07-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>rqlite: The lighweight, distibuted database built on Raft and SQLite</title>
         <link>https://docs.google.com/presentation/d/1Q8lQgCaODlecHa2hS-OeMGoij22oMZ_xhyeRTrQnn6o/preview</link>
         <dc:date>2022-07-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>atama plusの開発チームはどのように「不確実性」に向き合ってきたか〜2022夏版〜 (atama plus)</title>
         <link>https://speakerdeck.com/atamaplus/devsumi2022-summer</link>
-        <dc:date>2022-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>パスワードに関する最近の動向 (kenchan0130)</title>
-        <link>https://speakerdeck.com/kenchan0130/hasuwatoniguan-suruzui-jin-falsedong-xiang</link>
         <dc:date>2022-07-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
