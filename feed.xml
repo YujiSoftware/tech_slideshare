@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プログラム解析入門、もしくはC/C++を安全に書くのが難しすぎる話</title>
+        <link>https://docs.google.com/presentation/d/1WHmCLeC5ZPiq2MBOQaZc-pNVWaJanx8eXAkViGl2zws/preview</link>
+        <dc:date>2022-07-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>eBPF-based Container Networking (Che-Wei Lin)</title>
         <link>https://speakerdeck.com/johnlin/ebpf-based-container-networking</link>
         <dc:date>2022-07-30T15:00:00Z</dc:date>
@@ -14,6 +19,11 @@
         <title>プログラミング言語Go完全入門</title>
         <link>https://docs.google.com/presentation/u/0/d/1RVx8oeIMAWxbB7ZP2IcgZXnbZokjCmTUca-AbIpORGk/preview</link>
         <dc:date>2022-07-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データ分析の世界で今後必要とされる役割 「Purple People」とは (tama-chang)</title>
+        <link>https://speakerdeck.com/cmtamai/detafen-xi-falseshi-jie-dejin-hou-bi-yao-tosareruyi-ge-purple-people-toha</link>
+        <dc:date>2022-07-29T15:00:00Z</dc:date>
     </item>
     <item>
         <title>コンテナ・サーバーレスを使えばモダンアプリケーションになりますか？ (track3jyo-hama)</title>
@@ -93,16 +103,6 @@
     <item>
         <title>コンテキストとセマンティクスを意識してリーダブルなE2Eテストコードを書こう (tsuemura)</title>
         <link>https://speakerdeck.com/tsuemura/kontekisutotosemanteikusuwoyi-shi-siteridaburunae2etesutokodowoshu-kou</link>
-        <dc:date>2022-07-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リーダブルテストコード / #vstat (Junichi Ito)</title>
-        <link>https://speakerdeck.com/jnchito/number-vstat</link>
-        <dc:date>2022-07-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Jetpack Composeのイマ，プロダクション導入への道 (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/jetpack-composefalseima-purodakusiyondao-ru-hefalsedao</link>
         <dc:date>2022-07-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
