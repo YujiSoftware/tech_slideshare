@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ぼくらが選んだ次のMySQL 8.0 / MySQL80 Which We Choose (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/mysql80-which-we-choose</link>
+        <dc:date>2022-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プログラム解析入門、もしくはC/C++を安全に書くのが難しすぎる話</title>
         <link>https://docs.google.com/presentation/d/1WHmCLeC5ZPiq2MBOQaZc-pNVWaJanx8eXAkViGl2zws/preview</link>
         <dc:date>2022-07-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データマネジメントがちょっと楽になるBigQuery監査ログの使い方 (nagai shinya)</title>
         <link>https://speakerdeck.com/__hiza__/detamanezimentogatiyotutole-ninarubigqueryjian-cha-rogufalseshi-ifang</link>
-        <dc:date>2022-07-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2022年のモダンCSS改 (tonkotsuboy_com)</title>
-        <link>https://speakerdeck.com/tonkotsuboy_com/2022nian-falsemodancssgai</link>
         <dc:date>2022-07-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
