@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>バッファープールが大きいMySQL v5.7でDROP DATABASEが詰まった原因と対策 / Causes and Remedies for DROP DATABASE Stuck in MySQL v5.7 with Large Buffer Pool (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/causes-and-remedies-for-drop-database-stuck-in-mysql-v5-dot-7-with-large-buffer-pool</link>
+        <dc:date>2022-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ぼくらが選んだ次のMySQL 8.0 / MySQL80 Which We Choose (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/mysql80-which-we-choose</link>
         <dc:date>2022-08-01T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>PMにとって（地味だけど）重要な 「相談される」スキルとは (_mmakiyama)</title>
         <link>https://speakerdeck.com/mirutemakiyama/pmnitotute-di-wei-dakedo-zhong-yao-na-xiang-tan-sareru-sukirutoha</link>
         <dc:date>2022-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データマネジメントがちょっと楽になるBigQuery監査ログの使い方 (nagai shinya)</title>
-        <link>https://speakerdeck.com/__hiza__/detamanezimentogatiyotutole-ninarubigqueryjian-cha-rogufalseshi-ifang</link>
-        <dc:date>2022-07-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
