@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>設計の考え方とやり方 (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/she-ji-falsekao-efang-toyarifang</link>
+        <dc:date>2022-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ESM移行は無理だけどおれもSindreのライブラリが使いたい！ (sosukesuzuki)</title>
         <link>https://speakerdeck.com/sosukesuzuki/esmyi-xing-hawu-li-dakedooremosindrefalseraiburarigashi-itai</link>
         <dc:date>2022-08-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>局所特徴量：画像認識における特徴表現獲得の変遷 (Hironobu Fujiyoshi)</title>
         <link>https://speakerdeck.com/hf149/ju-suo-te-zheng-liang-hua-xiang-ren-shi-niokerute-zheng-biao-xian-huo-de-falsebian-qian</link>
-        <dc:date>2022-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ECサイトの脆弱性診断をいい感じにやりたい/OWASPKansaiNight_LT1_220727 (OWASP Kansai)</title>
-        <link>https://speakerdeck.com/owaspkansai/owaspkansainight-lt1-220727</link>
         <dc:date>2022-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
