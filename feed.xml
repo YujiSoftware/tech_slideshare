@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ESM移行は無理だけどおれもSindreのライブラリが使いたい！ (sosukesuzuki)</title>
+        <link>https://speakerdeck.com/sosukesuzuki/esmyi-xing-hawu-li-dakedooremosindrefalseraiburarigashi-itai</link>
+        <dc:date>2022-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>バッファープールが大きいMySQL v5.7でDROP DATABASEが詰まった原因と対策 / Causes and Remedies for DROP DATABASE Stuck in MySQL v5.7 with Large Buffer Pool (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/causes-and-remedies-for-drop-database-stuck-in-mysql-v5-dot-7-with-large-buffer-pool</link>
         <dc:date>2022-08-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ECサイトの脆弱性診断をいい感じにやりたい/OWASPKansaiNight_LT1_220727 (OWASP Kansai)</title>
         <link>https://speakerdeck.com/owaspkansai/owaspkansainight-lt1-220727</link>
-        <dc:date>2022-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SRE Gaps#2「SREの実践」 スタートアップカオスとSRE (Takuya Kawatsu)</title>
-        <link>https://speakerdeck.com/kw2/sre-gaps-number-2-srefalseshi-jian-sutatoatupukaosutosre</link>
         <dc:date>2022-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
