@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェアアーキテクチャの基礎: Software Architecture in a Nutshell (Koji SHIMADA)</title>
+        <link>https://speakerdeck.com/snoozer05/sohutoueaakitekutiyafalseji-chu-software-architecture-in-a-nutshell</link>
+        <dc:date>2022-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>testingパッケージを使った Webアプリケーションテスト 単体テストからE2Eテストまで / gocon2022spring (Yoichiro Shimizu)</title>
         <link>https://speakerdeck.com/budougumi0617/gocon2022spring</link>
         <dc:date>2022-08-03T15:00:00Z</dc:date>
@@ -81,6 +86,11 @@
         <dc:date>2022-07-29T15:00:00Z</dc:date>
     </item>
     <item>
+        <title>LINE Technical Writing Meetup vol.14 (SORACOM)</title>
+        <link>https://speakerdeck.com/soracom/line-technical-writing-meetup-vol-dot-14</link>
+        <dc:date>2022-07-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>rqlite: The lighweight, distibuted database built on Raft and SQLite</title>
         <link>https://docs.google.com/presentation/d/1Q8lQgCaODlecHa2hS-OeMGoij22oMZ_xhyeRTrQnn6o/preview</link>
         <dc:date>2022-07-29T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>ZOZOTOWNにおけるDatadogの活用と、それを支える全社管理者の取り組み / 2022-07-27 (tippy)</title>
         <link>https://speakerdeck.com/tippy/2022-07-27</link>
         <dc:date>2022-07-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Carp言語さわってみた 〜鯉を取り戻せ編〜 (t-sin)</title>
-        <link>https://speakerdeck.com/tsin45/carpyan-yu-sawatutemita-li-woqu-rili-sebian</link>
-        <dc:date>2022-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>もうつまらないとは言わせない！「わかりやすい」プレゼンを作るために気をつけたいこと (torisoup)</title>
-        <link>https://speakerdeck.com/torisoup/moutumaranaitohayan-wasenai-wakariyasui-purezenwozuo-rutameniqi-wotuketaikoto</link>
-        <dc:date>2022-07-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
