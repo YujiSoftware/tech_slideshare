@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Goで実装するブランドネットワークとの接続ポイント (pongzu)</title>
+        <link>https://speakerdeck.com/pongzu/godeshi-zhuang-suruburandonetutowakutofalsejie-sok-pointo</link>
+        <dc:date>2022-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インフラのテストに VPC Reachability Analyzer は外せないという話 (Nulab Inc.)</title>
         <link>https://speakerdeck.com/nulabinc/vpc-reachability-analyzer-for-infrastructure-testing</link>
         <dc:date>2022-08-03T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>“UXデザイン”のキモ『ユーザーインタビュー』の具体的テクニックを詳解！| UXデザイン基礎セミナー 第2回 (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/ux-ux-2</link>
         <dc:date>2022-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10歳の minne から、これから長く続くプロダクトを作るすべての人へ (tsumichan)</title>
-        <link>https://speakerdeck.com/tsumichan/10sui-false-minne-kara-korekarachang-kusok-kupurodakutowozuo-rusubetefalseren-he</link>
-        <dc:date>2022-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
