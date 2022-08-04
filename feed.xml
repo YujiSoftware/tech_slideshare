@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>testingパッケージを使った Webアプリケーションテスト 単体テストからE2Eテストまで / gocon2022spring (Yoichiro Shimizu)</title>
+        <link>https://speakerdeck.com/budougumi0617/gocon2022spring</link>
+        <dc:date>2022-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Goで実装するブランドネットワークとの接続ポイント (pongzu)</title>
         <link>https://speakerdeck.com/pongzu/godeshi-zhuang-suruburandonetutowakutofalsejie-sok-pointo</link>
         <dc:date>2022-08-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>もうつまらないとは言わせない！「わかりやすい」プレゼンを作るために気をつけたいこと (torisoup)</title>
         <link>https://speakerdeck.com/torisoup/moutumaranaitohayan-wasenai-wakariyasui-purezenwozuo-rutameniqi-wotuketaikoto</link>
-        <dc:date>2022-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>“UXデザイン”のキモ『ユーザーインタビュー』の具体的テクニックを詳解！| UXデザイン基礎セミナー 第2回 (Yoshiki Hayama,@storywriter)</title>
-        <link>https://www.slideshare.net/storywriterjp/ux-ux-2</link>
         <dc:date>2022-07-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
