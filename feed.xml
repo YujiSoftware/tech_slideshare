@@ -21,6 +21,11 @@
         <dc:date>2022-08-03T15:00:00Z</dc:date>
     </item>
     <item>
+        <title>今 SLI/SLO の監視をするなら Sloth が良さそうという話 (kanata)</title>
+        <link>https://speakerdeck.com/shotakitazawa/slo-falsejian-shi-wosurunara-sloth-galiang-sasoutoiuhua</link>
+        <dc:date>2022-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インフラのテストに VPC Reachability Analyzer は外せないという話 (Nulab Inc.)</title>
         <link>https://speakerdeck.com/nulabinc/vpc-reachability-analyzer-for-infrastructure-testing</link>
         <dc:date>2022-08-03T15:00:00Z</dc:date>
@@ -38,6 +43,11 @@
     <item>
         <title>ESM移行は無理だけどおれもSindreのライブラリが使いたい！ (sosukesuzuki)</title>
         <link>https://speakerdeck.com/sosukesuzuki/esmyi-xing-hawu-li-dakedooremosindrefalseraiburarigashi-itai</link>
+        <dc:date>2022-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>塩漬けにしているMySQL 8.0.xxをバージョンアップしたくなる、ここ数年でのMySQL 8.0の改善点 / MySQL Update 202208 (YoshiakiYamasaki)</title>
+        <link>https://speakerdeck.com/yoshiakiyamasaki/mysql-update-202208</link>
         <dc:date>2022-08-02T15:00:00Z</dc:date>
     </item>
     <item>
@@ -93,16 +103,6 @@
     <item>
         <title>rqlite: The lighweight, distibuted database built on Raft and SQLite</title>
         <link>https://docs.google.com/presentation/d/1Q8lQgCaODlecHa2hS-OeMGoij22oMZ_xhyeRTrQnn6o/preview</link>
-        <dc:date>2022-07-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> 〇〇みたいな検索作ってと言われたときに考えること / thinking before developing search system like that one (ryokato)</title>
-        <link>https://speakerdeck.com/ryook/thinking-before-developing-search-system-like-that-one</link>
-        <dc:date>2022-07-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ZOZOTOWNにおけるDatadogの活用と、それを支える全社管理者の取り組み / 2022-07-27 (tippy)</title>
-        <link>https://speakerdeck.com/tippy/2022-07-27</link>
         <dc:date>2022-07-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
