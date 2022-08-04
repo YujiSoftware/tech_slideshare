@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インフラのテストに VPC Reachability Analyzer は外せないという話 (Nulab Inc.)</title>
+        <link>https://speakerdeck.com/nulabinc/vpc-reachability-analyzer-for-infrastructure-testing</link>
+        <dc:date>2022-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>設計の考え方とやり方 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/she-ji-falsekao-efang-toyarifang</link>
         <dc:date>2022-08-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>10歳の minne から、これから長く続くプロダクトを作るすべての人へ (tsumichan)</title>
         <link>https://speakerdeck.com/tsumichan/10sui-false-minne-kara-korekarachang-kusok-kupurodakutowozuo-rusubetefalseren-he</link>
-        <dc:date>2022-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テンソル分解の基礎と応用（MIRU2022チュートリアル） (Tatsuya Yokota)</title>
-        <link>https://speakerdeck.com/yokotatsuya/tensorufen-jie-falseji-chu-toying-yong-miru2022tiyutoriaru</link>
         <dc:date>2022-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
