@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュアなTerraformの使い方 ～ 機密情報をコードに含めず環境構築するにはどうしたらいいの？ (Haruka Sakihara)</title>
+        <link>https://speakerdeck.com/harukasakihara/sekiyuanaterraformfalseshi-ifang-ji-mi-qing-bao-wokodonihan-mezuhuan-jing-gou-zhu-surunihadousitaraiifalse</link>
+        <dc:date>2022-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サイバー攻撃を想定したクラウドネイティブセキュリティガイドラインとCNAPP及びSecurity Observabilityの未来 (SAKON)</title>
         <link>https://speakerdeck.com/sakon310/saibagong-ji-woxiang-ding-sitakuraudoneiteibusekiyuriteigaidoraintocnappji-bisecurity-observabilityfalsewei-lai</link>
         <dc:date>2022-08-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>バッファープールが大きいMySQL v5.7でDROP DATABASEが詰まった原因と対策 / Causes and Remedies for DROP DATABASE Stuck in MySQL v5.7 with Large Buffer Pool (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/causes-and-remedies-for-drop-database-stuck-in-mysql-v5-dot-7-with-large-buffer-pool</link>
-        <dc:date>2022-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ぼくらが選んだ次のMySQL 8.0 / MySQL80 Which We Choose (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/mysql80-which-we-choose</link>
         <dc:date>2022-08-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
