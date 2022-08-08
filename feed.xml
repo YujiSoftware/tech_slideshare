@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>脆弱性スキャナのOWASP ZAPを コードベースで扱ってみる / OWASP ZAP on a code base (task4233)</title>
+        <link>https://speakerdeck.com/task4233/owasp-zap-on-a-code-base</link>
+        <dc:date>2022-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュアなTerraformの使い方 ～ 機密情報をコードに含めず環境構築するにはどうしたらいいの？ (Haruka Sakihara)</title>
         <link>https://speakerdeck.com/harukasakihara/sekiyuanaterraformfalseshi-ifang-ji-mi-qing-bao-wokodonihan-mezuhuan-jing-gou-zhu-surunihadousitaraiifalse</link>
         <dc:date>2022-08-05T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>塩漬けにしているMySQL 8.0.xxをバージョンアップしたくなる、ここ数年でのMySQL 8.0の改善点 / MySQL Update 202208 (YoshiakiYamasaki)</title>
         <link>https://speakerdeck.com/yoshiakiyamasaki/mysql-update-202208</link>
         <dc:date>2022-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バッファープールが大きいMySQL v5.7でDROP DATABASEが詰まった原因と対策 / Causes and Remedies for DROP DATABASE Stuck in MySQL v5.7 with Large Buffer Pool (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/causes-and-remedies-for-drop-database-stuck-in-mysql-v5-dot-7-with-large-buffer-pool</link>
-        <dc:date>2022-08-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
