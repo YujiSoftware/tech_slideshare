@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>rqlite: replicating SQLite using Raft Consensus</title>
+        <link>https://docs.google.com/presentation/d/1lSNrZJUbAGD-ZsfD8B6_VPLVjq5zb7SlJMzDblq2yzU/preview</link>
+        <dc:date>2022-08-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクトマネージャーの役割と育成、評価 (Yasuhiro Okada)</title>
         <link>https://speakerdeck.com/middleokada/purodakutomaneziyafalseyi-ge-toyu-cheng-ping-jia</link>
         <dc:date>2022-08-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ログラスを支える技術的投資の仕組み / loglass-technical-investment (urmot)</title>
         <link>https://speakerdeck.com/urmot/loglass-technical-investment</link>
-        <dc:date>2022-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ESM移行は無理だけどおれもSindreのライブラリが使いたい！ (sosukesuzuki)</title>
-        <link>https://speakerdeck.com/sosukesuzuki/esmyi-xing-hawu-li-dakedooremosindrefalseraiburarigashi-itai</link>
         <dc:date>2022-08-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
