@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクトマネージャーの役割と育成、評価 (Yasuhiro Okada)</title>
+        <link>https://speakerdeck.com/middleokada/purodakutomaneziyafalseyi-ge-toyu-cheng-ping-jia</link>
+        <dc:date>2022-08-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>脆弱性スキャナのOWASP ZAPを コードベースで扱ってみる / OWASP ZAP on a code base (task4233)</title>
         <link>https://speakerdeck.com/task4233/owasp-zap-on-a-code-base</link>
         <dc:date>2022-08-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ESM移行は無理だけどおれもSindreのライブラリが使いたい！ (sosukesuzuki)</title>
         <link>https://speakerdeck.com/sosukesuzuki/esmyi-xing-hawu-li-dakedooremosindrefalseraiburarigashi-itai</link>
-        <dc:date>2022-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>塩漬けにしているMySQL 8.0.xxをバージョンアップしたくなる、ここ数年でのMySQL 8.0の改善点 / MySQL Update 202208 (YoshiakiYamasaki)</title>
-        <link>https://speakerdeck.com/yoshiakiyamasaki/mysql-update-202208</link>
         <dc:date>2022-08-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
