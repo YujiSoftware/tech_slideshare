@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Introduction to Data Oriented Design (Electronic Arts / DICE)</title>
+        <link>https://www.slideshare.net/DICEStudio/introduction-to-data-oriented-design</link>
+        <dc:date>2022-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>rqlite: replicating SQLite using Raft Consensus</title>
         <link>https://docs.google.com/presentation/d/1lSNrZJUbAGD-ZsfD8B6_VPLVjq5zb7SlJMzDblq2yzU/preview</link>
         <dc:date>2022-08-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>インフラのテストに VPC Reachability Analyzer は外せないという話 (Nulab Inc.)</title>
         <link>https://speakerdeck.com/nulabinc/vpc-reachability-analyzer-for-infrastructure-testing</link>
         <dc:date>2022-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>設計の考え方とやり方 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/she-ji-falsekao-efang-toyarifang</link>
-        <dc:date>2022-08-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
