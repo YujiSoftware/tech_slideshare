@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Dive into JVM JIT Compiler (Ikuo Suyama)</title>
+        <link>https://speakerdeck.com/martin_lover/dive-into-jvm-jit-compiler</link>
+        <dc:date>2022-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Introduction to Data Oriented Design (Electronic Arts / DICE)</title>
         <link>https://www.slideshare.net/DICEStudio/introduction-to-data-oriented-design</link>
         <dc:date>2022-08-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>今 SLI/SLO の監視をするなら Sloth が良さそうという話 (kanata)</title>
         <link>https://speakerdeck.com/shotakitazawa/slo-falsejian-shi-wosurunara-sloth-galiang-sasoutoiuhua</link>
-        <dc:date>2022-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インフラのテストに VPC Reachability Analyzer は外せないという話 (Nulab Inc.)</title>
-        <link>https://speakerdeck.com/nulabinc/vpc-reachability-analyzer-for-infrastructure-testing</link>
         <dc:date>2022-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
