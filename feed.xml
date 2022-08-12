@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソースコードから脆弱性を見つけよう</title>
+        <link>https://docs.google.com/presentation/d/1XlgYzmGiAvh2XM4fcjX9dZCpjcDTHuGHjSojlhz9X8w/preview</link>
+        <dc:date>2022-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Dive into JVM JIT Compiler (Ikuo Suyama)</title>
         <link>https://speakerdeck.com/martin_lover/dive-into-jvm-jit-compiler</link>
         <dc:date>2022-08-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Goで実装するブランドネットワークとの接続ポイント (pongzu)</title>
         <link>https://speakerdeck.com/pongzu/godeshi-zhuang-suruburandonetutowakutofalsejie-sok-pointo</link>
-        <dc:date>2022-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今 SLI/SLO の監視をするなら Sloth が良さそうという話 (kanata)</title>
-        <link>https://speakerdeck.com/shotakitazawa/slo-falsejian-shi-wosurunara-sloth-galiang-sasoutoiuhua</link>
         <dc:date>2022-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
