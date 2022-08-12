@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発環境のセキュリティおよびCI/CDパイプラインのセキュア化 (Hiroki Suezawa)</title>
+        <link>https://speakerdeck.com/rung/training-devenv-security-ja</link>
+        <dc:date>2022-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソースコードから脆弱性を見つけよう</title>
         <link>https://docs.google.com/presentation/d/1XlgYzmGiAvh2XM4fcjX9dZCpjcDTHuGHjSojlhz9X8w/preview</link>
         <dc:date>2022-08-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>testingパッケージを使った Webアプリケーションテスト 単体テストからE2Eテストまで / gocon2022spring (Yoichiro Shimizu)</title>
         <link>https://speakerdeck.com/budougumi0617/gocon2022spring</link>
-        <dc:date>2022-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goで実装するブランドネットワークとの接続ポイント (pongzu)</title>
-        <link>https://speakerdeck.com/pongzu/godeshi-zhuang-suruburandonetutowakutofalsejie-sok-pointo</link>
         <dc:date>2022-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
