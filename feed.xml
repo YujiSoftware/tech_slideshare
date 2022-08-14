@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リモートワークにおけるファシリテーションの方法論</title>
+        <link>https://docs.google.com/presentation/d/1dQgbxB6_0kosazzgfk0Gmoa8c7dInfOy_NvZejfpneo/preview</link>
+        <dc:date>2022-08-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>45分間で「ユーザー中心のものづくり」ができるまで詰め込む (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/45-252537767</link>
         <dc:date>2022-08-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェアアーキテクチャの基礎: Software Architecture in a Nutshell (Koji SHIMADA)</title>
         <link>https://speakerdeck.com/snoozer05/sohutoueaakitekutiyafalseji-chu-software-architecture-in-a-nutshell</link>
-        <dc:date>2022-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Settlement simulation testing to ensure correct settlement processing  (Takashi Matsuyuki)</title>
-        <link>https://speakerdeck.com/applepine1125/settlement-simulation-testing-to-ensure-correct-settlement-processing</link>
         <dc:date>2022-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
