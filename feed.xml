@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go1.19で採用された Pattern-defeating Quicksort の紹介 (po3rin)</title>
+        <link>https://speakerdeck.com/po3rin/go1-dot-19decai-yong-sareta-pattern-defeating-quicksort-falseshao-jie</link>
+        <dc:date>2022-08-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リモートワークにおけるファシリテーションの方法論</title>
         <link>https://docs.google.com/presentation/d/1dQgbxB6_0kosazzgfk0Gmoa8c7dInfOy_NvZejfpneo/preview</link>
         <dc:date>2022-08-13T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>チームで盛り上げる ファシリテーション (Yusuke Hisatsu)</title>
         <link>https://speakerdeck.com/yusukehisatsu/timudesheng-rishang-geru-huasiritesiyon</link>
         <dc:date>2022-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアアーキテクチャの基礎: Software Architecture in a Nutshell (Koji SHIMADA)</title>
-        <link>https://speakerdeck.com/snoozer05/sohutoueaakitekutiyafalseji-chu-software-architecture-in-a-nutshell</link>
-        <dc:date>2022-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
