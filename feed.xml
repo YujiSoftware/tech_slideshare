@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[2022 UPDATE] Google Cloud Official Icons and Solution Architectures</title>
+        <link>https://docs.google.com/presentation/d/1fD1AwQo4E9Un6012zyPEb7NvUAGlzF6L-vo5DbUe4NQ/preview</link>
+        <dc:date>2022-08-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Go1.19で採用された Pattern-defeating Quicksort の紹介 (po3rin)</title>
         <link>https://speakerdeck.com/po3rin/go1-dot-19decai-yong-sareta-pattern-defeating-quicksort-falseshao-jie</link>
         <dc:date>2022-08-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Istioを活用したセキュアなマイクロサービスの実現/Secure Microservices with Istio (id)</title>
         <link>https://speakerdeck.com/ido_kara_deru/secure-microservices-with-istio</link>
-        <dc:date>2022-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pococha CultureDeck (DaisukeMizuta)</title>
-        <link>https://speakerdeck.com/daisukemzt/pococha-culturedeck</link>
         <dc:date>2022-08-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
