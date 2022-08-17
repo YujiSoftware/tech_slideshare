@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[shared] 20220815 What's new in Go 1.19?</title>
+        <link>https://docs.google.com/presentation/d/1FkXdI9oR8mUCzh-woca7O3K_T5iZCirp7QcoJY3d4Wk/preview</link>
+        <dc:date>2022-08-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[2022 UPDATE] Google Cloud Official Icons and Solution Architectures</title>
         <link>https://docs.google.com/presentation/d/1fD1AwQo4E9Un6012zyPEb7NvUAGlzF6L-vo5DbUe4NQ/preview</link>
         <dc:date>2022-08-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Step-by-Step MLOps and Microsoft Products (KoheiOgawa)</title>
         <link>https://speakerdeck.com/shisyu_gaku/step-by-step-mlops-and-microsoft-products</link>
-        <dc:date>2022-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Istioを活用したセキュアなマイクロサービスの実現/Secure Microservices with Istio (id)</title>
-        <link>https://speakerdeck.com/ido_kara_deru/secure-microservices-with-istio</link>
         <dc:date>2022-08-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
