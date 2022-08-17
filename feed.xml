@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Reactivity Transform (kazupon)</title>
+        <link>https://speakerdeck.com/kazupon/reactivity-transform</link>
+        <dc:date>2022-08-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes撤退、 その後のはてなの取り組み / kubernetes meetup tokyo number 22 (Hayato Imai)</title>
+        <link>https://speakerdeck.com/hayajo/kubernetes-meetup-tokyo-number-22-cfc51d31-6b4c-44f0-a715-5c3fe1f14650</link>
+        <dc:date>2022-08-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20220815 - Something with Svelte</title>
         <link>https://docs.google.com/presentation/d/1vZRqPCEbqx_OcafmNl3doYRZs4z9WZbMmFSU59TUhQw/preview</link>
         <dc:date>2022-08-16T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>セキュアなTerraformの使い方 ～ 機密情報をコードに含めず環境構築するにはどうしたらいいの？ (Haruka Sakihara)</title>
         <link>https://speakerdeck.com/harukasakihara/sekiyuanaterraformfalseshi-ifang-ji-mi-qing-bao-wokodonihan-mezuhuan-jing-gou-zhu-surunihadousitaraiifalse</link>
         <dc:date>2022-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイバー攻撃を想定したクラウドネイティブセキュリティガイドラインとCNAPP及びSecurity Observabilityの未来 (SAKON)</title>
-        <link>https://speakerdeck.com/sakon310/saibagong-ji-woxiang-ding-sitakuraudoneiteibusekiyuriteigaidoraintocnappji-bisecurity-observabilityfalsewei-lai</link>
-        <dc:date>2022-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイバー攻撃を想定したクラウドネイティブセキュリティガイドラインとCNAPP及びSecurity Observabilityの未来 (Shun Yoshie)</title>
-        <link>https://speakerdeck.com/syoshie/saibagong-ji-woxiang-ding-sitakuraudoneiteibusekiyuriteigaidoraintocnappji-bisecurity-observabilityfalsewei-lai</link>
-        <dc:date>2022-08-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
