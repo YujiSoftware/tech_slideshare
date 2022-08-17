@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20220815 - Something with Svelte</title>
+        <link>https://docs.google.com/presentation/d/1vZRqPCEbqx_OcafmNl3doYRZs4z9WZbMmFSU59TUhQw/preview</link>
+        <dc:date>2022-08-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Reactコンポーネントにおける テスト手法の選択肢 (sakito)</title>
+        <link>https://speakerdeck.com/sakito/reactkonponentoniokeru-tesutoshou-fa-falsexuan-ze-zhi</link>
+        <dc:date>2022-08-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[shared] 20220815 What's new in Go 1.19?</title>
         <link>https://docs.google.com/presentation/d/1FkXdI9oR8mUCzh-woca7O3K_T5iZCirp7QcoJY3d4Wk/preview</link>
         <dc:date>2022-08-16T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>実践 SpiceDB - クライドネイティブ時代をサバイブできるパーミッション管理の実装を目指して / Practical SpiceDB (Takashi Yoneuchi)</title>
         <link>https://speakerdeck.com/lmt_swallow/practical-spicedb</link>
-        <dc:date>2022-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>eBPFで実現するコンテナランタイムセキュリティ / Container Runtime Security with eBPF (TERAOKA Keisuke)</title>
-        <link>https://speakerdeck.com/tobachi/container-runtime-security-with-ebpf</link>
-        <dc:date>2022-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Step-by-Step MLOps and Microsoft Products (KoheiOgawa)</title>
-        <link>https://speakerdeck.com/shisyu_gaku/step-by-step-mlops-and-microsoft-products</link>
         <dc:date>2022-08-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
