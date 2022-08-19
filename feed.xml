@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MySQL/Postgres におけるトランザクション分離レベル (mpyw)</title>
+        <link>https://speakerdeck.com/mpyw/postgres-niokerutoranzakusiyonfen-li-reberu</link>
+        <dc:date>2022-08-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【メタサーベイ】基盤モデル / Foundation Models (cvpaper. challenge,@HirokatuKataoka)</title>
         <link>https://www.slideshare.net/cvpaperchallenge/foundation-models</link>
         <dc:date>2022-08-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>rqlite: replicating SQLite using Raft Consensus</title>
         <link>https://docs.google.com/presentation/d/1lSNrZJUbAGD-ZsfD8B6_VPLVjq5zb7SlJMzDblq2yzU/preview</link>
-        <dc:date>2022-08-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトマネージャーの役割と育成、評価 (Yasuhiro Okada)</title>
-        <link>https://speakerdeck.com/middleokada/purodakutomaneziyafalseyi-ge-toyu-cheng-ping-jia</link>
         <dc:date>2022-08-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
