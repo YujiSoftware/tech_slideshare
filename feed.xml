@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【メタサーベイ】基盤モデル / Foundation Models (cvpaper. challenge,@HirokatuKataoka)</title>
+        <link>https://www.slideshare.net/cvpaperchallenge/foundation-models</link>
+        <dc:date>2022-08-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Web Componentsを作れる デザインツールの開発 (Ryohei Ikegami)</title>
         <link>https://speakerdeck.com/seanchas116/web-componentswozuo-reru-dezainturufalsekai-fa</link>
         <dc:date>2022-08-17T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>プロダクトマネージャーの役割と育成、評価 (Yasuhiro Okada)</title>
         <link>https://speakerdeck.com/middleokada/purodakutomaneziyafalseyi-ge-toyu-cheng-ping-jia</link>
         <dc:date>2022-08-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脆弱性スキャナのOWASP ZAPを コードベースで扱ってみる / OWASP ZAP on a code base (task4233)</title>
-        <link>https://speakerdeck.com/task4233/owasp-zap-on-a-code-base</link>
-        <dc:date>2022-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
