@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>不幸を再生産しないための設計に対する向き合い方 (MinoDriven)</title>
+        <link>https://speakerdeck.com/minodriven/bu-xing-wozai-sheng-chan-sinaitamefalseshe-ji-nidui-suruxiang-kihe-ifang</link>
+        <dc:date>2022-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モデリングはキラキラ技術より地味だが役に立つ / modeling-over-shiny-tech (Jumpei Chikamori)</title>
         <link>https://speakerdeck.com/pei0804/modeling-over-shiny-tech</link>
         <dc:date>2022-08-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Dive into JVM JIT Compiler (Ikuo Suyama)</title>
         <link>https://speakerdeck.com/martin_lover/dive-into-jvm-jit-compiler</link>
-        <dc:date>2022-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction to Data Oriented Design (Electronic Arts / DICE)</title>
-        <link>https://www.slideshare.net/DICEStudio/introduction-to-data-oriented-design</link>
         <dc:date>2022-08-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
