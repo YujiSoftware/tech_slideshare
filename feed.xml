@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ユーザーインタビューからその後どうするの？ 得られた情報を「UXデザイン」に落とし込む方法 | UXデザイン基礎セミナー 第3回 (Yoshiki Hayama,@storywriter)</title>
+        <link>https://www.slideshare.net/storywriterjp/ux-ux-3</link>
+        <dc:date>2022-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>FastAPI って何者？</title>
         <link>https://docs.google.com/presentation/d/1pBzS8Wm4ubuBlcQIOcjrVpFwDgQNXqvtWWxbjt71Eoc/preview</link>
         <dc:date>2022-08-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Go1.19で採用された Pattern-defeating Quicksort の紹介 (po3rin)</title>
         <link>https://speakerdeck.com/po3rin/go1-dot-19decai-yong-sareta-pattern-defeating-quicksort-falseshao-jie</link>
         <dc:date>2022-08-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リモートワークにおけるファシリテーションの方法論</title>
-        <link>https://docs.google.com/presentation/d/1dQgbxB6_0kosazzgfk0Gmoa8c7dInfOy_NvZejfpneo/preview</link>
-        <dc:date>2022-08-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
