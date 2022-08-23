@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI Project Management Flow and Build Trap Review (yurfuwa)</title>
+        <link>https://speakerdeck.com/yurfuwa/ai-project-management-flow-and-build-trap-review</link>
+        <dc:date>2022-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ユーザーインタビューからその後どうするの？ 得られた情報を「UXデザイン」に落とし込む方法 | UXデザイン基礎セミナー 第3回 (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/ux-ux-3</link>
         <dc:date>2022-08-21T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>[shared] 20220815 What's new in Go 1.19?</title>
         <link>https://docs.google.com/presentation/d/1FkXdI9oR8mUCzh-woca7O3K_T5iZCirp7QcoJY3d4Wk/preview</link>
         <dc:date>2022-08-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[2022 UPDATE] Google Cloud Official Icons and Solution Architectures</title>
-        <link>https://docs.google.com/presentation/d/1fD1AwQo4E9Un6012zyPEb7NvUAGlzF6L-vo5DbUe4NQ/preview</link>
-        <dc:date>2022-08-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
