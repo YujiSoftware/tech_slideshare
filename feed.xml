@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[公開] HTTP/3の今と将来 (html5j #71)</title>
+        <link>https://docs.google.com/presentation/d/1zguVfx0ApC2IehcSp50-IXquWdekmXDwoJWomql_UOE/preview</link>
+        <dc:date>2022-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI Project Management Flow and Build Trap Review (yurfuwa)</title>
         <link>https://speakerdeck.com/yurfuwa/ai-project-management-flow-and-build-trap-review</link>
         <dc:date>2022-08-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>賢く「振り分ける」ための Topology Aware Hints #k8sjp / Kubernetes Meetup Tokyo 52nd (y_taka_23)</title>
         <link>https://speakerdeck.com/ytaka23/kubernetes-meetup-tokyo-52nd</link>
-        <dc:date>2022-08-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[shared] 20220815 What's new in Go 1.19?</title>
-        <link>https://docs.google.com/presentation/d/1FkXdI9oR8mUCzh-woca7O3K_T5iZCirp7QcoJY3d4Wk/preview</link>
         <dc:date>2022-08-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
