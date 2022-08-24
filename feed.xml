@@ -6,9 +6,19 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>メタバースの激流とXR業界のイマ / The Metaverse Torrent and the XR Industry Today (ikkou)</title>
+        <link>https://speakerdeck.com/ikkou/the-metaverse-torrent-and-the-xr-industry-today</link>
+        <dc:date>2022-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>30分でわかるシステム運用アンチパターン / Operations Anti Patterns in 30 minutes (Yuichi Tanaka)</title>
         <link>https://speakerdeck.com/yuichielectric/operations-anti-patterns-in-30-minutes</link>
         <dc:date>2022-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Unreal Engine 5での非ゲームコンテンツ開発 | Unreal Engine によるものづくり分野のコンテンツ開発 (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
+        <link>https://www.docswell.com/s/EpicGamesJapan/578GVZ-UE5-monodzukuri</link>
+        <dc:date>2022-08-22T15:00:00Z</dc:date>
     </item>
     <item>
         <title>[公開] HTTP/3の今と将来 (html5j #71)</title>
@@ -93,16 +103,6 @@
     <item>
         <title>Reactivity Transform (kazupon)</title>
         <link>https://speakerdeck.com/kazupon/reactivity-transform</link>
-        <dc:date>2022-08-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes撤退、 その後のはてなの取り組み / kubernetes meetup tokyo number 22 (Hayato Imai)</title>
-        <link>https://speakerdeck.com/hayajo/kubernetes-meetup-tokyo-number-22-cfc51d31-6b4c-44f0-a715-5c3fe1f14650</link>
-        <dc:date>2022-08-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20220815 - Something with Svelte</title>
-        <link>https://docs.google.com/presentation/d/1vZRqPCEbqx_OcafmNl3doYRZs4z9WZbMmFSU59TUhQw/preview</link>
         <dc:date>2022-08-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
