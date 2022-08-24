@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Jamstackはなぜ生まれたのかを解説してみる (shinoyu)</title>
+        <link>https://speakerdeck.com/shinoyu/jamstackhanazesheng-maretafalsekawojie-shuo-sitemiru</link>
+        <dc:date>2022-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プライバシーテックの動向 〜エンジニア視点でのプライバシーの理解とBigTech企業のプライバシーテックの動向〜 (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/privacy-tech-trends</link>
+        <dc:date>2022-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>メタバースの激流とXR業界のイマ / The Metaverse Torrent and the XR Industry Today (ikkou)</title>
         <link>https://speakerdeck.com/ikkou/the-metaverse-torrent-and-the-xr-industry-today</link>
         <dc:date>2022-08-23T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Web Componentsを作れる デザインツールの開発 (Ryohei Ikegami)</title>
         <link>https://speakerdeck.com/seanchas116/web-componentswozuo-reru-dezainturufalsekai-fa</link>
         <dc:date>2022-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>8日で作るオレオレRISC-V CPU (Daiki Matsunaga)</title>
-        <link>https://speakerdeck.com/matsud224/8ri-dezuo-ruoreorerisc-v-cpu</link>
-        <dc:date>2022-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Reactivity Transform (kazupon)</title>
-        <link>https://speakerdeck.com/kazupon/reactivity-transform</link>
-        <dc:date>2022-08-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
