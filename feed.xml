@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>30分でわかるシステム運用アンチパターン / Operations Anti Patterns in 30 minutes (Yuichi Tanaka)</title>
+        <link>https://speakerdeck.com/yuichielectric/operations-anti-patterns-in-30-minutes</link>
+        <dc:date>2022-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[公開] HTTP/3の今と将来 (html5j #71)</title>
         <link>https://docs.google.com/presentation/d/1zguVfx0ApC2IehcSp50-IXquWdekmXDwoJWomql_UOE/preview</link>
         <dc:date>2022-08-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Reactコンポーネントにおける テスト手法の選択肢 (sakito)</title>
         <link>https://speakerdeck.com/sakito/reactkonponentoniokeru-tesutoshou-fa-falsexuan-ze-zhi</link>
-        <dc:date>2022-08-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ニコニコ生放送におけるWebフロントエンドBFFサーバーのKubernetes移行事例の紹介 (K.Himeno)</title>
-        <link>https://speakerdeck.com/himenon/introduction-of-k8s-migration-of-nicolive-at-k8sjp</link>
         <dc:date>2022-08-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
