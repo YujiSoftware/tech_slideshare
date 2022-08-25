@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ベストな Terraform ディレクトリ構成を考察してみた (Haruka Sakihara)</title>
+        <link>https://speakerdeck.com/harukasakihara/besutona-terraform-deirekutorigou-cheng-wokao-cha-sitemita</link>
+        <dc:date>2022-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>writing technical articles as you like (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/writing-technical-articles-as-you-like</link>
+        <dc:date>2022-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CircleCIのinfrastructureを支えるTerraformのCI/CDパイプラインの改善 (Ito Takayuki)</title>
         <link>https://www.slideshare.net/ItoTakayuki/circleciinfrastructureterraformcicd</link>
         <dc:date>2022-08-24T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Container-related technologies supporting Gitpod (うたもく)</title>
         <link>https://speakerdeck.com/utam0k/container-related-technologies-supporting-gitpod</link>
         <dc:date>2022-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モデリングはキラキラ技術より地味だが役に立つ / modeling-over-shiny-tech (Jumpei Chikamori)</title>
-        <link>https://speakerdeck.com/pei0804/modeling-over-shiny-tech</link>
-        <dc:date>2022-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MySQL/Postgres におけるトランザクション分離レベル (mpyw)</title>
-        <link>https://speakerdeck.com/mpyw/postgres-niokerutoranzakusiyonfen-li-reberu</link>
-        <dc:date>2022-08-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
