@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践！ ユニットテスト入門  (panda_program)</title>
+        <link>https://speakerdeck.com/panda_program/shi-jian-yunitutotesutoru-men</link>
+        <dc:date>2022-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクトと組織の成長を見据えたスマートラウンドの AWSマルチアカウント戦略/AWS Multi Account Strategy (shonansurvivors)</title>
         <link>https://speakerdeck.com/shonansurvivors/aws-multi-account-strategy</link>
         <dc:date>2022-08-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>BuildKitの概要と最近の機能 (Kohei Tokunaga)</title>
         <link>https://www.slideshare.net/KoheiTokunaga/buildkit-252619314</link>
-        <dc:date>2022-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>不幸を再生産しないための設計に対する向き合い方 (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/bu-xing-wozai-sheng-chan-sinaitamefalseshe-ji-nidui-suruxiang-kihe-ifang</link>
         <dc:date>2022-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
