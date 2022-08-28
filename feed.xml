@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アジャイルであり続けるために技術スキルと向き合う (TK)</title>
+        <link>https://speakerdeck.com/tkredman/aziyairudearisok-kerutameniji-shu-sukirutoxiang-kihe-u</link>
+        <dc:date>2022-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TextKitでのシンタックスハイライト高速化 / Optimize Syntax Highlight with TextKit (1024jp)</title>
         <link>https://speakerdeck.com/1024jp/optimize-syntax-highlight-with-textkit</link>
         <dc:date>2022-08-26T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>GitOps共有会 (johnmanjiro)</title>
         <link>https://speakerdeck.com/johnmanjiro13/gitopstoha</link>
         <dc:date>2022-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FastAPI って何者？</title>
-        <link>https://docs.google.com/presentation/d/1pBzS8Wm4ubuBlcQIOcjrVpFwDgQNXqvtWWxbjt71Eoc/preview</link>
-        <dc:date>2022-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
