@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スライド：アジャイルQAインセプションデッキ 開発中 v0.6</title>
+        <link>https://docs.google.com/presentation/d/1FmtDmxLdwGKrpL5vIovid1cMqKuIGAAO-6BbqDw2jL0/preview</link>
+        <dc:date>2022-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アジャイルであり続けるために技術スキルと向き合う (TK)</title>
         <link>https://speakerdeck.com/tkredman/aziyairudearisok-kerutameniji-shu-sukirutoxiang-kihe-u</link>
         <dc:date>2022-08-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ユーザーインタビューからその後どうするの？ 得られた情報を「UXデザイン」に落とし込む方法 | UXデザイン基礎セミナー 第3回 (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/ux-ux-3</link>
-        <dc:date>2022-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitOps共有会 (johnmanjiro)</title>
-        <link>https://speakerdeck.com/johnmanjiro13/gitopstoha</link>
         <dc:date>2022-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
