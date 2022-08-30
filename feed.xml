@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オンプレML基盤 on Kubernetes #2 パネルディスカッション #ml_kubernetes (Yahoo!デベロッパーネットワーク,@ydnjp)</title>
+        <link>https://www.docswell.com/s/ydnjp/K839L5-2022-08-29-151807</link>
+        <dc:date>2022-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ヤフーのオンプレ機械学習基盤AIPFについて #ml_kubernetes (Yahoo!デベロッパーネットワーク,@ydnjp)</title>
         <link>https://www.docswell.com/s/ydnjp/Z26W1K-2022-08-29-151542</link>
         <dc:date>2022-08-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>広告レポーティング基盤に、dbtを導入したら別物になった話 / tokyo-dbt-meetup-4 (Jumpei Chikamori)</title>
         <link>https://speakerdeck.com/pei0804/tokyo-dbt-meetup-4</link>
-        <dc:date>2022-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Project Management Flow and Build Trap Review (yurfuwa)</title>
-        <link>https://speakerdeck.com/yurfuwa/ai-project-management-flow-and-build-trap-review</link>
         <dc:date>2022-08-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
