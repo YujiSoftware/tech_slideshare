@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Terraform Module Designs (tmknom)</title>
+        <link>https://speakerdeck.com/tmknom/terraform-module-designs</link>
+        <dc:date>2022-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オンプレML基盤 on Kubernetes #2 パネルディスカッション #ml_kubernetes (Yahoo!デベロッパーネットワーク,@ydnjp)</title>
         <link>https://www.docswell.com/s/ydnjp/K839L5-2022-08-29-151807</link>
         <dc:date>2022-08-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[公開] HTTP/3の今と将来 (html5j #71)</title>
         <link>https://docs.google.com/presentation/d/1zguVfx0ApC2IehcSp50-IXquWdekmXDwoJWomql_UOE/preview</link>
-        <dc:date>2022-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>広告レポーティング基盤に、dbtを導入したら別物になった話 / tokyo-dbt-meetup-4 (Jumpei Chikamori)</title>
-        <link>https://speakerdeck.com/pei0804/tokyo-dbt-meetup-4</link>
         <dc:date>2022-08-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
