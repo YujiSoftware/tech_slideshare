@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CSRなサイトを (疑似的な)ISRに変更した話 (chimame)</title>
+        <link>https://speakerdeck.com/chimame/csrnasaitowo-yi-si-de-na-isrnibian-geng-sitahua</link>
+        <dc:date>2022-08-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Terraform Module Designs (tmknom)</title>
         <link>https://speakerdeck.com/tmknom/terraform-module-designs</link>
         <dc:date>2022-08-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>メタバースの激流とXR業界のイマ / The Metaverse Torrent and the XR Industry Today (ikkou)</title>
         <link>https://speakerdeck.com/ikkou/the-metaverse-torrent-and-the-xr-industry-today</link>
-        <dc:date>2022-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>30分でわかるシステム運用アンチパターン / Operations Anti Patterns in 30 minutes (Yuichi Tanaka)</title>
-        <link>https://speakerdeck.com/yuichielectric/operations-anti-patterns-in-30-minutes</link>
         <dc:date>2022-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
