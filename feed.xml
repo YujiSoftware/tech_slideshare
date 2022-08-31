@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>いかにして GraphQL を組織に導入するか (新規開発編) / how we introduce GraphQL on scratch development (qsona)</title>
+        <link>https://speakerdeck.com/qsona/how-we-introduce-graphql-on-scratch-development</link>
+        <dc:date>2022-08-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kaggleで使用される敵対学習方法AWPの論文解説と実装解説 ~Adversarial Weight Perturbation Helps Robust Generalization~ (Masaki AOTA)</title>
         <link>https://speakerdeck.com/masakiaota/kaggledeshi-yong-sarerudi-dui-xue-xi-fang-fa-awpnolun-wen-jie-shuo-toshi-zhuang-jie-shuo-adversarial-weight-perturbation-helps-robust-generalization</link>
         <dc:date>2022-08-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Jamstackはなぜ生まれたのかを解説してみる (shinoyu)</title>
         <link>https://speakerdeck.com/shinoyu/jamstackhanazesheng-maretafalsekawojie-shuo-sitemiru</link>
-        <dc:date>2022-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>決済サービス 0 → 1 開発時のアーキテクチャについて / Start up × FinTech (yuta horii)</title>
-        <link>https://speakerdeck.com/yutadayo/start-up-x-fintech</link>
         <dc:date>2022-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
