@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GraphQL Ruby benchmark (Fumiaki MATSUSHIMA)</title>
+        <link>https://speakerdeck.com/mtsmfm/graphql-ruby-benchmark</link>
+        <dc:date>2022-08-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>diniiでのHasura活用例 (dinii_otomo)</title>
+        <link>https://speakerdeck.com/dinii_otomo/diniidefalsehasurahuo-yong-li</link>
+        <dc:date>2022-08-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>いかにして GraphQL を組織に導入するか (新規開発編) / how we introduce GraphQL on scratch development (qsona)</title>
         <link>https://speakerdeck.com/qsona/how-we-introduce-graphql-on-scratch-development</link>
         <dc:date>2022-08-30T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>CircleCIのinfrastructureを支えるTerraformのCI/CDパイプラインの改善 (Ito Takayuki)</title>
         <link>https://www.slideshare.net/ItoTakayuki/circleciinfrastructureterraformcicd</link>
         <dc:date>2022-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Elasticsearch の検索精度のチューニング 〜テストを作って高速かつ安全に〜 (Takahiko Ito,@takahi_i)</title>
-        <link>https://www.slideshare.net/takahi-i/elasticsearch-251621964</link>
-        <dc:date>2022-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Jamstackはなぜ生まれたのかを解説してみる (shinoyu)</title>
-        <link>https://speakerdeck.com/shinoyu/jamstackhanazesheng-maretafalsekawojie-shuo-sitemiru</link>
-        <dc:date>2022-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
