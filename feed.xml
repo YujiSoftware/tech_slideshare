@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GraphQLスキーマ設計の悩みどころ/My concerns about GraphQL schema design (Takahiro Uchiyama)</title>
+        <link>https://speakerdeck.com/highwide/my-concerns-about-graphql-schema-design</link>
+        <dc:date>2022-08-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GraphQL Ruby benchmark (Fumiaki MATSUSHIMA)</title>
         <link>https://speakerdeck.com/mtsmfm/graphql-ruby-benchmark</link>
         <dc:date>2022-08-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>writing technical articles as you like (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/writing-technical-articles-as-you-like</link>
-        <dc:date>2022-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CircleCIのinfrastructureを支えるTerraformのCI/CDパイプラインの改善 (Ito Takayuki)</title>
-        <link>https://www.slideshare.net/ItoTakayuki/circleciinfrastructureterraformcicd</link>
         <dc:date>2022-08-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
