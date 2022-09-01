@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>カミナシでの技術的負債プロジェクトとその決断 / Beyond tech debts at Kaminashi (Tori Hara)</title>
+        <link>https://speakerdeck.com/toricls/beyond-tech-debts-at-kaminashi</link>
+        <dc:date>2022-08-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GraphQLスキーマ設計の悩みどころ/My concerns about GraphQL schema design (Takahiro Uchiyama)</title>
         <link>https://speakerdeck.com/highwide/my-concerns-about-graphql-schema-design</link>
         <dc:date>2022-08-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ベストな Terraform ディレクトリ構成を考察してみた (Haruka Sakihara)</title>
         <link>https://speakerdeck.com/harukasakihara/besutona-terraform-deirekutorigou-cheng-wokao-cha-sitemita</link>
-        <dc:date>2022-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>writing technical articles as you like (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/writing-technical-articles-as-you-like</link>
         <dc:date>2022-08-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
