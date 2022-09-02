@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェアテスト入門 / 2022-08-30 software testing (Shinichi Suwa)</title>
+        <link>https://speakerdeck.com/suwash/2022-08-30-software-testing</link>
+        <dc:date>2022-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>カミナシでの技術的負債プロジェクトとその決断 / Beyond tech debts at Kaminashi (Tori Hara)</title>
         <link>https://speakerdeck.com/toricls/beyond-tech-debts-at-kaminashi</link>
         <dc:date>2022-08-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>実践！ ユニットテスト入門  (panda_program)</title>
         <link>https://speakerdeck.com/panda_program/shi-jian-yunitutotesutoru-men</link>
-        <dc:date>2022-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトと組織の成長を見据えたスマートラウンドの AWSマルチアカウント戦略/AWS Multi Account Strategy (shonansurvivors)</title>
-        <link>https://speakerdeck.com/shonansurvivors/aws-multi-account-strategy</link>
         <dc:date>2022-08-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
