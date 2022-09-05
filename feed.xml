@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DenoでもBunでもいいから 最速を目指す (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/denodemobundemoiikara-zui-su-womu-zhi-su</link>
+        <dc:date>2022-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事業会社におけるプロジェクトマネジメントの基礎 (vvvvkoyo)</title>
         <link>https://speakerdeck.com/vvvvkoyo/shi-ye-hui-she-niokeruhurosiekutomanesimentonoji-chu</link>
         <dc:date>2022-09-01T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ヤフーのオンプレ機械学習基盤AIPFについて #ml_kubernetes (Yahoo!デベロッパーネットワーク,@ydnjp)</title>
         <link>https://www.docswell.com/s/ydnjp/Z26W1K-2022-08-29-151542</link>
         <dc:date>2022-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スライド：アジャイルQAインセプションデッキ 開発中 v0.6</title>
-        <link>https://docs.google.com/presentation/d/1FmtDmxLdwGKrpL5vIovid1cMqKuIGAAO-6BbqDw2jL0/preview</link>
-        <dc:date>2022-08-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
