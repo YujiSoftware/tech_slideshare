@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>構造を持った言語データと最適輸送 (Sho Yokoi)</title>
+        <link>https://speakerdeck.com/eumesy/optimal-transport-for-structured-language-data</link>
+        <dc:date>2022-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DenoでもBunでもいいから 最速を目指す (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/denodemobundemoiikara-zui-su-womu-zhi-su</link>
         <dc:date>2022-09-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>フロントエンドから見たWeb制作の変遷 / PHP Conference Okinawa 2022 (Chinen)</title>
         <link>https://speakerdeck.com/chinen/php-conference-okinawa-2022</link>
-        <dc:date>2022-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンプレML基盤 on Kubernetes #2 パネルディスカッション #ml_kubernetes (Yahoo!デベロッパーネットワーク,@ydnjp)</title>
-        <link>https://www.docswell.com/s/ydnjp/K839L5-2022-08-29-151807</link>
         <dc:date>2022-08-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
