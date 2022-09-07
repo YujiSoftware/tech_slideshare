@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Service Mesh in 2022 (id)</title>
+        <link>https://speakerdeck.com/ido_kara_deru/service-mesh-in-2022</link>
+        <dc:date>2022-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>構造を持った言語データと最適輸送 (Sho Yokoi)</title>
         <link>https://speakerdeck.com/eumesy/optimal-transport-for-structured-language-data</link>
         <dc:date>2022-09-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Terraform Module Designs (tmknom)</title>
         <link>https://speakerdeck.com/tmknom/terraform-module-designs</link>
-        <dc:date>2022-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドから見たWeb制作の変遷 / PHP Conference Okinawa 2022 (Chinen)</title>
-        <link>https://speakerdeck.com/chinen/php-conference-okinawa-2022</link>
         <dc:date>2022-08-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
