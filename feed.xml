@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Service Meshがっつり入門/Get-Started-Service-Mesh (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/get-started-service-mesh</link>
+        <dc:date>2022-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Service Mesh in 2022 (id)</title>
         <link>https://speakerdeck.com/ido_kara_deru/service-mesh-in-2022</link>
         <dc:date>2022-09-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【メタサーベイ】Vision and Language のトップ研究室/研究者 (cvpaper. challenge,@HirokatuKataoka)</title>
         <link>https://www.slideshare.net/cvpaperchallenge/vision-and-language-252751766</link>
-        <dc:date>2022-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CSRなサイトを (疑似的な)ISRに変更した話 (chimame)</title>
-        <link>https://speakerdeck.com/chimame/csrnasaitowo-yi-si-de-na-isrnibian-geng-sitahua</link>
         <dc:date>2022-08-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
