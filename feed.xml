@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby meets WebAssembly (Yuta Saito)</title>
+        <link>https://speakerdeck.com/kateinoigakukun/ruby-meets-webassembly</link>
+        <dc:date>2022-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Figmaにおけるモックデータ管理の改善案 (Kodai)</title>
         <link>https://speakerdeck.com/kodai3/figmaniokerumotukudetaguan-li-nogai-shan-an</link>
         <dc:date>2022-09-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GitHub上で構築するコードメトリクス計測基盤 / TECH STAND #9 GitHub (Ken’ichiro Oyama)</title>
         <link>https://speakerdeck.com/k1low/tech-stand-number-9-github</link>
-        <dc:date>2022-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いかにして GraphQL を組織に導入するか (新規開発編) / how we introduce GraphQL on scratch development (qsona)</title>
-        <link>https://speakerdeck.com/qsona/how-we-introduce-graphql-on-scratch-development</link>
         <dc:date>2022-08-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
