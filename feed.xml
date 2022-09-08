@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Towards Ruby 4 JIT / RubyKaigi 2022 (Takashi Kokubun)</title>
+        <link>https://speakerdeck.com/k0kubun/rubykaigi-2022</link>
+        <dc:date>2022-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インターン成果発表資料 / サイボウズ・フロントエンドエキスパートコース (Yuki)</title>
         <link>https://speakerdeck.com/yadayuki/saibouzuhurontoendoekisupatokosu</link>
         <dc:date>2022-09-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>diniiでのHasura活用例 (dinii_otomo)</title>
         <link>https://speakerdeck.com/dinii_otomo/diniidefalsehasurahuo-yong-li</link>
-        <dc:date>2022-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>宣言的かつ安全に管理するElasticsearch/Declarative management for Elasticsearch (Kazuma Arimura)</title>
-        <link>https://speakerdeck.com/pakio/declarative-management-for-elasticsearch</link>
         <dc:date>2022-08-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
