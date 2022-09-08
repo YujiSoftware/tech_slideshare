@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ReactのSuspenseを使った非同期処理のエラーハンドリング (taro28)</title>
+        <link>https://speakerdeck.com/taro28/reactnosuspensewoshi-tutafei-tong-qi-chu-li-noerahandoringu</link>
+        <dc:date>2022-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Towards Ruby 4 JIT / RubyKaigi 2022 (Takashi Kokubun)</title>
         <link>https://speakerdeck.com/k0kubun/rubykaigi-2022</link>
         <dc:date>2022-09-07T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>GraphQL Ruby benchmark (Fumiaki MATSUSHIMA)</title>
         <link>https://speakerdeck.com/mtsmfm/graphql-ruby-benchmark</link>
         <dc:date>2022-08-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>diniiでのHasura活用例 (dinii_otomo)</title>
-        <link>https://speakerdeck.com/dinii_otomo/diniidefalsehasurahuo-yong-li</link>
-        <dc:date>2022-08-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
