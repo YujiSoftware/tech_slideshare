@@ -6,8 +6,18 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Figmaにおけるモックデータ管理の改善案 (Kodai)</title>
+        <link>https://speakerdeck.com/kodai3/figmaniokerumotukudetaguan-li-nogai-shan-an</link>
+        <dc:date>2022-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Service Meshがっつり入門/Get-Started-Service-Mesh (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/get-started-service-mesh</link>
+        <dc:date>2022-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FigmaからTailwind HTMLを 生成するプラグインの開発 (Ryohei Ikegami)</title>
+        <link>https://speakerdeck.com/seanchas116/figmakaratailwind-htmlwo-sheng-cheng-surupuraguinnokai-fa</link>
         <dc:date>2022-09-06T15:00:00Z</dc:date>
     </item>
     <item>
@@ -93,16 +103,6 @@
     <item>
         <title>いかにして GraphQL を組織に導入するか (新規開発編) / how we introduce GraphQL on scratch development (qsona)</title>
         <link>https://speakerdeck.com/qsona/how-we-introduce-graphql-on-scratch-development</link>
-        <dc:date>2022-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kaggleで使用される敵対学習方法AWPの論文解説と実装解説 ~Adversarial Weight Perturbation Helps Robust Generalization~ (Masaki AOTA)</title>
-        <link>https://speakerdeck.com/masakiaota/kaggledeshi-yong-sarerudi-dui-xue-xi-fang-fa-awpnolun-wen-jie-shuo-toshi-zhuang-jie-shuo-adversarial-weight-perturbation-helps-robust-generalization</link>
-        <dc:date>2022-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【メタサーベイ】Vision and Language のトップ研究室/研究者 (cvpaper. challenge,@HirokatuKataoka)</title>
-        <link>https://www.slideshare.net/cvpaperchallenge/vision-and-language-252751766</link>
         <dc:date>2022-08-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
