@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2022年コンテナ/Kubernetes向けストレージ技術の最新動向 (Yukinori Sakashita)</title>
+        <link>https://speakerdeck.com/ysakashita/kubernetesxiang-kesutoreziji-shu-nozui-xin-dong-xiang</link>
+        <dc:date>2022-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2022.9.7 NAIST DSCサマーセミナー「Vision and Language技術の最新動向」 (Seitaro Shinagawa)</title>
         <link>https://speakerdeck.com/sei88888/2022-dot-9-7-naist-dscsamasemina-vision-and-languageji-shu-nozui-xin-dong-xiang</link>
         <dc:date>2022-09-08T15:00:00Z</dc:date>
@@ -13,6 +18,11 @@
     <item>
         <title>Method-based JIT compilation by transpiling to Julia (Kenta Murata)</title>
         <link>https://speakerdeck.com/mrkn/method-based-jit-compilation-by-transpiling-to-julia</link>
+        <dc:date>2022-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Packet analysis with mruby on Wireshark - dRuby as example (Misaki Shioi(塩井美咲/しおい))</title>
+        <link>https://speakerdeck.com/coe401_/packet-analysis-with-mruby-on-wireshark-druby-as-example</link>
         <dc:date>2022-09-08T15:00:00Z</dc:date>
     </item>
     <item>
@@ -93,16 +103,6 @@
     <item>
         <title>事業会社におけるプロジェクトマネジメントの基礎 (vvvvkoyo)</title>
         <link>https://speakerdeck.com/vvvvkoyo/shi-ye-hui-she-niokeruhurosiekutomanesimentonoji-chu</link>
-        <dc:date>2022-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> 【メタサーベイ】Video Transformer (cvpaper. challenge,@HirokatuKataoka)</title>
-        <link>https://www.slideshare.net/cvpaperchallenge/video-transformer</link>
-        <dc:date>2022-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアテスト入門 / 2022-08-30 software testing (Shinichi Suwa)</title>
-        <link>https://speakerdeck.com/suwash/2022-08-30-software-testing</link>
         <dc:date>2022-09-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
