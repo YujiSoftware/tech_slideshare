@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TRICK 2022 Results (mametter)</title>
+        <link>https://www.slideshare.net/mametter/trick-2022-results</link>
+        <dc:date>2022-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ReactのSuspenseを使った非同期処理のエラーハンドリング (taro28)</title>
         <link>https://speakerdeck.com/taro28/reactnosuspensewoshi-tutafei-tong-qi-chu-li-noerahandoringu</link>
         <dc:date>2022-09-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GraphQLスキーマ設計の悩みどころ/My concerns about GraphQL schema design (Takahiro Uchiyama)</title>
         <link>https://speakerdeck.com/highwide/my-concerns-about-graphql-schema-design</link>
-        <dc:date>2022-08-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQL Ruby benchmark (Fumiaki MATSUSHIMA)</title>
-        <link>https://speakerdeck.com/mtsmfm/graphql-ruby-benchmark</link>
         <dc:date>2022-08-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
