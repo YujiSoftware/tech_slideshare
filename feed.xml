@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Method-based JIT compilation by transpiling to Julia (Kenta Murata)</title>
+        <link>https://speakerdeck.com/mrkn/method-based-jit-compilation-by-transpiling-to-julia</link>
+        <dc:date>2022-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby x BPF in Action / RubyKaigi 2022</title>
         <link>https://docs.google.com/presentation/d/1z9fGEL2eordrMifVLh7DcHw8M9tfhJVZgTpkTbMfp-k/preview</link>
         <dc:date>2022-09-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>GraphQL から Firestore の セキュリティルール を生成するライブラリの紹介 (YutaUra)</title>
         <link>https://speakerdeck.com/yutaura/graphql-kara-firestore-no-sekiyuriteiruru-wosheng-cheng-sururaiburarinoshao-jie</link>
         <dc:date>2022-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カミナシでの技術的負債プロジェクトとその決断 / Beyond tech debts at Kaminashi (Tori Hara)</title>
-        <link>https://speakerdeck.com/toricls/beyond-tech-debts-at-kaminashi</link>
-        <dc:date>2022-08-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
