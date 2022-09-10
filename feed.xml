@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>事業価値とエンジニアリング・リソース効率性とフロー効率性 / Business Value and Engineering (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/business-value-and-engineering-2022</link>
+        <dc:date>2022-09-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Let&amp;#039;s collect type info during Ruby running and automaticall (ja) (osyo,@pink_bangbi)</title>
         <link>https://www.docswell.com/s/pink_bangbi/5MPPE5-2022-09-10-092906</link>
         <dc:date>2022-09-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DenoでもBunでもいいから 最速を目指す (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/denodemobundemoiikara-zui-su-womu-zhi-su</link>
-        <dc:date>2022-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bun first impressions (Yosuke Furukawa)</title>
-        <link>https://speakerdeck.com/yosuke_furukawa/bun-first-impressions</link>
         <dc:date>2022-09-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
