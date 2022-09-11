@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The Better RuboCop World to enjoy Ruby (Yasuko Ohba)</title>
+        <link>https://speakerdeck.com/nay3/the-better-rubocop-world-to-enjoy-ruby</link>
+        <dc:date>2022-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ethereum for Ruby (Yuta Kurotaki)</title>
         <link>https://speakerdeck.com/kurotaky/ethereum-for-ruby</link>
         <dc:date>2022-09-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Service Meshがっつり入門/Get-Started-Service-Mesh (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/get-started-service-mesh</link>
-        <dc:date>2022-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FigmaからTailwind HTMLを 生成するプラグインの開発 (Ryohei Ikegami)</title>
-        <link>https://speakerdeck.com/seanchas116/figmakaratailwind-htmlwo-sheng-cheng-surupuraguinnokai-fa</link>
         <dc:date>2022-09-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
