@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Create my own search engine. (seki at druby.org)</title>
+        <link>https://speakerdeck.com/m_seki/create-my-own-search-engine</link>
+        <dc:date>2022-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>レガシーなプロダクトからドメイン層を再設計する / iOSDC_takahashi_ishii (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/iosdc-takahashi-ishii</link>
         <dc:date>2022-09-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Ruby meets WebAssembly (Yuta Saito)</title>
         <link>https://speakerdeck.com/kateinoigakukun/ruby-meets-webassembly</link>
-        <dc:date>2022-09-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Figmaにおけるモックデータ管理の改善案 (Kodai)</title>
-        <link>https://speakerdeck.com/kodai3/figmaniokerumotukudetaguan-li-nogai-shan-an</link>
         <dc:date>2022-09-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
