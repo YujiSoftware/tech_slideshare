@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>レガシーなプロダクトからドメイン層を再設計する / iOSDC_takahashi_ishii (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/iosdc-takahashi-ishii</link>
+        <dc:date>2022-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>The Better RuboCop World to enjoy Ruby (Yasuko Ohba)</title>
         <link>https://speakerdeck.com/nay3/the-better-rubocop-world-to-enjoy-ruby</link>
         <dc:date>2022-09-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Figmaにおけるモックデータ管理の改善案 (Kodai)</title>
         <link>https://speakerdeck.com/kodai3/figmaniokerumotukudetaguan-li-nogai-shan-an</link>
         <dc:date>2022-09-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Service Meshがっつり入門/Get-Started-Service-Mesh (oracle4engineer)</title>
-        <link>https://speakerdeck.com/oracle4engineer/get-started-service-mesh</link>
-        <dc:date>2022-09-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
