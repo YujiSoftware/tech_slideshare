@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>String meets Encoding (ima1zumi)</title>
+        <link>https://speakerdeck.com/ima1zumi/string-meets-encoding</link>
+        <dc:date>2022-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Create my own search engine. (seki at druby.org)</title>
         <link>https://speakerdeck.com/m_seki/create-my-own-search-engine</link>
         <dc:date>2022-09-10T15:00:00Z</dc:date>
@@ -13,6 +18,11 @@
     <item>
         <title>レガシーなプロダクトからドメイン層を再設計する / iOSDC_takahashi_ishii (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/iosdc-takahashi-ishii</link>
+        <dc:date>2022-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ブラウザ / Browser (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/browser-2022</link>
         <dc:date>2022-09-10T15:00:00Z</dc:date>
     </item>
     <item>
@@ -93,16 +103,6 @@
     <item>
         <title>ReactのSuspenseを使った非同期処理のエラーハンドリング (taro28)</title>
         <link>https://speakerdeck.com/taro28/reactnosuspensewoshi-tutafei-tong-qi-chu-li-noerahandoringu</link>
-        <dc:date>2022-09-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Towards Ruby 4 JIT / RubyKaigi 2022 (Takashi Kokubun)</title>
-        <link>https://speakerdeck.com/k0kubun/rubykaigi-2022</link>
-        <dc:date>2022-09-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インターン成果発表資料 / サイボウズ・フロントエンドエキスパートコース (Yuki)</title>
-        <link>https://speakerdeck.com/yadayuki/saibouzuhurontoendoekisupatokosu</link>
         <dc:date>2022-09-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
