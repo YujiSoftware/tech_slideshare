@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Next.js (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/nextjs-2022</link>
+        <dc:date>2022-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>String meets Encoding (ima1zumi)</title>
         <link>https://speakerdeck.com/ima1zumi/string-meets-encoding</link>
         <dc:date>2022-09-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Method-based JIT compilation by transpiling to Julia (Kenta Murata)</title>
         <link>https://speakerdeck.com/mrkn/method-based-jit-compilation-by-transpiling-to-julia</link>
-        <dc:date>2022-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Packet analysis with mruby on Wireshark - dRuby as example (Misaki Shioi(塩井美咲/しおい))</title>
-        <link>https://speakerdeck.com/coe401_/packet-analysis-with-mruby-on-wireshark-druby-as-example</link>
         <dc:date>2022-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
