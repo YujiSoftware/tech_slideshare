@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby programming with types in action (Soutaro Matsumoto)</title>
+        <link>https://speakerdeck.com/soutaro/ruby-programming-with-types-in-action</link>
+        <dc:date>2022-09-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Next.js (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/nextjs-2022</link>
         <dc:date>2022-09-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>これから始める人のためのデータベース超入門 / A super introduction for Database beginners. (sakaik)</title>
         <link>https://speakerdeck.com/sakaik/a-super-introduction-for-database-beginners</link>
-        <dc:date>2022-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2022.9.7 NAIST DSCサマーセミナー「Vision and Language技術の最新動向」 (Seitaro Shinagawa)</title>
-        <link>https://speakerdeck.com/sei88888/2022-dot-9-7-naist-dscsamasemina-vision-and-languageji-shu-nozui-xin-dong-xiang</link>
         <dc:date>2022-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
