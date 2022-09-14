@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>n8nでワークフローを自動化した話 / 20220914_n8n (Yuji Yamaguchi)</title>
+        <link>https://speakerdeck.com/yug1224/20220914-n8n</link>
+        <dc:date>2022-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェア開発者に必要な考え方 / Necessary mindset for software developers (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/necessary-mindset-for-software-developers</link>
         <dc:date>2022-09-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>テクニカルライター２年生 これまでやってきたこと、感じたこと / Introduction to technical writer job on LINE by a second year writer (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/introduction-to-technical-writer-job-on-line-by-a-second-year-writer</link>
-        <dc:date>2022-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Let&amp;#039;s collect type info during Ruby running and automaticall (ja) (osyo,@pink_bangbi)</title>
-        <link>https://www.docswell.com/s/pink_bangbi/5MPPE5-2022-09-10-092906</link>
         <dc:date>2022-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
