@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プログラミング教育について(公開版) (Yosuke Furukawa)</title>
+        <link>https://speakerdeck.com/yosuke_furukawa/puroguramingujiao-yu-nituite-gong-kai-ban</link>
+        <dc:date>2022-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>調整変数の選び方 (KRSK)</title>
         <link>https://speakerdeck.com/koro485/diao-zheng-bian-shu-noxuan-bifang</link>
         <dc:date>2022-09-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Ethereum for Ruby (Yuta Kurotaki)</title>
         <link>https://speakerdeck.com/kurotaky/ethereum-for-ruby</link>
-        <dc:date>2022-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Why is building the Ruby environment hard? (SHIBATA Hiroshi)</title>
-        <link>https://speakerdeck.com/hsbt/why-is-building-the-ruby-environment-hard</link>
         <dc:date>2022-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
