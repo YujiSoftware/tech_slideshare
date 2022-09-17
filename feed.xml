@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OKRはツリーではない (NAVITIME JAPAN)</title>
+        <link>https://speakerdeck.com/navitimejapan/okrhaturidehanai</link>
+        <dc:date>2022-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プログラミング教育について(公開版) (Yosuke Furukawa)</title>
         <link>https://speakerdeck.com/yosuke_furukawa/puroguramingujiao-yu-nituite-gong-kai-ban</link>
         <dc:date>2022-09-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>タクシーアプリ「GO」から学ぶ Google Maps SDK 活用術 (Yosuke Imairi)</title>
         <link>https://speakerdeck.com/imairi/takusiapuri-go-karaxue-bu-google-maps-sdk-huo-yong-shu</link>
-        <dc:date>2022-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ブラウザ / Browser (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/browser-2022</link>
         <dc:date>2022-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
