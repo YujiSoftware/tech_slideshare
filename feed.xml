@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>デイリースクラムいらなくなくなくなーい！？ (kitamu_mu)</title>
+        <link>https://speakerdeck.com/kitamu_mu/scrumfestmikawa2022-dailyscrum</link>
+        <dc:date>2022-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20分間で振り返るIn-App Purchaseの歴史 (inokinn)</title>
         <link>https://speakerdeck.com/inokinn/20fen-jian-dezhen-rifan-ruin-app-purchasenoli-shi</link>
         <dc:date>2022-09-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Swift Concurrency時代のiOSアプリの作り方 (Yuta Koshizawa)</title>
         <link>https://speakerdeck.com/koher/swift-concurrencyshi-dai-noiosapurinozuo-rifang</link>
         <dc:date>2022-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>String meets Encoding (ima1zumi)</title>
-        <link>https://speakerdeck.com/ima1zumi/string-meets-encoding</link>
-        <dc:date>2022-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
