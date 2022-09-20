@@ -6,8 +6,18 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Infobip - Shift Conference (2022)</title>
+        <link>https://docs.google.com/presentation/d/1r3cen2_8CyJX8xBLGxfgPQzkyrBcHTKOujfNHbWexig/preview</link>
+        <dc:date>2022-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【スキルアップAIキャンプ】第79回『 生成モデルはまだまだ進化している！ GAN の研究動向紹介』 (maguro27)</title>
         <link>https://speakerdeck.com/maguro27/sukiruatupuaikiyanpu-di-79hui-sheng-cheng-moderuhamadamadajin-hua-siteiru-gan-noyan-jiu-dong-xiang-shao-jie</link>
+        <dc:date>2022-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The secret web performance metric no one is talking about (Anna Migas)</title>
+        <link>https://www.slideshare.net/AnnaMigas1/the-secret-web-performance-metric-no-one-is-talking-about</link>
         <dc:date>2022-09-19T15:00:00Z</dc:date>
     </item>
     <item>
@@ -93,16 +103,6 @@
     <item>
         <title>文章のなかの地理空間  － 地理空間情報科学(GIS)と自然言語処理(NLP)の融合へ向けて － (Hiroki Ouchi)</title>
         <link>https://speakerdeck.com/hiroki13/wen-zhang-nonakanodi-li-kong-jian-di-li-kong-jian-qing-bao-ke-xue-gis-tozi-ran-yan-yu-chu-li-nlp-norong-he-hexiang-kete-c41f1d81-1397-4df0-888d-370f0583597e</link>
-        <dc:date>2022-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.js (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/nextjs-2022</link>
-        <dc:date>2022-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>キャッシュによる状態管理のアーキテクチャ / Cache-based state management architecture (rockname)</title>
-        <link>https://speakerdeck.com/rockname/cache-based-state-management-architecture</link>
         <dc:date>2022-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
