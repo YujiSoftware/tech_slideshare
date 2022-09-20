@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【スキルアップAIキャンプ】第79回『 生成モデルはまだまだ進化している！ GAN の研究動向紹介』 (maguro27)</title>
+        <link>https://speakerdeck.com/maguro27/sukiruatupuaikiyanpu-di-79hui-sheng-cheng-moderuhamadamadajin-hua-siteiru-gan-noyan-jiu-dong-xiang-shao-jie</link>
+        <dc:date>2022-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>デイリースクラムいらなくなくなくなーい！？ (kitamu_mu)</title>
         <link>https://speakerdeck.com/kitamu_mu/scrumfestmikawa2022-dailyscrum</link>
         <dc:date>2022-09-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>キャッシュによる状態管理のアーキテクチャ / Cache-based state management architecture (rockname)</title>
         <link>https://speakerdeck.com/rockname/cache-based-state-management-architecture</link>
-        <dc:date>2022-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Swift Concurrency時代のiOSアプリの作り方 (Yuta Koshizawa)</title>
-        <link>https://speakerdeck.com/koher/swift-concurrencyshi-dai-noiosapurinozuo-rifang</link>
         <dc:date>2022-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
