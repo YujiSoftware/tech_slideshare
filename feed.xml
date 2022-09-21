@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Java SEの動向 2022夏版 (Chihiro Ito)</title>
+        <link>https://speakerdeck.com/chiroito/java-senodong-xiang-2022xia-ban</link>
+        <dc:date>2022-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>V8 as a container on CDN Edge worker (Koutarou Chikuba)</title>
         <link>https://speakerdeck.com/mizchi/v8-as-a-container-on-cdn-edge-worker</link>
         <dc:date>2022-09-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>fourkeys基盤を構築した話 (uncle)</title>
         <link>https://speakerdeck.com/ouchi2501/fourkeysji-pan-wogou-zhu-sitahua</link>
-        <dc:date>2022-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ローカル開発環境をAWSへ移行して爆速にした (yuu26)</title>
-        <link>https://speakerdeck.com/yuu26/20220912-kyash-tech-talk-4</link>
         <dc:date>2022-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
