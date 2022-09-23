@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2022年版・深層学習による写実的画像合成の最新動向 (Yoshihiro Kanamori)</title>
+        <link>https://speakerdeck.com/ykanamori/2022nian-ban-shen-ceng-xue-xi-niyoruxie-shi-de-hua-xiang-he-cheng-nozui-xin-dong-xiang</link>
+        <dc:date>2022-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Java SEの動向 2022夏版 (Chihiro Ito)</title>
         <link>https://speakerdeck.com/chiroito/java-senodong-xiang-2022xia-ban</link>
         <dc:date>2022-09-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>「のどが渇いた」というユーザーに何を出す？ ユーザーの「欲しい」に惑わされない、本当のインサイトを見つけるUXデザイン・UXリサーチ (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/uxux-252954680</link>
         <dc:date>2022-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQLを使い続けて気づいたこと ~Hatena Engineer Seminar #21~ (Mikio Fujita)</title>
-        <link>https://speakerdeck.com/benevolent0505/hatena-engineer-seminar-number-21</link>
-        <dc:date>2022-09-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
