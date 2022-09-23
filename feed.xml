@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>YJIT: Dive into Ruby's JIT compiler written in Rust / Rust.Tokyo 2022 (Takashi Kokubun)</title>
+        <link>https://speakerdeck.com/k0kubun/rust-dot-tokyo-2022</link>
+        <dc:date>2022-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2022年版・深層学習による写実的画像合成の最新動向 (Yoshihiro Kanamori)</title>
         <link>https://speakerdeck.com/ykanamori/2022nian-ban-shen-ceng-xue-xi-niyoruxie-shi-de-hua-xiang-he-cheng-nozui-xin-dong-xiang</link>
         <dc:date>2022-09-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Agile and DevOps の歴史をチェリーピック (Yasunobu Kawaguchi)</title>
         <link>https://speakerdeck.com/kawaguti/agile-devops-history</link>
-        <dc:date>2022-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「のどが渇いた」というユーザーに何を出す？ ユーザーの「欲しい」に惑わされない、本当のインサイトを見つけるUXデザイン・UXリサーチ (Yoshiki Hayama,@storywriter)</title>
-        <link>https://www.slideshare.net/storywriterjp/uxux-252954680</link>
         <dc:date>2022-09-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
