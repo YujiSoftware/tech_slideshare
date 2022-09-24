@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践！ユニットテスト入門（PHPカンファレンス2022） (panda_program)</title>
+        <link>https://speakerdeck.com/panda_program/unit-testing-for-beginners-at-php-conference-japan-2022</link>
+        <dc:date>2022-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>YJIT: Dive into Ruby's JIT compiler written in Rust / Rust.Tokyo 2022 (Takashi Kokubun)</title>
         <link>https://speakerdeck.com/k0kubun/rust-dot-tokyo-2022</link>
         <dc:date>2022-09-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>マルチテナントで GraphQL を使う際の工夫 (mizdra)</title>
         <link>https://speakerdeck.com/mizdra/marutitenantote-graphql-woshi-uji-nogong-fu</link>
-        <dc:date>2022-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア開発者に必要な考え方 / Necessary mindset for software developers (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/necessary-mindset-for-software-developers</link>
         <dc:date>2022-09-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
