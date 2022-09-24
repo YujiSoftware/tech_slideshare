@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SPAセキュリティ超入門 (徳丸 浩,@ockeghem)</title>
+        <link>https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022</link>
+        <dc:date>2022-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発組織の生産性を可視化するState of DevOpsとFour Keysとは(増補改訂版) / Introduction to State of DevOps and Four Keys for Visualizing Productivity in Development Organizations expanded and revised edition (Isana Miyake)</title>
         <link>https://speakerdeck.com/isanasan/introduction-to-state-of-devops-and-four-keys-for-visualizing-productivity-in-development-organizations-expanded-and-revised-edition</link>
         <dc:date>2022-09-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>プログラミング教育について(公開版) (Yosuke Furukawa)</title>
         <link>https://speakerdeck.com/yosuke_furukawa/puroguramingujiao-yu-nituite-gong-kai-ban</link>
         <dc:date>2022-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>220915_設計モデリングLT会-vol.4_趣味のソフトウェア開発で設計について考えた (k-abe@組み込みソフトウェアの人,@juraruming)</title>
-        <link>https://www.docswell.com/s/juraruming/ZG7VN5-2022-09-15-165407</link>
-        <dc:date>2022-09-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
