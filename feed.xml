@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発組織の生産性を可視化するState of DevOpsとFour Keysとは(増補改訂版) / Introduction to State of DevOps and Four Keys for Visualizing Productivity in Development Organizations expanded and revised edition (Isana Miyake)</title>
+        <link>https://speakerdeck.com/isanasan/introduction-to-state-of-devops-and-four-keys-for-visualizing-productivity-in-development-organizations-expanded-and-revised-edition</link>
+        <dc:date>2022-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践！ユニットテスト入門（PHPカンファレンス2022） (panda_program)</title>
         <link>https://speakerdeck.com/panda_program/unit-testing-for-beginners-at-php-conference-japan-2022</link>
         <dc:date>2022-09-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>n8nでワークフローを自動化した話 / 20220914_n8n (Yuji Yamaguchi)</title>
         <link>https://speakerdeck.com/yug1224/20220914-n8n</link>
-        <dc:date>2022-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マルチテナントで GraphQL を使う際の工夫 (mizdra)</title>
-        <link>https://speakerdeck.com/mizdra/marutitenantote-graphql-woshi-uji-nogong-fu</link>
         <dc:date>2022-09-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
