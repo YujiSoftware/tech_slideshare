@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>10年後もエンジニアが成長し続けるためにできることを、20年続く組織の中から考える (NAVITIME JAPAN)</title>
+        <link>https://speakerdeck.com/navitimejapan/10nian-hou-moenziniagacheng-chang-sisok-kerutamenidekirukotowo-20nian-sok-kuzu-zhi-falsezhong-karakao-eru</link>
+        <dc:date>2022-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SPAセキュリティ超入門 (徳丸 浩,@ockeghem)</title>
         <link>https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022</link>
         <dc:date>2022-09-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>RDRAとDDDでGoのモジュラーモノリスアプリを設計してみた話 (Imamoto Hikaru)</title>
         <link>https://speakerdeck.com/imamotohikaru/rdratoddddegonomoziyuramonorisuapuriwoshe-ji-sitemitahua</link>
         <dc:date>2022-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Feature Flagを使った開発で高速かつストレスフリーなデリバリーを実現する / Fast and stress-free delivery with Feature Flag-based development (Tomohiro Imaizumi)</title>
-        <link>https://speakerdeck.com/imaizume/fast-and-stress-free-delivery-with-feature-flag-based-development</link>
-        <dc:date>2022-09-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
