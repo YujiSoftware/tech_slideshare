@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>信頼されるLiDARに向けて (Kentaro Yoshioka)</title>
+        <link>https://speakerdeck.com/kentaroy47/xin-lai-sarerulidarnixiang-kete</link>
+        <dc:date>2022-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>KDD2022論文読み会：LinkedInの推薦システムから学ぶ (Jun Ernesto Okumura)</title>
         <link>https://speakerdeck.com/pacocat/kdd2022lun-wen-du-mihui-linkedinnotui-jian-sisutemukaraxue-bu</link>
         <dc:date>2022-09-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【スキルアップAIキャンプ】第79回『 生成モデルはまだまだ進化している！ GAN の研究動向紹介』 (maguro27)</title>
         <link>https://speakerdeck.com/maguro27/sukiruatupuaikiyanpu-di-79hui-sheng-cheng-moderuhamadamadajin-hua-siteiru-gan-noyan-jiu-dong-xiang-shao-jie</link>
-        <dc:date>2022-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The secret web performance metric no one is talking about (Anna Migas)</title>
-        <link>https://www.slideshare.net/AnnaMigas1/the-secret-web-performance-metric-no-one-is-talking-about</link>
         <dc:date>2022-09-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
