@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンドのパラダイムを参考にバックエンド開発を再考する / TypeScript による GraphQL バックエンド開発 (Naoya Ito)</title>
+        <link>https://speakerdeck.com/naoya/typescript-niyoru-graphql-batukuendokai-fa</link>
+        <dc:date>2022-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Nest アプリケーションの基盤となる仕組みを見直す (lightnet328)</title>
         <link>https://speakerdeck.com/lightnet328/nest-ahurikesiyonno-ji-pan-tonarushi-zu-miwojian-zhi-su</link>
         <dc:date>2022-09-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Mercari JPのモノリスサービスをKubernetesに移行した話 PHP Conference 2022 9/24 (Shin Ohno)</title>
         <link>https://www.slideshare.net/ganchiku/mercari-jpkubernetes-php-conference-2022-924</link>
-        <dc:date>2022-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAZUG12周年 俺の Azure Cosmos DB (Daiyu Hatakeyama,@dahatake)</title>
-        <link>https://www.slideshare.net/dahatake/jazug12-azure-cosmos-db</link>
         <dc:date>2022-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
