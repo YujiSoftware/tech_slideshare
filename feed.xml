@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>KPTに慣れたチームがよりよい振り返りを行うために、K/P/Tのそれぞれにフォーカスをあてた考察 (Masahiro Sato)</title>
+        <link>https://speakerdeck.com/m3hiro3/2022-10-01-xpji-risuraido-kptniguan-retatimuga-yoriyoizhen-rifan-riwoxing-utameni-k-p-t-nosorezorenihuokasuwoatetakao-cha</link>
+        <dc:date>2022-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンドのパラダイムを参考にバックエンド開発を再考する / TypeScript による GraphQL バックエンド開発 (Naoya Ito)</title>
         <link>https://speakerdeck.com/naoya/typescript-niyoru-graphql-batukuendokai-fa</link>
         <dc:date>2022-09-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20年ものの巨大レガシープロダクトを PHP 8.0にアップデートした際の対策と得られた知見 (Akama Hitoshi)</title>
         <link>https://speakerdeck.com/akamah/20nian-mononoju-da-regasipurodakutowo-php-8-dot-0niatupudetositaji-nodui-ce-tode-raretazhi-jian</link>
-        <dc:date>2022-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP メモリ管理術 (memory)</title>
-        <link>https://speakerdeck.com/memory1994/php-conference-japan-2022</link>
         <dc:date>2022-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
