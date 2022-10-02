@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アプリケーションエンジニアから見たPostgreSQL15 の新機能/postgresql15-new-information (Takahashi Ikki)</title>
+        <link>https://speakerdeck.com/takahashiikki/postgresql15-new-information</link>
+        <dc:date>2022-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>話を聞き出す技術 (bayashi)</title>
         <link>https://speakerdeck.com/murabayashi/hua-wowen-kichu-suji-shu</link>
         <dc:date>2022-10-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RFC911Xから振り返るHTTPの仕様 (shiro seike)</title>
         <link>https://speakerdeck.com/seike460/http-specification-looking-back-from-rfc911x</link>
-        <dc:date>2022-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発組織の生産性を可視化するState of DevOpsとFour Keysとは(増補改訂版) / Introduction to State of DevOps and Four Keys for Visualizing Productivity in Development Organizations expanded and revised edition (Isana Miyake)</title>
-        <link>https://speakerdeck.com/isanasan/introduction-to-state-of-devops-and-four-keys-for-visualizing-productivity-in-development-organizations-expanded-and-revised-edition</link>
         <dc:date>2022-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
