@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>話を聞き出す技術 (bayashi)</title>
+        <link>https://speakerdeck.com/murabayashi/hua-wowen-kichu-suji-shu</link>
+        <dc:date>2022-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>KPTに慣れたチームがよりよい振り返りを行うために、K/P/Tのそれぞれにフォーカスをあてた考察 (Masahiro Sato)</title>
         <link>https://speakerdeck.com/m3hiro3/2022-10-01-xpji-risuraido-kptniguan-retatimuga-yoriyoizhen-rifan-riwoxing-utameni-k-p-t-nosorezorenihuokasuwoatetakao-cha</link>
         <dc:date>2022-09-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>開発組織の生産性を可視化するState of DevOpsとFour Keysとは(増補改訂版) / Introduction to State of DevOps and Four Keys for Visualizing Productivity in Development Organizations expanded and revised edition (Isana Miyake)</title>
         <link>https://speakerdeck.com/isanasan/introduction-to-state-of-devops-and-four-keys-for-visualizing-productivity-in-development-organizations-expanded-and-revised-edition</link>
-        <dc:date>2022-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20年ものの巨大レガシープロダクトを PHP 8.0にアップデートした際の対策と得られた知見 (Akama Hitoshi)</title>
-        <link>https://speakerdeck.com/akamah/20nian-mononoju-da-regasipurodakutowo-php-8-dot-0niatupudetositaji-nodui-ce-tode-raretazhi-jian</link>
         <dc:date>2022-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
