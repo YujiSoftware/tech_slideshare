@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>加速するコンポーネント設計入門 / Component Design as an Accelerator (ダーシノ)</title>
+        <link>https://speakerdeck.com/bcrikko/component-design-as-an-accelerator</link>
+        <dc:date>2022-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kubernetes-Meetup-Tokyo-53 (masayosu)</title>
         <link>https://speakerdeck.com/masayoshimaezawa/kubernetes-meetup-tokyo-53</link>
         <dc:date>2022-10-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Nest アプリケーションの基盤となる仕組みを見直す (lightnet328)</title>
         <link>https://speakerdeck.com/lightnet328/nest-ahurikesiyonno-ji-pan-tonarushi-zu-miwojian-zhi-su</link>
-        <dc:date>2022-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>対話型AIの構築における工夫とデータセットの重要性 - 素早くデータを構築し検証するためには (yag_ays)</title>
-        <link>https://speakerdeck.com/yag_ays/20220930fastlabel</link>
         <dc:date>2022-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
