@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PCI DSS準拠から学ぶサステナブルなAWSクラウドネイティブの運用 / Sustainable PCIDSS operation on AWS (iselegant)</title>
+        <link>https://speakerdeck.com/iselegant/sustainable-pcidss-operation-on-aws</link>
+        <dc:date>2022-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub-hosted runnerでそこまでやるの！？Rookの場合 (Satoru Takeuchi)</title>
         <link>https://speakerdeck.com/sat/github-hosted-runnerdesokomadeyaruno-rooknochang-he</link>
         <dc:date>2022-10-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>フロントエンドのパラダイムを参考にバックエンド開発を再考する / TypeScript による GraphQL バックエンド開発 (Naoya Ito)</title>
         <link>https://speakerdeck.com/naoya/typescript-niyoru-graphql-batukuendokai-fa</link>
-        <dc:date>2022-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS ソリューションで車輪の再発明をしない生活 (track3jyo-hama)</title>
-        <link>https://speakerdeck.com/track3jyo/aws-solutions-deep-dive</link>
         <dc:date>2022-09-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
