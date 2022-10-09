@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>持続可能な社内研修の運営に向けて (watany)</title>
+        <link>https://speakerdeck.com/watany/chi-sok-ke-neng-nashe-nei-yan-xiu-noyun-ying-nixiang-kete</link>
+        <dc:date>2022-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新規モバイルアプリを React Native for Web で Web 対応した話 (Kazunobu Kawane)</title>
         <link>https://speakerdeck.com/kazunobukawane/xin-gui-mobairuapuriwo-react-native-for-web-de-web-dui-ying-sitahua</link>
         <dc:date>2022-10-07T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>アジャイルな働き方の本質 / Agile Way of Working (Fumihiko Kinoshita)</title>
         <link>https://speakerdeck.com/fkino/agile-way-of-working</link>
         <dc:date>2022-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KPTに慣れたチームがよりよい振り返りを行うために、K/P/Tのそれぞれにフォーカスをあてた考察 (Masahiro Sato)</title>
-        <link>https://speakerdeck.com/m3hiro3/2022-10-01-xpji-risuraido-kptniguan-retatimuga-yoriyoizhen-rifan-riwoxing-utameni-k-p-t-nosorezorenihuokasuwoatetakao-cha</link>
-        <dc:date>2022-09-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
