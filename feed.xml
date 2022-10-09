@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新規モバイルアプリを React Native for Web で Web 対応した話 (Kazunobu Kawane)</title>
+        <link>https://speakerdeck.com/kazunobukawane/xin-gui-mobairuapuriwo-react-native-for-web-de-web-dui-ying-sitahua</link>
+        <dc:date>2022-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PCI DSS準拠から学ぶサステナブルなAWSクラウドネイティブの運用 / Sustainable PCIDSS operation on AWS (iselegant)</title>
         <link>https://speakerdeck.com/iselegant/sustainable-pcidss-operation-on-aws</link>
         <dc:date>2022-10-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>KPTに慣れたチームがよりよい振り返りを行うために、K/P/Tのそれぞれにフォーカスをあてた考察 (Masahiro Sato)</title>
         <link>https://speakerdeck.com/m3hiro3/2022-10-01-xpji-risuraido-kptniguan-retatimuga-yoriyoizhen-rifan-riwoxing-utameni-k-p-t-nosorezorenihuokasuwoatetakao-cha</link>
-        <dc:date>2022-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドのパラダイムを参考にバックエンド開発を再考する / TypeScript による GraphQL バックエンド開発 (Naoya Ito)</title>
-        <link>https://speakerdeck.com/naoya/typescript-niyoru-graphql-batukuendokai-fa</link>
         <dc:date>2022-09-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
