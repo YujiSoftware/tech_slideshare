@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VPoEになって最初にやったこと (Tsuyoshi Yasunishi)</title>
+        <link>https://speakerdeck.com/tsuyok/the-first-step-of-asken-vpoe</link>
+        <dc:date>2022-10-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Lightning Talks | Kaigi on Rails _2022_ new (tanaken0515)</title>
         <link>https://speakerdeck.com/tanaken0515/lightning-talks-kaigi-on-rails-2022-new</link>
         <dc:date>2022-10-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>小さなユーザーストーリーのすゝめ～的確な進捗把握編～ (ryothkay)</title>
         <link>https://speakerdeck.com/ryothkay/xiao-sanayuzasutorinosu-me-de-que-najin-bu-ba-wo-bian</link>
         <dc:date>2022-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一休. com/Yahoo!トラベルのNuxt3移行における開発プロセス (Takanori Sugita)</title>
-        <link>https://speakerdeck.com/sugitat/yahoo-toraberunonuxt3yi-xing-niokerukai-fa-purosesu</link>
-        <dc:date>2022-10-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
