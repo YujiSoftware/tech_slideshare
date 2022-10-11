@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CTOが語る、これからのソフトウェアエンジニアに必要なことと鍛え方 / GEEK-SAI-2022-SPRING (CARTA Engineering)</title>
+        <link>https://speakerdeck.com/carta_engineering/geek-sai-2022-spring</link>
+        <dc:date>2022-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VPoEになって最初にやったこと (Tsuyoshi Yasunishi)</title>
         <link>https://speakerdeck.com/tsuyok/the-first-step-of-asken-vpoe</link>
         <dc:date>2022-10-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>セレンディピティはトキメキの夢を見せるか？ (kuri8ive)</title>
         <link>https://speakerdeck.com/kuri8ive/does-serendipity-bring-spark-joy</link>
         <dc:date>2022-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LayerX羅針盤_ver 1.1 (LayerX)</title>
-        <link>https://speakerdeck.com/layerx/compass_202209</link>
-        <dc:date>2022-10-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
