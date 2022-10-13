@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AndroidManifest.xmlはその後どうなっているのか？</title>
+        <link>https://docs.google.com/presentation/d/1pQcpH-uQVwOXargE90o6d7Bu9dnkd5COp9JO8896Wko/preview</link>
+        <dc:date>2022-10-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>高可用性、省力運用を目指す 自宅 Kubernetes クラスタ (K8s@home #1) (Kazuki Suda)</title>
+        <link>https://speakerdeck.com/superbrothers/gao-ke-yong-xing-di-kosutoyun-yong-womu-zhi-su-zi-zhai-kubernetes-kurasuta-k8s-at-home-number-1</link>
+        <dc:date>2022-10-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>型ヒントの5年間を振り返る</title>
         <link>https://docs.google.com/presentation/d/1kxX5_bL1Rv-sW7zJDBSve9g69A_AJbAEvMXkhlMrBR4/preview</link>
         <dc:date>2022-10-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Android/Chromeで体験できる 認証のための標準化仕様の 現在と未来 @ DroidKaigi 2022 (ritou)</title>
         <link>https://speakerdeck.com/ritou/chromedeti-yan-dekiru-ren-zheng-notamenobiao-zhun-hua-shi-yang-no-xian-zai-towei-lai-at-droidkaigi-2022</link>
-        <dc:date>2022-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あらゆる変化を受け入れながら 働きつづける - 介護・学業編 (michiru shirakawa)</title>
-        <link>https://speakerdeck.com/mishirakawa/2022-10-06-droidkaigi-2022-presentation</link>
-        <dc:date>2022-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Xcode10から最新までのTestingをふりかえる (tarappo)</title>
-        <link>https://speakerdeck.com/tarappo/xcode10karazui-xin-madenotestingwohurikaeru</link>
         <dc:date>2022-10-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
