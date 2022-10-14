@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Reviewing_machine_learning_program.pdf (shibuiwilliam)</title>
+        <link>https://speakerdeck.com/shibuiwilliam/reviewing-machine-learning-program</link>
+        <dc:date>2022-10-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CA.unity #5 - キャラクター向け汎用シェーダーを作った話 (公開用)</title>
         <link>https://docs.google.com/presentation/d/1JumB7W5a00RhJyJ22rcaCCQXpBTXcc-Wf0T6dGrJCA0/preview</link>
         <dc:date>2022-10-12T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>はじめようビルドメトリクス (komatatsu,@k0matatsu)</title>
         <link>https://www.docswell.com/s/komatatsu/ZJD91Z-getting_started_build_metrics</link>
         <dc:date>2022-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes-Meetup-Tokyo-53 (masayosu)</title>
-        <link>https://speakerdeck.com/masayoshimaezawa/kubernetes-meetup-tokyo-53</link>
-        <dc:date>2022-10-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
