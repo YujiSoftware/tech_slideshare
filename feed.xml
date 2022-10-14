@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CTOが語る、事業のまんなかでエンジニアリングするキャリアの作り方 - 技育祭2022秋 (CARTA Engineering)</title>
+        <link>https://speakerdeck.com/carta_engineering/ctogayu-ru-shi-ye-nomannakadeenziniaringusurukiyarianozuo-rifang-ji-yu-ji-2022qiu</link>
+        <dc:date>2022-10-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20221014_Fast API と学ぶ WebRTC</title>
         <link>https://docs.google.com/presentation/d/16-tKTBlpSjwD72fWTsDZaMnQUFnj0suuQheOeCufUYI/preview</link>
         <dc:date>2022-10-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GitHub-hosted runnerでそこまでやるの！？Rookの場合 (Satoru Takeuchi)</title>
         <link>https://speakerdeck.com/sat/github-hosted-runnerdesokomadeyaruno-rooknochang-he</link>
-        <dc:date>2022-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>加速するコンポーネント設計入門 / Component Design as an Accelerator (ダーシノ)</title>
-        <link>https://speakerdeck.com/bcrikko/component-design-as-an-accelerator</link>
         <dc:date>2022-10-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
