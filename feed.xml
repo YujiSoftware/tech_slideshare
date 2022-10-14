@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript による GraphQL バックエンド開発 (Naoya Ito)</title>
+        <link>https://speakerdeck.com/naoya/typescript-niyoru-graphql-batukuendokai-fa-75b3dab7-90a8-4169-a4dc-d1e7410b9dbd</link>
+        <dc:date>2022-10-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CTOが語る、事業のまんなかでエンジニアリングするキャリアの作り方 - 技育祭2022秋 (CARTA Engineering)</title>
         <link>https://speakerdeck.com/carta_engineering/ctogayu-ru-shi-ye-nomannakadeenziniaringusurukiyarianozuo-rifang-ji-yu-ji-2022qiu</link>
         <dc:date>2022-10-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JAWS DAYS 2022 - AWSのマネージドサービスで実現するニアリアルタイムな検索基盤 (Masataka Kashiwagi)</title>
         <link>https://speakerdeck.com/masatakashiwagi/jaws-days-2022-awsnomanezidosabisudeshi-xian-suruniariarutaimunajian-suo-ji-pan</link>
-        <dc:date>2022-10-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>1on1から始める組織作り (developer@nulab.co.jp)</title>
-        <link>https://speakerdeck.com/nulabinc/1on1karashi-meruzu-zhi-zuo-ri</link>
         <dc:date>2022-10-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
