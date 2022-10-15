@@ -6,8 +6,23 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>続・絵を読む技術 Pythonで読むイラストの心理戦略 / The Art of Reading Illustrations 2nd (Hirosaji)</title>
+        <link>https://speakerdeck.com/hirosaji/the-art-of-reading-illustrations-2nd</link>
+        <dc:date>2022-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BigQueryエミュレータの作り方</title>
         <link>https://docs.google.com/presentation/d/1j5TPCpXiE9CvBjq78W8BWz-cGxU8djW1qy9Y6eBHso8/preview</link>
+        <dc:date>2022-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SNKRDUNKでGo+gRPCで すすめるモジュラモノリス (Shoei Watanabe)</title>
+        <link>https://speakerdeck.com/sh0e1/snkrdunkdego-plus-grpcde-susumerumoziyuramonorisu</link>
+        <dc:date>2022-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PostgreSQL 15とRailsと (Yasuo Honda)</title>
+        <link>https://speakerdeck.com/yahonda/postgresql-15torailsto</link>
         <dc:date>2022-10-14T15:00:00Z</dc:date>
     </item>
     <item>
@@ -89,20 +104,5 @@
         <title>CTOが語る、これからのソフトウェアエンジニアに必要なことと鍛え方 / GEEK-SAI-2022-SPRING (CARTA Engineering)</title>
         <link>https://speakerdeck.com/carta_engineering/geek-sai-2022-spring</link>
         <dc:date>2022-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VPoEになって最初にやったこと (Tsuyoshi Yasunishi)</title>
-        <link>https://speakerdeck.com/tsuyok/the-first-step-of-asken-vpoe</link>
-        <dc:date>2022-10-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Lightning Talks | Kaigi on Rails _2022_ new (tanaken0515)</title>
-        <link>https://speakerdeck.com/tanaken0515/lightning-talks-kaigi-on-rails-2022-new</link>
-        <dc:date>2022-10-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>S3の話をしよう ~ S3のコストとセキュリティについて考える ~ (Kento Suzuki)</title>
-        <link>https://speakerdeck.com/kentosuzuki/s3nohua-wosiyou-s3nokosutotosekiyuriteinituitekao-eru</link>
-        <dc:date>2022-10-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
