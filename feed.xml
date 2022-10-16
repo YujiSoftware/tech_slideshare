@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Pythonではじめる地理空間情報 (Hiroshi Omata)</title>
+        <link>https://speakerdeck.com/homata/pythondehazimerudi-li-kong-jian-qing-bao</link>
+        <dc:date>2022-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vue.js でアクセシブルなコンポーネントをつくるために / To make accessible components in Vue.js (Okuto Oyama)</title>
         <link>https://speakerdeck.com/yamanoku/to-make-accessible-components-in-vuejs</link>
         <dc:date>2022-10-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AndroidManifest.xmlはその後どうなっているのか？</title>
         <link>https://docs.google.com/presentation/d/1pQcpH-uQVwOXargE90o6d7Bu9dnkd5COp9JO8896Wko/preview</link>
-        <dc:date>2022-10-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>高可用性、省力運用を目指す 自宅 Kubernetes クラスタ (K8s@home #1) (Kazuki Suda)</title>
-        <link>https://speakerdeck.com/superbrothers/gao-ke-yong-xing-di-kosutoyun-yong-womu-zhi-su-zi-zhai-kubernetes-kurasuta-k8s-at-home-number-1</link>
         <dc:date>2022-10-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
