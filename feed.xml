@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>共通コンポーネントのテスト実装方法にあえてVRTを選択した話 / why do we choose VRT for testing shared components (panda_program)</title>
+        <link>https://speakerdeck.com/panda_program/why-do-we-choose-vrt-for-testing-shared-components</link>
+        <dc:date>2022-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>続・絵を読む技術 Pythonで読むイラストの心理戦略 / The Art of Reading Illustrations 2nd (Hirosaji)</title>
         <link>https://speakerdeck.com/hirosaji/the-art-of-reading-illustrations-2nd</link>
         <dc:date>2022-10-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>リリースから5年、Webフロントエンドの経年劣化と向き合う (Keiya Sasaki)</title>
         <link>https://speakerdeck.com/keiya01/ririsukara5nian-webhurontoendonojing-nian-lie-hua-toxiang-kihe-u</link>
-        <dc:date>2022-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアの中途採用入門 / How to hire engineers (iwashi)</title>
-        <link>https://speakerdeck.com/iwashi86/how-to-hire-engineers</link>
         <dc:date>2022-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
