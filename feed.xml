@@ -6,8 +6,18 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NuxtJSによるJamstack構築と Nuxt 3でどう変わるのか </title>
+        <link>https://docs.google.com/presentation/d/1jvhXaFep29tcEQ5fMI0UJOKuO-Nw43AnaxSJFjokiLU/preview</link>
+        <dc:date>2022-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Pythonではじめる地理空間情報 (Hiroshi Omata)</title>
         <link>https://speakerdeck.com/homata/pythondehazimerudi-li-kong-jian-qing-bao</link>
+        <dc:date>2022-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JSからTSへ移行した Vue.jsプロダクトの型チェックを 漸進的に強化する (ryo,@RyoKawamata)</title>
+        <link>https://www.docswell.com/s/kawamataryo/KXXG7K-2022-10-16-135209</link>
         <dc:date>2022-10-15T15:00:00Z</dc:date>
     </item>
     <item>
@@ -94,15 +104,5 @@
         <title>Reviewing_machine_learning_program.pdf (shibuiwilliam)</title>
         <link>https://speakerdeck.com/shibuiwilliam/reviewing-machine-learning-program</link>
         <dc:date>2022-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CA.unity #5 - キャラクター向け汎用シェーダーを作った話 (公開用)</title>
-        <link>https://docs.google.com/presentation/d/1JumB7W5a00RhJyJ22rcaCCQXpBTXcc-Wf0T6dGrJCA0/preview</link>
-        <dc:date>2022-10-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AndroidManifest.xmlはその後どうなっているのか？</title>
-        <link>https://docs.google.com/presentation/d/1pQcpH-uQVwOXargE90o6d7Bu9dnkd5COp9JO8896Wko/preview</link>
-        <dc:date>2022-10-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
