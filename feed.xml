@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>仕事でバックエンド開発するときに考えていること / GEEK-SAI-2022-AUTUMN-yanyan-Backend-Study (CARTA Engineering)</title>
+        <link>https://speakerdeck.com/carta_engineering/geek-sai-2022-autumn-yanyan-backend-study</link>
+        <dc:date>2022-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>The Importance of Morphological Analysis in Japanese Search Engines (Minoru Osuka)</title>
         <link>https://speakerdeck.com/mosuka/the-importance-of-morphological-analysis-in-japanese-search-engines</link>
         <dc:date>2022-10-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20221014_Fast API と学ぶ WebRTC</title>
         <link>https://docs.google.com/presentation/d/16-tKTBlpSjwD72fWTsDZaMnQUFnj0suuQheOeCufUYI/preview</link>
-        <dc:date>2022-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践：日本語文章生成　Transformers ライブラリで学ぶ実装の守破離 / Introduction of Japanese Text Generation with Transformers (Shotaro Ishihara)</title>
-        <link>https://speakerdeck.com/upura/introduction-of-japanese-text-generation-with-transformers</link>
         <dc:date>2022-10-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
