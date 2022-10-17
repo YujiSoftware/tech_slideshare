@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PyCon JP 2022/ASTに入門する (atama plus)</title>
+        <link>https://speakerdeck.com/atamaplus/pycon-jp-2022-ast</link>
+        <dc:date>2022-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NuxtJSによるJamstack構築と Nuxt 3でどう変わるのか </title>
         <link>https://docs.google.com/presentation/d/1jvhXaFep29tcEQ5fMI0UJOKuO-Nw43AnaxSJFjokiLU/preview</link>
         <dc:date>2022-10-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Pandas卒業？大規模データを様々なパッケージで高速処理してみる/pyconjp2022-hpc (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
         <link>https://speakerdeck.com/mhrtech/pyconjp2022-hpc</link>
-        <dc:date>2022-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Reviewing_machine_learning_program.pdf (shibuiwilliam)</title>
-        <link>https://speakerdeck.com/shibuiwilliam/reviewing-machine-learning-program</link>
         <dc:date>2022-10-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
