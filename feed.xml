@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The Importance of Morphological Analysis in Japanese Search Engines (Minoru Osuka)</title>
+        <link>https://speakerdeck.com/mosuka/the-importance-of-morphological-analysis-in-japanese-search-engines</link>
+        <dc:date>2022-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PyCon JP 2022/ASTに入門する (atama plus)</title>
         <link>https://speakerdeck.com/atamaplus/pycon-jp-2022-ast</link>
         <dc:date>2022-10-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>実践：日本語文章生成　Transformers ライブラリで学ぶ実装の守破離 / Introduction of Japanese Text Generation with Transformers (Shotaro Ishihara)</title>
         <link>https://speakerdeck.com/upura/introduction-of-japanese-text-generation-with-transformers</link>
-        <dc:date>2022-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pandas卒業？大規模データを様々なパッケージで高速処理してみる/pyconjp2022-hpc (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
-        <link>https://speakerdeck.com/mhrtech/pyconjp2022-hpc</link>
         <dc:date>2022-10-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
