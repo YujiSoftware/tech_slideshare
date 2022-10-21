@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kaigi on Rails 2022 - 既存Railsアプリ攻略法 CTOが見ること・やること・考えること (Fujimura Daisuke)</title>
+        <link>https://speakerdeck.com/fujimura/kaigi-on-rails-2022-ji-cun-railsapurigong-lue-fa-ctogajian-rukotoyarukotokao-erukoto</link>
+        <dc:date>2022-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>あなたとRails (Yasuo Honda)</title>
         <link>https://speakerdeck.com/yahonda/anatatorails</link>
         <dc:date>2022-10-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>PostgreSQL 15とRailsと (Yasuo Honda)</title>
         <link>https://speakerdeck.com/yahonda/postgresql-15torailsto</link>
         <dc:date>2022-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript による GraphQL バックエンド開発 (Naoya Ito)</title>
-        <link>https://speakerdeck.com/naoya/typescript-niyoru-graphql-batukuendokai-fa-75b3dab7-90a8-4169-a4dc-d1e7410b9dbd</link>
-        <dc:date>2022-10-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
