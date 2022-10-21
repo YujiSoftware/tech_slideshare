@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20221017_QiitaNight_ver2.pdf (yuyayamaguchi6)</title>
+        <link>https://www.slideshare.net/yuyayamaguchi6/20221017qiitanightver2pdf</link>
+        <dc:date>2022-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kaigi on Rails 2022 - 既存Railsアプリ攻略法 CTOが見ること・やること・考えること (Fujimura Daisuke)</title>
         <link>https://speakerdeck.com/fujimura/kaigi-on-rails-2022-ji-cun-railsapurigong-lue-fa-ctogajian-rukotoyarukotokao-erukoto</link>
         <dc:date>2022-10-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>認知的複雑度から見るGo言語のイベントソーシング実装 /  Event Sourcing with Go (suzushin54)</title>
         <link>https://speakerdeck.com/suzushin54/event-sourcing-with-go</link>
-        <dc:date>2022-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQL 15とRailsと (Yasuo Honda)</title>
-        <link>https://speakerdeck.com/yahonda/postgresql-15torailsto</link>
         <dc:date>2022-10-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
