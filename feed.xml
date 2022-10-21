@@ -6,8 +6,18 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>これだけは押さえておきたい ES2022の便利機能 (tonkotsuboy_com)</title>
+        <link>https://speakerdeck.com/tonkotsuboy_com/koredakehaya-saeteokitai-es2022nobian-li-ji-neng</link>
+        <dc:date>2022-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20221017_QiitaNight_ver2.pdf (yuyayamaguchi6)</title>
         <link>https://www.slideshare.net/yuyayamaguchi6/20221017qiitanightver2pdf</link>
+        <dc:date>2022-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>How to say goodbye to technical debt (makicamel)</title>
+        <link>https://speakerdeck.com/makicamel/how-to-say-goodbye-to-technical-debt</link>
         <dc:date>2022-10-20T15:00:00Z</dc:date>
     </item>
     <item>
@@ -93,16 +103,6 @@
     <item>
         <title>BigQueryエミュレータの作り方</title>
         <link>https://docs.google.com/presentation/d/1j5TPCpXiE9CvBjq78W8BWz-cGxU8djW1qy9Y6eBHso8/preview</link>
-        <dc:date>2022-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SNKRDUNKでGo+gRPCで すすめるモジュラモノリス (Shoei Watanabe)</title>
-        <link>https://speakerdeck.com/sh0e1/snkrdunkdego-plus-grpcde-susumerumoziyuramonorisu</link>
-        <dc:date>2022-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>認知的複雑度から見るGo言語のイベントソーシング実装 /  Event Sourcing with Go (suzushin54)</title>
-        <link>https://speakerdeck.com/suzushin54/event-sourcing-with-go</link>
         <dc:date>2022-10-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
