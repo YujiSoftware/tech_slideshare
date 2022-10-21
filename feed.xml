@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大量塩基配列登録申請システムができるまで (Keita Urashima)</title>
+        <link>https://speakerdeck.com/ursm/da-liang-yan-ji-pei-lie-deng-lu-shen-qing-sisutemugadekirumade</link>
+        <dc:date>2022-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>これだけは押さえておきたい ES2022の便利機能 (tonkotsuboy_com)</title>
         <link>https://speakerdeck.com/tonkotsuboy_com/koredakehaya-saeteokitai-es2022nobian-li-ji-neng</link>
         <dc:date>2022-10-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「機械学習」という技術で価値を創出する技術 / techniques-to-create-values-with-ml-layerx (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/techniques-to-create-values-with-ml-layerx-5544a594-b2fb-4290-baa5-d596b4453184</link>
-        <dc:date>2022-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BigQueryエミュレータの作り方</title>
-        <link>https://docs.google.com/presentation/d/1j5TPCpXiE9CvBjq78W8BWz-cGxU8djW1qy9Y6eBHso8/preview</link>
         <dc:date>2022-10-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
