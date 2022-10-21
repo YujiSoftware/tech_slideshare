@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Resumable な JavaScript フレームワーク Qwik を学ぶ (ryo,@RyoKawamata)</title>
+        <link>https://www.docswell.com/s/kawamataryo/K4GW15-qwik-resumable?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=singlepage</link>
+        <dc:date>2022-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大量塩基配列登録申請システムができるまで (Keita Urashima)</title>
         <link>https://speakerdeck.com/ursm/da-liang-yan-ji-pei-lie-deng-lu-shen-qing-sisutemugadekirumade</link>
         <dc:date>2022-10-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>続・絵を読む技術 Pythonで読むイラストの心理戦略 / The Art of Reading Illustrations 2nd (Hirosaji)</title>
         <link>https://speakerdeck.com/hirosaji/the-art-of-reading-illustrations-2nd</link>
-        <dc:date>2022-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「機械学習」という技術で価値を創出する技術 / techniques-to-create-values-with-ml-layerx (Yuya Matsumura)</title>
-        <link>https://speakerdeck.com/yuya4/techniques-to-create-values-with-ml-layerx-5544a594-b2fb-4290-baa5-d596b4453184</link>
         <dc:date>2022-10-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
