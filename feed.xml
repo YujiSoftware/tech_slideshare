@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プレトタイピングのコツと実践事例 (Hatuyuki4)</title>
+        <link>https://speakerdeck.com/hatuyuki4/huretotaihinkunokotutoshi-jian-shi-li</link>
+        <dc:date>2022-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Resumable な JavaScript フレームワーク Qwik を学ぶ (ryo,@RyoKawamata)</title>
         <link>https://www.docswell.com/s/kawamataryo/K4GW15-qwik-resumable?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=singlepage</link>
         <dc:date>2022-10-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>共通コンポーネントのテスト実装方法にあえてVRTを選択した話 / why do we choose VRT for testing shared components (panda_program)</title>
         <link>https://speakerdeck.com/panda_program/why-do-we-choose-vrt-for-testing-shared-components</link>
         <dc:date>2022-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>続・絵を読む技術 Pythonで読むイラストの心理戦略 / The Art of Reading Illustrations 2nd (Hirosaji)</title>
-        <link>https://speakerdeck.com/hirosaji/the-art-of-reading-illustrations-2nd</link>
-        <dc:date>2022-10-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
