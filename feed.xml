@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kaigi On Rails (Nate Berkopec)</title>
+        <link>https://speakerdeck.com/nateberkopec/kaigi-on-rails</link>
+        <dc:date>2022-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自分だけの小さなSelenium「Olenium」を作って始める、ブラウザ自動化技術の理論と実践 (ikuma-t)</title>
         <link>https://speakerdeck.com/ikumatadokoro/zi-fen-dakenoxiao-sanaselenium-olenium-wozuo-tuteshi-meru-burauzazi-dong-hua-ji-shu-noli-lun-toshi-jian</link>
         <dc:date>2022-10-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>The Importance of Morphological Analysis in Japanese Search Engines (Minoru Osuka)</title>
         <link>https://speakerdeck.com/mosuka/the-importance-of-morphological-analysis-in-japanese-search-engines</link>
-        <dc:date>2022-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PyCon JP 2022/ASTに入門する (atama plus)</title>
-        <link>https://speakerdeck.com/atamaplus/pycon-jp-2022-ast</link>
         <dc:date>2022-10-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
