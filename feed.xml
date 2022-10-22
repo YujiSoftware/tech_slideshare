@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kaigi_on_Rails_2022_Talk-hogelog.pdf (hogelog)</title>
+        <link>https://speakerdeck.com/hogelog/kaigi-on-rails-2022-talk-hogelog</link>
+        <dc:date>2022-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践 Rails アソシエーションリファクタリング / Rails association refactoring in practice (Kei Shiratsuchi)</title>
         <link>https://speakerdeck.com/kei_s/rails-association-refactoring-in-practice</link>
         <dc:date>2022-10-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Pythonではじめる地理空間情報 (Hiroshi Omata)</title>
         <link>https://speakerdeck.com/homata/pythondehazimerudi-li-kong-jian-qing-bao</link>
-        <dc:date>2022-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JSからTSへ移行した Vue.jsプロダクトの型チェックを 漸進的に強化する (ryo,@RyoKawamata)</title>
-        <link>https://www.docswell.com/s/kawamataryo/KXXG7K-2022-10-16-135209</link>
         <dc:date>2022-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
