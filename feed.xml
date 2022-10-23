@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>システム開発を支えるメタプログラミングの技術 / kaigionrails-2022 (hogucc)</title>
+        <link>https://speakerdeck.com/hogucc/kaigionrails-2022</link>
+        <dc:date>2022-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>今年できたチームの生産性を向上させたプラクティスの紹介 / Kaigi on Rails 2022 (AKAMATSU Yuki)</title>
         <link>https://speakerdeck.com/ukstudio/kaigi-on-rails-2022</link>
         <dc:date>2022-10-22T15:00:00Z</dc:date>
@@ -43,6 +48,11 @@
     <item>
         <title>モノリシックRailsアプリケーションを モジュラモノリスへ移行している noteの事例 (Hiroya Shimamoto)</title>
         <link>https://speakerdeck.com/shshimamo/monorisitukurailsapurikesiyonwo-moziyuramonorisuheyi-xing-siteiru-notenoshi-li</link>
+        <dc:date>2022-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ActiveRecord::Relation ってなに？ (osyo,@pink_bangbi)</title>
+        <link>https://www.docswell.com/s/pink_bangbi/K88ELK-2022-10-22-133810</link>
         <dc:date>2022-10-21T15:00:00Z</dc:date>
     </item>
     <item>
@@ -93,16 +103,6 @@
     <item>
         <title>20221017_QiitaNight_ver2.pdf (yuyayamaguchi6)</title>
         <link>https://www.slideshare.net/yuyayamaguchi6/20221017qiitanightver2pdf</link>
-        <dc:date>2022-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to say goodbye to technical debt (makicamel)</title>
-        <link>https://speakerdeck.com/makicamel/how-to-say-goodbye-to-technical-debt</link>
-        <dc:date>2022-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kaigi on Rails 2022 - 既存Railsアプリ攻略法 CTOが見ること・やること・考えること (Fujimura Daisuke)</title>
-        <link>https://speakerdeck.com/fujimura/kaigi-on-rails-2022-ji-cun-railsapurigong-lue-fa-ctogajian-rukotoyarukotokao-erukoto</link>
         <dc:date>2022-10-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
