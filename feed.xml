@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CNN vs. ViT (Yoshitaka Ushiku)</title>
+        <link>https://speakerdeck.com/yushiku/cnn-vs-vit</link>
+        <dc:date>2022-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RecSys2022 論文読み会 | 【紹介】Tutorial: Psychology-informed Recommender Systems (Higuchi kokoro)</title>
         <link>https://speakerdeck.com/zerebom/recsys2022-lun-wen-du-mihui-shao-jie-tutorial-psychology-informed-recommender-systems</link>
         <dc:date>2022-10-22T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Code Review in Kubernetes (Tim Hockin)</title>
         <link>https://speakerdeck.com/thockin/code-review-in-kubernetes</link>
         <dc:date>2022-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仕事でバックエンド開発するときに考えていること / GEEK-SAI-2022-AUTUMN-yanyan-Backend-Study (CARTA Engineering)</title>
-        <link>https://speakerdeck.com/carta_engineering/geek-sai-2022-autumn-yanyan-backend-study</link>
-        <dc:date>2022-10-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
