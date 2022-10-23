@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今年できたチームの生産性を向上させたプラクティスの紹介 / Kaigi on Rails 2022 (AKAMATSU Yuki)</title>
+        <link>https://speakerdeck.com/ukstudio/kaigi-on-rails-2022</link>
+        <dc:date>2022-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CNN vs. ViT (Yoshitaka Ushiku)</title>
         <link>https://speakerdeck.com/yushiku/cnn-vs-vit</link>
         <dc:date>2022-10-22T15:00:00Z</dc:date>
@@ -18,6 +23,11 @@
     <item>
         <title>Kaigi On Rails (Nate Berkopec)</title>
         <link>https://speakerdeck.com/nateberkopec/kaigi-on-rails</link>
+        <dc:date>2022-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>とりあえず抑えておきたい Railsでの「テストの内容」の考えかた #kaigionrails /Test code concepts to keep in mind for now with Rails (ShinkuFencer)</title>
+        <link>https://speakerdeck.com/shinkufencer/test-code-concepts-to-keep-in-mind-for-now-with-rails</link>
         <dc:date>2022-10-21T15:00:00Z</dc:date>
     </item>
     <item>
@@ -46,6 +56,11 @@
         <dc:date>2022-10-21T15:00:00Z</dc:date>
     </item>
     <item>
+        <title>sassc-railsを利用している我々は、Sassの@importの非推奨化をどのように乗り越えていくか (Hirotaka Miyagi)</title>
+        <link>https://speakerdeck.com/mh4gf/sassc-railswoli-yong-siteiruwo-ha-sassno-at-importnofei-tui-jiang-hua-wodonoyounicheng-riyue-eteikuka</link>
+        <dc:date>2022-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>3rd Party API on Rails (tsuwatch)</title>
         <link>https://speakerdeck.com/tsuwatch/3rd-party-api-on-rails</link>
         <dc:date>2022-10-21T15:00:00Z</dc:date>
@@ -58,6 +73,11 @@
     <item>
         <title>Resumable な JavaScript フレームワーク Qwik を学ぶ (ryo,@RyoKawamata)</title>
         <link>https://www.docswell.com/s/kawamataryo/K4GW15-qwik-resumable?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=singlepage</link>
+        <dc:date>2022-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Balance Security and Usability in the Field of 3D Secure (Masato Ohba)</title>
+        <link>https://speakerdeck.com/ohbarye/balance-security-and-usability-in-the-field-of-3d-secure</link>
         <dc:date>2022-10-20T15:00:00Z</dc:date>
     </item>
     <item>
@@ -84,25 +104,5 @@
         <title>Kaigi on Rails 2022 - 既存Railsアプリ攻略法 CTOが見ること・やること・考えること (Fujimura Daisuke)</title>
         <link>https://speakerdeck.com/fujimura/kaigi-on-rails-2022-ji-cun-railsapurigong-lue-fa-ctogajian-rukotoyarukotokao-erukoto</link>
         <dc:date>2022-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あなたとRails (Yasuo Honda)</title>
-        <link>https://speakerdeck.com/yahonda/anatatorails</link>
-        <dc:date>2022-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DXに立ち向かうための マインドセット（公開用）.pdf (真一 藤川,@fshin2000)</title>
-        <link>https://www.slideshare.net/fshin2000/dx-pdf-253739267</link>
-        <dc:date>2022-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue2 Vue3 マイグレーション 令和最新 最強</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vS1Drke3qV5WoYkpwk06FL3Zr0VZz7s4usDrJlM4AozNmxcfOM1xHCS9sxK1idD6O7v7vAKEy7NMVLv/pub</link>
-        <dc:date>2022-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[輪講資料] Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space (Hayato Tsukagoshi)</title>
-        <link>https://speakerdeck.com/hpprc/lun-jiang-zi-liao-optimus-organizing-sentences-via-pre-trained-modeling-of-a-latent-space</link>
-        <dc:date>2022-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
