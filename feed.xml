@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RBSとSteepで始める型のあるRails開発とその運用 (yamashun)</title>
+        <link>https://speakerdeck.com/yamashun/rbstosteepdeshi-meruxing-noarurailskai-fa-tosonoyun-yong</link>
+        <dc:date>2022-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>システム開発を支えるメタプログラミングの技術 / kaigionrails-2022 (hogucc)</title>
         <link>https://speakerdeck.com/hogucc/kaigionrails-2022</link>
         <dc:date>2022-10-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>これだけは押さえておきたい ES2022の便利機能 (tonkotsuboy_com)</title>
         <link>https://speakerdeck.com/tonkotsuboy_com/koredakehaya-saeteokitai-es2022nobian-li-ji-neng</link>
-        <dc:date>2022-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20221017_QiitaNight_ver2.pdf (yuyayamaguchi6)</title>
-        <link>https://www.slideshare.net/yuyayamaguchi6/20221017qiitanightver2pdf</link>
         <dc:date>2022-10-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
