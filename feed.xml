@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>森羅万象に「いいね」するためのデータ構造 (なっちゃん)</title>
+        <link>https://speakerdeck.com/pndcat/sen-luo-mo-xiang-ni-iine-surutamenodetagou-zao</link>
+        <dc:date>2022-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RBSとSteepで始める型のあるRails開発とその運用 (yamashun)</title>
         <link>https://speakerdeck.com/yamashun/rbstosteepdeshi-meruxing-noarurailskai-fa-tosonoyun-yong</link>
         <dc:date>2022-10-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Balance Security and Usability in the Field of 3D Secure (Masato Ohba)</title>
         <link>https://speakerdeck.com/ohbarye/balance-security-and-usability-in-the-field-of-3d-secure</link>
-        <dc:date>2022-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大量塩基配列登録申請システムができるまで (Keita Urashima)</title>
-        <link>https://speakerdeck.com/ursm/da-liang-yan-ji-pei-lie-deng-lu-shen-qing-sisutemugadekirumade</link>
         <dc:date>2022-10-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
