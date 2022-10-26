@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Google Cloud Spanner 沼への誘い Basic v20210730a</title>
+        <link>https://docs.google.com/presentation/d/1LlrIvkv02Jj1OvjKWsKnMNbR3Np72rUxWqatmzywLPI/preview</link>
+        <dc:date>2022-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ポケラボ内製リアルタイム通信エンジンの昇華 (gree_tech)</title>
         <link>https://speakerdeck.com/gree_tech/greetechcon2022-session-b-5</link>
         <dc:date>2022-10-25T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>プレトタイピングのコツと実践事例 (Hatuyuki4)</title>
         <link>https://speakerdeck.com/hatuyuki4/huretotaihinkunokotutoshi-jian-shi-li</link>
         <dc:date>2022-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Resumable な JavaScript フレームワーク Qwik を学ぶ (ryo,@RyoKawamata)</title>
-        <link>https://www.docswell.com/s/kawamataryo/K4GW15-qwik-resumable?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=singlepage</link>
-        <dc:date>2022-10-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
