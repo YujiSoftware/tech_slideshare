@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ポケラボ内製リアルタイム通信エンジンの昇華 (gree_tech)</title>
+        <link>https://speakerdeck.com/gree_tech/greetechcon2022-session-b-5</link>
+        <dc:date>2022-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>森羅万象に「いいね」するためのデータ構造 (なっちゃん)</title>
         <link>https://speakerdeck.com/pndcat/sen-luo-mo-xiang-ni-iine-surutamenodetagou-zao</link>
         <dc:date>2022-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Resumable な JavaScript フレームワーク Qwik を学ぶ (ryo,@RyoKawamata)</title>
         <link>https://www.docswell.com/s/kawamataryo/K4GW15-qwik-resumable?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=singlepage</link>
-        <dc:date>2022-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Balance Security and Usability in the Field of 3D Secure (Masato Ohba)</title>
-        <link>https://speakerdeck.com/ohbarye/balance-security-and-usability-in-the-field-of-3d-secure</link>
         <dc:date>2022-10-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
