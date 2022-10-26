@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Snowflakeがもたらした noteのデータ分析の進化 (littlekbt)</title>
+        <link>https://speakerdeck.com/littlekbt/snowflakegamotarasita-notenodetafen-xi-nojin-hua</link>
+        <dc:date>2022-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Google Cloud Spanner 沼への誘い Basic v20210730a</title>
         <link>https://docs.google.com/presentation/d/1LlrIvkv02Jj1OvjKWsKnMNbR3Np72rUxWqatmzywLPI/preview</link>
         <dc:date>2022-10-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>3rd Party API on Rails (tsuwatch)</title>
         <link>https://speakerdeck.com/tsuwatch/3rd-party-api-on-rails</link>
-        <dc:date>2022-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プレトタイピングのコツと実践事例 (Hatuyuki4)</title>
-        <link>https://speakerdeck.com/hatuyuki4/huretotaihinkunokotutoshi-jian-shi-li</link>
         <dc:date>2022-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
