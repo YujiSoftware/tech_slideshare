@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モデリングツールとモデリングの可能性を考える (Tsuyoshi Yasunishi)</title>
+        <link>https://speakerdeck.com/tsuyok/balus-modeling</link>
+        <dc:date>2022-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Snowflakeがもたらした noteのデータ分析の進化 (littlekbt)</title>
         <link>https://speakerdeck.com/littlekbt/snowflakegamotarasita-notenodetafen-xi-nojin-hua</link>
         <dc:date>2022-10-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>sassc-railsを利用している我々は、Sassの@importの非推奨化をどのように乗り越えていくか (Hirotaka Miyagi)</title>
         <link>https://speakerdeck.com/mh4gf/sassc-railswoli-yong-siteiruwo-ha-sassno-at-importnofei-tui-jiang-hua-wodonoyounicheng-riyue-eteikuka</link>
-        <dc:date>2022-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>3rd Party API on Rails (tsuwatch)</title>
-        <link>https://speakerdeck.com/tsuwatch/3rd-party-api-on-rails</link>
         <dc:date>2022-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
