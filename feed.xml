@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>30分でわかるFour Keysの基礎と重要性 (Yuu Igarashi)</title>
+        <link>https://speakerdeck.com/yigarashi/30fen-dewakarufour-keysnoji-chu-tozhong-yao-xing</link>
+        <dc:date>2022-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モデリングツールとモデリングの可能性を考える (Tsuyoshi Yasunishi)</title>
         <link>https://speakerdeck.com/tsuyok/balus-modeling</link>
         <dc:date>2022-10-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>入社数ヶ月のnewbieが 稼働7年超のプロジェクトに 型を導入して見えた世界 (Fu-ga)</title>
         <link>https://speakerdeck.com/fugakkbn/ru-she-shu-keyue-nonewbiega-jia-dong-7nian-chao-nopuroziekutoni-xing-wodao-ru-sitejian-etashi-jie</link>
-        <dc:date>2022-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>sassc-railsを利用している我々は、Sassの@importの非推奨化をどのように乗り越えていくか (Hirotaka Miyagi)</title>
-        <link>https://speakerdeck.com/mh4gf/sassc-railswoli-yong-siteiruwo-ha-sassno-at-importnofei-tui-jiang-hua-wodonoyounicheng-riyue-eteikuka</link>
         <dc:date>2022-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
