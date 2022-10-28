@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践 9 つのメモリリークどう見つける？/ How to detect 9 types of memory leaks? (Kuniwak)</title>
+        <link>https://speakerdeck.com/orgachem/how-to-detect-9-types-of-memory-leaks</link>
+        <dc:date>2022-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>30分でわかるFour Keysの基礎と重要性 (Yuu Igarashi)</title>
         <link>https://speakerdeck.com/yigarashi/30fen-dewakarufour-keysnoji-chu-tozhong-yao-xing</link>
         <dc:date>2022-10-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ActiveRecord::Relation ってなに？ (osyo,@pink_bangbi)</title>
         <link>https://www.docswell.com/s/pink_bangbi/K88ELK-2022-10-22-133810</link>
-        <dc:date>2022-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践 Rails アソシエーションリファクタリング / Rails association refactoring in practice (Kei Shiratsuchi)</title>
-        <link>https://speakerdeck.com/kei_s/rails-association-refactoring-in-practice</link>
         <dc:date>2022-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
