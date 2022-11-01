@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>クラウドの作り方（使い方じゃないよ）/ How to create Cloud Service (Yoshiaki Tobioka)</title>
+        <link>https://speakerdeck.com/toby06/how-to-create-cloud-service</link>
+        <dc:date>2022-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クラウドネイティブな新しいネットワークコントローラをつくる (Hiroki Okui)</title>
         <link>https://speakerdeck.com/hrk091/kuraudoneiteibunaxin-siinetutowakukontororawotukuru</link>
         <dc:date>2022-10-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>とりあえず抑えておきたい Railsでの「テストの内容」の考えかた #kaigionrails /Test code concepts to keep in mind for now with Rails (ShinkuFencer)</title>
         <link>https://speakerdeck.com/shinkufencer/test-code-concepts-to-keep-in-mind-for-now-with-rails</link>
-        <dc:date>2022-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自分だけの小さなSelenium「Olenium」を作って始める、ブラウザ自動化技術の理論と実践 (ikuma-t)</title>
-        <link>https://speakerdeck.com/ikumatadokoro/zi-fen-dakenoxiao-sanaselenium-olenium-wozuo-tuteshi-meru-burauzazi-dong-hua-ji-shu-noli-lun-toshi-jian</link>
         <dc:date>2022-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
