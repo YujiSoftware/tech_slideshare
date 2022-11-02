@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>明日から使える(?)逆引きKubernetes (Aya (Igarashi) Ozawa)</title>
+        <link>https://speakerdeck.com/ladicle/ming-ri-karashi-eru-ni-yin-kikubernetes</link>
+        <dc:date>2022-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ソフトウェアクラフトマンシップとプログラマーの誓い - Forkwell Library #8 (Masanori Kado,@kdmsnr)</title>
+        <link>https://www.docswell.com/s/kdmsnr/58X12K-clean-craftsmanship</link>
+        <dc:date>2022-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes にこれから入るかもしれない注目機能！（2022年11月版） (Kazuki Suda)</title>
+        <link>https://speakerdeck.com/superbrothers/kubernetes-nikorekararu-rukamosirenaizhu-mu-ji-neng-2022nian-11yue-ban</link>
+        <dc:date>2022-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アイデアと上手くつきあう方法 (ちゃんもれ)</title>
         <link>https://speakerdeck.com/more_t/aideatoshang-shou-kutukiaufang-fa-15097b10-8b4b-4d39-9558-8bb223c0682c</link>
         <dc:date>2022-11-01T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>Google Cloud Spanner 沼への誘い Basic v20210730a</title>
         <link>https://docs.google.com/presentation/d/1LlrIvkv02Jj1OvjKWsKnMNbR3Np72rUxWqatmzywLPI/preview</link>
         <dc:date>2022-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ポケラボ内製リアルタイム通信エンジンの昇華 (gree_tech)</title>
-        <link>https://speakerdeck.com/gree_tech/greetechcon2022-session-b-5</link>
-        <dc:date>2022-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>森羅万象に「いいね」するためのデータ構造 (なっちゃん)</title>
-        <link>https://speakerdeck.com/pndcat/sen-luo-mo-xiang-ni-iine-surutamenodetagou-zao</link>
-        <dc:date>2022-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RBSとSteepで始める型のあるRails開発とその運用 (yamashun)</title>
-        <link>https://speakerdeck.com/yamashun/rbstosteepdeshi-meruxing-noarurailskai-fa-tosonoyun-yong</link>
-        <dc:date>2022-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
