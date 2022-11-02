@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクトと向き合いながら 目の前のコードと戦うには / Fight the code in front of you (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/fight-the-code-in-front-of-you</link>
+        <dc:date>2022-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WayOfNoTrouble.pptx (Daisuke Yamazaki,@yamaz)</title>
         <link>https://www.slideshare.net/yamaz2/wayofnotroublepptx</link>
         <dc:date>2022-11-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CNN vs. ViT (Yoshitaka Ushiku)</title>
         <link>https://speakerdeck.com/yushiku/cnn-vs-vit</link>
-        <dc:date>2022-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RecSys2022 論文読み会 | 【紹介】Tutorial: Psychology-informed Recommender Systems (Higuchi kokoro)</title>
-        <link>https://speakerdeck.com/zerebom/recsys2022-lun-wen-du-mihui-shao-jie-tutorial-psychology-informed-recommender-systems</link>
         <dc:date>2022-10-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
