@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクトマネジメント組織立ち上げの課題と落とし穴と楽しみ #pmconf2022 (Aki / @LoveIdahoBurger)</title>
+        <link>https://speakerdeck.com/aki_iinuma/purodakutomanezimentozu-zhi-li-tishang-genoke-ti-toluo-tosixue-tole-simi-number-pmconf2022</link>
+        <dc:date>2022-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>明日から使える(?)逆引きKubernetes (Aya (Igarashi) Ozawa)</title>
         <link>https://speakerdeck.com/ladicle/ming-ri-karashi-eru-ni-yin-kikubernetes</link>
         <dc:date>2022-11-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Snowflakeがもたらした noteのデータ分析の進化 (littlekbt)</title>
         <link>https://speakerdeck.com/littlekbt/snowflakegamotarasita-notenodetafen-xi-nojin-hua</link>
-        <dc:date>2022-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloud Spanner 沼への誘い Basic v20210730a</title>
-        <link>https://docs.google.com/presentation/d/1LlrIvkv02Jj1OvjKWsKnMNbR3Np72rUxWqatmzywLPI/preview</link>
         <dc:date>2022-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
