@@ -6,9 +6,29 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>企業内のPMを盛り上げよう！  ～LINEがPMの活躍環境づくりのために取り組んでいること～ (Minoru Yokomichi)</title>
+        <link>https://speakerdeck.com/ykmc09/enabling-in-house-pms</link>
+        <dc:date>2022-11-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Linux カーネル 最近のコンテナ関連新機能 / TechFeed Experts Night#7 (tenforward)</title>
         <link>https://speakerdeck.com/tenforward/techfeed-experts-night-number-7</link>
         <dc:date>2022-11-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>あなたの手元の本よりいい方法がある！ UXデザインのプロはこうやってユーザーのインサイトを確実に見つける (Yoshiki Hayama,@storywriter)</title>
+        <link>https://www.slideshare.net/storywriterjp/ux-253950458</link>
+        <dc:date>2022-11-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今日から始める「実例マッピング」 / How to Use Example Mapping #pmconf2022 (Rika Sato)</title>
+        <link>https://speakerdeck.com/rikasato/how-to-use-example-mapping-number-pmconf2022</link>
+        <dc:date>2022-11-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アウトカム最大化のためのプロダクト開発と組織 (kaa_a_zu)</title>
+        <link>https://speakerdeck.com/kaa_a_zu/autokamuzui-da-hua-notamenopurodakutokai-fa-tozu-zhi</link>
+        <dc:date>2022-11-01T15:00:00Z</dc:date>
     </item>
     <item>
         <title>プロダクトマネジメント組織立ち上げの課題と落とし穴と楽しみ #pmconf2022 (Aki / @LoveIdahoBurger)</title>
@@ -31,6 +51,11 @@
         <dc:date>2022-11-01T15:00:00Z</dc:date>
     </item>
     <item>
+        <title>PM初心者が 「MyPM像」を確立するまでの ストーリー (Shiori Yoshioka)</title>
+        <link>https://speakerdeck.com/shioriyoshioka/pmchu-xin-zhe-ga-mypmxiang-woque-li-surumadeno-sutori</link>
+        <dc:date>2022-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アイデアと上手くつきあう方法 (ちゃんもれ)</title>
         <link>https://speakerdeck.com/more_t/aideatoshang-shou-kutukiaufang-fa-15097b10-8b4b-4d39-9558-8bb223c0682c</link>
         <dc:date>2022-11-01T15:00:00Z</dc:date>
@@ -38,6 +63,11 @@
     <item>
         <title>PMFを生み続ける意志力 / willpower to keep creating PMF (Nao Hanamura)</title>
         <link>https://speakerdeck.com/naomasabit/willpower-to-keep-creating-pmf</link>
+        <dc:date>2022-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>『組織として』顧客を理解するインタビュー習慣の作り方 #pmconf2022 / Continuous user interview habit (Kazuki Takaishi)</title>
+        <link>https://speakerdeck.com/tktktks10/continuous-user-interview-habit</link>
         <dc:date>2022-11-01T15:00:00Z</dc:date>
     </item>
     <item>
@@ -74,35 +104,5 @@
         <title>信頼性の階層の一段目を積み上げる/Monitoring Dashboard (shonansurvivors)</title>
         <link>https://speakerdeck.com/shonansurvivors/monitoring-dashboard</link>
         <dc:date>2022-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウドネイティブな新しいネットワークコントローラをつくる (Hiroki Okui)</title>
-        <link>https://speakerdeck.com/hrk091/kuraudoneiteibunaxin-siinetutowakukontororawotukuru</link>
-        <dc:date>2022-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンプラ情シスのAWSあるある（業務システム編） (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/enpuraqing-sisunoawsaruaru-ye-wu-sisutemubian</link>
-        <dc:date>2022-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud Financial Management ～AWSコストの可視化・最適化・予測・FinOps～ / Cloud Financial Management Overview (Yukitaka Ohmura)</title>
-        <link>https://speakerdeck.com/ohmura/cloud-financial-management-overview</link>
-        <dc:date>2022-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践 9 つのメモリリークどう見つける？/ How to detect 9 types of memory leaks? (Kuniwak)</title>
-        <link>https://speakerdeck.com/orgachem/how-to-detect-9-types-of-memory-leaks</link>
-        <dc:date>2022-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>30分でわかるFour Keysの基礎と重要性 (Yuu Igarashi)</title>
-        <link>https://speakerdeck.com/yigarashi/30fen-dewakarufour-keysnoji-chu-tozhong-yao-xing</link>
-        <dc:date>2022-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトと顧客をつなぐログラスのCREの取り組み (Shingo Yamazaki)</title>
-        <link>https://speakerdeck.com/zakiyama/cre-in-loglass-2022-10</link>
-        <dc:date>2022-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
