@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JAWS_SecurityPaper.pdf (shogo matsumoto)</title>
+        <link>https://speakerdeck.com/matshogo/jaws-securitypaper</link>
+        <dc:date>2022-11-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>拡販フェーズを生き残るチームに必要な2つの理論：八百屋理論とF1理論 / Two Theories for Product Team to Survive Growth Phase: Yaoya and F1 Theory (yama@muteki)</title>
         <link>https://speakerdeck.com/yamamuteki/two-theories-for-product-team-to-survive-growth-phase-yaoya-and-f1-theory</link>
         <dc:date>2022-11-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>マルチプロダクトでスケールするプロダクト開発組織をつくるために (Hirofumi Tanahashi)</title>
         <link>https://speakerdeck.com/htanahashi/marutipurodakutodesukerusuru-purodakutokai-fa-zu-zhi-wotukurutameni</link>
-        <dc:date>2022-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトと向き合いながら 目の前のコードと戦うには / Fight the code in front of you (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/fight-the-code-in-front-of-you</link>
         <dc:date>2022-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
