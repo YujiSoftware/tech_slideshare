@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS CDKでECS on FargateのCI/CDを実現する際の理想と現実 / ideal-and-reality-when-implementing-cicd-for-ecs-on-fargate-with-aws-cdk (tomoki10)</title>
+        <link>https://speakerdeck.com/tomoki10/ideal-and-reality-when-implementing-cicd-for-ecs-on-fargate-with-aws-cdk</link>
+        <dc:date>2022-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【配布用】モノクロスライドテンプレート</title>
         <link>https://docs.google.com/presentation/d/1tP9vALTVdTFOWp_MRa6aR5JxHluFA1cMiDwrYpL7WDQ/preview</link>
         <dc:date>2022-11-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20221102_pmconf_b1_プロダクトマネジメントと民主主義.pdf (fnwiya)</title>
         <link>https://speakerdeck.com/fnwiya/20221102-pmconf-b1-hurotakutomanesimentotomin-zhu-zhu-yi</link>
-        <dc:date>2022-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>企業内のPMを盛り上げよう！  ～LINEがPMの活躍環境づくりのために取り組んでいること～ (Minoru Yokomichi)</title>
-        <link>https://speakerdeck.com/ykmc09/enabling-in-house-pms</link>
         <dc:date>2022-11-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
