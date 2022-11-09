@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>レガシーフロントエンドからNext.jsへの段階移行を可能にするAWS構成 (Takuya Mizuma)</title>
+        <link>https://speakerdeck.com/tamizuma/rekasihurontoentokaranext-dot-jshenoduan-jie-yi-xing-woke-neng-nisuruawsgou-cheng</link>
+        <dc:date>2022-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ぼくのかんがえる最高のデータ分析基盤 / strongest-data-architecture-discussion (Jumpei Chikamori)</title>
         <link>https://speakerdeck.com/pei0804/strongest-data-architecture-discussion</link>
         <dc:date>2022-11-07T15:00:00Z</dc:date>
@@ -19,6 +24,11 @@
         <title>エンジニアの思い付きをプロダクトにした話 ~SkyWayの9年間のHARD THINGS~ プロダクトマネージャーカンファレンス2022 (Ryosuke Otsuya)</title>
         <link>https://speakerdeck.com/rotsuya/skyway-technology-driven-product-management</link>
         <dc:date>2022-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「ウチの事業部の商品をWebサイト・アプリで目立たせて！」私だけじゃなかった！ 社内政治と落としどころの見つけ方 (Yoshiki Hayama,@storywriter)</title>
+        <link>https://www.slideshare.net/storywriterjp/web-254024143</link>
+        <dc:date>2022-11-05T15:00:00Z</dc:date>
     </item>
     <item>
         <title>Are your automated tests improving? (teyamagu)</title>
@@ -93,16 +103,6 @@
     <item>
         <title>アウトカム最大化のためのプロダクト開発と組織 (kaa_a_zu)</title>
         <link>https://speakerdeck.com/kaa_a_zu/autokamuzui-da-hua-notamenopurodakutokai-fa-tozu-zhi</link>
-        <dc:date>2022-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトマネジメント組織立ち上げの課題と落とし穴と楽しみ #pmconf2022 (Aki / @LoveIdahoBurger)</title>
-        <link>https://speakerdeck.com/aki_iinuma/purodakutomanezimentozu-zhi-li-tishang-genoke-ti-toluo-tosixue-tole-simi-number-pmconf2022</link>
-        <dc:date>2022-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>明日から使える(?)逆引きKubernetes (Aya (Igarashi) Ozawa)</title>
-        <link>https://speakerdeck.com/ladicle/ming-ri-karashi-eru-ni-yin-kikubernetes</link>
         <dc:date>2022-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
