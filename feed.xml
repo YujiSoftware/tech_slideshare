@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon Pinpointを用いて、LINEとメール配信のCRM設計 / AWS Dev Day 2022 B-2 (hayato miyoshi)</title>
+        <link>https://speakerdeck.com/miyoshihayato/aws-dev-day-2022-b-2</link>
+        <dc:date>2022-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>レガシーフロントエンドからNext.jsへの段階移行を可能にするAWS構成 (Takuya Mizuma)</title>
         <link>https://speakerdeck.com/tamizuma/rekasihurontoentokaranext-dot-jshenoduan-jie-yi-xing-woke-neng-nisuruawsgou-cheng</link>
         <dc:date>2022-11-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>あなたの手元の本よりいい方法がある！ UXデザインのプロはこうやってユーザーのインサイトを確実に見つける (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/ux-253950458</link>
-        <dc:date>2022-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今日から始める「実例マッピング」 / How to Use Example Mapping #pmconf2022 (Rika Sato)</title>
-        <link>https://speakerdeck.com/rikasato/how-to-use-example-mapping-number-pmconf2022</link>
         <dc:date>2022-11-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
