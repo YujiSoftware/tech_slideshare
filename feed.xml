@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>EventBridgeとAmplify + Stripeで 「イベント駆動」な Webサービスを開発する/aws-dev-day-2022 (Hidetaka Okamoto (Stripe))</title>
+        <link>https://speakerdeck.com/stripehideokamoto/aws-dev-day-2022</link>
+        <dc:date>2022-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS CDKでECS on FargateのCI/CDを実現する際の理想と現実 / ideal-and-reality-when-implementing-cicd-for-ecs-on-fargate-with-aws-cdk (tomoki10)</title>
         <link>https://speakerdeck.com/tomoki10/ideal-and-reality-when-implementing-cicd-for-ecs-on-fargate-with-aws-cdk</link>
         <dc:date>2022-11-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>拡販フェーズを生き残るチームに必要な2つの理論：八百屋理論とF1理論 / Two Theories for Product Team to Survive Growth Phase: Yaoya and F1 Theory (yama@muteki)</title>
         <link>https://speakerdeck.com/yamamuteki/two-theories-for-product-team-to-survive-growth-phase-yaoya-and-f1-theory</link>
-        <dc:date>2022-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>pmconf2022_mot_miyamoto.pdf (Rieko Miyamoto)</title>
-        <link>https://speakerdeck.com/riekomiyamoto/pmconf2022-mot-miyamoto-d26601ca-efac-454c-a300-3f4363fd1b8c</link>
         <dc:date>2022-11-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
