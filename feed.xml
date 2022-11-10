@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>統計的因果探索とAI (Shohei SHIMIZU)</title>
+        <link>https://speakerdeck.com/sshimizu2006/tong-ji-de-yin-guo-tan-suo-toai</link>
+        <dc:date>2022-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>良い設計と悪い設計の違い (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/good-or-bad-that-is-a-question</link>
+        <dc:date>2022-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ISUCON運営を支えるAmazon ECSとAurora Serverless v2 / AWS Dev Day 2022 Japan (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/aws-dev-day-2022-japan</link>
         <dc:date>2022-11-09T15:00:00Z</dc:date>
@@ -13,6 +23,11 @@
     <item>
         <title>SQS + Lambda という⾮同期処理 ⻩⾦パターン再⼊⾨ #AWSDevDay / SQS-Lambda-DevDay2022 (Ichino Shiraishi)</title>
         <link>https://speakerdeck.com/pikosan0000/sqs-lambda-devday2022</link>
+        <dc:date>2022-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>3factor app って結局のところ何なの？ - AWS Dev Day 2022 (NemOps)</title>
+        <link>https://speakerdeck.com/nemops/3factor-app-tutejie-ju-he-nano-aws-dev-day-2022</link>
         <dc:date>2022-11-09T15:00:00Z</dc:date>
     </item>
     <item>
@@ -89,20 +104,5 @@
         <title>Are your automated tests improving? (teyamagu)</title>
         <link>https://speakerdeck.com/teyamagu/are-your-automated-tests-improving</link>
         <dc:date>2022-11-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>人類総クリエイター化計画 in 2022 『AIに手伝ってもらったら物語が創れた件』〜AIと企画した物語をAIでマンガにしたい！〜 (soneo1127)</title>
-        <link>https://speakerdeck.com/soneo1127/ren-lei-zong-kurieitahua-ji-hua-in-2022-ainishou-chuan-tutemoratutarawu-yu-gachuang-retajian-aitoqi-hua-sitawu-yu-woaidemanganisitai</link>
-        <dc:date>2022-11-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クライアントワーク（受託）のJamstack開発でNuxt 3を提案・実装する / Reject Conference - Vue Fes Japan Online 2022 (Chinen)</title>
-        <link>https://speakerdeck.com/chinen/reject-conference-vue-fes-japan-online-2022</link>
-        <dc:date>2022-11-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS_SecurityPaper.pdf (shogo matsumoto)</title>
-        <link>https://speakerdeck.com/matshogo/jaws-securitypaper</link>
-        <dc:date>2022-11-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
