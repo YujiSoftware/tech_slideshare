@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ISUCON運営を支えるAmazon ECSとAurora Serverless v2 / AWS Dev Day 2022 Japan (FUJIWARA Shunichiro)</title>
+        <link>https://speakerdeck.com/fujiwara3/aws-dev-day-2022-japan</link>
+        <dc:date>2022-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SQS + Lambda という⾮同期処理 ⻩⾦パターン再⼊⾨ #AWSDevDay / SQS-Lambda-DevDay2022 (Ichino Shiraishi)</title>
+        <link>https://speakerdeck.com/pikosan0000/sqs-lambda-devday2022</link>
+        <dc:date>2022-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サーバーレスは操作的意味論の夢を見るか？ #AWSDevDay / AWS Dev Day 2022 Japan (y_taka_23)</title>
         <link>https://speakerdeck.com/ytaka23/aws-dev-day-2022-japan</link>
         <dc:date>2022-11-09T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>JAWS_SecurityPaper.pdf (shogo matsumoto)</title>
         <link>https://speakerdeck.com/matshogo/jaws-securitypaper</link>
-        <dc:date>2022-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>B2B SaaSのプロダクトマネジメント大解剖 (Yoshitaka Miyata)</title>
-        <link>https://speakerdeck.com/zenkou_1211/b2b-saasnopurodakutomanezimentoda-jie-pou</link>
-        <dc:date>2022-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PMキャリア論-成長と退行 (Yasuhiro Okada)</title>
-        <link>https://speakerdeck.com/middleokada/pmkiyarialun-cheng-chang-totui-xing</link>
         <dc:date>2022-11-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
