@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ネットスーパーにおける商品在庫データのアプリケーション構築事例 (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/netutosupaniokerushang-pin-zai-ku-detanoapurikesiyongou-zhu-shi-li</link>
+        <dc:date>2022-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>排他制御のためだけに渋々 Redis 使ってませんか？ (mpyw)</title>
         <link>https://speakerdeck.com/mpyw/pai-ta-zhi-yu-notamedakenishibui-redis-shi-tutemasenka</link>
         <dc:date>2022-11-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ぼくのかんがえる最高のデータ分析基盤 / strongest-data-architecture-discussion (Jumpei Chikamori)</title>
         <link>https://speakerdeck.com/pei0804/strongest-data-architecture-discussion</link>
-        <dc:date>2022-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CARTA HOLDINGS流、事業をエンジニアリングする技術者の育て方 (CARTA Engineering)</title>
-        <link>https://speakerdeck.com/carta_engineering/carta-holdingsliu-shi-ye-woenziniaringusuruji-shu-zhe-noyu-tefang</link>
         <dc:date>2022-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
