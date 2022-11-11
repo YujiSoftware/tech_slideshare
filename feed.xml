@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>排他制御のためだけに渋々 Redis 使ってませんか？ (mpyw)</title>
+        <link>https://speakerdeck.com/mpyw/pai-ta-zhi-yu-notamedakenishibui-redis-shi-tutemasenka</link>
+        <dc:date>2022-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS Lambda の上でいろんなWEB フレームワークを動かそう！ / Web Frameworks on Lambda (kensh)</title>
         <link>https://speakerdeck.com/_kensh/web-frameworks-on-lambda</link>
         <dc:date>2022-11-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CARTA HOLDINGS流、事業をエンジニアリングする技術者の育て方 (CARTA Engineering)</title>
         <link>https://speakerdeck.com/carta_engineering/carta-holdingsliu-shi-ye-woenziniaringusuruji-shu-zhe-noyu-tefang</link>
-        <dc:date>2022-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SCRUM MASTER'S LANGUAGE 言葉遣いこそ最強の武器 (kawanotron)</title>
-        <link>https://speakerdeck.com/kawanotron/scrum-masters-language-yan-xie-qian-ikosozui-qiang-nowu-qi</link>
         <dc:date>2022-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
