@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS Lambda の上でいろんなWEB フレームワークを動かそう！ / Web Frameworks on Lambda (kensh)</title>
+        <link>https://speakerdeck.com/_kensh/web-frameworks-on-lambda</link>
+        <dc:date>2022-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>統計的因果探索とAI (Shohei SHIMIZU)</title>
         <link>https://speakerdeck.com/sshimizu2006/tong-ji-de-yin-guo-tan-suo-toai</link>
         <dc:date>2022-11-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>SCRUM MASTER'S LANGUAGE 言葉遣いこそ最強の武器 (kawanotron)</title>
         <link>https://speakerdeck.com/kawanotron/scrum-masters-language-yan-xie-qian-ikosozui-qiang-nowu-qi</link>
         <dc:date>2022-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアの思い付きをプロダクトにした話 ~SkyWayの9年間のHARD THINGS~ プロダクトマネージャーカンファレンス2022 (Ryosuke Otsuya)</title>
-        <link>https://speakerdeck.com/rotsuya/skyway-technology-driven-product-management</link>
-        <dc:date>2022-11-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
