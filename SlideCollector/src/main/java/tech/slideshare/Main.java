@@ -37,11 +37,11 @@ public class Main {
 
     private static final SlideCollector[] SLIDE_COLLECTOR_LIST =
             new SlideCollector[]{
-                    new SlideShareCollector(),
-                    new SpeakerDeckCollector(),
-                    new GoogleSlideCollector(),
-                    new Backpaper0Collector(),
-                    new DocswellCollector()
+                    new HatenaSlideShareCollector(),
+                    new HatenaSpeakerDeckCollector(),
+                    new HatenaGoogleSlideCollector(),
+                    new HatenaBackpaper0Collector(),
+                    new HatenaDocswellCollector()
             };
 
     public static void main(String[] args) {

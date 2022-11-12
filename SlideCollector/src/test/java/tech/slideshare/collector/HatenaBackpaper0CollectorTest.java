@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
 
-class Backpaper0CollectorTest {
+class HatenaBackpaper0CollectorTest {
 
     private Item getItem() {
         var item = new Item();
@@ -32,7 +32,7 @@ class Backpaper0CollectorTest {
     @Test
     public void collect() throws IOException, JAXBException {
         var item = getItem();
-        var collector = new Backpaper0Collector(() -> Stream.of(item));
+        var collector = new HatenaBackpaper0Collector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());
@@ -56,7 +56,7 @@ class Backpaper0CollectorTest {
     void 正規化(String link) throws IOException, JAXBException {
         var item = getItem();
         item.link = link;
-        var collector = new Backpaper0Collector(() -> Stream.of(item));
+        var collector = new HatenaBackpaper0Collector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());

@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
 
-class SpeakerDeckCollectorTest {
+class HatenaSpeakerDeckCollectorTest {
 
     private Item getItem() {
         var item = new Item();
@@ -32,7 +32,7 @@ class SpeakerDeckCollectorTest {
     @Test
     public void collect() throws IOException, JAXBException {
         var item = getItem();
-        var collector = new SpeakerDeckCollector(() -> Stream.of(item));
+        var collector = new HatenaSpeakerDeckCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());
@@ -53,7 +53,7 @@ class SpeakerDeckCollectorTest {
         item.title = "yasaichi (@yasaichi) on Speaker Deck";
         item.link = "https://speakerdeck.com/yasaichi";
 
-        var collector = new SlideShareCollector(() -> Stream.of(item));
+        var collector = new HatenaSlideShareCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(0, slides.size());
@@ -68,7 +68,7 @@ class SpeakerDeckCollectorTest {
         var item = getItem();
         item.link = link;
 
-        var collector = new SpeakerDeckCollector(() -> Stream.of(item));
+        var collector = new HatenaSpeakerDeckCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());

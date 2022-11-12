@@ -21,19 +21,19 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Stream;
 
-public class DocswellCollector implements SlideCollector {
+public class HatenaDocswellCollector implements SlideCollector {
 
-    private static final Logger logger = LoggerFactory.getLogger(DocswellCollector.class);
+    private static final Logger logger = LoggerFactory.getLogger(HatenaDocswellCollector.class);
 
     private static final Pattern TWITTER = Pattern.compile("https://twitter.com/([^/]+)");
 
     private final Bookmark bookmark;
 
-    public DocswellCollector() {
+    public HatenaDocswellCollector() {
         bookmark = new HatenaBookmark("https://b.hatena.ne.jp/site/www.docswell.com/?mode=rss");
     }
 
-    public DocswellCollector(Bookmark bookmark) {
+    public HatenaDocswellCollector(Bookmark bookmark) {
         this.bookmark = bookmark;
     }
 

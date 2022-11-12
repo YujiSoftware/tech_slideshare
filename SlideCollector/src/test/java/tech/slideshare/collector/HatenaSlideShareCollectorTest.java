@@ -17,7 +17,7 @@ import java.util.stream.Stream;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
 
-public class SlideShareCollectorTest {
+public class HatenaSlideShareCollectorTest {
 
     @Test
     public void collect() throws IOException, JAXBException {
@@ -28,7 +28,7 @@ public class SlideShareCollectorTest {
         item.date = "2021-09-14T12:18:46Z";
         item.subject = new String[]{"テクノロジー"};
 
-        var collector = new SlideShareCollector(() -> Stream.of(item));
+        var collector = new HatenaSlideShareCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());
@@ -52,7 +52,7 @@ public class SlideShareCollectorTest {
         item.date = "2021-09-04T06:53:05Z";
         item.subject = new String[]{"テクノロジー"};
 
-        var collector = new SlideShareCollector(() -> Stream.of(item));
+        var collector = new HatenaSlideShareCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());
@@ -68,7 +68,7 @@ public class SlideShareCollectorTest {
         item.title = "YujiSoftware | SlideShare";
         item.link = "https://www.slideshare.net/YujiSoftware";
 
-        var collector = new SlideShareCollector(() -> Stream.of(item));
+        var collector = new HatenaSlideShareCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(0, slides.size());
@@ -99,7 +99,7 @@ public class SlideShareCollectorTest {
         item.title = title;
         item.link = link;
 
-        var collector = new SlideShareCollector(() -> Stream.of(item));
+        var collector = new HatenaSlideShareCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(0, slides.size());
@@ -118,7 +118,7 @@ public class SlideShareCollectorTest {
         item.date = "2017-11-18T12:44:04Z";
         item.subject = new String[]{"テクノロジー"};
 
-        var collector = new SlideShareCollector(() -> Stream.of(item));
+        var collector = new HatenaSlideShareCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());

@@ -17,19 +17,19 @@ import java.util.Optional;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.Stream;
 
-public class GoogleSlideCollector implements SlideCollector {
+public class HatenaGoogleSlideCollector implements SlideCollector {
 
-    private static final Logger logger = LoggerFactory.getLogger(GoogleSlideCollector.class);
+    private static final Logger logger = LoggerFactory.getLogger(HatenaGoogleSlideCollector.class);
 
     public static final int TIMEOUT = (int) TimeUnit.MILLISECONDS.toMinutes(1);
 
     private final Bookmark bookmark;
 
-    public GoogleSlideCollector() {
+    public HatenaGoogleSlideCollector() {
         this.bookmark = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=docs.google.com/presentation&mode=rss");
     }
 
-    public GoogleSlideCollector(Bookmark bookmark) {
+    public HatenaGoogleSlideCollector(Bookmark bookmark) {
         this.bookmark = bookmark;
     }
 

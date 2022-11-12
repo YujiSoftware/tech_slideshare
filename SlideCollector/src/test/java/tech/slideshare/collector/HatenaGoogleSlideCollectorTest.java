@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
 
-class GoogleSlideCollectorTest {
+class HatenaGoogleSlideCollectorTest {
 
     private Item getItem() {
         var item = new Item();
@@ -32,7 +32,7 @@ class GoogleSlideCollectorTest {
     @Test
     public void collect() throws IOException, JAXBException {
         var item = getItem();
-        var collector = new GoogleSlideCollector(() -> Stream.of(item));
+        var collector = new HatenaGoogleSlideCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());
@@ -57,7 +57,7 @@ class GoogleSlideCollectorTest {
     public void 正規化(String link) throws IOException, JAXBException {
         var item = getItem();
         item.link = link;
-        var collector = new GoogleSlideCollector(() -> Stream.of(item));
+        var collector = new HatenaGoogleSlideCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());
@@ -74,7 +74,7 @@ class GoogleSlideCollectorTest {
         item.description = "The newsletter of RBS updates RubyKaigi Takeout 2021 Sep. 10th それでは、The newsletter of RBS updatesというタイトルで話させていただきたいと思います。 ----- 25 mins https://rubykaigi.org/2021-takeout Proposal";
         item.date = "2021-09-12T06:24:05Z";
         item.subject = new String[]{"テクノロジー"};
-        var collector = new GoogleSlideCollector(() -> Stream.of(item));
+        var collector = new HatenaGoogleSlideCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());
@@ -92,7 +92,7 @@ class GoogleSlideCollectorTest {
         item.date = "2021-09-09T13:53:13Z";
         item.subject = new String[]{"テクノロジー"};
 
-        var collector = new GoogleSlideCollector(() -> Stream.of(item));
+        var collector = new HatenaGoogleSlideCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(0, slides.size());

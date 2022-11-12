@@ -13,7 +13,7 @@ import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class DocswellCollectorTest {
+class HatenaDocswellCollectorTest {
 
     private Item getItem() {
         var item = new Item();
@@ -29,7 +29,7 @@ class DocswellCollectorTest {
     @Test
     public void collect() throws IOException, JAXBException {
         var item = getItem();
-        var collector = new DocswellCollector(() -> Stream.of(item));
+        var collector = new HatenaDocswellCollector(() -> Stream.of(item));
 
         List<Slide> slides = collector.collect().collect(Collectors.toList());
         assertEquals(1, slides.size());

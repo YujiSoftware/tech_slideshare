@@ -14,16 +14,16 @@ import java.util.Objects;
 import java.util.Optional;
 import java.util.stream.Stream;
 
-public class Backpaper0Collector implements SlideCollector {
-    private static final Logger logger = LoggerFactory.getLogger(GoogleSlideCollector.class);
+public class HatenaBackpaper0Collector implements SlideCollector {
+    private static final Logger logger = LoggerFactory.getLogger(HatenaGoogleSlideCollector.class);
 
     private final Bookmark bookmark;
 
-    public Backpaper0Collector() {
+    public HatenaBackpaper0Collector() {
         this.bookmark = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fbackpaper0.github.io%2Fghosts%2F&mode=rss");
     }
 
-    public Backpaper0Collector(Bookmark bookmark) {
+    public HatenaBackpaper0Collector(Bookmark bookmark) {
         this.bookmark = bookmark;
     }
 

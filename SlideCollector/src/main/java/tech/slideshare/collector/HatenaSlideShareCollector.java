@@ -15,20 +15,20 @@ import java.util.Objects;
 import java.util.Optional;
 import java.util.stream.Stream;
 
-public class SlideShareCollector implements SlideCollector {
+public class HatenaSlideShareCollector implements SlideCollector {
 
-    private static final Logger logger = LoggerFactory.getLogger(SlideShareCollector.class);
+    private static final Logger logger = LoggerFactory.getLogger(HatenaSlideShareCollector.class);
 
     public static final String USER_AGENT
             = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0";
 
     private final Bookmark bookmark;
 
-    public SlideShareCollector() {
+    public HatenaSlideShareCollector() {
         bookmark = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss");
     }
 
-    public SlideShareCollector(Bookmark bookmark) {
+    public HatenaSlideShareCollector(Bookmark bookmark) {
         this.bookmark = bookmark;
     }
 

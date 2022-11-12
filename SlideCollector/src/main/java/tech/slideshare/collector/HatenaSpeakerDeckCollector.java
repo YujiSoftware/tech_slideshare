@@ -18,17 +18,17 @@ import java.util.Objects;
 import java.util.Optional;
 import java.util.stream.Stream;
 
-public class SpeakerDeckCollector implements SlideCollector {
+public class HatenaSpeakerDeckCollector implements SlideCollector {
 
-    private static final Logger logger = LoggerFactory.getLogger(SpeakerDeckCollector.class);
+    private static final Logger logger = LoggerFactory.getLogger(HatenaSpeakerDeckCollector.class);
 
     private final Bookmark bookmark;
 
-    public SpeakerDeckCollector() {
+    public HatenaSpeakerDeckCollector() {
         this.bookmark = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss");
     }
 
-    public SpeakerDeckCollector(Bookmark bookmark) {
+    public HatenaSpeakerDeckCollector(Bookmark bookmark) {
         this.bookmark = bookmark;
     }
 
