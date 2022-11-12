@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby の開発を支えるエコシステム (SHIBATA Hiroshi)</title>
+        <link>https://speakerdeck.com/hsbt/ruby-nokai-fa-wozhi-eruekosisutemu</link>
+        <dc:date>2022-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ネットスーパーにおける商品在庫データのアプリケーション構築事例 (10xinc)</title>
         <link>https://speakerdeck.com/10xinc/netutosupaniokerushang-pin-zai-ku-detanoapurikesiyongou-zhu-shi-li</link>
         <dc:date>2022-11-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Blue / Green デプロイと安全性と複雑性と #AWSDevDay (track3jyo-hama)</title>
         <link>https://speakerdeck.com/track3jyo/blue-green-deploy-devday</link>
-        <dc:date>2022-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>レガシーフロントエンドからNext.jsへの段階移行を可能にするAWS構成 (Takuya Mizuma)</title>
-        <link>https://speakerdeck.com/tamizuma/rekasihurontoentokaranext-dot-jshenoduan-jie-yi-xing-woke-neng-nisuruawsgou-cheng</link>
         <dc:date>2022-11-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
