@@ -1,12 +1,13 @@
 package tech.slideshare.collector;
 
 import jakarta.xml.bind.JAXBException;
+import tech.slideshare.cache.Cache;
+import tech.slideshare.cache.TempFileCache;
 import tech.slideshare.parser.Parser;
 import tech.slideshare.rss.Bookmark;
 
 import java.io.IOException;
-import java.util.Objects;
-import java.util.stream.Stream;
+import java.util.List;
 
 public class HatenaBookmarkCollector implements SlideCollector {
     private final Parser parser;
@@ -19,9 +20,21 @@ public class HatenaBookmarkCollector implements SlideCollector {
     }
 
     @Override
-    public Stream<Slide> collect() throws JAXBException, IOException {
+    public List<Slide> collect() throws JAXBException, IOException {
+        Cache cache = new TempFileCache(HatenaBookmarkCollector.class.getSimpleName());
+
+        List<Slide> list = collect(cache);
+
+        cache.flush();
+
+        return list;
+    }
+
+    public List<Slide> collect(Cache cache) throws JAXBException, IOException {
         return bookmark.get()
-                .map(i -> parser.parse(i.link, i.getDate()).orElse(null))
-                .filter(Objects::nonNull);
+                .stream()
+                .filter(i -> cache.add(i.link))
+                .flatMap(i -> parser.parse(i.link, i.getDate()).stream())
+                .toList();
     }
 }

@@ -4,11 +4,11 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;
 import jakarta.xml.bind.Marshaller;
-import name.falgout.jeffrey.throwing.stream.ThrowingStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import tech.slideshare.collector.ConnpassCollector;
 import tech.slideshare.collector.HatenaBookmarkCollector;
+import tech.slideshare.collector.Slide;
 import tech.slideshare.collector.SlideCollector;
 import tech.slideshare.database.SlideDao;
 import tech.slideshare.database.SlideDto;
@@ -95,9 +95,9 @@ public class Main {
         TweetQueueDao tweetQueueDao = new TweetQueueDao(con);
 
         for (SlideCollector collector : SLIDE_COLLECTOR_LIST) {
-            logger.info("Got hatena bookmark. [collector={}]", collector.getClass().getCanonicalName());
+            logger.info("Start collect. [collector={}]", collector.getClass().getCanonicalName());
 
-            ThrowingStream.of(collector.collect(), SQLException.class).forEach(s -> {
+            for (Slide s : collector.collect()) {
                 try {
                     if (slideDao.exists(s.getLink())) {
                         return;
@@ -113,7 +113,7 @@ public class Main {
                     logger.error("Enqueue failed. [title={}, link={}]", s.getTitle(), s.getLink(), e);
                     con.rollback();
                 }
-            });
+            }
         }
     }
 

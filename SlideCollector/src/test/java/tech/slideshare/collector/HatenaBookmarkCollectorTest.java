@@ -3,12 +3,13 @@ package tech.slideshare.collector;
 import jakarta.xml.bind.JAXBException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import tech.slideshare.cache.NullCache;
 import tech.slideshare.rss.Item;
 
 import java.io.IOException;
 import java.time.ZonedDateTime;
+import java.util.Collections;
 import java.util.Optional;
-import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -33,10 +34,10 @@ class HatenaBookmarkCollectorTest {
     public void collect() throws JAXBException, IOException {
         var collector = new HatenaBookmarkCollector(
                 (link, date) -> Optional.of(dummySlide),
-                () -> Stream.of(dummyItem)
+                () -> Collections.singletonList(dummyItem)
         );
 
-        var slides = collector.collect().toList();
+        var slides = collector.collect(NullCache.INSTANCE);
         assertEquals(1, slides.size());
     }
 
@@ -44,10 +45,10 @@ class HatenaBookmarkCollectorTest {
     public void ignoreEmpty() throws JAXBException, IOException {
         var collector = new HatenaBookmarkCollector(
                 (link, date) -> Optional.empty(),
-                () -> Stream.of(dummyItem)
+                () -> Collections.singletonList(dummyItem)
         );
 
-        var slides = collector.collect().toList();
+        var slides = collector.collect(NullCache.INSTANCE);
         assertEquals(0, slides.size());
     }
 }

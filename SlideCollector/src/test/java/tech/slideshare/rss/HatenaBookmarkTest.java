@@ -6,8 +6,6 @@ import org.junit.jupiter.api.Test;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.net.URL;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.Objects;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
@@ -16,14 +14,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class HatenaBookmarkTest {
     @Test
     public void get() throws URISyntaxException, JAXBException, IOException {
-        // キャッシュを消去
-        String tempDir = System.getProperty("java.io.tmpdir");
-        Path dir = Path.of(tempDir, "SlideCollector");
-        for (Path p : Files.list(dir).toArray(Path[]::new)) {
-            Files.delete(p);
-        }
-        Files.deleteIfExists(dir);
-
         URL file = Objects.requireNonNull(getClass().getClassLoader().getResource("hatena.xml"));
         HatenaBookmark bookmark = new HatenaBookmark(file.toURI().toString());
         Item[] items = bookmark.get().toArray(Item[]::new);

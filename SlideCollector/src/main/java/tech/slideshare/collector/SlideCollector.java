@@ -3,8 +3,8 @@ package tech.slideshare.collector;
 import jakarta.xml.bind.JAXBException;
 
 import java.io.IOException;
-import java.util.stream.Stream;
+import java.util.List;
 
 public interface SlideCollector {
-    Stream<Slide> collect() throws JAXBException, IOException;
+    List<Slide> collect() throws JAXBException, IOException;
 }
