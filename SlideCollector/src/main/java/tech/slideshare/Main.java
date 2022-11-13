@@ -42,22 +42,27 @@ public class Main {
     private static final SlideCollector[] SLIDE_COLLECTOR_LIST =
             new SlideCollector[]{
                     new HatenaBookmarkCollector(
+                            "SlideShare",
                             new SlideShareParser(),
                             new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss")
                     ),
                     new HatenaBookmarkCollector(
+                            "SpeakerDeck",
                             new SpeakerDeckParser(),
                             new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss")
                     ),
                     new HatenaBookmarkCollector(
+                            "Googleスライド",
                             new GoogleSlideParser(),
                             new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=docs.google.com/presentation&mode=rss")
                     ),
                     new HatenaBookmarkCollector(
+                            "Backpaper0",
                             new Backpaper0Parser(),
                             new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fbackpaper0.github.io%2Fghosts%2F&mode=rss")
                     ),
                     new HatenaBookmarkCollector(
+                            "Docswell",
                             new DocswellParser(),
                             new HatenaBookmark("https://b.hatena.ne.jp/site/www.docswell.com/?mode=rss")
                     ),
@@ -95,7 +100,7 @@ public class Main {
         TweetQueueDao tweetQueueDao = new TweetQueueDao(con);
 
         for (SlideCollector collector : SLIDE_COLLECTOR_LIST) {
-            logger.info("Start collect. [collector={}]", collector.getClass().getCanonicalName());
+            logger.info("Start: {}", collector.name());
 
             for (Slide s : collector.collect()) {
                 try {

@@ -10,11 +10,15 @@ import java.io.IOException;
 import java.util.List;
 
 public class HatenaBookmarkCollector implements SlideCollector {
+
+    private final String name;
+
     private final Parser parser;
 
     private final Bookmark bookmark;
 
-    public HatenaBookmarkCollector(Parser parser, Bookmark bookmark) {
+    public HatenaBookmarkCollector(String name, Parser parser, Bookmark bookmark) {
+        this.name = name;
         this.parser = parser;
         this.bookmark = bookmark;
     }
@@ -36,5 +40,10 @@ public class HatenaBookmarkCollector implements SlideCollector {
                 .filter(i -> cache.add(i.link))
                 .flatMap(i -> parser.parse(i.link, i.getDate()).stream())
                 .toList();
+    }
+
+    @Override
+    public String name() {
+        return "HatenaBookmarkCollector (" + name + ")";
     }
 }

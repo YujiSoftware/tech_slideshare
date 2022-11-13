@@ -33,6 +33,7 @@ class HatenaBookmarkCollectorTest {
     @Test
     public void collect() throws JAXBException, IOException {
         var collector = new HatenaBookmarkCollector(
+                "Test",
                 (link, date) -> Optional.of(dummySlide),
                 () -> Collections.singletonList(dummyItem)
         );
@@ -44,6 +45,7 @@ class HatenaBookmarkCollectorTest {
     @Test
     public void ignoreEmpty() throws JAXBException, IOException {
         var collector = new HatenaBookmarkCollector(
+                "Test",
                 (link, date) -> Optional.empty(),
                 () -> Collections.singletonList(dummyItem)
         );

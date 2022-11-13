@@ -7,4 +7,6 @@ import java.util.List;
 
 public interface SlideCollector {
     List<Slide> collect() throws JAXBException, IOException;
+
+    String name();
 }

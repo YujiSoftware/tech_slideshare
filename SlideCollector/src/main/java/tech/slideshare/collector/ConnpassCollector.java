@@ -41,7 +41,7 @@ public class ConnpassCollector implements SlideCollector {
         for (Connpass.Event event : Connpass.getEvents(cache.updatedAt())) {
             List<Slide> found = collectSlide(cache, event.eventUrl());
             list.addAll(found);
-            
+
             logger.debug("Event url: {}, found: {}", event.eventUrl(), found.size());
         }
 
@@ -95,6 +95,11 @@ public class ConnpassCollector implements SlideCollector {
                 .forEach(list::add);
 
         return list;
+    }
+
+    @Override
+    public String name() {
+        return this.getClass().getSimpleName();
     }
 
     private record Data(
