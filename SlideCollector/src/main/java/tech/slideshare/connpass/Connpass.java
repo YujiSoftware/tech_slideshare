@@ -3,9 +3,13 @@ package tech.slideshare.connpass;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import tech.slideshare.collector.ConnpassCollector;
 
 import java.io.IOException;
 import java.net.URL;
+import java.time.Instant;
 import java.time.ZonedDateTime;
 import java.util.ArrayList;
 import java.util.List;
@@ -87,20 +91,31 @@ public record Connpass(
         }
     }
 
-    public static List<Event> getEvents() throws IOException {
+    private static final Logger logger = LoggerFactory.getLogger(ConnpassCollector.class);
+
+    public static List<Event> getEvents(Instant instant) throws IOException {
         int count = 100;
         int loop = 10;
         List<Event> events = new ArrayList<>(count * loop);
 
+        OUTER:
         for (int i = 0; i < loop; i++) {
             URL url = new URL("https://connpass.com/api/v1/event/?count=" + count + "&start=" + (i + 1) * count);
+            logger.debug("Request: {}", url);
 
             ObjectMapper mapper = new ObjectMapper();
             mapper.registerModule(new JavaTimeModule());
             Connpass connpass = mapper.readValue(url, Connpass.class);
 
-            events.addAll(connpass.events);
+            for (Event event : connpass.events()) {
+                if (event.updatedAt().toInstant().isBefore(instant)) {
+                    break OUTER;
+                }
+                events.add(event);
+            }
         }
+
+        logger.debug("Collected count: {}", events.size());
 
         return events;
     }

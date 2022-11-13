@@ -26,7 +26,7 @@ class ConnpassCollectorTest {
                 "https://cdn.slidesharecdn.com/ss_thumbnails/220217rpa-220225024130-thumbnail.jpg?width=640&amp;height=640&amp;fit=bounds"
         );
 
-        List<Slide> actual = collector.collectSlide(NullCache.INSTANCE, "https://rpacommunity.connpass.com/event/238601/");
+        List<Slide> actual = collector.collectSlide(new NullCache(), "https://rpacommunity.connpass.com/event/238601/");
         assertEquals(1, actual.size());
 
         Slide slide = actual.get(0);
@@ -45,7 +45,7 @@ class ConnpassCollectorTest {
                 "https://files.speakerdeck.com/presentations/028e6aea8e734be4ba04c4938d328c93/slide_0.jpg?23136989"
         );
 
-        List<Slide> actual = collector.collectSlide(NullCache.INSTANCE, "https://rpacommunity.connpass.com/event/263117/");
+        List<Slide> actual = collector.collectSlide(new NullCache(), "https://rpacommunity.connpass.com/event/263117/");
         assertEquals(1, actual.size());
 
         Slide slide = actual.get(0);
@@ -64,7 +64,7 @@ class ConnpassCollectorTest {
                 "https://lh3.googleusercontent.com/lu47KSxcXBGpuQfZbuPOr5IckYGnxBYgQDgCls0rA3qtl7oJzXZuiAemGiJthcBhAQCVg78mTOQ2cA=w1200-h630-p"
         );
 
-        List<Slide> actual = collector.collectSlide(NullCache.INSTANCE, "https://apcommunications.connpass.com/event/238403/");
+        List<Slide> actual = collector.collectSlide(new NullCache(), "https://apcommunications.connpass.com/event/238403/");
         assertEquals(3, actual.size());
 
         Slide slide = actual.stream().filter(s -> s.getLink().contains("docs.google.com")).findFirst().orElseThrow();
@@ -84,7 +84,7 @@ class ConnpassCollectorTest {
                 "https://www.docswell.com/thumbnail/LE1V3MK27G.jpg"
         );
 
-        List<Slide> actual = collector.collectSlide(NullCache.INSTANCE, "https://rpacommunity.connpass.com/event/257292/");
+        List<Slide> actual = collector.collectSlide(new NullCache(), "https://rpacommunity.connpass.com/event/257292/");
         assertEquals(1, actual.size());
 
         Slide slide = actual.get(0);

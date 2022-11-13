@@ -5,6 +5,8 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import tech.slideshare.cache.Cache;
 import tech.slideshare.cache.TempFileCache;
 import tech.slideshare.connpass.Connpass;
@@ -18,6 +20,8 @@ import java.util.List;
 import java.util.Map;
 
 public class ConnpassCollector implements SlideCollector {
+
+    private static final Logger logger = LoggerFactory.getLogger(ConnpassCollector.class);
 
     private static final ObjectMapper MAPPER = new ObjectMapper();
 
@@ -34,8 +38,11 @@ public class ConnpassCollector implements SlideCollector {
         Cache cache = new TempFileCache(Connpass.class.getSimpleName());
 
         List<Slide> list = new ArrayList<>();
-        for (Connpass.Event event : Connpass.getEvents()) {
-            list.addAll(collectSlide(cache, event.eventUrl()));
+        for (Connpass.Event event : Connpass.getEvents(cache.updatedAt())) {
+            List<Slide> found = collectSlide(cache, event.eventUrl());
+            list.addAll(found);
+            
+            logger.debug("Event url: {}, found: {}", event.eventUrl(), found.size());
         }
 
         cache.flush();

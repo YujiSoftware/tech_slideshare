@@ -37,7 +37,7 @@ class HatenaBookmarkCollectorTest {
                 () -> Collections.singletonList(dummyItem)
         );
 
-        var slides = collector.collect(NullCache.INSTANCE);
+        var slides = collector.collect(new NullCache());
         assertEquals(1, slides.size());
     }
 
@@ -48,7 +48,7 @@ class HatenaBookmarkCollectorTest {
                 () -> Collections.singletonList(dummyItem)
         );
 
-        var slides = collector.collect(NullCache.INSTANCE);
+        var slides = collector.collect(new NullCache());
         assertEquals(0, slides.size());
     }
 }

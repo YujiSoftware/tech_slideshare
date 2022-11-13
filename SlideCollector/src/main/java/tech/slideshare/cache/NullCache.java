@@ -1,10 +1,13 @@
 package tech.slideshare.cache;
 
+import java.time.Instant;
+
 public class NullCache implements Cache {
 
-    public static final Cache INSTANCE = new NullCache();
+    private final Instant updatedAt = Instant.now();
 
-    private NullCache() {
+    public Instant updatedAt() {
+        return updatedAt;
     }
 
     @Override
