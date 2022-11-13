@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サブスクリプション決済入門 Stripeでの実装方法と、要件定義時のポイント/jp_stripes_okayama_vol3 (Hidetaka Okamoto (Stripe))</title>
+        <link>https://speakerdeck.com/stripehideokamoto/jp-stripes-okayama-vol3</link>
+        <dc:date>2022-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OpenTelemetryでWebシステムの処理を追跡しよう - DjangoCongress JP 2022</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vRtqRQ6USDeV32_aTPjSaNXpKdn5cbitkmiX9ZfgwXVE-mh74I4eICFOB8rWGz0LPUIEfXn3APRKcrU/pub</link>
         <dc:date>2022-11-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【配布用】モノクロスライドテンプレート</title>
         <link>https://docs.google.com/presentation/d/1tP9vALTVdTFOWp_MRa6aR5JxHluFA1cMiDwrYpL7WDQ/preview</link>
-        <dc:date>2022-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Pinpointを用いて、LINEとメール配信のCRM設計 / AWS Dev Day 2022 B-2 (hayato miyoshi)</title>
-        <link>https://speakerdeck.com/miyoshihayato/aws-dev-day-2022-b-2</link>
         <dc:date>2022-11-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
