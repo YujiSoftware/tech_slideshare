@@ -39,6 +39,9 @@ public class DocswellParser implements Parser {
                 return Optional.empty();
             }
 
+            // URL を正規化
+            link = article.mainEntityOfPage.id;
+
             String title = article.headline;
             String author = article.author.name;
             String twitter = getTwitter(article.author.url);

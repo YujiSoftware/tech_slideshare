@@ -8,6 +8,7 @@ import tech.slideshare.collector.Slide;
 import java.time.ZonedDateTime;
 import java.util.Optional;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import static tech.slideshare.Assertions.assertSlide;
 
@@ -34,6 +35,18 @@ public class DocswellParserTest {
 
         Slide slide = actual.get();
         assertSlide(expected, slide);
+    }
+
+    @Test
+    public void 正規化() {
+        String canonical = "https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022";
+        String link = canonical + "?s=09";
+
+        Optional<Slide> actual = parser.parse(link, ZonedDateTime.now());
+        assertTrue(actual.isPresent());
+
+        Slide slide = actual.get();
+        assertEquals(canonical, slide.getLink());
     }
 
     @ParameterizedTest
