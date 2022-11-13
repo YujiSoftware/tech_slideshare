@@ -1,53 +1,33 @@
-package tech.slideshare.collector;
+package tech.slideshare.parser;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import jakarta.xml.bind.JAXBException;
 import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import tech.slideshare.rss.Bookmark;
-import tech.slideshare.rss.HatenaBookmark;
-import tech.slideshare.rss.Item;
+import tech.slideshare.collector.Slide;
 
 import java.io.IOException;
-import java.util.Objects;
+import java.time.ZonedDateTime;
 import java.util.Optional;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Stream;
 
-public class HatenaDocswellCollector implements SlideCollector {
+public class DocswellParser implements Parser {
 
-    private static final Logger logger = LoggerFactory.getLogger(HatenaDocswellCollector.class);
+    private static final Logger logger = LoggerFactory.getLogger(DocswellParser.class);
 
     private static final Pattern TWITTER = Pattern.compile("https://twitter.com/([^/]+)");
 
-    private final Bookmark bookmark;
-
-    public HatenaDocswellCollector() {
-        bookmark = new HatenaBookmark("https://b.hatena.ne.jp/site/www.docswell.com/?mode=rss");
-    }
-
-    public HatenaDocswellCollector(Bookmark bookmark) {
-        this.bookmark = bookmark;
-    }
-
-    @Override
-    public Stream<Slide> collect() throws JAXBException, IOException {
-        return bookmark.get()
-                .filter(i -> i.link.startsWith("https://www.docswell.com/s/"))
-                .map(i -> getSlide(i).orElse(null))
-                .filter(Objects::nonNull);
-    }
-
-    private static Optional<Slide> getSlide(Item item) {
+    public Optional<Slide> parse(String link, ZonedDateTime date) {
         try {
-            String link = item.link;
+            if (!link.startsWith("https://www.docswell.com/s/")) {
+                return Optional.empty();
+            }
 
             Document doc = Jsoup.connect(link).get();
             Element json = doc.getElementsByTag("script").select("[type=application/ld+json]").first();
@@ -65,7 +45,7 @@ public class HatenaDocswellCollector implements SlideCollector {
             String description = article.description;
             String image = article.image;
 
-            return Optional.of(new Slide(title, link, item.date, author, twitter, description, image));
+            return Optional.of(new Slide(title, link, date, author, twitter, description, image));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get Docswell document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();

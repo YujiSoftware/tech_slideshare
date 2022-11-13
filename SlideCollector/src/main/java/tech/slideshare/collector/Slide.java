@@ -1,8 +1,6 @@
 package tech.slideshare.collector;
 
-import java.time.ZoneId;
 import java.time.ZonedDateTime;
-import java.time.format.DateTimeFormatter;
 
 public class Slide {
     private final String title;
@@ -15,10 +13,10 @@ public class Slide {
 
     private final String image;
 
-    public Slide(String title, String link, String date, String author, String twitter, String description, String image) {
+    public Slide(String title, String link, ZonedDateTime date, String author, String twitter, String description, String image) {
         this.title = title.replaceAll("\\p{Cntrl}", " ");
         this.link = link;
-        this.date = DateTimeFormatter.ISO_INSTANT.withZone(ZoneId.of("Asia/Tokyo")).parse(date, ZonedDateTime::from);
+        this.date = date;
         this.author = author;
         this.twitter = twitter;
         this.description = description;
@@ -51,5 +49,18 @@ public class Slide {
 
     public String getImage() {
         return image;
+    }
+
+    @Override
+    public String toString() {
+        return "Slide{" +
+                "title='" + title + '\'' +
+                ", link='" + link + '\'' +
+                ", date=" + date +
+                ", author='" + author + '\'' +
+                ", twitter='" + twitter + '\'' +
+                ", description='" + description + '\'' +
+                ", image='" + image + '\'' +
+                '}';
     }
 }

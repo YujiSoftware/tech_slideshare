@@ -1,47 +1,25 @@
-package tech.slideshare.collector;
+package tech.slideshare.parser;
 
-import jakarta.xml.bind.JAXBException;
 import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import tech.slideshare.rss.Bookmark;
-import tech.slideshare.rss.HatenaBookmark;
-import tech.slideshare.rss.Item;
+import tech.slideshare.collector.Slide;
 
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.util.Objects;
+import java.time.ZonedDateTime;
 import java.util.Optional;
-import java.util.stream.Stream;
 
-public class HatenaSpeakerDeckCollector implements SlideCollector {
+public class SpeakerDeckParser implements Parser {
+    
+    private static final Logger logger = LoggerFactory.getLogger(SpeakerDeckParser.class);
 
-    private static final Logger logger = LoggerFactory.getLogger(HatenaSpeakerDeckCollector.class);
-
-    private final Bookmark bookmark;
-
-    public HatenaSpeakerDeckCollector() {
-        this.bookmark = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss");
-    }
-
-    public HatenaSpeakerDeckCollector(Bookmark bookmark) {
-        this.bookmark = bookmark;
-    }
-
-    @Override
-    public Stream<Slide> collect() throws JAXBException, IOException {
-        return bookmark.get()
-                .map(i -> getSlide(i).orElse(null))
-                .filter(Objects::nonNull);
-    }
-
-    private static Optional<Slide> getSlide(Item item) {
+    public Optional<Slide> parse(String link, ZonedDateTime date) {
         try {
-            String link = item.link;
             Document doc = Jsoup.connect(link).get();
 
             // URL を正規化
@@ -69,7 +47,7 @@ public class HatenaSpeakerDeckCollector implements SlideCollector {
             String description = doc.select("meta[property~=og:description]").attr("content");
             String image = doc.select("meta[property~=og:image]").attr("content");
 
-            return Optional.of(new Slide(title, link, item.date, author, null, description, image));
+            return Optional.of(new Slide(title, link, date, author, null, description, image));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get SpeakerDeck document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();

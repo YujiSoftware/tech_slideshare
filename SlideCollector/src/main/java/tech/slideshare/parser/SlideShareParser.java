@@ -1,51 +1,25 @@
-package tech.slideshare.collector;
+package tech.slideshare.parser;
 
-import jakarta.xml.bind.JAXBException;
 import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import tech.slideshare.rss.Bookmark;
-import tech.slideshare.rss.HatenaBookmark;
-import tech.slideshare.rss.Item;
+import tech.slideshare.collector.Slide;
 
 import java.io.IOException;
-import java.util.Objects;
+import java.time.ZonedDateTime;
 import java.util.Optional;
-import java.util.stream.Stream;
 
-public class HatenaSlideShareCollector implements SlideCollector {
-
-    private static final Logger logger = LoggerFactory.getLogger(HatenaSlideShareCollector.class);
+public class SlideShareParser implements Parser {
+    
+    private static final Logger logger = LoggerFactory.getLogger(SlideShareParser.class);
 
     public static final String USER_AGENT
             = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0";
 
-    private final Bookmark bookmark;
-
-    public HatenaSlideShareCollector() {
-        bookmark = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss");
-    }
-
-    public HatenaSlideShareCollector(Bookmark bookmark) {
-        this.bookmark = bookmark;
-    }
-
-    @Override
-    public Stream<Slide> collect() throws JAXBException, IOException {
-        return bookmark.get()
-                .filter(i -> !i.title.contains("film"))
-                .filter(i -> !i.title.contains("Film"))
-                .filter(i -> !i.link.contains("-var4-"))
-                .filter(i -> !i.title.contains("4KTUBE-HD"))
-                .map(i -> getSlide(i).orElse(null))
-                .filter(Objects::nonNull);
-    }
-
-    private static Optional<Slide> getSlide(Item item) {
+    public Optional<Slide> parse(String link, ZonedDateTime date) {
         try {
-            String link = item.link;
             if (link.contains("://www.slideshare.net/secret/")) {
                 return Optional.empty();
             }
@@ -90,7 +64,15 @@ public class HatenaSlideShareCollector implements SlideCollector {
             String description = doc.select("meta[property~=og:description]").attr("content");
             String image = doc.select("meta[property~=og:image]").attr("content");
 
-            return Optional.of(new Slide(title, link, item.date, author, twitter, description, image));
+            // スパム対策として、特定のキーワードを含むタイトルのものは除外
+            if (title.contains("film") || title.contains("Film") || title.contains("-var4-") || title.contains("4KTUBE-HD")) {
+                return Optional.empty();
+            }
+            if (doc.select("span[class=j-title-breadcrumb]").text().contains("{{!VAR4}")) {
+                return Optional.empty();
+            }
+
+            return Optional.of(new Slide(title, link, date, author, twitter, description, image));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get SlideShare document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();

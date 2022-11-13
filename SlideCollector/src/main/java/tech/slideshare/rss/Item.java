@@ -6,6 +6,7 @@ import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlType;
 
 import java.time.ZoneId;
+import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 
 @XmlAccessorType(XmlAccessType.FIELD)
@@ -28,4 +29,8 @@ public class Item {
 
     @XmlElement(name = "subject", namespace = "http://purl.org/dc/elements/1.1/")
     public String[] subject;
+
+    public ZonedDateTime getDate() {
+        return RSS_DATE_FORMATTER.parse(date, ZonedDateTime::from);
+    }
 }

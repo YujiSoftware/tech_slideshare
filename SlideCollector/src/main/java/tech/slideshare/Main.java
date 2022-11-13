@@ -7,12 +7,16 @@ import jakarta.xml.bind.Marshaller;
 import name.falgout.jeffrey.throwing.stream.ThrowingStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import tech.slideshare.collector.*;
+import tech.slideshare.collector.ConnpassCollector;
+import tech.slideshare.collector.HatenaBookmarkCollector;
+import tech.slideshare.collector.SlideCollector;
 import tech.slideshare.database.SlideDao;
 import tech.slideshare.database.SlideDto;
 import tech.slideshare.database.TweetQueueDao;
 import tech.slideshare.json.Json;
+import tech.slideshare.parser.*;
 import tech.slideshare.rss.Channel;
+import tech.slideshare.rss.HatenaBookmark;
 import tech.slideshare.rss.Item;
 import tech.slideshare.rss.Rss;
 
@@ -37,11 +41,27 @@ public class Main {
 
     private static final SlideCollector[] SLIDE_COLLECTOR_LIST =
             new SlideCollector[]{
-                    new HatenaSlideShareCollector(),
-                    new HatenaSpeakerDeckCollector(),
-                    new HatenaGoogleSlideCollector(),
-                    new HatenaBackpaper0Collector(),
-                    new HatenaDocswellCollector()
+                    new HatenaBookmarkCollector(
+                            new SlideShareParser(),
+                            new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss")
+                    ),
+                    new HatenaBookmarkCollector(
+                            new SpeakerDeckParser(),
+                            new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss")
+                    ),
+                    new HatenaBookmarkCollector(
+                            new GoogleSlideParser(),
+                            new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=docs.google.com/presentation&mode=rss")
+                    ),
+                    new HatenaBookmarkCollector(
+                            new Backpaper0Parser(),
+                            new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fbackpaper0.github.io%2Fghosts%2F&mode=rss")
+                    ),
+                    new HatenaBookmarkCollector(
+                            new DocswellParser(),
+                            new HatenaBookmark("https://b.hatena.ne.jp/site/www.docswell.com/?mode=rss")
+                    ),
+                    new ConnpassCollector()
             };
 
     public static void main(String[] args) {

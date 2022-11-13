@@ -1,48 +1,26 @@
-package tech.slideshare.collector;
+package tech.slideshare.parser;
 
-import jakarta.xml.bind.JAXBException;
 import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import tech.slideshare.rss.Bookmark;
-import tech.slideshare.rss.HatenaBookmark;
-import tech.slideshare.rss.Item;
+import tech.slideshare.collector.Slide;
 
 import java.io.IOException;
 import java.net.URL;
-import java.util.Objects;
+import java.time.ZonedDateTime;
 import java.util.Optional;
 import java.util.concurrent.TimeUnit;
-import java.util.stream.Stream;
 
-public class HatenaGoogleSlideCollector implements SlideCollector {
-
-    private static final Logger logger = LoggerFactory.getLogger(HatenaGoogleSlideCollector.class);
+public class GoogleSlideParser implements Parser {
+    
+    private static final Logger logger = LoggerFactory.getLogger(GoogleSlideParser.class);
 
     public static final int TIMEOUT = (int) TimeUnit.MILLISECONDS.toMinutes(1);
 
-    private final Bookmark bookmark;
-
-    public HatenaGoogleSlideCollector() {
-        this.bookmark = new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=docs.google.com/presentation&mode=rss");
-    }
-
-    public HatenaGoogleSlideCollector(Bookmark bookmark) {
-        this.bookmark = bookmark;
-    }
-
-    @Override
-    public Stream<Slide> collect() throws JAXBException, IOException {
-        return bookmark.get()
-                .map(i -> getSlide(i).orElse(null))
-                .filter(Objects::nonNull);
-    }
-
-    private static Optional<Slide> getSlide(Item item) {
+    public Optional<Slide> parse(String link, ZonedDateTime date) {
         try {
-            String link = item.link;
             Document doc = Jsoup.connect(link).timeout(TIMEOUT).get();
 
             // 権限が必要なページの場合、docs.google.com から accounts.google.com にリダイレクトされる。
@@ -79,11 +57,11 @@ public class HatenaGoogleSlideCollector implements SlideCollector {
             link = new URL(url.getProtocol(), url.getHost(), url.getPath()).toString();
 
             String title = doc.select("meta[property~=og:title]").attr("content");
-            String author = getAuthor(link);
+            String author = null;
             String description = doc.select("meta[property~=og:description]").attr("content");
             String image = doc.select("meta[property~=og:image]").attr("content");
 
-            return Optional.of(new Slide(title, link, item.date, author, null, description, image));
+            return Optional.of(new Slide(title, link, date, author, null, description, image));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get GoogleSlide document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();
@@ -91,10 +69,5 @@ public class HatenaGoogleSlideCollector implements SlideCollector {
             logger.warn("Can't get GoogleSlide document.", e);
             return Optional.empty();
         }
-    }
-
-    private static String getAuthor(String link) {
-        // TODO; 取得方法がなさそう
-        return null;
     }
 }
