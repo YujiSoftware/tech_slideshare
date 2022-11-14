@@ -14,7 +14,6 @@ import tech.slideshare.parser.*;
 
 import java.io.IOException;
 import java.io.UncheckedIOException;
-import java.time.ZonedDateTime;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -63,7 +62,7 @@ public class ConnpassCollector implements SlideCollector {
                 .filter(data -> data.serviceType.equals("slideshare"))
                 .map(data -> data.extraData.get("embed_media_url"))
                 .filter(cache::add)
-                .flatMap(link -> slideShareParser.parse(link, ZonedDateTime.now()).stream())
+                .flatMap(link -> slideShareParser.parse(link).stream())
                 .forEach(list::add);
 
         // SpeakerDeck
@@ -73,7 +72,7 @@ public class ConnpassCollector implements SlideCollector {
                 .filter(data -> data.serviceType.equals("speaker_deck"))
                 .map(data -> "https:" + data.extraData.get("embed_media_url"))
                 .filter(cache::add)
-                .flatMap(link -> speakerDeckParser.parse(link, ZonedDateTime.now()).stream())
+                .flatMap(link -> speakerDeckParser.parse(link).stream())
                 .forEach(list::add);
 
         // GoogleSlide
@@ -82,7 +81,7 @@ public class ConnpassCollector implements SlideCollector {
                 .filter(link -> link.startsWith("https://docs.google.com/presentation/"))
                 .distinct()
                 .filter(cache::add)
-                .flatMap(link -> googleSlideParser.parse(link, ZonedDateTime.now()).stream())
+                .flatMap(link -> googleSlideParser.parse(link).stream())
                 .forEach(list::add);
 
         // Docswell
@@ -91,7 +90,7 @@ public class ConnpassCollector implements SlideCollector {
                 .filter(link -> link.startsWith("https://www.docswell.com/"))
                 .distinct()
                 .filter(cache::add)
-                .flatMap(link -> docswellParser.parse(link, ZonedDateTime.now()).stream())
+                .flatMap(link -> docswellParser.parse(link).stream())
                 .forEach(list::add);
 
         return list;

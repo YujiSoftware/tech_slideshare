@@ -7,7 +7,6 @@ import tech.slideshare.cache.NullCache;
 import tech.slideshare.rss.Item;
 
 import java.io.IOException;
-import java.time.ZonedDateTime;
 import java.util.Collections;
 import java.util.Optional;
 
@@ -21,7 +20,7 @@ class HatenaBookmarkCollectorTest {
     @BeforeEach
     public void beforeEach() {
         this.dummySlide = new Slide(
-                "title", "link", ZonedDateTime.now(), "author", "twitter", "description", "image"
+                "title", "link", "author", "twitter", "description", "image"
         );
 
         var item = new Item();
@@ -34,7 +33,7 @@ class HatenaBookmarkCollectorTest {
     public void collect() throws JAXBException, IOException {
         var collector = new HatenaBookmarkCollector(
                 "Test",
-                (link, date) -> Optional.of(dummySlide),
+                (link) -> Optional.of(dummySlide),
                 () -> Collections.singletonList(dummyItem)
         );
 
@@ -46,7 +45,7 @@ class HatenaBookmarkCollectorTest {
     public void ignoreEmpty() throws JAXBException, IOException {
         var collector = new HatenaBookmarkCollector(
                 "Test",
-                (link, date) -> Optional.empty(),
+                (link) -> Optional.empty(),
                 () -> Collections.singletonList(dummyItem)
         );
 

@@ -11,14 +11,13 @@ import tech.slideshare.collector.Slide;
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.time.ZonedDateTime;
 import java.util.Optional;
 
 public class SpeakerDeckParser implements Parser {
     
     private static final Logger logger = LoggerFactory.getLogger(SpeakerDeckParser.class);
 
-    public Optional<Slide> parse(String link, ZonedDateTime date) {
+    public Optional<Slide> parse(String link) {
         try {
             Document doc = Jsoup.connect(link).get();
 
@@ -47,7 +46,7 @@ public class SpeakerDeckParser implements Parser {
             String description = doc.select("meta[property~=og:description]").attr("content");
             String image = doc.select("meta[property~=og:image]").attr("content");
 
-            return Optional.of(new Slide(title, link, date, author, null, description, image));
+            return Optional.of(new Slide(title, link, author, null, description, image));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get SpeakerDeck document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();

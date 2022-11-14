@@ -1,7 +1,7 @@
 package tech.slideshare.database;
 
 import java.sql.*;
-import java.time.ZonedDateTime;
+import java.time.Instant;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -11,13 +11,13 @@ public class SlideDao extends AbstractDao {
         super(con);
     }
 
-    public int insert(String title, String url, ZonedDateTime date, String author, String twitter, String description, String image) throws SQLException {
+    public int insert(String title, String url, String author, String twitter, String description, String image) throws SQLException {
         String sql = "INSERT INTO slide (title, url, date, author, twitter, description, image) VALUES (?, ?, ?, ?, ?, ?, ?)";
 
         try (PreparedStatement statement = con.prepareStatement(sql)) {
             statement.setString(1, title);
             statement.setString(2, url);
-            statement.setTimestamp(3, Timestamp.valueOf(date.toLocalDateTime()));
+            statement.setTimestamp(3, Timestamp.from(Instant.now()));
             statement.setString(4, author);
             statement.setString(5, twitter);
             statement.setString(6, description);

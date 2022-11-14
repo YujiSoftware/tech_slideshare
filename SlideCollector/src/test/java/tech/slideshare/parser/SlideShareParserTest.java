@@ -5,15 +5,12 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 import tech.slideshare.collector.Slide;
 
-import java.time.ZonedDateTime;
 import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static tech.slideshare.Assertions.assertSlide;
 
 public class SlideShareParserTest {
-
-    private final ZonedDateTime NOW = ZonedDateTime.now();
 
     private final SlideShareParser parser = new SlideShareParser();
 
@@ -22,14 +19,13 @@ public class SlideShareParserTest {
         Slide expected = new Slide(
                 "Cmdstanr入門とreduce_sum()解説",
                 "https://www.slideshare.net/simizu706/cmdstanrreducesum",
-                NOW,
                 "Hiroshi Shimizu",
                 "simizu706",
                 "Cmdstanrとreduce_sum()の使い方を解説します",
                 "https://cdn.slidesharecdn.com/ss_thumbnails/cmdstanrintroduction-210913075930-thumbnail.jpg?width=640&amp;height=640&amp;fit=bounds"
         );
 
-        Optional<Slide> actual = parser.parse(expected.getLink(), expected.getDate());
+        Optional<Slide> actual = parser.parse(expected.getLink());
         assertTrue(actual.isPresent());
 
         Slide slide = actual.get();
@@ -40,7 +36,7 @@ public class SlideShareParserTest {
     public void twitterリンクなし() {
         String link = "https://www.slideshare.net/yarakawa/ss-250079982";
 
-        Optional<Slide> actual = parser.parse(link, NOW);
+        Optional<Slide> actual = parser.parse(link);
         assertTrue(actual.isPresent());
 
         Slide slide = actual.get();
@@ -52,7 +48,7 @@ public class SlideShareParserTest {
     public void presentation以外を除外() {
         String link = "https://www.slideshare.net/YujiSoftware";
 
-        Optional<Slide> actual = parser.parse(link, NOW);
+        Optional<Slide> actual = parser.parse(link);
         assertTrue(actual.isEmpty());
     }
 
@@ -66,7 +62,7 @@ public class SlideShareParserTest {
             "https://www.slideshare.net/ebookreviewpro/the-role-of-knowledge-in-human-life",
     })
     public void スパムを除外(String link) {
-        Optional<Slide> actual = parser.parse(link, NOW);
+        Optional<Slide> actual = parser.parse(link);
         assertTrue(actual.isEmpty());
     }
 
@@ -76,7 +72,7 @@ public class SlideShareParserTest {
             "https://www.slideshare.net/mobile/YujiSoftware/jep280-java-9",
     })
     public void 正規化(String link) {
-        Optional<Slide> actual = parser.parse(link, NOW);
+        Optional<Slide> actual = parser.parse(link);
         assertTrue(actual.isPresent());
 
         Slide slide = actual.get();

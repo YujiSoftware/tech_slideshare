@@ -38,7 +38,7 @@ public class HatenaBookmarkCollector implements SlideCollector {
         return bookmark.get()
                 .stream()
                 .filter(i -> cache.add(i.link))
-                .flatMap(i -> parser.parse(i.link, i.getDate()).stream())
+                .flatMap(i -> parser.parse(i.link).stream())
                 .toList();
     }
 

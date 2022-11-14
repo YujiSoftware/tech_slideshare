@@ -10,7 +10,6 @@ import tech.slideshare.collector.Slide;
 
 import java.io.IOException;
 import java.net.URL;
-import java.time.ZonedDateTime;
 import java.util.Optional;
 
 public class Backpaper0Parser implements Parser {
@@ -18,7 +17,7 @@ public class Backpaper0Parser implements Parser {
     private static final Logger logger = LoggerFactory.getLogger(Backpaper0Parser.class);
 
     @Override
-    public Optional<Slide> parse(String link, ZonedDateTime date) {
+    public Optional<Slide> parse(String link) {
         try {
             URL url = new URL(link);
             String index = new URL(url.getProtocol(), url.getHost(), url.getPath().replaceFirst("index.html", "")).toString();
@@ -26,7 +25,7 @@ public class Backpaper0Parser implements Parser {
             Document doc = Jsoup.connect(index).get();
             Elements title = doc.getElementsByTag("title");
 
-            return Optional.of(new Slide(title.text(), index, date, "うらがみ", "backpaper0", null, null));
+            return Optional.of(new Slide(title.text(), index, "うらがみ", "backpaper0", null, null));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get Backpaper0 document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();

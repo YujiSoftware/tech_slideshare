@@ -8,17 +8,16 @@ import org.slf4j.LoggerFactory;
 import tech.slideshare.collector.Slide;
 
 import java.io.IOException;
-import java.time.ZonedDateTime;
 import java.util.Optional;
 
 public class SlideShareParser implements Parser {
-    
+
     private static final Logger logger = LoggerFactory.getLogger(SlideShareParser.class);
 
     public static final String USER_AGENT
             = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0";
 
-    public Optional<Slide> parse(String link, ZonedDateTime date) {
+    public Optional<Slide> parse(String link) {
         try {
             if (link.contains("://www.slideshare.net/secret/")) {
                 return Optional.empty();
@@ -72,7 +71,7 @@ public class SlideShareParser implements Parser {
                 return Optional.empty();
             }
 
-            return Optional.of(new Slide(title, link, date, author, twitter, description, image));
+            return Optional.of(new Slide(title, link, author, twitter, description, image));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get SlideShare document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();

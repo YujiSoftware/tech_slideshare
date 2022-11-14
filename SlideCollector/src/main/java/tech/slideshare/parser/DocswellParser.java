@@ -12,7 +12,6 @@ import org.slf4j.LoggerFactory;
 import tech.slideshare.collector.Slide;
 
 import java.io.IOException;
-import java.time.ZonedDateTime;
 import java.util.Optional;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -23,7 +22,7 @@ public class DocswellParser implements Parser {
 
     private static final Pattern TWITTER = Pattern.compile("https://twitter.com/([^/]+)");
 
-    public Optional<Slide> parse(String link, ZonedDateTime date) {
+    public Optional<Slide> parse(String link) {
         try {
             if (!link.startsWith("https://www.docswell.com/s/")) {
                 return Optional.empty();
@@ -48,7 +47,7 @@ public class DocswellParser implements Parser {
             String description = article.description;
             String image = article.image;
 
-            return Optional.of(new Slide(title, link, date, author, twitter, description, image));
+            return Optional.of(new Slide(title, link, author, twitter, description, image));
         } catch (HttpStatusException e) {
             logger.warn(String.format("Can't get Docswell document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
             return Optional.empty();
