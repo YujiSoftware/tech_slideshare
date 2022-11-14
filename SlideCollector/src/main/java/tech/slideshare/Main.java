@@ -105,7 +105,7 @@ public class Main {
             for (Slide s : collector.collect()) {
                 try {
                     if (slideDao.exists(s.getLink())) {
-                        return;
+                        continue;
                     }
 
                     logger.debug("Enqueue: {}, {}", s.getTitle(), s.getLink());
