@@ -36,6 +36,11 @@
         <dc:date>2022-11-10T15:00:00Z</dc:date>
     </item>
     <item>
+        <title>Amazon S3 Selectで実現するサーバーレス高負荷対応サイト (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/serverless-high-load-site-realized-with-amazon-s3-select</link>
+        <dc:date>2022-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>排他制御のためだけに渋々 Redis 使ってませんか？ (mpyw)</title>
         <link>https://speakerdeck.com/mpyw/pai-ta-zhi-yu-notamedakenishibui-redis-shi-tutemasenka</link>
         <dc:date>2022-11-10T15:00:00Z</dc:date>
@@ -53,6 +58,11 @@
     <item>
         <title>AWS Lambda の上でいろんなWEB フレームワークを動かそう！ / Web Frameworks on Lambda (kensh)</title>
         <link>https://speakerdeck.com/_kensh/web-frameworks-on-lambda</link>
+        <dc:date>2022-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サーバーレスなメール送信システムをAWS CDKで構築し数千人規模の環境で運用した話 / aws dev day cdk mail (k.goto)</title>
+        <link>https://speakerdeck.com/gotok365/aws-dev-day-cdk-mail</link>
         <dc:date>2022-11-10T15:00:00Z</dc:date>
     </item>
     <item>
@@ -93,16 +103,6 @@
     <item>
         <title>サーバーレスは操作的意味論の夢を見るか？ #AWSDevDay / AWS Dev Day 2022 Japan (y_taka_23)</title>
         <link>https://speakerdeck.com/ytaka23/aws-dev-day-2022-japan</link>
-        <dc:date>2022-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EventBridgeとAmplify + Stripeで 「イベント駆動」な Webサービスを開発する/aws-dev-day-2022 (Hidetaka Okamoto (Stripe))</title>
-        <link>https://speakerdeck.com/stripehideokamoto/aws-dev-day-2022</link>
-        <dc:date>2022-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CDKでECS on FargateのCI/CDを実現する際の理想と現実 / ideal-and-reality-when-implementing-cicd-for-ecs-on-fargate-with-aws-cdk (tomoki10)</title>
-        <link>https://speakerdeck.com/tomoki10/ideal-and-reality-when-implementing-cicd-for-ecs-on-fargate-with-aws-cdk</link>
         <dc:date>2022-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
