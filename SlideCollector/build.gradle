@@ -15,8 +15,6 @@ dependencies {
     // https://mvnrepository.com/artifact/org.jsoup/jsoup
     implementation group: 'org.jsoup', name: 'jsoup', version: '1.10.1'
 
-    implementation group: 'name.falgout.jeffrey', name: 'throwing-streams', version: '3.2.0'
-
     // https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api
     implementation group: 'jakarta.xml.bind', name: 'jakarta.xml.bind-api', version: '3.0.0'
 
