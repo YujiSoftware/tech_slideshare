@@ -6,6 +6,66 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>solidity-jp</title>
+        <link>https://docs.google.com/presentation/d/1e3QRhNmIba6r2V-aYw3wf6JvyZz79S_0Sml4gHAruFk/preview</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LT BADGE</title>
+        <link>https://docs.google.com/presentation/d/1frF2RBEEdMBDS9JiPq8B8F-rA_Hw78TXbW8kjglD39g/preview</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Build secure io t gateway (Kentaro Mitsuyasu,@kmitsu76)</title>
+        <link>https://www.slideshare.net/KentaroMitsuyasu1/build-secure-io-t-gateway</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>工場設備の稼働状態を見える化してみた (AmbientData)</title>
+        <link>https://www.slideshare.net/AmbientData/ss-191582713</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Enterprise IotLT vol.17 Lazurite (Yoshiyuki Tanaka)</title>
+        <link>https://speakerdeck.com/tanaka_lapis_jp/enterprise-iotlt-vol-dot-17-lazurite</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>この夏、Unreal Engine 5を覚えよう！夏までにUE5を習得するための第一歩を教えます！ (株式会社ヒストリア,@historia_Inc)</title>
+        <link>https://www.docswell.com/s/historia_Inc/Z8DWYZ-2022-07-08-180058</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SSMJP-20220907-NLOG2N2 (nlog2n2,@nlog2n2)</title>
+        <link>https://www.docswell.com/s/nlog2n2/5RP7NZ-2022-09-07-203730</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>イケてる個人開発の進め方 (mugi)</title>
+        <link>https://www.docswell.com/s/6649915/ZG7885-yuno_miyako</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ヤフーにおける WebAuthn と Passkey の UX の紹介と考察 #idcon #fidcon (Yahoo!デベロッパーネットワーク,@ydnjp)</title>
+        <link>https://www.docswell.com/s/ydnjp/KWDLDZ-2022-10-14-141235</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Resumable な JavaScript フレームワーク Qwik を学ぶ (ryo,@RyoKawamata)</title>
+        <link>https://www.docswell.com/s/kawamataryo/K4GW15-qwik-resumable</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>対外発表資料 - DjangoCongress JP 2022</title>
+        <link>https://docs.google.com/presentation/d/1nLQS8-U36eNa2uRTj1fONtmI5HaItFJcIrw90ixmo_8/preview</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>詳解 print("Hello, world")</title>
+        <link>https://docs.google.com/presentation/d/19b0jIIj2-KmwXf49eWM2dgzZPeSuxABDyib_lpyTCxU/preview</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2022.11.14 プロダクトセキュリティのはじめ方 in Ubie</title>
         <link>https://docs.google.com/presentation/d/1ygKmi4AH8C6zhKUW_1t8hz-FA9xbjblWBU4XaRtJRLM/preview</link>
         <dc:date>2022-11-13T15:00:00Z</dc:date>
@@ -44,65 +104,5 @@
         <title>ネットスーパーにおける商品在庫データのアプリケーション構築事例 (10xinc)</title>
         <link>https://speakerdeck.com/10xinc/netutosupaniokerushang-pin-zai-ku-detanoapurikesiyongou-zhu-shi-li</link>
         <dc:date>2022-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon S3 Selectで実現するサーバーレス高負荷対応サイト (shiro seike)</title>
-        <link>https://speakerdeck.com/seike460/serverless-high-load-site-realized-with-amazon-s3-select</link>
-        <dc:date>2022-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>排他制御のためだけに渋々 Redis 使ってませんか？ (mpyw)</title>
-        <link>https://speakerdeck.com/mpyw/pai-ta-zhi-yu-notamedakenishibui-redis-shi-tutemasenka</link>
-        <dc:date>2022-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DMMプラットフォームのマイクロサービス戦略 オーナーシップの落とし穴 (pospome)</title>
-        <link>https://speakerdeck.com/pospome/dmmpuratutohuomunomaikurosabisuzhan-lue-onasitupunoluo-tosixue</link>
-        <dc:date>2022-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> JPX Tokyo Stock Exchange Prediction Award Ceremony 解法総評 (tomo)</title>
-        <link>https://speakerdeck.com/gamella/jpx-tokyo-stock-exchange-prediction-award-ceremony-jie-fa-zong-ping</link>
-        <dc:date>2022-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Lambda の上でいろんなWEB フレームワークを動かそう！ / Web Frameworks on Lambda (kensh)</title>
-        <link>https://speakerdeck.com/_kensh/web-frameworks-on-lambda</link>
-        <dc:date>2022-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーレスなメール送信システムをAWS CDKで構築し数千人規模の環境で運用した話 / aws dev day cdk mail (k.goto)</title>
-        <link>https://speakerdeck.com/gotok365/aws-dev-day-cdk-mail</link>
-        <dc:date>2022-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>統計的因果探索とAI (Shohei SHIMIZU)</title>
-        <link>https://speakerdeck.com/sshimizu2006/tong-ji-de-yin-guo-tan-suo-toai</link>
-        <dc:date>2022-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>良い設計と悪い設計の違い (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/good-or-bad-that-is-a-question</link>
-        <dc:date>2022-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ぼくたちは Java アプリケーションの起動速度をどこまで縮められるか (BulBulPaul)</title>
-        <link>https://speakerdeck.com/bulbulpaul/bokutatiha-java-apurikesiyonnoqi-dong-su-du-wodokomadesuo-merareruka</link>
-        <dc:date>2022-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ISUCON運営を支えるAmazon ECSとAurora Serverless v2 / AWS Dev Day 2022 Japan (FUJIWARA Shunichiro)</title>
-        <link>https://speakerdeck.com/fujiwara3/aws-dev-day-2022-japan</link>
-        <dc:date>2022-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Information management for a culture of speed: The story of Notion and LayerX  (y_matsuwitter)</title>
-        <link>https://speakerdeck.com/ymatsuwitter/information-management-for-a-culture-of-speed-the-story-of-notion-and-layerx</link>
-        <dc:date>2022-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SQS + Lambda という⾮同期処理 ⻩⾦パターン再⼊⾨ #AWSDevDay / SQS-Lambda-DevDay2022 (Ichino Shiraishi)</title>
-        <link>https://speakerdeck.com/pikosan0000/sqs-lambda-devday2022</link>
-        <dc:date>2022-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
