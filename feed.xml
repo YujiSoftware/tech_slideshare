@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Designship2022 デザインエンジニアが語る、隣接領域を学ぶということ (unotovive)</title>
+        <link>https://speakerdeck.com/unotovive/designship2022-dezainenziniagayu-ru-lin-jie-ling-yu-woxue-butoiukoto</link>
+        <dc:date>2022-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サブスクリプション決済入門 Stripeでの実装方法と、要件定義時のポイント/jp_stripes_okayama_vol3 (Hidetaka Okamoto (Stripe))</title>
         <link>https://speakerdeck.com/stripehideokamoto/jp-stripes-okayama-vol3</link>
         <dc:date>2022-11-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS CDKでECS on FargateのCI/CDを実現する際の理想と現実 / ideal-and-reality-when-implementing-cicd-for-ecs-on-fargate-with-aws-cdk (tomoki10)</title>
         <link>https://speakerdeck.com/tomoki10/ideal-and-reality-when-implementing-cicd-for-ecs-on-fargate-with-aws-cdk</link>
-        <dc:date>2022-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脱Firebase. 我々はどう生きるか/Migrate from Firebase (Keisuke69)</title>
-        <link>https://speakerdeck.com/keisuke69/migrate-from-firebase</link>
         <dc:date>2022-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
