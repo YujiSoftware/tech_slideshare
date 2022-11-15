@@ -100,7 +100,7 @@ public record Connpass(
 
         OUTER:
         for (int i = 0; i < loop; i++) {
-            URL url = new URL("https://connpass.com/api/v1/event/?count=" + count + "&start=" + (i + 1) * count);
+            URL url = new URL("https://connpass.com/api/v1/event/?count=" + count + "&start=" + (i * count));
             logger.debug("Request: {}", url);
 
             ObjectMapper mapper = new ObjectMapper();
