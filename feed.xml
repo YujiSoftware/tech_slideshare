@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[Japan M365 Dev UG] Teams Toolkit v4 を使ってみよう！ (Tomomi Imura,@girlie_mac)</title>
+        <link>https://www.slideshare.net/tomomi/japan-m365-dev-ug-teams-toolkit-v4</link>
+        <dc:date>2022-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最近、M365やAzure ADまわりで私が遭遇した（ニッチ？）なトラブル３選/第 4 回 Japan M365 Dev User Group 勉強会 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/di-4-hui-japan-m365-dev-user-group-mian-qiang-hui</link>
+        <dc:date>2022-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IoTLT-Vol93-Wiki-IoT-20221117.pptx (Takashi Yamanoue,@yamnoue)</title>
         <link>https://www.slideshare.net/takashiyamanoue/iotltvol93wikiiot20221117pptx</link>
         <dc:date>2022-11-15T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>超速入門 GraphQL</title>
         <link>https://docs.google.com/presentation/d/15ZHjd5gijd0Oi6LHYsNmvqLvU6pinX_8L8qfHM3KxlU/preview</link>
-        <dc:date>2022-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>redux使うのやめました (hirasa)</title>
-        <link>https://speakerdeck.com/hirasa/reduxshi-unoyamemasita</link>
-        <dc:date>2022-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Podの分散配置戦略とその運用事例 (Kiyoshi Muranaka)</title>
-        <link>https://speakerdeck.com/kiyoshim55/podnofen-san-pei-zhi-zhan-lue-tosonoyun-yong-shi-li</link>
         <dc:date>2022-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
