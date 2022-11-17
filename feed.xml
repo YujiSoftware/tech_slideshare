@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI_Scale_Scrum</title>
+        <link>https://docs.google.com/presentation/d/1KCX5GuGkNckfuGuQvYeCSKnYux5ABiMVxYQAGJSMUWU/preview</link>
+        <dc:date>2022-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Research Paper Introduction in IR Reading 2022 Fall (Takuya Asano)</title>
         <link>https://speakerdeck.com/takuyaa/research-paper-introduction-in-ir-reading-2022-fall</link>
         <dc:date>2022-11-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>WebPに代わる次世代画像フォーマットAVIF Akamai_Meetup #1 (Akamai-Meetup-JPN)</title>
         <link>https://speakerdeck.com/akamaimeetupjpn/akamai-meetup-number-1-webpnidai-waruci-shi-dai-hua-xiang-huomatutoavif</link>
-        <dc:date>2022-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MoT TechTalk #14 タクシーアプリ『GO』の施策検証、因果推論が解決します (MoT dev)</title>
-        <link>https://speakerdeck.com/mot_techtalk/mot-techtalk-14</link>
         <dc:date>2022-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
