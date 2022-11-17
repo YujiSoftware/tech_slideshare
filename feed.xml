@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>速習！論理レプリケーション ～基礎から最新動向まで～（PostgreSQL Conference Japan 2022 発表資料） (NTT DATA Technology &amp; Innovation)</title>
+        <link>https://www.slideshare.net/nttdata-tech/postgresql-logical-replication-postgresql-conference-japan-2022-nttdata</link>
+        <dc:date>2022-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>An Elegant Puzzle: Systems of Engineering Management を50分でざっと知る / Learn roughly "An Elegant Puzzle: Systems of Engineering Management" in 50 minutes (iwashi)</title>
         <link>https://speakerdeck.com/iwashi86/learn-roughly-an-elegant-puzzle-systems-of-engineering-management-in-50-minutes</link>
         <dc:date>2022-11-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CCAI + TwilioFlexを日本語で実装した話 (Katsumi Takahashi)</title>
         <link>https://speakerdeck.com/mobilebiz/ccai-plus-twilioflexwori-ben-yu-deshi-zhuang-sitahua</link>
-        <dc:date>2022-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実例マッピングで要件のレビューサイクルを回してる話 / Example Mapping Review Cycle (nametake)</title>
-        <link>https://speakerdeck.com/nametake/example-mapping-review-cycle</link>
         <dc:date>2022-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
