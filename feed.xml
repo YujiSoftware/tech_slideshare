@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ウェブフロントエンジニアから見る Flutter Webの 現在地点 / Flutter web as of now (kgsi)</title>
+        <link>https://speakerdeck.com/kgsi/flutter-web-as-of-now</link>
+        <dc:date>2022-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>バックエンドエンジニアが行うSvelte + Vite なフロントエンド構築 (shiro seike)</title>
         <link>https://speakerdeck.com/seike460/svelte-vite-front-end-construction-by-back-end-engineers</link>
         <dc:date>2022-11-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Wikipedia を Offlineで楽しむ (Kenichiro MATOHARA)</title>
         <link>https://speakerdeck.com/matoken/enjoy-wikipedia-offline</link>
-        <dc:date>2022-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Elm_LandでElm入門 (negiboudu)</title>
-        <link>https://speakerdeck.com/negiboudu/elm-landteelmru-men</link>
         <dc:date>2022-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
