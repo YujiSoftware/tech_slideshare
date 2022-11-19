@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Elm でつくるルービックキューブ (Tomoya Kashifuku)</title>
+        <link>https://speakerdeck.com/tnyo43/elm-detukururubitukukiyubu</link>
+        <dc:date>2022-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LintオタクによるLint解説 (Kuniwak)</title>
+        <link>https://speakerdeck.com/orgachem/lintotakuniyorulintjie-shuo</link>
+        <dc:date>2022-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RuboCop Under a Microscope (Koichi ITO)</title>
+        <link>https://speakerdeck.com/koic/rubocop-under-a-microscope</link>
+        <dc:date>2022-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rubyから広がるプログラミング入門教育〜小学校高学年向けプログラミング入門書『ユウと魔法のプログラミング・ノート』執筆から学んだこと〜 (やきとりい)</title>
         <link>https://speakerdeck.com/yotii23/rubykaraguang-garupuroguraminguru-men-jiao-yu-xiao-xue-xiao-gao-xue-nian-xiang-kepuroguraminguru-men-shu-yuutomo-fa-nopuroguramingunoto-zhi-bi-karaxue-ndakoto</link>
         <dc:date>2022-11-17T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Windows Admin CenterとAzure Stack HCI OS 22H2 / Windows Admin Center and Azure Stack HCI OS 22H2 (Norio SASHIZAKI,@sshzk)</title>
         <link>https://www.docswell.com/s/sshzk/KNY32Z-2022-11-13-092917</link>
-        <dc:date>2022-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINEアプリ開発を さらに加速させる フレームワークとCI/CD技術 (SB Tech Night)</title>
-        <link>https://speakerdeck.com/sbtechnight/cdji-shu</link>
-        <dc:date>2022-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINE eKYCって何だ？～その実力と開発チップスについて～ (ChikaSawano)</title>
-        <link>https://www.slideshare.net/ChikaSawano/line-ekyc</link>
-        <dc:date>2022-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトセキュリティのはじめ方 in 10X 2022.11.14 (10xinc)</title>
-        <link>https://speakerdeck.com/10xinc/purodakutosekiyuriteinohazimefang-in-10x-2022-dot-11-dot-14</link>
         <dc:date>2022-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
