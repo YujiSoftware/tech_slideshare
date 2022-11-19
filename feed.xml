@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Flutter/Dartと共に歩んだスタートアップの開発を振り返って得た、成功と失敗の教訓 (Kazuki YAMAGUCHI)</title>
+        <link>https://speakerdeck.com/yamarkz/history-of-stailer-with-flutter-and-dart</link>
+        <dc:date>2022-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Reinventing the Transaction Script (NDC London 2020) (Scott Wlaschin)</title>
         <link>https://www.slideshare.net/ScottWlaschin/reinventing-the-transaction-script-ndc-london-2020</link>
         <dc:date>2022-11-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TinyGo + BLE で作る Lap Timer</title>
         <link>https://docs.google.com/presentation/d/10okOgOn83JZM2nUL9VOoCACab85u1kGr2zQdWvIHmg0/preview</link>
-        <dc:date>2022-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バイナリデータの話</title>
-        <link>https://docs.google.com/presentation/d/1RqaqkaEHrKAIEyayaq4KTHV0a8r4tgweLHVq9uQEFZE/preview</link>
         <dc:date>2022-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
