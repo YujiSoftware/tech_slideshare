@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Reinventing the Transaction Script (NDC London 2020) (Scott Wlaschin)</title>
+        <link>https://www.slideshare.net/ScottWlaschin/reinventing-the-transaction-script-ndc-london-2020</link>
+        <dc:date>2022-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ウェブフロントエンジニアから見る Flutter Webの 現在地点 / Flutter web as of now (kgsi)</title>
         <link>https://speakerdeck.com/kgsi/flutter-web-as-of-now</link>
         <dc:date>2022-11-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>バイナリデータの話</title>
         <link>https://docs.google.com/presentation/d/1RqaqkaEHrKAIEyayaq4KTHV0a8r4tgweLHVq9uQEFZE/preview</link>
-        <dc:date>2022-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Wikipedia を Offlineで楽しむ (Kenichiro MATOHARA)</title>
-        <link>https://speakerdeck.com/matoken/enjoy-wikipedia-offline</link>
         <dc:date>2022-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
