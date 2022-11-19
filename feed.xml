@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コンテナ / やわらかい仮想化 / enpit prosec it 2022</title>
+        <link>https://docs.google.com/presentation/d/1cHd9nsEj3iKJj4zWA7WKSILDu536HUSYLn84QLrLBEk/preview</link>
+        <dc:date>2022-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Web開発を補助する目的でPlaywrightを使っている話 (aoki ken)</title>
         <link>https://speakerdeck.com/aokiken/webkai-fa-wobu-zhu-surumu-de-deplaywrightwoshi-tuteiruhua</link>
         <dc:date>2022-11-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Git の最新アップデートから考える開発手法の潮流 (yuukiyo)</title>
         <link>https://speakerdeck.com/yuukiyo/trends-in-development-methodology-from-the-latest-git-updates</link>
-        <dc:date>2022-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SE時事ラジオ_0002 (Quatrex,@Quatrex)</title>
-        <link>https://www.docswell.com/s/Quatrex/51L8G5-2022-11-13</link>
         <dc:date>2022-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
