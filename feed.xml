@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>研究のやり方，論文の書き方 (Hiroshi Kajino)</title>
+        <link>https://speakerdeck.com/kanojikajino/yan-jiu-noyarifang-lun-wen-noshu-kifang</link>
+        <dc:date>2022-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>バッチシステムをクラウドネイティブにするために考えたこと (teru0x1)</title>
         <link>https://speakerdeck.com/teru0x1/batutisisutemuwokuraudoneiteibunisurutamenikao-etakoto</link>
         <dc:date>2022-11-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>速習！論理レプリケーション ～基礎から最新動向まで～（PostgreSQL Conference Japan 2022 発表資料） (NTT DATA Technology &amp; Innovation)</title>
         <link>https://www.slideshare.net/nttdata-tech/postgresql-logical-replication-postgresql-conference-japan-2022-nttdata</link>
         <dc:date>2022-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>An Elegant Puzzle: Systems of Engineering Management を50分でざっと知る / Learn roughly "An Elegant Puzzle: Systems of Engineering Management" in 50 minutes (iwashi)</title>
-        <link>https://speakerdeck.com/iwashi86/learn-roughly-an-elegant-puzzle-systems-of-engineering-management-in-50-minutes</link>
-        <dc:date>2022-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
