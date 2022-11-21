@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SvelteKitを本番投入してみて (kubotak)</title>
+        <link>https://speakerdeck.com/kubotak/sveltekitwoben-fan-tou-ru-sitemite</link>
+        <dc:date>2022-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>UXデザインの海外最新「UXトレンドレポート2022」を読んで、考える (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/uxux2022</link>
         <dc:date>2022-11-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[Japan M365 Dev UG] Teams Toolkit v4 を使ってみよう！ (Tomomi Imura,@girlie_mac)</title>
         <link>https://www.slideshare.net/tomomi/japan-m365-dev-ug-teams-toolkit-v4</link>
-        <dc:date>2022-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最近、M365やAzure ADまわりで私が遭遇した（ニッチ？）なトラブル３選/第 4 回 Japan M365 Dev User Group 勉強会 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/di-4-hui-japan-m365-dev-user-group-mian-qiang-hui</link>
         <dc:date>2022-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
