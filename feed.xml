@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>バッチシステムをクラウドネイティブにするために考えたこと (teru0x1)</title>
+        <link>https://speakerdeck.com/teru0x1/batutisisutemuwokuraudoneiteibunisurutamenikao-etakoto</link>
+        <dc:date>2022-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SvelteKitを本番投入してみて (kubotak)</title>
         <link>https://speakerdeck.com/kubotak/sveltekitwoben-fan-tou-ru-sitemite</link>
         <dc:date>2022-11-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>An Elegant Puzzle: Systems of Engineering Management を50分でざっと知る / Learn roughly "An Elegant Puzzle: Systems of Engineering Management" in 50 minutes (iwashi)</title>
         <link>https://speakerdeck.com/iwashi86/learn-roughly-an-elegant-puzzle-systems-of-engineering-management-in-50-minutes</link>
-        <dc:date>2022-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Japan M365 Dev UG] Teams Toolkit v4 を使ってみよう！ (Tomomi Imura,@girlie_mac)</title>
-        <link>https://www.slideshare.net/tomomi/japan-m365-dev-ug-teams-toolkit-v4</link>
         <dc:date>2022-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
