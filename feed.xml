@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DevOps実装初期フェーズの組織がTerraformとecspressoで求めるAmazon ECS CICDの最適解/AWS ECS CICD with Terraform and ecspresso (Tocyuki)</title>
+        <link>https://speakerdeck.com/tocyuki/aws-ecs-cicd-with-terraform-and-ecspresso</link>
+        <dc:date>2022-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>同志諸君よ、ゼロトラストを撃て_CloudNativeDays2022 (Kengo Suzuki)</title>
         <link>https://speakerdeck.com/ken5scal/tong-zhi-zhu-jun-yo-zerotorasutowoji-te-cloudnativedays2022</link>
         <dc:date>2022-11-21T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>RuboCop Under a Microscope (Koichi ITO)</title>
         <link>https://speakerdeck.com/koic/rubocop-under-a-microscope</link>
         <dc:date>2022-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rubyから広がるプログラミング入門教育〜小学校高学年向けプログラミング入門書『ユウと魔法のプログラミング・ノート』執筆から学んだこと〜 (やきとりい)</title>
-        <link>https://speakerdeck.com/yotii23/rubykaraguang-garupuroguraminguru-men-jiao-yu-xiao-xue-xiao-gao-xue-nian-xiang-kepuroguraminguru-men-shu-yuutomo-fa-nopuroguramingunoto-zhi-bi-karaxue-ndakoto</link>
-        <dc:date>2022-11-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
