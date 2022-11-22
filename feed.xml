@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>221017 WinActorにおけるAPI連携 NTTアドバンステクノロジ (comucal)</title>
+        <link>https://speakerdeck.com/comucal/221017-winactorniokeruapilian-xi-nttadobansutekunorozi</link>
+        <dc:date>2022-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>研究のやり方，論文の書き方 (Hiroshi Kajino)</title>
         <link>https://speakerdeck.com/kanojikajino/yan-jiu-noyarifang-lun-wen-noshu-kifang</link>
         <dc:date>2022-11-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20221116_MLOps勉強会_クックパッドマートにおける推薦タスクとMLOps (Yusuke Fukasawa)</title>
         <link>https://speakerdeck.com/fufufukakaka/20221116-mlopsmian-qiang-hui-kutukupatudomatoniokerutui-jian-tasukutomlops</link>
-        <dc:date>2022-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>速習！論理レプリケーション ～基礎から最新動向まで～（PostgreSQL Conference Japan 2022 発表資料） (NTT DATA Technology &amp; Innovation)</title>
-        <link>https://www.slideshare.net/nttdata-tech/postgresql-logical-replication-postgresql-conference-japan-2022-nttdata</link>
         <dc:date>2022-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
