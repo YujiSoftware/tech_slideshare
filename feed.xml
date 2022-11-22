@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kubernetes Admission Webhook Deep Dive (Akihiro Ikezoe)</title>
+        <link>https://speakerdeck.com/zoetrope/kubernetes-admission-webhook-deep-dive</link>
+        <dc:date>2022-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DevOps実装初期フェーズの組織がTerraformとecspressoで求めるAmazon ECS CICDの最適解/AWS ECS CICD with Terraform and ecspresso (Tocyuki)</title>
         <link>https://speakerdeck.com/tocyuki/aws-ecs-cicd-with-terraform-and-ecspresso</link>
         <dc:date>2022-11-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LintオタクによるLint解説 (Kuniwak)</title>
         <link>https://speakerdeck.com/orgachem/lintotakuniyorulintjie-shuo</link>
-        <dc:date>2022-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RuboCop Under a Microscope (Koichi ITO)</title>
-        <link>https://speakerdeck.com/koic/rubocop-under-a-microscope</link>
         <dc:date>2022-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
