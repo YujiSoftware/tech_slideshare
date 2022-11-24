@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>How Twitter Works (Arsen Kostenko Technology Stream)  (IT Arena)</title>
+        <link>https://www.slideshare.net/ITARENA/how-twitter-works-arsen-kostenko-technology-stream</link>
+        <dc:date>2022-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>シン・スウィフト 5.7 ~ Swift5.7を振り返る ~ / New Swift 5.7 (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/new-swift-5-7</link>
         <dc:date>2022-11-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ウェブフロントエンジニアから見る Flutter Webの 現在地点 / Flutter web as of now (kgsi)</title>
         <link>https://speakerdeck.com/kgsi/flutter-web-as-of-now</link>
-        <dc:date>2022-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バックエンドエンジニアが行うSvelte + Vite なフロントエンド構築 (shiro seike)</title>
-        <link>https://speakerdeck.com/seike460/svelte-vite-front-end-construction-by-back-end-engineers</link>
         <dc:date>2022-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
