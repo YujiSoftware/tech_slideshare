@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>祝 🎉 両方とも正式リリース！ GitHub Codespaces と Nuxt3 で次世代開発体験 / codespaces-nuxt3 (miyake)</title>
+        <link>https://speakerdeck.com/miyake/codespaces-nuxt3</link>
+        <dc:date>2022-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Universe 2022 Recap (Atsushi Kojima,@techno_officer)</title>
         <link>https://www.docswell.com/s/chakura/KNWJPK-2022-11-24-185057</link>
         <dc:date>2022-11-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Flutter/Dartと共に歩んだスタートアップの開発を振り返って得た、成功と失敗の教訓 (Kazuki YAMAGUCHI)</title>
         <link>https://speakerdeck.com/yamarkz/history-of-stailer-with-flutter-and-dart</link>
-        <dc:date>2022-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Reinventing the Transaction Script (NDC London 2020) (Scott Wlaschin)</title>
-        <link>https://www.slideshare.net/ScottWlaschin/reinventing-the-transaction-script-ndc-london-2020</link>
         <dc:date>2022-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
