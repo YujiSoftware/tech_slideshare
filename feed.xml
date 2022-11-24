@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Universe 2022 Recap (Atsushi Kojima,@techno_officer)</title>
+        <link>https://www.docswell.com/s/chakura/KNWJPK-2022-11-24-185057</link>
+        <dc:date>2022-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>How Twitter Works (Arsen Kostenko Technology Stream)  (IT Arena)</title>
         <link>https://www.slideshare.net/ITARENA/how-twitter-works-arsen-kostenko-technology-stream</link>
         <dc:date>2022-11-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Reinventing the Transaction Script (NDC London 2020) (Scott Wlaschin)</title>
         <link>https://www.slideshare.net/ScottWlaschin/reinventing-the-transaction-script-ndc-london-2020</link>
-        <dc:date>2022-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウェブフロントエンジニアから見る Flutter Webの 現在地点 / Flutter web as of now (kgsi)</title>
-        <link>https://speakerdeck.com/kgsi/flutter-web-as-of-now</link>
         <dc:date>2022-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
