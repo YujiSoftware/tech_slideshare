@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>はじめよう Kubernetes PersistentVolume のバックアップ  (Yukinori Sakashita)</title>
+        <link>https://speakerdeck.com/ysakashita/hazimeyou-kubernetes-persistentvolume-nobatukuatupu</link>
+        <dc:date>2022-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Teslaにおけるコンピュータビジョン技術の調査 (2) (Kazuyuki Miyazawa,@kzykmyzw)</title>
         <link>https://www.slideshare.net/KazuyukiMiyazawa/tesla-2-254457592</link>
         <dc:date>2022-11-24T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>UXデザインの海外最新「UXトレンドレポート2022」を読んで、考える (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/uxux2022</link>
         <dc:date>2022-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2年弱で5つのプロダクトが立ち上がる中での組織の変化と現場が向き合うハードシングス (shkomine)</title>
-        <link>https://speakerdeck.com/shkomine/hard-things-to-face-in-the-real-field</link>
-        <dc:date>2022-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
