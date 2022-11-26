@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Svelte Runtime 101 (JSConf JP 2022) (Yuichiro Yamashita)</title>
+        <link>https://speakerdeck.com/baseballyama/svelte-runtime-101-jsconf-jp-2022</link>
+        <dc:date>2022-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JSConf JP 2022 introduce React Query (South)</title>
         <link>https://speakerdeck.com/maminami373/jsconf-jp-2022-introduce-react-query</link>
         <dc:date>2022-11-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>221017 WinActorにおけるAPI連携 NTTアドバンステクノロジ (comucal)</title>
         <link>https://speakerdeck.com/comucal/221017-winactorniokeruapilian-xi-nttadobansutekunorozi</link>
-        <dc:date>2022-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>研究のやり方，論文の書き方 (Hiroshi Kajino)</title>
-        <link>https://speakerdeck.com/kanojikajino/yan-jiu-noyarifang-lun-wen-noshu-kifang</link>
         <dc:date>2022-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
