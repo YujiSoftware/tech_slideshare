@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンドエコシステムで効率化する組織開発 (okmttdhr)</title>
+        <link>https://speakerdeck.com/okmttdhr/hurontoendoekosisutemudexiao-lu-hua-suruzu-zhi-kai-fa</link>
+        <dc:date>2022-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自然発生した実装パターンに、マイクロフロントエンドと名がつきました / JSConf JP 2022 (berlysia)</title>
         <link>https://speakerdeck.com/berlysia/jsconf-jp-2022</link>
         <dc:date>2022-11-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DevOps実装初期フェーズの組織がTerraformとecspressoで求めるAmazon ECS CICDの最適解/AWS ECS CICD with Terraform and ecspresso (Tocyuki)</title>
         <link>https://speakerdeck.com/tocyuki/aws-ecs-cicd-with-terraform-and-ecspresso</link>
-        <dc:date>2022-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>同志諸君よ、ゼロトラストを撃て_CloudNativeDays2022 (Kengo Suzuki)</title>
-        <link>https://speakerdeck.com/ken5scal/tong-zhi-zhu-jun-yo-zerotorasutowoji-te-cloudnativedays2022</link>
         <dc:date>2022-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
