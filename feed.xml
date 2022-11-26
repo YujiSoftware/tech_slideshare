@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>『良いコード／悪いコードで学ぶ設計入門』を一歩深める読み方 / deepen good code bad code (MinoDriven)</title>
+        <link>https://speakerdeck.com/minodriven/deepen-good-code-bad-code</link>
+        <dc:date>2022-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Svelte Runtime 101 (JSConf JP 2022) (Yuichiro Yamashita)</title>
         <link>https://speakerdeck.com/baseballyama/svelte-runtime-101-jsconf-jp-2022</link>
         <dc:date>2022-11-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>競技プログラミングことはじめ (E869120)</title>
         <link>https://speakerdeck.com/e869120/20221122-jing-ji-puroguramingukotohazime</link>
-        <dc:date>2022-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>221017 WinActorにおけるAPI連携 NTTアドバンステクノロジ (comucal)</title>
-        <link>https://speakerdeck.com/comucal/221017-winactorniokeruapilian-xi-nttadobansutekunorozi</link>
         <dc:date>2022-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
