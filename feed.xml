@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JSConf JP 2022 introduce React Query (South)</title>
+        <link>https://speakerdeck.com/maminami373/jsconf-jp-2022-introduce-react-query</link>
+        <dc:date>2022-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Hono - Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/hono-ultrafast-web-framework-for-cloudflare-workers-deno-bun-and-node-dot-js</link>
+        <dc:date>2022-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>宣言的 UI 時代のクライアントサイド DDD 大考察 / Client-side DDD in the Age of Declarative UI (Kazuyuki TAKASE)</title>
         <link>https://speakerdeck.com/guvalif/client-side-ddd-in-the-age-of-declarative-ui</link>
         <dc:date>2022-11-25T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>研究のやり方，論文の書き方 (Hiroshi Kajino)</title>
         <link>https://speakerdeck.com/kanojikajino/yan-jiu-noyarifang-lun-wen-noshu-kifang</link>
         <dc:date>2022-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バッチシステムをクラウドネイティブにするために考えたこと (teru0x1)</title>
-        <link>https://speakerdeck.com/teru0x1/batutisisutemuwokuraudoneiteibunisurutamenikao-etakoto</link>
-        <dc:date>2022-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SvelteKitを本番投入してみて (kubotak)</title>
-        <link>https://speakerdeck.com/kubotak/sveltekitwoben-fan-tou-ru-sitemite</link>
-        <dc:date>2022-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
