@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>宣言的 UI 時代のクライアントサイド DDD 大考察 / Client-side DDD in the Age of Declarative UI (Kazuyuki TAKASE)</title>
+        <link>https://speakerdeck.com/guvalif/client-side-ddd-in-the-age-of-declarative-ui</link>
+        <dc:date>2022-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>はじめよう Kubernetes PersistentVolume のバックアップ  (Yukinori Sakashita)</title>
         <link>https://speakerdeck.com/ysakashita/hazimeyou-kubernetes-persistentvolume-nobatukuatupu</link>
         <dc:date>2022-11-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SvelteKitを本番投入してみて (kubotak)</title>
         <link>https://speakerdeck.com/kubotak/sveltekitwoben-fan-tou-ru-sitemite</link>
-        <dc:date>2022-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UXデザインの海外最新「UXトレンドレポート2022」を読んで、考える (Yoshiki Hayama,@storywriter)</title>
-        <link>https://www.slideshare.net/storywriterjp/uxux2022</link>
         <dc:date>2022-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
