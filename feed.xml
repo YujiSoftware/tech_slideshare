@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【LT】Node-REDを使ってZoom会議を作成する (Hayate.H)</title>
+        <link>https://speakerdeck.com/hayate_h/lt-node-redwoshi-tutezoomhui-yi-wozuo-cheng-suru</link>
+        <dc:date>2022-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>M5Stamp Pico を UIFlow で動かしてみる（＋最近やってみたことの一部を紹介） / IoTLT vol.79 (you（@youtoy）)</title>
+        <link>https://speakerdeck.com/you/iotlt-vol-dot-79</link>
+        <dc:date>2022-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゆるくはじめるハードウェア製作 (SuzukIoT)</title>
+        <link>https://speakerdeck.com/suzukiot/yurukuhazimeruhadoueazhi-zuo</link>
+        <dc:date>2022-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>誰でも出来る！ お手軽15万円くらいの照度センサー?！ #iotlt (n0bisuke)</title>
+        <link>https://speakerdeck.com/n0bisuke2/shui-demochu-lai-ru-oshou-qing-15mo-yuan-kuraifalsezhao-du-sensa-number-iotlt</link>
+        <dc:date>2022-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>opnizのご紹介 ver2 (田中みそ)</title>
+        <link>https://speakerdeck.com/miso/opnizfalsegoshao-jie-ver2</link>
+        <dc:date>2022-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サウナIoTのための最初の0.1歩   (kido)</title>
+        <link>https://speakerdeck.com/9wick/saunaiotfalsetamefalsezui-chu-false0-dot-1bu</link>
+        <dc:date>2022-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20210914 IoTLT vol79 kitazaki v1 (Ayachika Kitazaki)</title>
+        <link>https://www.slideshare.net/kitazaki/20210914-iotlt-vol79-kitazaki-v1</link>
+        <dc:date>2022-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コンテナ環境でのJava技術の進化 (Kenji Kazumura)</title>
+        <link>https://speakerdeck.com/kazumura/kontenahuan-jing-denojavaji-shu-nojin-hua</link>
+        <dc:date>2022-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Hands-on Native ESM @ JSConf JP 2022 (Masaki Hara)</title>
         <link>https://speakerdeck.com/qnighy/hands-on-native-esm-at-jsconf-jp-2022</link>
         <dc:date>2022-11-26T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>Hono - Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/hono-ultrafast-web-framework-for-cloudflare-workers-deno-bun-and-node-dot-js</link>
         <dc:date>2022-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>宣言的 UI 時代のクライアントサイド DDD 大考察 / Client-side DDD in the Age of Declarative UI (Kazuyuki TAKASE)</title>
-        <link>https://speakerdeck.com/guvalif/client-side-ddd-in-the-age-of-declarative-ui</link>
-        <dc:date>2022-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はじめよう Kubernetes PersistentVolume のバックアップ  (Yukinori Sakashita)</title>
-        <link>https://speakerdeck.com/ysakashita/hazimeyou-kubernetes-persistentvolume-nobatukuatupu</link>
-        <dc:date>2022-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Teslaにおけるコンピュータビジョン技術の調査 (2) (Kazuyuki Miyazawa,@kzykmyzw)</title>
-        <link>https://www.slideshare.net/KazuyukiMiyazawa/tesla-2-254457592</link>
-        <dc:date>2022-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Native for Webと Web componentsで iOS Android Next Railsの共通UIコンポーネントの夢は見れるのか</title>
-        <link>https://docs.google.com/presentation/d/1w8vkTEdJQbKYLQv6rEvVQrSFFEUPZZ5zr0AdXYzPC7Q/preview</link>
-        <dc:date>2022-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>221108_BtoBSaaSCS登壇資料_コミューン見谷 (MahoMitani)</title>
-        <link>https://speakerdeck.com/mahomitani/221108-btobsaascsdeng-tan-zi-liao-komiyunjian-gu</link>
-        <dc:date>2022-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BtoB × SaaS × CS #11 LT登壇 (masashikishimoto)</title>
-        <link>https://speakerdeck.com/masashikishimoto/btob-x-saas-x-cs-number-11-ltdeng-tan</link>
-        <dc:date>2022-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>祝 🎉 両方とも正式リリース！ GitHub Codespaces と Nuxt3 で次世代開発体験 / codespaces-nuxt3 (miyake)</title>
-        <link>https://speakerdeck.com/miyake/codespaces-nuxt3</link>
-        <dc:date>2022-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Universe 2022 Recap (Atsushi Kojima,@techno_officer)</title>
-        <link>https://www.docswell.com/s/chakura/KNWJPK-2022-11-24-185057</link>
-        <dc:date>2022-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
