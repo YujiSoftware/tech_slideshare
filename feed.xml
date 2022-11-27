@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実装の引き出しを増やすためのDOM Eventテクニック</title>
+        <link>https://docs.google.com/presentation/d/1rXzTVLYx1Idh46IGY51RTLBp-6TH43wmzulj3njd_5I/preview</link>
+        <dc:date>2022-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【LT】Node-REDを使ってZoom会議を作成する (Hayate.H)</title>
         <link>https://speakerdeck.com/hayate_h/lt-node-redwoshi-tutezoomhui-yi-wozuo-cheng-suru</link>
         <dc:date>2022-11-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JSConf JP 2022 introduce React Query (South)</title>
         <link>https://speakerdeck.com/maminami373/jsconf-jp-2022-introduce-react-query</link>
-        <dc:date>2022-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hono - Ultrafast web framework for Cloudflare Workers, Deno, Bun, and Node.js (Yusuke Wada)</title>
-        <link>https://speakerdeck.com/yusukebe/hono-ultrafast-web-framework-for-cloudflare-workers-deno-bun-and-node-dot-js</link>
         <dc:date>2022-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
