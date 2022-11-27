@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Hands-on Native ESM @ JSConf JP 2022 (Masaki Hara)</title>
+        <link>https://speakerdeck.com/qnighy/hands-on-native-esm-at-jsconf-jp-2022</link>
+        <dc:date>2022-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Small Tips to use Bun with WebSocket Server and  WebAssembly Modules (mganeko)</title>
         <link>https://speakerdeck.com/mganeko/small-tips-to-use-bun-with-websocket-server-and-webassembly-modules</link>
         <dc:date>2022-11-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GitHub Universe 2022 Recap (Atsushi Kojima,@techno_officer)</title>
         <link>https://www.docswell.com/s/chakura/KNWJPK-2022-11-24-185057</link>
-        <dc:date>2022-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How Twitter Works (Arsen Kostenko Technology Stream)  (IT Arena)</title>
-        <link>https://www.slideshare.net/ITARENA/how-twitter-works-arsen-kostenko-technology-stream</link>
         <dc:date>2022-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
