@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>カンファレンス主催者から見た プロポーザルを通すコツ / How to hack the CfP (HASEGAWA Tomoki)</title>
+        <link>https://speakerdeck.com/tomzoh/how-to-hack-the-cfp</link>
+        <dc:date>2022-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Nx、Axonを楽しむための前説 (nako@9時間睡眠)</title>
         <link>https://speakerdeck.com/nako_sleep_9h/nx-axonwole-simutamenoqian-shuo</link>
         <dc:date>2022-11-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自然発生した実装パターンに、マイクロフロントエンドと名がつきました / JSConf JP 2022 (berlysia)</title>
         <link>https://speakerdeck.com/berlysia/jsconf-jp-2022</link>
-        <dc:date>2022-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザインシステムにフロントエンドのプラクティスを詰め込んで再配布する (sakito)</title>
-        <link>https://speakerdeck.com/sakito/dezainsisutemunihurontoendonopurakuteisuwojie-meip-ndezai-pei-bu-suru</link>
         <dc:date>2022-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
