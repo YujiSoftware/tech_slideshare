@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オプショナルチェーンができるまで　〜仕様と実装〜</title>
+        <link>https://docs.google.com/presentation/d/1PEvXoQDTLAoZIQmFl_scq84ZnKhLHjeQuOZ45NSruXI/preview</link>
+        <dc:date>2022-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ソフトウェアアーキテクチャ・ ハードパーツ: Software Architecture The Hard Parts (Koji SHIMADA)</title>
+        <link>https://speakerdeck.com/snoozer05/20221129-software-architecture-the-hard-parts</link>
+        <dc:date>2022-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ECMAScript仕様書を誰でも読めるようにする技術を求めて</title>
         <link>https://docs.google.com/presentation/d/1ZxLH48-HVYUNfU--Byeweyu3Tzho3F7caNghGsBFkyw/preview</link>
         <dc:date>2022-11-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ゆるくはじめるハードウェア製作 (SuzukIoT)</title>
         <link>https://speakerdeck.com/suzukiot/yurukuhazimeruhadoueazhi-zuo</link>
-        <dc:date>2022-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>誰でも出来る！ お手軽15万円くらいの照度センサー?！ #iotlt (n0bisuke)</title>
-        <link>https://speakerdeck.com/n0bisuke2/shui-demochu-lai-ru-oshou-qing-15mo-yuan-kuraifalsezhao-du-sensa-number-iotlt</link>
-        <dc:date>2022-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>opnizのご紹介 ver2 (田中みそ)</title>
-        <link>https://speakerdeck.com/miso/opnizfalsegoshao-jie-ver2</link>
         <dc:date>2022-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
