@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20221117LEDPanel</title>
+        <link>https://docs.google.com/presentation/d/1mB0kjD-H7b-nJdd-X1oKCyKKMuWZu4OB0aRcYUPLsKo/preview</link>
+        <dc:date>2022-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>M5GHI (Ryota Ikeuchi)</title>
+        <link>https://speakerdeck.com/ryotaikeuchi0/m5ghi</link>
+        <dc:date>2022-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20221117_IoTLT_vol93_kitazaki_v1-1.pdf (Ayachika Kitazaki)</title>
+        <link>https://www.slideshare.net/kitazaki/20221117iotltvol93kitazakiv11pdf</link>
+        <dc:date>2022-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LINEビーコンで無限プッシュなメンヘラ女子BOT #iotlt #esp32 #linedc (n0bisuke)</title>
+        <link>https://speakerdeck.com/n0bisuke2/linebikondewu-xian-putusiyunamenherabot-number-iotlt-number-esp32-number-linedc</link>
+        <dc:date>2022-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>組織と技術の両輪で開発を加速させるkintoneチームの取り組み / JJUG CCC 2022 Fall Cybozu kintone (Ken Hamada)</title>
+        <link>https://speakerdeck.com/itchyny/jjug-ccc-2022-fall-cybozu-kintone</link>
+        <dc:date>2022-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JavaScript Testing Framework: Under the Hood(JSConfJP2022) (戸上義章)</title>
         <link>https://speakerdeck.com/yoshiaki_togami/javascript-testing-framework-under-the-hood-jsconfjp2022</link>
         <dc:date>2022-11-28T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>Hands-on Native ESM @ JSConf JP 2022 (Masaki Hara)</title>
         <link>https://speakerdeck.com/qnighy/hands-on-native-esm-at-jsconf-jp-2022</link>
-        <dc:date>2022-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Small Tips to use Bun with WebSocket Server and  WebAssembly Modules (mganeko)</title>
-        <link>https://speakerdeck.com/mganeko/small-tips-to-use-bun-with-websocket-server-and-webassembly-modules</link>
-        <dc:date>2022-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Javaの入門が終わったら何の勉強をすればいいの？ / what should we study after language (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/what-should-we-study-after-language</link>
-        <dc:date>2022-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web Runtime (dynamis)</title>
-        <link>https://speakerdeck.com/dynamis/web-runtime</link>
-        <dc:date>2022-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「プロダクトとユーザーをつなぐ」BtoB SaaSデザインの面白さ (sizucca)</title>
-        <link>https://speakerdeck.com/sizucca/b2b-saas-design-andpad-20221126</link>
-        <dc:date>2022-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドエコシステムで効率化する組織開発 (okmttdhr)</title>
-        <link>https://speakerdeck.com/okmttdhr/hurontoendoekosisutemudexiao-lu-hua-suruzu-zhi-kai-fa</link>
         <dc:date>2022-11-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
