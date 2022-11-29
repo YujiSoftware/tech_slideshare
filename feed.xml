@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ECMAScript仕様書を誰でも読めるようにする技術を求めて</title>
+        <link>https://docs.google.com/presentation/d/1ZxLH48-HVYUNfU--Byeweyu3Tzho3F7caNghGsBFkyw/preview</link>
+        <dc:date>2022-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模ImageOptimizer利用案件から学ぶ　安心安全のCDN移行 / Fastly yamagoya 2022 (kakerukaeru)</title>
         <link>https://speakerdeck.com/kakerukaeru/fastly-yamagoya-2022</link>
         <dc:date>2022-11-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>opnizのご紹介 ver2 (田中みそ)</title>
         <link>https://speakerdeck.com/miso/opnizfalsegoshao-jie-ver2</link>
-        <dc:date>2022-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サウナIoTのための最初の0.1歩   (kido)</title>
-        <link>https://speakerdeck.com/9wick/saunaiotfalsetamefalsezui-chu-false0-dot-1bu</link>
         <dc:date>2022-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
