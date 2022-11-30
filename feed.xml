@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VPoEとして1年 もっとこうすればよかった3選 / VPoE Retrospective (konifar)</title>
+        <link>https://speakerdeck.com/konifar/vpoe-retrospective</link>
+        <dc:date>2022-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オプショナルチェーンができるまで　〜仕様と実装〜</title>
         <link>https://docs.google.com/presentation/d/1PEvXoQDTLAoZIQmFl_scq84ZnKhLHjeQuOZ45NSruXI/preview</link>
         <dc:date>2022-11-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>M5Stamp Pico を UIFlow で動かしてみる（＋最近やってみたことの一部を紹介） / IoTLT vol.79 (you（@youtoy）)</title>
         <link>https://speakerdeck.com/you/iotlt-vol-dot-79</link>
-        <dc:date>2022-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゆるくはじめるハードウェア製作 (SuzukIoT)</title>
-        <link>https://speakerdeck.com/suzukiot/yurukuhazimeruhadoueazhi-zuo</link>
         <dc:date>2022-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
