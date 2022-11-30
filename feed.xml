@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>XP入門と私 / Introduction_of_extream_programming_and_I (Atsushi Fukui)</title>
+        <link>https://speakerdeck.com/fatsushi/introduction-of-extream-programming-and-i</link>
+        <dc:date>2022-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>年末ですし、今年のRustの進捗の話をしましょう (Yuki Toyoda)</title>
         <link>https://speakerdeck.com/helloyuk13/nian-mo-desusi-jin-nian-norustnojin-bu-nohua-wosimasiyou</link>
         <dc:date>2022-11-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>実装の引き出しを増やすためのDOM Eventテクニック</title>
         <link>https://docs.google.com/presentation/d/1rXzTVLYx1Idh46IGY51RTLBp-6TH43wmzulj3njd_5I/preview</link>
-        <dc:date>2022-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【LT】Node-REDを使ってZoom会議を作成する (Hayate.H)</title>
-        <link>https://speakerdeck.com/hayate_h/lt-node-redwoshi-tutezoomhui-yi-wozuo-cheng-suru</link>
         <dc:date>2022-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
