@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DoWhyとEconMLによる因果推論の実装 (Shingo Uto)</title>
+        <link>https://speakerdeck.com/s1ok69oo/dowhytoeconmlniyoruyin-guo-tui-lun-noshi-zhuang</link>
+        <dc:date>2022-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【Quollio】メタデータ・マネジメント入門 (Quollio)</title>
+        <link>https://speakerdeck.com/rytmq/20221205</link>
+        <dc:date>2022-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Logrageの次を考える — Ruby on Railsがデフォルトで出力するログの謎に迫る</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vT7IpjvurfAeEatc0Nlq-eC9SXsmJcktxKBragCScJrfhCbudYKnOLtdHBchsqfK7EveHEE2bQS3UKf/pub</link>
         <dc:date>2022-11-30T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>カンファレンス主催者から見た プロポーザルを通すコツ / How to hack the CfP (HASEGAWA Tomoki)</title>
         <link>https://speakerdeck.com/tomzoh/how-to-hack-the-cfp</link>
-        <dc:date>2022-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nx、Axonを楽しむための前説 (nako@9時間睡眠)</title>
-        <link>https://speakerdeck.com/nako_sleep_9h/nx-axonwole-simutamenoqian-shuo</link>
-        <dc:date>2022-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Livebookを楽しむための前説 (nako@9時間睡眠)</title>
-        <link>https://speakerdeck.com/nako_sleep_9h/livebookwole-simutamenoqian-shuo</link>
         <dc:date>2022-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
