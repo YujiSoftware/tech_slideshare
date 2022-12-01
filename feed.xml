@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kurashiru Brand Guideline (dely)</title>
+        <link>https://speakerdeck.com/delyinc/kurashiru-brand-guideline</link>
+        <dc:date>2022-12-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIハイパーパラメータ調整VS教師データ品質 目次のみ (サイエンスパークの勉強会)</title>
         <link>https://www.docswell.com/s/study-group-spc/Z8JMXZ-SP2212-E01</link>
         <dc:date>2022-11-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>組織と技術の両輪で開発を加速させるkintoneチームの取り組み / JJUG CCC 2022 Fall Cybozu kintone (Ken Hamada)</title>
         <link>https://speakerdeck.com/itchyny/jjug-ccc-2022-fall-cybozu-kintone</link>
-        <dc:date>2022-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JavaScript Testing Framework: Under the Hood(JSConfJP2022) (戸上義章)</title>
-        <link>https://speakerdeck.com/yoshiaki_togami/javascript-testing-framework-under-the-hood-jsconfjp2022</link>
         <dc:date>2022-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
