@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Logrageの次を考える — Ruby on Railsがデフォルトで出力するログの謎に迫る</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vT7IpjvurfAeEatc0Nlq-eC9SXsmJcktxKBragCScJrfhCbudYKnOLtdHBchsqfK7EveHEE2bQS3UKf/pub</link>
+        <dc:date>2022-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>バンドルカードの クレジットカード決済システムの 泥臭い運用 (Hiroaki Sano)</title>
         <link>https://speakerdeck.com/hiroakis/bandorukadono-kurezitutokadojue-ji-sisutemuno-ni-chou-iyun-yong</link>
         <dc:date>2022-11-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Livebookを楽しむための前説 (nako@9時間睡眠)</title>
         <link>https://speakerdeck.com/nako_sleep_9h/livebookwole-simutamenoqian-shuo</link>
-        <dc:date>2022-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Livebook＋Nx＋AxonではじめるElixir AI・ML入門 (piacerex)</title>
-        <link>https://speakerdeck.com/piacerex/livebook-plus-nx-plus-axondehazimeruelixir-aimlru-men</link>
         <dc:date>2022-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
