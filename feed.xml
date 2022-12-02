@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RubyとRailsの何が強いのか (Akinori MUSHA)</title>
+        <link>https://speakerdeck.com/knu/rubytorailsnohe-kaqiang-inoka</link>
+        <dc:date>2022-12-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Advice for Ruby beginners (Takumi Shotoku)</title>
         <link>https://speakerdeck.com/sinsoku/advice-for-ruby-beginners</link>
         <dc:date>2022-12-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Treasure Data TechTalk 2022 - TD CDP in 30 minutes (Minero Aoki)</title>
         <link>https://speakerdeck.com/aamine/treasure-data-techtalk-2022-td-cdp-in-30-minutes</link>
-        <dc:date>2022-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20221117LEDPanel</title>
-        <link>https://docs.google.com/presentation/d/1mB0kjD-H7b-nJdd-X1oKCyKKMuWZu4OB0aRcYUPLsKo/preview</link>
         <dc:date>2022-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
