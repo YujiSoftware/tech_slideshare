@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【入門】モバイルアプリ開発とは？～よくある困りごとや開発パターンをご紹介～ (ニフクラ mobile backend)</title>
+        <link>https://www.slideshare.net/mobilebackend/ss-253196950</link>
+        <dc:date>2022-12-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Tech Dojo OpenShift-S2I handson (NoriMuraZ)</title>
         <link>https://speakerdeck.com/norimuraz/tech-dojo-openshift-s2ihanzuon</link>
         <dc:date>2022-12-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20221117_IoTLT_vol93_kitazaki_v1-1.pdf (Ayachika Kitazaki)</title>
         <link>https://www.slideshare.net/kitazaki/20221117iotltvol93kitazakiv11pdf</link>
-        <dc:date>2022-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINEビーコンで無限プッシュなメンヘラ女子BOT #iotlt #esp32 #linedc (n0bisuke)</title>
-        <link>https://speakerdeck.com/n0bisuke2/linebikondewu-xian-putusiyunamenherabot-number-iotlt-number-esp32-number-linedc</link>
         <dc:date>2022-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
