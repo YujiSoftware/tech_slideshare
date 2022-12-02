@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Advice for Ruby beginners (Takumi Shotoku)</title>
+        <link>https://speakerdeck.com/sinsoku/advice-for-ruby-beginners</link>
+        <dc:date>2022-12-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アジャイル品質のパターンとメトリクス (washizaki)</title>
         <link>https://speakerdeck.com/washizaki/aziyairupin-zhi-nopatantometorikusu</link>
         <dc:date>2022-12-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20221117LEDPanel</title>
         <link>https://docs.google.com/presentation/d/1mB0kjD-H7b-nJdd-X1oKCyKKMuWZu4OB0aRcYUPLsKo/preview</link>
-        <dc:date>2022-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>M5GHI (Ryota Ikeuchi)</title>
-        <link>https://speakerdeck.com/ryotaikeuchi0/m5ghi</link>
         <dc:date>2022-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
