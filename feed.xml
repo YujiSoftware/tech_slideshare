@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Enjoy the Web (Kazunari Hara)</title>
+        <link>https://speakerdeck.com/herablog/enjoy-the-web</link>
+        <dc:date>2022-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Reactのトレンドよくわからん (Yuka O’oka)</title>
         <link>https://speakerdeck.com/oukayuka/reactnotorentoyokuwakaran</link>
         <dc:date>2022-12-02T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>バンドルカードの クレジットカード決済システムの 泥臭い運用 (Hiroaki Sano)</title>
         <link>https://speakerdeck.com/hiroakis/bandorukadono-kurezitutokadojue-ji-sisutemuno-ni-chou-iyun-yong</link>
         <dc:date>2022-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>XP入門と私 / Introduction_of_extream_programming_and_I (Atsushi Fukui)</title>
-        <link>https://speakerdeck.com/fatsushi/introduction-of-extream-programming-and-i</link>
-        <dc:date>2022-11-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
