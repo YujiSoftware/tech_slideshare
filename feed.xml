@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Software Architecture: The Hard Parts (Shigeru UCHIYAMA)</title>
+        <link>https://speakerdeck.com/suchi/software-architecture-the-hard-parts</link>
+        <dc:date>2022-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>蔵書管理アプリを作り直した (Tiny Mouse)</title>
+        <link>https://speakerdeck.com/tinymouse/zang-shu-guan-li-apuriwozuo-rizhi-sita</link>
+        <dc:date>2022-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>指数の裏側 (けんご)</title>
         <link>https://speakerdeck.com/tkengo/zhi-shu-falseli-ce</link>
         <dc:date>2022-12-02T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ECMAScript仕様書を誰でも読めるようにする技術を求めて</title>
         <link>https://docs.google.com/presentation/d/1ZxLH48-HVYUNfU--Byeweyu3Tzho3F7caNghGsBFkyw/preview</link>
-        <dc:date>2022-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模ImageOptimizer利用案件から学ぶ　安心安全のCDN移行 / Fastly yamagoya 2022 (kakerukaeru)</title>
-        <link>https://speakerdeck.com/kakerukaeru/fastly-yamagoya-2022</link>
-        <dc:date>2022-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Serverless_Type_WEB_Application_Delivery_Platform</title>
-        <link>https://docs.google.com/presentation/d/1Cq8yU0WNWAvXgPpRGFf16ZAvSnhhNVeDBaU35lTaFhQ/preview</link>
         <dc:date>2022-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
