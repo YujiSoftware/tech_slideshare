@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>runnによるAPIのシナリオテストの導入と自動化 / stac2022 (Ken’ichiro Oyama)</title>
+        <link>https://speakerdeck.com/k1low/stac2022</link>
+        <dc:date>2022-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PWA開発を基礎からおさらい / PWA Night CONFERENCE 2022 (Chinen)</title>
+        <link>https://speakerdeck.com/chinen/pwa-night-conference-2022</link>
+        <dc:date>2022-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>後悔しないデザインシステムの始め方 (takanorip)</title>
+        <link>https://speakerdeck.com/takanorip/hou-hui-sinaidezainsisutemunoshi-mefang</link>
+        <dc:date>2022-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>グルーミングしながら進めるプロダクト開発 (Takafumi ONAKA,@onk)</title>
         <link>https://www.slideshare.net/takafumionaka/ss-251487630</link>
         <dc:date>2022-12-02T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>年末ですし、今年のRustの進捗の話をしましょう (Yuki Toyoda)</title>
         <link>https://speakerdeck.com/helloyuk13/nian-mo-desusi-jin-nian-norustnojin-bu-nohua-wosimasiyou</link>
         <dc:date>2022-11-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VPoEとして1年 もっとこうすればよかった3選 / VPoE Retrospective (konifar)</title>
-        <link>https://speakerdeck.com/konifar/vpoe-retrospective</link>
-        <dc:date>2022-11-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オプショナルチェーンができるまで　〜仕様と実装〜</title>
-        <link>https://docs.google.com/presentation/d/1PEvXoQDTLAoZIQmFl_scq84ZnKhLHjeQuOZ45NSruXI/preview</link>
-        <dc:date>2022-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアアーキテクチャ・ ハードパーツ: Software Architecture The Hard Parts (Koji SHIMADA)</title>
-        <link>https://speakerdeck.com/snoozer05/20221129-software-architecture-the-hard-parts</link>
-        <dc:date>2022-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
