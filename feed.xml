@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Excelを扱うRubyGemまとめ 2022 (Keita Mohri)</title>
+        <link>https://speakerdeck.com/ktam1219/excelwoxi-urubygemmatome-2022</link>
+        <dc:date>2022-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Next.jsチョットデキル！サイトの規模やページ特性に合わせた開発テクニック (hanetsuki)</title>
         <link>https://speakerdeck.com/hanetsuki/next-dot-jstiyotutodekiru-saitonogui-mo-yapezite-xing-nihe-wasetakai-fa-tekunituku</link>
         <dc:date>2022-12-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DoWhyとEconMLによる因果推論の実装 (Shingo Uto)</title>
         <link>https://speakerdeck.com/s1ok69oo/dowhytoeconmlniyoruyin-guo-tui-lun-noshi-zhuang</link>
-        <dc:date>2022-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【Quollio】メタデータ・マネジメント入門 (Quollio)</title>
-        <link>https://speakerdeck.com/rytmq/20221205</link>
         <dc:date>2022-11-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
