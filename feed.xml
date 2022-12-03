@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Reactのトレンドよくわからん (Yuka O’oka)</title>
+        <link>https://speakerdeck.com/oukayuka/reactnotorentoyokuwakaran</link>
+        <dc:date>2022-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>runnによるAPIのシナリオテストの導入と自動化 / stac2022 (Ken’ichiro Oyama)</title>
         <link>https://speakerdeck.com/k1low/stac2022</link>
         <dc:date>2022-12-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>XP入門と私 / Introduction_of_extream_programming_and_I (Atsushi Fukui)</title>
         <link>https://speakerdeck.com/fatsushi/introduction-of-extream-programming-and-i</link>
-        <dc:date>2022-11-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>年末ですし、今年のRustの進捗の話をしましょう (Yuki Toyoda)</title>
-        <link>https://speakerdeck.com/helloyuk13/nian-mo-desusi-jin-nian-norustnojin-bu-nohua-wosimasiyou</link>
         <dc:date>2022-11-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
