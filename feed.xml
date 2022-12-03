@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>グルーミングしながら進めるプロダクト開発 (Takafumi ONAKA,@onk)</title>
+        <link>https://www.slideshare.net/takafumionaka/ss-251487630</link>
+        <dc:date>2022-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Software Architecture: The Hard Parts (Shigeru UCHIYAMA)</title>
         <link>https://speakerdeck.com/suchi/software-architecture-the-hard-parts</link>
         <dc:date>2022-12-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェアアーキテクチャ・ ハードパーツ: Software Architecture The Hard Parts (Koji SHIMADA)</title>
         <link>https://speakerdeck.com/snoozer05/20221129-software-architecture-the-hard-parts</link>
-        <dc:date>2022-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ECMAScript仕様書を誰でも読めるようにする技術を求めて</title>
-        <link>https://docs.google.com/presentation/d/1ZxLH48-HVYUNfU--Byeweyu3Tzho3F7caNghGsBFkyw/preview</link>
         <dc:date>2022-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
