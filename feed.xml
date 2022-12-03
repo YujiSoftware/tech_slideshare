@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>システム開発の基礎〜システム開発の全体像を捉えるV字モデル (haru860)</title>
+        <link>https://speakerdeck.com/haru860/sisutemukai-fa-noji-chu-sisutemukai-fa-noquan-ti-xiang-wozhuo-eruvzi-moderu</link>
+        <dc:date>2022-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Excelを扱うRubyGemまとめ 2022 (Keita Mohri)</title>
         <link>https://speakerdeck.com/ktam1219/excelwoxi-urubygemmatome-2022</link>
         <dc:date>2022-12-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIハイパーパラメータ調整VS教師データ品質 目次のみ (サイエンスパークの勉強会)</title>
         <link>https://www.docswell.com/s/study-group-spc/Z8JMXZ-SP2212-E01</link>
-        <dc:date>2022-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DoWhyとEconMLによる因果推論の実装 (Shingo Uto)</title>
-        <link>https://speakerdeck.com/s1ok69oo/dowhytoeconmlniyoruyin-guo-tui-lun-noshi-zhuang</link>
         <dc:date>2022-11-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
