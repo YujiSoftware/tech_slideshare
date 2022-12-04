@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Dojo_Azureでも高速データウェアハウスはNetezza__20221129_配布用.pdf (Kazutaka Yamasaki)</title>
+        <link>https://speakerdeck.com/yamasakk/dojo-azuredemogao-su-detaueahausuhanetezza-20221129-pei-bu-yong</link>
+        <dc:date>2022-12-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Elasticsearch勉強会_NLPQA.pptx (shinhiguchi)</title>
         <link>https://www.slideshare.net/shinhiguchi/elasticsearchnlpqapptx</link>
         <dc:date>2022-12-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Tech Dojo OpenShift-S2I handson (NoriMuraZ)</title>
         <link>https://speakerdeck.com/norimuraz/tech-dojo-openshift-s2ihanzuon</link>
-        <dc:date>2022-12-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kurashiru Brand Guideline (dely)</title>
-        <link>https://speakerdeck.com/delyinc/kurashiru-brand-guideline</link>
         <dc:date>2022-12-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
