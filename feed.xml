@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LINE NEWSにおけるJava移行の5年間の歩みとこれから / Five Years of Java Migration and the Future of LINE NEWS (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/five-years-of-java-migration-and-the-future-of-line-news</link>
+        <dc:date>2022-12-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RailsGirls から始める エンジニアリングはじめの一歩 (Hiroshi SHIBATA,@hsbt)</title>
         <link>https://www.slideshare.net/hsbt/railsgirls-254696400</link>
         <dc:date>2022-12-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RubyとRailsの何が強いのか (Akinori MUSHA)</title>
         <link>https://speakerdeck.com/knu/rubytorailsnohe-kaqiang-inoka</link>
-        <dc:date>2022-12-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Advice for Ruby beginners (Takumi Shotoku)</title>
-        <link>https://speakerdeck.com/sinsoku/advice-for-ruby-beginners</link>
         <dc:date>2022-12-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
