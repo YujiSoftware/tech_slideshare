@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RailsGirls から始める エンジニアリングはじめの一歩 (Hiroshi SHIBATA,@hsbt)</title>
+        <link>https://www.slideshare.net/hsbt/railsgirls-254696400</link>
+        <dc:date>2022-12-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Win-Macドライバ開発その2 (サイエンスパークの勉強会)</title>
         <link>https://www.docswell.com/s/study-group-spc/5DP6G5-SP2211-E42</link>
         <dc:date>2022-12-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Advice for Ruby beginners (Takumi Shotoku)</title>
         <link>https://speakerdeck.com/sinsoku/advice-for-ruby-beginners</link>
-        <dc:date>2022-12-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイル品質のパターンとメトリクス (washizaki)</title>
-        <link>https://speakerdeck.com/washizaki/aziyairupin-zhi-nopatantometorikusu</link>
         <dc:date>2022-12-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
