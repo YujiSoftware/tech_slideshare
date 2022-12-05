@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Win-Macドライバ開発その2 (サイエンスパークの勉強会)</title>
+        <link>https://www.docswell.com/s/study-group-spc/5DP6G5-SP2211-E42</link>
+        <dc:date>2022-12-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIハイパーパラメータ調整VS教師データ品質 (サイエンスパークの勉強会)</title>
+        <link>https://www.docswell.com/s/study-group-spc/ZXRQPZ-SP2212-E01</link>
+        <dc:date>2022-12-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Dojo_Azureでも高速データウェアハウスはNetezza__20221129_配布用.pdf (Kazutaka Yamasaki)</title>
         <link>https://speakerdeck.com/yamasakk/dojo-azuredemogao-su-detaueahausuhanetezza-20221129-pei-bu-yong</link>
         <dc:date>2022-12-04T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>アジャイル品質のパターンとメトリクス (washizaki)</title>
         <link>https://speakerdeck.com/washizaki/aziyairupin-zhi-nopatantometorikusu</link>
-        <dc:date>2022-12-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【入門】モバイルアプリ開発とは？～よくある困りごとや開発パターンをご紹介～ (ニフクラ mobile backend)</title>
-        <link>https://www.slideshare.net/mobilebackend/ss-253196950</link>
-        <dc:date>2022-12-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tech Dojo OpenShift-S2I handson (NoriMuraZ)</title>
-        <link>https://speakerdeck.com/norimuraz/tech-dojo-openshift-s2ihanzuon</link>
         <dc:date>2022-12-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
