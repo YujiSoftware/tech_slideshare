@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ECS Service Connectによるサービスの新しいつなぎ方 / A new way to connect services with ECS Service Connect (iselegant)</title>
+        <link>https://speakerdeck.com/iselegant/a-new-way-to-connect-services-with-ecs-service-connect</link>
+        <dc:date>2022-12-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIの言う通りにやったら Webアプリが作れるのか試してみた (ChatGPT) (thori)</title>
         <link>https://speakerdeck.com/t_pori418/ainoyan-utong-riniyatutara-webapurigazuo-rerunokashi-sitemita-chatgpt</link>
         <dc:date>2022-12-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>蔵書管理アプリを作り直した (Tiny Mouse)</title>
         <link>https://speakerdeck.com/tinymouse/zang-shu-guan-li-apuriwozuo-rizhi-sita</link>
-        <dc:date>2022-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>指数の裏側 (けんご)</title>
-        <link>https://speakerdeck.com/tkengo/zhi-shu-falseli-ce</link>
         <dc:date>2022-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
