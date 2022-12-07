@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Alternative to Storybook を探す旅 (grgr-dkrk)</title>
+        <link>https://speakerdeck.com/grgrdkrk/alternative-to-storybook-wotan-sulu</link>
+        <dc:date>2022-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>An introduction to the LibJS JavaScript engine</title>
         <link>https://docs.google.com/presentation/d/1-chE3GTNFnNRwZqk4Bf3GCPV_nINfKG-NUTM4IeEnVc/preview</link>
         <dc:date>2022-12-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>runnによるAPIのシナリオテストの導入と自動化 / stac2022 (Ken’ichiro Oyama)</title>
         <link>https://speakerdeck.com/k1low/stac2022</link>
-        <dc:date>2022-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PWA開発を基礎からおさらい / PWA Night CONFERENCE 2022 (Chinen)</title>
-        <link>https://speakerdeck.com/chinen/pwa-night-conference-2022</link>
         <dc:date>2022-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
