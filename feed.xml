@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20220929-abceed-tech-night.pptx</title>
+        <link>https://docs.google.com/presentation/d/1NXzKDbqRIKVX42tuCmqsBRdoL7asU3yp/preview</link>
+        <dc:date>2022-12-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Xcode Cloudの評価 (Kishikawa Katsumi)</title>
+        <link>https://speakerdeck.com/kishikawakatsumi/xcode-cloudnoping-jia</link>
+        <dc:date>2022-12-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>複業メンバーと共に創るカウシェ (Katsuya Kato)</title>
+        <link>https://speakerdeck.com/katsuyax/kauche-2022-09-29-80fbd9b9-58a1-47c1-9210-9cda2f873138</link>
+        <dc:date>2022-12-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発チーム主導で iOSの新機能に対応する 3つのポイント (Koji Wakamiya)</title>
+        <link>https://speakerdeck.com/d_r_1009/kai-fa-timuzhu-dao-de-iosnoxin-ji-neng-nidui-ying-suru-3tunopointo</link>
+        <dc:date>2022-12-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発支援のための組織体制 〜ゆめみの情報共有と成長環境〜 / abceed Tech Night yumemi (USAMI Kosuke)</title>
+        <link>https://speakerdeck.com/usamik26/abceed-tech-night-yumemi</link>
+        <dc:date>2022-12-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Well-Architectedを再度学習して内容をまとめてみる②/well-architected2 (Toru_Kubota)</title>
         <link>https://speakerdeck.com/toru_kubota/well-architected2</link>
         <dc:date>2022-12-07T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>AIハイパーパラメータ調整VS教師データ品質 (サイエンスパークの勉強会)</title>
         <link>https://www.docswell.com/s/study-group-spc/ZXRQPZ-SP2212-E01</link>
         <dc:date>2022-12-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dojo_Azureでも高速データウェアハウスはNetezza__20221129_配布用.pdf (Kazutaka Yamasaki)</title>
-        <link>https://speakerdeck.com/yamasakk/dojo-azuredemogao-su-detaueahausuhanetezza-20221129-pei-bu-yong</link>
-        <dc:date>2022-12-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Elasticsearch勉強会_NLPQA.pptx (shinhiguchi)</title>
-        <link>https://www.slideshare.net/shinhiguchi/elasticsearchnlpqapptx</link>
-        <dc:date>2022-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>システム開発の基礎〜システム開発の全体像を捉えるV字モデル (haru860)</title>
-        <link>https://speakerdeck.com/haru860/sisutemukai-fa-noji-chu-sisutemukai-fa-noquan-ti-xiang-wozhuo-eruvzi-moderu</link>
-        <dc:date>2022-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Excelを扱うRubyGemまとめ 2022 (Keita Mohri)</title>
-        <link>https://speakerdeck.com/ktam1219/excelwoxi-urubygemmatome-2022</link>
-        <dc:date>2022-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.jsチョットデキル！サイトの規模やページ特性に合わせた開発テクニック (hanetsuki)</title>
-        <link>https://speakerdeck.com/hanetsuki/next-dot-jstiyotutodekiru-saitonogui-mo-yapezite-xing-nihe-wasetakai-fa-tekunituku</link>
-        <dc:date>2022-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
