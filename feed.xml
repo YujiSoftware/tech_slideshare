@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Well-Architectedを再度学習して内容をまとめてみる②/well-architected2 (Toru_Kubota)</title>
+        <link>https://speakerdeck.com/toru_kubota/well-architected2</link>
+        <dc:date>2022-12-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【再学習】リアルガチでCloudWatchを有効活用してますか？ (honma)</title>
+        <link>https://speakerdeck.com/honma12345/zai-xue-xi-riarugatidecloudwatchwoyou-xiao-huo-yong-sitemasuka</link>
+        <dc:date>2022-12-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Engineering Manager in Action (Koichi ITO)</title>
         <link>https://speakerdeck.com/koic/engineering-manager-in-action</link>
         <dc:date>2022-12-07T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Next.jsチョットデキル！サイトの規模やページ特性に合わせた開発テクニック (hanetsuki)</title>
         <link>https://speakerdeck.com/hanetsuki/next-dot-jstiyotutodekiru-saitonogui-mo-yapezite-xing-nihe-wasetakai-fa-tekunituku</link>
-        <dc:date>2022-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webパフォーマンス高速化とこれからのアーキテクチャ (narirou)</title>
-        <link>https://speakerdeck.com/narirou/webpahuomansugao-su-hua-tokorekaranoakitekutiya</link>
-        <dc:date>2022-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Enjoy the Web (Kazunari Hara)</title>
-        <link>https://speakerdeck.com/herablog/enjoy-the-web</link>
         <dc:date>2022-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
