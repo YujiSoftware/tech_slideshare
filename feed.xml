@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Accelerated Computing on AWS for NLP (Takahiro Kubo)</title>
+        <link>https://speakerdeck.com/icoxfog417/accelerated-computing-on-aws-for-nlp</link>
+        <dc:date>2022-12-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20220929-abceed-tech-night.pptx</title>
         <link>https://docs.google.com/presentation/d/1NXzKDbqRIKVX42tuCmqsBRdoL7asU3yp/preview</link>
         <dc:date>2022-12-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Win-Macドライバ開発その2 (サイエンスパークの勉強会)</title>
         <link>https://www.docswell.com/s/study-group-spc/5DP6G5-SP2211-E42</link>
-        <dc:date>2022-12-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIハイパーパラメータ調整VS教師データ品質 (サイエンスパークの勉強会)</title>
-        <link>https://www.docswell.com/s/study-group-spc/ZXRQPZ-SP2212-E01</link>
         <dc:date>2022-12-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
