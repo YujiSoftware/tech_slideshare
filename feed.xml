@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ML開発におけるML PMの関わり方事例 (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/examples-of-ml-pm-involvement-in-ml-development</link>
+        <dc:date>2022-12-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マネジメント3.0モデル入門（120分版） (Taku Fujii)</title>
         <link>https://speakerdeck.com/takufujii/management-3-dot-0-moderufalseetusensu-qian-bian</link>
         <dc:date>2022-12-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>テスト自動化で起業した10年とテスト自動化普及の歴史を振り返る (Nozomi Ito)</title>
         <link>https://speakerdeck.com/nozomiito/tesutozi-dong-hua-deqi-ye-sita10nian-to-tesutozi-dong-hua-pu-ji-noli-shi-wozhen-rifan-ru</link>
-        <dc:date>2022-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ECS Service Connectによるサービスの新しいつなぎ方 / A new way to connect services with ECS Service Connect (iselegant)</title>
-        <link>https://speakerdeck.com/iselegant/a-new-way-to-connect-services-with-ecs-service-connect</link>
         <dc:date>2022-12-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
