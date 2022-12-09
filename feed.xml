@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CSS Grid・Flexboxの 最近の進化とミライ (tonkotsuboy_com)</title>
+        <link>https://speakerdeck.com/tonkotsuboy_com/css-gridflexboxno-zui-jin-nojin-hua-tomirai</link>
+        <dc:date>2022-12-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DMMプラットフォームを支える負荷試験基盤 (yuyu_hf)</title>
         <link>https://speakerdeck.com/yuyu_hf/cndt-2022-dmm-load-testing-platform-for-dmm-platform</link>
         <dc:date>2022-12-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Active Learning の基礎と最近の研究 (Fumihiko Takahashi)</title>
         <link>https://www.slideshare.net/ssuser369dbc/active-learning-254632974</link>
-        <dc:date>2022-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hive Distributed Profiling System in Treasure Data - Japanese version #tdtechtalk (okumin)</title>
-        <link>https://speakerdeck.com/okumin/hive-distributed-profiling-system-in-treasure-data-japanese-version-number-tdtechtalk</link>
         <dc:date>2022-12-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
