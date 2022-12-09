@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DMMプラットフォームを支える負荷試験基盤 (yuyu_hf)</title>
+        <link>https://speakerdeck.com/yuyu_hf/cndt-2022-dmm-load-testing-platform-for-dmm-platform</link>
+        <dc:date>2022-12-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ML開発におけるML PMの関わり方事例 (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/examples-of-ml-pm-involvement-in-ml-development</link>
         <dc:date>2022-12-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Hive Distributed Profiling System in Treasure Data - Japanese version #tdtechtalk (okumin)</title>
         <link>https://speakerdeck.com/okumin/hive-distributed-profiling-system-in-treasure-data-japanese-version-number-tdtechtalk</link>
-        <dc:date>2022-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスト自動化で起業した10年とテスト自動化普及の歴史を振り返る (Nozomi Ito)</title>
-        <link>https://speakerdeck.com/nozomiito/tesutozi-dong-hua-deqi-ye-sita10nian-to-tesutozi-dong-hua-pu-ji-noli-shi-wozhen-rifan-ru</link>
         <dc:date>2022-12-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
