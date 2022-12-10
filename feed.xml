@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSにおけるコンテナサービスの変化と利用ユーザに求められることとは？ (yoshitaka KOITABASHI)</title>
+        <link>https://speakerdeck.com/yoshiitaka/awsniokerukontenasabisunobian-hua-to-li-yong-yuzaniqiu-merarerukototoha</link>
+        <dc:date>2022-12-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[AWSあるある] 外部公開用FTPサーバ構築パターン (AWS_Aruaru)</title>
         <link>https://speakerdeck.com/aws_aruaru/awsaruaru-wai-bu-gong-kai-yong-ftpsabagou-zhu-patan</link>
         <dc:date>2022-12-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Alternative to Storybook を探す旅 (grgr-dkrk)</title>
         <link>https://speakerdeck.com/grgrdkrk/alternative-to-storybook-wotan-sulu</link>
-        <dc:date>2022-12-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>An introduction to the LibJS JavaScript engine</title>
-        <link>https://docs.google.com/presentation/d/1-chE3GTNFnNRwZqk4Bf3GCPV_nINfKG-NUTM4IeEnVc/preview</link>
         <dc:date>2022-12-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
