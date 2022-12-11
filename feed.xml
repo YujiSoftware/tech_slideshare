@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データ活用をするための組織 (Kon Yuichi)</title>
+        <link>https://www.slideshare.net/KonYuichi/ss-254846347</link>
+        <dc:date>2022-12-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSにおけるコンテナサービスの変化と利用ユーザに求められることとは？ (yoshitaka KOITABASHI)</title>
         <link>https://speakerdeck.com/yoshiitaka/awsniokerukontenasabisunobian-hua-to-li-yong-yuzaniqiu-merarerukototoha</link>
         <dc:date>2022-12-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>[re:Invent 2022][Fin-JAWS #29]現地参加のみなさんがキラキラアップデートに目がくらんでいるスキに渋いアップデートをキャッチアップ!! (Yuta Kimi)</title>
         <link>https://speakerdeck.com/ykimi/re-invent-2022-fin-jaws-number-29-xian-di-can-jia-nominasangakirakiraatupudetoni-mu-gakurandeirusukinishibui-iatupudetowo-kiyatutiatupu</link>
         <dc:date>2022-12-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Alternative to Storybook を探す旅 (grgr-dkrk)</title>
-        <link>https://speakerdeck.com/grgrdkrk/alternative-to-storybook-wotan-sulu</link>
-        <dc:date>2022-12-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
