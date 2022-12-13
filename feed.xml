@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>趣味のモルモットK8sクラスタ (Maho Takara)</title>
+        <link>https://www.slideshare.net/MahoTakara/k8s-254875105</link>
+        <dc:date>2022-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ビジネスの文化や価値観を越境するプロダクトビジョン〜UIデザイン (ジーラム,@jeelamuu)</title>
         <link>https://www.docswell.com/s/jeelamuu/594Y7Z-2022-12-09</link>
         <dc:date>2022-12-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Well-Architectedを再度学習して内容をまとめてみる②/well-architected2 (Toru_Kubota)</title>
         <link>https://speakerdeck.com/toru_kubota/well-architected2</link>
-        <dc:date>2022-12-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【再学習】リアルガチでCloudWatchを有効活用してますか？ (honma)</title>
-        <link>https://speakerdeck.com/honma12345/zai-xue-xi-riarugatidecloudwatchwoyou-xiao-huo-yong-sitemasuka</link>
         <dc:date>2022-12-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
