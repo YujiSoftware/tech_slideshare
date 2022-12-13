@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Clojureコレクションで探るimmutableでpersistentな世界 (Kent OHASHI,@lagenorhynque)</title>
+        <link>https://www.docswell.com/s/lagenorhynque/5E3P75-exploring-immutable-persistent-world-with-clojure-collections</link>
+        <dc:date>2022-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JavaでZipper</title>
+        <link>https://docs.google.com/presentation/d/1KIr_fmW4jleRogJHRvsKfxUuu-5op6DE4954BX0Id-A/preview</link>
+        <dc:date>2022-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ElmでVisual Study!!</title>
+        <link>https://docs.google.com/presentation/d/13FXKv1wjU41sXHPcNuCl3DQOexpruv1maB1zIbLg4sY/preview</link>
+        <dc:date>2022-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>趣味のモルモットK8sクラスタ (Maho Takara)</title>
         <link>https://www.slideshare.net/MahoTakara/k8s-254875105</link>
         <dc:date>2022-12-12T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>複業メンバーと共に創るカウシェ (Katsuya Kato)</title>
         <link>https://speakerdeck.com/katsuyax/kauche-2022-09-29-80fbd9b9-58a1-47c1-9210-9cda2f873138</link>
-        <dc:date>2022-12-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発チーム主導で iOSの新機能に対応する 3つのポイント (Koji Wakamiya)</title>
-        <link>https://speakerdeck.com/d_r_1009/kai-fa-timuzhu-dao-de-iosnoxin-ji-neng-nidui-ying-suru-3tunopointo</link>
-        <dc:date>2022-12-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発支援のための組織体制 〜ゆめみの情報共有と成長環境〜 / abceed Tech Night yumemi (USAMI Kosuke)</title>
-        <link>https://speakerdeck.com/usamik26/abceed-tech-night-yumemi</link>
-        <dc:date>2022-12-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Well-Architectedを再度学習して内容をまとめてみる②/well-architected2 (Toru_Kubota)</title>
-        <link>https://speakerdeck.com/toru_kubota/well-architected2</link>
         <dc:date>2022-12-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
