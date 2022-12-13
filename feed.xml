@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Bitvisor Summit 11</title>
+        <link>https://docs.google.com/presentation/d/1AMFvl7mjv1UvAiVPACF4KyMtmg4ZBtuyLmxDez7TzNA/preview</link>
+        <dc:date>2022-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Clojureコレクションで探るimmutableでpersistentな世界 (Kent OHASHI,@lagenorhynque)</title>
         <link>https://www.docswell.com/s/lagenorhynque/5E3P75-exploring-immutable-persistent-world-with-clojure-collections</link>
         <dc:date>2022-12-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Xcode Cloudの評価 (Kishikawa Katsumi)</title>
         <link>https://speakerdeck.com/kishikawakatsumi/xcode-cloudnoping-jia</link>
-        <dc:date>2022-12-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>複業メンバーと共に創るカウシェ (Katsuya Kato)</title>
-        <link>https://speakerdeck.com/katsuyax/kauche-2022-09-29-80fbd9b9-58a1-47c1-9210-9cda2f873138</link>
         <dc:date>2022-12-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
