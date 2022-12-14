@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>機械学習システム開発と運用の落とし穴 (Asei Sugiyama)</title>
+        <link>https://speakerdeck.com/asei/ji-jie-xue-xi-sisutemukai-fa-toyun-yong-noluo-tosixue</link>
+        <dc:date>2022-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Bitvisor Summit 11</title>
         <link>https://docs.google.com/presentation/d/1AMFvl7mjv1UvAiVPACF4KyMtmg4ZBtuyLmxDez7TzNA/preview</link>
         <dc:date>2022-12-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20220929-abceed-tech-night.pptx</title>
         <link>https://docs.google.com/presentation/d/1NXzKDbqRIKVX42tuCmqsBRdoL7asU3yp/preview</link>
-        <dc:date>2022-12-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Xcode Cloudの評価 (Kishikawa Katsumi)</title>
-        <link>https://speakerdeck.com/kishikawakatsumi/xcode-cloudnoping-jia</link>
         <dc:date>2022-12-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
