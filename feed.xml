@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Airflow入門 (takashi oya)</title>
+        <link>https://speakerdeck.com/takashioya/airflowru-men</link>
+        <dc:date>2022-12-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インタビューから見えてきた MLOps のレベルと現場の課題 (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/intabiyukarajian-etekita-mlops-noreberutoxian-chang-noke-ti</link>
         <dc:date>2022-12-14T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>マネジメント3.0モデル入門（120分版） (Taku Fujii)</title>
         <link>https://speakerdeck.com/takufujii/management-3-dot-0-moderufalseetusensu-qian-bian</link>
         <dc:date>2022-12-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>キャチロボのプレゼン(仮置き</title>
-        <link>https://docs.google.com/presentation/d/1hhYtWlwF_20q96NhWxaAMKNCExsH0EBA1qieGaXTlL4/preview</link>
-        <dc:date>2022-12-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
