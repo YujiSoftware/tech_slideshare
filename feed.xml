@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20221215_EIoTLT_vol18_kitazaki_v1.pdf (Ayachika Kitazaki)</title>
+        <link>https://www.slideshare.net/kitazaki/20221215eiotltvol18kitazakiv1pdf</link>
+        <dc:date>2022-12-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Airflow入門 (takashi oya)</title>
         <link>https://speakerdeck.com/takashioya/airflowru-men</link>
         <dc:date>2022-12-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ML開発におけるML PMの関わり方事例 (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/examples-of-ml-pm-involvement-in-ml-development</link>
-        <dc:date>2022-12-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マネジメント3.0モデル入門（120分版） (Taku Fujii)</title>
-        <link>https://speakerdeck.com/takufujii/management-3-dot-0-moderufalseetusensu-qian-bian</link>
         <dc:date>2022-12-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
