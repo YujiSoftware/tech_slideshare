@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Activities about Kubernetes operation improvements as an SRE (Drumato)</title>
+        <link>https://speakerdeck.com/drumato/activities-about-kubernetes-operation-improvements-as-an-sre</link>
+        <dc:date>2022-12-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IEC61131-3_Ed3_オブジェクト指向FB.pdf (ssuserdc9318)</title>
         <link>https://www.slideshare.net/ssuserdc9318/iec611313ed3fbpdf</link>
         <dc:date>2022-12-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CSS Grid・Flexboxの 最近の進化とミライ (tonkotsuboy_com)</title>
         <link>https://speakerdeck.com/tonkotsuboy_com/css-gridflexboxno-zui-jin-nojin-hua-tomirai</link>
-        <dc:date>2022-12-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DMMプラットフォームを支える負荷試験基盤 (yuyu_hf)</title>
-        <link>https://speakerdeck.com/yuyu_hf/cndt-2022-dmm-load-testing-platform-for-dmm-platform</link>
         <dc:date>2022-12-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
