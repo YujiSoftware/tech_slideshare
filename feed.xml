@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>見せてやるよ、 EventBridge の本気ってやつをな / The art of EventBridge (kensh)</title>
+        <link>https://speakerdeck.com/_kensh/the-art-of-eventbridge</link>
+        <dc:date>2022-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>わたしたちにIaCはまだ早かったのかもしれない (unilabo)</title>
         <link>https://speakerdeck.com/unilabo/watasitatiniiachamadazao-katutanokamosirenai</link>
         <dc:date>2022-12-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWSにおけるコンテナサービスの変化と利用ユーザに求められることとは？ (yoshitaka KOITABASHI)</title>
         <link>https://speakerdeck.com/yoshiitaka/awsniokerukontenasabisunobian-hua-to-li-yong-yuzaniqiu-merarerukototoha</link>
-        <dc:date>2022-12-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[AWSあるある] 外部公開用FTPサーバ構築パターン (AWS_Aruaru)</title>
-        <link>https://speakerdeck.com/aws_aruaru/awsaruaru-wai-bu-gong-kai-yong-ftpsabagou-zhu-patan</link>
         <dc:date>2022-12-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
