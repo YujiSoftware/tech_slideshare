@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>わたしたちにIaCはまだ早かったのかもしれない (unilabo)</title>
+        <link>https://speakerdeck.com/unilabo/watasitatiniiachamadazao-katutanokamosirenai</link>
+        <dc:date>2022-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Activities about Kubernetes operation improvements as an SRE (Drumato)</title>
         <link>https://speakerdeck.com/drumato/activities-about-kubernetes-operation-improvements-as-an-sre</link>
         <dc:date>2022-12-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>[AWSあるある] 外部公開用FTPサーバ構築パターン (AWS_Aruaru)</title>
         <link>https://speakerdeck.com/aws_aruaru/awsaruaru-wai-bu-gong-kai-yong-ftpsabagou-zhu-patan</link>
         <dc:date>2022-12-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CSS Grid・Flexboxの 最近の進化とミライ (tonkotsuboy_com)</title>
-        <link>https://speakerdeck.com/tonkotsuboy_com/css-gridflexboxno-zui-jin-nojin-hua-tomirai</link>
-        <dc:date>2022-12-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
