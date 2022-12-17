@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Optimizing Electric Journal Subscriptions via Integer Programs (Shunji Umetani)</title>
+        <link>https://speakerdeck.com/umepon/optimizing-electric-journal-subscriptions-via-integer-programs</link>
+        <dc:date>2022-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>中小企業開発事例から見るサーバーレス (shiro seike)</title>
         <link>https://speakerdeck.com/seike460/serverless-from-sme-development-case-studies</link>
         <dc:date>2022-12-17T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ChatGPT 人間のフィードバックから強化学習した対話AI (Shota Imai)</title>
         <link>https://www.slideshare.net/ShotaImai3/chatgpt-254863623</link>
         <dc:date>2022-12-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ活用をするための組織 (Kon Yuichi)</title>
-        <link>https://www.slideshare.net/KonYuichi/ss-254846347</link>
-        <dc:date>2022-12-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
