@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>中小企業開発事例から見るサーバーレス (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/serverless-from-sme-development-case-studies</link>
+        <dc:date>2022-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>見せてやるよ、 EventBridge の本気ってやつをな / The art of EventBridge (kensh)</title>
         <link>https://speakerdeck.com/_kensh/the-art-of-eventbridge</link>
         <dc:date>2022-12-16T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>データ活用をするための組織 (Kon Yuichi)</title>
         <link>https://www.slideshare.net/KonYuichi/ss-254846347</link>
         <dc:date>2022-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSにおけるコンテナサービスの変化と利用ユーザに求められることとは？ (yoshitaka KOITABASHI)</title>
-        <link>https://speakerdeck.com/yoshiitaka/awsniokerukontenasabisunobian-hua-to-li-yong-yuzaniqiu-merarerukototoha</link>
-        <dc:date>2022-12-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
