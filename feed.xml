@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ノートラブルシステムへの道 (Daisuke Yamazaki)</title>
+        <link>https://speakerdeck.com/yamaz/notoraburusisutemuhenodao</link>
+        <dc:date>2022-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BitVisorであやつるコンテナネットワーク/BitVisorSummit11 (Yuki Nakata chikuwait)</title>
         <link>https://speakerdeck.com/chikuwait/bitvisorsummit11</link>
         <dc:date>2022-12-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Clojureコレクションで探るimmutableでpersistentな世界 (Kent OHASHI,@lagenorhynque)</title>
         <link>https://www.docswell.com/s/lagenorhynque/5E3P75-exploring-immutable-persistent-world-with-clojure-collections</link>
-        <dc:date>2022-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JavaでZipper</title>
-        <link>https://docs.google.com/presentation/d/1KIr_fmW4jleRogJHRvsKfxUuu-5op6DE4954BX0Id-A/preview</link>
         <dc:date>2022-12-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
