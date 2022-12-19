@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>はてなリモートインターンシップ2022 インフラ 講義資料 (Hatena)</title>
+        <link>https://speakerdeck.com/hatena/remote-internship-2022-infrastructure</link>
+        <dc:date>2022-12-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>F3rdXへの行き方 (soburi)</title>
         <link>https://speakerdeck.com/tokitahiroshi/f3rdxhenoxing-kifang</link>
         <dc:date>2022-12-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ElmでVisual Study!!</title>
         <link>https://docs.google.com/presentation/d/13FXKv1wjU41sXHPcNuCl3DQOexpruv1maB1zIbLg4sY/preview</link>
-        <dc:date>2022-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>趣味のモルモットK8sクラスタ (Maho Takara)</title>
-        <link>https://www.slideshare.net/MahoTakara/k8s-254875105</link>
         <dc:date>2022-12-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
