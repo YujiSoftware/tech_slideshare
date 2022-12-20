@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Above All, Make It Fun! #fjordbootcamp / make it fun (Shintaro Kakutani)</title>
+        <link>https://speakerdeck.com/kakutani/make-it-fun</link>
+        <dc:date>2022-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ノートラブルシステムへの道 (Daisuke Yamazaki)</title>
         <link>https://speakerdeck.com/yamaz/notoraburusisutemuhenodao</link>
         <dc:date>2022-12-19T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Bitvisor Summit 11</title>
         <link>https://docs.google.com/presentation/d/1AMFvl7mjv1UvAiVPACF4KyMtmg4ZBtuyLmxDez7TzNA/preview</link>
         <dc:date>2022-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Clojureコレクションで探るimmutableでpersistentな世界 (Kent OHASHI,@lagenorhynque)</title>
-        <link>https://www.docswell.com/s/lagenorhynque/5E3P75-exploring-immutable-persistent-world-with-clojure-collections</link>
-        <dc:date>2022-12-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
