@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェアにおける 複雑さとは何なのか? (Yoshitaka Kawashima,@kawasima)</title>
+        <link>https://www.slideshare.net/kawasima/ss-254959681</link>
+        <dc:date>2022-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BigQueryエミュレータの作り方 (Masaaki Goshima)</title>
         <link>https://speakerdeck.com/goccy/bigqueryemiyuretanozuo-rifang</link>
         <dc:date>2022-12-19T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>天下一HTTPRouter武闘会.pdf (bmf_san)</title>
         <link>https://speakerdeck.com/bmf_san/tian-xia-httprouterwu-dou-hui</link>
         <dc:date>2022-12-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習システム開発と運用の落とし穴 (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/ji-jie-xue-xi-sisutemukai-fa-toyun-yong-noluo-tosixue</link>
-        <dc:date>2022-12-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
