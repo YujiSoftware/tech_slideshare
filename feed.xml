@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BigQueryエミュレータの作り方 (Masaaki Goshima)</title>
+        <link>https://speakerdeck.com/goccy/bigqueryemiyuretanozuo-rifang</link>
+        <dc:date>2022-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Above All, Make It Fun! #fjordbootcamp / make it fun (Shintaro Kakutani)</title>
         <link>https://speakerdeck.com/kakutani/make-it-fun</link>
         <dc:date>2022-12-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>機械学習システム開発と運用の落とし穴 (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/ji-jie-xue-xi-sisutemukai-fa-toyun-yong-noluo-tosixue</link>
-        <dc:date>2022-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bitvisor Summit 11</title>
-        <link>https://docs.google.com/presentation/d/1AMFvl7mjv1UvAiVPACF4KyMtmg4ZBtuyLmxDez7TzNA/preview</link>
         <dc:date>2022-12-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
