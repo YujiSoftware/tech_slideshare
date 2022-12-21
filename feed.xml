@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BigQuery と Snowflake を徹底比較 (fetaro)</title>
+        <link>https://speakerdeck.com/fetaro/bigquery-to-snowflake-woche-di-bi-jiao</link>
+        <dc:date>2022-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Nstock 採用資料 / We are hiring (Nstock)</title>
         <link>https://speakerdeck.com/nstock/we-are-hiring</link>
         <dc:date>2022-12-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>インタビューから見えてきた MLOps のレベルと現場の課題 (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/intabiyukarajian-etekita-mlops-noreberutoxian-chang-noke-ti</link>
-        <dc:date>2022-12-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データウェアハウス層は、 最初から作らないで良いって本当？ / churadata-event-dbt-2022 (Jumpei Chikamori)</title>
-        <link>https://speakerdeck.com/pei0804/churadata-event-dbt-2022</link>
         <dc:date>2022-12-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
