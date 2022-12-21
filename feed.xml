@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>技術的負債は開発者体験を悪化させる / Technical Debt and Developer Experience (mtx2s)</title>
+        <link>https://speakerdeck.com/mtx2s/technical-debt-and-developer-experience</link>
+        <dc:date>2022-12-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>企画、要件定義、設計、実装を 一気通貫でつなげて考える システム開発  (haru860)</title>
         <link>https://speakerdeck.com/haru860/qi-hua-yao-jian-ding-yi-she-ji-shi-zhuang-wo-qi-tong-guan-detunagetekao-eru-sisutemukai-fa</link>
         <dc:date>2022-12-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20221215_EIoTLT_vol18_kitazaki_v1.pdf (Ayachika Kitazaki)</title>
         <link>https://www.slideshare.net/kitazaki/20221215eiotltvol18kitazakiv1pdf</link>
-        <dc:date>2022-12-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Airflow入門 (takashi oya)</title>
-        <link>https://speakerdeck.com/takashioya/airflowru-men</link>
         <dc:date>2022-12-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
