@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FBCのご紹介 (komagata)</title>
+        <link>https://speakerdeck.com/komagata/fbcnogoshao-jie</link>
+        <dc:date>2022-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアにおける 複雑さとは何なのか? (Yoshitaka Kawashima,@kawasima)</title>
         <link>https://www.slideshare.net/kawasima/ss-254959681</link>
         <dc:date>2022-12-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>NEMの新バージョンSymbolの今_ビットコインとか勉強会#72_20221208_YasunoriMatsuoka.pdf (Yasunori Matsuoka)</title>
         <link>https://www.slideshare.net/ssuser9084851/nemsymbol7220221208yasunorimatsuokapdf</link>
-        <dc:date>2022-12-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>天下一HTTPRouter武闘会.pdf (bmf_san)</title>
-        <link>https://speakerdeck.com/bmf_san/tian-xia-httprouterwu-dou-hui</link>
         <dc:date>2022-12-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
