@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>睡眠する技術 / Technology to Sleep (Kuniwak)</title>
+        <link>https://speakerdeck.com/orgachem/technology-to-sleep</link>
+        <dc:date>2022-12-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>技術的負債は開発者体験を悪化させる / Technical Debt and Developer Experience (mtx2s)</title>
         <link>https://speakerdeck.com/mtx2s/technical-debt-and-developer-experience</link>
         <dc:date>2022-12-21T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>IEC61131-3_Ed3_オブジェクト指向FB.pdf (ssuserdc9318)</title>
         <link>https://www.slideshare.net/ssuserdc9318/iec611313ed3fbpdf</link>
         <dc:date>2022-12-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20221215_EIoTLT_vol18_kitazaki_v1.pdf (Ayachika Kitazaki)</title>
-        <link>https://www.slideshare.net/kitazaki/20221215eiotltvol18kitazakiv1pdf</link>
-        <dc:date>2022-12-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
