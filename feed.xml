@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>eBPFは何が嬉しいのか？ (Yutaro Hayakawa)</title>
+        <link>https://speakerdeck.com/yutarohayakawa/ebpfhahe-gaxi-siinoka</link>
+        <dc:date>2022-12-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模Unityゲーム開発の設計事例 〜ドメイン駆動設計とDIコンテナを導入した一年を振り返る〜 / cedec2021-ddd (CyberAgent SGE Engineer)</title>
         <link>https://speakerdeck.com/sgeengineer/cedec2021-ddd</link>
         <dc:date>2022-12-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>見せてやるよ、 EventBridge の本気ってやつをな / The art of EventBridge (kensh)</title>
         <link>https://speakerdeck.com/_kensh/the-art-of-eventbridge</link>
-        <dc:date>2022-12-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>わたしたちにIaCはまだ早かったのかもしれない (unilabo)</title>
-        <link>https://speakerdeck.com/unilabo/watasitatiniiachamadazao-katutanokamosirenai</link>
         <dc:date>2022-12-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
