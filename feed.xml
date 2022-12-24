@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[DevDojo] Development processes and Tools at Mercari  (mercari)</title>
+        <link>https://speakerdeck.com/mercari/devdojo-development-processes-and-tools-at-mercari</link>
+        <dc:date>2022-12-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Swift6のprotocol (omochimetaru)</title>
         <link>https://speakerdeck.com/omochi/swift6falseprotocol</link>
         <dc:date>2022-12-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サーバレスでVODとECをリニューアルして、さらにくっつけてみました！ (Kazuki Miura)</title>
         <link>https://speakerdeck.com/miu_crescent/saharesutevodtoecworiniyuarusite-saranikututuketemimasita</link>
-        <dc:date>2022-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Optimizing Electric Journal Subscriptions via Integer Programs (Shunji Umetani)</title>
-        <link>https://speakerdeck.com/umepon/optimizing-electric-journal-subscriptions-via-integer-programs</link>
         <dc:date>2022-12-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
