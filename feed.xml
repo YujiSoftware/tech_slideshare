@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vision Transformer入門をもっと楽しむために (Seitaro Shinagawa)</title>
+        <link>https://speakerdeck.com/sei88888/vision-transformerru-men-womotutole-simutameni</link>
+        <dc:date>2022-12-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[DevDojo] Development processes and Tools at Mercari  (mercari)</title>
         <link>https://speakerdeck.com/mercari/devdojo-development-processes-and-tools-at-mercari</link>
         <dc:date>2022-12-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>F3rdXへの行き方 (soburi)</title>
         <link>https://speakerdeck.com/tokitahiroshi/f3rdxhenoxing-kifang</link>
         <dc:date>2022-12-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバレスでVODとECをリニューアルして、さらにくっつけてみました！ (Kazuki Miura)</title>
-        <link>https://speakerdeck.com/miu_crescent/saharesutevodtoecworiniyuarusite-saranikututuketemimasita</link>
-        <dc:date>2022-12-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
