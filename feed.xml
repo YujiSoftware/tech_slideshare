@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>pg_hint_planを知る（第37回PostgreSQLアンカンファレンス@オンライン 発表資料） (NTT DATA Technology &amp; Innovation)</title>
+        <link>https://www.slideshare.net/nttdata-tech/pghintplan-pgunconf37-nttdata</link>
+        <dc:date>2022-12-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vision Transformer入門をもっと楽しむために (Seitaro Shinagawa)</title>
         <link>https://speakerdeck.com/sei88888/vision-transformerru-men-womotutole-simutameni</link>
         <dc:date>2022-12-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>はてなリモートインターンシップ2022 インフラ 講義資料 (Hatena)</title>
         <link>https://speakerdeck.com/hatena/remote-internship-2022-infrastructure</link>
-        <dc:date>2022-12-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>F3rdXへの行き方 (soburi)</title>
-        <link>https://speakerdeck.com/tokitahiroshi/f3rdxhenoxing-kifang</link>
         <dc:date>2022-12-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
