@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>機械学習と機械発見：自然科学研究におけるデータ利活用の再考 (itakigawa)</title>
+        <link>https://speakerdeck.com/itakigawa/ji-jie-xue-xi-toji-jie-fa-jian-zi-ran-ke-xue-yan-jiu-niokerudetali-huo-yong-nozai-kao</link>
+        <dc:date>2022-12-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>pg_hint_planを知る（第37回PostgreSQLアンカンファレンス@オンライン 発表資料） (NTT DATA Technology &amp; Innovation)</title>
         <link>https://www.slideshare.net/nttdata-tech/pghintplan-pgunconf37-nttdata</link>
         <dc:date>2022-12-24T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>BitVisorであやつるコンテナネットワーク/BitVisorSummit11 (Yuki Nakata chikuwait)</title>
         <link>https://speakerdeck.com/chikuwait/bitvisorsummit11</link>
         <dc:date>2022-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はてなリモートインターンシップ2022 インフラ 講義資料 (Hatena)</title>
-        <link>https://speakerdeck.com/hatena/remote-internship-2022-infrastructure</link>
-        <dc:date>2022-12-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
