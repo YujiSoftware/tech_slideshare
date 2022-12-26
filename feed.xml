@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>compileSdkVersion33でgetSerializable/getParcelableがつらい話 (napplecomputer)</title>
+        <link>https://speakerdeck.com/napplecomputer/compilesdkversion33degetserializablegetparcelablegaturaihua</link>
+        <dc:date>2022-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ポケモンで学ぶiOS 16弾丸ツアー 🚅 (giginet)</title>
+        <link>https://speakerdeck.com/giginet/pokemondexue-buios-16dan-wan-tua</link>
+        <dc:date>2022-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Refactor with using `available` and `deprecated` (417.72KI)</title>
+        <link>https://speakerdeck.com/417_72ki/refactor-with-using-available-and-deprecated</link>
+        <dc:date>2022-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Tech LT #4 人を選ぶ技術 (vaaaaanquish)</title>
         <link>https://speakerdeck.com/vaaaaanquish/tech-lt-number-4-ren-woxuan-buji-shu</link>
         <dc:date>2022-12-25T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>ソフトウェアにおける 複雑さとは何なのか? (Yoshitaka Kawashima,@kawasima)</title>
         <link>https://www.slideshare.net/kawasima/ss-254959681</link>
         <dc:date>2022-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BigQueryエミュレータの作り方 (Masaaki Goshima)</title>
-        <link>https://speakerdeck.com/goccy/bigqueryemiyuretanozuo-rifang</link>
-        <dc:date>2022-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Above All, Make It Fun! #fjordbootcamp / make it fun (Shintaro Kakutani)</title>
-        <link>https://speakerdeck.com/kakutani/make-it-fun</link>
-        <dc:date>2022-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ノートラブルシステムへの道 (Daisuke Yamazaki)</title>
-        <link>https://speakerdeck.com/yamaz/notoraburusisutemuhenodao</link>
-        <dc:date>2022-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
