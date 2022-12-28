@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>入門 境界づけられたコンテキスト (yuuki takezawa)</title>
+        <link>https://speakerdeck.com/ytake/ru-men-jing-jie-dukeraretakontekisuto</link>
+        <dc:date>2022-12-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby 3.2 リリースイベント</title>
         <link>https://docs.google.com/presentation/d/1TmY23yVkrnHV3FuWleEXTY-x7LP18bobjOCzp5ZpyGU/preview</link>
         <dc:date>2022-12-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Nstock 採用資料 / We are hiring (Nstock)</title>
         <link>https://speakerdeck.com/nstock/we-are-hiring</link>
-        <dc:date>2022-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FBCのご紹介 (komagata)</title>
-        <link>https://speakerdeck.com/komagata/fbcnogoshao-jie</link>
         <dc:date>2022-12-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
