@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI×医用画像の現状と可能性_2022年版/AI×medical_imaging_in_japan_2022 (YoshihiroTodoroki)</title>
+        <link>https://speakerdeck.com/tdys13/aixmedical-imaging-in-japan-2022</link>
+        <dc:date>2022-12-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「俯瞰」可視化が情報探索・分析を変える (hayataka)</title>
         <link>https://speakerdeck.com/hayataka88/fu-kan-ke-shi-hua-gaqing-bao-tan-suo-fen-xi-wobian-eru</link>
         <dc:date>2022-12-28T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>企画、要件定義、設計、実装を 一気通貫でつなげて考える システム開発  (haru860)</title>
         <link>https://speakerdeck.com/haru860/qi-hua-yao-jian-ding-yi-she-ji-shi-zhuang-wo-qi-tong-guan-detunagetekao-eru-sisutemukai-fa</link>
         <dc:date>2022-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BigQuery と Snowflake を徹底比較 (fetaro)</title>
-        <link>https://speakerdeck.com/fetaro/bigquery-to-snowflake-woche-di-bi-jiao</link>
-        <dc:date>2022-12-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
