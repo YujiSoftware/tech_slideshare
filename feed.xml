@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VS Code 拡張機能 ハンズオン</title>
+        <link>https://docs.google.com/presentation/d/12AffT9gTlFX1ebMbKh-tt1dMlx1v_gxCL4aYAnPW7Yw/preview</link>
+        <dc:date>2022-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VS Codeのプロセスモデルとデバッグ方法 - パフォーマンスと安定性を支えるアーキテクチャ (ypresto)</title>
+        <link>https://speakerdeck.com/ypresto/vscode-process-model-and-debugging</link>
+        <dc:date>2022-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VSCode Conference Japan 2021 kyusque (kyusque)</title>
+        <link>https://www.slideshare.net/kyusque/vscode-conference-japan-2021-kyusque</link>
+        <dc:date>2022-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VSCodeで始めるAzure Static Web Apps開発 (Yuta Matsumura,@tsubakimoto_s)</title>
+        <link>https://www.slideshare.net/YutaMatsumura/vscodeazure-static-web-apps</link>
+        <dc:date>2022-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Bicep + VS Code で楽々Azure Deploy (Takekazu Omi,@takekazuomi)</title>
+        <link>https://www.slideshare.net/takekazuomi/vscode-bicep</link>
+        <dc:date>2022-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>キーバインド拡張を作るときに やってよかったこと・後悔したこと (VS Code Conference Japan 2021 LT) (Yuichiro Tachibana (Tsuchiya))</title>
+        <link>https://speakerdeck.com/whitphx/kibaindokuo-zhang-wozuo-rutokini-yatuteyokatutakotohou-hui-sitakoto-vs-code-conference-japan-2021-lt</link>
+        <dc:date>2022-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PlatformIO で シュッと Arduino 開発を高速化しよう Speed up your Arduino development with PlatformIO! (74th(Atsushi Morimoto))</title>
+        <link>https://speakerdeck.com/74th/platformio-de-siyututo-arduino-kai-fa-wogao-su-hua-siyou-speed-up-your-arduino-development-with-platformio</link>
+        <dc:date>2022-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI×医用画像の現状と可能性_2022年版/AI×medical_imaging_in_japan_2022 (YoshihiroTodoroki)</title>
         <link>https://speakerdeck.com/tdys13/aixmedical-imaging-in-japan-2022</link>
         <dc:date>2022-12-28T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>Swift6のprotocol (omochimetaru)</title>
         <link>https://speakerdeck.com/omochi/swift6falseprotocol</link>
         <dc:date>2022-12-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go Generics Overview (karupanerura)</title>
-        <link>https://speakerdeck.com/karupanerura/go-generics-overview</link>
-        <dc:date>2022-12-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>eBPFは何が嬉しいのか？ (Yutaro Hayakawa)</title>
-        <link>https://speakerdeck.com/yutarohayakawa/ebpfhahe-gaxi-siinoka</link>
-        <dc:date>2022-12-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模Unityゲーム開発の設計事例 〜ドメイン駆動設計とDIコンテナを導入した一年を振り返る〜 / cedec2021-ddd (CyberAgent SGE Engineer)</title>
-        <link>https://speakerdeck.com/sgeengineer/cedec2021-ddd</link>
-        <dc:date>2022-12-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハンズオン資料</title>
-        <link>https://docs.google.com/presentation/d/1F_FRTMzzN_DyH3EQT6JGsSN-1VJp_Dzpk_GSDcMuyC4/preview</link>
-        <dc:date>2022-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>睡眠する技術 / Technology to Sleep (Kuniwak)</title>
-        <link>https://speakerdeck.com/orgachem/technology-to-sleep</link>
-        <dc:date>2022-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術的負債は開発者体験を悪化させる / Technical Debt and Developer Experience (mtx2s)</title>
-        <link>https://speakerdeck.com/mtx2s/technical-debt-and-developer-experience</link>
-        <dc:date>2022-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>企画、要件定義、設計、実装を 一気通貫でつなげて考える システム開発  (haru860)</title>
-        <link>https://speakerdeck.com/haru860/qi-hua-yao-jian-ding-yi-she-ji-shi-zhuang-wo-qi-tong-guan-detunagetekao-eru-sisutemukai-fa</link>
-        <dc:date>2022-12-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
