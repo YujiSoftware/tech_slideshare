@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【YANS2022 チュートリアル】学術情報検索と推薦 (Marie Katsurai)</title>
+        <link>https://speakerdeck.com/katsurai/yans2022</link>
+        <dc:date>2022-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VS Code 拡張機能 ハンズオン</title>
         <link>https://docs.google.com/presentation/d/12AffT9gTlFX1ebMbKh-tt1dMlx1v_gxCL4aYAnPW7Yw/preview</link>
         <dc:date>2022-12-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[DevDojo] Development processes and Tools at Mercari  (mercari)</title>
         <link>https://speakerdeck.com/mercari/devdojo-development-processes-and-tools-at-mercari</link>
-        <dc:date>2022-12-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Swift6のprotocol (omochimetaru)</title>
-        <link>https://speakerdeck.com/omochi/swift6falseprotocol</link>
         <dc:date>2022-12-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
