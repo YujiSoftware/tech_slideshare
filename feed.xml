@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サーバーレス環境をより改善してみた話 (sugar sato)</title>
+        <link>https://speakerdeck.com/sgash708/saharesuhuan-jing-woyorigai-shan-sitemitahua</link>
+        <dc:date>2022-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バンダイナムコグループのデータ戦略実現を支えるデータマネジメント (Japan Data Management Consotrium)</title>
+        <link>https://speakerdeck.com/jdmc/bandainamukogurupunodetazhan-lue-shi-xian-wozhi-erudetamanezimento</link>
+        <dc:date>2022-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS App Runnerがそろそろ本番環境でも使い物になりそう (n1215)</title>
+        <link>https://speakerdeck.com/n1215/aws-app-runnergasorosoroben-fan-huan-jing-demoshi-iwu-ninarisou</link>
+        <dc:date>2022-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【YANS2022 チュートリアル】学術情報検索と推薦 (Marie Katsurai)</title>
         <link>https://speakerdeck.com/katsurai/yans2022</link>
         <dc:date>2022-12-29T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>機械学習と機械発見：自然科学研究におけるデータ利活用の再考 (itakigawa)</title>
         <link>https://speakerdeck.com/itakigawa/ji-jie-xue-xi-toji-jie-fa-jian-zi-ran-ke-xue-yan-jiu-niokerudetali-huo-yong-nozai-kao</link>
         <dc:date>2022-12-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>pg_hint_planを知る（第37回PostgreSQLアンカンファレンス@オンライン 発表資料） (NTT DATA Technology &amp; Innovation)</title>
-        <link>https://www.slideshare.net/nttdata-tech/pghintplan-pgunconf37-nttdata</link>
-        <dc:date>2022-12-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vision Transformer入門をもっと楽しむために (Seitaro Shinagawa)</title>
-        <link>https://speakerdeck.com/sei88888/vision-transformerru-men-womotutole-simutameni</link>
-        <dc:date>2022-12-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[DevDojo] Development processes and Tools at Mercari  (mercari)</title>
-        <link>https://speakerdeck.com/mercari/devdojo-development-processes-and-tools-at-mercari</link>
-        <dc:date>2022-12-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
