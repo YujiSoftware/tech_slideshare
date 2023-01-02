@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Design System Build #01 | RAKSUL (itoz)</title>
+        <link>https://speakerdeck.com/itoz/design-system-build-number-01-raksul</link>
+        <dc:date>2023-01-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>デザインシステムと画面パターン (fkady)</title>
+        <link>https://speakerdeck.com/fkady/dezainsisutemutohua-mian-patan</link>
+        <dc:date>2023-01-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>デザインシステム運用とOKRの良い関係 (takanorip)</title>
+        <link>https://speakerdeck.com/takanorip/dezainsisutemuyun-yong-tookrfalseliang-iguan-xi</link>
+        <dc:date>2023-01-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>地図と可視化とコミュニティ（それと言語） / Data Visualization Japan Meetup 2022 (Sorami Hisamoto)</title>
         <link>https://speakerdeck.com/sorami/data-visualization-japan-meetup-2022</link>
         <dc:date>2022-12-31T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>compileSdkVersion33でgetSerializable/getParcelableがつらい話 (napplecomputer)</title>
         <link>https://speakerdeck.com/napplecomputer/compilesdkversion33degetserializablegetparcelablegaturaihua</link>
-        <dc:date>2022-12-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ポケモンで学ぶiOS 16弾丸ツアー 🚅 (giginet)</title>
-        <link>https://speakerdeck.com/giginet/pokemondexue-buios-16dan-wan-tua</link>
-        <dc:date>2022-12-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Refactor with using `available` and `deprecated` (417.72KI)</title>
-        <link>https://speakerdeck.com/417_72ki/refactor-with-using-available-and-deprecated</link>
-        <dc:date>2022-12-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tech LT #4 人を選ぶ技術 (vaaaaanquish)</title>
-        <link>https://speakerdeck.com/vaaaaanquish/tech-lt-number-4-ren-woxuan-buji-shu</link>
         <dc:date>2022-12-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
