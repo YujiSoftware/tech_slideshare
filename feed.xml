@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>緊急Ques - コードのメトリクスに基づくリファクタリング戦略 (Tomoki Kuriyama)</title>
+        <link>https://www.slideshare.net/ssuserf631b9/ques-253249590</link>
+        <dc:date>2023-01-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Design System Build #01 | RAKSUL (itoz)</title>
         <link>https://speakerdeck.com/itoz/design-system-build-number-01-raksul</link>
         <dc:date>2023-01-01T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Ruby 3.2 リリースイベント</title>
         <link>https://docs.google.com/presentation/d/1TmY23yVkrnHV3FuWleEXTY-x7LP18bobjOCzp5ZpyGU/preview</link>
         <dc:date>2022-12-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>compileSdkVersion33でgetSerializable/getParcelableがつらい話 (napplecomputer)</title>
-        <link>https://speakerdeck.com/napplecomputer/compilesdkversion33degetserializablegetparcelablegaturaihua</link>
-        <dc:date>2022-12-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
