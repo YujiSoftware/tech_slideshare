@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RISC-Vの可能性 (たけおか しょうぞう)</title>
+        <link>https://www.slideshare.net/takeoka1/riscv-251375248</link>
+        <dc:date>2023-01-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Common Lisp ユーザへのScheme紹介 (たけおか しょうぞう)</title>
+        <link>https://www.slideshare.net/takeoka1/common-lisp-scheme-102882269</link>
+        <dc:date>2023-01-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>昔の外付けキャッシュ &amp; コヒーレント・キャッシュ (たけおか しょうぞう)</title>
+        <link>https://www.slideshare.net/takeoka1/ss-80078090</link>
+        <dc:date>2023-01-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>どうして昔の人は八進数でしゃべるのか? (たけおか しょうぞう)</title>
+        <link>https://www.slideshare.net/takeoka1/ss-250690010</link>
+        <dc:date>2023-01-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2030年人材戦略の羅針盤〜ヒト・ヒト・ヒト時代 / 人材循環型社会とは何か〜 (overflow ,Inc)</title>
         <link>https://speakerdeck.com/overflowinc/li-shi-karaniu-jie-ku10nian-hou-noren-cai-zhan-lue</link>
         <dc:date>2023-01-04T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>Bicep + VS Code で楽々Azure Deploy (Takekazu Omi,@takekazuomi)</title>
         <link>https://www.slideshare.net/takekazuomi/vscode-bicep</link>
         <dc:date>2022-12-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>キーバインド拡張を作るときに やってよかったこと・後悔したこと (VS Code Conference Japan 2021 LT) (Yuichiro Tachibana (Tsuchiya))</title>
-        <link>https://speakerdeck.com/whitphx/kibaindokuo-zhang-wozuo-rutokini-yatuteyokatutakotohou-hui-sitakoto-vs-code-conference-japan-2021-lt</link>
-        <dc:date>2022-12-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PlatformIO で シュッと Arduino 開発を高速化しよう Speed up your Arduino development with PlatformIO! (74th(Atsushi Morimoto))</title>
-        <link>https://speakerdeck.com/74th/platformio-de-siyututo-arduino-kai-fa-wogao-su-hua-siyou-speed-up-your-arduino-development-with-platformio</link>
-        <dc:date>2022-12-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI×医用画像の現状と可能性_2022年版/AI×medical_imaging_in_japan_2022 (YoshihiroTodoroki)</title>
-        <link>https://speakerdeck.com/tdys13/aixmedical-imaging-in-japan-2022</link>
-        <dc:date>2022-12-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「俯瞰」可視化が情報探索・分析を変える (hayataka)</title>
-        <link>https://speakerdeck.com/hayataka88/fu-kan-ke-shi-hua-gaqing-bao-tan-suo-fen-xi-wobian-eru</link>
-        <dc:date>2022-12-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
