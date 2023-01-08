@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PlanetScale さわってみた (reteigi)</title>
+        <link>https://speakerdeck.com/re_teigi/planetscale-sawatutemita</link>
+        <dc:date>2023-01-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>機械学習と機械発見：自然科学研究におけるデータ利活用の再考 (Ichigaku Takigawa)</title>
         <link>https://www.slideshare.net/itakigawa/ss-254994596</link>
         <dc:date>2023-01-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>VSCode Conference Japan 2021 kyusque (kyusque)</title>
         <link>https://www.slideshare.net/kyusque/vscode-conference-japan-2021-kyusque</link>
-        <dc:date>2022-12-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VSCodeで始めるAzure Static Web Apps開発 (Yuta Matsumura,@tsubakimoto_s)</title>
-        <link>https://www.slideshare.net/YutaMatsumura/vscodeazure-static-web-apps</link>
         <dc:date>2022-12-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
