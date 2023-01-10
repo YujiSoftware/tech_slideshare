@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FOSS4G JAPAN 2022 sfnetworks</title>
+        <link>https://docs.google.com/presentation/d/1M-G2qw7btKC5ZGHjozIPzFME0OEJXJl-7NtVfGhlheE/preview</link>
+        <dc:date>2023-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>計画ツールとしてRを使う/Use_of_R_as_a_planning_tool (florets1)</title>
+        <link>https://speakerdeck.com/florets1/use-of-r-as-a-planning-tool</link>
+        <dc:date>2023-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LT発表のすすめ (bob3bob3)</title>
+        <link>https://speakerdeck.com/bob3bob3/ltnosusume</link>
+        <dc:date>2023-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20221210_japanr_サテライト企画について_upload用.pdf (NobuakiOshiro)</title>
+        <link>https://speakerdeck.com/doradora09/20221210-japanr-sateraitoqi-hua-nituite-uploadyong</link>
+        <dc:date>2023-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BigQuery を使った Firebase Analytics のデータ分析ハンズオン</title>
         <link>https://docs.google.com/presentation/d/1s_v51sNYlZPLI4YoBhPnmX5OCsDQ_yJzV2Hm84_duEE/preview</link>
         <dc:date>2023-01-09T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>地図と可視化とコミュニティ（それと言語） / Data Visualization Japan Meetup 2022 (Sorami Hisamoto)</title>
         <link>https://speakerdeck.com/sorami/data-visualization-japan-meetup-2022</link>
         <dc:date>2022-12-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーレス環境をより改善してみた話 (sugar sato)</title>
-        <link>https://speakerdeck.com/sgash708/saharesuhuan-jing-woyorigai-shan-sitemitahua</link>
-        <dc:date>2022-12-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バンダイナムコグループのデータ戦略実現を支えるデータマネジメント (Japan Data Management Consotrium)</title>
-        <link>https://speakerdeck.com/jdmc/bandainamukogurupunodetazhan-lue-shi-xian-wozhi-erudetamanezimento</link>
-        <dc:date>2022-12-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS App Runnerがそろそろ本番環境でも使い物になりそう (n1215)</title>
-        <link>https://speakerdeck.com/n1215/aws-app-runnergasorosoroben-fan-huan-jing-demoshi-iwu-ninarisou</link>
-        <dc:date>2022-12-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【YANS2022 チュートリアル】学術情報検索と推薦 (Marie Katsurai)</title>
-        <link>https://speakerdeck.com/katsurai/yans2022</link>
-        <dc:date>2022-12-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
