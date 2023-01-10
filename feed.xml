@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>店舗在庫連携のCQRSを支えるメッセージング周りの技術 / Messaging and Patterns in DynamoDB for CQRS (mokamoto12)</title>
+        <link>https://speakerdeck.com/mokamoto12/dian-pu-zai-ku-lian-xi-nocqrswozhi-erumetusezinguzhou-rinoji-shu</link>
+        <dc:date>2023-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS データベースブログの記事 「Amazon DynamoDBによる CQRSイベントストアの構築」 を勝手に読み解く (かとじゅん)</title>
+        <link>https://speakerdeck.com/j5ik2o/aws-detabesuburogunoji-shi-amazon-dynamodbniyoru-cqrsibentosutoanogou-zhu-wosheng-shou-nidu-mijie-ku</link>
+        <dc:date>2023-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PlanetScale さわってみた (reteigi)</title>
         <link>https://speakerdeck.com/re_teigi/planetscale-sawatutemita</link>
         <dc:date>2023-01-07T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>VS Code 拡張機能 ハンズオン</title>
         <link>https://docs.google.com/presentation/d/12AffT9gTlFX1ebMbKh-tt1dMlx1v_gxCL4aYAnPW7Yw/preview</link>
-        <dc:date>2022-12-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VS Codeのプロセスモデルとデバッグ方法 - パフォーマンスと安定性を支えるアーキテクチャ (ypresto)</title>
-        <link>https://speakerdeck.com/ypresto/vscode-process-model-and-debugging</link>
-        <dc:date>2022-12-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VSCode Conference Japan 2021 kyusque (kyusque)</title>
-        <link>https://www.slideshare.net/kyusque/vscode-conference-japan-2021-kyusque</link>
         <dc:date>2022-12-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
