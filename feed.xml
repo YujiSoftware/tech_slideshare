@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BigQuery を使った Firebase Analytics のデータ分析ハンズオン</title>
+        <link>https://docs.google.com/presentation/d/1s_v51sNYlZPLI4YoBhPnmX5OCsDQ_yJzV2Hm84_duEE/preview</link>
+        <dc:date>2023-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>店舗在庫連携のCQRSを支えるメッセージング周りの技術 / Messaging and Patterns in DynamoDB for CQRS (mokamoto12)</title>
         <link>https://speakerdeck.com/mokamoto12/dian-pu-zai-ku-lian-xi-nocqrswozhi-erumetusezinguzhou-rinoji-shu</link>
         <dc:date>2023-01-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【YANS2022 チュートリアル】学術情報検索と推薦 (Marie Katsurai)</title>
         <link>https://speakerdeck.com/katsurai/yans2022</link>
-        <dc:date>2022-12-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VS Code 拡張機能 ハンズオン</title>
-        <link>https://docs.google.com/presentation/d/12AffT9gTlFX1ebMbKh-tt1dMlx1v_gxCL4aYAnPW7Yw/preview</link>
         <dc:date>2022-12-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
