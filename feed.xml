@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20211118 dbts2021 マイクロサービスにおけるApache Geodeの効果的な使い方 (Masaki Yamakawa)</title>
+        <link>https://www.slideshare.net/MasakiYamakawa/20211118-dbts2021-apache-geode</link>
+        <dc:date>2023-01-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>FOSS4G JAPAN 2022 sfnetworks</title>
         <link>https://docs.google.com/presentation/d/1M-G2qw7btKC5ZGHjozIPzFME0OEJXJl-7NtVfGhlheE/preview</link>
         <dc:date>2023-01-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>デザインシステム運用とOKRの良い関係 (takanorip)</title>
         <link>https://speakerdeck.com/takanorip/dezainsisutemuyun-yong-tookrfalseliang-iguan-xi</link>
         <dc:date>2023-01-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>地図と可視化とコミュニティ（それと言語） / Data Visualization Japan Meetup 2022 (Sorami Hisamoto)</title>
-        <link>https://speakerdeck.com/sorami/data-visualization-japan-meetup-2022</link>
-        <dc:date>2022-12-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
