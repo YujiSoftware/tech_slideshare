@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>mqttノードの接続先設定</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQWMXdhe--06AyIZDKgv2Pgj8627sjxUyzIy0EC96PmsMXhaPtfrAPsxAGDagTNnDWX0XiK8jnpcUC7/pub</link>
+        <dc:date>2023-01-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアリングマネージャー業の抽象度マッピング / Abstraction mapping of engineering manager's job (Yoshiki Iida)</title>
         <link>https://speakerdeck.com/yoshikiiida/abstraction-mapping-of-engineering-managers-job</link>
         <dc:date>2023-01-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>緊急Ques - コードのメトリクスに基づくリファクタリング戦略 (Tomoki Kuriyama)</title>
         <link>https://www.slideshare.net/ssuserf631b9/ques-253249590</link>
         <dc:date>2023-01-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Design System Build #01 | RAKSUL (itoz)</title>
-        <link>https://speakerdeck.com/itoz/design-system-build-number-01-raksul</link>
-        <dc:date>2023-01-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
