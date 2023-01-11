@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアリングマネージャー業の抽象度マッピング / Abstraction mapping of engineering manager's job (Yoshiki Iida)</title>
+        <link>https://speakerdeck.com/yoshikiiida/abstraction-mapping-of-engineering-managers-job</link>
+        <dc:date>2023-01-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20221226_TITECH_lecture_ishizaki_public.pdf (Kazuaki Ishizaki,@kiszk)</title>
         <link>https://www.slideshare.net/ishizaki/20221226titechlectureishizakipublicpdf</link>
         <dc:date>2023-01-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Design System Build #01 | RAKSUL (itoz)</title>
         <link>https://speakerdeck.com/itoz/design-system-build-number-01-raksul</link>
-        <dc:date>2023-01-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザインシステムと画面パターン (fkady)</title>
-        <link>https://speakerdeck.com/fkady/dezainsisutemutohua-mian-patan</link>
         <dc:date>2023-01-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
