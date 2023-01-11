@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>静的解析と学ぶ型パラメタ（ジェネリクス）</title>
+        <link>https://docs.google.com/presentation/d/1BfSOfMtDqofKZCUdc8WHT5VFuv5Dciyuq9fXTxvxFf8/preview</link>
+        <dc:date>2023-01-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機械学習を「社会実装」するということ 2023年版 / Social Implementation of Machine Learning 2023 (Moe Uchiike（内池 もえ）)</title>
+        <link>https://speakerdeck.com/moepy_stats/social-implementation-of-machine-learning-2023</link>
+        <dc:date>2023-01-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>チームのパフォーマンスを引き出す、ワクワクするプロダクトゴール、OKR / Waku-waku Product Goal and OKR (NAVITIME JAPAN)</title>
         <link>https://speakerdeck.com/navitimejapan/waku-waku-product-goal-and-okr</link>
         <dc:date>2023-01-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Common Lisp ユーザへのScheme紹介 (たけおか しょうぞう)</title>
         <link>https://www.slideshare.net/takeoka1/common-lisp-scheme-102882269</link>
-        <dc:date>2023-01-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>昔の外付けキャッシュ &amp; コヒーレント・キャッシュ (たけおか しょうぞう)</title>
-        <link>https://www.slideshare.net/takeoka1/ss-80078090</link>
-        <dc:date>2023-01-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>どうして昔の人は八進数でしゃべるのか? (たけおか しょうぞう)</title>
-        <link>https://www.slideshare.net/takeoka1/ss-250690010</link>
         <dc:date>2023-01-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
