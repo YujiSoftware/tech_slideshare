@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Git超入門_ハンズオン準備.pdf (憲昭 村田)</title>
+        <link>https://www.slideshare.net/nmzstation/gitpdf-255289899</link>
+        <dc:date>2023-01-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>David Bernstein : Five Development Practices for Building Software with Scrum (Yasunobu Kawaguchi)</title>
+        <link>https://speakerdeck.com/kawaguti/david-bernstein-five-development-practices-for-building-software-with-scrum</link>
+        <dc:date>2023-01-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>静的解析と学ぶ型パラメタ（ジェネリクス）</title>
         <link>https://docs.google.com/presentation/d/1BfSOfMtDqofKZCUdc8WHT5VFuv5Dciyuq9fXTxvxFf8/preview</link>
         <dc:date>2023-01-11T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>機械学習と機械発見：自然科学研究におけるデータ利活用の再考 (Ichigaku Takigawa)</title>
         <link>https://www.slideshare.net/itakigawa/ss-254994596</link>
         <dc:date>2023-01-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RISC-Vの可能性 (たけおか しょうぞう)</title>
-        <link>https://www.slideshare.net/takeoka1/riscv-251375248</link>
-        <dc:date>2023-01-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Common Lisp ユーザへのScheme紹介 (たけおか しょうぞう)</title>
-        <link>https://www.slideshare.net/takeoka1/common-lisp-scheme-102882269</link>
-        <dc:date>2023-01-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
