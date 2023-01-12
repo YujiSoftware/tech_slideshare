@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The Stable Team - 機能する安定したチームをつくる - / The Stable Team (TAKAKING22)</title>
+        <link>https://speakerdeck.com/takaking22/the-stable-team</link>
+        <dc:date>2023-01-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アジャイルな組織改善 〜手法とマインドセット〜 (Kotoe Ishige)</title>
         <link>https://speakerdeck.com/ishige/aziyairunazu-zhi-gai-shan-shou-fa-tomaindosetuto</link>
         <dc:date>2023-01-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AWS データベースブログの記事 「Amazon DynamoDBによる CQRSイベントストアの構築」 を勝手に読み解く (かとじゅん)</title>
         <link>https://speakerdeck.com/j5ik2o/aws-detabesuburogunoji-shi-amazon-dynamodbniyoru-cqrsibentosutoanogou-zhu-wosheng-shou-nidu-mijie-ku</link>
         <dc:date>2023-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PlanetScale さわってみた (reteigi)</title>
-        <link>https://speakerdeck.com/re_teigi/planetscale-sawatutemita</link>
-        <dc:date>2023-01-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
