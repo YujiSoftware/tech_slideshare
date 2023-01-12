@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アジャイルな組織改善 〜手法とマインドセット〜 (Kotoe Ishige)</title>
+        <link>https://speakerdeck.com/ishige/aziyairunazu-zhi-gai-shan-shou-fa-tomaindosetuto</link>
+        <dc:date>2023-01-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Git超入門_ハンズオン準備.pdf (憲昭 村田)</title>
         <link>https://www.slideshare.net/nmzstation/gitpdf-255289899</link>
         <dc:date>2023-01-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>PlanetScale さわってみた (reteigi)</title>
         <link>https://speakerdeck.com/re_teigi/planetscale-sawatutemita</link>
-        <dc:date>2023-01-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習と機械発見：自然科学研究におけるデータ利活用の再考 (Ichigaku Takigawa)</title>
-        <link>https://www.slideshare.net/itakigawa/ss-254994596</link>
         <dc:date>2023-01-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
