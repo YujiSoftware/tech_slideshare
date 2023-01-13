@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20230105_TITECH_lecture_ishizaki_public.pdf (Kazuaki Ishizaki,@kiszk)</title>
+        <link>https://www.slideshare.net/ishizaki/20230105titechlectureishizakipublicpdf</link>
+        <dc:date>2023-01-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>統計的因果推論の理論と実装「潜在的結果変数の枠組み」 (Shingo Uto)</title>
         <link>https://speakerdeck.com/s1ok69oo/tong-ji-de-yin-guo-tui-lun-noli-lun-toshi-zhuang-qian-zai-de-jie-guo-bian-shu-nowaku-zu-mi</link>
         <dc:date>2023-01-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>BigQuery を使った Firebase Analytics のデータ分析ハンズオン</title>
         <link>https://docs.google.com/presentation/d/1s_v51sNYlZPLI4YoBhPnmX5OCsDQ_yJzV2Hm84_duEE/preview</link>
-        <dc:date>2023-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>店舗在庫連携のCQRSを支えるメッセージング周りの技術 / Messaging and Patterns in DynamoDB for CQRS (mokamoto12)</title>
-        <link>https://speakerdeck.com/mokamoto12/dian-pu-zai-ku-lian-xi-nocqrswozhi-erumetusezinguzhou-rinoji-shu</link>
         <dc:date>2023-01-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
