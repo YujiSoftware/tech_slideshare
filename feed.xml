@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>::class.fixture() pattern  — 拡張関数を生かした、Test Fixture 管理の紹介  (Kazuki MATSUDA / 松田一樹)</title>
+        <link>https://speakerdeck.com/kazukima/class-dot-fixture-pattern-kuo-zhang-guan-shu-wosheng-kasita-test-fixture-guan-li-noshao-jie</link>
+        <dc:date>2023-01-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>渡辺研Slackの使い方 / Slack Local Rule (kaityo256)</title>
         <link>https://speakerdeck.com/kaityo256/slack-local-rule</link>
         <dc:date>2023-01-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>計画ツールとしてRを使う/Use_of_R_as_a_planning_tool (florets1)</title>
         <link>https://speakerdeck.com/florets1/use-of-r-as-a-planning-tool</link>
-        <dc:date>2023-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LT発表のすすめ (bob3bob3)</title>
-        <link>https://speakerdeck.com/bob3bob3/ltnosusume</link>
         <dc:date>2023-01-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
