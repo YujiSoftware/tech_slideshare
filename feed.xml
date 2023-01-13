@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プレゼンテーション評価_松下_2022_12</title>
+        <link>https://docs.google.com/presentation/d/1WvsAZYhmCkxYusH_xSZwQDpeDe-n1ZpMCws9EhqSI2c/preview</link>
+        <dc:date>2023-01-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「私考える人、あなた作業する人」を越えて、プロダクトマネジメントがあたりまえになるチームを明日から実現していく方法/product management rsgt2023 (moriyuya)</title>
+        <link>https://speakerdeck.com/moriyuya/product-management-rsgt2023</link>
+        <dc:date>2023-01-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>::class.fixture() pattern  — 拡張関数を生かした、Test Fixture 管理の紹介  (Kazuki MATSUDA / 松田一樹)</title>
         <link>https://speakerdeck.com/kazukima/class-dot-fixture-pattern-kuo-zhang-guan-shu-wosheng-kasita-test-fixture-guan-li-noshao-jie</link>
         <dc:date>2023-01-12T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>20211118 dbts2021 マイクロサービスにおけるApache Geodeの効果的な使い方 (Masaki Yamakawa)</title>
         <link>https://www.slideshare.net/MasakiYamakawa/20211118-dbts2021-apache-geode</link>
         <dc:date>2023-01-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FOSS4G JAPAN 2022 sfnetworks</title>
-        <link>https://docs.google.com/presentation/d/1M-G2qw7btKC5ZGHjozIPzFME0OEJXJl-7NtVfGhlheE/preview</link>
-        <dc:date>2023-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>計画ツールとしてRを使う/Use_of_R_as_a_planning_tool (florets1)</title>
-        <link>https://speakerdeck.com/florets1/use-of-r-as-a-planning-tool</link>
-        <dc:date>2023-01-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
