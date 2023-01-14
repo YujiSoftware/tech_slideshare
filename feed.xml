@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>学びを仕事に繋げる (Sansan)</title>
+        <link>https://speakerdeck.com/sansanbuildersbox/sansan-20230112</link>
+        <dc:date>2023-01-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プレゼンテーション評価_松下_2022_12</title>
         <link>https://docs.google.com/presentation/d/1WvsAZYhmCkxYusH_xSZwQDpeDe-n1ZpMCws9EhqSI2c/preview</link>
         <dc:date>2023-01-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20221226_TITECH_lecture_ishizaki_public.pdf (Kazuaki Ishizaki,@kiszk)</title>
         <link>https://www.slideshare.net/ishizaki/20221226titechlectureishizakipublicpdf</link>
-        <dc:date>2023-01-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20211118 dbts2021 マイクロサービスにおけるApache Geodeの効果的な使い方 (Masaki Yamakawa)</title>
-        <link>https://www.slideshare.net/MasakiYamakawa/20211118-dbts2021-apache-geode</link>
         <dc:date>2023-01-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
