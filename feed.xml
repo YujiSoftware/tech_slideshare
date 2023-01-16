@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Redshift ServerlessとProvisioned Cluster のちょっとした違い  (ikeda-masashi)</title>
+        <link>https://speakerdeck.com/mashiike/redshift-serverlesstoprovisioned-cluster-notiyotutositawei-i</link>
+        <dc:date>2023-01-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>低レイヤーから始める GUI (Fadis)</title>
         <link>https://speakerdeck.com/fadis/di-reiyakarashi-meru-gui</link>
         <dc:date>2023-01-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>David Bernstein : Five Development Practices for Building Software with Scrum (Yasunobu Kawaguchi)</title>
         <link>https://speakerdeck.com/kawaguti/david-bernstein-five-development-practices-for-building-software-with-scrum</link>
-        <dc:date>2023-01-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>静的解析と学ぶ型パラメタ（ジェネリクス）</title>
-        <link>https://docs.google.com/presentation/d/1BfSOfMtDqofKZCUdc8WHT5VFuv5Dciyuq9fXTxvxFf8/preview</link>
         <dc:date>2023-01-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
