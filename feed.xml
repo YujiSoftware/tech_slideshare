@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>速習 Machine Learning Lens (Asei Sugiyama)</title>
+        <link>https://speakerdeck.com/asei/su-xi-machine-learning-lens</link>
+        <dc:date>2023-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RDS/Aurora バージョンアップのポイント (hmatsu47)</title>
         <link>https://speakerdeck.com/hmatsu47/aurora-baziyonatupunopointo</link>
         <dc:date>2023-01-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>The Stable Team - 機能する安定したチームをつくる - / The Stable Team (TAKAKING22)</title>
         <link>https://speakerdeck.com/takaking22/the-stable-team</link>
-        <dc:date>2023-01-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイルな組織改善 〜手法とマインドセット〜 (Kotoe Ishige)</title>
-        <link>https://speakerdeck.com/ishige/aziyairunazu-zhi-gai-shan-shou-fa-tomaindosetuto</link>
         <dc:date>2023-01-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
