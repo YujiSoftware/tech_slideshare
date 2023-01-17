@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RDS/Aurora バージョンアップのポイント (hmatsu47)</title>
+        <link>https://speakerdeck.com/hmatsu47/aurora-baziyonatupunopointo</link>
+        <dc:date>2023-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[CFML勉強会#7] EconMLに実装されている異質処置効果の推定手法の紹介・再考 (fullflu)</title>
         <link>https://speakerdeck.com/fullflu/cfmlmian-qiang-hui-number-7-econmlnishi-zhuang-sareteiruyi-zhi-chu-zhi-xiao-guo-notui-ding-shou-fa-noshao-jie-zai-kao</link>
         <dc:date>2023-01-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アジャイルな組織改善 〜手法とマインドセット〜 (Kotoe Ishige)</title>
         <link>https://speakerdeck.com/ishige/aziyairunazu-zhi-gai-shan-shou-fa-tomaindosetuto</link>
-        <dc:date>2023-01-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Git超入門_ハンズオン準備.pdf (憲昭 村田)</title>
-        <link>https://www.slideshare.net/nmzstation/gitpdf-255289899</link>
         <dc:date>2023-01-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
