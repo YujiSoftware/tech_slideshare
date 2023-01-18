@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScriptは10年でこんなに進化しました / TechFeed Experts Night 11 (OKUNOKENTARO)</title>
+        <link>https://speakerdeck.com/okunokentaro/techfeed-experts-night-11</link>
+        <dc:date>2023-01-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ついに来る！TypeScript5.0の新機能 (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/tuinilai-ru-typescript5-dot-0noxin-ji-neng</link>
         <dc:date>2023-01-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>渡辺研Slackの使い方 / Slack Local Rule (kaityo256)</title>
         <link>https://speakerdeck.com/kaityo256/slack-local-rule</link>
-        <dc:date>2023-01-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(新米)エンジニアリングマネージャーのしごと #RSGT2023 (bayashi)</title>
-        <link>https://speakerdeck.com/murabayashi/xin-mi-enziniaringumaneziyanosigoto-number-rsgt2023</link>
         <dc:date>2023-01-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
