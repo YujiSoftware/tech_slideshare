@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20230118 kazaneya TeckTalk3 Data Standards and Open Data Initiatives by the Digital Agency of Japan (hase-ryo)</title>
+        <link>https://speakerdeck.com/haseryo/20230118-kazaneya-tecktalk3-data-standards-and-open-data-initiatives-by-the-digital-agency-of-japan</link>
+        <dc:date>2023-01-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScript 4.9のas const satisfiesが便利 (tonkotsuboy_com)</title>
+        <link>https://speakerdeck.com/tonkotsuboy_com/typescript-4-dot-9noas-const-satisfiesgabian-li-160d825b-7765-4c2b-945d-bb72cc389557</link>
+        <dc:date>2023-01-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScriptは10年でこんなに進化しました / TechFeed Experts Night 11 (OKUNOKENTARO)</title>
         <link>https://speakerdeck.com/okunokentaro/techfeed-experts-night-11</link>
         <dc:date>2023-01-17T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>「私考える人、あなた作業する人」を越えて、プロダクトマネジメントがあたりまえになるチームを明日から実現していく方法/product management rsgt2023 (moriyuya)</title>
         <link>https://speakerdeck.com/moriyuya/product-management-rsgt2023</link>
-        <dc:date>2023-01-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>::class.fixture() pattern  — 拡張関数を生かした、Test Fixture 管理の紹介  (Kazuki MATSUDA / 松田一樹)</title>
-        <link>https://speakerdeck.com/kazukima/class-dot-fixture-pattern-kuo-zhang-guan-shu-wosheng-kasita-test-fixture-guan-li-noshao-jie</link>
-        <dc:date>2023-01-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>渡辺研Slackの使い方 / Slack Local Rule (kaityo256)</title>
-        <link>https://speakerdeck.com/kaityo256/slack-local-rule</link>
         <dc:date>2023-01-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
