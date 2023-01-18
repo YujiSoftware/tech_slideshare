@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ABEMAにおけるサムネイル検証とOPE活用 (EbisawaHayata)</title>
+        <link>https://speakerdeck.com/ebisawahayata/abemaniokerusamuneirujian-zheng-toopehuo-yong</link>
+        <dc:date>2023-01-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データサイエンティストとしてどう学んでいくべきか/東京大学講義: データマイニング概論: #10 (Kyojin.Syo)</title>
         <link>https://speakerdeck.com/yp_genzitsu/dong-jing-da-xue-jiang-yi-detamainingugai-lun-number-10</link>
         <dc:date>2023-01-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20230105_TITECH_lecture_ishizaki_public.pdf (Kazuaki Ishizaki,@kiszk)</title>
         <link>https://www.slideshare.net/ishizaki/20230105titechlectureishizakipublicpdf</link>
-        <dc:date>2023-01-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>統計的因果推論の理論と実装「潜在的結果変数の枠組み」 (Shingo Uto)</title>
-        <link>https://speakerdeck.com/s1ok69oo/tong-ji-de-yin-guo-tui-lun-noli-lun-toshi-zhuang-qian-zai-de-jie-guo-bian-shu-nowaku-zu-mi</link>
         <dc:date>2023-01-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
