@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェア開発って なにか？を学ぶ勉強会 (Yasunobu Kawaguchi)</title>
+        <link>https://speakerdeck.com/kawaguti/software-development</link>
+        <dc:date>2023-01-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>propsのバケツリレー対策でGlobal_Stateを使うその前に (taro28)</title>
         <link>https://speakerdeck.com/taro28/propsnohaketuriredui-ce-teglobal-statewoshi-usonoqian-ni</link>
         <dc:date>2023-01-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>学びを仕事に繋げる (Sansan)</title>
         <link>https://speakerdeck.com/sansanbuildersbox/sansan-20230112</link>
         <dc:date>2023-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プレゼンテーション評価_松下_2022_12</title>
-        <link>https://docs.google.com/presentation/d/1WvsAZYhmCkxYusH_xSZwQDpeDe-n1ZpMCws9EhqSI2c/preview</link>
-        <dc:date>2023-01-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
