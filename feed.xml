@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>機械学習エンジニアが目指すキャリアパスとその実話 / My Journey to Become a ML Engineer (Shinichi Nakagawa)</title>
+        <link>https://speakerdeck.com/shinyorke/my-journey-to-become-a-ml-engineer</link>
+        <dc:date>2023-01-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェア開発って なにか？を学ぶ勉強会 (Yasunobu Kawaguchi)</title>
         <link>https://speakerdeck.com/kawaguti/software-development</link>
         <dc:date>2023-01-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>最適輸送入門 (joisino)</title>
         <link>https://speakerdeck.com/joisino/zui-shi-shu-song-ru-men</link>
-        <dc:date>2023-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>学びを仕事に繋げる (Sansan)</title>
-        <link>https://speakerdeck.com/sansanbuildersbox/sansan-20230112</link>
         <dc:date>2023-01-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
