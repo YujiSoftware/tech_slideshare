@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テクニカルライターよ概念図を描くのです 〜テクニカルライターのためのイラストテクニック２〜 / cybozu illust technique2 (Yuki Kondo)</title>
+        <link>https://speakerdeck.com/yuki_kondo/cybozu-illust-technique2</link>
+        <dc:date>2023-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Symbol.proto TC39 preso</title>
         <link>https://docs.google.com/presentation/d/1ahsHQpJ_fhYfDGK5Lwpz2x-H1IuYgryNyB9bRR4xpMI/preview</link>
         <dc:date>2023-01-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>クラウド初心者が学習プログラムしてみた話 (ShirayanagiRyuji)</title>
         <link>https://speakerdeck.com/shirayanagiryuji/kuraudochu-xin-zhe-gaxue-xi-puroguramusitemitahua</link>
-        <dc:date>2023-01-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Security for OCI Season2 (SAKON)</title>
-        <link>https://speakerdeck.com/sakon310/security-for-oci-season2</link>
         <dc:date>2023-01-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
