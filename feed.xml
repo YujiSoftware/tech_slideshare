@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ステート管理を超えるRecoil運用の考え方 (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/sutetoguan-li-wochao-erurecoilyun-yong-nokao-efang</link>
+        <dc:date>2023-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Remote SSHで行うVS Codeリモートホスト開発とトラブルシューティング (Makky12)</title>
         <link>https://speakerdeck.com/smt7174/remote-sshdexing-uvs-coderimotohosutokai-fa-totoraburusiyuteingu</link>
         <dc:date>2023-01-19T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>[CFML勉強会#7] EconMLに実装されている異質処置効果の推定手法の紹介・再考 (fullflu)</title>
         <link>https://speakerdeck.com/fullflu/cfmlmian-qiang-hui-number-7-econmlnishi-zhuang-sareteiruyi-zhi-chu-zhi-xiao-guo-notui-ding-shou-fa-noshao-jie-zai-kao</link>
         <dc:date>2023-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Redshift ServerlessとProvisioned Cluster のちょっとした違い  (ikeda-masashi)</title>
-        <link>https://speakerdeck.com/mashiike/redshift-serverlesstoprovisioned-cluster-notiyotutositawei-i</link>
-        <dc:date>2023-01-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
