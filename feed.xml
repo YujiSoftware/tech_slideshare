@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Symbol.proto TC39 preso</title>
+        <link>https://docs.google.com/presentation/d/1ahsHQpJ_fhYfDGK5Lwpz2x-H1IuYgryNyB9bRR4xpMI/preview</link>
+        <dc:date>2023-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Strengthening TC39’s consensus process</title>
+        <link>https://docs.google.com/presentation/d/1OvxOZrRmKovnVk4CW6GbvLGS5cnnjP6bJyp4cdC5A4U/preview</link>
+        <dc:date>2023-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Documenting whether a proposal is ready to ship</title>
+        <link>https://docs.google.com/presentation/d/1m0s8UcfUIrEdqpweVTBnQtBvD00oxSbA-onErrlmegE/preview</link>
+        <dc:date>2023-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>機械学習エンジニアが目指すキャリアパスとその実話 / My Journey to Become a ML Engineer (Shinichi Nakagawa)</title>
         <link>https://speakerdeck.com/shinyorke/my-journey-to-become-a-ml-engineer</link>
         <dc:date>2023-01-18T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>Security for OCI Season2 (SAKON)</title>
         <link>https://speakerdeck.com/sakon310/security-for-oci-season2</link>
         <dc:date>2023-01-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>たまには日本語入力 Mozc の話でもしようか ― 新機能の紹介とコードコミットができないプロジェクトとの関わり方 (Fuminobu TAKEYAMA)</title>
-        <link>https://speakerdeck.com/ftake/tamanihari-ben-yu-ru-li-mozc-falsehua-demosiyouka-xin-ji-neng-falseshao-jie-tokodokomitutogadekinaipuroziekutotofalseguan-warifang</link>
-        <dc:date>2023-01-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ変化を起こすのが難しいのか？ - 数年以上にわたって難しさに向き合い・考え取り組んできたこと / The reason why changing organization is so hard - What I thought and faced for more than several years (iwashi)</title>
-        <link>https://speakerdeck.com/iwashi86/the-reason-why-changing-organization-is-so-hard-what-i-thought-and-faced-for-more-than-several-years</link>
-        <dc:date>2023-01-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最適輸送入門 (joisino)</title>
-        <link>https://speakerdeck.com/joisino/zui-shi-shu-song-ru-men</link>
-        <dc:date>2023-01-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
