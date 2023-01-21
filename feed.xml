@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SQL Server2022_PSPoptimization_pub.pdf (Oda Shinsuke,@shinsukeoda)</title>
+        <link>https://www.slideshare.net/odashinsuke/sql-server2022pspoptimizationpubpdf</link>
+        <dc:date>2023-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GraphQLスキーマ設計の勘所 (Yuku Kotani)</title>
+        <link>https://speakerdeck.com/yukukotani/graphql-schema-design-practice</link>
+        <dc:date>2023-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Domain Modeling Made Functional (DevTernity 2022) (Scott Wlaschin)</title>
+        <link>https://www.slideshare.net/ScottWlaschin/domain-modeling-made-functional-devternity-2022</link>
+        <dc:date>2023-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>世の中は〇と△と□でできている～テクニカルライターのためのイラストテクニック～ / cybozu illust technique (Yuki Kondo)</title>
         <link>https://speakerdeck.com/yuki_kondo/cybozu-illust-technique-2c6b521c-4638-402b-ac0a-af24d0e0145c</link>
         <dc:date>2023-01-20T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>TypeScript 4.9のas const satisfiesが便利 (tonkotsuboy_com)</title>
         <link>https://speakerdeck.com/tonkotsuboy_com/typescript-4-dot-9noas-const-satisfiesgabian-li-160d825b-7765-4c2b-945d-bb72cc389557</link>
         <dc:date>2023-01-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptは10年でこんなに進化しました / TechFeed Experts Night 11 (OKUNOKENTARO)</title>
-        <link>https://speakerdeck.com/okunokentaro/techfeed-experts-night-11</link>
-        <dc:date>2023-01-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ついに来る！TypeScript5.0の新機能 (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/tuinilai-ru-typescript5-dot-0noxin-ji-neng</link>
-        <dc:date>2023-01-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ABEMAにおけるサムネイル検証とOPE活用 (EbisawaHayata)</title>
-        <link>https://speakerdeck.com/ebisawahayata/abemaniokerusamuneirujian-zheng-toopehuo-yong</link>
-        <dc:date>2023-01-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
