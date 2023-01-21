@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>T3 Stack and TypeScript ecosystem (Yosuke Kurami)</title>
+        <link>https://speakerdeck.com/quramy/t3-stack-and-typescript-ecosystem</link>
+        <dc:date>2023-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「笑顔の合意」のテクニック - 噛み合わない会話と対立を克服するための、エモさを排した実践的なスキルと技法 - (Hiroyuki Ito (TheHiro))</title>
         <link>https://speakerdeck.com/hageyahhoo/xiao-yan-nohe-yi-notekunituku-nie-mihe-wanaihui-hua-todui-li-woke-fu-surutameno-emosawopai-sitashi-jian-de-nasukirutoji-fa</link>
         <dc:date>2023-01-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>速習 Machine Learning Lens (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/su-xi-machine-learning-lens</link>
-        <dc:date>2023-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDS/Aurora バージョンアップのポイント (hmatsu47)</title>
-        <link>https://speakerdeck.com/hmatsu47/aurora-baziyonatupunopointo</link>
         <dc:date>2023-01-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
