@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>plotlyで動くグラフを作る (takuma koshiishi)</title>
+        <link>https://speakerdeck.com/kosshi/plotlydedong-kugurahuwozuo-ru</link>
+        <dc:date>2023-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Astroで始める爆速個人サイト開発 (takanorip)</title>
+        <link>https://speakerdeck.com/takanorip/astroteshi-merubao-su-ge-ren-saitokai-fa</link>
+        <dc:date>2023-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ぷよらーの強さと勝負ムラの推定 (Shinji Kikuchi)</title>
         <link>https://www.docswell.com/s/sk_bono36/ZJ2L3Z-2023-01-21-151716</link>
         <dc:date>2023-01-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>それでもどうしてRecoilを使うのか / Harajuku.ts Meetup Recoil (OKUNOKENTARO)</title>
         <link>https://speakerdeck.com/okunokentaro/harajuku-dot-ts-meetup-recoil</link>
-        <dc:date>2023-01-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テクニカルライターよ概念図を描くのです 〜テクニカルライターのためのイラストテクニック２〜 / cybozu illust technique2 (Yuki Kondo)</title>
-        <link>https://speakerdeck.com/yuki_kondo/cybozu-illust-technique2</link>
-        <dc:date>2023-01-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Symbol.proto TC39 preso</title>
-        <link>https://docs.google.com/presentation/d/1ahsHQpJ_fhYfDGK5Lwpz2x-H1IuYgryNyB9bRR4xpMI/preview</link>
         <dc:date>2023-01-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
