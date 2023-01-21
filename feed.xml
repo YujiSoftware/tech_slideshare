@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Optimizing your Swift code (Yuta Saito)</title>
+        <link>https://speakerdeck.com/kateinoigakukun/optimizing-your-swift-code</link>
+        <dc:date>2023-01-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>plotlyで動くグラフを作る (takuma koshiishi)</title>
         <link>https://speakerdeck.com/kosshi/plotlydedong-kugurahuwozuo-ru</link>
         <dc:date>2023-01-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>応用セッション発表のすすめ (bob3bob3)</title>
         <link>https://speakerdeck.com/bob3bob3/ying-yong-setusiyonfa-biao-nosusume</link>
-        <dc:date>2023-01-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>それでもどうしてRecoilを使うのか / Harajuku.ts Meetup Recoil (OKUNOKENTARO)</title>
-        <link>https://speakerdeck.com/okunokentaro/harajuku-dot-ts-meetup-recoil</link>
         <dc:date>2023-01-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
