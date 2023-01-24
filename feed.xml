@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>和暦を正しく扱うための暦の話 (nagise)</title>
+        <link>https://speakerdeck.com/nagise/he-li-wozheng-sikuxi-utamenoli-nohua</link>
+        <dc:date>2023-01-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>The ChatGPT Prompt Book - LifeArchitect.ai - Rev 3</title>
         <link>https://docs.google.com/presentation/d/17b_ocq-GL5lhV_bYSShzUgxL02mtWDoiw9xEroJ5m3Q/preview</link>
         <dc:date>2023-01-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>- Rでオブジェクト指向プログラミング- クラス設計入門の入門 (yu_sekiya)</title>
         <link>https://speakerdeck.com/kotatyamtema/rdeobuziekutozhi-xiang-puroguramingu-kurasushe-ji-ru-men-noru-men</link>
-        <dc:date>2023-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TokyoR#103_DataProcessing (kilometer)</title>
-        <link>https://speakerdeck.com/kilometer/tokyor-number-103-dataprocessing</link>
         <dc:date>2023-01-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
