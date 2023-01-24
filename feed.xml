@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>強いて言えば「集約どう実装するのかな、を考える」な話 (Yoshitaka Kawashima,@kawasima)</title>
+        <link>https://www.slideshare.net/kawasima/ss-255489610</link>
+        <dc:date>2023-01-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>和暦を正しく扱うための暦の話 (nagise)</title>
         <link>https://speakerdeck.com/nagise/he-li-wozheng-sikuxi-utamenoli-nohua</link>
         <dc:date>2023-01-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>tidy_rpart (bk)</title>
         <link>https://speakerdeck.com/bk_18/tidy-rpart</link>
-        <dc:date>2023-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>- Rでオブジェクト指向プログラミング- クラス設計入門の入門 (yu_sekiya)</title>
-        <link>https://speakerdeck.com/kotatyamtema/rdeobuziekutozhi-xiang-puroguramingu-kurasushe-ji-ru-men-noru-men</link>
         <dc:date>2023-01-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
