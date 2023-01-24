@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Self-Supervised Learning (Naoki Okamoto)</title>
+        <link>https://speakerdeck.com/naok615/self-supervised-learning</link>
+        <dc:date>2023-01-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>グローバルチームことはじめ / Bootstrapping a global team (Masaharu TASHIRO)</title>
         <link>https://speakerdeck.com/tasshi/bootstrapping-a-global-team</link>
         <dc:date>2023-01-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SQL Server2022_PSPoptimization_pub.pdf (Oda Shinsuke,@shinsukeoda)</title>
         <link>https://www.slideshare.net/odashinsuke/sql-server2022pspoptimizationpubpdf</link>
-        <dc:date>2023-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQLスキーマ設計の勘所 (Yuku Kotani)</title>
-        <link>https://speakerdeck.com/yukukotani/graphql-schema-design-practice</link>
         <dc:date>2023-01-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
