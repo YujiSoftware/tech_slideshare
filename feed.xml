@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>champパッケージで4脚ロボットを作った</title>
+        <link>https://docs.google.com/presentation/d/1UqXFFjBLaojIiDWl29LWIgjsOqIYsjPdeOd8BF2Khx0/preview</link>
+        <dc:date>2023-01-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Self-Supervised Learning (Naoki Okamoto)</title>
         <link>https://speakerdeck.com/naok615/self-supervised-learning</link>
         <dc:date>2023-01-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Astroで始める 爆速個人サイト開発 (takanorip)</title>
         <link>https://speakerdeck.com/takanorip/astrodeshi-meru-bao-su-ge-ren-saitokai-fa</link>
-        <dc:date>2023-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SQL Server2022_PSPoptimization_pub.pdf (Oda Shinsuke,@shinsukeoda)</title>
-        <link>https://www.slideshare.net/odashinsuke/sql-server2022pspoptimizationpubpdf</link>
         <dc:date>2023-01-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
