@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ちょうぜつ改め21世紀ふつうのソフトウェア設計 (Hisateru Tanaka)</title>
+        <link>https://speakerdeck.com/tanakahisateru/tiyouzetugai-me21shi-ji-hutuunosohutoueashe-ji</link>
+        <dc:date>2023-01-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[OWASP Nagoya #28] OWASP Juice Shop資料 (OWASP Nagoya)</title>
         <link>https://speakerdeck.com/owaspnagoya/owasp-nagoya-number-28-owasp-juice-shopzi-liao</link>
         <dc:date>2023-01-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>本社オフィスを移転し、 オフィスファシリティ・コーポレートIT を刷新した話 (rotomx)</title>
         <link>https://speakerdeck.com/rotomx/ben-she-ohuisuwoyi-zhuan-si-ohuisuhuasiriteikoporetoit-woshua-xin-sitahua</link>
-        <dc:date>2023-01-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Remix + Cloudflare Pages + D1 で ポケモン SV のレンタルチームを検索できるアプリを作ってみた (Atsusuke Murata)</title>
-        <link>https://speakerdeck.com/kuroppe1819/remix-plus-cloudflare-pages-plus-d1-de-pokemon-sv-norentarutimuwojian-suo-dekiruapuriwozuo-tutemita</link>
         <dc:date>2023-01-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
