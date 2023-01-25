@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CTO から見た，なぜスタートアップ 初期のソフトウェア設計は壊れがちなのか (memory)</title>
+        <link>https://speakerdeck.com/memory1994/why-the-application-design-is-breaking-sometimes-at-a-startup-company</link>
+        <dc:date>2023-01-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Zynq MP SoC で楽しむエッジコンピューティング ～RTLプログラミングのススメ～ (Ryuji Fuchikami)</title>
         <link>https://speakerdeck.com/ryuz88/zynq-mp-soc-dele-simuetuzikonpiyuteingu-rtlpuroguramingunosusume</link>
         <dc:date>2023-01-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>plotlyで動くグラフを作る (takuma koshiishi)</title>
         <link>https://speakerdeck.com/kosshi/plotlydedong-kugurahuwozuo-ru</link>
-        <dc:date>2023-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Astroで始める爆速個人サイト開発 (takanorip)</title>
-        <link>https://speakerdeck.com/takanorip/astroteshi-merubao-su-ge-ren-saitokai-fa</link>
         <dc:date>2023-01-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
