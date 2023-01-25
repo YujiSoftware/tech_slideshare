@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データベース研修（データベース基礎編）【ミクシィ22新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2022-database-training</link>
+        <dc:date>2023-01-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NoCodeツールでWebHookからDWHへのデータの転送処理を爆速で実装した話 (Yusuke Tamura)</title>
         <link>https://speakerdeck.com/tamtam0423/nocodeturutewebhookkaradwhhenotetanozhuan-song-chu-li-wobao-su-teshi-zhuang-sitahua</link>
         <dc:date>2023-01-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>PDFのビジュアルリグレッションテスト (terurou)</title>
         <link>https://speakerdeck.com/terurou/pdfnobiziyuaruriguretusiyontesuto</link>
-        <dc:date>2023-01-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NGK2023S - OCaml最高! スマホ開発にも使えちゃう?! (Haochen Kotoi-Xie)</title>
-        <link>https://speakerdeck.com/haochenxie/ngk2023s-ocamlzui-gao-sumahokai-fa-nimoshi-etiyau</link>
         <dc:date>2023-01-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
