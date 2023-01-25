@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NoCodeツールでWebHookからDWHへのデータの転送処理を爆速で実装した話 (Yusuke Tamura)</title>
+        <link>https://speakerdeck.com/tamtam0423/nocodeturutewebhookkaradwhhenotetanozhuan-song-chu-li-wobao-su-teshi-zhuang-sitahua</link>
+        <dc:date>2023-01-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Webサイトが表示されるまでの流れ (kenya)</title>
+        <link>https://speakerdeck.com/kenyamasuko/websaitogabiao-shi-sarerumadenoliu-re</link>
+        <dc:date>2023-01-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CTO から見た，なぜスタートアップ 初期のソフトウェア設計は壊れがちなのか (memory)</title>
         <link>https://speakerdeck.com/memory1994/why-the-application-design-is-breaking-sometimes-at-a-startup-company</link>
         <dc:date>2023-01-24T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>NGK2023S - OCaml最高! スマホ開発にも使えちゃう?! (Haochen Kotoi-Xie)</title>
         <link>https://speakerdeck.com/haochenxie/ngk2023s-ocamlzui-gao-sumahokai-fa-nimoshi-etiyau</link>
         <dc:date>2023-01-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Optimizing your Swift code (Yuta Saito)</title>
-        <link>https://speakerdeck.com/kateinoigakukun/optimizing-your-swift-code</link>
-        <dc:date>2023-01-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>plotlyで動くグラフを作る (takuma koshiishi)</title>
-        <link>https://speakerdeck.com/kosshi/plotlydedong-kugurahuwozuo-ru</link>
-        <dc:date>2023-01-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
