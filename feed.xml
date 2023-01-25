@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>証明書って何だっけ？ 〜AWSの中間CA移行に備える〜 (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/zheng-ming-shu-tutehe-datuke-awsnozhong-jian-cayi-xing-nibei-eru</link>
+        <dc:date>2023-01-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloudflare Workersで動くOG画像生成器 (AijiUejima)</title>
         <link>https://speakerdeck.com/aiji42/cloudflare-workersdedong-kuoghua-xiang-sheng-cheng-qi</link>
         <dc:date>2023-01-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20230121_データ分析系コミュニティ_サテライト企画 (NobuakiOshiro)</title>
         <link>https://speakerdeck.com/doradora09/20230121-tetafen-xi-xi-komiyunitei-sateraitoqi-hua</link>
-        <dc:date>2023-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rでオセロ_tokyor_20230121/a_reversi-solver_in_R_inspired_by_SQL (florets1)</title>
-        <link>https://speakerdeck.com/florets1/a-reversi-solver-in-r-inspired-by-sql</link>
         <dc:date>2023-01-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
