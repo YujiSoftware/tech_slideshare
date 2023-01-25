@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloudflare Workersと状態管理 (chimame)</title>
+        <link>https://speakerdeck.com/chimame/cloudflare-workerstozhuang-tai-guan-li</link>
+        <dc:date>2023-01-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>証明書って何だっけ？ 〜AWSの中間CA移行に備える〜 (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/zheng-ming-shu-tutehe-datuke-awsnozhong-jian-cayi-xing-nibei-eru</link>
         <dc:date>2023-01-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ぷよらーの強さと勝負ムラの推定 (Shinji Kikuchi)</title>
         <link>https://www.docswell.com/s/sk_bono36/ZJ2L3Z-2023-01-21-151716</link>
-        <dc:date>2023-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230121_データ分析系コミュニティ_サテライト企画 (NobuakiOshiro)</title>
-        <link>https://speakerdeck.com/doradora09/20230121-tetafen-xi-xi-komiyunitei-sateraitoqi-hua</link>
         <dc:date>2023-01-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
