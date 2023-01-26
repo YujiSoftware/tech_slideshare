@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NextJS + Sass で書かれたブログサイトにStyledComponentを導入する。</title>
+        <link>https://docs.google.com/presentation/d/1buLAWuqs-DX6ydzHG27fHE55aHzhwlknUOWQX8ldYsk/preview</link>
+        <dc:date>2023-01-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Form実装基本を学び直してみた (Hyuga-Tsukui)</title>
+        <link>https://speakerdeck.com/hyugatsukui/formshi-zhuang-ji-ben-woxue-bizhi-sitemita</link>
+        <dc:date>2023-01-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロジェクトを成功させる、初心者向けディレクション７つのこと ~あるあるな“困ったこと“の解決方法~ (toksato)</title>
         <link>https://speakerdeck.com/toksato/puroziekutowocheng-gong-saseru-chu-xin-zhe-xiang-kedeirekusiyon7tunokoto-aruaruna-kun-tutakoto-nojie-jue-fang-fa</link>
         <dc:date>2023-01-25T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>グローバルチームことはじめ / Bootstrapping a global team (Masaharu TASHIRO)</title>
         <link>https://speakerdeck.com/tasshi/bootstrapping-a-global-team</link>
         <dc:date>2023-01-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ノンプログラマ向けGASレクチャ_V8対応</title>
-        <link>https://docs.google.com/presentation/d/1B4av1gPS9xW4XVRqcih6R4Oe5nQabsm3AYO54Y9HDQ0/preview</link>
-        <dc:date>2023-01-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>運用業務とスクラムは本当に組み合わせにくいのか？プロダクトオーナーから見た2つのプロダクトを担当するチームでの試行錯誤の軌跡とこれから / Is there chemistry between Operation work and Scrum？@RSGT2023 (nako418)</title>
-        <link>https://speakerdeck.com/nako418/is-there-chemistry-between-operation-work-and-scrum-at-rsgt2023</link>
-        <dc:date>2023-01-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
