@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DNS権威サーバのクラウドサービス向けに行われた攻撃および対策 / DNS Pseudo-Random Subdomain Attack and mitigations (kazeburo)</title>
+        <link>https://speakerdeck.com/kazeburo/dns-pseudo-random-subdomain-attack-and-mitigations</link>
+        <dc:date>2023-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Swift Expression Macros: a practical introduction (Kishikawa Katsumi)</title>
         <link>https://speakerdeck.com/kishikawakatsumi/swift-expression-macros-a-practical-introduction</link>
         <dc:date>2023-01-26T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>証明書って何だっけ？ 〜AWSの中間CA移行に備える〜 (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/zheng-ming-shu-tutehe-datuke-awsnozhong-jian-cayi-xing-nibei-eru</link>
         <dc:date>2023-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Workersで動くOG画像生成器 (AijiUejima)</title>
-        <link>https://speakerdeck.com/aiji42/cloudflare-workersdedong-kuoghua-xiang-sheng-cheng-qi</link>
-        <dc:date>2023-01-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
