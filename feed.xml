@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CA 1Day Youth Boot Camp Part of Go (CyberAgent)</title>
+        <link>https://speakerdeck.com/cyberagentdevelopers/ca-1day-youth-boot-camp-part-of-go</link>
+        <dc:date>2023-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DNS権威サーバのクラウドサービス向けに行われた攻撃および対策 / DNS Pseudo-Random Subdomain Attack and mitigations (kazeburo)</title>
         <link>https://speakerdeck.com/kazeburo/dns-pseudo-random-subdomain-attack-and-mitigations</link>
         <dc:date>2023-01-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Cloudflare Workersと状態管理 (chimame)</title>
         <link>https://speakerdeck.com/chimame/cloudflare-workerstozhuang-tai-guan-li</link>
-        <dc:date>2023-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>証明書って何だっけ？ 〜AWSの中間CA移行に備える〜 (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/zheng-ming-shu-tutehe-datuke-awsnozhong-jian-cayi-xing-nibei-eru</link>
         <dc:date>2023-01-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
