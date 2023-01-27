@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenShift を身近に感じる Single Node OpenShift と OpenShift Local / Single Node OpenShift and OpenShift Local that makes OpenShift familiar (ののし)</title>
+        <link>https://speakerdeck.com/nnstt1/single-node-openshift-and-openshift-local-that-makes-openshift-familiar</link>
+        <dc:date>2023-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenShiftのリリースノートを整理してみた (loftkun)</title>
+        <link>https://speakerdeck.com/loftkun/openshift-run-2023</link>
+        <dc:date>2023-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenShift.Run2023_create-aro-with-terraform (Taiki Ishii)</title>
+        <link>https://speakerdeck.com/ishiitaiki20fixer/openshift-dot-run2023-create-aro-with-terraform</link>
+        <dc:date>2023-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenShiftでスポットVMを使おう.pdf (jpishikawa)</title>
+        <link>https://speakerdeck.com/jpishikawa/openshifttesuhotutovmwoshi-ou</link>
+        <dc:date>2023-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OVN-Kubernetes-Introduction-ja-2023-01-27.pdf (orimanabu)</title>
+        <link>https://speakerdeck.com/orimanabu/ovn-kubernetes-introduction-ja-2023-01-27</link>
+        <dc:date>2023-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>創業1年目のスタートアップでAWSコストを抑えるために取り組んでいること / How to Keep AWS Costs Down at a Startup (Yuji Oshima)</title>
+        <link>https://speakerdeck.com/yuj1osm/how-to-keep-aws-costs-down-at-a-startup</link>
+        <dc:date>2023-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CA 1Day Youth Boot Camp Part of Go (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/ca-1day-youth-boot-camp-part-of-go</link>
         <dc:date>2023-01-26T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>フロントエンド開発スタイルの変遷と、私がFlutterにハマったわけ (YUMOTO Michitaka)</title>
         <link>https://speakerdeck.com/gothedistance/frontend-development-style-history-and-why-crazy-about-flutter</link>
-        <dc:date>2023-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データベース研修（データベース基礎編）【ミクシィ22新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2022-database-training</link>
-        <dc:date>2023-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NoCodeツールでWebHookからDWHへのデータの転送処理を爆速で実装した話 (Yusuke Tamura)</title>
-        <link>https://speakerdeck.com/tamtam0423/nocodeturutewebhookkaradwhhenotetanozhuan-song-chu-li-wobao-su-teshi-zhuang-sitahua</link>
-        <dc:date>2023-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webサイトが表示されるまでの流れ (kenya)</title>
-        <link>https://speakerdeck.com/kenyamasuko/websaitogabiao-shi-sarerumadenoliu-re</link>
-        <dc:date>2023-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CTO から見た，なぜスタートアップ 初期のソフトウェア設計は壊れがちなのか (memory)</title>
-        <link>https://speakerdeck.com/memory1994/why-the-application-design-is-breaking-sometimes-at-a-startup-company</link>
-        <dc:date>2023-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Zynq MP SoC で楽しむエッジコンピューティング ～RTLプログラミングのススメ～ (Ryuji Fuchikami)</title>
-        <link>https://speakerdeck.com/ryuz88/zynq-mp-soc-dele-simuetuzikonpiyuteingu-rtlpuroguramingunosusume</link>
-        <dc:date>2023-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Workersと状態管理 (chimame)</title>
-        <link>https://speakerdeck.com/chimame/cloudflare-workerstozhuang-tai-guan-li</link>
         <dc:date>2023-01-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
