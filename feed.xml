@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インフラ技術基礎勉強会 開催概要 (Toru_Kubota)</title>
+        <link>https://speakerdeck.com/toru_kubota/inhuraji-shu-ji-chu-mian-qiang-hui-kai-cui-gai-yao</link>
+        <dc:date>2023-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>爆速の日経電子版開発の今 (Shinobu Hayashi)</title>
         <link>https://speakerdeck.com/shinyaigeek/bao-su-nori-jing-dian-zi-ban-kai-fa-nojin</link>
         <dc:date>2023-01-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>強いて言えば「集約どう実装するのかな、を考える」な話 (Yoshitaka Kawashima,@kawasima)</title>
         <link>https://www.slideshare.net/kawasima/ss-255489610</link>
-        <dc:date>2023-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>和暦を正しく扱うための暦の話 (nagise)</title>
-        <link>https://speakerdeck.com/nagise/he-li-wozheng-sikuxi-utamenoli-nohua</link>
         <dc:date>2023-01-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
