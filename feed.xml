@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>個人AS運用を議論するBoF (JANOG51) (Katsushi Yamaguchi)</title>
+        <link>https://speakerdeck.com/ktyamaguchi/ge-ren-asyun-yong-woyi-lun-surubof-janog51</link>
+        <dc:date>2023-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OpenShift を身近に感じる Single Node OpenShift と OpenShift Local / Single Node OpenShift and OpenShift Local that makes OpenShift familiar (ののし)</title>
         <link>https://speakerdeck.com/nnstt1/single-node-openshift-and-openshift-local-that-makes-openshift-familiar</link>
         <dc:date>2023-01-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[OWASP Nagoya #28] OWASP Juice Shop資料 (OWASP Nagoya)</title>
         <link>https://speakerdeck.com/owaspnagoya/owasp-nagoya-number-28-owasp-juice-shopzi-liao</link>
-        <dc:date>2023-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンド開発スタイルの変遷と、私がFlutterにハマったわけ (YUMOTO Michitaka)</title>
-        <link>https://speakerdeck.com/gothedistance/frontend-development-style-history-and-why-crazy-about-flutter</link>
         <dc:date>2023-01-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
