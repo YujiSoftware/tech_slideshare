@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>cdk deployに必要な権限ってなんだ？ (Kinyo)</title>
+        <link>https://speakerdeck.com/kinyok/cdk-deploynibi-yao-naquan-xian-tutenanda</link>
+        <dc:date>2023-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OSC大阪 パスワード認証は人類には早すぎる ~ IDaaSを使ったソーシャルログインのすすめ ~ (Auth屋)</title>
         <link>https://speakerdeck.com/authyasan/oscda-ban-pasuwadoren-zheng-haren-lei-nihazao-sugiru-idaaswoshi-tutasosiyaruroguinnosusume</link>
         <dc:date>2023-01-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>NextJS + Sass で書かれたブログサイトにStyledComponentを導入する。</title>
         <link>https://docs.google.com/presentation/d/1buLAWuqs-DX6ydzHG27fHE55aHzhwlknUOWQX8ldYsk/preview</link>
-        <dc:date>2023-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Form実装基本を学び直してみた (Hyuga-Tsukui)</title>
-        <link>https://speakerdeck.com/hyugatsukui/formshi-zhuang-ji-ben-woxue-bizhi-sitemita</link>
         <dc:date>2023-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
