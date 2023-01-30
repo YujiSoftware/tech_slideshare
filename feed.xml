@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ChatGPTは思ったほど賢くない (Shoya Matsumori)</title>
+        <link>https://www.slideshare.net/ShoyaMatsumori/chatgpt-255570524</link>
+        <dc:date>2023-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>cdk deployに必要な権限ってなんだ？ (Kinyo)</title>
         <link>https://speakerdeck.com/kinyok/cdk-deploynibi-yao-naquan-xian-tutenanda</link>
         <dc:date>2023-01-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>監視せなあかんし、五大紙だけにオオカミってな🐺🐺🐺🐺🐺 (sadnessOjisan)</title>
         <link>https://speakerdeck.com/sadnessojisan/jian-shi-senaakansi-wu-da-zhi-dakeniookamitutena</link>
-        <dc:date>2023-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NextJS + Sass で書かれたブログサイトにStyledComponentを導入する。</title>
-        <link>https://docs.google.com/presentation/d/1buLAWuqs-DX6ydzHG27fHE55aHzhwlknUOWQX8ldYsk/preview</link>
         <dc:date>2023-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
