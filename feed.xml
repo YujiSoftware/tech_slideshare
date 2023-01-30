@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OSC大阪 パスワード認証は人類には早すぎる ~ IDaaSを使ったソーシャルログインのすすめ ~ (Auth屋)</title>
+        <link>https://speakerdeck.com/authyasan/oscda-ban-pasuwadoren-zheng-haren-lei-nihazao-sugiru-idaaswoshi-tutasosiyaruroguinnosusume</link>
+        <dc:date>2023-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>USB PD で迎える AC アダプター大統一時代 (Takumi Sueda)</title>
         <link>https://speakerdeck.com/puhitaku/usb-pd-deying-eru-ac-adaputada-tong-shi-dai</link>
         <dc:date>2023-01-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Form実装基本を学び直してみた (Hyuga-Tsukui)</title>
         <link>https://speakerdeck.com/hyugatsukui/formshi-zhuang-ji-ben-woxue-bizhi-sitemita</link>
-        <dc:date>2023-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロジェクトを成功させる、初心者向けディレクション７つのこと ~あるあるな“困ったこと“の解決方法~ (toksato)</title>
-        <link>https://speakerdeck.com/toksato/puroziekutowocheng-gong-saseru-chu-xin-zhe-xiang-kedeirekusiyon7tunokoto-aruaruna-kun-tutakoto-nojie-jue-fang-fa</link>
         <dc:date>2023-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
