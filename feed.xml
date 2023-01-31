@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Listかもしれない (irof)</title>
+        <link>https://speakerdeck.com/irof/listkamosirenai</link>
+        <dc:date>2023-01-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>UXデザイナーになりたい僕らのサバイバル生存戦略 〜UXデザイン・UXリサーチはどうやって学べばいいの？〜 | UX BOOST!!  V… (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/ux-uxux-ux-boost-vol1</link>
         <dc:date>2023-01-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>「わかりやすさ」を デザインする情報アーキテクチャ必修入門 / Introduction to IA for "Design for Understanding" (Yu Morita)</title>
         <link>https://speakerdeck.com/securecat/introduction-to-ia-for-design-for-understanding</link>
         <dc:date>2023-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発の手法を組織へ / Extract Method from Dev to Org (tbpgr)</title>
-        <link>https://speakerdeck.com/tbpgr/extractmethodfromdevtoorg</link>
-        <dc:date>2023-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
