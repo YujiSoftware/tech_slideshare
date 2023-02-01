@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>書籍を書きました。 そう、VS Codeで。 (kameneko)</title>
+        <link>https://speakerdeck.com/takumanakagame/shu-ji-woshu-kimasita-sou-vs-codede</link>
+        <dc:date>2023-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Tech Meetup 〜Goで作る決済サービス〜</title>
         <link>https://docs.google.com/presentation/d/1DKxFS44icohWLWbt6-7Z0kGAJ50eUV4_i_RFKGoDleE/preview</link>
         <dc:date>2023-01-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CA 1Day Youth Boot Camp Part of Go (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/ca-1day-youth-boot-camp-part-of-go</link>
-        <dc:date>2023-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DNS権威サーバのクラウドサービス向けに行われた攻撃および対策 / DNS Pseudo-Random Subdomain Attack and mitigations (kazeburo)</title>
-        <link>https://speakerdeck.com/kazeburo/dns-pseudo-random-subdomain-attack-and-mitigations</link>
         <dc:date>2023-01-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
