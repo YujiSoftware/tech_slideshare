@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Tech Meetup 〜Goで作る決済サービス〜</title>
+        <link>https://docs.google.com/presentation/d/1DKxFS44icohWLWbt6-7Z0kGAJ50eUV4_i_RFKGoDleE/preview</link>
+        <dc:date>2023-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Exposed 応用編 〜内部実装 と 魔拡張〜 (Hideyuki Takeuchi)</title>
         <link>https://speakerdeck.com/chimerast/exposed-ying-yong-bian-nei-bu-shi-zhuang-to-mo-kuo-zhang</link>
         <dc:date>2023-01-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DNS権威サーバのクラウドサービス向けに行われた攻撃および対策 / DNS Pseudo-Random Subdomain Attack and mitigations (kazeburo)</title>
         <link>https://speakerdeck.com/kazeburo/dns-pseudo-random-subdomain-attack-and-mitigations</link>
-        <dc:date>2023-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Swift Expression Macros: a practical introduction (Kishikawa Katsumi)</title>
-        <link>https://speakerdeck.com/kishikawakatsumi/swift-expression-macros-a-practical-introduction</link>
         <dc:date>2023-01-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
