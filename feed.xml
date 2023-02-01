@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Exposed 応用編 〜内部実装 と 魔拡張〜 (Hideyuki Takeuchi)</title>
+        <link>https://speakerdeck.com/chimerast/exposed-ying-yong-bian-nei-bu-shi-zhuang-to-mo-kuo-zhang</link>
+        <dc:date>2023-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>R2DBCでAPIの高速化をしようとしてやめた話 (yy_yank)</title>
+        <link>https://speakerdeck.com/yyyank/r2dbcdeapinogao-su-hua-wosiyoutositeyametahua</link>
+        <dc:date>2023-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>re:Invent2022 前後の Amazon EventBridge のアップデートを踏まえつつ、情シスの仕事をより楽しくしたい話。 / EventBridge for Information Systems Department (kensh)</title>
         <link>https://speakerdeck.com/_kensh/eventbridge-for-information-systems-department</link>
         <dc:date>2023-01-31T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Swift Expression Macros: a practical introduction (Kishikawa Katsumi)</title>
         <link>https://speakerdeck.com/kishikawakatsumi/swift-expression-macros-a-practical-introduction</link>
-        <dc:date>2023-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インフラ技術基礎勉強会 開催概要 (Toru_Kubota)</title>
-        <link>https://speakerdeck.com/toru_kubota/inhuraji-shu-ji-chu-mian-qiang-hui-kai-cui-gai-yao</link>
-        <dc:date>2023-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>爆速の日経電子版開発の今 (Shinobu Hayashi)</title>
-        <link>https://speakerdeck.com/shinyaigeek/bao-su-nori-jing-dian-zi-ban-kai-fa-nojin</link>
         <dc:date>2023-01-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
