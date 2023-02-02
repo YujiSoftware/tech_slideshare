@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Arc 対応サーバーへの SSH アクセス (Kazuki Takai,@zhuky7)</title>
+        <link>https://www.slideshare.net/kazukitakai/arc-ssh</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Windows Admin Center 2208 PreviewとWindows Admin Center in Azure (Norio SASHIZAKI,@sshzk)</title>
+        <link>https://www.docswell.com/s/sshzk/51G93Z-2022-09-17-213439</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WAC in Azure Portalで管理する Azure Stack HCI (Satoshi G)</title>
+        <link>https://www.docswell.com/s/wind06106/5RRRG5-WACinAzurePortal</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組織に対してSREを適用するとどうなるか (masao kunii)</title>
         <link>https://speakerdeck.com/kuniim/zu-zhi-nidui-sitesrewoshi-yong-surutotounaruka</link>
         <dc:date>2023-02-01T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>OpenShift を身近に感じる Single Node OpenShift と OpenShift Local / Single Node OpenShift and OpenShift Local that makes OpenShift familiar (ののし)</title>
         <link>https://speakerdeck.com/nnstt1/single-node-openshift-and-openshift-local-that-makes-openshift-familiar</link>
-        <dc:date>2023-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenShiftのリリースノートを整理してみた (loftkun)</title>
-        <link>https://speakerdeck.com/loftkun/openshift-run-2023</link>
-        <dc:date>2023-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenShift.Run2023_create-aro-with-terraform (Taiki Ishii)</title>
-        <link>https://speakerdeck.com/ishiitaiki20fixer/openshift-dot-run2023-create-aro-with-terraform</link>
-        <dc:date>2023-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenShiftでスポットVMを使おう.pdf (jpishikawa)</title>
-        <link>https://speakerdeck.com/jpishikawa/openshifttesuhotutovmwoshi-ou</link>
         <dc:date>2023-01-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
