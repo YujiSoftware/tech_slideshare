@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>明日から使えるテスト技法勉強会_6_境界値分析・ドメイン分析 (GIHOZ SUPPORT TEAM)</title>
+        <link>https://speakerdeck.com/gihoz_support/ming-ri-karashi-erutesutoji-fa-mian-qiang-hui-6-jing-jie-zhi-fen-xi-domeinfen-xi</link>
+        <dc:date>2023-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>書籍を書きました。 そう、VS Codeで。 (kameneko)</title>
         <link>https://speakerdeck.com/takumanakagame/shu-ji-woshu-kimasita-sou-vs-codede</link>
         <dc:date>2023-02-01T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>創業1年目のスタートアップでAWSコストを抑えるために取り組んでいること / How to Keep AWS Costs Down at a Startup (Yuji Oshima)</title>
         <link>https://speakerdeck.com/yuj1osm/how-to-keep-aws-costs-down-at-a-startup</link>
         <dc:date>2023-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CA 1Day Youth Boot Camp Part of Go (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/ca-1day-youth-boot-camp-part-of-go</link>
-        <dc:date>2023-01-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
