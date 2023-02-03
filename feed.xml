@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TSX First な Zero-Runtime SSG potato4d/dodai とその仕組み / owned static site generator #kyotojs (Potato4d(Hanatani Takuma))</title>
+        <link>https://speakerdeck.com/potato4d/owned-static-site-generator-number-kyotojs</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title> Kotlin向けOSSに貢献してきて感じたアレコレ (wrongwrong)</title>
         <link>https://speakerdeck.com/k163377/kotlinxiang-keossnigong-xian-sitekitegan-zitaarekore</link>
         <dc:date>2023-02-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Exposed 応用編 〜内部実装 と 魔拡張〜 (Hideyuki Takeuchi)</title>
         <link>https://speakerdeck.com/chimerast/exposed-ying-yong-bian-nei-bu-shi-zhuang-to-mo-kuo-zhang</link>
-        <dc:date>2023-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>R2DBCでAPIの高速化をしようとしてやめた話 (yy_yank)</title>
-        <link>https://speakerdeck.com/yyyank/r2dbcdeapinogao-su-hua-wosiyoutositeyametahua</link>
         <dc:date>2023-01-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
