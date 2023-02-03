@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title> Kotlin向けOSSに貢献してきて感じたアレコレ (wrongwrong)</title>
+        <link>https://speakerdeck.com/k163377/kotlinxiang-keossnigong-xian-sitekitegan-zitaarekore</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kotlinライブラリの リリースを自動化する手法 (Toshihiro Nakamura)</title>
+        <link>https://speakerdeck.com/nakamura_to/kotlinraiburarino-ririsuwozi-dong-hua-surushou-fa</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>KotlinのソースコードをASTレベルで書き換えるツールを作っている話 (Kota Kato)</title>
+        <link>https://www.docswell.com/s/orangain/ZXNRG5-introducing-ktcodeshift</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>支払い.comのアーキテクチャについて (satoshi mizumura)</title>
+        <link>https://speakerdeck.com/ikatechx/zhi-fu-i-dot-comfalseakitekutiyanituite</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>良質な技術記事を量産する秘訣 / #MeetsPro (Junichi Ito)</title>
         <link>https://speakerdeck.com/jnchito/number-meetspro</link>
         <dc:date>2023-02-02T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>R2DBCでAPIの高速化をしようとしてやめた話 (yy_yank)</title>
         <link>https://speakerdeck.com/yyyank/r2dbcdeapinogao-su-hua-wosiyoutositeyametahua</link>
         <dc:date>2023-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>re:Invent2022 前後の Amazon EventBridge のアップデートを踏まえつつ、情シスの仕事をより楽しくしたい話。 / EventBridge for Information Systems Department (kensh)</title>
-        <link>https://speakerdeck.com/_kensh/eventbridge-for-information-systems-department</link>
-        <dc:date>2023-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Listかもしれない (irof)</title>
-        <link>https://speakerdeck.com/irof/listkamosirenai</link>
-        <dc:date>2023-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UXデザイナーになりたい僕らのサバイバル生存戦略 〜UXデザイン・UXリサーチはどうやって学べばいいの？〜 | UX BOOST!!  V… (Yoshiki Hayama,@storywriter)</title>
-        <link>https://www.slideshare.net/storywriterjp/ux-uxux-ux-boost-vol1</link>
-        <dc:date>2023-01-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTは思ったほど賢くない (Shoya Matsumori)</title>
-        <link>https://www.slideshare.net/ShoyaMatsumori/chatgpt-255570524</link>
-        <dc:date>2023-01-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
