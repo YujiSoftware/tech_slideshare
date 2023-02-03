@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NGINXENG JP#2 - 4-NGINX-エンジニアリング勉強会 (hiropo20)</title>
+        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-2-4-nginx-enziniaringumian-qiang-hui</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NGINXENG JP#2 - 1-NGINX-エンジニアリング勉強会-きょうの見どころ (hiropo20)</title>
+        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-2-1-nginx-enziniaringumian-qiang-hui-kiyounojian-dokoro</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NGINXENG JP#2 - 2-NGINXの動作の詳細 (hiropo20)</title>
+        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-2-2-nginxnodong-zuo-noxiang-xi</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NGINXENG JP#2 - 3-NGINX Plus・プロダクトのアップデート (hiropo20)</title>
+        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-2-3-nginx-pluspurodakutonoatupudeto</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Arc 対応サーバーへの SSH アクセス (Kazuki Takai,@zhuky7)</title>
         <link>https://www.slideshare.net/kazukitakai/arc-ssh</link>
         <dc:date>2023-02-02T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>OSC大阪 パスワード認証は人類には早すぎる ~ IDaaSを使ったソーシャルログインのすすめ ~ (Auth屋)</title>
         <link>https://speakerdeck.com/authyasan/oscda-ban-pasuwadoren-zheng-haren-lei-nihazao-sugiru-idaaswoshi-tutasosiyaruroguinnosusume</link>
         <dc:date>2023-01-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>USB PD で迎える AC アダプター大統一時代 (Takumi Sueda)</title>
-        <link>https://speakerdeck.com/puhitaku/usb-pd-deying-eru-ac-adaputada-tong-shi-dai</link>
-        <dc:date>2023-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Office 365 Outlook コネクタであれこれハマった話 2 (ふらり,@flali_world)</title>
-        <link>https://www.docswell.com/s/fworlddocs/5RJGGZ-2022-06-18-210000</link>
-        <dc:date>2023-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人AS運用を議論するBoF (JANOG51) (Katsushi Yamaguchi)</title>
-        <link>https://speakerdeck.com/ktyamaguchi/ge-ren-asyun-yong-woyi-lun-surubof-janog51</link>
-        <dc:date>2023-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenShift を身近に感じる Single Node OpenShift と OpenShift Local / Single Node OpenShift and OpenShift Local that makes OpenShift familiar (ののし)</title>
-        <link>https://speakerdeck.com/nnstt1/single-node-openshift-and-openshift-local-that-makes-openshift-familiar</link>
-        <dc:date>2023-01-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
