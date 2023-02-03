@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>良質な技術記事を量産する秘訣 / #MeetsPro (Junichi Ito)</title>
+        <link>https://speakerdeck.com/jnchito/number-meetspro</link>
+        <dc:date>2023-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ヤフーの全社共通レコメンドプラットフォームでのMLOpsの取り組み #mlopsコミュニティ (Yahoo!デベロッパーネットワーク,@ydnjp)</title>
         <link>https://www.docswell.com/s/ydnjp/KJ2WNK-2023-01-26-214826</link>
         <dc:date>2023-02-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ChatGPTは思ったほど賢くない (Shoya Matsumori)</title>
         <link>https://www.slideshare.net/ShoyaMatsumori/chatgpt-255570524</link>
-        <dc:date>2023-01-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>cdk deployに必要な権限ってなんだ？ (Kinyo)</title>
-        <link>https://speakerdeck.com/kinyok/cdk-deploynibi-yao-naquan-xian-tutenanda</link>
         <dc:date>2023-01-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
