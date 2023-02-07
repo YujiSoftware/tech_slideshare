@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Rubyとハンダ付けからはじめる、自作キーボード入門</title>
+        <link>https://docs.google.com/presentation/d/12ulYx5A8_8aqHkoRZyyirHTW8c2e_vjhTeHZvkuTOcI/preview</link>
+        <dc:date>2023-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>知識ベースの自然言語処理への活用 (Ikuya Yamada)</title>
         <link>https://speakerdeck.com/ikuyamada/zhi-shi-besufalsezi-ran-yan-yu-chu-li-hefalsehuo-yong</link>
         <dc:date>2023-02-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>NGINXENG JP#2 - 1-NGINX-エンジニアリング勉強会-きょうの見どころ (hiropo20)</title>
         <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-2-1-nginx-enziniaringumian-qiang-hui-kiyounojian-dokoro</link>
-        <dc:date>2023-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NGINXENG JP#2 - 2-NGINXの動作の詳細 (hiropo20)</title>
-        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-2-2-nginxnodong-zuo-noxiang-xi</link>
         <dc:date>2023-02-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
