@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>満を持して始めるRust (estie | エスティ)</title>
+        <link>https://speakerdeck.com/estie/man-wochi-siteshi-merurust</link>
+        <dc:date>2023-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>教科書が教えてくれない「交絡」の話 (KRSK)</title>
         <link>https://speakerdeck.com/koro485/jiao-ke-shu-gajiao-etekurenai-jiao-luo-nohua</link>
         <dc:date>2023-02-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ホームページ制作の 流れを学ぶ</title>
         <link>https://docs.google.com/presentation/d/13ZjoQWIwc_A2QLhVPWMMOQKyF0PEMj9OHom2hFkoTaI/preview</link>
         <dc:date>2023-02-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unityでのチート対策を簡単かつ高品質に行う為の取り組み (trapezoid)</title>
-        <link>https://speakerdeck.com/trapezoid/unitydenotitodui-ce-wojian-dan-katugao-pin-zhi-nixing-uwei-noqu-rizu-mi</link>
-        <dc:date>2023-02-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
