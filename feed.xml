@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ポストモーテム運用を支える文化と技術 / Culture and Technology Supporting Postmortem Operations (Takeshi Kondo)</title>
+        <link>https://speakerdeck.com/chaspy/culture-and-technology-supporting-postmortem-operations</link>
+        <dc:date>2023-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title> ポストモーテムはじめました (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/posutomotemuhazimemasita</link>
+        <dc:date>2023-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Next.js 13 Layout / Streaming SSR 仕組み解説 (sumiren)</title>
         <link>https://speakerdeck.com/sumiren/streaming-ssr-shi-zu-mijie-shuo</link>
         <dc:date>2023-02-07T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>支払い.comのアーキテクチャについて (satoshi mizumura)</title>
         <link>https://speakerdeck.com/ikatechx/zhi-fu-i-dot-comfalseakitekutiyanituite</link>
-        <dc:date>2023-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>良質な技術記事を量産する秘訣 / #MeetsPro (Junichi Ito)</title>
-        <link>https://speakerdeck.com/jnchito/number-meetspro</link>
-        <dc:date>2023-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ヤフーの全社共通レコメンドプラットフォームでのMLOpsの取り組み #mlopsコミュニティ (Yahoo!デベロッパーネットワーク,@ydnjp)</title>
-        <link>https://www.docswell.com/s/ydnjp/KJ2WNK-2023-01-26-214826</link>
         <dc:date>2023-02-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
