@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[Developers Summit 2023] ソフトウェアテスト新時代の幕開け: 機械学習とデータサイエンスで実現するテスト運用の高度化 (Takayuki WATANABE (渡辺 喬之))</title>
+        <link>https://speakerdeck.com/takanabe/developers-summit-2023-evolution-of-software-testing-by-machine-learning</link>
+        <dc:date>2023-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Introduction to Dependency Injection 「DI」の整理とそのメリット (RevComm_inc)</title>
         <link>https://speakerdeck.com/revcomm_inc/introduction-to-dependency-injection-di-nozheng-li-tosonomerituto</link>
         <dc:date>2023-02-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title> Kotlin向けOSSに貢献してきて感じたアレコレ (wrongwrong)</title>
         <link>https://speakerdeck.com/k163377/kotlinxiang-keossnigong-xian-sitekitegan-zitaarekore</link>
-        <dc:date>2023-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kotlinライブラリの リリースを自動化する手法 (Toshihiro Nakamura)</title>
-        <link>https://speakerdeck.com/nakamura_to/kotlinraiburarino-ririsuwozi-dong-hua-surushou-fa</link>
         <dc:date>2023-02-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
