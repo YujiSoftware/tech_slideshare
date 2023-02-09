@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Introduction to Dependency Injection 「DI」の整理とそのメリット (RevComm_inc)</title>
+        <link>https://speakerdeck.com/revcomm_inc/introduction-to-dependency-injection-di-nozheng-li-tosonomerituto</link>
+        <dc:date>2023-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機械学習を実用化するエンジニアリングスキル (shibuiwilliam)</title>
+        <link>https://speakerdeck.com/shibuiwilliam/ji-jie-xue-xi-woshi-yong-hua-suruenziniaringusukiru</link>
+        <dc:date>2023-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ポストモーテム運用を支える文化と技術 / Culture and Technology Supporting Postmortem Operations (Takeshi Kondo)</title>
         <link>https://speakerdeck.com/chaspy/culture-and-technology-supporting-postmortem-operations</link>
         <dc:date>2023-02-08T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Kotlinライブラリの リリースを自動化する手法 (Toshihiro Nakamura)</title>
         <link>https://speakerdeck.com/nakamura_to/kotlinraiburarino-ririsuwozi-dong-hua-surushou-fa</link>
-        <dc:date>2023-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KotlinのソースコードをASTレベルで書き換えるツールを作っている話 (Kota Kato)</title>
-        <link>https://www.docswell.com/s/orangain/ZXNRG5-introducing-ktcodeshift</link>
-        <dc:date>2023-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>支払い.comのアーキテクチャについて (satoshi mizumura)</title>
-        <link>https://speakerdeck.com/ikatechx/zhi-fu-i-dot-comfalseakitekutiyanituite</link>
         <dc:date>2023-02-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
