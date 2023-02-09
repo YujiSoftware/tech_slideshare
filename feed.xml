@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>教科書が教えてくれない「交絡」の話 (KRSK)</title>
+        <link>https://speakerdeck.com/koro485/jiao-ke-shu-gajiao-etekurenai-jiao-luo-nohua</link>
+        <dc:date>2023-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>予測できない時代に学ぶ「クラウドネイティブ」にまつわる誤解と本質 (Kazuto Kusama)</title>
+        <link>https://speakerdeck.com/jacopen/essence-of-cloud-native</link>
+        <dc:date>2023-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>テストを学びたい開発者のためのソフトウェアテスト読書マップ / Software Testing Reading Map for Developers (Kazuhiro SUZUKI)</title>
         <link>https://speakerdeck.com/kzsuzuki/software-testing-reading-map-for-developers</link>
         <dc:date>2023-02-08T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Unityでのチート対策を簡単かつ高品質に行う為の取り組み (trapezoid)</title>
         <link>https://speakerdeck.com/trapezoid/unitydenotitodui-ce-wojian-dan-katugao-pin-zhi-nixing-uwei-noqu-rizu-mi</link>
         <dc:date>2023-02-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CSS Variable をもっと活用する / Kyoto.js 18 (spring_raining)</title>
-        <link>https://speakerdeck.com/spring_raining/kyoto-dot-js-18</link>
-        <dc:date>2023-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TSX First な Zero-Runtime SSG potato4d/dodai とその仕組み / owned static site generator #kyotojs (Potato4d(Hanatani Takuma))</title>
-        <link>https://speakerdeck.com/potato4d/owned-static-site-generator-number-kyotojs</link>
-        <dc:date>2023-02-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
