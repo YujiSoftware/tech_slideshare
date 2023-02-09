@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テストを学びたい開発者のためのソフトウェアテスト読書マップ / Software Testing Reading Map for Developers (Kazuhiro SUZUKI)</title>
+        <link>https://speakerdeck.com/kzsuzuki/software-testing-reading-map-for-developers</link>
+        <dc:date>2023-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[Developers Summit 2023] ソフトウェアテスト新時代の幕開け: 機械学習とデータサイエンスで実現するテスト運用の高度化 (Takayuki WATANABE (渡辺 喬之))</title>
         <link>https://speakerdeck.com/takanabe/developers-summit-2023-evolution-of-software-testing-by-machine-learning</link>
         <dc:date>2023-02-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TSX First な Zero-Runtime SSG potato4d/dodai とその仕組み / owned static site generator #kyotojs (Potato4d(Hanatani Takuma))</title>
         <link>https://speakerdeck.com/potato4d/owned-static-site-generator-number-kyotojs</link>
-        <dc:date>2023-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> Kotlin向けOSSに貢献してきて感じたアレコレ (wrongwrong)</title>
-        <link>https://speakerdeck.com/k163377/kotlinxiang-keossnigong-xian-sitekitegan-zitaarekore</link>
         <dc:date>2023-02-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
