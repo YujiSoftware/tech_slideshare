@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>developers summit 2023 9-D-1 development environment (dzeyelid)</title>
+        <link>https://speakerdeck.com/dzeyelid/developers-summit-2023-9-d-1-development-environment</link>
+        <dc:date>2023-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DynamicでScalableな空間分割データ構造Bkd-Tree (Takatomo Torigoe)</title>
         <link>https://speakerdeck.com/piyo7/dynamicdescalablenakong-jian-fen-ge-detagou-zao-bkd-tree</link>
         <dc:date>2023-02-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>クックパッドがRubyKaigiに20名以上の社員で参加するわけ (takanori)</title>
         <link>https://speakerdeck.com/midorikawa/kutukupatudogarubykaigini20ming-yi-shang-noshe-yuan-decan-jia-suruwake</link>
-        <dc:date>2023-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rubyとハンダ付けからはじめる、自作キーボード入門</title>
-        <link>https://docs.google.com/presentation/d/12ulYx5A8_8aqHkoRZyyirHTW8c2e_vjhTeHZvkuTOcI/preview</link>
         <dc:date>2023-02-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
