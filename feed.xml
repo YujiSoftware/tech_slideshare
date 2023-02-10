@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DynamicでScalableな空間分割データ構造Bkd-Tree (Takatomo Torigoe)</title>
+        <link>https://speakerdeck.com/piyo7/dynamicdescalablenakong-jian-fen-ge-detagou-zao-bkd-tree</link>
+        <dc:date>2023-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>目的と抽象化の関係性から分かる、システムの設計精度を高める考え方 / purpose abstraction design (MinoDriven)</title>
+        <link>https://speakerdeck.com/minodriven/purpose-abstraction-design</link>
+        <dc:date>2023-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Improvements and Test Design for Effective Test Automation (Hiroki Iseri)</title>
         <link>https://speakerdeck.com/goyoki/improvements-and-test-design-for-effective-test-automation</link>
         <dc:date>2023-02-09T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Rubyとハンダ付けからはじめる、自作キーボード入門</title>
         <link>https://docs.google.com/presentation/d/12ulYx5A8_8aqHkoRZyyirHTW8c2e_vjhTeHZvkuTOcI/preview</link>
-        <dc:date>2023-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>知識ベースの自然言語処理への活用 (Ikuya Yamada)</title>
-        <link>https://speakerdeck.com/ikuyamada/zhi-shi-besufalsezi-ran-yan-yu-chu-li-hefalsehuo-yong</link>
-        <dc:date>2023-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スクラムマスターの悩みどころを赤裸々に告白します (Sho Nagata)</title>
-        <link>https://speakerdeck.com/nagata03/sukuramumasutanonao-mitokorowochi-luo-nigao-bai-simasu</link>
         <dc:date>2023-02-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
