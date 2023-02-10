@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンド開発のためのセキュリティ入門 (Masashi Hirano)</title>
+        <link>https://speakerdeck.com/masashi/frontend-security</link>
+        <dc:date>2023-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>定量評価疲弊しませんか？～Well-beingと生産性指標を組み合わせた エンジニアリングメトリクスプログラムについて～ (overflow ,Inc)</title>
         <link>https://speakerdeck.com/overflowinc/ding-liang-ping-jia-pi-bi-simasenka-well-beingtosheng-chan-xing-zhi-biao-wozu-mihe-waseta-enziniaringumetorikusupuroguramunituite</link>
         <dc:date>2023-02-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スクラムチーム立ち上げ期に意識したこと (Ryota Arakawa)</title>
         <link>https://speakerdeck.com/kouryou/sukuramutimuli-tishang-geqi-niyi-shi-sitakoto</link>
-        <dc:date>2023-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マイクロサービス宣言から8年 振り返りとこれから / Eight Years After the Microservices Declaration A Look Back and A Look Ahead (Eisuke Oishi)</title>
-        <link>https://speakerdeck.com/eisuke/eight-years-after-the-microservices-declaration-a-look-back-and-a-look-ahead</link>
         <dc:date>2023-02-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
