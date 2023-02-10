@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>結局は、人 / In the end, people value  (Masato Ishigaki / 石垣雅人)</title>
+        <link>https://speakerdeck.com/i35_267/in-the-end-people-value</link>
+        <dc:date>2023-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンド開発のためのセキュリティ入門 (Masashi Hirano)</title>
         <link>https://speakerdeck.com/masashi/frontend-security</link>
         <dc:date>2023-02-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スクラム導入して変わったチーム、組織のありかた (yumechi)</title>
         <link>https://speakerdeck.com/yumechi/sukuramudao-ru-sitebian-watutatimu-zu-zhi-noarikata</link>
-        <dc:date>2023-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スクラムチーム立ち上げ期に意識したこと (Ryota Arakawa)</title>
-        <link>https://speakerdeck.com/kouryou/sukuramutimuli-tishang-geqi-niyi-shi-sitakoto</link>
         <dc:date>2023-02-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
