@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織づくりをエンジニアリングする / Engineering Organizational Development (tbpgr)</title>
+        <link>https://speakerdeck.com/tbpgr/engineering-organizational-development</link>
+        <dc:date>2023-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Microsoft Defender for Endpointによるインシデント調査 (Kunii, Suguru)</title>
         <link>https://speakerdeck.com/sophiakunii/microsoft-defender-for-endpointniyoruinsidentodiao-cha</link>
         <dc:date>2023-02-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ポストモーテム運用を支える文化と技術 / Culture and Technology Supporting Postmortem Operations (Takeshi Kondo)</title>
         <link>https://speakerdeck.com/chaspy/culture-and-technology-supporting-postmortem-operations</link>
-        <dc:date>2023-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> ポストモーテムはじめました (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/posutomotemuhazimemasita</link>
         <dc:date>2023-02-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
