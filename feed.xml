@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Microsoft Defender for Endpointによるインシデント調査 (Kunii, Suguru)</title>
+        <link>https://speakerdeck.com/sophiakunii/microsoft-defender-for-endpointniyoruinsidentodiao-cha</link>
+        <dc:date>2023-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>製品条項とライセンスから見る Microsoft Defender for Endpoint (seafay)</title>
         <link>https://speakerdeck.com/seafay/license-microsoft-defender-for-endpoint</link>
         <dc:date>2023-02-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title> ポストモーテムはじめました (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/posutomotemuhazimemasita</link>
         <dc:date>2023-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.js 13 Layout / Streaming SSR 仕組み解説 (sumiren)</title>
-        <link>https://speakerdeck.com/sumiren/streaming-ssr-shi-zu-mijie-shuo</link>
-        <dc:date>2023-02-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
