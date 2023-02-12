@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DMMプラットフォームでプルリクエストのマージ時間を250時間から50時間に減らした話 (juve534)</title>
+        <link>https://speakerdeck.com/juve534/improve-development-efficiency-with-dmm-platform</link>
+        <dc:date>2023-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>送信ドメイン認証の現状 (Nonogaki Hiroshi)</title>
+        <link>https://speakerdeck.com/hinono/song-xin-domeinren-zheng-noxian-zhuang</link>
+        <dc:date>2023-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WebTransport TPAC 2022</title>
         <link>https://docs.google.com/presentation/d/141lSOntrraY3FACjIMqad0NlrYgKjEzrK-txxY2JpjI/preview</link>
         <dc:date>2023-02-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>テストを学びたい開発者のためのソフトウェアテスト読書マップ / Software Testing Reading Map for Developers (Kazuhiro SUZUKI)</title>
         <link>https://speakerdeck.com/kzsuzuki/software-testing-reading-map-for-developers</link>
-        <dc:date>2023-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Developers Summit 2023] ソフトウェアテスト新時代の幕開け: 機械学習とデータサイエンスで実現するテスト運用の高度化 (Takayuki WATANABE (渡辺 喬之))</title>
-        <link>https://speakerdeck.com/takanabe/developers-summit-2023-evolution-of-software-testing-by-machine-learning</link>
-        <dc:date>2023-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction to Dependency Injection 「DI」の整理とそのメリット (RevComm_inc)</title>
-        <link>https://speakerdeck.com/revcomm_inc/introduction-to-dependency-injection-di-nozheng-li-tosonomerituto</link>
         <dc:date>2023-02-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
