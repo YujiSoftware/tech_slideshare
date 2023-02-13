@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>俺のDXを実現するためのサーバレスなデータ基盤開発と運用 / Serverless Data Platform and Baseball (Shinichi Nakagawa)</title>
+        <link>https://speakerdeck.com/shinyorke/serverless-data-platform-and-baseball</link>
+        <dc:date>2023-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ACDPub.pptx (Ikuo Takahashi)</title>
         <link>https://www.slideshare.net/ikuotakahashi/acdpubpptx</link>
         <dc:date>2023-02-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>教科書が教えてくれない「交絡」の話 (KRSK)</title>
         <link>https://speakerdeck.com/koro485/jiao-ke-shu-gajiao-etekurenai-jiao-luo-nohua</link>
-        <dc:date>2023-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>予測できない時代に学ぶ「クラウドネイティブ」にまつわる誤解と本質 (Kazuto Kusama)</title>
-        <link>https://speakerdeck.com/jacopen/essence-of-cloud-native</link>
         <dc:date>2023-02-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
