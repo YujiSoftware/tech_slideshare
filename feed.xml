@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MLOps のこれまでとこれから (Asei Sugiyama)</title>
+        <link>https://speakerdeck.com/asei/mlops-nokoremadetokorekara-eb9ed3f9-3635-4709-8b48-5ccf201c4ae7</link>
+        <dc:date>2023-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RISC-VvsAArch64</title>
         <link>https://docs.google.com/presentation/d/1dgPbZd6vYeW6PoKXOp0bHolb7AnJCqf7yxDA2VxYxvI/preview</link>
         <dc:date>2023-02-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エンジニアにオススメの Figma 活用 (seya)</title>
         <link>https://speakerdeck.com/kazuyaseki/enzinianiosusumeno-figma-huo-yong</link>
-        <dc:date>2023-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>満を持して始めるRust (estie | エスティ)</title>
-        <link>https://speakerdeck.com/estie/man-wochi-siteshi-merurust</link>
         <dc:date>2023-02-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
