@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ACDPub.pptx (Ikuo Takahashi)</title>
+        <link>https://www.slideshare.net/ikuotakahashi/acdpubpptx</link>
+        <dc:date>2023-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DMMプラットフォームでプルリクエストのマージ時間を250時間から50時間に減らした話 (juve534)</title>
         <link>https://speakerdeck.com/juve534/improve-development-efficiency-with-dmm-platform</link>
         <dc:date>2023-02-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>予測できない時代に学ぶ「クラウドネイティブ」にまつわる誤解と本質 (Kazuto Kusama)</title>
         <link>https://speakerdeck.com/jacopen/essence-of-cloud-native</link>
-        <dc:date>2023-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テストを学びたい開発者のためのソフトウェアテスト読書マップ / Software Testing Reading Map for Developers (Kazuhiro SUZUKI)</title>
-        <link>https://speakerdeck.com/kzsuzuki/software-testing-reading-map-for-developers</link>
         <dc:date>2023-02-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
