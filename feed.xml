@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>パスキーはユーザー認証を どう変えるのか？その特徴と導入における課題 @ devsumi 2023 9-C-1 (ritou)</title>
+        <link>https://speakerdeck.com/ritou/pasukihayuzaren-zheng-wo-doubian-erunoka-sonote-zheng-todao-ru-niokeruke-ti-at-devsumi-2023-9-c-1</link>
+        <dc:date>2023-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MLOps のこれまでとこれから (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/mlops-nokoremadetokorekara-eb9ed3f9-3635-4709-8b48-5ccf201c4ae7</link>
         <dc:date>2023-02-13T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>継続的なサービス発展を支えるアーキテクチャと技術 (Altech)</title>
         <link>https://speakerdeck.com/altech/the-architecture-and-technology-for-continuous-services-growth</link>
         <dc:date>2023-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアにオススメの Figma 活用 (seya)</title>
-        <link>https://speakerdeck.com/kazuyaseki/enzinianiosusumeno-figma-huo-yong</link>
-        <dc:date>2023-02-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
