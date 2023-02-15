@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Phishing Hunging Operations (PHOps) (phishing-hunter)</title>
+        <link>https://speakerdeck.com/tatsui/phishing-hunging-operations-phops</link>
+        <dc:date>2023-02-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>kintone開発チームのご紹介 (Cybozu)</title>
+        <link>https://speakerdeck.com/cybozuinsideout/kintone-development-team-recruitment-information</link>
+        <dc:date>2023-02-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSの勉強方法 〜 資格取得後からがスタート / 20230215-jawsug-asa-aws-study (opelab)</title>
         <link>https://speakerdeck.com/opelab/20230215-jawsug-asa-aws-study</link>
         <dc:date>2023-02-14T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>DynamicでScalableな空間分割データ構造Bkd-Tree (Takatomo Torigoe)</title>
         <link>https://speakerdeck.com/piyo7/dynamicdescalablenakong-jian-fen-ge-detagou-zao-bkd-tree</link>
-        <dc:date>2023-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>目的と抽象化の関係性から分かる、システムの設計精度を高める考え方 / purpose abstraction design (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/purpose-abstraction-design</link>
-        <dc:date>2023-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Improvements and Test Design for Effective Test Automation (Hiroki Iseri)</title>
-        <link>https://speakerdeck.com/goyoki/improvements-and-test-design-for-effective-test-automation</link>
         <dc:date>2023-02-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
