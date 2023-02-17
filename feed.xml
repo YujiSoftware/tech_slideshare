@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Rails RESTful API開発における TDDのTIPS (Ryuya Ishibashi)</title>
+        <link>https://speakerdeck.com/ryuyaishibashi/rails-restful-apikai-fa-niokeru-tddnotips</link>
+        <dc:date>2023-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マッチングアプリにおける推薦システム (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/matutinguapuriniokerutui-jian-sisutemu</link>
         <dc:date>2023-02-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>送信ドメイン認証の現状 (Nonogaki Hiroshi)</title>
         <link>https://speakerdeck.com/hinono/song-xin-domeinren-zheng-noxian-zhuang</link>
-        <dc:date>2023-02-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebTransport TPAC 2022</title>
-        <link>https://docs.google.com/presentation/d/141lSOntrraY3FACjIMqad0NlrYgKjEzrK-txxY2JpjI/preview</link>
         <dc:date>2023-02-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
