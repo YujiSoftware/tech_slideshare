@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Linuxカーネル学習の敷居を下げたいという思いを実現した本、「Linuxのしくみ」 (Satoru Takeuchi)</title>
+        <link>https://speakerdeck.com/sat/linuxkaneruxue-xi-nofu-ju-woxia-getaitoiusi-iwoshi-xian-sitaben-linuxnosikumi</link>
+        <dc:date>2023-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Spring Boot 3.0 オブザーバビリティツアーガイド (hainet50b)</title>
         <link>https://speakerdeck.com/hainet50b/spring-boot-3-dot-0-obuzababiriteituagaido</link>
         <dc:date>2023-02-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RISC-VvsAArch64</title>
         <link>https://docs.google.com/presentation/d/1dgPbZd6vYeW6PoKXOp0bHolb7AnJCqf7yxDA2VxYxvI/preview</link>
-        <dc:date>2023-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>俺のDXを実現するためのサーバレスなデータ基盤開発と運用 / Serverless Data Platform and Baseball (Shinichi Nakagawa)</title>
-        <link>https://speakerdeck.com/shinyorke/serverless-data-platform-and-baseball</link>
         <dc:date>2023-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
