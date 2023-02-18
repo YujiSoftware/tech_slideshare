@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュアに デプロイしょう / Ship securely (kanamsasa)</title>
+        <link>https://speakerdeck.com/kanamasa/ship-securely</link>
+        <dc:date>2023-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rails RESTful API開発における TDDのTIPS (Ryuya Ishibashi)</title>
         <link>https://speakerdeck.com/ryuyaishibashi/rails-restful-apikai-fa-niokeru-tddnotips</link>
         <dc:date>2023-02-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DMMプラットフォームでプルリクエストのマージ時間を250時間から50時間に減らした話 (juve534)</title>
         <link>https://speakerdeck.com/juve534/improve-development-efficiency-with-dmm-platform</link>
-        <dc:date>2023-02-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>送信ドメイン認証の現状 (Nonogaki Hiroshi)</title>
-        <link>https://speakerdeck.com/hinono/song-xin-domeinren-zheng-noxian-zhuang</link>
         <dc:date>2023-02-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
