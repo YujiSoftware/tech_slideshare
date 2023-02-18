@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Spring Boot 3.0 オブザーバビリティツアーガイド (hainet50b)</title>
+        <link>https://speakerdeck.com/hainet50b/spring-boot-3-dot-0-obuzababiriteituagaido</link>
+        <dc:date>2023-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データ活用が事業貢献していることを示すための取り組み (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/detahuo-yong-gashi-ye-gong-xian-siteirukotowoshi-sutamenoqu-rizu-mi</link>
         <dc:date>2023-02-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>俺のDXを実現するためのサーバレスなデータ基盤開発と運用 / Serverless Data Platform and Baseball (Shinichi Nakagawa)</title>
         <link>https://speakerdeck.com/shinyorke/serverless-data-platform-and-baseball</link>
-        <dc:date>2023-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ACDPub.pptx (Ikuo Takahashi)</title>
-        <link>https://www.slideshare.net/ikuotakahashi/acdpubpptx</link>
         <dc:date>2023-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
