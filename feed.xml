@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データ活用が事業貢献していることを示すための取り組み (CyberAgent)</title>
+        <link>https://speakerdeck.com/cyberagentdevelopers/detahuo-yong-gashi-ye-gong-xian-siteirukotowoshi-sutamenoqu-rizu-mi</link>
+        <dc:date>2023-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュアに デプロイしょう / Ship securely (kanamsasa)</title>
         <link>https://speakerdeck.com/kanamasa/ship-securely</link>
         <dc:date>2023-02-17T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ACDPub.pptx (Ikuo Takahashi)</title>
         <link>https://www.slideshare.net/ikuotakahashi/acdpubpptx</link>
         <dc:date>2023-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DMMプラットフォームでプルリクエストのマージ時間を250時間から50時間に減らした話 (juve534)</title>
-        <link>https://speakerdeck.com/juve534/improve-development-efficiency-with-dmm-platform</link>
-        <dc:date>2023-02-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
