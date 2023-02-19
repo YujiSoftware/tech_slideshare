@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GUIの“こちら側”からのデザイン / Designing GUI Face and Face (usagimaru)</title>
+        <link>https://speakerdeck.com/usagimaru/designing-gui-face-and-face</link>
+        <dc:date>2023-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>女性エンジニアをなぜ増やすのか？ (Yu Kamiya)</title>
         <link>https://speakerdeck.com/fuzzy31u/nu-xing-enziniawonazezeng-yasunoka</link>
         <dc:date>2023-02-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>経営統合がエンジニアに非連続な成長機会をもたらす理由 (STORES Tech)</title>
         <link>https://speakerdeck.com/storesinc_tech/reasons-why-business-integration-brings-discontinuous-growth-opportunities-for-engineers</link>
         <dc:date>2023-02-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Face Recognition @ ECCV2022 (Takumi Karasawa)</title>
-        <link>https://speakerdeck.com/takarasawa_/face-recognition-at-eccv2022</link>
-        <dc:date>2023-02-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
