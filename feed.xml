@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>xUnit Test Patternsから学ぶテストアンチパターン</title>
+        <link>https://docs.google.com/presentation/d/1SEYB7EA0uw0ARGfiC3pkY9m4KFw0m8Myng3Fc29cFvU/preview</link>
+        <dc:date>2023-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Linuxカーネル学習の敷居を下げたいという思いを実現した本、「Linuxのしくみ」 (Satoru Takeuchi)</title>
         <link>https://speakerdeck.com/sat/linuxkaneruxue-xi-nofu-ju-woxia-getaitoiusi-iwoshi-xian-sitaben-linuxnosikumi</link>
         <dc:date>2023-02-17T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>MLOps のこれまでとこれから (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/mlops-nokoremadetokorekara-eb9ed3f9-3635-4709-8b48-5ccf201c4ae7</link>
         <dc:date>2023-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RISC-VvsAArch64</title>
-        <link>https://docs.google.com/presentation/d/1dgPbZd6vYeW6PoKXOp0bHolb7AnJCqf7yxDA2VxYxvI/preview</link>
-        <dc:date>2023-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
