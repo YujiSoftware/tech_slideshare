@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Wiki IoT/Bot Computingを使った顔ロボット群の制御 (Takashi Yamanoue,@yamnoue)</title>
+        <link>https://www.slideshare.net/takashiyamanoue/wiki-iotbot-computing</link>
+        <dc:date>2023-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>How to make faster release cycle of Ruby? (SHIBATA Hiroshi)</title>
         <link>https://speakerdeck.com/hsbt/how-to-make-faster-release-cycle-of-ruby</link>
         <dc:date>2023-02-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2023 Flutter ロードマップ - Flutter Meetup Tokyo (#18) / Osaka (#10) (JaiChangPark)</title>
         <link>https://speakerdeck.com/itsmedreamwalker/osaka-number-10</link>
-        <dc:date>2023-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023 年の BigQuery 権限管理 (na0)</title>
-        <link>https://speakerdeck.com/na0/2023-nian-no-bigquery-quan-xian-guan-li</link>
         <dc:date>2023-02-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
