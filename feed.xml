@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>How to make faster release cycle of Ruby? (SHIBATA Hiroshi)</title>
+        <link>https://speakerdeck.com/hsbt/how-to-make-faster-release-cycle-of-ruby</link>
+        <dc:date>2023-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JAWS-UG SRE #5.pptx</title>
         <link>https://docs.google.com/presentation/d/1bMh5dmzdeSPjbTa8swZjylmtODthtVy_/preview</link>
         <dc:date>2023-02-19T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>2023 年の BigQuery 権限管理 (na0)</title>
         <link>https://speakerdeck.com/na0/2023-nian-no-bigquery-quan-xian-guan-li</link>
         <dc:date>2023-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンライン時代の 技術仲間の増やし方  ～3つのコミュニティ事例を添えて～ (Kenta Iwasaki)</title>
-        <link>https://speakerdeck.com/iwaken71/onrainshi-dai-no-ji-shu-zhong-jian-nozeng-yasifang-3tunokomiyuniteishi-li-wotian-ete</link>
-        <dc:date>2023-02-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
