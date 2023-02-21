@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ジョブ管理システムをAWS Step Functionsに移行する時の勘所 (のんピ)</title>
+        <link>https://speakerdeck.com/non97/siyohuguan-li-sisutemuwoaws-step-functionsniyi-xing-surushi-falsekan-suo</link>
+        <dc:date>2023-02-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SantaとAHCと遺伝的アルゴリズム (nagiss)</title>
+        <link>https://speakerdeck.com/nagiss/santatoahctoyi-chuan-de-arugorizumu</link>
+        <dc:date>2023-02-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>On the way to achieve autonomous node communication in the Elixir ecosystem (takasehideki)</title>
         <link>https://speakerdeck.com/takasehideki/on-the-way-to-achieve-autonomous-node-communication-in-the-elixir-ecosystem</link>
         <dc:date>2023-02-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Linuxカーネル学習の敷居を下げたいという思いを実現した本、「Linuxのしくみ」 (Satoru Takeuchi)</title>
         <link>https://speakerdeck.com/sat/linuxkaneruxue-xi-nofu-ju-woxia-getaitoiusi-iwoshi-xian-sitaben-linuxnosikumi</link>
-        <dc:date>2023-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spring Boot 3.0 オブザーバビリティツアーガイド (hainet50b)</title>
-        <link>https://speakerdeck.com/hainet50b/spring-boot-3-dot-0-obuzababiriteituagaido</link>
-        <dc:date>2023-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ活用が事業貢献していることを示すための取り組み (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/detahuo-yong-gashi-ye-gong-xian-siteirukotowoshi-sutamenoqu-rizu-mi</link>
         <dc:date>2023-02-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
