@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>On the way to achieve autonomous node communication in the Elixir ecosystem (takasehideki)</title>
+        <link>https://speakerdeck.com/takasehideki/on-the-way-to-achieve-autonomous-node-communication-in-the-elixir-ecosystem</link>
+        <dc:date>2023-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>つくばチャレンジ2022参加記録</title>
+        <link>https://docs.google.com/presentation/d/10KhsEwSQv6nwBTWM269kcRIkFKNgbXMhEslA83VDCTY/preview</link>
+        <dc:date>2023-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>What's new in Go 1.20? (syumai)</title>
         <link>https://speakerdeck.com/syumai/whats-new-in-go-1-dot-20</link>
         <dc:date>2023-02-20T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>データ活用が事業貢献していることを示すための取り組み (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/detahuo-yong-gashi-ye-gong-xian-siteirukotowoshi-sutamenoqu-rizu-mi</link>
         <dc:date>2023-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュアに デプロイしょう / Ship securely (kanamsasa)</title>
-        <link>https://speakerdeck.com/kanamasa/ship-securely</link>
-        <dc:date>2023-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rails RESTful API開発における TDDのTIPS (Ryuya Ishibashi)</title>
-        <link>https://speakerdeck.com/ryuyaishibashi/rails-restful-apikai-fa-niokeru-tddnotips</link>
-        <dc:date>2023-02-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
