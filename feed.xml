@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Developers Summit 2023 [9-C-4] 田島将太</title>
+        <link>https://docs.google.com/presentation/d/1FjF8W8bk9thQYc2_CAfoxY0ECPZYfkxH66gPPpYsFWE/preview</link>
+        <dc:date>2023-02-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ジョブ管理システムをAWS Step Functionsに移行する時の勘所 (のんピ)</title>
         <link>https://speakerdeck.com/non97/siyohuguan-li-sisutemuwoaws-step-functionsniyi-xing-surushi-falsekan-suo</link>
         <dc:date>2023-02-21T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>xUnit Test Patternsから学ぶテストアンチパターン</title>
         <link>https://docs.google.com/presentation/d/1SEYB7EA0uw0ARGfiC3pkY9m4KFw0m8Myng3Fc29cFvU/preview</link>
         <dc:date>2023-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Linuxカーネル学習の敷居を下げたいという思いを実現した本、「Linuxのしくみ」 (Satoru Takeuchi)</title>
-        <link>https://speakerdeck.com/sat/linuxkaneruxue-xi-nofu-ju-woxia-getaitoiusi-iwoshi-xian-sitaben-linuxnosikumi</link>
-        <dc:date>2023-02-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
