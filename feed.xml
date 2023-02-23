@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VueUseのすすめ (Takuma Kurosawa)</title>
+        <link>https://speakerdeck.com/takumakurosawa/vue-dot-js-v-tokyo-meetup-16</link>
+        <dc:date>2023-02-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>受身気質なリーダーの試行錯誤.pdf (Shiori Sawada)</title>
         <link>https://speakerdeck.com/jamgodtree/shou-shen-qi-zhi-naritanoshi-xing-cuo-wu</link>
         <dc:date>2023-02-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>S3とCloudWatch Logsの見直しから始めるコスト削減 / Cost saving S3 and CloudWatch Logs (shonansurvivors)</title>
         <link>https://speakerdeck.com/shonansurvivors/cost-saving-s3-and-cloudwatch-logs</link>
-        <dc:date>2023-02-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>目指せCoverage100%! AutoScale環境におけるSavings Plans購入戦略 / JAWS-UG_SRE_Coverage (sasaki)</title>
-        <link>https://speakerdeck.com/taishin/jaws-ug-sre-coverage</link>
         <dc:date>2023-02-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
