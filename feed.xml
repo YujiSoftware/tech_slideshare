@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>burn_deeplearning</title>
+        <link>https://docs.google.com/presentation/d/1GGULFnFGM1hnPh7PlAfZacdEe82LgaZlIurVsJlDSM8/preview</link>
+        <dc:date>2023-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リアクティブプログラミング ライブラリを自作した話</title>
         <link>https://docs.google.com/presentation/d/1y9F5jxD6e1bFzLOs3BVAzIqhW806OfmLzIYaaU1j7yM/preview</link>
         <dc:date>2023-02-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Wiki IoT/Bot Computingを使った顔ロボット群の制御 (Takashi Yamanoue,@yamnoue)</title>
         <link>https://www.slideshare.net/takashiyamanoue/wiki-iotbot-computing</link>
         <dc:date>2023-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to make faster release cycle of Ruby? (SHIBATA Hiroshi)</title>
-        <link>https://speakerdeck.com/hsbt/how-to-make-faster-release-cycle-of-ruby</link>
-        <dc:date>2023-02-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
