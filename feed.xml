@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>著者による書籍紹介『Kaggleに挑む深層学習プログラミングの極意』 (Shotaro Ishihara)</title>
+        <link>https://speakerdeck.com/upura/kaggle-book-gokui</link>
+        <dc:date>2023-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>C# Tokyo コミュニティ説明 202205 版 (m ishizaki)</title>
         <link>https://www.slideshare.net/mishizaki1/c-tokyo-202205</link>
         <dc:date>2023-02-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JAWS-UG SRE #5.pptx</title>
         <link>https://docs.google.com/presentation/d/1bMh5dmzdeSPjbTa8swZjylmtODthtVy_/preview</link>
-        <dc:date>2023-02-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>為替変動に負けない持続可能なコスト管理 (TIER IV,@tier_iv_japan)</title>
-        <link>https://www.docswell.com/s/TIER_IV/K4DM65-2023-01-30-092633</link>
         <dc:date>2023-02-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
