@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RuboCop Philosophy (Koichi ITO)</title>
+        <link>https://speakerdeck.com/koic/rubocop-philosophy</link>
+        <dc:date>2023-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby30周年イベント オープニング / Ruby30th Opening (Shintaro Kakutani)</title>
         <link>https://speakerdeck.com/kakutani/ruby30th-opening</link>
         <dc:date>2023-02-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>つくばチャレンジ2022参加記録</title>
         <link>https://docs.google.com/presentation/d/10KhsEwSQv6nwBTWM269kcRIkFKNgbXMhEslA83VDCTY/preview</link>
-        <dc:date>2023-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What's new in Go 1.20? (syumai)</title>
-        <link>https://speakerdeck.com/syumai/whats-new-in-go-1-dot-20</link>
         <dc:date>2023-02-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
