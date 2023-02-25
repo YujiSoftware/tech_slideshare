@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby30周年イベント オープニング / Ruby30th Opening (Shintaro Kakutani)</title>
+        <link>https://speakerdeck.com/kakutani/ruby30th-opening</link>
+        <dc:date>2023-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rust を開発言語として採用してからの取り組み (Kazumasa Yamamoto)</title>
         <link>https://speakerdeck.com/fill9120/rust-wokai-fa-yan-yu-tositecai-yong-sitekaranoqu-rizu-mi</link>
         <dc:date>2023-02-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>What's new in Go 1.20? (syumai)</title>
         <link>https://speakerdeck.com/syumai/whats-new-in-go-1-dot-20</link>
-        <dc:date>2023-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MoT TechTalk #16 5万台のドラレコを活用！大規模データ収集・機械学習基盤の全容 (MoT dev)</title>
-        <link>https://speakerdeck.com/mot_techtalk/mot-techtalk-16</link>
         <dc:date>2023-02-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
