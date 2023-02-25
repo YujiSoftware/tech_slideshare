@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>たのしいString (ima1zumi)</title>
+        <link>https://speakerdeck.com/ima1zumi/tanosiistring</link>
+        <dc:date>2023-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Red Data Tools で切り開く Ruby の未来 (Kenta Murata)</title>
         <link>https://speakerdeck.com/mrkn/red-data-tools-deqie-rikai-ku-ruby-nowei-lai</link>
         <dc:date>2023-02-24T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>SantaとAHCと遺伝的アルゴリズム (nagiss)</title>
         <link>https://speakerdeck.com/nagiss/santatoahctoyi-chuan-de-arugorizumu</link>
         <dc:date>2023-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>On the way to achieve autonomous node communication in the Elixir ecosystem (takasehideki)</title>
-        <link>https://speakerdeck.com/takasehideki/on-the-way-to-achieve-autonomous-node-communication-in-the-elixir-ecosystem</link>
-        <dc:date>2023-02-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
