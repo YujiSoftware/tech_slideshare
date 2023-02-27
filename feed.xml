@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREは何を目指すのか (paper2)</title>
+        <link>https://speakerdeck.com/paper2/srehahe-womu-zhi-sunoka</link>
+        <dc:date>2023-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>UnityのDevOpsまわりの最新プロダクト 2022 まとめ (かまた,@kamayuki_fs)</title>
         <link>https://www.docswell.com/s/yasuyuki-kamata/KW9VPK-unitydevops2022summary</link>
         <dc:date>2023-02-25T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>新規プロダクトで 爆速開発を実現するために意識したこと (Matsumoto Toshi)</title>
         <link>https://speakerdeck.com/toshi1127/xin-gui-purodakutode-bao-su-kai-fa-woshi-xian-surutameniyi-shi-sitakoto</link>
         <dc:date>2023-02-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ミニWDDDS_Bluetoothを診断してみよう 目次 (サイエンスパークの勉強会)</title>
-        <link>https://www.docswell.com/s/study-group-spc/ZEN4Q1-SP2302-E28</link>
-        <dc:date>2023-02-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
