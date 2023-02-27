@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby (MRI) の好きなところ 30 (Misaki Shioi(塩井美咲/しおい))</title>
+        <link>https://speakerdeck.com/coe401_/ruby-mri-nohao-kinatokoro-30</link>
+        <dc:date>2023-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREは何を目指すのか (paper2)</title>
         <link>https://speakerdeck.com/paper2/srehahe-womu-zhi-sunoka</link>
         <dc:date>2023-02-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LayerXのフロントエンドの現状の課題と理想の技術戦略 (tatane)</title>
         <link>https://speakerdeck.com/tatane616/layerxnohurontoendonoxian-zhuang-noke-ti-toli-xiang-noji-shu-zhan-lue</link>
-        <dc:date>2023-02-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新規プロダクトで 爆速開発を実現するために意識したこと (Matsumoto Toshi)</title>
-        <link>https://speakerdeck.com/toshi1127/xin-gui-purodakutode-bao-su-kai-fa-woshi-xian-surutameniyi-shi-sitakoto</link>
         <dc:date>2023-02-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
