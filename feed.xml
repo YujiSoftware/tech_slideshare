@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20190323 GCPUG 滋賀 #2 LT（G Suite導入寸前） (Yuji Shino)</title>
+        <link>https://www.slideshare.net/YujiShino/20190323-gcpug-2-ltg-suite</link>
+        <dc:date>2023-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby (MRI) の好きなところ 30 (Misaki Shioi(塩井美咲/しおい))</title>
         <link>https://speakerdeck.com/coe401_/ruby-mri-nohao-kinatokoro-30</link>
         <dc:date>2023-02-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>The Node.js Runtime Renaissance (Ruy Adorno)</title>
         <link>https://speakerdeck.com/ruyadorno/the-node-dot-js-runtime-renaissance</link>
-        <dc:date>2023-02-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LayerXのフロントエンドの現状の課題と理想の技術戦略 (tatane)</title>
-        <link>https://speakerdeck.com/tatane616/layerxnohurontoendonoxian-zhuang-noke-ti-toli-xiang-noji-shu-zhan-lue</link>
         <dc:date>2023-02-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
