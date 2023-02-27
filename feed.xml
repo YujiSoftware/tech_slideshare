@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Intro to ChatGPT</title>
+        <link>https://docs.google.com/presentation/d/1TTyePrw-p_xxUbi3rbmBI3QQpSsTI1btaQuAUvvNc8w/preview</link>
+        <dc:date>2023-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20190323 GCPUG 滋賀 #2 LT（G Suite導入寸前） (Yuji Shino)</title>
         <link>https://www.slideshare.net/YujiShino/20190323-gcpug-2-ltg-suite</link>
         <dc:date>2023-02-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>受身気質なリーダーの試行錯誤.pdf (Shiori Sawada)</title>
         <link>https://speakerdeck.com/jamgodtree/shou-shen-qi-zhi-naritanoshi-xing-cuo-wu</link>
-        <dc:date>2023-02-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Node.js Runtime Renaissance (Ruy Adorno)</title>
-        <link>https://speakerdeck.com/ruyadorno/the-node-dot-js-runtime-renaissance</link>
         <dc:date>2023-02-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
