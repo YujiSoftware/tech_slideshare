@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NGINXENG JP#3 - 4-NGINX-エンジニアリング勉強会-おわりに (hiropo20)</title>
+        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-3-4-nginx-enziniaringumian-qiang-hui-owarini</link>
+        <dc:date>2023-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NGINXENG JP#3 - 3-NGINX-Ingress-Controller-動作確認 (hiropo20)</title>
+        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-3-3-nginx-ingress-controller-dong-zuo-que-ren</link>
+        <dc:date>2023-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NGINXENG JP#3 - 2-NGINX-Ingress-Controller-の動作の詳細 (hiropo20)</title>
+        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-3-2-nginx-ingress-controller-nodong-zuo-noxiang-xi</link>
+        <dc:date>2023-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NGINXENG JP#3 - 1-NGINX-エンジニアリング勉強会-きょうの見どころ (hiropo20)</title>
+        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-3-1-nginx-enziniaringumian-qiang-hui-kiyounojian-dokoro</link>
+        <dc:date>2023-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ランダムフォレストによる因果推論と最近の展開 (Tomoshige Nakamura)</title>
         <link>https://speakerdeck.com/tomoshige_n/randamuhuoresutoniyoruyin-guo-tui-lun-tozui-jin-nozhan-kai-838c3989-570d-49ca-b630-22044a798589</link>
         <dc:date>2023-02-26T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>burn_deeplearning</title>
         <link>https://docs.google.com/presentation/d/1GGULFnFGM1hnPh7PlAfZacdEe82LgaZlIurVsJlDSM8/preview</link>
         <dc:date>2023-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リアクティブプログラミング ライブラリを自作した話</title>
-        <link>https://docs.google.com/presentation/d/1y9F5jxD6e1bFzLOs3BVAzIqhW806OfmLzIYaaU1j7yM/preview</link>
-        <dc:date>2023-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>著者による書籍紹介『Kaggleに挑む深層学習プログラミングの極意』 (Shotaro Ishihara)</title>
-        <link>https://speakerdeck.com/upura/kaggle-book-gokui</link>
-        <dc:date>2023-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C# Tokyo コミュニティ説明 202205 版 (m ishizaki)</title>
-        <link>https://www.slideshare.net/mishizaki1/c-tokyo-202205</link>
-        <dc:date>2023-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VueUseのすすめ (Takuma Kurosawa)</title>
-        <link>https://speakerdeck.com/takumakurosawa/vue-dot-js-v-tokyo-meetup-16</link>
-        <dc:date>2023-02-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
