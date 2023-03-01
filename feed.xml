@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PostgreSQL 15の新機能を徹底解説 (Masahiko Sawada,@sawada_masahiko)</title>
+        <link>https://www.slideshare.net/masahikosawada98/postgresql-15-254529770</link>
+        <dc:date>2023-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DiffusionによるText2Imageの系譜と生成画像が動き出すまで (はまなすなぎさ)</title>
         <link>https://speakerdeck.com/nhamanasu/diffusionniyorutext2imagenoxi-pu-tosheng-cheng-hua-xiang-gadong-kichu-sumade</link>
         <dc:date>2023-02-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RuboCop Philosophy (Koichi ITO)</title>
         <link>https://speakerdeck.com/koic/rubocop-philosophy</link>
-        <dc:date>2023-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby30周年イベント オープニング / Ruby30th Opening (Shintaro Kakutani)</title>
-        <link>https://speakerdeck.com/kakutani/ruby30th-opening</link>
         <dc:date>2023-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
