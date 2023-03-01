@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>30分でわかるマイクロサービスアーキテクチャ 第2版 (SATO Naoki (Neo))</title>
+        <link>https://speakerdeck.com/satonaoki/30fen-dewakarumaikurosabisuakitekutiya-di-2ban</link>
+        <dc:date>2023-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>30分でわかるマイクロサービスアーキテクチャ 第2版 (Naoki (Neo) SATO,@satonaoki)</title>
+        <link>https://www.slideshare.net/satonaoki/oreillybuildingmicroservices2eforkwell-255995766</link>
+        <dc:date>2023-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PostgreSQL 15の新機能を徹底解説 (Masahiko Sawada,@sawada_masahiko)</title>
         <link>https://www.slideshare.net/masahikosawada98/postgresql-15-254529770</link>
         <dc:date>2023-02-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>たのしいString (ima1zumi)</title>
         <link>https://speakerdeck.com/ima1zumi/tanosiistring</link>
-        <dc:date>2023-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Red Data Tools で切り開く Ruby の未来 (Kenta Murata)</title>
-        <link>https://speakerdeck.com/mrkn/red-data-tools-deqie-rikai-ku-ruby-nowei-lai</link>
-        <dc:date>2023-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RuboCop Philosophy (Koichi ITO)</title>
-        <link>https://speakerdeck.com/koic/rubocop-philosophy</link>
         <dc:date>2023-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
