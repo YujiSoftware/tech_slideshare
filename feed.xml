@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>全ブラウザ対応した container queryは何がスゴイのか？ (tonkotsuboy_com)</title>
+        <link>https://speakerdeck.com/tonkotsuboy_com/quan-burauzadui-ying-sita-container-queryhahe-gasugoinoka</link>
+        <dc:date>2023-03-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>30分でわかるマイクロサービスアーキテクチャ 第2版 (SATO Naoki (Neo))</title>
         <link>https://speakerdeck.com/satonaoki/30fen-dewakarumaikurosabisuakitekutiya-di-2ban</link>
         <dc:date>2023-02-28T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>推定AIモデルを用いた一連の非言語身体表現の定性評価支援システムとそのUIの提案 - イカれたUIを作ろうの会</title>
         <link>https://docs.google.com/presentation/d/11zh0efhI3zPt9NL6u1XjISJyG-jFP2ZNvn0SUHYGgkU/preview</link>
         <dc:date>2023-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>たのしいString (ima1zumi)</title>
-        <link>https://speakerdeck.com/ima1zumi/tanosiistring</link>
-        <dc:date>2023-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
