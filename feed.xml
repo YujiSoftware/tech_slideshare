@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DiffusionによるText2Imageの系譜と生成画像が動き出すまで (はまなすなぎさ)</title>
+        <link>https://speakerdeck.com/nhamanasu/diffusionniyorutext2imagenoxi-pu-tosheng-cheng-hua-xiang-gadong-kichu-sumade</link>
+        <dc:date>2023-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2023年のBigQuery権限管理</title>
         <link>https://docs.google.com/presentation/d/1_Zwu0jU6I7yo59Vm-FI6kx4yzCUsgo26UOEtTJ70MPA/preview</link>
         <dc:date>2023-02-28T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Ruby30周年イベント オープニング / Ruby30th Opening (Shintaro Kakutani)</title>
         <link>https://speakerdeck.com/kakutani/ruby30th-opening</link>
         <dc:date>2023-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rust を開発言語として採用してからの取り組み (Kazumasa Yamamoto)</title>
-        <link>https://speakerdeck.com/fill9120/rust-wokai-fa-yan-yu-tositecai-yong-sitekaranoqu-rizu-mi</link>
-        <dc:date>2023-02-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
