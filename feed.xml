@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2023年のBigQuery権限管理</title>
+        <link>https://docs.google.com/presentation/d/1_Zwu0jU6I7yo59Vm-FI6kx4yzCUsgo26UOEtTJ70MPA/preview</link>
+        <dc:date>2023-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NGINXENG JP#3 - 4-NGINX-エンジニアリング勉強会-おわりに (hiropo20)</title>
         <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-3-4-nginx-enziniaringumian-qiang-hui-owarini</link>
         <dc:date>2023-02-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Rust を開発言語として採用してからの取り組み (Kazumasa Yamamoto)</title>
         <link>https://speakerdeck.com/fill9120/rust-wokai-fa-yan-yu-tositecai-yong-sitekaranoqu-rizu-mi</link>
-        <dc:date>2023-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>burn_deeplearning</title>
-        <link>https://docs.google.com/presentation/d/1GGULFnFGM1hnPh7PlAfZacdEe82LgaZlIurVsJlDSM8/preview</link>
         <dc:date>2023-02-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
