@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ヒロフロvol30-Webアニメーションの種類を知ろう（配布用）</title>
+        <link>https://docs.google.com/presentation/d/1LTxnr4q0IZvVfYmvhlk2TVXsH_MwnWzFOsJuBWJ8j4Q/preview</link>
+        <dc:date>2023-03-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>The State of Distibuted Database In Japan (tzkoba)</title>
         <link>https://speakerdeck.com/tzkoba/the-state-of-distibuted-database-in-japan</link>
         <dc:date>2023-03-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Hack.BAR ~ Engineer BAR ~ (shouhi ide)</title>
         <link>https://speakerdeck.com/shouhi/hack-dot-bar-engineer-bar</link>
-        <dc:date>2023-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入門: Knative Serving + Kubernetes Gateway APIで構築するクラウドネイティブな汎用サーバーレス環境</title>
-        <link>https://docs.google.com/presentation/d/1kJuWXRbn1GZmZGSd-jqX0p4KQ7HypAvi2RUKKUOry7c/preview</link>
         <dc:date>2023-02-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
