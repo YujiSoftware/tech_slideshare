@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CyberAgentにおけるKubernetes as a Serviceの歩みと利用者を支える機能 / cainfra01-amsy810-kubernetes (Masaya Aoyama (@amsy810))</title>
+        <link>https://speakerdeck.com/masayaaoyama/cainfra01-amsy810-kubernetes</link>
+        <dc:date>2023-03-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ANDPADの攻めと守り (ANDPAD inc)</title>
         <link>https://speakerdeck.com/andpad/andpadnogong-metoshou-ri</link>
         <dc:date>2023-03-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>UnityのDevOpsまわりの最新プロダクト 2022 まとめ (かまた,@kamayuki_fs)</title>
         <link>https://www.docswell.com/s/yasuyuki-kamata/KW9VPK-unitydevops2022summary</link>
-        <dc:date>2023-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>音声合成してみよう (xztaityozx)</title>
-        <link>https://speakerdeck.com/xztaityozx/yin-sheng-he-cheng-sitemiyou</link>
         <dc:date>2023-02-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
