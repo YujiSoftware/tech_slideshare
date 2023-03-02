@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The State of Distibuted Database In Japan (tzkoba)</title>
+        <link>https://speakerdeck.com/tzkoba/the-state-of-distibuted-database-in-japan</link>
+        <dc:date>2023-03-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>全ブラウザ対応した container queryは何がスゴイのか？ (tonkotsuboy_com)</title>
         <link>https://speakerdeck.com/tonkotsuboy_com/quan-burauzadui-ying-sita-container-queryhahe-gasugoinoka</link>
         <dc:date>2023-03-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>入門: Knative Serving + Kubernetes Gateway APIで構築するクラウドネイティブな汎用サーバーレス環境</title>
         <link>https://docs.google.com/presentation/d/1kJuWXRbn1GZmZGSd-jqX0p4KQ7HypAvi2RUKKUOry7c/preview</link>
-        <dc:date>2023-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>推定AIモデルを用いた一連の非言語身体表現の定性評価支援システムとそのUIの提案 - イカれたUIを作ろうの会</title>
-        <link>https://docs.google.com/presentation/d/11zh0efhI3zPt9NL6u1XjISJyG-jFP2ZNvn0SUHYGgkU/preview</link>
         <dc:date>2023-02-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
