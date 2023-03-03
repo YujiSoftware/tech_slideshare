@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サバンナ便り〜自動テストに関する連載で得られた知見のまとめ〜 (Takuto Wada)</title>
+        <link>https://speakerdeck.com/twada/automated-test-knowledge-from-savanna-202303</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2023年もSRE再考と叫びなさい‼️ (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/2023nian-mosrezai-kao-tojiao-binasai</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>The State of Distibuted Database In Japan (tzkoba)</title>
         <link>https://speakerdeck.com/tzkoba/the-state-of-distibuted-database-in-japan</link>
-        <dc:date>2023-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>全ブラウザ対応した container queryは何がスゴイのか？ (tonkotsuboy_com)</title>
-        <link>https://speakerdeck.com/tonkotsuboy_com/quan-burauzadui-ying-sita-container-queryhahe-gasugoinoka</link>
         <dc:date>2023-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
