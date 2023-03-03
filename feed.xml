@@ -6,6 +6,66 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>agones 上に作る QUIC を使った音声通信機能【MIXI TECH CONFERENCE 2023】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/voice-communication-function-using-quic-which-created-on-agones</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>学校教育支援の技術解剖と21卒エンジニアが教材開発で習得したエンジニアリングスキル【MIXI TECH CONFERENCE 2023】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/methods-of-supporting-school-education-and-engineering-skills-acquired-in-developing-teaching-materials</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コトダマンにおける技術的負債との戦い： サーバーアプリケーションのリアーキテクティング編 【MIXI TECH CONFERENCE 2023】  (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/addressing-technical-liabilities-in-kotodaman-re-architecting-server-applications</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>となりのQAのお仕事【MIXI TECH CONFERENCE 2023】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/qa-work-in-the-neighborhood</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>若手主体のチームで全員の力を合わせて新規事業を創っている話 / Develop a startup product in cooperation with all team members (Mitsunobu Homma)</title>
+        <link>https://speakerdeck.com/mitsu9/develop-a-startup-product-in-cooperation-with-all-team-members</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Android のライブ配信アプリにおけるアニメーションとグラフィック処理【MIXI TECH CONFERENCE 2023】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/animation-and-graphics-processing-in-android-live-streaming-apps</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>UICollectionViewのAPIを活用してシンプルなコードにリファクタリングする (hicka04)</title>
+        <link>https://speakerdeck.com/hicka04/uicollectionviewnoapiwohuo-yong-sitesinpurunakodonirihuakutaringusuru</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アプリケーション開発に欠かせない CI/CD を横断組織として支援している話 - MIXI TECH CONFERENCE 2023 (Shun)</title>
+        <link>https://speakerdeck.com/bbqallstars/ahurikesiyonkai-fa-niqian-kasenai-ci-cd-woheng-duan-zu-zhi-tositezhi-yuan-siteiruhua-mixi-tech-conference</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「騒ゲーハイライト」について【MIXI TECH CONFERENCE 2023】 (YuukiARIA)</title>
+        <link>https://speakerdeck.com/yuukiaria/sao-gehairaito-nituite-mixi-tech-conference-2023</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>年間版1秒動画2023 大量配信の裏側 - MIXI TECH CONFERENCE 2023 DAY1 (浜田 恭平 (Kyohei Hamada))</title>
+        <link>https://speakerdeck.com/haman29/nian-jian-ban-1miao-dong-hua-2023-da-liang-pei-xin-noli-ce-mixi-tech-conference-2023-day1</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>会話 AI ロボット Romi の設計と技術 - MIXI Tech Conference 2023 (HAL)</title>
+        <link>https://speakerdeck.com/halhorn/hui-hua-ai-robotuto-romi-noshe-ji-toji-shu-mixi-tech-conference-2023</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データ民主化を推進するモンストでのLooker導入【MIXI TECH CONFERENCE 2023】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/the-introduction-of-looker-and-its-results-in-monster-strike-which-promotes-data-democratization</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TokyoR</title>
         <link>https://docs.google.com/presentation/d/1vQsg2B48Zj5UCpaR7YqTIAjjPTnRhY45irIAh0tx7FQ/preview</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
@@ -44,65 +104,5 @@
         <title>30分でわかるマイクロサービスアーキテクチャ 第2版 (SATO Naoki (Neo))</title>
         <link>https://speakerdeck.com/satonaoki/30fen-dewakarumaikurosabisuakitekutiya-di-2ban</link>
         <dc:date>2023-02-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>30分でわかるマイクロサービスアーキテクチャ 第2版 (Naoki (Neo) SATO,@satonaoki)</title>
-        <link>https://www.slideshare.net/satonaoki/oreillybuildingmicroservices2eforkwell-255995766</link>
-        <dc:date>2023-02-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQL 15の新機能を徹底解説 (Masahiko Sawada,@sawada_masahiko)</title>
-        <link>https://www.slideshare.net/masahikosawada98/postgresql-15-254529770</link>
-        <dc:date>2023-02-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DiffusionによるText2Imageの系譜と生成画像が動き出すまで (はまなすなぎさ)</title>
-        <link>https://speakerdeck.com/nhamanasu/diffusionniyorutext2imagenoxi-pu-tosheng-cheng-hua-xiang-gadong-kichu-sumade</link>
-        <dc:date>2023-02-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023年のBigQuery権限管理</title>
-        <link>https://docs.google.com/presentation/d/1_Zwu0jU6I7yo59Vm-FI6kx4yzCUsgo26UOEtTJ70MPA/preview</link>
-        <dc:date>2023-02-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NGINXENG JP#3 - 4-NGINX-エンジニアリング勉強会-おわりに (hiropo20)</title>
-        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-3-4-nginx-enziniaringumian-qiang-hui-owarini</link>
-        <dc:date>2023-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NGINXENG JP#3 - 3-NGINX-Ingress-Controller-動作確認 (hiropo20)</title>
-        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-3-3-nginx-ingress-controller-dong-zuo-que-ren</link>
-        <dc:date>2023-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NGINXENG JP#3 - 2-NGINX-Ingress-Controller-の動作の詳細 (hiropo20)</title>
-        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-3-2-nginx-ingress-controller-nodong-zuo-noxiang-xi</link>
-        <dc:date>2023-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NGINXENG JP#3 - 1-NGINX-エンジニアリング勉強会-きょうの見どころ (hiropo20)</title>
-        <link>https://speakerdeck.com/hiropo20/nginxeng-jp-number-3-1-nginx-enziniaringumian-qiang-hui-kiyounojian-dokoro</link>
-        <dc:date>2023-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ランダムフォレストによる因果推論と最近の展開 (Tomoshige Nakamura)</title>
-        <link>https://speakerdeck.com/tomoshige_n/randamuhuoresutoniyoruyin-guo-tui-lun-tozui-jin-nozhan-kai-838c3989-570d-49ca-b630-22044a798589</link>
-        <dc:date>2023-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Intro to ChatGPT</title>
-        <link>https://docs.google.com/presentation/d/1TTyePrw-p_xxUbi3rbmBI3QQpSsTI1btaQuAUvvNc8w/preview</link>
-        <dc:date>2023-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20190323 GCPUG 滋賀 #2 LT（G Suite導入寸前） (Yuji Shino)</title>
-        <link>https://www.slideshare.net/YujiShino/20190323-gcpug-2-ltg-suite</link>
-        <dc:date>2023-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby (MRI) の好きなところ 30 (Misaki Shioi(塩井美咲/しおい))</title>
-        <link>https://speakerdeck.com/coe401_/ruby-mri-nohao-kinatokoro-30</link>
-        <dc:date>2023-02-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
