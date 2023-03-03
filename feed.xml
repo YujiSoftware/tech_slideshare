@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2023年もSRE再考と叫びなさい‼️ (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/2023nian-mosrezai-kao-tojiao-binasai</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>agones 上に作る QUIC を使った音声通信機能【MIXI TECH CONFERENCE 2023】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/voice-communication-function-using-quic-which-created-on-agones</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>全ブラウザ対応した container queryは何がスゴイのか？ (tonkotsuboy_com)</title>
         <link>https://speakerdeck.com/tonkotsuboy_com/quan-burauzadui-ying-sita-container-queryhahe-gasugoinoka</link>
         <dc:date>2023-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>30分でわかるマイクロサービスアーキテクチャ 第2版 (SATO Naoki (Neo))</title>
-        <link>https://speakerdeck.com/satonaoki/30fen-dewakarumaikurosabisuakitekutiya-di-2ban</link>
-        <dc:date>2023-02-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
