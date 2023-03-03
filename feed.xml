@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TokyoR</title>
+        <link>https://docs.google.com/presentation/d/1vQsg2B48Zj5UCpaR7YqTIAjjPTnRhY45irIAh0tx7FQ/preview</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>potts-xcs224u-webinar2023 - public version</title>
         <link>https://docs.google.com/presentation/d/1WPYaLEEVJJI_-DOzjudeVoYpl_y0yUi1kWs0VFBnba4/preview</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Ruby (MRI) の好きなところ 30 (Misaki Shioi(塩井美咲/しおい))</title>
         <link>https://speakerdeck.com/coe401_/ruby-mri-nohao-kinatokoro-30</link>
-        <dc:date>2023-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREは何を目指すのか (paper2)</title>
-        <link>https://speakerdeck.com/paper2/srehahe-womu-zhi-sunoka</link>
         <dc:date>2023-02-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
