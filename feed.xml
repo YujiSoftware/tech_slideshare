@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>分岐を低減するinterface設計と発想の転換 / interface_design_idea.pdf (MinoDriven)</title>
+        <link>https://speakerdeck.com/minodriven/interface-design-idea</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サバンナ便り〜自動テストに関する連載で得られた知見のまとめ〜 (Takuto Wada)</title>
         <link>https://speakerdeck.com/twada/automated-test-knowledge-from-savanna-202303</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ヒロフロvol30-Webアニメーションの種類を知ろう（配布用）</title>
         <link>https://docs.google.com/presentation/d/1LTxnr4q0IZvVfYmvhlk2TVXsH_MwnWzFOsJuBWJ8j4Q/preview</link>
-        <dc:date>2023-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The State of Distibuted Database In Japan (tzkoba)</title>
-        <link>https://speakerdeck.com/tzkoba/the-state-of-distibuted-database-in-japan</link>
         <dc:date>2023-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
