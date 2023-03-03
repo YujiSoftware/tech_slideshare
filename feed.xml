@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Node-RED v2.2 新機能紹介</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vT0tuXY9WF066h30li59PTQmFoKWpPseQL8GhrNixX9hGDrKfKqh5qwvWHaDEAP003gq6paLcWuOTns/pub</link>
+        <dc:date>2023-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Node-RED 3.0 新機能紹介 (Takeshi Ueno)</title>
+        <link>https://speakerdeck.com/utaani/node-red-3-dot-0-xin-ji-neng-shao-jie</link>
+        <dc:date>2023-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CPU の特性と最適化</title>
+        <link>https://docs.google.com/presentation/d/1aXVrYdB_omIXVd_c6iG08X4h_Vi-8Y3MZrlBcdon7oE/preview</link>
+        <dc:date>2023-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>get updated to the latest realtime audio processings knowledge base (2023) (再履修: 2023年までの リアルタイムオーディオ処理) (Atsushi Eno)</title>
+        <link>https://speakerdeck.com/atsushieno/get-updated-to-the-latest-realtime-audio-processings-knowledge-base-2023-jp-3d08837b-4b4e-460f-b5cd-f6c66a00bf89</link>
+        <dc:date>2023-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AutoML チュートリアル（HPOとNAS） (Masanori Suganuma)</title>
+        <link>https://speakerdeck.com/sgnm/automl-tiyutoriaru-hpotonas</link>
+        <dc:date>2023-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JSONとJSON Schemaを改めて理解する / tokyo_study (OKUNOKENTARO)</title>
         <link>https://speakerdeck.com/okunokentaro/tokyo-study</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>年間版1秒動画2023 大量配信の裏側 - MIXI TECH CONFERENCE 2023 DAY1 (浜田 恭平 (Kyohei Hamada))</title>
         <link>https://speakerdeck.com/haman29/nian-jian-ban-1miao-dong-hua-2023-da-liang-pei-xin-noli-ce-mixi-tech-conference-2023-day1</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>会話 AI ロボット Romi の設計と技術 - MIXI Tech Conference 2023 (HAL)</title>
-        <link>https://speakerdeck.com/halhorn/hui-hua-ai-robotuto-romi-noshe-ji-toji-shu-mixi-tech-conference-2023</link>
-        <dc:date>2023-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ民主化を推進するモンストでのLooker導入【MIXI TECH CONFERENCE 2023】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/the-introduction-of-looker-and-its-results-in-monster-strike-which-promotes-data-democratization</link>
-        <dc:date>2023-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TokyoR</title>
-        <link>https://docs.google.com/presentation/d/1vQsg2B48Zj5UCpaR7YqTIAjjPTnRhY45irIAh0tx7FQ/preview</link>
-        <dc:date>2023-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>potts-xcs224u-webinar2023 - public version</title>
-        <link>https://docs.google.com/presentation/d/1WPYaLEEVJJI_-DOzjudeVoYpl_y0yUi1kWs0VFBnba4/preview</link>
-        <dc:date>2023-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CyberAgentにおけるKubernetes as a Serviceの歩みと利用者を支える機能 / cainfra01-amsy810-kubernetes (Masaya Aoyama (@amsy810))</title>
-        <link>https://speakerdeck.com/masayaaoyama/cainfra01-amsy810-kubernetes</link>
-        <dc:date>2023-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
