@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JSONとJSON Schemaを改めて理解する / tokyo_study (OKUNOKENTARO)</title>
+        <link>https://speakerdeck.com/okunokentaro/tokyo-study</link>
+        <dc:date>2023-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オニギリペイのセキュリティ事故に学ぶ安全なサービスの構築法 (徳丸 浩,@ockeghem)</title>
         <link>https://www.docswell.com/s/ockeghem/KWM4RZ-phpconf2019</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CyberAgentにおけるKubernetes as a Serviceの歩みと利用者を支える機能 / cainfra01-amsy810-kubernetes (Masaya Aoyama (@amsy810))</title>
         <link>https://speakerdeck.com/masayaaoyama/cainfra01-amsy810-kubernetes</link>
-        <dc:date>2023-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ANDPADの攻めと守り (ANDPAD inc)</title>
-        <link>https://speakerdeck.com/andpad/andpadnogong-metoshou-ri</link>
         <dc:date>2023-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
