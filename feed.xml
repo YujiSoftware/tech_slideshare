@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>温故知新 TypeScript10年の歴史を振り返る (k.okayama)</title>
+        <link>https://speakerdeck.com/hyopt/looking-back-on-10-years-of-typescript-history</link>
+        <dc:date>2023-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Node-RED v2.2 新機能紹介</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vT0tuXY9WF066h30li59PTQmFoKWpPseQL8GhrNixX9hGDrKfKqh5qwvWHaDEAP003gq6paLcWuOTns/pub</link>
         <dc:date>2023-03-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「騒ゲーハイライト」について【MIXI TECH CONFERENCE 2023】 (YuukiARIA)</title>
         <link>https://speakerdeck.com/yuukiaria/sao-gehairaito-nituite-mixi-tech-conference-2023</link>
-        <dc:date>2023-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>年間版1秒動画2023 大量配信の裏側 - MIXI TECH CONFERENCE 2023 DAY1 (浜田 恭平 (Kyohei Hamada))</title>
-        <link>https://speakerdeck.com/haman29/nian-jian-ban-1miao-dong-hua-2023-da-liang-pei-xin-noli-ce-mixi-tech-conference-2023-day1</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
