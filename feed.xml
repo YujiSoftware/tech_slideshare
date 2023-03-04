@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発速度が速い #とは（LayerX社内資料）/ How fast is the development speed (LayerX)</title>
+        <link>https://speakerdeck.com/layerx/how-fast-is-the-development-speed</link>
+        <dc:date>2023-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>温故知新 TypeScript10年の歴史を振り返る (k.okayama)</title>
         <link>https://speakerdeck.com/hyopt/looking-back-on-10-years-of-typescript-history</link>
         <dc:date>2023-03-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アプリケーション開発に欠かせない CI/CD を横断組織として支援している話 - MIXI TECH CONFERENCE 2023 (Shun)</title>
         <link>https://speakerdeck.com/bbqallstars/ahurikesiyonkai-fa-niqian-kasenai-ci-cd-woheng-duan-zu-zhi-tositezhi-yuan-siteiruhua-mixi-tech-conference</link>
-        <dc:date>2023-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「騒ゲーハイライト」について【MIXI TECH CONFERENCE 2023】 (YuukiARIA)</title>
-        <link>https://speakerdeck.com/yuukiaria/sao-gehairaito-nituite-mixi-tech-conference-2023</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
