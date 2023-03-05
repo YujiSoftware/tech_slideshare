@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【LabTech Talk vol.92】実務に活かすアルゴリズム (LabBase転職)</title>
+        <link>https://speakerdeck.com/pol_user/d50b6e65bcee16848d8ed7a0dbc0b064</link>
+        <dc:date>2023-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>はじめの一歩を踏み出したい方へ~SREというロールを担うためにやったこと、学びや反省 / Let's start the first step to the SRE (gonkun)</title>
         <link>https://speakerdeck.com/gonkun/lets-start-the-first-step-to-the-sre</link>
         <dc:date>2023-03-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>agones 上に作る QUIC を使った音声通信機能【MIXI TECH CONFERENCE 2023】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/voice-communication-function-using-quic-which-created-on-agones</link>
-        <dc:date>2023-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>学校教育支援の技術解剖と21卒エンジニアが教材開発で習得したエンジニアリングスキル【MIXI TECH CONFERENCE 2023】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/methods-of-supporting-school-education-and-engineering-skills-acquired-in-developing-teaching-materials</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
