@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>たのしいRubyの構文解析ツアー (Misaki Shioi(塩井美咲/しおい))</title>
+        <link>https://speakerdeck.com/coe401_/tanosiirubynogou-wen-jie-xi-tua</link>
+        <dc:date>2023-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MT法を用いたパーマーペンギンの種類判別 (Sogo Takabayashi)</title>
         <link>https://speakerdeck.com/sogonista/mtfa-woyong-itapamapenginnozhong-lei-pan-bie</link>
         <dc:date>2023-03-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コトダマンにおける技術的負債との戦い： サーバーアプリケーションのリアーキテクティング編 【MIXI TECH CONFERENCE 2023】  (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/addressing-technical-liabilities-in-kotodaman-re-architecting-server-applications</link>
-        <dc:date>2023-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>となりのQAのお仕事【MIXI TECH CONFERENCE 2023】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/qa-work-in-the-neighborhood</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
