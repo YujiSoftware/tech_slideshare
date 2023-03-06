@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エルゴノミクスキーボードの歴史から自作キーボードの未来を考える</title>
+        <link>https://docs.google.com/presentation/d/1JOLJVL8gcXIMxyFd1lPihHve5nG3WPPPK_rnkCPCO7k/preview</link>
+        <dc:date>2023-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【LabTech Talk vol.92】実務に活かすアルゴリズム (LabBase転職)</title>
         <link>https://speakerdeck.com/pol_user/d50b6e65bcee16848d8ed7a0dbc0b064</link>
         <dc:date>2023-03-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2023年もSRE再考と叫びなさい‼️ (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/2023nian-mosrezai-kao-tojiao-binasai</link>
-        <dc:date>2023-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>agones 上に作る QUIC を使った音声通信機能【MIXI TECH CONFERENCE 2023】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/voice-communication-function-using-quic-which-created-on-agones</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
