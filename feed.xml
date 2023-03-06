@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kubernetes基盤を自律的に支えるController化の実装Tips / forkwell-202303-amsy810-k8s (Masaya Aoyama (@amsy810))</title>
+        <link>https://speakerdeck.com/masayaaoyama/forkwell-202303-amsy810-k8s</link>
+        <dc:date>2023-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BIツールとETL (ShoMaekawa/ウィル)</title>
         <link>https://speakerdeck.com/shomaekawa/biturutoetl</link>
         <dc:date>2023-03-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>get updated to the latest realtime audio processings knowledge base (2023) (再履修: 2023年までの リアルタイムオーディオ処理) (Atsushi Eno)</title>
         <link>https://speakerdeck.com/atsushieno/get-updated-to-the-latest-realtime-audio-processings-knowledge-base-2023-jp-3d08837b-4b4e-460f-b5cd-f6c66a00bf89</link>
-        <dc:date>2023-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AutoML チュートリアル（HPOとNAS） (Masanori Suganuma)</title>
-        <link>https://speakerdeck.com/sgnm/automl-tiyutoriaru-hpotonas</link>
         <dc:date>2023-03-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
