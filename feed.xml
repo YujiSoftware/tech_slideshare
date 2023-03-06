@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BIツールとETL (ShoMaekawa/ウィル)</title>
+        <link>https://speakerdeck.com/shomaekawa/biturutoetl</link>
+        <dc:date>2023-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>streamlitでGPT-3.5のチャットボットを作った話</title>
         <link>https://docs.google.com/presentation/d/1YBBm4i9AD_Osnf6EfAmE7kK7FxO1Oj6Mh4a3DgI-zVI/preview</link>
         <dc:date>2023-03-05T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AutoML チュートリアル（HPOとNAS） (Masanori Suganuma)</title>
         <link>https://speakerdeck.com/sgnm/automl-tiyutoriaru-hpotonas</link>
         <dc:date>2023-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JSONとJSON Schemaを改めて理解する / tokyo_study (OKUNOKENTARO)</title>
-        <link>https://speakerdeck.com/okunokentaro/tokyo-study</link>
-        <dc:date>2023-03-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
