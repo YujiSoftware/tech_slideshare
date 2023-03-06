@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サーバーサイドの開発言語を C# から Go へ置き換えた道のり【DeNA TechCon 2023】 (DeNA_Tech)</title>
+        <link>https://speakerdeck.com/dena_tech/techcon2023-session22</link>
+        <dc:date>2023-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サポートを明らかにすることを通して、助け合い上手なチームに爆速でなるぞ/clarifying_support_fukuoka_2023 (moriyuya)</title>
         <link>https://speakerdeck.com/moriyuya/clarifying-support-fukuoka-2023</link>
         <dc:date>2023-03-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>オニギリペイのセキュリティ事故に学ぶ安全なサービスの構築法 (徳丸 浩,@ockeghem)</title>
         <link>https://www.docswell.com/s/ockeghem/KWM4RZ-phpconf2019</link>
-        <dc:date>2023-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>分岐を低減するinterface設計と発想の転換 / interface_design_idea.pdf (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/interface-design-idea</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
