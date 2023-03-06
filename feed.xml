@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>streamlitでGPT-3.5のチャットボットを作った話</title>
+        <link>https://docs.google.com/presentation/d/1YBBm4i9AD_Osnf6EfAmE7kK7FxO1Oj6Mh4a3DgI-zVI/preview</link>
+        <dc:date>2023-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サーバーサイドの開発言語を C# から Go へ置き換えた道のり【DeNA TechCon 2023】 (DeNA_Tech)</title>
         <link>https://speakerdeck.com/dena_tech/techcon2023-session22</link>
         <dc:date>2023-03-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JSONとJSON Schemaを改めて理解する / tokyo_study (OKUNOKENTARO)</title>
         <link>https://speakerdeck.com/okunokentaro/tokyo-study</link>
-        <dc:date>2023-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オニギリペイのセキュリティ事故に学ぶ安全なサービスの構築法 (徳丸 浩,@ockeghem)</title>
-        <link>https://www.docswell.com/s/ockeghem/KWM4RZ-phpconf2019</link>
         <dc:date>2023-03-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
