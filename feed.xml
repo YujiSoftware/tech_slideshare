@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[DEIM2023] 高速な形態素解析器Vibratoの紹介 (LegalOn Technologies, Inc)</title>
+        <link>https://speakerdeck.com/legalontechnologies/deim2023-introduction-to-vibrato-fast-morphological-analyzer</link>
+        <dc:date>2023-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>機械学習を用いたIRIAM顔認識機能の改善の取り組み【DeNA TechCon 2023】 (DeNA_Tech)</title>
         <link>https://speakerdeck.com/dena_tech/techcon2023-session09</link>
         <dc:date>2023-03-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Node-RED v2.2 新機能紹介</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vT0tuXY9WF066h30li59PTQmFoKWpPseQL8GhrNixX9hGDrKfKqh5qwvWHaDEAP003gq6paLcWuOTns/pub</link>
-        <dc:date>2023-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Node-RED 3.0 新機能紹介 (Takeshi Ueno)</title>
-        <link>https://speakerdeck.com/utaani/node-red-3-dot-0-xin-ji-neng-shao-jie</link>
         <dc:date>2023-03-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
