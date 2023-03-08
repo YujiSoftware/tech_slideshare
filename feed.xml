@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>クラウドネイティブ時代のコンテナ環境におけるJavaアプリケーションのメトリクス・ログ・トレースモニタリング (Shin Tanimoto)</title>
+        <link>https://speakerdeck.com/shintanimoto/metrics-log-and-trace-monitoring-of-java-applications-in-containerized-environments-in-the-cloud-native-era</link>
+        <dc:date>2023-03-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Winnyのネットワークの面白さ (NAKAYAMA Masahiro,@nekoruri)</title>
         <link>https://www.docswell.com/s/nekoruri/ZLLXMD-winny-network</link>
         <dc:date>2023-03-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>開発速度が速い #とは（LayerX社内資料）/ How fast is the development speed (LayerX)</title>
         <link>https://speakerdeck.com/layerx/how-fast-is-the-development-speed</link>
-        <dc:date>2023-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>温故知新 TypeScript10年の歴史を振り返る (k.okayama)</title>
-        <link>https://speakerdeck.com/hyopt/looking-back-on-10-years-of-typescript-history</link>
         <dc:date>2023-03-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
