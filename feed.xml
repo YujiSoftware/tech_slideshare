@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NLPとVision-and-Languageの基礎・最新動向 (1) / DEIM Tutorial Part 1: NLP (Kyosuke Nishida)</title>
+        <link>https://speakerdeck.com/kyoun/deim-tutorial-part-1-nlp</link>
+        <dc:date>2023-03-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ウェブセキュリティの知識は普及しているか、徳丸本の著者が憂慮していること (徳丸 浩,@ockeghem)</title>
         <link>https://www.docswell.com/s/ockeghem/58GYP2-forkwell20230303</link>
         <dc:date>2023-03-07T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>MT法を用いたパーマーペンギンの種類判別 (Sogo Takabayashi)</title>
         <link>https://speakerdeck.com/sogonista/mtfa-woyong-itapamapenginnozhong-lei-pan-bie</link>
         <dc:date>2023-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TokyoR#104_DataProcessing (kilometer)</title>
-        <link>https://speakerdeck.com/kilometer/tokyor-number-104-dataprocessing</link>
-        <dc:date>2023-03-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
