@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>レコメンドへの大規模アクセスを支えるGo製サーバーの裏側 (Hiroaki Egashira)</title>
+        <link>https://speakerdeck.com/_hiro511/rekomendohenoda-gui-mo-akusesuwozhi-erugozhi-sabanoli-ce</link>
+        <dc:date>2023-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Platform Engineeringへの招待 (Kazuto Kusama)</title>
         <link>https://speakerdeck.com/jacopen/platform-engineeringhenozhao-dai</link>
         <dc:date>2023-03-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【LabTech Talk vol.92】実務に活かすアルゴリズム (LabBase転職)</title>
         <link>https://speakerdeck.com/pol_user/d50b6e65bcee16848d8ed7a0dbc0b064</link>
-        <dc:date>2023-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はじめの一歩を踏み出したい方へ~SREというロールを担うためにやったこと、学びや反省 / Let's start the first step to the SRE (gonkun)</title>
-        <link>https://speakerdeck.com/gonkun/lets-start-the-first-step-to-the-sre</link>
         <dc:date>2023-03-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
