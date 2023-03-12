@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VOC分析を支えるデータ基盤とモダンデータスタックの取り組み【DeNA TechCon 2023】 (DeNA_Tech)</title>
+        <link>https://speakerdeck.com/dena_tech/techcon2023-session12</link>
+        <dc:date>2023-03-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>40歳過ぎてもエンジニアでいるためにやっていること (onozaty)</title>
         <link>https://www.slideshare.net/onozaty/40-256356778</link>
         <dc:date>2023-03-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サーバーサイドの開発言語を C# から Go へ置き換えた道のり【DeNA TechCon 2023】 (DeNA_Tech)</title>
         <link>https://speakerdeck.com/dena_tech/techcon2023-session22</link>
-        <dc:date>2023-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サポートを明らかにすることを通して、助け合い上手なチームに爆速でなるぞ/clarifying_support_fukuoka_2023 (moriyuya)</title>
-        <link>https://speakerdeck.com/moriyuya/clarifying-support-fukuoka-2023</link>
         <dc:date>2023-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
