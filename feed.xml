@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Type Annotations Proposal Update March 2023</title>
+        <link>https://docs.google.com/presentation/d/1OraKn6TUdmtug-lkgijq-43Xou_1lB1_DJ54x6ssnRY/preview</link>
+        <dc:date>2023-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2023-03 - Import attributes for Stage 3</title>
+        <link>https://docs.google.com/presentation/d/1Abdr54Iflz_4sah2_yX2qS3K09qDJGV84qIZ6pHAqIk/preview</link>
+        <dc:date>2023-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LayerXにおける機械学習を活用した請求書OCR機能に関する取り組み / deim2023-layerx-ai-ocr (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/deim2023-layerx-ai-ocr</link>
         <dc:date>2023-03-12T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Winnyのネットワークの面白さ (NAKAYAMA Masahiro,@nekoruri)</title>
         <link>https://www.docswell.com/s/nekoruri/ZLLXMD-winny-network</link>
-        <dc:date>2023-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[DEIM2023] 高速な形態素解析器Vibratoの紹介 (LegalOn Technologies, Inc)</title>
-        <link>https://speakerdeck.com/legalontechnologies/deim2023-introduction-to-vibrato-fast-morphological-analyzer</link>
-        <dc:date>2023-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習を用いたIRIAM顔認識機能の改善の取り組み【DeNA TechCon 2023】 (DeNA_Tech)</title>
-        <link>https://speakerdeck.com/dena_tech/techcon2023-session09</link>
         <dc:date>2023-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
