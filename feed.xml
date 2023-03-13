@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>デュアルトラックアジャイルとの向き合い方 (Takafumi ONAKA)</title>
+        <link>https://speakerdeck.com/onk/2023-03-08-how-to-deal-with-dual-track-agile</link>
+        <dc:date>2023-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【インターネットの母編】平成生まれのためのUNIX&amp;IT歴史講座 (法林浩之,@hourin)</title>
         <link>https://www.slideshare.net/hourin/unixit-256382918</link>
         <dc:date>2023-03-12T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>サーバーレスを “安全・安心” に使う / Serverless Security Pattern (kensh)</title>
         <link>https://speakerdeck.com/_kensh/serverless-security-pattern</link>
         <dc:date>2023-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes基盤を自律的に支えるController化の実装Tips / forkwell-202303-amsy810-k8s (Masaya Aoyama (@amsy810))</title>
-        <link>https://speakerdeck.com/masayaaoyama/forkwell-202303-amsy810-k8s</link>
-        <dc:date>2023-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
