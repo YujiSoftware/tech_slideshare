@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【インターネットの母編】平成生まれのためのUNIX&amp;IT歴史講座 (法林浩之,@hourin)</title>
+        <link>https://www.slideshare.net/hourin/unixit-256382918</link>
+        <dc:date>2023-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Windows Template StudioでGenericHost＋MVVMなWPFアプリを手軽に書いてみる (須藤圭太)</title>
         <link>https://www.docswell.com/s/suusanex/K7LJ7K-GenericHost-MVVM-WPF</link>
         <dc:date>2023-03-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kubernetes基盤を自律的に支えるController化の実装Tips / forkwell-202303-amsy810-k8s (Masaya Aoyama (@amsy810))</title>
         <link>https://speakerdeck.com/masayaaoyama/forkwell-202303-amsy810-k8s</link>
-        <dc:date>2023-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BIツールとETL (ShoMaekawa/ウィル)</title>
-        <link>https://speakerdeck.com/shomaekawa/biturutoetl</link>
         <dc:date>2023-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
