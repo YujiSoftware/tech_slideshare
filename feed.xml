@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LayerXにおける機械学習を活用した請求書OCR機能に関する取り組み / deim2023-layerx-ai-ocr (Yuya Matsumura)</title>
+        <link>https://speakerdeck.com/yuya4/deim2023-layerx-ai-ocr</link>
+        <dc:date>2023-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>デュアルトラックアジャイルとの向き合い方 (Takafumi ONAKA)</title>
         <link>https://speakerdeck.com/onk/2023-03-08-how-to-deal-with-dual-track-agile</link>
         <dc:date>2023-03-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>機械学習を用いたIRIAM顔認識機能の改善の取り組み【DeNA TechCon 2023】 (DeNA_Tech)</title>
         <link>https://speakerdeck.com/dena_tech/techcon2023-session09</link>
-        <dc:date>2023-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーレスを “安全・安心” に使う / Serverless Security Pattern (kensh)</title>
-        <link>https://speakerdeck.com/_kensh/serverless-security-pattern</link>
         <dc:date>2023-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
