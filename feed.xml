@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20230315_JAWS-UG_朝会_43_LT資料 (tsumita)</title>
+        <link>https://speakerdeck.com/tsumita/20230315-jaws-ug-zhao-hui-43-ltzi-liao</link>
+        <dc:date>2023-03-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Foundation Model and Robotics | 基盤モデルとロボティクス (Masato Kobayashi)</title>
         <link>https://speakerdeck.com/mertcooking/foundation-model-and-robotics-ji-pan-moderutoroboteikusu</link>
         <dc:date>2023-03-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>excite_techcon2023__RDS_performance_insightと実行計画 との付き合い方__DBとINDEXを学ぼう (excitejp)</title>
         <link>https://speakerdeck.com/excitejp/excite-techcon2023-rds-performance-insighttoshi-xing-ji-hua-tonofu-kihe-ifang-dbtoindexwoxue-bou</link>
-        <dc:date>2023-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウドネイティブ時代のコンテナ環境におけるJavaアプリケーションのメトリクス・ログ・トレースモニタリング (Shin Tanimoto)</title>
-        <link>https://speakerdeck.com/shintanimoto/metrics-log-and-trace-monitoring-of-java-applications-in-containerized-environments-in-the-cloud-native-era</link>
         <dc:date>2023-03-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
