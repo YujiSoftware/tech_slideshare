@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Foundation Model and Robotics | 基盤モデルとロボティクス (Masato Kobayashi)</title>
+        <link>https://speakerdeck.com/mertcooking/foundation-model-and-robotics-ji-pan-moderutoroboteikusu</link>
+        <dc:date>2023-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Type Annotations Proposal Update March 2023</title>
         <link>https://docs.google.com/presentation/d/1OraKn6TUdmtug-lkgijq-43Xou_1lB1_DJ54x6ssnRY/preview</link>
         <dc:date>2023-03-12T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>クラウドネイティブ時代のコンテナ環境におけるJavaアプリケーションのメトリクス・ログ・トレースモニタリング (Shin Tanimoto)</title>
         <link>https://speakerdeck.com/shintanimoto/metrics-log-and-trace-monitoring-of-java-applications-in-containerized-environments-in-the-cloud-native-era</link>
         <dc:date>2023-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Winnyのネットワークの面白さ (NAKAYAMA Masahiro,@nekoruri)</title>
-        <link>https://www.docswell.com/s/nekoruri/ZLLXMD-winny-network</link>
-        <dc:date>2023-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
