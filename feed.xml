@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NIST SP800-63-4 IPD 63A: Identity Proofing 概要紹介 (勝原達也(Tatsuya Katsuhara))</title>
+        <link>https://speakerdeck.com/kthrtty/20230316-shen-yuan-que-ren-nimatuwarusekiyuriteinoxin-chang-shi-nist-sp800-63-4a</link>
+        <dc:date>2023-03-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetesコントローラーのパフォーマンスチューニング (Akihiro Ikezoe)</title>
+        <link>https://speakerdeck.com/zoetrope/kuberneteskontororanopahuomansutiyuningu</link>
+        <dc:date>2023-03-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CloudFront + S3環境から Cloudflare R2 + Workers環境に移行した話 (Shigeki SUGAI)</title>
+        <link>https://speakerdeck.com/teckl/cloudfront-plus-s3huan-jing-kara-cloudflare-r2-plus-workershuan-jing-niyi-xing-sitahua</link>
+        <dc:date>2023-03-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DDD Demystified ~結局DDDとは何なのか？何でないのか？~ #phperkaigi_reject (Hiromi Hishida)</title>
         <link>https://speakerdeck.com/77web/ddd-demystified-jie-ju-dddtohahe-nanoka-he-denainoka</link>
         <dc:date>2023-03-15T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>VOC分析を支えるデータ基盤とモダンデータスタックの取り組み【DeNA TechCon 2023】 (DeNA_Tech)</title>
         <link>https://speakerdeck.com/dena_tech/techcon2023-session12</link>
         <dc:date>2023-03-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>40歳過ぎてもエンジニアでいるためにやっていること (onozaty)</title>
-        <link>https://www.slideshare.net/onozaty/40-256356778</link>
-        <dc:date>2023-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティとデザイン (takumma)</title>
-        <link>https://speakerdeck.com/takumma/sekiyuriteitotesain</link>
-        <dc:date>2023-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テックブログを分析して分かった始めるコツ・続けるコツ (Atsushi Nakatsugawa)</title>
-        <link>https://speakerdeck.com/moongift/tetukuhurokuwofen-xi-sitefen-katutashi-merukotusok-kerukotu</link>
-        <dc:date>2023-03-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
