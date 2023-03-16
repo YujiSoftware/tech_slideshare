@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ワイヤレス電力伝送について (SoftBank Tech Night)</title>
+        <link>https://speakerdeck.com/sbtechnight/waiyaresudian-li-chuan-song-nituite</link>
+        <dc:date>2023-03-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BIMIとメールセキュリティ (SoftBank Tech Night)</title>
+        <link>https://speakerdeck.com/sbtechnight/bimitomerusekiyuritei</link>
+        <dc:date>2023-03-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>6G／テラヘルツの取り組み (SoftBank Tech Night)</title>
+        <link>https://speakerdeck.com/sbtechnight/6g-slash-teraherutunoqu-rizu-mi</link>
+        <dc:date>2023-03-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ロケーターを学んでテスト自動化上級者を目指そう (Nozomi Ito)</title>
+        <link>https://speakerdeck.com/nozomiito/roketawoxue-ndetesutozi-dong-hua-shang-ji-zhe-womu-zhi-sou</link>
+        <dc:date>2023-03-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>戦略と実行をつなぐデータ (Hikaru Kashida)</title>
         <link>https://speakerdeck.com/hik0107/zhan-lue-toshi-xing-wotunagudeta</link>
         <dc:date>2023-03-15T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>レコメンドへの大規模アクセスを支えるGo製サーバーの裏側 (Hiroaki Egashira)</title>
         <link>https://speakerdeck.com/_hiro511/rekomendohenoda-gui-mo-akusesuwozhi-erugozhi-sabanoli-ce</link>
         <dc:date>2023-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Platform Engineeringへの招待 (Kazuto Kusama)</title>
-        <link>https://speakerdeck.com/jacopen/platform-engineeringhenozhao-dai</link>
-        <dc:date>2023-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Zuziさん、私、リーダーにあんまり向いてないと思うんです (nikkie)</title>
-        <link>https://speakerdeck.com/ftnext/zuzisan-si-ridanianmarixiang-itenaitosi-undesu</link>
-        <dc:date>2023-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NLPとVision-and-Languageの基礎・最新動向 (1) / DEIM Tutorial Part 1: NLP (Kyosuke Nishida)</title>
-        <link>https://speakerdeck.com/kyoun/deim-tutorial-part-1-nlp</link>
-        <dc:date>2023-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウェブセキュリティの知識は普及しているか、徳丸本の著者が憂慮していること (徳丸 浩,@ockeghem)</title>
-        <link>https://www.docswell.com/s/ockeghem/58GYP2-forkwell20230303</link>
-        <dc:date>2023-03-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
