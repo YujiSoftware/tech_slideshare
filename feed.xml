@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DDD Demystified ~結局DDDとは何なのか？何でないのか？~ #phperkaigi_reject (Hiromi Hishida)</title>
+        <link>https://speakerdeck.com/77web/ddd-demystified-jie-ju-dddtohahe-nanoka-he-denainoka</link>
+        <dc:date>2023-03-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ワイヤレス電力伝送について (SoftBank Tech Night)</title>
         <link>https://speakerdeck.com/sbtechnight/waiyaresudian-li-chuan-song-nituite</link>
         <dc:date>2023-03-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>テックブログを分析して分かった始めるコツ・続けるコツ (Atsushi Nakatsugawa)</title>
         <link>https://speakerdeck.com/moongift/tetukuhurokuwofen-xi-sitefen-katutashi-merukotusok-kerukotu</link>
         <dc:date>2023-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>レコメンドへの大規模アクセスを支えるGo製サーバーの裏側 (Hiroaki Egashira)</title>
-        <link>https://speakerdeck.com/_hiro511/rekomendohenoda-gui-mo-akusesuwozhi-erugozhi-sabanoli-ce</link>
-        <dc:date>2023-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
