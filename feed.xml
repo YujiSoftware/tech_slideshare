@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最適輸送が遅すぎる（スライス法による解法） (joisino)</title>
+        <link>https://speakerdeck.com/joisino/zui-shi-shu-song-gachi-sugiru-suraisufa-niyorujie-fa</link>
+        <dc:date>2023-03-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最近のサーバーレスの話 #ssmjp (NAKAYAMA Masahiro,@nekoruri)</title>
         <link>https://www.docswell.com/s/nekoruri/K981RV-serverless</link>
         <dc:date>2023-03-16T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Windows Template StudioでGenericHost＋MVVMなWPFアプリを手軽に書いてみる (須藤圭太)</title>
         <link>https://www.docswell.com/s/suusanex/K7LJ7K-GenericHost-MVVM-WPF</link>
         <dc:date>2023-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>gomicollector ガベコレ自作で辿る自作の森 (speed)</title>
-        <link>https://speakerdeck.com/speed1313/gomicollector-gabekorezi-zuo-dechan-ruzi-zuo-nosen</link>
-        <dc:date>2023-03-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
