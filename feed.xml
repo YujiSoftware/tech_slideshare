@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最近のサーバーレスの話 #ssmjp (NAKAYAMA Masahiro,@nekoruri)</title>
+        <link>https://www.docswell.com/s/nekoruri/K981RV-serverless</link>
+        <dc:date>2023-03-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NIST SP800-63-4 IPD 63A: Identity Proofing 概要紹介 (勝原達也(Tatsuya Katsuhara))</title>
         <link>https://speakerdeck.com/kthrtty/20230316-shen-yuan-que-ren-nimatuwarusekiyuriteinoxin-chang-shi-nist-sp800-63-4a</link>
         <dc:date>2023-03-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>gomicollector ガベコレ自作で辿る自作の森 (speed)</title>
         <link>https://speakerdeck.com/speed1313/gomicollector-gabekorezi-zuo-dechan-ruzi-zuo-nosen</link>
-        <dc:date>2023-03-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VOC分析を支えるデータ基盤とモダンデータスタックの取り組み【DeNA TechCon 2023】 (DeNA_Tech)</title>
-        <link>https://speakerdeck.com/dena_tech/techcon2023-session12</link>
         <dc:date>2023-03-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
