@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Spring Modulithで始めるモジュラモノリス開発 (YutoOtsuka)</title>
+        <link>https://speakerdeck.com/yutootsuka/spring-modulithdeshi-merumoziyuramonorisukai-fa</link>
+        <dc:date>2023-03-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PHP8によるデザインパターン入門 / Introduction to Design Patterns with PHP8 (Futoshi Endo)</title>
         <link>https://speakerdeck.com/fendo181/introduction-to-design-patterns-with-php8</link>
         <dc:date>2023-03-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>6G／テラヘルツの取り組み (SoftBank Tech Night)</title>
         <link>https://speakerdeck.com/sbtechnight/6g-slash-teraherutunoqu-rizu-mi</link>
-        <dc:date>2023-03-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ロケーターを学んでテスト自動化上級者を目指そう (Nozomi Ito)</title>
-        <link>https://speakerdeck.com/nozomiito/roketawoxue-ndetesutozi-dong-hua-shang-ji-zhe-womu-zhi-sou</link>
         <dc:date>2023-03-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
