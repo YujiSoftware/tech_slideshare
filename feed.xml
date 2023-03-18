@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>dbtでデータ品質活動 (numa)</title>
+        <link>https://speakerdeck.com/foursue/dbtdedetapin-zhi-huo-dong</link>
+        <dc:date>2023-03-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアのためのドキュメントライティング / Docs for Developers (iwashi)</title>
         <link>https://speakerdeck.com/iwashi86/docs-for-developers</link>
         <dc:date>2023-03-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Type Annotations Proposal Update March 2023</title>
         <link>https://docs.google.com/presentation/d/1OraKn6TUdmtug-lkgijq-43Xou_1lB1_DJ54x6ssnRY/preview</link>
-        <dc:date>2023-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023-03 - Import attributes for Stage 3</title>
-        <link>https://docs.google.com/presentation/d/1Abdr54Iflz_4sah2_yX2qS3K09qDJGV84qIZ6pHAqIk/preview</link>
         <dc:date>2023-03-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
