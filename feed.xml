@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHP8によるデザインパターン入門 / Introduction to Design Patterns with PHP8 (Futoshi Endo)</title>
+        <link>https://speakerdeck.com/fendo181/introduction-to-design-patterns-with-php8</link>
+        <dc:date>2023-03-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インシデントレスポンスを自動化で支援する  Slack Bot で人機一体なセキュリティ対策を実現する - SEASON2 (Hiroya Ito)</title>
         <link>https://speakerdeck.com/hiboma/yapc-kyoto-2023</link>
         <dc:date>2023-03-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ロケーターを学んでテスト自動化上級者を目指そう (Nozomi Ito)</title>
         <link>https://speakerdeck.com/nozomiito/roketawoxue-ndetesutozi-dong-hua-shang-ji-zhe-womu-zhi-sou</link>
-        <dc:date>2023-03-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>戦略と実行をつなぐデータ (Hikaru Kashida)</title>
-        <link>https://speakerdeck.com/hik0107/zhan-lue-toshi-xing-wotunagudeta</link>
         <dc:date>2023-03-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
