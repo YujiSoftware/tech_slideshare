@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最先端の質問応答技術の研究開発と迅速な実用化ーStudio Ousiaでの取り組みー (Ikuya Yamada)</title>
+        <link>https://speakerdeck.com/ikuyamada/zui-xian-duan-nozhi-wen-ying-da-ji-shu-noyan-jiu-kai-fa-toxun-su-nashi-yong-hua-studio-ousiadenoqu-rizu-mi</link>
+        <dc:date>2023-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>日常業務のカイゼンで図る開発チームへの貢献 (koluku)</title>
+        <link>https://speakerdeck.com/koluku/ri-chang-ye-wu-nokaizendetu-rukai-fa-timuhenogong-xian</link>
+        <dc:date>2023-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>あの日ハッカーに憧れた自分が、「ハッカーの呪縛」から解き放たれるまで (ar_tama)</title>
         <link>https://speakerdeck.com/ar_tama/anori-hatukanichong-retazi-fen-ga-hatukanozhou-fu-karajie-kifang-tarerumade</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>NIST SP800-63-4 IPD 63A: Identity Proofing 概要紹介 (勝原達也(Tatsuya Katsuhara))</title>
         <link>https://speakerdeck.com/kthrtty/20230316-shen-yuan-que-ren-nimatuwarusekiyuriteinoxin-chang-shi-nist-sp800-63-4a</link>
-        <dc:date>2023-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesコントローラーのパフォーマンスチューニング (Akihiro Ikezoe)</title>
-        <link>https://speakerdeck.com/zoetrope/kuberneteskontororanopahuomansutiyuningu</link>
-        <dc:date>2023-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CloudFront + S3環境から Cloudflare R2 + Workers環境に移行した話 (Shigeki SUGAI)</title>
-        <link>https://speakerdeck.com/teckl/cloudfront-plus-s3huan-jing-kara-cloudflare-r2-plus-workershuan-jing-niyi-xing-sitahua</link>
         <dc:date>2023-03-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
