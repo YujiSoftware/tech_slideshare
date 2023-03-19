@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Linuxのブロックデバイス (Satoru Takeuchi)</title>
+        <link>https://speakerdeck.com/sat/linuxnoburotukudebaisu</link>
+        <dc:date>2023-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>YAPC::Kyoto 2023 Keynote (Yasuhiro Onishi)</title>
         <link>https://speakerdeck.com/onishi/yapc-kyoto-2023-keynote</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>エンジニアのためのドキュメントライティング / Docs for Developers (iwashi)</title>
         <link>https://speakerdeck.com/iwashi86/docs-for-developers</link>
         <dc:date>2023-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>吉祥寺.pm32_なぜ人は組織から去っていくのか？ (虎の穴ラボ株式会社)</title>
-        <link>https://speakerdeck.com/toranoana/ji-xiang-si-dot-pm32-nazeren-hazu-zhi-karaqu-tuteikunoka</link>
-        <dc:date>2023-03-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
