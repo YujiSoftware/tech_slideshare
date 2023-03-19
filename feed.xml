@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>YAPC::Kyoto 2023 Keynote (Yasuhiro Onishi)</title>
+        <link>https://speakerdeck.com/onishi/yapc-kyoto-2023-keynote</link>
+        <dc:date>2023-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>YAPC::Europe 2023: Perl and Koha conference in Helsinki</title>
         <link>https://docs.google.com/presentation/d/1FGNTELveHq3IYZgkJwcp_dEqbwSeBIqWq563FlZRuYw/preview</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>吉祥寺.pm32_なぜ人は組織から去っていくのか？ (虎の穴ラボ株式会社)</title>
         <link>https://speakerdeck.com/toranoana/ji-xiang-si-dot-pm32-nazeren-hazu-zhi-karaqu-tuteikunoka</link>
-        <dc:date>2023-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>streamlitでGPT-3のチャットボットを作った話</title>
-        <link>https://docs.google.com/presentation/d/1FL01ee-Vix1gXRPKJkqtcY1BpAPm-dgp4C_3RtiXysE/preview</link>
         <dc:date>2023-03-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
