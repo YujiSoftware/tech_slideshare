@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ジョブキューシステムFireworqのアーキテクチャ設計と運用時のベストプラクティス (INA Lintaro)</title>
+        <link>https://speakerdeck.com/tarao/fireworq</link>
+        <dc:date>2023-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPT と自然言語処理 / 言語の意味の計算と最適輸送 (Sho Yokoi)</title>
         <link>https://speakerdeck.com/eumesy/chatgpt-and-intro-of-ot-for-nlp</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ワイヤレス電力伝送について (SoftBank Tech Night)</title>
         <link>https://speakerdeck.com/sbtechnight/waiyaresudian-li-chuan-song-nituite</link>
-        <dc:date>2023-03-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BIMIとメールセキュリティ (SoftBank Tech Night)</title>
-        <link>https://speakerdeck.com/sbtechnight/bimitomerusekiyuritei</link>
         <dc:date>2023-03-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
