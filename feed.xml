@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェアエンジニアリングサバイバルガイド:  廃墟を直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す</title>
+        <link>https://docs.google.com/presentation/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/preview</link>
+        <dc:date>2023-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ジョブキューシステムFireworqのアーキテクチャ設計と運用時のベストプラクティス (INA Lintaro)</title>
         <link>https://speakerdeck.com/tarao/fireworq</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DDD Demystified ~結局DDDとは何なのか？何でないのか？~ #phperkaigi_reject (Hiromi Hishida)</title>
         <link>https://speakerdeck.com/77web/ddd-demystified-jie-ju-dddtohahe-nanoka-he-denainoka</link>
-        <dc:date>2023-03-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ワイヤレス電力伝送について (SoftBank Tech Night)</title>
-        <link>https://speakerdeck.com/sbtechnight/waiyaresudian-li-chuan-song-nituite</link>
         <dc:date>2023-03-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
