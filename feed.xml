@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>YAPC::Europe 2023: Perl and Koha conference in Helsinki</title>
+        <link>https://docs.google.com/presentation/d/1FGNTELveHq3IYZgkJwcp_dEqbwSeBIqWq563FlZRuYw/preview</link>
+        <dc:date>2023-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>デプロイ今昔物語 〜CGIからサーバーレスまで〜 / The deployment technics (mackee)</title>
+        <link>https://speakerdeck.com/mackee/the-deployment-technics</link>
+        <dc:date>2023-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>どこでも動くWebフレームワークをつくる (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/dokodemodong-kuwebhuremuwakuwotukuru</link>
+        <dc:date>2023-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>権威DNSサービスへのDDoSと ハイパフォーマンスなベンチマーカ / DNS Pseudo random subdomain attack and High performance Benchmarker (kazeburo)</title>
         <link>https://speakerdeck.com/kazeburo/dns-pseudo-random-subdomain-attack-and-high-performance-benchmarker</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>streamlitでGPT-3のチャットボットを作った話</title>
         <link>https://docs.google.com/presentation/d/1FL01ee-Vix1gXRPKJkqtcY1BpAPm-dgp4C_3RtiXysE/preview</link>
-        <dc:date>2023-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>sue445とOSSと社内ツール #subcul_dev (sue445)</title>
-        <link>https://speakerdeck.com/sue445/sue445-and-oss-and-in-house-tools</link>
-        <dc:date>2023-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最適輸送が遅すぎる（スライス法による解法） (joisino)</title>
-        <link>https://speakerdeck.com/joisino/zui-shi-shu-song-gachi-sugiru-suraisufa-niyorujie-fa</link>
-        <dc:date>2023-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最近のサーバーレスの話 #ssmjp (NAKAYAMA Masahiro,@nekoruri)</title>
-        <link>https://www.docswell.com/s/nekoruri/K981RV-serverless</link>
         <dc:date>2023-03-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
