@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>perl_in_2023spring.pdf (Kenichi Ishigaki)</title>
+        <link>https://speakerdeck.com/charsbar/perl-in-2023spring</link>
+        <dc:date>2023-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Linuxのブロックデバイス (Satoru Takeuchi)</title>
         <link>https://speakerdeck.com/sat/linuxnoburotukudebaisu</link>
         <dc:date>2023-03-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>dbtでデータ品質活動 (numa)</title>
         <link>https://speakerdeck.com/foursue/dbtdedetapin-zhi-huo-dong</link>
-        <dc:date>2023-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアのためのドキュメントライティング / Docs for Developers (iwashi)</title>
-        <link>https://speakerdeck.com/iwashi86/docs-for-developers</link>
         <dc:date>2023-03-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
