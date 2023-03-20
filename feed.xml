@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Microsoft Learnっていいよね (YouYou)</title>
+        <link>https://speakerdeck.com/yuhta28/microsoft-learntuteiiyone</link>
+        <dc:date>2023-03-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>トランクベース開発の実現に向けた開発プロセスとCIパイプラインの継続的改善 (aanrii)</title>
+        <link>https://speakerdeck.com/aanrii/torankuhesukai-fa-noshi-xian-nixiang-ketakai-fa-hurosesutocihaihurainnoji-sok-de-gai-shan</link>
+        <dc:date>2023-03-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>資源として見る実験プログラム (Hayato Tsukagoshi)</title>
         <link>https://speakerdeck.com/hpprc/zi-yuan-tositejian-rushi-yan-puroguramu</link>
         <dc:date>2023-03-19T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>PHP8によるデザインパターン入門 / Introduction to Design Patterns with PHP8 (Futoshi Endo)</title>
         <link>https://speakerdeck.com/fendo181/introduction-to-design-patterns-with-php8</link>
-        <dc:date>2023-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インシデントレスポンスを自動化で支援する  Slack Bot で人機一体なセキュリティ対策を実現する - SEASON2 (Hiroya Ito)</title>
-        <link>https://speakerdeck.com/hiboma/yapc-kyoto-2023</link>
-        <dc:date>2023-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>what-is-leadership-like-at-drecom.pdf (AnD00)</title>
-        <link>https://speakerdeck.com/and00/what-is-leadership-like-at-drecom</link>
         <dc:date>2023-03-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
