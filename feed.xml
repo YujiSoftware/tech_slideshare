@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>資源として見る実験プログラム (Hayato Tsukagoshi)</title>
+        <link>https://speakerdeck.com/hpprc/zi-yuan-tositejian-rushi-yan-puroguramu</link>
+        <dc:date>2023-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模レガシーテストを 倒すための CI基盤の作り方 / #CICD2023 (KONDO Uchio)</title>
         <link>https://speakerdeck.com/udzura/number-cicd2023</link>
         <dc:date>2023-03-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>what-is-leadership-like-at-drecom.pdf (AnD00)</title>
         <link>https://speakerdeck.com/and00/what-is-leadership-like-at-drecom</link>
-        <dc:date>2023-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NOT A HOTEL AIコンシェルジュ「Kevin」の開発秘話 (K)</title>
-        <link>https://speakerdeck.com/codehex/not-a-hotel-aikonsieruziyu-kevin-nokai-fa-mi-hua</link>
         <dc:date>2023-03-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
