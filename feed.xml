@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「新卒エンジニアが1年間で顔を売るために取った行動100連発」/YAPC::Kyoto 2023 前日祭 ネコトーストラボ杯争奪東西対抗LTマッチ (Arthur)</title>
+        <link>https://speakerdeck.com/arthur1/yapc-kyoto-2023-qian-ri-ji-nekotosutorabobei-zheng-duo-dong-xi-dui-kang-ltmatuti</link>
+        <dc:date>2023-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>perl_in_2023spring.pdf (Kenichi Ishigaki)</title>
         <link>https://speakerdeck.com/charsbar/perl-in-2023spring</link>
         <dc:date>2023-03-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>YugabyteDBの実行計画を眺める（NewSQL/分散SQLデータベースよろず勉強会 #3 発表資料） (NTT DATA Technology &amp; Innovation)</title>
         <link>https://www.slideshare.net/nttdata-tech/yugabytedb-query-plan-newsql-distdb-3-nttdata</link>
-        <dc:date>2023-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbtでデータ品質活動 (numa)</title>
-        <link>https://speakerdeck.com/foursue/dbtdedetapin-zhi-huo-dong</link>
         <dc:date>2023-03-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
