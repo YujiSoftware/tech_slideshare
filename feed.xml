@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[CI/CD2023]OSSで構築するOpenAPI開発のCI/CD (Wenhan Shi)</title>
+        <link>https://speakerdeck.com/xibuka/cd</link>
+        <dc:date>2023-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>qron: Cloud Native Cron Alternativeの今 (aereal)</title>
+        <link>https://speakerdeck.com/aereal/yapc2023</link>
+        <dc:date>2023-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>prototype大全 / YAPC::Kyoto 2023 (utagawa kiki)</title>
         <link>https://speakerdeck.com/utgwkk/yapc-kyoto-2023</link>
         <dc:date>2023-03-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ソフトウェアエンジニアリングサバイバルガイド:  廃墟を直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す</title>
         <link>https://docs.google.com/presentation/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/preview</link>
-        <dc:date>2023-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ジョブキューシステムFireworqのアーキテクチャ設計と運用時のベストプラクティス (INA Lintaro)</title>
-        <link>https://speakerdeck.com/tarao/fireworq</link>
-        <dc:date>2023-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPT と自然言語処理 / 言語の意味の計算と最適輸送 (Sho Yokoi)</title>
-        <link>https://speakerdeck.com/eumesy/chatgpt-and-intro-of-ot-for-nlp</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
