@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>prototype大全 / YAPC::Kyoto 2023 (utagawa kiki)</title>
+        <link>https://speakerdeck.com/utgwkk/yapc-kyoto-2023</link>
+        <dc:date>2023-03-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CSS-in-JS は本当にもうだめなのか？ (you-5805)</title>
         <link>https://speakerdeck.com/you5805/css-in-js-haben-dang-nimoudamenanoka</link>
         <dc:date>2023-03-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ChatGPT と自然言語処理 / 言語の意味の計算と最適輸送 (Sho Yokoi)</title>
         <link>https://speakerdeck.com/eumesy/chatgpt-and-intro-of-ot-for-nlp</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spring Modulithで始めるモジュラモノリス開発 (YutoOtsuka)</title>
-        <link>https://speakerdeck.com/yutootsuka/spring-modulithdeshi-merumoziyuramonorisukai-fa</link>
-        <dc:date>2023-03-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
