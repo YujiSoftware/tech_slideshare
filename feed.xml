@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Time Zone Canonicalization (for Stage 1)</title>
+        <link>https://docs.google.com/presentation/d/13vW8JxkbzyzGubT5ZkqUIxtpOQGNSUlguVwgcrbitog/preview</link>
+        <dc:date>2023-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>売上と開発環境を同時に改善するためにPerl Webアプリケーションをどのようにリプレイスするか (Masashi-Sutou)</title>
         <link>https://speakerdeck.com/masashi_sutou/mai-shang-tokai-fa-huan-jing-wotong-shi-nigai-shan-surutameniperl-webapurikesiyonwodonoyouniripureisusuruka</link>
         <dc:date>2023-03-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>日常業務のカイゼンで図る開発チームへの貢献 (koluku)</title>
         <link>https://speakerdeck.com/koluku/ri-chang-ye-wu-nokaizendetu-rukai-fa-timuhenogong-xian</link>
-        <dc:date>2023-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あの日ハッカーに憧れた自分が、「ハッカーの呪縛」から解き放たれるまで (ar_tama)</title>
-        <link>https://speakerdeck.com/ar_tama/anori-hatukanichong-retazi-fen-ga-hatukanozhou-fu-karajie-kifang-tarerumade</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
