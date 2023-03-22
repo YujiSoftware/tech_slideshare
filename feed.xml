@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Honoの3+1のルーターとそこにつながるPRがプロジェクトにもたらしたもの (Taku Amano)</title>
+        <link>https://speakerdeck.com/usualoma/honono3-plus-1norutatosokonitunagaruprgapuroziekutonimotarasitamono</link>
+        <dc:date>2023-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Actionsと"仲良くなる"ための練習方法 (Yuta Matsumura)</title>
         <link>https://speakerdeck.com/tsubakimoto_s/github-actionsto-zhong-liang-kunaru-tamenolian-xi-fang-fa</link>
         <dc:date>2023-03-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>権威DNSサービスへのDDoSと ハイパフォーマンスなベンチマーカ / DNS Pseudo random subdomain attack and High performance Benchmarker (kazeburo)</title>
         <link>https://speakerdeck.com/kazeburo/dns-pseudo-random-subdomain-attack-and-high-performance-benchmarker</link>
-        <dc:date>2023-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最先端の質問応答技術の研究開発と迅速な実用化ーStudio Ousiaでの取り組みー (Ikuya Yamada)</title>
-        <link>https://speakerdeck.com/ikuyamada/zui-xian-duan-nozhi-wen-ying-da-ji-shu-noyan-jiu-kai-fa-toxun-su-nashi-yong-hua-studio-ousiadenoqu-rizu-mi</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
