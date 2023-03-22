@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>売上と開発環境を同時に改善するためにPerl Webアプリケーションをどのようにリプレイスするか (Masashi-Sutou)</title>
+        <link>https://speakerdeck.com/masashi_sutou/mai-shang-tokai-fa-huan-jing-wotong-shi-nigai-shan-surutameniperl-webapurikesiyonwodonoyouniripureisusuruka</link>
+        <dc:date>2023-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[CI/CD2023]OSSで構築するOpenAPI開発のCI/CD (Wenhan Shi)</title>
         <link>https://speakerdeck.com/xibuka/cd</link>
         <dc:date>2023-03-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>あの日ハッカーに憧れた自分が、「ハッカーの呪縛」から解き放たれるまで (ar_tama)</title>
         <link>https://speakerdeck.com/ar_tama/anori-hatukanichong-retazi-fen-ga-hatukanozhou-fu-karajie-kifang-tarerumade</link>
-        <dc:date>2023-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアエンジニアリングサバイバルガイド:  廃墟を直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す</title>
-        <link>https://docs.google.com/presentation/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/preview</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
