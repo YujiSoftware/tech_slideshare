@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新しいメルカリ Web とそのパフォーマンス</title>
+        <link>https://docs.google.com/presentation/d/1QJfjEt77VXDNlNEzYDKmGhMnVnhZDHS4jzuxxisOa-A/preview</link>
+        <dc:date>2023-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Honoの3+1のルーターとそこにつながるPRがプロジェクトにもたらしたもの (Taku Amano)</title>
         <link>https://speakerdeck.com/usualoma/honono3-plus-1norutatosokonitunagaruprgapuroziekutonimotarasitamono</link>
         <dc:date>2023-03-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>どこでも動くWebフレームワークをつくる (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/dokodemodong-kuwebhuremuwakuwotukuru</link>
-        <dc:date>2023-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>権威DNSサービスへのDDoSと ハイパフォーマンスなベンチマーカ / DNS Pseudo random subdomain attack and High performance Benchmarker (kazeburo)</title>
-        <link>https://speakerdeck.com/kazeburo/dns-pseudo-random-subdomain-attack-and-high-performance-benchmarker</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
