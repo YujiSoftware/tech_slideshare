@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenAI_Examples_を深堀りしてみた</title>
+        <link>https://docs.google.com/presentation/d/1IM7AI3VSL4dievFrL_jmZT_jc8j_4kTlPjfrUYBG_34/preview</link>
+        <dc:date>2023-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>#phperkaigi 名著「パーフェクトPHP」のPart3に出てきたフレームワークを令和5年に書き直したらどんな感じですかね？ (hideki kinjyo)</title>
+        <link>https://speakerdeck.com/o0h/phperkaigi-2023</link>
+        <dc:date>2023-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>全力解説！Transformer (Arithmer Inc.)</title>
         <link>https://www.slideshare.net/ArithmerInc/transformer-248613529</link>
         <dc:date>2023-03-22T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>大規模レガシーテストを 倒すための CI基盤の作り方 / #CICD2023 (KONDO Uchio)</title>
         <link>https://speakerdeck.com/udzura/number-cicd2023</link>
-        <dc:date>2023-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「新卒エンジニアが1年間で顔を売るために取った行動100連発」/YAPC::Kyoto 2023 前日祭 ネコトーストラボ杯争奪東西対抗LTマッチ (Arthur)</title>
-        <link>https://speakerdeck.com/arthur1/yapc-kyoto-2023-qian-ri-ji-nekotosutorabobei-zheng-duo-dong-xi-dui-kang-ltmatuti</link>
-        <dc:date>2023-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>perl_in_2023spring.pdf (Kenichi Ishigaki)</title>
-        <link>https://speakerdeck.com/charsbar/perl-in-2023spring</link>
         <dc:date>2023-03-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
