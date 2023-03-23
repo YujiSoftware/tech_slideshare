@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ChatGPTによるデータ変換がもたらすインパクト (Masahiro Nishimi)</title>
+        <link>https://speakerdeck.com/masahiro_nishimi/chatgptniyorudetabian-huan-gamotarasuinpakuto</link>
+        <dc:date>2023-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPTをプロダクトに入れる開発が"毎日がAfter GPT"だった件/ChatGPT LT Link and Motivation (リンクアンドモチベーション)</title>
         <link>https://speakerdeck.com/lmi/chatgpt-lt-link-and-motivation</link>
         <dc:date>2023-03-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>YAPC::Kyoto 2023 Keynote (Yasuhiro Onishi)</title>
         <link>https://speakerdeck.com/onishi/yapc-kyoto-2023-keynote</link>
-        <dc:date>2023-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>YAPC::Europe 2023: Perl and Koha conference in Helsinki</title>
-        <link>https://docs.google.com/presentation/d/1FGNTELveHq3IYZgkJwcp_dEqbwSeBIqWq563FlZRuYw/preview</link>
         <dc:date>2023-03-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
