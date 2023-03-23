@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>全力解説！Transformer (Arithmer Inc.)</title>
+        <link>https://www.slideshare.net/ArithmerInc/transformer-248613529</link>
+        <dc:date>2023-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LayerXにおける ChatGPTを活用したPoC事例 / layerx-poc-with-chatgpt (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/layerx-poc-with-chatgpt</link>
         <dc:date>2023-03-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>perl_in_2023spring.pdf (Kenichi Ishigaki)</title>
         <link>https://speakerdeck.com/charsbar/perl-in-2023spring</link>
-        <dc:date>2023-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Linuxのブロックデバイス (Satoru Takeuchi)</title>
-        <link>https://speakerdeck.com/sat/linuxnoburotukudebaisu</link>
         <dc:date>2023-03-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
