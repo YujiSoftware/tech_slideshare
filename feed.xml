@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>本当に 0 からの 関数型プログラミングの歩き始め方 / How to Walk into Functional Programming from Scratch (Kazuyuki TAKASE)</title>
+        <link>https://speakerdeck.com/guvalif/how-to-walk-into-functional-programming-from-scratch</link>
+        <dc:date>2023-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ビギナー向け エッジランタイムのすすめ | エッジランタイムを意識した開発をはじめよう (AijiUejima)</title>
         <link>https://speakerdeck.com/aiji42/biginaxiang-ke-etuzirantaimunosusume-etuzirantaimuwoyi-shi-sitakai-fa-wohazimeyou</link>
         <dc:date>2023-03-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Time Zone Canonicalization (for Stage 1)</title>
         <link>https://docs.google.com/presentation/d/13vW8JxkbzyzGubT5ZkqUIxtpOQGNSUlguVwgcrbitog/preview</link>
-        <dc:date>2023-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>売上と開発環境を同時に改善するためにPerl Webアプリケーションをどのようにリプレイスするか (Masashi-Sutou)</title>
-        <link>https://speakerdeck.com/masashi_sutou/mai-shang-tokai-fa-huan-jing-wotong-shi-nigai-shan-surutameniperl-webapurikesiyonwodonoyouniripureisusuruka</link>
         <dc:date>2023-03-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
