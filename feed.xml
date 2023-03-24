@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ビギナー向け エッジランタイムのすすめ | エッジランタイムを意識した開発をはじめよう (AijiUejima)</title>
+        <link>https://speakerdeck.com/aiji42/biginaxiang-ke-etuzirantaimunosusume-etuzirantaimuwoyi-shi-sitakai-fa-wohazimeyou</link>
+        <dc:date>2023-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>41個のライブラリをSwift PMに移行し、脱Rosettaしてみた / MoT TechTalk #17 (MoT dev)</title>
         <link>https://speakerdeck.com/mot_techtalk/mot-techtalk-17-swift-pm</link>
         <dc:date>2023-03-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>売上と開発環境を同時に改善するためにPerl Webアプリケーションをどのようにリプレイスするか (Masashi-Sutou)</title>
         <link>https://speakerdeck.com/masashi_sutou/mai-shang-tokai-fa-huan-jing-wotong-shi-nigai-shan-surutameniperl-webapurikesiyonwodonoyouniripureisusuruka</link>
-        <dc:date>2023-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[CI/CD2023]OSSで構築するOpenAPI開発のCI/CD (Wenhan Shi)</title>
-        <link>https://speakerdeck.com/xibuka/cd</link>
         <dc:date>2023-03-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
