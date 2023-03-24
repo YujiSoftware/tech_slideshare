@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Webアプリケーション設計の第一歩は ディレクトリの整理から / Encraft 1 (OKUNOKENTARO)</title>
+        <link>https://speakerdeck.com/okunokentaro/encraft-1</link>
+        <dc:date>2023-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>本当に 0 からの 関数型プログラミングの歩き始め方 / How to Walk into Functional Programming from Scratch (Kazuyuki TAKASE)</title>
         <link>https://speakerdeck.com/guvalif/how-to-walk-into-functional-programming-from-scratch</link>
         <dc:date>2023-03-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GitHub Actionsと"仲良くなる"ための練習方法 (Yuta Matsumura)</title>
         <link>https://speakerdeck.com/tsubakimoto_s/github-actionsto-zhong-liang-kunaru-tamenolian-xi-fang-fa</link>
-        <dc:date>2023-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Time Zone Canonicalization (for Stage 1)</title>
-        <link>https://docs.google.com/presentation/d/13vW8JxkbzyzGubT5ZkqUIxtpOQGNSUlguVwgcrbitog/preview</link>
         <dc:date>2023-03-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
