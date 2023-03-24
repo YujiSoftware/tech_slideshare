@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>March 2023 AI Overview for Boards</title>
+        <link>https://docs.google.com/presentation/d/1dt9gk4cYK4OIkus4KcbP6eXd3HHaXpIxnfM1oCcqseM/preview</link>
+        <dc:date>2023-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Agileを始める前に知っておきたい3つの真実 (chiroruxx)</title>
         <link>https://speakerdeck.com/chiroruxx/agilewoshi-meruqian-nizhi-tuteokitai3tunozhen-shi</link>
         <dc:date>2023-03-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CSS-in-JS は本当にもうだめなのか？ (you-5805)</title>
         <link>https://speakerdeck.com/you5805/css-in-js-haben-dang-nimoudamenanoka</link>
-        <dc:date>2023-03-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Learnっていいよね (YouYou)</title>
-        <link>https://speakerdeck.com/yuhta28/microsoft-learntuteiiyone</link>
         <dc:date>2023-03-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
