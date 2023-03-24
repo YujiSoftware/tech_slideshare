@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>41個のライブラリをSwift PMに移行し、脱Rosettaしてみた / MoT TechTalk #17 (MoT dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/mot-techtalk-17-swift-pm</link>
+        <dc:date>2023-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>タクシーアプリ『GO』にLive Activitiesを入れてみた / MoT TechTalk #17 (MoT dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/mot-techtalk-17-live-activities</link>
+        <dc:date>2023-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPT選手権! LT大会 @Findy (sasanoshohuta)</title>
         <link>https://speakerdeck.com/sasanoshouta/chatgptxuan-shou-quan-ltda-hui-at-findy</link>
         <dc:date>2023-03-23T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>[CI/CD2023]OSSで構築するOpenAPI開発のCI/CD (Wenhan Shi)</title>
         <link>https://speakerdeck.com/xibuka/cd</link>
         <dc:date>2023-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>qron: Cloud Native Cron Alternativeの今 (aereal)</title>
-        <link>https://speakerdeck.com/aereal/yapc2023</link>
-        <dc:date>2023-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>prototype大全 / YAPC::Kyoto 2023 (utagawa kiki)</title>
-        <link>https://speakerdeck.com/utgwkk/yapc-kyoto-2023</link>
-        <dc:date>2023-03-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
