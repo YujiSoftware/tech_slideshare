@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Laravelへの異常な愛情 または私は如何にして心配するのを止めてEloquentを愛するようになったか (武田 憲太郎)</title>
+        <link>https://speakerdeck.com/kentaroutakeda/laravelhenoyi-chang-naai-qing-matahasi-haru-he-nisitexin-pei-surunowozhi-meteeloquentwoai-suruyouninatutaka</link>
+        <dc:date>2023-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>時間を気にせず普通にカンニングもしつつ ISUCON12 本選問題を PHP でやってみる (sji)</title>
         <link>https://speakerdeck.com/sji/shi-jian-woqi-nisezupu-tong-nikanningumositutu-isucon12-ben-xuan-wen-ti-wo-php-deyatutemiru</link>
         <dc:date>2023-03-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>全力解説！Transformer (Arithmer Inc.)</title>
         <link>https://www.slideshare.net/ArithmerInc/transformer-248613529</link>
-        <dc:date>2023-03-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LayerXにおける ChatGPTを活用したPoC事例 / layerx-poc-with-chatgpt (Yuya Matsumura)</title>
-        <link>https://speakerdeck.com/yuya4/layerx-poc-with-chatgpt</link>
         <dc:date>2023-03-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
