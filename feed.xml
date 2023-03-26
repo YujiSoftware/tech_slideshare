@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模言語モデルで変わるMLシステム開発 (Hirosato Gamo)</title>
+        <link>https://speakerdeck.com/hirosatogamo/da-gui-mo-yan-yu-moderudebian-warumlsisutemukai-fa</link>
+        <dc:date>2023-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LaTeX.pdf (ronkeisha info)</title>
         <link>https://www.slideshare.net/ronkeisha/latexpdf-256588798</link>
         <dc:date>2023-03-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>41個のライブラリをSwift PMに移行し、脱Rosettaしてみた / MoT TechTalk #17 (MoT dev)</title>
         <link>https://speakerdeck.com/mot_techtalk/mot-techtalk-17-swift-pm</link>
-        <dc:date>2023-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>タクシーアプリ『GO』にLive Activitiesを入れてみた / MoT TechTalk #17 (MoT dev)</title>
-        <link>https://speakerdeck.com/mot_techtalk/mot-techtalk-17-live-activities</link>
         <dc:date>2023-03-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
