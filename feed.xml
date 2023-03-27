@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>脱・初級者のための自作GBエミュレータ開発 (Lin Oshitani,@linoscope)</title>
+        <link>https://www.docswell.com/s/linoscope/ZNRRXL-game-boy-emulator-ocaml</link>
+        <dc:date>2023-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>社内のメンバーに「関数型プログラミングの学習・教育」についていろいろ聞いてみた (かとじゅん)</title>
+        <link>https://speakerdeck.com/j5ik2o/she-nei-nomenbani-guan-shu-xing-puroguramingunoxue-xi-jiao-yu-nituiteiroirowen-itemita</link>
+        <dc:date>2023-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>YAPC::Kyoto 2023</title>
+        <link>https://docs.google.com/presentation/d/1XPk3JXHtwcjoCMHYU2ZAgNZ8Lrugj-Er1k0RLA5vIAY/preview</link>
+        <dc:date>2023-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS CDKで作るCloudWatch Dashboard (Haruka Sakihara)</title>
         <link>https://speakerdeck.com/harukasakihara/aws-cdkdezuo-rucloudwatch-dashboard</link>
         <dc:date>2023-03-26T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>PHPをブラウザで動かす技術 (glassmonenkey)</title>
         <link>https://speakerdeck.com/nagano/phpwoburauzadedong-kasuji-shu</link>
         <dc:date>2023-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Svelte/SvelteKitを採用した理由とその魅力 (Kazuma Oe)</title>
-        <link>https://speakerdeck.com/oekazuma/sveltekitwocai-yong-sitali-you-tosonomei-li</link>
-        <dc:date>2023-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Prompt Engineering 勉強会 / 2023.03.21 GPT-4 Prompt 報告会 (Shumpei Miyawaki)</title>
-        <link>https://speakerdeck.com/smiyawaki0820/2023-dot-03-dot-21-gpt-4-prompt-bao-gao-hui</link>
-        <dc:date>2023-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webアプリケーション設計の第一歩は ディレクトリの整理から / Encraft 1 (OKUNOKENTARO)</title>
-        <link>https://speakerdeck.com/okunokentaro/encraft-1</link>
-        <dc:date>2023-03-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
