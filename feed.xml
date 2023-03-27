@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ORM - Object-relational mapping (Takafumi ONAKA)</title>
+        <link>https://speakerdeck.com/onk/2023-03-19-orm-object-relational-mapping</link>
+        <dc:date>2023-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクト重要指標の管理・公開をシステムで 実現した話 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/techplay230327-03-kato</link>
         <dc:date>2023-03-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>時間を気にせず普通にカンニングもしつつ ISUCON12 本選問題を PHP でやってみる (sji)</title>
         <link>https://speakerdeck.com/sji/shi-jian-woqi-nisezupu-tong-nikanningumositutu-isucon12-ben-xuan-wen-ti-wo-php-deyatutemiru</link>
-        <dc:date>2023-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Win Testing Trophy Easily / テスティングトロフィーを獲得する / PHPerKaigi 2023 (Ken’ichiro Oyama)</title>
-        <link>https://speakerdeck.com/k1low/phperkaigi-2023</link>
         <dc:date>2023-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
