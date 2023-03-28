@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ブラウザの向こう側で「200 OK」を返すまでに何が起きているのか調べてみた #phperkaigi (akase244)</title>
+        <link>https://speakerdeck.com/akase244/burauzanoxiang-kouce-de-200-ok-wofan-sumadenihe-gaqi-kiteirunokadiao-betemita-number-phperkaigi</link>
+        <dc:date>2023-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ORM - Object-relational mapping (Takafumi ONAKA)</title>
         <link>https://speakerdeck.com/onk/2023-03-19-orm-object-relational-mapping</link>
         <dc:date>2023-03-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Laravelへの異常な愛情 または私は如何にして心配するのを止めてEloquentを愛するようになったか (武田 憲太郎)</title>
         <link>https://speakerdeck.com/kentaroutakeda/laravelhenoyi-chang-naai-qing-matahasi-haru-he-nisitexin-pei-surunowozhi-meteeloquentwoai-suruyouninatutaka</link>
-        <dc:date>2023-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>時間を気にせず普通にカンニングもしつつ ISUCON12 本選問題を PHP でやってみる (sji)</title>
-        <link>https://speakerdeck.com/sji/shi-jian-woqi-nisezupu-tong-nikanningumositutu-isucon12-ben-xuan-wen-ti-wo-php-deyatutemiru</link>
         <dc:date>2023-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
