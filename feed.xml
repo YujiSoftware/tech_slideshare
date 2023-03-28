@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHPUnit 10 概論 / Introduction of PHPUnit 10 (02)</title>
+        <link>https://speakerdeck.com/cocoeyes02/introduction-of-phpunit-10</link>
+        <dc:date>2023-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模言語モデル活用総まとめ with Azure OpenAI (Hirosato Gamo)</title>
         <link>https://speakerdeck.com/hirosatogamo/da-gui-mo-yan-yu-moderuhuo-yong-zong-matome-with-azure-openai</link>
         <dc:date>2023-03-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI に ESXi で使えるコードを書いてもらおう (Unno Wataru)</title>
         <link>https://speakerdeck.com/unnowataru/ai-ni-esxi-deshi-erukodowoshu-itemoraou</link>
-        <dc:date>2023-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPT、 何が「できる」「みえる」ようになってきたのか！ (Jingun Jung)</title>
-        <link>https://www.slideshare.net/JingunJung/chatgpt-256635152</link>
         <dc:date>2023-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
