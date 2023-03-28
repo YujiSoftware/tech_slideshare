@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模言語モデル活用総まとめ with Azure OpenAI (Hirosato Gamo)</title>
+        <link>https://speakerdeck.com/hirosatogamo/da-gui-mo-yan-yu-moderuhuo-yong-zong-matome-with-azure-openai</link>
+        <dc:date>2023-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPT_imai.pdf (今井翔太（えるエル）)</title>
         <link>https://speakerdeck.com/imai_eruel/chatgpt-imai</link>
         <dc:date>2023-03-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ChatGPT、 何が「できる」「みえる」ようになってきたのか！ (Jingun Jung)</title>
         <link>https://www.slideshare.net/JingunJung/chatgpt-256635152</link>
-        <dc:date>2023-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP で学ぶ Cache の距離の話 / study_cache_with_php (Ryo Tomidokoro)</title>
-        <link>https://speakerdeck.com/hanhan1978/study-cache-with-php</link>
         <dc:date>2023-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
