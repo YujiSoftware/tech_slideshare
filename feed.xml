@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ChatGPT_imai.pdf (今井翔太（えるエル）)</title>
+        <link>https://speakerdeck.com/imai_eruel/chatgpt-imai</link>
+        <dc:date>2023-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模言語モデルの驚異と脅威 (Naoaki Okazaki)</title>
         <link>https://speakerdeck.com/chokkan/20230327_riken_llm</link>
         <dc:date>2023-03-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>PHP で学ぶ Cache の距離の話 / study_cache_with_php (Ryo Tomidokoro)</title>
         <link>https://speakerdeck.com/hanhan1978/study-cache-with-php</link>
-        <dc:date>2023-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自分のデータは自分で守る - あなたのCI/CDパイプラインをセキュアにする処方箋 (Kazuto Kusama)</title>
-        <link>https://speakerdeck.com/jacopen/cdpaipurainwosekiyuanisuruchu-fang-jian</link>
         <dc:date>2023-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
