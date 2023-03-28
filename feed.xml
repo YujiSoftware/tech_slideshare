@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>意外とマネージドなECS on EC2の運用 (Yuki Ando,@integrated1453)</title>
+        <link>https://www.docswell.com/s/integrated1453/K6Q8XK-operation-of-ecs-on-ec2</link>
+        <dc:date>2023-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PHPUnit 10 概論 / Introduction of PHPUnit 10 (02)</title>
         <link>https://speakerdeck.com/cocoeyes02/introduction-of-phpunit-10</link>
         <dc:date>2023-03-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ユーザーとの摩擦を最小限に保ちつつ Prettierを改善していくための機能設計</title>
         <link>https://docs.google.com/presentation/d/1KLmsoZZBnKStndU4gKnJNOcKZCbxKR4RJDVd-aX2dig/preview</link>
-        <dc:date>2023-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI に ESXi で使えるコードを書いてもらおう (Unno Wataru)</title>
-        <link>https://speakerdeck.com/unnowataru/ai-ni-esxi-deshi-erukodowoshu-itemoraou</link>
         <dc:date>2023-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
