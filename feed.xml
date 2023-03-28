@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模言語モデルの驚異と脅威 (Naoaki Okazaki)</title>
+        <link>https://speakerdeck.com/chokkan/20230327_riken_llm</link>
+        <dc:date>2023-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>小さく始める Blue/Green Deployment (TIER IV,@tier_iv_japan)</title>
         <link>https://www.docswell.com/s/TIER_IV/5388GV-2023-03-17-093717</link>
         <dc:date>2023-03-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自分のデータは自分で守る - あなたのCI/CDパイプラインをセキュアにする処方箋 (Kazuto Kusama)</title>
         <link>https://speakerdeck.com/jacopen/cdpaipurainwosekiyuanisuruchu-fang-jian</link>
-        <dc:date>2023-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPの最高機能、配列を捨てよう！！ /  Throw away all PHP array now!!! (uzulla)</title>
-        <link>https://speakerdeck.com/uzulla/throw-away-all-php-array-now</link>
         <dc:date>2023-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
