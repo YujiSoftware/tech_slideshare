@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Helpfeel Tech Hour vol.2 teramoto リアル業務でChatGPT APIを使うコツ</title>
+        <link>https://docs.google.com/presentation/d/1rj0QOumDkh4elKMPBtvYHbky6io8vMuQlVgdSrQHZHM/preview</link>
+        <dc:date>2023-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最高の開発者体験を目指してAWS CDKによるCI/CDパイプラインを改善し続けている話 (Takahiro Hatakeyama,@keyamin_)</title>
         <link>https://www.docswell.com/s/keyamin/KQ889X-cicd-conference-2023</link>
         <dc:date>2023-03-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TinyGo でキーボードを作る話</title>
         <link>https://docs.google.com/presentation/d/1me5TOH2tO3uLAGP2-6Z5dfvZCxsi-R_LqqJQQv_BLhI/preview</link>
-        <dc:date>2023-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデルで変わるMLシステム開発 (Hirosato Gamo)</title>
-        <link>https://speakerdeck.com/hirosatogamo/da-gui-mo-yan-yu-moderudebian-warumlsisutemukai-fa</link>
         <dc:date>2023-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
