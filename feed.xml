@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最高の開発者体験を目指してAWS CDKによるCI/CDパイプラインを改善し続けている話 (Takahiro Hatakeyama,@keyamin_)</title>
+        <link>https://www.docswell.com/s/keyamin/KQ889X-cicd-conference-2023</link>
+        <dc:date>2023-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GA4 APIのfilterの使い勝手が、 UAに追いつくまでの、RStudio による代替処理案</title>
         <link>https://docs.google.com/presentation/d/1nRkvLCVAkhhrWwmWGltyk-ZMFt8J2lfObKain7_bSD4/preview</link>
         <dc:date>2023-03-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>大規模言語モデルで変わるMLシステム開発 (Hirosato Gamo)</title>
         <link>https://speakerdeck.com/hirosatogamo/da-gui-mo-yan-yu-moderudebian-warumlsisutemukai-fa</link>
-        <dc:date>2023-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LaTeX.pdf (ronkeisha info)</title>
-        <link>https://www.slideshare.net/ronkeisha/latexpdf-256588798</link>
         <dc:date>2023-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
