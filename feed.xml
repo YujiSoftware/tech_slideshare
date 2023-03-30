@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Python Social Authで学ぶ、OAuth2.0認可コードフローにおける異常系への対処 (Yuuki Takahashi)</title>
+        <link>https://speakerdeck.com/yktakaha4/python-social-authdexue-bu-oauth2-dot-0ren-ke-kodohuroniokeruyi-chang-xi-henodui-chu</link>
+        <dc:date>2023-03-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Helpfeel Tech Hour vol.2 teramoto リアル業務でChatGPT APIを使うコツ</title>
         <link>https://docs.google.com/presentation/d/1rj0QOumDkh4elKMPBtvYHbky6io8vMuQlVgdSrQHZHM/preview</link>
         <dc:date>2023-03-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Raspberry Pi Guitar Amplifier</title>
         <link>https://docs.google.com/presentation/d/1GgiD2UTEGcz-SC2rGDjdIljaK2Yn0Rs03TDFOu3duUw/preview</link>
-        <dc:date>2023-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TinyGo でキーボードを作る話</title>
-        <link>https://docs.google.com/presentation/d/1me5TOH2tO3uLAGP2-6Z5dfvZCxsi-R_LqqJQQv_BLhI/preview</link>
         <dc:date>2023-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
