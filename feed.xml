@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サクッとAWS入門＋モダン開発の基本 (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/sakututoawsru-men-plus-modankai-fa-noji-ben</link>
+        <dc:date>2023-03-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Python Social Authで学ぶ、OAuth2.0認可コードフローにおける異常系への対処 (Yuuki Takahashi)</title>
         <link>https://speakerdeck.com/yktakaha4/python-social-authdexue-bu-oauth2-dot-0ren-ke-kodohuroniokeruyi-chang-xi-henodui-chu</link>
         <dc:date>2023-03-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AWS CDKで作るCloudWatch Dashboard (Haruka Sakihara)</title>
         <link>https://speakerdeck.com/harukasakihara/aws-cdkdezuo-rucloudwatch-dashboard</link>
         <dc:date>2023-03-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Raspberry Pi Guitar Amplifier</title>
-        <link>https://docs.google.com/presentation/d/1GgiD2UTEGcz-SC2rGDjdIljaK2Yn0Rs03TDFOu3duUw/preview</link>
-        <dc:date>2023-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
