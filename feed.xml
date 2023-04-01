@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>パブリッククラウド特有の脅威の向き合い方 (LHazy)</title>
+        <link>https://speakerdeck.com/lhazy/paburitukukuraudote-you-noxie-wei-noxiang-kihe-ifang</link>
+        <dc:date>2023-03-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Adding Type Signatures into Ruby Docs (Colby Swandale)</title>
         <link>https://speakerdeck.com/colby/adding-type-signatures-into-ruby-docs</link>
         <dc:date>2023-03-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>脱・初級者のための自作GBエミュレータ開発 (Lin Oshitani,@linoscope)</title>
         <link>https://www.docswell.com/s/linoscope/ZNRRXL-game-boy-emulator-ocaml</link>
-        <dc:date>2023-03-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社内のメンバーに「関数型プログラミングの学習・教育」についていろいろ聞いてみた (かとじゅん)</title>
-        <link>https://speakerdeck.com/j5ik2o/she-nei-nomenbani-guan-shu-xing-puroguramingunoxue-xi-jiao-yu-nituiteiroirowen-itemita</link>
         <dc:date>2023-03-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
