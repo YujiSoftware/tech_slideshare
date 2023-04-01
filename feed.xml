@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>わかりやすい説明のための 10 の鉄則 (E869120)</title>
+        <link>https://speakerdeck.com/e869120/wakariyasuisetsumei-10-tessoku</link>
+        <dc:date>2023-03-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>例外を投げるな、値を返せ (okuzawats)</title>
         <link>https://speakerdeck.com/okuzawats/li-wai-wotou-geruna-zhi-wofan-se</link>
         <dc:date>2023-03-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロダクト重要指標の管理・公開をシステムで 実現した話 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/techplay230327-03-kato</link>
-        <dc:date>2023-03-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>6層基板を作りました（告知用） (AkiraNagai4)</title>
-        <link>https://www.slideshare.net/AkiraNagai4/6-256787902</link>
         <dc:date>2023-03-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
