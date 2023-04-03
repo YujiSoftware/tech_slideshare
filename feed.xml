@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>レコメンドコンペ入門 (T88)</title>
+        <link>https://speakerdeck.com/t88/rekomendokonperu-men</link>
+        <dc:date>2023-04-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JAWS-UG千葉#20-AWS Security Lakeを試してみたら 最高の運用者体験だった (Takashi Yamaguchi)</title>
         <link>https://speakerdeck.com/yamaguchitk333/jaws-ugqian-xie-number-20-aws-security-lakewoshi-sitemitara-zui-gao-noyun-yong-zhe-ti-yan-datuta</link>
         <dc:date>2023-04-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>大規模言語モデルの驚異と脅威 (Naoaki Okazaki)</title>
         <link>https://speakerdeck.com/chokkan/20230327_riken_llm</link>
-        <dc:date>2023-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>小さく始める Blue/Green Deployment (TIER IV,@tier_iv_japan)</title>
-        <link>https://www.docswell.com/s/TIER_IV/5388GV-2023-03-17-093717</link>
         <dc:date>2023-03-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
