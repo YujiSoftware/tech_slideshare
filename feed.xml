@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JAWS-UG千葉#20-AWS Security Lakeを試してみたら 最高の運用者体験だった (Takashi Yamaguchi)</title>
+        <link>https://speakerdeck.com/yamaguchitk333/jaws-ugqian-xie-number-20-aws-security-lakewoshi-sitemitara-zui-gao-noyun-yong-zhe-ti-yan-datuta</link>
+        <dc:date>2023-04-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>eslint-flat-config (てけし)</title>
         <link>https://speakerdeck.com/t_keshi/eslint-flat-config</link>
         <dc:date>2023-04-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>小さく始める Blue/Green Deployment (TIER IV,@tier_iv_japan)</title>
         <link>https://www.docswell.com/s/TIER_IV/5388GV-2023-03-17-093717</link>
-        <dc:date>2023-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ブラウザの向こう側で「200 OK」を返すまでに何が起きているのか調べてみた #phperkaigi (akase244)</title>
-        <link>https://speakerdeck.com/akase244/burauzanoxiang-kouce-de-200-ok-wofan-sumadenihe-gaqi-kiteirunokadiao-betemita-number-phperkaigi</link>
         <dc:date>2023-03-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
