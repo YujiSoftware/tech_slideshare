@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Microsoft Loop Public Preview の勉強会 (HIRANO Ai | Microsoft MVP 👉 ❤️ SharePoint,@ai_yamasaki)</title>
+        <link>https://www.docswell.com/s/ai_yamasaki/Z7VVM1-2023-04-04-184303</link>
+        <dc:date>2023-04-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>がんばらない個人開発 (Kawakami Natsumi)</title>
+        <link>https://speakerdeck.com/natsumican63/low-effort-indie-development</link>
+        <dc:date>2023-04-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloudflareの1.1.1.1とWARP (しの)</title>
         <link>https://www.docswell.com/s/3402128/K1JJM3-2023-03-29-181308</link>
         <dc:date>2023-04-03T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Python Social Authで学ぶ、OAuth2.0認可コードフローにおける異常系への対処 (Yuuki Takahashi)</title>
         <link>https://speakerdeck.com/yktakaha4/python-social-authdexue-bu-oauth2-dot-0ren-ke-kodohuroniokeruyi-chang-xi-henodui-chu</link>
         <dc:date>2023-03-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Helpfeel Tech Hour vol.2 teramoto リアル業務でChatGPT APIを使うコツ</title>
-        <link>https://docs.google.com/presentation/d/1rj0QOumDkh4elKMPBtvYHbky6io8vMuQlVgdSrQHZHM/preview</link>
-        <dc:date>2023-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最高の開発者体験を目指してAWS CDKによるCI/CDパイプラインを改善し続けている話 (Takahiro Hatakeyama,@keyamin_)</title>
-        <link>https://www.docswell.com/s/keyamin/KQ889X-cicd-conference-2023</link>
-        <dc:date>2023-03-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
