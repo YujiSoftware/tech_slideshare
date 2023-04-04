@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloudflareの1.1.1.1とWARP (しの)</title>
+        <link>https://www.docswell.com/s/3402128/K1JJM3-2023-03-29-181308</link>
+        <dc:date>2023-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloudflare Page を使った Webアプリケーションを構築 (mori-hisayuki)</title>
+        <link>https://speakerdeck.com/hisayuki/cloudflare-page-woshi-tuta-webapurikesiyonwogou-zhu</link>
+        <dc:date>2023-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloudflare初心者がIaCから基本構成を学んでみた (Yuki_Kurono)</title>
+        <link>https://speakerdeck.com/yuki_kurono/cloudflarechu-xin-zhe-gaiackaraji-ben-gou-cheng-woxue-ndemita</link>
+        <dc:date>2023-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloudflare WorkersとKVで キャッシュを非同期に更新する | Cloudflare Meetup Nagoya (AijiUejima)</title>
+        <link>https://speakerdeck.com/aiji42/cloudflare-workerstokvde-kiyatusiyuwofei-tong-qi-nigeng-xin-suru-cloudflare-meetup-nagoya</link>
+        <dc:date>2023-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CloudflareでRaspberry Piをリモートアクセスしてみた (KMiura)</title>
+        <link>https://speakerdeck.com/miura55/cloudflarederaspberry-piworimotoakusesusitemita</link>
+        <dc:date>2023-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloudflare 基本のキ (Katz Ueno)</title>
+        <link>https://speakerdeck.com/katzueno/cloudflaremeetup-nagoya-basic</link>
+        <dc:date>2023-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>初心者がMLOpsを学習した時にぶち当たった &amp;quot;壁&amp;quot; のお話 (酒井謎子 sakai-nako,@nazonoobasan407)</title>
         <link>https://www.docswell.com/s/sakai-nako/ZYWWML-2022-08-07_JAWS-UG-Kyoto</link>
         <dc:date>2023-04-03T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>最高の開発者体験を目指してAWS CDKによるCI/CDパイプラインを改善し続けている話 (Takahiro Hatakeyama,@keyamin_)</title>
         <link>https://www.docswell.com/s/keyamin/KQ889X-cicd-conference-2023</link>
         <dc:date>2023-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GA4 APIのfilterの使い勝手が、 UAに追いつくまでの、RStudio による代替処理案</title>
-        <link>https://docs.google.com/presentation/d/1nRkvLCVAkhhrWwmWGltyk-ZMFt8J2lfObKain7_bSD4/preview</link>
-        <dc:date>2023-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイルよもやま話 ~ 「笑顔の合意」に至るスキルを学ぼう (Hiroyuki Ito (TheHiro))</title>
-        <link>https://speakerdeck.com/hageyahhoo/aziyairuyomoyamahua-xiao-yan-nohe-yi-nizhi-rusukiruwoxue-bou</link>
-        <dc:date>2023-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>意外とマネージドなECS on EC2の運用 (Yuki Ando,@integrated1453)</title>
-        <link>https://www.docswell.com/s/integrated1453/K6Q8XK-operation-of-ecs-on-ec2</link>
-        <dc:date>2023-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPUnit 10 概論 / Introduction of PHPUnit 10 (02)</title>
-        <link>https://speakerdeck.com/cocoeyes02/introduction-of-phpunit-10</link>
-        <dc:date>2023-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデル活用総まとめ with Azure OpenAI (Hirosato Gamo)</title>
-        <link>https://speakerdeck.com/hirosatogamo/da-gui-mo-yan-yu-moderuhuo-yong-zong-matome-with-azure-openai</link>
-        <dc:date>2023-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPT_imai.pdf (今井翔太（えるエル）)</title>
-        <link>https://speakerdeck.com/imai_eruel/chatgpt-imai</link>
-        <dc:date>2023-03-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
