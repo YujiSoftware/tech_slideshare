@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BERT-to-GPT Catch Up Survey (KARAKURI Inc.)</title>
+        <link>https://speakerdeck.com/karakurist/bert-to-gpt-catch-up-survey</link>
+        <dc:date>2023-04-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Microsoft Loop Public Preview の勉強会 (HIRANO Ai | Microsoft MVP 👉 ❤️ SharePoint,@ai_yamasaki)</title>
         <link>https://www.docswell.com/s/ai_yamasaki/Z7VVM1-2023-04-04-184303</link>
         <dc:date>2023-04-04T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>サクッとAWS入門＋モダン開発の基本 (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/sakututoawsru-men-plus-modankai-fa-noji-ben</link>
         <dc:date>2023-03-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Python Social Authで学ぶ、OAuth2.0認可コードフローにおける異常系への対処 (Yuuki Takahashi)</title>
-        <link>https://speakerdeck.com/yktakaha4/python-social-authdexue-bu-oauth2-dot-0ren-ke-kodohuroniokeruyi-chang-xi-henodui-chu</link>
-        <dc:date>2023-03-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
