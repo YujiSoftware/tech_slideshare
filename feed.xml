@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアのためのマネジメント入門/Introduction to Management for Software Engineers (Daisuke Sato)</title>
+        <link>https://speakerdeck.com/dskst/introduction-to-management-for-software-engineers</link>
+        <dc:date>2023-04-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BERT-to-GPT Catch Up Survey (KARAKURI Inc.)</title>
         <link>https://speakerdeck.com/karakurist/bert-to-gpt-catch-up-survey</link>
         <dc:date>2023-04-04T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ChatGPT APIでセキュリティニュースを要約するシステムを作ってみた (Sh1n0g1)</title>
         <link>https://speakerdeck.com/sh1n0g1/chatgpt-apidesekiyuriteiniyusuwoyao-yue-surusisutemuwozuo-tutemita</link>
         <dc:date>2023-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サクッとAWS入門＋モダン開発の基本 (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/sakututoawsru-men-plus-modankai-fa-noji-ben</link>
-        <dc:date>2023-03-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
