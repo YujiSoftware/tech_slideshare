@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React開発における失敗事例と学び〜実例3選とともに〜 (株式会社ビットキー / Bitkey Inc.)</title>
+        <link>https://speakerdeck.com/bitkey/reactkai-fa-niokerushi-bai-shi-li-toxue-bi-shi-li-3xuan-totomoni</link>
+        <dc:date>2023-04-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DBリファクタリングのデータリモデリング勘所/stafesstudy-db-modling (Takahashi Ikki)</title>
+        <link>https://speakerdeck.com/takahashiikki/stafesstudy-db-modling</link>
+        <dc:date>2023-04-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアのためのマネジメント入門/Introduction to Management for Software Engineers (Daisuke Sato)</title>
         <link>https://speakerdeck.com/dskst/introduction-to-management-for-software-engineers</link>
         <dc:date>2023-04-04T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>パブリッククラウド特有の脅威の向き合い方 (LHazy)</title>
         <link>https://speakerdeck.com/lhazy/paburitukukuraudote-you-noxie-wei-noxiang-kihe-ifang</link>
-        <dc:date>2023-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Adding Type Signatures into Ruby Docs (Colby Swandale)</title>
-        <link>https://speakerdeck.com/colby/adding-type-signatures-into-ruby-docs</link>
-        <dc:date>2023-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPT APIでセキュリティニュースを要約するシステムを作ってみた (Sh1n0g1)</title>
-        <link>https://speakerdeck.com/sh1n0g1/chatgpt-apidesekiyuriteiniyusuwoyao-yue-surusisutemuwozuo-tutemita</link>
         <dc:date>2023-03-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
