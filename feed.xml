@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript 5.0 const 型パラメータの使い道 (NearMeの技術発表資料です)</title>
+        <link>https://speakerdeck.com/nearme_tech/typescript-5-dot-0-const-xing-parametanoshi-idao</link>
+        <dc:date>2023-04-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>越境による、価値を届ける自律的なチームづくり (takashi_sakaguchi)</title>
         <link>https://speakerdeck.com/takashi_sakaguchi/yue-jing-niyoru-jia-zhi-wojie-keruzi-lu-de-natimutukuri</link>
         <dc:date>2023-04-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>eslint-flat-config (てけし)</title>
         <link>https://speakerdeck.com/t_keshi/eslint-flat-config</link>
-        <dc:date>2023-04-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DX時代のデータ活用とBI戦略 (石川 陽一 Yoichi Ishikawa,@ishiayaya)</title>
-        <link>https://www.docswell.com/s/ishiayaya/Z4QQR6-dx-powerbi</link>
         <dc:date>2023-04-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
