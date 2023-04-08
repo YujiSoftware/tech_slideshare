@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>100アカウントを見据えたAWSマルチアカウント運用 / AWS multi-account operation for 100 accounts (yayoi_dd)</title>
+        <link>https://speakerdeck.com/yayoi_dd/aws-multi-account-operation-for-100-accounts</link>
+        <dc:date>2023-04-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>日本人開発者が制作したクライアントのご紹介 / The Client apps development by japanese. (Takuma Shinohara)</title>
         <link>https://speakerdeck.com/shinoharata/ri-ben-ren-kai-fa-zhe-gazhi-zuo-sitakuraiantonogoshao-jie</link>
         <dc:date>2023-04-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Cloudflare 基本のキ (Katz Ueno)</title>
         <link>https://speakerdeck.com/katzueno/cloudflaremeetup-nagoya-basic</link>
-        <dc:date>2023-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初心者がMLOpsを学習した時にぶち当たった &amp;quot;壁&amp;quot; のお話 (酒井謎子 sakai-nako,@nazonoobasan407)</title>
-        <link>https://www.docswell.com/s/sakai-nako/ZYWWML-2022-08-07_JAWS-UG-Kyoto</link>
         <dc:date>2023-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
