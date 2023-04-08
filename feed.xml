@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【LT会】この技術書がすごい (Tiny Mouse)</title>
+        <link>https://speakerdeck.com/tinymouse/lthui-konoji-shu-shu-gasugoi</link>
+        <dc:date>2023-04-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モブプログラミングの理解を深めた話 (shogo452)</title>
+        <link>https://speakerdeck.com/shogo452/mobupuroguramingunoli-jie-woshen-metahua</link>
+        <dc:date>2023-04-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「この技術書がすごい」 好きなので語ります ~Team Geekついて~ (1coin)</title>
+        <link>https://speakerdeck.com/1coin/konoji-shu-shu-gasugoi-hao-kinanodeyu-rimasu-team-geektuite</link>
+        <dc:date>2023-04-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術系同人誌のおすすめ (goma)</title>
+        <link>https://speakerdeck.com/gomayumax/ji-shu-xi-tong-ren-zhi-noosusume</link>
+        <dc:date>2023-04-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>あるRailsエンジニアがビジネスリーダーに転身するまで (Yuichi Goto)</title>
         <link>https://speakerdeck.com/yasaichi/the-journey-from-a-ruby-on-rails-engineer-to-a-business-leader</link>
         <dc:date>2023-04-07T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>がんばらない個人開発 (Kawakami Natsumi)</title>
         <link>https://speakerdeck.com/natsumican63/low-effort-indie-development</link>
         <dc:date>2023-04-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflareの1.1.1.1とWARP (しの)</title>
-        <link>https://www.docswell.com/s/3402128/K1JJM3-2023-03-29-181308</link>
-        <dc:date>2023-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Page を使った Webアプリケーションを構築 (mori-hisayuki)</title>
-        <link>https://speakerdeck.com/hisayuki/cloudflare-page-woshi-tuta-webapurikesiyonwogou-zhu</link>
-        <dc:date>2023-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare初心者がIaCから基本構成を学んでみた (Yuki_Kurono)</title>
-        <link>https://speakerdeck.com/yuki_kurono/cloudflarechu-xin-zhe-gaiackaraji-ben-gou-cheng-woxue-ndemita</link>
-        <dc:date>2023-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare WorkersとKVで キャッシュを非同期に更新する | Cloudflare Meetup Nagoya (AijiUejima)</title>
-        <link>https://speakerdeck.com/aiji42/cloudflare-workerstokvde-kiyatusiyuwofei-tong-qi-nigeng-xin-suru-cloudflare-meetup-nagoya</link>
-        <dc:date>2023-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
