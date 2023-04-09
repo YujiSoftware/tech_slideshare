@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>シリコンバレーのチームで経験したふりかえり - 共通点とギャップ / retrospectives in silicon valley (ihcomega56)</title>
+        <link>https://speakerdeck.com/ihcomega56/retrospectives-in-silicon-valley</link>
+        <dc:date>2023-04-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【LT会】この技術書がすごい (Tiny Mouse)</title>
         <link>https://speakerdeck.com/tinymouse/lthui-konoji-shu-shu-gasugoi</link>
         <dc:date>2023-04-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Microsoft Loop Public Preview の勉強会 (HIRANO Ai | Microsoft MVP 👉 ❤️ SharePoint,@ai_yamasaki)</title>
         <link>https://www.docswell.com/s/ai_yamasaki/Z7VVM1-2023-04-04-184303</link>
-        <dc:date>2023-04-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>がんばらない個人開発 (Kawakami Natsumi)</title>
-        <link>https://speakerdeck.com/natsumican63/low-effort-indie-development</link>
         <dc:date>2023-04-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
