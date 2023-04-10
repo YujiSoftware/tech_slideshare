@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>チームの状態を「即興性」の視点からふりかえってみよう (Takao Utsumi)</title>
+        <link>https://speakerdeck.com/utsumit/perspective-of-improvisation</link>
+        <dc:date>2023-04-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>UV Study : Rust LT会 Vol.7 Rustで作るリアルタイムOS</title>
         <link>https://docs.google.com/presentation/d/1YZCaiuIpNrh_6T9oiOFWtjv8q4QJklceKUAEKBDv9rE/preview</link>
         <dc:date>2023-04-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エンジニアのためのマネジメント入門/Introduction to Management for Software Engineers (Daisuke Sato)</title>
         <link>https://speakerdeck.com/dskst/introduction-to-management-for-software-engineers</link>
-        <dc:date>2023-04-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BERT-to-GPT Catch Up Survey (KARAKURI Inc.)</title>
-        <link>https://speakerdeck.com/karakurist/bert-to-gpt-catch-up-survey</link>
         <dc:date>2023-04-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
