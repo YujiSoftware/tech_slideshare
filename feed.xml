@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SIMってなんだ？ ～セルラー通信がつながる仕組み、解説します～  (SORACOM)</title>
+        <link>https://speakerdeck.com/soracom/what-is-sim-how-cellular-communication-works</link>
+        <dc:date>2023-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agent and small LLM validation (y_matsuwitter)</title>
+        <link>https://speakerdeck.com/ymatsuwitter/agent-and-small-llm-validation</link>
+        <dc:date>2023-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>チームの状態を「即興性」の視点からふりかえってみよう (Takao Utsumi)</title>
         <link>https://speakerdeck.com/utsumit/perspective-of-improvisation</link>
         <dc:date>2023-04-09T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>React開発における失敗事例と学び〜実例3選とともに〜 (株式会社ビットキー / Bitkey Inc.)</title>
         <link>https://speakerdeck.com/bitkey/reactkai-fa-niokerushi-bai-shi-li-toxue-bi-shi-li-3xuan-totomoni</link>
         <dc:date>2023-04-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DBリファクタリングのデータリモデリング勘所/stafesstudy-db-modling (Takahashi Ikki)</title>
-        <link>https://speakerdeck.com/takahashiikki/stafesstudy-db-modling</link>
-        <dc:date>2023-04-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアのためのマネジメント入門/Introduction to Management for Software Engineers (Daisuke Sato)</title>
-        <link>https://speakerdeck.com/dskst/introduction-to-management-for-software-engineers</link>
-        <dc:date>2023-04-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
