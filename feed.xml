@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Microsoft 365上位ライセンスのセキュリティ機能概説 (石川 陽一 Yoichi Ishikawa,@ishiayaya)</title>
+        <link>https://www.docswell.com/s/ishiayaya/KW117X-m365defender</link>
+        <dc:date>2023-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLM-1-LT</title>
+        <link>https://docs.google.com/presentation/d/11mMC2hujXmh0WRHvBXaHv1fedgxbqLHGrEPkin4W4gI/preview</link>
+        <dc:date>2023-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JAWS-UG 朝会 #36 登壇資料 (takakuni)</title>
         <link>https://speakerdeck.com/takakuni/jaws-ug-zhao-hui-number-36-deng-tan-zi-liao</link>
         <dc:date>2023-04-10T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Debeziumを活用した RDBMSイベントソーシングの仕組み (netprotections)</title>
         <link>https://speakerdeck.com/netprotections/debeziumwohuo-yong-sita-rdbmsibentososingunoshi-zu-mi</link>
         <dc:date>2023-04-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript 5.0 const 型パラメータの使い道 (NearMeの技術発表資料です)</title>
-        <link>https://speakerdeck.com/nearme_tech/typescript-5-dot-0-const-xing-parametanoshi-idao</link>
-        <dc:date>2023-04-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>越境による、価値を届ける自律的なチームづくり (takashi_sakaguchi)</title>
-        <link>https://speakerdeck.com/takashi_sakaguchi/yue-jing-niyoru-jia-zhi-wojie-keruzi-lu-de-natimutukuri</link>
-        <dc:date>2023-04-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
