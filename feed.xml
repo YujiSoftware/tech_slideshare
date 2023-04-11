@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実習イントロ (in the blue shirt)</title>
+        <link>https://speakerdeck.com/arimuri/shi-xi-intoro</link>
+        <dc:date>2023-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Microsoft 365上位ライセンスのセキュリティ機能概説 (石川 陽一 Yoichi Ishikawa,@ishiayaya)</title>
         <link>https://www.docswell.com/s/ishiayaya/KW117X-m365defender</link>
         <dc:date>2023-04-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Bluesky と Android / Bluesky and Android (鎌倉)</title>
         <link>https://speakerdeck.com/akiomik/bluesky-and-android</link>
-        <dc:date>2023-04-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Debeziumを活用した RDBMSイベントソーシングの仕組み (netprotections)</title>
-        <link>https://speakerdeck.com/netprotections/debeziumwohuo-yong-sita-rdbmsibentososingunoshi-zu-mi</link>
         <dc:date>2023-04-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
