@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>分散システムについて語らせてくれ (kumagi,@kumagi)</title>
+        <link>https://www.docswell.com/s/kumagi/ZXYYLN-let-me-talk-about-distributed-system</link>
+        <dc:date>2023-04-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>パスワードレス時代のOpenID Connectの活用 / 20230404-OAuth-Numa-Workshop (kura)</title>
+        <link>https://speakerdeck.com/kuralab/20230404-oauth-numa-workshop</link>
+        <dc:date>2023-04-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>C#によるクライアント/サーバーの開発言語統一がもたらす高効率な開発体制 ～プリコネ！グランドマスターズ開発事例～ (Cygames)</title>
         <link>https://speakerdeck.com/cygames/sabanokai-fa-yan-yu-tong-gamotarasugao-xiao-lu-nakai-fa-ti-zhi-purikone-gurandomasutazukai-fa-shi-li</link>
         <dc:date>2023-04-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>こうしてふりかえりは終わってしまった / A Demise of a retrospective (NAVITIME JAPAN)</title>
         <link>https://speakerdeck.com/navitimejapan/a-demise-of-a-retrospective</link>
-        <dc:date>2023-04-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>100アカウントを見据えたAWSマルチアカウント運用 / AWS multi-account operation for 100 accounts (yayoi_dd)</title>
-        <link>https://speakerdeck.com/yayoi_dd/aws-multi-account-operation-for-100-accounts</link>
-        <dc:date>2023-04-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>日本人開発者が制作したクライアントのご紹介 / The Client apps development by japanese. (Takuma Shinohara)</title>
-        <link>https://speakerdeck.com/shinoharata/ri-ben-ren-kai-fa-zhe-gazhi-zuo-sitakuraiantonogoshao-jie</link>
         <dc:date>2023-04-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
