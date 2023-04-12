@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ゼロトラスト・アーキテクチャを無料で（やれるだけ）実現する (KeioOyama)</title>
+        <link>https://www.slideshare.net/KeioOyama/ss-248376579</link>
+        <dc:date>2023-04-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>分散システムについて語らせてくれ (kumagi,@kumagi)</title>
         <link>https://www.docswell.com/s/kumagi/ZXYYLN-let-me-talk-about-distributed-system</link>
         <dc:date>2023-04-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>あるRailsエンジニアがビジネスリーダーに転身するまで (Yuichi Goto)</title>
         <link>https://speakerdeck.com/yasaichi/the-journey-from-a-ruby-on-rails-engineer-to-a-business-leader</link>
-        <dc:date>2023-04-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>こうしてふりかえりは終わってしまった / A Demise of a retrospective (NAVITIME JAPAN)</title>
-        <link>https://speakerdeck.com/navitimejapan/a-demise-of-a-retrospective</link>
         <dc:date>2023-04-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
