@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2023年モダンCSSの最新トレンド (tonkotsuboy_com)</title>
+        <link>https://speakerdeck.com/tonkotsuboy_com/2023nian-modancssnozui-xin-torendo</link>
+        <dc:date>2023-04-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コンテナイメージのマルウェア検出とその実用性について (Kyohei Mizumoto)</title>
         <link>https://speakerdeck.com/kyohmizu/kontenaimezinomaruueajian-chu-tosonoshi-yong-xing-nituite</link>
         <dc:date>2023-04-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>チームの状態を「即興性」の視点からふりかえってみよう (Takao Utsumi)</title>
         <link>https://speakerdeck.com/utsumit/perspective-of-improvisation</link>
-        <dc:date>2023-04-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UV Study : Rust LT会 Vol.7 Rustで作るリアルタイムOS</title>
-        <link>https://docs.google.com/presentation/d/1YZCaiuIpNrh_6T9oiOFWtjv8q4QJklceKUAEKBDv9rE/preview</link>
         <dc:date>2023-04-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
