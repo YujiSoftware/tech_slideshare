@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コンテナイメージのマルウェア検出とその実用性について (Kyohei Mizumoto)</title>
+        <link>https://speakerdeck.com/kyohmizu/kontenaimezinomaruueajian-chu-tosonoshi-yong-xing-nituite</link>
+        <dc:date>2023-04-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CUS-11_AWS-Summit-2023_DBRE_Practice.pdf (_awache)</title>
         <link>https://speakerdeck.com/_awache/cus-11-aws-summit-2023-dbre-practice</link>
         <dc:date>2023-04-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>UV Study : Rust LT会 Vol.7 Rustで作るリアルタイムOS</title>
         <link>https://docs.google.com/presentation/d/1YZCaiuIpNrh_6T9oiOFWtjv8q4QJklceKUAEKBDv9rE/preview</link>
-        <dc:date>2023-04-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シリコンバレーのチームで経験したふりかえり - 共通点とギャップ / retrospectives in silicon valley (ihcomega56)</title>
-        <link>https://speakerdeck.com/ihcomega56/retrospectives-in-silicon-valley</link>
         <dc:date>2023-04-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
