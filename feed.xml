@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>画像処理エンジニア・Computer Visionチーム紹介</title>
+        <link>https://docs.google.com/presentation/d/1kN4uUzQDId_opHobTzFosknTRmJ0kf-CIfjWbyVNgdM/preview</link>
+        <dc:date>2023-04-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データ品質を重視したデータ基盤プロダクト開発 (Toshiki Tsuchikawa)</title>
         <link>https://speakerdeck.com/ttccddtoki/detapin-zhi-wozhong-shi-sitadetaji-pan-purodakutokai-fa</link>
         <dc:date>2023-04-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SIMってなんだ？ ～セルラー通信がつながる仕組み、解説します～  (SORACOM)</title>
         <link>https://speakerdeck.com/soracom/what-is-sim-how-cellular-communication-works</link>
-        <dc:date>2023-04-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agent and small LLM validation (y_matsuwitter)</title>
-        <link>https://speakerdeck.com/ymatsuwitter/agent-and-small-llm-validation</link>
         <dc:date>2023-04-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
