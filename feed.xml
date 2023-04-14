@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データ品質を重視したデータ基盤プロダクト開発 (Toshiki Tsuchikawa)</title>
+        <link>https://speakerdeck.com/ttccddtoki/detapin-zhi-wozhong-shi-sitadetaji-pan-purodakutokai-fa</link>
+        <dc:date>2023-04-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2023年モダンCSSの最新トレンド (tonkotsuboy_com)</title>
         <link>https://speakerdeck.com/tonkotsuboy_com/2023nian-modancssnozui-xin-torendo</link>
         <dc:date>2023-04-13T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Agent and small LLM validation (y_matsuwitter)</title>
         <link>https://speakerdeck.com/ymatsuwitter/agent-and-small-llm-validation</link>
         <dc:date>2023-04-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームの状態を「即興性」の視点からふりかえってみよう (Takao Utsumi)</title>
-        <link>https://speakerdeck.com/utsumit/perspective-of-improvisation</link>
-        <dc:date>2023-04-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
