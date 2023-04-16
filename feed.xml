@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>freee会計からマイクロサービスを切り出すのに4年かかりました / 4 Years for Carving Out A Micro Service from freee Accounting. (Hiroki Nakashima)</title>
+        <link>https://speakerdeck.com/him0/4-years-for-carving-out-a-micro-service-from-freee-accounting</link>
+        <dc:date>2023-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>読み手を理解してより良いドキュメントを書こう / Write better documents by understanding your audience (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/write-better-documents-by-understanding-your-audience</link>
         <dc:date>2023-04-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>分散システムについて語らせてくれ (kumagi,@kumagi)</title>
         <link>https://www.docswell.com/s/kumagi/ZXYYLN-let-me-talk-about-distributed-system</link>
-        <dc:date>2023-04-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>パスワードレス時代のOpenID Connectの活用 / 20230404-OAuth-Numa-Workshop (kura)</title>
-        <link>https://speakerdeck.com/kuralab/20230404-oauth-numa-workshop</link>
         <dc:date>2023-04-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
