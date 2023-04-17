@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TiDBにおけるSQLチューニング - SQL bindingの紹介 (PingCAP-Japan)</title>
+        <link>https://speakerdeck.com/pingcap0315/tidbniokerusqltiyuningu-sql-bindingnoshao-jie</link>
+        <dc:date>2023-04-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>訳者による Understanding the InnerSource Checklist の概説</title>
         <link>https://docs.google.com/presentation/d/1xH97D0C6gPL4Y21m53Ju3QTfs_oem-LBcpeo0OO2ics/preview</link>
         <dc:date>2023-04-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>数字を上げることが 目的になっていませんか？/engineer festival 2023 Link and Motivation (リンクアンドモチベーション)</title>
         <link>https://speakerdeck.com/lmi/engineer-festival-2023-link-and-motivation</link>
-        <dc:date>2023-04-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゼロトラスト・アーキテクチャを無料で（やれるだけ）実現する (KeioOyama)</title>
-        <link>https://www.slideshare.net/KeioOyama/ss-248376579</link>
         <dc:date>2023-04-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
