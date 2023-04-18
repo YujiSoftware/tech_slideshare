@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[輪講資料] LoRA: Low-Rank Adaptation of Large Language Models (Hayato Tsukagoshi)</title>
+        <link>https://speakerdeck.com/hpprc/lun-jiang-zi-liao-lora-low-rank-adaptation-of-large-language-models</link>
+        <dc:date>2023-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自動テストのFour Keys​  ~テストプロセスのソフトウェア化の4つの鍵~​ (ハゲワシ)</title>
         <link>https://speakerdeck.com/hagevvashi/introducing-the-four-keys-metrics-for-test-automation-the-four-keys-to-softwareized-testing-process</link>
         <dc:date>2023-04-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GPT-4テクニカルレポートの 熟読？深読み？ (Melvin DY)</title>
         <link>https://speakerdeck.com/livemynd/gpt-4tekunikarurepotono-shou-du-shen-du-mi</link>
-        <dc:date>2023-04-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【企業向け】ChatGPTの機会と脅威 (Yusuke Kawabata,@ku_suke)</title>
-        <link>https://www.docswell.com/s/ku-suke/KNRR6P-chatgpt-enterprise</link>
         <dc:date>2023-04-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
