@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ELBO型VAEのダメなところ (KCS Keio Computer Society)</title>
+        <link>https://www.slideshare.net/KCSKeioComputerSocie/elbovae</link>
+        <dc:date>2023-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>株式会社LinQ -whoo カルチャーデック (LinQ,inc. whoo)</title>
         <link>https://speakerdeck.com/whoo/zhu-shi-hui-she-linq-whoo-karutiyadetuku</link>
         <dc:date>2023-04-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>画像処理エンジニア・Computer Visionチーム紹介</title>
         <link>https://docs.google.com/presentation/d/1kN4uUzQDId_opHobTzFosknTRmJ0kf-CIfjWbyVNgdM/preview</link>
-        <dc:date>2023-04-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ品質を重視したデータ基盤プロダクト開発 (Toshiki Tsuchikawa)</title>
-        <link>https://speakerdeck.com/ttccddtoki/detapin-zhi-wozhong-shi-sitadetaji-pan-purodakutokai-fa</link>
         <dc:date>2023-04-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
