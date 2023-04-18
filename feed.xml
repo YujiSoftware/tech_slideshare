@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Prometheusでの監視データ活用マニュアル (kameneko)</title>
+        <link>https://speakerdeck.com/takumanakagame/prometheusdenojian-shi-detahuo-yong-maniyuaru</link>
+        <dc:date>2023-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>How to Build Confidence and Achieve Challenges (Shoko Sato)</title>
         <link>https://speakerdeck.com/satoshoco/how-to-build-confidence-and-achieve-challenges</link>
         <dc:date>2023-04-16T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>2023年モダンCSSの最新トレンド (tonkotsuboy_com)</title>
         <link>https://speakerdeck.com/tonkotsuboy_com/2023nian-modancssnozui-xin-torendo</link>
         <dc:date>2023-04-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテナイメージのマルウェア検出とその実用性について (Kyohei Mizumoto)</title>
-        <link>https://speakerdeck.com/kyohmizu/kontenaimezinomaruueajian-chu-tosonoshi-yong-xing-nituite</link>
-        <dc:date>2023-04-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
