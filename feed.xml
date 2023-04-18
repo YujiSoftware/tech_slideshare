@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織のサイロを打破する！エンジニアがオーナーシップを持って共創する開発プロセス「インナーソース」 (Yuki Hattori)</title>
+        <link>https://speakerdeck.com/yuhattor/lets-start-innersource-devopsdays-tokyo-2023</link>
+        <dc:date>2023-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ELBO型VAEのダメなところ (KCS Keio Computer Society)</title>
         <link>https://www.slideshare.net/KCSKeioComputerSocie/elbovae</link>
         <dc:date>2023-04-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GPT-3.5とGPT-4の違い</title>
         <link>https://docs.google.com/presentation/d/15I_4KaQKuGiywNFX2qsEeeBp2oby0S0tf48215kbt24/preview</link>
-        <dc:date>2023-04-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>画像処理エンジニア・Computer Visionチーム紹介</title>
-        <link>https://docs.google.com/presentation/d/1kN4uUzQDId_opHobTzFosknTRmJ0kf-CIfjWbyVNgdM/preview</link>
         <dc:date>2023-04-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
