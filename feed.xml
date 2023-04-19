@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RuboCop Rails のリリース内容で Rails の情報をキャッチアップしヨー 🪀</title>
+        <link>https://docs.google.com/presentation/d/18cEGECLbDR5YXH788jxajVR1Wa24gnlbC09ec524E_E/preview</link>
+        <dc:date>2023-04-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ビジュアル表現のためのCSS &amp; SVG &amp; JavaScriptの最新事情 (yuki)</title>
+        <link>https://speakerdeck.com/yuneco/biziyuarubiao-xian-notamenocss-and-svg-and-javascriptnozui-xin-shi-qing</link>
+        <dc:date>2023-04-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>10個以上のプロダクトを3人のメンバーでローンチしたdiniiの開発の裏側 (dinii_otomo)</title>
+        <link>https://speakerdeck.com/dinii_otomo/10ge-yi-shang-nopurodakutowo3ren-nomenbaderontisitadiniinokai-fa-noli-ce</link>
+        <dc:date>2023-04-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Denoからリリースされた最新フレームワーク Fresh を触ってみた (yuya yamaguchi)</title>
+        <link>https://speakerdeck.com/takusan64/denokararirisusaretazui-xin-huremuwaku-fresh-wohong-tutemita</link>
+        <dc:date>2023-04-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロダクト開発エンジニアからSREへの挑戦 / backend-engineer-and-sre (Hiroshi Shimoju)</title>
+        <link>https://speakerdeck.com/shimoju/backend-engineer-and-sre</link>
+        <dc:date>2023-04-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「SRE初心者からの挑戦！ 半年でやってきたことと今後の展望」 (はるき)</title>
+        <link>https://speakerdeck.com/harukin721/srechu-xin-zhe-karanotiao-zhan-ban-nian-deyatutekitakototojin-hou-nozhan-wang</link>
+        <dc:date>2023-04-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ホスティング事業におけるSREの取り組みとSREの面白さ/SRE Efforts in the Hosting Business and the Interest of SRE (Takuma Kume)</title>
+        <link>https://speakerdeck.com/takumakume/sre-efforts-in-the-hosting-business-and-the-interest-of-sre</link>
+        <dc:date>2023-04-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>事業を横断したSRE組織の課題解決を加速する取り組み (homirun)</title>
+        <link>https://speakerdeck.com/homirun/shi-ye-woheng-duan-sitasrezu-zhi-noke-ti-jie-jue-wojia-su-suruqu-rizu-mi</link>
+        <dc:date>2023-04-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Fail Fast, Succeed Faster ~ DevOps で上手に早く失敗する (舟木 将彦,@mfunaki)</title>
         <link>https://www.docswell.com/s/mfunaki/538GML-failfast</link>
         <dc:date>2023-04-18T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>Prometheusでの監視データ活用マニュアル (kameneko)</title>
         <link>https://speakerdeck.com/takumanakagame/prometheusdenojian-shi-detahuo-yong-maniyuaru</link>
         <dc:date>2023-04-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to Build Confidence and Achieve Challenges (Shoko Sato)</title>
-        <link>https://speakerdeck.com/satoshoco/how-to-build-confidence-and-achieve-challenges</link>
-        <dc:date>2023-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Women Tech Terrace 2023 (pnsk)</title>
-        <link>https://speakerdeck.com/pnsk/women-tech-terrace-2023</link>
-        <dc:date>2023-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>しくじりジャーマネ おれみたいになるな!! (shinichiro matsuzawa)</title>
-        <link>https://speakerdeck.com/zawazawazawazawa/sikusirisiyamane-oremitaininaruna</link>
-        <dc:date>2023-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>freeeのアクセシビリティ、いまとこれから (Rikiya Ihara)</title>
-        <link>https://speakerdeck.com/magi1125/freeefalseakusesibiritei-imatokorekara</link>
-        <dc:date>2023-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モダンでフルサイクルな金融プロダクト開発 / Modern full-cycle financial product development (ogugu)</title>
-        <link>https://speakerdeck.com/ogugu9/modern-full-cycle-financial-product-development</link>
-        <dc:date>2023-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TiDBにおけるSQLチューニング - SQL bindingの紹介 (PingCAP-Japan)</title>
-        <link>https://speakerdeck.com/pingcap0315/tidbniokerusqltiyuningu-sql-bindingnoshao-jie</link>
-        <dc:date>2023-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>訳者による Understanding the InnerSource Checklist の概説</title>
-        <link>https://docs.google.com/presentation/d/1xH97D0C6gPL4Y21m53Ju3QTfs_oem-LBcpeo0OO2ics/preview</link>
-        <dc:date>2023-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>freee会計からマイクロサービスを切り出すのに4年かかりました / 4 Years for Carving Out A Micro Service from freee Accounting. (Hiroki Nakashima)</title>
-        <link>https://speakerdeck.com/him0/4-years-for-carving-out-a-micro-service-from-freee-accounting</link>
-        <dc:date>2023-04-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
