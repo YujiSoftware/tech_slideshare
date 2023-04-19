@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MLOps のはじめかた (Asei Sugiyama)</title>
+        <link>https://speakerdeck.com/asei/mlops-nohazimekata</link>
+        <dc:date>2023-04-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RuboCop Rails のリリース内容で Rails の情報をキャッチアップしヨー 🪀</title>
         <link>https://docs.google.com/presentation/d/18cEGECLbDR5YXH788jxajVR1Wa24gnlbC09ec524E_E/preview</link>
         <dc:date>2023-04-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>株式会社LinQ -whoo カルチャーデック (LinQ,inc. whoo)</title>
         <link>https://speakerdeck.com/whoo/zhu-shi-hui-she-linq-whoo-karutiyadetuku</link>
-        <dc:date>2023-04-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Prometheusでの監視データ活用マニュアル (kameneko)</title>
-        <link>https://speakerdeck.com/takumanakagame/prometheusdenojian-shi-detahuo-yong-maniyuaru</link>
         <dc:date>2023-04-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
