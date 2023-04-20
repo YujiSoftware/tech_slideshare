@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロンプトエンジニアリングから始めるLangChain入門 (os1ma)</title>
+        <link>https://speakerdeck.com/os1ma/puronputoenziniaringukarashi-merulangchainru-men</link>
+        <dc:date>2023-04-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DB外の副作用をトランザクションから分離しよう / Isolate out-of-DB side effects from transactions (Masato Ohba)</title>
         <link>https://speakerdeck.com/ohbarye/isolate-out-of-db-side-effects-from-transactions</link>
         <dc:date>2023-04-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>仕事がしやすくなる社内発信のすすめ/  Work happily by tweeting (hachi (Hayao Kimura))</title>
         <link>https://speakerdeck.com/hayaokimura/work-happily-by-tweeting</link>
-        <dc:date>2023-04-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[輪講資料] LoRA: Low-Rank Adaptation of Large Language Models (Hayato Tsukagoshi)</title>
-        <link>https://speakerdeck.com/hpprc/lun-jiang-zi-liao-lora-low-rank-adaptation-of-large-language-models</link>
         <dc:date>2023-04-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
