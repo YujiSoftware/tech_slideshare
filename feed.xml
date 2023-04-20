@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DB外の副作用をトランザクションから分離しよう / Isolate out-of-DB side effects from transactions (Masato Ohba)</title>
+        <link>https://speakerdeck.com/ohbarye/isolate-out-of-db-side-effects-from-transactions</link>
+        <dc:date>2023-04-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPT関連情報の追い方、個人・業務での使い方、サービスへの組み込み方、 ABEJAでの取り組み4例、ここ2週間のトピックなど行けるところまで (shogomuranushi)</title>
         <link>https://speakerdeck.com/shogomuranushi/chatgptguan-lian-qing-bao-nozhui-ifang-ge-ren-ye-wu-denoshi-ifang-sabisuhenozu-miip-mifang-abejadenoqu-rizu-mi4li-koko2zhou-jian-notopitukunadoxing-kerutokoromade</link>
         <dc:date>2023-04-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[輪講資料] LoRA: Low-Rank Adaptation of Large Language Models (Hayato Tsukagoshi)</title>
         <link>https://speakerdeck.com/hpprc/lun-jiang-zi-liao-lora-low-rank-adaptation-of-large-language-models</link>
-        <dc:date>2023-04-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自動テストのFour Keys​  ~テストプロセスのソフトウェア化の4つの鍵~​ (ハゲワシ)</title>
-        <link>https://speakerdeck.com/hagevvashi/introducing-the-four-keys-metrics-for-test-automation-the-four-keys-to-softwareized-testing-process</link>
         <dc:date>2023-04-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
