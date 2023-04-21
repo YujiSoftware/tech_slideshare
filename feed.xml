@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VercelとNext.jsの機能を最大限に活用したA/Bテスト手法 (AijiUejima)</title>
+        <link>https://speakerdeck.com/aiji42/btesutoshou-fa</link>
+        <dc:date>2023-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Astro の pros / cons (hashiba daiki)</title>
+        <link>https://speakerdeck.com/hashibadaiki/cons</link>
+        <dc:date>2023-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>0421DS協会_ChatGPTによって描かれる未来とAI開発の変遷.pdf (Hirosato Gamo)</title>
+        <link>https://speakerdeck.com/hirosatogamo/0421dsxie-hui-chatgptniyotutemiao-kareruwei-lai-toaikai-fa-nobian-qian</link>
+        <dc:date>2023-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>FIFA ワールドカップ 2022に向けたキャパシティ確保の軌跡 / Trajectory of securing system capacity for FIFA World Cup 2022 (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/trajectory-of-securing-system-capacity-for-fifa-world-cup-2022</link>
         <dc:date>2023-04-20T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>ホスティング事業におけるSREの取り組みとSREの面白さ/SRE Efforts in the Hosting Business and the Interest of SRE (Takuma Kume)</title>
         <link>https://speakerdeck.com/takumakume/sre-efforts-in-the-hosting-business-and-the-interest-of-sre</link>
-        <dc:date>2023-04-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業を横断したSRE組織の課題解決を加速する取り組み (homirun)</title>
-        <link>https://speakerdeck.com/homirun/shi-ye-woheng-duan-sitasrezu-zhi-noke-ti-jie-jue-wojia-su-suruqu-rizu-mi</link>
-        <dc:date>2023-04-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fail Fast, Succeed Faster ~ DevOps で上手に早く失敗する (舟木 将彦,@mfunaki)</title>
-        <link>https://www.docswell.com/s/mfunaki/538GML-failfast</link>
-        <dc:date>2023-04-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【AI:ML#16】Amazon Lexを用いたチャットボットの構築.pdf (TakeshiFukae)</title>
-        <link>https://www.slideshare.net/TakeshiFukae/aiml16amazon-lexpdf</link>
         <dc:date>2023-04-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
