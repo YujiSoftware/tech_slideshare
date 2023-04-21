@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>初級から上級までセキュアなAWS環境の作り方 (cm-usuda-keisuke)</title>
+        <link>https://speakerdeck.com/cmusudakeisuke/chu-ji-karashang-ji-madesekiyuanaawshuan-jing-nozuo-rifang</link>
+        <dc:date>2023-04-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPT_APIのEmbedding_カスタマイズ入門 (伊串涼平)</title>
         <link>https://speakerdeck.com/ryoheiigushi/chatgpt-apinoembedding-kasutamaisuru-men</link>
         <dc:date>2023-04-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>SageMakerでもAUTOMATIC1111したい (真吾 吉田,@yoshidashingo)</title>
         <link>https://www.slideshare.net/YoshidaShingo/sagemakerstudioautomatic1111</link>
         <dc:date>2023-04-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>元フロントエンドエンジニアからみた デザイナーとの協業と実態 2023-04-18 #AwEngineerMeetup@SmartHR</title>
-        <link>https://docs.google.com/presentation/d/1k8RoNRXAMNazayzIGs14BZcVFeADVYvL2GxbaSeAGwM/preview</link>
-        <dc:date>2023-04-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
