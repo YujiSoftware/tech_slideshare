@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>freee会計でのModule Federationによるマイクロフロントエンドの実践 (1coin)</title>
+        <link>https://speakerdeck.com/1coin/freeehui-ji-tenomodule-federationniyorumaikurohurontoentonoshi-jian</link>
+        <dc:date>2023-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Game Effects入門</title>
         <link>https://docs.google.com/presentation/d/13hzPv_A6E_6jYw4aFRnPjX8Ffvfy7w2ZitodLBihlkM/preview</link>
         <dc:date>2023-04-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Denoからリリースされた最新フレームワーク Fresh を触ってみた (yuya yamaguchi)</title>
         <link>https://speakerdeck.com/takusan64/denokararirisusaretazui-xin-huremuwaku-fresh-wohong-tutemita</link>
-        <dc:date>2023-04-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクト開発エンジニアからSREへの挑戦 / backend-engineer-and-sre (Hiroshi Shimoju)</title>
-        <link>https://speakerdeck.com/shimoju/backend-engineer-and-sre</link>
         <dc:date>2023-04-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
