@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Azure OpenAIサービスでChatGPTをC#で使ってみる (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/azure-openaisabisudechatgptwoc-number-deshi-tutemiru</link>
+        <dc:date>2023-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VercelとNext.jsの機能を最大限に活用したA/Bテスト手法 (AijiUejima)</title>
         <link>https://speakerdeck.com/aiji42/btesutoshou-fa</link>
         <dc:date>2023-04-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「SRE初心者からの挑戦！ 半年でやってきたことと今後の展望」 (はるき)</title>
         <link>https://speakerdeck.com/harukin721/srechu-xin-zhe-karanotiao-zhan-ban-nian-deyatutekitakototojin-hou-nozhan-wang</link>
-        <dc:date>2023-04-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ホスティング事業におけるSREの取り組みとSREの面白さ/SRE Efforts in the Hosting Business and the Interest of SRE (Takuma Kume)</title>
-        <link>https://speakerdeck.com/takumakume/sre-efforts-in-the-hosting-business-and-the-interest-of-sre</link>
         <dc:date>2023-04-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
