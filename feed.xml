@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PostgreSQL 16 Support load balancing in libpq (nuko_yokohama)</title>
+        <link>https://speakerdeck.com/nuko_yokohama/postgresql-16-support-load-balancing-in-libpq</link>
+        <dc:date>2023-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Qiita Technight LT『ChatGPTをエンジニアはどう受け止めるべきか』 - 逆瀬川</title>
         <link>https://docs.google.com/presentation/d/1Tvc-YD-5NplYHy-1UCzPgo8vjJPWSSZ-SCXacPCcYMU/preview</link>
         <dc:date>2023-04-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[Journal club] Hungry Hungry Hippos: Towards Language Modeling with State Space Models (Semantic Machine Intelligence Lab., Keio Univ.)</title>
         <link>https://speakerdeck.com/keio_smilab/journal-club-hungry-hungry-hippos-towards-language-modeling-with-state-space-models</link>
-        <dc:date>2023-04-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Actions &amp; オートスケールするSelf-hosted runnerで実現する KAGのみんなのCI/CD (Junya Miyake)</title>
-        <link>https://speakerdeck.com/jnymyk/cd</link>
         <dc:date>2023-04-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
