@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Qiita Technight LT『ChatGPTをエンジニアはどう受け止めるべきか』 - 逆瀬川</title>
+        <link>https://docs.google.com/presentation/d/1Tvc-YD-5NplYHy-1UCzPgo8vjJPWSSZ-SCXacPCcYMU/preview</link>
+        <dc:date>2023-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>これから先も戦えるサードパーティスクリプト (nichimu)</title>
         <link>https://speakerdeck.com/nichimu/korekaraxian-mozhan-erusadopateisukuriputo</link>
         <dc:date>2023-04-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GitHub Actions &amp; オートスケールするSelf-hosted runnerで実現する KAGのみんなのCI/CD (Junya Miyake)</title>
         <link>https://speakerdeck.com/jnymyk/cd</link>
-        <dc:date>2023-04-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MLOps のはじめかた (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/mlops-nohazimekata</link>
         <dc:date>2023-04-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
