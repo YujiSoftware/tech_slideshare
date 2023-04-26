@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Javaは今どこに向かっているのか (Yuichi.Sakuraba)</title>
+        <link>https://speakerdeck.com/skrb/javahajin-dokonixiang-katuteirunoka</link>
+        <dc:date>2023-04-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LangChain Toolsの運用と改善 (peisuke)</title>
+        <link>https://speakerdeck.com/peisuke/langchain-toolsnoyun-yong-togai-shan</link>
+        <dc:date>2023-04-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>結婚式のクイズアプリを自作した話 (ufoo68)</title>
         <link>https://speakerdeck.com/ufoo68/jie-hun-shi-nokuizuapuriwozi-zuo-sitahua</link>
         <dc:date>2023-04-25T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>freee会計でのModule Federationによるマイクロフロントエンドの実践 (1coin)</title>
         <link>https://speakerdeck.com/1coin/freeehui-ji-tenomodule-federationniyorumaikurohurontoentonoshi-jian</link>
-        <dc:date>2023-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Game Effects入門</title>
-        <link>https://docs.google.com/presentation/d/13hzPv_A6E_6jYw4aFRnPjX8Ffvfy7w2ZitodLBihlkM/preview</link>
-        <dc:date>2023-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure OpenAIサービスでChatGPTをC#で使ってみる (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/azure-openaisabisudechatgptwoc-number-deshi-tutemiru</link>
         <dc:date>2023-04-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
