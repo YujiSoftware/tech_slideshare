@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LayerX Biz Boost〜Whisper+GPTによる音声文字起こし要約の取り組み〜 (yakipudding)</title>
+        <link>https://speakerdeck.com/yakipudding/layerx-biz-boost-whisper-plus-gptniyoruyin-sheng-wen-zi-qi-kosiyao-yue-noqu-rizu-mi</link>
+        <dc:date>2023-04-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLMのオープンソース化とDatabricks (Naoya Abe)</title>
+        <link>https://speakerdeck.com/naoyaabedb/llmnoopunsosuhua-todatabricks</link>
+        <dc:date>2023-04-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GPT, Langchain, Faiss, FastAPIを組み合わせた Chat検索システム開発 (shibuiwilliam)</title>
+        <link>https://speakerdeck.com/shibuiwilliam/gpt-langchain-faiss-fastapiwozu-mihe-waseta-chatjian-suo-sisutemukai-fa</link>
+        <dc:date>2023-04-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NOT A HOTEL AI コンシェルジュ「Kevin」とキャッシュ (K)</title>
+        <link>https://speakerdeck.com/codehex/not-a-hotel-ai-konsieruziyu-kevin-tokiyatusiyu</link>
+        <dc:date>2023-04-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloudflare Pages/Workersとは (Hiroshi Morishige)</title>
         <link>https://speakerdeck.com/himorishige/workerstoha</link>
         <dc:date>2023-04-25T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>VercelとNext.jsの機能を最大限に活用したA/Bテスト手法 (AijiUejima)</title>
         <link>https://speakerdeck.com/aiji42/btesutoshou-fa</link>
         <dc:date>2023-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Astro の pros / cons (hashiba daiki)</title>
-        <link>https://speakerdeck.com/hashibadaiki/cons</link>
-        <dc:date>2023-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>0421DS協会_ChatGPTによって描かれる未来とAI開発の変遷.pdf (Hirosato Gamo)</title>
-        <link>https://speakerdeck.com/hirosatogamo/0421dsxie-hui-chatgptniyotutemiao-kareruwei-lai-toaikai-fa-nobian-qian</link>
-        <dc:date>2023-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FIFA ワールドカップ 2022に向けたキャパシティ確保の軌跡 / Trajectory of securing system capacity for FIFA World Cup 2022 (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/trajectory-of-securing-system-capacity-for-fifa-world-cup-2022</link>
-        <dc:date>2023-04-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初級から上級までセキュアなAWS環境の作り方 (cm-usuda-keisuke)</title>
-        <link>https://speakerdeck.com/cmusudakeisuke/chu-ji-karashang-ji-madesekiyuanaawshuan-jing-nozuo-rifang</link>
-        <dc:date>2023-04-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
