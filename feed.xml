@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloudflare Pages/Workersとは (Hiroshi Morishige)</title>
+        <link>https://speakerdeck.com/himorishige/workerstoha</link>
+        <dc:date>2023-04-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モダンアプリケーションにおける分散トランザクションの動機と実装パターン (Yuji Nomura)</title>
         <link>https://speakerdeck.com/ugnom/modanapurikesiyonniokerufen-san-toranzakusiyonnodong-ji-toshi-zhuang-patan</link>
         <dc:date>2023-04-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>初級から上級までセキュアなAWS環境の作り方 (cm-usuda-keisuke)</title>
         <link>https://speakerdeck.com/cmusudakeisuke/chu-ji-karashang-ji-madesekiyuanaawshuan-jing-nozuo-rifang</link>
-        <dc:date>2023-04-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPT_APIのEmbedding_カスタマイズ入門 (伊串涼平)</title>
-        <link>https://speakerdeck.com/ryoheiigushi/chatgpt-apinoembedding-kasutamaisuru-men</link>
         <dc:date>2023-04-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
