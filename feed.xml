@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Start Vector Search with Solr (Sashimimochi)</title>
+        <link>https://speakerdeck.com/sashimimochi/start-vector-search-with-solr</link>
+        <dc:date>2023-04-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kaggleシミュレーションコンペで強化学習に取り組むときのTips (Kyohei Uto)</title>
+        <link>https://speakerdeck.com/kuto5046/kagglesimiyuresiyonkonpedeqiang-hua-xue-xi-niqu-rizu-mutokinotips</link>
+        <dc:date>2023-04-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>東京大学大学院経済学研究科 「ICTと産業」基盤モデルと産業 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/ict_tokyouniv</link>
         <dc:date>2023-04-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>現実世界におけるスキーマ設計の妥協 (sadnessOjisan)</title>
         <link>https://speakerdeck.com/sadnessojisan/xian-shi-shi-jie-niokerusukimashe-ji-notuo-xie</link>
-        <dc:date>2023-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQL 16 Support load balancing in libpq (nuko_yokohama)</title>
-        <link>https://speakerdeck.com/nuko_yokohama/postgresql-16-support-load-balancing-in-libpq</link>
-        <dc:date>2023-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Qiita Technight LT『ChatGPTをエンジニアはどう受け止めるべきか』 - 逆瀬川</title>
-        <link>https://docs.google.com/presentation/d/1Tvc-YD-5NplYHy-1UCzPgo8vjJPWSSZ-SCXacPCcYMU/preview</link>
         <dc:date>2023-04-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
