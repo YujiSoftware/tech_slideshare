@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>東京大学大学院経済学研究科 「ICTと産業」基盤モデルと産業 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/ict_tokyouniv</link>
+        <dc:date>2023-04-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rails 7.1をn倍速くした話 (Akira Matsuda)</title>
         <link>https://speakerdeck.com/a_matsuda/kagoshima02-83c12841-01c8-4929-a5e7-801898ecc716</link>
         <dc:date>2023-04-26T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Qiita Technight LT『ChatGPTをエンジニアはどう受け止めるべきか』 - 逆瀬川</title>
         <link>https://docs.google.com/presentation/d/1Tvc-YD-5NplYHy-1UCzPgo8vjJPWSSZ-SCXacPCcYMU/preview</link>
         <dc:date>2023-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これから先も戦えるサードパーティスクリプト (nichimu)</title>
-        <link>https://speakerdeck.com/nichimu/korekaraxian-mozhan-erusadopateisukuriputo</link>
-        <dc:date>2023-04-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
