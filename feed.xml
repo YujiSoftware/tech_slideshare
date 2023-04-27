@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>関数データ解析への招待 (Hidetoshi Matsui)</title>
+        <link>https://speakerdeck.com/hidetoshimatsui/guan-shu-detajie-xi-henozhao-dai</link>
+        <dc:date>2023-04-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Start Vector Search with Solr (Sashimimochi)</title>
         <link>https://speakerdeck.com/sashimimochi/start-vector-search-with-solr</link>
         <dc:date>2023-04-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロトコル、インターフェースとしてのGraphQL (sonata)</title>
         <link>https://speakerdeck.com/sonatard/purotokoru-intahuesutositenographql</link>
-        <dc:date>2023-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現実世界におけるスキーマ設計の妥協 (sadnessOjisan)</title>
-        <link>https://speakerdeck.com/sadnessojisan/xian-shi-shi-jie-niokerusukimashe-ji-notuo-xie</link>
         <dc:date>2023-04-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
