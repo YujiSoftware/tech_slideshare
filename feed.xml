@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MercariにおけるKubernetesのリソース最適化のこれまでとこれから (sanposhiho)</title>
+        <link>https://speakerdeck.com/sanposhiho/mercariniokerukubernetesnorisosuzui-shi-hua-nokoremadetokorekara</link>
+        <dc:date>2023-04-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オブザーバビリティの始め方 / How to start Observability (Isao Shimizu)</title>
+        <link>https://speakerdeck.com/isaoshimizu/how-to-start-observability</link>
+        <dc:date>2023-04-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Javaは今どこに向かっているのか (Yuichi.Sakuraba)</title>
         <link>https://speakerdeck.com/skrb/javahajin-dokonixiang-katuteirunoka</link>
         <dc:date>2023-04-25T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>やさしくはじめるRemixとWeb (たかぎとねこ)</title>
         <link>https://speakerdeck.com/takagimeow/yasasikuhazimeruremixtoweb</link>
         <dc:date>2023-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラシルのデータ活用の現在とプロダクトファーストから考えるデータエンジニアのキャリア (harry)</title>
-        <link>https://speakerdeck.com/gappy50/kurasirunodetahuo-yong-noxian-zai-topurodakutohuasutokarakao-erudetaenzinianokiyaria</link>
-        <dc:date>2023-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>freee会計でのModule Federationによるマイクロフロントエンドの実践 (1coin)</title>
-        <link>https://speakerdeck.com/1coin/freeehui-ji-tenomodule-federationniyorumaikurohurontoentonoshi-jian</link>
-        <dc:date>2023-04-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
