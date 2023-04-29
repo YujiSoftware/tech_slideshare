@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>要件定義とはそもそも何か (haru860)</title>
+        <link>https://speakerdeck.com/haru860/yao-jian-ding-yi-tohasomosomohe-ka</link>
+        <dc:date>2023-04-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自動E2Eテストを活用した デプロイフロー改善 (Yosuke Obata)</title>
         <link>https://speakerdeck.com/sukechannnn/zi-dong-e2etesutowohuo-yong-sita-depuroihurogai-shan</link>
         <dc:date>2023-04-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GPT, Langchain, Faiss, FastAPIを組み合わせた Chat検索システム開発 (shibuiwilliam)</title>
         <link>https://speakerdeck.com/shibuiwilliam/gpt-langchain-faiss-fastapiwozu-mihe-waseta-chatjian-suo-sisutemukai-fa</link>
-        <dc:date>2023-04-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NOT A HOTEL AI コンシェルジュ「Kevin」とキャッシュ (K)</title>
-        <link>https://speakerdeck.com/codehex/not-a-hotel-ai-konsieruziyu-kevin-tokiyatusiyu</link>
         <dc:date>2023-04-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
