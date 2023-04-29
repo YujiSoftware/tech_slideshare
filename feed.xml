@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>要件定義のシフトレフトで見積り精度向上に挑戦！プロジェクト成功への一歩 (KentaroTakasaki)</title>
+        <link>https://speakerdeck.com/k_takasaki/yao-jian-ding-yi-nosihutorehutodejian-ji-rijing-du-xiang-shang-nitiao-zhan-puroziekutocheng-gong-heno-bu</link>
+        <dc:date>2023-04-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>要件定義とはそもそも何か (haru860)</title>
         <link>https://speakerdeck.com/haru860/yao-jian-ding-yi-tohasomosomohe-ka</link>
         <dc:date>2023-04-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLMのオープンソース化とDatabricks (Naoya Abe)</title>
         <link>https://speakerdeck.com/naoyaabedb/llmnoopunsosuhua-todatabricks</link>
-        <dc:date>2023-04-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GPT, Langchain, Faiss, FastAPIを組み合わせた Chat検索システム開発 (shibuiwilliam)</title>
-        <link>https://speakerdeck.com/shibuiwilliam/gpt-langchain-faiss-fastapiwozu-mihe-waseta-chatjian-suo-sisutemukai-fa</link>
         <dc:date>2023-04-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
