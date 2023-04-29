@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>東京都立の大学院で24時間対応の TA (ChatGPT) を用意して分かったこと (YassLab 株式会社)</title>
+        <link>https://speakerdeck.com/yasslab/learn-to-code-with-chatgpt</link>
+        <dc:date>2023-04-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPTを活用した見出し作成支援の検証 / Verification of Headline Creation Support System Using ChatGPT (Media R&amp;D Center, The Asahi Shimbun)</title>
         <link>https://speakerdeck.com/asahimrdc/verification-of-headline-creation-support-system-using-chatgpt</link>
         <dc:date>2023-04-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>モダンアプリケーションにおける分散トランザクションの動機と実装パターン (Yuji Nomura)</title>
         <link>https://speakerdeck.com/ugnom/modanapurikesiyonniokerufen-san-toranzakusiyonnodong-ji-toshi-zhuang-patan</link>
-        <dc:date>2023-04-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMを活用した推薦システムの改善: 課題と初期導入のアプローチ (Higuchi kokoro)</title>
-        <link>https://speakerdeck.com/zerebom/llmwohuo-yong-sitatui-jian-sisutemunogai-shan-ke-ti-tochu-qi-dao-ru-noapuroti</link>
         <dc:date>2023-04-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
