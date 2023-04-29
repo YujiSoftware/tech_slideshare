@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自動E2Eテストを活用した デプロイフロー改善 (Yosuke Obata)</title>
+        <link>https://speakerdeck.com/sukechannnn/zi-dong-e2etesutowohuo-yong-sita-depuroihurogai-shan</link>
+        <dc:date>2023-04-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>QA≒テストからQA⊃テストに進化するためのQA入門 (JaSST ‘23 Tokyo 版) (PKSHA Technology)</title>
+        <link>https://speakerdeck.com/pkshadeck/qa-tesutokaraqa-tesutonijin-hua-surutamenoqaru-men-jasst-23-tokyo-ban</link>
+        <dc:date>2023-04-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>東京都立の大学院で24時間対応の TA (ChatGPT) を用意して分かったこと (YassLab 株式会社)</title>
         <link>https://speakerdeck.com/yasslab/learn-to-code-with-chatgpt</link>
         <dc:date>2023-04-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>NOT A HOTEL AI コンシェルジュ「Kevin」とキャッシュ (K)</title>
         <link>https://speakerdeck.com/codehex/not-a-hotel-ai-konsieruziyu-kevin-tokiyatusiyu</link>
-        <dc:date>2023-04-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Pages/Workersとは (Hiroshi Morishige)</title>
-        <link>https://speakerdeck.com/himorishige/workerstoha</link>
-        <dc:date>2023-04-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モダンアプリケーションにおける分散トランザクションの動機と実装パターン (Yuji Nomura)</title>
-        <link>https://speakerdeck.com/ugnom/modanapurikesiyonniokerufen-san-toranzakusiyonnodong-ji-toshi-zhuang-patan</link>
         <dc:date>2023-04-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
