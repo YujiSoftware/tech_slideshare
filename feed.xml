@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ESLint Flat Configで誰もが簡単に Lintを設定できる時代へ (てけし,@t__keshi)</title>
+        <link>https://www.docswell.com/s/t__keshi/ZGXXV8-eslint-flat-config</link>
+        <dc:date>2023-04-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Javaで最強 コンカレントプログラミング/concurrent-programming-in-java (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/concurrent-programming-in-java</link>
         <dc:date>2023-04-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>MercariにおけるKubernetesのリソース最適化のこれまでとこれから (sanposhiho)</title>
         <link>https://speakerdeck.com/sanposhiho/mercariniokerukubernetesnorisosuzui-shi-hua-nokoremadetokorekara</link>
-        <dc:date>2023-04-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オブザーバビリティの始め方 / How to start Observability (Isao Shimizu)</title>
-        <link>https://speakerdeck.com/isaoshimizu/how-to-start-observability</link>
         <dc:date>2023-04-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
