@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Javaで最強 コンカレントプログラミング/concurrent-programming-in-java (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/concurrent-programming-in-java</link>
+        <dc:date>2023-04-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Debug linux drop packets (Takeru Hayasaka)</title>
+        <link>https://speakerdeck.com/takehaya/debug-linux-drop-packets</link>
+        <dc:date>2023-04-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>書くときにひと呼吸おいて考えてから 書いてほしいRailsコードの書き方 / Rails programing code that I hope you will consider if you really need it (ShinkuFencer)</title>
         <link>https://speakerdeck.com/shinkufencer/rails-programing-code-that-i-hope-you-will-consider-if-you-really-need-it</link>
         <dc:date>2023-04-30T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>オブザーバビリティの始め方 / How to start Observability (Isao Shimizu)</title>
         <link>https://speakerdeck.com/isaoshimizu/how-to-start-observability</link>
         <dc:date>2023-04-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Javaは今どこに向かっているのか (Yuichi.Sakuraba)</title>
-        <link>https://speakerdeck.com/skrb/javahajin-dokonixiang-katuteirunoka</link>
-        <dc:date>2023-04-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LangChain Toolsの運用と改善 (peisuke)</title>
-        <link>https://speakerdeck.com/peisuke/langchain-toolsnoyun-yong-togai-shan</link>
-        <dc:date>2023-04-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
