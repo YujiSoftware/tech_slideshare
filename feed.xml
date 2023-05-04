@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>デバッガと和解せよ (Takaya Saeki)</title>
+        <link>https://speakerdeck.com/nullpo_head/debatugatohe-jie-seyo</link>
+        <dc:date>2023-05-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GraphQLやるならDataloaderを使おう (DeNA_Tech,@DeNAxTech)</title>
         <link>https://www.docswell.com/s/DeNA_Tech/ZVVVND-dataloader</link>
         <dc:date>2023-05-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>東京大学大学院経済学研究科 「ICTと産業」基盤モデルと産業 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/ict_tokyouniv</link>
-        <dc:date>2023-04-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rails 7.1をn倍速くした話 (Akira Matsuda)</title>
-        <link>https://speakerdeck.com/a_matsuda/kagoshima02-83c12841-01c8-4929-a5e7-801898ecc716</link>
         <dc:date>2023-04-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
