@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM Meetup Tokyo #1 微分可能な検索インデックスについて</title>
+        <link>https://docs.google.com/presentation/d/1-tqsW5roJ_WJH2xUAW3aKFfBtj7AlDT-wD98AeKaXbk/preview</link>
+        <dc:date>2023-05-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Block Pong: Web 技術を駆使したゲームアプリの実装舞台裏 - DevFest 2020</title>
         <link>https://docs.google.com/presentation/d/1OmFQahgOZvd5kqI-P3oXaW5tn75IqId9lKKo1SVne30/preview</link>
         <dc:date>2023-05-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>関数データ解析への招待 (Hidetoshi Matsui)</title>
         <link>https://speakerdeck.com/hidetoshimatsui/guan-shu-detajie-xi-henozhao-dai</link>
-        <dc:date>2023-04-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Start Vector Search with Solr (Sashimimochi)</title>
-        <link>https://speakerdeck.com/sashimimochi/start-vector-search-with-solr</link>
         <dc:date>2023-04-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
