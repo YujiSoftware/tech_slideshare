@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LT会に出ないか？ (kazuki19992)</title>
+        <link>https://speakerdeck.com/kazuki19992/lthui-nichu-naika</link>
+        <dc:date>2023-05-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Spring Boot の最新情報ご紹介</title>
         <link>https://docs.google.com/presentation/d/1wKLBnn-ViqA9SH1FB_uMP0Qotg6oLIoDuYO_TBab1m0/preview</link>
         <dc:date>2023-05-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自動E2Eテストを活用した デプロイフロー改善 (Yosuke Obata)</title>
         <link>https://speakerdeck.com/sukechannnn/zi-dong-e2etesutowohuo-yong-sita-depuroihurogai-shan</link>
-        <dc:date>2023-04-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QA≒テストからQA⊃テストに進化するためのQA入門 (JaSST ‘23 Tokyo 版) (PKSHA Technology)</title>
-        <link>https://speakerdeck.com/pkshadeck/qa-tesutokaraqa-tesutonijin-hua-surutamenoqaru-men-jasst-23-tokyo-ban</link>
         <dc:date>2023-04-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
