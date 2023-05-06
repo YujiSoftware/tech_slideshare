@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>5分でわかるAIｽﾀｯｸﾁｬﾝ</title>
+        <link>https://docs.google.com/presentation/d/1D17OcgAUQbKmUXsS4y1k5Q_Jmr1eaJ7PXy9kAIt2uKc/preview</link>
+        <dc:date>2023-05-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLM Meetup Tokyo #1 微分可能な検索インデックスについて</title>
         <link>https://docs.google.com/presentation/d/1-tqsW5roJ_WJH2xUAW3aKFfBtj7AlDT-wD98AeKaXbk/preview</link>
         <dc:date>2023-05-04T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>KeebKaigi Strikes!!!q (Shintaro Kakutani)</title>
         <link>https://speakerdeck.com/kakutani/keebkaigi-strikes-q</link>
         <dc:date>2023-04-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>関数データ解析への招待 (Hidetoshi Matsui)</title>
-        <link>https://speakerdeck.com/hidetoshimatsui/guan-shu-detajie-xi-henozhao-dai</link>
-        <dc:date>2023-04-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
