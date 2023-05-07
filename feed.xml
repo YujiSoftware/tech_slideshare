@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SRE不在のチームに入って2ヶ月でやったこと - 負荷試験ツールからはじめるSREプラクティスの導入 (FUJIWARA Shunichiro)</title>
+        <link>https://speakerdeck.com/fujiwara3/srebu-zai-notimuniru-tute2keyue-deyatutakoto-fu-he-shi-yan-turukarahazimerusrepurakuteisunodao-ru</link>
+        <dc:date>2023-05-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LT会に出ないか？ (kazuki19992)</title>
         <link>https://speakerdeck.com/kazuki19992/lthui-nichu-naika</link>
         <dc:date>2023-05-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>要件定義とはそもそも何か (haru860)</title>
         <link>https://speakerdeck.com/haru860/yao-jian-ding-yi-tohasomosomohe-ka</link>
-        <dc:date>2023-04-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自動E2Eテストを活用した デプロイフロー改善 (Yosuke Obata)</title>
-        <link>https://speakerdeck.com/sukechannnn/zi-dong-e2etesutowohuo-yong-sita-depuroihurogai-shan</link>
         <dc:date>2023-04-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
