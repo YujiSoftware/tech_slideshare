@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>A Foundation Models Primer - March 2023</title>
+        <link>https://docs.google.com/presentation/d/1VXQkR65ieROCmJP_ga09gGt8wkTGtTAdvaDRxMB67GI/preview</link>
+        <dc:date>2023-05-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SRE不在のチームに入って2ヶ月でやったこと - 負荷試験ツールからはじめるSREプラクティスの導入 (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/srebu-zai-notimuniru-tute2keyue-deyatutakoto-fu-he-shi-yan-turukarahazimerusrepurakuteisunodao-ru</link>
         <dc:date>2023-05-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>要件定義のシフトレフトで見積り精度向上に挑戦！プロジェクト成功への一歩 (KentaroTakasaki)</title>
         <link>https://speakerdeck.com/k_takasaki/yao-jian-ding-yi-nosihutorehutodejian-ji-rijing-du-xiang-shang-nitiao-zhan-puroziekutocheng-gong-heno-bu</link>
-        <dc:date>2023-04-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>要件定義とはそもそも何か (haru860)</title>
-        <link>https://speakerdeck.com/haru860/yao-jian-ding-yi-tohasomosomohe-ka</link>
         <dc:date>2023-04-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
