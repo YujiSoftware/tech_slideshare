@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>事業会社における 機械学習・推薦システム技術の活用事例と必要な能力 / ml-recsys-in-layerx-wantedly-2023 (Yuya Matsumura)</title>
+        <link>https://speakerdeck.com/yuya4/ml-recsys-in-layerx-wantedly-2023</link>
+        <dc:date>2023-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Linux関連の最新状況にキャッチアップするための本「入門モダンLinux」 (Satoru Takeuchi)</title>
         <link>https://speakerdeck.com/sat/linuxguan-lian-nozui-xin-zhuang-kuang-nikiyatutiatupusurutamenoben-ru-men-modanlinux</link>
         <dc:date>2023-05-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GraphQLやるならDataloaderを使おう (DeNA_Tech,@DeNAxTech)</title>
         <link>https://www.docswell.com/s/DeNA_Tech/ZVVVND-dataloader</link>
-        <dc:date>2023-05-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>数年振りにM5Stackを触ったらUIFlowに感動した話 (kyokucho1989)</title>
-        <link>https://speakerdeck.com/kyokucho1989/shu-nian-zhen-rinim5stackwohong-tutarauiflownigan-dong-sitahua</link>
         <dc:date>2023-05-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
