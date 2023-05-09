@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マイクロサービスのトランザクション管理 (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/ochacafe-microtx</link>
+        <dc:date>2023-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Git研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2023-git-training</link>
         <dc:date>2023-05-07T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>書くときにひと呼吸おいて考えてから 書いてほしいRailsコードの書き方 / Rails programing code that I hope you will consider if you really need it (ShinkuFencer)</title>
         <link>https://speakerdeck.com/shinkufencer/rails-programing-code-that-i-hope-you-will-consider-if-you-really-need-it</link>
         <dc:date>2023-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>4年と半年かけてようやくフロントエンドを書けるようになった / It took me 4 years and 6 months to be able to write the frontend</title>
-        <link>https://speakerdeck.com/hyuyukun/it-took-me-4-years-and-6-months-to-be-able-to-write-the-frontend</link>
-        <dc:date>2023-04-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
