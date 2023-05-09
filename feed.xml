@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ChatGPTで僕が知っていることまとめ (Hazumi Ichijo)</title>
+        <link>https://speakerdeck.com/hazumirr/chatgpt-knowledge</link>
+        <dc:date>2023-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Flutterアプリの安全な変化と拡大を支えるアーキテクチャと単体テスト (高田 晴彦,@tfandkusu)</title>
         <link>https://www.docswell.com/s/tfandkusu/Z4X2DZ-flutterkaigi2022</link>
         <dc:date>2023-05-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Javaで最強 コンカレントプログラミング/concurrent-programming-in-java (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/concurrent-programming-in-java</link>
-        <dc:date>2023-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Debug linux drop packets (Takeru Hayasaka)</title>
-        <link>https://speakerdeck.com/takehaya/debug-linux-drop-packets</link>
         <dc:date>2023-04-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
