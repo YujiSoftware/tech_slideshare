@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データベース研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2023-database-training-01</link>
+        <dc:date>2023-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Migrate to Gradle version catalog and convention plugins (Merab Tato Kutalia)</title>
         <link>https://speakerdeck.com/tatocaster/migrate-to-gradle-version-catalog-and-convention-plugins</link>
         <dc:date>2023-05-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>5分でわかるAIｽﾀｯｸﾁｬﾝ</title>
         <link>https://docs.google.com/presentation/d/1D17OcgAUQbKmUXsS4y1k5Q_Jmr1eaJ7PXy9kAIt2uKc/preview</link>
         <dc:date>2023-05-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM Meetup Tokyo #1 微分可能な検索インデックスについて</title>
-        <link>https://docs.google.com/presentation/d/1-tqsW5roJ_WJH2xUAW3aKFfBtj7AlDT-wD98AeKaXbk/preview</link>
-        <dc:date>2023-05-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
