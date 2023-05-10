@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Migrate to Gradle version catalog and convention plugins (Merab Tato Kutalia)</title>
+        <link>https://speakerdeck.com/tatocaster/migrate-to-gradle-version-catalog-and-convention-plugins</link>
+        <dc:date>2023-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Webフロントエンドのための実践「テスト」手法 CodeZine Night #1 (Takepepe)</title>
+        <link>https://speakerdeck.com/takefumiyoshii/webhurontoendonotamenoshi-jian-tesuto-shou-fa-codezine-night-number-1</link>
+        <dc:date>2023-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ElixirとWeb初心者がLiveView初めて触ってみた (omanuke)</title>
         <link>https://speakerdeck.com/omanuke/elixirtowebchu-xin-zhe-galiveviewchu-metehong-tutemita</link>
         <dc:date>2023-05-09T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>LLM Meetup Tokyo #1 微分可能な検索インデックスについて</title>
         <link>https://docs.google.com/presentation/d/1-tqsW5roJ_WJH2xUAW3aKFfBtj7AlDT-wD98AeKaXbk/preview</link>
-        <dc:date>2023-05-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Block Pong: Web 技術を駆使したゲームアプリの実装舞台裏 - DevFest 2020</title>
-        <link>https://docs.google.com/presentation/d/1OmFQahgOZvd5kqI-P3oXaW5tn75IqId9lKKo1SVne30/preview</link>
-        <dc:date>2023-05-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生産性が上がり続けるチームを作るための第一歩 (KazukiHayase)</title>
-        <link>https://speakerdeck.com/kazukihayase/the-first-step-of-building-high-performance-team</link>
         <dc:date>2023-05-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
