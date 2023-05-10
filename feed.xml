@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>中(小)規模事業者のNTP運用担当としての悩みと成功体験 / 20230407 NTP Meeting LT2 (w4yh)</title>
+        <link>https://speakerdeck.com/w4yh/20230407-ntp-meeting-lt2</link>
+        <dc:date>2023-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事業会社における 機械学習・推薦システム技術の活用事例と必要な能力 / ml-recsys-in-layerx-wantedly-2023 (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/ml-recsys-in-layerx-wantedly-2023</link>
         <dc:date>2023-05-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>デバッガと和解せよ (Takaya Saeki)</title>
         <link>https://speakerdeck.com/nullpo_head/debatugatohe-jie-seyo</link>
         <dc:date>2023-05-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQLやるならDataloaderを使おう (DeNA_Tech,@DeNAxTech)</title>
-        <link>https://www.docswell.com/s/DeNA_Tech/ZVVVND-dataloader</link>
-        <dc:date>2023-05-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
