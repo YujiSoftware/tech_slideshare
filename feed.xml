@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Androidアプリ開発研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2023-android-training</link>
+        <dc:date>2023-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データベース研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2023-database-training-01</link>
         <dc:date>2023-05-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GitHubとTerraformCloudを連携してみた (Takuya Terada)</title>
         <link>https://speakerdeck.com/takuya_terada/githubtoterraformcloudwolian-xi-sitemita</link>
-        <dc:date>2023-05-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>5分でわかるAIｽﾀｯｸﾁｬﾝ</title>
-        <link>https://docs.google.com/presentation/d/1D17OcgAUQbKmUXsS4y1k5Q_Jmr1eaJ7PXy9kAIt2uKc/preview</link>
         <dc:date>2023-05-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
