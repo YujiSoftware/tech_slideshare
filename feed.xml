@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Java 20, 21, オブジェクト指向からデータ指向へ / Java20, 21, Object Oriented to Data Oriented (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/java20-21-object-oriented-to-data-oriented</link>
+        <dc:date>2023-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Single Executable Applicationsについて / About Single Executable Applications (shimataro)</title>
+        <link>https://speakerdeck.com/shimataro/about-single-executable-applications</link>
+        <dc:date>2023-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Androidアプリ開発研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2023-android-training</link>
         <dc:date>2023-05-09T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Spring Boot の最新情報ご紹介</title>
         <link>https://docs.google.com/presentation/d/1wKLBnn-ViqA9SH1FB_uMP0Qotg6oLIoDuYO_TBab1m0/preview</link>
-        <dc:date>2023-05-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS-UG初心者支部#55 LT大会_SystemsManager (ますの＠AWS運用保守 Lv1.1,@masno_soy)</title>
-        <link>https://www.docswell.com/s/masno_soy/5JL47M-2023-05-06-010343</link>
-        <dc:date>2023-05-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHubとTerraformCloudを連携してみた (Takuya Terada)</title>
-        <link>https://speakerdeck.com/takuya_terada/githubtoterraformcloudwolian-xi-sitemita</link>
         <dc:date>2023-05-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
