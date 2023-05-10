@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ElixirとWeb初心者がLiveView初めて触ってみた (omanuke)</title>
+        <link>https://speakerdeck.com/omanuke/elixirtowebchu-xin-zhe-galiveviewchu-metehong-tutemita</link>
+        <dc:date>2023-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>中(小)規模事業者のNTP運用担当としての悩みと成功体験 / 20230407 NTP Meeting LT2 (w4yh)</title>
         <link>https://speakerdeck.com/w4yh/20230407-ntp-meeting-lt2</link>
         <dc:date>2023-05-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>生産性が上がり続けるチームを作るための第一歩 (KazukiHayase)</title>
         <link>https://speakerdeck.com/kazukihayase/the-first-step-of-building-high-performance-team</link>
         <dc:date>2023-05-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デバッガと和解せよ (Takaya Saeki)</title>
-        <link>https://speakerdeck.com/nullpo_head/debatugatohe-jie-seyo</link>
-        <dc:date>2023-05-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
