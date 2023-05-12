@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The Resurrection of  the Fast Parallel Test Runner (Koichi ITO)</title>
+        <link>https://speakerdeck.com/koic/the-resurrection-of-the-fast-parallel-test-runner</link>
+        <dc:date>2023-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Collaborative AI: 視覚・言語・行動の融合 (Kyosuke Nishida)</title>
         <link>https://speakerdeck.com/kyoun/collaborativeai</link>
         <dc:date>2023-05-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Linux関連の最新状況にキャッチアップするための本「入門モダンLinux」 (Satoru Takeuchi)</title>
         <link>https://speakerdeck.com/sat/linuxguan-lian-nozui-xin-zhuang-kuang-nikiyatutiatupusurutamenoben-ru-men-modanlinux</link>
-        <dc:date>2023-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>new_urlparser.pdf (Yosuke Furukawa)</title>
-        <link>https://speakerdeck.com/yosuke_furukawa/new-urlparser</link>
         <dc:date>2023-05-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
