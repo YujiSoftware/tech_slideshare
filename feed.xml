@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Collaborative AI: 視覚・言語・行動の融合 (Kyosuke Nishida)</title>
+        <link>https://speakerdeck.com/kyoun/collaborativeai</link>
+        <dc:date>2023-05-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フルスクラッチで作る画像生成AI (あるふ,@alfredplpl)</title>
         <link>https://www.docswell.com/s/alfredplpl/5GXLNQ-2023-05-11-210433</link>
         <dc:date>2023-05-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>new_urlparser.pdf (Yosuke Furukawa)</title>
         <link>https://speakerdeck.com/yosuke_furukawa/new-urlparser</link>
-        <dc:date>2023-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTで僕が知っていることまとめ (Hazumi Ichijo)</title>
-        <link>https://speakerdeck.com/hazumirr/chatgpt-knowledge</link>
         <dc:date>2023-05-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
