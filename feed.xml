@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Implementing "++" operator, stepping into parse.y (Misaki Shioi(塩井美咲/しおい))</title>
+        <link>https://speakerdeck.com/coe401_/implementing-plus-plus-operator-stepping-into-parse-dot-y</link>
+        <dc:date>2023-05-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Incident Manager触ってみた (コムコム)</title>
         <link>https://speakerdeck.com/komkom/incident-managerhong-tutemita</link>
         <dc:date>2023-05-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>マイクロサービスのトランザクション管理 (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/ochacafe-microtx</link>
         <dc:date>2023-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Git研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2023-git-training</link>
-        <dc:date>2023-05-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
