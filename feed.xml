@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>#46 “Technology-Driven, Highly-Scalable Dragonfly Topology”#45 “How to Fight Production Incidents?  An Empirical Study on a Large-scale Cloud Service” (cafenero_777)</title>
+        <link>https://speakerdeck.com/cafenero_777/number-46-technology-driven-highly-scalable-dragonfly-topology-number-45-how-to-fight-production-incidents-an-empirical-study-on-a-large-scale-cloud-service</link>
+        <dc:date>2023-05-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Implementing "++" operator, stepping into parse.y (Misaki Shioi(塩井美咲/しおい))</title>
         <link>https://speakerdeck.com/coe401_/implementing-plus-plus-operator-stepping-into-parse-dot-y</link>
         <dc:date>2023-05-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Flutterアプリの安全な変化と拡大を支えるアーキテクチャと単体テスト (高田 晴彦,@tfandkusu)</title>
         <link>https://www.docswell.com/s/tfandkusu/Z4X2DZ-flutterkaigi2022</link>
-        <dc:date>2023-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マイクロサービスのトランザクション管理 (oracle4engineer)</title>
-        <link>https://speakerdeck.com/oracle4engineer/ochacafe-microtx</link>
         <dc:date>2023-05-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
