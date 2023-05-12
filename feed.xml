@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Incident Manager触ってみた (コムコム)</title>
+        <link>https://speakerdeck.com/komkom/incident-managerhong-tutemita</link>
+        <dc:date>2023-05-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSからエグゼクティブミーティングをしたいと言われたら (Toshiya Nakamura)</title>
+        <link>https://speakerdeck.com/nakamu_ryukyu/awskaraeguzekuteibumiteinguwositaitoyan-waretara</link>
+        <dc:date>2023-05-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS Summitを戦略的に楽しむ方法 / How to Enjoy AWS Summit Strategically (Yuji Oshima)</title>
+        <link>https://speakerdeck.com/yuj1osm/how-to-enjoy-aws-summit-strategically</link>
+        <dc:date>2023-05-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Design Doc の書き方 / How to Write a Design Doc (Ja ver.) (Munetoshi Ishikawa)</title>
         <link>https://speakerdeck.com/munetoshi/how-to-write-a-design-doc-ja-ver-dot</link>
         <dc:date>2023-05-11T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>Git研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2023-git-training</link>
         <dc:date>2023-05-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスト・設計研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2023-test-training</link>
-        <dc:date>2023-05-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>A Foundation Models Primer - March 2023</title>
-        <link>https://docs.google.com/presentation/d/1VXQkR65ieROCmJP_ga09gGt8wkTGtTAdvaDRxMB67GI/preview</link>
-        <dc:date>2023-05-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SRE不在のチームに入って2ヶ月でやったこと - 負荷試験ツールからはじめるSREプラクティスの導入 (FUJIWARA Shunichiro)</title>
-        <link>https://speakerdeck.com/fujiwara3/srebu-zai-notimuniru-tute2keyue-deyatutakoto-fu-he-shi-yan-turukarahazimerusrepurakuteisunodao-ru</link>
-        <dc:date>2023-05-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
