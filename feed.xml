@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Learn Ractor (seki at druby.org)</title>
+        <link>https://speakerdeck.com/m_seki/learn-ractor</link>
+        <dc:date>2023-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vue2 × Vuetifyでチャットアプリつくーる (Satoshi Gachi Fujimoto)</title>
         <link>https://speakerdeck.com/satoshirobatofujimoto/vue2-x-vuetifydetiyatutoapuritukuru</link>
         <dc:date>2023-05-13T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Single Executable Applicationsについて / About Single Executable Applications (shimataro)</title>
         <link>https://speakerdeck.com/shimataro/about-single-executable-applications</link>
         <dc:date>2023-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Androidアプリ開発研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2023-android-training</link>
-        <dc:date>2023-05-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
