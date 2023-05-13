@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コンテナ研修（Kubernetes編）【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2023-container-training-number-02-kubernetes</link>
+        <dc:date>2023-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Unexplored Region - parse.y - (yui-knk)</title>
         <link>https://speakerdeck.com/yui_knk/unexplored-region-parse-dot-y</link>
         <dc:date>2023-05-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Webフロントエンドのための実践「テスト」手法 CodeZine Night #1 (Takepepe)</title>
         <link>https://speakerdeck.com/takefumiyoshii/webhurontoendonotamenoshi-jian-tesuto-shou-fa-codezine-night-number-1</link>
-        <dc:date>2023-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ElixirとWeb初心者がLiveView初めて触ってみた (omanuke)</title>
-        <link>https://speakerdeck.com/omanuke/elixirtowebchu-xin-zhe-galiveviewchu-metehong-tutemita</link>
         <dc:date>2023-05-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
