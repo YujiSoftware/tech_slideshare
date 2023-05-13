@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>R言語入門 (R-4.2.3 2023年4月版) / introduction to r (Uryu Shinya)</title>
+        <link>https://speakerdeck.com/s_uryu/introduction-to-r</link>
+        <dc:date>2023-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データエンジニアを助けてくれるFivetranとSnowflakeの仕様＆機能のご紹介 (Sagara)</title>
         <link>https://speakerdeck.com/sagara/detaenziniawozhu-ketekurerufivetrantosnowflakenoshi-yang-and-ji-neng-nogoshao-jie</link>
         <dc:date>2023-05-12T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>中(小)規模事業者のNTP運用担当としての悩みと成功体験 / 20230407 NTP Meeting LT2 (w4yh)</title>
         <link>https://speakerdeck.com/w4yh/20230407-ntp-meeting-lt2</link>
         <dc:date>2023-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業会社における 機械学習・推薦システム技術の活用事例と必要な能力 / ml-recsys-in-layerx-wantedly-2023 (Yuya Matsumura)</title>
-        <link>https://speakerdeck.com/yuya4/ml-recsys-in-layerx-wantedly-2023</link>
-        <dc:date>2023-05-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
