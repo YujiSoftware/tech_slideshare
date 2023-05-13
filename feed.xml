@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vue2 × Vuetifyでチャットアプリつくーる (Satoshi Gachi Fujimoto)</title>
+        <link>https://speakerdeck.com/satoshirobatofujimoto/vue2-x-vuetifydetiyatutoapuritukuru</link>
+        <dc:date>2023-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Voiceflowで始める、ノーコードなChatGPTチャットボット作成 (Hideyuki Nagata)</title>
+        <link>https://speakerdeck.com/hideg/voiceflowdeshi-meru-nokodonachatgpttiyatutobotutozuo-cheng</link>
+        <dc:date>2023-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The future vision of Ruby Parser (yui-knk)</title>
+        <link>https://speakerdeck.com/yui_knk/the-future-vision-of-ruby-parser</link>
+        <dc:date>2023-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コンテナ研修（Kubernetes編）【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2023-container-training-number-02-kubernetes</link>
         <dc:date>2023-05-12T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Androidアプリ開発研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2023-android-training</link>
-        <dc:date>2023-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データベース研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2023-database-training-01</link>
-        <dc:date>2023-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Migrate to Gradle version catalog and convention plugins (Merab Tato Kutalia)</title>
-        <link>https://speakerdeck.com/tatocaster/migrate-to-gradle-version-catalog-and-convention-plugins</link>
-        <dc:date>2023-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webフロントエンドのための実践「テスト」手法 CodeZine Night #1 (Takepepe)</title>
-        <link>https://speakerdeck.com/takefumiyoshii/webhurontoendonotamenoshi-jian-tesuto-shou-fa-codezine-night-number-1</link>
         <dc:date>2023-05-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
