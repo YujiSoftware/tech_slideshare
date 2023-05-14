@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Firebase &amp; Flutter ハンズオン(2023/04/09)</title>
+        <link>https://docs.google.com/presentation/d/1LPlbw2TDLjdER9MpNSuVqOByLhDXiFgoYl8_S8xtAJY/preview</link>
+        <dc:date>2023-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>7年使ったRedshiftから6ヶ月かけてSnowflakeへ移行した話　〜手の内全部お見せします〜 (Motoi Kataoka)</title>
         <link>https://speakerdeck.com/motoy3d/migrating-from-redshift-to-snowflake</link>
         <dc:date>2023-05-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成AI周回遅れキャッチアップ勉強会！ (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/sheng-cheng-aizhou-hui-chi-rekiyatutiatuhumian-qiang-hui</link>
-        <dc:date>2023-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java 20, 21, オブジェクト指向からデータ指向へ / Java20, 21, Object Oriented to Data Oriented (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/java20-21-object-oriented-to-data-oriented</link>
         <dc:date>2023-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
