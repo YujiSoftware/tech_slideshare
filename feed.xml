@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Let's write RBS! (pocke)</title>
+        <link>https://speakerdeck.com/pocke/lets-write-rbs</link>
+        <dc:date>2023-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Load gem from browsr (shigeru. nakajima)</title>
         <link>https://speakerdeck.com/ledsun/load-gem-from-browsr</link>
         <dc:date>2023-05-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Implementing "++" operator, stepping into parse.y (Misaki Shioi(塩井美咲/しおい))</title>
         <link>https://speakerdeck.com/coe401_/implementing-plus-plus-operator-stepping-into-parse-dot-y</link>
-        <dc:date>2023-05-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Incident Manager触ってみた (コムコム)</title>
-        <link>https://speakerdeck.com/komkom/incident-managerhong-tutemita</link>
         <dc:date>2023-05-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
