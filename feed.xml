@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Multiverse Ruby (Chris Salzberg)</title>
+        <link>https://speakerdeck.com/shioyama/multiverse-ruby</link>
+        <dc:date>2023-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Parsing RBS (Soutaro Matsumoto)</title>
+        <link>https://speakerdeck.com/soutaro/parsing-rbs</link>
+        <dc:date>2023-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[Minecraft × ChatGPT] マイクラで作りたいものを伝えると魔法のように作ってくれるコマンドを作る  (ryo)</title>
         <link>https://speakerdeck.com/kawamataryo/minecraft-x-chatgpt-maikuradezuo-ritaimonowochuan-erutomo-fa-noyounizuo-tutekurerukomandowozuo-ru</link>
         <dc:date>2023-05-14T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AWSからエグゼクティブミーティングをしたいと言われたら (Toshiya Nakamura)</title>
         <link>https://speakerdeck.com/nakamu_ryukyu/awskaraeguzekuteibumiteinguwositaitoyan-waretara</link>
-        <dc:date>2023-05-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Summitを戦略的に楽しむ方法 / How to Enjoy AWS Summit Strategically (Yuji Oshima)</title>
-        <link>https://speakerdeck.com/yuj1osm/how-to-enjoy-aws-summit-strategically</link>
-        <dc:date>2023-05-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Design Doc の書き方 / How to Write a Design Doc (Ja ver.) (Munetoshi Ishikawa)</title>
-        <link>https://speakerdeck.com/munetoshi/how-to-write-a-design-doc-ja-ver-dot</link>
         <dc:date>2023-05-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
