@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Load gem from browsr (shigeru. nakajima)</title>
+        <link>https://speakerdeck.com/ledsun/load-gem-from-browsr</link>
+        <dc:date>2023-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Multiverse Ruby (Chris Salzberg)</title>
         <link>https://speakerdeck.com/shioyama/multiverse-ruby</link>
         <dc:date>2023-05-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Incident Manager触ってみた (コムコム)</title>
         <link>https://speakerdeck.com/komkom/incident-managerhong-tutemita</link>
-        <dc:date>2023-05-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSからエグゼクティブミーティングをしたいと言われたら (Toshiya Nakamura)</title>
-        <link>https://speakerdeck.com/nakamu_ryukyu/awskaraeguzekuteibumiteinguwositaitoyan-waretara</link>
         <dc:date>2023-05-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
