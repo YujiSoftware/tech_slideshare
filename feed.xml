@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ChatGPT 時代の勉強 / Learning under ChatGPT era (Elvis Shi)</title>
+        <link>https://speakerdeck.com/lovee/learning-under-chatgpt-era</link>
+        <dc:date>2023-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby JIT Hacking Guide / RubyKaigi 2023 (Takashi Kokubun)</title>
         <link>https://speakerdeck.com/k0kubun/rubykaigi-2023</link>
         <dc:date>2023-05-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コンテナ研修（Kubernetes編）【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2023-container-training-number-02-kubernetes</link>
-        <dc:date>2023-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unexplored Region - parse.y - (yui-knk)</title>
-        <link>https://speakerdeck.com/yui_knk/unexplored-region-parse-dot-y</link>
         <dc:date>2023-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
