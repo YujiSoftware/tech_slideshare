@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby JIT Hacking Guide / RubyKaigi 2023 (Takashi Kokubun)</title>
+        <link>https://speakerdeck.com/k0kubun/rubykaigi-2023</link>
+        <dc:date>2023-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OpenAI API を使って 会話形式の入力文から、 ジオコーディングしてみた</title>
         <link>https://docs.google.com/presentation/d/15ALUB_s6I0wObixWU1wHSKom-0mPAOjLxaRmWtupRyQ/preview</link>
         <dc:date>2023-05-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Unexplored Region - parse.y - (yui-knk)</title>
         <link>https://speakerdeck.com/yui_knk/unexplored-region-parse-dot-y</link>
-        <dc:date>2023-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>R言語入門 (R-4.2.3 2023年4月版) / introduction to r (Uryu Shinya)</title>
-        <link>https://speakerdeck.com/s_uryu/introduction-to-r</link>
         <dc:date>2023-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
