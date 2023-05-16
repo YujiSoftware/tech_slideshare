@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テクニカルサポートのお仕事 (sugitk)</title>
+        <link>https://speakerdeck.com/sugitk/tekunikarusapotonooshi-shi</link>
+        <dc:date>2023-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コンテナ研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2023-container-training-number-01</link>
         <dc:date>2023-05-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データエンジニアを助けてくれるFivetranとSnowflakeの仕様＆機能のご紹介 (Sagara)</title>
         <link>https://speakerdeck.com/sagara/detaenziniawozhu-ketekurerufivetrantosnowflakenoshi-yang-and-ji-neng-nogoshao-jie</link>
-        <dc:date>2023-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Resurrection of  the Fast Parallel Test Runner (Koichi ITO)</title>
-        <link>https://speakerdeck.com/koic/the-resurrection-of-the-fast-parallel-test-runner</link>
         <dc:date>2023-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
