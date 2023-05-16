@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コンテナ研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2023-container-training-number-01</link>
+        <dc:date>2023-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Git入門 (mina)</title>
         <link>https://speakerdeck.com/silmin_/gitru-men</link>
         <dc:date>2023-05-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>The Resurrection of  the Fast Parallel Test Runner (Koichi ITO)</title>
         <link>https://speakerdeck.com/koic/the-resurrection-of-the-fast-parallel-test-runner</link>
         <dc:date>2023-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Collaborative AI: 視覚・言語・行動の融合 (Kyosuke Nishida)</title>
-        <link>https://speakerdeck.com/kyoun/collaborativeai</link>
-        <dc:date>2023-05-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
