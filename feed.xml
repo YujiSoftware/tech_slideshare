@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>『スタディサプリ』における SLI/SLO の継続的改善 / Continuous improvement of SLI/SLO at StudySapuri (Takeshi Kondo)</title>
+        <link>https://speakerdeck.com/chaspy/slo-at-studysapuri</link>
+        <dc:date>2023-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPT 時代の勉強 / Learning under ChatGPT era (Elvis Shi)</title>
         <link>https://speakerdeck.com/lovee/learning-under-chatgpt-era</link>
         <dc:date>2023-05-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>The future vision of Ruby Parser (yui-knk)</title>
         <link>https://speakerdeck.com/yui_knk/the-future-vision-of-ruby-parser</link>
         <dc:date>2023-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテナ研修（Kubernetes編）【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2023-container-training-number-02-kubernetes</link>
-        <dc:date>2023-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
