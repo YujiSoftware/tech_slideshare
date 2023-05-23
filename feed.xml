@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェアエンジニアリングサバイバルガイド:  廃墟を直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す</title>
+        <link>https://docs.google.com/presentation/u/0/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/preview</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Snowflake リーダーアカウントを利用したデータ共有について (bergkamp)</title>
         <link>https://speakerdeck.com/bergkamp/snowflake-ridaakauntowoli-yong-sitadetagong-you-nituite</link>
         <dc:date>2023-05-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Stable Diffusion Web UI, Let Your Fave Eat Ramen (payanotty)</title>
         <link>https://speakerdeck.com/payanotty/stable-diffusion-web-ui-let-your-fave-eat-ramen</link>
-        <dc:date>2023-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GPTによる薬歴の自動生成のPoC (PharmaX（旧YOJO Technologies）開発チーム)</title>
-        <link>https://speakerdeck.com/pharma_x_tech/gptniyoruyao-li-nozi-dong-sheng-cheng-nopoc</link>
         <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
