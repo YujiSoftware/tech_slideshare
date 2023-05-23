@@ -6,103 +6,103 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
-        <title>ノートと一緒に楽しく進めるスタイル (Fumiya Sakai)</title>
-        <link>https://speakerdeck.com/fumiyasac0921/nototo-xu-nile-sikujin-merusutairu</link>
-        <dc:date>2023-05-16T15:00:00Z</dc:date>
+        <title>Snowflake リーダーアカウントを利用したデータ共有について (bergkamp)</title>
+        <link>https://speakerdeck.com/bergkamp/snowflake-ridaakauntowoli-yong-sitadetagong-you-nituite</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>失敗から学ぶ 技術的負債との正しい歩き方 / learn from predecessors (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/learn-from-predecessors</link>
-        <dc:date>2023-05-15T15:00:00Z</dc:date>
+        <title>Snowflake×dbt×Terraformでモダンなデータ基盤開発してみた (Kosaku Ono)</title>
+        <link>https://speakerdeck.com/kevinrobot34/snowflake-dbt-terraform</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>AI 開発への未来へ備えよ！Platform Engineering と GitHub を使った開発 (Yuki Hattori)</title>
-        <link>https://speakerdeck.com/yuhattor/platform-engineering-and-innersource</link>
-        <dc:date>2023-05-15T15:00:00Z</dc:date>
+        <title>データプロバイダ側から見たSnowflake Marketplace (Toshikuni)</title>
+        <link>https://speakerdeck.com/toshikunifuji/detapurobaidace-karajian-tasnowflake-marketplace</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>『スタディサプリ』における SLI/SLO の継続的改善 / Continuous improvement of SLI/SLO at StudySapuri (Takeshi Kondo)</title>
-        <link>https://speakerdeck.com/chaspy/slo-at-studysapuri</link>
-        <dc:date>2023-05-15T15:00:00Z</dc:date>
+        <title>230517chatGPT (skume)</title>
+        <link>https://speakerdeck.com/skume/230517chatgpt</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>ChatGPT 時代の勉強 / Learning under ChatGPT era (Elvis Shi)</title>
-        <link>https://speakerdeck.com/lovee/learning-under-chatgpt-era</link>
-        <dc:date>2023-05-15T15:00:00Z</dc:date>
+        <title>アフリカに広がるサービスをすばやくApp Runnerで本番構築 (Degas)</title>
+        <link>https://speakerdeck.com/degas/ahurikaniguang-garusabisuwosubayakuapp-runnerdeben-fan-gou-zhu</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Ruby JIT Hacking Guide / RubyKaigi 2023 (Takashi Kokubun)</title>
-        <link>https://speakerdeck.com/k0kubun/rubykaigi-2023</link>
-        <dc:date>2023-05-15T15:00:00Z</dc:date>
+        <title>ElixirImp#31_書籍【Elixir実践ガイド】の写経の感想_20230517 (k-abe@組み込みソフトウェアの人,@juraruming)</title>
+        <link>https://www.docswell.com/s/juraruming/5GXLMD-2023-05-17-124330</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>OpenAI API を使って 会話形式の入力文から、 ジオコーディングしてみた</title>
-        <link>https://docs.google.com/presentation/d/15ALUB_s6I0wObixWU1wHSKom-0mPAOjLxaRmWtupRyQ/preview</link>
-        <dc:date>2023-05-15T15:00:00Z</dc:date>
+        <title>ElixirImp#31_書籍【Elixir実践ガイド】の写経の感想 (k-abe)</title>
+        <link>https://speakerdeck.com/kabe/elixirimp-number-31-shu-ji-elixirshi-jian-kaito-noxie-jing-nogan-xiang</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>テクニカルサポートのお仕事 (sugitk)</title>
-        <link>https://speakerdeck.com/sugitk/tekunikarusapotonooshi-shi</link>
-        <dc:date>2023-05-15T15:00:00Z</dc:date>
+        <title>Babylon.jsで作ってみた (ricky)</title>
+        <link>https://www.docswell.com/s/kkron4221/KW1XY1-2023-05-18-101455</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>コンテナ研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2023-container-training-number-01</link>
-        <dc:date>2023-05-15T15:00:00Z</dc:date>
+        <title>230517_移動駆動オフラインイベント (@jun_mh4g　,@jun_mh4g)</title>
+        <link>https://www.docswell.com/s/jun_mh4g/K6YG84-2023-05-18-013027</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Git入門 (mina)</title>
-        <link>https://speakerdeck.com/silmin_/gitru-men</link>
-        <dc:date>2023-05-15T15:00:00Z</dc:date>
+        <title>Geospatial APIの新機能とGeospatial Creator速報 (きっポジ@kitposition,@kitposition)</title>
+        <link>https://www.docswell.com/s/kitposition/KENEVJ-2023-05-17-224909</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Platform Engineering at Mercari (taichi nakashima)</title>
-        <link>https://speakerdeck.com/tcnksm/platform-engineering-at-mercari</link>
-        <dc:date>2023-05-14T15:00:00Z</dc:date>
+        <title>ちょっと試したい &amp;amp; 調査中のXR関連のライブラリ (Miyaura,@takabrz1)</title>
+        <link>https://www.docswell.com/s/m-taka596/5M1729-XRMTG-XR-Libraries_20230517</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Flutter研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2023-flutter-training</link>
-        <dc:date>2023-05-14T15:00:00Z</dc:date>
+        <title>XRミーティング 20230517 (1ft-seabass)</title>
+        <link>https://speakerdeck.com/1ftseabass/xr-meeting-20230517</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Let's write RBS! (pocke)</title>
-        <link>https://speakerdeck.com/pocke/lets-write-rbs</link>
-        <dc:date>2023-05-14T15:00:00Z</dc:date>
+        <title>Holoニュースとか(2023/5)</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vS6xPNU-uq8zXfNH-00scwVgcc8EpgReWW-ZuuEEugZBTLYajOB7VkIS5WZnko1D0Tzx6zvgCBUmUXd/pub</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Load gem from browsr (shigeru. nakajima)</title>
-        <link>https://speakerdeck.com/ledsun/load-gem-from-browsr</link>
-        <dc:date>2023-05-14T15:00:00Z</dc:date>
+        <title>Nuxt 3でElement Plusを使ってみた (Munieru)</title>
+        <link>https://speakerdeck.com/munieru_jp/nuxt-3-with-element-plus</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Multiverse Ruby (Chris Salzberg)</title>
-        <link>https://speakerdeck.com/shioyama/multiverse-ruby</link>
-        <dc:date>2023-05-14T15:00:00Z</dc:date>
+        <title>ChatGPTで何が改善できるのか？ (Jun Komori)</title>
+        <link>https://speakerdeck.com/jun_komori/chatgptdehe-gagai-shan-dekirunoka</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Parsing RBS (Soutaro Matsumoto)</title>
-        <link>https://speakerdeck.com/soutaro/parsing-rbs</link>
-        <dc:date>2023-05-14T15:00:00Z</dc:date>
+        <title>初めてのPSI試験 with Vault Associate (Hiroki Matsumoto)</title>
+        <link>https://speakerdeck.com/hirokimatsumoto/chu-metenopsishi-yan-with-vault-associate</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>[Minecraft × ChatGPT] マイクラで作りたいものを伝えると魔法のように作ってくれるコマンドを作る  (ryo)</title>
-        <link>https://speakerdeck.com/kawamataryo/minecraft-x-chatgpt-maikuradezuo-ritaimonowochuan-erutomo-fa-noyounizuo-tutekurerukomandowozuo-ru</link>
-        <dc:date>2023-05-14T15:00:00Z</dc:date>
+        <title>NeuralSeek_20230518 (Takahiro Esaki)</title>
+        <link>https://speakerdeck.com/tkhresk/neuralseek-20230518</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Firebase &amp; Flutter ハンズオン(2023/04/09)</title>
-        <link>https://docs.google.com/presentation/d/1LPlbw2TDLjdER9MpNSuVqOByLhDXiFgoYl8_S8xtAJY/preview</link>
-        <dc:date>2023-05-14T15:00:00Z</dc:date>
+        <title>LlamaIndex で Text-to-SQL 100 本ノック！ (os1ma)</title>
+        <link>https://speakerdeck.com/os1ma/llamaindex-de-text-to-sql-100-ben-notuku</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>7年使ったRedshiftから6ヶ月かけてSnowflakeへ移行した話　〜手の内全部お見せします〜 (Motoi Kataoka)</title>
-        <link>https://speakerdeck.com/motoy3d/migrating-from-redshift-to-snowflake</link>
-        <dc:date>2023-05-13T15:00:00Z</dc:date>
+        <title>Stable Diffusion Web UI, Let Your Fave Eat Ramen (payanotty)</title>
+        <link>https://speakerdeck.com/payanotty/stable-diffusion-web-ui-let-your-fave-eat-ramen</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Learn Ractor (seki at druby.org)</title>
-        <link>https://speakerdeck.com/m_seki/learn-ractor</link>
-        <dc:date>2023-05-13T15:00:00Z</dc:date>
+        <title>GPTによる薬歴の自動生成のPoC (PharmaX（旧YOJO Technologies）開発チーム)</title>
+        <link>https://speakerdeck.com/pharma_x_tech/gptniyoruyao-li-nozi-dong-sheng-cheng-nopoc</link>
+        <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
