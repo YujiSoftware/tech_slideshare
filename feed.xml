@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GoのGenericsを活用する (syumai)</title>
+        <link>https://speakerdeck.com/syumai/gonogenericswohuo-yong-suru</link>
+        <dc:date>2023-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>統計的因果探索の概要と役割 (Shohei SHIMIZU)</title>
         <link>https://speakerdeck.com/sshimizu2006/tong-ji-de-yin-guo-tan-suo-nogai-shuo</link>
         <dc:date>2023-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Holoニュースとか(2023/5)</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vS6xPNU-uq8zXfNH-00scwVgcc8EpgReWW-ZuuEEugZBTLYajOB7VkIS5WZnko1D0Tzx6zvgCBUmUXd/pub</link>
-        <dc:date>2023-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nuxt 3でElement Plusを使ってみた (Munieru)</title>
-        <link>https://speakerdeck.com/munieru_jp/nuxt-3-with-element-plus</link>
         <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
