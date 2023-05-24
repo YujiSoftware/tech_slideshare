@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>クリエイターと生成AI</title>
+        <link>https://docs.google.com/presentation/d/1nov2MnLn047sJ1nNFS7OEmWkJYlkQz2ThoaCbf1eWII/preview</link>
+        <dc:date>2023-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>人にやさしいって何だろう？Management 3.0と私のマネジメントジャーニー/Understanding Human-Friendly Management: My Journey with Management 3.0 (masafumi takarada)</title>
         <link>https://speakerdeck.com/takarada/understanding-human-friendly-management-my-journey-with-management-3-dot-0</link>
         <dc:date>2023-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>NeuralSeek_20230518 (Takahiro Esaki)</title>
         <link>https://speakerdeck.com/tkhresk/neuralseek-20230518</link>
-        <dc:date>2023-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LlamaIndex で Text-to-SQL 100 本ノック！ (os1ma)</title>
-        <link>https://speakerdeck.com/os1ma/llamaindex-de-text-to-sql-100-ben-notuku</link>
         <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
