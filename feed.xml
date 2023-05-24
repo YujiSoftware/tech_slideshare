@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人にやさしいって何だろう？Management 3.0と私のマネジメントジャーニー/Understanding Human-Friendly Management: My Journey with Management 3.0 (masafumi takarada)</title>
+        <link>https://speakerdeck.com/takarada/understanding-human-friendly-management-my-journey-with-management-3-dot-0</link>
+        <dc:date>2023-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアエンジニアリングサバイバルガイド:  廃墟を直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す</title>
         <link>https://docs.google.com/presentation/u/0/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/preview</link>
         <dc:date>2023-05-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LlamaIndex で Text-to-SQL 100 本ノック！ (os1ma)</title>
         <link>https://speakerdeck.com/os1ma/llamaindex-de-text-to-sql-100-ben-notuku</link>
-        <dc:date>2023-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Stable Diffusion Web UI, Let Your Fave Eat Ramen (payanotty)</title>
-        <link>https://speakerdeck.com/payanotty/stable-diffusion-web-ui-let-your-fave-eat-ramen</link>
         <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
