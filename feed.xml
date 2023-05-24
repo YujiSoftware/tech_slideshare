@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>New Relic Service LevelsとバーンレートアラートをCDK for Terraformで設定してSLOモニタリングをセルフサービス化した話 (Yuki Ando,@integrated1453)</title>
+        <link>https://www.docswell.com/s/integrated1453/57VGW1-New-Relic-Service-Levels</link>
+        <dc:date>2023-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CyberAgent AI事業本部MLOps研修応用編 (Satsuki Nagae)</title>
+        <link>https://speakerdeck.com/nsakki55/cyberagent-aishi-ye-ben-bu-mlopsyan-xiu-ying-yong-bian</link>
+        <dc:date>2023-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クリエイターと生成AI</title>
         <link>https://docs.google.com/presentation/d/1nov2MnLn047sJ1nNFS7OEmWkJYlkQz2ThoaCbf1eWII/preview</link>
         <dc:date>2023-05-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ChatGPTで何が改善できるのか？ (Jun Komori)</title>
         <link>https://speakerdeck.com/jun_komori/chatgptdehe-gagai-shan-dekirunoka</link>
-        <dc:date>2023-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初めてのPSI試験 with Vault Associate (Hiroki Matsumoto)</title>
-        <link>https://speakerdeck.com/hirokimatsumoto/chu-metenopsishi-yan-with-vault-associate</link>
-        <dc:date>2023-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NeuralSeek_20230518 (Takahiro Esaki)</title>
-        <link>https://speakerdeck.com/tkhresk/neuralseek-20230518</link>
         <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
