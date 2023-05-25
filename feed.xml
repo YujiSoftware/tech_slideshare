@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テスト設計チュートリアル/Test Design Tutorial (Hiroki Iseri)</title>
+        <link>https://speakerdeck.com/goyoki/test-design-tutorial</link>
+        <dc:date>2023-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GoのGenericsを活用する (syumai)</title>
         <link>https://speakerdeck.com/syumai/gonogenericswohuo-yong-suru</link>
         <dc:date>2023-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>XRミーティング 20230517 (1ft-seabass)</title>
         <link>https://speakerdeck.com/1ftseabass/xr-meeting-20230517</link>
-        <dc:date>2023-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Holoニュースとか(2023/5)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vS6xPNU-uq8zXfNH-00scwVgcc8EpgReWW-ZuuEEugZBTLYajOB7VkIS5WZnko1D0Tzx6zvgCBUmUXd/pub</link>
         <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
