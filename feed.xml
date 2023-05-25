@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>トラブルシューティングから Linux カーネルに潜り込む (Hiroya Ito)</title>
+        <link>https://speakerdeck.com/hiboma/linux-kernel-trouble-shooting</link>
+        <dc:date>2023-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PAKDD2023 Tutorial 2: A Gentle Introduction to Technologies Behind Language Models and Recent Achievement in ChatGPT (Parts 3 and 4) (Kyosuke Nishida)</title>
         <link>https://speakerdeck.com/kyoun/pakdd2023-tutorial</link>
         <dc:date>2023-05-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Geospatial APIの新機能とGeospatial Creator速報 (きっポジ@kitposition,@kitposition)</title>
         <link>https://www.docswell.com/s/kitposition/KENEVJ-2023-05-17-224909</link>
-        <dc:date>2023-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ちょっと試したい &amp;amp; 調査中のXR関連のライブラリ (Miyaura,@takabrz1)</title>
-        <link>https://www.docswell.com/s/m-taka596/5M1729-XRMTG-XR-Libraries_20230517</link>
         <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
