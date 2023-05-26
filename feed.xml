@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Get started with OSS contributions (Takumi Shotoku)</title>
+        <link>https://speakerdeck.com/sinsoku/get-started-with-oss-contributions</link>
+        <dc:date>2023-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPT LT大会 2023/05/25</title>
         <link>https://docs.google.com/presentation/d/1oX-Iz57XKIpq6uJeYvv60vDgME07rYwzYaatAiqsB_Y/preview</link>
         <dc:date>2023-05-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ElixirImp#31_書籍【Elixir実践ガイド】の写経の感想_20230517 (k-abe@組み込みソフトウェアの人,@juraruming)</title>
         <link>https://www.docswell.com/s/juraruming/5GXLMD-2023-05-17-124330</link>
-        <dc:date>2023-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ElixirImp#31_書籍【Elixir実践ガイド】の写経の感想 (k-abe)</title>
-        <link>https://speakerdeck.com/kabe/elixirimp-number-31-shu-ji-elixirshi-jian-kaito-noxie-jing-nogan-xiang</link>
         <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
