@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>C# の async/await は実際にどうやって動いているか (neno)</title>
+        <link>https://speakerdeck.com/nenonaninu/await-hashi-ji-nidouyatutedong-iteiruka</link>
+        <dc:date>2023-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>太田博三 (太田 博三)</title>
         <link>https://speakerdeck.com/otanet/tai-tian-bo-san-4e2c89a2-419e-4104-bfec-c33dc2a112b7</link>
         <dc:date>2023-05-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Snowflake×dbt×Terraformでモダンなデータ基盤開発してみた (Kosaku Ono)</title>
         <link>https://speakerdeck.com/kevinrobot34/snowflake-dbt-terraform</link>
-        <dc:date>2023-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データプロバイダ側から見たSnowflake Marketplace (Toshikuni)</title>
-        <link>https://speakerdeck.com/toshikunifuji/detapurobaidace-karajian-tasnowflake-marketplace</link>
         <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
