@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon VPC Lattice を使い始める前におさえておきたいポイント n 選 / Introduction to VPC Lattice (hayao_k)</title>
+        <link>https://speakerdeck.com/hayaok3/introduction-to-vpc-lattice</link>
+        <dc:date>2023-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Stable Diffusion - Image to Prompts (Kazuki Fujikawa)</title>
         <link>https://speakerdeck.com/kfujikawa/stable-diffusion-image-to-prompts</link>
         <dc:date>2023-05-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェアエンジニアリングサバイバルガイド:  廃墟を直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す</title>
         <link>https://docs.google.com/presentation/u/0/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/preview</link>
-        <dc:date>2023-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Snowflake リーダーアカウントを利用したデータ共有について (bergkamp)</title>
-        <link>https://speakerdeck.com/bergkamp/snowflake-ridaakauntowoli-yong-sitadetagong-you-nituite</link>
         <dc:date>2023-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
