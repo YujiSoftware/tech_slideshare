@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI完全初心者でも最新の生成AIの仕組がわかった気になれるプレゼン (Hiroki Shimada)</title>
+        <link>https://speakerdeck.com/shimap_sampo/aiwan-quan-chu-xin-zhe-demozui-xin-nosheng-cheng-ainoshi-zu-gawakatutaqi-ninarerupurezen</link>
+        <dc:date>2023-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新卒研修2023（セキュリティ）- 日本経済新聞社</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vRrXHiZmWhd2Nt-y-5yz0vDzNMG3Hy9zc-fMNTDo3vn5zxr-GvsnknmU0jb7y4w4HtbYtLtT83epBTe/pub</link>
         <dc:date>2023-05-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>統計的因果探索の概要と役割 (Shohei SHIMIZU)</title>
         <link>https://speakerdeck.com/sshimizu2006/tong-ji-de-yin-guo-tan-suo-nogai-shuo</link>
-        <dc:date>2023-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>New Relic Service LevelsとバーンレートアラートをCDK for Terraformで設定してSLOモニタリングをセルフサービス化した話 (Yuki Ando,@integrated1453)</title>
-        <link>https://www.docswell.com/s/integrated1453/57VGW1-New-Relic-Service-Levels</link>
         <dc:date>2023-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
