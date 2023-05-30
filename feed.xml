@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織の立ち上げと体制変更の1年 (tarappo)</title>
+        <link>https://speakerdeck.com/tarappo/zu-zhi-noli-tishang-ketoti-zhi-bian-geng-no1nian</link>
+        <dc:date>2023-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「エンジニアリングで運用を改善する」ためのAmazon CloudWatch活用 (Mitsuaki Tsugo)</title>
         <link>https://speakerdeck.com/mitsuaki96/ensiniarinkuteyun-yong-wogai-shan-suru-tamenoamazon-cloudwatchhuo-yong</link>
         <dc:date>2023-05-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>テスト設計チュートリアル/Test Design Tutorial (Hiroki Iseri)</title>
         <link>https://speakerdeck.com/goyoki/test-design-tutorial</link>
         <dc:date>2023-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoのGenericsを活用する (syumai)</title>
-        <link>https://speakerdeck.com/syumai/gonogenericswohuo-yong-suru</link>
-        <dc:date>2023-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
