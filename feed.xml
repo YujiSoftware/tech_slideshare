@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>UIUXforMR_20230527 (Yoshitomo Iwamoto,@yoshipon13)</title>
+        <link>https://www.docswell.com/s/yoshipon13/K383M2-2023-05-31-010227</link>
+        <dc:date>2023-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MRTK3をLenovoのThink Reality A3上で動かす - Snapdragon Spaces SDKの紹介 (Miyaura,@takabrz1)</title>
+        <link>https://www.docswell.com/s/m-taka596/5Q81GE-THMUP-Snapdragon-Spaces-MRTK3-20230527</link>
+        <dc:date>2023-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>HoloLensMeetup_v33_Iwamoto_202305 (Yoshitomo Iwamoto,@yoshipon13)</title>
+        <link>https://www.docswell.com/s/yoshipon13/58G1VX-2023-05-31-005929</link>
+        <dc:date>2023-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Recap: eBPF セッションつまみ食い / eBPF sessions @ KubeCon EU 2023 (Takashi Kusumi)</title>
+        <link>https://speakerdeck.com/tksm/ebpf-sessions-at-kubecon-eu-2023</link>
+        <dc:date>2023-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクトの成長をリードする生成系 AI の活用戦略 (Takahiro Kubo)</title>
         <link>https://speakerdeck.com/icoxfog417/purodakutonocheng-chang-woridosurusheng-cheng-xi-ai-nohuo-yong-zhan-lue</link>
         <dc:date>2023-05-29T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>Get started with OSS contributions (Takumi Shotoku)</title>
         <link>https://speakerdeck.com/sinsoku/get-started-with-oss-contributions</link>
         <dc:date>2023-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPT LT大会 2023/05/25</title>
-        <link>https://docs.google.com/presentation/d/1oX-Iz57XKIpq6uJeYvv60vDgME07rYwzYaatAiqsB_Y/preview</link>
-        <dc:date>2023-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ジェネレーティブAI実践入門/20230524 (吉田真吾)</title>
-        <link>https://speakerdeck.com/yoshidashingo/20230524</link>
-        <dc:date>2023-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カーネルコードの歩き方 (Satoru Takeuchi)</title>
-        <link>https://speakerdeck.com/sat/kanerukodonobu-kifang</link>
-        <dc:date>2023-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>トラブルシューティングから Linux カーネルに潜り込む (Hiroya Ito)</title>
-        <link>https://speakerdeck.com/hiboma/linux-kernel-trouble-shooting</link>
-        <dc:date>2023-05-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
