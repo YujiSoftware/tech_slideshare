@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Webエンジニアに転生したらCSS魔導士になった件 (Satoshi Komatsu)</title>
+        <link>https://speakerdeck.com/satoshi7190/webensinianizhuan-sheng-sitaracssmo-dao-shi-ninatutajian</link>
+        <dc:date>2023-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>microCMS AI (microCMS)</title>
         <link>https://speakerdeck.com/microcms/microcms-ai</link>
         <dc:date>2023-05-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>IBM Cloud PLUS -＃5 バックアップ関連サービス (Alex)</title>
         <link>https://speakerdeck.com/alex2022/ibm-cloud-plus-number-5-hatukuatuhuguan-lian-sahisu</link>
-        <dc:date>2023-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>全AWSエンジニアに捧ぐ、CloudWatch 設計・運用 虎の巻 / CloudWatch design and operation bible (iselegant)</title>
-        <link>https://speakerdeck.com/iselegant/cloudwatch-design-and-operation-bible</link>
         <dc:date>2023-05-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
