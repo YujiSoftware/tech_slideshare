@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>microCMS AI (microCMS)</title>
+        <link>https://speakerdeck.com/microcms/microcms-ai</link>
+        <dc:date>2023-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>microCMSのエンジニア組織と文化 (microCMS)</title>
+        <link>https://speakerdeck.com/microcms/microcmsnoenziniazu-zhi-towen-hua</link>
+        <dc:date>2023-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新リリース：microCMSテンプレート (microCMS)</title>
+        <link>https://speakerdeck.com/microcms/xin-ririsu-microcmstenpureto</link>
+        <dc:date>2023-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>シン・リッチエディタ徹底解説 (microCMS)</title>
+        <link>https://speakerdeck.com/microcms/sinritutiedeitache-di-jie-shuo</link>
+        <dc:date>2023-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPTとNoteableによる科学技術情報分析 (hayataka)</title>
         <link>https://speakerdeck.com/hayataka88/chatgpttonoteableniyoruke-xue-ji-shu-qing-bao-fen-xi</link>
         <dc:date>2023-05-31T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>全AWSエンジニアに捧ぐ、CloudWatch 設計・運用 虎の巻 / CloudWatch design and operation bible (iselegant)</title>
         <link>https://speakerdeck.com/iselegant/cloudwatch-design-and-operation-bible</link>
         <dc:date>2023-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTとの付き合い方 (中川裕志)</title>
-        <link>https://speakerdeck.com/hiroshinakagawa/chatgpttonofu-kihe-ifang</link>
-        <dc:date>2023-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon VPC Lattice を使い始める前におさえておきたいポイント n 選 / Introduction to VPC Lattice (hayao_k)</title>
-        <link>https://speakerdeck.com/hayaok3/introduction-to-vpc-lattice</link>
-        <dc:date>2023-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Stable Diffusion - Image to Prompts (Kazuki Fujikawa)</title>
-        <link>https://speakerdeck.com/kfujikawa/stable-diffusion-image-to-prompts</link>
-        <dc:date>2023-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C# の async/await は実際にどうやって動いているか (neno)</title>
-        <link>https://speakerdeck.com/nenonaninu/await-hashi-ji-nidouyatutedong-iteiruka</link>
-        <dc:date>2023-05-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
