@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ぼくのゆめ (ばいそに)</title>
+        <link>https://speakerdeck.com/kawaikutegomen/bokunoyume</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Blueskyのいろいろ作ってみた (Takuma Shinohara)</title>
+        <link>https://speakerdeck.com/shinoharata/blueskynoiroirozuo-tutemita</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Blueskyの「今」がわかる！Bot (lamrongol)</title>
+        <link>https://speakerdeck.com/lamrongol/blueskyno-jin-gawakaru-bot</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>羽衣～Hagoromo～の紹介 (Iori AYANE)</title>
+        <link>https://speakerdeck.com/ioriayane/yu-yi-hagoromo-noshao-jie</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[Bluesky/ATProtocol 勉強会] bsky4j &amp; SocialHub の紹介 (Akihiro Urushihara)</title>
+        <link>https://speakerdeck.com/uakihir0/atprotocol-mian-qiang-hui-bsky4j-and-socialhub-noshao-jie</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Blueskyちゃん作った話 (kojira)</title>
+        <link>https://speakerdeck.com/kojira/blueskytiyanzuo-tutahua</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラウド型WAFのインフラと カスタマーイメージ (panoramaafro)</title>
+        <link>https://speakerdeck.com/panoramaafro/kuraudoxing-wafnoinhurato-kasutamaimezi</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>資格を60個以上取得してみて。中長期的に役にたった場面 (Toru_Kubota)</title>
+        <link>https://speakerdeck.com/toru_kubota/zi-ge-wo60ge-yi-shang-qu-de-sitemite-zhong-chang-qi-de-niyi-nitatutachang-mian</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS の Web サイト運用費用を約 1/40 に抑えた話 (Kenjiro Hirata)</title>
+        <link>https://speakerdeck.com/njiro/40-niyi-etahua</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>net/http/httptest.Server のアプローチをテスト戦略に活用する / Go Conference 2023 (Ken’ichiro Oyama)</title>
+        <link>https://speakerdeck.com/k1low/go-conference-2023</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>高速な深層学習モデルアーキテクチャ2023 (yu4u)</title>
         <link>https://speakerdeck.com/yu4u/gao-su-nashen-ceng-xue-xi-moteruakitekutiya2023</link>
         <dc:date>2023-06-01T15:00:00Z</dc:date>
@@ -54,55 +104,5 @@
         <title>microCMSのエンジニア組織と文化 (microCMS)</title>
         <link>https://speakerdeck.com/microcms/microcmsnoenziniazu-zhi-towen-hua</link>
         <dc:date>2023-05-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新リリース：microCMSテンプレート (microCMS)</title>
-        <link>https://speakerdeck.com/microcms/xin-ririsu-microcmstenpureto</link>
-        <dc:date>2023-05-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シン・リッチエディタ徹底解説 (microCMS)</title>
-        <link>https://speakerdeck.com/microcms/sinritutiedeitache-di-jie-shuo</link>
-        <dc:date>2023-05-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTとNoteableによる科学技術情報分析 (hayataka)</title>
-        <link>https://speakerdeck.com/hayataka88/chatgpttonoteableniyoruke-xue-ji-shu-qing-bao-fen-xi</link>
-        <dc:date>2023-05-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>New Era of Computing - ChatGPT がもたらした新時代 (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
-        <link>https://speakerdeck.com/dahatake/new-era-of-computing-chatgpt-gamotarasitaxin-shi-dai-3836814a-133a-4879-91e4-1c036b194718</link>
-        <dc:date>2023-05-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to Write Robust Python Code (HayaoSuzuki)</title>
-        <link>https://speakerdeck.com/hayaosuzuki/how-to-write-robust-python-code</link>
-        <dc:date>2023-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「推測するな、計測せよ」 〜小さく始める生産性可視化と分析〜 (Naoto Sato)</title>
-        <link>https://speakerdeck.com/naopr/tui-ce-suruna-ji-ce-seyo-xiao-sakushi-merusheng-chan-xing-ke-shi-hua-tofen-xi</link>
-        <dc:date>2023-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UIUXforMR_20230527 (Yoshitomo Iwamoto,@yoshipon13)</title>
-        <link>https://www.docswell.com/s/yoshipon13/K383M2-2023-05-31-010227</link>
-        <dc:date>2023-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MRTK3をLenovoのThink Reality A3上で動かす - Snapdragon Spaces SDKの紹介 (Miyaura,@takabrz1)</title>
-        <link>https://www.docswell.com/s/m-taka596/5Q81GE-THMUP-Snapdragon-Spaces-MRTK3-20230527</link>
-        <dc:date>2023-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HoloLensMeetup_v33_Iwamoto_202305 (Yoshitomo Iwamoto,@yoshipon13)</title>
-        <link>https://www.docswell.com/s/yoshipon13/58G1VX-2023-05-31-005929</link>
-        <dc:date>2023-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Recap: eBPF セッションつまみ食い / eBPF sessions @ KubeCon EU 2023 (Takashi Kusumi)</title>
-        <link>https://speakerdeck.com/tksm/ebpf-sessions-at-kubecon-eu-2023</link>
-        <dc:date>2023-05-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
