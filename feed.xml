@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「Go Style Guide」から学んだ可読性の高いコードの書き方 (ANDPAD inc)</title>
+        <link>https://speakerdeck.com/andpad/go-style-guide-karaxue-ndake-du-xing-nogao-ikodonoshu-kifang</link>
+        <dc:date>2023-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>バクラクのAI-OCR機能の体験を支える良質なデータセット作成の仕組み / data-centric-ai-bakuraku-dataset (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/data-centric-ai-bakuraku-dataset</link>
         <dc:date>2023-06-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「エンジニアリングで運用を改善する」ためのAmazon CloudWatch活用 (Mitsuaki Tsugo)</title>
         <link>https://speakerdeck.com/mitsuaki96/ensiniarinkuteyun-yong-wogai-shan-suru-tamenoamazon-cloudwatchhuo-yong</link>
-        <dc:date>2023-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI完全初心者でも最新の生成AIの仕組がわかった気になれるプレゼン (Hiroki Shimada)</title>
-        <link>https://speakerdeck.com/shimap_sampo/aiwan-quan-chu-xin-zhe-demozui-xin-nosheng-cheng-ainoshi-zu-gawakatutaqi-ninarerupurezen</link>
         <dc:date>2023-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
