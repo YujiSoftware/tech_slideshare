@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TinyGo で作る自作キーボードの世界</title>
+        <link>https://docs.google.com/presentation/d/19RH9-LhK1vB0Wei_h6qEXPwSaD5szdAx16nTL6sq6Zo/preview</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ぼくのゆめ (ばいそに)</title>
         <link>https://speakerdeck.com/kawaikutegomen/bokunoyume</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>microCMS AI (microCMS)</title>
         <link>https://speakerdeck.com/microcms/microcms-ai</link>
-        <dc:date>2023-05-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>microCMSのエンジニア組織と文化 (microCMS)</title>
-        <link>https://speakerdeck.com/microcms/microcmsnoenziniazu-zhi-towen-hua</link>
         <dc:date>2023-05-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
