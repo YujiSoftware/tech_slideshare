@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>202304_JBUG_Kgsm.pdf (中窪悟)</title>
+        <link>https://speakerdeck.com/satorun/202304-jbug-kgsm</link>
+        <dc:date>2023-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VUCAの時代にプロダクト開発のためにできること (YasuhiroKimesawa)</title>
+        <link>https://speakerdeck.com/yasuhirokimesawa/vucanoshi-dai-nipurodakutokai-fa-notamenidekirukoto</link>
+        <dc:date>2023-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「Go Style Guide」から学んだ可読性の高いコードの書き方 (ANDPAD inc)</title>
         <link>https://speakerdeck.com/andpad/go-style-guide-karaxue-ndake-du-xing-nogao-ikodonoshu-kifang</link>
         <dc:date>2023-06-01T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>LLMの普及による機械学習の民主化とMLPdMの重要性 / democratization-of-ml-and-importance-of-mlpdm-by-llm (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/democratization-of-ml-and-importance-of-mlpdm-by-llm</link>
-        <dc:date>2023-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組織の立ち上げと体制変更の1年 (tarappo)</title>
-        <link>https://speakerdeck.com/tarappo/zu-zhi-noli-tishang-ketoti-zhi-bian-geng-no1nian</link>
-        <dc:date>2023-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「エンジニアリングで運用を改善する」ためのAmazon CloudWatch活用 (Mitsuaki Tsugo)</title>
-        <link>https://speakerdeck.com/mitsuaki96/ensiniarinkuteyun-yong-wogai-shan-suru-tamenoamazon-cloudwatchhuo-yong</link>
         <dc:date>2023-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
