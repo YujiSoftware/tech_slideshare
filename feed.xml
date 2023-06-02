@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>高速な深層学習モデルアーキテクチャ2023 (yu4u)</title>
+        <link>https://speakerdeck.com/yu4u/gao-su-nashen-ceng-xue-xi-moteruakitekutiya2023</link>
+        <dc:date>2023-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Goのメモリ管理 / Memory management in Go (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/memory-management-in-go</link>
         <dc:date>2023-06-01T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Recap: eBPF セッションつまみ食い / eBPF sessions @ KubeCon EU 2023 (Takashi Kusumi)</title>
         <link>https://speakerdeck.com/tksm/ebpf-sessions-at-kubecon-eu-2023</link>
         <dc:date>2023-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトの成長をリードする生成系 AI の活用戦略 (Takahiro Kubo)</title>
-        <link>https://speakerdeck.com/icoxfog417/purodakutonocheng-chang-woridosurusheng-cheng-xi-ai-nohuo-yong-zhan-lue</link>
-        <dc:date>2023-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
