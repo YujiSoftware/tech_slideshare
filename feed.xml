@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ゲームの抽選ロジックにGenericsを使ってみたら開発が楽になった話 (QualiArts)</title>
+        <link>https://speakerdeck.com/qualiarts/gemunochou-xuan-rozitukunigenericswoshi-tutemitarakai-fa-gale-ninatutahua</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go1.20からサポートされるtree構造のerrの紹介と、treeを考慮した複数マッチができるライブラリを作った話/introduction of tree structure err added since go 1_20 (convto)</title>
+        <link>https://speakerdeck.com/convto/introduction-of-tree-structure-err-added-since-go-1-20</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>多様なプロトコルと 駆動モデルをサポートするIoTゲートウェイの開発と運用の知見 (Takeshi Shinoda)</title>
         <link>https://speakerdeck.com/takesinoda/duo-yang-napurotokoruto-qu-dong-moderuwosapotosuruiotgetoueinokai-fa-toyun-yong-nozhi-jian</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>高速な深層学習モデルアーキテクチャ2023 (yu4u)</title>
         <link>https://speakerdeck.com/yu4u/gao-su-nashen-ceng-xue-xi-moteruakitekutiya2023</link>
-        <dc:date>2023-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goのメモリ管理 / Memory management in Go (ymotongpoo)</title>
-        <link>https://speakerdeck.com/ymotongpoo/memory-management-in-go</link>
-        <dc:date>2023-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>202304_JBUG_Kgsm.pdf (中窪悟)</title>
-        <link>https://speakerdeck.com/satorun/202304-jbug-kgsm</link>
         <dc:date>2023-06-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
