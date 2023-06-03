@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>sync.Mutexの仕組みを理解する (Yoshiki Fujikane)</title>
+        <link>https://speakerdeck.com/ffjlabo/sync-dot-mutexnoshi-zu-miwoli-jie-suru</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>どうしてもcgoから逃げられなくなったあなたに知ってほしいcgoの使い方入門 (H.Saki)</title>
         <link>https://speakerdeck.com/sakiengineer/dousitemocgokaratao-gerarenakunatutaanatanizhi-tutehosiicgonoshi-ifang-ru-men</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS の Web サイト運用費用を約 1/40 に抑えた話 (Kenjiro Hirata)</title>
         <link>https://speakerdeck.com/njiro/40-niyi-etahua</link>
-        <dc:date>2023-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>net/http/httptest.Server のアプローチをテスト戦略に活用する / Go Conference 2023 (Ken’ichiro Oyama)</title>
-        <link>https://speakerdeck.com/k1low/go-conference-2023</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
