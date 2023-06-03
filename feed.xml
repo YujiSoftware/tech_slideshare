@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>初めてのKubernetes (ハンズオン) (NearMeの技術発表資料です)</title>
+        <link>https://speakerdeck.com/nearme_tech/chu-metenokubernetes-hanzuon</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Figmaを使ったマルチプラットフォームサービスのデザイン管理 (Shingo Suzuki)</title>
         <link>https://speakerdeck.com/shingo2000/figmawoshi-tutamarutihuratutohuomusahisunotesainguan-li</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>バクラクのAI-OCR機能の体験を支える良質なデータセット作成の仕組み / data-centric-ai-bakuraku-dataset (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/data-centric-ai-bakuraku-dataset</link>
         <dc:date>2023-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>通知UIを改善している話 (shira)</title>
-        <link>https://speakerdeck.com/shira/tong-zhi-uiwogai-shan-siteiruhua</link>
-        <dc:date>2023-05-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
