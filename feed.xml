@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>多様なプロトコルと 駆動モデルをサポートするIoTゲートウェイの開発と運用の知見 (Takeshi Shinoda)</title>
+        <link>https://speakerdeck.com/takesinoda/duo-yang-napurotokoruto-qu-dong-moderuwosapotosuruiotgetoueinokai-fa-toyun-yong-nozhi-jian</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go/Cgoで映像・音声のリアルタイム処理をやるまでの道のり - Go Conference 2023 (Yusuke Hata)</title>
+        <link>https://speakerdeck.com/octu0/cgodeying-xiang-yin-sheng-noriarutaimuchu-li-woyarumadenodao-nori</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>無理なく始めるGoでのユニットテストの並行化戦略 (Shoki Hata)</title>
         <link>https://speakerdeck.com/shohata/go-conference-2023</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>202304_JBUG_Kgsm.pdf (中窪悟)</title>
         <link>https://speakerdeck.com/satorun/202304-jbug-kgsm</link>
-        <dc:date>2023-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VUCAの時代にプロダクト開発のためにできること (YasuhiroKimesawa)</title>
-        <link>https://speakerdeck.com/yasuhirokimesawa/vucanoshi-dai-nipurodakutokai-fa-notamenidekirukoto</link>
-        <dc:date>2023-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「Go Style Guide」から学んだ可読性の高いコードの書き方 (ANDPAD inc)</title>
-        <link>https://speakerdeck.com/andpad/go-style-guide-karaxue-ndake-du-xing-nogao-ikodonoshu-kifang</link>
         <dc:date>2023-06-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
