@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>どうしてもcgoから逃げられなくなったあなたに知ってほしいcgoの使い方入門 (H.Saki)</title>
+        <link>https://speakerdeck.com/sakiengineer/dousitemocgokaratao-gerarenakunatutaanatanizhi-tutehosiicgonoshi-ifang-ru-men</link>
+        <dc:date>2023-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ゲームの抽選ロジックにGenericsを使ってみたら開発が楽になった話 (QualiArts)</title>
         <link>https://speakerdeck.com/qualiarts/gemunochou-xuan-rozitukunigenericswoshi-tutemitarakai-fa-gale-ninatutahua</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>net/http/httptest.Server のアプローチをテスト戦略に活用する / Go Conference 2023 (Ken’ichiro Oyama)</title>
         <link>https://speakerdeck.com/k1low/go-conference-2023</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>高速な深層学習モデルアーキテクチャ2023 (yu4u)</title>
-        <link>https://speakerdeck.com/yu4u/gao-su-nashen-ceng-xue-xi-moteruakitekutiya2023</link>
-        <dc:date>2023-06-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
