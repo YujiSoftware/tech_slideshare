@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>これだけは知っておきたいクラス設計の基礎知識 (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/koredakehazhi-tuteokitaikurasushe-ji-noji-chu-zhi-shi</link>
+        <dc:date>2023-06-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>sync.Mutexの仕組みを理解する (Yoshiki Fujikane)</title>
         <link>https://speakerdeck.com/ffjlabo/sync-dot-mutexnoshi-zu-miwoli-jie-suru</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>資格を60個以上取得してみて。中長期的に役にたった場面 (Toru_Kubota)</title>
         <link>https://speakerdeck.com/toru_kubota/zi-ge-wo60ge-yi-shang-qu-de-sitemite-zhong-chang-qi-de-niyi-nitatutachang-mian</link>
-        <dc:date>2023-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS の Web サイト運用費用を約 1/40 に抑えた話 (Kenjiro Hirata)</title>
-        <link>https://speakerdeck.com/njiro/40-niyi-etahua</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
