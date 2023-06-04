@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FaaS における Java 起動時間の比較 (AWS / Azure / GCP) #jjug_ccc #jjug_ccc_d (Kihara, Takuya)</title>
+        <link>https://speakerdeck.com/tacck/gcp-number-jjug-ccc-number-jjug-ccc-d</link>
+        <dc:date>2023-06-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20230507_今村謙之_会のご挨拶</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vSUAGWNoZg4en1U7D7EqhZBC-2L3xr1oeM_XuajeWIY2rcPBI-dPWabd-vbAdvm6U_8ht0MzuHU_In5/pub</link>
         <dc:date>2023-06-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[Bluesky/ATProtocol 勉強会] bsky4j &amp; SocialHub の紹介 (Akihiro Urushihara)</title>
         <link>https://speakerdeck.com/uakihir0/atprotocol-mian-qiang-hui-bsky4j-and-socialhub-noshao-jie</link>
-        <dc:date>2023-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Blueskyちゃん作った話 (kojira)</title>
-        <link>https://speakerdeck.com/kojira/blueskytiyanzuo-tutahua</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
