@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Head toward Java 20 and Java 21 (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/head-toward-java-20-and-java-21</link>
+        <dc:date>2023-06-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>FaaS における Java 起動時間の比較 (AWS / Azure / GCP) #jjug_ccc #jjug_ccc_d (Kihara, Takuya)</title>
         <link>https://speakerdeck.com/tacck/gcp-number-jjug-ccc-number-jjug-ccc-d</link>
         <dc:date>2023-06-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>羽衣～Hagoromo～の紹介 (Iori AYANE)</title>
         <link>https://speakerdeck.com/ioriayane/yu-yi-hagoromo-noshao-jie</link>
-        <dc:date>2023-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Bluesky/ATProtocol 勉強会] bsky4j &amp; SocialHub の紹介 (Akihiro Urushihara)</title>
-        <link>https://speakerdeck.com/uakihir0/atprotocol-mian-qiang-hui-bsky4j-and-socialhub-noshao-jie</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
