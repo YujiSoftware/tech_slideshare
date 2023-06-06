@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Java ORマッパー選定のポイント #jsug (tada,@suke_masa)</title>
+        <link>https://www.docswell.com/s/MasatoshiTada/596WW5-how-to-choose-java-orm</link>
+        <dc:date>2023-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Riverpodに機能追加したときの話  (Kota Hayashi)</title>
         <link>https://speakerdeck.com/k9i/riverpodniji-neng-zhui-jia-sitatokinohua</link>
         <dc:date>2023-06-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>初めてのKubernetes (ハンズオン) (NearMeの技術発表資料です)</title>
         <link>https://speakerdeck.com/nearme_tech/chu-metenokubernetes-hanzuon</link>
-        <dc:date>2023-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Figmaを使ったマルチプラットフォームサービスのデザイン管理 (Shingo Suzuki)</title>
-        <link>https://speakerdeck.com/shingo2000/figmawoshi-tutamarutihuratutohuomusahisunotesainguan-li</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
