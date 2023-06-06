@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スタートアップを取り巻く環境について 〜スタートアップとエンジニアリング〜 (memory)</title>
+        <link>https://speakerdeck.com/memory1994/the-environment-surrounding-startups-with-engineering</link>
+        <dc:date>2023-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>手を動かして始めるアクセシビリティ改善 (pastak)</title>
         <link>https://speakerdeck.com/pastak/shou-wodong-kasiteshi-meru-akusesibiriteigai-shan</link>
         <dc:date>2023-06-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>多様なプロトコルと 駆動モデルをサポートするIoTゲートウェイの開発と運用の知見 (Takeshi Shinoda)</title>
         <link>https://speakerdeck.com/takesinoda/duo-yang-napurotokoruto-qu-dong-moderuwosapotosuruiotgetoueinokai-fa-toyun-yong-nozhi-jian</link>
-        <dc:date>2023-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go/Cgoで映像・音声のリアルタイム処理をやるまでの道のり - Go Conference 2023 (Yusuke Hata)</title>
-        <link>https://speakerdeck.com/octu0/cgodeying-xiang-yin-sheng-noriarutaimuchu-li-woyarumadenodao-nori</link>
         <dc:date>2023-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
