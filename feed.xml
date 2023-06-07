@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>k6による負荷試験 入門から実践まで (FUJIWARA Shunichiro)</title>
+        <link>https://speakerdeck.com/fujiwara3/k6niyorufu-he-shi-yan-ru-men-karashi-jian-made</link>
+        <dc:date>2023-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コストモニタリングと最適化の運用サイクルを回してAWSコストを30％以上削減した話 (Yuki Ando,@integrated1453)</title>
         <link>https://www.docswell.com/s/integrated1453/K248W7-aws-cost-optimization</link>
         <dc:date>2023-06-06T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>これだけは知っておきたいクラス設計の基礎知識 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/koredakehazhi-tuteokitaikurasushe-ji-noji-chu-zhi-shi</link>
         <dc:date>2023-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>sync.Mutexの仕組みを理解する (Yoshiki Fujikane)</title>
-        <link>https://speakerdeck.com/ffjlabo/sync-dot-mutexnoshi-zu-miwoli-jie-suru</link>
-        <dc:date>2023-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
