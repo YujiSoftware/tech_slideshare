@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ウォンテッドリーの5年間に渡る推薦システムの変遷 (Shuhei Goda)</title>
+        <link>https://speakerdeck.com/hakubishin3/uontetudorino5nian-jian-nidu-rutui-jian-sisutemunobian-qian</link>
+        <dc:date>2023-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>推薦によるプロダクト改善とマイクロサービスが噛み合った話 (Hazumi Ichijo)</title>
         <link>https://speakerdeck.com/hazumirr/microservice-with-recommendation-in-wantedly</link>
         <dc:date>2023-06-07T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Head toward Java 20 and Java 21 (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/head-toward-java-20-and-java-21</link>
         <dc:date>2023-06-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FaaS における Java 起動時間の比較 (AWS / Azure / GCP) #jjug_ccc #jjug_ccc_d (Kihara, Takuya)</title>
-        <link>https://speakerdeck.com/tacck/gcp-number-jjug-ccc-number-jjug-ccc-d</link>
-        <dc:date>2023-06-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
