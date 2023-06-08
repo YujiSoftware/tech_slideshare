@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>推薦によるプロダクト改善とマイクロサービスが噛み合った話 (Hazumi Ichijo)</title>
+        <link>https://speakerdeck.com/hazumirr/microservice-with-recommendation-in-wantedly</link>
+        <dc:date>2023-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>組込みRustでも でかい？JSONを扱いたい！ (Kenta IDA)</title>
+        <link>https://speakerdeck.com/ciniml/zu-ip-mirustdemo-dekai-jsonwoxi-itai</link>
+        <dc:date>2023-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>分散トレーシングとOpenTelemetryのススメ 超入門編 (逆井啓佑)</title>
         <link>https://speakerdeck.com/k6s4i53rx/fen-san-toresingutoopentelemetrynosusume</link>
         <dc:date>2023-06-07T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>FaaS における Java 起動時間の比較 (AWS / Azure / GCP) #jjug_ccc #jjug_ccc_d (Kihara, Takuya)</title>
         <link>https://speakerdeck.com/tacck/gcp-number-jjug-ccc-number-jjug-ccc-d</link>
-        <dc:date>2023-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230507_今村謙之_会のご挨拶</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSUAGWNoZg4en1U7D7EqhZBC-2L3xr1oeM_XuajeWIY2rcPBI-dPWabd-vbAdvm6U_8ht0MzuHU_In5/pub</link>
-        <dc:date>2023-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ISHIkai-siliwiz_20230507.pptx</title>
-        <link>https://docs.google.com/presentation/d/1-Lsox49XyuNls9H1-P6Hyd4YMuFNVkiB/preview</link>
         <dc:date>2023-06-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
