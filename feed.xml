@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンドリアーキテクトの話 (Yosuke Furukawa)</title>
+        <link>https://speakerdeck.com/yosuke_furukawa/hurontoendoriakitekutonohua</link>
+        <dc:date>2023-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Watson Assistant チャットボットと連携するアプリ開発体験 (会話フロー作成・API会話編) (Mats)</title>
         <link>https://speakerdeck.com/teruterubohz_ibm/watson-assistant-tiyatutobotutotolian-xi-suruapurikai-fa-ti-yan-hui-hua-hurozuo-cheng-apihui-hua-bian</link>
         <dc:date>2023-06-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>WatsonAssistant0525.pdf (Mats)</title>
         <link>https://speakerdeck.com/teruterubohz_ibm/watsonassistant0525</link>
-        <dc:date>2023-06-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Watson Discovery  (Mats)</title>
-        <link>https://speakerdeck.com/teruterubohz_ibm/watson-discovery</link>
         <dc:date>2023-06-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
