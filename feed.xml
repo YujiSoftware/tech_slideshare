@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>分散トレーシングとOpenTelemetryのススメ 超入門編 (逆井啓佑)</title>
+        <link>https://speakerdeck.com/k6s4i53rx/fen-san-toresingutoopentelemetrynosusume</link>
+        <dc:date>2023-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>k6による負荷試験 入門から実践まで (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/k6niyorufu-he-shi-yan-ru-men-karashi-jian-made</link>
         <dc:date>2023-06-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ISHIkai-siliwiz_20230507.pptx</title>
         <link>https://docs.google.com/presentation/d/1-Lsox49XyuNls9H1-P6Hyd4YMuFNVkiB/preview</link>
-        <dc:date>2023-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これだけは知っておきたいクラス設計の基礎知識 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/koredakehazhi-tuteokitaikurasushe-ji-noji-chu-zhi-shi</link>
         <dc:date>2023-06-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
