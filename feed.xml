@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>300万テーブルのデータ流通を支えるエンジニアリング #GoogleCloud #GoogleCloudDay / 20230523 (風音屋 (Kazaneya))</title>
+        <link>https://speakerdeck.com/kazaneya/20230523</link>
+        <dc:date>2023-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>『家族アルバム みてね』 AWSマルチリージョン構成における データベース運用 / FamilyAlbum Database in AWS multi-region (kohbis)</title>
         <link>https://speakerdeck.com/kohbis/familyalbum-database-in-aws-multi-region</link>
         <dc:date>2023-06-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>応用から学ぶ強化学習 (NearMeの技術発表資料です)</title>
         <link>https://speakerdeck.com/nearme_tech/ying-yong-karaxue-buqiang-hua-xue-xi</link>
-        <dc:date>2023-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java ORマッパー選定のポイント #jsug (tada,@suke_masa)</title>
-        <link>https://www.docswell.com/s/MasatoshiTada/596WW5-how-to-choose-java-orm</link>
         <dc:date>2023-06-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
