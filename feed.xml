@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テスト技法おさらい（仮） (scarletplover)</title>
+        <link>https://speakerdeck.com/scarletplover/tesutoji-fa-osarai-jia</link>
+        <dc:date>2023-06-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>内発的動機付けを理解して自分をハックしよう！ (akira ohno)</title>
         <link>https://speakerdeck.com/ohnoeight/nei-fa-de-dong-ji-fu-kewoli-jie-sitezi-fen-wohatukusiyou</link>
         <dc:date>2023-06-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>推薦によるプロダクト改善とマイクロサービスが噛み合った話 (Hazumi Ichijo)</title>
         <link>https://speakerdeck.com/hazumirr/microservice-with-recommendation-in-wantedly</link>
-        <dc:date>2023-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組込みRustでも でかい？JSONを扱いたい！ (Kenta IDA)</title>
-        <link>https://speakerdeck.com/ciniml/zu-ip-mirustdemo-dekai-jsonwoxi-itai</link>
         <dc:date>2023-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
