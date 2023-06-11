@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ABEMA における GKE Scale 戦略と Anthos Service Mesh 活用事例 Deep Dive (Katsutoshi Nagaoka)</title>
+        <link>https://speakerdeck.com/nagapad/abema-niokeru-gke-scale-zhan-lue-to-anthos-service-mesh-huo-yong-shi-li-deep-dive</link>
+        <dc:date>2023-06-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>低コストかつ継続可能：Technical Writing Meetupの運営裏側 (Shoko Sato)</title>
         <link>https://speakerdeck.com/satoshoco/di-kosutokatuji-sok-ke-neng-technical-writing-meetupnoyun-ying-li-ce</link>
         <dc:date>2023-06-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Watson Assistant チャットボットと連携するアプリ開発体験 (会話フロー作成・API会話編) (Mats)</title>
         <link>https://speakerdeck.com/teruterubohz_ibm/watson-assistant-tiyatutobotutotolian-xi-suruapurikai-fa-ti-yan-hui-hua-hurozuo-cheng-apihui-hua-bian</link>
-        <dc:date>2023-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>しつこくじわじわパフォーマンスチューニング (Toshiaki Baba)</title>
-        <link>https://speakerdeck.com/netmarkjp/situkokusiwasiwahahuomansutiyuninku</link>
         <dc:date>2023-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
