@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オブジェクト指向　導入 / OOP1 (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/oop1</link>
+        <dc:date>2023-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>jbug-kochi2305-ando (JBUG)</title>
         <link>https://speakerdeck.com/jbug/jbug-kochi2305-ando</link>
         <dc:date>2023-06-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>300万テーブルのデータ流通を支えるエンジニアリング #GoogleCloud #GoogleCloudDay / 20230523 (風音屋 (Kazaneya))</title>
         <link>https://speakerdeck.com/kazaneya/20230523</link>
-        <dc:date>2023-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『家族アルバム みてね』 AWSマルチリージョン構成における データベース運用 / FamilyAlbum Database in AWS multi-region (kohbis)</title>
-        <link>https://speakerdeck.com/kohbis/familyalbum-database-in-aws-multi-region</link>
         <dc:date>2023-06-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
