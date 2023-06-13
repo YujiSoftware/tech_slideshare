@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>jbug-kochi2305-ando (JBUG)</title>
+        <link>https://speakerdeck.com/jbug/jbug-kochi2305-ando</link>
+        <dc:date>2023-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ZetaSQLを使って、 カラムリネージ機能を作った話 (gtnao)</title>
         <link>https://speakerdeck.com/gtnao/zetasqlwoshi-tute-karamurineziji-neng-wozuo-tutahua</link>
         <dc:date>2023-06-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>『家族アルバム みてね』 AWSマルチリージョン構成における データベース運用 / FamilyAlbum Database in AWS multi-region (kohbis)</title>
         <link>https://speakerdeck.com/kohbis/familyalbum-database-in-aws-multi-region</link>
-        <dc:date>2023-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JSAI2023 Tutorial 「基盤モデルの技術と展望」 (Yusuke Iwasawa)</title>
-        <link>https://speakerdeck.com/yusuke0519/jsai2023-tutorial-ji-pan-moderunoji-shu-tozhan-wang</link>
         <dc:date>2023-06-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
