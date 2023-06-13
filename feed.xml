@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ファームウェアの Panic を 自動で収集・解析・分類・集計して 市場品質の改善サイクルを回す (Hideaki Tai)</title>
+        <link>https://speakerdeck.com/hideakitai/huamuueano-panic-wo-zi-dong-deshou-ji-jie-xi-fen-lei-ji-ji-site-shi-chang-pin-zhi-nogai-shan-saikuruwohui-su</link>
+        <dc:date>2023-06-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オブジェクト指向　導入 / OOP1 (nrs)</title>
         <link>https://speakerdeck.com/nrslib/oop1</link>
         <dc:date>2023-06-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>セキュリティ研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2023-security-training</link>
-        <dc:date>2023-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>300万テーブルのデータ流通を支えるエンジニアリング #GoogleCloud #GoogleCloudDay / 20230523 (風音屋 (Kazaneya))</title>
-        <link>https://speakerdeck.com/kazaneya/20230523</link>
         <dc:date>2023-06-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
