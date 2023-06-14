@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オブジェクト指向のプラクティスをフロントエンドで活用する (Nokogiri)</title>
+        <link>https://speakerdeck.com/undefined_name/ohusiekutozhi-xiang-nohurakuteisuwohurontoentotehuo-yong-suru</link>
+        <dc:date>2023-06-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>論文輪読会 第1回 AI論文読み方講座 (AcademiX)</title>
         <link>https://speakerdeck.com/academix/lun-wen-lun-du-hui-di-1hui-ailun-wen-du-mifang-jiang-zuo</link>
         <dc:date>2023-06-13T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ウェブから能動学習の観点で 有益なデータを取得する (joisino)</title>
         <link>https://speakerdeck.com/joisino/uebukaraneng-dong-xue-xi-noguan-dian-de-you-yi-nadetawoqu-de-suru</link>
         <dc:date>2023-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LayerXにおける機械学習を活用したOCR機能の改善に関する取り組み / layerx-jsai-2023 (shimacos)</title>
-        <link>https://speakerdeck.com/shimacos/layerx-jsai-2023-77615b88-1200-424e-b485-1021b0b7b55e</link>
-        <dc:date>2023-06-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
