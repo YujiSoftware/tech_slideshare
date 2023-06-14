@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>論文輪読会 第1回 AI論文読み方講座 (AcademiX)</title>
+        <link>https://speakerdeck.com/academix/lun-wen-lun-du-hui-di-1hui-ailun-wen-du-mifang-jiang-zuo</link>
+        <dc:date>2023-06-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成系AIで画像を空間に生やしてみた (Miyaura,@takabrz1)</title>
         <link>https://www.docswell.com/s/m-taka596/5W1V7R-AIMTG-DALLE-XR-20230614</link>
         <dc:date>2023-06-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LayerXにおける機械学習を活用したOCR機能の改善に関する取り組み / layerx-jsai-2023 (shimacos)</title>
         <link>https://speakerdeck.com/shimacos/layerx-jsai-2023-77615b88-1200-424e-b485-1021b0b7b55e</link>
-        <dc:date>2023-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> 「無料・容量無制限でアップロード」を 支える みてねのコスト削減術 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/aws-cost-reduction-method-to-support-free-and-unlimited-uploading-in-mitene-family-album</link>
         <dc:date>2023-06-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
