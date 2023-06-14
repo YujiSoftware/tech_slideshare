@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成系AIで画像を空間に生やしてみた (Miyaura,@takabrz1)</title>
+        <link>https://www.docswell.com/s/m-taka596/5W1V7R-AIMTG-DALLE-XR-20230614</link>
+        <dc:date>2023-06-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ファームウェアの Panic を 自動で収集・解析・分類・集計して 市場品質の改善サイクルを回す (Hideaki Tai)</title>
         <link>https://speakerdeck.com/hideakitai/huamuueano-panic-wo-zi-dong-deshou-ji-jie-xi-fen-lei-ji-ji-site-shi-chang-pin-zhi-nogai-shan-saikuruwohui-su</link>
         <dc:date>2023-06-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title> 「無料・容量無制限でアップロード」を 支える みてねのコスト削減術 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/aws-cost-reduction-method-to-support-free-and-unlimited-uploading-in-mitene-family-album</link>
-        <dc:date>2023-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ研修【MIXI 23新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2023-security-training</link>
         <dc:date>2023-06-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
