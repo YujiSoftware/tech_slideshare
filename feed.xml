@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>次なるpkg/errorsを探して (Takayuki Miyahara)</title>
+        <link>https://speakerdeck.com/always_allokay/errorswotan-site</link>
+        <dc:date>2023-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BtoB SaaSプロダクトで「機能する」デザインシステムを目指して (sizucca)</title>
         <link>https://speakerdeck.com/sizucca/b2b-saas-design-system-andpad-20230615</link>
         <dc:date>2023-06-14T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>人工知能学会 AI哲学マップ・総括セッション 講演資料 (miyayou)</title>
         <link>https://speakerdeck.com/miyayou/ren-gong-zhi-neng-xue-hui-aizhe-xue-matupuzong-gua-setusiyon-jiang-yan-zi-liao</link>
         <dc:date>2023-06-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ABEMA における GKE Scale 戦略と Anthos Service Mesh 活用事例 Deep Dive (Katsutoshi Nagaoka)</title>
-        <link>https://speakerdeck.com/nagapad/abema-niokeru-gke-scale-zhan-lue-to-anthos-service-mesh-huo-yong-shi-li-deep-dive</link>
-        <dc:date>2023-06-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
