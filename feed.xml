@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NestJSをモチベーション 維持しながら勉強してみた</title>
+        <link>https://docs.google.com/presentation/d/1Ydm2YgTaevaNbl5dTU1NzBZ6JkY0Ofr3zAH-RSyK0VM/preview</link>
+        <dc:date>2023-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術書典14の振り返り (Asuka)</title>
+        <link>https://speakerdeck.com/askua/ji-shu-shu-dian-14nozhen-rifan-ri</link>
+        <dc:date>2023-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[LT資料] OSSにコントリビュートしてみた</title>
+        <link>https://docs.google.com/presentation/d/1D2olAS7w26O_sNjd-FsUIS36zk5qqVrwmokeJZN4-Ec/preview</link>
+        <dc:date>2023-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Differential Privacy - Data Science with Privacy at Scale (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/differential-privacy-data-science-with-privacy-at-scale</link>
         <dc:date>2023-06-14T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>低コストかつ継続可能：Technical Writing Meetupの運営裏側 (Shoko Sato)</title>
         <link>https://speakerdeck.com/satoshoco/di-kosutokatuji-sok-ke-neng-technical-writing-meetupnoyun-ying-li-ce</link>
         <dc:date>2023-06-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>説明の偏り・見せ方が推薦結果の選択にどう影響するか  (kuri8ive)</title>
-        <link>https://speakerdeck.com/kuri8ive/irreading2023-chiea2023</link>
-        <dc:date>2023-06-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスト技法おさらい（仮） (scarletplover)</title>
-        <link>https://speakerdeck.com/scarletplover/tesutoji-fa-osarai-jia</link>
-        <dc:date>2023-06-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>内発的動機付けを理解して自分をハックしよう！ (akira ohno)</title>
-        <link>https://speakerdeck.com/ohnoeight/nei-fa-de-dong-ji-fu-kewoli-jie-sitezi-fen-wohatukusiyou</link>
-        <dc:date>2023-06-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
