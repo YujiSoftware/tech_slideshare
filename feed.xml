@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BtoB SaaSプロダクトで「機能する」デザインシステムを目指して (sizucca)</title>
+        <link>https://speakerdeck.com/sizucca/b2b-saas-design-system-andpad-20230615</link>
+        <dc:date>2023-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NestJSをモチベーション 維持しながら勉強してみた</title>
         <link>https://docs.google.com/presentation/d/1Ydm2YgTaevaNbl5dTU1NzBZ6JkY0Ofr3zAH-RSyK0VM/preview</link>
         <dc:date>2023-06-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ABEMA における GKE Scale 戦略と Anthos Service Mesh 活用事例 Deep Dive (Katsutoshi Nagaoka)</title>
         <link>https://speakerdeck.com/nagapad/abema-niokeru-gke-scale-zhan-lue-to-anthos-service-mesh-huo-yong-shi-li-deep-dive</link>
-        <dc:date>2023-06-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>低コストかつ継続可能：Technical Writing Meetupの運営裏側 (Shoko Sato)</title>
-        <link>https://speakerdeck.com/satoshoco/di-kosutokatuji-sok-ke-neng-technical-writing-meetupnoyun-ying-li-ce</link>
         <dc:date>2023-06-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
