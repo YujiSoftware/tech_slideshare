@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Differential Privacy - Data Science with Privacy at Scale (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/differential-privacy-data-science-with-privacy-at-scale</link>
+        <dc:date>2023-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPTなどの言語モデルは どのようにシステムで使えるか / How to use LLM in System (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/how-to-use-llm-in-system</link>
         <dc:date>2023-06-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>内発的動機付けを理解して自分をハックしよう！ (akira ohno)</title>
         <link>https://speakerdeck.com/ohnoeight/nei-fa-de-dong-ji-fu-kewoli-jie-sitezi-fen-wohatukusiyou</link>
-        <dc:date>2023-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアxスタートアップから見た飲食と配送の世界 / The World of Food Deliverlies and Restaurant Businesses from a Software and Startup Perspective (Sotaro Karasawa)</title>
-        <link>https://speakerdeck.com/sotarok/the-world-of-food-deliverlies-and-restaurant-businesses-from-a-software-and-start-up-perspective</link>
         <dc:date>2023-06-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
