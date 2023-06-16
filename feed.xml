@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今日から始めるGo / Starting Go from Today (Yoichiro Shimizu)</title>
+        <link>https://speakerdeck.com/budougumi0617/starting-go-from-today</link>
+        <dc:date>2023-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SSII2023 [SS1] 拡散モデルの基礎とその応用 ~Diffusion Models入門~ (画像センシングシンポジウム)</title>
         <link>https://speakerdeck.com/ssii/ssii2023-ss1</link>
         <dc:date>2023-06-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ZetaSQLを使って、 カラムリネージ機能を作った話 (gtnao)</title>
         <link>https://speakerdeck.com/gtnao/zetasqlwoshi-tute-karamurineziji-neng-wozuo-tutahua</link>
-        <dc:date>2023-06-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTで記事を作ったら 公開本数2倍＆外注費0円になった話/article (みんなのマーケット株式会社/ Minma Inc.)</title>
-        <link>https://speakerdeck.com/minma_curama/article</link>
         <dc:date>2023-06-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
