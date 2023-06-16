@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Evolving ML Platform with OSS Upstream Community (Yuki Iwai)</title>
+        <link>https://speakerdeck.com/y_iwai/evolving-ml-platform-with-oss-upstream-community</link>
+        <dc:date>2023-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>今日から始めるGo / Starting Go from Today (Yoichiro Shimizu)</title>
         <link>https://speakerdeck.com/budougumi0617/starting-go-from-today</link>
         <dc:date>2023-06-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>jbug-kochi2305-ando (JBUG)</title>
         <link>https://speakerdeck.com/jbug/jbug-kochi2305-ando</link>
-        <dc:date>2023-06-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ZetaSQLを使って、 カラムリネージ機能を作った話 (gtnao)</title>
-        <link>https://speakerdeck.com/gtnao/zetasqlwoshi-tute-karamurineziji-neng-wozuo-tutahua</link>
         <dc:date>2023-06-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
