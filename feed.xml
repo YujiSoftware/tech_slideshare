@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>YAPC::Kyotoの｢全て｣ / All of "YAPC::Kyoto" (papix)</title>
+        <link>https://speakerdeck.com/papix/all-of-yapc-kyoto</link>
+        <dc:date>2023-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>mysql-build-debug-and-test (kentsu)</title>
+        <link>https://speakerdeck.com/lrf141/mysql-build-debug-and-test</link>
+        <dc:date>2023-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SSII2023 [OS3] マルチエージェント経路計画の基礎と最新動向 (画像センシングシンポジウム)</title>
         <link>https://speakerdeck.com/ssii/ssii2023-os3-02</link>
         <dc:date>2023-06-16T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ChatGPTなどの言語モデルは どのようにシステムで使えるか / How to use LLM in System (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/how-to-use-llm-in-system</link>
-        <dc:date>2023-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドのDXと今後 (Yosuke Furukawa)</title>
-        <link>https://speakerdeck.com/yosuke_furukawa/hurontoendonodxtojin-hou</link>
-        <dc:date>2023-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230614_「ChatGPTについて調べてくれ」と社長から特命を受けた人のためのChatGPT概論(40min版)_v1.00.pdf (NobuakiOshiro)</title>
-        <link>https://speakerdeck.com/doradora09/20230614-chatgptnituitediao-hetekure-toshe-chang-karate-ming-woshou-ketaren-notamenochatgptgai-lun-40minban-v1-dot-00</link>
         <dc:date>2023-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
