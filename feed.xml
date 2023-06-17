@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>中空構造を持つエージェントアーキテクチャの設計 (miyayou)</title>
+        <link>https://speakerdeck.com/miyayou/zhong-kong-gou-zao-wochi-tuezientoakitekutiyanoshe-ji</link>
+        <dc:date>2023-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Raspberry Piが買えるようになったぞ!今すぐ買おう / 20230617-osc23do-rpi (Akira Ouchi)</title>
+        <link>https://speakerdeck.com/akkiesoft/20230617-osc23do-rpi</link>
+        <dc:date>2023-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ゲームAI研究の新展開 - PCGML, PCGRL- (miyayou)</title>
         <link>https://speakerdeck.com/miyayou/gemuaiyan-jiu-noxin-zhan-kai-pcgml-pcgrl</link>
         <dc:date>2023-06-16T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>エンジニアリングを推進する必要性 (memory)</title>
         <link>https://speakerdeck.com/memory1994/why-we-must-do-engineering</link>
         <dc:date>2023-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オブジェクト指向のプラクティスをフロントエンドで活用する (Nokogiri)</title>
-        <link>https://speakerdeck.com/undefined_name/ohusiekutozhi-xiang-nohurakuteisuwohurontoentotehuo-yong-suru</link>
-        <dc:date>2023-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>論文輪読会 第1回 AI論文読み方講座 (AcademiX)</title>
-        <link>https://speakerdeck.com/academix/lun-wen-lun-du-hui-di-1hui-ailun-wen-du-mifang-jiang-zuo</link>
-        <dc:date>2023-06-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
