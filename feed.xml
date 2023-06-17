@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>1つの言語を原点に色々な言語を学ぶということ (karupanerura)</title>
+        <link>https://speakerdeck.com/karupanerura/1tunoyan-yu-woyuan-dian-nise-nayan-yu-woxue-hutoiukoto</link>
+        <dc:date>2023-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>これまでの仕事 これからの仕事 (市谷聡啓,@papanda)</title>
         <link>https://www.docswell.com/s/papanda/ZJLXDV-koremade-korekara-shigoto</link>
         <dc:date>2023-06-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ファームウェアの Panic を 自動で収集・解析・分類・集計して 市場品質の改善サイクルを回す (Hideaki Tai)</title>
         <link>https://speakerdeck.com/hideakitai/huamuueano-panic-wo-zi-dong-deshou-ji-jie-xi-fen-lei-ji-ji-site-shi-chang-pin-zhi-nogai-shan-saikuruwohui-su</link>
         <dc:date>2023-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オブジェクト指向　導入 / OOP1 (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/oop1</link>
-        <dc:date>2023-06-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
