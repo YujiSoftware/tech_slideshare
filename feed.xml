@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[メモ]大規模言語モデル(LLM)のための文章検索に関する勉強･試行錯誤 (Kan Hatakeyama,@kanhatakeyama)</title>
+        <link>https://www.docswell.com/s/KanHatakeyama/K4QEX1-2023-06-17-142308</link>
+        <dc:date>2023-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SUNABACO今治オープン記念 - ChatGPT の衝撃 (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
         <link>https://speakerdeck.com/dahatake/sunabacojin-zhi-opunji-nian-chatgpt-nochong-ji</link>
         <dc:date>2023-06-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[LT資料] OSSにコントリビュートしてみた</title>
         <link>https://docs.google.com/presentation/d/1D2olAS7w26O_sNjd-FsUIS36zk5qqVrwmokeJZN4-Ec/preview</link>
-        <dc:date>2023-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Differential Privacy - Data Science with Privacy at Scale (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/differential-privacy-data-science-with-privacy-at-scale</link>
         <dc:date>2023-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
