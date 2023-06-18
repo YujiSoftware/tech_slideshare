@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>UIテストはもうMaestroでいいのかもしれない話 (Shinnosuke Kugimiya)</title>
+        <link>https://speakerdeck.com/kgmyshin/uitesutohamoumaestrodeiinokamosirenaihua</link>
+        <dc:date>2023-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[メモ]大規模言語モデル(LLM)のための文章検索に関する勉強･試行錯誤 (Kan Hatakeyama,@kanhatakeyama)</title>
         <link>https://www.docswell.com/s/KanHatakeyama/K4QEX1-2023-06-17-142308</link>
         <dc:date>2023-06-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>技術書典14の振り返り (Asuka)</title>
         <link>https://speakerdeck.com/askua/ji-shu-shu-dian-14nozhen-rifan-ri</link>
-        <dc:date>2023-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[LT資料] OSSにコントリビュートしてみた</title>
-        <link>https://docs.google.com/presentation/d/1D2olAS7w26O_sNjd-FsUIS36zk5qqVrwmokeJZN4-Ec/preview</link>
         <dc:date>2023-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
