@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SUNABACO今治オープン記念 - ChatGPT の衝撃 (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
+        <link>https://speakerdeck.com/dahatake/sunabacojin-zhi-opunji-nian-chatgpt-nochong-ji</link>
+        <dc:date>2023-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>YAPC::Kyotoの｢全て｣ / All of "YAPC::Kyoto" (papix)</title>
         <link>https://speakerdeck.com/papix/all-of-yapc-kyoto</link>
         <dc:date>2023-06-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Differential Privacy - Data Science with Privacy at Scale (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/differential-privacy-data-science-with-privacy-at-scale</link>
-        <dc:date>2023-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTなどの言語モデルは どのようにシステムで使えるか / How to use LLM in System (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/how-to-use-llm-in-system</link>
         <dc:date>2023-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
