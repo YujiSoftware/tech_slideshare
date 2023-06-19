@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIスクラムマスター ～ふりかえりの助言をChatGPTにさせてワイワイ盛り上がろう～ (piyonakajima)</title>
+        <link>https://speakerdeck.com/piyonakajima/aisukuramumasuta-hurikaerinozhu-yan-wochatgptnisasetewaiwaisheng-rishang-garou</link>
+        <dc:date>2023-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IROS2022 Kyoto 論文紹介</title>
         <link>https://docs.google.com/presentation/d/1RqDVLyRiVSRui8jz5phYmYK-Dgdykg1KNA5tnJ-nrpI/preview</link>
         <dc:date>2023-06-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>今日から始めるGo / Starting Go from Today (Yoichiro Shimizu)</title>
         <link>https://speakerdeck.com/budougumi0617/starting-go-from-today</link>
-        <dc:date>2023-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SSII2023 [SS1] 拡散モデルの基礎とその応用 ~Diffusion Models入門~ (画像センシングシンポジウム)</title>
-        <link>https://speakerdeck.com/ssii/ssii2023-ss1</link>
         <dc:date>2023-06-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
