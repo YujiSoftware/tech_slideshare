@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2023-05-25 Transcendental Cube / グラフィックス解説</title>
+        <link>https://docs.google.com/presentation/d/1uU2ivgBEPPYcUbj7crjDQA4_rABf4xBZczDeL3VKHlw/preview</link>
+        <dc:date>2023-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIスクラムマスター ～ふりかえりの助言をChatGPTにさせてワイワイ盛り上がろう～ (piyonakajima)</title>
         <link>https://speakerdeck.com/piyonakajima/aisukuramumasuta-hurikaerinozhu-yan-wochatgptnisasetewaiwaisheng-rishang-garou</link>
         <dc:date>2023-06-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Evolving ML Platform with OSS Upstream Community (Yuki Iwai)</title>
         <link>https://speakerdeck.com/y_iwai/evolving-ml-platform-with-oss-upstream-community</link>
-        <dc:date>2023-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今日から始めるGo / Starting Go from Today (Yoichiro Shimizu)</title>
-        <link>https://speakerdeck.com/budougumi0617/starting-go-from-today</link>
         <dc:date>2023-06-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
