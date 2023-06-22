@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSの一時的な認証情報を 提供するOSSの開発</title>
+        <link>https://docs.google.com/presentation/d/1MWNWynhlePlwxDCzMAO2-Vsp9tyNypRcM9Vvt7mkuv4/preview</link>
+        <dc:date>2023-06-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Monolith First Serverless Development (kensh)</title>
+        <link>https://speakerdeck.com/_kensh/monolith-first-serverless-development</link>
+        <dc:date>2023-06-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践エッジユースケース (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/shi-jian-etuziyusukesu</link>
         <dc:date>2023-06-21T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>TypeScriptでIoT開発できるらしいDeviceScriptのご紹介 (田中みそ)</title>
         <link>https://speakerdeck.com/miso/typescriptdeiotkai-fa-dekirurasiidevicescriptnogoshao-jie</link>
-        <dc:date>2023-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>イベントで大活躍の電子ペーパー名札 〜M5PaperとUIFlow＋α〜 / IoTLT vol.100 (you（@youtoy）)</title>
-        <link>https://speakerdeck.com/you/iotlt-vol-dot-100</link>
-        <dc:date>2023-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>#30 “Serving Netflix Video at 400Gbps on FreeBSD” (cafenero_777)</title>
-        <link>https://speakerdeck.com/cafenero_777/number-30-serving-netflix-video-at-400gbps-on-freebsd</link>
         <dc:date>2023-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
