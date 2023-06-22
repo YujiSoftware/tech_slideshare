@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RuboCop Custom Formatter for Reviewdog Diagnostic Format (Masato Ohba)</title>
+        <link>https://speakerdeck.com/ohbarye/rubocop-custom-formatter-for-reviewdog-diagnostic-format</link>
+        <dc:date>2023-06-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSの一時的な認証情報を 提供するOSSの開発</title>
         <link>https://docs.google.com/presentation/d/1MWNWynhlePlwxDCzMAO2-Vsp9tyNypRcM9Vvt7mkuv4/preview</link>
         <dc:date>2023-06-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ChatGPTの新機能「Function calling」を試してみた (KMiura)</title>
         <link>https://speakerdeck.com/miura55/chatgptnoxin-ji-neng-function-calling-woshi-sitemita</link>
-        <dc:date>2023-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptでIoT開発できるらしいDeviceScriptのご紹介 (田中みそ)</title>
-        <link>https://speakerdeck.com/miso/typescriptdeiotkai-fa-dekirurasiidevicescriptnogoshao-jie</link>
         <dc:date>2023-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
