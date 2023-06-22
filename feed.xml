@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>rspec-daemonとVSCodeで 最強のテスト環境を作る v1.1</title>
+        <link>https://docs.google.com/presentation/d/1nwS23ynqsro70RpO_W4l_woHebqgS9ZFdF3ncbEbGBw/preview</link>
+        <dc:date>2023-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>本当は恐ろしい分散システムの話 (kumagi,@kumagi)</title>
         <link>https://www.docswell.com/s/kumagi/K24LXG-dreadful-distributed-systems</link>
         <dc:date>2023-06-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>開発者体験を見える化し「計器飛行」の実現を目指すSODA構想 〜事業の成長とプロダクト組織能力の相関関係を見いだすには〜 / Developer eXperience Day 2023 (Visional Engineering ＆ Design)</title>
         <link>https://speakerdeck.com/visional_engineering_and_design/developer-experience-day-2023</link>
-        <dc:date>2023-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ニンジャランタンをつくってみた (からあげ,@karaage0703)</title>
-        <link>https://www.docswell.com/s/karaage0703/ZNRJWG-2023-06-18-235349</link>
         <dc:date>2023-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
