@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>本当は恐ろしい分散システムの話 (kumagi,@kumagi)</title>
+        <link>https://www.docswell.com/s/kumagi/K24LXG-dreadful-distributed-systems</link>
+        <dc:date>2023-06-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>現場課題に向き合い MLOps成熟度を高める道 (moyomot)</title>
+        <link>https://speakerdeck.com/moyomot/xian-chang-ke-ti-nixiang-kihe-i-mlopscheng-shou-du-wogao-merudao</link>
+        <dc:date>2023-06-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon ECS デプロイツール ecspresso 開発5年の歩み (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/amazon-ecs-depuroituru-ecspresso-kai-fa-5nian-nobu-mi</link>
         <dc:date>2023-06-21T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ニンジャランタンをつくってみた (からあげ,@karaage0703)</title>
         <link>https://www.docswell.com/s/karaage0703/ZNRJWG-2023-06-18-235349</link>
-        <dc:date>2023-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IoTLT vol100 #NT金沢 #iotlt  (n0bisuke)</title>
-        <link>https://speakerdeck.com/n0bisuke2/iotlt-vol100-number-ntjin-ze-number-iotlt</link>
-        <dc:date>2023-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サ終で文鎮化したLINE CLOVERの復活を少しずつ進めています (TakSan)</title>
-        <link>https://speakerdeck.com/taksan0/sazhong-dewen-zhen-hua-sitaline-clovernofu-huo-woshao-sizutujin-meteimasu</link>
         <dc:date>2023-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
