@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践エッジユースケース (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/shi-jian-etuziyusukesu</link>
+        <dc:date>2023-06-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Snapdragon Spaces v0.14.0 - Dual Render Fusionについて (Miyaura,@takabrz1)</title>
         <link>https://www.docswell.com/s/m-taka596/ZENL61-XRMTG-Dual-Render-Fusion-0140-20230621</link>
         <dc:date>2023-06-21T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>#30 “Serving Netflix Video at 400Gbps on FreeBSD” (cafenero_777)</title>
         <link>https://speakerdeck.com/cafenero_777/number-30-serving-netflix-video-at-400gbps-on-freebsd</link>
         <dc:date>2023-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エッジで輝くフロントエンド (chimame)</title>
-        <link>https://speakerdeck.com/chimame/etuzidehui-kuhurontoendo</link>
-        <dc:date>2023-06-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
