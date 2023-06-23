@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>質とスピード（AWS Dev Day 2023 Tokyo 特別編、質疑応答用資料付き） / Quality and Speed AWS Dev Day 2023 Tokyo Edition (Takuto Wada)</title>
+        <link>https://speakerdeck.com/twada/quality-and-speed-aws-dev-day-2023-tokyo-edition</link>
+        <dc:date>2023-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS Dev Day 2023  E-2: Amazon S3・Amazon Cognito・AWS Lambdaのアンチパターンで学ぶセキュリティ・バイ・デザイン (a_zara_n,@a_zara_n)</title>
         <link>https://www.docswell.com/s/a-zara-n/5248R9-devday</link>
         <dc:date>2023-06-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>要件定義で得た学び・気づき (kumaGoro95)</title>
         <link>https://speakerdeck.com/kumagoro95/yao-jian-ding-yi-dede-taxue-biqi-duki</link>
-        <dc:date>2023-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>String Catalog (kamui_project)</title>
-        <link>https://speakerdeck.com/tony1224/string-catalog</link>
         <dc:date>2023-06-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
