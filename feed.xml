@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS Dev Day 2023  E-2: Amazon S3・Amazon Cognito・AWS Lambdaのアンチパターンで学ぶセキュリティ・バイ・デザイン (a_zara_n,@a_zara_n)</title>
+        <link>https://www.docswell.com/s/a-zara-n/5248R9-devday</link>
+        <dc:date>2023-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Shifter と Stripe Payment Links を使ってサクッと EC サイトを立ち上げる (marushu)</title>
         <link>https://speakerdeck.com/marushu/shifter-to-stripe-payment-links-woshi-tutesakututo-ec-saitowoli-tishang-geru</link>
         <dc:date>2023-06-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>String Catalog (kamui_project)</title>
         <link>https://speakerdeck.com/tony1224/string-catalog</link>
-        <dc:date>2023-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【JAWS-UG朝会】今更ながら Amazon DynamoDB の論文を真面目に読んでみた (MasakiKato5)</title>
-        <link>https://speakerdeck.com/masakikato5/jaws-ugzhao-hui-jin-geng-nagara-amazon-dynamodb-nolun-wen-wozhen-mian-mu-nidu-ndemita</link>
         <dc:date>2023-06-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
