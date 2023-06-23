@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アジャイル開発は本当に必要なのか、何を解決するのか (yuukiyo)</title>
+        <link>https://speakerdeck.com/yuukiyo/is-agile-development-really-necessary-and-what-does-it-solve</link>
+        <dc:date>2023-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS CDKで学ぶGoFデザインパターン 〜IaCにもコード設計〜 / aws dev day cdk gof design patterns (k.goto)</title>
+        <link>https://speakerdeck.com/gotok365/aws-dev-day-cdk-gof-design-patterns</link>
+        <dc:date>2023-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>rspec-daemonとVSCodeで 最強のテスト環境を作る v1.1</title>
         <link>https://docs.google.com/presentation/d/1nwS23ynqsro70RpO_W4l_woHebqgS9ZFdF3ncbEbGBw/preview</link>
         <dc:date>2023-06-22T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>就活生あるいは新人エンジニアさんへのお節介なアドバイス (Takashi Kanemoto)</title>
         <link>https://speakerdeck.com/ttskch/jiu-huo-sheng-aruihaxin-ren-enziniasanhenoojie-jie-naadobaisu</link>
-        <dc:date>2023-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SHAPで因果関係を説明できる (うとしん)</title>
-        <link>https://speakerdeck.com/s1ok69oo/shapteyin-guo-guan-xi-woshuo-ming-tekiru</link>
-        <dc:date>2023-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発者体験を見える化し「計器飛行」の実現を目指すSODA構想 〜事業の成長とプロダクト組織能力の相関関係を見いだすには〜 / Developer eXperience Day 2023 (Visional Engineering ＆ Design)</title>
-        <link>https://speakerdeck.com/visional_engineering_and_design/developer-experience-day-2023</link>
         <dc:date>2023-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
