@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LOWYAが辿った負荷対策の軌跡 〜GraphQL Cachingの実装に至るまで〜 (kazumax55)</title>
+        <link>https://speakerdeck.com/kazumax55/lowyakachan-tutafu-he-dui-ce-nogui-ji-graphql-cachingnoshi-zhuang-nizhi-rumate</link>
+        <dc:date>2023-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>あなたのPHPアプリ、ログはでてますか？あるいはログをだしてますか？ / Are you writing a log? Or just out a log? (uzulla)</title>
         <link>https://speakerdeck.com/uzulla/are-you-writing-a-log-or-just-out-a-log</link>
         <dc:date>2023-06-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Amazon ECS デプロイツール ecspresso 開発5年の歩み (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/amazon-ecs-depuroituru-ecspresso-kai-fa-5nian-nobu-mi</link>
-        <dc:date>2023-06-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RuboCop Custom Formatter for Reviewdog Diagnostic Format (Masato Ohba)</title>
-        <link>https://speakerdeck.com/ohbarye/rubocop-custom-formatter-for-reviewdog-diagnostic-format</link>
         <dc:date>2023-06-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
