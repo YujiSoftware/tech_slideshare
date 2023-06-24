@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RgGen アップデート</title>
+        <link>https://docs.google.com/presentation/d/1uLEIJ_nChZlrEIlxOeza7tveN0jzjn-DPYsIFoFB1PQ/preview</link>
+        <dc:date>2023-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cypressでリグレッションテストを自動化してみた</title>
+        <link>https://docs.google.com/presentation/d/1VPjTGfq4yOsM0ef4-P8RGoEoHBEg76lIcBSEziESe0k/preview</link>
+        <dc:date>2023-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React+MSW+Storybookで始めるフロントエンドテスト</title>
+        <link>https://docs.google.com/presentation/d/1g58iBThR2eEHnOqiROR8FKvwv45ntXhngVGnVfaLLoc/preview</link>
+        <dc:date>2023-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践！モノリスからマイクロサービス！Event Stormingによるドメイン駆動設計から実装まで / AWS_Dev_Day_2023_E_3 (Atsushi Fukui)</title>
         <link>https://speakerdeck.com/fatsushi/aws-dev-day-2023-e-3</link>
         <dc:date>2023-06-23T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>実践エッジユースケース (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/shi-jian-etuziyusukesu</link>
-        <dc:date>2023-06-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Snapdragon Spaces v0.14.0 - Dual Render Fusionについて (Miyaura,@takabrz1)</title>
-        <link>https://www.docswell.com/s/m-taka596/ZENL61-XRMTG-Dual-Render-Fusion-0140-20230621</link>
-        <dc:date>2023-06-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Holoニュースとか(2023/6)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQXTTKqal8vfsGatHnS_MnX9DunEnS9NZdo3SVysSGyVmMKFMihN50xlkc2_Nqv19ubHAuVu3aNsPZE/pub</link>
-        <dc:date>2023-06-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>XRMTG LT VR卓球</title>
-        <link>https://docs.google.com/presentation/d/1nMrcMZZ-QH8M_igeQHCUcQnCZkc58UHFXyMAbSq-6xE/preview</link>
         <dc:date>2023-06-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
