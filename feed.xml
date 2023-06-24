@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>EC2からのECS移行においてIaCとCDをどう変えたか (shonansurvivors)</title>
+        <link>https://speakerdeck.com/shonansurvivors/transitioning-from-ec2-to-ecs-adapting-iac-and-cd-strategies</link>
+        <dc:date>2023-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>The future of tbls and "Documentation as Code" / phpconfuk 2023 (Ken’ichiro Oyama)</title>
         <link>https://speakerdeck.com/k1low/phpconfuk-2023</link>
         <dc:date>2023-06-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWSの一時的な認証情報を 提供するOSSの開発</title>
         <link>https://docs.google.com/presentation/d/1MWNWynhlePlwxDCzMAO2-Vsp9tyNypRcM9Vvt7mkuv4/preview</link>
-        <dc:date>2023-06-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Monolith First Serverless Development (kensh)</title>
-        <link>https://speakerdeck.com/_kensh/monolith-first-serverless-development</link>
         <dc:date>2023-06-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
