@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WhisperとChatGPTで文字起こし (からあげ,@karaage0703)</title>
+        <link>https://www.docswell.com/s/karaage0703/K7VJV8-2023-06-24-233535</link>
+        <dc:date>2023-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模言語モデルの中身を覗いてみよう / look inside Large Language Models (watasan)</title>
+        <link>https://speakerdeck.com/ae14watanabe/look-inside-large-language-models</link>
+        <dc:date>2023-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LOWYAが辿った負荷対策の軌跡 〜GraphQL Cachingの実装に至るまで〜 (kazumax55)</title>
         <link>https://speakerdeck.com/kazumax55/lowyakachan-tutafu-he-dui-ce-nogui-ji-graphql-cachingnoshi-zhuang-nizhi-rumate</link>
         <dc:date>2023-06-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>本当は恐ろしい分散システムの話 (kumagi,@kumagi)</title>
         <link>https://www.docswell.com/s/kumagi/K24LXG-dreadful-distributed-systems</link>
-        <dc:date>2023-06-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現場課題に向き合い MLOps成熟度を高める道 (moyomot)</title>
-        <link>https://speakerdeck.com/moyomot/xian-chang-ke-ti-nixiang-kihe-i-mlopscheng-shou-du-wogao-merudao</link>
-        <dc:date>2023-06-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon ECS デプロイツール ecspresso 開発5年の歩み (FUJIWARA Shunichiro)</title>
-        <link>https://speakerdeck.com/fujiwara3/amazon-ecs-depuroituru-ecspresso-kai-fa-5nian-nobu-mi</link>
         <dc:date>2023-06-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
