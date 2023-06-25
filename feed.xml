@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AthenaとCloudWatchで始める低コストなSLOエラーバジェット監視 (iwamot)</title>
+        <link>https://speakerdeck.com/iwamot/athena-and-cloudwatch-for-slo-monitoring</link>
+        <dc:date>2023-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SSII2023 [OS1] GPT-4とVision-and-Languageの未来 (画像センシングシンポジウム)</title>
         <link>https://speakerdeck.com/ssii/ssii2023-os1-04</link>
         <dc:date>2023-06-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS CDKで学ぶGoFデザインパターン 〜IaCにもコード設計〜 / aws dev day cdk gof design patterns (k.goto)</title>
         <link>https://speakerdeck.com/gotok365/aws-dev-day-cdk-gof-design-patterns</link>
-        <dc:date>2023-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>rspec-daemonとVSCodeで 最強のテスト環境を作る v1.1</title>
-        <link>https://docs.google.com/presentation/d/1nwS23ynqsro70RpO_W4l_woHebqgS9ZFdF3ncbEbGBw/preview</link>
         <dc:date>2023-06-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
