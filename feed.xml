@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[SRETT #6] DBREノススメ (nnaka2992)</title>
+        <link>https://speakerdeck.com/nnaka2992/srett-number-6-dbrenosusume</link>
+        <dc:date>2023-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モダンアプリケーションにおける分散トランザクションの動機と実装 @ AWS Dev Day 2023 Tokyo (Yuji Nomura)</title>
+        <link>https://speakerdeck.com/ugnom/awsdevday-2023-tokyo-e1-distributed-transactions</link>
+        <dc:date>2023-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新登場！PopoverAPIでSide Modal(anai)を作ろう！ (ikuma-t)</title>
+        <link>https://speakerdeck.com/ikumatadokoro/xin-deng-chang-popoverapideside-modal-anai-wozuo-rou</link>
+        <dc:date>2023-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AthenaとCloudWatchで始める低コストなSLOエラーバジェット監視 (iwamot)</title>
         <link>https://speakerdeck.com/iwamot/athena-and-cloudwatch-for-slo-monitoring</link>
         <dc:date>2023-06-24T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>AWS Dev Day 2023  E-2: Amazon S3・Amazon Cognito・AWS Lambdaのアンチパターンで学ぶセキュリティ・バイ・デザイン (a_zara_n,@a_zara_n)</title>
         <link>https://www.docswell.com/s/a-zara-n/5248R9-devday</link>
-        <dc:date>2023-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Shifter と Stripe Payment Links を使ってサクッと EC サイトを立ち上げる (marushu)</title>
-        <link>https://speakerdeck.com/marushu/shifter-to-stripe-payment-links-woshi-tutesakututo-ec-saitowoli-tishang-geru</link>
-        <dc:date>2023-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイル開発は本当に必要なのか、何を解決するのか (yuukiyo)</title>
-        <link>https://speakerdeck.com/yuukiyo/is-agile-development-really-necessary-and-what-does-it-solve</link>
-        <dc:date>2023-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CDKで学ぶGoFデザインパターン 〜IaCにもコード設計〜 / aws dev day cdk gof design patterns (k.goto)</title>
-        <link>https://speakerdeck.com/gotok365/aws-dev-day-cdk-gof-design-patterns</link>
         <dc:date>2023-06-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
