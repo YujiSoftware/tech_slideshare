@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Without Practice, No Emergence (Koichi ITO)</title>
+        <link>https://speakerdeck.com/koic/without-practice-no-emergence</link>
+        <dc:date>2023-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WebRTC の現状と未来 (tetter)</title>
         <link>https://speakerdeck.com/tetter27/webrtc-noxian-zhuang-towei-lai</link>
         <dc:date>2023-06-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>失敗知識から学ぶ！クラウドアプリ設計で避けるべき事例とその対策 (@twingo_b)</title>
         <link>https://speakerdeck.com/twingob/shi-bai-zhi-shi-karaxue-bu-kuraudoapurishe-ji-debi-kerubekishi-li-tosonodui-ce</link>
-        <dc:date>2023-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデル (LLM) の進化: GPT 以降の最新動向 / AWS Dev Day 2023 - Evolution of LLM since GPT (Yoshitaka Haribara)</title>
-        <link>https://speakerdeck.com/hariby/aws-dev-day-2023-evolution-of-llm-since-gpt</link>
         <dc:date>2023-06-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
