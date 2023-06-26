@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>育成力 - エンジニアの才能を引き出す環境とチューターの立ち回り - (Y_uuu)</title>
+        <link>https://speakerdeck.com/yuuu/yu-cheng-li-enzinianocai-neng-woyin-kichu-suhuan-jing-totiyutanoli-tihui-ri</link>
+        <dc:date>2023-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2023-06-24 DOMのテストがどんどん書きたくなるTesting Libraryの世界への招待 (#phpconfuk)</title>
         <link>https://docs.google.com/presentation/d/1j6sEAs0LF5jPXs_mHxvPreqK-lxEL3OxvQAFyXmxbZc/preview</link>
         <dc:date>2023-06-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>React+MSW+Storybookで始めるフロントエンドテスト</title>
         <link>https://docs.google.com/presentation/d/1g58iBThR2eEHnOqiROR8FKvwv45ntXhngVGnVfaLLoc/preview</link>
-        <dc:date>2023-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践！モノリスからマイクロサービス！Event Stormingによるドメイン駆動設計から実装まで / AWS_Dev_Day_2023_E_3 (Atsushi Fukui)</title>
-        <link>https://speakerdeck.com/fatsushi/aws-dev-day-2023-e-3</link>
         <dc:date>2023-06-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
