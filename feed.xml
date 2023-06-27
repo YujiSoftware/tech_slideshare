@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Azure OpenAIをもちいたLLMアプリの企画から本番構築までの道のり/Microsoft Build Japan (吉田真吾)</title>
+        <link>https://speakerdeck.com/yoshidashingo/microsoft-build-japan</link>
+        <dc:date>2023-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>技術的負債になりかけていた機能をリアーキテクティングしたらめちゃくちゃ改善した話 / A story that improved a lot when re-architecting a function that was about to become technical debt (kaminashi, Inc.)</title>
         <link>https://speakerdeck.com/kaminashi/a-story-that-improved-a-lot-when-re-architecting-a-function-that-was-about-to-become-technical-debt</link>
         <dc:date>2023-06-27T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>LOWYAが辿った負荷対策の軌跡 〜GraphQL Cachingの実装に至るまで〜 (kazumax55)</title>
         <link>https://speakerdeck.com/kazumax55/lowyakachan-tutafu-he-dui-ce-nogui-ji-graphql-cachingnoshi-zhuang-nizhi-rumate</link>
         <dc:date>2023-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あなたのPHPアプリ、ログはでてますか？あるいはログをだしてますか？ / Are you writing a log? Or just out a log? (uzulla)</title>
-        <link>https://speakerdeck.com/uzulla/are-you-writing-a-log-or-just-out-a-log</link>
-        <dc:date>2023-06-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
