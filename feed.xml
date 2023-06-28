@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ブログを書き続けた話 (kz_morita)</title>
+        <link>https://speakerdeck.com/kz_morita/buroguwoshu-kisok-ketahua</link>
+        <dc:date>2023-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20230627_GPTシステム開発を加速するAzureサービスの活用 (Hirosato Gamo)</title>
         <link>https://speakerdeck.com/hirosatogamo/20230627-gptsisutemukai-fa-wojia-su-suruazuresabisunohuo-yong</link>
         <dc:date>2023-06-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>WhisperとChatGPTで文字起こし (からあげ,@karaage0703)</title>
         <link>https://www.docswell.com/s/karaage0703/K7VJV8-2023-06-24-233535</link>
-        <dc:date>2023-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデルの中身を覗いてみよう / look inside Large Language Models (watasan)</title>
-        <link>https://speakerdeck.com/ae14watanabe/look-inside-large-language-models</link>
         <dc:date>2023-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
