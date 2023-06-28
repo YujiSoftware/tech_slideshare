@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>不確実性を飼い慣らす 〜アンチフラジャイル型のプロダクトマネジメント〜 (市谷聡啓,@papanda)</title>
+        <link>https://www.docswell.com/s/papanda/598W4Y-taming-uncertainty</link>
+        <dc:date>2023-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLM in toB Service and Its UX (y_matsuwitter)</title>
+        <link>https://speakerdeck.com/ymatsuwitter/llm-in-tob-service-and-its-ux</link>
+        <dc:date>2023-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ブログを書き続けた話 (kz_morita)</title>
         <link>https://speakerdeck.com/kz_morita/buroguwoshu-kisok-ketahua</link>
         <dc:date>2023-06-27T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AthenaとCloudWatchで始める低コストなSLOエラーバジェット監視 (iwamot)</title>
         <link>https://speakerdeck.com/iwamot/athena-and-cloudwatch-for-slo-monitoring</link>
-        <dc:date>2023-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SSII2023 [OS1] GPT-4とVision-and-Languageの未来 (画像センシングシンポジウム)</title>
-        <link>https://speakerdeck.com/ssii/ssii2023-os1-04</link>
-        <dc:date>2023-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WhisperとChatGPTで文字起こし (からあげ,@karaage0703)</title>
-        <link>https://www.docswell.com/s/karaage0703/K7VJV8-2023-06-24-233535</link>
         <dc:date>2023-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
