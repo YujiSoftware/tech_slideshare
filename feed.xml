@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Relic_Tech_Camp_GenerativeAI.pdf (hedgehog051)</title>
+        <link>https://speakerdeck.com/hedgehog051/relic-tech-camp-generativeai</link>
+        <dc:date>2023-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Recent_LLMs.pptx</title>
         <link>https://docs.google.com/presentation/d/178Nk6flxqS59E2J9SSj5ZhyZ8YD_3tWJ/preview</link>
         <dc:date>2023-06-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[SRETT #6] DBREノススメ (nnaka2992)</title>
         <link>https://speakerdeck.com/nnaka2992/srett-number-6-dbrenosusume</link>
-        <dc:date>2023-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モダンアプリケーションにおける分散トランザクションの動機と実装 @ AWS Dev Day 2023 Tokyo (Yuji Nomura)</title>
-        <link>https://speakerdeck.com/ugnom/awsdevday-2023-tokyo-e1-distributed-transactions</link>
         <dc:date>2023-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
