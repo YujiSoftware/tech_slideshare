@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The Cost Of JavaScript in 2023 (Addy Osmani)</title>
+        <link>https://speakerdeck.com/addyosmani/the-cost-of-javascript-in-2023</link>
+        <dc:date>2023-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Relic_Tech_Camp_GenerativeAI.pdf (hedgehog051)</title>
         <link>https://speakerdeck.com/hedgehog051/relic-tech-camp-generativeai</link>
         <dc:date>2023-06-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>つくばチャレンジ2023全体概要 (つくばチャレンジ実行委員会)</title>
         <link>https://speakerdeck.com/tsukubachallenge/tc2023-orientation</link>
-        <dc:date>2023-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[SRETT #6] DBREノススメ (nnaka2992)</title>
-        <link>https://speakerdeck.com/nnaka2992/srett-number-6-dbrenosusume</link>
         <dc:date>2023-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
