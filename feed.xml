@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Recent_LLMs.pptx</title>
+        <link>https://docs.google.com/presentation/d/178Nk6flxqS59E2J9SSj5ZhyZ8YD_3tWJ/preview</link>
+        <dc:date>2023-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMを活用した “反直感的”な新規サービス設計 (Shunsuke Ono)</title>
         <link>https://speakerdeck.com/shunsukeono_am/llmwohuo-yong-sita-fan-zhi-gan-de-naxin-gui-sabisushe-ji-a1bc8a7f-a69f-4f60-bc93-90702c404769</link>
         <dc:date>2023-06-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>モダンアプリケーションにおける分散トランザクションの動機と実装 @ AWS Dev Day 2023 Tokyo (Yuji Nomura)</title>
         <link>https://speakerdeck.com/ugnom/awsdevday-2023-tokyo-e1-distributed-transactions</link>
-        <dc:date>2023-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新登場！PopoverAPIでSide Modal(anai)を作ろう！ (ikuma-t)</title>
-        <link>https://speakerdeck.com/ikumatadokoro/xin-deng-chang-popoverapideside-modal-anai-wozuo-rou</link>
         <dc:date>2023-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
