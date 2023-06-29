@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Javaの並列/並行処理の基本 (Yuichi.Sakuraba)</title>
+        <link>https://speakerdeck.com/skrb/bing-xing-chu-li-noji-ben</link>
+        <dc:date>2023-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>APIシナリオテストを書くべき10の理由 (katzumi,@katzchum)</title>
         <link>https://www.docswell.com/s/katzumi/5EN8N1-10-reasons-to-write-api-scenario-tests</link>
         <dc:date>2023-06-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Without Practice, No Emergence (Koichi ITO)</title>
         <link>https://speakerdeck.com/koic/without-practice-no-emergence</link>
-        <dc:date>2023-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebRTC の現状と未来 (tetter)</title>
-        <link>https://speakerdeck.com/tetter27/webrtc-noxian-zhuang-towei-lai</link>
         <dc:date>2023-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
