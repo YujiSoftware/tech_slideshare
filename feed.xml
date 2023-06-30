@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【YouTube】ChatGPT×LINEでAIチャットボットの作り方</title>
+        <link>https://docs.google.com/presentation/d/1nCkgJzuqepPpFrCkYcCgPPAK2zVWo_v37wrqufi8lvk/preview</link>
+        <dc:date>2023-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BigQuery リリースノート - 2023年上半期</title>
+        <link>https://docs.google.com/presentation/d/1SZ-gMjBsFhnHX7CkNlSIW6FrImlq9ujBpJ6eXrXFOF4/preview</link>
+        <dc:date>2023-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Do you like Storybook? (nus3)</title>
         <link>https://speakerdeck.com/yotahada3/do-you-like-storybook</link>
         <dc:date>2023-06-29T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Azure OpenAIをもちいたLLMアプリの企画から本番構築までの道のり/Microsoft Build Japan (吉田真吾)</title>
         <link>https://speakerdeck.com/yoshidashingo/microsoft-build-japan</link>
-        <dc:date>2023-06-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術的負債になりかけていた機能をリアーキテクティングしたらめちゃくちゃ改善した話 / A story that improved a lot when re-architecting a function that was about to become technical debt (kaminashi, Inc.)</title>
-        <link>https://speakerdeck.com/kaminashi/a-story-that-improved-a-lot-when-re-architecting-a-function-that-was-about-to-become-technical-debt</link>
-        <dc:date>2023-06-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>老舗企業が開発組織カルチャーの刷新を行い SaaS 戦略に切り替えた話 (Takafumi Omuro)</title>
-        <link>https://speakerdeck.com/tomuro/lao-pu-qi-ye-gakai-fa-zu-zhi-karutiyanoshua-xin-woxing-i-saas-zhan-lue-niqie-riti-etahua</link>
         <dc:date>2023-06-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
