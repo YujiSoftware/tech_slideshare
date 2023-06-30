@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>結局のところ いつ、どのAIツールを、 どのように使えば良いのか (fumi-sagawa)</title>
+        <link>https://speakerdeck.com/sagawa23/jie-ju-notokoro-itu-donoaituruwo-donoyounishi-ebaliang-inoka</link>
+        <dc:date>2023-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Encraft#4 ナレッジワークでの App Router のこれまでとこれから</title>
         <link>https://docs.google.com/presentation/d/13290KW30PqzEYBihxNSkx4s4Ygs2B6p3Xch0dpJkh-0/preview</link>
         <dc:date>2023-06-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SREチームがNew Relicを使って AWSコスト最適化に貢献した話 (Yuki Ando,@integrated1453)</title>
         <link>https://www.docswell.com/s/integrated1453/Z6YJ7M-aws-cost-optimization-by-newrelic</link>
-        <dc:date>2023-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>成長を続けるSaaSのAWSコスト管理において 開発者としてできること /  AWS DevDay SaaS Cost (sasaki)</title>
-        <link>https://speakerdeck.com/taishin/aws-devday-saas-cost</link>
         <dc:date>2023-06-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
