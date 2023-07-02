@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Time Zone Canonicalization Proposal (for Stage 3)</title>
+        <link>https://docs.google.com/presentation/d/1MVBKAB8U16ynSHmO6Mkt26hT5U-28OjyG9-L-GFdikE/preview</link>
+        <dc:date>2023-07-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>形式スクラムの功罪 (yumechi(Motoki Hirao))</title>
         <link>https://speakerdeck.com/yumechi/xing-shi-sukuramunogong-zui</link>
         <dc:date>2023-07-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Recent_LLMs.pptx</title>
         <link>https://docs.google.com/presentation/d/178Nk6flxqS59E2J9SSj5ZhyZ8YD_3tWJ/preview</link>
-        <dc:date>2023-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMを活用した “反直感的”な新規サービス設計 (Shunsuke Ono)</title>
-        <link>https://speakerdeck.com/shunsukeono_am/llmwohuo-yong-sita-fan-zhi-gan-de-naxin-gui-sabisushe-ji-a1bc8a7f-a69f-4f60-bc93-90702c404769</link>
         <dc:date>2023-06-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
