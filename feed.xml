@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>中小病院向け、レセコン一体型電子カルテの開発の面白さ (Kento Nagata)</title>
+        <link>https://speakerdeck.com/ngtk/zhong-xiao-bing-yuan-xiang-ke-resekon-ti-xing-dian-zi-karutenokai-fa-nomian-bai-sa</link>
+        <dc:date>2023-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Data Engineering Study #20 "Introduction to Data Analytics with SQL" Book (Minero Aoki)</title>
         <link>https://speakerdeck.com/aamine/data-engineering-study-number-20-introduction-to-data-analytics-with-sql-book</link>
         <dc:date>2023-07-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>APIシナリオテストを書くべき10の理由 (katzumi,@katzchum)</title>
         <link>https://www.docswell.com/s/katzumi/5EN8N1-10-reasons-to-write-api-scenario-tests</link>
-        <dc:date>2023-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React/Next によるアプリケーション開発のこれから (koba04)</title>
-        <link>https://speakerdeck.com/koba04/next-niyoruapurikesiyonkai-fa-nokorekara</link>
         <dc:date>2023-06-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
