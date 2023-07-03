@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>IBM Cloud 101 - #2 IBM Cloud の IAM を理解(ワカ)る (noggy33)</title>
+        <link>https://speakerdeck.com/noggy33/ibm-cloud-101-number-2-ibm-cloud-false-iam-woli-jie-waka-ru</link>
+        <dc:date>2023-07-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事業の試行錯誤を支えるピボットしやすいシステム設計と工夫 / Easy-to-pivot system design to support trial and error in business (zuckey_17)</title>
         <link>https://speakerdeck.com/zuckey_17/easy-to-pivot-system-design-to-support-trial-and-error-in-business</link>
         <dc:date>2023-07-02T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Azure OpenAI Serviceを活用した AI SaaSプロダクト開発の実践 (PKSHA Technology)</title>
         <link>https://speakerdeck.com/pkshadeck/azure-openai-servicewohuo-yong-sita-ai-saaspurodakutokai-fa-noshi-jian</link>
         <dc:date>2023-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SIMDの基礎と関数の実装例 (herumi)</title>
-        <link>https://speakerdeck.com/herumi/simdnoji-chu-toguan-shu-noshi-zhuang-li</link>
-        <dc:date>2023-06-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
