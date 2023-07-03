@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Data Engineering Study #20 "Introduction to Data Analytics with SQL" Book (Minero Aoki)</title>
+        <link>https://speakerdeck.com/aamine/data-engineering-study-number-20-introduction-to-data-analytics-with-sql-book</link>
+        <dc:date>2023-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>論文解説 ControlNet (koharite)</title>
         <link>https://speakerdeck.com/koharite/lun-wen-jie-shuo-controlnet</link>
         <dc:date>2023-07-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>React/Next によるアプリケーション開発のこれから (koba04)</title>
         <link>https://speakerdeck.com/koba04/next-niyoruapurikesiyonkai-fa-nokorekara</link>
-        <dc:date>2023-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Cost Of JavaScript in 2023 (Addy Osmani)</title>
-        <link>https://speakerdeck.com/addyosmani/the-cost-of-javascript-in-2023</link>
         <dc:date>2023-06-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
