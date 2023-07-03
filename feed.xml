@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モバイルゲームの バックエンド開発 (COLOPL Inc.)</title>
+        <link>https://speakerdeck.com/colopl/mobairugemuno-batukuendokai-fa</link>
+        <dc:date>2023-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Time Zone Canonicalization Proposal (for Stage 3)</title>
         <link>https://docs.google.com/presentation/d/1MVBKAB8U16ynSHmO6Mkt26hT5U-28OjyG9-L-GFdikE/preview</link>
         <dc:date>2023-07-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Relic_Tech_Camp_GenerativeAI.pdf (hedgehog051)</title>
         <link>https://speakerdeck.com/hedgehog051/relic-tech-camp-generativeai</link>
-        <dc:date>2023-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Recent_LLMs.pptx</title>
-        <link>https://docs.google.com/presentation/d/178Nk6flxqS59E2J9SSj5ZhyZ8YD_3tWJ/preview</link>
         <dc:date>2023-06-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
