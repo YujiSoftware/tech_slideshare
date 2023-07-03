@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vision and Languageの現状と展望（GPT-4） (Masanori Suganuma)</title>
+        <link>https://speakerdeck.com/sgnm/vision-and-languagenoxian-zhuang-tozhan-wang-gpt-4</link>
+        <dc:date>2023-07-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IBM Cloud 101 - #2 IBM Cloud の IAM を理解(ワカ)る (noggy33)</title>
         <link>https://speakerdeck.com/noggy33/ibm-cloud-101-number-2-ibm-cloud-false-iam-woli-jie-waka-ru</link>
         <dc:date>2023-07-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Suspense Fetchを3年実用してみて - Encraft#4</title>
         <link>https://docs.google.com/presentation/d/19r7fNb6xTk0NDNcdZaQZy3Ng__8doLAeN3ET6nwsbvk/preview</link>
-        <dc:date>2023-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure OpenAI Serviceを活用した AI SaaSプロダクト開発の実践 (PKSHA Technology)</title>
-        <link>https://speakerdeck.com/pkshadeck/azure-openai-servicewohuo-yong-sita-ai-saaspurodakutokai-fa-noshi-jian</link>
         <dc:date>2023-06-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
