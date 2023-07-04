@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>レガシー回避のPHP開発術/avoid_php_legacy (Ryo Tomidokoro)</title>
+        <link>https://speakerdeck.com/hanhan1978/avoid-php-legacy</link>
+        <dc:date>2023-07-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラウドデータセンターネットワークの “いま”と “これから” (Masayuki Kobayashi)</title>
+        <link>https://speakerdeck.com/markunet/kurautotetasentanetutowakuno-ima-to-korekara</link>
+        <dc:date>2023-07-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vision and Languageの現状と展望（GPT-4） (Masanori Suganuma)</title>
         <link>https://speakerdeck.com/sgnm/vision-and-languagenoxian-zhuang-tozhan-wang-gpt-4</link>
         <dc:date>2023-07-03T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>結局のところ いつ、どのAIツールを、 どのように使えば良いのか (fumi-sagawa)</title>
         <link>https://speakerdeck.com/sagawa23/jie-ju-notokoro-itu-donoaituruwo-donoyounishi-ebaliang-inoka</link>
-        <dc:date>2023-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Encraft#4 ナレッジワークでの App Router のこれまでとこれから</title>
-        <link>https://docs.google.com/presentation/d/13290KW30PqzEYBihxNSkx4s4Ygs2B6p3Xch0dpJkh-0/preview</link>
-        <dc:date>2023-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Suspense Fetchを3年実用してみて - Encraft#4</title>
-        <link>https://docs.google.com/presentation/d/19r7fNb6xTk0NDNcdZaQZy3Ng__8doLAeN3ET6nwsbvk/preview</link>
         <dc:date>2023-06-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
