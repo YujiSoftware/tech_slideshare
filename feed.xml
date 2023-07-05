@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMをやめよう / stop using LLM (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/stop-using-llm</link>
+        <dc:date>2023-07-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SLOをゼロからつくる (BABAROT)</title>
         <link>https://speakerdeck.com/b4b4r07/brand-new-slo-at-10x</link>
         <dc:date>2023-07-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>論文解説 ControlNet (koharite)</title>
         <link>https://speakerdeck.com/koharite/lun-wen-jie-shuo-controlnet</link>
-        <dc:date>2023-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モバイルゲームの バックエンド開発 (COLOPL Inc.)</title>
-        <link>https://speakerdeck.com/colopl/mobairugemuno-batukuendokai-fa</link>
         <dc:date>2023-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
