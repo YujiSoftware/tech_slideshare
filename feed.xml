@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コンテナセキュリティ (Kyohei Mizumoto)</title>
+        <link>https://speakerdeck.com/kyohmizu/kontenasekiyuritei</link>
+        <dc:date>2023-07-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PLATEAU AWARD 技術解説 2023</title>
         <link>https://docs.google.com/presentation/d/128NrFAQfoaxd3qkzXHWj8TkA-NZOb6ye4SlwjLq1bGo/preview</link>
         <dc:date>2023-07-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Time Zone Canonicalization Proposal (for Stage 3)</title>
         <link>https://docs.google.com/presentation/d/1MVBKAB8U16ynSHmO6Mkt26hT5U-28OjyG9-L-GFdikE/preview</link>
-        <dc:date>2023-07-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>形式スクラムの功罪 (yumechi(Motoki Hirao))</title>
-        <link>https://speakerdeck.com/yumechi/xing-shi-sukuramunogong-zui</link>
         <dc:date>2023-07-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
