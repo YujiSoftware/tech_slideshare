@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SLOをゼロからつくる (BABAROT)</title>
+        <link>https://speakerdeck.com/b4b4r07/brand-new-slo-at-10x</link>
+        <dc:date>2023-07-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コンテナセキュリティ (Kyohei Mizumoto)</title>
         <link>https://speakerdeck.com/kyohmizu/kontenasekiyuritei</link>
         <dc:date>2023-07-04T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>モバイルゲームの バックエンド開発 (COLOPL Inc.)</title>
         <link>https://speakerdeck.com/colopl/mobairugemuno-batukuendokai-fa</link>
         <dc:date>2023-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Time Zone Canonicalization Proposal (for Stage 3)</title>
-        <link>https://docs.google.com/presentation/d/1MVBKAB8U16ynSHmO6Mkt26hT5U-28OjyG9-L-GFdikE/preview</link>
-        <dc:date>2023-07-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
