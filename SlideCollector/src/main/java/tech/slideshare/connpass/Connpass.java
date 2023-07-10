@@ -62,7 +62,7 @@ public record Connpass(
             @JsonProperty("hash_tag") String hashTag,
             @JsonProperty("started_at") ZonedDateTime startedAt,
             @JsonProperty("ended_at") ZonedDateTime endedAt,
-            @JsonProperty("limit") int limit,
+            @JsonProperty("limit") long limit,
             @JsonProperty("event_type") String eventType,
             @JsonProperty("series") Series series,
             @JsonProperty("address") String address,
