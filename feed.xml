@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>はじめての個人開発で、Jetpack Compose を使った話 (keigomichi)</title>
+        <link>https://speakerdeck.com/keigomichi/hazimetenoge-ren-kai-fa-de-jetpack-compose-woshi-tutahua</link>
+        <dc:date>2023-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>メルカリ生成AI/LLM専任チームの取り組み@MS Build Japan2023 (Yuki Ishikawa)</title>
         <link>https://speakerdeck.com/mazeltov7/llmzhuan-ren-timunoqu-rizu-mi-at-ms-build-japan2023</link>
         <dc:date>2023-07-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>デスクトップアプリケーションのUIパターン - ウインドウ編（公開版） / UI Patterns of Desktop Applications - Window Layouts (usagimaru)</title>
         <link>https://speakerdeck.com/usagimaru/ui-patterns-of-desktop-applications-window-layouts</link>
-        <dc:date>2023-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【基調講演】“Connect – Reconnect” データはつながり、新しいフェーズへ ― SORACOM Discovery 2023 (SORACOM)</title>
-        <link>https://speakerdeck.com/soracom/soracom-discovery-2023-ceo-keynote</link>
         <dc:date>2023-07-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
