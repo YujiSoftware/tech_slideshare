@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>バクラクのデータドリブンな事業運営・爆速開発を支えるデータ分析基盤のこれまで・現在・これから (Shun Takagiwa)</title>
+        <link>https://speakerdeck.com/shuntak/bakuraku-data-management-2023</link>
+        <dc:date>2023-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2023-07 - Deferred import evaluation for Stage 2</title>
         <link>https://docs.google.com/presentation/d/1rSsVsFsnXQZ8pEGFwAGiVbVqndr4DHEUqTGEM9Au0_4/preview</link>
         <dc:date>2023-07-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>数値で整理する大規模言語モデル(LLM) のメモ (Kan Hatakeyama,@kanhatakeyama)</title>
         <link>https://www.docswell.com/s/KanHatakeyama/ZEN8V6-2023-07-06-110038</link>
         <dc:date>2023-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>各種生成AIについて (abenben)</title>
-        <link>https://speakerdeck.com/abenben/ge-zhong-sheng-cheng-ainituite</link>
-        <dc:date>2023-07-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
