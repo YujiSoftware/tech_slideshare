@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>メルカリ生成AI/LLM専任チームの取り組み@MS Build Japan2023 (Yuki Ishikawa)</title>
+        <link>https://speakerdeck.com/mazeltov7/llmzhuan-ren-timunoqu-rizu-mi-at-ms-build-japan2023</link>
+        <dc:date>2023-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データ整備の優先順位付けに役立つテクニック (nagai shinya)</title>
+        <link>https://speakerdeck.com/__hiza__/tetazheng-bei-noyou-xian-shun-wei-fu-keniyi-li-tutekunituku</link>
+        <dc:date>2023-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>dbt docsを使ったデータカタログの運用事例紹介 (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/dbt-docswoshi-tutadetakatarogunoyun-yong-shi-li-shao-jie</link>
+        <dc:date>2023-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JAWS-UG 長野支部 勉強会 in 松本 IaC 関連最新情報 (Hiroki Uchida)</title>
         <link>https://speakerdeck.com/nikuyoshi/jaws-ug-chang-ye-zhi-bu-mian-qiang-hui-in-song-ben-iac-guan-lian-zui-xin-qing-bao</link>
         <dc:date>2023-07-10T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>【基調講演】“Connect – Reconnect” データはつながり、新しいフェーズへ ― SORACOM Discovery 2023 (SORACOM)</title>
         <link>https://speakerdeck.com/soracom/soracom-discovery-2023-ceo-keynote</link>
         <dc:date>2023-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>YARD with RBS Syntax (Takumi Shotoku)</title>
-        <link>https://speakerdeck.com/sinsoku/yard-with-rbs-syntax</link>
-        <dc:date>2023-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成系AIの実応用に向けて (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/toward-practical-applications-of-generative-ai</link>
-        <dc:date>2023-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>すばやく実装するための戦略とテクニック2023年版 #prtimes_dev (Hiromi Hishida)</title>
-        <link>https://speakerdeck.com/77web/subayakushi-zhuang-surutamenozhan-lue-totekunituku2023nian-ban</link>
-        <dc:date>2023-07-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
