@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DNS水責め攻撃と監視 / DNS water torture attack Monitoring and SLO (kazeburo)</title>
+        <link>https://speakerdeck.com/kazeburo/dns-water-torture-attack-monitoring-and-slo</link>
+        <dc:date>2023-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>バクラクのデータドリブンな事業運営・爆速開発を支えるデータ分析基盤のこれまで・現在・これから (Shun Takagiwa)</title>
         <link>https://speakerdeck.com/shuntak/bakuraku-data-management-2023</link>
         <dc:date>2023-07-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>秒間 10,000 リクエストを "簡単に"いなすゲームサーバーを Laravel で作る設計 (Masaru Yamagishi)</title>
         <link>https://speakerdeck.com/myamagishi/miao-jian-10000-rikuesutowo-jian-dan-ni-inasugemusabawo-laravel-dezuo-rushe-ji</link>
-        <dc:date>2023-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>数値で整理する大規模言語モデル(LLM) のメモ (Kan Hatakeyama,@kanhatakeyama)</title>
-        <link>https://www.docswell.com/s/KanHatakeyama/ZEN8V6-2023-07-06-110038</link>
         <dc:date>2023-07-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
