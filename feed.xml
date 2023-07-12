@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>チーム開発の進め方と便利ツール (KoheiWakimoto)</title>
+        <link>https://speakerdeck.com/koheiwakimoto/timukai-fa-falsejin-mefang-tobian-li-turu</link>
+        <dc:date>2023-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>脱ブラックボックス化！LLMと一緒に使われるLangChainやLlamaIndexを徹底解説 (nakamura.shogo)</title>
         <link>https://speakerdeck.com/cmnakamurashogo/tuo-buratukubotukusuhua-llmto-xu-nishi-warerulangchainyallamaindexwoche-di-jie-shuo</link>
         <dc:date>2023-07-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>230710 コミュニティ立ち上げ時にやったこと_Mitz (comucal)</title>
         <link>https://speakerdeck.com/comucal/community-start20230710-mitz</link>
-        <dc:date>2023-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SoftWare Engineer in Test のおしごと / What is SWET (Kuniwak)</title>
-        <link>https://speakerdeck.com/orgachem/what-is-swet</link>
         <dc:date>2023-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
