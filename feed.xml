@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[HeatWavejp Meetup #02] MySQL HeatWave for Azure 性能検証レポート [坂野 竹美 氏(スマートスタイル)] (HeatWavejp（MySQL HeatWave Japan User Group）)</title>
+        <link>https://speakerdeck.com/heatwavejp/heatwavejp-meetup-number-02-mysql-heatwave-for-azure-xing-neng-jian-zheng-repoto-ban-ye-zhu-mei-shi-sumatosutairu-99a6a6d3-8825-4acf-af07-27faf8bf2f8f</link>
+        <dc:date>2023-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[HeatWavejp Meetup #02] Oracle Database Service for Azure ~ AzureからOCIデータベースに接続 [近藤 暁太 氏(日本オラクル)] (HeatWavejp（MySQL HeatWave Japan User Group）)</title>
+        <link>https://speakerdeck.com/heatwavejp/heatwavejp-meetup-number-02-oracle-database-service-for-azure-azurekaraocidetabesunijie-sok-jin-teng-xiao-tai-shi-ri-ben-orakuru</link>
+        <dc:date>2023-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[HeatWavejp Meetup #02] MySQL HeatWave 最新アップデート情報 [藤本 正比古 氏(スマートスタイル)] (HeatWavejp（MySQL HeatWave Japan User Group）)</title>
+        <link>https://speakerdeck.com/heatwavejp/heatwavejp-meetup-number-02-mysql-heatwave-zui-xin-atupudetoqing-bao-teng-ben-zheng-bi-gu-shi-sumatosutairu</link>
+        <dc:date>2023-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[HeatWavejp Meetup #02] MySQL HeatWave の名称を区別しませんか？ [山﨑 由章 氏(HeatWavejp)] (HeatWavejp（MySQL HeatWave Japan User Group）)</title>
+        <link>https://speakerdeck.com/heatwavejp/heatwavejp-meetup-number-02-mysql-heatwave-noming-cheng-woqu-bie-simasenka-shan-you-zhang-shi-heatwavejp</link>
+        <dc:date>2023-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なぜ Four Keys を改善するのか？/productivity-con-link-and-motivation (リンクアンドモチベーション)</title>
         <link>https://speakerdeck.com/lmi/productivity-con-link-and-motivation</link>
         <dc:date>2023-07-12T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>dbt docsを使ったデータカタログの運用事例紹介 (10xinc)</title>
         <link>https://speakerdeck.com/10xinc/dbt-docswoshi-tutadetakatarogunoyun-yong-shi-li-shao-jie</link>
-        <dc:date>2023-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS-UG 長野支部 勉強会 in 松本 IaC 関連最新情報 (Hiroki Uchida)</title>
-        <link>https://speakerdeck.com/nikuyoshi/jaws-ug-chang-ye-zhi-bu-mian-qiang-hui-in-song-ben-iac-guan-lian-zui-xin-qing-bao</link>
-        <dc:date>2023-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデルを支える分散学習インフラ Pathways (Etsuji Nakai)</title>
-        <link>https://speakerdeck.com/enakai00/da-gui-mo-yan-yu-moderuwozhi-erufen-san-xue-xi-inhura-pathways</link>
-        <dc:date>2023-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Build apps for Cars (Keishin Yokomaku)</title>
-        <link>https://speakerdeck.com/keithyokoma/build-apps-for-cars</link>
-        <dc:date>2023-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Transit Gatewayを使わなければならない場面を改めて考えてみる #dx_osarai (のんピ)</title>
-        <link>https://speakerdeck.com/non97/transit-gatewaywoshi-wanakerebanaranaichang-mian-wogai-metekao-etemiru-number-dx-osarai</link>
         <dc:date>2023-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
