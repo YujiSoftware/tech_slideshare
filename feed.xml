@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>論文紹介：ChatGPT で情報抽出タスクは解けるのか？ Is information extraction solved by ChatGPT?  An analysis of performance, evaluation criteria, robustness and errors (Shota Kato)</title>
+        <link>https://speakerdeck.com/stktu/lun-wen-shao-jie-chatgpt-deqing-bao-chou-chu-tasukuhajie-kerunoka-is-information-extraction-solved-by-chatgpt-an-analysis-of-performance-evaluation-criteria-robustness-and-errors</link>
+        <dc:date>2023-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[HeatWavejp Meetup #02] MySQL HeatWave for Azure 性能検証レポート [坂野 竹美 氏(スマートスタイル)] (HeatWavejp（MySQL HeatWave Japan User Group）)</title>
         <link>https://speakerdeck.com/heatwavejp/heatwavejp-meetup-number-02-mysql-heatwave-for-azure-xing-neng-jian-zheng-repoto-ban-ye-zhu-mei-shi-sumatosutairu-99a6a6d3-8825-4acf-af07-27faf8bf2f8f</link>
         <dc:date>2023-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データ整備の優先順位付けに役立つテクニック (nagai shinya)</title>
         <link>https://speakerdeck.com/__hiza__/tetazheng-bei-noyou-xian-shun-wei-fu-keniyi-li-tutekunituku</link>
-        <dc:date>2023-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbt docsを使ったデータカタログの運用事例紹介 (10xinc)</title>
-        <link>https://speakerdeck.com/10xinc/dbt-docswoshi-tutadetakatarogunoyun-yong-shi-li-shao-jie</link>
         <dc:date>2023-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
