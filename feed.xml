@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>安全第一！ NeRF撮影時の危険箇所教えます (iwama,@iwamah1)</title>
+        <link>https://www.docswell.com/s/iwamah1/KYWD8V-2023-04-22-192438</link>
+        <dc:date>2023-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>人や遠景を撮るコツ</title>
+        <link>https://docs.google.com/presentation/d/1-A7AmvRirYw7nWhPQDGJgiFV_hwwV4FUznEm9C2Orlw/preview</link>
+        <dc:date>2023-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【NeRF撮り方LT会】NeRFが空間を理解する仕組み (さくたま)</title>
+        <link>https://speakerdeck.com/sakutama_11/nerfcuo-rifang-lthui-nerfgakong-jian-woli-jie-surushi-zu-mi</link>
+        <dc:date>2023-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>バクラクのAI-OCRを支える精度モニタリング -モニタリングドリブンの改善- (Tomoaki)</title>
         <link>https://speakerdeck.com/tomoaki25/bakurakunoai-ocrwozhi-erujing-du-monitaringu-monitaringudoribunnogai-shan</link>
         <dc:date>2023-07-12T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>dx_osarai_about_connection (da-hatakeyama)</title>
         <link>https://speakerdeck.com/hatahata021/dx-osarai-about-connection</link>
-        <dc:date>2023-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脱KPTで楽しく有意義に振り返り！ Sailboat Retrospective (おおいし)</title>
-        <link>https://speakerdeck.com/bicstone/kpt-to-sailboat-retrospective</link>
-        <dc:date>2023-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IETFにおけるNTPv5の標準化とossification.pdf (flano_yuki)</title>
-        <link>https://speakerdeck.com/flanoyuki/ietfniokeruntpv5nobiao-zhun-hua-toossification</link>
-        <dc:date>2023-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PipeCD Good First Issues</title>
-        <link>https://docs.google.com/presentation/d/1milqcJfYyywmWDyINTZJ4zgLdgU5EtVvWI6ADSoWoYM/preview</link>
         <dc:date>2023-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
