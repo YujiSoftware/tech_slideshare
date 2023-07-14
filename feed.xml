@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>reducing wasted effort due to proposal churn</title>
+        <link>https://docs.google.com/presentation/d/1V3Fg6HVC-VA41YCu0Yhqynvqhsu5kVj7tiWuVfp8S90/preview</link>
+        <dc:date>2023-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Jetpack ComposeのVisualTransformationが便利</title>
         <link>https://docs.google.com/presentation/d/1-04Q86SDKbxWWt7o6vn24tPhgDKn9c5cjqkmUeTdN4c/preview</link>
         <dc:date>2023-07-13T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>チーム開発の進め方と便利ツール (KoheiWakimoto)</title>
         <link>https://speakerdeck.com/koheiwakimoto/timukai-fa-falsejin-mefang-tobian-li-turu</link>
         <dc:date>2023-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脱ブラックボックス化！LLMと一緒に使われるLangChainやLlamaIndexを徹底解説 (nakamura.shogo)</title>
-        <link>https://speakerdeck.com/cmnakamurashogo/tuo-buratukubotukusuhua-llmto-xu-nishi-warerulangchainyallamaindexwoche-di-jie-shuo</link>
-        <dc:date>2023-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
