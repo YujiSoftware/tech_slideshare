@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloud Native の作法 (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/cloud-native-nozuo-fa</link>
+        <dc:date>2023-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>論文紹介：ChatGPT で情報抽出タスクは解けるのか？ Is information extraction solved by ChatGPT?  An analysis of performance, evaluation criteria, robustness and errors (Shota Kato)</title>
         <link>https://speakerdeck.com/stktu/lun-wen-shao-jie-chatgpt-deqing-bao-chou-chu-tasukuhajie-kerunoka-is-information-extraction-solved-by-chatgpt-an-analysis-of-performance-evaluation-criteria-robustness-and-errors</link>
         <dc:date>2023-07-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>メルカリ生成AI/LLM専任チームの取り組み@MS Build Japan2023 (Yuki Ishikawa)</title>
         <link>https://speakerdeck.com/mazeltov7/llmzhuan-ren-timunoqu-rizu-mi-at-ms-build-japan2023</link>
-        <dc:date>2023-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ整備の優先順位付けに役立つテクニック (nagai shinya)</title>
-        <link>https://speakerdeck.com/__hiza__/tetazheng-bei-noyou-xian-shun-wei-fu-keniyi-li-tutekunituku</link>
         <dc:date>2023-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
