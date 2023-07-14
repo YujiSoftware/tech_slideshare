@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Jetpack ComposeのVisualTransformationが便利</title>
+        <link>https://docs.google.com/presentation/d/1-04Q86SDKbxWWt7o6vn24tPhgDKn9c5cjqkmUeTdN4c/preview</link>
+        <dc:date>2023-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Jetpack Composeで画像クロップ機能を実装する (Moyuru Aizawa)</title>
+        <link>https://speakerdeck.com/lvla/jetpack-compose-image-cropper</link>
+        <dc:date>2023-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Let's Take a Deep Dive into Pager Indicators (OG1)</title>
+        <link>https://speakerdeck.com/ogi2ogi/lets-take-a-deep-dive-into-pager-indicators</link>
+        <dc:date>2023-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>文字拡大されても怖くない レイアウト作りのコツ (Tiphaine)</title>
+        <link>https://speakerdeck.com/tahia910/wen-zi-kuo-da-saretemobu-kunai-reiautozuo-rinokotu</link>
+        <dc:date>2023-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロー効率を重視して「2年半でエンジニア2名→35名」の急拡大組織で高い生産性を実現した話 (Masaya Hayashi)</title>
         <link>https://speakerdeck.com/rinchsan/huroxiao-lu-wozhong-shi-site-2nian-ban-deenzinia2ming-35ming-noji-kuo-da-zu-zhi-degao-isheng-chan-xing-woshi-xian-sitahua</link>
         <dc:date>2023-07-13T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>脱ブラックボックス化！LLMと一緒に使われるLangChainやLlamaIndexを徹底解説 (nakamura.shogo)</title>
         <link>https://speakerdeck.com/cmnakamurashogo/tuo-buratukubotukusuhua-llmto-xu-nishi-warerulangchainyallamaindexwoche-di-jie-shuo</link>
         <dc:date>2023-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI ミーティング 20230712 (1ft-seabass)</title>
-        <link>https://speakerdeck.com/1ftseabass/ai-meeting-20230712</link>
-        <dc:date>2023-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DNS水責め攻撃と監視 / DNS water torture attack Monitoring and SLO (kazeburo)</title>
-        <link>https://speakerdeck.com/kazeburo/dns-water-torture-attack-monitoring-and-slo</link>
-        <dc:date>2023-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バクラクのデータドリブンな事業運営・爆速開発を支えるデータ分析基盤のこれまで・現在・これから (Shun Takagiwa)</title>
-        <link>https://speakerdeck.com/shuntak/bakuraku-data-management-2023</link>
-        <dc:date>2023-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023-07 - Deferred import evaluation for Stage 2</title>
-        <link>https://docs.google.com/presentation/d/1rSsVsFsnXQZ8pEGFwAGiVbVqndr4DHEUqTGEM9Au0_4/preview</link>
-        <dc:date>2023-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
