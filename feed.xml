@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TiDBによる大規模ログデータ管理の挑戦！シャーディングなしで大量インサートをさばくには？ - LINE株式会社 - TiDB User Day 2023 (PingCAP-Japan)</title>
+        <link>https://speakerdeck.com/pingcap0315/linezhu-shi-hui-she-tidbniyoruda-gui-mo-rogudetaguan-li-notiao-zhan-siyadeingunasideda-liang-insatowosabakuniha-2023-tidb-user-day-setusiyon</link>
+        <dc:date>2023-07-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Webフロントエンドの進化とJamstackアーキテクチャの変遷 (microCMS)</title>
         <link>https://speakerdeck.com/microcms/webhurontoendonojin-hua-tojamstackakitekutiyanobian-qian</link>
         <dc:date>2023-07-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[HeatWavejp Meetup #02] MySQL HeatWave 最新アップデート情報 [藤本 正比古 氏(スマートスタイル)] (HeatWavejp（MySQL HeatWave Japan User Group）)</title>
         <link>https://speakerdeck.com/heatwavejp/heatwavejp-meetup-number-02-mysql-heatwave-zui-xin-atupudetoqing-bao-teng-ben-zheng-bi-gu-shi-sumatosutairu</link>
-        <dc:date>2023-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[HeatWavejp Meetup #02] MySQL HeatWave の名称を区別しませんか？ [山﨑 由章 氏(HeatWavejp)] (HeatWavejp（MySQL HeatWave Japan User Group）)</title>
-        <link>https://speakerdeck.com/heatwavejp/heatwavejp-meetup-number-02-mysql-heatwave-noming-cheng-woqu-bie-simasenka-shan-you-zhang-shi-heatwavejp</link>
         <dc:date>2023-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
