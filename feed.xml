@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モブに早く慣れたい人のためのガイド (Cybozu)</title>
+        <link>https://speakerdeck.com/cybozuinsideout/a-guide-to-getting-started-quickly-with-mob-programming-2023</link>
+        <dc:date>2023-07-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ITエンジニアこそ筋トレをやるべき理由 徹底解説 (yasu)</title>
         <link>https://speakerdeck.com/yasumuusan/itenziniakosojin-torewoyarubekili-you-che-di-jie-shuo</link>
         <dc:date>2023-07-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>論文紹介：ChatGPT で情報抽出タスクは解けるのか？ Is information extraction solved by ChatGPT?  An analysis of performance, evaluation criteria, robustness and errors (Shota Kato)</title>
         <link>https://speakerdeck.com/stktu/lun-wen-shao-jie-chatgpt-deqing-bao-chou-chu-tasukuhajie-kerunoka-is-information-extraction-solved-by-chatgpt-an-analysis-of-performance-evaluation-criteria-robustness-and-errors</link>
         <dc:date>2023-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[HeatWavejp Meetup #02] MySQL HeatWave for Azure 性能検証レポート [坂野 竹美 氏(スマートスタイル)] (HeatWavejp（MySQL HeatWave Japan User Group）)</title>
-        <link>https://speakerdeck.com/heatwavejp/heatwavejp-meetup-number-02-mysql-heatwave-for-azure-xing-neng-jian-zheng-repoto-ban-ye-zhu-mei-shi-sumatosutairu-99a6a6d3-8825-4acf-af07-27faf8bf2f8f</link>
-        <dc:date>2023-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
