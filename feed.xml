@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ITエンジニアこそ筋トレをやるべき理由 徹底解説 (yasu)</title>
+        <link>https://speakerdeck.com/yasumuusan/itenziniakosojin-torewoyarubekili-you-che-di-jie-shuo</link>
+        <dc:date>2023-07-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアテスト (Cybozu)</title>
         <link>https://speakerdeck.com/cybozuinsideout/software_test-2023</link>
         <dc:date>2023-07-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[HeatWavejp Meetup #02] MySQL HeatWave for Azure 性能検証レポート [坂野 竹美 氏(スマートスタイル)] (HeatWavejp（MySQL HeatWave Japan User Group）)</title>
         <link>https://speakerdeck.com/heatwavejp/heatwavejp-meetup-number-02-mysql-heatwave-for-azure-xing-neng-jian-zheng-repoto-ban-ye-zhu-mei-shi-sumatosutairu-99a6a6d3-8825-4acf-af07-27faf8bf2f8f</link>
-        <dc:date>2023-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[HeatWavejp Meetup #02] Oracle Database Service for Azure ~ AzureからOCIデータベースに接続 [近藤 暁太 氏(日本オラクル)] (HeatWavejp（MySQL HeatWave Japan User Group）)</title>
-        <link>https://speakerdeck.com/heatwavejp/heatwavejp-meetup-number-02-oracle-database-service-for-azure-azurekaraocidetabesunijie-sok-jin-teng-xiao-tai-shi-ri-ben-orakuru</link>
         <dc:date>2023-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
