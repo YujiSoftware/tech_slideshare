@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成 AI の基礎 〜 サンプル実装で学ぶ基本原理 (Etsuji Nakai)</title>
+        <link>https://speakerdeck.com/enakai00/sheng-cheng-ai-noji-chu-sanpurushi-zhuang-dexue-buji-ben-yuan-li</link>
+        <dc:date>2023-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>webフロントエンドテストと自動化 (Cybozu)</title>
         <link>https://speakerdeck.com/cybozuinsideout/web_frontend_testing_and_automation-2023</link>
         <dc:date>2023-07-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>大規模言語モデル時代の開発生産性 (hirokidaichi)</title>
         <link>https://speakerdeck.com/hirokidaichi/da-gui-mo-yan-yu-moderushi-dai-nokai-fa-sheng-chan-xing</link>
-        <dc:date>2023-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud Native の作法 (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/cloud-native-nozuo-fa</link>
         <dc:date>2023-07-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
