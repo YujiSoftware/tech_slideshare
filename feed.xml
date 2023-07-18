@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>正しく作るランダムケース (tsutaj)</title>
+        <link>https://speakerdeck.com/tsutaj/beerbash-lt-230711</link>
+        <dc:date>2023-07-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Podmanで身内のマイクラサーバを建てるまでの試行錯誤 (tmya)</title>
         <link>https://speakerdeck.com/tmya/podmandeshen-nei-nomaikurasabawojian-terumadenoshi-xing-cuo-wu</link>
         <dc:date>2023-07-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Jetpack Composeで画像クロップ機能を実装する (Moyuru Aizawa)</title>
         <link>https://speakerdeck.com/lvla/jetpack-compose-image-cropper</link>
-        <dc:date>2023-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Let's Take a Deep Dive into Pager Indicators (OG1)</title>
-        <link>https://speakerdeck.com/ogi2ogi/lets-take-a-deep-dive-into-pager-indicators</link>
         <dc:date>2023-07-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
