@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>120名の開発組織を支える、技術マネジメントと選定 (pospome)</title>
+        <link>https://speakerdeck.com/pospome/120ming-nokai-fa-zu-zhi-wozhi-eru-ji-shu-manezimentotoxuan-ding</link>
+        <dc:date>2023-07-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>正しく作るランダムケース (tsutaj)</title>
         <link>https://speakerdeck.com/tsutaj/beerbash-lt-230711</link>
         <dc:date>2023-07-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Jetpack ComposeのVisualTransformationが便利</title>
         <link>https://docs.google.com/presentation/d/1-04Q86SDKbxWWt7o6vn24tPhgDKn9c5cjqkmUeTdN4c/preview</link>
-        <dc:date>2023-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Jetpack Composeで画像クロップ機能を実装する (Moyuru Aizawa)</title>
-        <link>https://speakerdeck.com/lvla/jetpack-compose-image-cropper</link>
         <dc:date>2023-07-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
