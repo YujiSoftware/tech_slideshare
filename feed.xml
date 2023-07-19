@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GraphQL Server on Edge (chimame)</title>
+        <link>https://speakerdeck.com/chimame/graphql-server-on-edge</link>
+        <dc:date>2023-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>gRPC Client on Cloudflare Workers (Kei Kamikawa)</title>
+        <link>https://speakerdeck.com/codehex/grpc-client-on-cloudflare-workers</link>
+        <dc:date>2023-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloudflare Workers + R2で低コストで画像配信を移行した話/cloudflare_workers_r2_migration (Shigeki SUGAI)</title>
+        <link>https://speakerdeck.com/teckl/cloudflare-workers-r2-migration</link>
+        <dc:date>2023-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Server Side JavaScript のためのバンドル最適化 (Koutarou Chikuba)</title>
         <link>https://speakerdeck.com/mizchi/server-side-javascript-notamenobandoruzui-shi-hua</link>
         <dc:date>2023-07-18T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Prepalert ~Mackerelアラートにログや集計値を貼り付けてくれるトイル削減ツール~ (ikeda-masashi)</title>
         <link>https://speakerdeck.com/mashiike/prepalert-mackerelaratoniroguyaji-ji-zhi-wotie-rifu-ketekurerutoiruxue-jian-turu</link>
-        <dc:date>2023-07-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The new linker in Xcode 15 (Yuta Saito)</title>
-        <link>https://speakerdeck.com/kateinoigakukun/the-new-linker-in-xcode-15</link>
-        <dc:date>2023-07-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オブザーバビリティ入門 (Cybozu)</title>
-        <link>https://speakerdeck.com/cybozuinsideout/introduction_to_observability-2023</link>
-        <dc:date>2023-07-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>匠Method User Group Meetup#1〜ビジネスデザインの新たな物語 (匠Method User Group)</title>
-        <link>https://speakerdeck.com/takumi_method_ug/jiang-method-user-group-meetup-number-1-bizinesudezainnoxin-tanawu-yu</link>
         <dc:date>2023-07-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
