@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2023-07-19-hands-on</title>
+        <link>https://docs.google.com/presentation/d/1aJKaNUItvrPHHLBEkpGkZXdaHVQqbVKSMTbJEWIsbFU/preview</link>
+        <dc:date>2023-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フィーチャーチーム化への取り組みと、それを支える組織マネジメント体制 (tan-yuki)</title>
         <link>https://speakerdeck.com/tanakayuki/huitiyatimuhua-henoqu-rizu-mito-sorewozhi-eruzu-zhi-manesimentoti-zhi</link>
         <dc:date>2023-07-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ビジネスを価値主導で創発しよう (匠Method User Group)</title>
         <link>https://speakerdeck.com/takumi_method_ug/bizinesuwojia-zhi-zhu-dao-dechuang-fa-siyou</link>
         <dc:date>2023-07-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSユーザがAI活用のためにAzureと共存させるためにトライしたこととトライすること/Azure-OpenAI×multi-cloud-Tech-Night-link-and-motivation (リンクアンドモチベーション)</title>
-        <link>https://speakerdeck.com/lmi/azure-openaixmulti-cloud-tech-night-link-and-motivation</link>
-        <dc:date>2023-07-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
