@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>一休.comのアーキテクチャ変遷から考えるサービス分割の勘所 (s-tokutake)</title>
+        <link>https://speakerdeck.com/tokutakesatoshi/xiu-dot-comnoakitekutiyabian-qian-karakao-erusabisufen-ge-nokan-suo</link>
+        <dc:date>2023-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新たなマイクロサービス取り組みの実例 (eguchij)</title>
+        <link>https://speakerdeck.com/eguchij/xin-tanamaikurosabisuqu-rizu-minoshi-li</link>
+        <dc:date>2023-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Reversing基礎編 / Basics of Reversing - SECCON Beginners Live 2022 (Hi120ki)</title>
         <link>https://speakerdeck.com/hi120ki/basics-of-reversing-seccon-beginners-live-2022</link>
         <dc:date>2023-07-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Podmanで身内のマイクラサーバを建てるまでの試行錯誤 (tmya)</title>
         <link>https://speakerdeck.com/tmya/podmandeshen-nei-nomaikurasabawojian-terumadenoshi-xing-cuo-wu</link>
-        <dc:date>2023-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>My SwiftData Review (Kishikawa Katsumi)</title>
-        <link>https://speakerdeck.com/kishikawakatsumi/my-swiftdata-review</link>
-        <dc:date>2023-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RでLangChainっぽいことを やってる話【画像生成(猫)編】 (skume)</title>
-        <link>https://speakerdeck.com/skume/rdelangchaintupoikotowo-yatuteruhua-hua-xiang-sheng-cheng-mao-bian</link>
         <dc:date>2023-07-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
