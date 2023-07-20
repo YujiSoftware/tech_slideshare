@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2023/07/20 Watson Discovery / Watson Assistant連携アプリ開発体験 (Mats)</title>
+        <link>https://speakerdeck.com/teruterubohz_ibm/watson-assistantlian-xi-apurikai-fa-ti-yan</link>
+        <dc:date>2023-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft Defender for Office 365（メールに関する防御等）を中心に / M365セキュリティ&amp;amp;ゼロトラスト勉強会 #3 (石川 陽一 Yoichi Ishikawa,@ishiayaya)</title>
+        <link>https://www.docswell.com/s/ishiayaya/598RJ9-m365sec03</link>
+        <dc:date>2023-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>KEP から眺める Kubernetes (Tsubasa Nagasawa)</title>
         <link>https://speakerdeck.com/toversus/kep-karatiao-meru-kubernetes</link>
         <dc:date>2023-07-19T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>ソフトウェアテスト (Cybozu)</title>
         <link>https://speakerdeck.com/cybozuinsideout/software_test-2023</link>
         <dc:date>2023-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TiDBによる大規模ログデータ管理の挑戦！シャーディングなしで大量インサートをさばくには？ - LINE株式会社 - TiDB User Day 2023 (PingCAP-Japan)</title>
-        <link>https://speakerdeck.com/pingcap0315/linezhu-shi-hui-she-tidbniyoruda-gui-mo-rogudetaguan-li-notiao-zhan-siyadeingunasideda-liang-insatowosabakuniha-2023-tidb-user-day-setusiyon</link>
-        <dc:date>2023-07-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webフロントエンドの進化とJamstackアーキテクチャの変遷 (microCMS)</title>
-        <link>https://speakerdeck.com/microcms/webhurontoendonojin-hua-tojamstackakitekutiyanobian-qian</link>
-        <dc:date>2023-07-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
