@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Reversing基礎編 / Basics of Reversing - SECCON Beginners Live 2022 (Hi120ki)</title>
+        <link>https://speakerdeck.com/hi120ki/basics-of-reversing-seccon-beginners-live-2022</link>
+        <dc:date>2023-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Crypto超入門 / SECCON Beginners Live 2022 (ushigai)</title>
+        <link>https://speakerdeck.com/ushigai/seccon-beginners-live-2022</link>
+        <dc:date>2023-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>入門SQLi / Introduction of SQLi (Satoki)</title>
+        <link>https://speakerdeck.com/satoki/introduction-of-sqli</link>
+        <dc:date>2023-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>入門XSS / Introduction of XSS (task4233)</title>
+        <link>https://speakerdeck.com/task4233/introduction-of-xss</link>
+        <dc:date>2023-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Beginners Beginners Bof / SECCON Beginners Live 2022 (n01e0)</title>
+        <link>https://speakerdeck.com/n01e0/beginners-beginners-bof</link>
+        <dc:date>2023-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2023/07/20 Watson Discovery / Watson Assistant連携アプリ開発体験 (Mats)</title>
         <link>https://speakerdeck.com/teruterubohz_ibm/watson-assistantlian-xi-apurikai-fa-ti-yan</link>
         <dc:date>2023-07-19T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>RでLangChainっぽいことを やってる話【画像生成(猫)編】 (skume)</title>
         <link>https://speakerdeck.com/skume/rdelangchaintupoikotowo-yatuteruhua-hua-xiang-sheng-cheng-mao-bian</link>
         <dc:date>2023-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成 AI の基礎 〜 サンプル実装で学ぶ基本原理 (Etsuji Nakai)</title>
-        <link>https://speakerdeck.com/enakai00/sheng-cheng-ai-noji-chu-sanpurushi-zhuang-dexue-buji-ben-yuan-li</link>
-        <dc:date>2023-07-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>webフロントエンドテストと自動化 (Cybozu)</title>
-        <link>https://speakerdeck.com/cybozuinsideout/web_frontend_testing_and_automation-2023</link>
-        <dc:date>2023-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モブに早く慣れたい人のためのガイド (Cybozu)</title>
-        <link>https://speakerdeck.com/cybozuinsideout/a-guide-to-getting-started-quickly-with-mob-programming-2023</link>
-        <dc:date>2023-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ITエンジニアこそ筋トレをやるべき理由 徹底解説 (yasu)</title>
-        <link>https://speakerdeck.com/yasumuusan/itenziniakosojin-torewoyarubekili-you-che-di-jie-shuo</link>
-        <dc:date>2023-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアテスト (Cybozu)</title>
-        <link>https://speakerdeck.com/cybozuinsideout/software_test-2023</link>
-        <dc:date>2023-07-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
