@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>KEP から眺める Kubernetes (Tsubasa Nagasawa)</title>
+        <link>https://speakerdeck.com/toversus/kep-karatiao-meru-kubernetes</link>
+        <dc:date>2023-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GraphQL Server on Edge (chimame)</title>
         <link>https://speakerdeck.com/chimame/graphql-server-on-edge</link>
         <dc:date>2023-07-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Webフロントエンドの進化とJamstackアーキテクチャの変遷 (microCMS)</title>
         <link>https://speakerdeck.com/microcms/webhurontoendonojin-hua-tojamstackakitekutiyanobian-qian</link>
-        <dc:date>2023-07-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Prepalert ~Mackerelアラートにログや集計値を貼り付けてくれるトイル削減ツール~ (ikeda-masashi)</title>
-        <link>https://speakerdeck.com/mashiike/prepalert-mackerelaratoniroguyaji-ji-zhi-wotie-rifu-ketekurerutoiruxue-jian-turu</link>
         <dc:date>2023-07-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
