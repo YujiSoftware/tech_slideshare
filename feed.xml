@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ラボラトリーオートメーションの現在と未来</title>
+        <link>https://docs.google.com/presentation/d/1MBGyHw54HcSEO2ZeFuolY8EPe8QXuxOl2vh7T1AzK0Q/preview</link>
+        <dc:date>2023-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPT - Azure OpenAI 大全 (Hirosato Gamo)</title>
         <link>https://speakerdeck.com/hirosatogamo/chatgpt-azure-openai-da-quan</link>
         <dc:date>2023-07-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>有名FWを採用する？しない？ 令和5年におけるオレオレフレームの立ち位置 / To make with own framework or not do, that is the question (uzulla)</title>
         <link>https://speakerdeck.com/uzulla/to-make-with-own-framework-or-not-do-that-is-the-question</link>
         <dc:date>2023-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>120名の開発組織を支える、技術マネジメントと選定 (pospome)</title>
-        <link>https://speakerdeck.com/pospome/120ming-nokai-fa-zu-zhi-wozhi-eru-ji-shu-manezimentotoxuan-ding</link>
-        <dc:date>2023-07-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
