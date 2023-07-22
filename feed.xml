@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自作ローダのためのlibc初期化ハック Kernel/VM探検隊@東京 No16</title>
+        <link>https://docs.google.com/presentation/d/17uPJHFaeO-tEzvd7a6Z0mPm0sborE3mM_jznRXYYUCk/preview</link>
+        <dc:date>2023-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Exploring x86 MSR Space (Akira Moroo)</title>
+        <link>https://speakerdeck.com/retrage/exploring-x86-msr-space</link>
+        <dc:date>2023-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>量子コンピュータ開発について (Toshio Mori)</title>
+        <link>https://speakerdeck.com/forest1040/liang-zi-konpiyutakai-fa-nituite</link>
+        <dc:date>2023-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NNEFを読めるようになろう (Fadis)</title>
+        <link>https://speakerdeck.com/fadis/nnefwodu-meruyouninarou</link>
+        <dc:date>2023-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>監視からオブザーバビリティへ〜オブザーバビリティの成熟度/From Monitoring to Observability - Maturity of Observability (New Relic)</title>
         <link>https://speakerdeck.com/newrelic2023/20230523-findy-newrelic-o11y1</link>
         <dc:date>2023-07-21T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>KEP から眺める Kubernetes (Tsubasa Nagasawa)</title>
         <link>https://speakerdeck.com/toversus/kep-karatiao-meru-kubernetes</link>
         <dc:date>2023-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQL Server on Edge (chimame)</title>
-        <link>https://speakerdeck.com/chimame/graphql-server-on-edge</link>
-        <dc:date>2023-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>gRPC Client on Cloudflare Workers (Kei Kamikawa)</title>
-        <link>https://speakerdeck.com/codehex/grpc-client-on-cloudflare-workers</link>
-        <dc:date>2023-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Workers + R2で低コストで画像配信を移行した話/cloudflare_workers_r2_migration (Shigeki SUGAI)</title>
-        <link>https://speakerdeck.com/teckl/cloudflare-workers-r2-migration</link>
-        <dc:date>2023-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Server Side JavaScript のためのバンドル最適化 (Koutarou Chikuba)</title>
-        <link>https://speakerdeck.com/mizchi/server-side-javascript-notamenobandoruzui-shi-hua</link>
-        <dc:date>2023-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
