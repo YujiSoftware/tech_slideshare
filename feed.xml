@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GraphQLの負債と向き合うためにやっていること (Kazuhito Hokamura)</title>
+        <link>https://speakerdeck.com/hokaccha/graphqlnofu-zhai-toxiang-kihe-utameniyatuteirukoto</link>
+        <dc:date>2023-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>増えすぎたマイクロサービスをモジュラーモノリスに移行しているお話 (kazuhiro Tashiro)</title>
+        <link>https://speakerdeck.com/masaaania/zeng-esugitamaikurosabisuwomoziyuramonorisuniyi-xing-siteiruohua</link>
+        <dc:date>2023-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>The Metrics Key_ Connecting Product, System, Team (Masato Ishigaki / 石垣雅人)</title>
         <link>https://speakerdeck.com/i35_267/the-metrics-key-connecting-product-system-team</link>
         <dc:date>2023-07-21T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Beginners Beginners Bof / SECCON Beginners Live 2022 (n01e0)</title>
         <link>https://speakerdeck.com/n01e0/beginners-beginners-bof</link>
         <dc:date>2023-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023/07/20 Watson Discovery / Watson Assistant連携アプリ開発体験 (Mats)</title>
-        <link>https://speakerdeck.com/teruterubohz_ibm/watson-assistantlian-xi-apurikai-fa-ti-yan</link>
-        <dc:date>2023-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Defender for Office 365（メールに関する防御等）を中心に / M365セキュリティ&amp;amp;ゼロトラスト勉強会 #3 (石川 陽一 Yoichi Ishikawa,@ishiayaya)</title>
-        <link>https://www.docswell.com/s/ishiayaya/598RJ9-m365sec03</link>
-        <dc:date>2023-07-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
