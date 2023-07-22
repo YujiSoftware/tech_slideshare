@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>監視からオブザーバビリティへ〜オブザーバビリティの成熟度/From Monitoring to Observability - Maturity of Observability (New Relic)</title>
+        <link>https://speakerdeck.com/newrelic2023/20230523-findy-newrelic-o11y1</link>
+        <dc:date>2023-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>今日からできる! 技術的負債返済への最初の一歩 / You Can Start Today! Take Your First Step To Paying Off Technical Debt (kaminashi, Inc.)</title>
         <link>https://speakerdeck.com/kaminashi/you-can-start-today-take-your-first-step-to-paying-off-technical-debt</link>
         <dc:date>2023-07-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Server Side JavaScript のためのバンドル最適化 (Koutarou Chikuba)</title>
         <link>https://speakerdeck.com/mizchi/server-side-javascript-notamenobandoruzui-shi-hua</link>
-        <dc:date>2023-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023-07-19-hands-on</title>
-        <link>https://docs.google.com/presentation/d/1aJKaNUItvrPHHLBEkpGkZXdaHVQqbVKSMTbJEWIsbFU/preview</link>
         <dc:date>2023-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
