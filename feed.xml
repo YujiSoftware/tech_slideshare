@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[CV勉強会@関東 CVPR2023] 自動運転におけるBEVベース物体認識技術の進化 (kotaro_tanahashi)</title>
+        <link>https://speakerdeck.com/kotaro_tanahashi/zi-dong-yun-zhuan-niokerubevbesuwu-ti-ren-shi-ji-shu-nojin-hua</link>
+        <dc:date>2023-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オープンなLLMをローカルで動かす (からあげ,@karaage0703)</title>
         <link>https://www.docswell.com/s/karaage0703/Z38EP1-2023-07-19-201446</link>
         <dc:date>2023-07-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Crypto超入門 / SECCON Beginners Live 2022 (ushigai)</title>
         <link>https://speakerdeck.com/ushigai/seccon-beginners-live-2022</link>
-        <dc:date>2023-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入門SQLi / Introduction of SQLi (Satoki)</title>
-        <link>https://speakerdeck.com/satoki/introduction-of-sqli</link>
         <dc:date>2023-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
