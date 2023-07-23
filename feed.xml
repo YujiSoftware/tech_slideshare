@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生産性向上に自ら取り組む チームカルチャーが生み出す顧客価値 (masahiko.asai)</title>
+        <link>https://speakerdeck.com/mixplace/customer-value-created-by-dev-team-culture-that-works-to-improve-productivity</link>
+        <dc:date>2023-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュリティ (Cybozu)</title>
         <link>https://speakerdeck.com/cybozuinsideout/security-2023</link>
         <dc:date>2023-07-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>新たなマイクロサービス取り組みの実例 (eguchij)</title>
         <link>https://speakerdeck.com/eguchij/xin-tanamaikurosabisuqu-rizu-minoshi-li</link>
-        <dc:date>2023-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Reversing基礎編 / Basics of Reversing - SECCON Beginners Live 2022 (Hi120ki)</title>
-        <link>https://speakerdeck.com/hi120ki/basics-of-reversing-seccon-beginners-live-2022</link>
         <dc:date>2023-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
