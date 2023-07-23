@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュリティ (Cybozu)</title>
+        <link>https://speakerdeck.com/cybozuinsideout/security-2023</link>
+        <dc:date>2023-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[CV勉強会@関東 CVPR2023] 自動運転におけるBEVベース物体認識技術の進化 (kotaro_tanahashi)</title>
         <link>https://speakerdeck.com/kotaro_tanahashi/zi-dong-yun-zhuan-niokerubevbesuwu-ti-ren-shi-ji-shu-nojin-hua</link>
         <dc:date>2023-07-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Reversing基礎編 / Basics of Reversing - SECCON Beginners Live 2022 (Hi120ki)</title>
         <link>https://speakerdeck.com/hi120ki/basics-of-reversing-seccon-beginners-live-2022</link>
-        <dc:date>2023-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Crypto超入門 / SECCON Beginners Live 2022 (ushigai)</title>
-        <link>https://speakerdeck.com/ushigai/seccon-beginners-live-2022</link>
         <dc:date>2023-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
