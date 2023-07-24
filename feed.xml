@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>明日から使える ASP.NET Core ロギング術！ (neno)</title>
+        <link>https://speakerdeck.com/nenonaninu/ming-ri-karashi-eru-asp-dot-net-core-rogingushu</link>
+        <dc:date>2023-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生産性向上に自ら取り組む チームカルチャーが生み出す顧客価値 (masahiko.asai)</title>
         <link>https://speakerdeck.com/mixplace/customer-value-created-by-dev-team-culture-that-works-to-improve-productivity</link>
         <dc:date>2023-07-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>一休.comのアーキテクチャ変遷から考えるサービス分割の勘所 (s-tokutake)</title>
         <link>https://speakerdeck.com/tokutakesatoshi/xiu-dot-comnoakitekutiyabian-qian-karakao-erusabisufen-ge-nokan-suo</link>
-        <dc:date>2023-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新たなマイクロサービス取り組みの実例 (eguchij)</title>
-        <link>https://speakerdeck.com/eguchij/xin-tanamaikurosabisuqu-rizu-minoshi-li</link>
         <dc:date>2023-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
