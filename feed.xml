@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロンプトエージェントを作ってみた (Nitteを開発するかずうぉんばっと)</title>
+        <link>https://www.docswell.com/s/kazuwombat521/ZGX218-2023-07-22-175508</link>
+        <dc:date>2023-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>明日から使える ASP.NET Core ロギング術！ (neno)</title>
         <link>https://speakerdeck.com/nenonaninu/ming-ri-karashi-eru-asp-dot-net-core-rogingushu</link>
         <dc:date>2023-07-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CS HACK「スケールさせるCSチームの作り方」登壇資料 (BYARD Inc,)</title>
         <link>https://speakerdeck.com/byardbyard/e64a77c7-94c9-491e-9be8-db629cedb2e3</link>
-        <dc:date>2023-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一休.comのアーキテクチャ変遷から考えるサービス分割の勘所 (s-tokutake)</title>
-        <link>https://speakerdeck.com/tokutakesatoshi/xiu-dot-comnoakitekutiyabian-qian-karakao-erusabisufen-ge-nokan-suo</link>
         <dc:date>2023-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
