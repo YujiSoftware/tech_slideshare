@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モノリスとマイクロサービスを経てモジュラモノリスを導入した実践事例 (disc99)</title>
+        <link>https://speakerdeck.com/disc99/monolith-and-microservices-to-modular-monolith</link>
+        <dc:date>2023-07-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>楽しい！Unityシェーダー お絵描き入門！ </title>
         <link>https://docs.google.com/presentation/d/1NMhx4HWuNZsjNRRlaFOu2ysjo04NgcpFlEhzodE8Rlg/preview</link>
         <dc:date>2023-07-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>NNEFを読めるようになろう (Fadis)</title>
         <link>https://speakerdeck.com/fadis/nnefwodu-meruyouninarou</link>
-        <dc:date>2023-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>監視からオブザーバビリティへ〜オブザーバビリティの成熟度/From Monitoring to Observability - Maturity of Observability (New Relic)</title>
-        <link>https://speakerdeck.com/newrelic2023/20230523-findy-newrelic-o11y1</link>
         <dc:date>2023-07-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
