@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Brave Browserの脆弱性を見つけた話（iOS編） (MUNEAKI NISHIMURA)</title>
+        <link>https://speakerdeck.com/nishimunea/brave-browsernocui-ruo-xing-wojian-tuketahua-iosbian</link>
+        <dc:date>2023-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>機械学習を「社会実装」するということ 2023年7月版 / Social Implementation of Machine Learning July 2023 Version (Moe Uchiike（内池 もえ）)</title>
         <link>https://speakerdeck.com/moepy_stats/social-implementation-of-machine-learning-july-2023-version</link>
         <dc:date>2023-07-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Exploring x86 MSR Space (Akira Moroo)</title>
         <link>https://speakerdeck.com/retrage/exploring-x86-msr-space</link>
-        <dc:date>2023-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>量子コンピュータ開発について (Toshio Mori)</title>
-        <link>https://speakerdeck.com/forest1040/liang-zi-konpiyutakai-fa-nituite</link>
         <dc:date>2023-07-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
