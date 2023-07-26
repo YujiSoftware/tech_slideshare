@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>機械学習を「社会実装」するということ 2023年7月版 / Social Implementation of Machine Learning July 2023 Version (Moe Uchiike（内池 もえ）)</title>
+        <link>https://speakerdeck.com/moepy_stats/social-implementation-of-machine-learning-july-2023-version</link>
+        <dc:date>2023-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モノリスとマイクロサービスを経てモジュラモノリスを導入した実践事例 (disc99)</title>
         <link>https://speakerdeck.com/disc99/monolith-and-microservices-to-modular-monolith</link>
         <dc:date>2023-07-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>量子コンピュータ開発について (Toshio Mori)</title>
         <link>https://speakerdeck.com/forest1040/liang-zi-konpiyutakai-fa-nituite</link>
-        <dc:date>2023-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NNEFを読めるようになろう (Fadis)</title>
-        <link>https://speakerdeck.com/fadis/nnefwodu-meruyouninarou</link>
         <dc:date>2023-07-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
