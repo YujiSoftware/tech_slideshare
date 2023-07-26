@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ボトムアップでSLOを導入 2年半運用して分かった失敗と変化 (@ジュジュ)</title>
+        <link>https://speakerdeck.com/juju62q/botomuatupudeslowodao-ru-2nian-ban-yun-yong-sitefen-katutashi-bai-tobian-hua</link>
+        <dc:date>2023-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Brave Browserの脆弱性を見つけた話（iOS編） (MUNEAKI NISHIMURA)</title>
         <link>https://speakerdeck.com/nishimunea/brave-browsernocui-ruo-xing-wojian-tuketahua-iosbian</link>
         <dc:date>2023-07-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自作ローダのためのlibc初期化ハック Kernel/VM探検隊@東京 No16</title>
         <link>https://docs.google.com/presentation/d/17uPJHFaeO-tEzvd7a6Z0mPm0sborE3mM_jznRXYYUCk/preview</link>
-        <dc:date>2023-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Exploring x86 MSR Space (Akira Moroo)</title>
-        <link>https://speakerdeck.com/retrage/exploring-x86-msr-space</link>
         <dc:date>2023-07-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
