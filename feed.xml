@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>個人開発駆動学習 (ryo,@RyoKawamata)</title>
+        <link>https://www.docswell.com/s/kawamataryo/5Q8XXY-pddl</link>
+        <dc:date>2023-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スタートアップ・Flatt Securityが技術ブログとオウンドメディアの両方にフルコミットする理由 - はてなブログ DevBlog Meetup #1 LT登壇 (Flatt Security)</title>
         <link>https://speakerdeck.com/flatt_security/hatenaburogu-devblog-meetup-number-1-ltdeng-tan</link>
         <dc:date>2023-07-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIアートの功罪 (第59回CV勉強会) (あるふ,@alfredplpl)</title>
         <link>https://www.docswell.com/s/alfredplpl/ZRXEQG-2023-07-23-125218</link>
-        <dc:date>2023-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアはLLMとどう付き合うか / How engineer get along with LLM (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/how-engineer-get-along-with-llm</link>
         <dc:date>2023-07-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
