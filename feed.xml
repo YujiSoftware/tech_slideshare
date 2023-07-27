@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20%ルールに頼らない: 技術的負債を解消する 組織的な取り組み / Developers Summit 2023 Summer (kakehashi)</title>
+        <link>https://speakerdeck.com/kakehashi/20-percent-rurunilai-ranai-ji-shu-de-fu-zhai-wojie-xiao-suru-zu-zhi-de-naqu-rizu-mi-f9a80f07-7558-4e65-b1e3-052af0d57a6e</link>
+        <dc:date>2023-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20230725_データエンジニアに求められるソフトスキル (hase-ryo)</title>
         <link>https://speakerdeck.com/haseryo/20230725-consider-a-career-as-a-data-engineer-soft-skills-required-of-data-engineers</link>
         <dc:date>2023-07-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロンプトエージェントを作ってみた (Nitteを開発するかずうぉんばっと)</title>
         <link>https://www.docswell.com/s/kazuwombat521/ZGX218-2023-07-22-175508</link>
-        <dc:date>2023-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>明日から使える ASP.NET Core ロギング術！ (neno)</title>
-        <link>https://speakerdeck.com/nenonaninu/ming-ri-karashi-eru-asp-dot-net-core-rogingushu</link>
         <dc:date>2023-07-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
