@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>日々の意思決定の積み重ねを記録するアーキテクチャ・デシジョン・レコード / Architectural Decision Records (Takahiro Uchiyama)</title>
+        <link>https://speakerdeck.com/highwide/architectural-decision-records</link>
+        <dc:date>2023-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CVPR 2023 速報：CCC Summer 2023 in MIRUチュートリアル（配布版） (gatheluck)</title>
         <link>https://speakerdeck.com/gatheluck/cvpr-2023-su-bao-ccc-summer-2023-in-mirutiyutoriaru-pei-bu-ban</link>
         <dc:date>2023-07-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>UEで映える！ キャラクタセットアップ【UEなんでも勉強会 - バーチャルライブ編 - vol.1】 (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
         <link>https://www.docswell.com/s/EpicGamesJapan/ZQ8XXE-UE5_AllStudy_VirtualLive_CharacterSetup</link>
-        <dc:date>2023-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデル時代のHuman-in-the-Loop機械学習 (Yukino Baba)</title>
-        <link>https://speakerdeck.com/yukinobaba/human-in-the-loop-ml-llm</link>
         <dc:date>2023-07-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
