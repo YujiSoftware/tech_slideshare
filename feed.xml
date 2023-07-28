@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発生産性を計測し_技術的負債返済ができる開発体制を作ったお話 (株式会社助太刀)</title>
+        <link>https://speakerdeck.com/sukedachi_pr/devsumi2023summer_sukedachi</link>
+        <dc:date>2023-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Chat Completions APIにおける実行時間の検証 (natsuume)</title>
         <link>https://speakerdeck.com/natsuume/chat-completions-apiniokerushi-xing-shi-jian-nojian-zheng</link>
         <dc:date>2023-07-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20230725_データエンジニアに求められるソフトスキル (hase-ryo)</title>
         <link>https://speakerdeck.com/haseryo/20230725-consider-a-career-as-a-data-engineer-soft-skills-required-of-data-engineers</link>
-        <dc:date>2023-07-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これから学ぶ人のための ソフトウェアアーキテクチャ入門: Software architecture is a tool to enhance our humanity (Koji SHIMADA)</title>
-        <link>https://speakerdeck.com/snoozer05/20230727-software-architecture-is-a-tool-to-enhance-our-humanity</link>
         <dc:date>2023-07-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
