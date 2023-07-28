@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【共有用】シニア向けモバイルアプリ開発のすゝめ</title>
+        <link>https://docs.google.com/presentation/d/1CMMxbNXdGUhByo7AxrAS3yZKgPH5m0i3R_cSHrp3rQo/preview</link>
+        <dc:date>2023-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>230726_MIERUNE BBQ #03_kato (Hajime Kato)</title>
+        <link>https://speakerdeck.com/hjmkth/230726-mierune-bbq-number-03-kato</link>
+        <dc:date>2023-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2023-07-27 MIERUNE BBQ #3 / 軽量ウェブフレームワークHonoをAWS Lambdaで動かす話 </title>
+        <link>https://docs.google.com/presentation/d/1W0zR6xQ0FTzACbwnsgvq6RkwUnMRVAxgGO5qnBDYXec/preview</link>
+        <dc:date>2023-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアとプロダクトマネージャーを兼任した1年間を振り返る / pdm-furikaeri (Takahiro Tsuchiya)</title>
+        <link>https://speakerdeck.com/corocn/pdm-furikaeri</link>
+        <dc:date>2023-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>日々の意思決定の積み重ねを記録するアーキテクチャ・デシジョン・レコード / Architectural Decision Records (Takahiro Uchiyama)</title>
         <link>https://speakerdeck.com/highwide/architectural-decision-records</link>
         <dc:date>2023-07-27T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>リバースモデリングテーマ(GreenBeans) (匠Method User Group)</title>
         <link>https://speakerdeck.com/takumi_method_ug/ribasumoderingutema-greenbeans</link>
         <dc:date>2023-07-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GCPの権限管理に関する自動化について (10xinc)</title>
-        <link>https://speakerdeck.com/10xinc/gcpnoquan-xian-guan-li-niguan-suruzi-dong-hua-nituite</link>
-        <dc:date>2023-07-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バーチャルライブ制作におけるTips＆UEFNでバーチャルライブするには【UEなんでも勉強会 - バーチャルライブ編 - vol.1】 (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
-        <link>https://www.docswell.com/s/EpicGamesJapan/53877J-UE5_AllStudy_VirtualLive_TipsAndUEFN</link>
-        <dc:date>2023-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バーチャルライブ制作・大解剖【UEなんでも勉強会 - バーチャルライブ編 - vol.1】 (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
-        <link>https://www.docswell.com/s/EpicGamesJapan/57V441-UE5_AllStudy_VirtualLive_Workflow</link>
-        <dc:date>2023-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UEで映える！ キャラクタセットアップ【UEなんでも勉強会 - バーチャルライブ編 - vol.1】 (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
-        <link>https://www.docswell.com/s/EpicGamesJapan/ZQ8XXE-UE5_AllStudy_VirtualLive_CharacterSetup</link>
-        <dc:date>2023-07-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
