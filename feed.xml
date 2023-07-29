@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>意思決定のモヤが晴れるまで (microCMS)</title>
+        <link>https://speakerdeck.com/microcms/yi-si-jue-ding-nomoyagaqing-rerumade</link>
+        <dc:date>2023-07-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Shibuya.lisp Lispmeetup 110 aws-sdk-lisp</title>
         <link>https://docs.google.com/presentation/d/1j4cJRCJpabDIs_YikEU0aZC4S5z_9gI2ZY6tPFZnqHQ/preview</link>
         <dc:date>2023-07-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Mastering File Operations with Flutter and AWS Amplify Storage libraries (Ryotaro Tsuzuki)</title>
         <link>https://speakerdeck.com/unirt/mastering-file-operations-with-flutter-and-aws-amplify-storage-libraries</link>
-        <dc:date>2023-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイボウズ と Garoon と  The PHP Foundation と 私 / Cybozu and Garoon and The PHP Foundation and me (Yuichi Sugiyama)</title>
-        <link>https://speakerdeck.com/oogfranz/cybozu-and-garoon-and-the-php-foundation-and-me</link>
         <dc:date>2023-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
