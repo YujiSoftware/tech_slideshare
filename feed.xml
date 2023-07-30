@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20230730_IoTワークショップ_マイコンについて</title>
+        <link>https://docs.google.com/presentation/d/1ZFGlO07-uwpAjAyKdkTWvfqDhRDVW-BX9REsnO0gVjQ/preview</link>
+        <dc:date>2023-07-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>意思決定のモヤが晴れるまで (microCMS)</title>
         <link>https://speakerdeck.com/microcms/yi-si-jue-ding-nomoyagaqing-rerumade</link>
         <dc:date>2023-07-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS Amplify, AWS AppSync のアップデートをご紹介（2023年前半） (Ryotaro Tsuzuki)</title>
         <link>https://speakerdeck.com/unirt/aws-amplify-aws-appsync-noatupudetowogoshao-jie-2023nian-qian-ban</link>
-        <dc:date>2023-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Mastering File Operations with Flutter and AWS Amplify Storage libraries (Ryotaro Tsuzuki)</title>
-        <link>https://speakerdeck.com/unirt/mastering-file-operations-with-flutter-and-aws-amplify-storage-libraries</link>
         <dc:date>2023-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
