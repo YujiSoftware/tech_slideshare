@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Tokyu.rb のロゴの話 (machida)</title>
+        <link>https://speakerdeck.com/machida/tokyu-dot-rb-norogonohua</link>
+        <dc:date>2023-07-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Pwn2OwnでMicrosoft Teamsをハッキングして2000万円を獲得した方法/ Shibuya.XSS techtalk #12 (Masato Kinugawa)</title>
         <link>https://speakerdeck.com/masatokinugawa/shibuya-dot-xss-techtalk-number-12</link>
         <dc:date>2023-07-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CVPR 2023 速報：CCC Summer 2023 in MIRUチュートリアル（配布版） (gatheluck)</title>
         <link>https://speakerdeck.com/gatheluck/cvpr-2023-su-bao-ccc-summer-2023-in-mirutiyutoriaru-pei-bu-ban</link>
-        <dc:date>2023-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアとしての自分とマネージャーとしての自分の狭間で、どう成長していくのか？（AWS DevDay 2023登壇資料） (Takuro SASAKI)</title>
-        <link>https://speakerdeck.com/takuros/enziniatositenozi-fen-tomaneziyatositenozi-fen-noxia-jian-de-doucheng-chang-siteikunoka-aws-devday-2023deng-tan-zi-liao</link>
         <dc:date>2023-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
