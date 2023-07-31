@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Introduction of Steep 1.5</title>
+        <link>https://docs.google.com/presentation/d/1qTygmQltBzsYTfpZVu7oUEjlGa6KJ42tIlcEmiiLARU/preview</link>
+        <dc:date>2023-07-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20230730_IoTワークショップ_マイコンについて</title>
         <link>https://docs.google.com/presentation/d/1ZFGlO07-uwpAjAyKdkTWvfqDhRDVW-BX9REsnO0gVjQ/preview</link>
         <dc:date>2023-07-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Amplify OSSにコントリビュートしてAmplify Badgeを手に入れよう！/contribute-to-amplify-oss-and-get-an-amplify-badge (MURAKAMI Masahiko)</title>
         <link>https://speakerdeck.com/fossamagna/contribute-to-amplify-oss-and-get-an-amplify-badge</link>
-        <dc:date>2023-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Amplify, AWS AppSync のアップデートをご紹介（2023年前半） (Ryotaro Tsuzuki)</title>
-        <link>https://speakerdeck.com/unirt/aws-amplify-aws-appsync-noatupudetowogoshao-jie-2023nian-qian-ban</link>
         <dc:date>2023-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
