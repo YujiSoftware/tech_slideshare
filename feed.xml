@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>App Router時代のデータ取得アーキテクチャ (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/app-routershi-dai-nodetaqu-de-akitekutiya</link>
+        <dc:date>2023-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIアプリ Dojo #1 [入門者歓迎] GPUを活用して生成系AIに触れてみよう  (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/aiapps-dojo-01-20230615</link>
         <dc:date>2023-08-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【共有用】シニア向けモバイルアプリ開発のすゝめ</title>
         <link>https://docs.google.com/presentation/d/1CMMxbNXdGUhByo7AxrAS3yZKgPH5m0i3R_cSHrp3rQo/preview</link>
-        <dc:date>2023-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>230726_MIERUNE BBQ #03_kato (Hajime Kato)</title>
-        <link>https://speakerdeck.com/hjmkth/230726-mierune-bbq-number-03-kato</link>
         <dc:date>2023-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
