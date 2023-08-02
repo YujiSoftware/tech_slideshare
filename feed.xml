@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIアプリ Dojo #1 [入門者歓迎] GPUを活用して生成系AIに触れてみよう  (Akira Onishi (IBM))</title>
+        <link>https://speakerdeck.com/oniak3ibm/aiapps-dojo-01-20230615</link>
+        <dc:date>2023-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIアプリ Dojo #2 Hugging Face Transformers入門  (Akira Onishi (IBM))</title>
+        <link>https://speakerdeck.com/oniak3ibm/aiapps-dojo-02-20230629</link>
+        <dc:date>2023-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>極限環境で最終ビルドを絞るためのフロントエンド設計 (Koutarou Chikuba)</title>
         <link>https://speakerdeck.com/mizchi/ji-xian-huan-jing-dezui-zhong-birudowojiao-rutamenohurontoendoshe-ji</link>
         <dc:date>2023-07-31T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>230726_MIERUNE BBQ #03_kato (Hajime Kato)</title>
         <link>https://speakerdeck.com/hjmkth/230726-mierune-bbq-number-03-kato</link>
-        <dc:date>2023-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023-07-27 MIERUNE BBQ #3 / 軽量ウェブフレームワークHonoをAWS Lambdaで動かす話 </title>
-        <link>https://docs.google.com/presentation/d/1W0zR6xQ0FTzACbwnsgvq6RkwUnMRVAxgGO5qnBDYXec/preview</link>
-        <dc:date>2023-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアとプロダクトマネージャーを兼任した1年間を振り返る / pdm-furikaeri (Takahiro Tsuchiya)</title>
-        <link>https://speakerdeck.com/corocn/pdm-furikaeri</link>
         <dc:date>2023-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
