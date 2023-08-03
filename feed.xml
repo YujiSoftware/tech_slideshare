@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SasSに依存しないWeb会議システム開発 (WebMeeting Software Suite 公式)</title>
+        <link>https://speakerdeck.com/meetingdev/sassniyi-cun-sinaiwebhui-yi-sisutemukai-fa</link>
+        <dc:date>2023-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WebRTC の映像を Python から自由に加工する sora-python-sdk の仕組み (tnoho)</title>
+        <link>https://speakerdeck.com/tnoho/webrtc-noying-xiang-wo-python-karazi-you-nijia-gong-suru-sora-python-sdk-noshi-zu-mi</link>
+        <dc:date>2023-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>STUN・TURNを ちょっとだけ深掘りしてみた (sublimer)</title>
+        <link>https://speakerdeck.com/sublimer/stunturnwo-tiyotutodakeshen-jue-risitemita</link>
+        <dc:date>2023-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WebCodecsの実装状況 / Status of WebCodecs (mganeko)</title>
+        <link>https://speakerdeck.com/mganeko/status-of-webcodecs</link>
+        <dc:date>2023-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ArkEdge LT #1 dalance (dalance)</title>
         <link>https://speakerdeck.com/dalance/arkedge-lt-number-1-dalance</link>
         <dc:date>2023-08-02T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>課題解決ではなく、価値創造を求めるVoicyの開発チームの組織設計と立ち上げの勘所 (natacon)</title>
         <link>https://speakerdeck.com/natacon/ke-ti-jie-jue-dehanaku-jia-zhi-chuang-zao-woqiu-meruvoicynokai-fa-timunozu-zhi-she-ji-toli-tishang-genokan-suo</link>
         <dc:date>2023-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドの継続的なリアーキテクティング (Hiroshi Morishige)</title>
-        <link>https://speakerdeck.com/himorishige/hurontoendonoji-sok-de-nariakitekuteingu</link>
-        <dc:date>2023-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HotwireとREST #tqrk14</title>
-        <link>https://docs.google.com/presentation/d/1C3OZb_fLuVqeSUxDNs1aBloBkkfztSk0GOwhaI7K0c8/preview</link>
-        <dc:date>2023-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発生産性を計測し_技術的負債返済ができる開発体制を作ったお話 (株式会社助太刀)</title>
-        <link>https://speakerdeck.com/sukedachi_pr/devsumi2023summer_sukedachi</link>
-        <dc:date>2023-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Chat Completions APIにおける実行時間の検証 (natsuume)</title>
-        <link>https://speakerdeck.com/natsuume/chat-completions-apiniokerushi-xing-shi-jian-nojian-zheng</link>
-        <dc:date>2023-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
