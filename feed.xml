@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サブスクリプションサービスをつくる時にエンジニアが考えること / Behind the Scenes: Engineering a Subscription Service (Masato Ohba)</title>
+        <link>https://speakerdeck.com/ohbarye/behind-the-scenes-engineering-a-subscription-service</link>
+        <dc:date>2023-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クラウドネイティブの基盤要素、コンテナの今と未来 (うたもく)</title>
         <link>https://speakerdeck.com/utam0k/kuraudoneiteibunoji-pan-yao-su-kontenanojin-towei-lai</link>
         <dc:date>2023-08-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Shibuya.lisp Lispmeetup 110 aws-sdk-lisp</title>
         <link>https://docs.google.com/presentation/d/1j4cJRCJpabDIs_YikEU0aZC4S5z_9gI2ZY6tPFZnqHQ/preview</link>
-        <dc:date>2023-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モノリス化したコード・組織の両方を分割して​ アーキテクチャを改善する​ / Developers Summit 2023 Summer (Kaiichiro Ota)</title>
-        <link>https://speakerdeck.com/kaiichiro/developers-summit-2023-summer</link>
         <dc:date>2023-07-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
