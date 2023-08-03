@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>クラウドネイティブの基盤要素、コンテナの今と未来 (うたもく)</title>
+        <link>https://speakerdeck.com/utam0k/kuraudoneiteibunoji-pan-yao-su-kontenanojin-towei-lai</link>
+        <dc:date>2023-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SasSに依存しないWeb会議システム開発 (WebMeeting Software Suite 公式)</title>
         <link>https://speakerdeck.com/meetingdev/sassniyi-cun-sinaiwebhui-yi-sisutemukai-fa</link>
         <dc:date>2023-08-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>モノリス化したコード・組織の両方を分割して​ アーキテクチャを改善する​ / Developers Summit 2023 Summer (Kaiichiro Ota)</title>
         <link>https://speakerdeck.com/kaiichiro/developers-summit-2023-summer</link>
-        <dc:date>2023-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>課題解決ではなく、価値創造を求めるVoicyの開発チームの組織設計と立ち上げの勘所 (natacon)</title>
-        <link>https://speakerdeck.com/natacon/ke-ti-jie-jue-dehanaku-jia-zhi-chuang-zao-woqiu-meruvoicynokai-fa-timunozu-zhi-she-ji-toli-tishang-genokan-suo</link>
         <dc:date>2023-07-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
