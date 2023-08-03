@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ArkEdge LT #1 dalance (dalance)</title>
+        <link>https://speakerdeck.com/dalance/arkedge-lt-number-1-dalance</link>
+        <dc:date>2023-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rustの画像処理でSIMDを使ってみる (fmy (FUJINAKA Fumiya))</title>
+        <link>https://speakerdeck.com/uzuna/rustnohua-xiang-chu-li-desimdwoshi-tutemiru</link>
+        <dc:date>2023-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>App Router時代のデータ取得アーキテクチャ (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/app-routershi-dai-nodetaqu-de-akitekutiya</link>
         <dc:date>2023-08-01T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Chat Completions APIにおける実行時間の検証 (natsuume)</title>
         <link>https://speakerdeck.com/natsuume/chat-completions-apiniokerushi-xing-shi-jian-nojian-zheng</link>
-        <dc:date>2023-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(Jerry) generative AI v13 (Japanese,  NVIDIA genAI conference 2023</title>
-        <link>https://docs.google.com/presentation/d/1fUru1nbPg2pYwGwTIBVN0htbYVdT03wzi_EsVHxeGk4/preview</link>
-        <dc:date>2023-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【共有用】シニア向けモバイルアプリ開発のすゝめ</title>
-        <link>https://docs.google.com/presentation/d/1CMMxbNXdGUhByo7AxrAS3yZKgPH5m0i3R_cSHrp3rQo/preview</link>
         <dc:date>2023-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
