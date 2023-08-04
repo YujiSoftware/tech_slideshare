@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Make tests run faster (Takumi Shotoku)</title>
+        <link>https://speakerdeck.com/sinsoku/make-tests-run-faster</link>
+        <dc:date>2023-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>配信サービスを作るなら視聴者の体験も可視化してみませんか？ (TVer Inc.)</title>
+        <link>https://speakerdeck.com/techtver/20230729-jawsug-tohoku-tver-frontend-monitoring</link>
+        <dc:date>2023-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>無印良品のID-POSデータ分析を紹介.pdf (yang_ming)</title>
         <link>https://speakerdeck.com/yangming/wu-yin-liang-pin-noid-postetafen-xi-woshao-jie</link>
         <dc:date>2023-08-03T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>技術スタートアップの健全な発展に向けて—不誠実に起因する失敗の事例集とべし・べからず集 (Atsunori KANEMURA)</title>
         <link>https://speakerdeck.com/atsukan_mhkk/tech-startups-healthy-development-dos-and-donts</link>
         <dc:date>2023-07-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction of Steep 1.5</title>
-        <link>https://docs.google.com/presentation/d/1qTygmQltBzsYTfpZVu7oUEjlGa6KJ42tIlcEmiiLARU/preview</link>
-        <dc:date>2023-07-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230730_IoTワークショップ_マイコンについて</title>
-        <link>https://docs.google.com/presentation/d/1ZFGlO07-uwpAjAyKdkTWvfqDhRDVW-BX9REsnO0gVjQ/preview</link>
-        <dc:date>2023-07-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
