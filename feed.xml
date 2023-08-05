@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Data Driven HR ~ エンジニア・人事の新たなキャリアパスの可能性 ~ </title>
+        <link>https://docs.google.com/presentation/d/1IKbDDk2wD1nEPB3ioOhii490r6vnCRAZachKwo50txg/preview</link>
+        <dc:date>2023-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実演TypeScript + GitHub Copilot (erukiti)</title>
         <link>https://speakerdeck.com/erukiti/shi-yan-typescript-plus-github-copilot</link>
         <dc:date>2023-08-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIアプリ Dojo #1 [入門者歓迎] GPUを活用して生成系AIに触れてみよう  (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/aiapps-dojo-01-20230615</link>
-        <dc:date>2023-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIアプリ Dojo #2 Hugging Face Transformers入門  (Akira Onishi (IBM))</title>
-        <link>https://speakerdeck.com/oniak3ibm/aiapps-dojo-02-20230629</link>
         <dc:date>2023-08-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
