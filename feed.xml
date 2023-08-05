@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リファラル採用にフルベットしてみた (Takahiro Tsuchiya)</title>
+        <link>https://speakerdeck.com/corocn/jinjineer-meetup-2023</link>
+        <dc:date>2023-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組織をシンからアジャイルにする (MVP Edition) (市谷聡啓,@papanda)</title>
         <link>https://www.docswell.com/s/papanda/ZM1WPE-shin-agile</link>
         <dc:date>2023-08-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Tokyu.rb のロゴの話 (machida)</title>
         <link>https://speakerdeck.com/machida/tokyu-dot-rb-norogonohua</link>
-        <dc:date>2023-07-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pwn2OwnでMicrosoft Teamsをハッキングして2000万円を獲得した方法/ Shibuya.XSS techtalk #12 (Masato Kinugawa)</title>
-        <link>https://speakerdeck.com/masatokinugawa/shibuya-dot-xss-techtalk-number-12</link>
         <dc:date>2023-07-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
