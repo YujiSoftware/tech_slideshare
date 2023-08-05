@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自称日本一GitHub Projectsを使っているので魅力を伝えたい！ / i call myself the best github projects user in japan so ill show you how i use it (Yuki.Ozasa)</title>
+        <link>https://speakerdeck.com/oztick139/i-call-myself-the-best-github-projects-user-in-japan-so-ill-show-you-how-i-use-it</link>
+        <dc:date>2023-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアエンジニア採用をフロー効率を意識して改善した話 (Bob)</title>
         <link>https://speakerdeck.com/bobtani/sohutoueaenziniacai-yong-wohuroxiao-lu-woyi-shi-sitegai-shan-sitahua</link>
         <dc:date>2023-08-05T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Rustの画像処理でSIMDを使ってみる (fmy (FUJINAKA Fumiya))</title>
         <link>https://speakerdeck.com/uzuna/rustnohua-xiang-chu-li-desimdwoshi-tutemiru</link>
         <dc:date>2023-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>App Router時代のデータ取得アーキテクチャ (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/app-routershi-dai-nodetaqu-de-akitekutiya</link>
-        <dc:date>2023-08-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
