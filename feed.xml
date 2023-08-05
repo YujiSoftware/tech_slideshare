@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実演TypeScript + GitHub Copilot (erukiti)</title>
+        <link>https://speakerdeck.com/erukiti/shi-yan-typescript-plus-github-copilot</link>
+        <dc:date>2023-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title> エンジニアリング組織に求められる人事ってなんだろう？ (tkkz1009)</title>
         <link>https://speakerdeck.com/tkkz1009/enziniaringuzu-zhi-niqiu-merareruren-shi-tutenandarou</link>
         <dc:date>2023-08-04T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AIアプリ Dojo #2 Hugging Face Transformers入門  (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/aiapps-dojo-02-20230629</link>
         <dc:date>2023-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>極限環境で最終ビルドを絞るためのフロントエンド設計 (Koutarou Chikuba)</title>
-        <link>https://speakerdeck.com/mizchi/ji-xian-huan-jing-dezui-zhong-birudowojiao-rutamenohurontoendoshe-ji</link>
-        <dc:date>2023-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
