@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Hacking Guide of the ruby.wasm (shigeru. nakajima)</title>
+        <link>https://speakerdeck.com/ledsun/hacking-guide-of-the-ruby-dot-wasm</link>
+        <dc:date>2023-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自称日本一GitHub Projectsを使っているので魅力を伝えたい！ / i call myself the best github projects user in japan so ill show you how i use it (Yuki.Ozasa)</title>
         <link>https://speakerdeck.com/oztick139/i-call-myself-the-best-github-projects-user-in-japan-so-ill-show-you-how-i-use-it</link>
         <dc:date>2023-08-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ArkEdge LT #1 dalance (dalance)</title>
         <link>https://speakerdeck.com/dalance/arkedge-lt-number-1-dalance</link>
-        <dc:date>2023-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rustの画像処理でSIMDを使ってみる (fmy (FUJINAKA Fumiya))</title>
-        <link>https://speakerdeck.com/uzuna/rustnohua-xiang-chu-li-desimdwoshi-tutemiru</link>
         <dc:date>2023-08-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
