@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集 (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
+        <link>https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji</link>
+        <dc:date>2023-08-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>チャリチャリのサービスを支えるプロダクトの仕組みと開発組織の全体像について / neuet × LINE Fukuoka Engineer Meetup (Shinya Hiruta)</title>
         <link>https://speakerdeck.com/hirutas/neuet-x-line-fukuoka-engineer-meetup</link>
         <dc:date>2023-08-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>WebRTC の映像を Python から自由に加工する sora-python-sdk の仕組み (tnoho)</title>
         <link>https://speakerdeck.com/tnoho/webrtc-noying-xiang-wo-python-karazi-you-nijia-gong-suru-sora-python-sdk-noshi-zu-mi</link>
-        <dc:date>2023-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>STUN・TURNを ちょっとだけ深掘りしてみた (sublimer)</title>
-        <link>https://speakerdeck.com/sublimer/stunturnwo-tiyotutodakeshen-jue-risitemita</link>
         <dc:date>2023-08-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
