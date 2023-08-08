@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WSL2でもRust製の カーネルドライバを動かしたい</title>
+        <link>https://docs.google.com/presentation/d/17uCukaQ5KEWRjZ5brRka2DEx2xvm-bXU-x5RENoqhU8/preview</link>
+        <dc:date>2023-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュリティ・キャンプ2023：B7 Policy as Code入門</title>
         <link>https://docs.google.com/presentation/d/1Q9lc2GeI05WJkGkotowTxUkL-zFKc4R9xOqovfkFSGc/preview</link>
         <dc:date>2023-08-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サブスクリプションサービスをつくる時にエンジニアが考えること / Behind the Scenes: Engineering a Subscription Service (Masato Ohba)</title>
         <link>https://speakerdeck.com/ohbarye/behind-the-scenes-engineering-a-subscription-service</link>
-        <dc:date>2023-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウドネイティブの基盤要素、コンテナの今と未来 (うたもく)</title>
-        <link>https://speakerdeck.com/utam0k/kuraudoneiteibunoji-pan-yao-su-kontenanojin-towei-lai</link>
         <dc:date>2023-08-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
