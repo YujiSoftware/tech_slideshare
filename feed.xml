@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ディープラーニングおじさんの話 (からあげ,@karaage0703)</title>
+        <link>https://www.docswell.com/s/karaage0703/K1P2E5-2019-09-10</link>
+        <dc:date>2023-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WSL2でもRust製の カーネルドライバを動かしたい</title>
         <link>https://docs.google.com/presentation/d/17uCukaQ5KEWRjZ5brRka2DEx2xvm-bXU-x5RENoqhU8/preview</link>
         <dc:date>2023-08-07T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Postmanワークショップ - ChatGPT APIとPostbot - 20230803 - 公開用</title>
         <link>https://docs.google.com/presentation/d/1a_qZgS2nJzk-FylyCZd7j2fe0235U6PA59VWOdtc2DQ/preview</link>
         <dc:date>2023-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サブスクリプションサービスをつくる時にエンジニアが考えること / Behind the Scenes: Engineering a Subscription Service (Masato Ohba)</title>
-        <link>https://speakerdeck.com/ohbarye/behind-the-scenes-engineering-a-subscription-service</link>
-        <dc:date>2023-08-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
