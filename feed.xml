@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vue.jsエコシステム動向2023 (kazupon)</title>
+        <link>https://speakerdeck.com/kazupon/vue-dot-jsekosisutemudong-xiang-2023</link>
+        <dc:date>2023-08-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Data Driven HR ~ エンジニア・人事の新たなキャリアパスの可能性 ~  (tweeeety)</title>
         <link>https://speakerdeck.com/tweeeety/data-driven-hr-enziniaren-shi-noxin-tanakiyariapasunoke-neng-xing</link>
         <dc:date>2023-08-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>組織をシンからアジャイルにする (MVP Edition) (市谷聡啓,@papanda)</title>
         <link>https://www.docswell.com/s/papanda/ZM1WPE-shin-agile</link>
         <dc:date>2023-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Make tests run faster (Takumi Shotoku)</title>
-        <link>https://speakerdeck.com/sinsoku/make-tests-run-faster</link>
-        <dc:date>2023-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
