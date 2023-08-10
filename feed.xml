@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Actionsを使いこなせ！/Get Started GitHub Actions (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/get-started-github-actions</link>
+        <dc:date>2023-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>適応し続けるプロダクトとセキュリティ (Kengo Suzuki)</title>
         <link>https://speakerdeck.com/ken5scal/shi-ying-sisok-keruhurotakutotosekiyuritei</link>
         <dc:date>2023-08-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Data Driven HR ~ エンジニア・人事の新たなキャリアパスの可能性 ~ </title>
         <link>https://docs.google.com/presentation/d/1IKbDDk2wD1nEPB3ioOhii490r6vnCRAZachKwo50txg/preview</link>
-        <dc:date>2023-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実演TypeScript + GitHub Copilot (erukiti)</title>
-        <link>https://speakerdeck.com/erukiti/shi-yan-typescript-plus-github-copilot</link>
         <dc:date>2023-08-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
