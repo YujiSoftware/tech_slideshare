@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>事業価値と Engineering (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/shi-ye-jia-zhi-to-engineering</link>
+        <dc:date>2023-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Next.js (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/next-dot-js-26c1e15f-1514-4646-b6b8-cbf80f8d10ed</link>
         <dc:date>2023-08-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>20230805_札幌.dart Flutter × gRPC</title>
         <link>https://docs.google.com/presentation/d/1p0ArYKzwhqfLZvGrPiR412rPc8v6Xt9cgn1zFs5s0cY/preview</link>
         <dc:date>2023-08-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hacking Guide of the ruby.wasm (shigeru. nakajima)</title>
-        <link>https://speakerdeck.com/ledsun/hacking-guide-of-the-ruby-dot-wasm</link>
-        <dc:date>2023-08-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
