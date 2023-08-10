@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MEETUP_MINI_rayshader</title>
+        <link>https://docs.google.com/presentation/d/1tr-FRqs0PwFXCuXDBr6276oIUwNI0aQxRv2-Pikbmj4/preview</link>
+        <dc:date>2023-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>QGIS証明書プログラムの発行枚数を可視化してみた</title>
+        <link>https://docs.google.com/presentation/d/1SkgzGJTfG-m7CJyrHtKsc8wV4NkCfZPfUkD1RSLSYR0/preview</link>
+        <dc:date>2023-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20230406_MIERUNE_meetup.pptx</title>
+        <link>https://docs.google.com/presentation/d/1tFuFPacm7Aislqjm2TlIvekFprOXksTh/preview</link>
+        <dc:date>2023-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>What's up MIERUNE 230406 (MIERUNE)</title>
+        <link>https://speakerdeck.com/mierune/whats-up-mierune-230406</link>
+        <dc:date>2023-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>みえない交差点_MIERUNE Meetup.pptx</title>
+        <link>https://docs.google.com/presentation/d/11pTPSkIf2ym34iCmCptF3Eo1QU_6N6Ln/preview</link>
+        <dc:date>2023-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>カスタム GitHub Actions 超入門 (Tomohiko Ozawa)</title>
+        <link>https://speakerdeck.com/kota65535/kasutamu-github-actions-chao-ru-men</link>
+        <dc:date>2023-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事業価値と Engineering (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/shi-ye-jia-zhi-to-engineering</link>
         <dc:date>2023-08-09T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>ディープラーニングおじさんの話 (からあげ,@karaage0703)</title>
         <link>https://www.docswell.com/s/karaage0703/K1P2E5-2019-09-10</link>
         <dc:date>2023-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WSL2でもRust製の カーネルドライバを動かしたい</title>
-        <link>https://docs.google.com/presentation/d/17uCukaQ5KEWRjZ5brRka2DEx2xvm-bXU-x5RENoqhU8/preview</link>
-        <dc:date>2023-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ・キャンプ2023：B7 Policy as Code入門</title>
-        <link>https://docs.google.com/presentation/d/1Q9lc2GeI05WJkGkotowTxUkL-zFKc4R9xOqovfkFSGc/preview</link>
-        <dc:date>2023-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>つくばチャレンジ2023EX（エクストラ）＠イーアスつくば (つくばチャレンジ実行委員会)</title>
-        <link>https://speakerdeck.com/tsukubachallenge/tc2023ex-orientation</link>
-        <dc:date>2023-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集 (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
-        <link>https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji</link>
-        <dc:date>2023-08-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チャリチャリのサービスを支えるプロダクトの仕組みと開発組織の全体像について / neuet × LINE Fukuoka Engineer Meetup (Shinya Hiruta)</title>
-        <link>https://speakerdeck.com/hirutas/neuet-x-line-fukuoka-engineer-meetup</link>
-        <dc:date>2023-08-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230805_札幌.dart Flutter × gRPC</title>
-        <link>https://docs.google.com/presentation/d/1p0ArYKzwhqfLZvGrPiR412rPc8v6Xt9cgn1zFs5s0cY/preview</link>
-        <dc:date>2023-08-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
