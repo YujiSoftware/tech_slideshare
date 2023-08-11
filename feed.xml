@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/react</link>
+        <dc:date>2023-08-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MEETUP_MINI_rayshader</title>
         <link>https://docs.google.com/presentation/d/1tr-FRqs0PwFXCuXDBr6276oIUwNI0aQxRv2-Pikbmj4/preview</link>
         <dc:date>2023-08-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>品質コミュニティがつなぐ、QAチームと開発者の新たな可能性 (kotatsu)</title>
         <link>https://speakerdeck.com/kotatsu/pin-zhi-komiyuniteigatunagu-qatimutokai-fa-zhe-noxin-tanake-neng-xing</link>
         <dc:date>2023-08-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ディープラーニングおじさんの話 (からあげ,@karaage0703)</title>
-        <link>https://www.docswell.com/s/karaage0703/K1P2E5-2019-09-10</link>
-        <dc:date>2023-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
