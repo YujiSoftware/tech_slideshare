@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Slackのスタンプ作成をChatGPTでやってみた (Naoto Ota)</title>
+        <link>https://speakerdeck.com/naotoota/slacknosutanpuzuo-cheng-wochatgptdeyatutemita</link>
+        <dc:date>2023-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScript (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/typescript-2023</link>
         <dc:date>2023-08-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>フルComposeでTVアプリを作った話 (SSK)</title>
         <link>https://speakerdeck.com/sasakitomohiro/hurucomposedetvapuriwozuo-tutahua</link>
-        <dc:date>2023-08-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ABEMAのRenderScript Intrinsics Replacement Toolkit 導入事例 (Go Takahana)</title>
-        <link>https://speakerdeck.com/takahana/abemanorenderscript-intrinsics-replacement-toolkit-dao-ru-shi-li</link>
         <dc:date>2023-08-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
