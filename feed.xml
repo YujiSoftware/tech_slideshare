@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アナタの知らない Postmanエクスペリエンス / An unknown Postman experience for you (Yoichi Kawasaki)</title>
+        <link>https://speakerdeck.com/yokawasa/an-unknown-postman-experience-for-you</link>
+        <dc:date>2023-08-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テストを手で書いてるヒマはない💢 そんなあなたにAIテスト生成「Postbot」 (草薙昭彦)</title>
+        <link>https://speakerdeck.com/nagix/tesutowoshou-deshu-iteruhimahanai-sonnaanataniaitesutosheng-cheng-postbot</link>
+        <dc:date>2023-08-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanを活用した効率的なAPIテスト自動化のススメ / Efficient API Test Automation Using Postman (Yoichi Kawasaki)</title>
+        <link>https://speakerdeck.com/yokawasa/efficient-api-test-automation-using-postman</link>
+        <dc:date>2023-08-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postman Collectionを使って社内外とのAPI連携開発・コラボレーションを円滑にできたお話 (Kazuya Sugimoto)</title>
+        <link>https://speakerdeck.com/sugimomoto/postman-collectionwoshi-tuteshe-nei-wai-tonoapilian-xi-kai-fa-koraboresiyonwoyuan-hua-nidekitaohua</link>
+        <dc:date>2023-08-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ChatGPTの新機能「Function Calling」をPostmanで使ってみる (草薙昭彦)</title>
+        <link>https://speakerdeck.com/nagix/chatgptnoxin-ji-neng-function-calling-wopostmandeshi-tutemiru</link>
+        <dc:date>2023-08-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vue.jsの今までをざっくり (cyber_snufkin)</title>
         <link>https://speakerdeck.com/cyber_snufkin/vue-dot-jsnojin-madewozatukuri</link>
         <dc:date>2023-08-13T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>What's up MIERUNE 230406 (MIERUNE)</title>
         <link>https://speakerdeck.com/mierune/whats-up-mierune-230406</link>
-        <dc:date>2023-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>みえない交差点_MIERUNE Meetup.pptx</title>
-        <link>https://docs.google.com/presentation/d/11pTPSkIf2ym34iCmCptF3Eo1QU_6N6Ln/preview</link>
-        <dc:date>2023-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カスタム GitHub Actions 超入門 (Tomohiko Ozawa)</title>
-        <link>https://speakerdeck.com/kota65535/kasutamu-github-actions-chao-ru-men</link>
-        <dc:date>2023-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業価値と Engineering (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/shi-ye-jia-zhi-to-engineering</link>
-        <dc:date>2023-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.js (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/next-dot-js-26c1e15f-1514-4646-b6b8-cbf80f8d10ed</link>
-        <dc:date>2023-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現代的システム開発概論 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/xian-dai-de-sisutemukai-fa-gai-lun</link>
         <dc:date>2023-08-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
