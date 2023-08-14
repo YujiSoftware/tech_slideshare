@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vue.jsの今までをざっくり (cyber_snufkin)</title>
+        <link>https://speakerdeck.com/cyber_snufkin/vue-dot-jsnojin-madewozatukuri</link>
+        <dc:date>2023-08-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>テスト駆動開発 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/tesutoqu-dong-kai-fa</link>
         <dc:date>2023-08-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>現代的システム開発概論 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/xian-dai-de-sisutemukai-fa-gai-lun</link>
-        <dc:date>2023-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREからPlatform Engineerへの拡大 (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/srekaraplatform-engineerhenokuo-da</link>
         <dc:date>2023-08-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
