@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS アーキテクチャ作図入門/aws-architecture-diagram-101 (Kohei "Max" MATSUSHITA)</title>
+        <link>https://speakerdeck.com/ma2shita/aws-architecture-diagram-101</link>
+        <dc:date>2023-08-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「シェル」ってなに？から改めて学ぶLinuxのきほん (os1ma)</title>
         <link>https://speakerdeck.com/os1ma/sieru-tutenani-karagai-metexue-bulinuxnokihon</link>
         <dc:date>2023-08-12T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>適応し続けるプロダクトとセキュリティ (Kengo Suzuki)</title>
         <link>https://speakerdeck.com/ken5scal/shi-ying-sisok-keruhurotakutotosekiyuritei</link>
         <dc:date>2023-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Firebase A/B TestingとRemote Config を最大限に活用する方法 (mukky620)</title>
-        <link>https://speakerdeck.com/mukky620/b-testingtoremote-config-wozui-da-xian-nihuo-yong-surufang-fa</link>
-        <dc:date>2023-08-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
