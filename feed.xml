@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【Rust × C++】 夢の共演を試した話 (lemolatoon)</title>
+        <link>https://speakerdeck.com/lemolatoon/rust-x-c-plus-plus-meng-nogong-yan-woshi-sitahua</link>
+        <dc:date>2023-08-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>検索結果の品質向上 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/jian-suo-jie-guo-nopin-zhi-xiang-shang</link>
         <dc:date>2023-08-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>MEETUP_MINI_rayshader</title>
         <link>https://docs.google.com/presentation/d/1tr-FRqs0PwFXCuXDBr6276oIUwNI0aQxRv2-Pikbmj4/preview</link>
-        <dc:date>2023-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QGIS証明書プログラムの発行枚数を可視化してみた</title>
-        <link>https://docs.google.com/presentation/d/1SkgzGJTfG-m7CJyrHtKsc8wV4NkCfZPfUkD1RSLSYR0/preview</link>
         <dc:date>2023-08-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
