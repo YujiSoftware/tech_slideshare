@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM によるプログラムベース推論 / 2023.08.07 Geography&amp;Language 勉強会 #4 (Shumpei Miyawaki)</title>
+        <link>https://speakerdeck.com/smiyawaki0820/2023-dot-08-dot-07-geography-and-language-mian-qiang-hui-number-4</link>
+        <dc:date>2023-08-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>成功する生成 AI プロダクトのつくり方 (KAJI | 梶谷健人)</title>
+        <link>https://speakerdeck.com/kajikent/cheng-gong-surusheng-cheng-ai-purodakutonotukurifang</link>
+        <dc:date>2023-08-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【Rust × C++】 夢の共演を試した話 (lemolatoon)</title>
         <link>https://speakerdeck.com/lemolatoon/rust-x-c-plus-plus-meng-nogong-yan-woshi-sitahua</link>
         <dc:date>2023-08-15T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>ブラウザ/ Browser (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/browser-2023</link>
         <dc:date>2023-08-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/react</link>
-        <dc:date>2023-08-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MEETUP_MINI_rayshader</title>
-        <link>https://docs.google.com/presentation/d/1tr-FRqs0PwFXCuXDBr6276oIUwNI0aQxRv2-Pikbmj4/preview</link>
-        <dc:date>2023-08-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
