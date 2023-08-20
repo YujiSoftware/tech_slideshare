@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>グラフアルゴリズム実践活用術 (joisino)</title>
+        <link>https://speakerdeck.com/joisino/gurahuarugorizumushi-jian-huo-yong-shu</link>
+        <dc:date>2023-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Verse言語とメタバースとの関係 (tsukasa TSUCHIYA)</title>
         <link>https://speakerdeck.com/t_tutiya/verseyan-yu-tometabasutonoguan-xi</link>
         <dc:date>2023-08-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Slackのスタンプ作成をChatGPTでやってみた (Naoto Ota)</title>
         <link>https://speakerdeck.com/naotoota/slacknosutanpuzuo-cheng-wochatgptdeyatutemita</link>
-        <dc:date>2023-08-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/typescript-2023</link>
         <dc:date>2023-08-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
