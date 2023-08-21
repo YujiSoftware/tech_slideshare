@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テストデータを貯めて感じたこと (Yoshiori SHOJI)</title>
+        <link>https://speakerdeck.com/yoshiori/toruby-2023</link>
+        <dc:date>2023-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure Machine Learning Prompt flow 評価メトリクス解説 (Nobusuke Hanagasaki)</title>
+        <link>https://speakerdeck.com/nohanaga/azure-machine-learning-prompt-flow-ping-jia-metorikusujie-shuo</link>
+        <dc:date>2023-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アナタの知らない Postman エクスペリエンス (2023.8.10) - 公開用</title>
         <link>https://docs.google.com/presentation/d/1CnjRm555V1o5zkb4A4qv22hnmbzlp_58s4XkKYkmFKQ/preview</link>
         <dc:date>2023-08-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ChatGPTの新機能「Function Calling」をPostmanで使ってみる (草薙昭彦)</title>
         <link>https://speakerdeck.com/nagix/chatgptnoxin-ji-neng-function-calling-wopostmandeshi-tutemiru</link>
-        <dc:date>2023-08-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue.jsの今までをざっくり (cyber_snufkin)</title>
-        <link>https://speakerdeck.com/cyber_snufkin/vue-dot-jsnojin-madewozatukuri</link>
-        <dc:date>2023-08-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスト駆動開発 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/tesutoqu-dong-kai-fa</link>
         <dc:date>2023-08-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
