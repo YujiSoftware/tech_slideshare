@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アナタの知らない Postman エクスペリエンス (2023.8.10) - 公開用</title>
+        <link>https://docs.google.com/presentation/d/1CnjRm555V1o5zkb4A4qv22hnmbzlp_58s4XkKYkmFKQ/preview</link>
+        <dc:date>2023-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ChatGPT の新機能 「Function Calling」を Postman で使ってみる</title>
+        <link>https://docs.google.com/presentation/d/169axlnByOxQtpZvsUtIxriTVdgy3Lb3t5ht9UJX_Zws/preview</link>
+        <dc:date>2023-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メタヒューリスティクスで広がる「解けた！」の世界 (terry-u16)</title>
+        <link>https://speakerdeck.com/terryu16/metahiyurisuteikusudeguang-garu-jie-keta-noshi-jie</link>
+        <dc:date>2023-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloud Native Buildpacksで作る至高のコンテナイメージ for Spring Boot~ おそらくあなたの知らないBuildpack活用法 ~</title>
         <link>https://docs.google.com/presentation/d/1OL6cRu2nw0Btv2nTnxfB8JpsoBkNSPbjcEQ-wFNvbVc/preview</link>
         <dc:date>2023-08-20T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>テスト駆動開発 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/tesutoqu-dong-kai-fa</link>
         <dc:date>2023-08-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webアクセシビリティ入門 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/webakusesibiriteiru-men</link>
-        <dc:date>2023-08-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS アーキテクチャ作図入門/aws-architecture-diagram-101 (Kohei "Max" MATSUSHITA)</title>
-        <link>https://speakerdeck.com/ma2shita/aws-architecture-diagram-101</link>
-        <dc:date>2023-08-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「シェル」ってなに？から改めて学ぶLinuxのきほん (os1ma)</title>
-        <link>https://speakerdeck.com/os1ma/sieru-tutenani-karagai-metexue-bulinuxnokihon</link>
-        <dc:date>2023-08-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
