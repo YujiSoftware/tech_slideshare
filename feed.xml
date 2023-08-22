@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データ基盤における管理の考え方 〜dbtの極意〜：LayerXにdbtを導入するときに意識したこと (Civitaspo)</title>
+        <link>https://speakerdeck.com/civitaspo/detaji-pan-niokeruguan-li-nokao-efang-dbtnoji-yi-layerxnidbtwodao-ru-surutokiniyi-shi-sitakoto</link>
+        <dc:date>2023-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>dbtではじめる クエリの再利用と正確性の向上について (ymy)</title>
         <link>https://speakerdeck.com/yamayafumiteru/dbtdehazimeru-kuerinozai-li-yong-tozheng-que-xing-noxiang-shang-nituite</link>
         <dc:date>2023-08-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アナタの知らない Postmanエクスペリエンス / An unknown Postman experience for you (Yoichi Kawasaki)</title>
         <link>https://speakerdeck.com/yokawasa/an-unknown-postman-experience-for-you</link>
-        <dc:date>2023-08-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テストを手で書いてるヒマはない💢 そんなあなたにAIテスト生成「Postbot」 (草薙昭彦)</title>
-        <link>https://speakerdeck.com/nagix/tesutowoshou-deshu-iteruhimahanai-sonnaanataniaitesutosheng-cheng-postbot</link>
         <dc:date>2023-08-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
