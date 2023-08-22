@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>dbt_Cloudとdbt_Core併用の試み (Toshiki Tsuchikawa)</title>
+        <link>https://speakerdeck.com/ttccddtoki/dbt-cloudtodbt-corebing-yong-noshi-mi</link>
+        <dc:date>2023-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>テストデータを貯めて感じたこと (Yoshiori SHOJI)</title>
         <link>https://speakerdeck.com/yoshiori/toruby-2023</link>
         <dc:date>2023-08-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Postman Collectionを使って社内外とのAPI連携開発・コラボレーションを円滑にできたお話 (Kazuya Sugimoto)</title>
         <link>https://speakerdeck.com/sugimomoto/postman-collectionwoshi-tuteshe-nei-wai-tonoapilian-xi-kai-fa-koraboresiyonwoyuan-hua-nidekitaohua</link>
-        <dc:date>2023-08-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTの新機能「Function Calling」をPostmanで使ってみる (草薙昭彦)</title>
-        <link>https://speakerdeck.com/nagix/chatgptnoxin-ji-neng-function-calling-wopostmandeshi-tutemiru</link>
         <dc:date>2023-08-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
