@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>dbtではじめる クエリの再利用と正確性の向上について (ymy)</title>
+        <link>https://speakerdeck.com/yamayafumiteru/dbtdehazimeru-kuerinozai-li-yong-tozheng-que-xing-noxiang-shang-nituite</link>
+        <dc:date>2023-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代のUXデザインと プロンプトデザインの本質【前編】 (しょーてぃー/Experience&amp;Prompt Designer)</title>
         <link>https://speakerdeck.com/shoty_k2/aishi-dai-nouxdezainto-puronputodezainnoben-zhi</link>
         <dc:date>2023-08-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>テストを手で書いてるヒマはない💢 そんなあなたにAIテスト生成「Postbot」 (草薙昭彦)</title>
         <link>https://speakerdeck.com/nagix/tesutowoshou-deshu-iteruhimahanai-sonnaanataniaitesutosheng-cheng-postbot</link>
-        <dc:date>2023-08-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanを活用した効率的なAPIテスト自動化のススメ / Efficient API Test Automation Using Postman (Yoichi Kawasaki)</title>
-        <link>https://speakerdeck.com/yokawasa/efficient-api-test-automation-using-postman</link>
         <dc:date>2023-08-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
