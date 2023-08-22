@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代のUXデザインと プロンプトデザインの本質【前編】 (しょーてぃー/Experience&amp;Prompt Designer)</title>
+        <link>https://speakerdeck.com/shoty_k2/aishi-dai-nouxdezainto-puronputodezainnoben-zhi</link>
+        <dc:date>2023-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>dbt_Cloudとdbt_Core併用の試み (Toshiki Tsuchikawa)</title>
         <link>https://speakerdeck.com/ttccddtoki/dbt-cloudtodbt-corebing-yong-noshi-mi</link>
         <dc:date>2023-08-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Postmanを活用した効率的なAPIテスト自動化のススメ / Efficient API Test Automation Using Postman (Yoichi Kawasaki)</title>
         <link>https://speakerdeck.com/yokawasa/efficient-api-test-automation-using-postman</link>
-        <dc:date>2023-08-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postman Collectionを使って社内外とのAPI連携開発・コラボレーションを円滑にできたお話 (Kazuya Sugimoto)</title>
-        <link>https://speakerdeck.com/sugimomoto/postman-collectionwoshi-tuteshe-nei-wai-tonoapilian-xi-kai-fa-koraboresiyonwoyuan-hua-nidekitaohua</link>
         <dc:date>2023-08-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
