@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[Opening] DBRE Summit 2023 (_awache)</title>
+        <link>https://speakerdeck.com/_awache/opening-dbre-summit-2023</link>
+        <dc:date>2023-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Faster Pull Request Reviews 〜ハイパフォーマンスチームへの道〜 / Faster Pull Request Reviews (toshimaru)</title>
         <link>https://speakerdeck.com/toshimaru/faster-pull-request-reviews</link>
         <dc:date>2023-08-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Cloud Native Buildpacksで作る至高のコンテナイメージ for Spring Boot~ おそらくあなたの知らないBuildpack活用法 ~</title>
         <link>https://docs.google.com/presentation/d/1OL6cRu2nw0Btv2nTnxfB8JpsoBkNSPbjcEQ-wFNvbVc/preview</link>
         <dc:date>2023-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>グラフアルゴリズム実践活用術 (joisino)</title>
-        <link>https://speakerdeck.com/joisino/gurahuarugorizumushi-jian-huo-yong-shu</link>
-        <dc:date>2023-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
