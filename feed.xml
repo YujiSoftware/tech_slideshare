@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloudflare Workersで動的コンテンツをキャッシュする際の新たな選択肢 (yoshitaka KOITABASHI)</title>
+        <link>https://speakerdeck.com/yoshiitaka/cloudflare-workersdedong-de-kontentuwokiyatusiyusuruji-noxin-tanaxuan-ze-zhi</link>
+        <dc:date>2023-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[Opening] DBRE Summit 2023 (_awache)</title>
         <link>https://speakerdeck.com/_awache/opening-dbre-summit-2023</link>
         <dc:date>2023-08-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>メタヒューリスティクスで広がる「解けた！」の世界 (terry-u16)</title>
         <link>https://speakerdeck.com/terryu16/metahiyurisuteikusudeguang-garu-jie-keta-noshi-jie</link>
-        <dc:date>2023-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud Native Buildpacksで作る至高のコンテナイメージ for Spring Boot~ おそらくあなたの知らないBuildpack活用法 ~</title>
-        <link>https://docs.google.com/presentation/d/1OL6cRu2nw0Btv2nTnxfB8JpsoBkNSPbjcEQ-wFNvbVc/preview</link>
         <dc:date>2023-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
