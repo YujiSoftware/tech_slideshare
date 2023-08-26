@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NeRF-RPN_carnavi (Ryo)</title>
+        <link>https://speakerdeck.com/ryokawanami/nerf-rpn-carnavi</link>
+        <dc:date>2023-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREチームで始めたSLOモニタリングを プロダクト開発組織に拡大している話 (Yuki Ando,@integrated1453)</title>
         <link>https://www.docswell.com/s/integrated1453/KXY2WX-expansion-of-slo-monitoring</link>
         <dc:date>2023-08-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>テストデータを貯めて感じたこと (Yoshiori SHOJI)</title>
         <link>https://speakerdeck.com/yoshiori/toruby-2023</link>
-        <dc:date>2023-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Machine Learning Prompt flow 評価メトリクス解説 (Nobusuke Hanagasaki)</title>
-        <link>https://speakerdeck.com/nohanaga/azure-machine-learning-prompt-flow-ping-jia-metorikusujie-shuo</link>
         <dc:date>2023-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
