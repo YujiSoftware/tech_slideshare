@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VSCode、GitHub Copilot Chat で  Web アプリを開発してみよう - 2 (Shotaro Suzuki,@shosuz)</title>
+        <link>https://www.docswell.com/s/shosuz/ZGXNWL-2023-08-26-162303</link>
+        <dc:date>2023-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Static Web Apps × DevOps × OpenAI  で開発事始め (SatakeYusuke)</title>
+        <link>https://speakerdeck.com/satakeyusuke19920527/static-web-apps-x-devops-x-openai-dekai-fa-shi-shi-me</link>
+        <dc:date>2023-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure Deployment Environments で GitOps を実践しよう (Akira Inoue)</title>
+        <link>https://speakerdeck.com/chack411/azure-deployment-environments-de-gitops-woshi-jian-siyou</link>
+        <dc:date>2023-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>.NET 8のBlazorについてみてみよう (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/dot-net-8noblazornituitemitemiyou</link>
+        <dc:date>2023-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Windows Server 30周年！ 「ドメイン」のこれまでとこれから (Murachi Akira)</title>
+        <link>https://speakerdeck.com/murachiakira/windows-server-30zhou-nian-domein-nokoremadetokorekara</link>
+        <dc:date>2023-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ISUCON練習環境を最も簡単に用意する方法 (KOBA789)</title>
+        <link>https://speakerdeck.com/koba789/isuconlian-xi-huan-jing-wozui-mojian-dan-niyong-yi-surufang-fa</link>
+        <dc:date>2023-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NeRF-RPN_carnavi (Ryo)</title>
         <link>https://speakerdeck.com/ryokawanami/nerf-rpn-carnavi</link>
         <dc:date>2023-08-25T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>[EC2からKubernetes] 楽天ラクマのコンテナ化の歩み (Morix)</title>
         <link>https://speakerdeck.com/morix1500/ec2karakubernetes-le-tian-rakumanokontenahua-nobu-mi</link>
         <dc:date>2023-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>230822_findy_dbt (okiyuki)</title>
-        <link>https://speakerdeck.com/okiyuki99/230822-findy-dbt</link>
-        <dc:date>2023-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ基盤における管理の考え方 〜dbtの極意〜：LayerXにdbtを導入するときに意識したこと (Civitaspo)</title>
-        <link>https://speakerdeck.com/civitaspo/detaji-pan-niokeruguan-li-nokao-efang-dbtnoji-yi-layerxnidbtwodao-ru-surutokiniyi-shi-sitakoto</link>
-        <dc:date>2023-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbtではじめる クエリの再利用と正確性の向上について (ymy)</title>
-        <link>https://speakerdeck.com/yamayafumiteru/dbtdehazimeru-kuerinozai-li-yong-tozheng-que-xing-noxiang-shang-nituite</link>
-        <dc:date>2023-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代のUXデザインと プロンプトデザインの本質【前編】 (しょーてぃー/Experience&amp;Prompt Designer)</title>
-        <link>https://speakerdeck.com/shoty_k2/aishi-dai-nouxdezainto-puronputodezainnoben-zhi</link>
-        <dc:date>2023-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbt_Cloudとdbt_Core併用の試み (Toshiki Tsuchikawa)</title>
-        <link>https://speakerdeck.com/ttccddtoki/dbt-cloudtodbt-corebing-yong-noshi-mi</link>
-        <dc:date>2023-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テストデータを貯めて感じたこと (Yoshiori SHOJI)</title>
-        <link>https://speakerdeck.com/yoshiori/toruby-2023</link>
-        <dc:date>2023-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
