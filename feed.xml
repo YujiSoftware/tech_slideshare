@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREチームで始めたSLOモニタリングを プロダクト開発組織に拡大している話 (Yuki Ando,@integrated1453)</title>
+        <link>https://www.docswell.com/s/integrated1453/KXY2WX-expansion-of-slo-monitoring</link>
+        <dc:date>2023-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ABテスト (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/abtest-2023</link>
         <dc:date>2023-08-25T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Azure Machine Learning Prompt flow 評価メトリクス解説 (Nobusuke Hanagasaki)</title>
         <link>https://speakerdeck.com/nohanaga/azure-machine-learning-prompt-flow-ping-jia-metorikusujie-shuo</link>
         <dc:date>2023-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アナタの知らない Postman エクスペリエンス (2023.8.10) - 公開用</title>
-        <link>https://docs.google.com/presentation/d/1CnjRm555V1o5zkb4A4qv22hnmbzlp_58s4XkKYkmFKQ/preview</link>
-        <dc:date>2023-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
