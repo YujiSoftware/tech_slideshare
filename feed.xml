@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「変化していくセキュリティ対策の常識」 (ohhara,@ohhara_shiojiri)</title>
+        <link>https://www.docswell.com/s/ohhara_shiojiri/ZM1QGE-2023-08-28-094006</link>
+        <dc:date>2023-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「クラウドの基礎と、クラウドのセキュリティの基本的な考え方（AWSを例に）」 (ohhara,@ohhara_shiojiri)</title>
+        <link>https://www.docswell.com/s/ohhara_shiojiri/Z8GN9Q-2023-08-27-193317</link>
+        <dc:date>2023-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「船舶サイバーセキュリティ演習、やってきました」 (ohhara,@ohhara_shiojiri)</title>
+        <link>https://www.docswell.com/s/ohhara_shiojiri/5247WE-2023-08-27-184741</link>
+        <dc:date>2023-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/react-2023</link>
         <dc:date>2023-08-27T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>Cloudflare Workersで動的コンテンツをキャッシュする際の新たな選択肢 (yoshitaka KOITABASHI)</title>
         <link>https://speakerdeck.com/yoshiitaka/cloudflare-workersdedong-de-kontentuwokiyatusiyusuruji-noxin-tanaxuan-ze-zhi</link>
         <dc:date>2023-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Opening] DBRE Summit 2023 (_awache)</title>
-        <link>https://speakerdeck.com/_awache/opening-dbre-summit-2023</link>
-        <dc:date>2023-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Faster Pull Request Reviews 〜ハイパフォーマンスチームへの道〜 / Faster Pull Request Reviews (toshimaru)</title>
-        <link>https://speakerdeck.com/toshimaru/faster-pull-request-reviews</link>
-        <dc:date>2023-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マスタデータ統一スキーマ言語による効率的なトランクベース開発フローの実現 (trapezoid)</title>
-        <link>https://speakerdeck.com/trapezoid/masutadetatong-sukimayan-yu-niyoruxiao-lu-de-natorankubesukai-fa-huronoshi-xian</link>
-        <dc:date>2023-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
