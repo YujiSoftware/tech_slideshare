@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>C言語で苦しむロックフリー入門（仮 (kumagi,@kumagi)</title>
+        <link>https://www.docswell.com/s/kumagi/KVVVGJ-lock-free-intro</link>
+        <dc:date>2023-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「変化していくセキュリティ対策の常識」 (ohhara,@ohhara_shiojiri)</title>
         <link>https://www.docswell.com/s/ohhara_shiojiri/ZM1QGE-2023-08-28-094006</link>
         <dc:date>2023-08-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>技術的負債の怨霊と除霊方法 / ghosts-of-technical-debt (MinoDriven)</title>
         <link>https://speakerdeck.com/minodriven/ghosts-of-technical-debt</link>
-        <dc:date>2023-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Workersで動的コンテンツをキャッシュする際の新たな選択肢 (yoshitaka KOITABASHI)</title>
-        <link>https://speakerdeck.com/yoshiitaka/cloudflare-workersdedong-de-kontentuwokiyatusiyusuruji-noxin-tanaxuan-ze-zhi</link>
         <dc:date>2023-08-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
