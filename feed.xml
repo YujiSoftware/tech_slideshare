@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアの心構え (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/engineer-2023</link>
+        <dc:date>2023-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ぼくたちはMySQL 8.1とどう生きるか (yoku0825)</title>
+        <link>https://speakerdeck.com/yoku0825/bokutatihamysql-8-dot-1todousheng-kiruka</link>
+        <dc:date>2023-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>C言語で苦しむロックフリー入門（仮 (kumagi,@kumagi)</title>
         <link>https://www.docswell.com/s/kumagi/KVVVGJ-lock-free-intro</link>
         <dc:date>2023-08-27T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>SREチームで始めたSLOモニタリングを プロダクト開発組織に拡大している話 (Yuki Ando,@integrated1453)</title>
         <link>https://www.docswell.com/s/integrated1453/KXY2WX-expansion-of-slo-monitoring</link>
         <dc:date>2023-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ABテスト (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/abtest-2023</link>
-        <dc:date>2023-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術的負債の怨霊と除霊方法 / ghosts-of-technical-debt (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/ghosts-of-technical-debt</link>
-        <dc:date>2023-08-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
