@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ECS on Fargate のセキュリティ対策は何をやるべき？開発者目線で考える/security-for-ecs-on-fargate-secjawsdays (tomoki10)</title>
+        <link>https://speakerdeck.com/tomoki10/security-for-ecs-on-fargate-secjawsdays</link>
+        <dc:date>2023-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>グラフを用いた近似最近傍探索の理論と応用 (Yusuke Matsui)</title>
         <link>https://speakerdeck.com/matsui_528/gurahuwoyong-itajin-si-zui-jin-bang-tan-suo-noli-lun-toying-yong</link>
         <dc:date>2023-08-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Static Web Apps × DevOps × OpenAI  で開発事始め (SatakeYusuke)</title>
         <link>https://speakerdeck.com/satakeyusuke19920527/static-web-apps-x-devops-x-openai-dekai-fa-shi-shi-me</link>
-        <dc:date>2023-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Deployment Environments で GitOps を実践しよう (Akira Inoue)</title>
-        <link>https://speakerdeck.com/chack411/azure-deployment-environments-de-gitops-woshi-jian-siyou</link>
         <dc:date>2023-08-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
