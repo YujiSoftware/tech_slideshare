@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Spindle UIのつくりかた / Spindle UI: From Concept to Creation (Ameba Spindle)</title>
+        <link>https://speakerdeck.com/spindle/spindle-ui-from-concept-to-creation</link>
+        <dc:date>2023-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ECS on Fargate のセキュリティ対策は何をやるべき？開発者目線で考える/security-for-ecs-on-fargate-secjawsdays (tomoki10)</title>
         <link>https://speakerdeck.com/tomoki10/security-for-ecs-on-fargate-secjawsdays</link>
         <dc:date>2023-08-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>VSCode、GitHub Copilot Chat で  Web アプリを開発してみよう - 2 (Shotaro Suzuki,@shosuz)</title>
         <link>https://www.docswell.com/s/shosuz/ZGXNWL-2023-08-26-162303</link>
-        <dc:date>2023-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Static Web Apps × DevOps × OpenAI  で開発事始め (SatakeYusuke)</title>
-        <link>https://speakerdeck.com/satakeyusuke19920527/static-web-apps-x-devops-x-openai-dekai-fa-shi-shi-me</link>
         <dc:date>2023-08-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
