@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>グラフを用いた近似最近傍探索の理論と応用 (Yusuke Matsui)</title>
+        <link>https://speakerdeck.com/matsui_528/gurahuwoyong-itajin-si-zui-jin-bang-tan-suo-noli-lun-toying-yong</link>
+        <dc:date>2023-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>機械学習による適応的実験計画 (kota matsui)</title>
         <link>https://speakerdeck.com/kmatsui/ji-jie-xue-xi-niyorushi-ying-de-shi-yan-ji-hua</link>
         <dc:date>2023-08-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Azure Deployment Environments で GitOps を実践しよう (Akira Inoue)</title>
         <link>https://speakerdeck.com/chack411/azure-deployment-environments-de-gitops-woshi-jian-siyou</link>
-        <dc:date>2023-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>.NET 8のBlazorについてみてみよう (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/dot-net-8noblazornituitemitemiyou</link>
         <dc:date>2023-08-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
