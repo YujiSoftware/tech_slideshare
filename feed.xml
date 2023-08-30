@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS履修者のためのAzure入門 (BeeX, Inc.)</title>
+        <link>https://speakerdeck.com/beex/awslu-xiu-zhe-notamenoazureru-men</link>
+        <dc:date>2023-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Spindle UIのつくりかた / Spindle UI: From Concept to Creation (Ameba Spindle)</title>
         <link>https://speakerdeck.com/spindle/spindle-ui-from-concept-to-creation</link>
         <dc:date>2023-08-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>個人分担性がスタートアップの成長を殺す  〜協働でチームがめっちゃ進化する話〜 (Takeo Imai)</title>
         <link>https://speakerdeck.com/bonotake/ge-ren-fen-dan-xing-gasutatoatupunocheng-chang-wosha-su-xie-dong-detimugametutiyajin-hua-suruhua</link>
         <dc:date>2023-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VSCode、GitHub Copilot Chat で  Web アプリを開発してみよう - 2 (Shotaro Suzuki,@shosuz)</title>
-        <link>https://www.docswell.com/s/shosuz/ZGXNWL-2023-08-26-162303</link>
-        <dc:date>2023-08-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
