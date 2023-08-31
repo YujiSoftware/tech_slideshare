@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 (Akira Onishi (IBM))</title>
+        <link>https://speakerdeck.com/oniak3ibm/aiapps-dojo-03-20230831</link>
+        <dc:date>2023-08-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Dive into SmartHR UI (nabeliwo)</title>
         <link>https://speakerdeck.com/nabeliwo/dive-into-smarthr-ui</link>
         <dc:date>2023-08-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データ基盤管理の考え方 〜dbtの極意〜 Lunch LT (10xinc)</title>
         <link>https://speakerdeck.com/10xinc/tetaji-pan-guan-li-nokao-efang-dbtnoji-yi-lunch-lt</link>
-        <dc:date>2023-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なんだか うまくいっている を 自分たちの いつもどおり に 定着させるためのチーム戦略 (ikuma-t)</title>
-        <link>https://speakerdeck.com/ikumatadokoro/nandaka-umakuituteiru-wo-zi-fen-tatino-itumodoori-ni-ding-zhao-saserutamenotimuzhan-lue</link>
         <dc:date>2023-08-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
