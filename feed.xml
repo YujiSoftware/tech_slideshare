@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ディメンショナル モデリング入門 / introduction-to-dimensional-modeling (Jumpei Chikamori)</title>
+        <link>https://speakerdeck.com/pei0804/introduction-to-dimensional-modeling</link>
+        <dc:date>2023-08-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模言語モデル入門 / LLM introduction (SES2023) (Kyosuke Nishida)</title>
         <link>https://speakerdeck.com/kyoun/llm-introduction-ses2023</link>
         <dc:date>2023-08-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エンジニアの心構え (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/engineer-2023</link>
-        <dc:date>2023-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ぼくたちはMySQL 8.1とどう生きるか (yoku0825)</title>
-        <link>https://speakerdeck.com/yoku0825/bokutatihamysql-8-dot-1todousheng-kiruka</link>
         <dc:date>2023-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
