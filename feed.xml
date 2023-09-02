@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【Startup Day 2023】技術的負債を抱えながら それでも生きていく / Living with technical debt (shinden)</title>
+        <link>https://speakerdeck.com/shinden/living-with-technical-debt</link>
+        <dc:date>2023-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>小さなバグが生んだ悲劇、そこから学ぶ耐障害性の高いアプリ設計 (Yosuke Imairi)</title>
+        <link>https://speakerdeck.com/imairi/xiao-sanabagugasheng-ndabei-ju-sokokaraxue-bunai-zhang-hai-xing-nogao-iapurishe-ji</link>
+        <dc:date>2023-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MySQL EXPLAIN 解説 (Infiniteloop)</title>
         <link>https://speakerdeck.com/infiniteloop_inc/mysql-explain-jie-shuo</link>
         <dc:date>2023-09-01T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>グラフを用いた近似最近傍探索の理論と応用 (Yusuke Matsui)</title>
         <link>https://speakerdeck.com/matsui_528/gurahuwoyong-itajin-si-zui-jin-bang-tan-suo-noli-lun-toying-yong</link>
         <dc:date>2023-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習による適応的実験計画 (kota matsui)</title>
-        <link>https://speakerdeck.com/kmatsui/ji-jie-xue-xi-niyorushi-ying-de-shi-yan-ji-hua</link>
-        <dc:date>2023-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「Datadog入れてみたらAWSの料金が爆発した話」@ゆるSRE勉強会 #1  (Ryunosuke Iwai)</title>
-        <link>https://speakerdeck.com/rynsuke/datadogru-retemitaraawsnoliao-jin-gabao-fa-sitahua-at-yurusremian-qiang-hui-number-1</link>
-        <dc:date>2023-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
