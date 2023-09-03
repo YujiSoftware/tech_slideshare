@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なんとなく使っていたSentryに向き合い始めた話 / Recently, we have been facing Sentry. (TAKANO Sho / @masaru_b_cl)</title>
+        <link>https://speakerdeck.com/masaru_b_cl/recently-we-have-been-facing-sentry</link>
+        <dc:date>2023-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>pwn入門 / introduction to pwn (Arata)</title>
         <link>https://speakerdeck.com/arata_nvm/introduction-to-pwn</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>大規模言語モデル入門 / LLM introduction (SES2023) (Kyosuke Nishida)</title>
         <link>https://speakerdeck.com/kyoun/llm-introduction-ses2023</link>
-        <dc:date>2023-08-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ButtonとLink、どう実装する？</title>
-        <link>https://docs.google.com/presentation/d/1rS7BeO1sqbD9-FGRPkst1TCteXkxvPFlfoQh2fWeEus/preview</link>
         <dc:date>2023-08-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
