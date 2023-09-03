@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TextKit 2 時代の iOS のキーボードとテキスト入力と表示のすべて (Yoshimasa Niwa)</title>
+        <link>https://speakerdeck.com/niw/iosdc-japan-2023</link>
+        <dc:date>2023-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>KingYoSun_Bluesky_ATProtocol勉強会_2</title>
         <link>https://docs.google.com/presentation/d/17eaqrIx-Hkp8T8kyD9fsdod49nQj-pyPvAy5aGuaoRU/preview</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Dive into SmartHR UI (nabeliwo)</title>
         <link>https://speakerdeck.com/nabeliwo/dive-into-smarthr-ui</link>
         <dc:date>2023-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rustソースコードのざっくりとした歩き方 🦀  (TaKO8Ki)</title>
-        <link>https://speakerdeck.com/tako8ki/rustsosukotonosatukuritositabu-kifang-3f597e58-222e-4c70-9b1b-e644eaa34895</link>
-        <dc:date>2023-08-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
