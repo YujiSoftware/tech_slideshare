@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[0.0, 1.0) の乱数を得るための “本当の”方法 (hole)</title>
+        <link>https://speakerdeck.com/hole/rand01</link>
+        <dc:date>2023-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なんとなく使っていたSentryに向き合い始めた話 / Recently, we have been facing Sentry. (TAKANO Sho / @masaru_b_cl)</title>
         <link>https://speakerdeck.com/masaru_b_cl/recently-we-have-been-facing-sentry</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ディメンショナル モデリング入門 / introduction-to-dimensional-modeling (Jumpei Chikamori)</title>
         <link>https://speakerdeck.com/pei0804/introduction-to-dimensional-modeling</link>
-        <dc:date>2023-08-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデル入門 / LLM introduction (SES2023) (Kyosuke Nishida)</title>
-        <link>https://speakerdeck.com/kyoun/llm-introduction-ses2023</link>
         <dc:date>2023-08-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
