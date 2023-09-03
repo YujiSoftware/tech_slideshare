@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JWTセキュリティ入門 (yuasa)</title>
+        <link>https://speakerdeck.com/melonattacker/jwtsekiyuriteiru-men</link>
+        <dc:date>2023-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事業価値と Engineering (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/engineering-2023</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GPTの登場によって 今後のキャリアを考える とあるエンジニアのおはなし (もじゃ)</title>
         <link>https://speakerdeck.com/mojya_paisen/gptnodeng-chang-niyotute-jin-hou-nokiyariawokao-eru-toaruenzinianoohanasi</link>
-        <dc:date>2023-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアキャリア座談会</title>
-        <link>https://docs.google.com/presentation/d/1dWqjNY69EZTU77NXiTsh0lwmfuPY-DoIjd-pQyeFvAM/preview</link>
         <dc:date>2023-08-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
