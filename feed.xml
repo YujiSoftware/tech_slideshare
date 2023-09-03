@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Oxidize Introduction</title>
+        <link>https://docs.google.com/presentation/d/1kLB_BY7nSzNo07NrpvyJMxixGd4ULQTEEXjyO4KKM-E/preview</link>
+        <dc:date>2023-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TextKit 2 時代の iOS のキーボードとテキスト入力と表示のすべて (Yoshimasa Niwa)</title>
         <link>https://speakerdeck.com/niw/iosdc-japan-2023</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIアプリDojo #3: Hugging Face Transformers モデルのチューニング入門 (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/aiapps-dojo-03-20230831</link>
-        <dc:date>2023-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dive into SmartHR UI (nabeliwo)</title>
-        <link>https://speakerdeck.com/nabeliwo/dive-into-smarthr-ui</link>
         <dc:date>2023-08-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
