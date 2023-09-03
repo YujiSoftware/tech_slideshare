@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>iOSではじめるフォトグラメトリ #iOSDC (Shuichi Tsutsumi,@shu223)</title>
+        <link>https://www.docswell.com/s/shu223/56YND8-2023-09-03-124535</link>
+        <dc:date>2023-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2023_07_06 - Auto-Generating Screenshots - Fluttercon</title>
+        <link>https://docs.google.com/presentation/d/1m13uc6efdJ_artiyjtMVdjRWicKwo6XASSFiYkgvE1w/preview</link>
+        <dc:date>2023-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[0.0, 1.0) の乱数を得るための “本当の”方法 (hole)</title>
         <link>https://speakerdeck.com/hole/rand01</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Azure OpenAIと本家OpenAIを使って有価証券報告書をベクター検索してみた</title>
         <link>https://docs.google.com/presentation/d/1jhiBRxsVZqIoGK7S11uMIxahxGHjWSSW_7jBbvexpXM/preview</link>
         <dc:date>2023-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>動くUSDZめっちゃ出す</title>
-        <link>https://docs.google.com/presentation/d/15xyQ6nLTbUfbSTsGtPmyWcMwZz_CJUhzKRhsdg5_X50/preview</link>
-        <dc:date>2023-08-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ディメンショナル モデリング入門 / introduction-to-dimensional-modeling (Jumpei Chikamori)</title>
-        <link>https://speakerdeck.com/pei0804/introduction-to-dimensional-modeling</link>
-        <dc:date>2023-08-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
