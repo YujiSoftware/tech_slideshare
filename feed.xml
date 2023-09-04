@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Fluttercon2023_Accessibility</title>
+        <link>https://docs.google.com/presentation/d/1d5mwGuNIlBfSeQzu5Nw_D6TNey4d4npxTrBsOhw-ufU/preview</link>
+        <dc:date>2023-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pythonの「仮想環境」を完全に理解しよう (os1ma)</title>
+        <link>https://speakerdeck.com/os1ma/pythonno-jia-xiang-huan-jing-wowan-quan-nili-jie-siyou</link>
+        <dc:date>2023-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>現代のGPUの実行スタイルとレイトレ (2023) (shocker_0x15)</title>
         <link>https://speakerdeck.com/shocker_0x15/modern-gpu-execution-and-ray-tracing</link>
         <dc:date>2023-09-03T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Oxidize Introduction</title>
         <link>https://docs.google.com/presentation/d/1kLB_BY7nSzNo07NrpvyJMxixGd4ULQTEEXjyO4KKM-E/preview</link>
-        <dc:date>2023-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TextKit 2 時代の iOS のキーボードとテキスト入力と表示のすべて (Yoshimasa Niwa)</title>
-        <link>https://speakerdeck.com/niw/iosdc-japan-2023</link>
-        <dc:date>2023-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KingYoSun_Bluesky_ATProtocol勉強会_2</title>
-        <link>https://docs.google.com/presentation/d/17eaqrIx-Hkp8T8kyD9fsdod49nQj-pyPvAy5aGuaoRU/preview</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
