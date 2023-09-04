@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>何でも屋になっている SRE 的なチームから責務を分離するまでの道のり 〜新設チームでオンコール体制を構築するまで〜 / SRE Lounge #15 (Takeshi Arabiki)</title>
+        <link>https://speakerdeck.com/a_bicky/sre-lounge-number-15</link>
+        <dc:date>2023-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>英語ができなかった自分達が、グローバルチーム立ち上げに挑戦！？  (Masashi Hirano)</title>
+        <link>https://speakerdeck.com/masashi/building-a-global-team</link>
+        <dc:date>2023-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>iOSではじめるフォトグラメトリ #iOSDC (Shuichi Tsutsumi,@shu223)</title>
         <link>https://www.docswell.com/s/shu223/56YND8-2023-09-03-124535</link>
         <dc:date>2023-09-03T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>小さなバグが生んだ悲劇、そこから学ぶ耐障害性の高いアプリ設計 (Yosuke Imairi)</title>
         <link>https://speakerdeck.com/imairi/xiao-sanabagugasheng-ndabei-ju-sokokaraxue-bunai-zhang-hai-xing-nogao-iapurishe-ji</link>
-        <dc:date>2023-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MySQL EXPLAIN 解説 (Infiniteloop)</title>
-        <link>https://speakerdeck.com/infiniteloop_inc/mysql-explain-jie-shuo</link>
-        <dc:date>2023-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure OpenAIと本家OpenAIを使って有価証券報告書をベクター検索してみた</title>
-        <link>https://docs.google.com/presentation/d/1jhiBRxsVZqIoGK7S11uMIxahxGHjWSSW_7jBbvexpXM/preview</link>
         <dc:date>2023-09-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
