@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>現代のGPUの実行スタイルとレイトレ (2023) (shocker_0x15)</title>
+        <link>https://speakerdeck.com/shocker_0x15/modern-gpu-execution-and-ray-tracing</link>
+        <dc:date>2023-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>静的解析ツールで生まれたSQLインジェクション (Ogawa,@hoge)</title>
         <link>https://www.docswell.com/s/hoge/Z7VNMJ-2023-09-04-010055</link>
         <dc:date>2023-09-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>KingYoSun_Bluesky_ATProtocol勉強会_2</title>
         <link>https://docs.google.com/presentation/d/17eaqrIx-Hkp8T8kyD9fsdod49nQj-pyPvAy5aGuaoRU/preview</link>
-        <dc:date>2023-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>atproto勉強会資料</title>
-        <link>https://docs.google.com/presentation/d/178OM15DEb2Hr5LMntq32H5Sl6kVZm70V-LM9XBWOuhk/preview</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
