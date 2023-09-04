@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS AppConfig で低リスク・低ストレスなロールアウトを実現した話 / A story about low-risk, low-stress rollouts with AWS AppConfig (kaminashi, Inc.)</title>
+        <link>https://speakerdeck.com/kaminashi/a-story-about-low-risk-low-stress-rollouts-with-aws-appconfig</link>
+        <dc:date>2023-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Blueskyを定量解析した話 (kojira)</title>
         <link>https://speakerdeck.com/kojira/blueskywoding-liang-jie-xi-sitahua</link>
         <dc:date>2023-09-03T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>インフラだけではないMLOpsの話 (Takahiro Kubo)</title>
         <link>https://speakerdeck.com/icoxfog417/inhuradakedehanaimlopsnohua</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【Startup Day 2023】技術的負債を抱えながら それでも生きていく / Living with technical debt (shinden)</title>
-        <link>https://speakerdeck.com/shinden/living-with-technical-debt</link>
-        <dc:date>2023-09-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
