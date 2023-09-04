@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Blueskyを定量解析した話 (kojira)</title>
+        <link>https://speakerdeck.com/kojira/blueskywoding-liang-jie-xi-sitahua</link>
+        <dc:date>2023-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>何でも屋になっている SRE 的なチームから責務を分離するまでの道のり 〜新設チームでオンコール体制を構築するまで〜 / SRE Lounge #15 (Takeshi Arabiki)</title>
         <link>https://speakerdeck.com/a_bicky/sre-lounge-number-15</link>
         <dc:date>2023-09-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【Startup Day 2023】技術的負債を抱えながら それでも生きていく / Living with technical debt (shinden)</title>
         <link>https://speakerdeck.com/shinden/living-with-technical-debt</link>
-        <dc:date>2023-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>小さなバグが生んだ悲劇、そこから学ぶ耐障害性の高いアプリ設計 (Yosuke Imairi)</title>
-        <link>https://speakerdeck.com/imairi/xiao-sanabagugasheng-ndabei-ju-sokokaraxue-bunai-zhang-hai-xing-nogao-iapurishe-ji</link>
         <dc:date>2023-09-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
