@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSのセキュリティ管理をPolicy as Codeで加速する ― 最高のCSPM体験を目指して / Unleashing Policy as Code on AWS CSPM (Takashi Yoneuchi)</title>
+        <link>https://speakerdeck.com/lmt_swallow/unleashing-policy-as-code-on-aws-cspm</link>
+        <dc:date>2023-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS AppConfig で低リスク・低ストレスなロールアウトを実現した話 / A story about low-risk, low-stress rollouts with AWS AppConfig (kaminashi, Inc.)</title>
         <link>https://speakerdeck.com/kaminashi/a-story-about-low-risk-low-stress-rollouts-with-aws-appconfig</link>
         <dc:date>2023-09-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スタートアップでこそCDKが活きた〜生産性を向上できた5つの理由〜 / startup-cdk-productivity (k.goto)</title>
         <link>https://speakerdeck.com/gotok365/startup-cdk-productivity</link>
-        <dc:date>2023-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インフラだけではないMLOpsの話 (Takahiro Kubo)</title>
-        <link>https://speakerdeck.com/icoxfog417/inhuradakedehanaimlopsnohua</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
