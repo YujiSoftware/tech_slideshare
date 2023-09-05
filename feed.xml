@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模言語モデル (Naoaki Okazaki)</title>
+        <link>https://speakerdeck.com/chokkan/llm</link>
+        <dc:date>2023-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Renovateで実現するライブラリの自動更新生活 / Automated Library Updates with Renovate (Sho Ikeda)</title>
         <link>https://speakerdeck.com/ikesyo/automated-library-updates-with-renovate</link>
         <dc:date>2023-09-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>複雑さに立ち向かうためのコードリーディング入門 ([email protected])</title>
         <link>https://speakerdeck.com/shiz/fu-za-sanili-tixiang-kautamenokodorideinguru-men</link>
-        <dc:date>2023-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JWTセキュリティ入門 (yuasa)</title>
-        <link>https://speakerdeck.com/melonattacker/jwtsekiyuriteiru-men</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
