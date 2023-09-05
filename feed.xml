@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SNLP2023:Is GPT-3 a Good Data Annotator? (Yuki Zenimoto)</title>
+        <link>https://speakerdeck.com/yukizenimoto/snlp2023-is-gpt-3-a-good-data-annotator</link>
+        <dc:date>2023-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模言語モデル (Naoaki Okazaki)</title>
         <link>https://speakerdeck.com/chokkan/llm</link>
         <dc:date>2023-09-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SECCON Beginners Live 2023-Crypto (motimotipurinn)</title>
         <link>https://speakerdeck.com/motimotipurinn/seccon-beginners-live-2023-crypto</link>
-        <dc:date>2023-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>複雑さに立ち向かうためのコードリーディング入門 ([email protected])</title>
-        <link>https://speakerdeck.com/shiz/fu-za-sanili-tixiang-kautamenokodorideinguru-men</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
