@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Renovateで実現するライブラリの自動更新生活 / Automated Library Updates with Renovate (Sho Ikeda)</title>
+        <link>https://speakerdeck.com/ikesyo/automated-library-updates-with-renovate</link>
+        <dc:date>2023-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CloudFormationで爆速インフラ構築🌀 (alichan)</title>
         <link>https://www.docswell.com/s/alichan-69/57VNDJ-2023-09-03-105259</link>
         <dc:date>2023-09-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JWTセキュリティ入門 (yuasa)</title>
         <link>https://speakerdeck.com/melonattacker/jwtsekiyuriteiru-men</link>
-        <dc:date>2023-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業価値と Engineering (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/engineering-2023</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
