@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CloudFormationで爆速インフラ構築🌀 (alichan)</title>
+        <link>https://www.docswell.com/s/alichan-69/57VNDJ-2023-09-03-105259</link>
+        <dc:date>2023-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コンテナ化されたAnsible実行環境の周辺ツールまとめ（インフラ技術基礎勉強会#4） (akira6592,@akira6592)</title>
+        <link>https://www.docswell.com/s/akira6592/KJLWYQ-ansible-ee</link>
+        <dc:date>2023-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Fluttercon2023_Accessibility</title>
         <link>https://docs.google.com/presentation/d/1d5mwGuNIlBfSeQzu5Nw_D6TNey4d4npxTrBsOhw-ufU/preview</link>
         <dc:date>2023-09-04T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>事業価値と Engineering (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/engineering-2023</link>
-        <dc:date>2023-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS月額利用料を$137,000→$87,000に削減して信頼性に投資した話 (Masaya Hayashi)</title>
-        <link>https://speakerdeck.com/rinchsan/awsyue-e-li-yong-liao-wo-137000-87000nixue-jian-sitexin-lai-xing-nitou-zi-sitahua</link>
-        <dc:date>2023-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Oxidize Introduction</title>
-        <link>https://docs.google.com/presentation/d/1kLB_BY7nSzNo07NrpvyJMxixGd4ULQTEEXjyO4KKM-E/preview</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
