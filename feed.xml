@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Prettier 3.0 の VSCode 拡張対応における技術的な意思決定~VSCode 拡張で dynamic import が動かない~ (sosukesuzuki)</title>
+        <link>https://speakerdeck.com/sosukesuzuki/prettier-3-dot-0-no-vscode-kuo-zhang-dui-ying-niokeruji-shu-de-nayi-si-jue-ding-vscode-kuo-zhang-de-dynamic-import-gadong-kanai</link>
+        <dc:date>2023-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>適切な問題設定と小さくリリースするということ / release small (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/release-small</link>
         <dc:date>2023-09-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>なんとなく使っていたSentryに向き合い始めた話 / Recently, we have been facing Sentry. (TAKANO Sho / @masaru_b_cl)</title>
         <link>https://speakerdeck.com/masaru_b_cl/recently-we-have-been-facing-sentry</link>
-        <dc:date>2023-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>pwn入門 / introduction to pwn (Arata)</title>
-        <link>https://speakerdeck.com/arata_nvm/introduction-to-pwn</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
