@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>適切な問題設定と小さくリリースするということ / release small (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/release-small</link>
+        <dc:date>2023-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SNLP2023:Is GPT-3 a Good Data Annotator? (Yuki Zenimoto)</title>
         <link>https://speakerdeck.com/yukizenimoto/snlp2023-is-gpt-3-a-good-data-annotator</link>
         <dc:date>2023-09-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>pwn入門 / introduction to pwn (Arata)</title>
         <link>https://speakerdeck.com/arata_nvm/introduction-to-pwn</link>
-        <dc:date>2023-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SECCON Beginners Live 2023-Crypto (motimotipurinn)</title>
-        <link>https://speakerdeck.com/motimotipurinn/seccon-beginners-live-2023-crypto</link>
         <dc:date>2023-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
