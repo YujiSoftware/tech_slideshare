@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Turborepo Code Generationによる、サイバーエージェントグループのフロントエンド開発の効率化 (did0es)</title>
+        <link>https://speakerdeck.com/shuta13/turborepo-code-generationniyoru-saibaezientogurupunohurontoendokai-fa-noxiao-lu-hua</link>
+        <dc:date>2023-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>脆弱性診断の内製化と外注 (Misaki Makino)</title>
         <link>https://speakerdeck.com/tsukushi/cui-ruo-xing-zhen-duan-nonei-zhi-hua-towai-zhu</link>
         <dc:date>2023-09-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Pythonの「仮想環境」を完全に理解しよう (os1ma)</title>
         <link>https://speakerdeck.com/os1ma/pythonno-jia-xiang-huan-jing-wowan-quan-nili-jie-siyou</link>
         <dc:date>2023-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現代のGPUの実行スタイルとレイトレ (2023) (shocker_0x15)</title>
-        <link>https://speakerdeck.com/shocker_0x15/modern-gpu-execution-and-ray-tracing</link>
-        <dc:date>2023-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
