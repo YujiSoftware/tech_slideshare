@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>不明点が多かった新規プロジェクトをアジャイルマインドセットで乗り越えた話 (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20230905-3</link>
+        <dc:date>2023-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>非連続なプロダクト成長を実現する、開発組織の成長・育成戦略 (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20230905-1</link>
+        <dc:date>2023-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアの成長に向き合う評価と目標設定 (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20230905-2</link>
+        <dc:date>2023-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>7 principles for rich web apps And how next.js archives these principles  (Yosuke Furukawa)</title>
+        <link>https://speakerdeck.com/yosuke_furukawa/7-principles-for-rich-web-apps-and-how-next-dot-js-archives-these-principles</link>
+        <dc:date>2023-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Iintroduction of how big tech runs tech projects (kazamori)</title>
         <link>https://speakerdeck.com/kazamori/iintroduction-of-how-big-tech-runs-tech-projects</link>
         <dc:date>2023-09-08T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>大規模言語モデル (Naoaki Okazaki)</title>
         <link>https://speakerdeck.com/chokkan/llm</link>
-        <dc:date>2023-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Renovateで実現するライブラリの自動更新生活 / Automated Library Updates with Renovate (Sho Ikeda)</title>
-        <link>https://speakerdeck.com/ikesyo/automated-library-updates-with-renovate</link>
-        <dc:date>2023-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CloudFormationで爆速インフラ構築🌀 (alichan)</title>
-        <link>https://www.docswell.com/s/alichan-69/57VNDJ-2023-09-03-105259</link>
-        <dc:date>2023-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテナ化されたAnsible実行環境の周辺ツールまとめ（インフラ技術基礎勉強会#4） (akira6592,@akira6592)</title>
-        <link>https://www.docswell.com/s/akira6592/KJLWYQ-ansible-ee</link>
-        <dc:date>2023-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fluttercon2023_Accessibility</title>
-        <link>https://docs.google.com/presentation/d/1d5mwGuNIlBfSeQzu5Nw_D6TNey4d4npxTrBsOhw-ufU/preview</link>
         <dc:date>2023-09-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
