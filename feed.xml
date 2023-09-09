@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>脆弱性診断の内製化と外注 (Misaki Makino)</title>
+        <link>https://speakerdeck.com/tsukushi/cui-ruo-xing-zhen-duan-nonei-zhi-hua-towai-zhu</link>
+        <dc:date>2023-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>めぐろLT会_20230531</title>
         <link>https://docs.google.com/presentation/d/19Tb1NpbxVsemeeHY9Bewd_q2ZOlh6cH_4F9D4n1QBnc/preview</link>
         <dc:date>2023-09-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>現代のGPUの実行スタイルとレイトレ (2023) (shocker_0x15)</title>
         <link>https://speakerdeck.com/shocker_0x15/modern-gpu-execution-and-ray-tracing</link>
-        <dc:date>2023-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>静的解析ツールで生まれたSQLインジェクション (Ogawa,@hoge)</title>
-        <link>https://www.docswell.com/s/hoge/Z7VNMJ-2023-09-04-010055</link>
         <dc:date>2023-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
