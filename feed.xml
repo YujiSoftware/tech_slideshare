@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ドメイン知識をチームに浸透するために何をやっているのか？</title>
+        <link>https://docs.google.com/presentation/u/0/d/1VfW0nSw66aitKz7vXfGrxqAvDOODYboj5D3h71qMKYo/preview</link>
+        <dc:date>2023-09-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Breaking the Flaky Test Cycle (Shinichi Maeshima)</title>
         <link>https://speakerdeck.com/willnet/breaking-the-flaky-test-cycle</link>
         <dc:date>2023-09-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>分散型IDの実像 (Naohiro Fujie,@phr_eidentity)</title>
         <link>https://www.docswell.com/s/fujie/5RX8RJ-2023-09-07-135920</link>
-        <dc:date>2023-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Zero Trustを利用したセキュアな開発環境へのアクセス手法の確立 (Kurochan)</title>
-        <link>https://speakerdeck.com/kurochan/securing-development-environments-using-cloudflare-zero-trust-a1e1df14-f2bf-4bc7-aa0d-15505da30817</link>
         <dc:date>2023-09-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
