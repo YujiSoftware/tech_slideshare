@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Breaking the Flaky Test Cycle (Shinichi Maeshima)</title>
+        <link>https://speakerdeck.com/willnet/breaking-the-flaky-test-cycle</link>
+        <dc:date>2023-09-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>近代フロントエンドの歴史とKuma UIの登場意義 (poteboy)</title>
         <link>https://speakerdeck.com/poteboy/jin-dai-hurontoendonoli-shi-tokuma-uinodeng-chang-yi-yi</link>
         <dc:date>2023-09-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Cloudflare Zero Trustを利用したセキュアな開発環境へのアクセス手法の確立 (Kurochan)</title>
         <link>https://speakerdeck.com/kurochan/securing-development-environments-using-cloudflare-zero-trust-a1e1df14-f2bf-4bc7-aa0d-15505da30817</link>
         <dc:date>2023-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Prettier 3.0 の VSCode 拡張対応における技術的な意思決定~VSCode 拡張で dynamic import が動かない~ (sosukesuzuki)</title>
-        <link>https://speakerdeck.com/sosukesuzuki/prettier-3-dot-0-no-vscode-kuo-zhang-dui-ying-niokeruji-shu-de-nayi-si-jue-ding-vscode-kuo-zhang-de-dynamic-import-gadong-kanai</link>
-        <dc:date>2023-09-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
