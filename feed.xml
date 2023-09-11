@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>個人データの利用に対する許容度に関する社会調査 (中川裕志)</title>
+        <link>https://speakerdeck.com/hiroshinakagawa/ge-ren-detanoli-yong-nidui-suruxu-rong-du-niguan-surushe-hui-diao-cha</link>
+        <dc:date>2023-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>『家族アルバム みてね』の安定リリースを支えるEKS運用 / FamilyAlbum  release-flow on EKS (kohbis)</title>
+        <link>https://speakerdeck.com/kohbis/familyalbum-release-flow-on-eks</link>
+        <dc:date>2023-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>neovimで作る最新Ruby開発環境2023 (Tomohiro Hashidate)</title>
         <link>https://speakerdeck.com/joker1007/neovimdezuo-ruzui-xin-rubykai-fa-huan-jing-2023</link>
         <dc:date>2023-09-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ブラウザ拡張機能が ぱぱっと作れるいい時代になりました。 (taiga533)</title>
         <link>https://speakerdeck.com/taiga533/burauzakuo-zhang-ji-neng-ga-papatutozuo-reruiishi-dai-ninarimasita</link>
-        <dc:date>2023-09-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RESTからGraphQL APIへの移行で学んだこと (inoway46)</title>
-        <link>https://speakerdeck.com/inoway46/restkaragraphql-apihenoyi-xing-dexue-ndakoto</link>
-        <dc:date>2023-09-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ファイブフィンガーでスクラムチームの心理的安全性を高める / Fist to Five (おおいし)</title>
-        <link>https://speakerdeck.com/bicstone/fist-to-five</link>
         <dc:date>2023-09-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
