@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ShadowRealms - TC39 Update September 2023</title>
+        <link>https://docs.google.com/presentation/d/1WJd9g3df_ibVHK3LdoKX2FboDwYQBUBJNxuRAWOYYbM/preview</link>
+        <dc:date>2023-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SmartHRのパフォーマンス改善が 総力戦だった話 (DaisukeShinoku)</title>
         <link>https://speakerdeck.com/daisukeshinoku/smarthrnopahuomansugai-shan-ga-zong-li-zhan-datutahua</link>
         <dc:date>2023-09-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>7 principles for rich web apps And how next.js archives these principles  (Yosuke Furukawa)</title>
         <link>https://speakerdeck.com/yosuke_furukawa/7-principles-for-rich-web-apps-and-how-next-dot-js-archives-these-principles</link>
-        <dc:date>2023-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Iintroduction of how big tech runs tech projects (kazamori)</title>
-        <link>https://speakerdeck.com/kazamori/iintroduction-of-how-big-tech-runs-tech-projects</link>
         <dc:date>2023-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
