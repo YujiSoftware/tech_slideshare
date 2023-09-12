@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Aurora MySQL version 3でTempTable溢れの振り返り (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/reflecting-on-temptable-overflow-in-aurora-mysql-version-3</link>
+        <dc:date>2023-09-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>new stage part 2</title>
         <link>https://docs.google.com/presentation/d/1HtcFY98qWy-LPJLawRIkYzhDEjuEeyArMiNXbCOFcrk/preview</link>
         <dc:date>2023-09-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>非連続なプロダクト成長を実現する、開発組織の成長・育成戦略 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20230905-1</link>
-        <dc:date>2023-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアの成長に向き合う評価と目標設定 (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20230905-2</link>
         <dc:date>2023-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
