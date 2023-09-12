@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SmartHRのパフォーマンス改善が 総力戦だった話 (DaisukeShinoku)</title>
+        <link>https://speakerdeck.com/daisukeshinoku/smarthrnopahuomansugai-shan-ga-zong-li-zhan-datutahua</link>
+        <dc:date>2023-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kubernetesソースコードリーディング入門 (bells17)</title>
         <link>https://speakerdeck.com/bells17/kubernetessosukotoriteinkuru-men</link>
         <dc:date>2023-09-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Iintroduction of how big tech runs tech projects (kazamori)</title>
         <link>https://speakerdeck.com/kazamori/iintroduction-of-how-big-tech-runs-tech-projects</link>
-        <dc:date>2023-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Turborepo Code Generationによる、サイバーエージェントグループのフロントエンド開発の効率化 (did0es)</title>
-        <link>https://speakerdeck.com/shuta13/turborepo-code-generationniyoru-saibaezientogurupunohurontoendokai-fa-noxiao-lu-hua</link>
         <dc:date>2023-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
