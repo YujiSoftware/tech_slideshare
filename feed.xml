@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kubernetesソースコードリーディング入門 (bells17)</title>
+        <link>https://speakerdeck.com/bells17/kubernetessosukotoriteinkuru-men</link>
+        <dc:date>2023-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サイバーエージェントのGitHub Copilot導入と 開発生産性 (Kurochan)</title>
+        <link>https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing</link>
+        <dc:date>2023-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>深いドメインと統合型経営プラットフォームを支えるモジュラモノリスの事例 / Modular Monolith That Support Deep Domains And Integrated Management Platform (ogugu)</title>
         <link>https://speakerdeck.com/ogugu9/modular-monolith-that-support-deep-domains-and-integrated-management-platform</link>
         <dc:date>2023-09-11T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Turborepo Code Generationによる、サイバーエージェントグループのフロントエンド開発の効率化 (did0es)</title>
         <link>https://speakerdeck.com/shuta13/turborepo-code-generationniyoru-saibaezientogurupunohurontoendokai-fa-noxiao-lu-hua</link>
         <dc:date>2023-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脆弱性診断の内製化と外注 (Misaki Makino)</title>
-        <link>https://speakerdeck.com/tsukushi/cui-ruo-xing-zhen-duan-nonei-zhi-hua-towai-zhu</link>
-        <dc:date>2023-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>めぐろLT会_20230531</title>
-        <link>https://docs.google.com/presentation/d/19Tb1NpbxVsemeeHY9Bewd_q2ZOlh6cH_4F9D4n1QBnc/preview</link>
-        <dc:date>2023-09-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
