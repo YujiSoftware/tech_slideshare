@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20230907_Omotesando.rb (tosio)</title>
+        <link>https://speakerdeck.com/tosiooooooo/20230907-omotesando-dot-rb</link>
+        <dc:date>2023-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>シングルサインオンだけではない、Okta導入による大きな変化 / Okta Make Dramatic Effect on the Account Provisioning. (Narichika Kajihara)</title>
+        <link>https://speakerdeck.com/nkajihara/okta-make-dramatic-effect-on-the-account-provisioning</link>
+        <dc:date>2023-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Terraformでニフクラにリモート開発環境を自動構築した話 (とことんDevOps)</title>
         <link>https://speakerdeck.com/devops_vtj/terraformdenihukuranirimotokai-fa-huan-jing-wozi-dong-gou-zhu-sitahua</link>
         <dc:date>2023-09-12T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>現代的システム開発概論 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/modernsystemdevelopment-2023</link>
-        <dc:date>2023-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドメイン知識をチームに浸透するために何をやっているのか？</title>
-        <link>https://docs.google.com/presentation/u/0/d/1VfW0nSw66aitKz7vXfGrxqAvDOODYboj5D3h71qMKYo/preview</link>
-        <dc:date>2023-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Breaking the Flaky Test Cycle (Shinichi Maeshima)</title>
-        <link>https://speakerdeck.com/willnet/breaking-the-flaky-test-cycle</link>
         <dc:date>2023-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
