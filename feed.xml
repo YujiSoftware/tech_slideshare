@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リクルートにおける数理最適化の 活用事例と産学連携の取り組み (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/rikurutoniokerushu-li-zui-shi-hua-no-huo-yong-shi-li-tochan-xue-lian-xi-noqu-rizu-mi</link>
+        <dc:date>2023-09-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Aurora MySQL version 3でTempTable溢れの振り返り (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/reflecting-on-temptable-overflow-in-aurora-mysql-version-3</link>
         <dc:date>2023-09-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>不明点が多かった新規プロジェクトをアジャイルマインドセットで乗り越えた話 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20230905-3</link>
-        <dc:date>2023-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非連続なプロダクト成長を実現する、開発組織の成長・育成戦略 (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20230905-1</link>
         <dc:date>2023-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
