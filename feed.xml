@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>沈め！KubernetesOperator沼！！ (Junya Taniai)</title>
+        <link>https://speakerdeck.com/jnytnai0613/chen-me-kubernetesoperatorzhao</link>
+        <dc:date>2023-09-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon Route 53をやさしくおさらい (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/amazon-route-53woyasasikuosarai</link>
         <dc:date>2023-09-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ドメイン知識をチームに浸透するために何をやっているのか？</title>
         <link>https://docs.google.com/presentation/d/1VfW0nSw66aitKz7vXfGrxqAvDOODYboj5D3h71qMKYo/preview</link>
-        <dc:date>2023-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>pnpm workspace実践ノウハウ (Hirotaka Miyagi)</title>
-        <link>https://speakerdeck.com/mh4gf/pnpm-workspaceshi-jian-nouhau</link>
         <dc:date>2023-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
