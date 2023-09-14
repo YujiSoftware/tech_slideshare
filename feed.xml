@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フィッシング耐性の高いMFA実装の解説 (はせがわようすけ,@hasegawayosuke)</title>
+        <link>https://www.docswell.com/s/hasegawa/KLLE14-MFA</link>
+        <dc:date>2023-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SWAG 大好きマンな皆さまにおくる立ち回り方 / re:Invent 2022 Standby (hayao_k)</title>
         <link>https://speakerdeck.com/hayaok3/re-invent-2022-standby</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>深いドメインと統合型経営プラットフォームを支えるモジュラモノリスの事例 / Modular Monolith That Support Deep Domains And Integrated Management Platform (ogugu)</title>
         <link>https://speakerdeck.com/ogugu9/modular-monolith-that-support-deep-domains-and-integrated-management-platform</link>
-        <dc:date>2023-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人データの利用に対する許容度に関する社会調査 (中川裕志)</title>
-        <link>https://speakerdeck.com/hiroshinakagawa/ge-ren-detanoli-yong-nidui-suruxu-rong-du-niguan-surushe-hui-diao-cha</link>
         <dc:date>2023-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
