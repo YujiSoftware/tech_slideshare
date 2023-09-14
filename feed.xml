@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RustでWasm Runtimeを書いた in UV_Study (skanehira)</title>
+        <link>https://speakerdeck.com/skanehira/rustdewasm-runtimewoshu-ita-in-uv-study</link>
+        <dc:date>2023-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>認知負荷って何_を知った上で再考する_CloudFormationからCDKへの移行 (mjxo)</title>
         <link>https://speakerdeck.com/yushikatoaws/ren-zhi-fu-he-tutehe-wozhi-tutashang-tezai-kao-suru-cloudformationkaracdkhenoyi-xing-ver-dot-2-2</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kubernetesソースコードリーディング入門 (bells17)</title>
         <link>https://speakerdeck.com/bells17/kubernetessosukotoriteinkuru-men</link>
-        <dc:date>2023-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイバーエージェントのGitHub Copilot導入と 開発生産性 (Kurochan)</title>
-        <link>https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing</link>
         <dc:date>2023-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
