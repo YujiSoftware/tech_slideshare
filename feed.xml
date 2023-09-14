@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SWAG 大好きマンな皆さまにおくる立ち回り方 / re:Invent 2022 Standby (hayao_k)</title>
+        <link>https://speakerdeck.com/hayaok3/re-invent-2022-standby</link>
+        <dc:date>2023-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2022_1102_Whatsup_Vegas_SD.pdf (Shinichiro Kawano)</title>
+        <link>https://speakerdeck.com/shinichirokawano/2022-1102-whatsup-vegas-sd</link>
+        <dc:date>2023-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜ我々は現地ラスベガスでreInventに参加するのか (fumiakiueno)</title>
+        <link>https://speakerdeck.com/fu3ak1/nazewo-haxian-di-rasubegasudereinventnican-jia-surunoka</link>
+        <dc:date>2023-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title> 2022_1115_reInvent_breakfast_lunch (Shinichiro Kawano)</title>
+        <link>https://speakerdeck.com/shinichirokawano/2022-1115-reinvent-breakfast-lunch</link>
+        <dc:date>2023-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モジュラモノリスにおけるトランザクション設計の考え方 / transaction design on modular monolith (Satoshi Kawashima)</title>
         <link>https://speakerdeck.com/nazonohito51/transaction-design-on-modular-monolith</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>個人データの利用に対する許容度に関する社会調査 (中川裕志)</title>
         <link>https://speakerdeck.com/hiroshinakagawa/ge-ren-detanoli-yong-nidui-suruxu-rong-du-niguan-surushe-hui-diao-cha</link>
         <dc:date>2023-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『家族アルバム みてね』の安定リリースを支えるEKS運用 / FamilyAlbum  release-flow on EKS (kohbis)</title>
-        <link>https://speakerdeck.com/kohbis/familyalbum-release-flow-on-eks</link>
-        <dc:date>2023-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>neovimで作る最新Ruby開発環境2023 (Tomohiro Hashidate)</title>
-        <link>https://speakerdeck.com/joker1007/neovimdezuo-ruzui-xin-rubykai-fa-huan-jing-2023</link>
-        <dc:date>2023-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Data and Fabric_forShare (Eiki Sui)</title>
-        <link>https://www.docswell.com/s/marshal_dabao/ZQ8E3X-2023-09-10-164007</link>
-        <dc:date>2023-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アドテクのビッグデータを制するSnowflakeの力 / data-cloud-world-tour-tokyo-2023 (Jumpei Chikamori)</title>
-        <link>https://speakerdeck.com/pei0804/data-cloud-world-tour-tokyo-2023</link>
-        <dc:date>2023-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
