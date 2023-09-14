@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Goで実装された高速な 仮想待合室サーバの実装と詳解 (Kazuhiko Yamashita)</title>
+        <link>https://speakerdeck.com/pyama86/godeshi-zhuang-saretagao-su-na-jia-xiang-dai-he-shi-sabanoshi-zhuang-toxiang-jie</link>
+        <dc:date>2023-09-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>徹底解説マイクロサービス 〜マイクロサービスのメリット、デメリット、なぜマイクロサービスを選択するのか〜 /why do you choose microservices architecture (Atsushi Fukui)</title>
         <link>https://speakerdeck.com/fatsushi/why-do-you-choose-microservices-architecture</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ShadowRealms - TC39 Update September 2023</title>
         <link>https://docs.google.com/presentation/d/1WJd9g3df_ibVHK3LdoKX2FboDwYQBUBJNxuRAWOYYbM/preview</link>
-        <dc:date>2023-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SmartHRのパフォーマンス改善が 総力戦だった話 (DaisukeShinoku)</title>
-        <link>https://speakerdeck.com/daisukeshinoku/smarthrnopahuomansugai-shan-ga-zong-li-zhan-datutahua</link>
         <dc:date>2023-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
