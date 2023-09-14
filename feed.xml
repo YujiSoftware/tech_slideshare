@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モジュラモノリスにおけるトランザクション設計の考え方 / transaction design on modular monolith (Satoshi Kawashima)</title>
+        <link>https://speakerdeck.com/nazonohito51/transaction-design-on-modular-monolith</link>
+        <dc:date>2023-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20230907_Omotesando.rb (tosio)</title>
         <link>https://speakerdeck.com/tosiooooooo/20230907-omotesando-dot-rb</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>アドテクのビッグデータを制するSnowflakeの力 / data-cloud-world-tour-tokyo-2023 (Jumpei Chikamori)</title>
         <link>https://speakerdeck.com/pei0804/data-cloud-world-tour-tokyo-2023</link>
         <dc:date>2023-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現代的システム開発概論 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/modernsystemdevelopment-2023</link>
-        <dc:date>2023-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
