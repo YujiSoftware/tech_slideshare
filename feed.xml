@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>徹底解説マイクロサービス 〜マイクロサービスのメリット、デメリット、なぜマイクロサービスを選択するのか〜 /why do you choose microservices architecture (Atsushi Fukui)</title>
+        <link>https://speakerdeck.com/fatsushi/why-do-you-choose-microservices-architecture</link>
+        <dc:date>2023-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RustでWasm Runtimeを書いた in UV_Study (skanehira)</title>
         <link>https://speakerdeck.com/skanehira/rustdewasm-runtimewoshu-ita-in-uv-study</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SmartHRのパフォーマンス改善が 総力戦だった話 (DaisukeShinoku)</title>
         <link>https://speakerdeck.com/daisukeshinoku/smarthrnopahuomansugai-shan-ga-zong-li-zhan-datutahua</link>
-        <dc:date>2023-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesソースコードリーディング入門 (bells17)</title>
-        <link>https://speakerdeck.com/bells17/kubernetessosukotoriteinkuru-men</link>
         <dc:date>2023-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
