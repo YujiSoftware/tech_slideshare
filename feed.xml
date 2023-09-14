@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>認知負荷って何_を知った上で再考する_CloudFormationからCDKへの移行 (mjxo)</title>
+        <link>https://speakerdeck.com/yushikatoaws/ren-zhi-fu-he-tutehe-wozhi-tutashang-tezai-kao-suru-cloudformationkaracdkhenoyi-xing-ver-dot-2-2</link>
+        <dc:date>2023-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フィッシング耐性の高いMFA実装の解説 (はせがわようすけ,@hasegawayosuke)</title>
         <link>https://www.docswell.com/s/hasegawa/KLLE14-MFA</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サイバーエージェントのGitHub Copilot導入と 開発生産性 (Kurochan)</title>
         <link>https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing</link>
-        <dc:date>2023-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>深いドメインと統合型経営プラットフォームを支えるモジュラモノリスの事例 / Modular Monolith That Support Deep Domains And Integrated Management Platform (ogugu)</title>
-        <link>https://speakerdeck.com/ogugu9/modular-monolith-that-support-deep-domains-and-integrated-management-platform</link>
         <dc:date>2023-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
