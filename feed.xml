@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SRE成熟度評価におけるポストモーテムLv.3ガイドライン (shotaTsuge)</title>
+        <link>https://speakerdeck.com/shotatsuge/srg-postmortem-guideline</link>
+        <dc:date>2023-09-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Goで実装された高速な 仮想待合室サーバの実装と詳解 (Kazuhiko Yamashita)</title>
         <link>https://speakerdeck.com/pyama86/godeshi-zhuang-saretagao-su-na-jia-xiang-dai-he-shi-sabanoshi-zhuang-toxiang-jie</link>
         <dc:date>2023-09-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>new stage part 2</title>
         <link>https://docs.google.com/presentation/d/1HtcFY98qWy-LPJLawRIkYzhDEjuEeyArMiNXbCOFcrk/preview</link>
-        <dc:date>2023-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ShadowRealms - TC39 Update September 2023</title>
-        <link>https://docs.google.com/presentation/d/1WJd9g3df_ibVHK3LdoKX2FboDwYQBUBJNxuRAWOYYbM/preview</link>
         <dc:date>2023-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
