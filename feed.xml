@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RDRA, ICONIX, DDDの実践から得た学び (hsawaji)</title>
+        <link>https://speakerdeck.com/hsawaji/rdra-iconix-dddnoshi-jian-karade-taxue-bi</link>
+        <dc:date>2023-09-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>品質観点でみたインセプションデッキとその改善 (Atsushi Nagata)</title>
         <link>https://speakerdeck.com/nagworld/pin-zhi-guan-dian-demitainsepusiyondetukitosonogai-shan</link>
         <dc:date>2023-09-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20230913_ニフクラで実践Terraform (Yoshitaka Fujii,@ystkfujii)</title>
         <link>https://www.docswell.com/s/ystkfujii/KVV913-2023-09-13-193943</link>
-        <dc:date>2023-09-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>沈め！KubernetesOperator沼！！ (Junya Taniai)</title>
-        <link>https://speakerdeck.com/jnytnai0613/chen-me-kubernetesoperatorzhao</link>
         <dc:date>2023-09-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
