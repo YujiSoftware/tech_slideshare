@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VRの会社を作って8ヶ月　進捗どうですか？ (こりん,@korinVR)</title>
+        <link>https://www.docswell.com/s/korinVR/K1J31V-2023-08-11-213422</link>
+        <dc:date>2023-09-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SRE成熟度評価におけるポストモーテムLv.3ガイドライン (shotaTsuge)</title>
         <link>https://speakerdeck.com/shotatsuge/srg-postmortem-guideline</link>
         <dc:date>2023-09-14T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Aurora MySQL version 3でTempTable溢れの振り返り (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/reflecting-on-temptable-overflow-in-aurora-mysql-version-3</link>
         <dc:date>2023-09-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>new stage part 2</title>
-        <link>https://docs.google.com/presentation/d/1HtcFY98qWy-LPJLawRIkYzhDEjuEeyArMiNXbCOFcrk/preview</link>
-        <dc:date>2023-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
