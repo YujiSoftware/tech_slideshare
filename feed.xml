@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CVSSとその限界 (はせがわようすけ,@hasegawayosuke)</title>
+        <link>https://www.docswell.com/s/hasegawa/56Y9J7-CVSS</link>
+        <dc:date>2023-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WebAssembly Night_Wasmを実行するunikernelとWasmコンパイラ (ainozaki)</title>
+        <link>https://speakerdeck.com/ainozaki/webassembly-night</link>
+        <dc:date>2023-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Mathematical Optimization for Real Applications (Shunji Umetani)</title>
         <link>https://speakerdeck.com/umepon/mathematical-optimization-for-real-applications</link>
         <dc:date>2023-09-14T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>20230907_Omotesando.rb (tosio)</title>
         <link>https://speakerdeck.com/tosiooooooo/20230907-omotesando-dot-rb</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シングルサインオンだけではない、Okta導入による大きな変化 / Okta Make Dramatic Effect on the Account Provisioning. (Narichika Kajihara)</title>
-        <link>https://speakerdeck.com/nkajihara/okta-make-dramatic-effect-on-the-account-provisioning</link>
-        <dc:date>2023-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Terraformでニフクラにリモート開発環境を自動構築した話 (とことんDevOps)</title>
-        <link>https://speakerdeck.com/devops_vtj/terraformdenihukuranirimotokai-fa-huan-jing-wozi-dong-gou-zhu-sitahua</link>
-        <dc:date>2023-09-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
