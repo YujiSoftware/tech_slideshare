@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マイクロサービスにおけるBFFアーキテクチャでのモジュラモノリスの導入 (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/introducing-modular-monoliths-in-bff-architecture-in-microservices</link>
+        <dc:date>2023-09-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VRの会社を作って8ヶ月　進捗どうですか？ (こりん,@korinVR)</title>
         <link>https://www.docswell.com/s/korinVR/K1J31V-2023-08-11-213422</link>
         <dc:date>2023-09-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>リクルートにおける数理最適化の 活用事例と産学連携の取り組み (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/rikurutoniokerushu-li-zui-shi-hua-no-huo-yong-shi-li-tochan-xue-lian-xi-noqu-rizu-mi</link>
-        <dc:date>2023-09-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Aurora MySQL version 3でTempTable溢れの振り返り (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/reflecting-on-temptable-overflow-in-aurora-mysql-version-3</link>
         <dc:date>2023-09-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
