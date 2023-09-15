@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Mathematical Optimization for Real Applications (Shunji Umetani)</title>
+        <link>https://speakerdeck.com/umepon/mathematical-optimization-for-real-applications</link>
+        <dc:date>2023-09-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RDRA, ICONIX, DDDの実践から得た学び (hsawaji)</title>
         <link>https://speakerdeck.com/hsawaji/rdra-iconix-dddnoshi-jian-karade-taxue-bi</link>
         <dc:date>2023-09-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Terraformでニフクラにリモート開発環境を自動構築した話 (とことんDevOps)</title>
         <link>https://speakerdeck.com/devops_vtj/terraformdenihukuranirimotokai-fa-huan-jing-wozi-dong-gou-zhu-sitahua</link>
-        <dc:date>2023-09-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230913_ニフクラで実践Terraform (Yoshitaka Fujii,@ystkfujii)</title>
-        <link>https://www.docswell.com/s/ystkfujii/KVV913-2023-09-13-193943</link>
         <dc:date>2023-09-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
