@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Material 3 やめました / Good-bye M3 design system (Yuki Anzai)</title>
+        <link>https://speakerdeck.com/yanzm/good-bye-m3-design-system</link>
+        <dc:date>2023-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自作WASMランタイムをKernelに改造する試み.pdf (RI5255)</title>
         <link>https://speakerdeck.com/riru/fa-biao-zi-liao</link>
         <dc:date>2023-09-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title> 2022_1115_reInvent_breakfast_lunch (Shinichiro Kawano)</title>
         <link>https://speakerdeck.com/shinichirokawano/2022-1115-reinvent-breakfast-lunch</link>
-        <dc:date>2023-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モジュラモノリスにおけるトランザクション設計の考え方 / transaction design on modular monolith (Satoshi Kawashima)</title>
-        <link>https://speakerdeck.com/nazonohito51/transaction-design-on-modular-monolith</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
