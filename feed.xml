@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自作WASMランタイムをKernelに改造する試み.pdf (RI5255)</title>
+        <link>https://speakerdeck.com/riru/fa-biao-zi-liao</link>
+        <dc:date>2023-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CVSSとその限界 (はせがわようすけ,@hasegawayosuke)</title>
         <link>https://www.docswell.com/s/hasegawa/56Y9J7-CVSS</link>
         <dc:date>2023-09-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>モジュラモノリスにおけるトランザクション設計の考え方 / transaction design on modular monolith (Satoshi Kawashima)</title>
         <link>https://speakerdeck.com/nazonohito51/transaction-design-on-modular-monolith</link>
-        <dc:date>2023-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230907_Omotesando.rb (tosio)</title>
-        <link>https://speakerdeck.com/tosiooooooo/20230907-omotesando-dot-rb</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
