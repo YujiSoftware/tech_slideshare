@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Unit of Workパターンで永続化とトランザクションを制御する (shimabox)</title>
+        <link>https://speakerdeck.com/shimabox/unit-of-workhatanteyong-sok-hua-totoransakusiyonwozhi-yu-suru</link>
+        <dc:date>2023-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Material 3 やめました / Good-bye M3 design system (Yuki Anzai)</title>
         <link>https://speakerdeck.com/yanzm/good-bye-m3-design-system</link>
         <dc:date>2023-09-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>なぜ我々は現地ラスベガスでreInventに参加するのか (fumiakiueno)</title>
         <link>https://speakerdeck.com/fu3ak1/nazewo-haxian-di-rasubegasudereinventnican-jia-surunoka</link>
-        <dc:date>2023-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> 2022_1115_reInvent_breakfast_lunch (Shinichiro Kawano)</title>
-        <link>https://speakerdeck.com/shinichirokawano/2022-1115-reinvent-breakfast-lunch</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
