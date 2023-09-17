@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title> 脳とAIは似ているか ― NeuroAI の挑戦  (Yuki Kamitani)</title>
+        <link>https://speakerdeck.com/ykamit/noy-toaihasi-teiruka-neuroai-notiao-zhan</link>
+        <dc:date>2023-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アプリケーションパフォーマンスの計測と改善の方法を勉強している話 (kumico)</title>
+        <link>https://speakerdeck.com/devoc/apurikesiyonpahuomansunoji-ce-togai-shan-nofang-fa-womian-qiang-siteiruhua</link>
+        <dc:date>2023-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>This is not Ruby</title>
         <link>https://docs.google.com/presentation/d/1N_lq28e73DgFjxWu5HJkTjN6duSpLOTUxGaz-6mVo70/preview</link>
         <dc:date>2023-09-16T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>認知負荷って何_を知った上で再考する_CloudFormationからCDKへの移行 (mjxo)</title>
         <link>https://speakerdeck.com/yushikatoaws/ren-zhi-fu-he-tutehe-wozhi-tutashang-tezai-kao-suru-cloudformationkaracdkhenoyi-xing-ver-dot-2-2</link>
-        <dc:date>2023-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フィッシング耐性の高いMFA実装の解説 (はせがわようすけ,@hasegawayosuke)</title>
-        <link>https://www.docswell.com/s/hasegawa/KLLE14-MFA</link>
-        <dc:date>2023-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SWAG 大好きマンな皆さまにおくる立ち回り方 / re:Invent 2022 Standby (hayao_k)</title>
-        <link>https://speakerdeck.com/hayaok3/re-invent-2022-standby</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
