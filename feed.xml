@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>This is not Ruby</title>
+        <link>https://docs.google.com/presentation/d/1N_lq28e73DgFjxWu5HJkTjN6duSpLOTUxGaz-6mVo70/preview</link>
+        <dc:date>2023-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>iOSDC2023-作って学ぶBluetoothの基本攻略 〜スマートキーアプリを作ってみよう〜 (岡　優志,@oka_yuuji)</title>
         <link>https://www.docswell.com/s/oka_yuji/ZQ82QM-iosdc2023-oka</link>
         <dc:date>2023-09-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SWAG 大好きマンな皆さまにおくる立ち回り方 / re:Invent 2022 Standby (hayao_k)</title>
         <link>https://speakerdeck.com/hayaok3/re-invent-2022-standby</link>
-        <dc:date>2023-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2022_1102_Whatsup_Vegas_SD.pdf (Shinichiro Kawano)</title>
-        <link>https://speakerdeck.com/shinichirokawano/2022-1102-whatsup-vegas-sd</link>
         <dc:date>2023-09-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
