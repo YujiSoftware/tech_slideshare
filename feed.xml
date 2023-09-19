@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>たのしいドメイン駆動設計: 序 / Enjoy domain driven design : ZYO (JGC Parallel Technologies)</title>
+        <link>https://speakerdeck.com/jpt_corp_official/enjoy-domain-driven-design-zyo</link>
+        <dc:date>2023-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JPOUG#7 Oracle Database 23c New Features (Noriyoshi Shinoda)</title>
         <link>https://speakerdeck.com/nori_shinoda/jpoug-number-7-oracle-database-23c-new-features</link>
         <dc:date>2023-09-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SRE成熟度評価におけるポストモーテムLv.3ガイドライン (shotaTsuge)</title>
         <link>https://speakerdeck.com/shotatsuge/srg-postmortem-guideline</link>
-        <dc:date>2023-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goで実装された高速な 仮想待合室サーバの実装と詳解 (Kazuhiko Yamashita)</title>
-        <link>https://speakerdeck.com/pyama86/godeshi-zhuang-saretagao-su-na-jia-xiang-dai-he-shi-sabanoshi-zhuang-toxiang-jie</link>
         <dc:date>2023-09-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
