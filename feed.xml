@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実務でTailwind CSSを使ってみた話</title>
+        <link>https://docs.google.com/presentation/d/1jSMVsuviAEBW3LSS_tMwZRurLp4tK1AAeilD6Lew9cw/preview</link>
+        <dc:date>2023-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最新のHTML</title>
         <link>https://docs.google.com/presentation/d/1FrR3KhrH9sp_IwvMdEQfhlLcg7KHOmPgE_hfzUcsdPM/preview</link>
         <dc:date>2023-09-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CVSSとその限界 (はせがわようすけ,@hasegawayosuke)</title>
         <link>https://www.docswell.com/s/hasegawa/56Y9J7-CVSS</link>
-        <dc:date>2023-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebAssembly Night_Wasmを実行するunikernelとWasmコンパイラ (ainozaki)</title>
-        <link>https://speakerdeck.com/ainozaki/webassembly-night</link>
         <dc:date>2023-09-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
