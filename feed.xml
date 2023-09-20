@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最新のHTML</title>
+        <link>https://docs.google.com/presentation/d/1FrR3KhrH9sp_IwvMdEQfhlLcg7KHOmPgE_hfzUcsdPM/preview</link>
+        <dc:date>2023-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2023 CSS (nishihara)</title>
         <link>https://speakerdeck.com/nishiharatsubasa/2023-css</link>
         <dc:date>2023-09-19T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>WebAssembly Night_Wasmを実行するunikernelとWasmコンパイラ (ainozaki)</title>
         <link>https://speakerdeck.com/ainozaki/webassembly-night</link>
         <dc:date>2023-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Mathematical Optimization for Real Applications (Shunji Umetani)</title>
-        <link>https://speakerdeck.com/umepon/mathematical-optimization-for-real-applications</link>
-        <dc:date>2023-09-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
