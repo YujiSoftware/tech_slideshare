@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2023 CSS (nishihara)</title>
+        <link>https://speakerdeck.com/nishiharatsubasa/2023-css</link>
+        <dc:date>2023-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Stability AI Japanにおける大規模言語モデルの研究開発 (Takuya Akiba)</title>
         <link>https://speakerdeck.com/iwiwi/stability-ai-japanniokeruda-gui-mo-yan-yu-moderunoyan-jiu-kai-fa</link>
         <dc:date>2023-09-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Mathematical Optimization for Real Applications (Shunji Umetani)</title>
         <link>https://speakerdeck.com/umepon/mathematical-optimization-for-real-applications</link>
-        <dc:date>2023-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDRA, ICONIX, DDDの実践から得た学び (hsawaji)</title>
-        <link>https://speakerdeck.com/hsawaji/rdra-iconix-dddnoshi-jian-karade-taxue-bi</link>
         <dc:date>2023-09-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
