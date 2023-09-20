@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIと著作権 〜生成AIによって生じる著作権関連の課題と対処 (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/generative-ai-and-copyright</link>
+        <dc:date>2023-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>著作権とは何か？〜初歩的概念から権利利用法、侵害要件まで (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/what-is-copyright</link>
         <dc:date>2023-09-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>マイクロサービスにおけるBFFアーキテクチャでのモジュラモノリスの導入 (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/introducing-modular-monoliths-in-bff-architecture-in-microservices</link>
-        <dc:date>2023-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VRの会社を作って8ヶ月　進捗どうですか？ (こりん,@korinVR)</title>
-        <link>https://www.docswell.com/s/korinVR/K1J31V-2023-08-11-213422</link>
         <dc:date>2023-09-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
