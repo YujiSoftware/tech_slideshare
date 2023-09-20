@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>XRミーティング 20230816 (1ft-seabass)</title>
+        <link>https://speakerdeck.com/1ftseabass/xr-meeting-20230816</link>
+        <dc:date>2023-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MRTK3 で Snapdragon Spaces Dual Render Fusion (Miyaura,@takabrz1)</title>
+        <link>https://www.docswell.com/s/m-taka596/K98N8V-XRMTG-MRTK3-SnapdragonSpaces-DualRenderFusion</link>
+        <dc:date>2023-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AIと著作権 〜生成AIによって生じる著作権関連の課題と対処 (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/generative-ai-and-copyright</link>
         <dc:date>2023-09-19T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>品質観点でみたインセプションデッキとその改善 (Atsushi Nagata)</title>
         <link>https://speakerdeck.com/nagworld/pin-zhi-guan-dian-demitainsepusiyondetukitosonogai-shan</link>
-        <dc:date>2023-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Firebase Remote Config ベストプラクティス (Yuto Yazaki)</title>
-        <link>https://speakerdeck.com/yutoyazaki/firebase-remote-config-besutopurakuteisu</link>
-        <dc:date>2023-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マイクロサービスにおけるBFFアーキテクチャでのモジュラモノリスの導入 (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/introducing-modular-monoliths-in-bff-architecture-in-microservices</link>
         <dc:date>2023-09-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
