@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モジュラモノリスのモジュール間通信の話 (Ryo Tsukahara)</title>
+        <link>https://speakerdeck.com/trrrrrys/moziyuramonorisunomoziyurujian-tong-xin-nohua</link>
+        <dc:date>2023-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンドの開発生産性とは (Yosuke Furukawa)</title>
         <link>https://speakerdeck.com/yosuke_furukawa/hurontoendonokai-fa-sheng-chan-xing-toha</link>
         <dc:date>2023-09-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Unit of Workパターンで永続化とトランザクションを制御する (shimabox)</title>
         <link>https://speakerdeck.com/shimabox/unit-of-workhatanteyong-sok-hua-totoransakusiyonwozhi-yu-suru</link>
         <dc:date>2023-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Material 3 やめました / Good-bye M3 design system (Yuki Anzai)</title>
-        <link>https://speakerdeck.com/yanzm/good-bye-m3-design-system</link>
-        <dc:date>2023-09-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
