@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>共有 - DroidKaigi 2023</title>
+        <link>https://docs.google.com/presentation/d/1E6fMxGTHINPqvjzmoZbI3YGEqlcAWBESFJHz0577OiU/preview</link>
+        <dc:date>2023-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kotlinハイパフォーマンスプログラミング (大前良介 (OHMAE Ryosuke))</title>
+        <link>https://speakerdeck.com/ohmae/kotlinhaipahuomansupuroguramingu</link>
+        <dc:date>2023-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Androidの 『音』を制御する (Nishimy)</title>
         <link>https://docs.google.com/presentation/d/1QXpRyWztb2JqkgwYuwId7Gpw5UeIIsqEIuLURxdzv8M/preview</link>
         <dc:date>2023-09-20T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>組織のコード品質を向上させる “レビューシステム”の取り組み (pospome)</title>
         <link>https://speakerdeck.com/pospome/zu-zhi-nokodopin-zhi-woxiang-shang-saseru-rebiyusisutemu-noqu-rizu-mi</link>
         <dc:date>2023-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Androidアプリの良いユニットテストを考える / Thinking about good unit tests for Android apps (tkmnzm)</title>
-        <link>https://speakerdeck.com/tkmnzm/thinking-about-good-unit-tests-for-android-apps</link>
-        <dc:date>2023-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> 脳とAIは似ているか ― NeuroAI の挑戦  (Yuki Kamitani)</title>
-        <link>https://speakerdeck.com/ykamit/noy-toaihasi-teiruka-neuroai-notiao-zhan</link>
-        <dc:date>2023-09-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
