@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Androidの 『音』を制御する (Nishimy)</title>
+        <link>https://docs.google.com/presentation/d/1QXpRyWztb2JqkgwYuwId7Gpw5UeIIsqEIuLURxdzv8M/preview</link>
+        <dc:date>2023-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>よく見るあのUIをJetpack Composeで実装する方法〇選 / DroidKaigi 2023 / wiroha（公開用）</title>
+        <link>https://docs.google.com/presentation/d/1LNn-fI4a3hOFTn93u8hn_9OAon9HnFGkylc1inr6b-o/preview</link>
+        <dc:date>2023-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バクラクのAI-OCR機能を支えるアノテーションの仕組み (Tomoaki)</title>
+        <link>https://speakerdeck.com/tomoaki25/bakurakunoai-ocrji-neng-wozhi-eruanotesiyonnoshi-zu-mi</link>
+        <dc:date>2023-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ビジネス向けアプリを開発するときに知っておくべきAndroid Enterpriseの世界 (Yusaku Tanaka)</title>
+        <link>https://speakerdeck.com/imsaku/introduce-android-enterprise</link>
+        <dc:date>2023-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モジュラモノリスのモジュール間通信の話 (Ryo Tsukahara)</title>
         <link>https://speakerdeck.com/trrrrrys/moziyuramonorisunomoziyurujian-tong-xin-nohua</link>
         <dc:date>2023-09-20T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title> 脳とAIは似ているか ― NeuroAI の挑戦  (Yuki Kamitani)</title>
         <link>https://speakerdeck.com/ykamit/noy-toaihasi-teiruka-neuroai-notiao-zhan</link>
         <dc:date>2023-09-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アプリケーションパフォーマンスの計測と改善の方法を勉強している話 (kumico)</title>
-        <link>https://speakerdeck.com/devoc/apurikesiyonpahuomansunoji-ce-togai-shan-nofang-fa-womian-qiang-siteiruhua</link>
-        <dc:date>2023-09-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>This is not Ruby</title>
-        <link>https://docs.google.com/presentation/d/1N_lq28e73DgFjxWu5HJkTjN6duSpLOTUxGaz-6mVo70/preview</link>
-        <dc:date>2023-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iOSDC2023-作って学ぶBluetoothの基本攻略 〜スマートキーアプリを作ってみよう〜 (岡　優志,@oka_yuuji)</title>
-        <link>https://www.docswell.com/s/oka_yuji/ZQ82QM-iosdc2023-oka</link>
-        <dc:date>2023-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unit of Workパターンで永続化とトランザクションを制御する (shimabox)</title>
-        <link>https://speakerdeck.com/shimabox/unit-of-workhatanteyong-sok-hua-totoransakusiyonwozhi-yu-suru</link>
-        <dc:date>2023-09-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
