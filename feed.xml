@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>230904_Geo-Lang_kato (Hajime Kato)</title>
+        <link>https://speakerdeck.com/hjmkth/230904-geo-lang-kato</link>
+        <dc:date>2023-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>UIコンポーネントライブラリをうまく使うためにできること / components-with-designer (mottox2)</title>
+        <link>https://speakerdeck.com/mottox2/components-with-designer</link>
+        <dc:date>2023-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2023-09-21 GitHub Actions Meetup Tokyo 2</title>
         <link>https://docs.google.com/presentation/d/1HCN2LCJlE493HPSXMsZSFgd59LrhEzbGpudK37WQeCU/preview</link>
         <dc:date>2023-09-21T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>生成AIと著作権 〜生成AIによって生じる著作権関連の課題と対処 (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/generative-ai-and-copyright</link>
         <dc:date>2023-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>著作権とは何か？〜初歩的概念から権利利用法、侵害要件まで (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/what-is-copyright</link>
-        <dc:date>2023-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>たのしいドメイン駆動設計: 序 / Enjoy domain driven design : ZYO (JGC Parallel Technologies)</title>
-        <link>https://speakerdeck.com/jpt_corp_official/enjoy-domain-driven-design-zyo</link>
-        <dc:date>2023-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
