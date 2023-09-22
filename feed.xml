@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2023-09-21 GitHub Actions Meetup Tokyo 2</title>
+        <link>https://docs.google.com/presentation/d/1HCN2LCJlE493HPSXMsZSFgd59LrhEzbGpudK37WQeCU/preview</link>
+        <dc:date>2023-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon SES のバウンス率が急上昇 〜Amazon SES を止めてしまった日〜 (Takafumi Omuro)</title>
         <link>https://speakerdeck.com/tomuro/amazon-ses-nobaunsulu-gaji-shang-sheng-amazon-ses-wozhi-metesimatutari</link>
         <dc:date>2023-09-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>たのしいドメイン駆動設計: 序 / Enjoy domain driven design : ZYO (JGC Parallel Technologies)</title>
         <link>https://speakerdeck.com/jpt_corp_official/enjoy-domain-driven-design-zyo</link>
-        <dc:date>2023-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JPOUG#7 Oracle Database 23c New Features (Noriyoshi Shinoda)</title>
-        <link>https://speakerdeck.com/nori_shinoda/jpoug-number-7-oracle-database-23c-new-features</link>
         <dc:date>2023-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
