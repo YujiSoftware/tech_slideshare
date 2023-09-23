@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>技術選定の審美眼（2023年版） / Understanding the Spiral of Technologies 2023 edition (Takuto Wada)</title>
+        <link>https://speakerdeck.com/twada/understanding-the-spiral-of-technologies-2023-edition</link>
+        <dc:date>2023-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>数理最適化と機械学習の 融合アプローチ -分類と新しい枠組みと応用- (MIKIO KUBO)</title>
         <link>https://speakerdeck.com/mickey_kubo/shu-li-zui-shi-hua-toji-jie-xue-xi-no-rong-he-apuroti-fen-lei-toxin-siiwaku-zu-mitoying-yong</link>
         <dc:date>2023-09-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>フロントエンドの開発生産性とは (Yosuke Furukawa)</title>
         <link>https://speakerdeck.com/yosuke_furukawa/hurontoendonokai-fa-sheng-chan-xing-toha</link>
-        <dc:date>2023-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マイクロサービスの効率的な監視〜不安定な依存先との闘い〜 (Tao Watanabe)</title>
-        <link>https://speakerdeck.com/taowata/maikurosabisunoxiao-lu-de-najian-shi-bu-an-ding-nayi-cun-xian-tonodou-i</link>
         <dc:date>2023-09-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
