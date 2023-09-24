@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM Fine-Tuning (東大松尾研LLM講座 Day5資料) (Shota Nakasuji)</title>
+        <link>https://speakerdeck.com/schulta/llm-fine-tuning-dong-da-song-wei-yan-llmjiang-zuo-day5zi-liao</link>
+        <dc:date>2023-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ブロックエディタをゴリゴリに使い倒してサイトを作った話 / Kansai WordPress Meetup 2023 09 23 (Toro_Unit (Hiroshi Urabe))</title>
         <link>https://speakerdeck.com/torounit/kansai-wordpress-meetup-2023-09-23</link>
         <dc:date>2023-09-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Amazon SES のバウンス率が急上昇 〜Amazon SES を止めてしまった日〜 (Takafumi Omuro)</title>
         <link>https://speakerdeck.com/tomuro/amazon-ses-nobaunsulu-gaji-shang-sheng-amazon-ses-wozhi-metesimatutari</link>
         <dc:date>2023-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>共有 - DroidKaigi 2023</title>
-        <link>https://docs.google.com/presentation/d/1E6fMxGTHINPqvjzmoZbI3YGEqlcAWBESFJHz0577OiU/preview</link>
-        <dc:date>2023-09-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
