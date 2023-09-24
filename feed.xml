@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>失敗から学ぶAPIファースト / API first learning from failure (Yoichi Kawasaki)</title>
+        <link>https://speakerdeck.com/yokawasa/api-first-learning-from-failure</link>
+        <dc:date>2023-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サーバーレスは死なぬ！みんなEDA(Event Driven Architecture)として使ってるでしょ？ (cyberarchitect)</title>
         <link>https://speakerdeck.com/cyberarchitect/sabaresuhasi-nanu-minnaeda-event-driven-architecture-tositeshi-tuterudesiyo</link>
         <dc:date>2023-09-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kotlinハイパフォーマンスプログラミング (大前良介 (OHMAE Ryosuke))</title>
         <link>https://speakerdeck.com/ohmae/kotlinhaipahuomansupuroguramingu</link>
-        <dc:date>2023-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Androidの 『音』を制御する (Nishimy)</title>
-        <link>https://docs.google.com/presentation/d/1QXpRyWztb2JqkgwYuwId7Gpw5UeIIsqEIuLURxdzv8M/preview</link>
         <dc:date>2023-09-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
