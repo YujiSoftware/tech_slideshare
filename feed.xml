@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ヒューリスティックコンテストで機械学習しよう (nagiss)</title>
+        <link>https://speakerdeck.com/nagiss/hiyurisuteitukukontesutodeji-jie-xue-xi-siyou</link>
+        <dc:date>2023-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS Signerでコード署名についてまとめてみた (Atsushi Satou)</title>
         <link>https://speakerdeck.com/atsuw0/aws-signertekotoshu-ming-nituitematometemita</link>
         <dc:date>2023-09-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>関東 Kaggler 会スポンサー資料 (Shotaro Ishihara)</title>
         <link>https://speakerdeck.com/upura/230923-kanto-kaggler-sponsor</link>
-        <dc:date>2023-09-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230923_Kaggler_meetup_LT_ya9do.pdf (ya9do)</title>
-        <link>https://speakerdeck.com/ya9do/20230923-kaggler-meetup-lt-ya9do</link>
         <dc:date>2023-09-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
