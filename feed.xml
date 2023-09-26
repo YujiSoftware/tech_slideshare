@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS Signerでコード署名についてまとめてみた (Atsushi Satou)</title>
+        <link>https://speakerdeck.com/atsuw0/aws-signertekotoshu-ming-nituitematometemita</link>
+        <dc:date>2023-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>self-hosted runnerと actions/cache の噛み合わせが悪かった件 #githubactionsmeetup (whywaita)</title>
+        <link>https://speakerdeck.com/whywaita/self-hosted-runner-meets-actions-cache-githubactionsmeetup-2</link>
+        <dc:date>2023-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>テストは「確認」と「テスト」の二つでできている (Matsu)</title>
         <link>https://speakerdeck.com/mineo_matsuya/tesutoha-que-ren-to-tesuto-noer-tudedekiteiru</link>
         <dc:date>2023-09-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>20230923_Kaggler_meetup_LT_ya9do.pdf (ya9do)</title>
         <link>https://speakerdeck.com/ya9do/20230923-kaggler-meetup-lt-ya9do</link>
-        <dc:date>2023-09-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230923_近年のレコメンドコンペについて_@tetsuro731 (tetsuro731)</title>
-        <link>https://speakerdeck.com/tetsuro731/20230923-jin-nian-norekomendokonpenituite-at-tetsuro731</link>
-        <dc:date>2023-09-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(n=1の)テーブルデータコンペの取り組み方 (Makoto Hyodo)</title>
-        <link>https://speakerdeck.com/makotu/n-equals-1no-teburudetakonpenoqu-rizu-mifang</link>
         <dc:date>2023-09-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
