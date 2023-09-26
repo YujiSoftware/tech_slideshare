@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Agile and Iterative Development: Lessons from 20 Years of Ninja-style Testing (Yasunobu Kawaguchi)</title>
+        <link>https://speakerdeck.com/kawaguti/agile-and-iterative-development-lessons-from-20-years-of-ninja-style-testing</link>
+        <dc:date>2023-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ヒューリスティックコンテストで機械学習しよう (nagiss)</title>
         <link>https://speakerdeck.com/nagiss/hiyurisuteitukukontesutodeji-jie-xue-xi-siyou</link>
         <dc:date>2023-09-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>数理最適化と機械学習の 融合アプローチ -分類と新しい枠組みと応用- (MIKIO KUBO)</title>
         <link>https://speakerdeck.com/mickey_kubo/shu-li-zui-shi-hua-toji-jie-xue-xi-no-rong-he-apuroti-fen-lei-toxin-siiwaku-zu-mitoying-yong</link>
-        <dc:date>2023-09-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>関東 Kaggler 会スポンサー資料 (Shotaro Ishihara)</title>
-        <link>https://speakerdeck.com/upura/230923-kanto-kaggler-sponsor</link>
         <dc:date>2023-09-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
