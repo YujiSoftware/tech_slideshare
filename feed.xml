@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>UseCaseの凝集度を高める Goのpackage戦略 / Go packaging strategy to increase use case cohesion (Tomoki Tamura)</title>
+        <link>https://speakerdeck.com/deresmos/go-packaging-strategy-to-increase-use-case-cohesion</link>
+        <dc:date>2023-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>機械学習と自動微分 (2023) (itakigawa)</title>
         <link>https://speakerdeck.com/itakigawa/ji-jie-xue-xi-tozi-dong-wei-fen-2023</link>
         <dc:date>2023-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS Signerでコード署名についてまとめてみた (Atsushi Satou)</title>
         <link>https://speakerdeck.com/atsuw0/aws-signertekotoshu-ming-nituitematometemita</link>
-        <dc:date>2023-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>self-hosted runnerと actions/cache の噛み合わせが悪かった件 #githubactionsmeetup (whywaita)</title>
-        <link>https://speakerdeck.com/whywaita/self-hosted-runner-meets-actions-cache-githubactionsmeetup-2</link>
         <dc:date>2023-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
