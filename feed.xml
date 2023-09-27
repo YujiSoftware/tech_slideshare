@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React Suspenseを使って遷移体験を向上させる (kobayang)</title>
+        <link>https://speakerdeck.com/kobayang/react-suspensewoshi-tuteqian-yi-ti-yan-woxiang-shang-saseru</link>
+        <dc:date>2023-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>まず Container より始めよ (honey32)</title>
         <link>https://speakerdeck.com/honey32/mazu-container-yorishi-meyo</link>
         <dc:date>2023-09-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>テストは「確認」と「テスト」の二つでできている (Matsu)</title>
         <link>https://speakerdeck.com/mineo_matsuya/tesutoha-que-ren-to-tesuto-noer-tudedekiteiru</link>
-        <dc:date>2023-09-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure OpenAI Service リファレンスアーキテクチャからみる本番システムレベルの LLM アプリに必要な検討項目の解説  / From Azure OpenAI Reference Architecture to Production-Ready LLM Apps #serverlessdays #serverlesstokyo (Kodai Sakabe)</title>
-        <link>https://speakerdeck.com/koudaiii/from-azure-openai-reference-architecture-to-production-ready-llm-apps</link>
         <dc:date>2023-09-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
