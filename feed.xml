@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMアプリケーションの安定性を高めるための精度評価・改善 (Ryuya Nakamura)</title>
+        <link>https://speakerdeck.com/nrryuya/llmapurikesiyonnoan-ding-xing-wogao-merutamenojing-du-ping-jia-gai-shan</link>
+        <dc:date>2023-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Google Apps Scriptを使いこなさない方法</title>
         <link>https://docs.google.com/presentation/d/17w_8TkqO2v9PeXsKnBqmlSsKVJtKgV-ln4M-0Aum5Ps/preview</link>
         <dc:date>2023-09-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Jetpack Glanceではじめる Material 3のColor (mochico)</title>
         <link>https://speakerdeck.com/mochico/jetpack-glancedehazimeru-material-3nocolor</link>
-        <dc:date>2023-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM Fine-Tuning (東大松尾研LLM講座 Day5資料) (Shota Nakasuji)</title>
-        <link>https://speakerdeck.com/schulta/llm-fine-tuning-dong-da-song-wei-yan-llmjiang-zuo-day5zi-liao</link>
         <dc:date>2023-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
