@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Java 21 Overview (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/java-21-overview</link>
+        <dc:date>2023-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>30点で打席に立つ (konifar)</title>
         <link>https://speakerdeck.com/konifar/30dian-deda-xi-nili-tu</link>
         <dc:date>2023-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Vitestを使った型テストの始め方 (Masaki Koyanagi)</title>
         <link>https://speakerdeck.com/mascii/vitestwoshi-tutaxing-tesutonoshi-mefang</link>
-        <dc:date>2023-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agile and Iterative Development: Lessons from 20 Years of Ninja-style Testing (Yasunobu Kawaguchi)</title>
-        <link>https://speakerdeck.com/kawaguti/agile-and-iterative-development-lessons-from-20-years-of-ninja-style-testing</link>
         <dc:date>2023-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
