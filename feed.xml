@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>勘に頼らず原因を⾒つけるためのオブザーバビリティ (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20230929</link>
+        <dc:date>2023-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Java 21 Overview (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/java-21-overview</link>
         <dc:date>2023-09-28T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>「機能」に対するデザインと開発の焦点を合わせる (sakito)</title>
         <link>https://speakerdeck.com/sakito/ji-neng-nidui-surudezaintokai-fa-nojiao-dian-wohe-waseru</link>
         <dc:date>2023-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vitestを使った型テストの始め方 (Masaki Koyanagi)</title>
-        <link>https://speakerdeck.com/mascii/vitestwoshi-tutaxing-tesutonoshi-mefang</link>
-        <dc:date>2023-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
