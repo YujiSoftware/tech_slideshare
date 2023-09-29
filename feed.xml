@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サーバーレスで負荷試験を行う必要性と実践的プラクティスの紹介/slsdays-tokyo-2023 (Serverless Operations)</title>
+        <link>https://speakerdeck.com/slsops/slsdays-tokyo-2023</link>
+        <dc:date>2023-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ChatGPTの10ヶ月と開発トレンドの現在地 (Hirosato Gamo)</title>
+        <link>https://speakerdeck.com/hirosatogamo/chatgptno10keyue-tokai-fa-torendonoxian-zai-di</link>
+        <dc:date>2023-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CyberAgent Muddy Web 6 Cloudflare Workers</title>
         <link>https://docs.google.com/presentation/d/1m_2UJS1TbVjTUBzdx83lWAc0ltJSmphNvm5s3azgxFc/preview</link>
         <dc:date>2023-09-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Google Cloud Updates 2023/08/16 - 2023/08/31 (Norio Nishioka)</title>
         <link>https://speakerdeck.com/no24oka/31-8c738c0d-eef0-4b82-838d-27595679f5c4</link>
-        <dc:date>2023-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>監視とオブザーバビリティ 〜 悩む前に確認しておくべきこと / 20230926-ssmjp-monitoring-and-observability (opelab)</title>
-        <link>https://speakerdeck.com/opelab/20230926-ssmjp-monitoring-and-observability</link>
-        <dc:date>2023-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI業界をリードする企業のエンジニアが語る：クラウド &amp; AI でキャリアを作る魅力 (Takaya Nakanishi)</title>
-        <link>https://speakerdeck.com/kc_nakanishi/aiye-jie-woridosuruqi-ye-noenziniagayu-ru-kuraudo-and-ai-dekiyariawozuo-rumei-li</link>
         <dc:date>2023-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
