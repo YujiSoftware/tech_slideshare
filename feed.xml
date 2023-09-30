@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ログから学ぶgo build (nasa)</title>
+        <link>https://speakerdeck.com/nasa_desu/rogukaraxue-bugo-build</link>
+        <dc:date>2023-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>how will foundation models change robotics (Semantic Machine Intelligence Lab., Keio Univ.)</title>
         <link>https://speakerdeck.com/keio_smilab/how-will-foundation-models-change-robotics23</link>
         <dc:date>2023-09-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2023/09/26_potatotips</title>
         <link>https://docs.google.com/presentation/d/1xFawyf9sw70kkO9x-3vhW-UP8JhObnzyxRU-x7kT9y0/preview</link>
-        <dc:date>2023-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ios17widgets</title>
-        <link>https://docs.google.com/presentation/d/1MSG7CAbdef-RQ5f1tvwbbzpDTFyTHyhWoOMjZOuPxGQ/preview</link>
         <dc:date>2023-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
