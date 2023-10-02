@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>信頼性目標とシステムアーキテクチャー / Reliability Objective and System Architecture (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/reliability-objective-and-system-architecture</link>
+        <dc:date>2023-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>1,800万人が利用する『家族アルバム みてね』におけるK8s基盤のアップグレード戦略と継続的改善 / FamilyAlbum's upgrade strategy and continuous improvement for K8s infrastructure (kohbis)</title>
         <link>https://speakerdeck.com/kohbis/familyalbums-upgrade-strategy-and-continuous-improvement-for-k8s-infrastructure</link>
         <dc:date>2023-10-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>React Suspenseを使って遷移体験を向上させる (kobayang)</title>
         <link>https://speakerdeck.com/kobayang/react-suspensewoshi-tuteqian-yi-ti-yan-woxiang-shang-saseru</link>
-        <dc:date>2023-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>まず Container より始めよ (honey32)</title>
-        <link>https://speakerdeck.com/honey32/mazu-container-yorishi-meyo</link>
         <dc:date>2023-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
