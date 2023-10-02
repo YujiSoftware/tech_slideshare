@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREを以てセキュリティエンジニアリングを制す / SRE, Security Engineering, and You (Takashi Yoneuchi)</title>
+        <link>https://speakerdeck.com/lmt_swallow/sre-security-engineering-and-you</link>
+        <dc:date>2023-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Warningアラートを放置しない！アラート駆動でログやメトリックを自動収集する仕組みによる恩恵 (ikeda-masashi)</title>
         <link>https://speakerdeck.com/mashiike/warningaratowofang-zhi-sinai-aratoqu-dong-deroguyametoritukuwozi-dong-shou-ji-surushi-zu-miniyoruen-hui</link>
         <dc:date>2023-09-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TechFeedNight-PopoverAPI〜HTMLだけでアクセシブルなポップアップUI</title>
         <link>https://docs.google.com/presentation/d/1rWxBYjGbjVvlXK7HwjuZZPmnEU-r14llxNj3hhkJXE4/preview</link>
-        <dc:date>2023-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CSS Subgridが遂に全ブラウザ対応。新時代のグリッドデザインを学ぼう (tonkotsuboy_com)</title>
-        <link>https://speakerdeck.com/tonkotsuboy_com/css-subgridgasui-niquan-burauzadui-ying-xin-shi-dai-noguritudodezainwoxue-bou</link>
         <dc:date>2023-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
