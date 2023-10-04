@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>続・変更に強いコンポーネント設計の方針と規約（Webフロントエンド） (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20231004</link>
+        <dc:date>2023-10-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>背伸びしないコンポーネントの始め方 (yuki)</title>
         <link>https://speakerdeck.com/yuneco/bei-shen-bisinaikonponentonoshi-mefang</link>
         <dc:date>2023-10-03T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Java 21 Overview (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/java-21-overview</link>
         <dc:date>2023-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>30点で打席に立つ (konifar)</title>
-        <link>https://speakerdeck.com/konifar/30dian-deda-xi-nili-tu</link>
-        <dc:date>2023-09-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
