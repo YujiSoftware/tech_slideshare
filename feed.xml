@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RailsでModular Monolithを選択された御社に質問したいN個の疑問 (shunsugai)</title>
+        <link>https://speakerdeck.com/shunsugai/railsdemodular-monolithwoxuan-ze-saretayu-she-nizhi-wen-sitainge-noyi-wen</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>続・変更に強いコンポーネント設計の方針と規約（Webフロントエンド） (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20231004</link>
         <dc:date>2023-10-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>勘に頼らず原因を⾒つけるためのオブザーバビリティ (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20230929</link>
-        <dc:date>2023-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java 21 Overview (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/java-21-overview</link>
         <dc:date>2023-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
