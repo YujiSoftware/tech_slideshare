@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データプロダクトとは何か (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/what-is-10x-dataproduct</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IoTだからこそ、サーバーレスを活用すべき３つの理由 (SORACOM)</title>
         <link>https://speakerdeck.com/soracom/why-we-use-serverless-for-iot-with-three-reasons</link>
         <dc:date>2023-10-04T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>React Server Components で複雑さに立ち向かう #コンポーネント_findy / findy 2023-10-04 (Masayuki Izumi)</title>
         <link>https://speakerdeck.com/izumin5210/findy-2023-10-04</link>
         <dc:date>2023-10-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sansan LabsにおけるGPT活用事例 / GPT Application Case Studies at Sansan Labs (Sansan R&amp;D)</title>
-        <link>https://speakerdeck.com/sansan_randd/gpt-application-case-studies-at-sansan-labs</link>
-        <dc:date>2023-10-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
