@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マルチプロダクト運用におけるSREのあり方/SRE NEXT 2023-link-and-motivation (リンクアンドモチベーション)</title>
+        <link>https://speakerdeck.com/lmi/sre-next-2023-link-and-motivation</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RailsでModular Monolithを選択された御社に質問したいN個の疑問 (shunsugai)</title>
         <link>https://speakerdeck.com/shunsugai/railsdemodular-monolithwoxuan-ze-saretayu-she-nizhi-wen-sitainge-noyi-wen</link>
         <dc:date>2023-10-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CyberAgent Muddy Web 6 Cloudflare Workers</title>
         <link>https://docs.google.com/presentation/d/1m_2UJS1TbVjTUBzdx83lWAc0ltJSmphNvm5s3azgxFc/preview</link>
-        <dc:date>2023-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>勘に頼らず原因を⾒つけるためのオブザーバビリティ (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20230929</link>
         <dc:date>2023-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
