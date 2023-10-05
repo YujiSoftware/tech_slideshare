@@ -6,6 +6,71 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>IoTだからこそ、サーバーレスを活用すべき３つの理由 (SORACOM)</title>
+        <link>https://speakerdeck.com/soracom/why-we-use-serverless-for-iot-with-three-reasons</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サーバーを超えて： 開発者のために作られたTiDB ServerlessとChat2Query (PingCAP-Japan)</title>
+        <link>https://speakerdeck.com/pingcap0315/sabawochao-ete-kai-fa-zhe-notamenizuo-raretatidb-serverlesstochat2query</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Serverless Updates 2023 #serverlessdays (NAKAYAMA Masahiro,@nekoruri)</title>
+        <link>https://www.docswell.com/s/nekoruri/524W1N-serverless-updates-2023</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ServerlessDays 20230923 (harunobu kameda,@kameoncloud)</title>
+        <link>https://www.docswell.com/s/8981005737/KVV92D-2023-09-25-152240</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>動画配信サービスの 人気番組配信のスパイクアクセスに、 サーバレスキャッシュで立ち向かう (Kazuki Miura)</title>
+        <link>https://speakerdeck.com/miu_crescent/dong-hua-pei-xin-sabisuno-ren-qi-fan-zu-pei-xin-nosupaikuakusesuni-sabaresukiyatusiyudeli-tixiang-kau</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サーバーレスで仮想待合室を作ろう！ / Serverless Virtual Waiting Room (kensh)</title>
+        <link>https://speakerdeck.com/_kensh/serverless-virtual-waiting-room</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>重厚長大な企業の内製開発組織で成果を出すためのサーバーレスアーキテクチャ / ServerlessDays Tokyo 2023 (モンゴル (mongolyy))</title>
+        <link>https://speakerdeck.com/mongolyy/serverlessdays-tokyo-2023</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サーバーレス技術とDevSecOps: 安全かつ迅速なデプロイメントの新時代 (Tsukasa Komatsubara)</title>
+        <link>https://speakerdeck.com/gl_tsukasa/sabaresuji-shu-todevsecops-an-quan-katuxun-su-nadepuroimentonoxin-shi-dai</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>理解して導入するWebフレームワーク ~解決すべき課題に着目する~ / Understanding and implementing web frameworks ~focusing on the problems to be solved~ (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/understanding-and-implementing-web-frameworks-focusing-on-the-problems-to-be-solved</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>refactoring-serverless (g-awa)</title>
+        <link>https://speakerdeck.com/gawa/refactoring-serverless</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLM 時代におさえておきたい Azure Serverless ファミリーまとめ / serverlessdaystokyo2023-llm-aoai (miyake)</title>
+        <link>https://speakerdeck.com/miyake/serverlessdaystokyo2023-llm-aoai</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サーバーレスアーキテクチャを使って、小さく作って大きくする取り組み (daiki.mori)</title>
+        <link>https://speakerdeck.com/daikimori/sabaresuakitekutiyawoshi-tute-xiao-sakuzuo-tuteda-kikusuruqu-rizu-mi</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLM×Cloud Runでオンライン薬局の既存オペレーションを自動化した話 (PharmaX（旧YOJO Technologies）開発チーム)</title>
+        <link>https://speakerdeck.com/pharma_x_tech/llmxcloud-rundeonrainyao-ju-noji-cun-operesiyonwozi-dong-hua-sitahua</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生活感のあるアーキテクチャ (PharmaX（旧YOJO Technologies）開発チーム)</title>
         <link>https://speakerdeck.com/pharma_x_tech/sheng-huo-gan-noaruakitekutiya</link>
         <dc:date>2023-10-04T15:00:00Z</dc:date>
@@ -39,70 +104,5 @@
         <title>Sansan LabsにおけるGPT活用事例 / GPT Application Case Studies at Sansan Labs (Sansan R&amp;D)</title>
         <link>https://speakerdeck.com/sansan_randd/gpt-application-case-studies-at-sansan-labs</link>
         <dc:date>2023-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SRE を実践するためのプラットフォームの作り方と技術マネジメント / Building a Platform for SRE  (Shoji Shirotori)</title>
-        <link>https://speakerdeck.com/irotoris/building-a-platform-for-sre</link>
-        <dc:date>2023-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>信頼性目標とシステムアーキテクチャー / Reliability Objective and System Architecture (ymotongpoo)</title>
-        <link>https://speakerdeck.com/ymotongpoo/reliability-objective-and-system-architecture</link>
-        <dc:date>2023-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>1,800万人が利用する『家族アルバム みてね』におけるK8s基盤のアップグレード戦略と継続的改善 / FamilyAlbum's upgrade strategy and continuous improvement for K8s infrastructure (kohbis)</title>
-        <link>https://speakerdeck.com/kohbis/familyalbums-upgrade-strategy-and-continuous-improvement-for-k8s-infrastructure</link>
-        <dc:date>2023-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREを以てセキュリティエンジニアリングを制す / SRE, Security Engineering, and You (Takashi Yoneuchi)</title>
-        <link>https://speakerdeck.com/lmt_swallow/sre-security-engineering-and-you</link>
-        <dc:date>2023-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Warningアラートを放置しない！アラート駆動でログやメトリックを自動収集する仕組みによる恩恵 (ikeda-masashi)</title>
-        <link>https://speakerdeck.com/mashiike/warningaratowofang-zhi-sinai-aratoqu-dong-deroguyametoritukuwozi-dong-shou-ji-surushi-zu-miniyoruen-hui</link>
-        <dc:date>2023-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>分かった気になる ポストエフェクト -Shaderってこんな感じ発表会-</title>
-        <link>https://docs.google.com/presentation/d/1yUCBDkKEsCwZ944duwJSRFhbhi9pUznQMA_THUmUSqw/preview</link>
-        <dc:date>2023-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発者とともに作る Site Reliability Engineering / SREing with Developers (Takeshi Kondo)</title>
-        <link>https://speakerdeck.com/chaspy/sreing-with-developers</link>
-        <dc:date>2023-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Be Agile アジャイルマインドセットでいきいきと働く / be agile and work with a iki-iki spirit (小田中育生)</title>
-        <link>https://speakerdeck.com/ikuodanaka/be-agile-and-work-with-a-iki-iki-spirit</link>
-        <dc:date>2023-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>より協力的なペアプロを促すには どうするかを考える (Jun Nakajima)</title>
-        <link>https://speakerdeck.com/jnuank/yorixie-li-de-napeapurowocu-suniha-dousurukawokao-eru-81592987-dff1-44f1-9ae3-630f0d9d33e3</link>
-        <dc:date>2023-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ログから学ぶgo build (nasa)</title>
-        <link>https://speakerdeck.com/nasa_desu/rogukaraxue-bugo-build</link>
-        <dc:date>2023-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>how will foundation models change robotics (Semantic Machine Intelligence Lab., Keio Univ.)</title>
-        <link>https://speakerdeck.com/keio_smilab/how-will-foundation-models-change-robotics23</link>
-        <dc:date>2023-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーレスで負荷試験を行う必要性と実践的プラクティスの紹介/slsdays-tokyo-2023 (Serverless Operations)</title>
-        <link>https://speakerdeck.com/slsops/slsdays-tokyo-2023</link>
-        <dc:date>2023-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTの10ヶ月と開発トレンドの現在地 (Hirosato Gamo)</title>
-        <link>https://speakerdeck.com/hirosatogamo/chatgptno10keyue-tokai-fa-torendonoxian-zai-di</link>
-        <dc:date>2023-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
