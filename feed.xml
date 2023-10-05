@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREとPlatform Engineerの交差点 (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/sretoplatform-engineernojiao-chai-dian</link>
+        <dc:date>2023-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データプロダクトとは何か (10xinc)</title>
         <link>https://speakerdeck.com/10xinc/what-is-10x-dataproduct</link>
         <dc:date>2023-10-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>背伸びしないコンポーネントの始め方 (yuki)</title>
         <link>https://speakerdeck.com/yuneco/bei-shen-bisinaikonponentonoshi-mefang</link>
-        <dc:date>2023-10-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Server Components で複雑さに立ち向かう #コンポーネント_findy / findy 2023-10-04 (Masayuki Izumi)</title>
-        <link>https://speakerdeck.com/izumin5210/findy-2023-10-04</link>
         <dc:date>2023-10-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
