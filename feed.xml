@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>QAと共に築く、機能性を通じた信頼性担保への取り組み (syossan27)</title>
+        <link>https://speakerdeck.com/syossan27/qatogong-nizhu-ku-ji-neng-xing-wotong-sitaxin-lai-xing-dan-bao-henoqu-rizu-mi</link>
+        <dc:date>2023-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LatteArtによるテストログの記録と それを用いたメンテナンス性の高い テストスクリプト生成技術の紹介 (SHIFT_EVOLVE)</title>
+        <link>https://speakerdeck.com/shift_evolve/latteartniyorutesutorogunoji-lu-to-sorewoyong-itamentenansuxing-nogao-i-tesutosukuriputosheng-cheng-ji-shu-noshao-jie</link>
+        <dc:date>2023-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cacheable Presigned URL with Cloudflare Workers (oliver)</title>
         <link>https://speakerdeck.com/oliver_diary/cacheable-presigned-url-with-cloudflare-workers</link>
         <dc:date>2023-10-05T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>生活感のあるアーキテクチャ (PharmaX（旧YOJO Technologies）開発チーム)</title>
         <link>https://speakerdeck.com/pharma_x_tech/sheng-huo-gan-noaruakitekutiya</link>
-        <dc:date>2023-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マルチプロダクト運用におけるSREのあり方/SRE NEXT 2023-link-and-motivation (リンクアンドモチベーション)</title>
-        <link>https://speakerdeck.com/lmi/sre-next-2023-link-and-motivation</link>
-        <dc:date>2023-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RailsでModular Monolithを選択された御社に質問したいN個の疑問 (shunsugai)</title>
-        <link>https://speakerdeck.com/shunsugai/railsdemodular-monolithwoxuan-ze-saretayu-she-nizhi-wen-sitainge-noyi-wen</link>
         <dc:date>2023-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
