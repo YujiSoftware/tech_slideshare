@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアが直接会う場の価値について (jollyjoester)</title>
+        <link>https://speakerdeck.com/jollyjoester/enziniagazhi-jie-hui-uchang-nojia-zhi-nituite</link>
+        <dc:date>2023-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ECSのCI/CD改善と標準化の取り組み / JAWS FESTA 2023 in Kyushu (cohalz)</title>
         <link>https://speakerdeck.com/cohalz/jaws-festa-2023-in-kyushu</link>
         <dc:date>2023-10-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サーバーレス技術とDevSecOps: 安全かつ迅速なデプロイメントの新時代 (Tsukasa Komatsubara)</title>
         <link>https://speakerdeck.com/gl_tsukasa/sabaresuji-shu-todevsecops-an-quan-katuxun-su-nadepuroimentonoxin-shi-dai</link>
-        <dc:date>2023-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>理解して導入するWebフレームワーク ~解決すべき課題に着目する~ / Understanding and implementing web frameworks ~focusing on the problems to be solved~ (shiro seike)</title>
-        <link>https://speakerdeck.com/seike460/understanding-and-implementing-web-frameworks-focusing-on-the-problems-to-be-solved</link>
         <dc:date>2023-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
