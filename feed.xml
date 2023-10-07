@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DjangoCongress: GraphQLライブラリ Strawberry の Djangoプロジェクトへの適用事例</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vS9SlFgPdZgdo4kcrGnHb7JJ88u2s1P7Pfgi4E0_zbKv6nfDtZ1MUzme6q9lHJ7Gl4DolvzQaBxaJZq/pub</link>
+        <dc:date>2023-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Djangoアプリケーション運用のリアル：問題発生から可視化、最適化への道 #djangocongressjp</title>
+        <link>https://docs.google.com/presentation/d/1K23qgLx-pAC4a0I8-stGFrNLLYggvOYDv40L30F0rW8/preview</link>
+        <dc:date>2023-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Djangoを仕事で使っていくために学んだこと</title>
+        <link>https://docs.google.com/presentation/d/1P6Nam9NDRP8_LKsJaqdzre5phKIS50iNjHYrrejIyHo/preview</link>
+        <dc:date>2023-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Four KeysによるDataOps改善の第一歩 (Masahiro ISHII)</title>
         <link>https://speakerdeck.com/marufeuille/four-keysniyorudataopsgai-shan-nodi-bu</link>
         <dc:date>2023-10-06T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>refactoring-serverless (g-awa)</title>
         <link>https://speakerdeck.com/gawa/refactoring-serverless</link>
-        <dc:date>2023-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM 時代におさえておきたい Azure Serverless ファミリーまとめ / serverlessdaystokyo2023-llm-aoai (miyake)</title>
-        <link>https://speakerdeck.com/miyake/serverlessdaystokyo2023-llm-aoai</link>
-        <dc:date>2023-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーレスアーキテクチャを使って、小さく作って大きくする取り組み (daiki.mori)</title>
-        <link>https://speakerdeck.com/daikimori/sabaresuakitekutiyawoshi-tute-xiao-sakuzuo-tuteda-kikusuruqu-rizu-mi</link>
-        <dc:date>2023-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM×Cloud Runでオンライン薬局の既存オペレーションを自動化した話 (PharmaX（旧YOJO Technologies）開発チーム)</title>
-        <link>https://speakerdeck.com/pharma_x_tech/llmxcloud-rundeonrainyao-ju-noji-cun-operesiyonwozi-dong-hua-sitahua</link>
         <dc:date>2023-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
