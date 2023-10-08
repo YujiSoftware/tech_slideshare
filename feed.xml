@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>State of Vite (ViteConf 2023)</title>
+        <link>https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/preview</link>
+        <dc:date>2023-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアが直接会う場の価値について (jollyjoester)</title>
         <link>https://speakerdeck.com/jollyjoester/enziniagazhi-jie-hui-uchang-nojia-zhi-nituite</link>
         <dc:date>2023-10-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>重厚長大な企業の内製開発組織で成果を出すためのサーバーレスアーキテクチャ / ServerlessDays Tokyo 2023 (モンゴル (mongolyy))</title>
         <link>https://speakerdeck.com/mongolyy/serverlessdays-tokyo-2023</link>
-        <dc:date>2023-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーレス技術とDevSecOps: 安全かつ迅速なデプロイメントの新時代 (Tsukasa Komatsubara)</title>
-        <link>https://speakerdeck.com/gl_tsukasa/sabaresuji-shu-todevsecops-an-quan-katuxun-su-nadepuroimentonoxin-shi-dai</link>
         <dc:date>2023-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
