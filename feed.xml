@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Runbookに何を書き、どのようにアラートを振り分けるか？ (Sohei Iwahori)</title>
+        <link>https://speakerdeck.com/egmc/runbooknihe-woshu-ki-donoyouniaratowozhen-rifen-keruka</link>
+        <dc:date>2023-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RubyVM を PHP で実装する 〜Hello World を出力するまで〜 (memory)</title>
         <link>https://speakerdeck.com/memory1994/how-to-implement-rubyvm-written-in-php</link>
         <dc:date>2023-10-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サーバーを超えて： 開発者のために作られたTiDB ServerlessとChat2Query (PingCAP-Japan)</title>
         <link>https://speakerdeck.com/pingcap0315/sabawochao-ete-kai-fa-zhe-notamenizuo-raretatidb-serverlesstochat2query</link>
-        <dc:date>2023-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Serverless Updates 2023 #serverlessdays (NAKAYAMA Masahiro,@nekoruri)</title>
-        <link>https://www.docswell.com/s/nekoruri/524W1N-serverless-updates-2023</link>
         <dc:date>2023-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
