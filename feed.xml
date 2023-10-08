@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RubyVM を PHP で実装する 〜Hello World を出力するまで〜 (memory)</title>
+        <link>https://speakerdeck.com/memory1994/how-to-implement-rubyvm-written-in-php</link>
+        <dc:date>2023-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ebitengine の 過去・現在・未来</title>
         <link>https://docs.google.com/presentation/d/1l7b6dtcBblfILcHdlZ9UJlgjGkEjpw5KnIVOnG_r0vY/preview</link>
         <dc:date>2023-10-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Serverless Updates 2023 #serverlessdays (NAKAYAMA Masahiro,@nekoruri)</title>
         <link>https://www.docswell.com/s/nekoruri/524W1N-serverless-updates-2023</link>
-        <dc:date>2023-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ServerlessDays 20230923 (harunobu kameda,@kameoncloud)</title>
-        <link>https://www.docswell.com/s/8981005737/KVV92D-2023-09-25-152240</link>
         <dc:date>2023-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
