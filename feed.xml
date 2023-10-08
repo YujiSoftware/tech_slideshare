@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>htmx is not a typo (kimihito)</title>
+        <link>https://speakerdeck.com/kimihito_/htmx-is-not-a-typo</link>
+        <dc:date>2023-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[2023/10/06 - Four Keysで改善する開発生産性] フロントエンド開発における、 デプロイ頻度を上げるための テスト設計と仕組みづくりのヒント / Tips for designing and structuring tests to increase deployment frequency in front-end development (Yukako IIDA)</title>
         <link>https://speakerdeck.com/becyn/tips-for-designing-and-structuring-tests-to-increase-deployment-frequency-in-front-end-development</link>
         <dc:date>2023-10-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データプロダクトとは何か (10xinc)</title>
         <link>https://speakerdeck.com/10xinc/what-is-10x-dataproduct</link>
-        <dc:date>2023-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IoTだからこそ、サーバーレスを活用すべき３つの理由 (SORACOM)</title>
-        <link>https://speakerdeck.com/soracom/why-we-use-serverless-for-iot-with-three-reasons</link>
         <dc:date>2023-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
