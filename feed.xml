@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ebitengine の 過去・現在・未来</title>
+        <link>https://docs.google.com/presentation/d/1l7b6dtcBblfILcHdlZ9UJlgjGkEjpw5KnIVOnG_r0vY/preview</link>
+        <dc:date>2023-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>仕様が読めるようになるOAuth2.0、OpenID Connect 入門 (Auth屋)</title>
+        <link>https://speakerdeck.com/authyasan/shi-yang-gadu-meruyouninaruoauth2-dot-0-openid-connect-ru-men</link>
+        <dc:date>2023-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>会社を実装する (Yutaka Tachibana)</title>
         <link>https://speakerdeck.com/saboyutaka/hui-she-woshi-zhuang-suru</link>
         <dc:date>2023-10-07T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ServerlessDays 20230923 (harunobu kameda,@kameoncloud)</title>
         <link>https://www.docswell.com/s/8981005737/KVV92D-2023-09-25-152240</link>
-        <dc:date>2023-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>動画配信サービスの 人気番組配信のスパイクアクセスに、 サーバレスキャッシュで立ち向かう (Kazuki Miura)</title>
-        <link>https://speakerdeck.com/miu_crescent/dong-hua-pei-xin-sabisuno-ren-qi-fan-zu-pei-xin-nosupaikuakusesuni-sabaresukiyatusiyudeli-tixiang-kau</link>
-        <dc:date>2023-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーレスで仮想待合室を作ろう！ / Serverless Virtual Waiting Room (kensh)</title>
-        <link>https://speakerdeck.com/_kensh/serverless-virtual-waiting-room</link>
         <dc:date>2023-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
