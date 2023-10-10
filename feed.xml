@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>拡張機能でええんちゃう？ (Masayuki Maekawa)</title>
+        <link>https://speakerdeck.com/maepon/kuo-zhang-ji-neng-deeentiyau</link>
+        <dc:date>2023-10-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Language Language Models (in 2023)</title>
         <link>https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/preview</link>
         <dc:date>2023-10-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Cacheable Presigned URL with Cloudflare Workers (oliver)</title>
         <link>https://speakerdeck.com/oliver_diary/cacheable-presigned-url-with-cloudflare-workers</link>
-        <dc:date>2023-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TrinoとIcebergで ログ基盤の構築 / 2023-10-05 Trino Presto Meetup (kamijin_fanta)</title>
-        <link>https://speakerdeck.com/kamijin_fanta/2023-10-05-trino-presto-meetup</link>
         <dc:date>2023-10-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
