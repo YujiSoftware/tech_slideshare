@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テキストデータの可視化例 (HIGUCHI Koichi,@khcoder)</title>
+        <link>https://www.docswell.com/s/ko-ichi-h/K4Q9XW-TokyoR</link>
+        <dc:date>2023-10-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>R で Github Repository をきれいにする (Hiroyuki Kuromiya)</title>
+        <link>https://speakerdeck.com/khiroyuki1993/r-de-github-repository-wokireinisuru</link>
+        <dc:date>2023-10-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Befriending Kurtosis with R (bk)</title>
+        <link>https://speakerdeck.com/bk_18/befriending-kurtosis-with-r</link>
+        <dc:date>2023-10-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>231007_tokyor_kato (Hajime Kato)</title>
+        <link>https://speakerdeck.com/hjmkth/231007-tokyor-kato</link>
+        <dc:date>2023-10-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>拡張機能でええんちゃう？ (Masayuki Maekawa)</title>
         <link>https://speakerdeck.com/maepon/kuo-zhang-ji-neng-deeentiyau</link>
         <dc:date>2023-10-09T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>Djangoを仕事で使っていくために学んだこと</title>
         <link>https://docs.google.com/presentation/d/1P6Nam9NDRP8_LKsJaqdzre5phKIS50iNjHYrrejIyHo/preview</link>
         <dc:date>2023-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Four KeysによるDataOps改善の第一歩 (Masahiro ISHII)</title>
-        <link>https://speakerdeck.com/marufeuille/four-keysniyorudataopsgai-shan-nodi-bu</link>
-        <dc:date>2023-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QAと共に築く、機能性を通じた信頼性担保への取り組み (syossan27)</title>
-        <link>https://speakerdeck.com/syossan27/qatogong-nizhu-ku-ji-neng-xing-wotong-sitaxin-lai-xing-dan-bao-henoqu-rizu-mi</link>
-        <dc:date>2023-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LatteArtによるテストログの記録と それを用いたメンテナンス性の高い テストスクリプト生成技術の紹介 (SHIFT_EVOLVE)</title>
-        <link>https://speakerdeck.com/shift_evolve/latteartniyorutesutorogunoji-lu-to-sorewoyong-itamentenansuxing-nogao-i-tesutosukuriputosheng-cheng-ji-shu-noshao-jie</link>
-        <dc:date>2023-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cacheable Presigned URL with Cloudflare Workers (oliver)</title>
-        <link>https://speakerdeck.com/oliver_diary/cacheable-presigned-url-with-cloudflare-workers</link>
-        <dc:date>2023-10-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
