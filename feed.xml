@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[SRE NEXT 2023]エンタープライズ企業でのSRE立ち上げ挑戦の際に意識した事と気付き、 現在地とこれから (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/sre-next-2023-entapuraizuqi-ye-denosreli-tishang-getiao-zhan-noji-niyi-shi-sitashi-toqi-fu-ki-xian-zai-di-tokorekara</link>
+        <dc:date>2023-10-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>テキストデータの可視化例 (HIGUCHI Koichi,@khcoder)</title>
         <link>https://www.docswell.com/s/ko-ichi-h/K4Q9XW-TokyoR</link>
         <dc:date>2023-10-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Djangoアプリケーション運用のリアル：問題発生から可視化、最適化への道 #djangocongressjp</title>
         <link>https://docs.google.com/presentation/d/1K23qgLx-pAC4a0I8-stGFrNLLYggvOYDv40L30F0rW8/preview</link>
-        <dc:date>2023-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Djangoを仕事で使っていくために学んだこと</title>
-        <link>https://docs.google.com/presentation/d/1P6Nam9NDRP8_LKsJaqdzre5phKIS50iNjHYrrejIyHo/preview</link>
         <dc:date>2023-10-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
