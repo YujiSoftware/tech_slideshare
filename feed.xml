@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMの開発は難しい？簡単？Stability AIの現場から (2023/10/11, W&amp;B Fully Connected) (Takuya Akiba)</title>
+        <link>https://speakerdeck.com/iwiwi/11-w-and-b-fully-connected</link>
+        <dc:date>2023-10-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Google Cloudへ大半を移行した SmartHRにおける活用事例紹介 (kurobara)</title>
         <link>https://speakerdeck.com/moonstruckdrops/google-cloudheda-ban-woyi-xing-sita-smarthrniokeruhuo-yong-shi-li-shao-jie</link>
         <dc:date>2023-10-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>仕様が読めるようになるOAuth2.0、OpenID Connect 入門 (Auth屋)</title>
         <link>https://speakerdeck.com/authyasan/shi-yang-gadu-meruyouninaruoauth2-dot-0-openid-connect-ru-men</link>
-        <dc:date>2023-10-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>会社を実装する (Yutaka Tachibana)</title>
-        <link>https://speakerdeck.com/saboyutaka/hui-she-woshi-zhuang-suru</link>
         <dc:date>2023-10-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
