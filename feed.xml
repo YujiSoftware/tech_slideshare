@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2023-10-06 Encraft #7 Go で Cloud Logging を 使いこなすための slog 活用法</title>
+        <link>https://docs.google.com/presentation/d/1WbTE8Kp7E1JIOxM67pf203C_DlOaYIdP_gDaqksJRXM/preview</link>
+        <dc:date>2023-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>続・生成AI周回遅れキャッチアップ勉強会！ (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/sok-sheng-cheng-aizhou-hui-chi-rekiyatutiatuhumian-qiang-hui</link>
+        <dc:date>2023-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>第56回 情報科学若手の会 Wasmを実行するunikernelとWasmコンパイラ (Saza)</title>
         <link>https://speakerdeck.com/sazaku/di-56hui-qing-bao-ke-xue-ruo-shou-nohui-wasmwoshi-xing-suruunikerneltowasmkonpaira</link>
         <dc:date>2023-10-10T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>State of Vite (ViteConf 2023)</title>
         <link>https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/preview</link>
         <dc:date>2023-10-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアが直接会う場の価値について (jollyjoester)</title>
-        <link>https://speakerdeck.com/jollyjoester/enziniagazhi-jie-hui-uchang-nojia-zhi-nituite</link>
-        <dc:date>2023-10-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ECSのCI/CD改善と標準化の取り組み / JAWS FESTA 2023 in Kyushu (cohalz)</title>
-        <link>https://speakerdeck.com/cohalz/jaws-festa-2023-in-kyushu</link>
-        <dc:date>2023-10-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
