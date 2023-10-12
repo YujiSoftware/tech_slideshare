@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Data, Design and Government (Hikaru Kashida)</title>
+        <link>https://speakerdeck.com/hik0107/data-design-and-government</link>
+        <dc:date>2023-10-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title> メタバースプラットフォーム 「INSPIX WORLD」はPHPもC++もまとめてC#に統一！ ～MagicOnionが支えるバックエンド最適化手法～ (Pulse Co., Ltd.)</title>
         <link>https://speakerdeck.com/pulse1923/metabasupuratutohuomu-inspix-world-haphpmoc-plus-plus-momatometec-number-nitong-magiconiongazhi-erubatukuendozui-shi-hua-shou-fa</link>
         <dc:date>2023-10-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[2023/10/06 - Four Keysで改善する開発生産性] フロントエンド開発における、 デプロイ頻度を上げるための テスト設計と仕組みづくりのヒント / Tips for designing and structuring tests to increase deployment frequency in front-end development (Yukako IIDA)</title>
         <link>https://speakerdeck.com/becyn/tips-for-designing-and-structuring-tests-to-increase-deployment-frequency-in-front-end-development</link>
-        <dc:date>2023-10-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Runbookに何を書き、どのようにアラートを振り分けるか？ (Sohei Iwahori)</title>
-        <link>https://speakerdeck.com/egmc/runbooknihe-woshu-ki-donoyouniaratowozhen-rifen-keruka</link>
         <dc:date>2023-10-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
