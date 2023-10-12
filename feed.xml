@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Flink-based Iceberg Real-Time  Data Lake in SmartNews (Qingyu Ji)</title>
+        <link>https://speakerdeck.com/qingyuji/flink-based-iceberg-real-time-data-lake-in-smartnews</link>
+        <dc:date>2023-10-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SRETT #7 Inspektor Gadget</title>
         <link>https://docs.google.com/presentation/d/1f_TlmBnRU2gFl7UXxobJnzOrm08Ot4YtUh9gWEh0L8w/preview</link>
         <dc:date>2023-10-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Language Language Models (in 2023)</title>
         <link>https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/preview</link>
         <dc:date>2023-10-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ピンチをチャンスに：未来をつくるプロダクトロードマップ #pmconf2020 (Aki / @LoveIdahoBurger)</title>
-        <link>https://speakerdeck.com/aki_iinuma/pintiwotiyansuni-wei-lai-wotukurupurodakutorodomatupu-number-pmconf2020</link>
-        <dc:date>2023-10-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
