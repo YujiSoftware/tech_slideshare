@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title> メタバースプラットフォーム 「INSPIX WORLD」はPHPもC++もまとめてC#に統一！ ～MagicOnionが支えるバックエンド最適化手法～ (Pulse Co., Ltd.)</title>
+        <link>https://speakerdeck.com/pulse1923/metabasupuratutohuomu-inspix-world-haphpmoc-plus-plus-momatometec-number-nitong-magiconiongazhi-erubatukuendozui-shi-hua-shou-fa</link>
+        <dc:date>2023-10-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Goでテンプレートからファイルを自動生成するCLIを作る (KazukiHayase)</title>
         <link>https://speakerdeck.com/kazukihayase/godetenpuretokarahuairuwozi-dong-sheng-cheng-surucliwozuo-ru</link>
         <dc:date>2023-10-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Runbookに何を書き、どのようにアラートを振り分けるか？ (Sohei Iwahori)</title>
         <link>https://speakerdeck.com/egmc/runbooknihe-woshu-ki-donoyouniaratowozhen-rifen-keruka</link>
-        <dc:date>2023-10-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RubyVM を PHP で実装する 〜Hello World を出力するまで〜 (memory)</title>
-        <link>https://speakerdeck.com/memory1994/how-to-implement-rubyvm-written-in-php</link>
         <dc:date>2023-10-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
