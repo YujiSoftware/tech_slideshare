@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CommonLitコンペで学んだこと (nogawanogawa)</title>
+        <link>https://speakerdeck.com/nogawanogawa/commonlitkonhetexue-ntakoto</link>
+        <dc:date>2023-10-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>徹底解説! PostmanでAPIパフォーマンステスト /  API performance testing with Postman (Yoichi Kawasaki)</title>
         <link>https://speakerdeck.com/yokawasa/api-performance-testing-with-postman</link>
         <dc:date>2023-10-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[SRE NEXT 2023]エンタープライズ企業でのSRE立ち上げ挑戦の際に意識した事と気付き、 現在地とこれから (AEON)</title>
         <link>https://speakerdeck.com/aeonpeople/sre-next-2023-entapuraizuqi-ye-denosreli-tishang-getiao-zhan-noji-niyi-shi-sitashi-toqi-fu-ki-xian-zai-di-tokorekara</link>
-        <dc:date>2023-10-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テキストデータの可視化例 (HIGUCHI Koichi,@khcoder)</title>
-        <link>https://www.docswell.com/s/ko-ichi-h/K4Q9XW-TokyoR</link>
         <dc:date>2023-10-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
