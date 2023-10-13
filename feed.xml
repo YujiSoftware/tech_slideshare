@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロンプトの「効きやすい / 効きにくい」 これってモデルの性能にも言えますか？ (Sakusakumura)</title>
+        <link>https://speakerdeck.com/sakusakumura/xiao-kinikui-koretutemoderunoxing-neng-nimoyan-emasuka</link>
+        <dc:date>2023-10-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>再考 Fourkeys メトリクス (Tomohiko Himura)</title>
         <link>https://speakerdeck.com/eiel/zai-kao-fourkeys-metorikusu</link>
         <dc:date>2023-10-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Befriending Kurtosis with R (bk)</title>
         <link>https://speakerdeck.com/bk_18/befriending-kurtosis-with-r</link>
-        <dc:date>2023-10-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>231007_tokyor_kato (Hajime Kato)</title>
-        <link>https://speakerdeck.com/hjmkth/231007-tokyor-kato</link>
         <dc:date>2023-10-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
