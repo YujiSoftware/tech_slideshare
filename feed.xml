@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>徹底解説! PostmanでAPIパフォーマンステスト /  API performance testing with Postman (Yoichi Kawasaki)</title>
+        <link>https://speakerdeck.com/yokawasa/api-performance-testing-with-postman</link>
+        <dc:date>2023-10-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ぼくのかんがえたさいきょうのPostmanかんきょう (Yasuhiro Yaguchi)</title>
+        <link>https://speakerdeck.com/tomigie/bokunokangaetasaikiyounopostmankankiyou</link>
+        <dc:date>2023-10-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロンプトの「効きやすい / 効きにくい」 これってモデルの性能にも言えますか？ (Sakusakumura)</title>
         <link>https://speakerdeck.com/sakusakumura/xiao-kinikui-koretutemoderunoxing-neng-nimoyan-emasuka</link>
         <dc:date>2023-10-12T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>テキストデータの可視化例 (HIGUCHI Koichi,@khcoder)</title>
         <link>https://www.docswell.com/s/ko-ichi-h/K4Q9XW-TokyoR</link>
-        <dc:date>2023-10-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>R で Github Repository をきれいにする (Hiroyuki Kuromiya)</title>
-        <link>https://speakerdeck.com/khiroyuki1993/r-de-github-repository-wokireinisuru</link>
-        <dc:date>2023-10-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Befriending Kurtosis with R (bk)</title>
-        <link>https://speakerdeck.com/bk_18/befriending-kurtosis-with-r</link>
         <dc:date>2023-10-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
