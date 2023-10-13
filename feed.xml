@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GoでORMを自作してみる (YingZhi "Harrison" Huang)</title>
+        <link>https://speakerdeck.com/harrisoneagle/godeormwozi-zuo-sitemiru</link>
+        <dc:date>2023-10-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>社内情報検索システムで用いられるRAGの4つの実装方法 (Matsumoto Kazutaka)</title>
         <link>https://speakerdeck.com/mkazutaka/she-nei-qing-bao-jian-suo-sisutemudeyong-irareruragno4tunoshi-zhuang-fang-fa</link>
         <dc:date>2023-10-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>第56回 情報科学若手の会 Wasmを実行するunikernelとWasmコンパイラ (Saza)</title>
         <link>https://speakerdeck.com/sazaku/di-56hui-qing-bao-ke-xue-ruo-shou-nohui-wasmwoshi-xing-suruunikerneltowasmkonpaira</link>
-        <dc:date>2023-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スケーラブルシステム / Scalable System (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/scalable-system</link>
         <dc:date>2023-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
