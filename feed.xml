@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>5分で分かる！ Podmanの日本語最新情報/Podman's latest news in Japanese at 5 min (Shion Tanaka)</title>
+        <link>https://speakerdeck.com/tnk4on/podmans-latest-news-in-japanese-at-5-min</link>
+        <dc:date>2023-10-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GoでORMを自作してみる (YingZhi "Harrison" Huang)</title>
         <link>https://speakerdeck.com/harrisoneagle/godeormwozi-zuo-sitemiru</link>
         <dc:date>2023-10-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>続・生成AI周回遅れキャッチアップ勉強会！ (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/sok-sheng-cheng-aizhou-hui-chi-rekiyatutiatuhumian-qiang-hui</link>
-        <dc:date>2023-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第56回 情報科学若手の会 Wasmを実行するunikernelとWasmコンパイラ (Saza)</title>
-        <link>https://speakerdeck.com/sazaku/di-56hui-qing-bao-ke-xue-ruo-shou-nohui-wasmwoshi-xing-suruunikerneltowasmkonpaira</link>
         <dc:date>2023-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
