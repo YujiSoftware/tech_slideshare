@@ -79,9 +79,8 @@ public class SlideShareParser implements Parser {
     }
 
     private static String getAuthor(Document doc) {
-        return doc.getElementsByTag("a")
+        return doc.select("div[class^='AuthorLink'] a")
                 .stream()
-                .filter(e -> e.attr("rel").equals("author"))
                 .findFirst()
                 .map(e -> e.text().trim())
                 .orElse(null);
