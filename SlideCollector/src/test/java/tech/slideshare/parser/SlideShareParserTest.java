@@ -22,7 +22,7 @@ public class SlideShareParserTest {
                 "Hiroshi Shimizu",
                 "simizu706",
                 "Cmdstanrとreduce_sum()の使い方を解説します",
-                "https://cdn.slidesharecdn.com/ss_thumbnails/cmdstanrintroduction-210913075930-thumbnail.jpg?width=640&amp;height=640&amp;fit=bounds"
+                "https://cdn.slidesharecdn.com/ss_thumbnails/cmdstanrintroduction-210913075930-thumbnail.jpg?width=640&height=640&fit=bounds"
         );
 
         Optional<Slide> actual = parser.parse(expected.getLink());

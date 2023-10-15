@@ -21,7 +21,7 @@ class ConnpassCollectorTest {
                 "ラリオス 川口",
                 null,
                 "初心者・エンジニアじゃなくてもクラウドを学んで業務に活用できるチャンス！",
-                "https://cdn.slidesharecdn.com/ss_thumbnails/220217rpa-220225024130-thumbnail.jpg?width=640&amp;height=640&amp;fit=bounds"
+                "https://cdn.slidesharecdn.com/ss_thumbnails/220217rpa-220225024130-thumbnail.jpg?width=640&height=640&fit=bounds"
         );
 
         List<Slide> actual = collector.collectSlide(new NullCache(), "https://rpacommunity.connpass.com/event/238601/");

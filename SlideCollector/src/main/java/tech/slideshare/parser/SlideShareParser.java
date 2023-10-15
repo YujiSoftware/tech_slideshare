@@ -50,20 +50,25 @@ public class SlideShareParser implements Parser {
                 return Optional.empty();
             }
 
+            Element json = doc.getElementById("__NEXT_DATA__");
+            if (json == null) {
+                return Optional.empty();
+            }
+
+            ObjectMapper mapper = new ObjectMapper();
+            NextData nextData = mapper.readValue(json.html(), NextData.class);
+            NextData.Props.PageProps.Slideshow slideshow = nextData.props.pageProps.slideshow;
+
             // 1ページしかないものは、スパムと判定して除外
-            long pageCount = doc.getElementsByTag("ul")
-                    .stream()
-                    .filter(e -> e.classNames().stream().map(String::toLowerCase).anyMatch(c -> c.startsWith("transcript")))
-                    .mapToLong(e -> e.getElementsByTag("li").size())
-                    .sum();
+            long pageCount = Integer.parseInt(slideshow.totalSlides);
             if (pageCount <= 1) {
                 return Optional.empty();
             }
 
-            String title = doc.select("meta[property~=og:title]").attr("content");
-            String author = getAuthor(doc);
-            String twitter = getTwitter(doc);
-            String description = doc.select("meta[property~=og:description]").attr("content");
+            String title = slideshow.title;
+            String author = slideshow.user.name;
+            String twitter = getTwitter(slideshow.username);
+            String description = slideshow.description;
             String image = doc.select("meta[property~=og:image]").attr("content");
 
             // スパム対策として、特定のキーワードを含むタイトルのものは除外
@@ -81,24 +86,9 @@ public class SlideShareParser implements Parser {
         }
     }
 
-    private static String getAuthor(Document doc) {
-        return doc.select("div[class^='AuthorLink'] a")
-                .stream()
-                .findFirst()
-                .map(e -> e.text().trim())
-                .orElse(null);
-    }
-
-    private static String getTwitter(Document doc) {
+    private static String getTwitter(String username) {
         try {
-            Element json = doc.getElementById("__NEXT_DATA__");
-            if (json == null) {
-                return null;
-            }
-
-            ObjectMapper mapper = new ObjectMapper();
-            NextData nextData = mapper.readValue(json.html(), NextData.class);
-            String url = "https://www.slideshare.net/" + nextData.query.username;
+            String url = "https://www.slideshare.net/" + username;
 
             return Jsoup.connect(url).userAgent(USER_AGENT).get()
                     .select("a[aria-label='Twitter']")
@@ -124,18 +114,54 @@ public class SlideShareParser implements Parser {
     private static class NextData {
         /*
         {
-          "page": "/[username]/[title]",
-          "query": {
-            "username": "simizu706",
-            "title": "cmdstanrreducesum"
+          "props": {
+            "pageProps": {
+              "slideshow": {
+                "username": "simizu706",
+                "canonicalUrl": "https://www.slideshare.net/simizu706/cmdstanrreducesum",
+                "createdAt": "2021-09-13 07:59:29 UTC",
+                "description": "Cmdstanrとreduce_sum()の使い方を解説します",
+                "thumbnail": "https://cdn.slidesharecdn.com/ss_thumbnails/cmdstanrintroduction-210913075930-thumbnail.jpg?width=640\\u0026height=640\\u0026fit=bounds",
+                "title": "Cmdstanr入門とreduce_sum()解説",
+                "totalSlides": 55,
+                "type": "presentation",
+                "user": {
+                  "id": "51751916",
+                  "login": "simizu706",
+                  "name": "Hiroshi Shimizu"
+                }
+              }
+            }
           }
         }
          */
-        public Query query;
+        public Props props;
 
-        public static class Query {
-            public String username;
-            public String title;
+        @JsonIgnoreProperties(ignoreUnknown = true)
+        public static class Props {
+            public PageProps pageProps;
+
+            @JsonIgnoreProperties(ignoreUnknown = true)
+            public static class PageProps {
+                public Slideshow slideshow;
+
+                @JsonIgnoreProperties(ignoreUnknown = true)
+                public static class Slideshow {
+                    public String username;
+                    public String canonicalUrl;
+                    public String description;
+                    public String title;
+                    public String totalSlides;
+                    public User user;
+
+                    @JsonIgnoreProperties(ignoreUnknown = true)
+                    public static class User {
+                        public String id;
+                        public String login;
+                        public String name;
+                    }
+                }
+            }
         }
     }
 }
