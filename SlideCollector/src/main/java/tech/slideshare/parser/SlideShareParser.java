@@ -1,8 +1,11 @@
 package tech.slideshare.parser;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import tech.slideshare.collector.Slide;
@@ -88,20 +91,18 @@ public class SlideShareParser implements Parser {
 
     private static String getTwitter(Document doc) {
         try {
-            Optional<String> author = doc
-                    .getElementsByTag("meta")
-                    .stream()
-                    .filter(e -> e.attr("name").equals("slideshow_author"))
-                    .findFirst()
-                    .map(e -> e.attr("content"));
-            if (author.isEmpty()) {
+            Element json = doc.getElementById("__NEXT_DATA__");
+            if (json == null) {
                 return null;
             }
 
-            return Jsoup.connect(author.get()).userAgent(USER_AGENT).get()
-                    .getElementsByTag("a")
+            ObjectMapper mapper = new ObjectMapper();
+            NextData nextData = mapper.readValue(json.html(), NextData.class);
+            String url = "https://www.slideshare.net/" + nextData.query.username;
+
+            return Jsoup.connect(url).userAgent(USER_AGENT).get()
+                    .select("a[aria-label='Twitter']")
                     .stream()
-                    .filter(e -> e.classNames().contains("twitter"))
                     .findFirst()
                     .map(e -> e.attr("href"))
                     .map(t -> {
@@ -116,6 +117,25 @@ public class SlideShareParser implements Parser {
         } catch (IOException e) {
             logger.warn("Can't get SlideShare author.", e);
             return null;
+        }
+    }
+
+    @JsonIgnoreProperties(ignoreUnknown = true)
+    private static class NextData {
+        /*
+        {
+          "page": "/[username]/[title]",
+          "query": {
+            "username": "simizu706",
+            "title": "cmdstanrreducesum"
+          }
+        }
+         */
+        public Query query;
+
+        public static class Query {
+            public String username;
+            public String title;
         }
     }
 }
