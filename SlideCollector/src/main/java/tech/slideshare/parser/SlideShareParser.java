@@ -64,10 +64,7 @@ public class SlideShareParser implements Parser {
             String image = doc.select("meta[property~=og:image]").attr("content");
 
             // スパム対策として、特定のキーワードを含むタイトルのものは除外
-            if (title.contains("film") || title.contains("Film") || title.contains("-var4-") || title.contains("4KTUBE-HD")) {
-                return Optional.empty();
-            }
-            if (doc.select("span[class=j-title-breadcrumb]").text().contains("{{!VAR4}")) {
+            if (title.contains("film") || title.contains("Film") || title.contains("-var4-") || title.contains("4KTUBE-HD") || title.contains("{{!VAR4}")) {
                 return Optional.empty();
             }
 
