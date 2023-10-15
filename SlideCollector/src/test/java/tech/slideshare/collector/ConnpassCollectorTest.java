@@ -76,7 +76,7 @@ class ConnpassCollectorTest {
                 "きぬあさ",
                 "kinuasa",
                 "「Power Automate for desktop 教室 vol.1」(RPACommunity主催)の登壇資料です。\r\n(2022年8月17日オンライン開催)",
-                "https://www.docswell.com/thumbnail/LE1V3MK27G.jpg"
+                "https://img.docswell.com/cover/LE1V3MK27G.jpg"
         );
 
         List<Slide> actual = collector.collectSlide(new NullCache(), "https://rpacommunity.connpass.com/event/257292/");
