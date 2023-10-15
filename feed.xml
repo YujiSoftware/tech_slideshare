@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>話を聴く技術 / listening skills (kaminashi, Inc.)</title>
+        <link>https://speakerdeck.com/kaminashi/listening-skills</link>
+        <dc:date>2023-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>良いテストとは何か:持続可能で保守性の高いテストを書く (picopico)</title>
         <link>https://speakerdeck.com/picopico/liang-itesutotohahe-ka-chi-sok-ke-neng-debao-shou-xing-nogao-itesutowoshu-ku</link>
         <dc:date>2023-10-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ZOZOのマイクロサービス共通規約を守るための取り組み (iskitahara)</title>
         <link>https://speakerdeck.com/iskitahara/zozonomaikurosabisugong-tong-gui-yue-woshou-rutamenoqu-rizu-mi</link>
-        <dc:date>2023-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMの開発は難しい？簡単？Stability AIの現場から (2023/10/11, W&amp;B Fully Connected) (Takuya Akiba)</title>
-        <link>https://speakerdeck.com/iwiwi/11-w-and-b-fully-connected</link>
         <dc:date>2023-10-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
