@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>良いテストとは何か:持続可能で保守性の高いテストを書く (picopico)</title>
+        <link>https://speakerdeck.com/picopico/liang-itesutotohahe-ka-chi-sok-ke-neng-debao-shou-xing-nogao-itesutowoshu-ku</link>
+        <dc:date>2023-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>24時間365日動き続けるデータシステムの設計手法 : 「データ指向アプリケーションデザイン」実践編 (Taro L. Saito)</title>
         <link>https://speakerdeck.com/xerial/24shi-jian-365ri-dong-kisok-kerudetasisutemunoshe-ji-shou-fa-detazhi-xiang-apurikesiyondezain-shi-jian-bian</link>
         <dc:date>2023-10-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLMの開発は難しい？簡単？Stability AIの現場から (2023/10/11, W&amp;B Fully Connected) (Takuya Akiba)</title>
         <link>https://speakerdeck.com/iwiwi/11-w-and-b-fully-connected</link>
-        <dc:date>2023-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloudへ大半を移行した SmartHRにおける活用事例紹介 (kurobara)</title>
-        <link>https://speakerdeck.com/moonstruckdrops/google-cloudheda-ban-woyi-xing-sita-smarthrniokeruhuo-yong-shi-li-shao-jie</link>
         <dc:date>2023-10-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
