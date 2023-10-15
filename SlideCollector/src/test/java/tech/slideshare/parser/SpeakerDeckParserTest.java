@@ -20,7 +20,7 @@ public class SpeakerDeckParserTest {
         Slide expected = new Slide(
                 "Active Recordから考える次の10年を見据えた技術選定 / Architecture decision for the next 10 years at PIXTA",
                 "https://speakerdeck.com/yasaichi/architecture-decision-for-the-next-10-years-at-pixta",
-                "yasaichi",
+                "Yuichi Goto",
                 null,
                 "September 15, 2021 @ iCARE Dev Meetup #25",
                 "https://files.speakerdeck.com/presentations/c8556affd0f3401388af6d664d320c42/slide_0.jpg?19034361"
