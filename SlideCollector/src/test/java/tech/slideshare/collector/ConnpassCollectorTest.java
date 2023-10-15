@@ -57,7 +57,7 @@ class ConnpassCollectorTest {
                 null,
                 null,
                 "第1回手順書Night Q&A 集 https://apcommunications.connpass.com/event/238403/ セッション2・LT 1",
-                "https://lh3.googleusercontent.com/lu47KSxcXBGpuQfZbuPOr5IckYGnxBYgQDgCls0rA3qtl7oJzXZuiAemGiJthcBhAQCVg78mTOQ2cA=w1200-h630-p"
+                "https://lh3.googleusercontent.com/docs/AHkbwyJSuQUGztSXZbF-kgNoNAV-4TNcxI-sgLu1dyS3SAnRke4YB0K7tZ0ejsiApqbaNzyUE2wu9w2JTjs6g2gC0qLfEhSznLOQ3i4_jhOsSRY=w1200-h630-p"
         );
 
         List<Slide> actual = collector.collectSlide(new NullCache(), "https://apcommunications.connpass.com/event/238403/");
