@@ -41,16 +41,16 @@ public class SlideShareParser implements Parser {
             // スライドページかどうかの判定
             boolean isPresentation = doc.getElementsByTag("meta")
                     .stream()
-                    .filter(e -> e.attr("property").equals("og:type"))
-                    .anyMatch(e -> e.attr("content").equals("slideshare:presentation"));
+                    .filter(e -> e.attr("name").equals("twitter:card"))
+                    .anyMatch(e -> e.attr("content").equals("player"));
             if (!isPresentation) {
                 return Optional.empty();
             }
 
             // 1ページしかないものは、スパムと判定して除外
-            long pageCount = doc.getElementsByTag("ol")
+            long pageCount = doc.getElementsByTag("ul")
                     .stream()
-                    .filter(e -> e.classNames().contains("transcripts"))
+                    .filter(e -> e.classNames().stream().map(String::toLowerCase).anyMatch(c -> c.startsWith("transcript")))
                     .mapToLong(e -> e.getElementsByTag("li").size())
                     .sum();
             if (pageCount <= 1) {
