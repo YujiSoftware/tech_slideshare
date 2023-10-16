@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Apache Hudi-Based Data Lake Supporting Record-Level Deletions (Koya Nagamine)</title>
+        <link>https://speakerdeck.com/nagam1ne/apache-hudi-based-data-lake-supporting-record-level-deletions</link>
+        <dc:date>2023-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「Rubyメソッドかるた」 王者への道 ~ 万葉チームのガチな取り組みを大公開 ~ (Yasuko Ohba)</title>
+        <link>https://speakerdeck.com/nay3/rubymesotudokaruta-wang-zhe-henodao-mo-xie-timunogatinaqu-rizu-miwoda-gong-kai</link>
+        <dc:date>2023-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WEB+DB PRESSと私 (inao)</title>
         <link>https://speakerdeck.com/inao/oedo10</link>
         <dc:date>2023-10-15T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Flink-based Iceberg Real-Time  Data Lake in SmartNews (Qingyu Ji)</title>
         <link>https://speakerdeck.com/qingyuji/flink-based-iceberg-real-time-data-lake-in-smartnews</link>
-        <dc:date>2023-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SRETT #7 Inspektor Gadget</title>
-        <link>https://docs.google.com/presentation/d/1f_TlmBnRU2gFl7UXxobJnzOrm08Ot4YtUh9gWEh0L8w/preview</link>
-        <dc:date>2023-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonのパッケージ管理の中級者の壁を超える stapy#98 (vaaaaanquish)</title>
-        <link>https://speakerdeck.com/vaaaaanquish/pythonnopatukeziguan-li-nozhong-ji-zhe-nobi-wochao-eru-stapy-number-98</link>
         <dc:date>2023-10-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
