@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>慶應義塾大学 機械学習基礎02 コーディング (Semantic Machine Intelligence Lab., Keio Univ.)</title>
+        <link>https://speakerdeck.com/keio_smilab/keio-univ-intro-to-ml-02-coding</link>
+        <dc:date>2023-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Apache Hudi-Based Data Lake Supporting Record-Level Deletions (Koya Nagamine)</title>
         <link>https://speakerdeck.com/nagam1ne/apache-hudi-based-data-lake-supporting-record-level-deletions</link>
         <dc:date>2023-10-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>みんなのPython勉強会_LT枠_10_12__5分で理解するディスクリプタ.pdf (Yusuke Tamura)</title>
         <link>https://speakerdeck.com/tamtam0423/minnanopythonmian-qiang-hui-ltwaku-10-12-5fen-teli-jie-suruteisukurihuta</link>
         <dc:date>2023-10-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Flink-based Iceberg Real-Time  Data Lake in SmartNews (Qingyu Ji)</title>
-        <link>https://speakerdeck.com/qingyuji/flink-based-iceberg-real-time-data-lake-in-smartnews</link>
-        <dc:date>2023-10-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
