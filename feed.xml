@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Overall of Container Security for Application Engineer (riita10069)</title>
+        <link>https://speakerdeck.com/riita10069/overall-of-container-security-for-application-engineer</link>
+        <dc:date>2023-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コンテナ × セキュリティ × AWS (Kyohei Mizumoto)</title>
+        <link>https://speakerdeck.com/kyohmizu/kontena-x-sekiyuritei-x-aws</link>
+        <dc:date>2023-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンドのディレクトリ設計思想 (teppeita)</title>
         <link>https://speakerdeck.com/teppeita/hurontoentonoteirekutorishe-ji-si-xiang</link>
         <dc:date>2023-10-15T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ぼくのかんがえたさいきょうのPostmanかんきょう (Yasuhiro Yaguchi)</title>
         <link>https://speakerdeck.com/tomigie/bokunokangaetasaikiyounopostmankankiyou</link>
-        <dc:date>2023-10-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロンプトの「効きやすい / 効きにくい」 これってモデルの性能にも言えますか？ (Sakusakumura)</title>
-        <link>https://speakerdeck.com/sakusakumura/xiao-kinikui-koretutemoderunoxing-neng-nimoyan-emasuka</link>
-        <dc:date>2023-10-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>再考 Fourkeys メトリクス (Tomohiko Himura)</title>
-        <link>https://speakerdeck.com/eiel/zai-kao-fourkeys-metorikusu</link>
         <dc:date>2023-10-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
