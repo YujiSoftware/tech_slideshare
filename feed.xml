@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発生産性、上から見るか 下から見るか / development productivity and cognitive science (sugamasao)</title>
+        <link>https://speakerdeck.com/sugamasao/development-productivity-and-cognitive-science</link>
+        <dc:date>2023-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Overall of Container Security for Application Engineer (riita10069)</title>
         <link>https://speakerdeck.com/riita10069/overall-of-container-security-for-application-engineer</link>
         <dc:date>2023-10-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>徹底解説! PostmanでAPIパフォーマンステスト /  API performance testing with Postman (Yoichi Kawasaki)</title>
         <link>https://speakerdeck.com/yokawasa/api-performance-testing-with-postman</link>
-        <dc:date>2023-10-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ぼくのかんがえたさいきょうのPostmanかんきょう (Yasuhiro Yaguchi)</title>
-        <link>https://speakerdeck.com/tomigie/bokunokangaetasaikiyounopostmankankiyou</link>
         <dc:date>2023-10-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
