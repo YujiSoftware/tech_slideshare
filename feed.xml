@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Postmanでつくる決済システムの非同期処理テスト (ur1bou)</title>
+        <link>https://speakerdeck.com/ur1bou/postmantetukurujue-ji-sisutemunofei-tong-qi-chu-li-tesuto</link>
+        <dc:date>2023-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rails 7でReactとHotwireを同時に使って個人開発して得た知見 (LEF)</title>
+        <link>https://speakerdeck.com/lef237/rails-7dereacttohotwirewotong-shi-nishi-tutege-ren-kai-fa-sitede-tazhi-jian</link>
+        <dc:date>2023-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RDB無停止移行への挑戦 #データベース_findy (Ryuya Ikeda)</title>
+        <link>https://speakerdeck.com/rikeda71/rdbwu-ting-zhi-yi-xing-henotiao-zhan-number-detabesu-findy</link>
+        <dc:date>2023-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>宇宙最速!? でAmazon Bedrockを本格導入したプロダクト開発してみた件 (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/yu-zhou-zui-su-deamazon-bedrockwoben-ge-dao-ru-sitapurodakutokai-fa-sitemitajian</link>
         <dc:date>2023-10-17T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>【書籍出版記念】LangChainから学ぶLLMを使ったアプリケーションの工夫 (os1ma)</title>
         <link>https://speakerdeck.com/os1ma/shu-ji-chu-ban-ji-nian-langchainkaraxue-bullmwoshi-tutaapurikesiyonnogong-fu</link>
         <dc:date>2023-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>5分で分かる！ Podmanの日本語最新情報/Podman's latest news in Japanese at 5 min (Shion Tanaka)</title>
-        <link>https://speakerdeck.com/tnk4on/podmans-latest-news-in-japanese-at-5-min</link>
-        <dc:date>2023-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoでORMを自作してみる (YingZhi "Harrison" Huang)</title>
-        <link>https://speakerdeck.com/harrisoneagle/godeormwozi-zuo-sitemiru</link>
-        <dc:date>2023-10-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社内情報検索システムで用いられるRAGの4つの実装方法 (Matsumoto Kazutaka)</title>
-        <link>https://speakerdeck.com/mkazutaka/she-nei-qing-bao-jian-suo-sisutemudeyong-irareruragno4tunoshi-zhuang-fang-fa</link>
-        <dc:date>2023-10-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
