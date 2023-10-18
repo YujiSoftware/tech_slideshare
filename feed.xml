@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Symfony+Doctrine ORMで始める安全なモジュラモノリス (Hiromi Hishida)</title>
+        <link>https://speakerdeck.com/77web/symfony-plus-doctrine-ormdeshi-meruan-quan-namoziyuramonorisu</link>
+        <dc:date>2023-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Postmanでつくる決済システムの非同期処理テスト (ur1bou)</title>
         <link>https://speakerdeck.com/ur1bou/postmantetukurujue-ji-sisutemunofei-tong-qi-chu-li-tesuto</link>
         <dc:date>2023-10-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>24時間365日動き続けるデータシステムの設計手法 : 「データ指向アプリケーションデザイン」実践編 (Taro L. Saito)</title>
         <link>https://speakerdeck.com/xerial/24shi-jian-365ri-dong-kisok-kerudetasisutemunoshe-ji-shou-fa-detazhi-xiang-apurikesiyondezain-shi-jian-bian</link>
-        <dc:date>2023-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【書籍出版記念】LangChainから学ぶLLMを使ったアプリケーションの工夫 (os1ma)</title>
-        <link>https://speakerdeck.com/os1ma/shu-ji-chu-ban-ji-nian-langchainkaraxue-bullmwoshi-tutaapurikesiyonnogong-fu</link>
         <dc:date>2023-10-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
