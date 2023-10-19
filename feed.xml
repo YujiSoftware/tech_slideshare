@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ヘンリーにおける可観測性獲得への取り組み (nabeo)</title>
+        <link>https://speakerdeck.com/nabeo/henriniokeruke-guan-ce-xing-huo-de-henoqu-rizu-mi</link>
+        <dc:date>2023-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ジョインしたチームのマイクロサービスたちを再計装した話/Getting started tracing instrument micro service with OpenTelemetry (逆井（さかさい）)</title>
+        <link>https://speakerdeck.com/k6s4i53rx/getting-started-tracing-instrument-micro-service-with-opentelemetry</link>
+        <dc:date>2023-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OpenTelemetryのここ4年の流れ / OpenTelemetry in last 4+ years (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/opentelemetry-in-last-4-plus-years</link>
         <dc:date>2023-10-18T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>秋にチャレンジしたことLT会 のコピー</title>
         <link>https://docs.google.com/presentation/d/1dY0NEXIBnIRVhwkpg1SKMNwwEmwFBp67hmENjiWyGs0/preview</link>
         <dc:date>2023-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発生産性、上から見るか 下から見るか / development productivity and cognitive science (sugamasao)</title>
-        <link>https://speakerdeck.com/sugamasao/development-productivity-and-cognitive-science</link>
-        <dc:date>2023-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Overall of Container Security for Application Engineer (riita10069)</title>
-        <link>https://speakerdeck.com/riita10069/overall-of-container-security-for-application-engineer</link>
-        <dc:date>2023-10-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
