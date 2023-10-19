@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Prisma を活⽤した TypeScript チーム開発 (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20230912-4</link>
+        <dc:date>2023-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScript ⼩ネタとか (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20230912-3</link>
+        <dc:date>2023-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>チーム開発における自作ESLintルールの活用と戦略 (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20230912-2</link>
+        <dc:date>2023-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScriptプロジェクトにスキーマ駆動開発を持ち込み、より型安全な世界へ (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20230912-1</link>
+        <dc:date>2023-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ゲームジャム高梁に向けてペラコンを作ろう!2023 (Wanwanwan)</title>
         <link>https://speakerdeck.com/wanwanwan/gemuziyamugao-liang-nixiang-keteperakonwozuo-rou-2023</link>
         <dc:date>2023-10-17T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>慶應義塾大学 機械学習基礎02 コーディング (Semantic Machine Intelligence Lab., Keio Univ.)</title>
         <link>https://speakerdeck.com/keio_smilab/keio-univ-intro-to-ml-02-coding</link>
-        <dc:date>2023-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Apache Hudi-Based Data Lake Supporting Record-Level Deletions (Koya Nagamine)</title>
-        <link>https://speakerdeck.com/nagam1ne/apache-hudi-based-data-lake-supporting-record-level-deletions</link>
-        <dc:date>2023-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「Rubyメソッドかるた」 王者への道 ~ 万葉チームのガチな取り組みを大公開 ~ (Yasuko Ohba)</title>
-        <link>https://speakerdeck.com/nay3/rubymesotudokaruta-wang-zhe-henodao-mo-xie-timunogatinaqu-rizu-miwoda-gong-kai</link>
-        <dc:date>2023-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WEB+DB PRESSと私 (inao)</title>
-        <link>https://speakerdeck.com/inao/oedo10</link>
-        <dc:date>2023-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20221025_LT_Trustbank.pptx (ssuser1b4351)</title>
-        <link>https://www.slideshare.net/ssuser1b4351/20221025lttrustbankpptx</link>
         <dc:date>2023-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
