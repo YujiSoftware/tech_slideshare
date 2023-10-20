@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20230519_QiitaConference_エンジニアが推進するプロダクトマネジメント</title>
+        <link>https://docs.google.com/presentation/d/1io__ECfmQSecCdp20ZqxIhl8LKMFGLnrhsFjOmFW_VA/preview</link>
+        <dc:date>2023-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ZOZOTOWNにおける 開発生産性向上に関する取り組み / Initiatives to Improve Development Productivity at ZOZOTOWN (Ryosuke Horie)</title>
         <link>https://speakerdeck.com/horie1024/initiatives-to-improve-development-productivity-at-zozotown</link>
         <dc:date>2023-10-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RDB無停止移行への挑戦 #データベース_findy (Ryuya Ikeda)</title>
         <link>https://speakerdeck.com/rikeda71/rdbwu-ting-zhi-yi-xing-henotiao-zhan-number-detabesu-findy</link>
-        <dc:date>2023-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>宇宙最速!? でAmazon Bedrockを本格導入したプロダクト開発してみた件 (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/yu-zhou-zui-su-deamazon-bedrockwoben-ge-dao-ru-sitapurodakutokai-fa-sitemitajian</link>
         <dc:date>2023-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
