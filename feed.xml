@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GoのGraphQLライブラリgqlgenを使ったリスト取得の実装.pdf (fujiwaram)</title>
+        <link>https://speakerdeck.com/fujiwaram/gonographqlraihurarigqlgenwoshi-tutarisutoqu-de-noshi-zhuang</link>
+        <dc:date>2023-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ポストモーテムの基礎知識と最新事例 / Fundamentals of Postmortem (Isao Shimizu)</title>
         <link>https://speakerdeck.com/isaoshimizu/fundamentals-of-postmortem</link>
         <dc:date>2023-10-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Unityを1000時間やった人がGodot Engineに挑戦してみた件 (NAKAOKU Takahiro)</title>
         <link>https://speakerdeck.com/kamera25/unitywo1000shi-jian-yatutaren-gagodot-enginenitiao-zhan-sitemitajian</link>
-        <dc:date>2023-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バージョン管理のススメ ゲームジャム高梁2023 </title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vR6o7PqrRzYwMLweS9Gv9j20LfjpUJziIbGG_e7GA1ypd4kCjwzGvHPcpa-f3UrKkbLDgTOeRSKiBws/pub</link>
         <dc:date>2023-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
