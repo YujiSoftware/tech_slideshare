@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The power of Web-standards (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/the-power-of-web-standards</link>
+        <dc:date>2023-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>初めての位置情報エンジニアリング つまずきポイントあるある (GO Inc. dev)</title>
         <link>https://speakerdeck.com/mot_techtalk/chu-metenowei-zhi-qing-bao-enziniaringu-tumazukipointoaruaru</link>
         <dc:date>2023-10-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Symfony+Doctrine ORMで始める安全なモジュラモノリス (Hiromi Hishida)</title>
         <link>https://speakerdeck.com/77web/symfony-plus-doctrine-ormdeshi-meruan-quan-namoziyuramonorisu</link>
-        <dc:date>2023-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanでつくる決済システムの非同期処理テスト (ur1bou)</title>
-        <link>https://speakerdeck.com/ur1bou/postmantetukurujue-ji-sisutemunofei-tong-qi-chu-li-tesuto</link>
         <dc:date>2023-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
