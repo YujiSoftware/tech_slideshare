@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ポストモーテムの基礎知識と最新事例 / Fundamentals of Postmortem (Isao Shimizu)</title>
+        <link>https://speakerdeck.com/isaoshimizu/fundamentals-of-postmortem</link>
+        <dc:date>2023-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Java 21の概要 / outline of Java 21 (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/outline-of-java-21</link>
+        <dc:date>2023-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JavaScript Server Runtime History (Yosuke Furukawa)</title>
         <link>https://speakerdeck.com/yosuke_furukawa/javascript-server-runtime-history</link>
         <dc:date>2023-10-19T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>バージョン管理のススメ ゲームジャム高梁2023 </title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vR6o7PqrRzYwMLweS9Gv9j20LfjpUJziIbGG_e7GA1ypd4kCjwzGvHPcpa-f3UrKkbLDgTOeRSKiBws/pub</link>
-        <dc:date>2023-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sansan LabsのLLM活⽤から考えるLLMプロジェクトの要点整理 / LLM Project Essentials from Sansan Labs' LLM Use (Sansan R&amp;D)</title>
-        <link>https://speakerdeck.com/sansan_randd/llm-project-essentials-from-sansan-labs-llm-use</link>
-        <dc:date>2023-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術的負債と向き合う取り組みでよかったもの / positive_efforts_to_tackle_technical_debt (yuuki takezawa)</title>
-        <link>https://speakerdeck.com/ytake/positive-efforts-to-tackle-technical-debt</link>
         <dc:date>2023-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
