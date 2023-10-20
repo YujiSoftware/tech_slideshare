@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>初めての位置情報エンジニアリング つまずきポイントあるある (GO Inc. dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/chu-metenowei-zhi-qing-bao-enziniaringu-tumazukipointoaruaru</link>
+        <dc:date>2023-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データで課題を解決する -因果関係を調べる統計的因果推論- (Shohei SHIMIZU)</title>
         <link>https://speakerdeck.com/sshimizu2006/detadeke-ti-wojie-jue-suru-yin-guo-guan-xi-wodiao-berutong-ji-de-yin-guo-tui-lun</link>
         <dc:date>2023-10-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Postmanでつくる決済システムの非同期処理テスト (ur1bou)</title>
         <link>https://speakerdeck.com/ur1bou/postmantetukurujue-ji-sisutemunofei-tong-qi-chu-li-tesuto</link>
-        <dc:date>2023-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rails 7でReactとHotwireを同時に使って個人開発して得た知見 (LEF)</title>
-        <link>https://speakerdeck.com/lef237/rails-7dereacttohotwirewotong-shi-nishi-tutege-ren-kai-fa-sitede-tazhi-jian</link>
         <dc:date>2023-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
