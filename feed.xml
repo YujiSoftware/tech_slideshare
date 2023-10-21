@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「機械学習」という技術で価値を創出する技術 〜プロダクト開発に機械学習を応用する際に考えること〜.pdf / techniques-to-create-values-with-ml-layerx-at-wi2 (Yuya Matsumura)</title>
+        <link>https://speakerdeck.com/yuya4/techniques-to-create-values-with-ml-layerx-at-wi2</link>
+        <dc:date>2023-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>他言語がメインの場合のRustの活用法 - csbindgenによるC# x Rust FFI実践事例 (Yoshifumi Kawai)</title>
+        <link>https://speakerdeck.com/neuecc/ta-yan-yu-gameinnochang-he-norustnohuo-yong-fa-csbindgenniyoruc-number-x-rust-ffishi-jian-shi-li</link>
+        <dc:date>2023-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Linux コンテナのリブートとセキュリティ / SosaiLT 38th (tenforward)</title>
         <link>https://speakerdeck.com/tenforward/sosailt-38th</link>
         <dc:date>2023-10-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Prisma を活⽤した TypeScript チーム開発 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20230912-4</link>
-        <dc:date>2023-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript ⼩ネタとか (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20230912-3</link>
-        <dc:date>2023-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チーム開発における自作ESLintルールの活用と戦略 (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20230912-2</link>
         <dc:date>2023-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
