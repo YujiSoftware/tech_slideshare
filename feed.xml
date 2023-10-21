@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>忙しくて手を動かせない時もいい感じに進捗出してくれるAgent作りたい (T88)</title>
+        <link>https://speakerdeck.com/t88/mang-sikuteshou-wodong-kasenaishi-mo-iigan-zinijin-bu-chu-sitekureruagentzuo-ritai</link>
+        <dc:date>2023-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IoTプラットフォーム開発におけるRustの活用（公開版）</title>
         <link>https://docs.google.com/presentation/d/1Qqb5-7xNPzREMDEuj8d_tzMGRPIjYIWaJm1aEK9fP7g/preview</link>
         <dc:date>2023-10-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>TypeScriptプロジェクトにスキーマ駆動開発を持ち込み、より型安全な世界へ (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20230912-1</link>
         <dc:date>2023-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゲームジャム高梁に向けてペラコンを作ろう!2023 (Wanwanwan)</title>
-        <link>https://speakerdeck.com/wanwanwan/gemuziyamugao-liang-nixiang-keteperakonwozuo-rou-2023</link>
-        <dc:date>2023-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
