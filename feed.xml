@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>IoTプラットフォーム開発におけるRustの活用（公開版）</title>
+        <link>https://docs.google.com/presentation/d/1Qqb5-7xNPzREMDEuj8d_tzMGRPIjYIWaJm1aEK9fP7g/preview</link>
+        <dc:date>2023-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GoのGraphQLライブラリgqlgenを使ったリスト取得の実装.pdf (fujiwaram)</title>
         <link>https://speakerdeck.com/fujiwaram/gonographqlraihurarigqlgenwoshi-tutarisutoqu-de-noshi-zhuang</link>
         <dc:date>2023-10-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ゲームジャム高梁に向けてペラコンを作ろう!2023 (Wanwanwan)</title>
         <link>https://speakerdeck.com/wanwanwan/gemuziyamugao-liang-nixiang-keteperakonwozuo-rou-2023</link>
-        <dc:date>2023-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unityを1000時間やった人がGodot Engineに挑戦してみた件 (NAKAOKU Takahiro)</title>
-        <link>https://speakerdeck.com/kamera25/unitywo1000shi-jian-yatutaren-gagodot-enginenitiao-zhan-sitemitajian</link>
         <dc:date>2023-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
