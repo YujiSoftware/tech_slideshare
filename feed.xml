@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Linux コンテナのリブートとセキュリティ / SosaiLT 38th (tenforward)</title>
+        <link>https://speakerdeck.com/tenforward/sosailt-38th</link>
+        <dc:date>2023-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>忙しくて手を動かせない時もいい感じに進捗出してくれるAgent作りたい (T88)</title>
         <link>https://speakerdeck.com/t88/mang-sikuteshou-wodong-kasenaishi-mo-iigan-zinijin-bu-chu-sitekureruagentzuo-ritai</link>
         <dc:date>2023-10-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>チーム開発における自作ESLintルールの活用と戦略 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20230912-2</link>
-        <dc:date>2023-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptプロジェクトにスキーマ駆動開発を持ち込み、より型安全な世界へ (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20230912-1</link>
         <dc:date>2023-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
