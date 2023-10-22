@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WordCamp Tokyo 2023</title>
+        <link>https://docs.google.com/presentation/d/1H1pD0UnRINF8CeNenAKpa2VFqPTEsBbDCAQo9R7eoIk/preview</link>
+        <dc:date>2023-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>次世代の足下を舗装するコミュニティ (Takumi Sueda)</title>
         <link>https://speakerdeck.com/puhitaku/ci-shi-dai-nozu-xia-wopu-zhuang-surukomiyunitei</link>
         <dc:date>2023-10-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ジョインしたチームのマイクロサービスたちを再計装した話/Getting started tracing instrument micro service with OpenTelemetry (逆井（さかさい）)</title>
         <link>https://speakerdeck.com/k6s4i53rx/getting-started-tracing-instrument-micro-service-with-opentelemetry</link>
-        <dc:date>2023-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenTelemetryのここ4年の流れ / OpenTelemetry in last 4+ years (ymotongpoo)</title>
-        <link>https://speakerdeck.com/ymotongpoo/opentelemetry-in-last-4-plus-years</link>
         <dc:date>2023-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
