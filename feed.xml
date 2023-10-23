@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>失敗？それとも学び？ (maru)</title>
+        <link>https://speakerdeck.com/maruloop/failure-or-learning</link>
+        <dc:date>2023-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DDDやってみたら 実装以前の領域での学びが深かった話 (kumaGoro95)</title>
         <link>https://speakerdeck.com/kumagoro95/dddyatutemitenoxue-biqi-duki</link>
         <dc:date>2023-10-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データで課題を解決する -因果関係を調べる統計的因果推論- (Shohei SHIMIZU)</title>
         <link>https://speakerdeck.com/sshimizu2006/detadeke-ti-wojie-jue-suru-yin-guo-guan-xi-wodiao-berutong-ji-de-yin-guo-tui-lun</link>
-        <dc:date>2023-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230519_QiitaConference_エンジニアが推進するプロダクトマネジメント</title>
-        <link>https://docs.google.com/presentation/d/1io__ECfmQSecCdp20ZqxIhl8LKMFGLnrhsFjOmFW_VA/preview</link>
         <dc:date>2023-10-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
