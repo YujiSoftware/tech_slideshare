@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人工知能と機械学習 / Artificial Intelligence and Machine Learning (Yukino Baba)</title>
+        <link>https://speakerdeck.com/yukinobaba/artificial-intelligence-and-machine-learning</link>
+        <dc:date>2023-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WordCamp Tokyo 2023</title>
         <link>https://docs.google.com/presentation/d/1H1pD0UnRINF8CeNenAKpa2VFqPTEsBbDCAQo9R7eoIk/preview</link>
         <dc:date>2023-10-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ヘンリーにおける可観測性獲得への取り組み (nabeo)</title>
         <link>https://speakerdeck.com/nabeo/henriniokeruke-guan-ce-xing-huo-de-henoqu-rizu-mi</link>
-        <dc:date>2023-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ジョインしたチームのマイクロサービスたちを再計装した話/Getting started tracing instrument micro service with OpenTelemetry (逆井（さかさい）)</title>
-        <link>https://speakerdeck.com/k6s4i53rx/getting-started-tracing-instrument-micro-service-with-opentelemetry</link>
         <dc:date>2023-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
