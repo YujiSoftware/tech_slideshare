@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スケールするというのはどういうことなのか (Kurochan)</title>
+        <link>https://speakerdeck.com/kurochan/what-does-it-mean-to-scalability</link>
+        <dc:date>2023-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>並行キャッシュライブラリーの開発で得られた知見 (Tatsuya Kawano)</title>
         <link>https://speakerdeck.com/tatsuya6502/bing-xing-kiyatusiyuraiburarinokai-fa-dede-raretazhi-jian</link>
         <dc:date>2023-10-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>The power of Web-standards (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/the-power-of-web-standards</link>
-        <dc:date>2023-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初めての位置情報エンジニアリング つまずきポイントあるある (GO Inc. dev)</title>
-        <link>https://speakerdeck.com/mot_techtalk/chu-metenowei-zhi-qing-bao-enziniaringu-tumazukipointoaruaru</link>
         <dc:date>2023-10-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
