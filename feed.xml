@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアを目指す君たちはどう生きるか　～ソフトウェアアーキテクトのすゝめ～ (Hiroki Takeda)</title>
+        <link>https://speakerdeck.com/rhumie/enziniawomu-zhi-sujun-tatihadousheng-kiruka</link>
+        <dc:date>2023-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コード解析</title>
         <link>https://docs.google.com/presentation/d/1564QRejfshgMDnN67yLkSwAfuNouFjHUIJxaxkiJ_UQ/preview</link>
         <dc:date>2023-10-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Java 21の概要 / outline of Java 21 (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/outline-of-java-21</link>
-        <dc:date>2023-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JavaScript Server Runtime History (Yosuke Furukawa)</title>
-        <link>https://speakerdeck.com/yosuke_furukawa/javascript-server-runtime-history</link>
         <dc:date>2023-10-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
