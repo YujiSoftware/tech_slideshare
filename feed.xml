@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>逆引きKotlin Multiplatform 〜Swiftに対応するKotlinの機能と、KMPによる変換後の実態〜 (Taiki Suzuki)</title>
+        <link>https://speakerdeck.com/martysuzuki/ni-yin-kikotlin-multiplatform-swiftnidui-ying-surukotlinnoji-neng-to-kmpniyorubian-huan-hou-noshi-tai</link>
+        <dc:date>2023-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Webアプリケーションのパフォーマンス・チューニングの勘所 / web tuningperformance  (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/web-tuningperformance</link>
+        <dc:date>2023-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インターネット広告の効果推定と因果推論 (2018) (Takashi Nishibayashi)</title>
         <link>https://speakerdeck.com/hagino3000/intanetutoguang-gao-noxiao-guo-tui-ding-toyin-guo-tui-lun-2018</link>
         <dc:date>2023-10-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>忙しくて手を動かせない時もいい感じに進捗出してくれるAgent作りたい (T88)</title>
         <link>https://speakerdeck.com/t88/mang-sikuteshou-wodong-kasenaishi-mo-iigan-zinijin-bu-chu-sitekureruagentzuo-ritai</link>
-        <dc:date>2023-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IoTプラットフォーム開発におけるRustの活用（公開版）</title>
-        <link>https://docs.google.com/presentation/d/1Qqb5-7xNPzREMDEuj8d_tzMGRPIjYIWaJm1aEK9fP7g/preview</link>
-        <dc:date>2023-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoのGraphQLライブラリgqlgenを使ったリスト取得の実装.pdf (fujiwaram)</title>
-        <link>https://speakerdeck.com/fujiwaram/gonographqlraihurarigqlgenwoshi-tutarisutoqu-de-noshi-zhuang</link>
         <dc:date>2023-10-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
