@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インターネット広告の効果推定と因果推論 (2018) (Takashi Nishibayashi)</title>
+        <link>https://speakerdeck.com/hagino3000/intanetutoguang-gao-noxiao-guo-tui-ding-toyin-guo-tui-lun-2018</link>
+        <dc:date>2023-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Hanamiを支える技術 2023 / Asakusa.rb Hanami 2023 (Akira Matsuda)</title>
         <link>https://speakerdeck.com/a_matsuda/asakusa-dot-rb-hanami-2023</link>
         <dc:date>2023-10-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>GoのGraphQLライブラリgqlgenを使ったリスト取得の実装.pdf (fujiwaram)</title>
         <link>https://speakerdeck.com/fujiwaram/gonographqlraihurarigqlgenwoshi-tutarisutoqu-de-noshi-zhuang</link>
         <dc:date>2023-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ポストモーテムの基礎知識と最新事例 / Fundamentals of Postmortem (Isao Shimizu)</title>
-        <link>https://speakerdeck.com/isaoshimizu/fundamentals-of-postmortem</link>
-        <dc:date>2023-10-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
