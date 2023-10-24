@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Hanamiを支える技術 2023 / Asakusa.rb Hanami 2023 (Akira Matsuda)</title>
+        <link>https://speakerdeck.com/a_matsuda/asakusa-dot-rb-hanami-2023</link>
+        <dc:date>2023-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアを目指す君たちはどう生きるか　～ソフトウェアアーキテクトのすゝめ～ (Hiroki Takeda)</title>
         <link>https://speakerdeck.com/rhumie/enziniawomu-zhi-sujun-tatihadousheng-kiruka</link>
         <dc:date>2023-10-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ポストモーテムの基礎知識と最新事例 / Fundamentals of Postmortem (Isao Shimizu)</title>
         <link>https://speakerdeck.com/isaoshimizu/fundamentals-of-postmortem</link>
-        <dc:date>2023-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java 21の概要 / outline of Java 21 (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/outline-of-java-21</link>
         <dc:date>2023-10-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
