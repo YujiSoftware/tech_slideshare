@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20230123_FinJAWS (Takuya Yonezawa)</title>
+        <link>https://speakerdeck.com/takuyay0ne/20230123-finjaws</link>
+        <dc:date>2023-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オレオレKaggle開発環境 (K.T.)</title>
         <link>https://speakerdeck.com/ktakita1011/oreorekagglekai-fa-huan-jing</link>
         <dc:date>2023-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Storybookを書くだけでリグレッションテストが 実行される世界へようこそ (kubotak)</title>
         <link>https://speakerdeck.com/kubotak/storybookwoshu-kudakederiguretusiyontesutoga-shi-xing-sarerushi-jie-heyoukoso</link>
-        <dc:date>2023-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「機械学習」という技術で価値を創出する技術 〜プロダクト開発に機械学習を応用する際に考えること〜.pdf / techniques-to-create-values-with-ml-layerx-at-wi2 (Yuya Matsumura)</title>
-        <link>https://speakerdeck.com/yuya4/techniques-to-create-values-with-ml-layerx-at-wi2</link>
         <dc:date>2023-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
