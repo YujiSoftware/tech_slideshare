@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>チャリチャリのIoTプロダクトを支えるGoogle Cloudのインフラ構成 / Public Cloud LT #1 (Shinya Hiruta)</title>
+        <link>https://speakerdeck.com/hirutas/public-cloud-lt-number-1</link>
+        <dc:date>2023-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS初挑戦で自社のサービスを参考にインフラを構築してみた話 (はたちとものり)</title>
+        <link>https://speakerdeck.com/t_hatachi/awschu-tiao-zhan-dezi-she-nosabisuwocan-kao-niinhurawogou-zhu-sitemitahua</link>
+        <dc:date>2023-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>逆引きKotlin Multiplatform 〜Swiftに対応するKotlinの機能と、KMPによる変換後の実態〜 (Taiki Suzuki)</title>
         <link>https://speakerdeck.com/martysuzuki/ni-yin-kikotlin-multiplatform-swiftnidui-ying-surukotlinnoji-neng-to-kmpniyorubian-huan-hou-noshi-tai</link>
         <dc:date>2023-10-24T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>他言語がメインの場合のRustの活用法 - csbindgenによるC# x Rust FFI実践事例 (Yoshifumi Kawai)</title>
         <link>https://speakerdeck.com/neuecc/ta-yan-yu-gameinnochang-he-norustnohuo-yong-fa-csbindgenniyoruc-number-x-rust-ffishi-jian-shi-li</link>
         <dc:date>2023-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Linux コンテナのリブートとセキュリティ / SosaiLT 38th (tenforward)</title>
-        <link>https://speakerdeck.com/tenforward/sosailt-38th</link>
-        <dc:date>2023-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>忙しくて手を動かせない時もいい感じに進捗出してくれるAgent作りたい (T88)</title>
-        <link>https://speakerdeck.com/t88/mang-sikuteshou-wodong-kasenaishi-mo-iigan-zinijin-bu-chu-sitekureruagentzuo-ritai</link>
-        <dc:date>2023-10-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
