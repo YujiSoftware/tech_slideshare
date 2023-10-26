@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>関数型プログラミングと型システムのメンタルモデル (Naoya Ito)</title>
+        <link>https://speakerdeck.com/naoya/guan-shu-xing-puroguramingutoxing-sisutemunomentarumoderu</link>
+        <dc:date>2023-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Terraformでmoduleを使わずに複数環境を構築して感じた利点 (shonansurvivors)</title>
         <link>https://speakerdeck.com/shonansurvivors/building-multiple-environments-without-using-modules-in-terraform</link>
         <dc:date>2023-10-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>キャッチアップ速度が速い #とは (Ryuya Nakamura)</title>
         <link>https://speakerdeck.com/nrryuya/kiyatutiatuhusu-du-kasu-i-number-toha</link>
-        <dc:date>2023-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>人工知能と機械学習 / Artificial Intelligence and Machine Learning (Yukino Baba)</title>
-        <link>https://speakerdeck.com/yukinobaba/artificial-intelligence-and-machine-learning</link>
         <dc:date>2023-10-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
