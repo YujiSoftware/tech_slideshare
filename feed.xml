@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>めぐろLT_ Pythonの弱参照(weakref)を使えば、世界はもっと良くなる (Yusuke Tamura)</title>
+        <link>https://speakerdeck.com/tamtam0423/mekurolt-pythonnoruo-can-zhao-weakref-woshi-eha-shi-jie-hamotutoliang-kunaru</link>
+        <dc:date>2023-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>gem updateには学びがいっぱい (Masato Sugiyama)</title>
+        <link>https://speakerdeck.com/smasato/gem-update-learning</link>
+        <dc:date>2023-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LINEヤフー株式会社が目指すエンジニア組織のビジョンとDevRelの役割 (LY Corporation Tech)</title>
         <link>https://speakerdeck.com/lycorptech_jp/the-role-of-devrel-at-ly-corporation</link>
         <dc:date>2023-10-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>WordCamp Tokyo 2023</title>
         <link>https://docs.google.com/presentation/d/1H1pD0UnRINF8CeNenAKpa2VFqPTEsBbDCAQo9R7eoIk/preview</link>
-        <dc:date>2023-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>次世代の足下を舗装するコミュニティ (Takumi Sueda)</title>
-        <link>https://speakerdeck.com/puhitaku/ci-shi-dai-nozu-xia-wopu-zhuang-surukomiyunitei</link>
-        <dc:date>2023-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はてなリモートインターンシップ2023 インフラ講義資料 (Hatena)</title>
-        <link>https://speakerdeck.com/hatena/remote-internship-2023-infra</link>
         <dc:date>2023-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
