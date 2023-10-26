@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Terraformでmoduleを使わずに複数環境を構築して感じた利点 (shonansurvivors)</title>
+        <link>https://speakerdeck.com/shonansurvivors/building-multiple-environments-without-using-modules-in-terraform</link>
+        <dc:date>2023-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>めぐろLT_ Pythonの弱参照(weakref)を使えば、世界はもっと良くなる (Yusuke Tamura)</title>
         <link>https://speakerdeck.com/tamtam0423/mekurolt-pythonnoruo-can-zhao-weakref-woshi-eha-shi-jie-hamotutoliang-kunaru</link>
         <dc:date>2023-10-25T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>人工知能と機械学習 / Artificial Intelligence and Machine Learning (Yukino Baba)</title>
         <link>https://speakerdeck.com/yukinobaba/artificial-intelligence-and-machine-learning</link>
         <dc:date>2023-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WordCamp Tokyo 2023</title>
-        <link>https://docs.google.com/presentation/d/1H1pD0UnRINF8CeNenAKpa2VFqPTEsBbDCAQo9R7eoIk/preview</link>
-        <dc:date>2023-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
