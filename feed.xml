@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>成長は小さな失敗の積み重ね 事業を支えるCARTAのフルサイクルエンジニアリング / growth-for-small-fail-fast-carta-fullcycle (CARTA Engineering)</title>
+        <link>https://speakerdeck.com/carta_engineering/growth-for-small-fail-fast-carta-fullcycle</link>
+        <dc:date>2023-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フロントエンドにおける テスト方針〜Testing Trophyの概念とBDD〜 (やじはむ)</title>
+        <link>https://speakerdeck.com/yajihum/hurontoendoniokeru-tesutofang-zhen-testing-trophynogai-nian-tobdd</link>
+        <dc:date>2023-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Terraform Registryで公開されているTerraform Modulesが便利だった件 (CUEBiC Inc.)</title>
         <link>https://speakerdeck.com/cuebic9bic/terraform-registrytegong-kai-sareteiruterraform-moduleskabian-li-tatutajian</link>
         <dc:date>2023-10-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>スケールするというのはどういうことなのか (Kurochan)</title>
         <link>https://speakerdeck.com/kurochan/what-does-it-mean-to-scalability</link>
-        <dc:date>2023-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>並行キャッシュライブラリーの開発で得られた知見 (Tatsuya Kawano)</title>
-        <link>https://speakerdeck.com/tatsuya6502/bing-xing-kiyatusiyuraiburarinokai-fa-dede-raretazhi-jian</link>
-        <dc:date>2023-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>失敗？それとも学び？ (maru)</title>
-        <link>https://speakerdeck.com/maruloop/failure-or-learning</link>
         <dc:date>2023-10-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
