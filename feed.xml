@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>業務で使える一歩進んだPython使いになるために / To become an advanced user of Python that can be used at work (yumechi(Motoki Hirao))</title>
+        <link>https://speakerdeck.com/yumechi/to-become-an-advanced-user-of-python-that-can-be-used-at-work</link>
+        <dc:date>2023-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>初めてのパフォーマンス改善 (Fu-ga)</title>
         <link>https://speakerdeck.com/fugakkbn/chu-metenopahuomansugai-shan</link>
         <dc:date>2023-10-26T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Webアプリケーションのパフォーマンス・チューニングの勘所 / web tuningperformance  (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/web-tuningperformance</link>
         <dc:date>2023-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インターネット広告の効果推定と因果推論 (2018) (Takashi Nishibayashi)</title>
-        <link>https://speakerdeck.com/hagino3000/intanetutoguang-gao-noxiao-guo-tui-ding-toyin-guo-tui-lun-2018</link>
-        <dc:date>2023-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
