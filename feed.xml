@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Exceptional Rails (Shinichi Maeshima)</title>
+        <link>https://speakerdeck.com/willnet/exceptional-rails</link>
+        <dc:date>2023-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>業務で使える一歩進んだPython使いになるために / To become an advanced user of Python that can be used at work (yumechi(Motoki Hirao))</title>
         <link>https://speakerdeck.com/yumechi/to-become-an-advanced-user-of-python-that-can-be-used-at-work</link>
         <dc:date>2023-10-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>逆引きKotlin Multiplatform 〜Swiftに対応するKotlinの機能と、KMPによる変換後の実態〜 (Taiki Suzuki)</title>
         <link>https://speakerdeck.com/martysuzuki/ni-yin-kikotlin-multiplatform-swiftnidui-ying-surukotlinnoji-neng-to-kmpniyorubian-huan-hou-noshi-tai</link>
-        <dc:date>2023-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webアプリケーションのパフォーマンス・チューニングの勘所 / web tuningperformance  (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/web-tuningperformance</link>
         <dc:date>2023-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
