@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AppSync入門! GraphQL APIを作ってみた! (Nao Masuya)</title>
+        <link>https://speakerdeck.com/masuchoku/appsyncru-men-graphql-apiwozuo-tutemita</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue.jsを活用して開発リードタイムが1/3になった話/vuefes2023-link-and-motivation (リンクアンドモチベーション)</title>
+        <link>https://speakerdeck.com/lmi/vuefes2023-link-and-motivation</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2023/10/28 Vue Fes Tokyo Vue.js プロジェクト設計のベストプラクティスを求めて (cyber_snufkin)</title>
+        <link>https://speakerdeck.com/cyber_snufkin/28-vue-fes-tokyo-vue-dot-js-puroziekutoshe-ji-nobesutopurakuteisuwoqiu-mete</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue.js を使って Grid System を実装した話 (t0yohei)</title>
+        <link>https://speakerdeck.com/t0yohei/vue-woshi-tute-grid-system-woshi-zhuang-sitahua</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>(Vue Fes 2023) 18営業日で350コンポーネント規模のVueアプリにデザインシステムを導入する方法 (Yuichiro Yamashita)</title>
+        <link>https://speakerdeck.com/baseballyama/vue-fes-2023-18ying-ye-ri-de350konponentogui-mo-novueapurinidezainsisutemuwodao-ru-surufang-fa</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Nuxt 3でJamstackテンプレートを作るときの考え方 (Chinen)</title>
+        <link>https://speakerdeck.com/chinen/vue-fes-japan-2023</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フルスクラッチECの基盤であるNuxt 2を3に移行し、開発の効率性とパフォーマンスを高める (wakkn)</title>
+        <link>https://speakerdeck.com/wakkn/hurusukuratutiecnoji-pan-dearunuxt-2wo3niyi-xing-si-kai-fa-noxiao-lu-xing-topahuomansuwogao-meru</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue.jsと3D可視化 - 産総研のOSS「AIST 3DDB Client」を例に / Vue Fes Japan 2023 (Sorami Hisamoto)</title>
+        <link>https://speakerdeck.com/sorami/vue-fes-japan-2023</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue Language Server から生まれた Volar.js と、それが秘める可能性 (mizdra)</title>
+        <link>https://speakerdeck.com/mizdra/vue-language-server-karasheng-mareta-volar-dot-js-to-soregami-meruke-neng-xing</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue 2 の EOL まで 2 ヶ月ですが進捗どうですか？ (Kazuhiro Kobayashi)</title>
+        <link>https://www.slideshare.net/KazuhiroKobayashikzh/vue-2-eol-2</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Composition API時代の Pub/Subパターンでの状態管理 (fuqda)</title>
         <link>https://speakerdeck.com/fuqda/subpatandenozhuang-tai-guan-li</link>
         <dc:date>2023-10-27T15:00:00Z</dc:date>
@@ -54,55 +104,5 @@
         <title>LangChainのDocument機能を使って文書処理を柔軟にする (西岡 賢一郎 (Kenichiro Nishioka))</title>
         <link>https://speakerdeck.com/knishioka/langchainnodocumentji-neng-woshi-tutewen-shu-chu-li-worou-ruan-nisuru</link>
         <dc:date>2023-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Exceptional Rails (Shinichi Maeshima)</title>
-        <link>https://speakerdeck.com/willnet/exceptional-rails</link>
-        <dc:date>2023-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>業務で使える一歩進んだPython使いになるために / To become an advanced user of Python that can be used at work (yumechi(Motoki Hirao))</title>
-        <link>https://speakerdeck.com/yumechi/to-become-an-advanced-user-of-python-that-can-be-used-at-work</link>
-        <dc:date>2023-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初めてのパフォーマンス改善 (Fu-ga)</title>
-        <link>https://speakerdeck.com/fugakkbn/chu-metenopahuomansugai-shan</link>
-        <dc:date>2023-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Simplicity on Rails -- RDB, REST and Ruby (MOROHASHI Kyosuke)</title>
-        <link>https://speakerdeck.com/moro/simplicity-on-rails-rdb-rest-and-ruby</link>
-        <dc:date>2023-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>やさしいActiveRecordのDB接続のしくみ (kubo ayumu)</title>
-        <link>https://speakerdeck.com/boro1234/yasasiiactiverecordnodbjie-sok-nosikumi</link>
-        <dc:date>2023-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BulletmarkRepairer: auto corrector for N+1 queries (makicamel)</title>
-        <link>https://speakerdeck.com/makicamel/bulletmarkrepairer-auto-corrector-for-n-plus-1-queries</link>
-        <dc:date>2023-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>成長は小さな失敗の積み重ね 事業を支えるCARTAのフルサイクルエンジニアリング / growth-for-small-fail-fast-carta-fullcycle (CARTA Engineering)</title>
-        <link>https://speakerdeck.com/carta_engineering/growth-for-small-fail-fast-carta-fullcycle</link>
-        <dc:date>2023-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドにおける テスト方針〜Testing Trophyの概念とBDD〜 (やじはむ)</title>
-        <link>https://speakerdeck.com/yajihum/hurontoendoniokeru-tesutofang-zhen-testing-trophynogai-nian-tobdd</link>
-        <dc:date>2023-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Terraform Registryで公開されているTerraform Modulesが便利だった件 (CUEBiC Inc.)</title>
-        <link>https://speakerdeck.com/cuebic9bic/terraform-registrytegong-kai-sareteiruterraform-moduleskabian-li-tatutajian</link>
-        <dc:date>2023-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人開発を加速させる効率アップ戦術 (Kawakami Natsumi)</title>
-        <link>https://speakerdeck.com/natsumican63/personal-dev-acceleration-tactics</link>
-        <dc:date>2023-10-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
