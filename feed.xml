@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Composition API時代の Pub/Subパターンでの状態管理 (fuqda)</title>
+        <link>https://speakerdeck.com/fuqda/subpatandenozhuang-tai-guan-li</link>
+        <dc:date>2023-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「国と音楽」 ～spotifyrを用いて～ #muana (bob3bob3)</title>
+        <link>https://speakerdeck.com/bob3bob3/guo-toyin-le-spotifyrwoyong-ite-number-muana</link>
+        <dc:date>2023-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WebGISとVue.jsの親和性について</title>
         <link>https://docs.google.com/presentation/d/1KwLPyFLE0J3W9BwFmROHtgG0qQbGdYCnbEXjuJTYpJ4/preview</link>
         <dc:date>2023-10-27T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>個人開発を加速させる効率アップ戦術 (Kawakami Natsumi)</title>
         <link>https://speakerdeck.com/natsumican63/personal-dev-acceleration-tactics</link>
         <dc:date>2023-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>関数型プログラミングと型システムのメンタルモデル (Naoya Ito)</title>
-        <link>https://speakerdeck.com/naoya/guan-shu-xing-puroguramingutoxing-sisutemunomentarumoderu</link>
-        <dc:date>2023-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Terraformでmoduleを使わずに複数環境を構築して感じた利点 (shonansurvivors)</title>
-        <link>https://speakerdeck.com/shonansurvivors/building-multiple-environments-without-using-modules-in-terraform</link>
-        <dc:date>2023-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
