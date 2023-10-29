@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>I/O Extended 2023 - Flutter 活用事例 (Daichi Furiya (Wasabeef))</title>
+        <link>https://speakerdeck.com/wasabeef/o-extended-2023-flutter-huo-yong-shi-li</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>HTTPを手で書いて学ぶ ファイルアップロードの仕組み (ikuma-t)</title>
         <link>https://speakerdeck.com/ikumatadokoro/httpwoshou-deshu-itexue-bu-huairuatupurodonoshi-zu-mi</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>事業の試行錯誤を支える コードを捨てやすくして システムをシンプルに保つ設計と工夫 (zuckey_17)</title>
         <link>https://speakerdeck.com/zuckey_17/shi-ye-noshi-xing-cuo-wu-wozhi-eru-kodowoshe-teyasukusite-sisutemuwosinpurunibao-tushe-ji-togong-fu</link>
-        <dc:date>2023-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nuxt3のモジュール開発は意外と簡単？ (きらぷか,@kira_puka)</title>
-        <link>https://www.docswell.com/s/kira_puka/ZRXM6E-2023-10-25-064822</link>
         <dc:date>2023-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
