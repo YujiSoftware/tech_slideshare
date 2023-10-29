@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>HTTPを手で書いて学ぶ ファイルアップロードの仕組み (ikuma-t)</title>
+        <link>https://speakerdeck.com/ikumatadokoro/httpwoshou-deshu-itexue-bu-huairuatupurodonoshi-zu-mi</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>.NET 8 で既定で有効になった Dynamic PGO について (neno)</title>
+        <link>https://speakerdeck.com/nenonaninu/dot-net-8-deji-ding-deyou-xiao-ninatuta-dynamic-pgo-nituite</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Feature FlagsのDX/UXの 頂点「 DevCycle 」に 辿り着くまでの道のり (Gunther Brunner)</title>
         <link>https://speakerdeck.com/gunta/uxno-ding-dian-devcycle-ni-chan-rizhao-kumadenodao-nori</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Nuxt3のモジュール開発は意外と簡単？ (きらぷか,@kira_puka)</title>
         <link>https://www.docswell.com/s/kira_puka/ZRXM6E-2023-10-25-064822</link>
-        <dc:date>2023-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>走りながらエンジンを交換する ~ 大規模プロダクトを成長させつつVue3にするには / 20231028 (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20231028</link>
-        <dc:date>2023-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>管理機能アーキテクチャパターンの考察と実践 / Learn Architecture through Admin (Masato Ohba)</title>
-        <link>https://speakerdeck.com/ohbarye/learn-architecture-through-admin</link>
         <dc:date>2023-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
