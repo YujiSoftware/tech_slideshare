@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>誰のためのプロダクト? (sonod)</title>
+        <link>https://speakerdeck.com/sonod/shui-notamenopurodakuto</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AI時代のプログラミング教育 つくること・学ぶことの歓びに向かって /ProggrammingEducationInTheGenAIEra (Kirie Miyajima)</title>
         <link>https://speakerdeck.com/kiriem/proggrammingeducationongenaiera</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Hotwire的な設計を追求して「Web紙芝居」に行き着いた話 (Yasuko Ohba)</title>
         <link>https://speakerdeck.com/nay3/hotwirede-nashe-ji-wozhui-qiu-site-webzhi-zhi-ju-nixing-kizhao-itahua</link>
-        <dc:date>2023-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Mojo Dojo (Henry Cui)</title>
-        <link>https://speakerdeck.com/zchenry/mojo-dojo</link>
         <dc:date>2023-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
