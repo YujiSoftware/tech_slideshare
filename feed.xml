@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AI時代のプログラミング教育 つくること・学ぶことの歓びに向かって /ProggrammingEducationInTheGenAIEra (Kirie Miyajima)</title>
+        <link>https://speakerdeck.com/kiriem/proggrammingeducationongenaiera</link>
+        <dc:date>2023-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AppSync入門! GraphQL APIを作ってみた! (Nao Masuya)</title>
         <link>https://speakerdeck.com/masuchoku/appsyncru-men-graphql-apiwozuo-tutemita</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Mojo Dojo (Henry Cui)</title>
         <link>https://speakerdeck.com/zchenry/mojo-dojo</link>
-        <dc:date>2023-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LangChainのDocument機能を使って文書処理を柔軟にする (西岡 賢一郎 (Kenichiro Nishioka))</title>
-        <link>https://speakerdeck.com/knishioka/langchainnodocumentji-neng-woshi-tutewen-shu-chu-li-worou-ruan-nisuru</link>
         <dc:date>2023-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
