@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Turbolinksアレルギー患者に捧げるTurbo &amp; Stimulusでの時短実装術 / Kaigi on Rails 2023 (lni_T)</title>
+        <link>https://speakerdeck.com/lnit/kowakunai-hotwire-kaigi-on-rails-2023</link>
+        <dc:date>2023-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「作ってから売る」と「売ってから作る」と「売れるようにしてから作る」　～技術の社会実装のための『開発』～ (Takaaki Umada / 馬田隆明)</title>
         <link>https://speakerdeck.com/tumada/zuo-tutekaramai-ru-to-mai-tutekarazuo-ru-to-mai-reruyounisitekarazuo-ru</link>
         <dc:date>2023-10-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Vue.jsと3D可視化 - 産総研のOSS「AIST 3DDB Client」を例に / Vue Fes Japan 2023 (Sorami Hisamoto)</title>
         <link>https://speakerdeck.com/sorami/vue-fes-japan-2023</link>
-        <dc:date>2023-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue Language Server から生まれた Volar.js と、それが秘める可能性 (mizdra)</title>
-        <link>https://speakerdeck.com/mizdra/vue-language-server-karasheng-mareta-volar-dot-js-to-soregami-meruke-neng-xing</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
