@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>IBIS2023チュートリアル「大規模言語モデル活用技術の最前線」 (Michimasa Inaba)</title>
+        <link>https://speakerdeck.com/1never/ibis2023tiyutoriaru-da-gui-mo-yan-yu-moderuhuo-yong-ji-shu-nozui-qian-xian</link>
+        <dc:date>2023-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自作パケット処理系の性能測定と可視化&amp;改善のPDCAを回して最強のパケット処理系の作り方を学ぼう / Let's Measure the Performance of  Packet Processing System with Python Tools. (Takeru Hayasaka)</title>
         <link>https://speakerdeck.com/takehaya/lets-measure-the-performance-of-packet-processing-system-with-python-tools</link>
         <dc:date>2023-10-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Nuxt 3でJamstackテンプレートを作るときの考え方 (Chinen)</title>
         <link>https://speakerdeck.com/chinen/vue-fes-japan-2023</link>
-        <dc:date>2023-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フルスクラッチECの基盤であるNuxt 2を3に移行し、開発の効率性とパフォーマンスを高める (wakkn)</title>
-        <link>https://speakerdeck.com/wakkn/hurusukuratutiecnoji-pan-dearunuxt-2wo3niyi-xing-si-kai-fa-noxiao-lu-xing-topahuomansuwogao-meru</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
