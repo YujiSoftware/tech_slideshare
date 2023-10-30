@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「作ってから売る」と「売ってから作る」と「売れるようにしてから作る」　～技術の社会実装のための『開発』～ (Takaaki Umada / 馬田隆明)</title>
+        <link>https://speakerdeck.com/tumada/zuo-tutekaramai-ru-to-mai-tutekarazuo-ru-to-mai-reruyounisitekarazuo-ru</link>
+        <dc:date>2023-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ペアプロしようぜ 〜3人で登壇!? 楽しくて速いペアプロ/モブプロ開発〜/pair-mob-programming-kaigi-on-rails-2023 (masuyama13)</title>
         <link>https://speakerdeck.com/masuyama13/pair-mob-programming-kaigi-on-rails-2023</link>
         <dc:date>2023-10-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Vue Language Server から生まれた Volar.js と、それが秘める可能性 (mizdra)</title>
         <link>https://speakerdeck.com/mizdra/vue-language-server-karasheng-mareta-volar-dot-js-to-soregami-meruke-neng-xing</link>
-        <dc:date>2023-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue 2 の EOL まで 2 ヶ月ですが進捗どうですか？ (Kazuhiro Kobayashi)</title>
-        <link>https://www.slideshare.net/KazuhiroKobayashikzh/vue-2-eol-2</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
