@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Fat_Modelを解消するためのCQRSアーキテクチャ.pdf (Terai Shogo)</title>
+        <link>https://speakerdeck.com/krpk1900/fat-modelwojie-xiao-surutamenocqrsakitekutiya</link>
+        <dc:date>2023-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IBIS2023チュートリアル「大規模言語モデル活用技術の最前線」 (Michimasa Inaba)</title>
         <link>https://speakerdeck.com/1never/ibis2023tiyutoriaru-da-gui-mo-yan-yu-moderuhuo-yong-ji-shu-nozui-qian-xian</link>
         <dc:date>2023-10-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>(Vue Fes 2023) 18営業日で350コンポーネント規模のVueアプリにデザインシステムを導入する方法 (Yuichiro Yamashita)</title>
         <link>https://speakerdeck.com/baseballyama/vue-fes-2023-18ying-ye-ri-de350konponentogui-mo-novueapurinidezainsisutemuwodao-ru-surufang-fa</link>
-        <dc:date>2023-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nuxt 3でJamstackテンプレートを作るときの考え方 (Chinen)</title>
-        <link>https://speakerdeck.com/chinen/vue-fes-japan-2023</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
