@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GraphQLをServer Componentsで使いたい (taro)</title>
+        <link>https://speakerdeck.com/taro28/graphqlwoserver-componentsdeshi-itai</link>
+        <dc:date>2023-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>限られた人数で MIXI のあらゆる公式サイト群を保守・運用する ノウハウとその体制 | MIXI SRE秋祭り 〜 MIXIのもうひとつのSRE 〜 (Shun)</title>
         <link>https://speakerdeck.com/bbqallstars/xian-raretaren-shu-de-mixi-noarayurugong-shi-saitoqun-wobao-shou-yun-yong-suru-nouhautosonoti-zhi-mixi-sreqiu-ji-ri-mixinomouhitotunosre</link>
         <dc:date>2023-10-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>誰のためのプロダクト? (sonod)</title>
         <link>https://speakerdeck.com/sonod/shui-notamenopurodakuto</link>
-        <dc:date>2023-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI時代のプログラミング教育 つくること・学ぶことの歓びに向かって /ProggrammingEducationInTheGenAIEra (Kirie Miyajima)</title>
-        <link>https://speakerdeck.com/kiriem/proggrammingeducationongenaiera</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
