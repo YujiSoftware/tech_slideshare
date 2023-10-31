@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Actions と Datadog でコードベースの定点観測 (ryo)</title>
+        <link>https://speakerdeck.com/kawamataryo/github-actions-to-datadog-dekodobesunoding-dian-guan-ce</link>
+        <dc:date>2023-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PHPプロダクトにAIによる自動生成機能を導入するまで</title>
         <link>https://docs.google.com/presentation/d/18bKjJrrlolmwhPbcWQHKuWfvuZGm_0bpZEc5Npt7oog/preview</link>
         <dc:date>2023-10-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>HTTPを手で書いて学ぶ ファイルアップロードの仕組み (ikuma-t)</title>
         <link>https://speakerdeck.com/ikumatadokoro/httpwoshou-deshu-itexue-bu-huairuatupurodonoshi-zu-mi</link>
-        <dc:date>2023-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>.NET 8 で既定で有効になった Dynamic PGO について (neno)</title>
-        <link>https://speakerdeck.com/nenonaninu/dot-net-8-deji-ding-deyou-xiao-ninatuta-dynamic-pgo-nituite</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
