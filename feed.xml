@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>32個のPRでリリースした依存度の高いコアなモデルの安全な弄り方 (ShoheiMitani)</title>
+        <link>https://speakerdeck.com/shoheimitani/32ge-noprderirisusitayi-cun-du-nogao-ikoanamoderunoan-quan-nanong-rifang</link>
+        <dc:date>2023-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>テキストからの実世界理解に向けて (Shuhei Kurita)</title>
         <link>https://speakerdeck.com/shuheikurita/tekisutokaranoshi-shi-jie-li-jie-nixiang-kete</link>
         <dc:date>2023-10-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2023/10/28 Vue Fes Tokyo Vue.js プロジェクト設計のベストプラクティスを求めて (cyber_snufkin)</title>
         <link>https://speakerdeck.com/cyber_snufkin/28-vue-fes-tokyo-vue-dot-js-puroziekutoshe-ji-nobesutopurakuteisuwoqiu-mete</link>
-        <dc:date>2023-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue.js を使って Grid System を実装した話 (t0yohei)</title>
-        <link>https://speakerdeck.com/t0yohei/vue-woshi-tute-grid-system-woshi-zhuang-sitahua</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
