@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>数十億のレコードを持つ 5年目サービスの 設計と障害解決 (KNR)</title>
+        <link>https://speakerdeck.com/knr/shu-shi-yi-norekodowochi-tu-5nian-mu-sabisuno-she-ji-tozhang-hai-jie-jue</link>
+        <dc:date>2023-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>32個のPRでリリースした依存度の高いコアなモデルの安全な弄り方 (ShoheiMitani)</title>
         <link>https://speakerdeck.com/shoheimitani/32ge-noprderirisusitayi-cun-du-nogao-ikoanamoderunoan-quan-nanong-rifang</link>
         <dc:date>2023-10-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Vue.jsを活用して開発リードタイムが1/3になった話/vuefes2023-link-and-motivation (リンクアンドモチベーション)</title>
         <link>https://speakerdeck.com/lmi/vuefes2023-link-and-motivation</link>
-        <dc:date>2023-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023/10/28 Vue Fes Tokyo Vue.js プロジェクト設計のベストプラクティスを求めて (cyber_snufkin)</title>
-        <link>https://speakerdeck.com/cyber_snufkin/28-vue-fes-tokyo-vue-dot-js-puroziekutoshe-ji-nobesutopurakuteisuwoqiu-mete</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
