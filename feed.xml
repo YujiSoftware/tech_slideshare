@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>⼤規模⾔語モデルとVision-and-Language (Kosuke Nishida)</title>
+        <link>https://speakerdeck.com/kosuken/gui-mo-yu-moderutovision-and-language</link>
+        <dc:date>2023-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Actions と Datadog でコードベースの定点観測 (ryo)</title>
         <link>https://speakerdeck.com/kawamataryo/github-actions-to-datadog-dekodobesunoding-dian-guan-ce</link>
         <dc:date>2023-10-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>I/O Extended 2023 - Flutter 活用事例 (Daichi Furiya (Wasabeef))</title>
         <link>https://speakerdeck.com/wasabeef/o-extended-2023-flutter-huo-yong-shi-li</link>
-        <dc:date>2023-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HTTPを手で書いて学ぶ ファイルアップロードの仕組み (ikuma-t)</title>
-        <link>https://speakerdeck.com/ikumatadokoro/httpwoshou-deshu-itexue-bu-huairuatupurodonoshi-zu-mi</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
