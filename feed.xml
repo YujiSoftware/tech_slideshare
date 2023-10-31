@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>技術の洪水に立ち向かう: 開発者の心を軽くするプラットフォームエンジニアリングの話 (Kazuto Kusama)</title>
+        <link>https://speakerdeck.com/jacopen/ji-shu-nohong-shui-nili-tixiang-kau-kai-fa-zhe-noxin-woqing-kusurupuratutohuomuenziniaringunohua</link>
+        <dc:date>2023-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GraphQLをServer Componentsで使いたい (taro)</title>
         <link>https://speakerdeck.com/taro28/graphqlwoserver-componentsdeshi-itai</link>
         <dc:date>2023-10-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Feature FlagsのDX/UXの 頂点「 DevCycle 」に 辿り着くまでの道のり (Gunther Brunner)</title>
         <link>https://speakerdeck.com/gunta/uxno-ding-dian-devcycle-ni-chan-rizhao-kumadenodao-nori</link>
-        <dc:date>2023-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>誰のためのプロダクト? (sonod)</title>
-        <link>https://speakerdeck.com/sonod/shui-notamenopurodakuto</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
