@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リアーキテクトと開発生産性について (Yosuke Furukawa)</title>
+        <link>https://speakerdeck.com/yosuke_furukawa/riakitekutotokai-fa-sheng-chan-xing-nituite</link>
+        <dc:date>2023-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>数十億のレコードを持つ 5年目サービスの 設計と障害解決 (KNR)</title>
         <link>https://speakerdeck.com/knr/shu-shi-yi-norekodowochi-tu-5nian-mu-sabisuno-she-ji-tozhang-hai-jie-jue</link>
         <dc:date>2023-10-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AppSync入門! GraphQL APIを作ってみた! (Nao Masuya)</title>
         <link>https://speakerdeck.com/masuchoku/appsyncru-men-graphql-apiwozuo-tutemita</link>
-        <dc:date>2023-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue.jsを活用して開発リードタイムが1/3になった話/vuefes2023-link-and-motivation (リンクアンドモチベーション)</title>
-        <link>https://speakerdeck.com/lmi/vuefes2023-link-and-motivation</link>
         <dc:date>2023-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
