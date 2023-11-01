@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>何でも微分する (joisino)</title>
+        <link>https://speakerdeck.com/joisino/he-demowei-fen-suru</link>
+        <dc:date>2023-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>進化的フロントエンドリアーキテクトの事例 (Yuta Takahashi)</title>
         <link>https://speakerdeck.com/ytakahashii/jin-hua-de-hurontoentoriakitekutonoshi-li</link>
         <dc:date>2023-10-31T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Next.js (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/nextjs-2023</link>
         <dc:date>2023-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FinTechの現場でバリバリ活躍するFastAPIの理想と現実 (PyCon APAC 2023) (Sho Nakamura)</title>
-        <link>https://speakerdeck.com/sh0nk/fintechnoxian-chang-debaribarihuo-yue-surufastapinoli-xiang-toxian-shi-pycon-apac-2023</link>
-        <dc:date>2023-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
