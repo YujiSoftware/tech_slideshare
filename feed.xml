@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ドキュメントからコードを生成したい on Rails 開発  (Seiya Miyata)</title>
+        <link>https://speakerdeck.com/38tter/tokiyumentokarakotowosheng-cheng-sitai-on-rails-kai-fa</link>
+        <dc:date>2023-11-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>『RSC From Scratch. Part 1: Server Components』を読んだぜ (kenya)</title>
+        <link>https://speakerdeck.com/kenyamasuko/rsc-from-scratch-part-1-server-components-wodu-ndaze</link>
+        <dc:date>2023-11-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ESLintのローカルルールで独自のコーディング規約を実装する (berlysia)</title>
         <link>https://speakerdeck.com/berlysia/202311-lightning-techtalks-2</link>
         <dc:date>2023-11-01T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>テキストからの実世界理解に向けて (Shuhei Kurita)</title>
         <link>https://speakerdeck.com/shuheikurita/tekisutokaranoshi-shi-jie-li-jie-nixiang-kete</link>
         <dc:date>2023-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fat_Modelを解消するためのCQRSアーキテクチャ.pdf (Terai Shogo)</title>
-        <link>https://speakerdeck.com/krpk1900/fat-modelwojie-xiao-surutamenocqrsakitekutiya</link>
-        <dc:date>2023-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IBIS2023チュートリアル「大規模言語モデル活用技術の最前線」 (Michimasa Inaba)</title>
-        <link>https://speakerdeck.com/1never/ibis2023tiyutoriaru-da-gui-mo-yan-yu-moderuhuo-yong-ji-shu-nozui-qian-xian</link>
-        <dc:date>2023-10-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
