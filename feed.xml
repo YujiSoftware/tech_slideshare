@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テスト自動化から、 開発を支える継続的テストへ (Autify)</title>
+        <link>https://speakerdeck.com/autifyhq/tesutozi-dong-hua-kara-kai-fa-wozhi-eruji-sok-de-tesutohe</link>
+        <dc:date>2023-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Python x 法学〜日本の法のテキスト分析・地図可視化への試み〜 (Ryo)</title>
         <link>https://www.docswell.com/s/olivine-ryo/5M13YL-20231028</link>
         <dc:date>2023-11-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ペアプロしようぜ 〜3人で登壇!? 楽しくて速いペアプロ/モブプロ開発〜/pair-mob-programming-kaigi-on-rails-2023 (masuyama13)</title>
         <link>https://speakerdeck.com/masuyama13/pair-mob-programming-kaigi-on-rails-2023</link>
-        <dc:date>2023-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>muana vol.11 音楽識別の事前学習モデル (Yuya Yamamoto)</title>
-        <link>https://speakerdeck.com/yamathcy/muana-vol-dot-11-yin-le-shi-bie-noshi-qian-xue-xi-moderu</link>
         <dc:date>2023-10-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
