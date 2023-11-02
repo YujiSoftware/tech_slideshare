@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Nutanix CEを自作PCへインストールして (Yamauchi)</title>
+        <link>https://speakerdeck.com/nogisawa/nutanix-cewozi-zuo-pcheinsutorusite</link>
+        <dc:date>2023-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Nutanix CE 2.0 with Prism Centralを構築した話 (Toshiya Nagahama)</title>
+        <link>https://speakerdeck.com/tnag/nutanix-ce-2-dot-0-with-prism-centralwogou-zhu-sitahua</link>
+        <dc:date>2023-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Nutanix AHVでHYCUのポリシーの「オプション」をいろいろ触ってみた (KeigoTomomatsu)</title>
+        <link>https://speakerdeck.com/keigotomomatsu/nutanix-ahvdehycunoporisino-opusiyon-woiroirohong-tutemita</link>
+        <dc:date>2023-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>テスト自動化から、 開発を支える継続的テストへ (Autify)</title>
         <link>https://speakerdeck.com/autifyhq/tesutozi-dong-hua-kara-kai-fa-wozhi-eruji-sok-de-tesutohe</link>
         <dc:date>2023-11-01T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>自作パケット処理系の性能測定と可視化&amp;改善のPDCAを回して最強のパケット処理系の作り方を学ぼう / Let's Measure the Performance of  Packet Processing System with Python Tools. (Takeru Hayasaka)</title>
         <link>https://speakerdeck.com/takehaya/lets-measure-the-performance-of-packet-processing-system-with-python-tools</link>
-        <dc:date>2023-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Turbolinksアレルギー患者に捧げるTurbo &amp; Stimulusでの時短実装術 / Kaigi on Rails 2023 (lni_T)</title>
-        <link>https://speakerdeck.com/lnit/kowakunai-hotwire-kaigi-on-rails-2023</link>
-        <dc:date>2023-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「作ってから売る」と「売ってから作る」と「売れるようにしてから作る」　～技術の社会実装のための『開発』～ (Takaaki Umada / 馬田隆明)</title>
-        <link>https://speakerdeck.com/tumada/zuo-tutekaramai-ru-to-mai-tutekarazuo-ru-to-mai-reruyounisitekarazuo-ru</link>
-        <dc:date>2023-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ペアプロしようぜ 〜3人で登壇!? 楽しくて速いペアプロ/モブプロ開発〜/pair-mob-programming-kaigi-on-rails-2023 (masuyama13)</title>
-        <link>https://speakerdeck.com/masuyama13/pair-mob-programming-kaigi-on-rails-2023</link>
         <dc:date>2023-10-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
