@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ESLintのローカルルールで独自のコーディング規約を実装する (berlysia)</title>
+        <link>https://speakerdeck.com/berlysia/202311-lightning-techtalks-2</link>
+        <dc:date>2023-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Nutanix CEを自作PCへインストールして (Yamauchi)</title>
         <link>https://speakerdeck.com/nogisawa/nutanix-cewozi-zuo-pcheinsutorusite</link>
         <dc:date>2023-11-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>IBIS2023チュートリアル「大規模言語モデル活用技術の最前線」 (Michimasa Inaba)</title>
         <link>https://speakerdeck.com/1never/ibis2023tiyutoriaru-da-gui-mo-yan-yu-moderuhuo-yong-ji-shu-nozui-qian-xian</link>
-        <dc:date>2023-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自作パケット処理系の性能測定と可視化&amp;改善のPDCAを回して最強のパケット処理系の作り方を学ぼう / Let's Measure the Performance of  Packet Processing System with Python Tools. (Takeru Hayasaka)</title>
-        <link>https://speakerdeck.com/takehaya/lets-measure-the-performance-of-packet-processing-system-with-python-tools</link>
         <dc:date>2023-10-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
