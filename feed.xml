@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Retrieval-based LM  (RAG system)  ざっくり理解する (Shumpei Miyawaki)</title>
+        <link>https://speakerdeck.com/smiyawaki0820/retrieval-based-lm-rag-system-zatukurili-jie-suru</link>
+        <dc:date>2023-11-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rails のブラウザテストを Playwright で動かすようにしたらデバッグが簡単になって捗った (Tomoya Chiba)</title>
         <link>https://speakerdeck.com/tomoasleep/rails-noburauzatesutowo-playwright-dedong-kasuyounisitaradebatugugajian-dan-ninatutebu-tuta</link>
         <dc:date>2023-11-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>リアーキテクトと開発生産性について (Yosuke Furukawa)</title>
         <link>https://speakerdeck.com/yosuke_furukawa/riakitekutotokai-fa-sheng-chan-xing-nituite</link>
-        <dc:date>2023-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>数十億のレコードを持つ 5年目サービスの 設計と障害解決 (KNR)</title>
-        <link>https://speakerdeck.com/knr/shu-shi-yi-norekodowochi-tu-5nian-mu-sabisuno-she-ji-tozhang-hai-jie-jue</link>
         <dc:date>2023-10-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
