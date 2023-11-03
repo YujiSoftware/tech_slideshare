@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>数々の多様性 (Sorami Hisamoto)</title>
+        <link>https://speakerdeck.com/sorami/shu-noduo-yang-xing</link>
+        <dc:date>2023-11-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Retrieval-based LM  (RAG system)  ざっくり理解する (Shumpei Miyawaki)</title>
         <link>https://speakerdeck.com/smiyawaki0820/retrieval-based-lm-rag-system-zatukurili-jie-suru</link>
         <dc:date>2023-11-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>限られた人数で MIXI のあらゆる公式サイト群を保守・運用する ノウハウとその体制 | MIXI SRE秋祭り 〜 MIXIのもうひとつのSRE 〜 (Shun)</title>
         <link>https://speakerdeck.com/bbqallstars/xian-raretaren-shu-de-mixi-noarayurugong-shi-saitoqun-wobao-shou-yun-yong-suru-nouhautosonoti-zhi-mixi-sreqiu-ji-ri-mixinomouhitotunosre</link>
-        <dc:date>2023-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リアーキテクトと開発生産性について (Yosuke Furukawa)</title>
-        <link>https://speakerdeck.com/yosuke_furukawa/riakitekutotokai-fa-sheng-chan-xing-nituite</link>
         <dc:date>2023-10-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
