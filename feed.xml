@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIが抱えるリスクと対策 (LY Corporation Tech)</title>
+        <link>https://speakerdeck.com/lycorptech_jp/risks-and-countermeasures-for-generative-ai</link>
+        <dc:date>2023-11-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ドキュメントからコードを生成したい on Rails 開発  (Seiya Miyata)</title>
         <link>https://speakerdeck.com/38tter/tokiyumentokarakotowosheng-cheng-sitai-on-rails-kai-fa</link>
         <dc:date>2023-11-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>32個のPRでリリースした依存度の高いコアなモデルの安全な弄り方 (ShoheiMitani)</title>
         <link>https://speakerdeck.com/shoheimitani/32ge-noprderirisusitayi-cun-du-nogao-ikoanamoderunoan-quan-nanong-rifang</link>
-        <dc:date>2023-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テキストからの実世界理解に向けて (Shuhei Kurita)</title>
-        <link>https://speakerdeck.com/shuheikurita/tekisutokaranoshi-shi-jie-li-jie-nixiang-kete</link>
         <dc:date>2023-10-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
