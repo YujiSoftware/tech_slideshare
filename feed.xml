@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>集まれ！現役エンジニアと交流したい駆け出しエンジニア！8/20（日）@秋葉原</title>
+        <link>https://docs.google.com/presentation/d/1aX_YdvOVrHy9PdGol7GFnrKSu6lxExZ1TyhFjb6ErVI/preview</link>
+        <dc:date>2023-11-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>とりあえずやってみよう</title>
+        <link>https://docs.google.com/presentation/d/126bxK-uV8ssn4zszzhj9YHIoqLQTT-HMIaDLEd8lvmQ/preview</link>
+        <dc:date>2023-11-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>超速で技術力を伸ばす方法.pdf (okamoto)</title>
+        <link>https://speakerdeck.com/yuki_okamoto476/chao-su-teji-shu-li-woshen-hasufang-fa</link>
+        <dc:date>2023-11-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ウォンテッドリーにおける推薦システムのオフライン評価の仕組み (Shuhei Goda)</title>
         <link>https://speakerdeck.com/hakubishin3/uontetudoriniokerutui-jian-sisutemunoohurainping-jia-noshi-zu-mi</link>
         <dc:date>2023-11-03T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>GitHub Actions と Datadog でコードベースの定点観測 (ryo)</title>
         <link>https://speakerdeck.com/kawamataryo/github-actions-to-datadog-dekodobesunoding-dian-guan-ce</link>
         <dc:date>2023-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPプロダクトにAIによる自動生成機能を導入するまで</title>
-        <link>https://docs.google.com/presentation/d/18bKjJrrlolmwhPbcWQHKuWfvuZGm_0bpZEc5Npt7oog/preview</link>
-        <dc:date>2023-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術の洪水に立ち向かう: 開発者の心を軽くするプラットフォームエンジニアリングの話 (Kazuto Kusama)</title>
-        <link>https://speakerdeck.com/jacopen/ji-shu-nohong-shui-nili-tixiang-kau-kai-fa-zhe-noxin-woqing-kusurupuratutohuomuenziniaringunohua</link>
-        <dc:date>2023-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQLをServer Componentsで使いたい (taro)</title>
-        <link>https://speakerdeck.com/taro28/graphqlwoserver-componentsdeshi-itai</link>
-        <dc:date>2023-10-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
