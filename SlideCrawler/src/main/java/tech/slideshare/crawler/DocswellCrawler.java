@@ -14,7 +14,12 @@ import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-public class DocswellCrawler {
+public class DocswellCrawler implements Crawler {
+
+    @Override
+    public String getURL() {
+        return "https://www.docswell.com/";
+    }
 
     public List<String> crawl(String url) throws IOException {
         List<String> contents = new ArrayList<>();

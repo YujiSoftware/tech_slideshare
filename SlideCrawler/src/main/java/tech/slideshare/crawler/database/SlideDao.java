@@ -11,9 +11,10 @@ public class SlideDao extends AbstractDao {
         super(con);
     }
 
-    public SlideDto getUncrawlledDocswell() throws SQLException {
-        String sql = "SELECT slide_id, title, url, date, author, twitter, description, image FROM slide WHERE crawled_flag = false AND url LIKE 'https://www.docswell.com/%' LIMIT 1";
+    public SlideDto getUncrawlled(String url) throws SQLException {
+        String sql = "SELECT slide_id, title, url, date, author, twitter, description, image FROM slide WHERE crawled_flag = false AND url LIKE ? LIMIT 1";
         try (PreparedStatement statement = con.prepareStatement(sql)) {
+            statement.setString(1, url + "%");
             statement.execute();
 
             try (ResultSet rs = statement.getResultSet()) {

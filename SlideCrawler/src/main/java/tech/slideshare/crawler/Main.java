@@ -15,7 +15,10 @@ import java.util.List;
 public class Main {
     private static final Logger logger = LoggerFactory.getLogger(Main.class);
 
-    private static final DocswellCrawler DOCSWELL_CRAWLER = new DocswellCrawler();
+    private static final Crawler[] CRAWLERS = new Crawler[]{
+            new SlideShareCrawler(),
+            new DocswellCrawler(),
+    };
 
     public static void main(String[] args) {
         String user = args[0];
@@ -27,7 +30,9 @@ public class Main {
         try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password)) {
             con.setAutoCommit(false);
 
-            crawl(con);
+            for (Crawler crawler : CRAWLERS) {
+                crawl(con, crawler);
+            }
         } catch (Throwable e) {
             logger.error("Collect failed!", e);
             exitCode = 1;
@@ -38,18 +43,18 @@ public class Main {
         System.exit(exitCode);
     }
 
-    public static void crawl(Connection con) throws SQLException, IOException {
+    public static void crawl(Connection con, Crawler crawler) throws SQLException, IOException {
         SlideDao slideDao = new SlideDao(con);
         ContentDao content = new ContentDao(con);
 
-        SlideDto slide = slideDao.getUncrawlledDocswell();
+        SlideDto slide = slideDao.getUncrawlled(crawler.getURL());
         if (slide == null) {
             return;
         }
 
-        logger.info("Crawl: id=" + slide.slideId + ", url=" + slide.url);
+        logger.info("Crawl: name=" + crawler.getClass().getSimpleName() + ", id=" + slide.slideId + ", url=" + slide.url);
 
-        List<String> crawled = DOCSWELL_CRAWLER.crawl(slide.url);
+        List<String> crawled = crawler.crawl(slide.url);
 
         int page = 1;
         for (String c : crawled) {
