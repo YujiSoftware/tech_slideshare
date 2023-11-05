@@ -18,6 +18,7 @@ public class Main {
     private static final Crawler[] CRAWLERS = new Crawler[]{
             new SlideShareCrawler(),
             new DocswellCrawler(),
+            new SpeakerDeckCrawler(),
     };
 
     public static void main(String[] args) {
