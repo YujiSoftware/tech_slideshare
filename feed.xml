@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>僕が考える 「HTML サイトを WordPress にする」話 / 2023-11-05 Kansai WordPress Meetup (Toro_Unit (Hiroshi Urabe))</title>
+        <link>https://speakerdeck.com/torounit/2023-11-05-kansai-wordpress-meetup</link>
+        <dc:date>2023-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>わからない？をわかる！に変えよう！-  QAエンジニアが実践している基本的な考え方と方法 (rina)</title>
         <link>https://speakerdeck.com/____rina____/wakaranai-wowakaru-nibian-eyou-qaenziniagashi-jian-siteiruji-ben-de-nakao-efang-tofang-fa</link>
         <dc:date>2023-11-04T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Python x 法学〜日本の法のテキスト分析・地図可視化への試み〜 (Ryo)</title>
         <link>https://www.docswell.com/s/olivine-ryo/5M13YL-20231028</link>
         <dc:date>2023-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>何でも微分する (joisino)</title>
-        <link>https://speakerdeck.com/joisino/he-demowei-fen-suru</link>
-        <dc:date>2023-10-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
