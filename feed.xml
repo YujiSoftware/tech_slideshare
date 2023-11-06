@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AkarengaLT#18</title>
+        <link>https://docs.google.com/presentation/d/1lhupDxG4OG4K9nkYW-WGj267CtLQFkhpc3XteSS4jiA/preview</link>
+        <dc:date>2023-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【DL輪読会】LLMベースの自律型エージェントシステムのサーベイ (Deep Learning JP,@DL_Hacks)</title>
         <link>https://www.docswell.com/s/DeepLearning2023/KYW9P4-2023-10-05-151010</link>
         <dc:date>2023-11-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Nutanix CE 2.0 with Prism Centralを構築した話 (Toshiya Nagahama)</title>
         <link>https://speakerdeck.com/tnag/nutanix-ce-2-dot-0-with-prism-centralwogou-zhu-sitahua</link>
-        <dc:date>2023-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nutanix AHVでHYCUのポリシーの「オプション」をいろいろ触ってみた (KeigoTomomatsu)</title>
-        <link>https://speakerdeck.com/keigotomomatsu/nutanix-ahvdehycunoporisino-opusiyon-woiroirohong-tutemita</link>
         <dc:date>2023-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
