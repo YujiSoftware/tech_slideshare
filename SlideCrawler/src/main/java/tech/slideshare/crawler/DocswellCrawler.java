@@ -8,10 +8,8 @@ import org.jsoup.select.Elements;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
-import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 public class DocswellCrawler implements Crawler {
@@ -37,11 +35,8 @@ public class DocswellCrawler implements Crawler {
                     .map(Element::textNodes)
                     .flatMap(Collection::stream)
                     .map(TextNode::getWholeText)
-                    .flatMap(x -> Arrays.stream(x.split("\n")))
-                    .map(String::trim)
-                    .filter(Predicate.not(String::isEmpty))
                     .collect(Collectors.joining("\n"));
-            contents.add(text);
+            contents.add(text.trim());
 
             element = element.nextElementSibling();
         }

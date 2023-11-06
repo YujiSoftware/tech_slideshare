@@ -15,9 +15,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class SpeakerDeckCrawler implements Crawler {
 
@@ -54,11 +52,7 @@ public class SpeakerDeckCrawler implements Crawler {
                     pdfStripper.setEndPage(i);
                     String text = pdfStripper.getText(document);
 
-                    String s =
-                            Arrays.stream(text.trim().split("\n"))
-                            .map(String::trim)
-                            .collect(Collectors.joining("\n"));
-                    contents.add(s);
+                    contents.add(text.trim());
                 }
             }
         }

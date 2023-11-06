@@ -16,12 +16,19 @@ class DocswellCrawlerTest {
         assertEquals(38, actual.size());
         assertEquals("""
                 情報区分 公開
+                                
                 ansibleとCI/CDで進めるサーバ構築/運⽤
                 in QUNOG 26
                 ヤフー株式会社
                 サイトオペレーション本部
                 永島
+                                
                 薫
+                                
                 ©2023 Yahoo Japan Corporation All rights reserved.""", actual.get(0));
+        assertEquals("""
+                情報区分 公開
+                                
+                ©2023 Yahoo Japan Corporation All rights reserved.""", actual.get(37));
     }
 }
