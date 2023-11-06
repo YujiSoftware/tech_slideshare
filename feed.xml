@@ -6,23 +6,88 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
-        <title>AkarengaLT#18</title>
-        <link>https://docs.google.com/presentation/d/1lhupDxG4OG4K9nkYW-WGj267CtLQFkhpc3XteSS4jiA/preview</link>
-        <dc:date>2023-11-05T15:00:00Z</dc:date>
+        <title>Deep Dive to UnJS and Nuxt 3 (Nozomu Ikuta)</title>
+        <link>https://speakerdeck.com/nozomuikuta/deep-dive-to-unjs-and-nuxt-3</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>【DL輪読会】LLMベースの自律型エージェントシステムのサーベイ (Deep Learning JP,@DL_Hacks)</title>
-        <link>https://www.docswell.com/s/DeepLearning2023/KYW9P4-2023-10-05-151010</link>
-        <dc:date>2023-11-05T15:00:00Z</dc:date>
+        <title>Serverless Updates 2023 #serverlessdays (NAKAYAMA Masahiro,@nekoruri)</title>
+        <link>https://www.docswell.com/s/nekoruri/524W1N-serverless-updates-2023</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20230406_ChatGPT10Fight.pdf (ssusera06cae)</title>
+        <link>https://www.slideshare.net/ssusera06cae/20230406chatgpt10fightpdf</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ServerlessDays 20230923 (harunobu kameda,@kameoncloud)</title>
+        <link>https://www.docswell.com/s/8981005737/KVV92D-2023-09-25-152240</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゼロトラスト・アーキテクチャを無料で（やれるだけ）実現する (KeioOyama)</title>
+        <link>https://www.slideshare.net/KeioOyama/ss-248376579</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テキストデータの可視化例 (HIGUCHI Koichi,@khcoder)</title>
+        <link>https://www.docswell.com/s/ko-ichi-h/K4Q9XW-TokyoR</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ELBO型VAEのダメなところ (KCS Keio Computer Society)</title>
+        <link>https://www.slideshare.net/KCSKeioComputerSocie/elbovae</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Nuxt3のモジュール開発は意外と簡単？ (きらぷか,@kira_puka)</title>
+        <link>https://www.docswell.com/s/kira_puka/ZRXM6E-2023-10-25-064822</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SageMakerでもAUTOMATIC1111したい (真吾 吉田,@yoshidashingo)</title>
+        <link>https://www.slideshare.net/YoshidaShingo/sagemakerstudioautomatic1111</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Python x 法学〜日本の法のテキスト分析・地図可視化への試み〜 (Ryo)</title>
+        <link>https://www.docswell.com/s/olivine-ryo/5M13YL-20231028</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【AI:ML#16】Amazon Lexを用いたチャットボットの構築.pdf (TakeshiFukae)</title>
+        <link>https://www.slideshare.net/TakeshiFukae/aiml16amazon-lexpdf</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
     </item>
     <item>
         <title>最近のGitHub Actionの気になるアップデートの紹介 (Kenta Kase,@Kesin11)</title>
         <link>https://www.docswell.com/s/Kesin11/Z8GWP7-2023_08_05_github_dockyard</link>
-        <dc:date>2023-11-05T15:00:00Z</dc:date>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20221025_LT_Trustbank.pptx (ssuser1b4351)</title>
+        <link>https://www.slideshare.net/ssuser1b4351/20221025lttrustbankpptx</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
     </item>
     <item>
         <title>僕が考える 「HTML サイトを WordPress にする」話 / 2023-11-05 Kansai WordPress Meetup (Toro_Unit (Hiroshi Urabe))</title>
         <link>https://speakerdeck.com/torounit/2023-11-05-kansai-wordpress-meetup</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【DL輪読会】LLMベースの自律型エージェントシステムのサーベイ (Deep Learning JP,@DL_Hacks)</title>
+        <link>https://www.docswell.com/s/DeepLearning2023/KYW9P4-2023-10-05-151010</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue 2 の EOL まで 2 ヶ月ですが進捗どうですか？ (Kazuhiro Kobayashi)</title>
+        <link>https://www.slideshare.net/KazuhiroKobayashikzh/vue-2-eol-2</link>
+        <dc:date>2023-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AkarengaLT#18</title>
+        <link>https://docs.google.com/presentation/d/1lhupDxG4OG4K9nkYW-WGj267CtLQFkhpc3XteSS4jiA/preview</link>
         <dc:date>2023-11-05T15:00:00Z</dc:date>
     </item>
     <item>
@@ -39,70 +104,5 @@
         <title>2023-11-04 AWSカーニバル / 急成長する組織でのAWSとの付き合い方〜スケールするAWS運用へ〜</title>
         <link>https://docs.google.com/presentation/d/1uP3jWcZLmw3Xcyw1JYUhMSX_VpftRg7lRskWAXkrt20/preview</link>
         <dc:date>2023-11-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>集まれ！現役エンジニアと交流したい駆け出しエンジニア！8/20（日）@秋葉原</title>
-        <link>https://docs.google.com/presentation/d/1aX_YdvOVrHy9PdGol7GFnrKSu6lxExZ1TyhFjb6ErVI/preview</link>
-        <dc:date>2023-11-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>とりあえずやってみよう</title>
-        <link>https://docs.google.com/presentation/d/126bxK-uV8ssn4zszzhj9YHIoqLQTT-HMIaDLEd8lvmQ/preview</link>
-        <dc:date>2023-11-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>超速で技術力を伸ばす方法.pdf (okamoto)</title>
-        <link>https://speakerdeck.com/yuki_okamoto476/chao-su-teji-shu-li-woshen-hasufang-fa</link>
-        <dc:date>2023-11-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウォンテッドリーにおける推薦システムのオフライン評価の仕組み (Shuhei Goda)</title>
-        <link>https://speakerdeck.com/hakubishin3/uontetudoriniokerutui-jian-sisutemunoohurainping-jia-noshi-zu-mi</link>
-        <dc:date>2023-11-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>数々の多様性 (Sorami Hisamoto)</title>
-        <link>https://speakerdeck.com/sorami/shu-noduo-yang-xing</link>
-        <dc:date>2023-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Retrieval-based LM  (RAG system)  ざっくり理解する (Shumpei Miyawaki)</title>
-        <link>https://speakerdeck.com/smiyawaki0820/retrieval-based-lm-rag-system-zatukurili-jie-suru</link>
-        <dc:date>2023-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rails のブラウザテストを Playwright で動かすようにしたらデバッグが簡単になって捗った (Tomoya Chiba)</title>
-        <link>https://speakerdeck.com/tomoasleep/rails-noburauzatesutowo-playwright-dedong-kasuyounisitaradebatugugajian-dan-ninatutebu-tuta</link>
-        <dc:date>2023-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIが抱えるリスクと対策 (LY Corporation Tech)</title>
-        <link>https://speakerdeck.com/lycorptech_jp/risks-and-countermeasures-for-generative-ai</link>
-        <dc:date>2023-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドキュメントからコードを生成したい on Rails 開発  (Seiya Miyata)</title>
-        <link>https://speakerdeck.com/38tter/tokiyumentokarakotowosheng-cheng-sitai-on-rails-kai-fa</link>
-        <dc:date>2023-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『RSC From Scratch. Part 1: Server Components』を読んだぜ (kenya)</title>
-        <link>https://speakerdeck.com/kenyamasuko/rsc-from-scratch-part-1-server-components-wodu-ndaze</link>
-        <dc:date>2023-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ESLintのローカルルールで独自のコーディング規約を実装する (berlysia)</title>
-        <link>https://speakerdeck.com/berlysia/202311-lightning-techtalks-2</link>
-        <dc:date>2023-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nutanix CEを自作PCへインストールして (Yamauchi)</title>
-        <link>https://speakerdeck.com/nogisawa/nutanix-cewozi-zuo-pcheinsutorusite</link>
-        <dc:date>2023-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nutanix CE 2.0 with Prism Centralを構築した話 (Toshiya Nagahama)</title>
-        <link>https://speakerdeck.com/tnag/nutanix-ce-2-dot-0-with-prism-centralwogou-zhu-sitahua</link>
-        <dc:date>2023-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
