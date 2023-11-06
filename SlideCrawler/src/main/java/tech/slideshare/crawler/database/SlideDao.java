@@ -12,7 +12,7 @@ public class SlideDao extends AbstractDao {
     }
 
     public SlideDto getUncrawlled(String url) throws SQLException {
-        String sql = "SELECT slide_id, title, url, date, author, twitter, description, image FROM slide WHERE crawled_flag = false AND url LIKE ? LIMIT 1";
+        String sql = "SELECT slide_id, title, url, date, author, twitter, description, image FROM slide WHERE crawled_flag = false AND url LIKE ? ORDER BY slide_id DESC LIMIT 1";
         try (PreparedStatement statement = con.prepareStatement(sql)) {
             statement.setString(1, url + "%");
             statement.execute();
