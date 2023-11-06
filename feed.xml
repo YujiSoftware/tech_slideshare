@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【DL輪読会】LLMベースの自律型エージェントシステムのサーベイ (Deep Learning JP,@DL_Hacks)</title>
+        <link>https://www.docswell.com/s/DeepLearning2023/KYW9P4-2023-10-05-151010</link>
+        <dc:date>2023-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最近のGitHub Actionの気になるアップデートの紹介 (Kenta Kase,@Kesin11)</title>
         <link>https://www.docswell.com/s/Kesin11/Z8GWP7-2023_08_05_github_dockyard</link>
         <dc:date>2023-11-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Nutanix AHVでHYCUのポリシーの「オプション」をいろいろ触ってみた (KeigoTomomatsu)</title>
         <link>https://speakerdeck.com/keigotomomatsu/nutanix-ahvdehycunoporisino-opusiyon-woiroirohong-tutemita</link>
-        <dc:date>2023-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスト自動化から、 開発を支える継続的テストへ (Autify)</title>
-        <link>https://speakerdeck.com/autifyhq/tesutozi-dong-hua-kara-kai-fa-wozhi-eruji-sok-de-tesutohe</link>
         <dc:date>2023-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
