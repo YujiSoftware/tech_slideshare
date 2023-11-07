@@ -2,13 +2,16 @@ package tech.slideshare.crawler;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.parser.Parser;
 
 import java.io.IOException;
+import java.net.HttpURLConnection;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class SlideShareCrawler implements Crawler {
@@ -22,22 +25,29 @@ public class SlideShareCrawler implements Crawler {
     }
 
     public List<String> crawl(String url) throws IOException {
-        List<String> contents = new ArrayList<>();
-
-        Document doc = Jsoup.connect(url).userAgent(USER_AGENT).get();
+        Document doc;
+        try {
+            doc = Jsoup.connect(url).userAgent(USER_AGENT).get();
+        } catch (HttpStatusException e) {
+            // ファイルが削除された場合、410 GONE が返ってくる
+            if (e.getStatusCode() == HttpURLConnection.HTTP_GONE) {
+                return Collections.emptyList();
+            }
+            throw e;
+        }
 
         Element json = doc.getElementById("__NEXT_DATA__");
         if (json == null) {
-            return contents;
+            return Collections.emptyList();
         }
 
         ObjectMapper mapper = new ObjectMapper();
         NextData nextData = mapper.readValue(json.html(), NextData.class);
 
+        List<String> contents = new ArrayList<>();
         for (String html : nextData.props.pageProps.slideshow.transcript.html) {
             contents.add(Parser.unescapeEntities(html, true).trim());
         }
-
         return contents;
     }
 
