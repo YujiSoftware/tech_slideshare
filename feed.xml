@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マルチテナント化で知っておきたいデータベースのこと (Amazon Web Services Japan,@awscloud_jp)</title>
+        <link>https://www.slideshare.net/AmazonWebServicesJapan/20220107-multi-tenant-database</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【メタサーベイ】Vision and Language のトップ研究室/研究者 (cvpaper. challenge,@HirokatuKataoka)</title>
+        <link>https://www.slideshare.net/cvpaperchallenge/vision-and-language-252751766</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title> 【メタサーベイ】Video Transformer (cvpaper. challenge,@HirokatuKataoka)</title>
+        <link>https://www.slideshare.net/cvpaperchallenge/video-transformer</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Goで実装した UPSIDERの決済金額リミット機能  (Miki Masumoto)</title>
         <link>https://www.slideshare.net/MikiMasumoto/go-upsider</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>VPCのアウトバウンド通信を制御するためにおさえておきたい設計ポイント (Takuya Takaseki)</title>
         <link>https://www.slideshare.net/kasekyun/vpc-253163778</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AppSync入門! GraphQL APIを作ってみた! (Nao Masuya)</title>
-        <link>https://speakerdeck.com/masuchoku/appsyncru-men-graphql-apiwozuo-tutemita</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS-UG初心者支部#55 LT大会_SystemsManager (ますの＠AWS運用保守 Lv1.1,@masno_soy)</title>
-        <link>https://www.docswell.com/s/masno_soy/5JL47M-2023-05-06-010343</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DXに立ち向かうための マインドセット（公開用）.pdf (真一 藤川,@fshin2000)</title>
-        <link>https://www.slideshare.net/fshin2000/dx-pdf-253739267</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
