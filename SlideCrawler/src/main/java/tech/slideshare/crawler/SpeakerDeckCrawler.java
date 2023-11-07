@@ -7,6 +7,8 @@ import org.apache.pdfbox.text.PDFTextStripper;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -18,6 +20,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SpeakerDeckCrawler implements Crawler {
+
+    private static final Logger logger = LoggerFactory.getLogger(SpeakerDeckCrawler.class);
 
     @Override
     public String getURL() {
@@ -40,6 +44,10 @@ public class SpeakerDeckCrawler implements Crawler {
         Process process = new ProcessBuilder("pdf-fix-tuc", pdf.toString(), fixed.toString()).start();
         try {
             process.waitFor();
+            if (process.exitValue() != 0) {
+                logger.warn("pdf-fix-tuc failed. ExitValue={}", process.exitValue());
+                fixed = pdf;
+            }
         } catch (InterruptedException ignored) {
         }
 
