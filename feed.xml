@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Goで実装した UPSIDERの決済金額リミット機能  (Miki Masumoto)</title>
+        <link>https://www.slideshare.net/MikiMasumoto/go-upsider</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MLOps に基づく AI/ML 実運用最前線 ～画像、動画データにおける MLOps 事例のご紹介～（映像情報メディア学会2021年冬季… (NTT DATA Technology &amp; Innovation)</title>
+        <link>https://www.slideshare.net/nttdata-tech/mlops-case-study-ite-winter-2021-nttdata</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes Service Account As Multi-Cloud Identity / Cloud Native Sec… (Preferred Networks,@PreferredNetJP)</title>
+        <link>https://www.slideshare.net/pfi/kubernetes-service-account-as-multicloud-identity-cloud-native-security-conference-2022-cnsec2022</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TRICK 2022 Results (mametter)</title>
         <link>https://www.slideshare.net/mametter/trick-2022-results</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>DXに立ち向かうための マインドセット（公開用）.pdf (真一 藤川,@fshin2000)</title>
         <link>https://www.slideshare.net/fshin2000/dx-pdf-253739267</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI時代のプログラミング教育 つくること・学ぶことの歓びに向かって /ProggrammingEducationInTheGenAIEra (Kirie Miyajima)</title>
-        <link>https://speakerdeck.com/kiriem/proggrammingeducationongenaiera</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Flutterアプリの安全な変化と拡大を支えるアーキテクチャと単体テスト (高田 晴彦,@tfandkusu)</title>
-        <link>https://www.docswell.com/s/tfandkusu/Z4X2DZ-flutterkaigi2022</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20221017_QiitaNight_ver2.pdf (yuyayamaguchi6)</title>
-        <link>https://www.slideshare.net/yuyayamaguchi6/20221017qiitanightver2pdf</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
