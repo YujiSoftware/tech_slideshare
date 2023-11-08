@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ゼロから始めるアクセシビリティ啓蒙活動  (Tajima Sachiko)</title>
+        <link>https://speakerdeck.com/schktjm/zerokarashi-meruakusesibiriteiqi-meng-huo-dong</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NTTのR&amp;Dを支えるNTTコミュニケーションズのIT基盤サービス (NTT Software Innovation Center)</title>
+        <link>https://www.slideshare.net/ntt-sic/nttrdnttit</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Hive Does ACID (DataWorks Summit,@hadoopsummit)</title>
+        <link>https://www.slideshare.net/Hadoop_Summit/hive-does-acid</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今なら間に合う分散型IDとEntra Verified ID (Naohiro Fujie,@phr_eidentity)</title>
+        <link>https://www.slideshare.net/naohiro.fujie/identra-verified-id</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>水耕栽培を始めたばかりの時に 知っておきたかったこと (Mitsushige Ishiguro)</title>
         <link>https://www.slideshare.net/koike_moyashi/ss-158067554</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title> 【メタサーベイ】Video Transformer (cvpaper. challenge,@HirokatuKataoka)</title>
         <link>https://www.slideshare.net/cvpaperchallenge/video-transformer</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goで実装した UPSIDERの決済金額リミット機能  (Miki Masumoto)</title>
-        <link>https://www.slideshare.net/MikiMasumoto/go-upsider</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MLOps に基づく AI/ML 実運用最前線 ～画像、動画データにおける MLOps 事例のご紹介～（映像情報メディア学会2021年冬季… (NTT DATA Technology &amp; Innovation)</title>
-        <link>https://www.slideshare.net/nttdata-tech/mlops-case-study-ite-winter-2021-nttdata</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes Service Account As Multi-Cloud Identity / Cloud Native Sec… (Preferred Networks,@PreferredNetJP)</title>
-        <link>https://www.slideshare.net/pfi/kubernetes-service-account-as-multicloud-identity-cloud-native-security-conference-2022-cnsec2022</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TRICK 2022 Results (mametter)</title>
-        <link>https://www.slideshare.net/mametter/trick-2022-results</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
