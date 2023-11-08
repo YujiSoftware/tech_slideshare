@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Nuxt 3ではじめるテスト導入戦略と初手 (hacomono Inc.)</title>
+        <link>https://speakerdeck.com/hacomono/nuxt-3dehazimerutesutodao-ru-zhan-lue-tochu-shou</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloudflareの1.1.1.1とWARP (しの)</title>
+        <link>https://www.docswell.com/s/3402128/K1JJM3-2023-03-29-181308</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WCAG 2.2で追加される達成基準 (Mitsue-Links Co.,Ltd. Accessibility Department)</title>
+        <link>https://www.slideshare.net/mlca11y/wcag-22-251780511</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>デブサミウーマン2023_totokit4 (totokit4)</title>
+        <link>https://speakerdeck.com/totokit4/tehusamiuman2023-totokit4</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft Loop Public Preview の勉強会 (HIRANO Ai | Microsoft MVP 👉 ❤️ SharePoint,@ai_yamasaki)</title>
+        <link>https://www.docswell.com/s/ai_yamasaki/Z7VVM1-2023-04-04-184303</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テスト設計・テストケース作成 グループ (Tomoaki Fukura)</title>
+        <link>https://www.slideshare.net/tomoakifukura/ss-63543597</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゼロから始めるアクセシビリティ啓蒙活動  (Tajima Sachiko)</title>
+        <link>https://speakerdeck.com/schktjm/zerokarashi-meruakusesibiriteiqi-meng-huo-dong</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft 365上位ライセンスのセキュリティ機能概説 (石川 陽一 Yoichi Ishikawa,@ishiayaya)</title>
+        <link>https://www.docswell.com/s/ishiayaya/KW117X-m365defender</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>日曜数学会_ガロア体上の符号とQRコード_Kuma (NotoriShannonlover)</title>
+        <link>https://www.slideshare.net/NotoriShannonlover/qrkuma</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ZOZOTOWN に CSS in JS（Emotion）を導入して1年後の状況 (hiro)</title>
         <link>https://speakerdeck.com/hiro0218/one-year-after-introducing-css-in-js-to-zozotown</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>ユーザーインタビューするときは、どうやらゾンビのおでましさ (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/ss-251806099</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure AD による Web API の 保護 (junichi anno,@junichia)</title>
-        <link>https://www.slideshare.net/junichia/azure-ad-web-api</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発者の生産性向上を妨げる障壁とサイボウズの生産性向上チームの取り組み (Jumpei Miyata,@miyajan)</title>
-        <link>https://www.slideshare.net/miyajan/ss-251817737</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20220518_ongaqjs.pdf (Hiroyuki Takakura)</title>
-        <link>https://www.slideshare.net/ssuserdba6dc1/20220518ongaqjspdf</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>よく聞くけど、「SharePoint リストの 5,000 件問題」ってなんなの？ (Hirofumi Ota,@hrfmjp)</title>
-        <link>https://www.slideshare.net/hirofumi_ota/sharepoint-5000</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ARコンテンツ作成勉強会：Webブラウザで簡単作成！スマホAR(Zappar編) (Takashi Yoshinaga)</title>
-        <link>https://www.slideshare.net/ssuserc0d7fb/ar0webar</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オープンイノベーション事例 アップル (Takayuki Yamazaki,@ZappyZappy7)</title>
-        <link>https://www.slideshare.net/zappy7/ss-56345140</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud arch patterns (Corey Huinker)</title>
-        <link>https://www.slideshare.net/CoreyHuinker/cloud-arch-patterns-92005369</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KLabのインフラエンジニア 〜 こんな感じで働いてます 〜 (KLab Inc. / Tech)</title>
-        <link>https://www.slideshare.net/klab-tech/klab-251604801</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KubeCon EU 2022: From Kubernetes to PaaS to Err What's Next (Daniel Bryant,@danielbryantuk)</title>
-        <link>https://www.slideshare.net/dbryant_uk/kubecon-eu-2022-from-kubernetes-to-paas-to-err-whats-next</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
