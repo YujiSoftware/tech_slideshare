@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ウェブセキュリティのありがちな誤解を解説する (徳丸 浩,@ockeghem)</title>
+        <link>https://www.docswell.com/s/ockeghem/K44J1K-phpconf2020</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>難病者の雇用に関する全自治体調査レポート2021 (Takayuki Shigemitsu)</title>
+        <link>https://www.slideshare.net/TakayukiShigemitsu/2021-251461213</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Unreal Engine 5での非ゲームコンテンツ開発 | Unreal Engine によるものづくり分野のコンテンツ開発 (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
+        <link>https://www.docswell.com/s/EpicGamesJapan/578GVZ-UE5-monodzukuri</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンタープライズアジャイル勉強会 LeSS概要 (Takao Kimura,@tw_takubon)</title>
+        <link>https://www.slideshare.net/takubon/less-251234261</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenAPIとPrisma 〜だらしない人でもドキュメントを残せる個人開発〜 (nomeshi74)</title>
+        <link>https://www.docswell.com/s/shin1kt/5L8QQZ-2022-05-27-231839</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CXL_説明_公開用.pdf (Yasunori Goto,@YasunoriGoto1)</title>
+        <link>https://www.slideshare.net/ygotokernel/cxlpdf</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ヤフーのオンプレ機械学習基盤AIPFについて #ml_kubernetes (Yahoo!デベロッパーネットワーク,@ydnjp)</title>
         <link>https://www.docswell.com/s/ydnjp/Z26W1K-2022-08-29-151542</link>
         <dc:date>2023-11-08T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>SPAセキュリティ超入門 (徳丸 浩,@ockeghem)</title>
         <link>https://www.docswell.com/s/ockeghem/K2PPNK-phpconf2022</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10分でわかる Unityコンピュータービジョン (UnityTechnologiesJapan002)</title>
-        <link>https://www.slideshare.net/UnityTechnologiesJapan002/10-unity</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第11回全日本コンピュータビジョン勉強会前編 Imagenの紹介 (あるふ,@alfredplpl)</title>
-        <link>https://www.docswell.com/s/alfredplpl/59YQLK-2022-08-07-145902</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>集まれ！Dreamingエンジニア！ 〜箱庭で紡ぎ出されるIoT/クラウドロボティクス開発の新しいカタチ〜 (UnityTechnologiesJapan002)</title>
-        <link>https://www.slideshare.net/UnityTechnologiesJapan002/unity-robotics-lt20212</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はじめようビルドメトリクス (komatatsu,@k0matatsu)</title>
-        <link>https://www.docswell.com/s/komatatsu/ZJD91Z-getting_started_build_metrics</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20220409 AWS BLEA 開発にあたって検討したこと (Amazon Web Services Japan,@awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/20220409-aws-blea</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最新の5.7で学ぶ！初めてのひとのためのSpring Security (tada,@suke_masa)</title>
-        <link>https://www.docswell.com/s/MasatoshiTada/KGVY9K-spring-security-intro</link>
         <dc:date>2023-11-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
