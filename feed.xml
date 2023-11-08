@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>45分間で「ユーザー中心のものづくり」ができるまで詰め込む (Yoshiki Hayama,@storywriter)</title>
+        <link>https://www.slideshare.net/storywriterjp/45-252537767</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【メタサーベイ】基盤モデル / Foundation Models (cvpaper. challenge,@HirokatuKataoka)</title>
+        <link>https://www.slideshare.net/cvpaperchallenge/foundation-models</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BuildKitの概要と最近の機能 (Kohei Tokunaga)</title>
+        <link>https://www.slideshare.net/KoheiTokunaga/buildkit-252619314</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ユーザーインタビューからその後どうするの？ 得られた情報を「UXデザイン」に落とし込む方法 | UXデザイン基礎セミナー 第3回 (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/ux-ux-3</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>エンジニアのためのOSSライセンス管理～OSS管理ツールの池の水全部抜く～ (Daisuke Morishita)</title>
         <link>https://www.slideshare.net/ssuser501a7f/ossoss-243861670</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023/10/28 Vue Fes Tokyo Vue.js プロジェクト設計のベストプラクティスを求めて (cyber_snufkin)</title>
-        <link>https://speakerdeck.com/cyber_snufkin/28-vue-fes-tokyo-vue-dot-js-puroziekutoshe-ji-nobesutopurakuteisuwoqiu-mete</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ESLint Flat Configで誰もが簡単に Lintを設定できる時代へ (てけし,@t__keshi)</title>
-        <link>https://www.docswell.com/s/t__keshi/ZGXXV8-eslint-flat-config</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>忙しい人のための Rocky Linux 入門〜Rocky LinuxはCentOSの後継者たり得るか？〜 (Masahito Zembutsu,@zembutsu)</title>
-        <link>https://www.slideshare.net/zembutsu/introduction-to-rocky-linuxpdf</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
