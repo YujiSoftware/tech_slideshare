@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Super Easy Memory Forensics (IIJ,@IIJ_PR)</title>
+        <link>https://www.slideshare.net/IIJ_PR/super-easy-memory-forensics</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The Forefront of the Development for NVDIMM on Linux Kernel (Linux Pl… (Yasunori Goto,@YasunoriGoto1)</title>
+        <link>https://www.slideshare.net/ygotokernel/the-forefront-of-the-development-for-nvdimm-on-linux-kernel-linux-plumbers-conf-ver</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Lazy Load '22 - Performance Mistakes - An HTTP Archive Deep Dive (Paul Calvano)</title>
+        <link>https://www.slideshare.net/PaulCalvano/lazy-load-22-performance-mistakes-an-http-archive-deep-dive</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ゼロから始めるアクセシビリティ啓蒙活動  (Tajima Sachiko)</title>
         <link>https://speakerdeck.com/schktjm/zerokarashi-meruakusesibiriteiqi-meng-huo-dong</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Elasticsearch の検索精度のチューニング 〜テストを作って高速かつ安全に〜 (Takahiko Ito,@takahi_i)</title>
         <link>https://www.slideshare.net/takahi-i/elasticsearch-251621964</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マルチテナント化で知っておきたいデータベースのこと (Amazon Web Services Japan,@awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/20220107-multi-tenant-database</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【メタサーベイ】Vision and Language のトップ研究室/研究者 (cvpaper. challenge,@HirokatuKataoka)</title>
-        <link>https://www.slideshare.net/cvpaperchallenge/vision-and-language-252751766</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> 【メタサーベイ】Video Transformer (cvpaper. challenge,@HirokatuKataoka)</title>
-        <link>https://www.slideshare.net/cvpaperchallenge/video-transformer</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
