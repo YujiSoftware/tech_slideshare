@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SLAM開発における課題と対策の一例の紹介 (miyanegi)</title>
+        <link>https://www.slideshare.net/miyanegi/problems-and-solutions-for-slam-development-206014778</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DAOの定義と仕組みについて.pdf (ssuser27ade9)</title>
+        <link>https://www.slideshare.net/ssuser27ade9/daopdf</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SSII2022 [SS2] 少ないデータやラベルを効率的に活用する機械学習技術 〜 足りない情報をどのように補うか？〜 (SSII)</title>
+        <link>https://www.slideshare.net/SSII_Slides/ssii2022-ss2</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Linked Open Data勉強会2020 後編：SPARQLの簡単な使い方、SPARQLを使った簡単なアプリ開発 (KnowledgeGraph,@kgrchallenge)</title>
         <link>https://www.slideshare.net/KnowledgeGraph/linked-open-data2020-sparqlsparql</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Value Stream Mapping: How to Visualize Work &amp; Align Leadership for Or… (TKMG, Inc.,@KarenMartinOpEx)</title>
         <link>https://www.slideshare.net/KarenMartinGroup/10-082013-slides</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS のコスト管理をちゃんとしたくてやったこと (Tomoya Kawanishi)</title>
-        <link>https://www.slideshare.net/cuzic/aws-132034009</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>M365 の MFA を利用しよう (TomoharuMisawa)</title>
-        <link>https://www.slideshare.net/TomoharuMisawa/m365-mfa</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Super Easy Memory Forensics (IIJ,@IIJ_PR)</title>
-        <link>https://www.slideshare.net/IIJ_PR/super-easy-memory-forensics</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
