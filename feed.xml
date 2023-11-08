@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ZOZOTOWN に CSS in JS（Emotion）を導入して1年後の状況 (hiro)</title>
+        <link>https://speakerdeck.com/hiro0218/one-year-after-introducing-css-in-js-to-zozotown</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>分散システムについて語らせてくれ (kumagi,@kumagi)</title>
+        <link>https://www.docswell.com/s/kumagi/ZXYYLN-let-me-talk-about-distributed-system</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>What is quality culture? Is it something tasty? (Yasuharu Nishi)</title>
+        <link>https://www.slideshare.net/YasuharuNishi/what-is-quality-culture-is-it-something-tasty</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>M1 Macと将棋AIとUSI (mganeko)</title>
+        <link>https://speakerdeck.com/mganeko/m1-mactojiang-qi-aitousi</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【企業向け】ChatGPTの機会と脅威 (Yusuke Kawabata,@ku_suke)</title>
+        <link>https://www.docswell.com/s/ku-suke/KNRR6P-chatgpt-enterprise</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Game Tech Night #25 ゲーム業界向け機械学習最新状況アップデート (Amazon Web Services Japan,@awscloud_jp)</title>
+        <link>https://www.slideshare.net/AmazonWebServicesJapan/amazon-game-tech-night-25</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScriptってどんな言語？ 言語そのものを知る面白さ (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/typescripttutedonnayan-yu-yan-yu-sonomonowozhi-rumian-bai-sa</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fail Fast, Succeed Faster ~ DevOps で上手に早く失敗する (舟木 将彦,@mfunaki)</title>
+        <link>https://www.docswell.com/s/mfunaki/538GML-failfast</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Attitude of Mind (Koichi ITO)</title>
+        <link>https://www.slideshare.net/koic/attitude-of-mind</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Why Use EXPLAIN FORMAT=JSON? (Sveta Smirnova,@svetsmirnova)</title>
         <link>https://www.slideshare.net/SvetaSmirnova/why-use-explain-formatjson</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -18,11 +63,6 @@
     <item>
         <title>Azure AD による Web API の 保護 (junichi anno,@junichia)</title>
         <link>https://www.slideshare.net/junichia/azure-ad-web-api</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptってどんな言語？ 言語そのものを知る面白さ (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/typescripttutedonnayan-yu-yan-yu-sonomonowozhi-rumian-bai-sa</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
     <item>
@@ -63,46 +103,6 @@
     <item>
         <title>KubeCon EU 2022: From Kubernetes to PaaS to Err What's Next (Daniel Bryant,@danielbryantuk)</title>
         <link>https://www.slideshare.net/dbryant_uk/kubecon-eu-2022-from-kubernetes-to-paas-to-err-whats-next</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PCE 〜MPLSネットワークのSDN化を本気で実現する"唯一の"方法〜 (Takuya Miyasaka)</title>
-        <link>https://www.slideshare.net/TakuyaMiyasaka/pce-mplssdn</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>macOS 濁点問題にシェル芸で挑んだ話 (Kazuya Kohara)</title>
-        <link>https://www.slideshare.net/reflectresults/macos-86746675</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【DL輪読会】GradMax: Growing Neural Networks using Gradient Information (Deep Learning JP)</title>
-        <link>https://www.slideshare.net/DeepLearningJP2016/dl-251864936</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Open Source By The Numbers (Black Duck by Synopsys,@black_duck_sw)</title>
-        <link>https://www.slideshare.net/blackducksoftware/open-source-by-the-numbers</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQL, performance for queries with grouping (Alexey Bashtanov)</title>
-        <link>https://www.slideshare.net/AlexeyBashtanov/postgresql-performance-for-queries-with-grouping</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Gree] グリーのソーシャルゲームにおける機械学習活用事例 (Takashi Suzuki)</title>
-        <link>https://www.slideshare.net/takashisuzuki503/ss-80289016</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure ADアプリケーションを使用した認証のあれやこれ (DevTakas)</title>
-        <link>https://www.slideshare.net/ssuser293809/azure-ad-247186716</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web intents addendum (html5j)</title>
-        <link>https://www.slideshare.net/html5j/web-intentsaddendum</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
