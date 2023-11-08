@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>グラフニューラルネットワーク入門 (ryosuke-kojima)</title>
+        <link>https://www.slideshare.net/ryosuke-kojima/ss-179423718</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>インディーゲーム開発の現状と未来 2021 (Unity Technologies Japan K.K.)</title>
+        <link>https://www.slideshare.net/UnityTechnologiesJapan/unitydojo20211takaakiichijo</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【DL輪読会】"A Generalist Agent" (Deep Learning JP)</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dla-generalist-agent</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>トランザクションスクリプトのすすめ (pospome)</title>
         <link>https://www.slideshare.net/pospome/ss-126262601</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>JJUGCCC2022spring_連続画像処理による位置情報計算を支えるマイクロサービスアーキテクチャ (Kaname Motoyama)</title>
         <link>https://www.slideshare.net/ssuserce3925/jjugccc2022spring</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The precision blade (Alberto Brandolini,@ziobrando)</title>
-        <link>https://www.slideshare.net/ziobrando/the-precision-blade</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tokyor37 (TokorosawaYoshio)</title>
-        <link>https://www.slideshare.net/TokorosawaYoshio/tokyor37</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FedCM - OpenID TechNight vol.19 (Nov Matake,@nov)</title>
-        <link>https://www.slideshare.net/matake/fedcmtechnight19pdf</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
