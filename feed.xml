@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>M1 Macと将棋AIとUSI (mganeko)</title>
+        <link>https://speakerdeck.com/mganeko/m1-mactojiang-qi-aitousi</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Word Tour: One-dimensional Word Embeddings via the Traveling Salesman… (joisino)</title>
+        <link>https://www.slideshare.net/joisino/word-tour-onedimensional-word-embeddings-via-the-traveling-salesman-problem-naacl-2022</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SKYDISCのIoTを支えるテクノロジー (Yuji Otani)</title>
+        <link>https://www.slideshare.net/yujiotani16/skydisciot-81643586</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Making Cassandra more capable, faster, and more reliable (at ApacheCo… (Scalar, Inc.,@Scalar_labs)</title>
+        <link>https://www.slideshare.net/scalar-inc/making-cassandra-more-capable-faster-and-more-reliable-at-apacheconhome-2020</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>暗号技術の実装と数学 (MITSUNARI Shigeo,@herumi)</title>
         <link>https://www.slideshare.net/herumi/ss-251944418</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>トランザクションスクリプトのすすめ (pospome)</title>
         <link>https://www.slideshare.net/pospome/ss-126262601</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tackling Complexity (Yoshitaka Kawashima,@kawasima)</title>
-        <link>https://www.slideshare.net/kawasima/tackling-complexity</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Build 2022をさらに楽しむためのおすすめセッション/サンプル コード Powered by Microsoft… (Rie Moriguchi,@Rie_Moriguchi)</title>
-        <link>https://www.slideshare.net/RieMoriguchi/microsoft-build-2022-powered-by-microsoft-mvps</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SLAM開発における課題と対策の一例の紹介 (miyanegi)</title>
-        <link>https://www.slideshare.net/miyanegi/problems-and-solutions-for-slam-development-206014778</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DAOの定義と仕組みについて.pdf (ssuser27ade9)</title>
-        <link>https://www.slideshare.net/ssuser27ade9/daopdf</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
