@@ -35,7 +35,7 @@ public class Main {
                 crawl(con, crawler);
             }
         } catch (Throwable e) {
-            logger.error("Collect failed!", e);
+            logger.error("Crawl failed!", e);
             exitCode = 1;
         }
 
