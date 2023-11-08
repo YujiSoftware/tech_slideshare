@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PostgreSQL, performance for queries with grouping (Alexey Bashtanov)</title>
+        <link>https://www.slideshare.net/AlexeyBashtanov/postgresql-performance-for-queries-with-grouping</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[Gree] グリーのソーシャルゲームにおける機械学習活用事例 (Takashi Suzuki)</title>
+        <link>https://www.slideshare.net/takashisuzuki503/ss-80289016</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure ADアプリケーションを使用した認証のあれやこれ (DevTakas)</title>
+        <link>https://www.slideshare.net/ssuser293809/azure-ad-247186716</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Web intents addendum (html5j)</title>
         <link>https://www.slideshare.net/html5j/web-intentsaddendum</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Ranking in Google Since The Advent of The Knowledge Graph (Bill Slawski,@bill_slawski)</title>
         <link>https://www.slideshare.net/billslawski/ranking-in-google-since-the-advent-of-the-knowledge-graph-49743186</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いまさら聞けないarmを使ったNEONの基礎と活用事例 (Fixstars Corporation,@Fixstars_JP)</title>
-        <link>https://www.slideshare.net/fixstars/armneon-250012965</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nreal Lightハンズオン (Takashi Yoshinaga)</title>
-        <link>https://www.slideshare.net/ssuserc0d7fb/nreal-light</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>グラフニューラルネットワーク入門 (ryosuke-kojima)</title>
-        <link>https://www.slideshare.net/ryosuke-kojima/ss-179423718</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
