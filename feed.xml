@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Linked Open Data勉強会2020 後編：SPARQLの簡単な使い方、SPARQLを使った簡単なアプリ開発 (KnowledgeGraph,@kgrchallenge)</title>
+        <link>https://www.slideshare.net/KnowledgeGraph/linked-open-data2020-sparqlsparql</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>UnityでAddComponentするだけで3DViwerを作れた話 (akoto)</title>
+        <link>https://www.slideshare.net/MakotoAdachi/unityaddcomponent3dviwer</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[DL輪読会]Model soups: averaging weights of multiple fine-tuned models i… (Deep Learning JP)</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dlmodel-soups-averaging-weights-of-multiple-finetuned-models-improves-accuracy-without-increasing-inference-time</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ZOZOTOWN に CSS in JS（Emotion）を導入して1年後の状況 (hiro)</title>
         <link>https://speakerdeck.com/hiro0218/one-year-after-introducing-css-in-js-to-zozotown</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Super Easy Memory Forensics (IIJ,@IIJ_PR)</title>
         <link>https://www.slideshare.net/IIJ_PR/super-easy-memory-forensics</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Forefront of the Development for NVDIMM on Linux Kernel (Linux Pl… (Yasunori Goto,@YasunoriGoto1)</title>
-        <link>https://www.slideshare.net/ygotokernel/the-forefront-of-the-development-for-nvdimm-on-linux-kernel-linux-plumbers-conf-ver</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Lazy Load '22 - Performance Mistakes - An HTTP Archive Deep Dive (Paul Calvano)</title>
-        <link>https://www.slideshare.net/PaulCalvano/lazy-load-22-performance-mistakes-an-http-archive-deep-dive</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゼロから始めるアクセシビリティ啓蒙活動  (Tajima Sachiko)</title>
-        <link>https://speakerdeck.com/schktjm/zerokarashi-meruakusesibiriteiqi-meng-huo-dong</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
