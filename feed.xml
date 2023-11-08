@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ユーザーインタビューからその後どうするの？ 得られた情報を「UXデザイン」に落とし込む方法 | UXデザイン基礎セミナー 第3回 (Yoshiki Hayama,@storywriter)</title>
+        <link>https://www.slideshare.net/storywriterjp/ux-ux-3</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CircleCIのinfrastructureを支えるTerraformのCI/CDパイプラインの改善 (Ito Takayuki)</title>
+        <link>https://www.slideshare.net/ItoTakayuki/circleciinfrastructureterraformcicd</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Elasticsearch の検索精度のチューニング 〜テストを作って高速かつ安全に〜 (Takahiko Ito,@takahi_i)</title>
+        <link>https://www.slideshare.net/takahi-i/elasticsearch-251621964</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マルチテナント化で知っておきたいデータベースのこと (Amazon Web Services Japan,@awscloud_jp)</title>
         <link>https://www.slideshare.net/AmazonWebServicesJapan/20220107-multi-tenant-database</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>忙しい人のための Rocky Linux 入門〜Rocky LinuxはCentOSの後継者たり得るか？〜 (Masahito Zembutsu,@zembutsu)</title>
         <link>https://www.slideshare.net/zembutsu/introduction-to-rocky-linuxpdf</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue.jsを活用して開発リードタイムが1/3になった話/vuefes2023-link-and-motivation (リンクアンドモチベーション)</title>
-        <link>https://speakerdeck.com/lmi/vuefes2023-link-and-motivation</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQLやるならDataloaderを使おう (DeNA_Tech,@DeNAxTech)</title>
-        <link>https://www.docswell.com/s/DeNA_Tech/ZVVVND-dataloader</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VPCのアウトバウンド通信を制御するためにおさえておきたい設計ポイント (Takuya Takaseki)</title>
-        <link>https://www.slideshare.net/kasekyun/vpc-253163778</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
