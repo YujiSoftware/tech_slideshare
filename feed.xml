@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Nuxt 3でJamstackテンプレートを作るときの考え方 (Chinen)</title>
+        <link>https://speakerdeck.com/chinen/vue-fes-japan-2023</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最高の開発者体験を目指してAWS CDKによるCI/CDパイプラインを改善し続けている話 (Takahiro Hatakeyama,@keyamin_)</title>
+        <link>https://www.docswell.com/s/keyamin/KQ889X-cicd-conference-2023</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テストコードの DRY と DAMP (Yusuke Kagata)</title>
+        <link>https://www.slideshare.net/YusukeKAGATA1/dry-damppptx</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>(Vue Fes 2023) 18営業日で350コンポーネント規模のVueアプリにデザインシステムを導入する方法 (Yuichiro Yamashita)</title>
+        <link>https://speakerdeck.com/baseballyama/vue-fes-2023-18ying-ye-ri-de350konponentogui-mo-novueapurinidezainsisutemuwodao-ru-surufang-fa</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DX時代のデータ活用とBI戦略 (石川 陽一 Yoichi Ishikawa,@ishiayaya)</title>
+        <link>https://www.docswell.com/s/ishiayaya/Z4QQR6-dx-powerbi</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Barrier free env (surya teja)</title>
+        <link>https://www.slideshare.net/suryateja980315/barrier-free-env</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue.js を使って Grid System を実装した話 (t0yohei)</title>
+        <link>https://speakerdeck.com/t0yohei/vue-woshi-tute-grid-system-woshi-zhuang-sitahua</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>初心者がMLOpsを学習した時にぶち当たった &amp;quot;壁&amp;quot; のお話 (酒井謎子 sakai-nako,@nazonoobasan407)</title>
+        <link>https://www.docswell.com/s/sakai-nako/ZYWWML-2022-08-07_JAWS-UG-Kyoto</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新人研修資料 向き合うエンジニア (akira6592,@akira6592)</title>
+        <link>https://www.slideshare.net/akira6592/mukiau2022p</link>
+        <dc:date>2023-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Nuxt 3ではじめるテスト導入戦略と初手 (hacomono Inc.)</title>
         <link>https://speakerdeck.com/hacomono/nuxt-3dehazimerutesutodao-ru-zhan-lue-tochu-shou</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>分散システムについて語らせてくれ (kumagi,@kumagi)</title>
         <link>https://www.docswell.com/s/kumagi/ZXYYLN-let-me-talk-about-distributed-system</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What is quality culture? Is it something tasty? (Yasuharu Nishi)</title>
-        <link>https://www.slideshare.net/YasuharuNishi/what-is-quality-culture-is-it-something-tasty</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>M1 Macと将棋AIとUSI (mganeko)</title>
-        <link>https://speakerdeck.com/mganeko/m1-mactojiang-qi-aitousi</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【企業向け】ChatGPTの機会と脅威 (Yusuke Kawabata,@ku_suke)</title>
-        <link>https://www.docswell.com/s/ku-suke/KNRR6P-chatgpt-enterprise</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Game Tech Night #25 ゲーム業界向け機械学習最新状況アップデート (Amazon Web Services Japan,@awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/amazon-game-tech-night-25</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptってどんな言語？ 言語そのものを知る面白さ (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/typescripttutedonnayan-yu-yan-yu-sonomonowozhi-rumian-bai-sa</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fail Fast, Succeed Faster ~ DevOps で上手に早く失敗する (舟木 将彦,@mfunaki)</title>
-        <link>https://www.docswell.com/s/mfunaki/538GML-failfast</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Attitude of Mind (Koichi ITO)</title>
-        <link>https://www.slideshare.net/koic/attitude-of-mind</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Why Use EXPLAIN FORMAT=JSON? (Sveta Smirnova,@svetsmirnova)</title>
-        <link>https://www.slideshare.net/SvetaSmirnova/why-use-explain-formatjson</link>
-        <dc:date>2023-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ユーザーインタビューするときは、どうやらゾンビのおでましさ (Yoshiki Hayama,@storywriter)</title>
-        <link>https://www.slideshare.net/storywriterjp/ss-251806099</link>
         <dc:date>2023-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
