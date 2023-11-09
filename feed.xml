@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>未経験エンジニアがアウトプット駆動で自らのキャリアと生きる道を切り開くまで (Haruka Sakihara)</title>
+        <link>https://speakerdeck.com/harukasakihara/wei-jing-yan-enziniagaautopututoqu-dong-dezi-ranokiyariatosheng-kirudao-woqie-rikai-kumade</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>みんなが初心者だからいい。全員で動く、アジャイルチームの成長日誌 (藤井崇介,@ZooBonta)</title>
+        <link>https://www.docswell.com/s/s-fujii200/5M2L25-2022-06-18-101550</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大域マッチングコスト最小化とLiDAR-IMUタイトカップリングに基づく三次元地図生成 (MobileRoboticsResear)</title>
+        <link>https://www.slideshare.net/MobileRoboticsResear/lidarimu</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スクラムフェス大阪2022基調講演「クリーンスクラム―基本に立ち戻れ―」 (Masanori Kado,@kdmsnr)</title>
+        <link>https://www.docswell.com/s/kdmsnr/5EVLNK-clean-scrum</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Dockerからcontainerdへの移行 (Kohei Tokunaga)</title>
+        <link>https://www.slideshare.net/KoheiTokunaga/dockercontainerd</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ナラティブ・プロトタイピング (市谷聡啓,@papanda)</title>
+        <link>https://www.docswell.com/s/papanda/ZMQE2K-2022-03-23-200829?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=singlepage</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【BS3】Visual Studio 2022 と .NET 6 での Windows アプリ開発技術の紹介 (日本マイクロソフト株式会社,@mskkpr)</title>
+        <link>https://www.slideshare.net/microsoftjp/bs3visual-studio-2022-net-6-windows</link>
+        <dc:date>2023-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Fusionの新機能を 個人ゲーム開発者の立場からレポート (復活のニム式📘,@ni26mu)</title>
         <link>https://www.docswell.com/s/ni26mu/57391K-2022-06-23-201211</link>
         <dc:date>2023-11-08T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>ウェブセキュリティのありがちな誤解を解説する (徳丸 浩,@ockeghem)</title>
         <link>https://www.docswell.com/s/ockeghem/K44J1K-phpconf2020</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>難病者の雇用に関する全自治体調査レポート2021 (Takayuki Shigemitsu)</title>
-        <link>https://www.slideshare.net/TakayukiShigemitsu/2021-251461213</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unreal Engine 5での非ゲームコンテンツ開発 | Unreal Engine によるものづくり分野のコンテンツ開発 (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
-        <link>https://www.docswell.com/s/EpicGamesJapan/578GVZ-UE5-monodzukuri</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンタープライズアジャイル勉強会 LeSS概要 (Takao Kimura,@tw_takubon)</title>
-        <link>https://www.slideshare.net/takubon/less-251234261</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenAPIとPrisma 〜だらしない人でもドキュメントを残せる個人開発〜 (nomeshi74)</title>
-        <link>https://www.docswell.com/s/shin1kt/5L8QQZ-2022-05-27-231839</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CXL_説明_公開用.pdf (Yasunori Goto,@YasunoriGoto1)</title>
-        <link>https://www.slideshare.net/ygotokernel/cxlpdf</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ヤフーのオンプレ機械学習基盤AIPFについて #ml_kubernetes (Yahoo!デベロッパーネットワーク,@ydnjp)</title>
-        <link>https://www.docswell.com/s/ydnjp/Z26W1K-2022-08-29-151542</link>
-        <dc:date>2023-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Osc 2021 fall_tis_変化に強いチーム育成のための取り組み紹介 (Daisuke Ikeda,@ike_dai)</title>
-        <link>https://www.slideshare.net/ikedai/osc-2021-falltis</link>
         <dc:date>2023-11-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
