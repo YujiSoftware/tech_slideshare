@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NeRF: 3次元×機械学習入門 ー注目の3次元化技術をやさしく解説ー (Kenta Itakura)</title>
+        <link>https://speakerdeck.com/kentaitakura/nerf-3ci-yuan-xji-jie-xue-xi-ru-men-zhu-mu-no3ci-yuan-hua-ji-shu-woyasasikujie-shuo</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LINE Login ではじめる 「とりまセキュリティ」 (akakou)</title>
+        <link>https://speakerdeck.com/akakou/line-login-dehazimeru-torimasekiyuritei</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>時系列予測にTransformerを使うのは有効か？ (Fumihiko Takahashi)</title>
+        <link>https://www.slideshare.net/ssuser369dbc/transformer-261229829</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>現代のReactivityとSvelteの魔法 (TOMIKAWA Sotaro)</title>
         <link>https://speakerdeck.com/ssssota/reactivity-and-magic-of-svelte</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
@@ -38,11 +53,6 @@
     <item>
         <title>LINEログインのログインフローを理解して使う (minako-ph)</title>
         <link>https://speakerdeck.com/minako__ph/lineroguinnoroguinhurowoli-jie-siteshi-u</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINE Login ではじめる 「とりまセキュリティ」 (akakou)</title>
-        <link>https://speakerdeck.com/akakou/line-login-dehazimeru-torimasekiyuritei</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
     </item>
     <item>
@@ -93,16 +103,6 @@
     <item>
         <title>M3 NavigationBar をマスターする (akkie76)</title>
         <link>https://speakerdeck.com/akkie76/m3-navigationbar-womasutasuru</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenTelemetryによるベンダーニュートラルな監視設定 (nutslove)</title>
-        <link>https://speakerdeck.com/nutslove/opentelemetryniyorubendaniyutorarunajian-shi-she-ding</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最強のチームが最高のプロダクトを作る (mizuman)</title>
-        <link>https://speakerdeck.com/mizuman/supreme-teams-for-supreme-creations</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
