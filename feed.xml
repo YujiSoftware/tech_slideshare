@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Spring Framework 6.1 / Spring Boot 3.2 の注目機能紹介</title>
+        <link>https://docs.google.com/presentation/d/17RdIx4ysrebxOTrGrBl2pr7yn9-T2krhyi9833C8pBE/preview</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Java21とKotlinの代数的データ型 &amp;  パターンマッチの紹介と本当に嬉しい使い方 / Algebraic Data Type in Java and Kotlin: Happy Use of Pattern Match (YuitoSato)</title>
         <link>https://speakerdeck.com/yuitosato/algebraic-data-type-in-java-and-kotlin-happy-use-of-pattern-match</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Drag &amp; Drop in LazyColumn (gotlin)</title>
         <link>https://speakerdeck.com/goutarouh/drag-and-drop-in-lazycolumn</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新規プロジェクトでやってよかったことまとめ (kobito-kaba)</title>
-        <link>https://speakerdeck.com/kobitokaba/xin-gui-puroziekutodeyatuteyokatutakotomatome</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
