@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践PubSubマイクロサービス / Implementation Pub Sub microservice (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/implementation-pub-sub-microservice</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Spring Framework 6.1 / Spring Boot 3.2 の注目機能紹介</title>
         <link>https://docs.google.com/presentation/d/17RdIx4ysrebxOTrGrBl2pr7yn9-T2krhyi9833C8pBE/preview</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>複数端末で Visual Regression Test を 実行する上での工夫と課題 (Kurumi Morimoto)</title>
         <link>https://speakerdeck.com/morux2/fu-shu-duan-mo-de-visual-regression-test-wo-shi-xing-surushang-denogong-fu-toke-ti</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Drag &amp; Drop in LazyColumn (gotlin)</title>
-        <link>https://speakerdeck.com/goutarouh/drag-and-drop-in-lazycolumn</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
