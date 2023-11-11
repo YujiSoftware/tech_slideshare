@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ラボ環境を構築するためのツール比較してみた.pdf (nnaakano )</title>
+        <link>https://www.slideshare.net/nakanokkfit/pdf-6bbc</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>wakamonog meeting 12 LT (orumo )</title>
+        <link>https://www.slideshare.net/orumoktkgo/wakamonog-meeting-12-lt</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践PubSubマイクロサービス / Implementation Pub Sub microservice (nrs)</title>
         <link>https://speakerdeck.com/nrslib/implementation-pub-sub-microservice</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>2023/10/14_グループディスカッション</title>
         <link>https://docs.google.com/presentation/d/1Tqgtxgot8md2u181pMQZMczKgC6B8Eh942Dp9hKhq2M/preview</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LazyColumnのitemがViewPortの中で占める領域の割合を知りたい (Keishin Yokomaku)</title>
-        <link>https://speakerdeck.com/keithyokoma/lazycolumnnoitemgaviewportnozhong-dezhan-meruling-yu-noge-he-wozhi-ritai</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>複数端末で Visual Regression Test を 実行する上での工夫と課題 (Kurumi Morimoto)</title>
-        <link>https://speakerdeck.com/morux2/fu-shu-duan-mo-de-visual-regression-test-wo-shi-xing-surushang-denogong-fu-toke-ti</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
