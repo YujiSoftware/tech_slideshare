@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Java21とKotlinの代数的データ型 &amp;  パターンマッチの紹介と本当に嬉しい使い方 / Algebraic Data Type in Java and Kotlin: Happy Use of Pattern Match (YuitoSato)</title>
+        <link>https://speakerdeck.com/yuitosato/algebraic-data-type-in-java-and-kotlin-happy-use-of-pattern-match</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NeRF: 3次元×機械学習入門 ー注目の3次元化技術をやさしく解説ー (Kenta Itakura)</title>
         <link>https://speakerdeck.com/kentaitakura/nerf-3ci-yuan-xji-jie-xue-xi-ru-men-zhu-mu-no3ci-yuan-hua-ji-shu-woyasasikujie-shuo</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>新規プロジェクトでやってよかったことまとめ (kobito-kaba)</title>
         <link>https://speakerdeck.com/kobitokaba/xin-gui-puroziekutodeyatuteyokatutakotomatome</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>M3 NavigationBar をマスターする (akkie76)</title>
-        <link>https://speakerdeck.com/akkie76/m3-navigationbar-womasutasuru</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
