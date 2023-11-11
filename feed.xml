@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>勉強会スライドBot</title>
+        <link>https://yuji.software/tech_slideshare</link>
+        <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
+    </channel>
+    <item>
+        <title>現代のReactivityとSvelteの魔法 (TOMIKAWA Sotaro)</title>
+        <link>https://speakerdeck.com/ssssota/reactivity-and-magic-of-svelte</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>（事前共有）wakamonog meeting 12 パネルディスカッション企画　投影資料 (daikojima1)</title>
+        <link>https://www.slideshare.net/daikojima1/wakamonog-meeting-12-776f</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React でコンポーネントを利用したテストをゴリゴリ書く  (bom-shibuya)</title>
+        <link>https://speakerdeck.com/bomshibuya/writing-tests-using-components-in-react</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20221110_Node-RED_Con_2023_kitazaki_v1.pdf (Ayachika Kitazaki)</title>
+        <link>https://www.slideshare.net/kitazaki/20221110noderedcon2023kitazakiv1pdf</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LINE DC Frontend Meetup #1 セキュアなWeb App/Login編 - LINEログインのパラメータについて</title>
+        <link>https://docs.google.com/presentation/d/1l2BpnVgVuUAtMp9blaLSUuYd3wqfaf2wJ2XZRXeIg-Q/preview</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>(共有用)絵文字ヤバイ</title>
+        <link>https://docs.google.com/presentation/d/1IsIrlle_KnEcc3xfenJyVL-ZPVMQ6vkb_qlMurTDsRs/preview</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LINEログインのログインフローを理解して使う (minako-ph)</title>
+        <link>https://speakerdeck.com/minako__ph/lineroguinnoroguinhurowoli-jie-siteshi-u</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LINE Login ではじめる 「とりまセキュリティ」 (akakou)</title>
+        <link>https://speakerdeck.com/akakou/line-login-dehazimeru-torimasekiyuritei</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>社内の生産性向上MTGで挙がったツールを 紹介していく (ruitomo)</title>
+        <link>https://speakerdeck.com/ruitomo/she-nei-nosheng-chan-xing-xiang-shang-mtgdeju-gatutaturuwo-shao-jie-siteiku</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【LT登壇資料】個人の開発生産性を上げる！自慢のツール紹介LT&amp;交流会！ (Masato Tezuka)</title>
+        <link>https://speakerdeck.com/masatotezuka/ltdeng-tan-zi-liao-ge-ren-nokai-fa-sheng-chan-xing-woshang-geru-zi-man-noturushao-jie-lt-and-jiao-liu-hui</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発効率をアップするテクニック・ツール3選 / three-way-tools-and-techniques (Soejima Karukichi)</title>
+        <link>https://speakerdeck.com/soejima0124/three-way-tools-and-techniques</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2023_10_14_個人の開発生産性LT資料</title>
+        <link>https://docs.google.com/presentation/d/1F8bcMKlVFU3W17AGTpEZO8N7RIh643BlrBtXncF9AIM/preview</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2023/10/14_グループディスカッション</title>
+        <link>https://docs.google.com/presentation/d/1Tqgtxgot8md2u181pMQZMczKgC6B8Eh942Dp9hKhq2M/preview</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LazyColumnのitemがViewPortの中で占める領域の割合を知りたい (Keishin Yokomaku)</title>
+        <link>https://speakerdeck.com/keithyokoma/lazycolumnnoitemgaviewportnozhong-dezhan-meruling-yu-noge-he-wozhi-ritai</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>複数端末で Visual Regression Test を 実行する上での工夫と課題 (Kurumi Morimoto)</title>
+        <link>https://speakerdeck.com/morux2/fu-shu-duan-mo-de-visual-regression-test-wo-shi-xing-surushang-denogong-fu-toke-ti</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Drag &amp; Drop in LazyColumn (gotlin)</title>
+        <link>https://speakerdeck.com/goutarouh/drag-and-drop-in-lazycolumn</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新規プロジェクトでやってよかったことまとめ (kobito-kaba)</title>
+        <link>https://speakerdeck.com/kobitokaba/xin-gui-puroziekutodeyatuteyokatutakotomatome</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>M3 NavigationBar をマスターする (akkie76)</title>
+        <link>https://speakerdeck.com/akkie76/m3-navigationbar-womasutasuru</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenTelemetryによるベンダーニュートラルな監視設定 (nutslove)</title>
+        <link>https://speakerdeck.com/nutslove/opentelemetryniyorubendaniyutorarunajian-shi-she-ding</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最強のチームが最高のプロダクトを作る (mizuman)</title>
+        <link>https://speakerdeck.com/mizuman/supreme-teams-for-supreme-creations</link>
+        <dc:date>2023-11-10T15:00:00Z</dc:date>
+    </item>
+</rdf:RDF>
