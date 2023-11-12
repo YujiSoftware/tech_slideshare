@@ -59,6 +59,11 @@ public class SlideShareParser implements Parser {
             NextData nextData = mapper.readValue(json.html(), NextData.class);
             NextData.Props.PageProps.Slideshow slideshow = nextData.props.pageProps.slideshow;
 
+            if (!slideshow.isViewable) {
+                logger.debug("Not viewable: {}", link);
+                return Optional.empty();
+            }
+
             // 1ページしかないものは、スパムと判定して除外
             long pageCount = Integer.parseInt(slideshow.totalSlides);
             if (pageCount <= 1) {
@@ -121,6 +126,8 @@ public class SlideShareParser implements Parser {
                 "canonicalUrl": "https://www.slideshare.net/simizu706/cmdstanrreducesum",
                 "createdAt": "2021-09-13 07:59:29 UTC",
                 "description": "Cmdstanrとreduce_sum()の使い方を解説します",
+                "isPrivate": false,
+                "isViewable": true,
                 "thumbnail": "https://cdn.slidesharecdn.com/ss_thumbnails/cmdstanrintroduction-210913075930-thumbnail.jpg?width=640\\u0026height=640\\u0026fit=bounds",
                 "title": "Cmdstanr入門とreduce_sum()解説",
                 "totalSlides": 55,
@@ -150,6 +157,8 @@ public class SlideShareParser implements Parser {
                     public String username;
                     public String canonicalUrl;
                     public String description;
+                    public boolean isPrivate;
+                    public boolean isViewable;
                     public String title;
                     public String totalSlides;
                     public User user;

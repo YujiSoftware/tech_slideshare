@@ -78,4 +78,12 @@ public class SlideShareParserTest {
         Slide slide = actual.get();
         assertEquals("https://www.slideshare.net/YujiSoftware/jep280-java-9", slide.getLink());
     }
+
+    @Test
+    public void プライベート() {
+        String link = "https://www.slideshare.net/akiranakagawa3/20231003-2023onlinepdf";
+
+        Optional<Slide> actual = parser.parse(link);
+        assertTrue(actual.isEmpty());
+    }
 }
