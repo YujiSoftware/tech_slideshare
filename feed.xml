@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Open Source Malware Hunting Lab (DiscoNinja)</title>
+        <link>https://speakerdeck.com/disconinja/open-source-malware-hunting-lab</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ユースケース駆動開発のワークショップやってみた！ (Tomoe Sawai,@tomoeine)</title>
+        <link>https://www.slideshare.net/TomoeTeshima/ss-250804582</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>事業の進展とデータマネジメント体制の進歩（＋プレトタイプの話） (Tokoroten Nakayama,@tokoroten)</title>
+        <link>https://www.slideshare.net/TokorotenNakayama/ss-250817031</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>API GatewayとAWS AppSyncの使い分け (Masaki Suzuki)</title>
+        <link>https://www.slideshare.net/MasakiSuzuki3/api-gatewayaws-appsync</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Blockchain EXE #16：Hyperledger fabricの技術動向とファイナンシャルエンジニアリング視点でのトークンエコ… (blockchainexe)</title>
         <link>https://www.slideshare.net/blockchainexe/blockchain-exe-16hyperledger-fabric</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>Lookerユーザー会#7 RefinementsとExtendsを活用したExplore構築 ~JOINを跨いだフィールドをすっきり実装… (Chikako Hirayama)</title>
         <link>https://www.slideshare.net/chikakohirayama1/looker7-refinementsextendsexplore-join-looker-user-meetup-7</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザインの要件定義 (Shin Iiboshi)</title>
-        <link>https://www.slideshare.net/siiboshi/ss-52287160</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践ソフトウェアエンジニアリング（第9版）～長年積み上げられた体系と各種技術との関連性 (Noriyuki Mizuno)</title>
-        <link>https://www.slideshare.net/NoriyukiMizuno/9-250857936</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Test &amp; Learn: How to Find Your Product's North Star Metric (Optimizely,@CaraHarshman)</title>
-        <link>https://www.slideshare.net/optimizely/test-learn-how-to-find-your-products-north-star-metric</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Product Workshop - Finding Your North Star - handout (Amplitude,@Amplitude_HQ)</title>
-        <link>https://www.slideshare.net/amplitudemobile/product-workshop-finding-your-north-star-handout</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
