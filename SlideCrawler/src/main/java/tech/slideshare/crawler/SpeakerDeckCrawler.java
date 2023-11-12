@@ -39,8 +39,10 @@ public class SpeakerDeckCrawler implements Crawler {
 
         String link = elements.get(0).attr("href");
         Path pdf = download(link);
+        pdf.toFile().deleteOnExit();
 
         Path fixed = Files.createTempFile(null, null);
+        fixed.toFile().deleteOnExit();
         Process process = new ProcessBuilder("pdf-fix-tuc", pdf.toString(), fixed.toString()).start();
         try {
             process.waitFor();
