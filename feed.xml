@@ -6,8 +6,43 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コンテナ環境でのJavaトラブルシューティング (Kenji Kazumura)</title>
+        <link>https://speakerdeck.com/kazumura/kontenahuan-jing-denojavatoraburusiyuteingu</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BulletmarkRepairer: auto corrector for N+1 queries (makicamel)</title>
+        <link>https://speakerdeck.com/makicamel/bulletmarkrepairer-auto-corrector-for-n-plus-1-queries</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アクションゲームをつくってみよう！ (poko ponmaru)</title>
+        <link>https://www.slideshare.net/pokoponmaru/ss-251036968</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>やさしいActiveRecordのDB接続のしくみ (kubo ayumu)</title>
+        <link>https://speakerdeck.com/boro1234/yasasiiactiverecordnodbjie-sok-nosikumi</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Enabling Vectorized Engine in Apache Spark (Kazuaki Ishizaki,@kiszk)</title>
+        <link>https://www.slideshare.net/ishizaki/enabling-vectorized-engine-in-apache-spark</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Simplicity on Rails -- RDB, REST and Ruby (MOROHASHI Kyosuke)</title>
+        <link>https://speakerdeck.com/moro/simplicity-on-rails-rdb-rest-and-ruby</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Copilot &amp;amp; Copilot Chat で Java コーディングを最大限効率化する-配布用 (Shotaro Suzuki,@shosuz)</title>
         <link>https://www.docswell.com/s/shosuz/58G6JQ-2023-11-11-152330</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Introduction new features in Spark 3.0 (Kazuaki Ishizaki,@kiszk)</title>
+        <link>https://www.slideshare.net/ishizaki/introduction-new-features-in-spark-30</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
     <item>
@@ -68,41 +103,6 @@
     <item>
         <title>[20220126] JAWS-UG 2022初頭までに葬ったAWSアンチパターン大紹介 (Amazon Web Services Japan,@awscloud_jp)</title>
         <link>https://www.slideshare.net/AmazonWebServicesJapan/20220126-jawsug-2022aws</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hotwire的な設計を追求して「Web紙芝居」に行き着いた話 (Yasuko Ohba)</title>
-        <link>https://speakerdeck.com/nay3/hotwirede-nashe-ji-wozhui-qiu-site-webzhi-zhi-ju-nixing-kizhao-itahua</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Improve Monitoring and Observability for Kubernetes with OSS tools (Nilesh Gule,@nileshgule)</title>
-        <link>https://www.slideshare.net/nileshgule/improve-monitoring-and-observability-for-kubernetes-with-oss-tools-250973966</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>走りながらエンジンを交換する ~ 大規模プロダクトを成長させつつVue3にするには / 20231028 (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20231028</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模医療データベースを活用した治療効果研究の計画と報告：DB研究の手続き (Sayuri Shimizu)</title>
-        <link>https://www.slideshare.net/SayuriShimizu/db-119421582</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業の試行錯誤を支える コードを捨てやすくして システムをシンプルに保つ設計と工夫 (zuckey_17)</title>
-        <link>https://speakerdeck.com/zuckey_17/shi-ye-noshi-xing-cuo-wu-wozhi-eru-kodowoshe-teyasukusite-sisutemuwosinpurunibao-tushe-ji-togong-fu</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デモで楽しむ Visual Studio 2022 &amp; .NET 6 最新アップデート (Akira Inoue)</title>
-        <link>https://www.slideshare.net/chack411/visual-studio-2022-net-6</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「国と音楽」 ～spotifyrを用いて～ #muana (bob3bob3)</title>
-        <link>https://speakerdeck.com/bob3bob3/guo-toyin-le-spotifyrwoyong-ite-number-muana</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
