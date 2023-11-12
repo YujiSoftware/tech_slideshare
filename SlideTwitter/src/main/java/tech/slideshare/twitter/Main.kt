@@ -43,7 +43,7 @@ object Main {
 
             run(user, password, api)
 
-            token.save();
+            token.save()
         } catch (e: Throwable) {
             logger.error("Tweet failed!", e)
             exitCode = 1
@@ -87,7 +87,7 @@ object Main {
                     val request = TweetCreateRequest().text(title + "\r\n" + it.url)
                     val result: TweetCreateResponse = api.tweets().createTweet(request).execute()
                     if (result.errors != null) {
-                        throw ApiException(result.toJson());
+                        throw ApiException(result.toJson())
                     }
 
                     logger.info("Tweet success. [slide_id={}, result={}]", it.slideId, result.toJson())
