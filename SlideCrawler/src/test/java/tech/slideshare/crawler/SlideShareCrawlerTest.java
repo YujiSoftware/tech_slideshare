@@ -8,10 +8,13 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SlideShareCrawlerTest {
+
+    private final SlideShareCrawler crawler = new SlideShareCrawler();
+
     @Test
     void crawl() throws IOException {
-        SlideShareCrawler crawler = new SlideShareCrawler();
-        List<String> actual = crawler.crawl("https://www.slideshare.net/YujiSoftware/jep280-java-9");
+        String link = "https://www.slideshare.net/YujiSoftware/jep280-java-9";
+        List<String> actual = crawler.crawl(link);
 
         assertEquals(23, actual.size());
         assertEquals("""
@@ -29,4 +32,19 @@ class SlideShareCrawlerTest {
                 }""", actual.get(1));
     }
 
+    @Test
+    public void プライベート() throws IOException {
+        String link = "https://www.slideshare.net/akiranakagawa3/20231003-2023onlinepdf";
+
+        List<String> actual = crawler.crawl(link);
+        assertEquals(0, actual.size());
+    }
+
+    @Test
+    public void 削除済み() throws IOException {
+        String link = "https://www.slideshare.net/AkiraNagai4/6-256787902";
+        List<String> actual = crawler.crawl(link);
+
+        assertEquals(0, actual.size());
+    }
 }
