@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>動くコードを書こう / let's code a process (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/lets-code-a-process</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>30分で理解する、AWS の WEB Front-end Strategy / Serverless Front-end Strategy (kensh)</title>
         <link>https://speakerdeck.com/_kensh/serverless-front-end-strategy</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>開発効率をアップするテクニック・ツール3選 / three-way-tools-and-techniques (Soejima Karukichi)</title>
         <link>https://speakerdeck.com/soejima0124/three-way-tools-and-techniques</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023_10_14_個人の開発生産性LT資料</title>
-        <link>https://docs.google.com/presentation/d/1F8bcMKlVFU3W17AGTpEZO8N7RIh643BlrBtXncF9AIM/preview</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
