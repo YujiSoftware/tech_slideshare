@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新規プロジェクトでやってよかったことまとめ (kobito-kaba)</title>
+        <link>https://speakerdeck.com/kobitokaba/xin-gui-puroziekutodeyatuteyokatutakotomatome</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DevOpsを支える原則、3つの道 (Arata Fujimura,@aratafuji)</title>
+        <link>https://www.slideshare.net/aratafuji/devops3-251185794</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>M3 NavigationBar をマスターする (akkie76)</title>
+        <link>https://speakerdeck.com/akkie76/m3-navigationbar-womasutasuru</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[DL輪読会]data2vec: A General Framework for Self-supervised Learning in… (Deep Learning JP)</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dldata2vec-a-general-framework-for-selfsupervised-learning-in-speech-vision-and-language-251106954</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LINEログインのログインフローを理解して使う (minako-ph)</title>
+        <link>https://speakerdeck.com/minako__ph/lineroguinnoroguinhurowoli-jie-siteshi-u</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ユーザーサイド情報検索システム (joisino)</title>
+        <link>https://www.slideshare.net/joisino/ss-251143305</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NeRF: 3次元×機械学習入門 ー注目の3次元化技術をやさしく解説ー (Kenta Itakura)</title>
         <link>https://speakerdeck.com/kentaitakura/nerf-3ci-yuan-xji-jie-xue-xi-ru-men-zhu-mu-no3ci-yuan-hua-ji-shu-woyasasikujie-shuo</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>現代のReactivityとSvelteの魔法 (TOMIKAWA Sotaro)</title>
         <link>https://speakerdeck.com/ssssota/reactivity-and-magic-of-svelte</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>（事前共有）wakamonog meeting 12 パネルディスカッション企画　投影資料 (daikojima1)</title>
-        <link>https://www.slideshare.net/daikojima1/wakamonog-meeting-12-776f</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React でコンポーネントを利用したテストをゴリゴリ書く  (bom-shibuya)</title>
-        <link>https://speakerdeck.com/bomshibuya/writing-tests-using-components-in-react</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20221110_Node-RED_Con_2023_kitazaki_v1.pdf (Ayachika Kitazaki)</title>
-        <link>https://www.slideshare.net/kitazaki/20221110noderedcon2023kitazakiv1pdf</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINE DC Frontend Meetup #1 セキュアなWeb App/Login編 - LINEログインのパラメータについて</title>
-        <link>https://docs.google.com/presentation/d/1l2BpnVgVuUAtMp9blaLSUuYd3wqfaf2wJ2XZRXeIg-Q/preview</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(共有用)絵文字ヤバイ</title>
-        <link>https://docs.google.com/presentation/d/1IsIrlle_KnEcc3xfenJyVL-ZPVMQ6vkb_qlMurTDsRs/preview</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINEログインのログインフローを理解して使う (minako-ph)</title>
-        <link>https://speakerdeck.com/minako__ph/lineroguinnoroguinhurowoli-jie-siteshi-u</link>
         <dc:date>2023-11-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
