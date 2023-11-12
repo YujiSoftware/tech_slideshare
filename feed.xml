@@ -6,8 +6,38 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20231112_ChatGPTの活用によるデータサイエンス人材の育成 (NobuakiOshiro)</title>
+        <link>https://speakerdeck.com/doradora09/20231112-chatgptnohuo-yong-niyorutetasaiensuren-cai-noyu-cheng</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フロントエンドにおける テスト方針〜Testing Trophyの概念とBDD〜 (やじはむ)</title>
+        <link>https://speakerdeck.com/yajihum/hurontoendoniokeru-tesutofang-zhen-testing-trophynogai-nian-tobdd</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Sli.do入門 (徹 宮原,@tmiyahar)</title>
+        <link>https://www.slideshare.net/ToruMiyahara/slido-241806068</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>成長は小さな失敗の積み重ね 事業を支えるCARTAのフルサイクルエンジニアリング / growth-for-small-fail-fast-carta-fullcycle (CARTA Engineering)</title>
+        <link>https://speakerdeck.com/carta_engineering/growth-for-small-fail-fast-carta-fullcycle</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プレゼンテーションのアドバイスまとめ (Manabu KANO)</title>
+        <link>https://www.slideshare.net/manabu4/ss-251029325</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コンテナ環境でのJavaトラブルシューティング (Kenji Kazumura)</title>
         <link>https://speakerdeck.com/kazumura/kontenahuan-jing-denojavatoraburusiyuteingu</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIマリオで全ステージクリアチャレンジ (karaage0703,@karaage0703)</title>
+        <link>https://www.slideshare.net/karaage0703/ai-251035946</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
     <item>
@@ -73,36 +103,6 @@
     <item>
         <title>Digital 2022 Global Overview Report (January 2022) v02 (DataReportal)</title>
         <link>https://www.slideshare.net/DataReportal/digital-2022-global-overview-report-january-2022-v02</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Mojo Dojo (Henry Cui)</title>
-        <link>https://speakerdeck.com/zchenry/mojo-dojo</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>物体検出エラーの分析ツール TIDE (GuoqingLiu9)</title>
-        <link>https://www.slideshare.net/GuoqingLiu9/tide-250699350</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LangChainのDocument機能を使って文書処理を柔軟にする (西岡 賢一郎 (Kenichiro Nishioka))</title>
-        <link>https://speakerdeck.com/knishioka/langchainnodocumentji-neng-woshi-tutewen-shu-chu-li-worou-ruan-nisuru</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Masked Autoencoders Are Scalable Vision Learners (GuoqingLiu9)</title>
-        <link>https://www.slideshare.net/GuoqingLiu9/masked-autoencoders-are-scalable-vision-learners</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>管理機能アーキテクチャパターンの考察と実践 / Learn Architecture through Admin (Masato Ohba)</title>
-        <link>https://speakerdeck.com/ohbarye/learn-architecture-through-admin</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[20220126] JAWS-UG 2022初頭までに葬ったAWSアンチパターン大紹介 (Amazon Web Services Japan,@awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/20220126-jawsug-2022aws</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
