@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Hotwire的な設計を追求して「Web紙芝居」に行き着いた話 (Yasuko Ohba)</title>
+        <link>https://speakerdeck.com/nay3/hotwirede-nashe-ji-wozhui-qiu-site-webzhi-zhi-ju-nixing-kizhao-itahua</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Improve Monitoring and Observability for Kubernetes with OSS tools (Nilesh Gule,@nileshgule)</title>
+        <link>https://www.slideshare.net/nileshgule/improve-monitoring-and-observability-for-kubernetes-with-oss-tools-250973966</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>走りながらエンジンを交換する ~ 大規模プロダクトを成長させつつVue3にするには / 20231028 (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20231028</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模医療データベースを活用した治療効果研究の計画と報告：DB研究の手続き (Sayuri Shimizu)</title>
+        <link>https://www.slideshare.net/SayuriShimizu/db-119421582</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>事業の試行錯誤を支える コードを捨てやすくして システムをシンプルに保つ設計と工夫 (zuckey_17)</title>
+        <link>https://speakerdeck.com/zuckey_17/shi-ye-noshi-xing-cuo-wu-wozhi-eru-kodowoshe-teyasukusite-sisutemuwosinpurunibao-tushe-ji-togong-fu</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>デモで楽しむ Visual Studio 2022 &amp; .NET 6 最新アップデート (Akira Inoue)</title>
+        <link>https://www.slideshare.net/chack411/visual-studio-2022-net-6</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「国と音楽」 ～spotifyrを用いて～ #muana (bob3bob3)</title>
         <link>https://speakerdeck.com/bob3bob3/guo-toyin-le-spotifyrwoyong-ite-number-muana</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>えぇ！？マッハでテレワーク環境を！？ (ssuser868e2d)</title>
         <link>https://www.slideshare.net/ssuser868e2d/ss-251097791</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Jaws ug 初心者支部#43 aws builders online series recap1:LT1北原 (MasatoKitahara)</title>
-        <link>https://www.slideshare.net/MasatoKitahara/jaws-ug-43-aws-builders-online-series-recap1lt1</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>学術会議　ITシンポジウム資料「プライバシー保護技術の概観と展望」 (Hiroshi Nakagawa)</title>
-        <link>https://www.slideshare.net/hirsoshnakagawa3/it-78784457</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>静的解析Klocwork とJenkins CIの連携 (Masaru Horioka)</title>
-        <link>https://www.slideshare.net/masaruhorioka/klocwork-jenkins-ci</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>音楽波形データからコードを推定してみる (Ken'ichi Matsui,@kenmatsu4)</title>
-        <link>https://www.slideshare.net/matsukenbook/ss-251098199</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>New Relic University at Future Stack Tokyo 2019 (New Relic,@newrelic)</title>
-        <link>https://www.slideshare.net/newrelic/new-relic-university-at-future-stack-tokyo-2019</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【Saitama.js】Denoのすすめ (虎の穴 開発室)</title>
-        <link>https://www.slideshare.net/toranoana-lab/saitamajsdeno</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
