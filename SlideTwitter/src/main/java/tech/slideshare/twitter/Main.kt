@@ -25,29 +25,29 @@ object Main {
 
         logger.info("Start {}", Main.javaClass.toString())
 
-        val token = TwitterToken.load()
-        val credentials = TwitterCredentialsOAuth2(
-            token.oAuth2ClientID,
-            token.oAuth2ClientSecret,
-            token.oAuth2AccessToken,
-            token.oAuth2RefreshToken,
-            true
-        )
-        val api = TwitterApi(credentials)
-        api.addCallback { accessToken: OAuth2AccessToken ->
-            token.oAuth2AccessToken = accessToken.accessToken
-            token.oAuth2RefreshToken = accessToken.refreshToken
-        }
-
         var exitCode = 0
         try {
+            val token = TwitterToken.load()
+            val credentials = TwitterCredentialsOAuth2(
+                token.oAuth2ClientID,
+                token.oAuth2ClientSecret,
+                token.oAuth2AccessToken,
+                token.oAuth2RefreshToken,
+                true
+            )
+            val api = TwitterApi(credentials)
+            api.addCallback { accessToken: OAuth2AccessToken ->
+                token.oAuth2AccessToken = accessToken.accessToken
+                token.oAuth2RefreshToken = accessToken.refreshToken
+            }
+
             run(user, password, api)
+
+            token.save();
         } catch (e: Throwable) {
             logger.error("Tweet failed!", e)
             exitCode = 1
         }
-
-        token.save();
 
         logger.info("End {}", Main.javaClass.toString())
 
