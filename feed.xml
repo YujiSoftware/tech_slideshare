@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LazyColumnのitemがViewPortの中で占める領域の割合を知りたい (Keishin Yokomaku)</title>
+        <link>https://speakerdeck.com/keithyokoma/lazycolumnnoitemgaviewportnozhong-dezhan-meruling-yu-noge-he-wozhi-ritai</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MLOps failure(1_108) (yusuke shibui)</title>
+        <link>https://www.slideshare.net/yusukeshibui/mlops-failure1108</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>複数端末で Visual Regression Test を 実行する上での工夫と課題 (Kurumi Morimoto)</title>
+        <link>https://speakerdeck.com/morux2/fu-shu-duan-mo-de-visual-regression-test-wo-shi-xing-surushang-denogong-fu-toke-ti</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「指標」を支えるエンジニアリング: DataOpsNight #1 (株式会社MonotaRO Tech Team)</title>
+        <link>https://www.slideshare.net/monotaro-itd-pr/dataopsnight-1</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Drag &amp; Drop in LazyColumn (gotlin)</title>
+        <link>https://speakerdeck.com/goutarouh/drag-and-drop-in-lazycolumn</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データサイエンティスト向け性能問題対応の基礎 (Tetsutaro Watanabe,@fetarodc)</title>
+        <link>https://www.slideshare.net/tetsutarowatanabe/ss-251165759</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新規プロジェクトでやってよかったことまとめ (kobito-kaba)</title>
         <link>https://speakerdeck.com/kobitokaba/xin-gui-puroziekutodeyatuteyokatutakotomatome</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>wakamonog meeting 12 LT (orumo )</title>
         <link>https://www.slideshare.net/orumoktkgo/wakamonog-meeting-12-lt</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践PubSubマイクロサービス / Implementation Pub Sub microservice (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/implementation-pub-sub-microservice</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ラボ環境を構築するためのツール比較してみた.pdf (nnaakano )</title>
-        <link>https://www.slideshare.net/nakanokkfit/pdf-6bbc</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spring Framework 6.1 / Spring Boot 3.2 の注目機能紹介</title>
-        <link>https://docs.google.com/presentation/d/17RdIx4ysrebxOTrGrBl2pr7yn9-T2krhyi9833C8pBE/preview</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINE Login ではじめる 「とりまセキュリティ」 (akakou)</title>
-        <link>https://speakerdeck.com/akakou/line-login-dehazimeru-torimasekiyuritei</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>時系列予測にTransformerを使うのは有効か？ (Fumihiko Takahashi)</title>
-        <link>https://www.slideshare.net/ssuser369dbc/transformer-261229829</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現代のReactivityとSvelteの魔法 (TOMIKAWA Sotaro)</title>
-        <link>https://speakerdeck.com/ssssota/reactivity-and-magic-of-svelte</link>
-        <dc:date>2023-11-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
