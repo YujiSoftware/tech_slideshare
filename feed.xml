@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「国と音楽」 ～spotifyrを用いて～ #muana (bob3bob3)</title>
+        <link>https://speakerdeck.com/bob3bob3/guo-toyin-le-spotifyrwoyong-ite-number-muana</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Build a car with Graphs, Fabien Batejat, Volvo Cars (Neo4j,@neo4j)</title>
+        <link>https://www.slideshare.net/neo4j/volvo-cars-build-a-car-with-graphs</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Composition API時代の Pub/Subパターンでの状態管理 (fuqda)</title>
+        <link>https://speakerdeck.com/fuqda/subpatandenozhuang-tai-guan-li</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エクセルで学ぶビジネスシミュレーション②：　実践編 (Hitoshi Kumano)</title>
+        <link>https://www.slideshare.net/HitoshiKumano/ss-27905378</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue Language Server から生まれた Volar.js と、それが秘める可能性 (mizdra)</title>
+        <link>https://speakerdeck.com/mizdra/vue-language-server-karasheng-mareta-volar-dot-js-to-soregami-meruke-neng-xing</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「自分の内側を観る」と 世界が変わるかも？～自分自身を紐解くメンタルモデルのご紹介～ (Takeshi Kakeda,@kkd)</title>
+        <link>https://www.slideshare.net/kkd/ss-251069460</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue.jsと3D可視化 - 産総研のOSS「AIST 3DDB Client」を例に / Vue Fes Japan 2023 (Sorami Hisamoto)</title>
+        <link>https://speakerdeck.com/sorami/vue-fes-japan-2023</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新社会人が今すぐ使える、​ExcelでC#を使う方法 (Tetsuo Honda)</title>
+        <link>https://www.slideshare.net/TetsuoHonda1/excelc</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CircleCIで悩んだことピックアップ (Takeo Saga)</title>
+        <link>https://www.slideshare.net/TakeoSaga/circleci-251018426</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SHAPやLIMEなどの説明AI（XAI）のご紹介 / SHAP LIME PDP Grad-CAM (smorce)</title>
+        <link>https://speakerdeck.com/smorce/shap-lime-pdp-grad-cam</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Defi practice (wei-li)</title>
         <link>https://www.slideshare.net/wei-li/defi-practice-236453999</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>【Saitama.js】Denoのすすめ (虎の穴 開発室)</title>
         <link>https://www.slideshare.net/toranoana-lab/saitamajsdeno</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『ライブラリー・リソース・ガイド（LRG）』第5号（2013年12月） (真 岡本,@arg)</title>
-        <link>https://www.slideshare.net/arg_editor/lrg5201312</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『ライブラリー・リソース・ガイド（LRG）』第9号（2014年12月） (真 岡本,@arg)</title>
-        <link>https://www.slideshare.net/arg_editor/lrg9201412</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ベータ分布の謎に迫る (Ken'ichi Matsui,@kenmatsu4)</title>
-        <link>https://www.slideshare.net/matsukenbook/ss-251140887</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>With/ Afterコロナ時代の日本における地域再生とモビリティ　－官民連携によるワーケーション誘致と地域活性化の提案ー (八田 麻沙子)</title>
-        <link>https://www.slideshare.net/MasakoHatta/0704-mobility-after-covid19</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スクラム開発でアジャイルテスティングを実施し、リリースサイクルを早めた話 (Kohei Tai)</title>
-        <link>https://www.slideshare.net/ssuserec1618/ss-251147778</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenTelemetryによるベンダーニュートラルな監視設定 (nutslove)</title>
-        <link>https://speakerdeck.com/nutslove/opentelemetryniyorubendaniyutorarunajian-shi-she-ding</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社会的共通資本と資本主義 (Yosuke YASUDA,@yagena)</title>
-        <link>https://www.slideshare.net/YosukeYasuda1/ss-251160835</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最強のチームが最高のプロダクトを作る (mizuman)</title>
-        <link>https://speakerdeck.com/mizuman/supreme-teams-for-supreme-creations</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C# ErrorProviderとValidatingイベント (Hiroki Takahashi)</title>
-        <link>https://www.slideshare.net/HirokiTakahashi/c-errorprovidervalidating</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Flutter アプリにおけるテスト戦略の見直しと自動テストの導入 (Takuma Osada)</title>
-        <link>https://speakerdeck.com/ostk0069/flutter-apuriniokerutesutozhan-lue-nojian-zhi-sitozi-dong-tesutonodao-ru</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
