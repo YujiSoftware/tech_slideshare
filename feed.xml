@@ -6,8 +6,33 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>個人開発を加速させる効率アップ戦術 (Kawakami Natsumi)</title>
+        <link>https://speakerdeck.com/natsumican63/personal-dev-acceleration-tactics</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>A４用紙読書ノート (忠憲 倉下)</title>
+        <link>https://www.slideshare.net/ssuser45f3bd19/a-17777655</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Terraform Registryで公開されているTerraform Modulesが便利だった件 (CUEBiC Inc.)</title>
+        <link>https://speakerdeck.com/cuebic9bic/terraform-registrytegong-kai-sareteiruterraform-moduleskabian-li-tatutajian</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>株式の高速取引と取引所の高速化 (Takanobu Mizuta,@takanobu_mizuta)</title>
+        <link>https://www.slideshare.net/mizutata/2021hft</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20231112_ChatGPTの活用によるデータサイエンス人材の育成 (NobuakiOshiro)</title>
         <link>https://speakerdeck.com/doradora09/20231112-chatgptnohuo-yong-niyorutetasaiensuren-cai-noyu-cheng</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Understanding Git Internals (Jeff Kunkle,@kunklejr)</title>
+        <link>https://www.slideshare.net/JeffKunkle/understanding-git</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
     <item>
@@ -78,31 +103,6 @@
     <item>
         <title>初めてのパフォーマンス改善 (Fu-ga)</title>
         <link>https://speakerdeck.com/fugakkbn/chu-metenopahuomansugai-shan</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQLのgitレポジトリから見える2021年の開発状況（第30回PostgreSQLアンカンファレンス@オンライン 発表資料） (NTT DATA Technology &amp; Innovation)</title>
-        <link>https://www.slideshare.net/nttdata-tech/postgresql-development-community-activities-2021-pgunconf30-nttdata</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>業務で使える一歩進んだPython使いになるために / To become an advanced user of Python that can be used at work (yumechi(Motoki Hirao))</title>
-        <link>https://speakerdeck.com/yumechi/to-become-an-advanced-user-of-python-that-can-be-used-at-work</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Playgram開発秘話_2022年1月プログラミングシンポジウム招待講演_西澤勇輝、岡本雄太 (Preferred Networks,@PreferredNetJP)</title>
-        <link>https://www.slideshare.net/pfi/playgram20221</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Exceptional Rails (Shinichi Maeshima)</title>
-        <link>https://speakerdeck.com/willnet/exceptional-rails</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Digital 2022 Global Overview Report (January 2022) v02 (DataReportal)</title>
-        <link>https://www.slideshare.net/DataReportal/digital-2022-global-overview-report-january-2022-v02</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
