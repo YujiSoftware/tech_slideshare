@@ -47,11 +47,13 @@ public class SlideShareParser implements Parser {
                     .filter(e -> e.attr("name").equals("twitter:card"))
                     .anyMatch(e -> e.attr("content").equals("player"));
             if (!isPresentation) {
+                logger.debug("Not presentation page: {}", link);
                 return Optional.empty();
             }
 
             Element json = doc.getElementById("__NEXT_DATA__");
             if (json == null) {
+                logger.debug("__NEXT_DATA__ not found: {}", link);
                 return Optional.empty();
             }
 
@@ -67,6 +69,7 @@ public class SlideShareParser implements Parser {
             // 1ページしかないものは、スパムと判定して除外
             long pageCount = Integer.parseInt(slideshow.totalSlides);
             if (pageCount <= 1) {
+                logger.debug("TotalSlides = 1: {}", link);
                 return Optional.empty();
             }
 
@@ -78,6 +81,7 @@ public class SlideShareParser implements Parser {
 
             // スパム対策として、特定のキーワードを含むタイトルのものは除外
             if (title.contains("film") || title.contains("Film") || title.contains("-var4-") || title.contains("4KTUBE-HD") || title.contains("{{!VAR4}")) {
+                logger.debug("May be spam: {}, {}", title, link);
                 return Optional.empty();
             }
 
