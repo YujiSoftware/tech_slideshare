@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【Saitama.js】Denoのすすめ (虎の穴 開発室)</title>
+        <link>https://www.slideshare.net/toranoana-lab/saitamajsdeno</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>『ライブラリー・リソース・ガイド（LRG）』第5号（2013年12月） (真 岡本,@arg)</title>
+        <link>https://www.slideshare.net/arg_editor/lrg5201312</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>『ライブラリー・リソース・ガイド（LRG）』第9号（2014年12月） (真 岡本,@arg)</title>
+        <link>https://www.slideshare.net/arg_editor/lrg9201412</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ベータ分布の謎に迫る (Ken'ichi Matsui,@kenmatsu4)</title>
         <link>https://www.slideshare.net/matsukenbook/ss-251140887</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Tensor コアを使った PyTorch の高速化 (Yusuke Fujimoto)</title>
         <link>https://www.slideshare.net/YusukeFujimoto1/tensor-pytorch</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【LT登壇資料】個人の開発生産性を上げる！自慢のツール紹介LT&amp;交流会！ (Masato Tezuka)</title>
-        <link>https://speakerdeck.com/masatotezuka/ltdeng-tan-zi-liao-ge-ren-nokai-fa-sheng-chan-xing-woshang-geru-zi-man-noturushao-jie-lt-and-jiao-liu-hui</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オーバーエンジニアリングって何？ #devsumi #devsumiA (Ore Product)</title>
-        <link>https://www.slideshare.net/ssuserf3aaa0/devsumi-devsumia-251186972</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発効率をアップするテクニック・ツール3選 / three-way-tools-and-techniques (Soejima Karukichi)</title>
-        <link>https://speakerdeck.com/soejima0124/three-way-tools-and-techniques</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
