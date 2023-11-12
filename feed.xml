@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>静的解析Klocwork とJenkins CIの連携 (Masaru Horioka)</title>
+        <link>https://www.slideshare.net/masaruhorioka/klocwork-jenkins-ci</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>音楽波形データからコードを推定してみる (Ken'ichi Matsui,@kenmatsu4)</title>
+        <link>https://www.slideshare.net/matsukenbook/ss-251098199</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>New Relic University at Future Stack Tokyo 2019 (New Relic,@newrelic)</title>
+        <link>https://www.slideshare.net/newrelic/new-relic-university-at-future-stack-tokyo-2019</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【Saitama.js】Denoのすすめ (虎の穴 開発室)</title>
         <link>https://www.slideshare.net/toranoana-lab/saitamajsdeno</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>負荷試験Night#1 負荷試験2023年トレンド (ohr486)</title>
         <link>https://speakerdeck.com/ohr486/fu-he-shi-yan-night-number-1-fu-he-shi-yan-2023nian-torendo</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Early Results of OpenMP 4.5 Portability on NVIDIA GPUs &amp; CPUs (Jeff Larkin,@jefflarkin)</title>
-        <link>https://www.slideshare.net/jefflarkin/early-results-of-openmp-45-portability-on-nvidia-gpus-cpus</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社内の生産性向上MTGで挙がったツールを 紹介していく (ruitomo)</title>
-        <link>https://speakerdeck.com/ruitomo/she-nei-nosheng-chan-xing-xiang-shang-mtgdeju-gatutaturuwo-shao-jie-siteiku</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tensor コアを使った PyTorch の高速化 (Yusuke Fujimoto)</title>
-        <link>https://www.slideshare.net/YusukeFujimoto1/tensor-pytorch</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
