@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>行動ログ収集 API サーバの Fastly Compute 移行〜高スケーラビリティ、高信頼性、高メンテナンス性を目指して 〜 (htamakos)</title>
+        <link>https://speakerdeck.com/htamakos/xing-dong-rogushou-ji-api-sabano-fastly-compute-yi-xing-gao-sukerabiritei-gao-xin-lai-xing-gao-mentenansuxing-womu-zhi-site</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Spring Integration 超入門 (Yasutaka Sugamura)</title>
+        <link>https://www.slideshare.net/YasutakaSugamura/spring-integration-248460684</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ERB Hacks (seki at druby.org)</title>
+        <link>https://speakerdeck.com/m_seki/erb-hacks</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Google の AIツール 『Auto ML』で機械学習してみた (Yuya Ohara,@VOLT3103)</title>
+        <link>https://www.slideshare.net/YuyaOhara/google-ai-auto-ml</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>負荷試験Night#1 負荷試験2023年トレンド (ohr486)</title>
+        <link>https://speakerdeck.com/ohr486/fu-he-shi-yan-night-number-1-fu-he-shi-yan-2023nian-torendo</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Early Results of OpenMP 4.5 Portability on NVIDIA GPUs &amp; CPUs (Jeff Larkin,@jefflarkin)</title>
+        <link>https://www.slideshare.net/jefflarkin/early-results-of-openmp-45-portability-on-nvidia-gpus-cpus</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>社内の生産性向上MTGで挙がったツールを 紹介していく (ruitomo)</title>
         <link>https://speakerdeck.com/ruitomo/she-nei-nosheng-chan-xing-xiang-shang-mtgdeju-gatutaturuwo-shao-jie-siteiku</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>DevOpsを支える原則、3つの道 (Arata Fujimura,@aratafuji)</title>
         <link>https://www.slideshare.net/aratafuji/devops3-251185794</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>M3 NavigationBar をマスターする (akkie76)</title>
-        <link>https://speakerdeck.com/akkie76/m3-navigationbar-womasutasuru</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[DL輪読会]data2vec: A General Framework for Self-supervised Learning in… (Deep Learning JP)</title>
-        <link>https://www.slideshare.net/DeepLearningJP2016/dldata2vec-a-general-framework-for-selfsupervised-learning-in-speech-vision-and-language-251106954</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINEログインのログインフローを理解して使う (minako-ph)</title>
-        <link>https://speakerdeck.com/minako__ph/lineroguinnoroguinhurowoli-jie-siteshi-u</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ユーザーサイド情報検索システム (joisino)</title>
-        <link>https://www.slideshare.net/joisino/ss-251143305</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NeRF: 3次元×機械学習入門 ー注目の3次元化技術をやさしく解説ー (Kenta Itakura)</title>
-        <link>https://speakerdeck.com/kentaitakura/nerf-3ci-yuan-xji-jie-xue-xi-ru-men-zhu-mu-no3ci-yuan-hua-ji-shu-woyasasikujie-shuo</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Patterns of evolution from monolith to microservices (Karina Mora)</title>
-        <link>https://www.slideshare.net/KarinaMora11/patterns-of-evolution-from-monolith-to-microservices</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
