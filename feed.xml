@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Mojo Dojo (Henry Cui)</title>
+        <link>https://speakerdeck.com/zchenry/mojo-dojo</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>物体検出エラーの分析ツール TIDE (GuoqingLiu9)</title>
+        <link>https://www.slideshare.net/GuoqingLiu9/tide-250699350</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LangChainのDocument機能を使って文書処理を柔軟にする (西岡 賢一郎 (Kenichiro Nishioka))</title>
+        <link>https://speakerdeck.com/knishioka/langchainnodocumentji-neng-woshi-tutewen-shu-chu-li-worou-ruan-nisuru</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Masked Autoencoders Are Scalable Vision Learners (GuoqingLiu9)</title>
+        <link>https://www.slideshare.net/GuoqingLiu9/masked-autoencoders-are-scalable-vision-learners</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>管理機能アーキテクチャパターンの考察と実践 / Learn Architecture through Admin (Masato Ohba)</title>
+        <link>https://speakerdeck.com/ohbarye/learn-architecture-through-admin</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[20220126] JAWS-UG 2022初頭までに葬ったAWSアンチパターン大紹介 (Amazon Web Services Japan,@awscloud_jp)</title>
+        <link>https://www.slideshare.net/AmazonWebServicesJapan/20220126-jawsug-2022aws</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Hotwire的な設計を追求して「Web紙芝居」に行き着いた話 (Yasuko Ohba)</title>
         <link>https://speakerdeck.com/nay3/hotwirede-nashe-ji-wozhui-qiu-site-webzhi-zhi-ju-nixing-kizhao-itahua</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>新社会人が今すぐ使える、​ExcelでC#を使う方法 (Tetsuo Honda)</title>
         <link>https://www.slideshare.net/TetsuoHonda1/excelc</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CircleCIで悩んだことピックアップ (Takeo Saga)</title>
-        <link>https://www.slideshare.net/TakeoSaga/circleci-251018426</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SHAPやLIMEなどの説明AI（XAI）のご紹介 / SHAP LIME PDP Grad-CAM (smorce)</title>
-        <link>https://speakerdeck.com/smorce/shap-lime-pdp-grad-cam</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Defi practice (wei-li)</title>
-        <link>https://www.slideshare.net/wei-li/defi-practice-236453999</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Notes/Domino 開発tipsサービスについて (Masahiko Miyo,@guylocke)</title>
-        <link>https://www.slideshare.net/ssuser40c5c0/notesdomino-tips</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>202106 AWS Black Belt Online Seminar 小売現場のデータを素早くビジネス に活用するAWSデータ… (Amazon Web Services Japan,@awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/202106-aws-black-belt-online-seminar-aws</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>えぇ！？マッハでテレワーク環境を！？ (ssuser868e2d)</title>
-        <link>https://www.slideshare.net/ssuser868e2d/ss-251097791</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
