@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>社内の生産性向上MTGで挙がったツールを 紹介していく (ruitomo)</title>
+        <link>https://speakerdeck.com/ruitomo/she-nei-nosheng-chan-xing-xiang-shang-mtgdeju-gatutaturuwo-shao-jie-siteiku</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Tensor コアを使った PyTorch の高速化 (Yusuke Fujimoto)</title>
+        <link>https://www.slideshare.net/YusukeFujimoto1/tensor-pytorch</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【LT登壇資料】個人の開発生産性を上げる！自慢のツール紹介LT&amp;交流会！ (Masato Tezuka)</title>
+        <link>https://speakerdeck.com/masatotezuka/ltdeng-tan-zi-liao-ge-ren-nokai-fa-sheng-chan-xing-woshang-geru-zi-man-noturushao-jie-lt-and-jiao-liu-hui</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オーバーエンジニアリングって何？ #devsumi #devsumiA (Ore Product)</title>
+        <link>https://www.slideshare.net/ssuserf3aaa0/devsumi-devsumia-251186972</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発効率をアップするテクニック・ツール3選 / three-way-tools-and-techniques (Soejima Karukichi)</title>
+        <link>https://speakerdeck.com/soejima0124/three-way-tools-and-techniques</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS + MLflow + SageMakerの環境を動かしてみたお話 (ItohHiroki)</title>
+        <link>https://www.slideshare.net/ItohHiroki/aws-mlflow-sagemaker-251186005</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LazyColumnのitemがViewPortの中で占める領域の割合を知りたい (Keishin Yokomaku)</title>
         <link>https://speakerdeck.com/keithyokoma/lazycolumnnoitemgaviewportnozhong-dezhan-meruling-yu-noge-he-wozhi-ritai</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>Patterns of evolution from monolith to microservices (Karina Mora)</title>
         <link>https://www.slideshare.net/KarinaMora11/patterns-of-evolution-from-monolith-to-microservices</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>30分で理解する、AWS の WEB Front-end Strategy / Serverless Front-end Strategy (kensh)</title>
-        <link>https://speakerdeck.com/_kensh/serverless-front-end-strategy</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rdraモデリングをしよう (Zenji Kanzaki)</title>
-        <link>https://www.slideshare.net/zenjikanzaki/rdra-251203691</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>動くコードを書こう / let's code a process (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/lets-code-a-process</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LiB CONSULTING Co.,Ltd. (鍾佑 沈)</title>
-        <link>https://www.slideshare.net/ssuser44ccf6/lib-consulting-coltd-251105902</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java21とKotlinの代数的データ型 &amp;  パターンマッチの紹介と本当に嬉しい使い方 / Algebraic Data Type in Java and Kotlin: Happy Use of Pattern Match (YuitoSato)</title>
-        <link>https://speakerdeck.com/yuitosato/algebraic-data-type-in-java-and-kotlin-happy-use-of-pattern-match</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>wakamonog meeting 12 LT (orumo )</title>
-        <link>https://www.slideshare.net/orumoktkgo/wakamonog-meeting-12-lt</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
