@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenTelemetryによるベンダーニュートラルな監視設定 (nutslove)</title>
+        <link>https://speakerdeck.com/nutslove/opentelemetryniyorubendaniyutorarunajian-shi-she-ding</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>社会的共通資本と資本主義 (Yosuke YASUDA,@yagena)</title>
+        <link>https://www.slideshare.net/YosukeYasuda1/ss-251160835</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最強のチームが最高のプロダクトを作る (mizuman)</title>
+        <link>https://speakerdeck.com/mizuman/supreme-teams-for-supreme-creations</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>C# ErrorProviderとValidatingイベント (Hiroki Takahashi)</title>
+        <link>https://www.slideshare.net/HirokiTakahashi/c-errorprovidervalidating</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Flutter アプリにおけるテスト戦略の見直しと自動テストの導入 (Takuma Osada)</title>
+        <link>https://speakerdeck.com/ostk0069/flutter-apuriniokerutesutozhan-lue-nojian-zhi-sitozi-dong-tesutonodao-ru</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>How to find your iPhone/iPad/iPod device id (udid) without iTunes (Kristina Ochkina)</title>
+        <link>https://www.slideshare.net/kristinaochkina/how-to-find-your-iphoneipad-device-id-ltstrongudidltstrong-how-to-find-your-iphoneipad-device-id-udid-get-udidget-udid</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>行動ログ収集 API サーバの Fastly Compute 移行〜高スケーラビリティ、高信頼性、高メンテナンス性を目指して 〜 (htamakos)</title>
         <link>https://speakerdeck.com/htamakos/xing-dong-rogushou-ji-api-sabano-fastly-compute-yi-xing-gao-sukerabiritei-gao-xin-lai-xing-gao-mentenansuxing-womu-zhi-site</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>MLOps failure(1_108) (yusuke shibui)</title>
         <link>https://www.slideshare.net/yusukeshibui/mlops-failure1108</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>複数端末で Visual Regression Test を 実行する上での工夫と課題 (Kurumi Morimoto)</title>
-        <link>https://speakerdeck.com/morux2/fu-shu-duan-mo-de-visual-regression-test-wo-shi-xing-surushang-denogong-fu-toke-ti</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「指標」を支えるエンジニアリング: DataOpsNight #1 (株式会社MonotaRO Tech Team)</title>
-        <link>https://www.slideshare.net/monotaro-itd-pr/dataopsnight-1</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Drag &amp; Drop in LazyColumn (gotlin)</title>
-        <link>https://speakerdeck.com/goutarouh/drag-and-drop-in-lazycolumn</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データサイエンティスト向け性能問題対応の基礎 (Tetsutaro Watanabe,@fetarodc)</title>
-        <link>https://www.slideshare.net/tetsutarowatanabe/ss-251165759</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新規プロジェクトでやってよかったことまとめ (kobito-kaba)</title>
-        <link>https://speakerdeck.com/kobitokaba/xin-gui-puroziekutodeyatuteyokatutakotomatome</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevOpsを支える原則、3つの道 (Arata Fujimura,@aratafuji)</title>
-        <link>https://www.slideshare.net/aratafuji/devops3-251185794</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
