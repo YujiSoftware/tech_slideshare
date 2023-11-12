@@ -11,6 +11,7 @@ import org.slf4j.LoggerFactory;
 import tech.slideshare.collector.Slide;
 
 import java.io.IOException;
+import java.net.HttpURLConnection;
 import java.util.Optional;
 
 public class SlideShareParser implements Parser {
@@ -26,9 +27,19 @@ public class SlideShareParser implements Parser {
                 return Optional.empty();
             }
 
-            // SlideShare はデフォルトでモバイル用のページを返してくるので、
-            // 明示的にPC用のユーザエージェントを設定する必要がある
-            Document doc = Jsoup.connect(link).userAgent(USER_AGENT).get();
+            Document doc;
+            try {
+                // SlideShare はデフォルトでモバイル用のページを返してくるので、
+                // 明示的にPC用のユーザエージェントを設定する必要がある
+                doc = Jsoup.connect(link).userAgent(USER_AGENT).get();
+            } catch (HttpStatusException e) {
+                // ファイルが削除された場合、410 GONE が返ってくる
+                if (e.getStatusCode() == HttpURLConnection.HTTP_GONE) {
+                    logger.debug("Deleted: {}", link);
+                    return Optional.empty();
+                }
+                throw e;
+            }
 
             // URL を正規化
             Optional<String> canonical = doc.getElementsByTag("link")

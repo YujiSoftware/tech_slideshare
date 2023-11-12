@@ -86,4 +86,12 @@ public class SlideShareParserTest {
         Optional<Slide> actual = parser.parse(link);
         assertTrue(actual.isEmpty());
     }
+
+    @Test
+    public void 削除済み() {
+        String link = "https://www.slideshare.net/AkiraNagai4/6-256787902";
+
+        Optional<Slide> actual = parser.parse(link);
+        assertTrue(actual.isEmpty());
+    }
 }
