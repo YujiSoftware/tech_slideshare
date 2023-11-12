@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20230123_FinJAWS (Takuya Yonezawa)</title>
+        <link>https://speakerdeck.com/takuyay0ne/20230123-finjaws</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Python SOLID (Eduardo Ferro Aldama,@eferro)</title>
+        <link>https://www.slideshare.net/DrTrucho/python-solid</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LINEヤフー株式会社が目指すエンジニア組織のビジョンとDevRelの役割 (LY Corporation Tech)</title>
+        <link>https://speakerdeck.com/lycorptech_jp/the-role-of-devrel-at-ly-corporation</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テンソル代数 (KCS Keio Computer Society)</title>
+        <link>https://www.slideshare.net/KCSKeioComputerSocie/ss-99640845</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>gem updateには学びがいっぱい (Masato Sugiyama)</title>
+        <link>https://speakerdeck.com/smasato/gem-update-learning</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発者からサポートエンジニアにジョブチェンジした話 (Ito Takayuki)</title>
+        <link>https://www.slideshare.net/ItoTakayuki/ss-135369140</link>
+        <dc:date>2023-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>めぐろLT_ Pythonの弱参照(weakref)を使えば、世界はもっと良くなる (Yusuke Tamura)</title>
         <link>https://speakerdeck.com/tamtam0423/mekurolt-pythonnoruo-can-zhao-weakref-woshi-eha-shi-jie-hamotutoliang-kunaru</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>Sli.do入門 (徹 宮原,@tmiyahar)</title>
         <link>https://www.slideshare.net/ToruMiyahara/slido-241806068</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>成長は小さな失敗の積み重ね 事業を支えるCARTAのフルサイクルエンジニアリング / growth-for-small-fail-fast-carta-fullcycle (CARTA Engineering)</title>
-        <link>https://speakerdeck.com/carta_engineering/growth-for-small-fail-fast-carta-fullcycle</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プレゼンテーションのアドバイスまとめ (Manabu KANO)</title>
-        <link>https://www.slideshare.net/manabu4/ss-251029325</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテナ環境でのJavaトラブルシューティング (Kenji Kazumura)</title>
-        <link>https://speakerdeck.com/kazumura/kontenahuan-jing-denojavatoraburusiyuteingu</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIマリオで全ステージクリアチャレンジ (karaage0703,@karaage0703)</title>
-        <link>https://www.slideshare.net/karaage0703/ai-251035946</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BulletmarkRepairer: auto corrector for N+1 queries (makicamel)</title>
-        <link>https://speakerdeck.com/makicamel/bulletmarkrepairer-auto-corrector-for-n-plus-1-queries</link>
-        <dc:date>2023-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アクションゲームをつくってみよう！ (poko ponmaru)</title>
-        <link>https://www.slideshare.net/pokoponmaru/ss-251036968</link>
         <dc:date>2023-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
