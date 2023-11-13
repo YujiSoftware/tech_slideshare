@@ -6,8 +6,23 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[Paper Review] MIT Cheetah 1: Gait-pattern, trajectory generator (Hancheol Choi)</title>
+        <link>https://www.slideshare.net/babchol/paper-review-mit-cheetah-1-gaitpattern-trajectory-generator</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetesのワーカーノードを自動修復するために必要だったこと (h-otter)</title>
+        <link>https://www.slideshare.net/h-otter/kubernetes-1-250593952</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>仮想スレッド/ネイティブイメージ/CRaC/ノンブロッキングにも対応！ msで起動しオンプレからサーバレスまで幅広く利用できる 軽量OSSフレームワークQuarkus (Chihiro Ito)</title>
         <link>https://speakerdeck.com/chiroito/jjug-ccc-2023-fall-quarkus</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>1日8時間足らずでだいたい年18本企画して10冊つくる進捗のしくみ (Tomoyuki Den)</title>
+        <link>https://www.slideshare.net/TomoyukiDen/181810</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
     <item>
@@ -88,21 +103,6 @@
     <item>
         <title>マッチングの数理 (Yosuke YASUDA,@yagena)</title>
         <link>https://www.slideshare.net/YosukeYasuda1/ss-54826245</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MN-3, MN-Core and HPL - SC21 Green500 BOF (Preferred Networks,@PreferredNetJP)</title>
-        <link>https://www.slideshare.net/pfi/mn3-mncore-and-hpl-sc21-green500-bof</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web ベースのカジュアルゲーム「block pong」の実装とビジネス (t-kihira)</title>
-        <link>https://www.slideshare.net/t-kihira/web-block-pong</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【15-A-4】Redmine + Lychee 導入のアンチパターン (Developers Summit,@devsumi)</title>
-        <link>https://www.slideshare.net/devsumi/15a4redmine-lychee</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
