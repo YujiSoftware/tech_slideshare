@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>仮想スレッド/ネイティブイメージ/CRaC/ノンブロッキングにも対応！ msで起動しオンプレからサーバレスまで幅広く利用できる 軽量OSSフレームワークQuarkus (Chihiro Ito)</title>
+        <link>https://speakerdeck.com/chiroito/jjug-ccc-2023-fall-quarkus</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20211109 bleaの使い方（基本編） (Amazon Web Services Japan,@awscloud_jp)</title>
+        <link>https://www.slideshare.net/AmazonWebServicesJapan/20211109-blea</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【Unity道場 幕張スペシャル3】「Playground」を魔改造！? ゲームデザイン授業への活用 (Unity Technologies Japan K.K.)</title>
+        <link>https://www.slideshare.net/UnityTechnologiesJapan/unity-3playground</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BIGLOBE RDRA導入後の要件定義の変化 (BIGLOBE Inc.)</title>
+        <link>https://www.slideshare.net/biglobe-developers/biglobe-rdra</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PostgreSQL開発コミュニティに参加しよう！（PostgreSQL Conference Japan 2021 発表資料） (NTT DATA Technology &amp; Innovation)</title>
         <link>https://www.slideshare.net/nttdata-tech/postgresql-global-development-group-postgresql-conference-japan-2021-nttdata</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>【15-A-4】Redmine + Lychee 導入のアンチパターン (Developers Summit,@devsumi)</title>
         <link>https://www.slideshare.net/devsumi/15a4redmine-lychee</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDRAモデリングを見てみよう (Zenji Kanzaki)</title>
-        <link>https://www.slideshare.net/zenjikanzaki/rdra-250720725</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Yahoo!広告] Spring Boot+Neo4jを 使⽤した広告アカウント管理での 階層構造化の実現 (LY Corporation Tech)</title>
-        <link>https://speakerdeck.com/lycorptech_jp/jjug-2023-ly-corporation-session-sponspr</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hatena::Letの式年遷宮 (Takafumi ONAKA,@onk)</title>
-        <link>https://www.slideshare.net/takafumionaka/hatenalet</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習工学の進展と課題 2021 (Fuyuki Ishikawa,@fyufyu)</title>
-        <link>https://www.slideshare.net/FuyukiIshikawa/2021-250744810</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
