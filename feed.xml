@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組み合わせテストの落とし穴〜有則と無則〜 (yufu yufu)</title>
+        <link>https://www.slideshare.net/ssusere4f193/ss-149101842</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rdraはどう形作られたか？ (Zenji Kanzaki)</title>
+        <link>https://www.slideshare.net/zenjikanzaki/rdra-250558352</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rxに入門しようとしている (onotchi_)</title>
+        <link>https://www.slideshare.net/onotchi_/rx-59050455</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>並列分散処理基盤のいま ～45分で学ぶHadoop/Spark/Kafka/ストレージレイヤSW入門～（Open Source Confe… (NTT DATA Technology &amp; Innovation)</title>
         <link>https://www.slideshare.net/nttdata-tech/distributed-data-processing-system-hadoop-spark-kafka-storage-layer-software-osc2021-online-hokkaido-nttdata</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>202110 AWS Black Belt Online Seminar AWS Site-to-Site VPN (Amazon Web Services Japan,@awscloud_jp)</title>
         <link>https://www.slideshare.net/AmazonWebServicesJapan/202110-aws-black-belt-online-seminar-aws-sitetosite-vpn</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>視線を検出したかった（第56回 コンピュータビジョン勉強会＠関東） (Naoya Takeuchi)</title>
-        <link>https://www.slideshare.net/NaoyaTakeuchi/ss-221273392</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20201208 AWS Black Belt Online Seminar AWS Config update (Amazon Web Services Japan,@awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/20201208-aws-black-belt-online-seminar-aws-config-update</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Paper Review] MIT Cheetah 1: Gait-pattern, trajectory generator (Hancheol Choi)</title>
-        <link>https://www.slideshare.net/babchol/paper-review-mit-cheetah-1-gaitpattern-trajectory-generator</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
