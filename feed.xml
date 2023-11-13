@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>確率解析計算 (Yusuke Matsushita,@shiatsumat)</title>
+        <link>https://www.slideshare.net/Kinokkory/ss-14102323</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>万年ビギナーによるPythonプログラミングのリハビリ計画 (Takeshi Akutsu,@akucchan_world)</title>
+        <link>https://www.slideshare.net/TakeshiAkutsu/python-250435971</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Python 3.9からの新定番zoneinfoを使いこなそう (Ryuji Tsutsui)</title>
+        <link>https://www.slideshare.net/ryu22e/python-39zoneinfo</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>位置データもPythonで！！！ (hide ogawa)</title>
         <link>https://www.slideshare.net/hideogawa/python-250447780</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>並列分散処理基盤のいま ～45分で学ぶHadoop/Spark/Kafka/ストレージレイヤSW入門～（Open Source Confe… (NTT DATA Technology &amp; Innovation)</title>
         <link>https://www.slideshare.net/nttdata-tech/distributed-data-processing-system-hadoop-spark-kafka-storage-layer-software-osc2021-online-hokkaido-nttdata</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ基盤グループを支えるチームビルディング (株式会社MonotaRO Tech Team)</title>
-        <link>https://www.slideshare.net/monotaro-itd-pr/ss-250546803</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>明日から始めるSidekiqオブザーバビリティ向上 (imaharu)</title>
-        <link>https://speakerdeck.com/imaharu/ming-ri-karashi-merusidekiqobuzababiriteixiang-shang</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウェブスケール・ディスカバリー（WSD）利用者の利用状況と認識 ―インタビュー調査による探索的研究 (Takeshi Kuboyama)</title>
-        <link>https://www.slideshare.net/TakeshiKuboyama/wsd-250410197</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
