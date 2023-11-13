@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Raspberry Piで始める自宅サーバー超入門 (徹 宮原,@tmiyahar)</title>
+        <link>https://www.slideshare.net/ToruMiyahara/raspberry-pi-250766503</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>An introduction to SQLAlchemy (mengukagan)</title>
+        <link>https://www.slideshare.net/mengukagan/an-introduction-to-sqlalchemy</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NLP2021 AI王 解法紹介 8 (Takamichi Toda,@Trtd6Trtd)</title>
+        <link>https://www.slideshare.net/ssuser0ed011/nlp2021-ai-8</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>俺的 Ignite 2021 Fall Update まとめ (Yui Ashikaga)</title>
         <link>https://www.slideshare.net/YuiAshikaga/ignite-2021-fall-update</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>太陽の南中時刻と南中高度から緯度と経度を測定する。 (Tomoyoshi HIRATA,@tomo3141592653)</title>
         <link>https://www.slideshare.net/tomo3141592653/ss-119864513</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Mmlab seminar 2016] deep learning for human pose estimation (Wei Yang)</title>
-        <link>https://www.slideshare.net/plutoyang/mmlab-seminar-2016-deep-learning-for-human-pose-estimation</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesクラスタバージョンアップを支える技術 (LIFULL Co., Ltd.)</title>
-        <link>https://www.slideshare.net/next_developer/kubernetes-250833594</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesセキュリティの歩き方 (LIFULL Co., Ltd.)</title>
-        <link>https://www.slideshare.net/next_developer/kubernetes-250841266</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
