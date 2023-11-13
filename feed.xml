@@ -6,8 +6,23 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>並列分散処理基盤のいま ～45分で学ぶHadoop/Spark/Kafka/ストレージレイヤSW入門～（Open Source Confe… (NTT DATA Technology &amp; Innovation)</title>
+        <link>https://www.slideshare.net/nttdata-tech/distributed-data-processing-system-hadoop-spark-kafka-storage-layer-software-osc2021-online-hokkaido-nttdata</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データ基盤グループを支えるチームビルディング (株式会社MonotaRO Tech Team)</title>
+        <link>https://www.slideshare.net/monotaro-itd-pr/ss-250546803</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>明日から始めるSidekiqオブザーバビリティ向上 (imaharu)</title>
         <link>https://speakerdeck.com/imaharu/ming-ri-karashi-merusidekiqobuzababiriteixiang-shang</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ウェブスケール・ディスカバリー（WSD）利用者の利用状況と認識 ―インタビュー調査による探索的研究 (Takeshi Kuboyama)</title>
+        <link>https://www.slideshare.net/TakeshiKuboyama/wsd-250410197</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
     <item>
@@ -88,21 +103,6 @@
     <item>
         <title>[Paper Review] MIT Cheetah 1: Gait-pattern, trajectory generator (Hancheol Choi)</title>
         <link>https://www.slideshare.net/babchol/paper-review-mit-cheetah-1-gaitpattern-trajectory-generator</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesのワーカーノードを自動修復するために必要だったこと (h-otter)</title>
-        <link>https://www.slideshare.net/h-otter/kubernetes-1-250593952</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仮想スレッド/ネイティブイメージ/CRaC/ノンブロッキングにも対応！ msで起動しオンプレからサーバレスまで幅広く利用できる 軽量OSSフレームワークQuarkus (Chihiro Ito)</title>
-        <link>https://speakerdeck.com/chiroito/jjug-ccc-2023-fall-quarkus</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>1日8時間足らずでだいたい年18本企画して10冊つくる進捗のしくみ (Tomoyuki Den)</title>
-        <link>https://www.slideshare.net/TomoyukiDen/181810</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
