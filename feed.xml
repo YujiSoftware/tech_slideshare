@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Gatlingによる負荷テスト入門 (irof)</title>
+        <link>https://speakerdeck.com/irof/gatlingniyorufu-he-tesutoru-men</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Using Vivox to connect your players: Text and voice comms – Unite Cop… (Unity Technologies,@unity3d)</title>
+        <link>https://www.slideshare.net/unity3d/using-vivox-to-connect-your-players-text-and-voice-comms-unite-copenhagen-2019</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>統制語、シソーラス、MeSH？に基づく医学論文の検索 (Takashi Fujiwara)</title>
+        <link>https://www.slideshare.net/takashifujiwara71/mesh-75348768</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Web フロントエンドの変遷とこれから (Shogo Sensui,@1000ch)</title>
+        <link>https://www.slideshare.net/1000ch/transition-of-web-frontend</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>脆弱性スキャナVuls（応用編） (Takayuki Ushida)</title>
         <link>https://www.slideshare.net/TakayukiUshida/vuls-102299967</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>IIJmio meeting 31 MVNOの音声通話を巡る最新状況 (techlog (Internet Initiative Japan Inc.))</title>
         <link>https://www.slideshare.net/IIJ_techlog/iijmio-meeting-31-mvno</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IIJmio meeting 31 IIJmio Updates 2021/07-2021/10 (techlog (Internet Initiative Japan Inc.))</title>
-        <link>https://www.slideshare.net/IIJ_techlog/iijmio-meeting-31-iijmio-updates-202107202110</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DataOpsbarcelona 2019: Deep dive into MySQL Group Replication... the… (Frederic Descamps,@lefred)</title>
-        <link>https://www.slideshare.net/lefred.descamps/dataopsbarcelona-2019-deep-dive-into-mysql-group-replication-the-magic-explained</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Don’t Sacrifice Performance for Security: Best Practices for Content … (Amazon Web Services,@awscloud)</title>
-        <link>https://www.slideshare.net/AmazonWebServices/dont-sacrifice-performance-for-security-best-practices-for-content-delivery</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Stablecoin Regulation in Japan (So Saito)</title>
-        <link>https://www.slideshare.net/SoSaito1/stablecoin-regulation-in-japan</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
