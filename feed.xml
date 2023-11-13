@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vuls祭り5 ; 脆弱性トリアージの考え方 (hogehuga)</title>
+        <link>https://www.slideshare.net/hogehuga/vuls5-150398263</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>イミュータブルデータモデルの極意 (Yoshitaka Kawashima,@kawasima)</title>
+        <link>https://www.slideshare.net/kawasima/ss-250716400</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Github Actionsで GASのデプロイを自動化した (ShioriSawada)</title>
+        <link>https://www.slideshare.net/ShioriSawada/github-actions-gas-249968691</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マッチングの数理 (Yosuke YASUDA,@yagena)</title>
         <link>https://www.slideshare.net/YosukeYasuda1/ss-54826245</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>俺的 Ignite 2021 Fall Update まとめ (Yui Ashikaga)</title>
         <link>https://www.slideshare.net/YuiAshikaga/ignite-2021-fall-update</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>India import export data discloses trade loss as (parigupta16)</title>
-        <link>https://www.slideshare.net/parigupta16/india-import-export-data-discloses-trade-loss-as</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Open Source Malware Hunting Lab (DiscoNinja)</title>
-        <link>https://speakerdeck.com/disconinja/open-source-malware-hunting-lab</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to Easily find Import and Export data (parigupta16)</title>
-        <link>https://www.slideshare.net/parigupta16/how-to-easily-find-import-and-export-data</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
