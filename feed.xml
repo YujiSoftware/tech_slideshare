@@ -6,8 +6,23 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>位置データもPythonで！！！ (hide ogawa)</title>
+        <link>https://www.slideshare.net/hideogawa/python-250447780</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Spring Boot—Production Boost (VMware Tanzu,@VMwareTanzu)</title>
+        <link>https://www.slideshare.net/Pivotal/spring-bootproduction-boost</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Gatlingによる負荷テスト入門 (irof)</title>
         <link>https://speakerdeck.com/irof/gatlingniyorufu-he-tesutoru-men</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>From Spring Framework 5.3 to 6.0 (VMware Tanzu,@VMwareTanzu)</title>
+        <link>https://www.slideshare.net/Pivotal/from-spring-framework-53-to-60</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
     <item>
@@ -88,21 +103,6 @@
     <item>
         <title>ウェブスケール・ディスカバリー（WSD）利用者の利用状況と認識 ―インタビュー調査による探索的研究 (Takeshi Kuboyama)</title>
         <link>https://www.slideshare.net/TakeshiKuboyama/wsd-250410197</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大企業でアジャイル開発を推進できる条件とその心構え (LIFULL Co., Ltd.)</title>
-        <link>https://www.slideshare.net/next_developer/ss-249158013</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IIJmio meeting 31 音声通信の世界 (techlog (Internet Initiative Japan Inc.))</title>
-        <link>https://www.slideshare.net/IIJ_techlog/iijmio-meeting-31</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IIJmio meeting 31 MVNOの音声通話を巡る最新状況 (techlog (Internet Initiative Japan Inc.))</title>
-        <link>https://www.slideshare.net/IIJ_techlog/iijmio-meeting-31-mvno</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
