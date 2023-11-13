@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Approximate Vector Search at Scale, With Application to Image Search … (Wakana Nogami)</title>
+        <link>https://www.slideshare.net/WakanaNogami/approximate-vector-search-at-scale-with-application-to-image-search-scipy-jp-2020</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MediaPipeを使ったARアプリ開発事例 ~カメラをかざして家䛾中で売れるも䛾を探そう~ (Chica Matsueda)</title>
+        <link>https://www.slideshare.net/ChicaMatsueda/mediapipear</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IROS 2019 参加報告詳細版 (Yasunori Ozaki)</title>
+        <link>https://www.slideshare.net/yasunoriozaki12/iros-2019</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WebRTCがよく分からないから調べて試してみた (toru tom)</title>
         <link>https://www.slideshare.net/torutom/webrtc-250428105</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>BtoBtoC事業における共創のためのUXデザイン (Toshiya Sasaki)</title>
         <link>https://www.slideshare.net/ToshiyaSasaki/btobtocux</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>深層学習の不確実性 - Uncertainty in Deep Neural Networks - (tmtm otm)</title>
-        <link>https://www.slideshare.net/ssuser8672d7/uncertainty-in-deep-neural-networks-250505655</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Apache Bookkeeper and Apache Zookeeper for Apache Pulsar (Enrico Olivelli)</title>
-        <link>https://www.slideshare.net/EnricoOlivelli/apache-bookkeeper-and-apache-zookeeper-for-apache-pulsar</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組み合わせテストの落とし穴〜有則と無則〜 (yufu yufu)</title>
-        <link>https://www.slideshare.net/ssusere4f193/ss-149101842</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
