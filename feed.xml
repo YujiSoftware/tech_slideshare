@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WebRTCがよく分からないから調べて試してみた (toru tom)</title>
+        <link>https://www.slideshare.net/torutom/webrtc-250428105</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スペイン語とポルトガル語の違い (Miguel Yasuyuki Hirota)</title>
+        <link>https://www.slideshare.net/mig76/ss-151294405</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20190821 AWS Black Belt Online Seminar AWS AppSync (Amazon Web Services Japan,@awscloud_jp)</title>
+        <link>https://www.slideshare.net/AmazonWebServicesJapan/20190821-aws-black-belt-online-seminar-aws-appsync</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>確率解析計算 (Yusuke Matsushita,@shiatsumat)</title>
         <link>https://www.slideshare.net/Kinokkory/ss-14102323</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>組み合わせテストの落とし穴〜有則と無則〜 (yufu yufu)</title>
         <link>https://www.slideshare.net/ssusere4f193/ss-149101842</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rdraはどう形作られたか？ (Zenji Kanzaki)</title>
-        <link>https://www.slideshare.net/zenjikanzaki/rdra-250558352</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rxに入門しようとしている (onotchi_)</title>
-        <link>https://www.slideshare.net/onotchi_/rx-59050455</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>並列分散処理基盤のいま ～45分で学ぶHadoop/Spark/Kafka/ストレージレイヤSW入門～（Open Source Confe… (NTT DATA Technology &amp; Innovation)</title>
-        <link>https://www.slideshare.net/nttdata-tech/distributed-data-processing-system-hadoop-spark-kafka-storage-layer-software-osc2021-online-hokkaido-nttdata</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
