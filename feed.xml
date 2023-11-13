@@ -6,8 +6,23 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【15-A-4】Redmine + Lychee 導入のアンチパターン (Developers Summit,@devsumi)</title>
+        <link>https://www.slideshare.net/devsumi/15a4redmine-lychee</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RDRAモデリングを見てみよう (Zenji Kanzaki)</title>
+        <link>https://www.slideshare.net/zenjikanzaki/rdra-250720725</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[Yahoo!広告] Spring Boot+Neo4jを 使⽤した広告アカウント管理での 階層構造化の実現 (LY Corporation Tech)</title>
         <link>https://speakerdeck.com/lycorptech_jp/jjug-2023-ly-corporation-session-sponspr</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Hatena::Letの式年遷宮 (Takafumi ONAKA,@onk)</title>
+        <link>https://www.slideshare.net/takafumionaka/hatenalet</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
     <item>
@@ -88,21 +103,6 @@
     <item>
         <title>API GatewayとAWS AppSyncの使い分け (Masaki Suzuki)</title>
         <link>https://www.slideshare.net/MasakiSuzuki3/api-gatewayaws-appsync</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Blockchain EXE #16：Hyperledger fabricの技術動向とファイナンシャルエンジニアリング視点でのトークンエコ… (blockchainexe)</title>
-        <link>https://www.slideshare.net/blockchainexe/blockchain-exe-16hyperledger-fabric</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230921_JBUG東京#21_atsumi (atsumi)</title>
-        <link>https://speakerdeck.com/atsumiee/20230921-jbugdong-jing-number-21-atsumi</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アーキテクチャの進化から学ぶ、プラットフォームエンジニアリングへのアプローチ (Yusuke Suzuki)</title>
-        <link>https://www.slideshare.net/yusuke/ss-f5c4</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
