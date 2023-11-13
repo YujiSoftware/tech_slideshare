@@ -6,8 +6,23 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LINEログインの最新アップデートとアプリ連携ウォークスルー (Naohiro Fujie,@phr_eidentity)</title>
+        <link>https://www.slideshare.net/naohiro.fujie/line-250353548</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RecSysOps: Best Practices for Operating a Large-Scale Recommender Sys… (Ehsan38,@ehsan_saberian)</title>
+        <link>https://www.slideshare.net/Ehsan38/recsysops-best-practices-for-operating-a-largescale-recommender-system</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AI×ノーコード (スピーディーなアプリ開発の新時代) (KNR)</title>
         <link>https://speakerdeck.com/knr109/sheng-cheng-aixnokodo-supideinaapurikai-fa-noxin-shi-dai</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>強化学習と逆強化学習を組み合わせた模倣学習 (Eiji Uchibe)</title>
+        <link>https://www.slideshare.net/EijiUchibe/ss-175448283</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
     <item>
@@ -88,21 +103,6 @@
     <item>
         <title>確率解析計算 (Yusuke Matsushita,@shiatsumat)</title>
         <link>https://www.slideshare.net/Kinokkory/ss-14102323</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>万年ビギナーによるPythonプログラミングのリハビリ計画 (Takeshi Akutsu,@akucchan_world)</title>
-        <link>https://www.slideshare.net/TakeshiAkutsu/python-250435971</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Python 3.9からの新定番zoneinfoを使いこなそう (Ryuji Tsutsui)</title>
-        <link>https://www.slideshare.net/ryu22e/python-39zoneinfo</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>位置データもPythonで！！！ (hide ogawa)</title>
-        <link>https://www.slideshare.net/hideogawa/python-250447780</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
