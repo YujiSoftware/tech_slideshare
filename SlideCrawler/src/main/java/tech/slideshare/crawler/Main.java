@@ -19,6 +19,7 @@ public class Main {
             new SlideShareCrawler(),
             new DocswellCrawler(),
             new SpeakerDeckCrawler(),
+            new GoogleSlideCrawler(),
     };
 
     public static void main(String[] args) {
