@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>キャッチアップ速度が速い #とは (Ryuya Nakamura)</title>
+        <link>https://speakerdeck.com/nrryuya/kiyatutiatuhusu-du-kasu-i-number-toha</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラウド時代のものづくり(分散アーキテクチャ時代におけるWebシステムの開発と運用) #seccamp</title>
+        <link>https://www.slideshare.net/nekoruri/seccamp2021b3-cloudnative</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DDDやってみたら 実装以前の領域での学びが深かった話 (kumaGoro95)</title>
+        <link>https://speakerdeck.com/kumagoro95/dddyatutemitenoxue-biqi-duki</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>イントロダクション(分散アーキテクチャ時代におけるWebシステムの開発と運用) #seccamp</title>
+        <link>https://www.slideshare.net/nekoruri/seccamp2021b3-introduction</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>失敗？それとも学び？ (maru)</title>
+        <link>https://speakerdeck.com/maruloop/failure-or-learning</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Event-Driven Stream Processing and Model Deployment with Apache Kafka…</title>
+        <link>https://www.slideshare.net/KaiWaehner/eventdriven-stream-processing-and-model-deployment-with-apache-kafka-kafka-streams-tensorflow-grpc</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>並行キャッシュライブラリーの開発で得られた知見 (Tatsuya Kawano)</title>
+        <link>https://speakerdeck.com/tatsuya6502/bing-xing-kiyatusiyuraiburarinokai-fa-dede-raretazhi-jian</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>形式検証の視点から再確認したいMaybe/Option型からnull許容データベースへのデータ変換 (Kenta Inoue)</title>
+        <link>https://www.slideshare.net/ssuser431580/maybeoptionnull</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SPAセキュリティ入門～PHP Conference Japan 2021 (Hiroshi Tokumaru)</title>
+        <link>https://www.slideshare.net/ockeghem/phpconf2021spasecurity</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LINEログインの最新アップデートとアプリ連携ウォークスルー (Naohiro Fujie,@phr_eidentity)</title>
         <link>https://www.slideshare.net/naohiro.fujie/line-250353548</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>オープンセミナー岡山 これから始めるデータ活用 (syou6162)</title>
         <link>https://www.slideshare.net/syou6162/ss-242580660</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発初心者のためのMoodleプラグインの開発と利用（第一部） for Moodle Moot 2015 (Shigeharu Yamaoka)</title>
-        <link>https://www.slideshare.net/s-yamaoka/moodle-20150221</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[AWS Expert Online for JAWS-UG #17] AWS CodePipeline だけじゃない！継続的インテグレー… (MasahiroMatsumoto8)</title>
-        <link>https://www.slideshare.net/MasahiroMatsumoto8/aws-expert-online-for-jaws-ug-17-20211006-aws-code-pipeline-cicd</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Approximate Vector Search at Scale, With Application to Image Search … (Wakana Nogami)</title>
-        <link>https://www.slideshare.net/WakanaNogami/approximate-vector-search-at-scale-with-application-to-image-search-scipy-jp-2020</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MediaPipeを使ったARアプリ開発事例 ~カメラをかざして家䛾中で売れるも䛾を探そう~ (Chica Matsueda)</title>
-        <link>https://www.slideshare.net/ChicaMatsueda/mediapipear</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IROS 2019 参加報告詳細版 (Yasunori Ozaki)</title>
-        <link>https://www.slideshare.net/yasunoriozaki12/iros-2019</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebRTCがよく分からないから調べて試してみた (toru tom)</title>
-        <link>https://www.slideshare.net/torutom/webrtc-250428105</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スペイン語とポルトガル語の違い (Miguel Yasuyuki Hirota)</title>
-        <link>https://www.slideshare.net/mig76/ss-151294405</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20190821 AWS Black Belt Online Seminar AWS AppSync (Amazon Web Services Japan,@awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/20190821-aws-black-belt-online-seminar-aws-appsync</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>確率解析計算 (Yusuke Matsushita,@shiatsumat)</title>
-        <link>https://www.slideshare.net/Kinokkory/ss-14102323</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
