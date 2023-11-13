@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Stablecoin Regulation in Japan (So Saito)</title>
+        <link>https://www.slideshare.net/SoSaito1/stablecoin-regulation-in-japan</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>M08_あなたの知らない Azure インフラの世界 [Microsoft Japan Digital Days] (日本マイクロソフト株式会社,@mskkpr)</title>
+        <link>https://www.slideshare.net/microsoftjp/m08-azure-microsoft-japan-digital-days</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ロボット好き集まれ！こいつ、動くぞ。星と翼のパラドクス開発事例 (エピック・ゲームズ・ジャパン Epic Games Japan,@UnrealEngineJP)</title>
+        <link>https://www.slideshare.net/EpicGamesJapan/ss-119817840</link>
+        <dc:date>2023-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>211101_LiBRA_インフラ (Masanori Saito)</title>
         <link>https://www.slideshare.net/after311/211101libra</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>WebRTC, RED and Janus @ ClueCon21 (Lorenzo Miniero)</title>
         <link>https://www.slideshare.net/LorenzoMiniero/webrtc-red-and-janus-cluecon21</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Intel AVX-512/富岳SVE用SIMDコード生成ライブラリsimdgen (MITSUNARI Shigeo,@herumi)</title>
-        <link>https://www.slideshare.net/herumi/intel-avx512svesimdsimdgen</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LogbackからLog4j 2への移行によるアプリケーションのスループット改善 ( JJUG CCC 2021 Fall ) (Hironobu Isoda)</title>
-        <link>https://www.slideshare.net/hiroiso/logbacklog4j-2-jjug-ccc-2021-fall</link>
-        <dc:date>2023-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>深層学習の将棋Aiへの浸透について (bleu48)</title>
-        <link>https://www.slideshare.net/bleu48/ai-249795006</link>
         <dc:date>2023-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
