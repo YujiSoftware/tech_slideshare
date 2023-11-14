@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WordCamp Tokyo 2023</title>
+        <link>https://docs.google.com/presentation/d/1H1pD0UnRINF8CeNenAKpa2VFqPTEsBbDCAQo9R7eoIk/preview</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データで課題を解決する -因果関係を調べる統計的因果推論- (Shohei SHIMIZU)</title>
+        <link>https://speakerdeck.com/sshimizu2006/detadeke-ti-wojie-jue-suru-yin-guo-guan-xi-wodiao-berutong-ji-de-yin-guo-tui-lun</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アイビスペイントの動画リワードについて</title>
+        <link>https://www.slideshare.net/kamiyan2/ss-56229530</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コード解析</title>
+        <link>https://docs.google.com/presentation/d/1564QRejfshgMDnN67yLkSwAfuNouFjHUIJxaxkiJ_UQ/preview</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>初めての位置情報エンジニアリング つまずきポイントあるある (GO Inc. dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/chu-metenowei-zhi-qing-bao-enziniaringu-tumazukipointoaruaru</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【XP祭り2021】アジャイルで実現するSDGsスタートアップとikigaiあるキャリア</title>
+        <link>https://www.slideshare.net/RyotaInaba/xp2021sdgsikigai</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WebGISとVue.jsの親和性について</title>
+        <link>https://docs.google.com/presentation/d/1KwLPyFLE0J3W9BwFmROHtgG0qQbGdYCnbEXjuJTYpJ4/preview</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The power of Web-standards (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/the-power-of-web-standards</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>『天才を殺す凡人』と”箱の本”から読み解く、チームのあの人</title>
+        <link>https://www.slideshare.net/NishimuraMisa/ss-250227727</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PHPプロダクトにAIによる自動生成機能を導入するまで</title>
         <link>https://docs.google.com/presentation/d/18bKjJrrlolmwhPbcWQHKuWfvuZGm_0bpZEc5Npt7oog/preview</link>
         <dc:date>2023-11-13T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>2023-11-04 AWSカーニバル / 急成長する組織でのAWSとの付き合い方〜スケールするAWS運用へ〜</title>
         <link>https://docs.google.com/presentation/d/1uP3jWcZLmw3Xcyw1JYUhMSX_VpftRg7lRskWAXkrt20/preview</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postman CLI で Integration Test (kazuno fukuda)</title>
-        <link>https://speakerdeck.com/codemountains/postman-cli-de-integration-test</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NISTのCybersecurity Framework　ペラ３にまとめてみました</title>
-        <link>https://www.slideshare.net/kanametunes/nistcybersecurity-framework-250257381</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AkarengaLT#18</title>
-        <link>https://docs.google.com/presentation/d/1lhupDxG4OG4K9nkYW-WGj267CtLQFkhpc3XteSS4jiA/preview</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ポストモーテムの基礎知識と最新事例 / Fundamentals of Postmortem (Isao Shimizu)</title>
-        <link>https://speakerdeck.com/isaoshimizu/fundamentals-of-postmortem</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Yahoo! JAPANのデータパイプラインで起きた障害とチューニング - Apache Kafka Meetup Japan #5 -</title>
-        <link>https://www.slideshare.net/techblogyahoo/yahoo-japan-apache-kafka-meetup-japan-5</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023_10_14_個人の開発生産性LT資料</title>
-        <link>https://docs.google.com/presentation/d/1F8bcMKlVFU3W17AGTpEZO8N7RIh643BlrBtXncF9AIM/preview</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java 21の概要 / outline of Java 21 (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/outline-of-java-21</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>私がなぜZscalerに？</title>
-        <link>https://www.slideshare.net/TakayoshiTakaoka/zscaler-191389878</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023/10/14_グループディスカッション</title>
-        <link>https://docs.google.com/presentation/d/1Tqgtxgot8md2u181pMQZMczKgC6B8Eh942Dp9hKhq2M/preview</link>
         <dc:date>2023-11-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
