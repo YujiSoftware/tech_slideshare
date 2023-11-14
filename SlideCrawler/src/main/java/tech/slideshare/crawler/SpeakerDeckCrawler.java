@@ -12,12 +12,12 @@ import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.net.URI;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.StandardCopyOption;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
+import java.util.Optional;
 
 public class SpeakerDeckCrawler implements Crawler {
 
@@ -38,17 +38,19 @@ public class SpeakerDeckCrawler implements Crawler {
         }
 
         String link = elements.get(0).attr("href");
-        Path pdf = download(link);
-        pdf.toFile().deleteOnExit();
+        Optional<Path> pdf = Downloader.download(link);
+        if (pdf.isEmpty()) {
+            return Collections.emptyList();
+        }
 
         Path fixed = Files.createTempFile(null, null);
         fixed.toFile().deleteOnExit();
-        Process process = new ProcessBuilder("pdf-fix-tuc", pdf.toString(), fixed.toString()).start();
+        Process process = new ProcessBuilder("pdf-fix-tuc", pdf.get().toString(), fixed.toString()).start();
         try {
             process.waitFor();
             if (process.exitValue() != 0) {
                 logger.warn("pdf-fix-tuc failed. ExitValue={}", process.exitValue());
-                fixed = pdf;
+                fixed = pdf.get();
             }
         } catch (InterruptedException ignored) {
         }
@@ -68,14 +70,5 @@ public class SpeakerDeckCrawler implements Crawler {
         }
 
         return contents;
-    }
-
-    private static Path download(String link) throws IOException {
-        Path temp = Files.createTempFile(null, null);
-        try (InputStream stream = URI.create(link).toURL().openStream()) {
-            Files.copy(stream, temp, StandardCopyOption.REPLACE_EXISTING);
-        }
-
-        return temp;
     }
 }
