@@ -47,4 +47,12 @@ class SlideShareCrawlerTest {
 
         assertEquals(0, actual.size());
     }
+
+    @Test
+    public void ユーザ削除済み() throws IOException {
+        String link = "https://www.slideshare.net/kanametunes/nistcybersecurity-framework-250257381";
+        List<String> actual = crawler.crawl(link);
+
+        assertEquals(0, actual.size());
+    }
 }

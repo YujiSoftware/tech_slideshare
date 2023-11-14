@@ -33,6 +33,10 @@ public class SlideShareCrawler implements Crawler {
             if (e.getStatusCode() == HttpURLConnection.HTTP_GONE) {
                 return Collections.emptyList();
             }
+            // ユーザが削除された場合は、404 NOT FOUND が返ってくる
+            if (e.getStatusCode() == HttpURLConnection.HTTP_NOT_FOUND) {
+                return Collections.emptyList();
+            }
             throw e;
         }
 
