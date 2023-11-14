@@ -6,8 +6,53 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHPプロダクトにAIによる自動生成機能を導入するまで</title>
+        <link>https://docs.google.com/presentation/d/18bKjJrrlolmwhPbcWQHKuWfvuZGm_0bpZEc5Npt7oog/preview</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JavaScript Server Runtime History (Yosuke Furukawa)</title>
+        <link>https://speakerdeck.com/yosuke_furukawa/javascript-server-runtime-history</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20180428 Cloud on the BEACH 2018 / AWSの全サービスを紹介し〼</title>
+        <link>https://www.slideshare.net/okeee0315/20180428-cloud-on-the-beach-2018-aws</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>とりあえずやってみよう</title>
+        <link>https://docs.google.com/presentation/d/126bxK-uV8ssn4zszzhj9YHIoqLQTT-HMIaDLEd8lvmQ/preview</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スペシャリスト？フルスタック？whichではないフルサイクル開発者という生き方 / 42TOKYO-SPECIAL-LECTURE-231106 (CARTA Engineering)</title>
+        <link>https://speakerdeck.com/carta_engineering/42tokyo-special-lecture-231106</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自宅らぼ再入門 おうちクラウドのすすめ 20210922</title>
+        <link>https://www.slideshare.net/yukikawamitsu/20210922-250264836</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>集まれ！現役エンジニアと交流したい駆け出しエンジニア！8/20（日）@秋葉原</title>
+        <link>https://docs.google.com/presentation/d/1aX_YdvOVrHy9PdGol7GFnrKSu6lxExZ1TyhFjb6ErVI/preview</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloud Next '23 から考える LLMOps (Asei Sugiyama)</title>
+        <link>https://speakerdeck.com/asei/cloud-next-23-karakao-eru-llmops</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JJUG CCC 2023 Fall : クライアントワークでドメイン駆動設計を活用してみてた (シンプレクス株式会社)</title>
         <link>https://www.docswell.com/s/Simplex/Z986EW-2023-11-14-121940</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>EVのFAQ (ver.​2.​0)</title>
+        <link>https://www.slideshare.net/KeiichiroSakurai/evfaq-ver20</link>
         <dc:date>2023-11-13T15:00:00Z</dc:date>
     </item>
     <item>
@@ -23,16 +68,6 @@
     <item>
         <title>NISTのCybersecurity Framework　ペラ３にまとめてみました</title>
         <link>https://www.slideshare.net/kanametunes/nistcybersecurity-framework-250257381</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud Next '23 から考える LLMOps (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/cloud-next-23-karakao-eru-llmops</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スペシャリスト？フルスタック？whichではないフルサイクル開発者という生き方 / 42TOKYO-SPECIAL-LECTURE-231106 (CARTA Engineering)</title>
-        <link>https://speakerdeck.com/carta_engineering/42tokyo-special-lecture-231106</link>
         <dc:date>2023-11-13T15:00:00Z</dc:date>
     </item>
     <item>
@@ -68,41 +103,6 @@
     <item>
         <title>2023/10/14_グループディスカッション</title>
         <link>https://docs.google.com/presentation/d/1Tqgtxgot8md2u181pMQZMczKgC6B8Eh942Dp9hKhq2M/preview</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoのGraphQLライブラリgqlgenを使ったリスト取得の実装.pdf (fujiwaram)</title>
-        <link>https://speakerdeck.com/fujiwaram/gonographqlraihurarigqlgenwoshi-tutarisutoqu-de-noshi-zhuang</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SAP on Azure インフラ設計解説：HA/DR、Backupからパフォーマンス最適化まで</title>
-        <link>https://www.slideshare.net/ikemoty/sap-on-azure-hadrbackup</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(共有用)絵文字ヤバイ</title>
-        <link>https://docs.google.com/presentation/d/1IsIrlle_KnEcc3xfenJyVL-ZPVMQ6vkb_qlMurTDsRs/preview</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>忙しくて手を動かせない時もいい感じに進捗出してくれるAgent作りたい (T88)</title>
-        <link>https://speakerdeck.com/t88/mang-sikuteshou-wodong-kasenaishi-mo-iigan-zinijin-bu-chu-sitekureruagentzuo-ritai</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NUCで始めるVMware Tanzu</title>
-        <link>https://www.slideshare.net/HirotakaSato1/nucvmware-tanzu</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINE DC Frontend Meetup #1 セキュアなWeb App/Login編 - LINEログインのパラメータについて</title>
-        <link>https://docs.google.com/presentation/d/1l2BpnVgVuUAtMp9blaLSUuYd3wqfaf2wJ2XZRXeIg-Q/preview</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Linux コンテナのリブートとセキュリティ / SosaiLT 38th (tenforward)</title>
-        <link>https://speakerdeck.com/tenforward/sosailt-38th</link>
         <dc:date>2023-11-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
