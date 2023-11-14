@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloud Next '23 から考える LLMOps (Asei Sugiyama)</title>
+        <link>https://speakerdeck.com/asei/cloud-next-23-karakao-eru-llmops</link>
+        <dc:date>2023-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スペシャリスト？フルスタック？whichではないフルサイクル開発者という生き方 / 42TOKYO-SPECIAL-LECTURE-231106 (CARTA Engineering)</title>
         <link>https://speakerdeck.com/carta_engineering/42tokyo-special-lecture-231106</link>
         <dc:date>2023-11-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>KafkaとPulsar</title>
         <link>https://www.slideshare.net/techblogyahoo/kafkapulsar</link>
-        <dc:date>2023-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「機械学習」という技術で価値を創出する技術 〜プロダクト開発に機械学習を応用する際に考えること〜.pdf / techniques-to-create-values-with-ml-layerx-at-wi2 (Yuya Matsumura)</title>
-        <link>https://speakerdeck.com/yuya4/techniques-to-create-values-with-ml-layerx-at-wi2</link>
         <dc:date>2023-11-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
