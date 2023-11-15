@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Lisp</title>
+        <link>https://www.slideshare.net/chancelab/lisp-25789448</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Searchable Snapshot でコスト削減</title>
+        <link>https://www.slideshare.net/shinhiguchi/searchable-snapshot</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>シンプル Processing !</title>
+        <link>https://www.slideshare.net/llamerada-jp/processing-71480930</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エネチェンジでのSTIの使い方紹介</title>
         <link>https://www.slideshare.net/YuyaTaki/sti-87083980</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>How to get rid of terraform plan diffs</title>
         <link>https://www.slideshare.net/ssuser1f3c12/how-to-get-rid-of-terraform-plan-diffs</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>イエラエセキュリティMeet up 20210820</title>
-        <link>https://www.slideshare.net/secret/lYhIk9cPk5sK0x</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tableauから始める統計学の基礎</title>
-        <link>https://www.slideshare.net/vt5001/tableau-140864858</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azureの上におとりを置いて、世界中から攻撃される様子を観察した話</title>
-        <link>https://www.slideshare.net/ryukiyoshimatsu/azure-121118169</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
