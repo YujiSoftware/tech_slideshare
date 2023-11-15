@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【Oracle Cloud Infrastructure】MySQL Database Service 高可用性＆HeatWave 検証</title>
+        <link>https://www.slideshare.net/ssuserbe6417/oracle-cloud-infrastructuremysql-database-servise-heatwave-249604448</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>gsimapsを庁内に組んでみた</title>
+        <link>https://www.slideshare.net/yamatech/gsimaps</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>負荷テスト入門</title>
+        <link>https://www.slideshare.net/nodat/ss-76888892</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DNA Mobility Session</title>
         <link>https://www.slideshare.net/CiscoCanada/dna-mobility-session</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>CVE、JVN番号の取得経験者になろう！</title>
         <link>https://www.slideshare.net/kazkiti/cvejvn</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Forecast</title>
-        <link>https://www.slideshare.net/secret/1nJE1lS01YVZth</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Realizling Dapr Observability Using Elastic Stack</title>
-        <link>https://www.slideshare.net/shosuz/realizling-dapr-observability-using-elastic-stack</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Node's Event Loop From the Inside Out - Sam Roberts, IBM</title>
-        <link>https://www.slideshare.net/NodejsFoundation/nodes-event-loop-from-the-inside-out-sam-roberts-ibm</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
