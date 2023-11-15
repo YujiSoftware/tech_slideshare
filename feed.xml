@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>論文紹介: The New New Product Development Game</title>
+        <link>https://www.slideshare.net/hitochan777/the-new-new-product-development-game-112650190</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Explainability for Natural Language Processing</title>
+        <link>https://www.slideshare.net/YunyaoLi/explainability-for-natural-language-processing-249912819</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>KubeVirt 101</title>
+        <link>https://www.slideshare.net/VirtualTech-JP/kubevirt-101</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Lisp</title>
         <link>https://www.slideshare.net/chancelab/lisp-25789448</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>The 5 Must Have Customer Success Processes</title>
         <link>https://www.slideshare.net/totango/the-5-must-have-customer-success-processes-51869082</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オタクエンジニアを熱くさせる！モチベーションをあげるチームビルディング</title>
-        <link>https://www.slideshare.net/toranoana-lab/toralab-conference1-motivation</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ansible troubleshooting 101_2021</title>
-        <link>https://www.slideshare.net/h-saito/ansible-troubleshooting-1012021-249533468</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to get rid of terraform plan diffs</title>
-        <link>https://www.slideshare.net/ssuser1f3c12/how-to-get-rid-of-terraform-plan-diffs</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
