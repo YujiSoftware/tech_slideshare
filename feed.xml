@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BtoB SaaS プロダクトでの要件定義のリアル (naotsukamoto)</title>
+        <link>https://speakerdeck.com/naotsukamoto/btob-saas-purodakutodenoyao-jian-ding-yi-noriaru</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft デスクトップ仮想化ソリューション比較</title>
+        <link>https://www.slideshare.net/takuyaot/microsoft-249969155</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DockerコンテナでGitを使う</title>
+        <link>https://www.slideshare.net/KazuhiroSuga/dockergit</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>これを覚えたら表現力100倍 - Flex MessageとQuick Reply</title>
+        <link>https://www.slideshare.net/linecorp/100-flex-messagequick-reply-119961079</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>みんなでRedmineを改善しましょう！「Redmineパッチ会」参戦！！</title>
         <link>https://www.slideshare.net/KevinFischer29/redmineredmine-238581526</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>NABShow報告：マルチCDNと最新ストリーミングプロトコル</title>
         <link>https://www.slideshare.net/TomohiroMatsuzawa/nabbshowcdn</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20191001 AWS Black Belt Online Seminar AWS Lake Formation</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/20191001-aws-black-belt-online-seminar-aws-lake-formation-198737098</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最速・最短・最簡単でKubernetesを始めるハウツー with k0s</title>
-        <link>https://www.slideshare.net/nobuchikakamon/kubernetes-with-k0s</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CEDEC2021 ダウンロード時間を大幅減！～大量のアセットをさばく高速な実装と運用事例の共有～</title>
-        <link>https://www.slideshare.net/SEGADevTech/cedec2021-250032292</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Watsonと一緒 VR編</title>
-        <link>https://www.slideshare.net/mihoezawa/watson-vr</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
