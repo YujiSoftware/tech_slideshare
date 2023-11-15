@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GOの機械学習システムを支えるMLOps事例紹介</title>
+        <link>https://www.slideshare.net/takashisuzuki503/gomlops</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20210714 なるほど、Alibaba CloudのALB。AWS脳の人はこう考えろ</title>
+        <link>https://www.slideshare.net/mosuke5/20210714-alibaba-cloudalbaws</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Psgi rest apiフレームワーク raisin 使ってみた</title>
+        <link>https://www.slideshare.net/toranoana-lab/psgi-rest-api-raisin-249626297</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>202106 AWS Black Belt Online Seminar CON110 なぜ今コンテナなのか</title>
         <link>https://www.slideshare.net/AmazonWebServicesJapan/202106-aws-black-belt-online-seminar-con110-249613926</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Open Policy Agent (OPA) と Kubernetes Policy</title>
         <link>https://www.slideshare.net/motonorishindo/open-policy-agent-opa-kubernetes-policy</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オープンデータ可視化もオープンソースGISで超簡単</title>
-        <link>https://www.slideshare.net/geosanak/osc2014kyoto</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to Build a Product Roadmap by Walmart Senior Product Manager</title>
-        <link>https://www.slideshare.net/productschool/how-to-build-a-product-roadmap-by-walmart-senior-product-manager</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fsx</title>
-        <link>https://www.slideshare.net/secret/pSly5WkDVo9io</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
