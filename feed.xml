@@ -6,8 +6,23 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エネチェンジでのSTIの使い方紹介</title>
+        <link>https://www.slideshare.net/YuyaTaki/sti-87083980</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>pg_bigmで全文検索するときに気を付けたい5つのポイント（第23回PostgreSQLアンカンファレンス@オンライン 発表資料）</title>
+        <link>https://www.slideshare.net/nttdata-tech/postgresql-pg-bigm-pgunconf23-nttdata</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BtoB SaaS プロダクトでの要件定義のリアル (naotsukamoto)</title>
         <link>https://speakerdeck.com/naotsukamoto/btob-saas-purodakutodenoyao-jian-ding-yi-noriaru</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Java 17直前！オレ流OpenJDK「の」開発環境（Open Source Conference 2021 Online/Kyoto …</title>
+        <link>https://www.slideshare.net/nttdata-tech/openjdk-osc2021-online-kyoto-nttdata</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
     </item>
     <item>
@@ -88,21 +103,6 @@
     <item>
         <title>Azureの上におとりを置いて、世界中から攻撃される様子を観察した話</title>
         <link>https://www.slideshare.net/ryukiyoshimatsu/azure-121118169</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PRML輪読#13</title>
-        <link>https://www.slideshare.net/matsuolab/prml13</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>要件定義入門 (失敗しないために必要なこと) (KNR)</title>
-        <link>https://speakerdeck.com/knr109/yao-jian-ding-yi-ru-men-shi-bai-sinaitamenibi-yao-nakoto</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NABShow報告：マルチCDNと最新ストリーミングプロトコル</title>
-        <link>https://www.slideshare.net/TomohiroMatsuzawa/nabbshowcdn</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
