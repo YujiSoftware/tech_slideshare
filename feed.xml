@@ -6,13 +6,28 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
-        <title>データモデリングからはじめるデータマネジメント (たなまい)</title>
-        <link>https://speakerdeck.com/tanakamaiko/detamoderingukarahazimerudetamanezimento</link>
+        <title>Python 3.​10の新機能を 俯瞰してみる</title>
+        <link>https://www.slideshare.net/hiroyaakita/python-310</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
     </item>
     <item>
         <title>AWSマルチアカウント管理の考え方!（5分編） (Hayato Tan)</title>
         <link>https://speakerdeck.com/htan/awsmarutiakauntoguan-li-nokao-efang-5fen-bian</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JSON Web Tokens Will Improve Your Life</title>
+        <link>https://www.slideshare.net/genehackdotorg/json-web-tokens-will-improve-your-life-80322281</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データモデリングからはじめるデータマネジメント (たなまい)</title>
+        <link>https://speakerdeck.com/tanakamaiko/detamoderingukarahazimerudetamanezimento</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアのキャリアパスを考える　川村</title>
+        <link>https://www.slideshare.net/wakamonog/wakamonog-kawamura</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
     </item>
     <item>
@@ -88,21 +103,6 @@
     <item>
         <title>ある工場の Redmine 2019</title>
         <link>https://www.slideshare.net/netazone/redmineofoneplant201920190831-168068842</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20190831 Redmine Tokyo - プラグイン作者のドキドキな夏休み -</title>
-        <link>https://www.slideshare.net/akiko_pusu/20190831-redmine-tokyo</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>どこまでできる？SharePoint Online のローカルバックアップ</title>
-        <link>https://www.slideshare.net/kaz-nak/20120706-office365-lt-13561018</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sso</title>
-        <link>https://www.slideshare.net/secret/wNeF6zAxI956wC</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
