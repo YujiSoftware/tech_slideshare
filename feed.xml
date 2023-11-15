@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DNA Mobility Session</title>
+        <link>https://www.slideshare.net/CiscoCanada/dna-mobility-session</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Shein Search Engine Optimization</title>
+        <link>https://www.slideshare.net/janvishah98/shein-search-engine-optimization-169981794</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[MozCon 2021] Taking Charge of Your Indexability</title>
+        <link>https://www.slideshare.net/areejabuali/mozcon-2021-taking-charge-of-your-indexability</link>
+        <dc:date>2023-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GOの機械学習システムを支えるMLOps事例紹介</title>
         <link>https://www.slideshare.net/takashisuzuki503/gomlops</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Node's Event Loop From the Inside Out - Sam Roberts, IBM</title>
         <link>https://www.slideshare.net/NodejsFoundation/nodes-event-loop-from-the-inside-out-sam-roberts-ibm</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はじめる! Redmine (2021年版)</title>
-        <link>https://www.slideshare.net/g_maeda/redmine-2021</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MIRU_Preview_JSAI2019</title>
-        <link>https://www.slideshare.net/Takayosi/mirupreviewjsai2019-148956141</link>
-        <dc:date>2023-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Open Policy Agent (OPA) と Kubernetes Policy</title>
-        <link>https://www.slideshare.net/motonorishindo/open-policy-agent-opa-kubernetes-policy</link>
         <dc:date>2023-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
