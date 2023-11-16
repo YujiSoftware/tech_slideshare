@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Railsアプリと型検査 / Rails app and type checking (Takumi Shotoku)</title>
+        <link>https://speakerdeck.com/sinsoku/rails-app-and-type-checking</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SQiP2016発表資料_プロセス改善の黒歴史（slideshare共有版）</title>
+        <link>https://www.slideshare.net/AdachiKenji/sqip2016slideshare</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Make AI ecosystem more interoperable</title>
+        <link>https://www.slideshare.net/ishizaki/make-ai-ecosystem-more-interoperable</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[DL輪読会]Pay Attention to MLPs （gMLP）</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dlpay-attention-to-mlpsgmlp</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>思考と協働</title>
         <link>https://www.slideshare.net/miraikenkyu/20150610tezuka-s</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>Javaアプリサーバとりあえずの監視 第二回 渋谷Java #shibuya_java</title>
         <link>https://www.slideshare.net/chonaso/java-java-shibuyajava</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>宇宙最速!? でAmazon Bedrockを本格導入したプロダクト開発してみた件 (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/yu-zhou-zui-su-deamazon-bedrockwoben-ge-dao-ru-sitapurodakutokai-fa-sitemitajian</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DjangoCongress: GraphQLライブラリ Strawberry の Djangoプロジェクトへの適用事例</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vS9SlFgPdZgdo4kcrGnHb7JJ88u2s1P7Pfgi4E0_zbKv6nfDtZ1MUzme6q9lHJ7Gl4DolvzQaBxaJZq/pub</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How Booking.​com avoids and deals with replication lag</title>
-        <link>https://www.slideshare.net/JeanFranoisGagn/how-bookingcom-avoids-and-deals-with-replication-lag</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[YugabyteDB Japan Meetup #3]紹介 データベース信頼性エンジニアリング (nnaka2992)</title>
-        <link>https://speakerdeck.com/nnaka2992/yugabytedb-japan-meetup-number-3-shao-jie-detabesuxin-lai-xing-enziniaringu</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
