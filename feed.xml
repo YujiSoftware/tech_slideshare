@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ScalarDB: Universal Transaction Manager for Polystores (VLDB'23) (Scalar, Inc.)</title>
+        <link>https://speakerdeck.com/scalar/scalardb-universal-transaction-manager-for-polystores-vldb23</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Zero downtime with little effort (YugabyteDB Japan)</title>
+        <link>https://speakerdeck.com/yugabytejapan/zero-downtime-with-little-effort</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ケーススタディから学ぶ 金融業界でYugabyteDBが選ばれる理由 (YugabyteDB Japan)</title>
+        <link>https://speakerdeck.com/yugabytejapan/kesusutadeikaraxue-bu-jin-rong-ye-jie-deyugabytedbgaxuan-bareruli-you</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[YugabyteDB Japan Meetup #3]紹介 データベース信頼性エンジニアリング (nnaka2992)</title>
+        <link>https://speakerdeck.com/nnaka2992/yugabytedb-japan-meetup-number-3-shao-jie-detabesuxin-lai-xing-enziniaringu</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SSII2021 [OS2-01] 転移学習の基礎：異なるタスクの知識を利用するための機械学習の方法</title>
+        <link>https://www.slideshare.net/SSII_Slides/ssii2021-os201</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>公共交通オープンデータの現状と可能性 社会がデータを使いこなすために何をなすべきか</title>
+        <link>https://www.slideshare.net/niyalist/ss-249254074</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Availability of Mobile Augmented Reality System for Urban Landscape S…</title>
+        <link>https://www.slideshare.net/TomohiroFukuda/availability-of-mobile-augmented-reality-system-for-urban-landscape-simulation</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>～ Build と言えば やっぱり Developer! ～ Microsoft 開発ツール最新アップデート</title>
         <link>https://www.slideshare.net/chack411/build-developer-microsoft</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>GPU on OpenStack 〜GPUインターナルクラウドのベストプラクティス</title>
         <link>https://www.slideshare.net/VirtualTech-JP/gpu-on-openstack-gpu-80971282</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インフラエンジニアとはなんぞ？</title>
-        <link>https://www.slideshare.net/kmikage/ss-8536320</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスト技法の背景を考察する - WACATE2021夏</title>
-        <link>https://www.slideshare.net/kauji0522/wacate2021-249331371</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MLOpsはバズワード</title>
-        <link>https://www.slideshare.net/tetsutarowatanabe/mlops-249382186</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>呼びかけ人のNeeds</title>
-        <link>https://www.slideshare.net/yukogendo/needs-172519917</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最適輸送の解き方</title>
-        <link>https://www.slideshare.net/joisino/ss-249394573</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20180424 orb slam</title>
-        <link>https://www.slideshare.net/takmin/20180424-orb-slam</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GNSSの基本知識</title>
-        <link>https://www.slideshare.net/NaokoYoshidaMBA/gnss-110599852</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
