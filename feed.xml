@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Dapr × Kubernetes ではじめるポータブルなマイクロサービス（CloudNative Days Tokyo 2020講演資料）</title>
+        <link>https://www.slideshare.net/nttdata-tech/dapr-kubernetes-portable-microservice-nttdata-cloud-native-days-tokyo-2020</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アプリ内購入 関連機能紹介</title>
+        <link>https://www.slideshare.net/klab-tech/ss-239664775</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アラート対応自動化を組み込んでみた</title>
+        <link>https://www.slideshare.net/IIJ_PR/ss-79342700</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Office スクリプトとPower Automateで作る見積書発行ワークフロー</title>
         <link>https://www.slideshare.net/kinuasa/office-power-automate</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>SSII2021 [OS2-01] 転移学習の基礎：異なるタスクの知識を利用するための機械学習の方法</title>
         <link>https://www.slideshare.net/SSII_Slides/ssii2021-os201</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>公共交通オープンデータの現状と可能性 社会がデータを使いこなすために何をなすべきか</title>
-        <link>https://www.slideshare.net/niyalist/ss-249254074</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Availability of Mobile Augmented Reality System for Urban Landscape S…</title>
-        <link>https://www.slideshare.net/TomohiroFukuda/availability-of-mobile-augmented-reality-system-for-urban-landscape-simulation</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>～ Build と言えば やっぱり Developer! ～ Microsoft 開発ツール最新アップデート</title>
-        <link>https://www.slideshare.net/chack411/build-developer-microsoft</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
