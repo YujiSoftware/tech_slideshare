@@ -6,8 +6,48 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>拡散モデルによる画像生成（CVIMチュートリアル） (mi141)</title>
+        <link>https://speakerdeck.com/mi141/kuo-san-moderuniyoruhua-xiang-sheng-cheng-cvimtiyutoriaru</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Analytics Engineeringチームの目標管理 (nagai shinya)</title>
+        <link>https://speakerdeck.com/__hiza__/analytics-engineeringtimunomu-biao-guan-li</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Railsアプリと型検査 / Rails app and type checking (Takumi Shotoku)</title>
+        <link>https://speakerdeck.com/sinsoku/rails-app-and-type-checking</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>分かった気になる ポストエフェクト -Shaderってこんな感じ発表会-</title>
+        <link>https://docs.google.com/presentation/d/1yUCBDkKEsCwZ944duwJSRFhbhi9pUznQMA_THUmUSqw/preview</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>210519smartcity101</title>
+        <link>https://www.slideshare.net/hiramoto/210519smartcity101</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Data-Centric AI - 関連する学術分野と実践例 - (Kazuyuki Miyazawa)</title>
         <link>https://speakerdeck.com/kzykmyzw/data-centric-ai-guan-lian-suruxue-shu-fen-ye-toshi-jian-li</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Djangoアプリケーション運用のリアル：問題発生から可視化、最適化への道 #djangocongressjp</title>
+        <link>https://docs.google.com/presentation/d/1K23qgLx-pAC4a0I8-stGFrNLLYggvOYDv40L30F0rW8/preview</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>この道20年のKPTA伝道師が、マンネリ化したふりかえりから脱却する3つのコツを教えます</title>
+        <link>https://www.slideshare.net/esmsec/20kpta3</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>画像生成・生成モデル メタサーベイ</title>
+        <link>https://www.slideshare.net/cvpaperchallenge/ss-248586051</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
     <item>
@@ -23,11 +63,6 @@
     <item>
         <title>[Docker Tokyo #35] Docker 20.​10</title>
         <link>https://www.slideshare.net/AkihiroSuda/docker-tokyo-35-docker-2010-248638956</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Railsアプリと型検査 / Rails app and type checking (Takumi Shotoku)</title>
-        <link>https://speakerdeck.com/sinsoku/rails-app-and-type-checking</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
     <item>
@@ -68,41 +103,6 @@
     <item>
         <title>circleci_meetup_tmasuyama_20201026</title>
         <link>https://www.slideshare.net/ssuserda31311/circlecimeetuptmasuyama20201026</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CircleCIのArtifactを活用してレポートを作成する</title>
-        <link>https://www.slideshare.net/TakeoSaga/circleciartifact</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Data processing at spotify using scio</title>
-        <link>https://www.slideshare.net/JulienTournay/data-processing-at-spotify-using-scio</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What's New Microsoft Teams for Education - May 2021</title>
-        <link>https://www.slideshare.net/hisahonakata/whats-new-microsoft-teams-for-education-may-2021</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>When Top of Market Comp</title>
-        <link>https://www.slideshare.net/reed2001/culture-1798664/106-When_Top_of_Market_CompDone</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINE Android APNG Library as an Independent OSS</title>
-        <link>https://www.slideshare.net/linecorp/line-android-apng-library-as-an-independent-oss-124029396</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>STAIR Lab Seminar 202105</title>
-        <link>https://www.slideshare.net/shotakase33/stair-lab-seminar-202105</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>東京大学2021年度深層学習（Deep learning基礎講座2021） 第8回「深層学習と自然言語処理」</title>
-        <link>https://www.slideshare.net/HitomiYanaka/2021deep-learning2021-8</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
