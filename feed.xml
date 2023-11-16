@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RFIDとブロックチェーン</title>
+        <link>https://www.slideshare.net/HayatoInformation/rfid-216321080</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS Well-Architected Security とベストプラクティス</title>
+        <link>https://www.slideshare.net/AmazonWebServicesJapan/aws-wellarchitected-security</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>運用してわかったLookerの本質的メリット : Data Engineering Study #8</title>
+        <link>https://www.slideshare.net/MasatoshiAbe/looker-data-engineering-study-8-248865444</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Elixir/Nervesはナウでヤングなcoolなすごいやつ</title>
         <link>https://www.slideshare.net/takasehideki/elixirnervescool-249038510</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Lifecycle of a Solr Search Request - Chris "Hoss" Hostetter, Lucidwor…</title>
         <link>https://www.slideshare.net/lucidworks/lifecycle-of-a-solr-search-request-chris-hoss-hostetter-lucidworks</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ClickHouse Features for Advanced Users, by Aleksei Milovidov</title>
-        <link>https://www.slideshare.net/Altinity/clickhouse-features-for-advanced-users-by-aleksei-milovidov</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【中級編】実用レベルのLINE Botを爆速で！ チャットボット開発者が絶対に知るべき3つのツボ</title>
-        <link>https://www.slideshare.net/uezochan/line-bot-3</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[SC03] Active Directory の DR 対策～天災/人災/サイバー攻撃、その時あなたの IT 基盤は利用継続できますか?</title>
-        <link>https://www.slideshare.net/decode2017/sc03-active-directory-dr-it</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
