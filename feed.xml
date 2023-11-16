@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ASP.​NETの進化とASP.​NET Core Blazorの凄さ</title>
+        <link>https://www.slideshare.net/ShoOkada/aspnetaspnet-core-blazor</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>確率統計-機械学習その前に v2.​1</title>
+        <link>https://www.slideshare.net/HidekatsuIzuno/v21-249422629</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ixgbe internals</title>
+        <link>https://www.slideshare.net/suselab/ixgbe-internals</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>政策動向の分析</title>
         <link>https://www.slideshare.net/kumikokorezumi/ss-249427832</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>ICML2021の連合学習の論文</title>
         <link>https://www.slideshare.net/k1ito/icmlfed2021</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MySQL Indexing - Best practices for MySQL 5.​6</title>
-        <link>https://www.slideshare.net/myxplain/mysql-indexing-best-practices-for-mysql</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Node.​js version16の新機能</title>
-        <link>https://www.slideshare.net/MasakiSuzuki3/nodejs-version16-249513664</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Interop Tokyo 2021 - ShowNet を陰で支えた Azure Virtual WAN</title>
-        <link>https://www.slideshare.net/ShuheiUda/interop-tokyo-2021-show-net-azure-virtual-wan</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
