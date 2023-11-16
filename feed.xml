@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>『VMware Cloud on AWS』×『Veeam』移行/データ保護の最適解はこれだ！</title>
+        <link>https://www.slideshare.net/climb_soft/vmware-cloud-on-awsveeam</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>みんなが知らない pytorch-pfn-extras</title>
+        <link>https://www.slideshare.net/TakujiTahara/20210618-lt-pyrotch-pfn-extras-and-config-systems-tawara</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Security re:Cap 2017</title>
+        <link>https://www.slideshare.net/kwiilkang/security-recap-2017</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ASP.​NETの進化とASP.​NET Core Blazorの凄さ</title>
         <link>https://www.slideshare.net/ShoOkada/aspnetaspnet-core-blazor</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>UE4をレンダラとした趣味的スピード背景ルックデブ（UE4 Environment Art Dive）</title>
         <link>https://www.slideshare.net/EpicGamesJapan/ue4ue4-environment-art-dive-207687897</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>品質を加速させるために、テスターを増やす前から考えるべきQMファンネルの話（3D版）</title>
-        <link>https://www.slideshare.net/YasuharuNishi/quality-management-funnel-3d-how-to-organize-qarelated-roles-and-specialties</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20210209 AWS Black Belt Online Seminar AWS Direct Connect</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/20210209-aws-black-belt-online-seminar-aws-direct-connect</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ICML2021の連合学習の論文</title>
-        <link>https://www.slideshare.net/k1ito/icmlfed2021</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
