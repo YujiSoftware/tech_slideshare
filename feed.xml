@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Data-Centric AI - 関連する学術分野と実践例 - (Kazuyuki Miyazawa)</title>
+        <link>https://speakerdeck.com/kzykmyzw/data-centric-ai-guan-lian-suruxue-shu-fen-ye-toshi-jian-li</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オートスケールする GitHub Actions セルフホストランナーを構築してる話</title>
+        <link>https://www.slideshare.net/miyajan/github-actions-248611968</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Redmine 4.​2 新機能評価ガイド</title>
+        <link>https://www.slideshare.net/g_maeda/redmine-42-248429160</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[Docker Tokyo #35] Docker 20.​10</title>
+        <link>https://www.slideshare.net/AkihiroSuda/docker-tokyo-35-docker-2010-248638956</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Railsアプリと型検査 / Rails app and type checking (Takumi Shotoku)</title>
         <link>https://speakerdeck.com/sinsoku/rails-app-and-type-checking</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>東京大学2021年度深層学習（Deep learning基礎講座2021） 第8回「深層学習と自然言語処理」</title>
         <link>https://www.slideshare.net/HitomiYanaka/2021deep-learning2021-8</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Oracle Databaseバージョン選択おける考察’20</title>
-        <link>https://www.slideshare.net/wmo6hash/dbts2020s079morohasashi</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発生産性、上から見るか 下から見るか / development productivity and cognitive science (sugamasao)</title>
-        <link>https://speakerdeck.com/sugamasao/development-productivity-and-cognitive-science</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Djangoを仕事で使っていくために学んだこと</title>
-        <link>https://docs.google.com/presentation/d/1P6Nam9NDRP8_LKsJaqdzre5phKIS50iNjHYrrejIyHo/preview</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Javaアプリサーバとりあえずの監視 第二回 渋谷Java #shibuya_java</title>
-        <link>https://www.slideshare.net/chonaso/java-java-shibuyajava</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
