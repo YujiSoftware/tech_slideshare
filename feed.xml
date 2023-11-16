@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Route53</title>
+        <link>https://www.slideshare.net/secret/2BrZq6sOKRgxJb</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>circleci_meetup_tmasuyama_20201026</title>
+        <link>https://www.slideshare.net/ssuserda31311/circlecimeetuptmasuyama20201026</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CircleCIのArtifactを活用してレポートを作成する</title>
+        <link>https://www.slideshare.net/TakeoSaga/circleciartifact</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Data processing at spotify using scio</title>
         <link>https://www.slideshare.net/JulienTournay/data-processing-at-spotify-using-scio</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>ケーススタディから学ぶ 金融業界でYugabyteDBが選ばれる理由 (YugabyteDB Japan)</title>
         <link>https://speakerdeck.com/yugabytejapan/kesusutadeikaraxue-bu-jin-rong-ye-jie-deyugabytedbgaxuan-bareruli-you</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ebitengine の 過去・現在・未来</title>
-        <link>https://docs.google.com/presentation/d/1l7b6dtcBblfILcHdlZ9UJlgjGkEjpw5KnIVOnG_r0vY/preview</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cisco Modeling Labs (CML)を使ってネットワークを学ぼう！（基礎編）配布用</title>
-        <link>https://www.slideshare.net/CiscoJapan/cisco-modeling-labs-cml-238387212</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Zero downtime with little effort (YugabyteDB Japan)</title>
-        <link>https://speakerdeck.com/yugabytejapan/zero-downtime-with-little-effort</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
