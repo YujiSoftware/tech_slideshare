@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GPU on OpenStack 〜GPUインターナルクラウドのベストプラクティス</title>
+        <link>https://www.slideshare.net/VirtualTech-JP/gpu-on-openstack-gpu-80971282</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>インフラエンジニアとはなんぞ？</title>
+        <link>https://www.slideshare.net/kmikage/ss-8536320</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テスト技法の背景を考察する - WACATE2021夏</title>
+        <link>https://www.slideshare.net/kauji0522/wacate2021-249331371</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MLOpsはバズワード</title>
         <link>https://www.slideshare.net/tetsutarowatanabe/mlops-249382186</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>OS入門</title>
         <link>https://www.slideshare.net/taroshun/os-128738300</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>kubernetes-meetup-tokyo-20210624-kubevirt</title>
-        <link>https://www.slideshare.net/yukinorisagara7/kubernetesmeetuptokyo20210624kubevirt</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Choroidal detachment</title>
-        <link>https://www.slideshare.net/sssihmspg/choroidal-detachment-53736985</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Elasticsearch勉強会#44 20210624</title>
-        <link>https://www.slideshare.net/TetsuyaSodo1/elasticsearch44-20210624</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
