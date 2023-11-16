@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>思考と協働</title>
+        <link>https://www.slideshare.net/miraikenkyu/20150610tezuka-s</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[DL輪読会]GANとエネルギーベースモデル</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dlgan</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>田口真行の『ディレクション思考 - お部屋の片付け編 -』</title>
+        <link>https://www.slideshare.net/MasayukiTaguchi/ss-141038966</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Route53</title>
         <link>https://www.slideshare.net/secret/2BrZq6sOKRgxJb</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>[YugabyteDB Japan Meetup #3]紹介 データベース信頼性エンジニアリング (nnaka2992)</title>
         <link>https://speakerdeck.com/nnaka2992/yugabytedb-japan-meetup-number-3-shao-jie-detabesuxin-lai-xing-enziniaringu</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>State of Vite (ViteConf 2023)</title>
-        <link>https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/preview</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>0から理解するニューラルネットアーキテクチャサーチ（NAS）</title>
-        <link>https://www.slideshare.net/MasanoriSuganuma/0nas</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ケーススタディから学ぶ 金融業界でYugabyteDBが選ばれる理由 (YugabyteDB Japan)</title>
-        <link>https://speakerdeck.com/yugabytejapan/kesusutadeikaraxue-bu-jin-rong-ye-jie-deyugabytedbgaxuan-bareruli-you</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
