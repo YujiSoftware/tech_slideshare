@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[SC03] Active Directory の DR 対策～天災/人災/サイバー攻撃、その時あなたの IT 基盤は利用継続できますか?</title>
+        <link>https://www.slideshare.net/decode2017/sc03-active-directory-dr-it</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>evolve13: The Past, Present and Future of AEM</title>
+        <link>https://www.slideshare.net/uncled/evolve13-keynote</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenStackを使用したGPU仮想化IaaS環境 事例紹介</title>
+        <link>https://www.slideshare.net/VirtualTech-JP/open-stackgpuiaas</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GPU on OpenStack 〜GPUインターナルクラウドのベストプラクティス</title>
         <link>https://www.slideshare.net/VirtualTech-JP/gpu-on-openstack-gpu-80971282</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>構造方程式モデリングの話（初級編）</title>
         <link>https://www.slideshare.net/DaikiNakamura/ss-152713829</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sit tokyo2021 solr_japanese_tokenizer_basics</title>
-        <link>https://www.slideshare.net/HongsubShin/sit-tokyo2021-solrjapanesetokenizerbasics</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Elastic 7.​13-new-features-20210624</title>
-        <link>https://www.slideshare.net/shosuz/elastic-713newfeatures20210624</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OS入門</title>
-        <link>https://www.slideshare.net/taroshun/os-128738300</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
