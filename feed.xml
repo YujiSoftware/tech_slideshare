@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[YugabyteDB Japan Meetup #3]紹介 データベース信頼性エンジニアリング (nnaka2992)</title>
+        <link>https://speakerdeck.com/nnaka2992/yugabytedb-japan-meetup-number-3-shao-jie-detabesuxin-lai-xing-enziniaringu</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>State of Vite (ViteConf 2023)</title>
+        <link>https://docs.google.com/presentation/d/1oZnjsPBnb3OB2HxU88vYkZLa54GV-xNKrF8XkOIqLAU/preview</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>0から理解するニューラルネットアーキテクチャサーチ（NAS）</title>
+        <link>https://www.slideshare.net/MasanoriSuganuma/0nas</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ケーススタディから学ぶ 金融業界でYugabyteDBが選ばれる理由 (YugabyteDB Japan)</title>
+        <link>https://speakerdeck.com/yugabytejapan/kesusutadeikaraxue-bu-jin-rong-ye-jie-deyugabytedbgaxuan-bareruli-you</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ebitengine の 過去・現在・未来</title>
+        <link>https://docs.google.com/presentation/d/1l7b6dtcBblfILcHdlZ9UJlgjGkEjpw5KnIVOnG_r0vY/preview</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cisco Modeling Labs (CML)を使ってネットワークを学ぼう！（基礎編）配布用</title>
+        <link>https://www.slideshare.net/CiscoJapan/cisco-modeling-labs-cml-238387212</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Zero downtime with little effort (YugabyteDB Japan)</title>
+        <link>https://speakerdeck.com/yugabytejapan/zero-downtime-with-little-effort</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Language Language Models (in 2023)</title>
+        <link>https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/preview</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Oracle Blockchain tableのご紹介（2021/06版）</title>
+        <link>https://www.slideshare.net/oracle4engineer/oracle-blockchain-table202106</link>
+        <dc:date>2023-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ScalarDB: Universal Transaction Manager for Polystores (VLDB'23) (Scalar, Inc.)</title>
         <link>https://speakerdeck.com/scalar/scalardb-universal-transaction-manager-for-polystores-vldb23</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>今日から使える SharePointer のための Power Platform</title>
         <link>https://www.slideshare.net/hirofumi_ota/sharepointer-power-platform</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>名古屋市で喪服の購入なら【きものやまなか】へ！</title>
-        <link>https://www.slideshare.net/kunihikoyamanaka54/ss-248973000</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unityティーチャートレーニングデイ -認定3Dアーティスト編-</title>
-        <link>https://www.slideshare.net/UnityTechnologiesJapan/3d-238811610</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unityティーチャートレーニングデイ -認定プログラマー編-</title>
-        <link>https://www.slideshare.net/UnityTechnologiesJapan/ss-238811632</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dapr × Kubernetes ではじめるポータブルなマイクロサービス（CloudNative Days Tokyo 2020講演資料）</title>
-        <link>https://www.slideshare.net/nttdata-tech/dapr-kubernetes-portable-microservice-nttdata-cloud-native-days-tokyo-2020</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アプリ内購入 関連機能紹介</title>
-        <link>https://www.slideshare.net/klab-tech/ss-239664775</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アラート対応自動化を組み込んでみた</title>
-        <link>https://www.slideshare.net/IIJ_PR/ss-79342700</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Office スクリプトとPower Automateで作る見積書発行ワークフロー</title>
-        <link>https://www.slideshare.net/kinuasa/office-power-automate</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シゴトレ-トレーニング教材例</title>
-        <link>https://www.slideshare.net/ssuser2c3258/ss-247942798</link>
-        <dc:date>2023-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>外の人が中から見たTohokuNLP</title>
-        <link>https://www.slideshare.net/ryokorin/tohokunlp</link>
         <dc:date>2023-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
