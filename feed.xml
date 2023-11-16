@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Docker Tokyo (cyberblack28 Ichikawa)</title>
+        <link>https://www.slideshare.net/cyberblackvoom/docker-tokyo</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Dockerからcontainerdへの移行 (Akihiro Suda)</title>
+        <link>https://www.slideshare.net/AkihiroSuda/dockercontainerd-251447907</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Windows Phone UI and Design Language (Steve Clayton)</title>
+        <link>https://www.slideshare.net/stevecla/windows-phone-ui-and-design-language-3511859</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IAM Roles Anywhereのない世界とある世界（2022年のAWSアップデートを振り返ろう ~Season 4~ 発表資料） (NTT DATA Technology &amp; Innovation)</title>
         <link>https://www.slideshare.net/nttdata-tech/iam-roles-anywhere-aws-updates-2022-season-4-nttdata</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
@@ -48,21 +63,6 @@
     <item>
         <title>ジオどす発表資料 (naokiueda)</title>
         <link>https://www.slideshare.net/naokiueda/ss-2463790</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Docker Tokyo (cyberblack28 Ichikawa)</title>
-        <link>https://www.slideshare.net/cyberblackvoom/docker-tokyo</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dockerからcontainerdへの移行 (Akihiro Suda)</title>
-        <link>https://www.slideshare.net/AkihiroSuda/dockercontainerd-251447907</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Windows Phone UI and Design Language (Steve Clayton)</title>
-        <link>https://www.slideshare.net/stevecla/windows-phone-ui-and-design-language-3511859</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
     </item>
     <item>
