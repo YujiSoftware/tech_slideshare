@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Oracle GoldenGate導入Tips (オラクルエンジニア通信)</title>
+        <link>https://www.slideshare.net/oracle4engineer/oracle-goldengatetips</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「Ecm　（エンタープライズ・コンテンツ管理）」と市場動向 (Osamu Urakawa, @​ourakawa)</title>
+        <link>https://www.slideshare.net/OsamuUrakawa/ecm-33628894</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【Unite Tokyo 2019】運用中超大規模タイトルにおけるUnityアップデート課題の解決手法と事例 (UnityTechnologiesJapan002)</title>
+        <link>https://www.slideshare.net/UnityTechnologiesJapan002/unite-tokyo-2019unity-176258351</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PFNのML/DL基盤を支えるKubernetesにおける自動化 / DevOpsDays Tokyo 2021 (Preferred Networks)</title>
         <link>https://www.slideshare.net/pfi/pfnmldlkubernetes-devopsdays-tokyo-2021</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>(Jerry) generative AI v13 (Japanese,  NVIDIA genAI conference 2023</title>
         <link>https://docs.google.com/presentation/d/1fUru1nbPg2pYwGwTIBVN0htbYVdT03wzi_EsVHxeGk4/preview</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>backlogsでもCI/CDする夢を見る (Takeru Maehara)</title>
-        <link>https://www.slideshare.net/TakeruMaehara2/backlogscicd</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HotwireとREST #tqrk14</title>
-        <link>https://docs.google.com/presentation/d/1C3OZb_fLuVqeSUxDNs1aBloBkkfztSk0GOwhaI7K0c8/preview</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Dots.​]taiga (Tatsunori Nishikori)</title>
-        <link>https://www.slideshare.net/tatsunorinishikori/dotstaiga</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
