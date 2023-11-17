@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュリティ・キャンプ2023：B7 Policy as Code入門</title>
+        <link>https://docs.google.com/presentation/d/1Q9lc2GeI05WJkGkotowTxUkL-zFKc4R9xOqovfkFSGc/preview</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CVPR2019読み会 (Rethinking the Evaluation of Video Summaries) (Yasunori Ozaki)</title>
+        <link>https://www.slideshare.net/yasunoriozaki12/rethinking-of-video-sumarries</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WSL2でもRust製の カーネルドライバを動かしたい</title>
+        <link>https://docs.google.com/presentation/d/17uCukaQ5KEWRjZ5brRka2DEx2xvm-bXU-x5RENoqhU8/preview</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今こそ知りたいSpring Batch（Spring Fest 2020講演資料） (NTT DATA Technology &amp; Innovation)</title>
+        <link>https://www.slideshare.net/nttdata-tech/spring-fest-2020-spring-batch-nttdata</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WordPress6.3を試してみよう</title>
+        <link>https://docs.google.com/presentation/d/1YS7RhX5S40M5FkHbnX4pAW8i9-rrRGwhI2Rqxqdbm9c/preview</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Demystifying quality management for large scale manufacturing in mode… (Yasuharu Nishi)</title>
+        <link>https://www.slideshare.net/YasuharuNishi/demystifying-quality-management-for-large-scale-manufacturing-in-modern-context-246313686</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>みえない交差点_MIERUNE Meetup.pptx</title>
         <link>https://docs.google.com/presentation/d/11pTPSkIf2ym34iCmCptF3Eo1QU_6N6Ln/preview</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>FPGAx10_Sakura (Takeshi HASEGAWA)</title>
         <link>https://www.slideshare.net/TakeshiHasegawa1/fpgax10sakura</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud Native Buildpacksで作る至高のコンテナイメージ for Spring Boot~ おそらくあなたの知らないBuildpack活用法 ~</title>
-        <link>https://docs.google.com/presentation/d/1OL6cRu2nw0Btv2nTnxfB8JpsoBkNSPbjcEQ-wFNvbVc/preview</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Challenges for Implementing PMEM Aware Application with PMDK (NTT Software Innovation Center)</title>
-        <link>https://www.slideshare.net/ntt-sic/challenges-for-implementing-pmem-aware-application-with-pmdk</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPT の新機能 「Function Calling」を Postman で使ってみる</title>
-        <link>https://docs.google.com/presentation/d/169axlnByOxQtpZvsUtIxriTVdgy3Lb3t5ht9UJX_Zws/preview</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【出版記念イベント】社内で「2人目」の心を動かすUXデザイン～あなたからはじめるUXデザイン組織のつくり方～ (Tsuyoshi Kaneko)</title>
-        <link>https://www.slideshare.net/tsuyoshika/2uxux</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アナタの知らない Postman エクスペリエンス (2023.8.10) - 公開用</title>
-        <link>https://docs.google.com/presentation/d/1CnjRm555V1o5zkb4A4qv22hnmbzlp_58s4XkKYkmFKQ/preview</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Jap1 (Naveen N)</title>
-        <link>https://www.slideshare.net/bnaveenn/jap1</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
