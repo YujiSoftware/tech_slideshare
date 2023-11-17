@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VSE vs MVS比較 (Hirofumi Nakata)</title>
+        <link>https://www.slideshare.net/HirofumiNakata/vs-evs-mvs-43780754</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The state of MVNO in 2018 (One Development)</title>
+        <link>https://www.slideshare.net/OneDevelopment/the-state-of-mvno-in-2018</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JDK 16で導入される JEP 396にご注意!! (Yoshiro Tokumasu)</title>
+        <link>https://www.slideshare.net/tokumasu123/jdk-16-jep-396</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Oracle GoldenGate導入Tips (オラクルエンジニア通信)</title>
         <link>https://www.slideshare.net/oracle4engineer/oracle-goldengatetips</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>博士論文「ゲーム産業成長の鍵としての自主制作文化」発表資料 (Nobushige Kobayashi (Hichibe))</title>
         <link>https://www.slideshare.net/nobushigehichibe/150402-doctoral-thesis</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【共有用】シニア向けモバイルアプリ開発のすゝめ</title>
-        <link>https://docs.google.com/presentation/d/1CMMxbNXdGUhByo7AxrAS3yZKgPH5m0i3R_cSHrp3rQo/preview</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SwiftのDI方法につい て最近考えてた話 (Yahoo!デベロッパーネットワーク, @​ydnjp)</title>
-        <link>https://www.slideshare.net/techblogyahoo/swiftdi</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(Jerry) generative AI v13 (Japanese,  NVIDIA genAI conference 2023</title>
-        <link>https://docs.google.com/presentation/d/1fUru1nbPg2pYwGwTIBVN0htbYVdT03wzi_EsVHxeGk4/preview</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
