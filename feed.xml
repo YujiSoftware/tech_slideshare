@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ButtonとLink、どう実装する？</title>
+        <link>https://docs.google.com/presentation/d/1rS7BeO1sqbD9-FGRPkst1TCteXkxvPFlfoQh2fWeEus/preview</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20210422 kuruma iotlt vol2 kitazaki v1</title>
+        <link>https://www.slideshare.net/kitazaki/20210422-kuruma-iotlt-vol2-kitazaki-v1</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>動くUSDZめっちゃ出す</title>
+        <link>https://docs.google.com/presentation/d/15xyQ6nLTbUfbSTsGtPmyWcMwZz_CJUhzKRhsdg5_X50/preview</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React(TypeScript) + Go + Auth0 で実現する管理画面</title>
+        <link>https://www.slideshare.net/KentaEndoh/reacttypescript-go-auth0-242021081</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure OpenAIと本家OpenAIを使って有価証券報告書をベクター検索してみた</title>
+        <link>https://docs.google.com/presentation/d/1jhiBRxsVZqIoGK7S11uMIxahxGHjWSSW_7jBbvexpXM/preview</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cisco Modeling Labs (CML)を使ってネットワークを学ぼう！（DevNet編）</title>
+        <link>https://www.slideshare.net/CiscoJapan/cisco-modeling-labs-cmldevnet</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>KingYoSun_Bluesky_ATProtocol勉強会_2</title>
         <link>https://docs.google.com/presentation/d/17eaqrIx-Hkp8T8kyD9fsdod49nQj-pyPvAy5aGuaoRU/preview</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>ScyllaDBユーザー勉強会 #1</title>
         <link>https://www.slideshare.net/awk2561/scylladb-1</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドメイン知識をチームに浸透するために何をやっているのか？</title>
-        <link>https://docs.google.com/presentation/d/1VfW0nSw66aitKz7vXfGrxqAvDOODYboj5D3h71qMKYo/preview</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハイブリッドワークプレイスってなんだ？ ずっと Microsoft 365 を見てきた 4 人が振り返る Microsoft Ignite…</title>
-        <link>https://www.slideshare.net/hirofumi_ota/microsoft-365-4-microsoft-ignite-2021</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドメイン知識をチームに浸透するために何をやっているのか？</title>
-        <link>https://docs.google.com/presentation/u/0/d/1VfW0nSw66aitKz7vXfGrxqAvDOODYboj5D3h71qMKYo/preview</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カッコいい SharePoint モダンサイトを作ろう</title>
-        <link>https://www.slideshare.net/hirofumi_ota/sharepoint-247200039</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ShadowRealms - TC39 Update September 2023</title>
-        <link>https://docs.google.com/presentation/d/1WJd9g3df_ibVHK3LdoKX2FboDwYQBUBJNxuRAWOYYbM/preview</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(CMP404) Cloud Rendering at Walt Disney Animation Studios</title>
-        <link>https://www.slideshare.net/AmazonWebServices/cmp404-cloud-rendering-at-walt-disney-animation-studios</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
