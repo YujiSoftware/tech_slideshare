@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Deep State Space Models for Time Series Forecasting の紹介 (Chihiro Kusunoki)</title>
+        <link>https://www.slideshare.net/ChihiroKusunoki/deep-state-space-models-for-time-series-forecasting-129296435</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>社会のコードを、書き換えよう～エンジニア起点のNew Normalな働き方～ (Hitachi, Ltd. OSS Solution Center.)</title>
+        <link>https://www.slideshare.net/ssuserbeb7c0/new-normal-244579696</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラウド ネイティブ開発と Azure DevOps (Akira Inoue)</title>
+        <link>https://www.slideshare.net/chack411/azure-devops-123863999</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>細かすぎて伝わらないかもしれない Azure Container Networking Deep Dive (Toru Makabe, @​tmak_tw)</title>
         <link>https://www.slideshare.net/ToruMakabe/azure-container-networking-deep-dive</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>VSE vs MVS比較 (Hirofumi Nakata)</title>
         <link>https://www.slideshare.net/HirofumiNakata/vs-evs-mvs-43780754</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The state of MVNO in 2018 (One Development)</title>
-        <link>https://www.slideshare.net/OneDevelopment/the-state-of-mvno-in-2018</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JDK 16で導入される JEP 396にご注意!! (Yoshiro Tokumasu)</title>
-        <link>https://www.slideshare.net/tokumasu123/jdk-16-jep-396</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Oracle GoldenGate導入Tips (オラクルエンジニア通信)</title>
-        <link>https://www.slideshare.net/oracle4engineer/oracle-goldengatetips</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
