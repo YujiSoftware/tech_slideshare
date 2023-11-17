@@ -6,6 +6,61 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Snowflake x Terraformに自動テストを導入した話 (KDDI SnowVIllage)</title>
+        <link>https://speakerdeck.com/kddisnowvillage/snowflake-x-terraformnizi-dong-tesutowodao-ru-sitahua</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SnowVillageでもオープンデータハッカソン出てみませんか？ (KDDI SnowVIllage)</title>
+        <link>https://speakerdeck.com/kddisnowvillage/snowvillagedemoopundetahatukasonchu-temimasenka</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PDFファイルからデータを抜き出してテーブルに入れてみた (fkd)</title>
+        <link>https://speakerdeck.com/fkd/pdfhuairukaradetawoba-kichu-siteteburuniru-retemita</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>External Network AccessとStreamlitでデータロードアプリ作ってみた (あれ)</title>
+        <link>https://speakerdeck.com/__allllllllez__/external-network-accesstostreamlitdedetarodoapurizuo-tutemita</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>External Network Access よもやま話 (Gaku TASHIRO)</title>
+        <link>https://speakerdeck.com/gak_t12/external-network-access-yomoyamahua</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Modern Data Stack初心者がSnowflake DCRの構築をした話 (Makoto Shinohara)</title>
+        <link>https://speakerdeck.com/synohara/modern-data-stackchu-xin-zhe-gasnowflake-dcrnogou-zhu-wositahua</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>snow_villege_231110_ML-PoweredFunctions使ってみた.pdf (Tatsuya Hanyu)</title>
+        <link>https://www.slideshare.net/s1210099/snowvillege231110mlpoweredfunctionspdf</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Streamlitの始め方～Snowflakeをもっと楽しむ方法～ (Akira Sakatoku)</title>
+        <link>https://speakerdeck.com/sakatoku/streamlitnoshi-mefang-snowflakewomotutole-simufang-fa</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The past, present and future of singing synthesis (Eji Warp)</title>
+        <link>https://www.slideshare.net/ejiwarp/the-past-present-and-future-of-singing-synthesis</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2014年の社内新人教育テキスト #1（プログラミング言語概論） (Shin-ya Koga)</title>
+        <link>https://www.slideshare.net/ShinyaKoga/2014-1-245609524</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【きものやまなか振袖美人】名古屋市編 (名古屋市で【振袖】をお探しの方へ)</title>
+        <link>https://www.slideshare.net/kunihikoyamanaka54/ss-245704797</link>
+        <dc:date>2023-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コミュニティ再生とSOHO間決済システムとしての仮想通貨BASICの概要 (susumu Takahashi)</title>
         <link>https://www.slideshare.net/shinichiroutakahashi12/basic-30323740</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
@@ -48,61 +103,6 @@
     <item>
         <title>LiBRA_210201/New_emploee (Masanori Saito)</title>
         <link>https://www.slideshare.net/after311/libra210201newemploee</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>5G時代のアプリケーション開発とは - 5G+MECを活用した低遅延アプリの実現へ (VirtualTech Japan Inc., @​VirtualTech_jp)</title>
-        <link>https://www.slideshare.net/VirtualTech-JP/5g-5gmec-245939390</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby on rails, 4 code smells : un guide de simplification (Hadrien Blanc, @​hadrienblanc)</title>
-        <link>https://www.slideshare.net/blanchadrien1/ruby-on-rails-4-code-smells-un-guide-de-simplification</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS導入から3年 AWSマルチアカウント管理で変わらなかったこと変えていったこと (Takayuki Ishikawa)</title>
-        <link>https://www.slideshare.net/TakayukiIshikawa/aws-multi-account-matsuri2</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Distributed agile team_agile_transformation_20210225 (Kei Nakahara)</title>
-        <link>https://www.slideshare.net/keinakahara3/distributed-agile-teamagiletransformation20210225</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MNO, MVNO, MVNA, MVNE: Different types of mobile operators (3G4G, @​3g4gUK)</title>
-        <link>https://www.slideshare.net/3G4GLtd/mno-mvno-mvna-mvne-different-types-of-mobile-operators</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プログラマが欲しい仕様書とは (Katsutoshi Makino)</title>
-        <link>https://www.slideshare.net/KatsutoshiMakino/ss-10068192</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【HinemosWorld2015】A1-3_コンテナ技術Dockerの導入事例と完全運用自動化 (Hinemos)</title>
-        <link>https://www.slideshare.net/Hinemos/hinemosworld2015a13docker</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS re:Invent 2016: NEW LAUNCH! Introducing Amazon Rekognition (MAC20… (Amazon Web Services, @​awscloud)</title>
-        <link>https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-new-launch-introducing-amazon-rekognition-mac203</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ADVENTURE_Mates Ver.​ 0.​5bの概要 (ADVENTURE Project)</title>
-        <link>https://www.slideshare.net/ADVENTURE_WebSite/adventuremates-ver-05b</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドの書くべきだったテスト、書かなくてよかったテスト (Takepepe)</title>
-        <link>https://speakerdeck.com/takefumiyoshii/hurontoentonoshu-kuhekitatutatesuto-shu-kanakuteyokatutatesuto</link>
-        <dc:date>2023-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How Much Position Information Do Convolutional Neural Networks Encode? (Kazuyuki Miyazawa, @​kzykmyzw)</title>
-        <link>https://www.slideshare.net/KazuyukiMiyazawa/how-much-position-information-do-convolutional-neural-networks-encode</link>
         <dc:date>2023-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
