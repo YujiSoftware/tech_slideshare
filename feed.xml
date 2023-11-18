@@ -6,8 +6,28 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>文献紹介：SemEval(SENSEVAL)におけるWSDタスクについて</title>
+        <link>https://www.slideshare.net/ShoheiOkada/ss-44330384</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Linux の hugepage の開発動向 (Naoya Horiguchi)</title>
+        <link>https://www.slideshare.net/NaoyaHoriguchi1/linux-hugepage</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cypressでリグレッションテストを自動化してみた</title>
+        <link>https://docs.google.com/presentation/d/1VPjTGfq4yOsM0ef4-P8RGoEoHBEg76lIcBSEziESe0k/preview</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JGLUEの構築そして 日本語LLM評価のこれから (Keisuke Kamata)</title>
         <link>https://speakerdeck.com/olachinkei/jgluenogou-zhu-sosite-ri-ben-yu-llmping-jia-nokorekara</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メルペイの与信モデリングで安全・安心のために実践していること (Yuhi Kawakami)</title>
+        <link>https://www.slideshare.net/YuhiKawakami/ss-243834207</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
     </item>
     <item>
@@ -83,26 +103,6 @@
     <item>
         <title>Vertex AI Feature Store に 機械学習エンジニアが涙した 理由 (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/vertex-ai-feature-store-ni-ji-jie-xue-xi-enziniagalei-sita-li-you</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>151021 教育評価論（三田）第4講 (Koyo Yamamori)</title>
-        <link>https://www.slideshare.net/koyoyamamori/eduass151021</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Recent_LLMs.pptx</title>
-        <link>https://docs.google.com/presentation/d/178Nk6flxqS59E2J9SSj5ZhyZ8YD_3tWJ/preview</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜコピペで使うコンポーネント集を利用するのか？  (mottox2)</title>
-        <link>https://speakerdeck.com/mottox2/nasekohiheteshi-ukonhonentoji-woli-yong-surunoka</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マクニカネットワークス社「ニューノーマル時代に描くセキュリティ対策の現実解とは？」 (Kenji Tomooka)</title>
-        <link>https://www.slideshare.net/KenjiTomooka/ss-244697946</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
