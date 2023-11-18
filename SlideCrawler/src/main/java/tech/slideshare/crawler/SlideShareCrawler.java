@@ -48,12 +48,12 @@ public class SlideShareCrawler implements Crawler {
         ObjectMapper mapper = new ObjectMapper();
         NextData nextData = mapper.readValue(json.html(), NextData.class);
 
-        if (!nextData.props.pageProps.slideshow.isViewable) {
+        if (nextData.props.pageProps.slideshow == null || !nextData.props.pageProps.slideshow.isViewable) {
             return Collections.emptyList();
         }
 
         List<String> contents = new ArrayList<>();
-        for (String html : nextData.props.pageProps.slideshow.transcript.html) {
+        for (String html : nextData.props.pageProps.slideshow.transcript) {
             contents.add(Parser.unescapeEntities(html, true).trim());
         }
         return contents;
@@ -92,12 +92,7 @@ public class SlideShareCrawler implements Crawler {
                 @JsonIgnoreProperties(ignoreUnknown = true)
                 public static class Slideshow {
                     public boolean isViewable;
-                    public Transcript transcript;
-
-                    @JsonIgnoreProperties(ignoreUnknown = true)
-                    public static class Transcript {
-                        public String[] html;
-                    }
+                    public String[] transcript;
                 }
             }
         }
