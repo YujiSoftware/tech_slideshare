@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜコピペで使うコンポーネント集を利用するのか？  (mottox2)</title>
+        <link>https://speakerdeck.com/mottox2/nasekohiheteshi-ukonhonentoji-woli-yong-surunoka</link>
+        <dc:date>2023-11-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vertex AI Feature Store に 機械学習エンジニアが涙した 理由 (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/vertex-ai-feature-store-ni-ji-jie-xue-xi-enziniagalei-sita-li-you</link>
         <dc:date>2023-11-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Data × UX - 定量分析と定性分析のシナジーをガチUXデザイナーが語る (Yoshiki Hayama, @​storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/data-ux-ux</link>
-        <dc:date>2023-11-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Streamlitの始め方～Snowflakeをもっと楽しむ方法～ (Akira Sakatoku)</title>
-        <link>https://speakerdeck.com/sakatoku/streamlitnoshi-mefang-snowflakewomotutole-simufang-fa</link>
         <dc:date>2023-11-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
