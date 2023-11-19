@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Deep dive into Biome in JSConf 2023 (nissy-dev)</title>
+        <link>https://speakerdeck.com/nissydev/deep-dive-into-biome-in-jsconf-2023</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>金融×AIで解くべき問題は何か？ (Tsunehiko Nagayama)</title>
         <link>https://www.slideshare.net/tsunehikonagayama/ai-244332120</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[DL輪読会]End-to-End Object Detection with Transformers (Deep Learning JP)</title>
         <link>https://www.slideshare.net/DeepLearningJP2016/dlendtoend-object-detection-with-transformers</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>それでも私が研究を続ける理由 (Hitomi Yanaka)</title>
-        <link>https://www.slideshare.net/HitomiYanaka/ss-244719834</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
