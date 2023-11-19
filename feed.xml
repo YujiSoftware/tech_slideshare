@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「書いたJavaScriptがそのままブラウザで動く未来へ」スピーカーノート (sosukesuzuki)</title>
+        <link>https://speakerdeck.com/sosukesuzuki/jsconf-jp-2023-supikanoto-shu-itajavascriptgasonomamaburauzadedong-kuwei-lai-he</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Hono v3 and v4 (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/hono-v3-and-v4</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>WebAssemblyのWeb以外のことぜんぶ話す</title>
         <link>https://www.slideshare.net/TakayaSaeki/webassemblyweb-244794176?s=09</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HDMI探検隊</title>
-        <link>https://www.slideshare.net/mzyy94/hdmi-expedition</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
