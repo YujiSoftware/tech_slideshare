@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JavaScript なしで動作するモダンなコードの書き方 (azukiazusa)</title>
+        <link>https://speakerdeck.com/azukiazusa1/javascript-nasidedong-zuo-surumodannakodonoshu-kifang</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Second-System Syndrome: A tale of power-assert (Takuto Wada)</title>
+        <link>https://speakerdeck.com/twada/second-system-syndrome-a-tale-of-power-assert</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Intlの今までとこれから (Saji)</title>
+        <link>https://speakerdeck.com/sajikix/intlnojin-madetokorekara</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>(JSConf JP 2023) LLM (大規模言語モデル) 全盛時代の開発プラクティス (Yuichiro Yamashita)</title>
+        <link>https://speakerdeck.com/baseballyama/jsconf-jp-2023-llm-da-gui-mo-yan-yu-moderu-quan-sheng-shi-dai-nokai-fa-purakuteisu</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「書いたJavaScriptがそのままブラウザで動く未来へ」スピーカーノート (sosukesuzuki)</title>
         <link>https://speakerdeck.com/sosukesuzuki/jsconf-jp-2023-supikanoto-shu-itajavascriptgasonomamaburauzadedong-kuwei-lai-he</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>Takashi Iba's keynote slide at Ecological Memes Forum 2021</title>
         <link>https://www.slideshare.net/takashiiba/ecological-meme?fbclid=IwAR1urDapYnDn0j78yjYg1kuST82r8Ods3Ku1sky5xCu7IJLT_OIx474B3ic</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>よくわかるフリストンの自由エネルギー原理</title>
-        <link>https://www.slideshare.net/masatoshiyoshida/ss-79082197</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Geopaparazzi実習（Geopaparazziハンズオン） (Kouichi Kita)</title>
-        <link>https://www.slideshare.net/KouichiKita/geopaparazzigeopaparazzi</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebAssemblyのWeb以外のことぜんぶ話す (Takaya Saeki)</title>
-        <link>https://www.slideshare.net/TakayaSaeki/webassemblyweb-244794176</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebAssemblyのWeb以外のことぜんぶ話す</title>
-        <link>https://www.slideshare.net/TakayaSaeki/webassemblyweb-244794176?s=09</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
