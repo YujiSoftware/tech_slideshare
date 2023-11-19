@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>画面遷移のアクセシビリティ課題を解決しうる Navigation API への期待</title>
+        <link>https://docs.google.com/presentation/d/1YVdn5yWHv3vI6sY_c-zo8zcDX2z4Ivpkhj7dJOivNMY/preview</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JavaScript なしで動作するモダンなコードの書き方 (azukiazusa)</title>
         <link>https://speakerdeck.com/azukiazusa1/javascript-nasidedong-zuo-surumodannakodonoshu-kifang</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SIGNATE 鰹節コンペ2nd Place Solution (Yusuke Uchida, @​yu4u)</title>
         <link>https://www.slideshare.net/ren4yu/signate-2nd-place-solution</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Takashi Iba's keynote slide at Ecological Memes Forum 2021</title>
-        <link>https://www.slideshare.net/takashiiba/ecological-meme?fbclid=IwAR1urDapYnDn0j78yjYg1kuST82r8Ods3Ku1sky5xCu7IJLT_OIx474B3ic</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
