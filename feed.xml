@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Let's Make Windows Defender Angry: Antivirus can be an oracle! (icchy)</title>
+        <link>https://speakerdeck.com/icchy/lets-make-windows-defender-angry-antivirus-can-be-an-oracle</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PIXTAにおけるCloudSearchのコスト削減 (NaoshiHoshi)</title>
+        <link>https://www.slideshare.net/NaoshiHoshi/pixtacloudsearch</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>属人化させない "UX" リサーチ (Mario Kazumichi SAKATA)</title>
+        <link>https://speakerdeck.com/mariosakata/shu-ren-hua-sasenai-ux-risati</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ちょっと丁寧にgitを説明する (Taichiro Ogawa)</title>
+        <link>https://www.slideshare.net/taichiroogawa/git-130970916</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ABEMA における GKE Scale 戦略と Anthos Service Mesh 活用事例 Deep Dive (Katsutoshi Nagaoka)</title>
+        <link>https://speakerdeck.com/nagapad/abema-niokeru-gke-scale-zhan-lue-to-anthos-service-mesh-huo-yong-shi-li-deep-dive</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[DL輪読会]An Analysis of Scale Invariance in Object Detection - SNIP (Deep Learning JP)</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dlan-analysis-of-scale-invariance-in-object-detection-snip</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2019年のコミュニティ活動報告 / Community Activity in 2019 (Masashi Hirano)</title>
         <link>https://speakerdeck.com/masashi/community-activity-in-2019</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>ネットワークシミュレータで手軽にネットワークのお勉強（GNS3編） (Wataru NOGUCHI, @​wnoguchi)</title>
         <link>https://www.slideshare.net/watarunoguchi0727/gns3-78588754</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHubでポータルサイトドキュメントを運営して幸せになる話 (Yoshimasa Iwase, @iwashi86)</title>
-        <link>https://www.slideshare.net/iwashi86/github-102233959</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Building Applications for Container with Bazel (Fumihiro Ito)</title>
-        <link>https://speakerdeck.com/f110/building-applications-for-container-with-bazel</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Building end to-end dialogue systems (Ogushi Masaya)</title>
-        <link>https://www.slideshare.net/Gushi/building-end-toend-dialogue-systems</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ブロックエディタをゴリゴリに使い倒してサイトを作った話 / Kansai WordPress Meetup 2023 09 23 (Toro_Unit (Hiroshi Urabe))</title>
-        <link>https://speakerdeck.com/torounit/kansai-wordpress-meetup-2023-09-23</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アウトプット力を高める逆説的思考法 (NAOKI ITO, n_11o)</title>
-        <link>https://www.slideshare.net/NaokiIto1/prlt-repro-naoki20180625</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あるOSSにPR出したけど放置されてる話 (ochim)</title>
-        <link>https://speakerdeck.com/ochim/aruossniprchu-sitakedofang-zhi-sareteruhua</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
