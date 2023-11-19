@@ -6,103 +6,103 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
-        <title>Kotlin製のGraphQLサーバーをNode.jsでモジュラモノリス化している話 (Kazuhito Hokamura)</title>
-        <link>https://speakerdeck.com/hokaccha/modular-monolith-graphql-server-with-node-dot-js</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>2019年のコミュニティ活動報告 / Community Activity in 2019 (Masashi Hirano)</title>
+        <link>https://speakerdeck.com/masashi/community-activity-in-2019</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>フロントエンドリアーキテクチャリングと開発チームのスキルトランスファーにおける9ヶ月間の奮闘記 (wakamsha)</title>
-        <link>https://speakerdeck.com/wakamsha/hurontoendoriakitekutiyaringutokai-fa-timunosukirutoransuhuaniokeru9keyue-jian-nofen-dou-ji</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>決済事業のアーキテクチャとそれを⽀える AlloyDB (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20231116</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>画面遷移のアクセシビリティ課題を解決しうる Navigation API への期待</title>
-        <link>https://docs.google.com/presentation/d/1YVdn5yWHv3vI6sY_c-zo8zcDX2z4Ivpkhj7dJOivNMY/preview</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>大規模言語モデルを用いた意味分析による辞書記述への応用 (Yasuhiro Kondo)</title>
+        <link>https://speakerdeck.com/yhkondo/da-gui-mo-yan-yu-moderuwoyong-itayi-wei-fen-xi-niyoruci-shu-ji-shu-henoying-yong</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>JavaScript なしで動作するモダンなコードの書き方 (azukiazusa)</title>
-        <link>https://speakerdeck.com/azukiazusa1/javascript-nasidedong-zuo-surumodannakodonoshu-kifang</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>Data Science in Go (Xuanyi)</title>
+        <link>https://speakerdeck.com/chewxy/data-science-in-go</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Second-System Syndrome: A tale of power-assert (Takuto Wada)</title>
-        <link>https://speakerdeck.com/twada/second-system-syndrome-a-tale-of-power-assert</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>サイバー・バズ　メンバーの成長に向き合うマネジメント育成 (ssuserf32bde)</title>
+        <link>https://www.slideshare.net/ssuserf32bde/ss-69158383</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Intlの今までとこれから (Saji)</title>
-        <link>https://speakerdeck.com/sajikix/intlnojin-madetokorekara</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>streamlitでGPT-3のチャットボットを作った話</title>
+        <link>https://docs.google.com/presentation/d/1FL01ee-Vix1gXRPKJkqtcY1BpAPm-dgp4C_3RtiXysE/preview</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>(JSConf JP 2023) LLM (大規模言語モデル) 全盛時代の開発プラクティス (Yuichiro Yamashita)</title>
-        <link>https://speakerdeck.com/baseballyama/jsconf-jp-2023-llm-da-gui-mo-yan-yu-moderu-quan-sheng-shi-dai-nokai-fa-purakuteisu</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>大規模データをリアルタイムに解析する技術@【SmartNews × PLAID】大量データ、高トラフィックをさばくサービスの開発と運用 (Makoto Kataigi)</title>
+        <link>https://speakerdeck.com/mkataigi/da-gui-mo-detaworiarutaimunijie-xi-suruji-shu-at-smartnews-x-plaid-da-liang-deta-gao-torahuitukuwosabakusabisufalsekai-fa-toyun-yong</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>「書いたJavaScriptがそのままブラウザで動く未来へ」スピーカーノート (sosukesuzuki)</title>
-        <link>https://speakerdeck.com/sosukesuzuki/jsconf-jp-2023-supikanoto-shu-itajavascriptgasonomamaburauzadedong-kuwei-lai-he</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>Ansible と NEEDLEWORK によるネットワーク自動化 [Ansible編] (akira6592, @​akira6592)</title>
+        <link>https://www.slideshare.net/akira6592/ansible-network-automationinterop2019</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Hono v3 and v4 (Yusuke Wada)</title>
-        <link>https://speakerdeck.com/yusukebe/hono-v3-and-v4</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>OpenTelemetryでWebシステムの処理を追跡しよう - DjangoCongress JP 2022</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vRtqRQ6USDeV32_aTPjSaNXpKdn5cbitkmiX9ZfgwXVE-mh74I4eICFOB8rWGz0LPUIEfXn3APRKcrU/pub</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>FRONTEND CONFERENCE OKINAWA 2023 スポンサーセッション発表スライド/frontend-okinawa (日本経済新聞社 エンジニア採用事務局)</title>
-        <link>https://speakerdeck.com/nikkei_engineer_recruiting/frontend-okinawa</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>StudyUnityFromAnti-pattern (Cova8bitdots)</title>
+        <link>https://speakerdeck.com/cova8bitdots/studyunityfromanti-pattern</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>フロントエンドエンジニアも知っておきたい HTTP/3 で変わること (y_ahiru)</title>
-        <link>https://speakerdeck.com/yahiru/3-debian-warukoto</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>WPF on .​NET Core 3.​1 で Windows 10 アプリ開発 (一希 大田)</title>
+        <link>https://www.slideshare.net/okazuki0130/wpf-on-net-core-31-windows-10</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>GraphQLクライアントの技術選定 2023冬 (KazukiHayase)</title>
-        <link>https://speakerdeck.com/kazukihayase/graphqlkuraiantonoji-shu-xuan-ding-2023dong</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>Coiney ツケ払い と Go - howtv.​go #1</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vRbFr-hf34OdhGXmQ7K0bS5lQ4hmdBT5lEzwo0h5-ZuNUIedAOOMyUj3li0wQ_T37wNPAQ64m_Z6zx8/pub</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>2023年の ゼロランタイムCSS in JS⚡️ を考える (yud0uhu)</title>
-        <link>https://speakerdeck.com/yud0uhu/2023nian-no-zerorantaimucss-in-js-wokao-eru</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>スクリーン配信機能の実装が大変だったので知見をお伝えします / iOSDC2019 (FromAtom)</title>
+        <link>https://speakerdeck.com/fromatom/iosdc2019</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Next.js App Router での MPA フロントエンド刷新 (Hajime Mugishima)</title>
-        <link>https://speakerdeck.com/mugi_uno/next-dot-js-app-router-deno-mpa-hurontoendoshua-xin</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>ネットワークシミュレータで手軽にネットワークのお勉強（GNS3編） (Wataru NOGUCHI, @​wnoguchi)</title>
+        <link>https://www.slideshare.net/watarunoguchi0727/gns3-78588754</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Deep dive into Biome in JSConf 2023 (nissy-dev)</title>
-        <link>https://speakerdeck.com/nissydev/deep-dive-into-biome-in-jsconf-2023</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>GitHubでポータルサイトドキュメントを運営して幸せになる話 (Yoshimasa Iwase, @iwashi86)</title>
+        <link>https://www.slideshare.net/iwashi86/github-102233959</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>金融×AIで解くべき問題は何か？ (Tsunehiko Nagayama)</title>
-        <link>https://www.slideshare.net/tsunehikonagayama/ai-244332120</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>Building Applications for Container with Bazel (Fumihiro Ito)</title>
+        <link>https://speakerdeck.com/f110/building-applications-for-container-with-bazel</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>【DL輪読会】言語以外でのTransformerのまとめ (ViT, Perceiver, Frozen Pretrained Trans… (Deep Learning JP)</title>
-        <link>https://www.slideshare.net/DeepLearningJP2016/dltransformer-vit-perceiver-frozen-pretrained-transformer-etc</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>Building end to-end dialogue systems (Ogushi Masaya)</title>
+        <link>https://www.slideshare.net/Gushi/building-end-toend-dialogue-systems</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>SearchLove London 2019 - Rory Truesdale - Using the SERPs to Know You… (Distilled, @​distilled)</title>
-        <link>https://www.slideshare.net/DistilledSEO/searchlove-london-2019-rory-truesdale-using-the-serps-to-know-your-audience</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>ブロックエディタをゴリゴリに使い倒してサイトを作った話 / Kansai WordPress Meetup 2023 09 23 (Toro_Unit (Hiroshi Urabe))</title>
+        <link>https://speakerdeck.com/torounit/kansai-wordpress-meetup-2023-09-23</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>きものやまなか【振袖パンフレット】 (名古屋市で【振袖】をお探しの方へ)</title>
-        <link>https://www.slideshare.net/kunihikoyamanaka54/ss-244577329</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>アウトプット力を高める逆説的思考法 (NAOKI ITO, n_11o)</title>
+        <link>https://www.slideshare.net/NaokiIto1/prlt-repro-naoki20180625</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>オンライン学会を支えるツール群 / Many web services for on-line academic conferences (Satoshi Makita, @​twmaks)</title>
-        <link>https://www.slideshare.net/SatoshiMakita/many-web-services-for-online-academic-conference-244557093</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
+        <title>あるOSSにPR出したけど放置されてる話 (ochim)</title>
+        <link>https://speakerdeck.com/ochim/aruossniprchu-sitakedofang-zhi-sareteruhua</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
