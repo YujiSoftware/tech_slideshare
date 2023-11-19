@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FRONTEND CONFERENCE OKINAWA 2023 スポンサーセッション発表スライド/frontend-okinawa (日本経済新聞社 エンジニア採用事務局)</title>
+        <link>https://speakerdeck.com/nikkei_engineer_recruiting/frontend-okinawa</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フロントエンドエンジニアも知っておきたい HTTP/3 で変わること (y_ahiru)</title>
+        <link>https://speakerdeck.com/yahiru/3-debian-warukoto</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GraphQLクライアントの技術選定 2023冬 (KazukiHayase)</title>
+        <link>https://speakerdeck.com/kazukihayase/graphqlkuraiantonoji-shu-xuan-ding-2023dong</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2023年の ゼロランタイムCSS in JS⚡️ を考える (yud0uhu)</title>
         <link>https://speakerdeck.com/yud0uhu/2023nian-no-zerorantaimucss-in-js-wokao-eru</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>文献紹介：SemEval(SENSEVAL)におけるWSDタスクについて</title>
         <link>https://www.slideshare.net/ShoheiOkada/ss-44330384</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Linux の hugepage の開発動向 (Naoya Horiguchi)</title>
-        <link>https://www.slideshare.net/NaoyaHoriguchi1/linux-hugepage</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cypressでリグレッションテストを自動化してみた</title>
-        <link>https://docs.google.com/presentation/d/1VPjTGfq4yOsM0ef4-P8RGoEoHBEg76lIcBSEziESe0k/preview</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JGLUEの構築そして 日本語LLM評価のこれから (Keisuke Kamata)</title>
-        <link>https://speakerdeck.com/olachinkei/jgluenogou-zhu-sosite-ri-ben-yu-llmping-jia-nokorekara</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
