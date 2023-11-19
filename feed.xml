@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kotlin製のGraphQLサーバーをNode.jsでモジュラモノリス化している話 (Kazuhito Hokamura)</title>
+        <link>https://speakerdeck.com/hokaccha/modular-monolith-graphql-server-with-node-dot-js</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンドリアーキテクチャリングと開発チームのスキルトランスファーにおける9ヶ月間の奮闘記 (wakamsha)</title>
         <link>https://speakerdeck.com/wakamsha/hurontoendoriakitekutiyaringutokai-fa-timunosukirutoransuhuaniokeru9keyue-jian-nofen-dou-ji</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>オンライン学会を支えるツール群 / Many web services for on-line academic conferences (Satoshi Makita, @​twmaks)</title>
         <link>https://www.slideshare.net/SatoshiMakita/many-web-services-for-online-academic-conference-244557093</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Redisの特徴と活用方法について (Yuji Otani)</title>
-        <link>https://www.slideshare.net/yujiotani16/redis-76504393</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
