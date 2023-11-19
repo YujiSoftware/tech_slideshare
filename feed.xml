@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2023年の ゼロランタイムCSS in JS⚡️ を考える (yud0uhu)</title>
+        <link>https://speakerdeck.com/yud0uhu/2023nian-no-zerorantaimucss-in-js-wokao-eru</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Next.js App Router での MPA フロントエンド刷新 (Hajime Mugishima)</title>
+        <link>https://speakerdeck.com/mugi_uno/next-dot-js-app-router-deno-mpa-hurontoendoshua-xin</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Deep dive into Biome in JSConf 2023 (nissy-dev)</title>
         <link>https://speakerdeck.com/nissydev/deep-dive-into-biome-in-jsconf-2023</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>JGLUEの構築そして 日本語LLM評価のこれから (Keisuke Kamata)</title>
         <link>https://speakerdeck.com/olachinkei/jgluenogou-zhu-sosite-ri-ben-yu-llmping-jia-nokorekara</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メルペイの与信モデリングで安全・安心のために実践していること (Yuhi Kawakami)</title>
-        <link>https://www.slideshare.net/YuhiKawakami/ss-243834207</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[DL輪読会]End-to-End Object Detection with Transformers (Deep Learning JP)</title>
-        <link>https://www.slideshare.net/DeepLearningJP2016/dlendtoend-object-detection-with-transformers</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
