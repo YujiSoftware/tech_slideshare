@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>気候変動、知識まとめ</title>
+        <link>https://docs.google.com/presentation/d/1TYy3bCvha1qvuhrG_lnH_NgspwR_SA0LXqQoDF8wpmY/edit</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>続、Mi Band 4をJavaScriptで #iotlt vol60 at docs (n0bisuke)</title>
+        <link>https://speakerdeck.com/n0bisuke/sok-mi-band-4wojavascriptde-number-iotlt-vol60-at-docs</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Probabilistic Robotics: Chapter 1-5 (Shintaro Shiba)</title>
+        <link>https://www.slideshare.net/shintaroshiba5/probabilistic-robotics-chapter-15-88887484</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Dgraph - A high performance graph database written in pure Go (Yuichi Saito)</title>
+        <link>https://speakerdeck.com/munisystem/dgraph-a-high-performance-graph-database-written-in-pure-go</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゲームデザインを改善/批評するための時間構造モデル「ワンダールクス」 (Sho Iwamoto)</title>
+        <link>https://www.slideshare.net/geekdrums/ss-79372278</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>そのアプリ…文字サイズをデカくしてもUI崩れないですか？</title>
+        <link>https://docs.google.com/presentation/d/1hvSX3ZzXPZZr3HeoBNhJiqSff-bPPa-UhhszgmClN2Q/edit</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>niconicoの検索システム(2019年版) (Ken57)</title>
+        <link>https://speakerdeck.com/ken57/niconicofalsejian-suo-sisutemu-2019nian-ban</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【SecurityJAWS】Kibana Canvasで魅せる！AWS環境における脅威分析ユースケース (Hibino Hisashi)</title>
+        <link>https://www.slideshare.net/hibinohisashi/securityjawskibana-canvasaws</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Azusa 3_master</title>
         <link>https://docs.google.com/presentation/d/1zCNQDgWZHHwhHh2pWnv5UGHylEwhB9rMUqAeQPtXZnk/template/edit</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>ちょっと丁寧にgitを説明する (Taichiro Ogawa)</title>
         <link>https://www.slideshare.net/taichiroogawa/git-130970916</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ABEMA における GKE Scale 戦略と Anthos Service Mesh 活用事例 Deep Dive (Katsutoshi Nagaoka)</title>
-        <link>https://speakerdeck.com/nagapad/abema-niokeru-gke-scale-zhan-lue-to-anthos-service-mesh-huo-yong-shi-li-deep-dive</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[DL輪読会]An Analysis of Scale Invariance in Object Detection - SNIP (Deep Learning JP)</title>
-        <link>https://www.slideshare.net/DeepLearningJP2016/dlan-analysis-of-scale-invariance-in-object-detection-snip</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2019年のコミュニティ活動報告 / Community Activity in 2019 (Masashi Hirano)</title>
-        <link>https://speakerdeck.com/masashi/community-activity-in-2019</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>決済事業のアーキテクチャとそれを⽀える AlloyDB (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20231116</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデルを用いた意味分析による辞書記述への応用 (Yasuhiro Kondo)</title>
-        <link>https://speakerdeck.com/yhkondo/da-gui-mo-yan-yu-moderuwoyong-itayi-wei-fen-xi-niyoruci-shu-ji-shu-henoying-yong</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Data Science in Go (Xuanyi)</title>
-        <link>https://speakerdeck.com/chewxy/data-science-in-go</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイバー・バズ　メンバーの成長に向き合うマネジメント育成 (ssuserf32bde)</title>
-        <link>https://www.slideshare.net/ssuserf32bde/ss-69158383</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>streamlitでGPT-3のチャットボットを作った話</title>
-        <link>https://docs.google.com/presentation/d/1FL01ee-Vix1gXRPKJkqtcY1BpAPm-dgp4C_3RtiXysE/preview</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
