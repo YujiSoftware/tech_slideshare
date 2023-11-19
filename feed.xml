@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンドリアーキテクチャリングと開発チームのスキルトランスファーにおける9ヶ月間の奮闘記 (wakamsha)</title>
+        <link>https://speakerdeck.com/wakamsha/hurontoendoriakitekutiyaringutokai-fa-timunosukirutoransuhuaniokeru9keyue-jian-nofen-dou-ji</link>
+        <dc:date>2023-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>画面遷移のアクセシビリティ課題を解決しうる Navigation API への期待</title>
         <link>https://docs.google.com/presentation/d/1YVdn5yWHv3vI6sY_c-zo8zcDX2z4Ivpkhj7dJOivNMY/preview</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Redisの特徴と活用方法について (Yuji Otani)</title>
         <link>https://www.slideshare.net/yujiotani16/redis-76504393</link>
-        <dc:date>2023-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SIGNATE 鰹節コンペ2nd Place Solution (Yusuke Uchida, @​yu4u)</title>
-        <link>https://www.slideshare.net/ren4yu/signate-2nd-place-solution</link>
         <dc:date>2023-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
