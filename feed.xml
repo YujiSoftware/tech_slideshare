@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Azusa 3_master</title>
+        <link>https://docs.google.com/presentation/d/1zCNQDgWZHHwhHh2pWnv5UGHylEwhB9rMUqAeQPtXZnk/template/edit</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Design Mistakes in Node &amp; Deno #kng5 / deno (Masashi Hirano)</title>
+        <link>https://speakerdeck.com/masashi/deno</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fmo digest-fullmoon-mdr-5-20181101-ul (secret)</title>
+        <link>https://www.slideshare.net/secret/IiSVYxL3plHprp</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microservices Maturity Model on Rails (qsona)</title>
+        <link>https://speakerdeck.com/qsona/microservices-maturity-model-on-rails</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>屋外Holoアプリ開発の注意点 (Tatsuya Sakai)</title>
+        <link>https://www.slideshare.net/TatsuyaSakai/holo-78085836</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goの構造体とタグを極める -Mastering Tags of Structs-</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vRbRTYXVPG8pZdQo439G5G6TrserY3jhuFH9RoHE8jGivzCvZPGSXVemuVPnmLx0JA0ArCZeoir-43B/pub</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Capacity Providers をもっと身近に / Introduction of Capacity Providers (mats)</title>
+        <link>https://speakerdeck.com/mats16/introduction-of-capacity-providers</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>気晴らし (distraction) は適応的か？：脱中心化の観点から (PEACE4th LT, 2018) (Ryota Kobayashi)</title>
+        <link>https://www.slideshare.net/RyotaKobayashi2/distraction-125420745</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Let's Make Windows Defender Angry: Antivirus can be an oracle! (icchy)</title>
         <link>https://speakerdeck.com/icchy/lets-make-windows-defender-angry-antivirus-can-be-an-oracle</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>streamlitでGPT-3のチャットボットを作った話</title>
         <link>https://docs.google.com/presentation/d/1FL01ee-Vix1gXRPKJkqtcY1BpAPm-dgp4C_3RtiXysE/preview</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模データをリアルタイムに解析する技術@【SmartNews × PLAID】大量データ、高トラフィックをさばくサービスの開発と運用 (Makoto Kataigi)</title>
-        <link>https://speakerdeck.com/mkataigi/da-gui-mo-detaworiarutaimunijie-xi-suruji-shu-at-smartnews-x-plaid-da-liang-deta-gao-torahuitukuwosabakusabisufalsekai-fa-toyun-yong</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ansible と NEEDLEWORK によるネットワーク自動化 [Ansible編] (akira6592, @​akira6592)</title>
-        <link>https://www.slideshare.net/akira6592/ansible-network-automationinterop2019</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenTelemetryでWebシステムの処理を追跡しよう - DjangoCongress JP 2022</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vRtqRQ6USDeV32_aTPjSaNXpKdn5cbitkmiX9ZfgwXVE-mh74I4eICFOB8rWGz0LPUIEfXn3APRKcrU/pub</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>StudyUnityFromAnti-pattern (Cova8bitdots)</title>
-        <link>https://speakerdeck.com/cova8bitdots/studyunityfromanti-pattern</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WPF on .​NET Core 3.​1 で Windows 10 アプリ開発 (一希 大田)</title>
-        <link>https://www.slideshare.net/okazuki0130/wpf-on-net-core-31-windows-10</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Coiney ツケ払い と Go - howtv.​go #1</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vRbFr-hf34OdhGXmQ7K0bS5lQ4hmdBT5lEzwo0h5-ZuNUIedAOOMyUj3li0wQ_T37wNPAQ64m_Z6zx8/pub</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スクリーン配信機能の実装が大変だったので知見をお伝えします / iOSDC2019 (FromAtom)</title>
-        <link>https://speakerdeck.com/fromatom/iosdc2019</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ネットワークシミュレータで手軽にネットワークのお勉強（GNS3編） (Wataru NOGUCHI, @​wnoguchi)</title>
-        <link>https://www.slideshare.net/watarunoguchi0727/gns3-78588754</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
