@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ピクシブのプロダクトマネージャー、 自己組織化されたチーム、 チームを支える組織</title>
+        <link>https://docs.google.com/presentation/d/1o3bDSU9MMwegHKP04HiJtO4tdqDcSEIhYZGi1FL3jNw/edit</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>マイクロチームでの高速な新規開発を支える開発・分析基盤 (Seiji Takahashi)</title>
+        <link>https://speakerdeck.com/timakin/maikurotimudefalsegao-su-naxin-gui-kai-fa-wozhi-erukai-fa-fen-xi-ji-pan</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CI/CD for Serverless and Containerized Applications (DEV309-R1) - AWS… (Amazon Web Services, awscloud)</title>
+        <link>https://www.slideshare.net/AmazonWebServices/cicd-for-serverless-and-containerized-applications-dev309r1-aws-reinvent-2018</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模静的サイトのためのビルドツール (katashin)</title>
+        <link>https://speakerdeck.com/ktsn/da-gui-mo-jing-de-saitofalsetamefalsebirudoturu</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Building a CICD Pipeline for deploying on Containers (Amazon Web Services, awscloud)</title>
+        <link>https://www.slideshare.net/AmazonWebServices/building-a-cicd-pipeline-for-deploying-on-containers</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ARクラウドがもたらす 未来のAR体験について 軽率に語ろう / lets-talk-about-arcloud-and-feature-technologies (にー兄さん)</title>
+        <link>https://speakerdeck.com/drumath2237/lets-talk-about-arcloud-and-feature-technologies</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>東京Node学園#1「非同期プログラミングの改善」のエッセンス (koichik)</title>
+        <link>https://www.slideshare.net/koichik/node1</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>気候変動、知識まとめ</title>
         <link>https://docs.google.com/presentation/d/1TYy3bCvha1qvuhrG_lnH_NgspwR_SA0LXqQoDF8wpmY/edit</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>屋外Holoアプリ開発の注意点 (Tatsuya Sakai)</title>
         <link>https://www.slideshare.net/TatsuyaSakai/holo-78085836</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goの構造体とタグを極める -Mastering Tags of Structs-</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vRbRTYXVPG8pZdQo439G5G6TrserY3jhuFH9RoHE8jGivzCvZPGSXVemuVPnmLx0JA0ArCZeoir-43B/pub</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Capacity Providers をもっと身近に / Introduction of Capacity Providers (mats)</title>
-        <link>https://speakerdeck.com/mats16/introduction-of-capacity-providers</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>気晴らし (distraction) は適応的か？：脱中心化の観点から (PEACE4th LT, 2018) (Ryota Kobayashi)</title>
-        <link>https://www.slideshare.net/RyotaKobayashi2/distraction-125420745</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Let's Make Windows Defender Angry: Antivirus can be an oracle! (icchy)</title>
-        <link>https://speakerdeck.com/icchy/lets-make-windows-defender-angry-antivirus-can-be-an-oracle</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PIXTAにおけるCloudSearchのコスト削減 (NaoshiHoshi)</title>
-        <link>https://www.slideshare.net/NaoshiHoshi/pixtacloudsearch</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>属人化させない "UX" リサーチ (Mario Kazumichi SAKATA)</title>
-        <link>https://speakerdeck.com/mariosakata/shu-ren-hua-sasenai-ux-risati</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ちょっと丁寧にgitを説明する (Taichiro Ogawa)</title>
-        <link>https://www.slideshare.net/taichiroogawa/git-130970916</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
