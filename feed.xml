@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ノンプログラマ向けGASレクチャ_V8対応</title>
+        <link>https://docs.google.com/presentation/d/1B4av1gPS9xW4XVRqcih6R4Oe5nQabsm3AYO54Y9HDQ0/preview</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes × CircleCIで実現する安心安全Deploy / Safe Deploy with Kubernetes and CircleCI (VTRyo)</title>
+        <link>https://speakerdeck.com/vtryo/safe-deploy-with-kubernetes-and-circleci</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Redshift パフォーマンスチューニングテクニックと最新アップデート (Amazon Web Services Japan, awscloud_jp)</title>
+        <link>https://www.slideshare.net/AmazonWebServicesJapan/amazon-redshift-118303349</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クリエイターと生成AI</title>
+        <link>https://docs.google.com/presentation/d/1nov2MnLn047sJ1nNFS7OEmWkJYlkQz2ThoaCbf1eWII/preview</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Git , GitHub &amp; GitHub Actionsはじめの一歩 / The first step of Git, GitHub &amp; GitHub Actions (ihcomega56)</title>
+        <link>https://speakerdeck.com/ihcomega56/the-first-step-of-git-github-and-github-actions</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>明日から業務で使うScala (martin_lover_ca)</title>
+        <link>https://www.slideshare.net/martin_lover_ca/scala-73408714</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>結婚式を支えた技術 Firebaseを活用したサーバレスiOSアプリケーション開発 (Motoki Narita)</title>
+        <link>https://speakerdeck.com/motokiee/jie-hun-shi-wozhi-etaji-shu-firebasewohuo-yong-sitasabaresuiosapurikesiyonkai-fa</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Hadoop Compatible File Systems 2019 （db tech showcase 2019 Tokyo講演資料、… (NTT DATA Technology &amp; Innovation)</title>
+        <link>https://www.slideshare.net/nttdata-tech/hadoop-compatible-file-systems-2019-nttdata-iwasaki</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サウンドクリエイター殺し</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vRnLSrwjgnpDNv-12S4qyhD7IsVh1Zpap3YTcnDjG-FLMEtGSbD5iUNk5cFPfAgPEEyk1HQoRzBVXgt/pub</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>令和元年のMySQL界の元年的話題～認定試験とGIS機能～ (sakaik)</title>
         <link>https://www.slideshare.net/sakaik/mysqlgis-178455426</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>置くだけタイポグラフィ (sekig)</title>
-        <link>https://speakerdeck.com/sekiguchiy/zhi-kudaketaipogurahui</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>何故あなたの機械学習はビジネスを改善出来ないのか？ (Shota Yasui)</title>
-        <link>https://www.slideshare.net/shotayasui/ss-77566742</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AppSheetからREST API(GET)を使ってみた.​pptx</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTkozse_xDfzBq_k5qyRrCWrgqoN8RwYLVpLUlDOaYbEFzyRUoAwXUGIVOpps6Eog/pub</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『スタディサプリ』における SLI/SLO の継続的改善 / Continuous improvement of SLI/SLO at StudySapuri (Takeshi Kondo)</title>
-        <link>https://speakerdeck.com/chaspy/slo-at-studysapuri</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Camera API １と２が混在するプロダクトの開発で 泣いたこととそのワークアラウンド (Takao Sumitomo)</title>
-        <link>https://www.slideshare.net/TakaoSumitomo/camera-api-91288682</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ユーザーとの摩擦を最小限に保ちつつ Prettierを改善していくための機能設計</title>
-        <link>https://docs.google.com/presentation/d/1KLmsoZZBnKStndU4gKnJNOcKZCbxKR4RJDVd-aX2dig/preview</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Angular UsecaseServiceの提案.​pptx</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQrYLsd-CTo3erkRglo7wpC8aLe6C_LyXN5EzAun5M4JvghinbCndUmqLX1T6rwHg/pub</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Procのススメ/recommendation-of-proc (Masatoshi Moritsuka)</title>
-        <link>https://speakerdeck.com/sanfrecce_osaka/recommendation-of-proc</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
