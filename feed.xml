@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクト開発とFigmaのより良い関係を求めて (takanorip)</title>
+        <link>https://speakerdeck.com/takanorip/purodakutokai-fa-tofigmafalseyoriliang-iguan-xi-woqiu-mete</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Optimizing Kubernetes Resource Requests/Limits for Cost-Efficiency an… (Henning Jacobs, @​try_except_)</title>
+        <link>https://www.slideshare.net/try_except_/optimizing-kubernetes-resource-requestslimits-for-costefficiency-and-latency-highload</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rails on Kubernetes 2018 #railsdm (KUOKA Yusuke)</title>
+        <link>https://speakerdeck.com/mumoshu/rails-on-kubernetes-2018-number-railsdm</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>偶然の出来事の流れに身を任せエンジニアからマネジメントの道に進んだ話。 #devsumi #devsumia (Itsuki Kuroda, @​i2key)</title>
+        <link>https://www.slideshare.net/i2key/devsumi-devsumia-227907062</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MTC2018 - Introduction to the Corporate Solutions Engineering (mercari)</title>
+        <link>https://speakerdeck.com/mercari/mtc2018-introduction-to-the-corporate-solutions-engineering-7803460f-c3a1-4c7a-8c11-bdb61e177408</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アジャイルとスクラムとは 原則、価値、プラクティス (Yasui Tsutomu)</title>
+        <link>https://www.slideshare.net/yattom/ss-84433167</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LT発表のすすめ (bob3bob3)</title>
         <link>https://speakerdeck.com/bob3bob3/ltnosusume</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>名古屋アジャイル勉強会「仮説思考に学ぶ最速アジャイル仕事術」 (hiroyuki Yamamoto)</title>
         <link>https://www.slideshare.net/yama__moto/ss-129255725</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サービスデザインにおけるUIの役割設計について (Yukinori SAEKI, @​YS43K1)</title>
-        <link>https://www.slideshare.net/YukinoriSAEKI1/ui-153350035</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Compare OCI Runtimes (Gosuke Miyashita)</title>
-        <link>https://speakerdeck.com/mizzy/compare-oci-runtimes</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンプレからAws移行で変えた3つの意識 (Ryota Kuroki)</title>
-        <link>https://www.slideshare.net/ryotakuroki/aws3-76236083</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kafka Streamsで作る10万rpsを支えるイベント駆動マイクロサービス (Tomohiro Hashidate)</title>
-        <link>https://speakerdeck.com/joker1007/kafka-streamsdezuo-ru10mo-rpswozhi-eruibentoqu-dong-maikurosabisu</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第三回　全日本コンピュータビジョン勉強会（後編）/ Self-Mono-SF (Takumi Karasawa)</title>
-        <link>https://speakerdeck.com/takarasawa_/self-mono-sf</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実行計画についてのよくある誤解 ～Oracle Database編～ #dbltokyo 5 (Ryota Watabe, @wrcsus4)</title>
-        <link>https://www.slideshare.net/ryotawatabe/20170919-dbltokyo5-misunderstandings-about-oracle-execution-plan</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
