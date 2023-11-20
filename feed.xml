@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>輪講の準備の仕方 / Book Reading (kaityo256)</title>
+        <link>https://speakerdeck.com/kaityo256/book-reading</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今さら聞けない人のためのK8s超入門 (徹 宮原, @​tmiyahar)</title>
+        <link>https://www.slideshare.net/ToruMiyahara/k8s-238317681</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Building API Server-side Architecture for beginners (Kazuki Higashiguchi)</title>
+        <link>https://speakerdeck.com/hgsgtk/building-api-server-side-architecture-for-beginners</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20歳を過ぎてからプログラミングを学ぼうと決めた人たちへ (Shu Uesugi, @chibicode)</title>
+        <link>https://www.slideshare.net/ShuUesugi/20-9290892</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS CDKで作るCloudWatch Dashboard (Haruka Sakihara)</title>
+        <link>https://speakerdeck.com/harukasakihara/aws-cdkdezuo-rucloudwatch-dashboard</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>トランザクションの設計と進化 (Kumazaki Hiroki, @​kumagi)</title>
+        <link>https://www.slideshare.net/kumagi/ss-64459138</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS DevOps Tools (Dzenan Dzevlan)</title>
         <link>https://speakerdeck.com/sqlheisenberg/aws-devops-tools</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>20180723 PFNの研究基盤 / PFN research system infrastructure (Preferred Networks)</title>
         <link>https://www.slideshare.net/pfi/20180723-pfn-pfn-research-system-infrastructure</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Metrics Key_ Connecting Product, System, Team (Masato Ishigaki / 石垣雅人)</title>
-        <link>https://speakerdeck.com/i35_267/the-metrics-key-connecting-product-system-team</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cricket live streaming (charles78647)</title>
-        <link>https://www.slideshare.net/charles78647/cricket-live-streaming</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア開発と私 / Software Development and I (motemen)</title>
-        <link>https://speakerdeck.com/motemen/software-development-and-i</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今Serverlessが面白いわけ v19.​09 (Yoichi Kawasaki, @​yokawasa)</title>
-        <link>https://www.slideshare.net/yokawasa/serverless-v1909-173712712</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今こそ知りたいSpringエコシステム</title>
-        <link>https://docs.google.com/presentation/d/1kadTi0yG-_tKQ5cR7nyE4BBmdDOnEVXUmkncZueZgv8/preview</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>パティシエさんのための3Dプリンタワークショップ / 3D Printer Workshop for Pastry Chefs (kemako)</title>
-        <link>https://speakerdeck.com/kema1015/3d-printer-workshop-for-pastry-chefs</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
