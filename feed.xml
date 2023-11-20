@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words? (Shunsuke KITADA)</title>
+        <link>https://speakerdeck.com/shunk031/human-attention-maps-for-text-classification-do-humans-and-neural-networks-focus-on-the-same-words</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>XPages開発におけるGit/GitHubの利用 (賢次 海老原, @​mushinome)</title>
+        <link>https://www.slideshare.net/kenjiebihara71/x-pagesgit-github</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Data Binding with RecyclerView (Keisuke Kobayashi)</title>
+        <link>https://speakerdeck.com/kobakei/data-binding-with-recyclerview</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Knative CloudEvents (Nobuhiro Sue, nobusue)</title>
+        <link>https://www.slideshare.net/nobusue/knative-cloudevents</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>How to encode categorical features for GBDT (Jack)</title>
+        <link>https://speakerdeck.com/rsakata/how-to-encode-categorical-features-for-gbdt</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アジャイル開発は2度失敗する。 (toshihiro ichitani, @​papanda)</title>
+        <link>https://www.slideshare.net/papanda/2-152930603</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LINEのデータ分析組織の紹介 / Introduction to LINE data analysis organization (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/introduction-to-line-data-analysis-organization</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>Rails と Laravel どちらを選ぶべきか？ / Rails or Laravel (Takeru Hirose)</title>
         <link>https://speakerdeck.com/takeru0757/rails-or-laravel</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスト駆動開発へようこそ (Shuji Watanabe)</title>
-        <link>https://www.slideshare.net/shuji_w6e/ss-30692945</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアの心構え (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/engineer-2023</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Airflow Clustering and High Availability (Robert Sanders)</title>
-        <link>https://www.slideshare.net/RobertSanders49/airflow-clustering-and-high-availability</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>eBPF関連用語メモ (2018年秋のBPFまつり版) (Kazuo Moriwaka)</title>
-        <link>https://speakerdeck.com/moriwaka/ebpfguan-lian-yong-yu-memo-2018nian-qiu-falsebpfmaturiban</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JaSST'19 Hokkaido 「テスト設計技法、その前に ～フェイスアップ、次にビルドアップ、その先にマインドアップ～」 (Akira Ikeda)</title>
-        <link>https://www.slideshare.net/Ikedon/jasst19-hokkaido-170096778</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iOSのCorner Rounding Strategy (Shunki Tan)</title>
-        <link>https://speakerdeck.com/shunkitan/iosfalsecorner-rounding-strategy</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
