@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RecSys 2019 論文読み会 発表資料 (sz_dr)</title>
+        <link>https://speakerdeck.com/szdr/recsys-2019-lun-wen-du-mihui-fa-biao-zi-liao</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テスト管理ツールを使ってみよう (健治 高橋)</title>
+        <link>https://www.slideshare.net/ssuser179a261/ss-129685919</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>こわくないPostgreSQLのアップグレード (ester41)</title>
+        <link>https://speakerdeck.com/ester41/kowakunaipostgresqlfalseatupuguredo</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Building a well-engaged and secure AWS account access management - F… (Amazon Web Services, @​awscloud)</title>
+        <link>https://www.slideshare.net/AmazonWebServices/building-a-wellengaged-and-secure-aws-account-access-management-fnd207r-aws-reinforce-2019</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VS Code 拡張機能 ハンズオン</title>
+        <link>https://docs.google.com/presentation/d/12AffT9gTlFX1ebMbKh-tt1dMlx1v_gxCL4aYAnPW7Yw/preview</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>pythonで気軽にパッケージを作るのは良いという話。 (Yamaguchi Takahiro)</title>
+        <link>https://speakerdeck.com/nyk510/pythondeqi-qing-nipatukeziwozuo-rufalsehaliang-itoiuhua</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>匠Methodを使った製品開発の現場 (Haruo Sato)</title>
+        <link>https://www.slideshare.net/ssuserafaef6/method-115676010</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Move Fast iOS Development (Motoki Narita)</title>
         <link>https://speakerdeck.com/motokiee/move-fast-ios-development</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>詳説WebAssembly (祐司 伊藤)</title>
         <link>https://www.slideshare.net/llamerada-jp/webassembly-75175349</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習×セキュリティ (michiaki ito, @porisuteru)</title>
-        <link>https://www.slideshare.net/palloc/ss-75386701</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSを辞めて現場に戻った後でAWS認定を取り直している話 - 吉祥寺.pm28</title>
-        <link>https://docs.google.com/presentation/d/1uZh4DklLXW7JQRzl3150aUMlvR0XiFPltlRSUAVInrw/preview</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>goroutineの仕組みについて (sivchari)</title>
-        <link>https://speakerdeck.com/sivchari/goroutinefalseshi-zu-minituite</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>pt-query-digest は Perl！！ (Takafumi ONAKA, @​onk)</title>
-        <link>https://www.slideshare.net/takafumionaka/ptquerydigest-perl</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenShiftで加速するコンテナによるGPU活用 (Shingo.Kitayama)</title>
-        <link>https://speakerdeck.com/shkitayama/openshiftdejia-su-surukontenaniyorugpuhuo-yong</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Apache ActiveMQにおける認証処理不備の脆弱性(AMQ-1272) (JPCERT Coordination Center)</title>
-        <link>https://www.slideshare.net/jpcert_securecoding/no06-apache-activemq</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ノンプログラマ向けGASレクチャ_V8対応</title>
-        <link>https://docs.google.com/presentation/d/1B4av1gPS9xW4XVRqcih6R4Oe5nQabsm3AYO54Y9HDQ0/preview</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
