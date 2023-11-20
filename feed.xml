@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Rails と Laravel どちらを選ぶべきか？ / Rails or Laravel (Takeru Hirose)</title>
+        <link>https://speakerdeck.com/takeru0757/rails-or-laravel</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テスト駆動開発へようこそ (Shuji Watanabe)</title>
+        <link>https://www.slideshare.net/shuji_w6e/ss-30692945</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアの心構え (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/engineer-2023</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Airflow Clustering and High Availability (Robert Sanders)</title>
+        <link>https://www.slideshare.net/RobertSanders49/airflow-clustering-and-high-availability</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>eBPF関連用語メモ (2018年秋のBPFまつり版) (Kazuo Moriwaka)</title>
+        <link>https://speakerdeck.com/moriwaka/ebpfguan-lian-yong-yu-memo-2018nian-qiu-falsebpfmaturiban</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JaSST'19 Hokkaido 「テスト設計技法、その前に ～フェイスアップ、次にビルドアップ、その先にマインドアップ～」 (Akira Ikeda)</title>
+        <link>https://www.slideshare.net/Ikedon/jasst19-hokkaido-170096778</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>iOSのCorner Rounding Strategy (Shunki Tan)</title>
         <link>https://speakerdeck.com/shunkitan/iosfalsecorner-rounding-strategy</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>Compositionality and Category Theory - a montage of slides/transcript… (Philip Schwarz)</title>
         <link>https://www.slideshare.net/pjschwarz/compositionality-and-category-theory-a-montage-of-slidestranscript-for-sections-of-rnar-bjarnasons-keynote-composing-programs</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FRESH!_Kotlin_StyleGuide (AAkira)</title>
-        <link>https://speakerdeck.com/aakira/fresh-kotlin-styleguide</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AlexaのSmart HomeをAWSで作る方法 (Jun Ichikawa)</title>
-        <link>https://www.slideshare.net/junichikawa1/alexasmart-homeaws</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>進化したWeb技術でPWAをネイティブアプリに近づける / frontend-conf-2023 (Yuhei FUJITA)</title>
-        <link>https://speakerdeck.com/yuhei_fujita/frontend-conf-2023</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>広告配信システムでのトラフィック計測と実装方法 #ScalaAkiMatsuri (Kurochan)</title>
-        <link>https://speakerdeck.com/kurochan/guang-gao-pei-xin-sisutemutefalsetorahuitukuji-ce-toshi-zhuang-fang-fa-number-scalaakimatsuri</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Gaming: The Future's Language; Richard Duke; SAGE Publications, 1974 (Pieter van der Hijden, @​pvdhyden)</title>
-        <link>https://www.slideshare.net/pvdhyden/74duke-gaming-the-futures-language</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fargateは何がうれしいのか/ fargate-whats-nice (Shoichiro Nagai)</title>
-        <link>https://speakerdeck.com/shoichiron/fargate-whats-nice</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
