@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AppSheetからREST API(GET)を使ってみた.​pptx</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vTkozse_xDfzBq_k5qyRrCWrgqoN8RwYLVpLUlDOaYbEFzyRUoAwXUGIVOpps6Eog/pub</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>『スタディサプリ』における SLI/SLO の継続的改善 / Continuous improvement of SLI/SLO at StudySapuri (Takeshi Kondo)</title>
+        <link>https://speakerdeck.com/chaspy/slo-at-studysapuri</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Camera API １と２が混在するプロダクトの開発で 泣いたこととそのワークアラウンド (Takao Sumitomo)</title>
+        <link>https://www.slideshare.net/TakaoSumitomo/camera-api-91288682</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ユーザーとの摩擦を最小限に保ちつつ Prettierを改善していくための機能設計</title>
+        <link>https://docs.google.com/presentation/d/1KLmsoZZBnKStndU4gKnJNOcKZCbxKR4RJDVd-aX2dig/preview</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Angular UsecaseServiceの提案.​pptx</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQrYLsd-CTo3erkRglo7wpC8aLe6C_LyXN5EzAun5M4JvghinbCndUmqLX1T6rwHg/pub</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Procのススメ/recommendation-of-proc (Masatoshi Moritsuka)</title>
+        <link>https://speakerdeck.com/sanfrecce_osaka/recommendation-of-proc</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>脆弱性の悪用からユーザーを守るために、ベンダーが取り組むべきこと (Eureka)</title>
+        <link>https://speakerdeck.com/eurekaberry/cui-ruo-xing-falsee-yong-karayuzawoshou-rutameni-bendagaqu-rizu-mubekikoto</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロダクトマネジメント組織立ち上げの課題と落とし穴と楽しみ #pmconf2022 (Aki / @LoveIdahoBurger)</title>
+        <link>https://speakerdeck.com/aki_iinuma/purodakutomanezimentozu-zhi-li-tishang-genoke-ti-toluo-tosixue-tole-simi-number-pmconf2022</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20171223 Call Center in the Cloud (@twingo_b)</title>
+        <link>https://speakerdeck.com/twingob/20171223-call-center-in-the-cloud</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>がんばらない Vue 3 移行 / Vue 3 Migration without any effort (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/vue-3-migration-without-any-effort</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kubernetes the Very Hard Way (Laurent Bernaille)</title>
         <link>https://www.slideshare.net/lbernail/kubernetes-the-very-hard-way-188349737</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>K8s on OpenStack - summit talk</title>
         <link>https://docs.google.com/presentation/d/1N9sFlqtVzrrEUHCbkIjNcZpaOIsZ1E0DOZkC5Kszz3Y/htmlpresent</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GSuite担当者必見！GASを使ってメーリングリストと参加者の取得を楽にしてみる (yo41sawada)</title>
-        <link>https://speakerdeck.com/yo41sawada/gsuitedan-dang-zhe-bi-jian-gaswoshi-tutemeringurisutotocan-jia-zhe-falsequ-de-wole-nisitemiru</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10年目の『エブリスタ』を支える技術 (DeNA)</title>
-        <link>https://www.slideshare.net/dena_tech/10-132197778</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ピクシブのプロダクトマネージャー、 自己組織化されたチーム、 チームを支える組織</title>
-        <link>https://docs.google.com/presentation/d/1o3bDSU9MMwegHKP04HiJtO4tdqDcSEIhYZGi1FL3jNw/edit</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マイクロチームでの高速な新規開発を支える開発・分析基盤 (Seiji Takahashi)</title>
-        <link>https://speakerdeck.com/timakin/maikurotimudefalsegao-su-naxin-gui-kai-fa-wozhi-erukai-fa-fen-xi-ji-pan</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CI/CD for Serverless and Containerized Applications (DEV309-R1) - AWS… (Amazon Web Services, awscloud)</title>
-        <link>https://www.slideshare.net/AmazonWebServices/cicd-for-serverless-and-containerized-applications-dev309r1-aws-reinvent-2018</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模静的サイトのためのビルドツール (katashin)</title>
-        <link>https://speakerdeck.com/ktsn/da-gui-mo-jing-de-saitofalsetamefalsebirudoturu</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Building a CICD Pipeline for deploying on Containers (Amazon Web Services, awscloud)</title>
-        <link>https://www.slideshare.net/AmazonWebServices/building-a-cicd-pipeline-for-deploying-on-containers</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ARクラウドがもたらす 未来のAR体験について 軽率に語ろう / lets-talk-about-arcloud-and-feature-technologies (にー兄さん)</title>
-        <link>https://speakerdeck.com/drumath2237/lets-talk-about-arcloud-and-feature-technologies</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>東京Node学園#1「非同期プログラミングの改善」のエッセンス (koichik)</title>
-        <link>https://www.slideshare.net/koichik/node1</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>気候変動、知識まとめ</title>
-        <link>https://docs.google.com/presentation/d/1TYy3bCvha1qvuhrG_lnH_NgspwR_SA0LXqQoDF8wpmY/edit</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
