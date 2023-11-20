@@ -6,6 +6,66 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kubernetes the Very Hard Way (Laurent Bernaille)</title>
+        <link>https://www.slideshare.net/lbernail/kubernetes-the-very-hard-way-188349737</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>さくらのIoT Platformを使ってみよう ～OSC大阪編～ (法林浩之, @​hourin)</title>
+        <link>https://www.slideshare.net/hourin/iot-platform-osc</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2023年版 デザインシステム 技術選定の勘所 - フロントエンドカンファレンス沖縄 (takanorip)</title>
+        <link>https://speakerdeck.com/takanorip/2023nian-ban-tesainsisutemuji-shu-xuan-ding-nokan-suo</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ご清聴ありがとうございました（テンプレートその１） (鈴鹿工業高等専門学校, tatsuva)</title>
+        <link>https://www.slideshare.net/tatsuva/thank-yousomuch</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[DL Hacks 実装]The Conditional Analogy GAN: Swapping Fashion Articles o… (Deep Learning JP)</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dl-hacks-the-conditional-analogy-gan-swapping-fashion-articles-on-people-images</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Anti radiation mobile phone headset</title>
+        <link>https://www.slideshare.net/AntiRadiationHeadset</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>M5Stack に超音波距離センサ をつないでみた.... (KenS , KSxRDevelop)</title>
+        <link>https://www.slideshare.net/KotetsuRanmaru/m5stack-104178751</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Red Hat Enterprise Linux 7による高可用性クラスタシステム (Kazuo Moriwaka)</title>
+        <link>https://speakerdeck.com/moriwaka/red-hat-enterprise-linux-7niyorugao-ke-yong-xing-kurasutasisutemu</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CyberChefの使い方（HamaCTF2019 WriteUp編） (Shota Shinogi)</title>
+        <link>https://www.slideshare.net/Sh1n0g1/cyberchefhamactf2019-writeup</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>K8s on OpenStack - summit talk</title>
+        <link>https://docs.google.com/presentation/d/1N9sFlqtVzrrEUHCbkIjNcZpaOIsZ1E0DOZkC5Kszz3Y/htmlpresent</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GSuite担当者必見！GASを使ってメーリングリストと参加者の取得を楽にしてみる (yo41sawada)</title>
+        <link>https://speakerdeck.com/yo41sawada/gsuitedan-dang-zhe-bi-jian-gaswoshi-tutemeringurisutotocan-jia-zhe-falsequ-de-wole-nisitemiru</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>10年目の『エブリスタ』を支える技術 (DeNA)</title>
+        <link>https://www.slideshare.net/dena_tech/10-132197778</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ピクシブのプロダクトマネージャー、 自己組織化されたチーム、 チームを支える組織</title>
         <link>https://docs.google.com/presentation/d/1o3bDSU9MMwegHKP04HiJtO4tdqDcSEIhYZGi1FL3jNw/edit</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -43,66 +103,6 @@
     <item>
         <title>気候変動、知識まとめ</title>
         <link>https://docs.google.com/presentation/d/1TYy3bCvha1qvuhrG_lnH_NgspwR_SA0LXqQoDF8wpmY/edit</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>続、Mi Band 4をJavaScriptで #iotlt vol60 at docs (n0bisuke)</title>
-        <link>https://speakerdeck.com/n0bisuke/sok-mi-band-4wojavascriptde-number-iotlt-vol60-at-docs</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Probabilistic Robotics: Chapter 1-5 (Shintaro Shiba)</title>
-        <link>https://www.slideshare.net/shintaroshiba5/probabilistic-robotics-chapter-15-88887484</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dgraph - A high performance graph database written in pure Go (Yuichi Saito)</title>
-        <link>https://speakerdeck.com/munisystem/dgraph-a-high-performance-graph-database-written-in-pure-go</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゲームデザインを改善/批評するための時間構造モデル「ワンダールクス」 (Sho Iwamoto)</title>
-        <link>https://www.slideshare.net/geekdrums/ss-79372278</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>そのアプリ…文字サイズをデカくしてもUI崩れないですか？</title>
-        <link>https://docs.google.com/presentation/d/1hvSX3ZzXPZZr3HeoBNhJiqSff-bPPa-UhhszgmClN2Q/edit</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>niconicoの検索システム(2019年版) (Ken57)</title>
-        <link>https://speakerdeck.com/ken57/niconicofalsejian-suo-sisutemu-2019nian-ban</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【SecurityJAWS】Kibana Canvasで魅せる！AWS環境における脅威分析ユースケース (Hibino Hisashi)</title>
-        <link>https://www.slideshare.net/hibinohisashi/securityjawskibana-canvasaws</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azusa 3_master</title>
-        <link>https://docs.google.com/presentation/d/1zCNQDgWZHHwhHh2pWnv5UGHylEwhB9rMUqAeQPtXZnk/template/edit</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Design Mistakes in Node &amp; Deno #kng5 / deno (Masashi Hirano)</title>
-        <link>https://speakerdeck.com/masashi/deno</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fmo digest-fullmoon-mdr-5-20181101-ul (secret)</title>
-        <link>https://www.slideshare.net/secret/IiSVYxL3plHprp</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microservices Maturity Model on Rails (qsona)</title>
-        <link>https://speakerdeck.com/qsona/microservices-maturity-model-on-rails</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>屋外Holoアプリ開発の注意点 (Tatsuya Sakai)</title>
-        <link>https://www.slideshare.net/TatsuyaSakai/holo-78085836</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
