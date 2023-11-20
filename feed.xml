@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>iOSのCorner Rounding Strategy (Shunki Tan)</title>
+        <link>https://speakerdeck.com/shunkitan/iosfalsecorner-rounding-strategy</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TensorFlowの使い方 DevFest 2019</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vT1LHPLi1j09lKfVkaCNra-x_1zsf50H1mARpiBvurN7caEB-07f2n6k4fWbqGMVA0P-8izVYTUnWv_/pub</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>#立川征服 スライド (tachesan)</title>
+        <link>https://www.slideshare.net/tachesan/ss-32855367</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フロントエンドエンジニアの価値はどこから生まれるのか（Front-End Lounge #2）</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSXujLCKb7-J98AkrWtM7omFEYHDkFeXRVnfgyb3-QSfPR-LPbLuKoZ59MgtsUoOiMoleqALWQOv-xH/pub</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>たくさん棲みつかせる話 #NT札幌 (ksasao)</title>
+        <link>https://speakerdeck.com/ksasao/takusanqi-mitukaseruhua-number-ntzha-huang</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>190500 jpn-circular-advantage-po v-3</title>
+        <link>https://www.slideshare.net/Accenture_JP/190500-jpncircularadvantagepo-v3-153326889?ref=https://www.accenture.com/</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>What is the NP-hardness (Shunji Umetani)</title>
+        <link>https://speakerdeck.com/umepon/what-is-the-np-hardness</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コミュニティデザインの思考 / これから始めるコミュニティマネジメント入門 (2) (Takaaki Umada, @​tumada)</title>
+        <link>https://www.slideshare.net/takaumada/startup-community-management-2-design</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ユーザー登録とログインフォームにautocomplete属性を使いましょう (Marina Ivanova)</title>
         <link>https://speakerdeck.com/ivanova1991/yuzadeng-lu-toroguinhuomuniautocompleteshu-xing-woshi-imasiyou</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>Fargateは何がうれしいのか/ fargate-whats-nice (Shoichiro Nagai)</title>
         <link>https://speakerdeck.com/shoichiron/fargate-whats-nice</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【Unite 2017 Tokyo】バグを殲滅！Unityにおける実践テスト手法 (UnityTechnologiesJapan)</title>
-        <link>https://www.slideshare.net/UnityTechnologiesJapan/unite-2017-tokyounity</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Node-RED v2.2 新機能紹介</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vT0tuXY9WF066h30li59PTQmFoKWpPseQL8GhrNixX9hGDrKfKqh5qwvWHaDEAP003gq6paLcWuOTns/pub</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MVVM + Flux (Taiki Suzuki)</title>
-        <link>https://speakerdeck.com/martysuzuki/mvvm-plus-flux</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ライブラリアン主体の医療・健康情報サイト『hlib.jp』の構築と運用 (Satomi Kojima)</title>
-        <link>https://www.slideshare.net/satomikojima750/hlibjp</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>輪講の準備の仕方 / Book Reading (kaityo256)</title>
-        <link>https://speakerdeck.com/kaityo256/book-reading</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今さら聞けない人のためのK8s超入門 (徹 宮原, @​tmiyahar)</title>
-        <link>https://www.slideshare.net/ToruMiyahara/k8s-238317681</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Building API Server-side Architecture for beginners (Kazuki Higashiguchi)</title>
-        <link>https://speakerdeck.com/hgsgtk/building-api-server-side-architecture-for-beginners</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20歳を過ぎてからプログラミングを学ぼうと決めた人たちへ (Shu Uesugi, @chibicode)</title>
-        <link>https://www.slideshare.net/ShuUesugi/20-9290892</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
