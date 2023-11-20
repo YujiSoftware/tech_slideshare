@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>詳説WebAssembly (祐司 伊藤)</title>
+        <link>https://www.slideshare.net/llamerada-jp/webassembly-75175349</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機械学習×セキュリティ (michiaki ito, @porisuteru)</title>
+        <link>https://www.slideshare.net/palloc/ss-75386701</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSを辞めて現場に戻った後でAWS認定を取り直している話 - 吉祥寺.pm28</title>
+        <link>https://docs.google.com/presentation/d/1uZh4DklLXW7JQRzl3150aUMlvR0XiFPltlRSUAVInrw/preview</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>goroutineの仕組みについて (sivchari)</title>
+        <link>https://speakerdeck.com/sivchari/goroutinefalseshi-zu-minituite</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>pt-query-digest は Perl！！ (Takafumi ONAKA, @​onk)</title>
+        <link>https://www.slideshare.net/takafumionaka/ptquerydigest-perl</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenShiftで加速するコンテナによるGPU活用 (Shingo.Kitayama)</title>
+        <link>https://speakerdeck.com/shkitayama/openshiftdejia-su-surukontenaniyorugpuhuo-yong</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Apache ActiveMQにおける認証処理不備の脆弱性(AMQ-1272) (JPCERT Coordination Center)</title>
+        <link>https://www.slideshare.net/jpcert_securecoding/no06-apache-activemq</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ノンプログラマ向けGASレクチャ_V8対応</title>
         <link>https://docs.google.com/presentation/d/1B4av1gPS9xW4XVRqcih6R4Oe5nQabsm3AYO54Y9HDQ0/preview</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>CircleCIの実行時間を３分の２くらいにした / CircleCI meetup LT 2019-08-23 (mstssk)</title>
         <link>https://speakerdeck.com/mstssk/circleci-meetup-lt-2019-08-23</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンプレ環境と連携するハイブリッドクラウド活用事例 （2014.8.8 AWS Japan Tour 2014 福岡） (shigeyuki azuchi, techmedia_think)</title>
-        <link>https://www.slideshare.net/hawinternational/aws-japan-tour-2014-1</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>イベント企画設計における「フロントエンド」な考え方とその魅力 (kgsi)</title>
-        <link>https://speakerdeck.com/kgsi/front-end-thinking-in-event-planning</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プライベートプロダクト戦略 - フロントエンドカンファレンス沖縄 / private_product_frontend (Masahiko Sakakibara)</title>
-        <link>https://speakerdeck.com/rdlabo/private-product-frontend</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>5ヶ月でカバレッジを20%から90%にあげた話 (y_ahiru)</title>
-        <link>https://speakerdeck.com/yahiru/5keyue-tekaharetusiwo20-percent-kara90-percent-niaketahua</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ken SASAKI’S Presentations on SlideShare (Ken SASAKI, @​sasakipochi)</title>
-        <link>https://www.slideshare.net/sasakipochi/presentations</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>匠Method User Group Meetup#1〜ビジネスデザインの新たな物語 (匠Method User Group)</title>
-        <link>https://speakerdeck.com/takumi_method_ug/jiang-method-user-group-meetup-number-1-bizinesudezainnoxin-tanawu-yu</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>令和元年のMySQL界の元年的話題～認定試験とGIS機能～ (sakaik)</title>
-        <link>https://www.slideshare.net/sakaik/mysqlgis-178455426</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
