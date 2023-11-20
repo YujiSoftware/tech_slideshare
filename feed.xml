@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NERのための転移学習 (altescy)</title>
+        <link>https://speakerdeck.com/altescy/nerfalsetamefalsezhuan-yi-xue-xi</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>.​NET 最新ロードマップと今押さえておきたい技術要素 (Akira Inoue)</title>
+        <link>https://www.slideshare.net/chack411/net-176247290</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetesのソースコードリーディング入門 (ShinMatsuzaki)</title>
+        <link>https://speakerdeck.com/smatsuzaki/kubernetesfalsesosukodorideinguru-men</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Front series A deck (Mathilde Collin)</title>
+        <link>https://www.slideshare.net/MathildeCollin/front-series-a-deck-64596550</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>potts-xcs224u-webinar2023 - public version</title>
+        <link>https://docs.google.com/presentation/d/1WPYaLEEVJJI_-DOzjudeVoYpl_y0yUi1kWs0VFBnba4/preview</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kotlin Coroutines Flow を触ってみた話し (Tomoya Miwa)</title>
+        <link>https://speakerdeck.com/tomoya0x00/kotlin-coroutines-flow-wohong-tutemitahua-si</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DockerからKubernetesへのシフト (masaki nakayama)</title>
+        <link>https://www.slideshare.net/masakinakayama2/dockerkubernetes-136578511</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Logrageの次を考える — Ruby on Railsがデフォルトで出力するログの謎に迫る</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vT7IpjvurfAeEatc0Nlq-eC9SXsmJcktxKBragCScJrfhCbudYKnOLtdHBchsqfK7EveHEE2bQS3UKf/pub</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>ゼロディレ システム開発編150419 (Asami Yanagida)</title>
         <link>https://www.slideshare.net/yanagidaasami/150419</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Type Annotations Proposal Update March 2023</title>
-        <link>https://docs.google.com/presentation/d/1OraKn6TUdmtug-lkgijq-43Xou_1lB1_DJ54x6ssnRY/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>居酒屋で使えそうなアプリをflutter for webで作ってみた備忘録 (Y_Onishi)</title>
-        <link>https://speakerdeck.com/yujionishi/ju-jiu-wu-deshi-esounaapuriwoflutter-for-webdezuo-tutemitabei-wang-lu</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>トランスフォーメーション・ジャーニー (toshihiro ichitani, @​papanda)</title>
-        <link>https://www.slideshare.net/papanda/ss-237095559</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TechFeed Conference Python上級</title>
-        <link>https://docs.google.com/presentation/d/18GuL65ZlXQ587u7hYNxzXnQaGLarEcR2SGG3n0wBbUg/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iPadOSでマウス・キーボード対応アプリを作る / iPadOS App using Pointer and Keyboard (cc4966)</title>
-        <link>https://speakerdeck.com/cc4966/ipados-app-using-pointer-and-keyboard</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>こわくない Git</title>
-        <link>https://www.slideshare.net/kotas/git-15276118?qid=ad0390a6-d824-4103-a3d8-b30a49cccbb1</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>餃子転売屋情報の共有について</title>
-        <link>https://docs.google.com/presentation/u/0/d/1rSpIODmkDtdh8YeFo6Q1z_TBy5w_znEI9wTyGHA2nJw/edit</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
