@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>対外発表資料 - DjangoCongress JP 2022</title>
+        <link>https://docs.google.com/presentation/d/1nLQS8-U36eNa2uRTj1fONtmI5HaItFJcIrw90ixmo_8/preview</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>dezainamozhi-tuteokitaisisutemusi-kao-ru-men</title>
+        <link>https://speakerdeck.com/yhassy/dezainamozhi-tuteokitaisisutemusi-kao-ru-men</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[DL輪読会]A closer look at few shot classification (Deep Learning JP)</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dla-closer-look-at-few-shot-classification</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Python仮想環境構築の基礎と ツールの比較 (cocodrips)</title>
+        <link>https://www.slideshare.net/cocodrips/python-235559523</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「再現ケース」の必要性とその難しさ (Yasuo Honda)</title>
+        <link>https://speakerdeck.com/yahonda/zai-xian-kesu-falsebi-yao-xing-tosofalsenan-sisa</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PostgreSQL 12は ここがスゴイ！ ～性能改善やpluggable storage engineなどの新機能を徹底解説～ （NT… (NTT DATA Technology &amp; Innovation)</title>
+        <link>https://www.slideshare.net/nttdata-tech/postgresql12-performance-improvement-pluggable-storage-engine-ntt-sawada</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rails と Laravel どちらを選ぶべきか？ / Rails or Laravel (Takeru Hirose)</title>
         <link>https://speakerdeck.com/takeru0757/rails-or-laravel</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>コミュニティデザインの思考 / これから始めるコミュニティマネジメント入門 (2) (Takaaki Umada, @​tumada)</title>
         <link>https://www.slideshare.net/takaumada/startup-community-management-2-design</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ユーザー登録とログインフォームにautocomplete属性を使いましょう (Marina Ivanova)</title>
-        <link>https://speakerdeck.com/ivanova1991/yuzadeng-lu-toroguinhuomuniautocompleteshu-xing-woshi-imasiyou</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloud Spanner 沼への誘い Read v20210518a</title>
-        <link>https://docs.google.com/presentation/d/1lxB5pbPCMjOzxZEZSc-Nn06H79pfvgdFADgMb_Z37IA/preview</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GCPの権限管理に関する自動化について (10xinc)</title>
-        <link>https://speakerdeck.com/10xinc/gcpnoquan-xian-guan-li-niguan-suruzi-dong-hua-nituite</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Multibranch pipelineでいろいろ学んだこと (aha_oretama)</title>
-        <link>https://www.slideshare.net/aha_oretama/multibranch-pipeline</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ロボット事業における機械学習エンジニアという仕事について/What does a Machine Learning Engineer do at a robot company? (alegonz)</title>
-        <link>https://speakerdeck.com/alegonz/what-does-a-machine-learning-engineer-do-at-a-robot-company</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Compositionality and Category Theory - a montage of slides/transcript… (Philip Schwarz)</title>
-        <link>https://www.slideshare.net/pjschwarz/compositionality-and-category-theory-a-montage-of-slidestranscript-for-sections-of-rnar-bjarnasons-keynote-composing-programs</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
