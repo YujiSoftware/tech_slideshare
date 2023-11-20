@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ユーザー登録とログインフォームにautocomplete属性を使いましょう (Marina Ivanova)</title>
+        <link>https://speakerdeck.com/ivanova1991/yuzadeng-lu-toroguinhuomuniautocompleteshu-xing-woshi-imasiyou</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Google Cloud Spanner 沼への誘い Read v20210518a</title>
+        <link>https://docs.google.com/presentation/d/1lxB5pbPCMjOzxZEZSc-Nn06H79pfvgdFADgMb_Z37IA/preview</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GCPの権限管理に関する自動化について (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/gcpnoquan-xian-guan-li-niguan-suruzi-dong-hua-nituite</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Multibranch pipelineでいろいろ学んだこと (aha_oretama)</title>
+        <link>https://www.slideshare.net/aha_oretama/multibranch-pipeline</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ロボット事業における機械学習エンジニアという仕事について/What does a Machine Learning Engineer do at a robot company? (alegonz)</title>
+        <link>https://speakerdeck.com/alegonz/what-does-a-machine-learning-engineer-do-at-a-robot-company</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Compositionality and Category Theory - a montage of slides/transcript… (Philip Schwarz)</title>
+        <link>https://www.slideshare.net/pjschwarz/compositionality-and-category-theory-a-montage-of-slidestranscript-for-sections-of-rnar-bjarnasons-keynote-composing-programs</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FRESH!_Kotlin_StyleGuide (AAkira)</title>
+        <link>https://speakerdeck.com/aakira/fresh-kotlin-styleguide</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AlexaのSmart HomeをAWSで作る方法 (Jun Ichikawa)</title>
+        <link>https://www.slideshare.net/junichikawa1/alexasmart-homeaws</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>進化したWeb技術でPWAをネイティブアプリに近づける / frontend-conf-2023 (Yuhei FUJITA)</title>
         <link>https://speakerdeck.com/yuhei_fujita/frontend-conf-2023</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>20歳を過ぎてからプログラミングを学ぼうと決めた人たちへ (Shu Uesugi, @chibicode)</title>
         <link>https://www.slideshare.net/ShuUesugi/20-9290892</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CDKで作るCloudWatch Dashboard (Haruka Sakihara)</title>
-        <link>https://speakerdeck.com/harukasakihara/aws-cdkdezuo-rucloudwatch-dashboard</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>トランザクションの設計と進化 (Kumazaki Hiroki, @​kumagi)</title>
-        <link>https://www.slideshare.net/kumagi/ss-64459138</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS DevOps Tools (Dzenan Dzevlan)</title>
-        <link>https://speakerdeck.com/sqlheisenberg/aws-devops-tools</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Googleアナリティクスの使い方（社内用基礎編） (bellFace_hayashi)</title>
-        <link>https://www.slideshare.net/bellFace_hayashi/google-153764523</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2019NS-Forum</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQjywDi-_AMSfFXlNUNxvM9qlWxW1n4nx-R_T-te7qJAYLhDFMFumigtmd-EDJZtt6ghUufDdR-gUJU/pub</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ScrollViewで 読了計測した話 (ogapants)</title>
-        <link>https://speakerdeck.com/ogapants/scrollviewde-du-liao-ji-ce-sitahua</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>xv6 + mist32 + mruby (Hirotaka Kawata, hktechno)</title>
-        <link>https://www.slideshare.net/hktechno/xv6-mist32-mruby</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>My SwiftData Review (Kishikawa Katsumi)</title>
-        <link>https://speakerdeck.com/kishikawakatsumi/my-swiftdata-review</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
