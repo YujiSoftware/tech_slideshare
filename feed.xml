@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Yapc asia 2011_zigorou (Toru Yamaguchi, zigorou)</title>
+        <link>https://www.slideshare.net/zigorou/yapc-asia-2011zigorou</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DDDはオブジェクト指向を利用してどのようにメンテナブルなコードを書くか</title>
+        <link>https://www.slideshare.net/koichiromatsuoka/ooc-2020-matsuoka?ref=https://little-hands.hatenablog.com/entry/2020/02/17/ooc</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゲームの仕様書を書こう２　仕様書に記載する機能内容 (Sugimoto Chizuru)</title>
+        <link>https://www.slideshare.net/ChizuruSugimoto/ss-173332578</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ソフトウェア技術者から見たFPGAの魅力と可能性 (Kenichiro MITSUDA)</title>
+        <link>https://www.slideshare.net/MITSUDA_Kenichiro/fpga2018</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kuma UIのこれまでとこれから (poteboy)</title>
+        <link>https://speakerdeck.com/poteboy/kuma-uinokoremadetokorekara</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>名古屋アジャイル勉強会「仮説思考に学ぶ最速アジャイル仕事術」 (hiroyuki Yamamoto)</title>
+        <link>https://www.slideshare.net/yama__moto/ss-129255725</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サービスデザインにおけるUIの役割設計について (Yukinori SAEKI, @​YS43K1)</title>
+        <link>https://www.slideshare.net/YukinoriSAEKI1/ui-153350035</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Compare OCI Runtimes (Gosuke Miyashita)</title>
+        <link>https://speakerdeck.com/mizzy/compare-oci-runtimes</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オンプレからAws移行で変えた3つの意識 (Ryota Kuroki)</title>
+        <link>https://www.slideshare.net/ryotakuroki/aws3-76236083</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kafka Streamsで作る10万rpsを支えるイベント駆動マイクロサービス (Tomohiro Hashidate)</title>
         <link>https://speakerdeck.com/joker1007/kafka-streamsdezuo-ru10mo-rpswozhi-eruibentoqu-dong-maikurosabisu</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Ten Tips And Tricks for Improving Your GraphQL API with AWS AppSync (… (Amazon Web Services, awscloud)</title>
         <link>https://www.slideshare.net/AmazonWebServices/ten-tips-and-tricks-for-improving-your-graphql-api-with-aws-appsync-mob401-aws-reinvent-2018</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>New techniques agains SSX (Carlos)</title>
-        <link>https://speakerdeck.com/bodega/new-techniques-agains-ssx</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2018 07-19dist (Yuji Oshima)</title>
-        <link>https://www.slideshare.net/Oshima0x3fd/2018-0719dist</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words? (Shunsuke KITADA)</title>
-        <link>https://speakerdeck.com/shunk031/human-attention-maps-for-text-classification-do-humans-and-neural-networks-focus-on-the-same-words</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>XPages開発におけるGit/GitHubの利用 (賢次 海老原, @​mushinome)</title>
-        <link>https://www.slideshare.net/kenjiebihara71/x-pagesgit-github</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Data Binding with RecyclerView (Keisuke Kobayashi)</title>
-        <link>https://speakerdeck.com/kobakei/data-binding-with-recyclerview</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Knative CloudEvents (Nobuhiro Sue, nobusue)</title>
-        <link>https://www.slideshare.net/nobusue/knative-cloudevents</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to encode categorical features for GBDT (Jack)</title>
-        <link>https://speakerdeck.com/rsakata/how-to-encode-categorical-features-for-gbdt</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイル開発は2度失敗する。 (toshihiro ichitani, @​papanda)</title>
-        <link>https://www.slideshare.net/papanda/2-152930603</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINEのデータ分析組織の紹介 / Introduction to LINE data analysis organization (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/introduction-to-line-data-analysis-organization</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
