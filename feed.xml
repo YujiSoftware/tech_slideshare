@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kafka Streamsで作る10万rpsを支えるイベント駆動マイクロサービス (Tomohiro Hashidate)</title>
+        <link>https://speakerdeck.com/joker1007/kafka-streamsdezuo-ru10mo-rpswozhi-eruibentoqu-dong-maikurosabisu</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第三回　全日本コンピュータビジョン勉強会（後編）/ Self-Mono-SF (Takumi Karasawa)</title>
+        <link>https://speakerdeck.com/takarasawa_/self-mono-sf</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実行計画についてのよくある誤解 ～Oracle Database編～ #dbltokyo 5 (Ryota Watabe, @wrcsus4)</title>
+        <link>https://www.slideshare.net/ryotawatabe/20170919-dbltokyo5-misunderstandings-about-oracle-execution-plan</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ray Tracing: Overview (yumcyawiz)</title>
+        <link>https://speakerdeck.com/yumcyawiz/ray-tracing-overview</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機械学習による化学反応の予測と設計 (Ichigaku Takigawa)</title>
+        <link>https://www.slideshare.net/itakigawa/ss-225447919</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>課題解決ではなく、価値創造を求めるVoicyの開発チームの組織設計と立ち上げの勘所 (natacon)</title>
+        <link>https://speakerdeck.com/natacon/ke-ti-jie-jue-dehanaku-jia-zhi-chuang-zao-woqiu-meruvoicynokai-fa-timunozu-zhi-she-ji-toli-tishang-genokan-suo</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>シンプルでシステマチックな Linux 性能分析方法 (Yohei Azekatsu)</title>
+        <link>https://www.slideshare.net/yoheiazekatsu/linux-72826405</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>What to expect when Doctrine 3 comes out (Denis Brumann)</title>
         <link>https://speakerdeck.com/dbrumann/what-to-expect-when-doctrine-3-comes-out</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>LINEのデータ分析組織の紹介 / Introduction to LINE data analysis organization (LINE Developers)</title>
         <link>https://speakerdeck.com/line_developers/introduction-to-line-data-analysis-organization</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UX / UIデザインって何？</title>
-        <link>https://www.slideshare.net/JSUXDesign/ux-ui-45163428?ref=https%3A%2F%2Fwebdesign-trends.net%2F&amp;fbclid=IwAR2FzO55npbrGsYPtkK07MB6G79dPG1nagQGyyj0WtmrUyj6qvXa17ErW9w</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go Toolchain in WebAssembly</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vS9SfDH71V0enWXssDOVmjXRziyv6fSDUsStuvonk1kS-HbLzVOsmDh5R8xdba5J1zLxXYiCvQRGhKq/pub</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agile Testingを夢見たテスト自動化  〜ATDDへの挑戦から始まる 1年間の試行錯誤〜 / dreaming agile testing at basebank (Kazuki Higashiguchi)</title>
-        <link>https://speakerdeck.com/hgsgtk/dreaming-agile-testing-at-basebank</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>畳み込みニューラルネットワークの高精度化と高速化 (Yusuke Uchida, yu4u)</title>
-        <link>https://www.slideshare.net/ren4yu/ss-145689425</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>近頃若者のサーバー離れが深刻化しています (Mitsuzono Hiroto)</title>
-        <link>https://speakerdeck.com/mitsuzono/jin-qing-ruo-zhe-falsesabali-regashen-ke-hua-siteimasu</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>多様な強化学習の概念と課題認識</title>
-        <link>https://www.slideshare.net/yukono1/ss-102841188?autoplay_disabled=true&amp;forward=true&amp;earned=true&amp;edge=true&amp;lang=en&amp;card_height=130&amp;scribe_context=%7B%22client%22%3A%22web%22%2C%22page%22%3A%22home%22%2C%22section%22%3A%22home%22%2C%22component%22%3A%22twee</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>対外発表資料 - DjangoCongress JP 2022</title>
-        <link>https://docs.google.com/presentation/d/1nLQS8-U36eNa2uRTj1fONtmI5HaItFJcIrw90ixmo_8/preview</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
