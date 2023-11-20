@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>イベント企画設計における「フロントエンド」な考え方とその魅力 (kgsi)</title>
+        <link>https://speakerdeck.com/kgsi/front-end-thinking-in-event-planning</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プライベートプロダクト戦略 - フロントエンドカンファレンス沖縄 / private_product_frontend (Masahiko Sakakibara)</title>
+        <link>https://speakerdeck.com/rdlabo/private-product-frontend</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>5ヶ月でカバレッジを20%から90%にあげた話 (y_ahiru)</title>
+        <link>https://speakerdeck.com/yahiru/5keyue-tekaharetusiwo20-percent-kara90-percent-niaketahua</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ken SASAKI’S Presentations on SlideShare (Ken SASAKI, @​sasakipochi)</title>
+        <link>https://www.slideshare.net/sasakipochi/presentations</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>匠Method User Group Meetup#1〜ビジネスデザインの新たな物語 (匠Method User Group)</title>
+        <link>https://speakerdeck.com/takumi_method_ug/jiang-method-user-group-meetup-number-1-bizinesudezainnoxin-tanawu-yu</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>令和元年のMySQL界の元年的話題～認定試験とGIS機能～ (sakaik)</title>
+        <link>https://www.slideshare.net/sakaik/mysqlgis-178455426</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>置くだけタイポグラフィ (sekig)</title>
+        <link>https://speakerdeck.com/sekiguchiy/zhi-kudaketaipogurahui</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>何故あなたの機械学習はビジネスを改善出来ないのか？ (Shota Yasui)</title>
+        <link>https://www.slideshare.net/shotayasui/ss-77566742</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AppSheetからREST API(GET)を使ってみた.​pptx</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vTkozse_xDfzBq_k5qyRrCWrgqoN8RwYLVpLUlDOaYbEFzyRUoAwXUGIVOpps6Eog/pub</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>さくらのIoT Platformを使ってみよう ～OSC大阪編～ (法林浩之, @​hourin)</title>
         <link>https://www.slideshare.net/hourin/iot-platform-osc</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023年版 デザインシステム 技術選定の勘所 - フロントエンドカンファレンス沖縄 (takanorip)</title>
-        <link>https://speakerdeck.com/takanorip/2023nian-ban-tesainsisutemuji-shu-xuan-ding-nokan-suo</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ご清聴ありがとうございました（テンプレートその１） (鈴鹿工業高等専門学校, tatsuva)</title>
-        <link>https://www.slideshare.net/tatsuva/thank-yousomuch</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[DL Hacks 実装]The Conditional Analogy GAN: Swapping Fashion Articles o… (Deep Learning JP)</title>
-        <link>https://www.slideshare.net/DeepLearningJP2016/dl-hacks-the-conditional-analogy-gan-swapping-fashion-articles-on-people-images</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Anti radiation mobile phone headset</title>
-        <link>https://www.slideshare.net/AntiRadiationHeadset</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>M5Stack に超音波距離センサ をつないでみた.... (KenS , KSxRDevelop)</title>
-        <link>https://www.slideshare.net/KotetsuRanmaru/m5stack-104178751</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Red Hat Enterprise Linux 7による高可用性クラスタシステム (Kazuo Moriwaka)</title>
-        <link>https://speakerdeck.com/moriwaka/red-hat-enterprise-linux-7niyorugao-ke-yong-xing-kurasutasisutemu</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CyberChefの使い方（HamaCTF2019 WriteUp編） (Shota Shinogi)</title>
-        <link>https://www.slideshare.net/Sh1n0g1/cyberchefhamactf2019-writeup</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>K8s on OpenStack - summit talk</title>
-        <link>https://docs.google.com/presentation/d/1N9sFlqtVzrrEUHCbkIjNcZpaOIsZ1E0DOZkC5Kszz3Y/htmlpresent</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
