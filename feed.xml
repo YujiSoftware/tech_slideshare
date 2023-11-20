@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>進化したWeb技術でPWAをネイティブアプリに近づける / frontend-conf-2023 (Yuhei FUJITA)</title>
+        <link>https://speakerdeck.com/yuhei_fujita/frontend-conf-2023</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>広告配信システムでのトラフィック計測と実装方法 #ScalaAkiMatsuri (Kurochan)</title>
+        <link>https://speakerdeck.com/kurochan/guang-gao-pei-xin-sisutemutefalsetorahuitukuji-ce-toshi-zhuang-fang-fa-number-scalaakimatsuri</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Gaming: The Future's Language; Richard Duke; SAGE Publications, 1974 (Pieter van der Hijden, @​pvdhyden)</title>
+        <link>https://www.slideshare.net/pvdhyden/74duke-gaming-the-futures-language</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fargateは何がうれしいのか/ fargate-whats-nice (Shoichiro Nagai)</title>
+        <link>https://speakerdeck.com/shoichiron/fargate-whats-nice</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【Unite 2017 Tokyo】バグを殲滅！Unityにおける実践テスト手法 (UnityTechnologiesJapan)</title>
+        <link>https://www.slideshare.net/UnityTechnologiesJapan/unite-2017-tokyounity</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Node-RED v2.2 新機能紹介</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vT0tuXY9WF066h30li59PTQmFoKWpPseQL8GhrNixX9hGDrKfKqh5qwvWHaDEAP003gq6paLcWuOTns/pub</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MVVM + Flux (Taiki Suzuki)</title>
+        <link>https://speakerdeck.com/martysuzuki/mvvm-plus-flux</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ライブラリアン主体の医療・健康情報サイト『hlib.jp』の構築と運用 (Satomi Kojima)</title>
+        <link>https://www.slideshare.net/satomikojima750/hlibjp</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>輪講の準備の仕方 / Book Reading (kaityo256)</title>
         <link>https://speakerdeck.com/kaityo256/book-reading</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>My SwiftData Review (Kishikawa Katsumi)</title>
         <link>https://speakerdeck.com/kishikawakatsumi/my-swiftdata-review</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DeNA Private Cloud の現在と未来 (DeNA)</title>
-        <link>https://www.slideshare.net/dena_tech/dena-private-cloud</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>教員の方が ChatGPT について最低限知っておきたいこと -2023年11月版- (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
-        <link>https://speakerdeck.com/dahatake/jiao-yuan-nofang-ga-chatgpt-nituitezui-di-xian-zhi-tuteokitaikoto-2023nian-11yue-ban</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>区別できるタイトルを付ける / Give a title that can be distinguished.​ (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/give-a-title-that-can-be-distinguished</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仕組みがわかるActive Directory (Suguru Kunii)</title>
-        <link>https://www.slideshare.net/SuguruKunii/active-directory-25767080</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>nacatl_slide_02_MapView_in_Recycler_view.pdf (nacatl)</title>
-        <link>https://speakerdeck.com/nacatl/nacatl-slide-02-mapview-in-recycler-view</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【YahooJapanMeetup#31LT】ElasticStack on AWS DeepDive (Hibino Hisashi)</title>
-        <link>https://www.slideshare.net/hibinohisashi/yahoojapanmeetup31ltelasticstack-on-aws-deepdive</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EventLoopの実装から考えるFiberの位置付けについて/Fiber and Async Request (Ryo Tomidokoro)</title>
-        <link>https://speakerdeck.com/hanhan1978/fiber-and-async-request</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20180723 PFNの研究基盤 / PFN research system infrastructure (Preferred Networks)</title>
-        <link>https://www.slideshare.net/pfi/20180723-pfn-pfn-research-system-infrastructure</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
