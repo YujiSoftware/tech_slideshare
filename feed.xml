@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LT発表のすすめ (bob3bob3)</title>
+        <link>https://speakerdeck.com/bob3bob3/ltnosusume</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ニューラルネットと深層学習の歴史 (Akinori Abe)</title>
+        <link>https://www.slideshare.net/AkinoriAbe1/ss-69510936</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Redis at LINE (LINE Corporation)</title>
+        <link>https://www.slideshare.net/linecorp/redis-at-line-99471322</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>stan推定後の可視化について Tokyo.​R#94 (ando_Roid)</title>
+        <link>https://speakerdeck.com/masakazoo/stantui-ding-hou-falseke-shi-hua-nituite-tokyo-dot-r-number-94</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>refactoring-serverless (g-awa)</title>
+        <link>https://speakerdeck.com/gawa/refactoring-serverless</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>- 技術的夫妻プレゼンツ- 家庭内タスクをスクラム的に考える方法 (Takuya Shikichi)</title>
+        <link>https://speakerdeck.com/shikichee/ji-shu-de-fu-qi-purezentu-jia-ting-nei-tasukuwosukuramude-nikao-erufang-fa</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>初級から上級までセキュアなAWS環境の作り方 (cm-usuda-keisuke)</title>
+        <link>https://speakerdeck.com/cmusudakeisuke/chu-ji-karashang-ji-madesekiyuanaawshuan-jing-nozuo-rifang</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MT法を用いたパーマーペンギンの種類判別 (Sogo Takabayashi)</title>
+        <link>https://speakerdeck.com/sogonista/mtfa-woyong-itapamapenginnozhong-lei-pan-bie</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Yapc asia 2011_zigorou (Toru Yamaguchi, zigorou)</title>
         <link>https://www.slideshare.net/zigorou/yapc-asia-2011zigorou</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>実行計画についてのよくある誤解 ～Oracle Database編～ #dbltokyo 5 (Ryota Watabe, @wrcsus4)</title>
         <link>https://www.slideshare.net/ryotawatabe/20170919-dbltokyo5-misunderstandings-about-oracle-execution-plan</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ray Tracing: Overview (yumcyawiz)</title>
-        <link>https://speakerdeck.com/yumcyawiz/ray-tracing-overview</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習による化学反応の予測と設計 (Ichigaku Takigawa)</title>
-        <link>https://www.slideshare.net/itakigawa/ss-225447919</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>課題解決ではなく、価値創造を求めるVoicyの開発チームの組織設計と立ち上げの勘所 (natacon)</title>
-        <link>https://speakerdeck.com/natacon/ke-ti-jie-jue-dehanaku-jia-zhi-chuang-zao-woqiu-meruvoicynokai-fa-timunozu-zhi-she-ji-toli-tishang-genokan-suo</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シンプルでシステマチックな Linux 性能分析方法 (Yohei Azekatsu)</title>
-        <link>https://www.slideshare.net/yoheiazekatsu/linux-72826405</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What to expect when Doctrine 3 comes out (Denis Brumann)</title>
-        <link>https://speakerdeck.com/dbrumann/what-to-expect-when-doctrine-3-comes-out</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[CTO Night &amp; Day 2019] AWS Amplify で Web/Mobile 爆速スケーラブル Serverless 開… (Amazon Web Services Japan, @​awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/cto-night-day-2019-aws-amplify-webmobile-serverless</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>噂のマルチステージングビルドを試してみました (chiroruxx)</title>
-        <link>https://speakerdeck.com/chiroruxx/zun-falsemarutisutezingubirudowoshi-sitemimasita</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ten Tips And Tricks for Improving Your GraphQL API with AWS AppSync (… (Amazon Web Services, awscloud)</title>
-        <link>https://www.slideshare.net/AmazonWebServices/ten-tips-and-tricks-for-improving-your-graphql-api-with-aws-appsync-mob401-aws-reinvent-2018</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
