@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Logrageの次を考える — Ruby on Railsがデフォルトで出力するログの謎に迫る</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vT7IpjvurfAeEatc0Nlq-eC9SXsmJcktxKBragCScJrfhCbudYKnOLtdHBchsqfK7EveHEE2bQS3UKf/pub</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>持続可能なプロダクト開発のために - フロントエンドと新陳代謝の話 / Frontend premised on making changes (Potato4d(Hanatani Takuma))</title>
+        <link>https://speakerdeck.com/potato4d/frontend-premised-on-making-changes</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自己組織化チームが越境する日 (NavitimeJapan)</title>
+        <link>https://www.slideshare.net/NavitimeJapan/ss-117077724</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サイボウズの CI/CD 事情 〜Jenkins おじさんは CircleCI おじさんにしんかした！〜 (Jumpei Miyata, miyajan)</title>
+        <link>https://www.slideshare.net/miyajan/cicd-jenkins-circleci</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BlinkOn14: An update on MPArch</title>
+        <link>https://docs.google.com/presentation/d/1U_uaN6jzkWx3_8Ok9mqHJKjlL4-lBpAHYNcC3QfWXdY/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>State of the Union 〜 2018年のアプリ開発事情 (huin)</title>
+        <link>https://speakerdeck.com/huin/state-of-the-union-2018nian-falseapurikai-fa-shi-qing</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バッチは地味だが役に立つ (apkiban)</title>
+        <link>https://www.slideshare.net/apkiban/ss-122881217</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LT_stapy#49</title>
         <link>https://docs.google.com/presentation/d/1RWykoPGZKAEV8JwpeE9mtxV7scSumsDgRj3ohBH1geE/preview</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>餃子転売屋情報の共有について</title>
         <link>https://docs.google.com/presentation/u/0/d/1rSpIODmkDtdh8YeFo6Q1z_TBy5w_znEI9wTyGHA2nJw/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>キャリアキーノート / Career Keynote (Kentaro Kuribayashi)</title>
-        <link>https://speakerdeck.com/kentaro/career-keynote</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リアクティブプログラミング (Yuuki Takano)</title>
-        <link>https://www.slideshare.net/ytakano/ss-63454513</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Raspberry Pi Guitar Amplifier</title>
-        <link>https://docs.google.com/presentation/d/1GgiD2UTEGcz-SC2rGDjdIljaK2Yn0Rs03TDFOu3duUw/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSにおけるコンテナサービスの変化と利用ユーザに求められることとは？ (yoshitaka KOITABASHI)</title>
-        <link>https://speakerdeck.com/yoshiitaka/awsniokerukontenasabisunobian-hua-to-li-yong-yuzaniqiu-merarerukototoha</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SQiPシンポジウム2015 SIG11_困ったバグレポートを改善しませんか？ (しょうご すずき, @​rin2_)</title>
-        <link>https://www.slideshare.net/szksho5/sqip2015-sig11</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevFest 2019/B33 -令和元年Google機械学習技術総決算（配布用）</title>
-        <link>https://docs.google.com/presentation/d/1k4yg261BO4NY3pIRZCQ61nJ8_2HMppcs3ASnpxJ1_1E/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINEポイントクラブにおける PerlからKotlinへの移行を振り返る / The migration from Perl to Kotlin at LINE Point Club (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/the-migration-from-perl-to-kotlin-at-line-point-club</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
