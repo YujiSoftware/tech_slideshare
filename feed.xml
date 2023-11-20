@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CUJ（Critical User Journey）ベースのSLI/SLOを活用したProgressive Deliveryでリリース時の信頼性を最大化させる、ペアーズのデリバリー戦略  (yucatty)</title>
+        <link>https://speakerdeck.com/ykkiskw/slowohuo-yong-sitaprogressive-deliveryderirisushi-noxin-lai-xing-wozui-da-hua-saseru-peazunoderibarizhan-lue</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Haikyuu!! (Yasunobu Kawaguchi)</title>
+        <link>https://speakerdeck.com/kawaguti/haikyuu</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Interactive Music II SuperCollider入門 2 - 関数とUGen (Atsushi Tadokoro)</title>
+        <link>https://www.slideshare.net/tado/geidai-music131010</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20220815 - Something with Svelte</title>
+        <link>https://docs.google.com/presentation/d/1vZRqPCEbqx_OcafmNl3doYRZs4z9WZbMmFSU59TUhQw/preview</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模言語モデルを支える分散学習インフラ Pathways (Etsuji Nakai)</title>
+        <link>https://speakerdeck.com/enakai00/da-gui-mo-yan-yu-moderuwozhi-erufen-san-xue-xi-inhura-pathways</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Taisuke Oe, Director at japan scala association at Ceo / founder</title>
+        <link>https://www.slideshare.net/TaisukeOe</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>railsdm2018_esa_LT大会(\( 0⊖0)/) (秒速284km)</title>
+        <link>https://speakerdeck.com/284km/-2</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Androidをやっただけで iOSアプリもできればいいのに 〜MOEという選択〜 (Saiki Iijima)</title>
+        <link>https://www.slideshare.net/SaikiIijima/android-ios-moe</link>
+        <dc:date>2023-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Road to Devcon#2 20190805</title>
         <link>https://docs.google.com/presentation/d/1U4-Bh4ws4MBgL3P7Jmhxk4tDNHR-aP7u4kohTgXx4L4/edit</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>LT発表のすすめ (bob3bob3)</title>
         <link>https://speakerdeck.com/bob3bob3/ltnosusume</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ニューラルネットと深層学習の歴史 (Akinori Abe)</title>
-        <link>https://www.slideshare.net/AkinoriAbe1/ss-69510936</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Redis at LINE (LINE Corporation)</title>
-        <link>https://www.slideshare.net/linecorp/redis-at-line-99471322</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>stan推定後の可視化について Tokyo.​R#94 (ando_Roid)</title>
-        <link>https://speakerdeck.com/masakazoo/stantui-ding-hou-falseke-shi-hua-nituite-tokyo-dot-r-number-94</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>refactoring-serverless (g-awa)</title>
-        <link>https://speakerdeck.com/gawa/refactoring-serverless</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>- 技術的夫妻プレゼンツ- 家庭内タスクをスクラム的に考える方法 (Takuya Shikichi)</title>
-        <link>https://speakerdeck.com/shikichee/ji-shu-de-fu-qi-purezentu-jia-ting-nei-tasukuwosukuramude-nikao-erufang-fa</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初級から上級までセキュアなAWS環境の作り方 (cm-usuda-keisuke)</title>
-        <link>https://speakerdeck.com/cmusudakeisuke/chu-ji-karashang-ji-madesekiyuanaawshuan-jing-nozuo-rifang</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MT法を用いたパーマーペンギンの種類判別 (Sogo Takabayashi)</title>
-        <link>https://speakerdeck.com/sogonista/mtfa-woyong-itapamapenginnozhong-lei-pan-bie</link>
-        <dc:date>2023-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Yapc asia 2011_zigorou (Toru Yamaguchi, zigorou)</title>
-        <link>https://www.slideshare.net/zigorou/yapc-asia-2011zigorou</link>
         <dc:date>2023-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
