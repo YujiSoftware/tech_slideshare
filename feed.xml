@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Roots of Scrum 2005 (Yasunobu Kawaguchi)</title>
+        <link>https://speakerdeck.com/kawaguti/roots-of-scrum-2005</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>勉強会で発表してみようかなという方へ(BPStudy) (Haruo Sato)</title>
+        <link>https://www.slideshare.net/ssuserafaef6/bps-32796687</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プレゼンテーション（一般）</title>
+        <link>https://docs.google.com/presentation/d/1MFFGa1KFzweTwYh49TT0jD59SzurqhSXKvMILZbIEcI/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LINE Thingsシナリオセットジェネレータを作った時にハマった話 #enebular (n0bisuke)</title>
+        <link>https://speakerdeck.com/n0bisuke/line-thingssinariosetutozieneretawozuo-tutashi-nihamatutahua-number-enebular</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>5G時代を見据えたIoTプラットフォーム�SORACOMのアーキテクチャへの挑戦 | AWS DevDay Tokyo 2019 (SORACOM,INC, @​SORACOM_PR)</title>
+        <link>https://www.slideshare.net/SORACOM/5giotsoracom-aws-devday-tokyo-2019/</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ジャッジ資格取得手順書</title>
+        <link>https://docs.google.com/presentation/d/1cn6yUyPRhvUf_IR7JMOBJ9C34iyljJeUcqA4iyRPEFk/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VRT in Action (Yosuke Kurami)</title>
+        <link>https://speakerdeck.com/quramy/vrt-in-action</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>root権限無しでKubernetesを動かす (AkihiroSuda)</title>
+        <link>https://www.slideshare.net/AkihiroSuda/rootkubernetes</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>認証しないWeb認証 限定公開URLのセキュリティについて考える 公開版</title>
         <link>https://docs.google.com/presentation/d/1aZ4zGNoD-PYElGmWJwRyW-8TNcXheNMuyPvQIUOt-VE/edit</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>AWS初心者向けWebinar AWSとのネットワーク接続入門 (Amazon Web Services Japan, awscloud_jp)</title>
         <link>https://www.slideshare.net/AmazonWebServicesJapan/awswebinar-aws-58643433</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EMNLP2019-Spec-Tutorial</title>
-        <link>https://docs.google.com/presentation/d/1QwD6Vd-SWJJWdR-QmAHWYDlxfHHeKTmEznDdIZg5aag/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iOSアプリ内で不正なSSL証明書を検知する / SSL Pinning for iOS apps (Keisuke Kobayashi)</title>
-        <link>https://speakerdeck.com/kobakei/ssl-pinning-for-ios-apps</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>センサーｘIo tｘ機械学習が実現する導線分析のビジネス貢献 (Microsoft Azure Japan)</title>
-        <link>https://www.slideshare.net/MicrosoftAzure_Japan/io-t-87533665</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SesameSDK</title>
-        <link>https://docs.google.com/presentation/d/1ms6W1ljdULRB0hyiKdXTzQwN9LeCVXVeEiwN1pF7_G4/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Video streaming acceleration with Varnish (Thijs Feryn)</title>
-        <link>https://speakerdeck.com/thijsferyn/video-streaming-acceleration-with-varnish</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>明日から使えるPostgre sql運用管理テクニック(監視編) (kasaharatt)</title>
-        <link>https://www.slideshare.net/kasaharatt/postgre-sql-26186128</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Serverless_Type_WEB_Application_Delivery_Platform</title>
-        <link>https://docs.google.com/presentation/d/1Cq8yU0WNWAvXgPpRGFf16ZAvSnhhNVeDBaU35lTaFhQ/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Three points to write resume that recruiters will want to read (SHIOYA, Hiromu)</title>
-        <link>https://speakerdeck.com/kwappa/three-points-to-write-resume-that-recruiters-will-want-to-read</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
