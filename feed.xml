@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コインハイブ事件_横浜地裁無罪判決_講演資料</title>
+        <link>https://docs.google.com/presentation/d/1HZdy-XVhRRkktwf0QtGyMRzbI0Q0cJJovnyjEE8MTyI/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>200万ドメインのHTTPS化を見据えた大規模証明書管理アーキテクチャ / CKP-QGPOP-2milions-tls (MATSUMOTO Ryosuke)</title>
+        <link>https://speakerdeck.com/matsumoto_r/ckp-qgpop-2milions-tls</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS初心者向けWebinar AWSとのネットワーク接続入門 (Amazon Web Services Japan, awscloud_jp)</title>
+        <link>https://www.slideshare.net/AmazonWebServicesJapan/awswebinar-aws-58643433</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>EMNLP2019-Spec-Tutorial</title>
+        <link>https://docs.google.com/presentation/d/1QwD6Vd-SWJJWdR-QmAHWYDlxfHHeKTmEznDdIZg5aag/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>iOSアプリ内で不正なSSL証明書を検知する / SSL Pinning for iOS apps (Keisuke Kobayashi)</title>
+        <link>https://speakerdeck.com/kobakei/ssl-pinning-for-ios-apps</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>センサーｘIo tｘ機械学習が実現する導線分析のビジネス貢献 (Microsoft Azure Japan)</title>
+        <link>https://www.slideshare.net/MicrosoftAzure_Japan/io-t-87533665</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SesameSDK</title>
+        <link>https://docs.google.com/presentation/d/1ms6W1ljdULRB0hyiKdXTzQwN9LeCVXVeEiwN1pF7_G4/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Video streaming acceleration with Varnish (Thijs Feryn)</title>
+        <link>https://speakerdeck.com/thijsferyn/video-streaming-acceleration-with-varnish</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>明日から使えるPostgre sql運用管理テクニック(監視編) (kasaharatt)</title>
+        <link>https://www.slideshare.net/kasaharatt/postgre-sql-26186128</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Serverless_Type_WEB_Application_Delivery_Platform</title>
         <link>https://docs.google.com/presentation/d/1Cq8yU0WNWAvXgPpRGFf16ZAvSnhhNVeDBaU35lTaFhQ/edit</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Pocochaにおけるアセットの管理/potatotips55 (noppefoxwolf)</title>
         <link>https://speakerdeck.com/noppefoxwolf/potatotips55</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20190928 M5StickVではじめる軽量モデルの実世界への応用 #TFUG (Kazuhiro Sasao, @​ksasao)</title>
-        <link>https://www.slideshare.net/ksasao/20190928-m5stickv-tfug</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>階層モデルとWBIC</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSt4olOJtIhAvQYPKo1sEY_8wM-W_YkuFXAjl6PQUdSmm3j4P_PJUc2H7KdgmRYm8VpjivSpvZGYzPa/pub</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>抽出的文書要約における hetero graph の応用 Heterogeneous Graph Neural Networks for Extractive Document Summarization (uchi_k)</title>
-        <link>https://speakerdeck.com/uchi_k/chou-chu-de-wen-shu-yao-yue-niokeru-hetero-graph-falseying-yong-heterogeneous-graph-neural-networks-for-extractive-document-summarization</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジェル投資を始める前に - Startup Investor School 2018 まとめ (Takaaki Umada, tumada)</title>
-        <link>https://www.slideshare.net/takaumada/startup-investor-school-summary/</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BL とポリコレ</title>
-        <link>https://docs.google.com/presentation/d/1RY27M0g28cM9MTm2Mk5TYH-W_RzEZoiymCtJXeftFB0/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドメインモデラーにとって受託開発であることは制約なのか？ (Akira Suenami)</title>
-        <link>https://speakerdeck.com/a_suenami/domeinmoderanitotuteshou-tuo-kai-fa-dearukotohazhi-yue-nafalseka</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>uroboroSQLの紹介 (OSC2017 Tokyo/Spring) (Kenichi Hoshi)</title>
-        <link>https://www.slideshare.net/KenichiHoshi1/uroborosql-osc2017-tokyospring</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Blockchain flowchart</title>
-        <link>https://www.slideshare.net/masamasujima/blockchain-flowchart?fbclid=IwAR3Jn0OvYegGnkQd_yDhJFepyRpDf1pKLRR226ybXS0SYKGcVV7M8jobSSI</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Jigsaw Toxicity Classification</title>
-        <link>https://docs.google.com/presentation/d/1Km1C8jKpofoRRnWRMka-SGrfRNd8jlp6TuasqVKY91E/edit</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
