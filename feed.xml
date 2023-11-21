@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スケールするGo</title>
+        <link>https://docs.google.com/presentation/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Enabling team development of a secret React Native app that has been in operation for four years. (Shinnosuke Yamamoto)</title>
+        <link>https://speakerdeck.com/mrtry/enabling-team-development-of-a-secret-react-native-app-that-has-been-in-operation-for-four-years</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゲーム音楽演出を進化させる「インタラクティブミュージック」と「音楽的ゲームデザイン」 (Sho Iwamoto)</title>
+        <link>https://www.slideshare.net/geekdrums/ss-196989931</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Winner take allの世界で この先生きのこるには？</title>
+        <link>https://docs.google.com/presentation/d/1H2l0UiW2WQM-tWGuaCJDYZKCdL4dXCGPQmWL8bHLD38/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes に Windowsノードを0から追加してみた話 (kyo)</title>
+        <link>https://speakerdeck.com/kyohmizu/kubernetes-ni-windowsfalsedowo0karazhui-jia-sitemitahua</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20120409 aws meister-reloaded-dynamo-db (Amazon Web Services Japan, @​awscloud_jp)</title>
+        <link>https://www.slideshare.net/AmazonWebServicesJapan/20120409-aws-meisterreloadeddynamodb-12509631</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>憧れの Git 自作への道</title>
+        <link>https://docs.google.com/presentation/d/1Kh-UtpS7Pmzmfv0da5nuqUDNZRdVZunKALsttM9zuzM/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コード決済における冪等性と整合性 / #merpay_techtalk (susho)</title>
+        <link>https://speakerdeck.com/susho/number-merpay-techtalk</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GCNによる取引関係グラフからの企業の特徴量抽出 (Masakazu Mori, @​marisakamozz)</title>
+        <link>https://www.slideshare.net/MasakazuMori2/gcn-230165927</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>noteのデザインシステムのはじまりとこれから</title>
         <link>https://docs.google.com/presentation/d/1lXP7zvG9bIjO27azrk3Ku1qmsDkqmob3Rsv-fFqkO9Q/preview</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>DevLOVEX2019_『仕事ごっこ』を やさしく滅ぼす_沢渡あまね</title>
         <link>https://docs.google.com/presentation/d/16g0yV2Bl1VhpW3Z1n6anR565hAyPtkY-UtUv3HcXfgY/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ分析の会社だけどデータ分析以外にインフラとかフロントサイドもやるよ (YAMADA Shuhei)</title>
-        <link>https://speakerdeck.com/shuheiyamada/detafen-xi-falsehui-she-dakedodetafen-xi-yi-wai-niinhuratokahurontosaidomoyaruyo</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機能はちゃんと試してからリリースしようねという話 (Yu Morita)</title>
-        <link>https://www.slideshare.net/securecat/ss-146033384</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>児童向け機械学習教育の現場から</title>
-        <link>https://docs.google.com/presentation/d/1RH89RNEARb3g-leonXeX-84Srl8Ew7YKbyo6yScwpMY/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iOSアプリの技術選択2022 (Tatsuya Tanaka)</title>
-        <link>https://speakerdeck.com/tattn/iosapurifalseji-shu-xuan-ze-2022</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction to Spring WebFlux #jsug #sf_a1 (Toshiaki Maki, @making)</title>
-        <link>https://www.slideshare.net/makingx/introduction-to-spring-webflux-jsug-sfa1</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitLab Contribute 2019に参加した話</title>
-        <link>https://docs.google.com/presentation/d/1zZkvmuxtM2hDlbbFO4YNvK43KeF2LIVjeaKfK9NZKYo/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deep dive in Reserved Instance ~脳死推奨量購入からの脱却~ (Kazuki Maeda)</title>
-        <link>https://speakerdeck.com/kzkmaeda/deep-dive-in-reserved-instance-noy-si-tui-jiang-liang-gou-ru-karanotuo-que</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenStack Swiftとそのエコシステムの最新動向 (NTT Software Innovation Center)</title>
-        <link>https://www.slideshare.net/ntt-sic/openstack-swift-128796203</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術的負債が生まれる背景を理解して，アーリーからレイター向けの根本的なアプローチを考える (memory)</title>
-        <link>https://speakerdeck.com/memory1994/understanding-why-built-tech-debts-and-thinking-approaches-for-startup-on-early-to-later-stage</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
