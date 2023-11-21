@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェアエンジニアリングサバイバルガイド:  廃墟を直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す</title>
+        <link>https://docs.google.com/presentation/u/0/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/preview</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロトタイプ開発とFlutter (Ryosuke Horie)</title>
+        <link>https://speakerdeck.com/horie1024/purototaipukai-fa-toflutter</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MaxScaleを触ってみた (Fujishiro Takuya)</title>
+        <link>https://www.slideshare.net/tafujish/maxscale</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>（復習用スライド）UT：セルフユーザビリティテスト検定講座</title>
+        <link>https://docs.google.com/presentation/d/1tIeu8PfujuggjndNYIWaveJA-p2ISeosXZsUnJuO9K4/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Effective AppSync ~ Serverless Framework を使用した AppSync の実践的な開発方法とテスト戦略 ~ / Effective AppSync (g-awa)</title>
+        <link>https://speakerdeck.com/gawa/effective-appsync</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>市場で勝ち続けるための品質とテストの技術② (Yahoo!デベロッパーネットワーク, @ydnjp)</title>
+        <link>https://www.slideshare.net/techblogyahoo/ss-72726081</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NTT PTC 2020 Write up</title>
+        <link>https://docs.google.com/presentation/d/1DSLM4iD6G5Alx91YifQRhE2_-dTU5Kz84zHYPyp7fhk/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メルペイにおけるマイクロサービス運用の苦労と改善 / CloudNative Days Tokyo2020 (tjun)</title>
+        <link>https://speakerdeck.com/tjun/cloudnative-days-tokyo2020</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実践　自動復旧 (gree_tech, @​gree_tech)</title>
+        <link>https://www.slideshare.net/greetech/ss-140561840</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「この技術書がすごい」 好きなので語ります ~Team Geekついて~ (1coin)</title>
         <link>https://speakerdeck.com/1coin/konoji-shu-shu-gasugoi-hao-kinanodeyu-rimasu-team-geektuite</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>高解像度スタートアップガイド Part1 (Takahiro Yamaguchi)</title>
         <link>https://www.slideshare.net/takahiroASA/part1-77922415</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>seesaa meets Mackerel (yseto)</title>
-        <link>https://speakerdeck.com/yseto/seesaa-meets-mackerel</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オークションの仕組み (Yosuke YASUDA, @​yagena)</title>
-        <link>https://www.slideshare.net/YosukeYasuda1/ss-198857941</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MatrixFlow操作マニュアル_Ver0.​1.​4</title>
-        <link>https://docs.google.com/presentation/d/1HH1ZbsGB5oRYho4gssp5UEm4ZbPtQB9_wn1a2QuHth4/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードをどまんなかに据えた設計アプローチ (irof)</title>
-        <link>https://speakerdeck.com/irof/kodowodomannakaniju-etashe-ji-apuroti</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LOD紹介 (Iwao KOBAYASHI, @​iwao)</title>
-        <link>https://www.slideshare.net/iwao/lod-14520370</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JJUGCCC2019Fall</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vRprkTXc_0Axjc086VpTCV2QXXsl11ghjfP7Jw3q4zCZ_ctErHOYriVb4SpYmK0O3dD_kOjN5-kDcZr/pub</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゴリラで学ぶソフトウェアの法則10選 (bmf_san)</title>
-        <link>https://speakerdeck.com/bmf_san/koriratexue-husohutoueafalsefa-ze-10xuan</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【14-B-2】グリーを支えるデータ分析基盤の過去と現在（橋本泰一〔グリー〕） (Developers Summit, @​devsumi)</title>
-        <link>https://www.slideshare.net/devsumi/14b2</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オプショナルチェーンができるまで　〜仕様と実装〜</title>
-        <link>https://docs.google.com/presentation/d/1PEvXoQDTLAoZIQmFl_scq84ZnKhLHjeQuOZ45NSruXI/preview</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
