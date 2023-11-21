@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JJUGCCC2019Fall</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vRprkTXc_0Axjc086VpTCV2QXXsl11ghjfP7Jw3q4zCZ_ctErHOYriVb4SpYmK0O3dD_kOjN5-kDcZr/pub</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゴリラで学ぶソフトウェアの法則10選 (bmf_san)</title>
+        <link>https://speakerdeck.com/bmf_san/koriratexue-husohutoueafalsefa-ze-10xuan</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【14-B-2】グリーを支えるデータ分析基盤の過去と現在（橋本泰一〔グリー〕） (Developers Summit, @​devsumi)</title>
+        <link>https://www.slideshare.net/devsumi/14b2</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オプショナルチェーンができるまで　〜仕様と実装〜</title>
+        <link>https://docs.google.com/presentation/d/1PEvXoQDTLAoZIQmFl_scq84ZnKhLHjeQuOZ45NSruXI/preview</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DSOps #6-1 (Yusuke Kaneko)</title>
+        <link>https://speakerdeck.com/ykaneko1992/dsops-number-6-1</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pythonを使った簡易診断スクリプトの作り方 (Yuichi Hattori)</title>
+        <link>https://www.slideshare.net/yuichihattori1/python-76928064</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>solidity-jp</title>
+        <link>https://docs.google.com/presentation/d/1e3QRhNmIba6r2V-aYw3wf6JvyZz79S_0Sml4gHAruFk/preview</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI×医用画像の現状と可能性_2022年版/AI×medical_imaging_in_japan_2022 (YoshihiroTodoroki)</title>
+        <link>https://speakerdeck.com/tdys13/aixmedical-imaging-in-japan-2022</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Redmine 4.​1 新機能評価ガイド ＜速報版＞ (Go Maeda)</title>
+        <link>https://www.slideshare.net/g_maeda/redmine-41-167915920</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>7th Try English LT</title>
         <link>https://docs.google.com/presentation/d/1FBlhmc9KgZoF7sohwLJfHedVoo3kS8eR8QucI-sA-k4/edit</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>オンライン</title>
         <link>https://docs.google.com/presentation/d/1L1FgxkdowxBeg9f2934F7cVvnuCOydgMw5lmglov2IU/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes Meetup Tokyo #26 / Recap: Kubecon Keynote by Walmart (jyoshise)</title>
-        <link>https://speakerdeck.com/jyoshise/recap-kubecon-keynote-by-walmart</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ツール導入のお話 (Ken SASAKI, sasakipochi)</title>
-        <link>https://www.slideshare.net/sasakipochi/tool-deployment20150421</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【公開用】90分、ITマンガ家に学ぶ技術の伝え方 〜これであなたもマンガ家になれるかも？〜 11月6日 CROSS Party - テック系漫画の部</title>
-        <link>https://docs.google.com/presentation/d/1l75dYLdQ4hUTTkJp-M0iKSTq0qxTbkv0VJ7LwArfjyA/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>関数データ解析への招待 (Hidetoshi Matsui)</title>
-        <link>https://speakerdeck.com/hidetoshimatsui/guan-shu-detajie-xi-henozhao-dai</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Cloud OnAir] GCP で構築するデータ分析基盤の最新情報をご紹介！ 2018年11月15日 放送 (Google Cloud Platform - Japan)</title>
-        <link>https://www.slideshare.net/GoogleCloudPlatformJP/cloud-onair-gcp-20181115</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebTransport TPAC 2022</title>
-        <link>https://docs.google.com/presentation/d/141lSOntrraY3FACjIMqad0NlrYgKjEzrK-txxY2JpjI/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>July Tech Festa 2021 Witner G2 Team Development (oyakata2438)</title>
-        <link>https://speakerdeck.com/oyakata2438/july-tech-festa-2021-witner-g2-team-development</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「MVが3人な曲の一覧」って取得できます?（デレステ・ミリシタ・エムステ） (Hiro H., @​h_hiro_)</title>
-        <link>https://www.slideshare.net/maraigue/mv3-153914414</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Roots of Scrum 2005 (Yasunobu Kawaguchi)</title>
-        <link>https://speakerdeck.com/kawaguti/roots-of-scrum-2005</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
