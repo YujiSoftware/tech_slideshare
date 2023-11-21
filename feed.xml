@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2019-05-03_Gitハンズオン Lv3: ブランチ操作とコミット入れ替え (秋葉原)</title>
+        <link>https://docs.google.com/presentation/d/1I63c3_XxcNa-SMlzwAQ4Rl3qPqMHaQhhf5zAcJnDuAk/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2つのアプリ、1つの 設計のデザイン指針 (meyco)</title>
+        <link>https://speakerdeck.com/meyco/2tufalseahuri-1tufalse-she-ji-falsetesainzhi-zhen</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ATO Linux Performance 2018 (Brendan Gregg)</title>
+        <link>https://www.slideshare.net/brendangregg/ato-linux-performance-2018</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AC'18: The differences between ElementRef.​.​.​</title>
+        <link>https://docs.google.com/presentation/d/1inX3SsUhK8qGidfMxZmirCfR30Iu0mJfQP1NrPhZ0Ic/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Chatops, AWS, And Ansible (nnao45)</title>
+        <link>https://speakerdeck.com/nnao45/chatops-aws-and-ansible</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Node-REDのノードの日本語化でOSSコミュニティへ貢献してみよう (Hitachi, Ltd. OSS Solution Center.)</title>
+        <link>https://www.slideshare.net/ssuserbeb7c0/20201023nodered-hacktoberfest</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>unbiased-learning-for-interactive-systems</title>
+        <link>https://docs.google.com/presentation/u/0/d/1LmDXroGHR9Qs9egvWnBgBG0zchLsxAkGBxSbmxgGIfM/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>QA EngineerによるQA Engineerの採用戦略 / recruitment of QA Engineers (miisan)</title>
+        <link>https://speakerdeck.com/mii3king/recruitment-of-qa-engineers</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Chainer-Compiler 動かしてみた (Akira Maruoka, akmaru0266)</title>
+        <link>https://www.slideshare.net/AkiraMaruoka/chainercompiler</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>現代のコンピュータに�おける自作OS事情</title>
         <link>https://docs.google.com/presentation/d/1mbLk70RKi-ExLzb78WosCu5DujpQN2K7B9iSbUGRXq4/edit</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>.​NET 最新ロードマップと今押さえておきたい技術要素 (Akira Inoue)</title>
         <link>https://www.slideshare.net/chack411/net-176247290</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesのソースコードリーディング入門 (ShinMatsuzaki)</title>
-        <link>https://speakerdeck.com/smatsuzaki/kubernetesfalsesosukodorideinguru-men</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Front series A deck (Mathilde Collin)</title>
-        <link>https://www.slideshare.net/MathildeCollin/front-series-a-deck-64596550</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>potts-xcs224u-webinar2023 - public version</title>
-        <link>https://docs.google.com/presentation/d/1WPYaLEEVJJI_-DOzjudeVoYpl_y0yUi1kWs0VFBnba4/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kotlin Coroutines Flow を触ってみた話し (Tomoya Miwa)</title>
-        <link>https://speakerdeck.com/tomoya0x00/kotlin-coroutines-flow-wohong-tutemitahua-si</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DockerからKubernetesへのシフト (masaki nakayama)</title>
-        <link>https://www.slideshare.net/masakinakayama2/dockerkubernetes-136578511</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Logrageの次を考える — Ruby on Railsがデフォルトで出力するログの謎に迫る</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vT7IpjvurfAeEatc0Nlq-eC9SXsmJcktxKBragCScJrfhCbudYKnOLtdHBchsqfK7EveHEE2bQS3UKf/pub</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>持続可能なプロダクト開発のために - フロントエンドと新陳代謝の話 / Frontend premised on making changes (Potato4d(Hanatani Takuma))</title>
-        <link>https://speakerdeck.com/potato4d/frontend-premised-on-making-changes</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自己組織化チームが越境する日 (NavitimeJapan)</title>
-        <link>https://www.slideshare.net/NavitimeJapan/ss-117077724</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイボウズの CI/CD 事情 〜Jenkins おじさんは CircleCI おじさんにしんかした！〜 (Jumpei Miyata, miyajan)</title>
-        <link>https://www.slideshare.net/miyajan/cicd-jenkins-circleci</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
