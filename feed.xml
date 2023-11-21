@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>現代のコンピュータに�おける自作OS事情</title>
+        <link>https://docs.google.com/presentation/d/1mbLk70RKi-ExLzb78WosCu5DujpQN2K7B9iSbUGRXq4/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>理解して導入するWebフレームワーク ~解決すべき課題に着目する~ / Understanding and implementing web frameworks ~focusing on the problems to be solved~ (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/understanding-and-implementing-web-frameworks-focusing-on-the-problems-to-be-solved</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>はじめよう！PowerAppsキホンのキ　kintone × Microsoft Flow / Logic Appsの話 (典子 松本)</title>
+        <link>https://www.slideshare.net/noriji822/powerappskintone-microsoft-flow-logic-apps</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSの一時的な認証情報を 提供するOSSの開発</title>
+        <link>https://docs.google.com/presentation/d/1MWNWynhlePlwxDCzMAO2-Vsp9tyNypRcM9Vvt7mkuv4/preview</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Bad practice for tax hike handling (corin8823)</title>
+        <link>https://speakerdeck.com/corin8823/bad-practice-for-tax-hike-handling</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20160526 依存関係逆転の原則 (bonjin6770 Kurosawa, @​bonjin6770)</title>
+        <link>https://www.slideshare.net/ShintaroKurosawa/20160526-62511723</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自作TCP/IPデバッグの辛み</title>
+        <link>https://docs.google.com/presentation/d/1d8k5Xlb2kQZ_9fBbmzgdBRyKbkW80O1FIT1XM4EC5zY/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>mobprograming with onboarding (Katsumata Ryo)</title>
+        <link>https://speakerdeck.com/katsumataryo/mobprograming-with-onboarding</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>おすすめVimプラグインまとめ (Shun Iwase)</title>
+        <link>https://www.slideshare.net/ShunIwase/vim-141450302</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NERのための転移学習 (altescy)</title>
         <link>https://speakerdeck.com/altescy/nerfalsetamefalsezhuan-yi-xue-xi</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>サイボウズの CI/CD 事情 〜Jenkins おじさんは CircleCI おじさんにしんかした！〜 (Jumpei Miyata, miyajan)</title>
         <link>https://www.slideshare.net/miyajan/cicd-jenkins-circleci</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BlinkOn14: An update on MPArch</title>
-        <link>https://docs.google.com/presentation/d/1U_uaN6jzkWx3_8Ok9mqHJKjlL4-lBpAHYNcC3QfWXdY/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>State of the Union 〜 2018年のアプリ開発事情 (huin)</title>
-        <link>https://speakerdeck.com/huin/state-of-the-union-2018nian-falseapurikai-fa-shi-qing</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バッチは地味だが役に立つ (apkiban)</title>
-        <link>https://www.slideshare.net/apkiban/ss-122881217</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LT_stapy#49</title>
-        <link>https://docs.google.com/presentation/d/1RWykoPGZKAEV8JwpeE9mtxV7scSumsDgRj3ohBH1geE/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Build app fast on Android Studio 4.​+ (mochico)</title>
-        <link>https://speakerdeck.com/mochico/build-app-fast-on-android-studio-4-dot-plus</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>"Yahoo! JAPAN の Kubernetes-as-a-Service" で加速するアプリケーション開発 (Yahoo! JAPAN デベロッパーネットワーク, @ydnjp)</title>
-        <link>https://www.slideshare.net/techblogyahoo/yahoo-japan-kubernetesasaservice</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>eBPF - Rethinking the Linux Kernel</title>
-        <link>https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最適輸送入門 (joisino)</title>
-        <link>https://speakerdeck.com/joisino/zui-shi-shu-song-ru-men</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゼロディレ システム開発編150419 (Asami Yanagida)</title>
-        <link>https://www.slideshare.net/yanagidaasami/150419</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
