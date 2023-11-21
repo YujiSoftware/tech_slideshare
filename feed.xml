@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NestJSをモチベーション 維持しながら勉強してみた</title>
+        <link>https://docs.google.com/presentation/d/1Ydm2YgTaevaNbl5dTU1NzBZ6JkY0Ofr3zAH-RSyK0VM/preview</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ヒエログリフ入門 (スポーン)</title>
+        <link>https://speakerdeck.com/gnspawn/hierogurihuru-men</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アクセシブルなブログ開発、 その後どうなったの (Marina Toki)</title>
+        <link>https://www.slideshare.net/MarinaToki/ss-135424096</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アクセシビリティを学んで デザインの解像度を上げる</title>
+        <link>https://docs.google.com/presentation/d/1iHY_5eWjpod3brvzO3BgwFazhHCUViOy2Wwb5VkJrEQ/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スモールチームがAmazon Cognitoでコスパよく作るサービス間連携認証 (tacke)</title>
+        <link>https://speakerdeck.com/tacke_jp/sumorutimukaamazon-cognitotekosuhayokuzuo-rusahisujian-lian-xi-ren-zheng</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>University CodeSprint 4 - Magic value (satanic , satanic0258)</title>
+        <link>https://www.slideshare.net/satanic2/university-codesprint-4-magic-value-89648690</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>complementally_filter_veclocity_estimation</title>
+        <link>https://docs.google.com/presentation/d/1BAtmnRNef11ZVTPsbFLgwRj3Ok8UmyAJ4vWiqAEdJkA/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>名刺を超えて人や企業を検索する - Sansanにおける検索システムへの取り組み / Building Search for People and Businesses Beyond Business Cards (Sansan)</title>
+        <link>https://speakerdeck.com/sansanbuildersbox/building-search-for-people-and-businesses-beyond-business-cards</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ensemble Trend Classification in the Foreign Exchange Market Using Cl… (Andrew Kreimer, @​algonell)</title>
+        <link>https://www.slideshare.net/andrewkreimer/ensemble-trend-classification-in-the-foreign-exchange-market-using-class-variable-fitting</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Google Cloud Official Icons and Solution Architectures</title>
         <link>https://docs.google.com/presentation/d/1aGOTpNdCoO4GXZ2es38ZFO5qPGEAjTtDSVeHaDpwsas/preview</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>「組織のグロース」と「プロダクトのグロース」の相関関係を考え、整える (MasatoIshigaki（石垣雅人）)</title>
         <link>https://speakerdeck.com/i35_267/zu-zhi-falsekurosu-to-hurotakutofalsekurosu-falsexiang-guan-guan-xi-wokao-e-zheng-eru</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Chrome Extensionsから見るWebExtensions (Yoichiro Tanaka, yoichiro)</title>
-        <link>https://www.slideshare.net/yoichiro/chrome-extensionswebextensions</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>積立投資のススメ</title>
-        <link>https://docs.google.com/presentation/d/1WNNn6HhfN9PUCgj8FISFXQS0Mjcu-NtK8V_xYg-vgvY/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud Nativeな俺のCI/CD環境 〜 GitLab x Rancher で夢見るイケてる世界 〜 (Masataka Tsukamoto)</title>
-        <link>https://speakerdeck.com/tsukaman/cdhuan-jing-gitlab-x-rancher-demeng-jian-ruiketerushi-jie</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PPIharm (Naoki Nago)</title>
-        <link>https://www.slideshare.net/naokinago/ppiharm</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NeurIPS 2018 Systems for ML論文読む会: Deequ - Data Quality Validation for Machine Learning Pipelines</title>
-        <link>https://docs.google.com/presentation/d/1G7pnd_gzCLH4BVNGyAqMW-ESWqy8chFpibM-K8Rjg2c/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Open Space Technology Introduction (TAKAKING22)</title>
-        <link>https://speakerdeck.com/takaking22/open-space-technology-introduction</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>何が「ニュース」なのか Yahoo!ニュースに学ぶ価値判断と「見出し力」(2015年4月6日) (news HACK by Yahoo!ニュース, @​YahooNewsTopics)</title>
-        <link>https://www.slideshare.net/newsHACK/yahoo201546</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>8thwallweb: Image Target</title>
-        <link>https://docs.google.com/presentation/d/1-GiVnht8c8B8YcwaWcoA79ZzL68nKkEY2aQrxgtZlYc/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Wantedlyイベント- freee株式会社 新卒エンジニア採用について (freee)</title>
-        <link>https://speakerdeck.com/freee/wantedlyihento-freeezhu-shi-hui-she-xin-zu-ensiniacai-yong-nituite</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
