@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「この技術書がすごい」 好きなので語ります ~Team Geekついて~ (1coin)</title>
+        <link>https://speakerdeck.com/1coin/konoji-shu-shu-gasugoi-hao-kinanodeyu-rimasu-team-geektuite</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メディアドゥが描く電子書籍配信ビジネスの未来 (Japan Electronic Publishing Association )</title>
+        <link>https://www.slideshare.net/JEPAslide/ss-60847795</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goのジェネリクスとgo2go</title>
+        <link>https://docs.google.com/presentation/d/1h-aVrlQUQBn2KxvM8vY4MxjzmBW3TAyoWXTOCPL_MiM/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>レンサバけもの道 (uzulla)</title>
+        <link>https://speakerdeck.com/uzulla/rensabakemofalsedao</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>通信と放送の融合を考えるBoF 5 (Masaaki Nabeshima, @​tech_jstream)</title>
+        <link>https://www.slideshare.net/MasaakiNabeshima/bof-5</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLMの出力フォーマットはTOMLが良いかも</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQ99t5kHIvMk8XbdC9gOw9HAmlmbEn6aezklNVs-LD4SdcEB8HcM29oxVxceFlt2773LauZH0kG4o2c/pub</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PipeCD at CyberAgent (nghialv)</title>
+        <link>https://speakerdeck.com/nghialv/pipecd-at-cyberagent</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Matsuolab presentations</title>
+        <link>https://www.slideshare.net/matsuolab/</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>net/httpのクライアントの再設計とは 最新版</title>
         <link>https://docs.google.com/presentation/d/1k30qEdu2qN1UrkyjcLE5iahppFXZmKXd-BUT0o4S9hc/edit</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>オプショナルチェーンができるまで　〜仕様と実装〜</title>
         <link>https://docs.google.com/presentation/d/1PEvXoQDTLAoZIQmFl_scq84ZnKhLHjeQuOZ45NSruXI/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DSOps #6-1 (Yusuke Kaneko)</title>
-        <link>https://speakerdeck.com/ykaneko1992/dsops-number-6-1</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonを使った簡易診断スクリプトの作り方 (Yuichi Hattori)</title>
-        <link>https://www.slideshare.net/yuichihattori1/python-76928064</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>solidity-jp</title>
-        <link>https://docs.google.com/presentation/d/1e3QRhNmIba6r2V-aYw3wf6JvyZz79S_0Sml4gHAruFk/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI×医用画像の現状と可能性_2022年版/AI×medical_imaging_in_japan_2022 (YoshihiroTodoroki)</title>
-        <link>https://speakerdeck.com/tdys13/aixmedical-imaging-in-japan-2022</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Redmine 4.​1 新機能評価ガイド ＜速報版＞ (Go Maeda)</title>
-        <link>https://www.slideshare.net/g_maeda/redmine-41-167915920</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>7th Try English LT</title>
-        <link>https://docs.google.com/presentation/d/1FBlhmc9KgZoF7sohwLJfHedVoo3kS8eR8QucI-sA-k4/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ僕はプログラミングが苦手なのか / Why am I not good at programming (VTRyo)</title>
-        <link>https://speakerdeck.com/vtryo/why-am-i-not-good-at-programming</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ICCV2017一人読み会 (Fujimoto Keisuke)</title>
-        <link>https://www.slideshare.net/FujimotoKeisuke/iccv2017</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
