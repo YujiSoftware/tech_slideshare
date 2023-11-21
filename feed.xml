@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>A/Bテスト実践ガイドの実践</title>
+        <link>https://docs.google.com/presentation/d/154-az8S2XH_34rl6EytsTxdKVLtIFAYCpBBk8PgiDCA/preview</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CDN in Moneyforward (suzuki_yosuke)</title>
+        <link>https://speakerdeck.com/syosuke1024/cdn-in-moneyforward</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Swagger jjug ccc 2018 spring (kounan13)</title>
+        <link>https://www.slideshare.net/kounan13/swagger-jjug-ccc-2018-spring</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ラズパイマウスROS2サンプル集の紹介</title>
+        <link>https://docs.google.com/presentation/d/1eTYXnbfOT4YZeAPHGQHOPzk_mJSJUa1R9vpoHD4ccrM/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PFCP in Go 3GPP流CUPSをGoで実装する (Yoshiyuki Kurauchi)</title>
+        <link>https://speakerdeck.com/wmnsk/pfcp-in-go-3gppliu-cupswogodeshi-zhuang-suru</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データ分析基盤におけるOpsのためのDev with event driven + serverless (Shoji Shirotori, irotoris)</title>
+        <link>https://www.slideshare.net/shoujishirotori/opsdev-with-event-driven-serverless</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>構造化データとはなんぞや(公開用)</title>
+        <link>https://docs.google.com/presentation/d/18mr0T7KUTxYEyLPm64hiWnEJpEw29uO8oSF8VulsAUY/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>niconicoにおけるコンテンツレコメンドの取り組み (tomoto)</title>
+        <link>https://speakerdeck.com/tomoto/niconiconiokerukontenturekomendofalsequ-rizu-mi</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>無料で仮想Junos環境を手元に作ろう (akira6592, akira6592)</title>
+        <link>https://www.slideshare.net/akira6592/junos-vagrant</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソースコードを堪能せよ</title>
         <link>https://docs.google.com/presentation/d/142DMszQvaKEfyIL6JmI_lsvVbbqJNOlfp6qSU8bgMAU/edit</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>ヒエログリフ入門 (スポーン)</title>
         <link>https://speakerdeck.com/gnspawn/hierogurihuru-men</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アクセシブルなブログ開発、 その後どうなったの (Marina Toki)</title>
-        <link>https://www.slideshare.net/MarinaToki/ss-135424096</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アクセシビリティを学んで デザインの解像度を上げる</title>
-        <link>https://docs.google.com/presentation/d/1iHY_5eWjpod3brvzO3BgwFazhHCUViOy2Wwb5VkJrEQ/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スモールチームがAmazon Cognitoでコスパよく作るサービス間連携認証 (tacke)</title>
-        <link>https://speakerdeck.com/tacke_jp/sumorutimukaamazon-cognitotekosuhayokuzuo-rusahisujian-lian-xi-ren-zheng</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>University CodeSprint 4 - Magic value (satanic , satanic0258)</title>
-        <link>https://www.slideshare.net/satanic2/university-codesprint-4-magic-value-89648690</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>complementally_filter_veclocity_estimation</title>
-        <link>https://docs.google.com/presentation/d/1BAtmnRNef11ZVTPsbFLgwRj3Ok8UmyAJ4vWiqAEdJkA/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>名刺を超えて人や企業を検索する - Sansanにおける検索システムへの取り組み / Building Search for People and Businesses Beyond Business Cards (Sansan)</title>
-        <link>https://speakerdeck.com/sansanbuildersbox/building-search-for-people-and-businesses-beyond-business-cards</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ensemble Trend Classification in the Foreign Exchange Market Using Cl… (Andrew Kreimer, @​algonell)</title>
-        <link>https://www.slideshare.net/andrewkreimer/ensemble-trend-classification-in-the-foreign-exchange-market-using-class-variable-fitting</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloud Official Icons and Solution Architectures</title>
-        <link>https://docs.google.com/presentation/d/1aGOTpNdCoO4GXZ2es38ZFO5qPGEAjTtDSVeHaDpwsas/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタディサプリにおけるアプリデザイン改善の取り組み (meyco)</title>
-        <link>https://speakerdeck.com/meyco/sutadeisapuriniokeruapuridezaingai-shan-falsequ-rizu-mi</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
