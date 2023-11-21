@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>What's New in Spring 5.​3 and Spring Boot 2.​4</title>
+        <link>https://docs.google.com/presentation/d/111ePUTXHwFqO-DW_8np1RRqsPtrF7rVnZhocfqOLgFk/preview</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>what is Cloud Run? (shogomuranushi)</title>
+        <link>https://speakerdeck.com/shogomuranushi/what-is-cloud-run</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第35回 強化学習勉強会・論文紹介　[Lantao Yu : 2016] (Takayuki Sekine)</title>
+        <link>https://www.slideshare.net/TakayukiSekine1/seq-gan-66772221</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Inline Classを使おう</title>
+        <link>https://docs.google.com/presentation/d/1AnrptOSspe_2Q-i39XQ3R9Tbh_YamAvXxergFJfnP1A/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>定量×定性の補完的アプローチ maruhadakaPJ (mihozono)</title>
+        <link>https://speakerdeck.com/mihozono/ding-liang-xding-xing-falsebu-wan-de-apuroti-maruhadakapj</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CameraXとMLKitの関係や如何に！？ (Takao Sumitomo)</title>
+        <link>https://www.slideshare.net/TakaoSumitomo/cameraxmlkit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2019 is the Year of the Resurrection of Web Components 最新版</title>
+        <link>https://docs.google.com/presentation/d/1M2reMVKYxvftqL4TN0qGpF9H6IeUC8UxI6gji17I1LE/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実験デザインと因果探索のミッシングリンクに関する調査 (Asei Sugiyama)</title>
+        <link>https://speakerdeck.com/asei/shi-yan-dezaintoyin-guo-tan-suo-falsemitusingurinkuniguan-surudiao-cha</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ansibleではじめるサーバー・ネットワークの自動化（2018/08/22） (akira6592, akira6592)</title>
+        <link>https://www.slideshare.net/akira6592/ansiblesvnwautomation20180823</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>A/Bテスト実践ガイドの実践</title>
         <link>https://docs.google.com/presentation/d/154-az8S2XH_34rl6EytsTxdKVLtIFAYCpBBk8PgiDCA/preview</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Webサービスが成長するとロックで苦労する話 (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/websabisugacheng-chang-surutorotukudeku-lao-suruhua</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バリュープロポジションキャンバス (sato_econj)</title>
-        <link>https://www.slideshare.net/sato_econj/ss-105285160</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CameraX</title>
-        <link>https://docs.google.com/presentation/d/19v5_MrMQvtlrQrE7PXy8dZi7h_iFV0kFwQaJaXt5wEg/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>APIを利用して、生産性を生み出す技術 (Kazuhiko Yamashita)</title>
-        <link>https://speakerdeck.com/pyama86/apiwoli-yong-site-sheng-chan-xing-wosheng-michu-suji-shu</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQL Conference Japan 2020 に参加しよう (Haruka Takatsuka)</title>
-        <link>https://www.slideshare.net/HarukaTakatsuka/postgresql-conference-japan-2020</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go言語で作るTCP/IP</title>
-        <link>https://docs.google.com/presentation/d/1dCk5KdGXg4DVAnC9eECA7iHPIX7gtIC7OhSxh59qrX0/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DX推進室を作るときの3つの落とし穴 / dx-3trap (CIRCULATION ,INC)</title>
-        <link>https://speakerdeck.com/circulation/dx-3trap</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Optimizer入門＆最新動向 (Motokawa Tetsuya)</title>
-        <link>https://www.slideshare.net/MotokawaTetsuya/optimizer-93979393</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NestJSをモチベーション 維持しながら勉強してみた</title>
-        <link>https://docs.google.com/presentation/d/1Ydm2YgTaevaNbl5dTU1NzBZ6JkY0Ofr3zAH-RSyK0VM/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ヒエログリフ入門 (スポーン)</title>
-        <link>https://speakerdeck.com/gnspawn/hierogurihuru-men</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
