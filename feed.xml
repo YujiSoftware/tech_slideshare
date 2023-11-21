@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>noteのデザインシステムのはじまりとこれから</title>
+        <link>https://docs.google.com/presentation/d/1lXP7zvG9bIjO27azrk3Ku1qmsDkqmob3Rsv-fFqkO9Q/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>独断と偏見で選んだ Kubernetes 1.24 の注目機能と今後! (Kazuki Suda)</title>
+        <link>https://speakerdeck.com/superbrothers/du-duan-topian-jian-dexuan-nda-kubernetes-1-dot-24-falsezhu-mu-ji-neng-tojin-hou</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[DL輪読会]Scalable Training of Inference Networks for Gaussian-Process M… (Deep Learning JP)</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dlscalable-training-of-inference-networks-for-gaussianprocess-models</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Helpfeel Tech Hour vol.2 teramoto リアル業務でChatGPT APIを使うコツ</title>
+        <link>https://docs.google.com/presentation/d/1rj0QOumDkh4elKMPBtvYHbky6io8vMuQlVgdSrQHZHM/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アジャイル・DevOps時代のテストと品質保証 - 輝く未来を抱きしめて！技術やツールが変えてしまうこと、変えられないこと / Tech and Tool for Testing and Quality Assurance in Agile and DevOps Era (Dai Fujihara)</title>
+        <link>https://speakerdeck.com/daipresents/tech-and-tool-for-testing-and-quality-assurance-in-agile-and-devops-era</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>小手先のデザイン技術 (TakuyaJodai)</title>
+        <link>https://www.slideshare.net/TakuyaJodai/ss-148117946</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>streamlitでGPT-3.5のチャットボットを作った話</title>
+        <link>https://docs.google.com/presentation/d/1YBBm4i9AD_Osnf6EfAmE7kK7FxO1Oj6Mh4a3DgI-zVI/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cacoo html5 バージョンにおける AWS 活用事例 / AWS use case of Cacoo html5 (Nulab Inc.)</title>
+        <link>https://speakerdeck.com/nulabinc/aws-use-case-of-cacoo-html5</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Mlse20190208 (Yuta Kashino)</title>
+        <link>https://www.slideshare.net/yutakashino/mlse20190208</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LangChainとフルサーバーレスですばやくセキュアなRAGアプリをつくるための実践解説/LangChain_Book (吉田真吾)</title>
         <link>https://speakerdeck.com/yoshidashingo/langchain-book</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>技術的負債が生まれる背景を理解して，アーリーからレイター向けの根本的なアプローチを考える (memory)</title>
         <link>https://speakerdeck.com/memory1994/understanding-why-built-tech-debts-and-thinking-approaches-for-startup-on-early-to-later-stage</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>負債と言わないことが負債と向き合うこと (Kenichi Takahashi)</title>
-        <link>https://speakerdeck.com/kenchan/fu-zhai-toyan-wanaikotogafu-zhai-toxiang-kihe-ukoto</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Time Zone Canonicalization (for Stage 1)</title>
-        <link>https://docs.google.com/presentation/d/13vW8JxkbzyzGubT5ZkqUIxtpOQGNSUlguVwgcrbitog/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メディアにおけるAI活用とAWSに期待すること / JAWS DAYS 2019 (ICTRAD) (Akihiko Sado)</title>
-        <link>https://speakerdeck.com/akisado/jaws-days-2019-ictrad</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>さくらインターネット最新の取り組み (Shunsuke Kikuchi, @​kikuzokikuzo)</title>
-        <link>https://www.slideshare.net/ShunsukeKikuchi1/ss-235239491</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>startupnote Ver.​2.​1</title>
-        <link>https://docs.google.com/presentation/d/1em17GC_9AaRqlbnH67qUkdgUNWQ7-5vw6yQyPWCze5g/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Z氏はKubernetesクラスタを手中に収めることができたのか (O. Yuanying)</title>
-        <link>https://speakerdeck.com/yuanying/zshi-hakuberneteskurasutawoshou-zhong-nishou-merukotogadekitafalseka</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自分と向き合うセルフブランディング (wariemon, wariemon)</title>
-        <link>https://www.slideshare.net/yutawariishi/ss-53718401</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[shared] 20200317 continuous pprof</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vRHbu9l_ZUOLwv8KZ2wPTy6bY_FvP1R5yP_0xw6re4qr7rTzZPhUFjofc3ivDxpFtEz32Ih_rEdMvot/pub</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>gRPC vs REST - API Strat 2016 (Sandeep Dinesh)</title>
-        <link>https://speakerdeck.com/thesandlord/grpc-vs-rest-api-strat-2016</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
