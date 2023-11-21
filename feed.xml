@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソースコードを堪能せよ</title>
+        <link>https://docs.google.com/presentation/d/142DMszQvaKEfyIL6JmI_lsvVbbqJNOlfp6qSU8bgMAU/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Webサービスが成長するとロックで苦労する話 (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/websabisugacheng-chang-surutorotukudeku-lao-suruhua</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バリュープロポジションキャンバス (sato_econj)</title>
+        <link>https://www.slideshare.net/sato_econj/ss-105285160</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CameraX</title>
+        <link>https://docs.google.com/presentation/d/19v5_MrMQvtlrQrE7PXy8dZi7h_iFV0kFwQaJaXt5wEg/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>APIを利用して、生産性を生み出す技術 (Kazuhiko Yamashita)</title>
+        <link>https://speakerdeck.com/pyama86/apiwoli-yong-site-sheng-chan-xing-wosheng-michu-suji-shu</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PostgreSQL Conference Japan 2020 に参加しよう (Haruka Takatsuka)</title>
+        <link>https://www.slideshare.net/HarukaTakatsuka/postgresql-conference-japan-2020</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go言語で作るTCP/IP</title>
+        <link>https://docs.google.com/presentation/d/1dCk5KdGXg4DVAnC9eECA7iHPIX7gtIC7OhSxh59qrX0/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DX推進室を作るときの3つの落とし穴 / dx-3trap (CIRCULATION ,INC)</title>
+        <link>https://speakerdeck.com/circulation/dx-3trap</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Optimizer入門＆最新動向 (Motokawa Tetsuya)</title>
+        <link>https://www.slideshare.net/MotokawaTetsuya/optimizer-93979393</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NestJSをモチベーション 維持しながら勉強してみた</title>
         <link>https://docs.google.com/presentation/d/1Ydm2YgTaevaNbl5dTU1NzBZ6JkY0Ofr3zAH-RSyK0VM/preview</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>スタディサプリにおけるアプリデザイン改善の取り組み (meyco)</title>
         <link>https://speakerdeck.com/meyco/sutadeisapuriniokeruapuridezaingai-shan-falsequ-rizu-mi</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データとQC7つ道具を利用したDEVOPSプラクティスによる生産性改善 (Rakuten, Inc., @​rakuten_tech)</title>
-        <link>https://www.slideshare.net/rakutentech/qc7devops</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>YAPC::Europe 2023: Perl and Koha conference in Helsinki</title>
-        <link>https://docs.google.com/presentation/d/1FGNTELveHq3IYZgkJwcp_dEqbwSeBIqWq563FlZRuYw/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DeNA のマーケティングを支えるデータ分析/gc_saas_Data analysis (DeNA_Tech)</title>
-        <link>https://speakerdeck.com/dena_tech/gc-saas-data-analysis</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>もっとうまく頻繁に価値を届けたいチームのためのスクラム勉強会（公開用） (Katsunobu Harada)</title>
-        <link>https://www.slideshare.net/harakachi/ss-40584803</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>String.cooked for Stage 1</title>
-        <link>https://docs.google.com/presentation/d/1Au8FP1xTuXb52d6kG1fxX5Cxl3J-02h3FAaq8tMEtn8/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FastContainerアーキテクチャ概論 / Reactive, Stateless and Mortal Architecture for Web Applications (MATSUMOTO Ryosuke)</title>
-        <link>https://speakerdeck.com/matsumoto_r/reactive-stateless-and-mortal-architecture-for-web-applications</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20111029 part2-dnsトリビア（出張版）-事後資料 (Yasuhiro Morishita)</title>
-        <link>https://www.slideshare.net/OrangeMorishita/20111029-part2dns</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google ColabでWebアプリ開発ハンズオン</title>
-        <link>https://docs.google.com/presentation/d/15jRtRybh0r79JIUrXU9hl-FUP9qfmHBCFI6eF7AeJws/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「組織のグロース」と「プロダクトのグロース」の相関関係を考え、整える (MasatoIshigaki（石垣雅人）)</title>
-        <link>https://speakerdeck.com/i35_267/zu-zhi-falsekurosu-to-hurotakutofalsekurosu-falsexiang-guan-guan-xi-wokao-e-zheng-eru</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
