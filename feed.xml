@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>net/httpのクライアントの再設計とは 最新版</title>
+        <link>https://docs.google.com/presentation/d/1k30qEdu2qN1UrkyjcLE5iahppFXZmKXd-BUT0o4S9hc/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Dotty で軽量な DI ライブラリをかいてみた (Jun Tomioka)</title>
+        <link>https://speakerdeck.com/jooohn/dotty-deqing-liang-na-di-raiburariwokaitemita</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>高解像度スタートアップガイド Part1 (Takahiro Yamaguchi)</title>
+        <link>https://www.slideshare.net/takahiroASA/part1-77922415</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>seesaa meets Mackerel (yseto)</title>
+        <link>https://speakerdeck.com/yseto/seesaa-meets-mackerel</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オークションの仕組み (Yosuke YASUDA, @​yagena)</title>
+        <link>https://www.slideshare.net/YosukeYasuda1/ss-198857941</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MatrixFlow操作マニュアル_Ver0.​1.​4</title>
+        <link>https://docs.google.com/presentation/d/1HH1ZbsGB5oRYho4gssp5UEm4ZbPtQB9_wn1a2QuHth4/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コードをどまんなかに据えた設計アプローチ (irof)</title>
+        <link>https://speakerdeck.com/irof/kodowodomannakaniju-etashe-ji-apuroti</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LOD紹介 (Iwao KOBAYASHI, @​iwao)</title>
+        <link>https://www.slideshare.net/iwao/lod-14520370</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JJUGCCC2019Fall</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vRprkTXc_0Axjc086VpTCV2QXXsl11ghjfP7Jw3q4zCZ_ctErHOYriVb4SpYmK0O3dD_kOjN5-kDcZr/pub</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>ICCV2017一人読み会 (Fujimoto Keisuke)</title>
         <link>https://www.slideshare.net/FujimotoKeisuke/iccv2017</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>clang + lld でお手軽！ UEFIアプリ開発</title>
-        <link>https://docs.google.com/presentation/d/1ssu7KQEt1SMqizLlf-iP6URZWMw1HTHtmHIhHRyW06w/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MoT TechTalk #13 タクシーアプリ『GO』のデータサイエンス〜配車マッチングの継続的改善〜 (MoT dev)</title>
-        <link>https://speakerdeck.com/mot_techtalk/mot-techtalk-13</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>画像認識 �第9章 さらなる話題 (Shion Honda)</title>
-        <link>https://www.slideshare.net/ShionHonda/9-139767735</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>190625_社外LT_ビーム.​pptx</title>
-        <link>https://docs.google.com/presentation/d/1izGjQFRk05NQQd8l5g_fzaBZMnNBhJgd/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>心理的安全性とリファクタリングステップでモブプログラミングはめっちゃ輝く (eiji.ienaga)</title>
-        <link>https://speakerdeck.com/haru01/xin-li-de-an-quan-xing-torihuakutaringusutetupudemobupuroguraminguhametutiyahui-ku</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>普通に使える？BigQuery (Wasaburo Miyata)</title>
-        <link>https://www.slideshare.net/WasaburoMiyata/bigquery-120187898</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュアなWeb APIの作り方 / Secure Web API (oracle4engineer)</title>
-        <link>https://speakerdeck.com/oracle4engineer/secure-web-api</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンライン</title>
-        <link>https://docs.google.com/presentation/d/1L1FgxkdowxBeg9f2934F7cVvnuCOydgMw5lmglov2IU/edit</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
