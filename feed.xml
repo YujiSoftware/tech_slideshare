@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>7th Try English LT</title>
+        <link>https://docs.google.com/presentation/d/1FBlhmc9KgZoF7sohwLJfHedVoo3kS8eR8QucI-sA-k4/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜ僕はプログラミングが苦手なのか / Why am I not good at programming (VTRyo)</title>
+        <link>https://speakerdeck.com/vtryo/why-am-i-not-good-at-programming</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ICCV2017一人読み会 (Fujimoto Keisuke)</title>
+        <link>https://www.slideshare.net/FujimotoKeisuke/iccv2017</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>clang + lld でお手軽！ UEFIアプリ開発</title>
+        <link>https://docs.google.com/presentation/d/1ssu7KQEt1SMqizLlf-iP6URZWMw1HTHtmHIhHRyW06w/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MoT TechTalk #13 タクシーアプリ『GO』のデータサイエンス〜配車マッチングの継続的改善〜 (MoT dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/mot-techtalk-13</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>画像認識 �第9章 さらなる話題 (Shion Honda)</title>
+        <link>https://www.slideshare.net/ShionHonda/9-139767735</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>190625_社外LT_ビーム.​pptx</title>
+        <link>https://docs.google.com/presentation/d/1izGjQFRk05NQQd8l5g_fzaBZMnNBhJgd/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>心理的安全性とリファクタリングステップでモブプログラミングはめっちゃ輝く (eiji.ienaga)</title>
+        <link>https://speakerdeck.com/haru01/xin-li-de-an-quan-xing-torihuakutaringusutetupudemobupuroguraminguhametutiyahui-ku</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>普通に使える？BigQuery (Wasaburo Miyata)</title>
+        <link>https://www.slideshare.net/WasaburoMiyata/bigquery-120187898</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュアなWeb APIの作り方 / Secure Web API (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/secure-web-api</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Roots of Scrum 2005 (Yasunobu Kawaguchi)</title>
         <link>https://speakerdeck.com/kawaguti/roots-of-scrum-2005</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>勉強会で発表してみようかなという方へ(BPStudy) (Haruo Sato)</title>
-        <link>https://www.slideshare.net/ssuserafaef6/bps-32796687</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プレゼンテーション（一般）</title>
-        <link>https://docs.google.com/presentation/d/1MFFGa1KFzweTwYh49TT0jD59SzurqhSXKvMILZbIEcI/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINE Thingsシナリオセットジェネレータを作った時にハマった話 #enebular (n0bisuke)</title>
-        <link>https://speakerdeck.com/n0bisuke/line-thingssinariosetutozieneretawozuo-tutashi-nihamatutahua-number-enebular</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>5G時代を見据えたIoTプラットフォーム�SORACOMのアーキテクチャへの挑戦 | AWS DevDay Tokyo 2019 (SORACOM,INC, @​SORACOM_PR)</title>
-        <link>https://www.slideshare.net/SORACOM/5giotsoracom-aws-devday-tokyo-2019/</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ジャッジ資格取得手順書</title>
-        <link>https://docs.google.com/presentation/d/1cn6yUyPRhvUf_IR7JMOBJ9C34iyljJeUcqA4iyRPEFk/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VRT in Action (Yosuke Kurami)</title>
-        <link>https://speakerdeck.com/quramy/vrt-in-action</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>root権限無しでKubernetesを動かす (AkihiroSuda)</title>
-        <link>https://www.slideshare.net/AkihiroSuda/rootkubernetes</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>認証しないWeb認証 限定公開URLのセキュリティについて考える 公開版</title>
-        <link>https://docs.google.com/presentation/d/1aZ4zGNoD-PYElGmWJwRyW-8TNcXheNMuyPvQIUOt-VE/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>すべての人のためのアクセシビリティ対応 #ca11y (akatsuki174)</title>
-        <link>https://speakerdeck.com/akatsuki174/subetefalseren-falsetamefalseakusesibiriteidui-ying-number-ca11y</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
