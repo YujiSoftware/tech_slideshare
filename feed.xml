@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloud Native Storage on Kubernetes®</title>
+        <link>https://docs.google.com/presentation/d/12wJXjQ-h-_LSQ5jQ3hYdlQQKQmS619ExqmljoUHpUDk/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NewRelic / Elasticsearch ではじめるSREに必要な性能監視入門 (katsuhisa_)</title>
+        <link>https://speakerdeck.com/katsuhisa91/elasticsearch-dehazimerusrenibi-yao-naxing-neng-jian-shi-ru-men</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IIJmio meeting 27 5G NSAについて (techlog (Internet Initiative Japan Inc.))</title>
+        <link>https://www.slideshare.net/IIJ_techlog/iijmio-meeting-27-5g-nsa-234101136</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【CoLab勉強会】AWS認定資格 アソシエイトレベルを取ろう</title>
+        <link>https://docs.google.com/presentation/d/1UwmgTH27HNinLrmjNhwG0-EWtwvBOU7_-yAT5zxCNGo/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Teslaはカメラを使ってどのように世界を認識しているか (Inoichan)</title>
+        <link>https://speakerdeck.com/inoichan/teslahakamerawoshi-tutedonoyounishi-jie-woren-shi-siteiruka</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>これからの名前の話をしよう (Kenta USAMI)</title>
+        <link>https://www.slideshare.net/tadsan/ss-31387472</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>セールスライティングの完全ガイド【文章だけで、１億を稼ぐ方法】</title>
+        <link>https://docs.google.com/presentation/d/15pm5HTToKNnU015SG-ZVphzJ9LRkTemrZ9t-Tl0AMUY/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>作業スーツを楽しもう (takumako)</title>
+        <link>https://speakerdeck.com/sys/zuo-ye-sutuwole-simou</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>分子のグラフ表現と機械学習 (Ichigaku Takigawa)</title>
+        <link>https://www.slideshare.net/itakigawa/ss-91281176</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>3つの⽴場で考える技術的負債への組織的アプローチ (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20231121</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>strict: true にした話</title>
         <link>https://docs.google.com/presentation/d/1yUYUV46gtci6pW-bApVvaSw9OY7fOdcsCxtyt3qcfB0/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ファイブフィンガーでスクラムチームの心理的安全性を高める / Fist to Five (おおいし)</title>
-        <link>https://speakerdeck.com/bicstone/fist-to-five</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20190125 Minecraftで深層強化学習 ハンズオン</title>
-        <link>https://www.slideshare.net/ssuserf2c42e/20190125-minecraft-129160073?next_slideshow=1</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goをもっと多くの人に広めるために我々ができること 最新版</title>
-        <link>https://docs.google.com/presentation/d/1jb19gCQySYUZkLAqguHNWqKQ2Z4EGd1dmOLA8OKuLlw/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>とあるアプリのサービス終了を見届ける 〜サブスクリプション型アプリのサービス終了ベストプラクティス〜 (RyoOta)</title>
-        <link>https://speakerdeck.com/tbl_ota/toaruapurifalsesabisuzhong-liao-wojian-jie-keru-sabusukuripusiyonxing-apurifalsesabisuzhong-liao-besutopurakuteisu</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LFK_MagicPod_Meetup_Share (MakotoFukunaga1)</title>
-        <link>https://www.slideshare.net/MakotoFukunaga1/lfkmagicpodmeetupshare</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Realms for Stage 3 - November 2020</title>
-        <link>https://docs.google.com/presentation/d/1mKdez8FMbJ4QQ2KsOCMXOKVW6QoUnrNQf2cwsLy0MyI/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「ドメイン」駆動で考える「ドメイン駆動設計」/consideration of domain-driven design via domain (philomagi)</title>
-        <link>https://speakerdeck.com/tooppoo/consideration-of-domain-driven-design-via-domain</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Creating Android Services with Delphi and RAD Studio 10 Seattle (Jim McKeeth, JimMcKeeth)</title>
-        <link>https://www.slideshare.net/jimmckeeth/creating-android-services-with-delphi-and-rad-studio-10-seattle</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>走馬灯のIaCは考えておいて (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/zou-ma-deng-noiachakao-eteoite</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
