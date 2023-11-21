@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>認証しないWeb認証 限定公開URLのセキュリティについて考える 公開版</title>
+        <link>https://docs.google.com/presentation/d/1aZ4zGNoD-PYElGmWJwRyW-8TNcXheNMuyPvQIUOt-VE/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>すべての人のためのアクセシビリティ対応 #ca11y (akatsuki174)</title>
+        <link>https://speakerdeck.com/akatsuki174/subetefalseren-falsetamefalseakusesibiriteidui-ying-number-ca11y</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IIJ Technical DAY 2019 ～ IIJのサーバインフラはここまでやっています (IIJ, @​IIJ_PR)</title>
+        <link>https://www.slideshare.net/IIJ_PR/iij-technical-day-2019-iij-203907148</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>KMC 例会講座: コンテナ、Docker、Kubernetes って何が嬉しいの？</title>
+        <link>https://docs.google.com/presentation/d/1o35vA32M6Mek-NLFXJisd2hpZ8GIkj8NZDbSGR9u9mQ/preview</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Linux用キーリマッパーを作る技術 / How to make Key Remapper (とみたまさひろ)</title>
+        <link>https://speakerdeck.com/tmtms/how-to-make-key-remapper</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゲームエンジンの知能化の設計－ゲームエンジンにおける人工知能の導入－ (Youichiro Miyake, @miyayou)</title>
+        <link>https://www.slideshare.net/youichiromiyake/ss-89419731</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20201009自作プログラミング言語のつどい</title>
+        <link>https://docs.google.com/presentation/d/1PfuN-L-t4bQCsEBXk3MdhO_QdL4L5bAwuBACwzUh7cs/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアはLLMとどう付き合うか / How engineer get along with LLM (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/how-engineer-get-along-with-llm</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「人工知能」をあなたのビジネスで活用するには</title>
+        <link>https://www.slideshare.net/takahirokubo7792/ss-63166784/30</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コインハイブ事件_横浜地裁無罪判決_講演資料</title>
         <link>https://docs.google.com/presentation/d/1HZdy-XVhRRkktwf0QtGyMRzbI0Q0cJJovnyjEE8MTyI/edit</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Three points to write resume that recruiters will want to read (SHIOYA, Hiromu)</title>
         <link>https://speakerdeck.com/kwappa/three-points-to-write-resume-that-recruiters-will-want-to-read</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dockerを徹底活用したSoftLayer環境にお けるディープラーニング開発環境の構築 - Alpaca Cloud Days発… (Tomoya Kitayama)</title>
-        <link>https://www.slideshare.net/gamella/dockersoftlayer-alpaca-cloud-days</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Leap Motionでクレーンゲームを操作してみた</title>
-        <link>https://docs.google.com/presentation/d/1eSN0MroSkbB97-Klk77xyO56M87wDv_hSo6-qW7Yfmo/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230725_データエンジニアに求められるソフトスキル (hase-ryo)</title>
-        <link>https://speakerdeck.com/haseryo/20230725-consider-a-career-as-a-data-engineer-soft-skills-required-of-data-engineers</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RxSwift to Combine (Bo-Young Park)</title>
-        <link>https://www.slideshare.net/BoYoungPark11/rxswift-to-combine-192620911</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Making of: The Sanitizer API (Nullcon 2022)</title>
-        <link>https://docs.google.com/presentation/d/1eLmIZkY7auD8xT-Q6AzBKM_ASFHH8Z5fMyfeoSbSH-k/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>近代史とアジャイル / Modern History and Agile (Fumihiko Kinoshita)</title>
-        <link>https://speakerdeck.com/fkino/modern-history-and-agile</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>勉強会の系譜 (Takashi Abe)</title>
-        <link>https://www.slideshare.net/sho7650/ss-10789234</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VueConf US 2021</title>
-        <link>https://docs.google.com/presentation/d/1Lu1X6dyofyWqE6lpWsdUAkHMWm9pB6A9bs187iIUin4/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pocochaにおけるアセットの管理/potatotips55 (noppefoxwolf)</title>
-        <link>https://speakerdeck.com/noppefoxwolf/potatotips55</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
