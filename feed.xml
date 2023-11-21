@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VueConf US 2021</title>
+        <link>https://docs.google.com/presentation/d/1Lu1X6dyofyWqE6lpWsdUAkHMWm9pB6A9bs187iIUin4/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pocochaにおけるアセットの管理/potatotips55 (noppefoxwolf)</title>
+        <link>https://speakerdeck.com/noppefoxwolf/potatotips55</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20190928 M5StickVではじめる軽量モデルの実世界への応用 #TFUG (Kazuhiro Sasao, @​ksasao)</title>
+        <link>https://www.slideshare.net/ksasao/20190928-m5stickv-tfug</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>階層モデルとWBIC</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSt4olOJtIhAvQYPKo1sEY_8wM-W_YkuFXAjl6PQUdSmm3j4P_PJUc2H7KdgmRYm8VpjivSpvZGYzPa/pub</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>抽出的文書要約における hetero graph の応用 Heterogeneous Graph Neural Networks for Extractive Document Summarization (uchi_k)</title>
+        <link>https://speakerdeck.com/uchi_k/chou-chu-de-wen-shu-yao-yue-niokeru-hetero-graph-falseying-yong-heterogeneous-graph-neural-networks-for-extractive-document-summarization</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジェル投資を始める前に - Startup Investor School 2018 まとめ (Takaaki Umada, tumada)</title>
+        <link>https://www.slideshare.net/takaumada/startup-investor-school-summary/</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BL とポリコレ</title>
+        <link>https://docs.google.com/presentation/d/1RY27M0g28cM9MTm2Mk5TYH-W_RzEZoiymCtJXeftFB0/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ドメインモデラーにとって受託開発であることは制約なのか？ (Akira Suenami)</title>
+        <link>https://speakerdeck.com/a_suenami/domeinmoderanitotuteshou-tuo-kai-fa-dearukotohazhi-yue-nafalseka</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>uroboroSQLの紹介 (OSC2017 Tokyo/Spring) (Kenichi Hoshi)</title>
+        <link>https://www.slideshare.net/KenichiHoshi1/uroborosql-osc2017-tokyospring</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Blockchain flowchart</title>
         <link>https://www.slideshare.net/masamasujima/blockchain-flowchart?fbclid=IwAR3Jn0OvYegGnkQd_yDhJFepyRpDf1pKLRR226ybXS0SYKGcVV7M8jobSSI</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Cloud Build out of steps</title>
         <link>https://docs.google.com/presentation/d/1hIsOmkS4F8Wk1peiPBYmuG03OILleG_xQBrGFwc0-eo/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DSOps #4 (Yusuke Kaneko)</title>
-        <link>https://speakerdeck.com/ykaneko1992/dsops-number-4</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Flutter のリアクティブ戦略 set state 〜 redux まで (cch-robo)</title>
-        <link>https://www.slideshare.net/cch-robo/flutter-set-state-redux</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GCP Database Next Generation</title>
-        <link>https://docs.google.com/presentation/d/11Jp1gt-n8LxVgrHBRy1ym6iJMsKww-mit1A00IS-oHk/preview</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>XP祭り2018LT「 学生だってふつーにアジャイル開 発やってるのにお前らときたら」 / XP Matsuri 2018 LT (miholovesq)</title>
-        <link>https://speakerdeck.com/miholovesq/xp-matsuri-2018-lt</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>分散密ベクトル探索エンジン Vald の Helm Chart の作成と Operator SDK を用いた Helm ベースの Oper… (Rintaro Okamura)</title>
-        <link>https://www.slideshare.net/RintaroOkamura1/vald-helm-chart-operator-sdk-helm-operator</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術的負債の借り換え on Ruby and Rails update (ginkouno)</title>
-        <link>https://speakerdeck.com/ginkouno/ji-shu-de-fu-zhai-nojie-rihuan-e-on-ruby-and-rails-update</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ECMA-402 (Intl) status update, October 2019</title>
-        <link>https://docs.google.com/presentation/d/1tuW131HEuqZNd-HF6dNr-VLjNR1ItzXBaL5FloqGcbE/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Charty - Visualizing your data in Ruby (秒速284km)</title>
-        <link>https://speakerdeck.com/284km/charty-visualizing-your-data-in-ruby</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モデル検査入門 #wacate (Kinji Akemine, @​kjstylepp)</title>
-        <link>https://www.slideshare.net/kjstylepp/ss-42413829</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
