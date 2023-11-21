@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェアの内部品質に生じる様々な問題は組織設計にその原因があることも多い / Internal Quality Issues Caused by Organizational Design (mtx2s)</title>
+        <link>https://speakerdeck.com/mtx2s/internal-quality-issues-caused-by-organizational-design</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>gobpf - utilizing BPF from Go</title>
+        <link>https://docs.google.com/presentation/d/1fN7KowtG_t8_VD58VE0AaZ4qla_eY2885OfngVB-4Y0/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>人生詰まないための30代デザイナの戦略/designer-strategy (conti)</title>
+        <link>https://speakerdeck.com/contiki9/designer-strategy</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20190808.​kuruma iotlt.​can cable (KiyotakaATSUMI)</title>
+        <link>https://www.slideshare.net/KiyotakaATSUMI/20190808kuruma-iotltcan-cable</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ng-japan 2019 keynote</title>
+        <link>https://docs.google.com/presentation/d/1wT-aZ-Dh6v1QJGBUPL1tW4g0mkxLZ66dSz3dWqMf5Is/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アルとAlgoliaと私 / alu_algolia (Hikaru Tooyama)</title>
+        <link>https://speakerdeck.com/vexus2/alu-algolia</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>企業セキュリティ対策の転換点 (UEHARA, Tetsutaro)</title>
+        <link>https://www.slideshare.net/tetsutalow/ss-71798687</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データサイエンス100本ノック(構造化データ加工編) のR問題を解いてみる</title>
+        <link>https://docs.google.com/presentation/d/12ldjAA1IOWkbOhUtOmLL__IK1ANYFj4Z9_gJMYu7Z0Q/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フォレンジックアーティファクト収集ツール / Forensic Artifacts Collecting Tools (soji256)</title>
+        <link>https://speakerdeck.com/soji256/forensic-artifacts-collecting-tools</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PWA＋WebARをECサイトで使ってみたい (Daisuke Yamashita)</title>
+        <link>https://www.slideshare.net/DaisukeYamashita4/pwawebarec</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアエンジニアリングサバイバルガイド:  廃墟を直す、廃墟を出る、廃墟を壊す、あるいは廃墟に暮らす、廃墟に死す</title>
         <link>https://docs.google.com/presentation/u/0/d/1hDY2pb-nYVSLr0HrtQ4EVyrDU4QGgwp4-VRG-Rf26DA/preview</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>「この技術書がすごい」 好きなので語ります ~Team Geekついて~ (1coin)</title>
         <link>https://speakerdeck.com/1coin/konoji-shu-shu-gasugoi-hao-kinanodeyu-rimasu-team-geektuite</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メディアドゥが描く電子書籍配信ビジネスの未来 (Japan Electronic Publishing Association )</title>
-        <link>https://www.slideshare.net/JEPAslide/ss-60847795</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goのジェネリクスとgo2go</title>
-        <link>https://docs.google.com/presentation/d/1h-aVrlQUQBn2KxvM8vY4MxjzmBW3TAyoWXTOCPL_MiM/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>レンサバけもの道 (uzulla)</title>
-        <link>https://speakerdeck.com/uzulla/rensabakemofalsedao</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>通信と放送の融合を考えるBoF 5 (Masaaki Nabeshima, @​tech_jstream)</title>
-        <link>https://www.slideshare.net/MasaakiNabeshima/bof-5</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMの出力フォーマットはTOMLが良いかも</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQ99t5kHIvMk8XbdC9gOw9HAmlmbEn6aezklNVs-LD4SdcEB8HcM29oxVxceFlt2773LauZH0kG4o2c/pub</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PipeCD at CyberAgent (nghialv)</title>
-        <link>https://speakerdeck.com/nghialv/pipecd-at-cyberagent</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Matsuolab presentations</title>
-        <link>https://www.slideshare.net/matsuolab/</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>net/httpのクライアントの再設計とは 最新版</title>
-        <link>https://docs.google.com/presentation/d/1k30qEdu2qN1UrkyjcLE5iahppFXZmKXd-BUT0o4S9hc/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dotty で軽量な DI ライブラリをかいてみた (Jun Tomioka)</title>
-        <link>https://speakerdeck.com/jooohn/dotty-deqing-liang-na-di-raiburariwokaitemita</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>高解像度スタートアップガイド Part1 (Takahiro Yamaguchi)</title>
-        <link>https://www.slideshare.net/takahiroASA/part1-77922415</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
