@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Google ColabでWebアプリ開発ハンズオン</title>
+        <link>https://docs.google.com/presentation/d/15jRtRybh0r79JIUrXU9hl-FUP9qfmHBCFI6eF7AeJws/preview</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「組織のグロース」と「プロダクトのグロース」の相関関係を考え、整える (MasatoIshigaki（石垣雅人）)</title>
+        <link>https://speakerdeck.com/i35_267/zu-zhi-falsekurosu-to-hurotakutofalsekurosu-falsexiang-guan-guan-xi-wokao-e-zheng-eru</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Chrome Extensionsから見るWebExtensions (Yoichiro Tanaka, yoichiro)</title>
+        <link>https://www.slideshare.net/yoichiro/chrome-extensionswebextensions</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>積立投資のススメ</title>
+        <link>https://docs.google.com/presentation/d/1WNNn6HhfN9PUCgj8FISFXQS0Mjcu-NtK8V_xYg-vgvY/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloud Nativeな俺のCI/CD環境 〜 GitLab x Rancher で夢見るイケてる世界 〜 (Masataka Tsukamoto)</title>
+        <link>https://speakerdeck.com/tsukaman/cdhuan-jing-gitlab-x-rancher-demeng-jian-ruiketerushi-jie</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PPIharm (Naoki Nago)</title>
+        <link>https://www.slideshare.net/naokinago/ppiharm</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NeurIPS 2018 Systems for ML論文読む会: Deequ - Data Quality Validation for Machine Learning Pipelines</title>
+        <link>https://docs.google.com/presentation/d/1G7pnd_gzCLH4BVNGyAqMW-ESWqy8chFpibM-K8Rjg2c/edit</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Open Space Technology Introduction (TAKAKING22)</title>
+        <link>https://speakerdeck.com/takaking22/open-space-technology-introduction</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>何が「ニュース」なのか Yahoo!ニュースに学ぶ価値判断と「見出し力」(2015年4月6日) (news HACK by Yahoo!ニュース, @​YahooNewsTopics)</title>
+        <link>https://www.slideshare.net/newsHACK/yahoo201546</link>
+        <dc:date>2023-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>8thwallweb: Image Target</title>
         <link>https://docs.google.com/presentation/d/1-GiVnht8c8B8YcwaWcoA79ZzL68nKkEY2aQrxgtZlYc/edit</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>2つのアプリ、1つの 設計のデザイン指針 (meyco)</title>
         <link>https://speakerdeck.com/meyco/2tufalseahuri-1tufalse-she-ji-falsetesainzhi-zhen</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ATO Linux Performance 2018 (Brendan Gregg)</title>
-        <link>https://www.slideshare.net/brendangregg/ato-linux-performance-2018</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AC'18: The differences between ElementRef.​.​.​</title>
-        <link>https://docs.google.com/presentation/d/1inX3SsUhK8qGidfMxZmirCfR30Iu0mJfQP1NrPhZ0Ic/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Chatops, AWS, And Ansible (nnao45)</title>
-        <link>https://speakerdeck.com/nnao45/chatops-aws-and-ansible</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Node-REDのノードの日本語化でOSSコミュニティへ貢献してみよう (Hitachi, Ltd. OSS Solution Center.)</title>
-        <link>https://www.slideshare.net/ssuserbeb7c0/20201023nodered-hacktoberfest</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>unbiased-learning-for-interactive-systems</title>
-        <link>https://docs.google.com/presentation/u/0/d/1LmDXroGHR9Qs9egvWnBgBG0zchLsxAkGBxSbmxgGIfM/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QA EngineerによるQA Engineerの採用戦略 / recruitment of QA Engineers (miisan)</title>
-        <link>https://speakerdeck.com/mii3king/recruitment-of-qa-engineers</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Chainer-Compiler 動かしてみた (Akira Maruoka, akmaru0266)</title>
-        <link>https://www.slideshare.net/AkiraMaruoka/chainercompiler</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現代のコンピュータに�おける自作OS事情</title>
-        <link>https://docs.google.com/presentation/d/1mbLk70RKi-ExLzb78WosCu5DujpQN2K7B9iSbUGRXq4/edit</link>
-        <dc:date>2023-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>理解して導入するWebフレームワーク ~解決すべき課題に着目する~ / Understanding and implementing web frameworks ~focusing on the problems to be solved~ (shiro seike)</title>
-        <link>https://speakerdeck.com/seike460/understanding-and-implementing-web-frameworks-focusing-on-the-problems-to-be-solved</link>
         <dc:date>2023-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
