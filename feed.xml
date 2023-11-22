@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Azure OpenAI Service - LLM Application 開発 ハンズオン (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
+        <link>https://speakerdeck.com/dahatake/azure-openai-service-llm-application-kai-fa-hanzuon</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>sbtをもっと開発の中で活用する方法・例</title>
+        <link>https://docs.google.com/presentation/d/1t31abhtCTpzrDmXL7VGK7xW5DhAgXsT3vwMZGPb0pg8/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VRMとTimelineで映像制作 (you-ri)</title>
+        <link>https://speakerdeck.com/youri/vrmtotimelinedeying-xiang-zhi-zuo</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSでのセキュリティ運用　～ IAM,VPCその他 (Recruit Technologies)</title>
+        <link>https://www.slideshare.net/recruitcojp/20160517-security-jaws-miyazakisachie</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GA4 APIのfilterの使い勝手が、 UAに追いつくまでの、RStudio による代替処理案</title>
+        <link>https://docs.google.com/presentation/d/1nRkvLCVAkhhrWwmWGltyk-ZMFt8J2lfObKain7_bSD4/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pocochaにおけるスクリーンショットテストのレポート活用術【DeNA TechCon 2022】 (DeNA_Tech)</title>
+        <link>https://speakerdeck.com/dena_tech/pocochaniokerusukurinsiyotutotesutofalserepotohuo-yong-shu-dena-techcon-2022</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MS Wordで論文を書くTips集 (Tomosuke Maeda)</title>
+        <link>https://www.slideshare.net/Yukutom/ms-wordtips</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>200930_エンジニア起業勉強会資料（AutoScale小西）</title>
+        <link>https://docs.google.com/presentation/d/1luxFg_HgtpxolGMnn8nMUtcuEAhiWiGM5-LJdp08dwk/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kotlin's Delegated Properties × Android (Ippei Nawate)</title>
+        <link>https://speakerdeck.com/sakuna63/kotlins-delegated-properties-x-android</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データプランナーによるデータ系施策について (Recruit Lifestyle Co., Ltd.)</title>
+        <link>https://www.slideshare.net/RecruitLifestyle/ss-79013826</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スケールするGo</title>
         <link>https://docs.google.com/presentation/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/preview</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>noteのデザインシステムのはじまりとこれから</title>
         <link>https://docs.google.com/presentation/d/1lXP7zvG9bIjO27azrk3Ku1qmsDkqmob3Rsv-fFqkO9Q/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>独断と偏見で選んだ Kubernetes 1.24 の注目機能と今後! (Kazuki Suda)</title>
-        <link>https://speakerdeck.com/superbrothers/du-duan-topian-jian-dexuan-nda-kubernetes-1-dot-24-falsezhu-mu-ji-neng-tojin-hou</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[DL輪読会]Scalable Training of Inference Networks for Gaussian-Process M… (Deep Learning JP)</title>
-        <link>https://www.slideshare.net/DeepLearningJP2016/dlscalable-training-of-inference-networks-for-gaussianprocess-models</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Helpfeel Tech Hour vol.2 teramoto リアル業務でChatGPT APIを使うコツ</title>
-        <link>https://docs.google.com/presentation/d/1rj0QOumDkh4elKMPBtvYHbky6io8vMuQlVgdSrQHZHM/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイル・DevOps時代のテストと品質保証 - 輝く未来を抱きしめて！技術やツールが変えてしまうこと、変えられないこと / Tech and Tool for Testing and Quality Assurance in Agile and DevOps Era (Dai Fujihara)</title>
-        <link>https://speakerdeck.com/daipresents/tech-and-tool-for-testing-and-quality-assurance-in-agile-and-devops-era</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>小手先のデザイン技術 (TakuyaJodai)</title>
-        <link>https://www.slideshare.net/TakuyaJodai/ss-148117946</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>streamlitでGPT-3.5のチャットボットを作った話</title>
-        <link>https://docs.google.com/presentation/d/1YBBm4i9AD_Osnf6EfAmE7kK7FxO1Oj6Mh4a3DgI-zVI/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cacoo html5 バージョンにおける AWS 活用事例 / AWS use case of Cacoo html5 (Nulab Inc.)</title>
-        <link>https://speakerdeck.com/nulabinc/aws-use-case-of-cacoo-html5</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Mlse20190208 (Yuta Kashino)</title>
-        <link>https://www.slideshare.net/yutakashino/mlse20190208</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LangChainとフルサーバーレスですばやくセキュアなRAGアプリをつくるための実践解説/LangChain_Book (吉田真吾)</title>
-        <link>https://speakerdeck.com/yoshidashingo/langchain-book</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevLOVEX2019_『仕事ごっこ』を やさしく滅ぼす_沢渡あまね</title>
-        <link>https://docs.google.com/presentation/d/16g0yV2Bl1VhpW3Z1n6anR565hAyPtkY-UtUv3HcXfgY/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
