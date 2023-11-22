@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ゼロから始める新規ビジネス領域のプロダクト開発 / the new business product development from zero to one (mixi_engineers)</title>
+        <link>https://speakerdeck.com/mixi_engineers/the-new-business-product-development-from-zero-to-one</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Spring Bootの本当の理解ポイント #jjug (Masatoshi Tada)</title>
+        <link>https://www.slideshare.net/masatoshitada7/spring-boot-jjug</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>npm v7でnpxが少し変わった話</title>
+        <link>https://docs.google.com/presentation/d/1aLpuAX3gQDmmv0gUS26qmqss6M01QWuRhzT6lU8GZRo/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>継続的Gemアップデートの仕組み / Continuous Gem Update (Ayumu Kanechika)</title>
+        <link>https://speakerdeck.com/kinkinkon1009/continuous-gem-update</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WordPress REST API と Vue.js を使ったフロントエンド開発 (Hiromasa Tanaka)</title>
+        <link>https://www.slideshare.net/hiromasatanaka332/wordpress-rest-api-vuejs</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フルリモートにおける Infrastructure as Code の効果</title>
+        <link>https://docs.google.com/presentation/d/1Ez4wURim60oG49KDZ0W25GEGfiEeUrG5-3Hw6fNbh2A/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LINEビーコンで無限プッシュなメンヘラ女子BOT #iotlt #esp32 #linedc (n0bisuke)</title>
+        <link>https://speakerdeck.com/n0bisuke2/linebikondewu-xian-putusiyunamenherabot-number-iotlt-number-esp32-number-linedc</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロセスとコンテキストスイッチ (Kazuki Onishi)</title>
+        <link>https://www.slideshare.net/ssuserc2d4c1/ss-124497965</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ヒロフロvol30-Webアニメーションの種類を知ろう（配布用）</title>
         <link>https://docs.google.com/presentation/d/1LTxnr4q0IZvVfYmvhlk2TVXsH_MwnWzFOsJuBWJ8j4Q/preview</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>La blockchain et son impact sur le secteur public (Genève Lab)</title>
         <link>https://www.slideshare.net/obstech/la-blockchain-et-son-impact-sur-le-secteur-public</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloud Spanner Deep Dive</title>
-        <link>https://docs.google.com/presentation/d/1XKaOrex3WS8xZ0TsjsTQKBgxjVSGxkyqdcIqG66zd64/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQL, Apollo Clientと状態管理 (Ibuki KAWAMITSU)</title>
-        <link>https://speakerdeck.com/puremoru/graphql-apollo-clienttozhuang-tai-guan-li</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Db2をAWS上に構築する際のヒント＆TIPS 2019年7月版</title>
-        <link>https://www.slideshare.net/simosako/db2awstips-20197/simosako/db2awstips-20197</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【幕張読書会】コンセプトから理解するGitコマンド 基礎編</title>
-        <link>https://docs.google.com/presentation/d/1LdrzDRtIjKlNvN8RacELe3O4ZgNRFF_59FT5CsO-Xkk/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Anti-Banana Interceptor　バナナ迎撃システム (keicafeblack)</title>
-        <link>https://speakerdeck.com/keicafeblack/anti-banana-interceptor-bananaying-ji-sisutemu</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Re:Invent 2018 ラスベガス出張 (Ahmad Shiina, ima_amataro)</title>
-        <link>https://www.slideshare.net/AhmadShiina1/aws-reinvent-2018</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CNIふぉーびぎなーず</title>
-        <link>https://docs.google.com/presentation/d/1yYENkKepe8tm7vHEwdQHQIyaps9SilLivLQNsr_WWKM/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript の型システム / Type system of the TypeScript (saiya_moebius)</title>
-        <link>https://speakerdeck.com/saiya_moebius/type-system-of-the-typescript</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
