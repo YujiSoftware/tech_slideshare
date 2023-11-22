@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大量のLEDで 暗い夜道を照らしてみた</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQdJdVpzxw9kBe1dsZetru7IdG5W163BZ-AAoWVO1YiPLAjZxekb9a6CEeoJSCKPpsR5Sq0wdBIBuWS/pub</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Xcode Cloudの評価 (Kishikawa Katsumi)</title>
+        <link>https://speakerdeck.com/kishikawakatsumi/xcode-cloudnoping-jia</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Funnel landing page designs (Buy Landing Page Design, BuyLPDesign)</title>
+        <link>https://www.slideshare.net/buylandingpagedesign/funnel-landing-page-designs</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RoadToRealtime: Lighting VES June 2021 ( Public )</title>
+        <link>https://docs.google.com/presentation/d/10drBD8bwn4sIrFzI5Z-kYKT4llOUj-3FGnveK8DnWYU/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes拡張を利用した自作Autoscalerで実現するストレスフリーな運用の世界 (mayusy)</title>
+        <link>https://speakerdeck.com/mayuyamamoto/kuberneteskuo-zhang-woli-yong-sitazi-zuo-autoscalerdeshi-xian-surusutoresuhurinayun-yong-falseshi-jie</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ZeroFormatterに見るC#で最速のシリアライザを作成する100億の方法 (Yoshifumi Kawai)</title>
+        <link>https://www.slideshare.net/neuecc/zeroformatterc100</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>超速入門 GraphQL</title>
+        <link>https://docs.google.com/presentation/d/15ZHjd5gijd0Oi6LHYsNmvqLvU6pinX_8L8qfHM3KxlU/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Play Billing Library 2.​0 (syarihu)</title>
+        <link>https://speakerdeck.com/syarihu/play-billing-library-2-dot-0</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データ収集の基本と「JapanTaxi」アプリにおける実践例 (Tetsutaro Watanabe, @​fetarodc)</title>
+        <link>https://www.slideshare.net/tetsutarowatanabe/japantaxi-238047234</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>KDD 2020: Tutorial on Online User Engagement: Metrics and Optimization</title>
         <link>https://docs.google.com/presentation/d/1brnMy3HzIxn1bQNrznLjARyZlB2JGGidBHNOoVB3lrQ/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Flutterで QRコードリーダー を雑に作ってみた (operandoOS)</title>
         <link>https://speakerdeck.com/operando/flutterde-qrkodorida-woza-nizuo-tutemita</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>失敗しない条件付きアクセスの実装 (Suguru Kunii)</title>
-        <link>https://www.slideshare.net/SuguruKunii/ss-234704319</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【ミラティブチームからお手紙】 １人目のデータ分析基盤エンジニアを真剣に探しています</title>
-        <link>https://docs.google.com/presentation/d/1Mn7YXenAV8U8KfUHEP_P13G_zlRYrinXU2uedF4khlo/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DMM動画の可用性を支えるConsul (tinoji)</title>
-        <link>https://speakerdeck.com/tinoji/dmmdong-hua-falseke-yong-xing-wozhi-eruconsul</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Apache Spark Data Source V2 with Wenchen Fan and Gengliang Wang (Databricks, @​databricks)</title>
-        <link>https://www.slideshare.net/databricks/apache-spark-data-source-v2-with-wenchen-fan-and-gengliang-wang</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ミクシィのマネージャーは悩んでいる / mixi's manager is in trouble (atsushisakai)</title>
-        <link>https://speakerdeck.com/_atsushisakai/mixis-manager-is-in-trouble</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Music performance in public space presentation (Vivian Doumpa)</title>
-        <link>https://www.slideshare.net/VivianD/music-performance-in-public-space-presentation</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2019-10-03 AngularConnect 2019 Report (Classi Angular Night #4)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTRtOIkEWCCSJyuA0ai4_y1bJdEvmoc_gnjOKxU1V5iBA3n7RZXTPdr0_r6Cz8dZAogkH8eyGPpmMF4/pub</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Elasticsearch on EC2からAmazon Elasticsearch Serviceに 移行してだいぶ楽になった話 (ikuwow)</title>
-        <link>https://speakerdeck.com/ikuwow/elasticsearch-on-ec2karaamazon-elasticsearch-serviceni-yi-xing-sitetaihule-ninatutahua</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[ICML2019読み会in京都] Agnostic Federated Learning (Yamato OKAMOTO)</title>
-        <link>https://www.slideshare.net/yamatookamoto5/icml2019in-agnostic-federated-learning</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
