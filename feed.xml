@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>What's coming in Go 1.​14</title>
+        <link>https://docs.google.com/presentation/d/1HfIwlVTmVWQk94OLKfTGvXpQxyp0U4ywG1u5j2tjiuE/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>キミは「TextLint」を知っているか #jsfes (Potato4d(Hanatani Takuma))</title>
+        <link>https://speakerdeck.com/potato4d/kimiha-textlint-wozhi-tuteiruka-number-jsfes</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Clovaにおける機械学習モジュールの配信＆運用基盤の紹介 (LINE Corporation)</title>
+        <link>https://www.slideshare.net/linecorp/clova-106423895</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>shinjuku.​rs#12:ruruby_2</title>
+        <link>https://docs.google.com/presentation/d/16eekKbUaBEriDtsW5joP-nYyOA8wFbYSrOPuUULmGmg/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Selector-2-regexp というツールを作った</title>
+        <link>https://speakerdeck.com/myoshiro/selector-2-regexp-toiuturuwozuo-tuta</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20180421 Issueの書き方と伝えかた勉強会 (Kouichi Akiyama, akiyama924)</title>
+        <link>https://www.slideshare.net/KouichiAkiyama/20180421-issue</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2020-10-17 - Angularの現在と未来 ver.​2020 (mini ng-japan 2020)</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vTmO1QaOwjJkurK1ehL2OyVc9lUScAvY_RQoIYlMuyYZ0DdOTB-68uB9XDbujWRSFdwpdq1BvIgCYE1/pub</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Try Deno (Tatsushi Kiryu)</title>
+        <link>https://speakerdeck.com/tkiryu/try-deno</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>std::pin の勘所 (Hiroaki Goto)</title>
+        <link>https://www.slideshare.net/HiroakiGoto/stdpin</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Temporal walkthrough</title>
         <link>https://docs.google.com/presentation/d/1xP3_UaXlS4-SilVpFu6UFOL8QQw0Dr_VsaR8mSSEATI/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>KPIマネジメント (Tomohiro KIMURA, tomohirokimura)</title>
         <link>https://www.slideshare.net/tkimura12/kpi-65766089</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アフターコロナ時代の生存戦略</title>
-        <link>https://docs.google.com/presentation/d/1JGwmn3n8tp4tHcR61vHSGUGD2v7zbrRaXWNFKPZlUIw/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一休の現在と、ここまでの道のり (Naoya Ito)</title>
-        <link>https://speakerdeck.com/naoya/xiu-falsexian-zai-to-kokomadefalsedao-falseri</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ざっくり始めるCloud Native開発 (Yasukazu Nagatomi, @​yassan168)</title>
-        <link>https://www.slideshare.net/yasukazunagatomi/cnjp-kyoto01</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あなたにKubernetesは必要ですか？ Kubernetesのこれからについて話し合おう。</title>
-        <link>https://docs.google.com/presentation/d/1i_R_yGEgPAcq71cugp6_H6eCvLwWG3H_dUgC-DJD0u4/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>深層学習の平均場理論 (2019/07/20) (matsuno)</title>
-        <link>https://speakerdeck.com/matsuno/20</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Libra勉強会@JBA (Yoshinori Fukushima)</title>
-        <link>https://www.slideshare.net/YoshinoriFukushima/librajba</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web Packaging: Web Bundles (BinkOn11)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vRNapuF4H7b0jOr3h6vffPnale5JAA7AqJdczWOtky9yqa6fvANmbBy4UXib81w1Qnk8B4QUnNI__sG/pub</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Grafana Loki の Docker Logging Driver 入門 / Introduction of Docker Logging Driver for Grafana Loki (polar3130)</title>
-        <link>https://speakerdeck.com/polar3130/introduction-of-docker-logging-driver-for-grafana-loki</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[IBIS2017 講演] ディープラーニングによる画像変換 (Satoshi Iizuka)</title>
-        <link>https://www.slideshare.net/siizuka/ibis2017-82378429</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
