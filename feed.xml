@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ZOZO MLOps のチームリーディングとSRE(Engineering) - SRE Next 2020</title>
+        <link>https://docs.google.com/presentation/d/1zEkR9Dm_epg7fxOCFE-asBsUlHDozwObsBEGAILiqic/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>〜なんだかいけそうな気がする〜Angular入門 (Shinichi Kozake)</title>
+        <link>https://speakerdeck.com/kozake/nandakaikesounaqi-gasuru-angularru-men</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>デザイン態度論2018 (Takahito Kamihira)</title>
+        <link>https://www.slideshare.net/TakahitoKamihira1/2018-88224100</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon ECRに無駄なコストがかかっていた (iwamot)</title>
+        <link>https://speakerdeck.com/iwamot/reduced-amazon-ecr-costs-b5f35a27-8378-4a93-b430-c34b3fd83a4c</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プライベートクラウドを支えるAMD EPYCサーバ (Tomohiro Hirano)</title>
+        <link>https://www.slideshare.net/TomohiroHirano/amd-epyc</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ソフトウェア・カーペントリーで研究計算用のスキルを広めよう</title>
+        <link>https://docs.google.com/presentation/d/1Or3HULEmJZT1P8AFSOl4C9JMfts-4T5FaMb0T9pVNZ8/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「回帰分析から分かること」と「変数選択」 (Shuntaro Sato)</title>
+        <link>https://speakerdeck.com/shuntaros/hui-gui-fen-xi-karafen-karukoto-to-bian-shu-xuan-ze</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ALGYANマイコンボード酷評会 (Tetsuya Noguchi)</title>
+        <link>https://www.slideshare.net/techanog/algyan</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大量のLEDで 暗い夜道を照らしてみた</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vQdJdVpzxw9kBe1dsZetru7IdG5W163BZ-AAoWVO1YiPLAjZxekb9a6CEeoJSCKPpsR5Sq0wdBIBuWS/pub</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>TMU ICT Innovation seminar (By Moz / SORACOM, INC.) (SORACOM,INC, SORACOM_PR)</title>
         <link>https://www.slideshare.net/SORACOM/tmu-ict-innovation-seminar-by-moz-soracom-inc</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GPT-3.5とGPT-4の違い</title>
-        <link>https://docs.google.com/presentation/d/15I_4KaQKuGiywNFX2qsEeeBp2oby0S0tf48215kbt24/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バンディットと因果推論 (Shota Yasui)</title>
-        <link>https://speakerdeck.com/housecat442/bandeitutotoyin-guo-tui-lun</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラスメソッド会社説明会 in 北海道札幌 at smokeymonkey #cmdevio (smokey monkey)</title>
-        <link>https://www.slideshare.net/smokeymonkey/n-32700460</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>An introduction to the LibJS JavaScript engine</title>
-        <link>https://docs.google.com/presentation/d/1-chE3GTNFnNRwZqk4Bf3GCPV_nINfKG-NUTM4IeEnVc/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goで実装するブランドネットワークとの接続ポイント (pongzu)</title>
-        <link>https://speakerdeck.com/pongzu/godeshi-zhuang-suruburandonetutowakutofalsejie-sok-pointo</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>All-but-the-Top: Simple and Effective Postprocessing for Word Represe… (Makoto T.)</title>
-        <link>https://www.slideshare.net/MacotoTachenaca/allbutthetop-simple-and-effective-postprocessing-for-word-representations-98611879</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Murder0710</title>
-        <link>https://docs.google.com/presentation/d/1a0OnPa6VscX0L-Y_gpkWFoQ3CUNsKqmBLXPbQ3AKgZE/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Flutterで QRコードリーダー を雑に作ってみた (operandoOS)</title>
-        <link>https://speakerdeck.com/operando/flutterde-qrkodorida-woza-nizuo-tutemita</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
