@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FireSQL</title>
+        <link>https://docs.google.com/presentation/d/1UwlsxkhQv4ONIkE5CrkUA9sMhEIXoGYgyDkxWcW-LQc/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>application diet (nyanyoni)</title>
+        <link>https://speakerdeck.com/nyanyoni/application-diet</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20210123wikipedia20th京阪神サテライト オープニング (和人 青木)</title>
+        <link>https://www.slideshare.net/kazutoaoki/20210123wikipedia20th</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Unity1week共有会#11-2023年3月「伝える」</title>
+        <link>https://docs.google.com/presentation/d/1VkRGv1CNZ085P563UC1Jrk5-jkK1TmR89Jz4ypzVXow/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フロントエンドの継続的なリアーキテクティング (Hiroshi Morishige)</title>
+        <link>https://speakerdeck.com/himorishige/hurontoendonoji-sok-de-nariakitekuteingu</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>業務の自動化をはじめよう!! (株式会社オプト　仙台ラボラトリ)</title>
+        <link>https://www.slideshare.net/optsendai/ss-108870364</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>リモートワークにおけるファシリテーションの方法論</title>
+        <link>https://docs.google.com/presentation/d/1dQgbxB6_0kosazzgfk0Gmoa8c7dInfOy_NvZejfpneo/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ドメインをモデリングしてPHPコードに落とし込む / domain-modeling-with-php8 (shin1x1)</title>
+        <link>https://speakerdeck.com/shin1x1/domain-modeling-with-php8</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今だからこそ振り返ろう！OWASP Top 10 (Daiki Ichinose)</title>
+        <link>https://www.slideshare.net/DaiIcn/owasp-top-10-72778895</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[shared] 20210909 SREGaps</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vSC_0eFALks2ZCQ6kJJq7Bllbmmb7wIimN6ohtN2fQ-8hN83pq3_XVRim8CyxYyUkpFStDpoVTt1u_l/pub</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>DevOps : 11+ years - DevOpsDays Tokyo</title>
         <link>https://docs.google.com/presentation/d/1qGrkhtODx4gdonIGPVqr0ioXBQ8euf6exzGH4Q5V9fk/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes CNI 結局どれを使えばいいのか / Kubernetes CNI Which Should We Choose (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/kubernetes-cni-which-should-we-choose</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevOps勉強会 (Shuntaro Saiba)</title>
-        <link>https://www.slideshare.net/taroshun/devops-128737846</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>続・絵を読む技術 Pythonで読むイラストの心理戦略 / The Art of Reading Illustrations 2nd (Hirosaji)</title>
-        <link>https://speakerdeck.com/hirosaji/the-art-of-reading-illustrations-2nd</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OAuth / OpenID Connectを中心とするAPIセキュリティについて #yuzawaws (Tatsuo Kudo, @tkudos)</title>
-        <link>https://www.slideshare.net/tkudo/oauth-oidc-api-security-yuzawaws</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>March 2023 AI Overview for Boards</title>
-        <link>https://docs.google.com/presentation/d/1dt9gk4cYK4OIkus4KcbP6eXd3HHaXpIxnfM1oCcqseM/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドリアーキテクチャリングと開発チームのスキルトランスファーにおける9ヶ月間の奮闘記 (wakamsha)</title>
-        <link>https://speakerdeck.com/wakamsha/hurontoendoriakitekutiyaringutokai-fa-timunosukirutoransuhuaniokeru9keyue-jian-nofen-dou-ji</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>声の実体化体験 - HTML5でつくるデジタルインスタレーション - (Yamato Honda)</title>
-        <link>https://www.slideshare.net/calmbooks/html5-38251950</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure OpenAI Service - LLM Application 開発 ハンズオン (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
-        <link>https://speakerdeck.com/dahatake/azure-openai-service-llm-application-kai-fa-hanzuon</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>sbtをもっと開発の中で活用する方法・例</title>
-        <link>https://docs.google.com/presentation/d/1t31abhtCTpzrDmXL7VGK7xW5DhAgXsT3vwMZGPb0pg8/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
