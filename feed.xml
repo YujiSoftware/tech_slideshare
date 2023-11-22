@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSハンズオンCI/CD入門</title>
+        <link>https://docs.google.com/presentation/d/1ACKG5i1r73LS8qaeqwz4_LrXRhfW4uIVwQleFMpdnVM/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアに広く刺さるセッション内容の考え方 #engineers_lt / how to write a proposal that attracts many engineers (kondoyuko)</title>
+        <link>https://speakerdeck.com/kondoyuko/how-to-write-a-proposal-that-attracts-many-engineers</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20200207_研究データの流通促進に向けた国内の取り組み (Yasuyuki Minamiyama)</title>
+        <link>https://www.slideshare.net/yasuyukiminamiyama/20200207-227267174/</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fableconf2018_talk</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vRTZtsJYWw15WQRzhjrvop2l883GyUq8Z27Vo6_tziVB-klmaMX2kDB-VlBuJOXpU-eovBW7ps_WqGr/pub</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Redash 導入事例から考える OSS BI 導入チェックリスト (Takuya Arita)</title>
+        <link>https://speakerdeck.com/ariarijp/redash-dao-ru-shi-li-karakao-eru-oss-bi-dao-ru-tietukurisuto</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Watch wrestling 24 (hannery21)</title>
+        <link>https://www.slideshare.net/hannery21/watch-wrestling-24</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PPL: Code generation in Blink-V8 binding</title>
+        <link>https://docs.google.com/presentation/d/1hni0IbE9MeiIoCTQZtW4YOuRhfEu-rWtZVisaZHElrU/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>忘年キー 2019 LT 構造主義的キーボード史観 (Biacco42)</title>
+        <link>https://speakerdeck.com/biacco42/wang-nian-ki-2019-lt-gou-zao-zhu-yi-de-kibodoshi-guan</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>1on1-115294034 (Tsuyoshi Yasunishi, tsuyok)</title>
+        <link>https://www.slideshare.net/tsuyok/1on1-115294034</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>go2ll: A toy Go compiler with LLVM</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vSXVZ2l-BYUeuQ6fLgCH5oGfKeXTsYB360Z0N3xe77WxGatqfUG2XOoOef4gzzQFJT14Ps7gaa-BOmx/pub</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>クラウドデータセンターネットワークの “いま”と “これから” (Masayuki Kobayashi)</title>
         <link>https://speakerdeck.com/markunet/kurautotetasentanetutowakuno-ima-to-korekara</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GREE 流！AWS をお得に使う方法 (gree_tech)</title>
-        <link>https://www.slideshare.net/greetech/gree-aws</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction to Performance APIs</title>
-        <link>https://docs.google.com/presentation/d/1Zq8yQ4xnLvWmDoaM8dSIJLTjYb7yL6qrP2WsOSuHubU/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C3: 縁の下をどう支えるか〜CI/CDの伝え方 (Masahiko Funaki(舟木 将彦))</title>
-        <link>https://speakerdeck.com/mfunaki/cdfalsechuan-efang</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS DAYS 2018 実践Microservices_Serverless (ひろき こにし)</title>
-        <link>https://www.slideshare.net/ssuser9d40ae/jaws-days-2018-microservicesserverless</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2020-01-11 Angularアプリとパフォーマンス (kyoto.​js #17)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTO9Fz3ZTKiWdFKKBX0sBafllE5SYND71j-gXpN0j-w3iAlCgyOvn-Lw4yJ4_JQkIFGpedtI0LGPG-l/pub</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ElectronでSlackをさらに便利にしちゃう / Slack with Electron (Taiju Aoki)</title>
-        <link>https://speakerdeck.com/blue0513/slack-with-electron</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SD-WAN docs for aws event (akira suzuki)</title>
-        <link>https://www.slideshare.net/akirasuzuki9/sdwan-docs-for-aws-event</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What is a Closure in JavaScript</title>
-        <link>https://docs.google.com/presentation/d/1W4mb5D1Gdsz9jekfwryYj95fNnMNGfpPH8APLgDitus/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Designing CSS structure in a legacy frontend product (madele-ine)</title>
-        <link>https://speakerdeck.com/madeleine/designing-css-structure-in-a-legacy-frontend-product</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
