@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>KDD 2020: Tutorial on Online User Engagement: Metrics and Optimization</title>
+        <link>https://docs.google.com/presentation/d/1brnMy3HzIxn1bQNrznLjARyZlB2JGGidBHNOoVB3lrQ/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Micro Frontends の理論と実践  -価値提供を高速化する真のマイクロサービスのあり方- / The Theory and Practice of Micro Frontends (nobuhikosawai)</title>
+        <link>https://speakerdeck.com/nobuhikosawai/the-theory-and-practice-of-micro-frontends</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TMU ICT Innovation seminar (By Moz / SORACOM, INC.) (SORACOM,INC, SORACOM_PR)</title>
+        <link>https://www.slideshare.net/SORACOM/tmu-ict-innovation-seminar-by-moz-soracom-inc</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GPT-3.5とGPT-4の違い</title>
+        <link>https://docs.google.com/presentation/d/15I_4KaQKuGiywNFX2qsEeeBp2oby0S0tf48215kbt24/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バンディットと因果推論 (Shota Yasui)</title>
+        <link>https://speakerdeck.com/housecat442/bandeitutotoyin-guo-tui-lun</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラスメソッド会社説明会 in 北海道札幌 at smokeymonkey #cmdevio (smokey monkey)</title>
+        <link>https://www.slideshare.net/smokeymonkey/n-32700460</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>An introduction to the LibJS JavaScript engine</title>
+        <link>https://docs.google.com/presentation/d/1-chE3GTNFnNRwZqk4Bf3GCPV_nINfKG-NUTM4IeEnVc/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goで実装するブランドネットワークとの接続ポイント (pongzu)</title>
+        <link>https://speakerdeck.com/pongzu/godeshi-zhuang-suruburandonetutowakutofalsejie-sok-pointo</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>All-but-the-Top: Simple and Effective Postprocessing for Word Represe… (Makoto T.)</title>
+        <link>https://www.slideshare.net/MacotoTachenaca/allbutthetop-simple-and-effective-postprocessing-for-word-representations-98611879</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Murder0710</title>
         <link>https://docs.google.com/presentation/d/1a0OnPa6VscX0L-Y_gpkWFoQ3CUNsKqmBLXPbQ3AKgZE/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>[ICML2019読み会in京都] Agnostic Federated Learning (Yamato OKAMOTO)</title>
         <link>https://www.slideshare.net/yamatookamoto5/icml2019in-agnostic-federated-learning</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20191023 AWS Black Belt Online Seminar Amazon EMR (Amazon Web Services Japan, @​awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/20191023-aws-black-belt-online-seminar-amazon-emr</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Visual Studio Codeで小説を書く</title>
-        <link>https://docs.google.com/presentation/d/1ARLtwbB45P30mB0nafl1LPU9DPVDw-lGHuFqXi_DdPk/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>stand.​fmにおける開発体験とパフォーマンスの向上 / Development Experience and Performance improvement (stand.fm)</title>
-        <link>https://speakerdeck.com/standfm/development-experience-and-performance-improvement</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Alaska airlines customer service (markface)</title>
-        <link>https://www.slideshare.net/markface/alaska-airlines-customer-service-150148267</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>半年でリリースできる 柔軟な動画配信 アプリサーバ開発事例</title>
-        <link>https://docs.google.com/presentation/d/1DwZ7sEc4PyePnnuaAEQNikccjCIFCTYyV3ZLUFOZLfY/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes on AWS - Amazon EKSとそれを支えるServicesやTools - (track3jyo-hama)</title>
-        <link>https://speakerdeck.com/track3jyo/kubernetes-on-aws-amazon-ekstosorewozhi-eruservicesyatools</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組み込みLinuxでのGolangのススメ(Go con版) (Tetsuyuki Kobayashi, @tetsu_koba)</title>
-        <link>https://www.slideshare.net/tetsu.koba/linuxgolanggo-con</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>pycharity202109LT</title>
-        <link>https://docs.google.com/presentation/d/1-MH8ENq_G0b5jv9pjfL42oZtzpujVTJ42Rj_CAs7mz0/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DOTween便利Tips集/dotween-tips (ゆーじ)</title>
-        <link>https://speakerdeck.com/yusuke57/dotween-tips</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
