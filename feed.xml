@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>go2ll: A toy Go compiler with LLVM</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSXVZ2l-BYUeuQ6fLgCH5oGfKeXTsYB360Z0N3xe77WxGatqfUG2XOoOef4gzzQFJT14Ps7gaa-BOmx/pub</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Web API に秩序を与える Protocol Buffers / Protocol Buffers for Web API #builderscon (Nao Minami)</title>
+        <link>https://speakerdeck.com/south37/protocol-buffers-for-web-api-number-builderscon</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Gandalf, scenario test case generation tool, merpay tech talk 2021 01… (Rui GAO)</title>
+        <link>https://www.slideshare.net/RuiGAO6/gandalf-scenario-test-case-generation-tool-merpay-tech-talk-2021-0127</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Easiest Way To Download Brother HL-L2395DW Printers Driver</title>
+        <link>https://docs.google.com/presentation/d/1MnxI7Z3qU68ArmxSXa_dcZM9w0vrTxaZj1rvc0eiGso/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue 3.​0 Composition API を利用した Store と Composables の違い (Toru Eguchi)</title>
+        <link>https://speakerdeck.com/egurinko/vue-3-dot-0-composition-api-woli-yong-sita-store-to-composables-falsewei-i</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スタートアップ企業が実践するクラウドネイティブアプリケーションの開発手法 (Yuta Matsumura, @​tsubakimoto_s)</title>
+        <link>https://www.slideshare.net/YutaMatsumura/ss-186513850</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20221117LEDPanel</title>
+        <link>https://docs.google.com/presentation/d/1mB0kjD-H7b-nJdd-X1oKCyKKMuWZu4OB0aRcYUPLsKo/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHP: null, default null, nullable and void (DQNEO)</title>
+        <link>https://speakerdeck.com/dqneo/php-null-default-null-nullable-and-void</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2017年にシリコンバレーのVCが生んだ新ユニコーン (Waseda University, @0ezzy)</title>
+        <link>https://www.slideshare.net/HironobuEzawa/2017vc-79598348</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リアクティブプログラミング ライブラリを自作した話</title>
         <link>https://docs.google.com/presentation/d/1y9F5jxD6e1bFzLOs3BVAzIqhW806OfmLzIYaaU1j7yM/preview</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Designing CSS structure in a legacy frontend product (madele-ine)</title>
         <link>https://speakerdeck.com/madeleine/designing-css-structure-in-a-legacy-frontend-product</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Javaチョットデキルへの道〜JavaコアSDKに見る真似したいコード10選〜 (JustSystems Corporation)</title>
-        <link>https://www.slideshare.net/JSUXDesign/javajavasdk10</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入門: Knative Serving + Kubernetes Gateway APIで構築するクラウドネイティブな汎用サーバーレス環境</title>
-        <link>https://docs.google.com/presentation/d/1kJuWXRbn1GZmZGSd-jqX0p4KQ7HypAvi2RUKKUOry7c/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>より効果的な社内研修を創り上げる / Effective In-house Training (iwashi)</title>
-        <link>https://speakerdeck.com/iwashi86/effective-in-house-training</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tokyo Rubykaigi 01 t-wada (Takuto Wada)</title>
-        <link>https://www.slideshare.net/t_wada/tokyo-rubykaigi-01-twada-presentation</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゆるふわ!!! Code one Community Activities! #jjug #oc1jp (maaya8585)</title>
-        <link>https://docs.google.com/presentation/d/19YZQToR3Qei6NW56THZg1fF9U3V4k0X-s0q7ZKxgXcw/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go + microservices = Go kit (Peter Bourgon)</title>
-        <link>https://speakerdeck.com/peterbourgon/go-plus-microservices-equals-go-kit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「振袖の選び方冊子」無料プレゼント！！ (名古屋市で振袖をお探しの方へ)</title>
-        <link>https://www.slideshare.net/kunihikoyamanaka54/00pdf</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Yahoo! JAPANアプリ上で動くWebVIewサービス開発 (Naoya Ishii)</title>
-        <link>https://speakerdeck.com/naoishii/yahoo-japanapurishang-dedong-kuwebviewsabisukai-fa</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>代数方程式とガロア理論 (Junpei Tsuji, tsujimotter)</title>
-        <link>https://www.slideshare.net/junpeitsuji/ss-16134472</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
