@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リアクティブプログラミング ライブラリを自作した話</title>
+        <link>https://docs.google.com/presentation/d/1y9F5jxD6e1bFzLOs3BVAzIqhW806OfmLzIYaaU1j7yM/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラウドデータセンターネットワークの “いま”と “これから” (Masayuki Kobayashi)</title>
+        <link>https://speakerdeck.com/markunet/kurautotetasentanetutowakuno-ima-to-korekara</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GREE 流！AWS をお得に使う方法 (gree_tech)</title>
+        <link>https://www.slideshare.net/greetech/gree-aws</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Introduction to Performance APIs</title>
+        <link>https://docs.google.com/presentation/d/1Zq8yQ4xnLvWmDoaM8dSIJLTjYb7yL6qrP2WsOSuHubU/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>C3: 縁の下をどう支えるか〜CI/CDの伝え方 (Masahiko Funaki(舟木 将彦))</title>
+        <link>https://speakerdeck.com/mfunaki/cdfalsechuan-efang</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JAWS DAYS 2018 実践Microservices_Serverless (ひろき こにし)</title>
+        <link>https://www.slideshare.net/ssuser9d40ae/jaws-days-2018-microservicesserverless</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2020-01-11 Angularアプリとパフォーマンス (kyoto.​js #17)</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vTO9Fz3ZTKiWdFKKBX0sBafllE5SYND71j-gXpN0j-w3iAlCgyOvn-Lw4yJ4_JQkIFGpedtI0LGPG-l/pub</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ElectronでSlackをさらに便利にしちゃう / Slack with Electron (Taiju Aoki)</title>
+        <link>https://speakerdeck.com/blue0513/slack-with-electron</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SD-WAN docs for aws event (akira suzuki)</title>
+        <link>https://www.slideshare.net/akirasuzuki9/sdwan-docs-for-aws-event</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>What is a Closure in JavaScript</title>
         <link>https://docs.google.com/presentation/d/1W4mb5D1Gdsz9jekfwryYj95fNnMNGfpPH8APLgDitus/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>代数方程式とガロア理論 (Junpei Tsuji, tsujimotter)</title>
         <link>https://www.slideshare.net/junpeitsuji/ss-16134472</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20220617アキバまで300メートル</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTRWwYW4PiMiEA8YXNZG5jCOrgvZiQFFMui-BFyFuqxo43ez7ym10VQN9KDbR-vqrpxP4VzVTigb3XD/pub</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Repositoryによる抽象化の理想と現実/Ideal and reality of abstraction by Repository (sonata)</title>
-        <link>https://speakerdeck.com/sonatard/ideal-and-reality-of-abstraction-by-repository</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Yoshihito Kuranuki’s Presentations on SlideShare (Yoshihito Kuranuki, kuranuki)</title>
-        <link>https://www.slideshare.net/kuranuki/presentations</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NuxtJSによるJamstack構築と Nuxt 3でどう変わるのか </title>
-        <link>https://docs.google.com/presentation/d/1jvhXaFep29tcEQ5fMI0UJOKuO-Nw43AnaxSJFjokiLU/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PlanetScale さわってみた (reteigi)</title>
-        <link>https://speakerdeck.com/re_teigi/planetscale-sawatutemita</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Shared memory and multithreading in Node.​js - Timur Shemsedinov - JSF… (Timur Shemsedinov)</title>
-        <link>https://www.slideshare.net/tshemsedinov/shared-memory-and-multithreading-in-nodejs-timur-shemsedinov-jsfest19</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜレッドオーシャン化する前にサービスを グロースできなかったのか？ - フリマアプリ編 - (yuta horii)</title>
-        <link>https://speakerdeck.com/yutadayo/cto-night-and-day-2023</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deep Dive: InnoDB Transactions and Write Paths</title>
-        <link>https://docs.google.com/presentation/d/1bP3yh57B58yfGDd-34TZ5MeiacIdaseaTLpd_Ov5NI8/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iCARE 会社説明 / エンジニア・デザイナー編 / 202002 (石野良朋)</title>
-        <link>https://speakerdeck.com/yoshi111kazu/202002</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
