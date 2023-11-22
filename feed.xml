@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TFUG_ベイズ統計と 確率的プログラミング言語_20200906</title>
+        <link>https://docs.google.com/presentation/d/1n4DZXuwsuR9Vx5JH3e3_Z-snct7Nbg32OQhikA6Wioo/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【PyconMiniShizuoka2021】Raspberry Pi 4でリアルタイムなディープラーニング / Real-time deep learning with Raspberry Pi 4 (高橋かずひと)</title>
+        <link>https://speakerdeck.com/kazuhitotakahashi/real-time-deep-learning-with-raspberry-pi-4</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>UE4プログラマー勉強会 in 大阪 -エンジンの内部挙動について (com044, @com04)</title>
+        <link>https://www.slideshare.net/com044/ue4-in</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スキル移転に苦労した話</title>
+        <link>https://docs.google.com/presentation/d/1Rd21tp1jiwOM6S85JnIs0U1Acg3N95kDsCv69dss_fw/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>人はいかにして定性×定量のデータ分析者になるのか (shakezo)</title>
+        <link>https://speakerdeck.com/shakezo/ren-haikanisiteding-xing-xding-liang-falsedetafen-xi-zhe-ninarufalseka</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機械学習の力を引き出すための依存性管理 (Takahiro Kubo)</title>
+        <link>https://www.slideshare.net/takahirokubo7792/ss-91643337</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>3(0)日でできる！�Cコンパイラ自作入門</title>
+        <link>https://docs.google.com/presentation/d/1p2iD4gRLFP_K0L7vUAhtP3NcSBhx-wK9v4R03oGyJSQ/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>知ってトクするDevToolsの使い方 / DevTools Tips you should know (ダーシノ)</title>
+        <link>https://speakerdeck.com/bcrikko/devtools-tips-you-should-know</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラウドインテグレーターのお仕事 (Serverworks Co.,Ltd., serverworks)</title>
+        <link>https://www.slideshare.net/serverworks/ss-121486238</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【PHPKaigi 2022】ISUCON11 の PHP 実装は、何を考え、どのようにして作られていたのか</title>
         <link>https://docs.google.com/presentation/d/1kA4ItJdHamg8tSdxsUhGgOwtpXr-erSocu8GLFkGOVE/preview</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>キミは「TextLint」を知っているか #jsfes (Potato4d(Hanatani Takuma))</title>
         <link>https://speakerdeck.com/potato4d/kimiha-textlint-wozhi-tuteiruka-number-jsfes</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Clovaにおける機械学習モジュールの配信＆運用基盤の紹介 (LINE Corporation)</title>
-        <link>https://www.slideshare.net/linecorp/clova-106423895</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>shinjuku.​rs#12:ruruby_2</title>
-        <link>https://docs.google.com/presentation/d/16eekKbUaBEriDtsW5joP-nYyOA8wFbYSrOPuUULmGmg/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Selector-2-regexp というツールを作った</title>
-        <link>https://speakerdeck.com/myoshiro/selector-2-regexp-toiuturuwozuo-tuta</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20180421 Issueの書き方と伝えかた勉強会 (Kouichi Akiyama, akiyama924)</title>
-        <link>https://www.slideshare.net/KouichiAkiyama/20180421-issue</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2020-10-17 - Angularの現在と未来 ver.​2020 (mini ng-japan 2020)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTmO1QaOwjJkurK1ehL2OyVc9lUScAvY_RQoIYlMuyYZ0DdOTB-68uB9XDbujWRSFdwpdq1BvIgCYE1/pub</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Try Deno (Tatsushi Kiryu)</title>
-        <link>https://speakerdeck.com/tkiryu/try-deno</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>std::pin の勘所 (Hiroaki Goto)</title>
-        <link>https://www.slideshare.net/HiroakiGoto/stdpin</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Temporal walkthrough</title>
-        <link>https://docs.google.com/presentation/d/1xP3_UaXlS4-SilVpFu6UFOL8QQw0Dr_VsaR8mSSEATI/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ユーザブルセキュリティ・プライバシー分野におけるユーザスタディの動向 2019 / Design of User Study (Ayako Hasegawa)</title>
-        <link>https://speakerdeck.com/ayakohasegawa/design-of-user-study</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
