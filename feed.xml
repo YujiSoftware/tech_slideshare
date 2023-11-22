@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Web Packaging: Web Bundles (BinkOn11)</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vRNapuF4H7b0jOr3h6vffPnale5JAA7AqJdczWOtky9yqa6fvANmbBy4UXib81w1Qnk8B4QUnNI__sG/pub</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Grafana Loki の Docker Logging Driver 入門 / Introduction of Docker Logging Driver for Grafana Loki (polar3130)</title>
+        <link>https://speakerdeck.com/polar3130/introduction-of-docker-logging-driver-for-grafana-loki</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[IBIS2017 講演] ディープラーニングによる画像変換 (Satoshi Iizuka)</title>
+        <link>https://www.slideshare.net/siizuka/ibis2017-82378429</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プレゼンテーション評価_松下_2022_12</title>
+        <link>https://docs.google.com/presentation/d/1WvsAZYhmCkxYusH_xSZwQDpeDe-n1ZpMCws9EhqSI2c/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>10ステップで作るお手軽インタプリタ開発 (Ushitora Anqou)</title>
+        <link>https://speakerdeck.com/anqou/10sutetupudezuo-ruoshou-qing-intapuritakai-fa</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プラットフォームビジネスを手軽に始める！Stripe Connectを使ってみた (Tomoe Sawai, @​tomoeine)</title>
+        <link>https://www.slideshare.net/TomoeTeshima/stripe-connect-113863562</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WordCampJapanミーティングスケジュール追加の説明。</title>
+        <link>https://docs.google.com/presentation/d/10Mv5oppYrzhlqZy51F-1IuhqMIySVnYItoTeTOyA884/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS CDKでECS on FargateのCI/CDを実現する際の理想と現実 / ideal-and-reality-when-implementing-cicd-for-ecs-on-fargate-with-aws-cdk (tomoki10)</title>
+        <link>https://speakerdeck.com/tomoki10/ideal-and-reality-when-implementing-cicd-for-ecs-on-fargate-with-aws-cdk</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[DL輪読会]Pervasive Attention: 2D Convolutional Neural Networks for Sequ… (Deep Learning JP)</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dlpervasive-attention-2d-convolutional-neural-networks-for-sequencetosequence-prediction</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プログラミング不要の未来？【ノーコードについて、徹底解説します】</title>
         <link>https://docs.google.com/presentation/d/1Vp7WFaGFTDAxvDyiSEwUQJGzFmVcN5BL5IUQR3grBtM/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>OpenAPI? What Is That? Is That Tasty? (cafedomancer)</title>
         <link>https://speakerdeck.com/cafedomancer/openapi-what-is-that-is-that-tasty</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「速」を落とさないコードレビュー (Takafumi ONAKA, @onk)</title>
-        <link>https://www.slideshare.net/takafumionaka/ss-71482322</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CPU の特性と最適化</title>
-        <link>https://docs.google.com/presentation/d/1aXVrYdB_omIXVd_c6iG08X4h_Vi-8Y3MZrlBcdon7oE/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ポケラボ内製リアルタイム通信エンジンの昇華 (gree_tech)</title>
-        <link>https://speakerdeck.com/gree_tech/greetechcon2022-session-b-5</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP製OSSマーケティングオートメーション Mautic のご紹介(SaCSS vol.​90版) (Kohsaku Saito)</title>
-        <link>https://www.slideshare.net/kohsakusaito/phposs-mautic-sacss-vol90</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IoTで農家を守れ！ LTE-M Button Plusを利用した 箱罠動作検知システム (Yamamoto Kazuhisa)</title>
-        <link>https://speakerdeck.com/kazuhisa/iotdenong-jia-woshou-re-lte-m-button-pluswoli-yong-sita-xiang-min-dong-zuo-jian-zhi-sisutemu</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Javaはどれだけ速いのか (YujiSoftware)</title>
-        <link>https://www.slideshare.net/YujiSoftware/java-238269259</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSハンズオンCI/CD入門</title>
-        <link>https://docs.google.com/presentation/d/1ACKG5i1r73LS8qaeqwz4_LrXRhfW4uIVwQleFMpdnVM/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアに広く刺さるセッション内容の考え方 #engineers_lt / how to write a proposal that attracts many engineers (kondoyuko)</title>
-        <link>https://speakerdeck.com/kondoyuko/how-to-write-a-proposal-that-attracts-many-engineers</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20200207_研究データの流通促進に向けた国内の取り組み (Yasuyuki Minamiyama)</title>
-        <link>https://www.slideshare.net/yasuyukiminamiyama/20200207-227267174/</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
