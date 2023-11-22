@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>What is a Closure in JavaScript</title>
+        <link>https://docs.google.com/presentation/d/1W4mb5D1Gdsz9jekfwryYj95fNnMNGfpPH8APLgDitus/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Designing CSS structure in a legacy frontend product (madele-ine)</title>
+        <link>https://speakerdeck.com/madeleine/designing-css-structure-in-a-legacy-frontend-product</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Javaチョットデキルへの道〜JavaコアSDKに見る真似したいコード10選〜 (JustSystems Corporation)</title>
+        <link>https://www.slideshare.net/JSUXDesign/javajavasdk10</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>入門: Knative Serving + Kubernetes Gateway APIで構築するクラウドネイティブな汎用サーバーレス環境</title>
+        <link>https://docs.google.com/presentation/d/1kJuWXRbn1GZmZGSd-jqX0p4KQ7HypAvi2RUKKUOry7c/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>より効果的な社内研修を創り上げる / Effective In-house Training (iwashi)</title>
+        <link>https://speakerdeck.com/iwashi86/effective-in-house-training</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Tokyo Rubykaigi 01 t-wada (Takuto Wada)</title>
+        <link>https://www.slideshare.net/t_wada/tokyo-rubykaigi-01-twada-presentation</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゆるふわ!!! Code one Community Activities! #jjug #oc1jp (maaya8585)</title>
+        <link>https://docs.google.com/presentation/d/19YZQToR3Qei6NW56THZg1fF9U3V4k0X-s0q7ZKxgXcw/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go + microservices = Go kit (Peter Bourgon)</title>
+        <link>https://speakerdeck.com/peterbourgon/go-plus-microservices-equals-go-kit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「振袖の選び方冊子」無料プレゼント！！ (名古屋市で振袖をお探しの方へ)</title>
+        <link>https://www.slideshare.net/kunihikoyamanaka54/00pdf</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Yahoo! JAPANアプリ上で動くWebVIewサービス開発 (Naoya Ishii)</title>
         <link>https://speakerdeck.com/naoishii/yahoo-japanapurishang-dedong-kuwebviewsabisukai-fa</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>iCARE 会社説明 / エンジニア・デザイナー編 / 202002 (石野良朋)</title>
         <link>https://speakerdeck.com/yoshi111kazu/202002</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Domain Modeling Made Functional (KanDDDinsky 2019) (Scott Wlaschin)</title>
-        <link>https://www.slideshare.net/ScottWlaschin/domain-modeling-made-functional-kandddinsky-2019</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ロリポと キラキラサイト</title>
-        <link>https://docs.google.com/presentation/d/1EuL_Y6kf4eheFp6eyXQOos_vsDIHPGd0vsi2AWs-hKE/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREを以てセキュリティエンジニアリングを制す / SRE, Security Engineering, and You (Takashi Yoneuchi)</title>
-        <link>https://speakerdeck.com/lmt_swallow/sre-security-engineering-and-you</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>5-principles-for-project-facilitation (Kenji Hiranabe, @​hiranabe)</title>
-        <link>https://www.slideshare.net/hiranabe/5principlesforprojectfacilitation</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Module fragments: For stage 1</title>
-        <link>https://docs.google.com/presentation/d/1ndOzG8VcwBIENxBeEfUkJFZLIBxix8RdxT8ReUuCPWE/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>配信初心者向け！Windows標準アプリ＋Zoomだけでウェビナーを製作する方法 (Gakkey)</title>
-        <link>https://speakerdeck.com/shinsukeitagaki/pei-xin-chu-xin-zhe-xiang-ke-windowsbiao-zhun-apuri-zoomdakedeuebinawozhi-zuo-surufang-fa</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction to GraalVM (Koichi Sakata, @​jyukutyo)</title>
-        <link>https://www.slideshare.net/jyukutyo/introduction-to-graalvm</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゼロから始める新規ビジネス領域のプロダクト開発 / the new business product development from zero to one (mixi_engineers)</title>
-        <link>https://speakerdeck.com/mixi_engineers/the-new-business-product-development-from-zero-to-one</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spring Bootの本当の理解ポイント #jjug (Masatoshi Tada)</title>
-        <link>https://www.slideshare.net/masatoshitada7/spring-boot-jjug</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
