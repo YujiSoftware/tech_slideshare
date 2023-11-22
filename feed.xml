@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WEB+DB Press連載 「現場のPython」紹介</title>
+        <link>https://docs.google.com/presentation/d/1AIdixvA8HFAdfrnZIrBlMH6WiXrGKODlHNYFYFhAG64/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>急成長するビジネスを支えるビッグデータ分析 (smokeymonkey)</title>
+        <link>https://speakerdeck.com/smokeymonkey/ji-cheng-chang-surubizinesuwozhi-erubitugudetafen-xi</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「誰かの Engineering Life を Extend する」を仕事にした話 (akira6592, @​akira6592)</title>
+        <link>https://www.slideshare.net/akira6592/jtf2020</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ML Visuals by dair.​ai</title>
+        <link>https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>音楽業界におけるサブスクビジネスと今後の展開 (MS)</title>
+        <link>https://speakerdeck.com/monsoon/yin-le-ye-jie-niokerusabusukubizinesutojin-hou-falsezhan-kai</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>快適・簡単・安心なアプリE2Eテストの実行環境 #stac2017 (Yahoo!デベロッパーネットワーク, @​ydnjp)</title>
+        <link>https://www.slideshare.net/techblogyahoo/e2e-stac2017</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>雑把の仮想マシン</title>
+        <link>https://docs.google.com/presentation/d/1-vCJUO0CQovrV3F0IX13dTaDvMDv1PCJPUgmdyc8utQ/pub</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>500人で1つのアプリを作っている話 - #pmconf2020 発表資料 (Kei Kinoshita)</title>
+        <link>https://speakerdeck.com/kkino0927/500ren-de1tufalseapuriwozuo-tuteiruhua-number-pmconf2020-fa-biao-zi-liao</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>レコメンドエンジン作成コンテストの勝ち方 (Shun Nukui)</title>
+        <link>https://www.slideshare.net/ShunNukui/ss-94997937</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>FireSQL</title>
         <link>https://docs.google.com/presentation/d/1UwlsxkhQv4ONIkE5CrkUA9sMhEIXoGYgyDkxWcW-LQc/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>3分でMLアプリを作る 〜推論コードにちょっとのStreamlitを添えて〜 (Yamaguchi Takahiro)</title>
         <link>https://speakerdeck.com/nyk510/3fen-demlapuriwozuo-ru-tui-lun-kodonitiyotutofalsestreamlitwotian-ete</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Node.jsに縁のない職場でnode.jsを使い始める戦術 (Isamu Suzuki, moomooya)</title>
-        <link>https://www.slideshare.net/isamusuzuki54/nodejsnodejs-68770119</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いまどきの JavaScript入門 - ES6/TypeScript/Vue.​js (たにぐちまこと（ともすた）)</title>
-        <link>https://speakerdeck.com/tomostajp/vue-dot-js</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>"SRv6の現状と展望" ENOG53＠上越 (Kentaro Ebisawa, @​ebiken)</title>
-        <link>https://www.slideshare.net/kentaroebisawa/srv6-enog53</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud Storage for Firebaseとセキュリティ</title>
-        <link>https://docs.google.com/presentation/d/1VaolHRjMGqKDCPBebMR4nNSMJYyJRJGSKkz9NQ6rD58/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドローン点検・測量を機械学習を使って「圧倒的」に簡単にした！！ときに困って解決したお話 (Daisuke Matsumoto)</title>
-        <link>https://speakerdeck.com/daikon/dorondian-jian-ce-liang-woji-jie-xue-xi-woshi-tute-ya-dao-de-nijian-dan-nisita-tokinikun-tutejie-jue-sitaohua</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vertica 9.0.1 新機能 (Kaito Tono)</title>
-        <link>https://www.slideshare.net/kaitotono/vertica-900-121389095</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>急成長スタートアップにおける技術的負債とトレードオフ・スライダー / Technical Debt and Trade-off Sliders in Fast-Growing Startups (Tadashi Shigeoka)</title>
-        <link>https://speakerdeck.com/codenote/technical-debt-and-trade-off-sliders-in-fast-growing-startups</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニア不足の中で どう技術的負債と向き合ったのか RevComm Research の場合 - (RevComm_inc)</title>
-        <link>https://speakerdeck.com/revcomm_inc/enziniabu-zu-nozhong-de-douji-shu-de-fu-zhai-toxiang-kihe-tutanoka-revcomm-research-nochang-he</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevOps : 11+ years - DevOpsDays Tokyo</title>
-        <link>https://docs.google.com/presentation/d/1qGrkhtODx4gdonIGPVqr0ioXBQ8euf6exzGH4Q5V9fk/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
