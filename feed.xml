@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>負債解消手段としてのビッグバンフルリプレイス、行うための３つの条件とは？ (Yuki Toida)</title>
+        <link>https://speakerdeck.com/yukitoida/fu-zhai-jie-xiao-shou-duan-tositenobitugubanhururipureisu-woshi-xian-surutameno3tunotiao-jian-toha</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JR東日本情報システム HoloLens 2開発事例とその知見紹介</title>
+        <link>https://docs.google.com/presentation/d/1HAQxNMdra_cNNEIqdQfB8YEcR7c8FaSBCVyWdGsvjv4/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Data-Driven Healthcare - Techplay (kotaroito)</title>
+        <link>https://speakerdeck.com/kotaroito/data-driven-healthcare-techplay</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RHEL8 on Alibaba Cloud (Shinya Mori (@mosuke5), @​mosuke5)</title>
+        <link>https://www.slideshare.net/mosuke5/rhel8-on-alibaba-cloud</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【社外公開用】キャスターから提供できる情報</title>
+        <link>https://docs.google.com/presentation/d/1QG7fw9WmmojN04yLkyGGfTCzOx0caCgABJdJ98lEaEA/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クロスブラウザテストの闇と闇と闇 (tsuemura)</title>
+        <link>https://speakerdeck.com/tsuemura/kurosuburauzatesutofalsean-toan-toan</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20140419【qpstudy】OSとNW設計の勘所 (Yukitaka Ohmura, yktko)</title>
+        <link>https://www.slideshare.net/yktko/20140419qpstudyosnw</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>5分でわかるAIｽﾀｯｸﾁｬﾝ</title>
+        <link>https://docs.google.com/presentation/d/1D17OcgAUQbKmUXsS4y1k5Q_Jmr1eaJ7PXy9kAIt2uKc/preview</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Access to multiple microservices on AWS (k1nakayama)</title>
+        <link>https://speakerdeck.com/k1nakayama/access-to-multiple-microservices-on-aws</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Power pointで指定ピクセル画像をつくる (Michio Inaba)</title>
+        <link>https://www.slideshare.net/ssuser4979ae/power-point-77393184</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「コードがむずかしい」からの脱却 (jimpei)</title>
         <link>https://speakerdeck.com/jimpei/kodogamuzukasii-karanotuo-que</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>Solving anything in VCL (Fastly, @Fastly)</title>
         <link>https://www.slideshare.net/Fastly/solving-anything-in-vcl</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Compression Streams TPAC 2019</title>
-        <link>https://docs.google.com/presentation/d/1JB4g18nnXCMdCgKweqxLJYh-Xm44ET1SBvmkLi2mRFc/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>吉祥寺.pm32_なぜ人は組織から去っていくのか？ (虎の穴ラボ株式会社)</title>
-        <link>https://speakerdeck.com/toranoana/ji-xiang-si-dot-pm32-nazeren-hazu-zhi-karaqu-tuteikunoka</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>One VM to Rule Them All (Tianxiang Xiong)</title>
-        <link>https://www.slideshare.net/xiongtx/one-vm-to-rule-them-all</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【公開用】ソフトウェアエンジニアとして働くために</title>
-        <link>https://docs.google.com/presentation/d/1r1DBusDpRpJodzFMpQ31rhxmzTpeRwQOqIYnbNirv6E/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Digdag と Embulk と Athena で作る Gunosy の ELT基盤 (Civitaspo)</title>
-        <link>https://speakerdeck.com/civitaspo/digdag-to-embulk-to-athena-dezuo-ru-gunosy-false-eltji-pan</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitLab CI/CD パイプライン (Tetsurou Yano)</title>
-        <link>https://www.slideshare.net/ttyno/gitlab-cicd-197161419</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人輸入した話</title>
-        <link>https://docs.google.com/presentation/d/1Tu8X3ASz5PDVcHdvQq4TL1TkyPkBqkFpiYqeZ4Bx118/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Try Cell Broadband Engine (Hibari)</title>
-        <link>https://speakerdeck.com/hibari/try-cell-broadband-engine</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>設計・構築においてのドキュメントの重要性について (Takayuki Higashi)</title>
-        <link>https://www.slideshare.net/TakayukiHigashi/ss-64547319</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ZOZO 画像検索における Chainer の本番運用</title>
-        <link>https://docs.google.com/presentation/d/1RGTYw5y50pkaug3L7GwJ5OKnyQE-c-j5pJ9z5uMKoQY/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
