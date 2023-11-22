@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Watch WWE SmackDown</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vTBGl0-PjYNS8MyXnsfsCBuVu1AuNw6VgZsUBeEtj2Ndteg-GGBQ9mYX98Hwbykg-SFEP5Nn1iGQW_c/pub</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RuboCop in 2021: Stable and Beyond (Koichi ITO)</title>
+        <link>https://speakerdeck.com/koic/rubocop-in-2021-stable-and-beyond</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>物理の授業　65.コンデンサーのリアクタンス (naofumi I)</title>
+        <link>https://www.slideshare.net/naofumiIkejiri/65-105986683</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>chainer-compilerのその後</title>
+        <link>https://docs.google.com/presentation/d/1GhQCOmp7ebQ2gerxO-8RBB_1F6nMuw1EHDZslbMEV-0/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Gitハンズオン研修 / Git Hands-on (BrainPad)</title>
+        <link>https://speakerdeck.com/brainpadpr/git-hands-on</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Yahoo agile 2nd (secret)</title>
+        <link>https://www.slideshare.net/secret/sUNDOQjfl5SKYy</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>about_openldap</title>
+        <link>https://docs.google.com/presentation/d/1WOKXzgDX9oYWv6hgrAr__JTd3uoEKqZPOCwBEu9MlRM/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AndroidやiOSのアプリ開発でいつも私がやっていることをFlutterでやってみた / Flutter development as usual (Yasutaka Kawamoto)</title>
+        <link>https://speakerdeck.com/yasi/flutter-development-as-usual</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Bridge to Cloud: Using Apache Kafka to Migrate to AWS (confluent)</title>
+        <link>https://www.slideshare.net/ConfluentInc/bridge-to-cloud-using-apache-kafka-to-migrate-to-aws-122965455</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>How to use eBPF for application statistics in Linux</title>
         <link>https://docs.google.com/presentation/d/1xWuNArSzEtZMvWElvfKM-dA89pXV7eReiNr_PQ9W2XM/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>JR東日本情報システム HoloLens 2開発事例とその知見紹介</title>
         <link>https://docs.google.com/presentation/d/1HAQxNMdra_cNNEIqdQfB8YEcR7c8FaSBCVyWdGsvjv4/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Data-Driven Healthcare - Techplay (kotaroito)</title>
-        <link>https://speakerdeck.com/kotaroito/data-driven-healthcare-techplay</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RHEL8 on Alibaba Cloud (Shinya Mori (@mosuke5), @​mosuke5)</title>
-        <link>https://www.slideshare.net/mosuke5/rhel8-on-alibaba-cloud</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【社外公開用】キャスターから提供できる情報</title>
-        <link>https://docs.google.com/presentation/d/1QG7fw9WmmojN04yLkyGGfTCzOx0caCgABJdJ98lEaEA/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クロスブラウザテストの闇と闇と闇 (tsuemura)</title>
-        <link>https://speakerdeck.com/tsuemura/kurosuburauzatesutofalsean-toan-toan</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20140419【qpstudy】OSとNW設計の勘所 (Yukitaka Ohmura, yktko)</title>
-        <link>https://www.slideshare.net/yktko/20140419qpstudyosnw</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>5分でわかるAIｽﾀｯｸﾁｬﾝ</title>
-        <link>https://docs.google.com/presentation/d/1D17OcgAUQbKmUXsS4y1k5Q_Jmr1eaJ7PXy9kAIt2uKc/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Access to multiple microservices on AWS (k1nakayama)</title>
-        <link>https://speakerdeck.com/k1nakayama/access-to-multiple-microservices-on-aws</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Power pointで指定ピクセル画像をつくる (Michio Inaba)</title>
-        <link>https://www.slideshare.net/ssuser4979ae/power-point-77393184</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「コードがむずかしい」からの脱却 (jimpei)</title>
-        <link>https://speakerdeck.com/jimpei/kodogamuzukasii-karanotuo-que</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
