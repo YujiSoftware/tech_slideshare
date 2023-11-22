@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>YAPC: Go Debugging, Profiling, and Optimization</title>
+        <link>https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ログ分析におけるElasticStackの勘所 (Recruit Technologies)</title>
+        <link>https://speakerdeck.com/rtechkouhou/rogufen-xi-niokeruelasticstackfalsekan-suo</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>KPIマネジメント (Tomohiro KIMURA, tomohirokimura)</title>
+        <link>https://www.slideshare.net/tkimura12/kpi-65766089</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アフターコロナ時代の生存戦略</title>
+        <link>https://docs.google.com/presentation/d/1JGwmn3n8tp4tHcR61vHSGUGD2v7zbrRaXWNFKPZlUIw/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>一休の現在と、ここまでの道のり (Naoya Ito)</title>
+        <link>https://speakerdeck.com/naoya/xiu-falsexian-zai-to-kokomadefalsedao-falseri</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ざっくり始めるCloud Native開発 (Yasukazu Nagatomi, @​yassan168)</title>
+        <link>https://www.slideshare.net/yasukazunagatomi/cnjp-kyoto01</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>あなたにKubernetesは必要ですか？ Kubernetesのこれからについて話し合おう。</title>
+        <link>https://docs.google.com/presentation/d/1i_R_yGEgPAcq71cugp6_H6eCvLwWG3H_dUgC-DJD0u4/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>深層学習の平均場理論 (2019/07/20) (matsuno)</title>
+        <link>https://speakerdeck.com/matsuno/20</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Libra勉強会@JBA (Yoshinori Fukushima)</title>
+        <link>https://www.slideshare.net/YoshinoriFukushima/librajba</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Web Packaging: Web Bundles (BinkOn11)</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vRNapuF4H7b0jOr3h6vffPnale5JAA7AqJdczWOtky9yqa6fvANmbBy4UXib81w1Qnk8B4QUnNI__sG/pub</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Asynchronous networking @ GopherCon 2018 (Filippo Valsorda)</title>
         <link>https://speakerdeck.com/filosottile/asynchronous-networking-at-gophercon-2018</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ガチャサイクルと海外課金 (Hiromasa Iwasaki, @snapwith)</title>
-        <link>https://www.slideshare.net/hiromasaiwasaki/ss-85538212</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloud Spanner 沼への誘い Advanced v20210518a</title>
-        <link>https://docs.google.com/presentation/d/1BGej_K3dNHVHQuoCESL6QsGAxrLrgE5SD4fDL8ndqJo/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアテスト2020 / Software_Test_2020 (Cybozu)</title>
-        <link>https://speakerdeck.com/cybozuinsideout/software-test-2020</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Node-REDをビジネスで使い倒してenebularを作った話 (Atsushi Kojo, joeartsea)</title>
-        <link>https://www.slideshare.net/joeartsea/noderedenebular</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20210215_streamlit勉強会</title>
-        <link>https://docs.google.com/presentation/d/1ZpEnnSEz3YKxDPuolOdzkbBFw2bG4BtT-Ln-TQALtGQ/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Material Theming対応の前に 知っておきたい、 エンジニア側の対応コスト (HiroYUKI Seto)</title>
-        <link>https://speakerdeck.com/seto_hi/material-themingdui-ying-falseqian-ni-zhi-tuteokitai-enziniace-falsedui-ying-kosuto</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これから Raspberry Pi をいじる方向けの資料 20130616版 (Michiya Tominaga)</title>
-        <link>https://www.slideshare.net/tominagamichiya/raspberry-pi-20130616</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>1つ10秒で紹介する！ オススメAWSサードパーティツール</title>
-        <link>https://docs.google.com/presentation/d/1SB7OV2Ihdw48tLoqpfuEorvn3SxT4BgReFU-fwc3Vag/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenAPI? What Is That? Is That Tasty? (cafedomancer)</title>
-        <link>https://speakerdeck.com/cafedomancer/openapi-what-is-that-is-that-tasty</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
