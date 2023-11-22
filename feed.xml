@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>1つ10秒で紹介する！ オススメAWSサードパーティツール</title>
+        <link>https://docs.google.com/presentation/d/1SB7OV2Ihdw48tLoqpfuEorvn3SxT4BgReFU-fwc3Vag/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenAPI? What Is That? Is That Tasty? (cafedomancer)</title>
+        <link>https://speakerdeck.com/cafedomancer/openapi-what-is-that-is-that-tasty</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「速」を落とさないコードレビュー (Takafumi ONAKA, @onk)</title>
+        <link>https://www.slideshare.net/takafumionaka/ss-71482322</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CPU の特性と最適化</title>
+        <link>https://docs.google.com/presentation/d/1aXVrYdB_omIXVd_c6iG08X4h_Vi-8Y3MZrlBcdon7oE/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ポケラボ内製リアルタイム通信エンジンの昇華 (gree_tech)</title>
+        <link>https://speakerdeck.com/gree_tech/greetechcon2022-session-b-5</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHP製OSSマーケティングオートメーション Mautic のご紹介(SaCSS vol.​90版) (Kohsaku Saito)</title>
+        <link>https://www.slideshare.net/kohsakusaito/phposs-mautic-sacss-vol90</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IoTで農家を守れ！ LTE-M Button Plusを利用した 箱罠動作検知システム (Yamamoto Kazuhisa)</title>
+        <link>https://speakerdeck.com/kazuhisa/iotdenong-jia-woshou-re-lte-m-button-pluswoli-yong-sita-xiang-min-dong-zuo-jian-zhi-sisutemu</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Javaはどれだけ速いのか (YujiSoftware)</title>
+        <link>https://www.slideshare.net/YujiSoftware/java-238269259</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSハンズオンCI/CD入門</title>
         <link>https://docs.google.com/presentation/d/1ACKG5i1r73LS8qaeqwz4_LrXRhfW4uIVwQleFMpdnVM/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>Gandalf, scenario test case generation tool, merpay tech talk 2021 01… (Rui GAO)</title>
         <link>https://www.slideshare.net/RuiGAO6/gandalf-scenario-test-case-generation-tool-merpay-tech-talk-2021-0127</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Easiest Way To Download Brother HL-L2395DW Printers Driver</title>
-        <link>https://docs.google.com/presentation/d/1MnxI7Z3qU68ArmxSXa_dcZM9w0vrTxaZj1rvc0eiGso/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue 3.​0 Composition API を利用した Store と Composables の違い (Toru Eguchi)</title>
-        <link>https://speakerdeck.com/egurinko/vue-3-dot-0-composition-api-woli-yong-sita-store-to-composables-falsewei-i</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタートアップ企業が実践するクラウドネイティブアプリケーションの開発手法 (Yuta Matsumura, @​tsubakimoto_s)</title>
-        <link>https://www.slideshare.net/YutaMatsumura/ss-186513850</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20221117LEDPanel</title>
-        <link>https://docs.google.com/presentation/d/1mB0kjD-H7b-nJdd-X1oKCyKKMuWZu4OB0aRcYUPLsKo/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP: null, default null, nullable and void (DQNEO)</title>
-        <link>https://speakerdeck.com/dqneo/php-null-default-null-nullable-and-void</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2017年にシリコンバレーのVCが生んだ新ユニコーン (Waseda University, @0ezzy)</title>
-        <link>https://www.slideshare.net/HironobuEzawa/2017vc-79598348</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リアクティブプログラミング ライブラリを自作した話</title>
-        <link>https://docs.google.com/presentation/d/1y9F5jxD6e1bFzLOs3BVAzIqhW806OfmLzIYaaU1j7yM/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウドデータセンターネットワークの “いま”と “これから” (Masayuki Kobayashi)</title>
-        <link>https://speakerdeck.com/markunet/kurautotetasentanetutowakuno-ima-to-korekara</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
