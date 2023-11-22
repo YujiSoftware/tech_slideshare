@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【PHPKaigi 2022】ISUCON11 の PHP 実装は、何を考え、どのようにして作られていたのか</title>
+        <link>https://docs.google.com/presentation/d/1kA4ItJdHamg8tSdxsUhGgOwtpXr-erSocu8GLFkGOVE/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロダクトマネージャーカンファレンス2019「ソフトウェア・ファーストで医療業界を変える」 / Change the medicine by Software First at pmconf 2019 (yama@muteki)</title>
+        <link>https://speakerdeck.com/yamamuteki/change-the-medicine-by-software-first-at-pmconf-2019</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Minitabへようこそ 製造向け (KOZO KEIKAKU ENGINEERING Inc., Minitab)</title>
+        <link>https://www.slideshare.net/KKE_Minitab/minitab-118937049</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>N回目のWebComponents元年: �Lit 2.​0</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vTx37sxBAn4X3ZeNk8TbLaI_pat5iCuzT4R8cDHLlaokSItB10VboMY-jwcrkHH0QL91t8GTPXKZAXZ/pub</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Alibaba CloudではじめるKubernetes (mosuke5)</title>
+        <link>https://speakerdeck.com/mosuke5/alibaba-clouddehazimerukubernetes</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>REST API に疲れたあなたへ贈る GraphQL 入門 (Keisuke Tsukagoshi)</title>
+        <link>https://www.slideshare.net/keisuketsukagoshi/rest-api-graphql</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>3Dマップで Ingress の世界観を表現してみたよ</title>
+        <link>https://docs.google.com/presentation/d/10E_iGueL-0xOF7hRAGIcgHp02lh-rEysB5vJsZ_remw/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AVTokyo 2020 Phishing Kit Analysis Workshop (ninoseki)</title>
+        <link>https://speakerdeck.com/ninoseki/avtokyo-2020-phishing-kit-analysis-workshop</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Effect of different treatments on dormancy breaking of wild oat (Aven… (Innspub Net)</title>
+        <link>https://www.slideshare.net/innspubnet/effect-of-different-treatments-on-dormancy-breaking-of-wild-oat-avenafatua-ijbv6no6p6167</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>What's coming in Go 1.​14</title>
         <link>https://docs.google.com/presentation/d/1HfIwlVTmVWQk94OLKfTGvXpQxyp0U4ywG1u5j2tjiuE/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>ユーザブルセキュリティ・プライバシー分野におけるユーザスタディの動向 2019 / Design of User Study (Ayako Hasegawa)</title>
         <link>https://speakerdeck.com/ayakohasegawa/design-of-user-study</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Docker ComposeでMastodonが必要なものを梱包する話 (Masahito Zembutsu, @zembutsu)</title>
-        <link>https://www.slideshare.net/zembutsu/mastodon-with-docker-and-docker-compose/</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>心が折れずにゲーム開発を続ける方法</title>
-        <link>https://docs.google.com/presentation/d/1WYo14faJY9LVSAazTT3_FCoCYv48JODZlZO7rppuZPQ/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>#DeStudy #01 Rust入門 (K.Mori)</title>
-        <link>https://speakerdeck.com/morikyon/number-destudy-number-01-rustru-men</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オープンソースSLAMの分類 (Yoshitaka HARA)</title>
-        <link>https://www.slideshare.net/hara-y/open-source-slam-3dcvtech</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JP_Stripes@大阪：StripeとkintoneとRailsで フリーランス協会の決済機能実装 (西小倉宏信)</title>
-        <link>https://speakerdeck.com/pandeiro245/jp-stripes-at-da-ban-stripetokintonetorailsde-huriransuxie-hui-falsejue-ji-ji-neng-shi-zhuang</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DB tech showcase： 噂のMongoDBその用途は？ (Hiroaki Kubota)</title>
-        <link>https://www.slideshare.net/crumbjp/db-tech-showcase-mongodb</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>YAPC: Go Debugging, Profiling, and Optimization</title>
-        <link>https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ログ分析におけるElasticStackの勘所 (Recruit Technologies)</title>
-        <link>https://speakerdeck.com/rtechkouhou/rogufen-xi-niokeruelasticstackfalsekan-suo</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KPIマネジメント (Tomohiro KIMURA, tomohirokimura)</title>
-        <link>https://www.slideshare.net/tkimura12/kpi-65766089</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
