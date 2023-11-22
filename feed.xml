@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>半年でリリースできる 柔軟な動画配信 アプリサーバ開発事例</title>
+        <link>https://docs.google.com/presentation/d/1DwZ7sEc4PyePnnuaAEQNikccjCIFCTYyV3ZLUFOZLfY/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes on AWS - Amazon EKSとそれを支えるServicesやTools - (track3jyo-hama)</title>
+        <link>https://speakerdeck.com/track3jyo/kubernetes-on-aws-amazon-ekstosorewozhi-eruservicesyatools</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>組み込みLinuxでのGolangのススメ(Go con版) (Tetsuyuki Kobayashi, @tetsu_koba)</title>
+        <link>https://www.slideshare.net/tetsu.koba/linuxgolanggo-con</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>pycharity202109LT</title>
+        <link>https://docs.google.com/presentation/d/1-MH8ENq_G0b5jv9pjfL42oZtzpujVTJ42Rj_CAs7mz0/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DOTween便利Tips集/dotween-tips (ゆーじ)</title>
+        <link>https://speakerdeck.com/yusuke57/dotween-tips</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>1から学ぶスクラム (Keisuke Izumiya)</title>
+        <link>https://www.slideshare.net/kski0530/1-40630024</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>State of AI Report 2020 - ONLINE</title>
+        <link>https://docs.google.com/presentation/d/1ZUimafgXCBSLsgbacd6-a-dqO7yLyzIl1ZJbiCBUUT4/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フロントエンド研修【ミクシィ22新卒技術研修】 (mixi_engineers)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2022-frontend-training</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Model selection and tuning at scale (Owen Zhang)</title>
+        <link>https://www.slideshare.net/OwenZhang2/model-selection-and-tuning-at-scale</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rustでゲームエミュレータ</title>
         <link>https://docs.google.com/presentation/d/1TV2vMQ4d8I40xLqENzta5wU2a-ZIZqdUQPtI2pst9gM/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>人はいかにして定性×定量のデータ分析者になるのか (shakezo)</title>
         <link>https://speakerdeck.com/shakezo/ren-haikanisiteding-xing-xding-liang-falsedetafen-xi-zhe-ninarufalseka</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習の力を引き出すための依存性管理 (Takahiro Kubo)</title>
-        <link>https://www.slideshare.net/takahirokubo7792/ss-91643337</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>3(0)日でできる！�Cコンパイラ自作入門</title>
-        <link>https://docs.google.com/presentation/d/1p2iD4gRLFP_K0L7vUAhtP3NcSBhx-wK9v4R03oGyJSQ/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>知ってトクするDevToolsの使い方 / DevTools Tips you should know (ダーシノ)</title>
-        <link>https://speakerdeck.com/bcrikko/devtools-tips-you-should-know</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウドインテグレーターのお仕事 (Serverworks Co.,Ltd., serverworks)</title>
-        <link>https://www.slideshare.net/serverworks/ss-121486238</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【PHPKaigi 2022】ISUCON11 の PHP 実装は、何を考え、どのようにして作られていたのか</title>
-        <link>https://docs.google.com/presentation/d/1kA4ItJdHamg8tSdxsUhGgOwtpXr-erSocu8GLFkGOVE/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトマネージャーカンファレンス2019「ソフトウェア・ファーストで医療業界を変える」 / Change the medicine by Software First at pmconf 2019 (yama@muteki)</title>
-        <link>https://speakerdeck.com/yamamuteki/change-the-medicine-by-software-first-at-pmconf-2019</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Minitabへようこそ 製造向け (KOZO KEIKAKU ENGINEERING Inc., Minitab)</title>
-        <link>https://www.slideshare.net/KKE_Minitab/minitab-118937049</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>N回目のWebComponents元年: �Lit 2.​0</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTx37sxBAn4X3ZeNk8TbLaI_pat5iCuzT4R8cDHLlaokSItB10VboMY-jwcrkHH0QL91t8GTPXKZAXZ/pub</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Alibaba CloudではじめるKubernetes (mosuke5)</title>
-        <link>https://speakerdeck.com/mosuke5/alibaba-clouddehazimerukubernetes</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
