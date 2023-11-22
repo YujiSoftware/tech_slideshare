@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Temporal walkthrough</title>
+        <link>https://docs.google.com/presentation/d/1xP3_UaXlS4-SilVpFu6UFOL8QQw0Dr_VsaR8mSSEATI/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ユーザブルセキュリティ・プライバシー分野におけるユーザスタディの動向 2019 / Design of User Study (Ayako Hasegawa)</title>
+        <link>https://speakerdeck.com/ayakohasegawa/design-of-user-study</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Docker ComposeでMastodonが必要なものを梱包する話 (Masahito Zembutsu, @zembutsu)</title>
+        <link>https://www.slideshare.net/zembutsu/mastodon-with-docker-and-docker-compose/</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>心が折れずにゲーム開発を続ける方法</title>
+        <link>https://docs.google.com/presentation/d/1WYo14faJY9LVSAazTT3_FCoCYv48JODZlZO7rppuZPQ/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>#DeStudy #01 Rust入門 (K.Mori)</title>
+        <link>https://speakerdeck.com/morikyon/number-destudy-number-01-rustru-men</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オープンソースSLAMの分類 (Yoshitaka HARA)</title>
+        <link>https://www.slideshare.net/hara-y/open-source-slam-3dcvtech</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JP_Stripes@大阪：StripeとkintoneとRailsで フリーランス協会の決済機能実装 (西小倉宏信)</title>
+        <link>https://speakerdeck.com/pandeiro245/jp-stripes-at-da-ban-stripetokintonetorailsde-huriransuxie-hui-falsejue-ji-ji-neng-shi-zhuang</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DB tech showcase： 噂のMongoDBその用途は？ (Hiroaki Kubota)</title>
+        <link>https://www.slideshare.net/crumbjp/db-tech-showcase-mongodb</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>YAPC: Go Debugging, Profiling, and Optimization</title>
         <link>https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/edit</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>[IBIS2017 講演] ディープラーニングによる画像変換 (Satoshi Iizuka)</title>
         <link>https://www.slideshare.net/siizuka/ibis2017-82378429</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プレゼンテーション評価_松下_2022_12</title>
-        <link>https://docs.google.com/presentation/d/1WvsAZYhmCkxYusH_xSZwQDpeDe-n1ZpMCws9EhqSI2c/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10ステップで作るお手軽インタプリタ開発 (Ushitora Anqou)</title>
-        <link>https://speakerdeck.com/anqou/10sutetupudezuo-ruoshou-qing-intapuritakai-fa</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プラットフォームビジネスを手軽に始める！Stripe Connectを使ってみた (Tomoe Sawai, @​tomoeine)</title>
-        <link>https://www.slideshare.net/TomoeTeshima/stripe-connect-113863562</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WordCampJapanミーティングスケジュール追加の説明。</title>
-        <link>https://docs.google.com/presentation/d/10Mv5oppYrzhlqZy51F-1IuhqMIySVnYItoTeTOyA884/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CDKでECS on FargateのCI/CDを実現する際の理想と現実 / ideal-and-reality-when-implementing-cicd-for-ecs-on-fargate-with-aws-cdk (tomoki10)</title>
-        <link>https://speakerdeck.com/tomoki10/ideal-and-reality-when-implementing-cicd-for-ecs-on-fargate-with-aws-cdk</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[DL輪読会]Pervasive Attention: 2D Convolutional Neural Networks for Sequ… (Deep Learning JP)</title>
-        <link>https://www.slideshare.net/DeepLearningJP2016/dlpervasive-attention-2d-convolutional-neural-networks-for-sequencetosequence-prediction</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プログラミング不要の未来？【ノーコードについて、徹底解説します】</title>
-        <link>https://docs.google.com/presentation/d/1Vp7WFaGFTDAxvDyiSEwUQJGzFmVcN5BL5IUQR3grBtM/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Asynchronous networking @ GopherCon 2018 (Filippo Valsorda)</title>
-        <link>https://speakerdeck.com/filosottile/asynchronous-networking-at-gophercon-2018</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
