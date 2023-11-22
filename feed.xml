@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>How to use eBPF for application statistics in Linux</title>
+        <link>https://docs.google.com/presentation/d/1xWuNArSzEtZMvWElvfKM-dA89pXV7eReiNr_PQ9W2XM/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>公式「ハーフモーダル」がやってきた！ (akatsuki174)</title>
+        <link>https://speakerdeck.com/akatsuki174/gong-shi-hahumodaru-gayatutekita</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>UIテストの実行時間を短縮させる方法 (Toshiyuki Hirata)</title>
+        <link>https://www.slideshare.net/tarappo/ui-87594732</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Room とコルーチンと私</title>
+        <link>https://docs.google.com/presentation/d/1Z0e3tDzXQGUN7jsnaZc3TYWuTDsqMZUvN7_ktS5uh38/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>15分で分かった気になるGraphQL (s-ichikawa)</title>
+        <link>https://speakerdeck.com/ichikawa/15fen-defen-katutaqi-ninarugraphql</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>強化学習その1 (nishio)</title>
+        <link>https://www.slideshare.net/nishio/1-70974083</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>State of Vue Apr 16 2020</title>
+        <link>https://docs.google.com/presentation/d/1LHp-8hEtXEMSE1fd6YLAhYmtndQelQKbWlGggZKe4y8/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>そうだ RubyKaigi、行こう。 / Let's go to RubyKaigi (aiandrox)</title>
+        <link>https://speakerdeck.com/aiandrox/lets-go-to-rubykaigi</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Uxデザイナーがpoとして開発チームと”握る”ためにやっていること 170927 (英明 伊藤)</title>
+        <link>https://www.slideshare.net/itow_ponde/uxpo-170927-80220011</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>負債解消手段としてのビッグバンフルリプレイス、行うための３つの条件とは？ (Yuki Toida)</title>
         <link>https://speakerdeck.com/yukitoida/fu-zhai-jie-xiao-shou-duan-tositenobitugubanhururipureisu-woshi-xian-surutameno3tunotiao-jian-toha</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>「コードがむずかしい」からの脱却 (jimpei)</title>
         <link>https://speakerdeck.com/jimpei/kodogamuzukasii-karanotuo-que</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>米西海岸在住者のマイル趣味の一例 (public)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTnwVS-0x3WaeKkibD_-yR5mAJ_I5op_agZf9799hS47222jwBIpc-xNdwkOVXkMtrWKdNVJ50MGtFs/pub</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新米QA部門長がアジャイルな組織作りを実践してみかわ (Jumpei Ito)</title>
-        <link>https://speakerdeck.com/sadonosake/xin-mi-qabu-men-chang-gaaziyairunazu-zhi-zuo-riwoshi-jian-sitemikawa</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>190603_Mercari_People Branding(mercan) (RyoSaimaru)</title>
-        <link>https://www.slideshare.net/RyoSaimaru/1190603mercaripeople-brandingmercan</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Metaphysics and JavaScript</title>
-        <link>https://docs.google.com/presentation/d/1PUvpXMBEDS45rd0wHu6tF3j_8wmGC6cOLtOw2hzU-mw/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>品質コミュニティがつなぐ、QAチームと開発者の新たな可能性 (kotatsu)</title>
-        <link>https://speakerdeck.com/kotatsu/pin-zhi-komiyuniteigatunagu-qatimutokai-fa-zhe-noxin-tanake-neng-xing</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Semantic segmentation (Takuya Minagawa, @takmin_en)</title>
-        <link>https://www.slideshare.net/takmin/semantic-segmentation</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プログラミング言語Go完全入門</title>
-        <link>https://docs.google.com/presentation/u/0/d/1RVx8oeIMAWxbB7ZP2IcgZXnbZokjCmTUca-AbIpORGk/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Atomic Design周りについての私見 (ponday)</title>
-        <link>https://speakerdeck.com/honda/atomic-designzhou-rinituitefalsesi-jian</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Solving anything in VCL (Fastly, @Fastly)</title>
-        <link>https://www.slideshare.net/Fastly/solving-anything-in-vcl</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
