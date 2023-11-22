@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Yahoo! JAPANアプリ上で動くWebVIewサービス開発 (Naoya Ishii)</title>
+        <link>https://speakerdeck.com/naoishii/yahoo-japanapurishang-dedong-kuwebviewsabisukai-fa</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>代数方程式とガロア理論 (Junpei Tsuji, tsujimotter)</title>
+        <link>https://www.slideshare.net/junpeitsuji/ss-16134472</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20220617アキバまで300メートル</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vTRWwYW4PiMiEA8YXNZG5jCOrgvZiQFFMui-BFyFuqxo43ez7ym10VQN9KDbR-vqrpxP4VzVTigb3XD/pub</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Repositoryによる抽象化の理想と現実/Ideal and reality of abstraction by Repository (sonata)</title>
+        <link>https://speakerdeck.com/sonatard/ideal-and-reality-of-abstraction-by-repository</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Yoshihito Kuranuki’s Presentations on SlideShare (Yoshihito Kuranuki, kuranuki)</title>
+        <link>https://www.slideshare.net/kuranuki/presentations</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NuxtJSによるJamstack構築と Nuxt 3でどう変わるのか </title>
+        <link>https://docs.google.com/presentation/d/1jvhXaFep29tcEQ5fMI0UJOKuO-Nw43AnaxSJFjokiLU/preview</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PlanetScale さわってみた (reteigi)</title>
+        <link>https://speakerdeck.com/re_teigi/planetscale-sawatutemita</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Shared memory and multithreading in Node.​js - Timur Shemsedinov - JSF… (Timur Shemsedinov)</title>
+        <link>https://www.slideshare.net/tshemsedinov/shared-memory-and-multithreading-in-nodejs-timur-shemsedinov-jsfest19</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なぜレッドオーシャン化する前にサービスを グロースできなかったのか？ - フリマアプリ編 - (yuta horii)</title>
         <link>https://speakerdeck.com/yutadayo/cto-night-and-day-2023</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>Spring Bootの本当の理解ポイント #jjug (Masatoshi Tada)</title>
         <link>https://www.slideshare.net/masatoshitada7/spring-boot-jjug</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>npm v7でnpxが少し変わった話</title>
-        <link>https://docs.google.com/presentation/d/1aLpuAX3gQDmmv0gUS26qmqss6M01QWuRhzT6lU8GZRo/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>継続的Gemアップデートの仕組み / Continuous Gem Update (Ayumu Kanechika)</title>
-        <link>https://speakerdeck.com/kinkinkon1009/continuous-gem-update</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WordPress REST API と Vue.js を使ったフロントエンド開発 (Hiromasa Tanaka)</title>
-        <link>https://www.slideshare.net/hiromasatanaka332/wordpress-rest-api-vuejs</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フルリモートにおける Infrastructure as Code の効果</title>
-        <link>https://docs.google.com/presentation/d/1Ez4wURim60oG49KDZ0W25GEGfiEeUrG5-3Hw6fNbh2A/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINEビーコンで無限プッシュなメンヘラ女子BOT #iotlt #esp32 #linedc (n0bisuke)</title>
-        <link>https://speakerdeck.com/n0bisuke2/linebikondewu-xian-putusiyunamenherabot-number-iotlt-number-esp32-number-linedc</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロセスとコンテキストスイッチ (Kazuki Onishi)</title>
-        <link>https://www.slideshare.net/ssuserc2d4c1/ss-124497965</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ヒロフロvol30-Webアニメーションの種類を知ろう（配布用）</title>
-        <link>https://docs.google.com/presentation/d/1LTxnr4q0IZvVfYmvhlk2TVXsH_MwnWzFOsJuBWJ8j4Q/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>coroutinesで非同期ページネーション (Keita Kagurazaka)</title>
-        <link>https://speakerdeck.com/kkagurazaka/coroutinesdefei-tong-qi-pezinesiyon</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
