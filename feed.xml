@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[shared] 20210909 SREGaps</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSC_0eFALks2ZCQ6kJJq7Bllbmmb7wIimN6ohtN2fQ-8hN83pq3_XVRim8CyxYyUkpFStDpoVTt1u_l/pub</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>3分でMLアプリを作る 〜推論コードにちょっとのStreamlitを添えて〜 (Yamaguchi Takahiro)</title>
+        <link>https://speakerdeck.com/nyk510/3fen-demlapuriwozuo-ru-tui-lun-kodonitiyotutofalsestreamlitwotian-ete</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Node.jsに縁のない職場でnode.jsを使い始める戦術 (Isamu Suzuki, moomooya)</title>
+        <link>https://www.slideshare.net/isamusuzuki54/nodejsnodejs-68770119</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>いまどきの JavaScript入門 - ES6/TypeScript/Vue.​js (たにぐちまこと（ともすた）)</title>
+        <link>https://speakerdeck.com/tomostajp/vue-dot-js</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>"SRv6の現状と展望" ENOG53＠上越 (Kentaro Ebisawa, @​ebiken)</title>
+        <link>https://www.slideshare.net/kentaroebisawa/srv6-enog53</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloud Storage for Firebaseとセキュリティ</title>
+        <link>https://docs.google.com/presentation/d/1VaolHRjMGqKDCPBebMR4nNSMJYyJRJGSKkz9NQ6rD58/edit</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ドローン点検・測量を機械学習を使って「圧倒的」に簡単にした！！ときに困って解決したお話 (Daisuke Matsumoto)</title>
+        <link>https://speakerdeck.com/daikon/dorondian-jian-ce-liang-woji-jie-xue-xi-woshi-tute-ya-dao-de-nijian-dan-nisita-tokinikun-tutejie-jue-sitaohua</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vertica 9.0.1 新機能 (Kaito Tono)</title>
+        <link>https://www.slideshare.net/kaitotono/vertica-900-121389095</link>
+        <dc:date>2023-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>急成長スタートアップにおける技術的負債とトレードオフ・スライダー / Technical Debt and Trade-off Sliders in Fast-Growing Startups (Tadashi Shigeoka)</title>
         <link>https://speakerdeck.com/codenote/technical-debt-and-trade-off-sliders-in-fast-growing-startups</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>sbtをもっと開発の中で活用する方法・例</title>
         <link>https://docs.google.com/presentation/d/1t31abhtCTpzrDmXL7VGK7xW5DhAgXsT3vwMZGPb0pg8/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VRMとTimelineで映像制作 (you-ri)</title>
-        <link>https://speakerdeck.com/youri/vrmtotimelinedeying-xiang-zhi-zuo</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSでのセキュリティ運用　～ IAM,VPCその他 (Recruit Technologies)</title>
-        <link>https://www.slideshare.net/recruitcojp/20160517-security-jaws-miyazakisachie</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GA4 APIのfilterの使い勝手が、 UAに追いつくまでの、RStudio による代替処理案</title>
-        <link>https://docs.google.com/presentation/d/1nRkvLCVAkhhrWwmWGltyk-ZMFt8J2lfObKain7_bSD4/preview</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pocochaにおけるスクリーンショットテストのレポート活用術【DeNA TechCon 2022】 (DeNA_Tech)</title>
-        <link>https://speakerdeck.com/dena_tech/pocochaniokerusukurinsiyotutotesutofalserepotohuo-yong-shu-dena-techcon-2022</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MS Wordで論文を書くTips集 (Tomosuke Maeda)</title>
-        <link>https://www.slideshare.net/Yukutom/ms-wordtips</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>200930_エンジニア起業勉強会資料（AutoScale小西）</title>
-        <link>https://docs.google.com/presentation/d/1luxFg_HgtpxolGMnn8nMUtcuEAhiWiGM5-LJdp08dwk/edit</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kotlin's Delegated Properties × Android (Ippei Nawate)</title>
-        <link>https://speakerdeck.com/sakuna63/kotlins-delegated-properties-x-android</link>
-        <dc:date>2023-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データプランナーによるデータ系施策について (Recruit Lifestyle Co., Ltd.)</title>
-        <link>https://www.slideshare.net/RecruitLifestyle/ss-79013826</link>
         <dc:date>2023-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
