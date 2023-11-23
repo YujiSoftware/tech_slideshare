@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Making the Transition to Scala 3</title>
+        <link>https://docs.google.com/presentation/d/12IBdH1x_IRk6gcDxWqb7dsAwYkUf66eh5BD3M2LtOw0/preview</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>社内でのアクセシビリティ推進 (Tiphaine)</title>
+        <link>https://speakerdeck.com/tahia910/she-nei-denoakusesibiriteitui-jin</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サポートベクターマシン(SVM)の数学をみんなに説明したいだけの会 (Kenyu Uehara, @​kenyu0501_)</title>
+        <link>https://www.slideshare.net/ssuser186f56/svm-146231602</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>型ヒントの5年間を振り返る</title>
+        <link>https://docs.google.com/presentation/d/1kxX5_bL1Rv-sW7zJDBSve9g69A_AJbAEvMXkhlMrBR4/preview</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最初の言語としてGoを学んだ人から見た Ruby on Rails (mom0tomo)</title>
+        <link>https://speakerdeck.com/mom0tomo/zui-chu-falseyan-yu-tositegowoxue-ndaren-karajian-ta-ruby-on-rails</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Puppet Performance Profiling (ripienaar)</title>
+        <link>https://www.slideshare.net/ripienaar/puppet-performance-profiling</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Robosemi 210917.​pptx</title>
+        <link>https://docs.google.com/presentation/d/1XaYSO9JYQWKEdLaIKDOXiqsfZxA5f1d7/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アジャイルなチームをつくる ふりかえりのガイド / A Retrospective Guide (viva_tweet_x)</title>
+        <link>https://speakerdeck.com/viva_tweet_x/a-retrospective-guide</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes on AWS at Zalando: Failures &amp; Learnings - DevOps NRW (Henning Jacobs, try_except_)</title>
+        <link>https://www.slideshare.net/try_except_/kubernetes-on-aws-at-zalando-failures-learnings-devops-nrw</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Java Language Future (Chihiro Ito)</title>
         <link>https://speakerdeck.com/chiroito/java-language-future</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>物理の授業　65.コンデンサーのリアクタンス (naofumi I)</title>
         <link>https://www.slideshare.net/naofumiIkejiri/65-105986683</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>chainer-compilerのその後</title>
-        <link>https://docs.google.com/presentation/d/1GhQCOmp7ebQ2gerxO-8RBB_1F6nMuw1EHDZslbMEV-0/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Gitハンズオン研修 / Git Hands-on (BrainPad)</title>
-        <link>https://speakerdeck.com/brainpadpr/git-hands-on</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Yahoo agile 2nd (secret)</title>
-        <link>https://www.slideshare.net/secret/sUNDOQjfl5SKYy</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>about_openldap</title>
-        <link>https://docs.google.com/presentation/d/1WOKXzgDX9oYWv6hgrAr__JTd3uoEKqZPOCwBEu9MlRM/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AndroidやiOSのアプリ開発でいつも私がやっていることをFlutterでやってみた / Flutter development as usual (Yasutaka Kawamoto)</title>
-        <link>https://speakerdeck.com/yasi/flutter-development-as-usual</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bridge to Cloud: Using Apache Kafka to Migrate to AWS (confluent)</title>
-        <link>https://www.slideshare.net/ConfluentInc/bridge-to-cloud-using-apache-kafka-to-migrate-to-aws-122965455</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to use eBPF for application statistics in Linux</title>
-        <link>https://docs.google.com/presentation/d/1xWuNArSzEtZMvWElvfKM-dA89pXV7eReiNr_PQ9W2XM/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>公式「ハーフモーダル」がやってきた！ (akatsuki174)</title>
-        <link>https://speakerdeck.com/akatsuki174/gong-shi-hahumodaru-gayatutekita</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UIテストの実行時間を短縮させる方法 (Toshiyuki Hirata)</title>
-        <link>https://www.slideshare.net/tarappo/ui-87594732</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
