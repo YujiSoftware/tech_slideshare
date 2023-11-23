@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>レイマーチング大衆化運動</title>
+        <link>https://docs.google.com/presentation/d/1UUVCZaXutDwATGv-31RmGnxw16GWe3NiP9Ee1DaMsnA/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Splatoon2をやりましょう 〜Rubyで絵を描く〜 (Yukimitsu Izawa)</title>
+        <link>https://speakerdeck.com/izawa/splatoon2woyarimasiyou-rubydehui-womiao-ku</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サイバーセキュリティ人材の育成に向けて (UEHARA, Tetsutaro)</title>
+        <link>https://www.slideshare.net/tetsutalow/ss-122768375</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>rqlite: The lighweight, distibuted database built on Raft and SQLite</title>
+        <link>https://docs.google.com/presentation/d/1Q8lQgCaODlecHa2hS-OeMGoij22oMZ_xhyeRTrQnn6o/preview</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Operator でどう変わる? これからのデータベース運用 / cndt2019_k8s_operator (yukirii)</title>
+        <link>https://speakerdeck.com/yukirii/cndt2019-k8s-operator</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Elaticsearchのクエリを楽に書けるようにした話 (Sasaki Takashi)</title>
+        <link>https://www.slideshare.net/SasakiTakashi/elaticsearch</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プログラミング言語 Go のススメ</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vTidBqgPkMcC8F4A_29qaMoD8S-kHmBgwCkMOBldjl1VDvJlK8mIInf_mxFHjXeSysu3-6xhSLlkbyC/pub</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Why this training? (Yasunobu Kawaguchi)</title>
+        <link>https://speakerdeck.com/kawaguti/why-this-training</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>チャットボットのUXと、導入現場のリアル（第2版） (Yoshiki Hayama, storywriter)</title>
+        <link>https://www.slideshare.net/storywriterjp/ux2-110342916</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vuetify v2+ - Amsterdam 2020</title>
         <link>https://docs.google.com/presentation/d/13dt0RmiQyulnLcfkj7OokLDG3Oe-R1SXkwwNZ6SmZYU/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>クライアントワーク企業でもできるエンジニアリング組織のつくりかた (AP Communications Co., Ltd.)</title>
         <link>https://speakerdeck.com/apcom/kuraiantowakuqi-ye-demodekiruenziniaringuzu-zhi-falsetukurikata</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2018年01月27日 TensorFlowでRNN-LSTMを実装してみた (aitc_jp)</title>
-        <link>https://www.slideshare.net/aitc_jp/20180127-tensorflowrnnlstm</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はじめてのVue.​jsハンズオン[公開用]</title>
-        <link>https://docs.google.com/presentation/d/1dHDZ75OkyIr_UfziHuGC-n-EHavwGB2sA3r_nKo4NrQ/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes とゼットラボの取り組み / Kubernetes and Z Lab's works (Kazuki Suda)</title>
-        <link>https://speakerdeck.com/superbrothers/kubernetes-and-z-labs-works</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(Fix)Azure Network Security Group(NSG)のおさらい (Yoshimasa Katakura)</title>
-        <link>https://www.slideshare.net/ssusere44d0e1/fixjazug-sapporo-21-yoshimasa-katakura</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自分用　天変地異メモ まとめ編</title>
-        <link>https://docs.google.com/presentation/d/1MChRtuHFcqTSZIRA5MDyAkIhTJf8enIY48xoPCdkqcE/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウェブアプリケーションがオフラインでも動作できるようにやっていった話 / ServiceWorker for Offline WebApp in MANGA Viewer (pastak)</title>
-        <link>https://speakerdeck.com/pastak/serviceworker-for-offline-webapp-in-manga-viewer</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DockerCon EU 2015: Day 1 General Session</title>
-        <link>https://www.slideshare.net/Docker/dockercon-eu-day-1-general-session</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ初心者は webpackが解らないのか？- Why can’t you understand the webpack? -</title>
-        <link>https://www.slideshare.net/ssuser46977e/webpack-why-cant-you-understand-the-webpack?fbclid=IwAR3dYrj4JWqOy69GU-CD1cc0OdaX_ONDH6LfbbL5BI3gLCsuh_JJUrkpTqQ</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2019-08-30 Web Componentsによる 段階的AngularJS脱出作戦 (builderscon)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSMnCsvEfSBjfcIVU7nUCOar61JH4HVxPOQwGCLzUQT4csqI71poVCNkKbFHCyjzSGdAgMKUUDBTqfh/pub</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
