@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Owning the clout through SSRF and PDF generators - Public v1.​0</title>
+        <link>https://docs.google.com/presentation/d/1JdIjHHPsFSgLbaJcHmMkE904jmwPM4xdhEuwhy2ebvo/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GraphQL を活用したスキーマ駆動開発の実践 / schema-driven development with GraphQL (qsona)</title>
+        <link>https://speakerdeck.com/qsona/schema-driven-development-with-graphql</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>重要なのはリサーチ・プランニング・プロトタイプの三本柱 (Yuya Toida)</title>
+        <link>https://www.slideshare.net/YuyaToida/ss-77125000</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ポリゴンラウンジ#2用</title>
+        <link>https://docs.google.com/presentation/d/1GQUBnz0d0ciGgRQROynQSNopRp6EpYVYDo5gqcyOyD4/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React未経験だった私が、技術書典4で React本を出すに至るまで / React for techbookfest4 (konosumi)</title>
+        <link>https://speakerdeck.com/konosumi/react-for-techbookfest4</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[DL輪読会]Deep Learning 第15章 表現学習 (Deep Learning JP)</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dldeep-learning-15</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>認可リバースプロキシを作った話</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQu1gx21IGBwzHCVpR1sB3kr85DRIYshFKzqKq47FNyby7oODaFHUzCiPpUkXY_SC-2EgXQ7P3vdx3B/pub</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Improving Android Build Performance (Tony Robalik)</title>
+        <link>https://speakerdeck.com/autonomousapps/improving-android-build-performance</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pythonと機械学習によるWebセキュリティの自動化 (Isao Takaesu)</title>
+        <link>https://www.slideshare.net/babaroa/pythonweb-79571974</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SecurityCamp2019 DataBase(公開用)</title>
         <link>https://docs.google.com/presentation/d/1pp14xrh3YfOMCrqWNIQlKCoC2H6WVyxI9LwYBbHOMl4/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>TCA v0.​19.​0からのSwitchStore/CaseLetが良い (yimajo)</title>
         <link>https://speakerdeck.com/yimajo/caseletgaliang-i</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes introduction (DAEBUM LEE, daebum_lee)</title>
-        <link>https://www.slideshare.net/daebumlee/kubernetes-introduction-92397497</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プログラミング言語Go完全入門</title>
-        <link>https://docs.google.com/presentation/d/1RVx8oeIMAWxbB7ZP2IcgZXnbZokjCmTUca-AbIpORGk/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>不動産IDの仕組みと今後の課題 (Takayuki Miyauchi)</title>
-        <link>https://speakerdeck.com/miya0001/bu-dong-chan-idfalseshi-zu-mitojin-hou-falseke-ti</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LODで広がる�オープンデータ活用の可能性 (Kouji Kozaki)</title>
-        <link>https://www.slideshare.net/KoujiKozaki/lod-56074738</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今日から始める（完全）準同型暗号の世界 (Kotaro Inoue)</title>
-        <link>https://speakerdeck.com/musaprg/jin-ri-karashi-meru-wan-quan-zhun-tong-xing-an-hao-falseshi-jie</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>タクシードライブレコーダーの動画処理MLパイプラインにkubernetesを使ってみた (Tetsutaro Watanabe, @​fetarodc)</title>
-        <link>https://www.slideshare.net/tetsutarowatanabe/mlkubernetes-170474190</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Artisan keycap ワークショップ in 遊舎工房</title>
-        <link>https://docs.google.com/presentation/d/1oXeFK-JS6m7K4g10GFjpFdX03F464yyqf02YgdTK56M/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>M5StackシャトルランLTのリバイバル #iotlt (n0bisuke)</title>
-        <link>https://speakerdeck.com/n0bisuke/m5stacksiyatoruranltfalseribaibaru-number-iotlt</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社内に情報発信する文化を根付かせ 定期的に更新可能な体制にする方法 (LINE Corporation)</title>
-        <link>https://www.slideshare.net/linecorp/ss-121417176</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
