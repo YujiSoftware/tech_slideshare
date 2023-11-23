@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>訳者による Understanding the InnerSource Checklist の概説</title>
+        <link>https://docs.google.com/presentation/d/1xH97D0C6gPL4Y21m53Ju3QTfs_oem-LBcpeo0OO2ics/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rustハンズオン @ Rust CA 1 Day Youth Boot Camp (Yuki Toyoda)</title>
+        <link>https://speakerdeck.com/helloyuk13/rusthanzuon-at-rust-ca-1-day-youth-boot-camp</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>if-up 2019 | A4. 「進化し続けるプロダクトを作るための開発チーム」 (SORACOM,INC, SORACOM_PR)</title>
+        <link>https://www.slideshare.net/SORACOM/ifup-2019-a4</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LSM at Mongo - Jan19</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSNk8RkQrVRm_BNZKYyz0sl1k7C6yjTfJIqfMDxnnka8f4pfpf6j2yuXvxvyVGnrzRERdAaxNbOU-CT/pub</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>組織の多様性と向き合う / Face to the diversity in Eight team (Sansan)</title>
+        <link>https://speakerdeck.com/sansanbuildersbox/face-to-the-diversity-in-eight-team</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実践 Amazon Redshift (Hajime Sano)</title>
+        <link>https://www.slideshare.net/HajimeSano1/amazon-redshift-119756378</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ヒューリスティックコンテストに出てみよう！</title>
+        <link>https://docs.google.com/presentation/d/1nSdTg3moeP7jbzzqd-zY9aJtmD6vmlqODkDu8vxkcYs/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VP of Engineering Meetup by CA #3 (kenjiskywalker)</title>
+        <link>https://speakerdeck.com/kenjiskywalker/vp-of-engineering-meetup-by-ca-number-3</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スタートアップの Kpiと分析用ログ について (Keiichi Endo)</title>
+        <link>https://www.slideshare.net/keiichiendo1/kpi-92376159</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rubyが 静的型付けであることの 証拠の発表</title>
         <link>https://docs.google.com/presentation/d/1aa2iYRtkiEqDSYI5eXcWc1KqhLvVCYMxmJ1oUl_kKp0/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>nyle_recruiting_pr_210203 (spw63)</title>
         <link>https://speakerdeck.com/spw63/nyle-recruiting-pr-210203</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ABEMA の視聴品質向上戦術 (Yusuke Goto)</title>
-        <link>https://www.slideshare.net/ygoto3q/abemas-tactics-to-improve-video-qoe-238316892</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>体当たりecs-cli w/ fargate!</title>
-        <link>https://docs.google.com/presentation/d/1DOoMWiseq0AmtiXH4RzD6C4rmfbUNsLrYWs8XrVT2zU/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QUANDO 会社説明資料 (QUANDO HR)</title>
-        <link>https://speakerdeck.com/quandohr/quando-hui-she-shuo-ming-zi-liao</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>同じ音が二度と鳴らないゲームの環境音を作る</title>
-        <link>https://www.slideshare.net/takaakiichijo/ss-202740150</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DAOs - The new frontier in Coordination - DRAFT</title>
-        <link>https://docs.google.com/presentation/d/1fLJvPOvibcCUpJ9ES44_cdoX5Hb7LpDaloGWz5FbUEM/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoogleColabとVSCodeを用いた分析環境運用Tips (Takanobu Nozawa)</title>
-        <link>https://speakerdeck.com/takapy/googlecolabtovscodewoyong-itafen-xi-huan-jing-yun-yong-tips</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ネットワークでなぜ遅延が生じるのか (Jun Kato)</title>
-        <link>https://www.slideshare.net/junkato1272/ss-70431661</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spring Update in 2019</title>
-        <link>https://docs.google.com/presentation/d/1lZqm_-4NeDOjYRWDhV75eDC0XpR6CrijyW8W5MVq6ws/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iOS技術本を出版した時の失敗談 (takashings)</title>
-        <link>https://speakerdeck.com/takashings/iosji-shu-ben-wochu-ban-sitashi-falseshi-bai-tan</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
