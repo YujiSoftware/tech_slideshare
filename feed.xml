@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Series A Deck Template (v.​1.​0)</title>
+        <link>https://docs.google.com/presentation/d/17slkHITrl44d42ytmNTLKeVqpWFalNj7akigkOhRVHs/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ノートラブルシステムへの道 (Daisuke Yamazaki)</title>
+        <link>https://speakerdeck.com/yamaz/notoraburusisutemuhenodao</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kaggle days tokyo jin zhan (Jin Zhan)</title>
+        <link>https://www.slideshare.net/JinZhan/kaggle-days-tokyo-jin-zhan-204409794</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Challenges for Machine Learning Systems toward Continuous Improvement</title>
+        <link>https://docs.google.com/presentation/d/1T8JF6h_DFnBAWz8LJvK0miFWsVovKyP0BDuXk3cVo2Q/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Introduction of CADDi Vietnam (CADDi)</title>
+        <link>https://speakerdeck.com/caddi_eng/introduction-of-caddi-vietnam</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MQ入門 (HIRA )</title>
+        <link>https://www.slideshare.net/hiratak1/mq-151749220</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>九工大・生命体の学生以外には�見てほしくない 論文のカン違い</title>
+        <link>https://docs.google.com/presentation/d/14L_0C9U6x5f1yXaGhPnMBpWmfAR7aalKe_AjIlWBvTg/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Firebase Realtime Databaseを良さげに抽象化する (Yuya Hirayama)</title>
+        <link>https://speakerdeck.com/hiragram/firebase-realtime-databasewoliang-sagenichou-xiang-hua-suru</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術的負債返しますか？それとも開発辞めますか(Dev love広島 20150428) (Hidekazu Nishi)</title>
+        <link>https://www.slideshare.net/hidekazuNishi/dev-love-20150428</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TWCTF 2020 Writeup</title>
         <link>https://docs.google.com/presentation/d/1y1Ygcddx8zLs3d5nPRmfGxB7xsvZnVzQqham9XynF-I/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>「怖い！危ない！」で終わらせない、 スマホ・インターネットとの付き合い方 / 2019.​05.​18 (Junichi Ito)</title>
         <link>https://speakerdeck.com/jnchito/2019-dot-05-dot-18</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PowerPointとは違います！ ちょうかっこいいLibreOffice Impress スライド作り方講座</title>
-        <link>https://www.slideshare.net/nogajun/powerpoint-libreoffice-impress</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>統合ID管理入門 (山田(YAMADA) 達司(Tatsushi), @​hackerdudesan)</title>
-        <link>https://www.slideshare.net/YAMADATatsushi/id-227174012</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>〇面白文章力クラブオフ会プレゼン資料3「フィードバックをもらうことの効用」</title>
-        <link>https://docs.google.com/presentation/d/1eFf1V-9zub88XK9W22M29ZRSLQJKDuhbpA42X3T_I5k/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>車載スマートスピーカーで自動車コミュニケーション (Kiyotaka Doumae)</title>
-        <link>https://speakerdeck.com/doumae/che-zai-sumatosupikadezi-dong-che-komiyunikesiyon</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ryotakahashisporty</title>
-        <link>https://www.slideshare.net/ryotakahashisporty</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Emergent Futures by IDEO Tokyo [JP]</title>
-        <link>https://docs.google.com/presentation/d/1Sc4q99yhcgj9ErEjL3l6pdLWqME9Y9tKkVHlts1Iz5M/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GCP社内勉強会 (Taisei Ito)</title>
-        <link>https://speakerdeck.com/kaedemalu/gcpshe-nei-mian-qiang-hui</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FaaStRuby (Sachirou Inoue, @​ne_sachirou)</title>
-        <link>https://www.slideshare.net/sachirouinoue/faastruby</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ナイフ1本で行うGoのサバイバル術</title>
-        <link>https://docs.google.com/presentation/u/0/d/1EB-V2KyGADdQBWZPVfwh-lN-1blxi-ipLCvwbAq7tZs/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
