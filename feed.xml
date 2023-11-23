@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TC39 - Update on SES</title>
+        <link>https://docs.google.com/presentation/d/1DOphwT3SF9nmyxJcRGL6eLdNeLnUQYWtt2MICOLEU-c/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Warningアラートを放置しない！アラート駆動でログやメトリックを自動収集する仕組みによる恩恵 (ikeda-masashi)</title>
+        <link>https://speakerdeck.com/mashiike/warningaratowofang-zhi-sinai-aratoqu-dong-deroguyametoritukuwozi-dong-shou-ji-surushi-zu-miniyoruen-hui</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GDC2018報告会 (Masamitsu Ishikawa, @lucifuges)</title>
+        <link>https://www.slideshare.net/lucifuges/gdc2018</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Firebase ハンズオン - Web チャット -</title>
+        <link>https://docs.google.com/presentation/d/136JHgouaD3pYWZ8cueWjVhDIbFss-Woq_87BoUKBwiQ/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>http_basics (Yosuke Furukawa)</title>
+        <link>https://speakerdeck.com/yosuke_furukawa/http-basics</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>D8でコンテンツをレイアウトする手法について (Kenji Shirane, bkenro)</title>
+        <link>https://www.slideshare.net/bkenro/d8-104791283</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JDK Flight Recorder入門 (Chihiro Ito)</title>
         <link>https://speakerdeck.com/chiroito/jdk-flight-recorderru-men</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>第２回ナレッジグラフ推論チャレンジ2019の紹介（11/22, SWO研究会） (KnowledgeGraph)</title>
         <link>https://www.slideshare.net/KnowledgeGraph/20191122-swo</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>YJIT　コードリーディング</title>
-        <link>https://docs.google.com/presentation/d/1Sl686wyZGXyVpVnKicOVR7LGHknH0F08C8YTR3BFJ1M/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チーム作りのMOTTAINAI ～機会を逃さないチームビルディング～ (sobarecord)</title>
-        <link>https://speakerdeck.com/sobarecord/timuzuo-rifalsemottainai-ji-hui-wotao-sanaitimubirudeingu</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>おとなのたしなみ Microsoft Flow (Tomoyuki Obi, twit_ahf)</title>
-        <link>https://www.slideshare.net/TomoyukiObi/20180616-to-takepartflow</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Making the Transition to Scala 3</title>
-        <link>https://docs.google.com/presentation/d/12IBdH1x_IRk6gcDxWqb7dsAwYkUf66eh5BD3M2LtOw0/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社内でのアクセシビリティ推進 (Tiphaine)</title>
-        <link>https://speakerdeck.com/tahia910/she-nei-denoakusesibiriteitui-jin</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サポートベクターマシン(SVM)の数学をみんなに説明したいだけの会 (Kenyu Uehara, @​kenyu0501_)</title>
-        <link>https://www.slideshare.net/ssuser186f56/svm-146231602</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
