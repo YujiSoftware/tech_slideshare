@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vuetify v2+ - Amsterdam 2020</title>
+        <link>https://docs.google.com/presentation/d/13dt0RmiQyulnLcfkj7OokLDG3Oe-R1SXkwwNZ6SmZYU/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Clojure 1.10 概要紹介 (OHTA Shogo)</title>
+        <link>https://speakerdeck.com/athos/clojure-1-dot-10-gai-yao-shao-jie</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JavaScript GIS ライブラリ turf.js 入門 (Takahiro Kamada)</title>
+        <link>https://www.slideshare.net/takahi/javascript-gis-turfjs</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オーディションレギュレーション_ver3</title>
+        <link>https://docs.google.com/presentation/d/1QyYDeSLqDGXCSv9Uk_pVUKHJF_f52y3kb3EhgHogQ3Q/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CQRSを学ぶついでにCloud FunctionsとFirestoreを連動させる時の小技も学ぶ (hecateball)</title>
+        <link>https://speakerdeck.com/hecateball/cqrswoxue-butuidenicloud-functionstofirestorewolian-dong-saserushi-falsexiao-ji-moxue-bu</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Spherical CNNs paper reading (Kohta Ishikawa)</title>
+        <link>https://www.slideshare.net/kohta/spherical-cnns-paper-reading-98690234</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>シャーディング技術の全体像と研究動向 @20200403 blockchain.​tokyo Online#2 (共有用)</title>
+        <link>https://docs.google.com/presentation/d/1aTghdwY78hrXPFPDufiL-GpQvwbSj-IzAjW34pppDyM/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloudflare初心者がIaCから基本構成を学んでみた (Yuki_Kurono)</title>
+        <link>https://speakerdeck.com/yuki_kurono/cloudflarechu-xin-zhe-gaiackaraji-ben-gou-cheng-woxue-ndemita</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[GCC18] 世界中のプレイヤーを３つの「S」で支える Google Cloud Platform (GCP) 〜スピード・スケール・… (Samir Hammoudi, @ksimir)</title>
+        <link>https://www.slideshare.net/HammoudiSamir/gcc18-s-google-cloud-platform-gcp</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>champパッケージで4脚ロボットを作った</title>
         <link>https://docs.google.com/presentation/d/1UqXFFjBLaojIiDWl29LWIgjsOqIYsjPdeOd8BF2Khx0/preview</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>2019-08-30 Web Componentsによる 段階的AngularJS脱出作戦 (builderscon)</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vSMnCsvEfSBjfcIVU7nUCOar61JH4HVxPOQwGCLzUQT4csqI71poVCNkKbFHCyjzSGdAgMKUUDBTqfh/pub</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>対戦ゲームに学ぶ フレームワークの設計技法とAIのアルゴリズム入門 / game model (qsona)</title>
-        <link>https://speakerdeck.com/qsona/game-model</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Videostream compression in iOS (*instinctools, instinctools_EE)</title>
-        <link>https://www.slideshare.net/instinctools_EE_Labs/videostream-compression-in-ios</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20191221_日本の教育情報化の変遷と今後の課題</title>
-        <link>https://docs.google.com/presentation/d/1JP1t4MxZW0XLd3mBIZKaUzIqetWKsRpP4I0uT5NTlrQ/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「インタフェースデザインの心理学」を読んで話したい３つのこと (uhzz)</title>
-        <link>https://speakerdeck.com/uhzz/intahuesudezainfalsexin-li-xue-wodu-ndehua-sitai3tufalsekoto</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>納得できるテストをつくるアプローチ（JaSST'17 Kansai向け） (Noriyuki Mizuno)</title>
-        <link>https://www.slideshare.net/NoriyukiMizuno/jasst17-kansai</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rails5.0 (Ruby2.3,2.4)新機能勉強会20180525 (m_okamoto)</title>
-        <link>https://speakerdeck.com/m_okamoto/rails5-dot-0-ruby2-dot-3-2-dot-4-xin-ji-neng-mian-qiang-hui-20180525</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rocket Science Simplified: B2B Content Promotion CMWorld 2018 (secret)</title>
-        <link>https://www.slideshare.net/secret/uimSoKkWx0gXlF</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>nyaggle</title>
-        <link>https://docs.google.com/presentation/d/1jv3J7DISw8phZT4z9rqjM-azdrQ4L4wWJN5P-gKL6fA/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>30 分でわかる！アルゴリズムの基本 (E869120)</title>
-        <link>https://speakerdeck.com/e869120/30-fen-dewakaru-arugorizumufalseji-ben</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
