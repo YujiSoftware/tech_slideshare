@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>歴史あるプロダクトでFlutterを採用した話</title>
+        <link>https://docs.google.com/presentation/d/1YA-yLeNl7FHZudX4Y5Yk-Q9EShDkLPV6VCFbOnVlRAc/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TCA v0.​19.​0からのSwitchStore/CaseLetが良い (yimajo)</title>
+        <link>https://speakerdeck.com/yimajo/caseletgaliang-i</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes introduction (DAEBUM LEE, daebum_lee)</title>
+        <link>https://www.slideshare.net/daebumlee/kubernetes-introduction-92397497</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プログラミング言語Go完全入門</title>
+        <link>https://docs.google.com/presentation/d/1RVx8oeIMAWxbB7ZP2IcgZXnbZokjCmTUca-AbIpORGk/preview</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>不動産IDの仕組みと今後の課題 (Takayuki Miyauchi)</title>
+        <link>https://speakerdeck.com/miya0001/bu-dong-chan-idfalseshi-zu-mitojin-hou-falseke-ti</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LODで広がる�オープンデータ活用の可能性 (Kouji Kozaki)</title>
+        <link>https://www.slideshare.net/KoujiKozaki/lod-56074738</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今日から始める（完全）準同型暗号の世界 (Kotaro Inoue)</title>
+        <link>https://speakerdeck.com/musaprg/jin-ri-karashi-meru-wan-quan-zhun-tong-xing-an-hao-falseshi-jie</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>タクシードライブレコーダーの動画処理MLパイプラインにkubernetesを使ってみた (Tetsutaro Watanabe, @​fetarodc)</title>
+        <link>https://www.slideshare.net/tetsutarowatanabe/mlkubernetes-170474190</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Artisan keycap ワークショップ in 遊舎工房</title>
         <link>https://docs.google.com/presentation/d/1oXeFK-JS6m7K4g10GFjpFdX03F464yyqf02YgdTK56M/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>PowerShellのパワー (Takuya Shibata)</title>
         <link>https://www.slideshare.net/stknohg/powershell-125938281</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バイナリデータの話</title>
-        <link>https://docs.google.com/presentation/d/1RqaqkaEHrKAIEyayaq4KTHV0a8r4tgweLHVq9uQEFZE/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>私たちはなぜ SPA で開発するのか / Why you choose SPA (Potato4d(Hanatani Takuma))</title>
-        <link>https://speakerdeck.com/potato4d/why-you-choose-spa</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脅威分析の手法によりウェブサーバーにウイルス対策ソフトが必要かを検証する (Hiroshi Tokumaru)</title>
-        <link>https://www.slideshare.net/ockeghem/anti-virus-on-web-server</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>⾃律的な開発チームを⽀えるためのSLO運⽤ (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20231122-1</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go 文法互換シェーディング言語 Kage</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTgHMtrLf4wLHA6myZOvisHYfjydT6C0LYuzTpn4WHZ-rvnZU3QR2YbjxThBzyIniuFeyJsQPobOD3k/pub</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>freee会計でのModule Federationによるマイクロフロントエンドの実践 (1coin)</title>
-        <link>https://speakerdeck.com/1coin/freeehui-ji-tenomodule-federationniyorumaikurohurontoentonoshi-jian</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hands-on Workshop: Apache Pulsar (Sijie Guo)</title>
-        <link>https://www.slideshare.net/hustlmsp/handson-workshop-apache-pulsar</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>藤井グループワーク１</title>
-        <link>https://docs.google.com/presentation/d/1JBfWKA4unwsKswWyltL7vCz8rJOT8IUj-D7po3IbDiA/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
