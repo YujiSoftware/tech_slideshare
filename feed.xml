@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Java Language Future (Chihiro Ito)</title>
+        <link>https://speakerdeck.com/chiroito/java-language-future</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Redmineプラグイン開発 スタートガイド 2020年版</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSMoLdbjP1fWzblhJSlvIOCfuv1Mu-GHeVmRyXLPNfbYoJcwgSZD1-XC_jhSnUl6k25PqDW6ojHb0Cs/pub</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>安心・安全なCluster移行で実現するKubernetesのバージョンアップ / Kubernetes upgrade with cluster migration (s-shirayama)</title>
+        <link>https://speakerdeck.com/sshirayama/kubernetes-upgrade-with-cluster-migration</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>チームで取り組む！アクセシビリティコーディング&amp;デザイン (Kobayashi Daisuke)</title>
+        <link>https://www.slideshare.net/KobayashiDaisuke1/ss-81885664</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vuilt20181112 noid (Yusuke Iwaya)</title>
+        <link>https://www.slideshare.net/YusukeIwaya/vuilt20181112-noid</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Developers Summit 2023 [9-C-4] 田島将太</title>
+        <link>https://docs.google.com/presentation/d/1FjF8W8bk9thQYc2_CAfoxY0ECPZYfkxH66gPPpYsFWE/preview</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ふりかえりカタログ / Retrospective Catalog (viva_tweet_x)</title>
+        <link>https://speakerdeck.com/viva_tweet_x/retrospective-catalog-59bd3a29-314c-45dd-911b-f8e5f1308333</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Casino kingdom Play Online Game (SurajBagri)</title>
+        <link>https://www.slideshare.net/SurajBagri/casino-kingdom-play-online-game</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Watch WWE SmackDown</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vTBGl0-PjYNS8MyXnsfsCBuVu1AuNw6VgZsUBeEtj2Ndteg-GGBQ9mYX98Hwbykg-SFEP5Nn1iGQW_c/pub</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>UIテストの実行時間を短縮させる方法 (Toshiyuki Hirata)</title>
         <link>https://www.slideshare.net/tarappo/ui-87594732</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Room とコルーチンと私</title>
-        <link>https://docs.google.com/presentation/d/1Z0e3tDzXQGUN7jsnaZc3TYWuTDsqMZUvN7_ktS5uh38/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>15分で分かった気になるGraphQL (s-ichikawa)</title>
-        <link>https://speakerdeck.com/ichikawa/15fen-defen-katutaqi-ninarugraphql</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>強化学習その1 (nishio)</title>
-        <link>https://www.slideshare.net/nishio/1-70974083</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>State of Vue Apr 16 2020</title>
-        <link>https://docs.google.com/presentation/d/1LHp-8hEtXEMSE1fd6YLAhYmtndQelQKbWlGggZKe4y8/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>そうだ RubyKaigi、行こう。 / Let's go to RubyKaigi (aiandrox)</title>
-        <link>https://speakerdeck.com/aiandrox/lets-go-to-rubykaigi</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Uxデザイナーがpoとして開発チームと”握る”ためにやっていること 170927 (英明 伊藤)</title>
-        <link>https://www.slideshare.net/itow_ponde/uxpo-170927-80220011</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>負債解消手段としてのビッグバンフルリプレイス、行うための３つの条件とは？ (Yuki Toida)</title>
-        <link>https://speakerdeck.com/yukitoida/fu-zhai-jie-xiao-shou-duan-tositenobitugubanhururipureisu-woshi-xian-surutameno3tunotiao-jian-toha</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JR東日本情報システム HoloLens 2開発事例とその知見紹介</title>
-        <link>https://docs.google.com/presentation/d/1HAQxNMdra_cNNEIqdQfB8YEcR7c8FaSBCVyWdGsvjv4/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
