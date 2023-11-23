@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GPT3を使った 自動メッセージ作成</title>
+        <link>https://docs.google.com/presentation/d/1YOdy8zr8nWoiH869TB7a5Rzi0Pilc03ymMCPrSruwOU/preview</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JSのウェブフレームワークで高速なルーターを実装する方法 (Taku Amano)</title>
+        <link>https://speakerdeck.com/usualoma/ultrafast-js-router</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>婚活・恋活領域におけるPythonを使ったマッチング最適化 (Takashi Morioka, @​_ok_mario)</title>
+        <link>https://www.slideshare.net/TakashiMorioka/python-172910459</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>関西Node学園 8時限目</title>
+        <link>https://docs.google.com/presentation/d/1ccHM7jqRFjdvZDyMFe8xYg6J6aL244IUIc3MDhThL-Q/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Re:ゼロからはじめるElectron 〜Electronで ゲームを作りたかった話〜 #kyotojs (Potato4d(Hanatani Takuma))</title>
+        <link>https://speakerdeck.com/potato4d/re-zerokarahazimeruelectron-electronde-gemuwozuo-ritakatutahua-number-kyotojs</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>複数話者WaveNetボコーダに関する調査 (Tomoki Hayashi)</title>
+        <link>https://www.slideshare.net/t_koshikawa/wavenet-87105461</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BlinkOn 14: Prerendering Update</title>
+        <link>https://docs.google.com/presentation/d/1Rpi-R0wo4r7tgFTfGAMVAqZfiOmqJqEW7kDM-KY6Q-s/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロダクトを10年運用する チームをつくる / DevSumi2020 (KASUYA, Daisuke)</title>
+        <link>https://speakerdeck.com/daiksy/devsumi2020</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>EFS利用事例 -Craft Warriorsのバトルを支える仕組み- (Masakazu Matsushita, @​matsukaz)</title>
+        <link>https://www.slideshare.net/matsukaz/craft-warriorsefs</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DMMプラットフォームにおけるコード品質を改善する取り組みの理想と現実 (pospome)</title>
         <link>https://speakerdeck.com/pospome/dmmpuratutohuomuniokerukodopin-zhi-wogai-shan-suruqu-rizu-minoli-xiang-toxian-shi</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>20200508remotepy Pythonで自動化スクリプトを作るときに考えていること</title>
         <link>https://docs.google.com/presentation/d/1YP03-0THNmWLdqIi_hrcgi-k7y_2G7jj5iWXf973Ew4/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モバイルプラットフォームの Firebaseだけど モバイル向けでもない Webサイトを構築する (TanakaMidnight)</title>
-        <link>https://speakerdeck.com/tanakamidnight/mobairupuratutohuomufalse-firebasedakedo-mobairuxiang-kedemonai-websaitowogou-zhu-suru</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Scale permissions management in AWS with attribute-based access contr… (Amazon Web Services, @​awscloud)</title>
-        <link>https://www.slideshare.net/AmazonWebServices/scale-permissions-management-in-aws-with-attributebased-access-control-sdd350r-aws-reinforce-2019</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[PUBLIC] The Art of SLOs – Slides</title>
-        <link>https://docs.google.com/presentation/d/1qcQ6alG_qUg3qWf733ZsDnTggwzqe4PZICrFXZ1zQZs/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DeepWalking Backwards:�From Embeddings Back to Graphs (Sansan DSOC)</title>
-        <link>https://speakerdeck.com/sansandsoc/deepwalking-backwards-from-embeddings-back-to-graphs</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Data Explorer (Daisuke Masubuchi, @​dmasubuchi)</title>
-        <link>https://www.slideshare.net/dmasubuchi/azure-data-explorer</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[JA]Exploitation Fundamentals</title>
-        <link>https://docs.google.com/presentation/d/1rLbyE6LDtpFjIS2ABidmnK0mIyi0Qm4pQMp5mkgbdw8/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Aizu.go second (Yamashou)</title>
-        <link>https://speakerdeck.com/yamashou/aizu-dot-go-second</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>集約署名 (MITSUNARI Shigeo, @​herumi)</title>
-        <link>https://www.slideshare.net/herumi/ss-174191167</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Owning the clout through SSRF and PDF generators - Public v1.​0</title>
-        <link>https://docs.google.com/presentation/d/1JdIjHHPsFSgLbaJcHmMkE904jmwPM4xdhEuwhy2ebvo/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
