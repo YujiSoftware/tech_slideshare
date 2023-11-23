@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20200508remotepy Pythonで自動化スクリプトを作るときに考えていること</title>
+        <link>https://docs.google.com/presentation/d/1YP03-0THNmWLdqIi_hrcgi-k7y_2G7jj5iWXf973Ew4/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モバイルプラットフォームの Firebaseだけど モバイル向けでもない Webサイトを構築する (TanakaMidnight)</title>
+        <link>https://speakerdeck.com/tanakamidnight/mobairupuratutohuomufalse-firebasedakedo-mobairuxiang-kedemonai-websaitowogou-zhu-suru</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Scale permissions management in AWS with attribute-based access contr… (Amazon Web Services, @​awscloud)</title>
+        <link>https://www.slideshare.net/AmazonWebServices/scale-permissions-management-in-aws-with-attributebased-access-control-sdd350r-aws-reinforce-2019</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[PUBLIC] The Art of SLOs – Slides</title>
+        <link>https://docs.google.com/presentation/d/1qcQ6alG_qUg3qWf733ZsDnTggwzqe4PZICrFXZ1zQZs/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DeepWalking Backwards:�From Embeddings Back to Graphs (Sansan DSOC)</title>
+        <link>https://speakerdeck.com/sansandsoc/deepwalking-backwards-from-embeddings-back-to-graphs</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure Data Explorer (Daisuke Masubuchi, @​dmasubuchi)</title>
+        <link>https://www.slideshare.net/dmasubuchi/azure-data-explorer</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[JA]Exploitation Fundamentals</title>
+        <link>https://docs.google.com/presentation/d/1rLbyE6LDtpFjIS2ABidmnK0mIyi0Qm4pQMp5mkgbdw8/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Aizu.go second (Yamashou)</title>
+        <link>https://speakerdeck.com/yamashou/aizu-dot-go-second</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>集約署名 (MITSUNARI Shigeo, @​herumi)</title>
+        <link>https://www.slideshare.net/herumi/ss-174191167</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Owning the clout through SSRF and PDF generators - Public v1.​0</title>
         <link>https://docs.google.com/presentation/d/1JdIjHHPsFSgLbaJcHmMkE904jmwPM4xdhEuwhy2ebvo/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>俺が今までやらかした失敗事例、やらかしそうになったヒヤリハット事例を紹介する (大前良介 (OHMAE Ryosuke))</title>
         <link>https://speakerdeck.com/ohmae/an-gajin-madeyarakasitashi-bai-shi-li-yarakasisouninatutahiyarihatutoshi-li-woshao-jie-suru</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Live cricket online (kelly45124)</title>
-        <link>https://www.slideshare.net/kelly45124/live-cricket-online-197387695</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>hoshi20201211_FinTechTrend2021</title>
-        <link>https://docs.google.com/presentation/d/1UOZKL3eE2zwbejCb_htjzrppSpr8PUC5HSby49BvO9k/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業価値と Engineering (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/shi-ye-jia-zhi-to-engineering</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CNNで作る ダメ絶対音感 (Genki Ishibashi)</title>
-        <link>https://www.slideshare.net/genkiishibashi3/cnn-102574367</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Memory &amp; Binding Team Roadmap, 2015 Oct</title>
-        <link>https://docs.google.com/presentation/d/18OiH9iIFK90uR-4wEwjn97IqXGGUiANBZgENt9dAkQg/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>X-Ray and ECS (Kousuke Miyauchi)</title>
-        <link>https://speakerdeck.com/gari927/x-ray-and-ecs</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Azure Storage 概要 (Takeshi Fukuhara, @​tfukuha)</title>
-        <link>https://www.slideshare.net/ssuser411bae/microsoft-azure-storage-154463058</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>歴史あるプロダクトでFlutterを採用した話</title>
-        <link>https://docs.google.com/presentation/d/1YA-yLeNl7FHZudX4Y5Yk-Q9EShDkLPV6VCFbOnVlRAc/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TCA v0.​19.​0からのSwitchStore/CaseLetが良い (yimajo)</title>
-        <link>https://speakerdeck.com/yimajo/caseletgaliang-i</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
