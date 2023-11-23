@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>〇面白文章力クラブオフ会プレゼン資料2「面白文章力クラブに実際に入ってみてどうだったか？」</title>
+        <link>https://docs.google.com/presentation/d/1diw90PsvtAZaQlphmpt1gEiVC8M9jSKrW2YEceWWr9Y/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>cookpad-summer-internship-2020-android (ksfee684)</title>
+        <link>https://speakerdeck.com/ksfee684/cookpad-summer-internship-2020-android</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DLLAB Engineer Days : ONNX Export &amp; Optimize (Kazuki Kyakuno)</title>
+        <link>https://www.slideshare.net/KazukiKyakuno/dllab-engineer-days-onnx-export-optimize</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FastAPI って何者？</title>
+        <link>https://docs.google.com/presentation/d/1pBzS8Wm4ubuBlcQIOcjrVpFwDgQNXqvtWWxbjt71Eoc/preview</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DynamoDB のインデックス再編事例 (Kazutomo Niwa)</title>
+        <link>https://speakerdeck.com/kazutomo/dynamodb-falseindetukusuzai-bian-shi-li</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHP-MLを使用して気軽に機械学習にトライしてみる (Ryo Shibayama)</title>
+        <link>https://www.slideshare.net/serima1/phpml</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Online RISC-V emulator</title>
+        <link>https://docs.google.com/presentation/d/1qeR6KMSaJTR0ZSa2kLxgcBuc_zBo3l-kYbOpq1Wqmi0/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JUnit5.7, 5.8の新機能紹介 #jjug_ccc #jjug_ccc_b / junit 5.7, 5.8 new features (kyonmm)</title>
+        <link>https://speakerdeck.com/kyonmm/junit-5_7-5_8-new-features</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GoogleのSHA-1のはなし (MITSUNARI Shigeo, @herumi)</title>
+        <link>https://www.slideshare.net/herumi/googlesha1</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実装の引き出しを増やすためのDOM Eventテクニック</title>
         <link>https://docs.google.com/presentation/d/1rXzTVLYx1Idh46IGY51RTLBp-6TH43wmzulj3njd_5I/preview</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Splatoon2をやりましょう 〜Rubyで絵を描く〜 (Yukimitsu Izawa)</title>
         <link>https://speakerdeck.com/izawa/splatoon2woyarimasiyou-rubydehui-womiao-ku</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイバーセキュリティ人材の育成に向けて (UEHARA, Tetsutaro)</title>
-        <link>https://www.slideshare.net/tetsutalow/ss-122768375</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>rqlite: The lighweight, distibuted database built on Raft and SQLite</title>
-        <link>https://docs.google.com/presentation/d/1Q8lQgCaODlecHa2hS-OeMGoij22oMZ_xhyeRTrQnn6o/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Operator でどう変わる? これからのデータベース運用 / cndt2019_k8s_operator (yukirii)</title>
-        <link>https://speakerdeck.com/yukirii/cndt2019-k8s-operator</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Elaticsearchのクエリを楽に書けるようにした話 (Sasaki Takashi)</title>
-        <link>https://www.slideshare.net/SasakiTakashi/elaticsearch</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プログラミング言語 Go のススメ</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTidBqgPkMcC8F4A_29qaMoD8S-kHmBgwCkMOBldjl1VDvJlK8mIInf_mxFHjXeSysu3-6xhSLlkbyC/pub</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Why this training? (Yasunobu Kawaguchi)</title>
-        <link>https://speakerdeck.com/kawaguti/why-this-training</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チャットボットのUXと、導入現場のリアル（第2版） (Yoshiki Hayama, storywriter)</title>
-        <link>https://www.slideshare.net/storywriterjp/ux2-110342916</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vuetify v2+ - Amsterdam 2020</title>
-        <link>https://docs.google.com/presentation/d/13dt0RmiQyulnLcfkj7OokLDG3Oe-R1SXkwwNZ6SmZYU/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Clojure 1.10 概要紹介 (OHTA Shogo)</title>
-        <link>https://speakerdeck.com/athos/clojure-1-dot-10-gai-yao-shao-jie</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
