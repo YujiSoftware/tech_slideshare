@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実装の引き出しを増やすためのDOM Eventテクニック</title>
+        <link>https://docs.google.com/presentation/d/1rXzTVLYx1Idh46IGY51RTLBp-6TH43wmzulj3njd_5I/preview</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>From Java through Scala to Clojure (Kent OHASHI)</title>
+        <link>https://speakerdeck.com/lagenorhynque/from-java-through-scala-to-clojure</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Testing Tools with AI (VodqaBLR)</title>
+        <link>https://www.slideshare.net/VodqaBLR/testing-tools-with-ai</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Back to the noisy channel</title>
+        <link>https://docs.google.com/presentation/d/1c99t9yUp-_Qtwvu9d0y7tuB1aM-r_t_y1vKC-COZuWw/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2022年コンテナ/Kubernetes向けストレージ技術の最新動向 (Yukinori Sakashita)</title>
+        <link>https://speakerdeck.com/ysakashita/kubernetesxiang-kesutoreziji-shu-nozui-xin-dong-xiang</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[DL輪読会]M2Det: A Single-Shot Object Detector based on Multi-Level Feat… (Deep Learning JP)</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dlm2det-a-singleshot-object-detector-based-on-multilevel-feature-pyramid-network</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Serverless_Type_WEB_Application_Delivery_Platform</title>
+        <link>https://docs.google.com/presentation/d/1Cq8yU0WNWAvXgPpRGFf16ZAvSnhhNVeDBaU35lTaFhQ/preview</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発支援のための組織体制 〜ゆめみの情報共有と成長環境〜 / abceed Tech Night yumemi (USAMI Kosuke)</title>
+        <link>https://speakerdeck.com/usamik26/abceed-tech-night-yumemi</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>さらば！データサイエンティスト (Shohei Hido, @​sla)</title>
+        <link>https://www.slideshare.net/shoheihido/ss-25510340</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>レイマーチング大衆化運動</title>
         <link>https://docs.google.com/presentation/d/1UUVCZaXutDwATGv-31RmGnxw16GWe3NiP9Ee1DaMsnA/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Clojure 1.10 概要紹介 (OHTA Shogo)</title>
         <link>https://speakerdeck.com/athos/clojure-1-dot-10-gai-yao-shao-jie</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JavaScript GIS ライブラリ turf.js 入門 (Takahiro Kamada)</title>
-        <link>https://www.slideshare.net/takahi/javascript-gis-turfjs</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オーディションレギュレーション_ver3</title>
-        <link>https://docs.google.com/presentation/d/1QyYDeSLqDGXCSv9Uk_pVUKHJF_f52y3kb3EhgHogQ3Q/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CQRSを学ぶついでにCloud FunctionsとFirestoreを連動させる時の小技も学ぶ (hecateball)</title>
-        <link>https://speakerdeck.com/hecateball/cqrswoxue-butuidenicloud-functionstofirestorewolian-dong-saserushi-falsexiao-ji-moxue-bu</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spherical CNNs paper reading (Kohta Ishikawa)</title>
-        <link>https://www.slideshare.net/kohta/spherical-cnns-paper-reading-98690234</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シャーディング技術の全体像と研究動向 @20200403 blockchain.​tokyo Online#2 (共有用)</title>
-        <link>https://docs.google.com/presentation/d/1aTghdwY78hrXPFPDufiL-GpQvwbSj-IzAjW34pppDyM/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare初心者がIaCから基本構成を学んでみた (Yuki_Kurono)</title>
-        <link>https://speakerdeck.com/yuki_kurono/cloudflarechu-xin-zhe-gaiackaraji-ben-gou-cheng-woxue-ndemita</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[GCC18] 世界中のプレイヤーを３つの「S」で支える Google Cloud Platform (GCP) 〜スピード・スケール・… (Samir Hammoudi, @ksimir)</title>
-        <link>https://www.slideshare.net/HammoudiSamir/gcc18-s-google-cloud-platform-gcp</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>champパッケージで4脚ロボットを作った</title>
-        <link>https://docs.google.com/presentation/d/1UqXFFjBLaojIiDWl29LWIgjsOqIYsjPdeOd8BF2Khx0/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クライアントワーク企業でもできるエンジニアリング組織のつくりかた (AP Communications Co., Ltd.)</title>
-        <link>https://speakerdeck.com/apcom/kuraiantowakuqi-ye-demodekiruenziniaringuzu-zhi-falsetukurikata</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
