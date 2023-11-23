@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JDK Flight Recorder入門 (Chihiro Ito)</title>
+        <link>https://speakerdeck.com/chiroito/jdk-flight-recorderru-men</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Working Backwards from the Customer (Amazon Web Services, awscloud)</title>
+        <link>https://www.slideshare.net/AmazonWebServices/working-backwards-from-the-customer</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Dynamic import() towards Stage 4</title>
+        <link>https://docs.google.com/presentation/d/1suZ5vfthSnB8mneogiR7Y-5FcXqbQiR9MKEvJUlIRsc/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>事業と歩む Ameba システム刷新の道 / the-road-to-ameba-system-renovation-aws-summit-online (kakerukaeru)</title>
+        <link>https://speakerdeck.com/kakerukaeru/the-road-to-ameba-system-renovation-aws-summit-online</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Itsuki Kuroda, Senior manager at Recruit technologies | SlideShare</title>
+        <link>https://www.slideshare.net/i2key</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアは BodyもBuildしよう。</title>
+        <link>https://docs.google.com/presentation/d/1SU88bsHxDsPVS5Zfm0X69-s-50nHb2Jm3PK9uZOUPRg/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>知ろう！使おう！HDF5ファイル！/pycon-jp-2019-talk (thinkAmi)</title>
+        <link>https://speakerdeck.com/thinkami/pycon-jp-2019-talk</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>インタラクティブ・ストリーミングが変えるゲームコンテンツの未来 (Takaaki Ichijo, @​Takaaki_Ichijo)</title>
+        <link>https://www.slideshare.net/takaakiichijo/ss-189627561</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Running Android Apps on VM in Chrome OS</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vTm8WYGp1nq5wLDmSSQ2kxYY-u4LmcYrInbGmGT7DbBFXJv8rujJUkeMsczeNo-vyyMRj84OFSBrCrQ/pub</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>サポートベクターマシン(SVM)の数学をみんなに説明したいだけの会 (Kenyu Uehara, @​kenyu0501_)</title>
         <link>https://www.slideshare.net/ssuser186f56/svm-146231602</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>型ヒントの5年間を振り返る</title>
-        <link>https://docs.google.com/presentation/d/1kxX5_bL1Rv-sW7zJDBSve9g69A_AJbAEvMXkhlMrBR4/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最初の言語としてGoを学んだ人から見た Ruby on Rails (mom0tomo)</title>
-        <link>https://speakerdeck.com/mom0tomo/zui-chu-falseyan-yu-tositegowoxue-ndaren-karajian-ta-ruby-on-rails</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Puppet Performance Profiling (ripienaar)</title>
-        <link>https://www.slideshare.net/ripienaar/puppet-performance-profiling</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Robosemi 210917.​pptx</title>
-        <link>https://docs.google.com/presentation/d/1XaYSO9JYQWKEdLaIKDOXiqsfZxA5f1d7/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイルなチームをつくる ふりかえりのガイド / A Retrospective Guide (viva_tweet_x)</title>
-        <link>https://speakerdeck.com/viva_tweet_x/a-retrospective-guide</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes on AWS at Zalando: Failures &amp; Learnings - DevOps NRW (Henning Jacobs, try_except_)</title>
-        <link>https://www.slideshare.net/try_except_/kubernetes-on-aws-at-zalando-failures-learnings-devops-nrw</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java Language Future (Chihiro Ito)</title>
-        <link>https://speakerdeck.com/chiroito/java-language-future</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Redmineプラグイン開発 スタートガイド 2020年版</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSMoLdbjP1fWzblhJSlvIOCfuv1Mu-GHeVmRyXLPNfbYoJcwgSZD1-XC_jhSnUl6k25PqDW6ojHb0Cs/pub</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
