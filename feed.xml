@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TWCTF 2020 Writeup</title>
+        <link>https://docs.google.com/presentation/d/1y1Ygcddx8zLs3d5nPRmfGxB7xsvZnVzQqham9XynF-I/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データベースを利用したテストを軽〜く実行したい時の味方: vimeo/php-mysql-engine / phperkaigi2021-lightning-talk (hideki kinjyo)</title>
+        <link>https://speakerdeck.com/o0h/phperkaigi2021-lightning-talk</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>はじめてのアマゾンクラウド②[仮想サーバ(Amazon EC2)を立ち上げる]</title>
+        <link>https://www.slideshare.net/kentamagawa/3amazon-ec2?ref=http://noric0124.hatenablog.jp/entry/2013/12/01/AWS%E3%81%AEEC2%E3%81%A8Teraterm%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6Linux%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E7%B7%B4%E7%BF%92_by_</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>XRMTG LT VR卓球</title>
+        <link>https://docs.google.com/presentation/d/1nMrcMZZ-QH8M_igeQHCUcQnCZkc58UHFXyMAbSq-6xE/preview</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>lightning-talk-about-lightning-network-powered-by-aws (Shu Kobuchi)</title>
+        <link>https://speakerdeck.com/shukob/lightning-talk-about-lightning-network-powered-by-aws</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Merging Online &amp; Offline to Deliver Omni-Channel Experiences, Perform… (Performics, @​performics)</title>
+        <link>https://www.slideshare.net/performics_us/merging-online-offline-to-deliver-omnichannel-experiences-performics</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>202007月度_田端大学課題「企業参謀」 _本番用</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQd0KCZW-Vs7Rco4qoTWCL9nPlI2FC91r7Qjm0YGQlYFObkq09WbUH1dcF7Noh2doXWhsSrud4ckgkq/pub</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Is Spock still needed in the time of JUnit 5? (Marcin Zajączkowski)</title>
+        <link>https://speakerdeck.com/szpak/is-spock-still-needed-in-the-time-of-junit-5</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Dockerを使ったクライアントハイパーバイザー (kunst1080)</title>
+        <link>https://www.slideshare.net/kunst1080/docker-90385544</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>rspec-daemonとVSCodeで 最強のテスト環境を作る v1.1</title>
         <link>https://docs.google.com/presentation/d/1nwS23ynqsro70RpO_W4l_woHebqgS9ZFdF3ncbEbGBw/preview</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>ナイフ1本で行うGoのサバイバル術</title>
         <link>https://docs.google.com/presentation/u/0/d/1EB-V2KyGADdQBWZPVfwh-lN-1blxi-ipLCvwbAq7tZs/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>500日のトライエラーから生まれた大規模設計ノウハウ / Frontend Conference Fukuoka 2018 (OKUNOKENTARO)</title>
-        <link>https://speakerdeck.com/okunokentaro/frontend-conference-fukuoka-2018</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ履歴管理のためのテンポラルデータモデルとReladomoの紹介 #jjug_ccc #ccc_g3 (Hiroshi Ito)</title>
-        <link>https://www.slideshare.net/itohiro73/jjug-ccc-2017-spring-bitemporal-data-modeling-and-reladomo</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Web in other parts of the world - Viewsource (shared)</title>
-        <link>https://docs.google.com/presentation/d/1HWEupPgaHrklIxfgdkwSeHR5ymXnN8kgFyoFhAO6F8w/edit</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エラーと仲良くなる方法 (にゅ〜ぶる)</title>
-        <link>https://speakerdeck.com/newburu/eratozhong-liang-kunarufang-fa</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MySQL 5.​7の罠があなたを狙っている (yoku0825)</title>
-        <link>https://www.slideshare.net/yoku0825/mysql-57-51945745</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GPT3を使った 自動メッセージ作成</title>
-        <link>https://docs.google.com/presentation/d/1YOdy8zr8nWoiH869TB7a5Rzi0Pilc03ymMCPrSruwOU/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JSのウェブフレームワークで高速なルーターを実装する方法 (Taku Amano)</title>
-        <link>https://speakerdeck.com/usualoma/ultrafast-js-router</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>婚活・恋活領域におけるPythonを使ったマッチング最適化 (Takashi Morioka, @​_ok_mario)</title>
-        <link>https://www.slideshare.net/TakashiMorioka/python-172910459</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>関西Node学園 8時限目</title>
-        <link>https://docs.google.com/presentation/d/1ccHM7jqRFjdvZDyMFe8xYg6J6aL244IUIc3MDhThL-Q/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
