@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GCP社内勉強会 (Taisei Ito)</title>
+        <link>https://speakerdeck.com/kaedemalu/gcpshe-nei-mian-qiang-hui</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FaaStRuby (Sachirou Inoue, @​ne_sachirou)</title>
+        <link>https://www.slideshare.net/sachirouinoue/faastruby</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ナイフ1本で行うGoのサバイバル術</title>
+        <link>https://docs.google.com/presentation/u/0/d/1EB-V2KyGADdQBWZPVfwh-lN-1blxi-ipLCvwbAq7tZs/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>500日のトライエラーから生まれた大規模設計ノウハウ / Frontend Conference Fukuoka 2018 (OKUNOKENTARO)</title>
+        <link>https://speakerdeck.com/okunokentaro/frontend-conference-fukuoka-2018</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データ履歴管理のためのテンポラルデータモデルとReladomoの紹介 #jjug_ccc #ccc_g3 (Hiroshi Ito)</title>
+        <link>https://www.slideshare.net/itohiro73/jjug-ccc-2017-spring-bitemporal-data-modeling-and-reladomo</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The Web in other parts of the world - Viewsource (shared)</title>
+        <link>https://docs.google.com/presentation/d/1HWEupPgaHrklIxfgdkwSeHR5ymXnN8kgFyoFhAO6F8w/edit</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エラーと仲良くなる方法 (にゅ〜ぶる)</title>
+        <link>https://speakerdeck.com/newburu/eratozhong-liang-kunarufang-fa</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MySQL 5.​7の罠があなたを狙っている (yoku0825)</title>
+        <link>https://www.slideshare.net/yoku0825/mysql-57-51945745</link>
+        <dc:date>2023-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GPT3を使った 自動メッセージ作成</title>
         <link>https://docs.google.com/presentation/d/1YOdy8zr8nWoiH869TB7a5Rzi0Pilc03ymMCPrSruwOU/preview</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>ng-japan: Testing Angular app (Yosuke Kurami)</title>
         <link>https://speakerdeck.com/quramy/ng-japan-testing-angular-app</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ初心者は webpackが解らないのか？- Why can’t you understand the webpack? -</title>
-        <link>https://www.slideshare.net/ssuser46977e/webpack-why-cant-you-understand-the-webpack?fbclid=IwAR1p6OBbhySs7iKN-1pRm-0v2Mq2KlN2dwkselfLnf0ltONubcPKPWPNTCo</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【公開用】Houdiniで作るNPRエフェクト＆After Effectsでのコンポジット実践解説オンラインセミナー登壇資料</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQJn1xS3XMnqoE9RVPAHB_0BB322S0Sqe4jpBuH5JOUDA8FSW0oBofOgZybQpPtcUrS4o9b6DJiIYQg/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践：日本語文章生成　Transformers ライブラリで学ぶ実装の守破離 / Introduction of Japanese Text Generation with Transformers (Shotaro Ishihara)</title>
-        <link>https://speakerdeck.com/upura/introduction-of-japanese-text-generation-with-transformers</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーレス開発ってもうかりまっか？  〜複数の事例からひもとくサーバーレス開発ビジネスの現場〜</title>
-        <link>https://www.slideshare.net/kaz.goto/ss-120446039?fbclid=IwAR3DNgbgkzKGK05R2qQbKGljhnY6DDYBPSGNfA85AKjHgnZ98FYt8Ya85jQ</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゼロ知識証明を用いた Proof of Reserves (PoR)</title>
-        <link>https://docs.google.com/presentation/d/1GU31FSLK-cZ4MWFneh8e_7vA85HIdVt2-vhl7RS2AH4/preview</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>数字を上げることが 目的になっていませんか？/engineer festival 2023 Link and Motivation (リンクアンドモチベーション)</title>
-        <link>https://speakerdeck.com/lmi/engineer-festival-2023-link-and-motivation</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20180630-interact2018-rev1 (Takano Masaru)</title>
-        <link>https://www.slideshare.net/takanomasaru77/20180630-interact2018-rev1</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20200508remotepy Pythonで自動化スクリプトを作るときに考えていること</title>
-        <link>https://docs.google.com/presentation/d/1YP03-0THNmWLdqIi_hrcgi-k7y_2G7jj5iWXf973Ew4/edit</link>
         <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
