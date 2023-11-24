@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サンプルを通して学ぶPWA開発</title>
+        <link>https://docs.google.com/presentation/d/19kq5v6RIsmVaWD38erGcJbRa4rocpzpKhstHNeDtsxY/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Bending The Curve: Putting Rust in Ruby with Helix (Godfrey Chan)</title>
+        <link>https://speakerdeck.com/chancancode/bending-the-curve-putting-rust-in-ruby-with-helix</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>忙しい人の5分で分かるDocker 2017年春Ver (Masahito Zembutsu, @zembutsu)</title>
+        <link>https://www.slideshare.net/zembutsu/5-minuts-docker-2017</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Web Creation in Society - 2020-02-15 in DIST31</title>
+        <link>https://docs.google.com/presentation/d/1kVz4fZFrXaROByBzQSP7SzTLAO8U4dRdE9CDYlQXGmM/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rails Performance Issues and Solutions (Akira Matsuda)</title>
+        <link>https://speakerdeck.com/a_matsuda/rails-performance-issues-and-solutions</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>同人ゲーム開発者が直面する法律問題 (IGDA Japan)</title>
+        <link>https://www.slideshare.net/sakugetu/ss-3235720</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>HTML だけで UI を作る限界、あるいは無理なくユースケースと向き合っていくためには</title>
+        <link>https://docs.google.com/presentation/d/1fc7zz4m0q-dnMDGANLRNOWwf_ZxsDrwWiTdUDAa9cNg/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goでコマンドラインツールを作ってプロダクション投入した話 (Ryuji Iwata)</title>
+        <link>https://speakerdeck.com/qt_luigi/godekomandorainturuwozuo-tutepurodakusiyontou-ru-sitahua</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Prophet入門【理論編】Facebookの時系列予測ツール (hoxo_m, @hoxo_m)</title>
+        <link>https://www.slideshare.net/hoxo_m/prophetfacebook</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SORACOMで農業してみませんか？ 〜農業活用コミュニティの紹介〜 | SORACOM UG Explorer 2019 (Koichiro Oki, @​kuroneko_ko2a)</title>
         <link>https://www.slideshare.net/kuroneko_ko2a/soracom-196972535</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>[2022 UPDATE] Google Cloud Official Icons and Solution Architectures</title>
         <link>https://docs.google.com/presentation/d/1fD1AwQo4E9Un6012zyPEb7NvUAGlzF6L-vo5DbUe4NQ/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームの体験をデザインする (Tetsuya Takeda)</title>
-        <link>https://speakerdeck.com/taketetsu1982/timufalseti-yan-wodezainsuru</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイル開発を支えるアーキテクチャ設計とは</title>
-        <link>https://www.slideshare.net/yusuke/ss-84327277/49</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サウンド対談</title>
-        <link>https://docs.google.com/presentation/d/127h14SkbJ98iGG2mn8tNrgn6G15rkvEHVz7jxBTwaHw/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Riot.jsでSemanticUIを使ってみる (Nobuki Inoue)</title>
-        <link>https://speakerdeck.com/black_trooper/riot-dot-jsdesemanticuiwoshi-tutemiru</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>go-thumber-imagick (Yo Ya, @yoya)</title>
-        <link>https://www.slideshare.net/yoyayoya1/gothumberimagick-73128486</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PFN で開発している深層学習 コンパイラスタックについて</title>
-        <link>https://docs.google.com/presentation/d/1WiFDrmcqLmaAUToT_PMrxXZLmWDRIZhlw90zQ69w4lY/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WordPressのサイトをRailsにしたはなし (Kouji OKAMOTO)</title>
-        <link>https://speakerdeck.com/motchang/wordpressfalsesaitoworailsnisitahanasi</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Data Science Bowl 2017 Winning Solutions Survey (Takami Sato)</title>
-        <link>https://www.slideshare.net/tkm2261/data-science-bowl-2017winning-solutions-survey</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SAWAYAKA_introduction&amp;instruction_sawatari_20190831</title>
-        <link>https://docs.google.com/presentation/d/17UdCdTXX7S34neULgNoG96qPtv-SoZ8O5wlhnyYv3hk/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
