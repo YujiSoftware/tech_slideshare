@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>日本語の表記ゆれ 解決方法の検討と実装 (Takahiko Ito)</title>
+        <link>https://speakerdeck.com/takahiko03/ri-ben-yu-falsebiao-ji-yure-jie-jue-fang-fa-falsejian-tao-toshi-zhuang</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Laravel × レイヤードアーキテクチャをやってみている話 (Shohei Okada)</title>
+        <link>https://www.slideshare.net/ShoheiOkada/laravel-99536840</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Experimental features, RubyVM and numbered parameters</title>
+        <link>https://docs.google.com/presentation/d/1oNnZQaYj9yiGTzKV0MB13dxX3Z7_mOGfzhOJIucNfGg/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>知っておきたかったUIGestureRecognizerとUITouchの違い (Maika Yamada)</title>
+        <link>https://speakerdeck.com/myamada04/zhi-tuteokitakatutauigesturerecognizertouitouchfalsewei-i</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenStack Ocata リリース (Akira Yoshiyama)</title>
+        <link>https://www.slideshare.net/yosshy/openstack-ocata</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20190522 Laravel+Dockerを本番でも使いたい！</title>
+        <link>https://docs.google.com/presentation/d/11q_at2Z7it-kGvAH3vrxFoJxPTUP-hwqBO1fEaSvMTQ/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>An Introduction to Combinatorial Optimization through Traveling Salesman Problem (Shunji Umetani)</title>
+        <link>https://speakerdeck.com/umepon/an-introduction-to-combinatorial-optimization-through-traveling-salesman-problem</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PythonとAutoML at PyConJP 2019 (Masashi Shibata, @​c_bata_)</title>
+        <link>https://www.slideshare.net/c-bata/pythonautoml-at-pyconjp-2019</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20190604 State Execution Compendium at hashhub</title>
         <link>https://docs.google.com/presentation/d/1LI651NcXSX6-S6G-68VZAO1IKxDjnhBUNcxvW01WrFI/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>Chainerで学ぶdeep learning (Retrieva inc.)</title>
         <link>https://www.slideshare.net/Retrieva_jp/chainerdeep-learning</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FlowブロックチェーンDapps開発</title>
-        <link>https://docs.google.com/presentation/d/1wNOnfFQEP4YXboizVD7AUnnl2xyo65UZ-Sejw_Ku9o4/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tonamelのデータ基盤 ~データモデリング編~ (ikeda-masashi)</title>
-        <link>https://speakerdeck.com/mashiike/tonamelfalsedetaji-pan-detamoderingubian</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ディープラーニングで テルミン作ってみるミン 〜 Deep Thereminの調べ〜 (karaage0703, @​karaage0703)</title>
-        <link>https://www.slideshare.net/karaage0703/deep-theremin</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Journal policy frameworks STM Society day 2020</title>
-        <link>https://docs.google.com/presentation/d/1YxFE_KHmmTXjnHnINSPknwRY2gpas5Pub4j14wG3PZ0/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モバイルゲームにおけるカオスエンジニアリング実践に向けて (Cygames)</title>
-        <link>https://speakerdeck.com/cygames/mobairugemuniokerukaosuenziniaringushi-jian-nixiang-kete</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>rsyncやシェルでバックアップするよりも簡単にOSSのBaculaでバックアップしてみよう (Ken Sawada, @ksawada1979)</title>
-        <link>https://www.slideshare.net/kensawada14/rsyncossbacula</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>rosjp_171025</title>
-        <link>https://docs.google.com/presentation/d/1K8F9ppLOcYjq1tQumHexsipOj7EC-ZOCbzIhAOjc7ck/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>android app error handling (Shinnosuke Kugimiya)</title>
-        <link>https://speakerdeck.com/kgmyshin/android-app-error-handling</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
