@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>誰でもわかる強化学習 (今井翔太（えるエル）)</title>
+        <link>https://speakerdeck.com/imai_eruel/reinforcement-learning-for-everyone</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>210520_GAAD Japan 2021_あなたのウェブサイトのアクセシビリティ、一括自動テストしてみませんか？</title>
+        <link>https://docs.google.com/presentation/d/1PPMrT7djg4pP7No_Jzj2h9PSSb4ZfmatC9GgNjm2YxI/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>5000兆円の作り方 (usagimaru)</title>
+        <link>https://speakerdeck.com/usagimaru/5000zhao-yuan-falsezuo-rifang</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>How to write Ansible modules for A10 Thunder - A10 Networks' presenta… (Kentaro Ishizuka)</title>
+        <link>https://www.slideshare.net/KentaroIshizuka/a10-ansible-nightosaka201811</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Modernizing pixiv</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQck4DKc3GBrfDU_LJYRwuBAaRBlFTgJD2_k523Ximoi5juNRIX6TrjRF5zR4A6xQ6czlBLudgu4qHO/pub</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>適応し続けるプロダクトとセキュリティ (Kengo Suzuki)</title>
+        <link>https://speakerdeck.com/ken5scal/shi-ying-sisok-keruhurotakutotosekiyuritei</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OSC2020 Fukuoka: インストールいらず、WebAR入門</title>
+        <link>https://www.slideshare.net/ssuserc0d7fb/osc2020-fukuoka-webar</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>HTML Optimization for Web Performance</title>
+        <link>https://docs.google.com/presentation/d/1aLhRaTr8GdA4vrEM4Frkmsyt3b5jjncPsvHtj9ar58U/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes標準のストレージ機能をおさらいしよう (hhiroshell)</title>
+        <link>https://speakerdeck.com/hhiroshell/kubernetesbiao-zhun-falsesutoreziji-neng-woosaraisiyou</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モノグサ万歳！Webデザイナーがesa→GitHub→Travis CI→Hexoで、ポートフォリオのビルドを自動化した話 #ltlove… (Ai Minatogawa)</title>
+        <link>https://www.slideshare.net/AiMinatogawa/webesagithubtravis-cihexo-ltlovers</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>What is doobie? - database access for scala - (chibochibo)</title>
         <link>https://www.slideshare.net/chibochibo/what-is-doobie-database-access-for-scala</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>DevFest2020_LT_ARCore</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vTpSuSzp1RXcjohkk4NG0vJAgbfXXbTLQbCn2Fzkd8Tr4LGSeTReWlTxFGHgCvi8D8v6v5CSWGuea8O/pub</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RESTからGraphQL APIへの移行で学んだこと (inoway46)</title>
-        <link>https://speakerdeck.com/inoway46/restkaragraphql-apihenoyi-xing-dexue-ndakoto</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BERT入門</title>
-        <link>https://www.slideshare.net/matsukenbook/bert-217710964?utm_campaign=piqcy&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go 言語 には data race が存在する</title>
-        <link>https://docs.google.com/presentation/d/1FqsnxwBHbs0jITHf1pVCiBUHn3EAsW9jlOzOWsGUOY4/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue_CLIプロジェクトにViteを導入検討してみた (hatsune)</title>
-        <link>https://speakerdeck.com/kitsuneeee/vue-clihurosiekutonivitewodao-ru-jian-tao-sitemita</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サービス開発における フロントエンド・ドメイン駆動設計の実践 (TakefumiYoshii)</title>
-        <link>https://www.slideshare.net/TakefumiYoshii/ss-87246744</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024 IBM Champion ノミネーションチャレンジ vol.2 (1ft-seabass)</title>
-        <link>https://speakerdeck.com/1ftseabass/ibm-champion-nomination-2024-vol2</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>キャチロボのプレゼン(仮置き</title>
-        <link>https://docs.google.com/presentation/d/1hhYtWlwF_20q96NhWxaAMKNCExsH0EBA1qieGaXTlL4/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>5文字で書くJavaScript/ Shibuya.XSS techtalk #10 (Masato Kinugawa)</title>
-        <link>https://speakerdeck.com/masatokinugawa/shibuya-dot-xss-techtalk-number-10</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>出版学会（活字離れ）資料</title>
-        <link>https://www.slideshare.net/tomohikohayashi/ss-56614985</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PyCon JP 2019 Day2 LT</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQem8k4xAa10tFbXrN2OSG_1eLOA5c637-yQ8kQqP_CbmHGNeklRN5YH8ZlHYI_0_-ywLdzFq2zYHap/pub</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
