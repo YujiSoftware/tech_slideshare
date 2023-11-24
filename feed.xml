@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>High Performance JavaScript</title>
+        <link>https://docs.google.com/presentation/d/1x2clfAPR9F83cBcmztFRXMnUw3pFX8QGdmXTMcIph4Y/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラスタ外から ClusterIP の Service に いい感じにアクセスする / How to connect to ClusterIP Service from the outside of Kubernetes cluster (Kazuki Suda)</title>
+        <link>https://speakerdeck.com/superbrothers/how-to-connect-to-clusterip-service-from-the-outside-of-kubernetes-cluster</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ある工場の Redmine 2016 (Kohei Nakamura)</title>
+        <link>https://www.slideshare.net/netazone/redmine-of-one-plant-2016</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第12回ロボゼミ</title>
+        <link>https://docs.google.com/presentation/d/14zoOuA3LuqGBONwemeh4kHyISTxo4r7f2JiQLKTy5YI/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CDNフル活用でつくる、高速Webアプリ / Using CDN To Improve Web Performance (Kazunari Hara)</title>
+        <link>https://speakerdeck.com/herablog/using-cdn-to-improve-web-performance</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Python 3のWebシステムでDDDに入門してみた (Hiromu Yakura, @​hiromu1996)</title>
+        <link>https://www.slideshare.net/hiromu1996/python-3webddd-205794956</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>中小企業デジタル化応援隊 活用までの流れ（IT専門家）</title>
+        <link>https://docs.google.com/presentation/d/1YqkSEXOkleYAtmaTZL0O14cJKw9k5kvKJrqTO-z-HsA/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VUCAワールドから紐解く組織や評価制度の変遷と再設計 (MATSUMOTO Ryosuke)</title>
+        <link>https://speakerdeck.com/matsumoto_r/vucawarudokaraniu-jie-kuzu-zhi-yaping-jia-zhi-du-falsebian-qian-tozai-she-ji</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コンテナ未経験新人が学ぶコンテナ技術入門</title>
+        <link>https://www.slideshare.net/KoheiTokunaga/ss-122754942?ref=https://jaco.udcp.info/</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kaiteki Forum: コロナで10年進んだデジタルトランスフォーメーション (日本語）</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vTKZqmQBDnkvNZa9aNA9pqJaYDU_DNUhh_u0fmxeG3hFLhDSgw7gZhzy_DQIzILy_cAUf0zrP9LjkPO/pub</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Effective E2E Test In An Electron Application (joe_re)</title>
         <link>https://speakerdeck.com/joere/effective-e2e-test-in-an-electron-application</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>分散環境におけるDocker とオーケストレーション (Masahito Zembutsu, @zembutsu)</title>
-        <link>https://www.slideshare.net/zembutsu/distributed-docker-swarm-orchestration</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CPU Exceptions</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQYgTNt6l5Rqbbq4AnjL6gynqVkmXUEVf3xovVoh-_3x-chbDi_eAwJuJuZ7poPKdu-eIpsvlQ60Wum/pub</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>軽量なDockerイメージで CIのビルド時間を短くしてみる (Ryosuke Horie)</title>
-        <link>https://speakerdeck.com/horie1024/qing-liang-nadockerimezide-cifalsebirudoshi-jian-woduan-kusitemiru</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20181211 - PGconf.ASIA - NVMESSD&amp;GPU for BigData (Kohei KaiGai, kkaigai)</title>
-        <link>https://www.slideshare.net/kaigai/20181211-pgconfasia-nvmessdgpu-for-bigdata</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[shared] 20220815 What's new in Go 1.19?</title>
-        <link>https://docs.google.com/presentation/d/1FkXdI9oR8mUCzh-woca7O3K_T5iZCirp7QcoJY3d4Wk/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HyperLedger Today (Seiji Takahashi)</title>
-        <link>https://speakerdeck.com/timakin/hyperledger-today</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[DL輪読会]Clebsch–Gordan Nets: a Fully Fourier Space Spherical Convoluti… (Deep Learning JP)</title>
-        <link>https://www.slideshare.net/DeepLearningJP2016/dlclebschgordan-nets-a-fully-fourier-space-spherical-convolutional-neural-network</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>日本語の表記ゆれ 解決方法の検討と実装 (Takahiko Ito)</title>
-        <link>https://speakerdeck.com/takahiko03/ri-ben-yu-falsebiao-ji-yure-jie-jue-fang-fa-falsejian-tao-toshi-zhuang</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Laravel × レイヤードアーキテクチャをやってみている話 (Shohei Okada)</title>
-        <link>https://www.slideshare.net/ShoheiOkada/laravel-99536840</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
