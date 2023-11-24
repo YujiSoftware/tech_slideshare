@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Google Cloud Spanner 沼への誘い Basic v20210730a</title>
+        <link>https://docs.google.com/presentation/d/1LlrIvkv02Jj1OvjKWsKnMNbR3Np72rUxWqatmzywLPI/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenShift.Run2023_create-aro-with-terraform (Taiki Ishii)</title>
+        <link>https://speakerdeck.com/ishiitaiki20fixer/openshift-dot-run2023-create-aro-with-terraform</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>没入度の高いARアプリケーション開発に向けた取り組み (Daiki Taniguchi, kidachi11)</title>
+        <link>https://www.slideshare.net/DaikiTaniguchi/ar-120972478</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>API×Lambda×雰囲気で作る お手軽LINE Bot開発</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQHGQGd6pxZApkZl7CBqD76F7w6exCKXvlGRQYEPxDPC-CCVhTT-5A5goTyzNyJxbW5Ey3lFVUQgaPZ/pub</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ハッシュと暗号は違うぞ！ / Do not confuse hashes and ciphers. (HASEGAWA Tomoki)</title>
+        <link>https://speakerdeck.com/tomzoh/do-not-confuse-hashes-and-ciphers</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>キャッチコピー フレームワーク15 (copita-tips)</title>
+        <link>https://www.slideshare.net/copita-tips/15-79039530</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>UV Study : Rust LT会 Vol.7 Rustで作るリアルタイムOS</title>
+        <link>https://docs.google.com/presentation/d/1YZCaiuIpNrh_6T9oiOFWtjv8q4QJklceKUAEKBDv9rE/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>シン・仮説検証 70000枚の付箋で分かった仮説検証のエッセンス / SHIN Hypothesis Testing (moriyuya)</title>
+        <link>https://speakerdeck.com/moriyuya/shin-hypothesis-testing</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ドメイン駆動設計　コアドメインを語り合ってみよう (増田 亨, @​masuda220)</title>
+        <link>https://www.slideshare.net/masuda220/ss-205208803</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>教材の入手方法「Google ColabでWebアプリ開発ハンズオン」</title>
         <link>https://docs.google.com/presentation/d/1Dx5A7g3I7hzdRc6hFK3OP5hkO08UWaIH1-SFBMwJXoY/preview</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Programming RbBCC (KONDO Uchio)</title>
         <link>https://speakerdeck.com/udzura/programming-rbbcc</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CV分野での最近の脱○○系3選 (Kazuyuki Miyazawa, @​kzykmyzw)</title>
-        <link>https://www.slideshare.net/KazuyukiMiyazawa/cv3-243467945</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20210505_ROSJapanUG#42</title>
-        <link>https://docs.google.com/presentation/d/1Pmwb5wAY2JKZah-uniEo3M7polo7UeWSMiQxUQioR3s/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ng-mocksを活用したユニットテストのご紹介 (Yusuke Oba)</title>
-        <link>https://speakerdeck.com/yusukeoba1/ng-mockswohuo-yong-sitayunitutotesutofalsegoshao-jie</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>知識集約型の製品開発においてプロダクトオーナーがやるべき3つのこと #agilejapan #agilejapannagasaki #ag… (満徳 関, fullvirtue)</title>
-        <link>https://www.slideshare.net/fullvirtue/3-agilejapan-agilejapannagasaki-agilejapanfukuoka</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>State of AI Report 2021 - ONLINE</title>
-        <link>https://docs.google.com/presentation/d/1bwJDRC777rAf00Drthi9yT2c9b0MabWO5ZlksfvFzx8/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアとしてのプロダクト貢献 (Seiya Kokushi)</title>
-        <link>https://speakerdeck.com/ronnnnn/enziniatositefalsepurodakutogong-xian</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>121020 Out Of Tokyo Vol.1 地方ウェブ担サミット (Seiji Morino)</title>
-        <link>https://www.slideshare.net/uneidou/121020-out-of-tokyo-vol1</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ready For Nuxt.​js 3</title>
-        <link>https://docs.google.com/presentation/d/1ZIzCC4_xE6N4yBDD4jnVZVOIUa7LGmtMPo_S8f3blFc/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Startup ゼミ 2021 秋期講習 / AWS Startup Seminar 2021 Autumn class - AWS Dev Day (mats)</title>
-        <link>https://speakerdeck.com/mats16/aws-startup-seminar-2021-autumn-class-aws-dev-day</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
