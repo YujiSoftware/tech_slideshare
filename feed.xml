@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>unbiased-learning-for-interactive-systems</title>
+        <link>https://docs.google.com/presentation/d/1LmDXroGHR9Qs9egvWnBgBG0zchLsxAkGBxSbmxgGIfM/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>目標を持って心地良いチーム開発を！ (DeNA_Tech)</title>
+        <link>https://speakerdeck.com/dena_tech/mu-biao-wochi-tutexin-di-liang-itimukai-fa-wo</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>猫でも分かるUMG (エピック・ゲームズ・ジャパン Epic Games Japan, @EpicGamesJapan)</title>
+        <link>https://www.slideshare.net/EpicGamesJapan/umg-80334310</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2019-05-03_Gitハンズオン Lv3.​5: 様々なrebase操作 (秋葉原)</title>
+        <link>https://docs.google.com/presentation/d/1qy0XpGHZS4bkpgkHhD8YbOnFMCpqn0CUPJb8klisNMY/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>はてなブログ タグの技術選択 / The technical details of Hatena Blog Tag (aereal)</title>
+        <link>https://speakerdeck.com/aereal/the-technical-details-of-hatena-blog-tag</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アーキテクチャから理解するPostgreSQLのレプリケーション (Masahiko Sawada, @sawada_masahiko)</title>
+        <link>https://www.slideshare.net/masahikosawada98/postgresql-86891271</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Optimizing Go code without a blindfold - GopherCon San Diego 2019</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQ9aFgICdqCz5pjrVJ4zFZrWtTKbfGYFPCOKsScomkLoE1Kzk3DVd9-u4k_XgZekqJ7nl-YTy4lD8Uq/pub</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pythonから使おうWatson! / Let's try Watson with python (Kyoko Nishito)</title>
+        <link>https://speakerdeck.com/kyokonishito/lets-try-watson-with-python</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MySQL 5.7 InnoDB 日本語全文検索 (yoyamasaki)</title>
+        <link>https://www.slideshare.net/yoyamasaki/20160209-inno-dbftsjp</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>XSLeaks in redirect flows</title>
         <link>https://docs.google.com/presentation/d/1rlnxXUYHY9CHgCMckZsCGH4VopLo4DYMvAcOltma0og/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>LayerXにおける機械学習を活用した請求書OCR機能に関する取り組み / deim2023-layerx-ai-ocr (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/deim2023-layerx-ai-ocr</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Black Belt Online Seminar 2017 AWSへのネットワーク接続とAWS上のネットワーク内部設計 (Amazon Web Services Japan, @awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/aws-black-belt-online-seminar-2017-awsaws</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Apps Script で始める RPA</title>
-        <link>https://docs.google.com/presentation/d/16Oo0_rVPl-gieZNAj2HNtWqQMJCPhW27CqLk-c5peyY/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>前処理が単語埋め込みに与える影響 A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks (uchi_k)</title>
-        <link>https://speakerdeck.com/uchi_k/qian-chu-li-gadan-yu-mai-meip-miniyu-eruying-xiang-a-comprehensive-analysis-of-preprocessing-for-word-representation-learning-in-affective-tasks</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ビックデータ分析基盤の成⻑の軌跡 (Recruit Lifestyle Co., Ltd.)</title>
-        <link>https://www.slideshare.net/RecruitLifestyle/ss-113196599</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rubyとハンダ付けからはじめる、自作キーボード入門</title>
-        <link>https://docs.google.com/presentation/d/12ulYx5A8_8aqHkoRZyyirHTW8c2e_vjhTeHZvkuTOcI/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>市場を創るためのルールメイキング (Takaaki Umada / 馬田隆明)</title>
-        <link>https://speakerdeck.com/tumada/shi-chang-wochuang-rutamefalserurumeikingu</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>市場価値で給料が決まるサイボウズの社員だけど、転職ドラフトに参加して給与交渉に挑戦してみました —結果編— (Yusuke Amano)</title>
-        <link>https://www.slideshare.net/ama-ch/ss-88211473</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>名古屋アジャイル勉強会「ティール組織 ～マネジメントの常識を覆す次世代型組織の出現～」 (Kamoshika soft, kaku_kaku)</title>
-        <link>https://www.slideshare.net/kakukaku/ss-138997037</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The ChatGPT Prompt Book - LifeArchitect.ai - Rev 3</title>
-        <link>https://docs.google.com/presentation/d/17b_ocq-GL5lhV_bYSShzUgxL02mtWDoiw9xEroJ5m3Q/preview</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
