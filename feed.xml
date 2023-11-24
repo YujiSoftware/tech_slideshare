@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>200424WEB MTGの極意ver3</title>
+        <link>https://docs.google.com/presentation/d/1XFsJf41wa7JBidMDbuQK70mvCMrc3SiM3bxsZx26DFE/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NewRelicプラットフォームを使ったオブザーバビリティ入門 / phpcon2020jp-observability (dmnlk)</title>
+        <link>https://speakerdeck.com/dmnlk/phpcon2020jp-observability</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Chainerで学ぶdeep learning (Retrieva inc.)</title>
+        <link>https://www.slideshare.net/Retrieva_jp/chainerdeep-learning</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FlowブロックチェーンDapps開発</title>
+        <link>https://docs.google.com/presentation/d/1wNOnfFQEP4YXboizVD7AUnnl2xyo65UZ-Sejw_Ku9o4/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Tonamelのデータ基盤 ~データモデリング編~ (ikeda-masashi)</title>
+        <link>https://speakerdeck.com/mashiike/tonamelfalsedetaji-pan-detamoderingubian</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ディープラーニングで テルミン作ってみるミン 〜 Deep Thereminの調べ〜 (karaage0703, @​karaage0703)</title>
+        <link>https://www.slideshare.net/karaage0703/deep-theremin</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Journal policy frameworks STM Society day 2020</title>
+        <link>https://docs.google.com/presentation/d/1YxFE_KHmmTXjnHnINSPknwRY2gpas5Pub4j14wG3PZ0/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モバイルゲームにおけるカオスエンジニアリング実践に向けて (Cygames)</title>
+        <link>https://speakerdeck.com/cygames/mobairugemuniokerukaosuenziniaringushi-jian-nixiang-kete</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>rsyncやシェルでバックアップするよりも簡単にOSSのBaculaでバックアップしてみよう (Ken Sawada, @ksawada1979)</title>
+        <link>https://www.slideshare.net/kensawada14/rsyncossbacula</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>rosjp_171025</title>
         <link>https://docs.google.com/presentation/d/1K8F9ppLOcYjq1tQumHexsipOj7EC-ZOCbzIhAOjc7ck/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>明日からはじめられるEventStorming（イベントストーミング） / Let's try EventStorming (Yoshitaka Okuda)</title>
         <link>https://speakerdeck.com/yoskhdia/lets-try-eventstorming</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【de:code 2020】 Power Platform で広がるデータ インテグレーションの世界 (2/2) (日本マイクロソフト株式会社, @​mskkpr)</title>
-        <link>https://www.slideshare.net/microsoftjp/decode-2020-power-platform-22</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2019-08-21 Angular in Production (UIT meetup Fukuoka vol.​1)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQXwt3uiI7Z-o5BHvZGq9C5n0czBrA5UgktnzS0dCj3IeZmKziZJdIPOldT23OlqrA7Njol35bStwLb/pub</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Econ Fiesta (dmoriwaki)</title>
-        <link>https://speakerdeck.com/daimoriwaki/econ-fiesta</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GCSアジャイル開発を使ったゲームの作り方 (Hiroyuki Tanaka)</title>
-        <link>https://www.slideshare.net/swiftnest/gcs-13381463</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloud Spanner 沼への誘い Basic v20210730a</title>
-        <link>https://docs.google.com/presentation/d/1LlrIvkv02Jj1OvjKWsKnMNbR3Np72rUxWqatmzywLPI/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenShift.Run2023_create-aro-with-terraform (Taiki Ishii)</title>
-        <link>https://speakerdeck.com/ishiitaiki20fixer/openshift-dot-run2023-create-aro-with-terraform</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>没入度の高いARアプリケーション開発に向けた取り組み (Daiki Taniguchi, kidachi11)</title>
-        <link>https://www.slideshare.net/DaikiTaniguchi/ar-120972478</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>API×Lambda×雰囲気で作る お手軽LINE Bot開発</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQHGQGd6pxZApkZl7CBqD76F7w6exCKXvlGRQYEPxDPC-CCVhTT-5A5goTyzNyJxbW5Ey3lFVUQgaPZ/pub</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハッシュと暗号は違うぞ！ / Do not confuse hashes and ciphers. (HASEGAWA Tomoki)</title>
-        <link>https://speakerdeck.com/tomzoh/do-not-confuse-hashes-and-ciphers</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
