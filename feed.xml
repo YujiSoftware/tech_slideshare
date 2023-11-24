@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Twirpで始めるスキーマ駆動API開発</title>
+        <link>https://docs.google.com/presentation/d/1x7ahtsKN7e6GRKhiK1cl66T7Gmwmkbb1K9v-rZggKuE/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Evolutionary Database Design for PHP Apps with Phinx (Paulo Phagula)</title>
+        <link>https://speakerdeck.com/pphagula/evolutionary-database-design-for-php-apps-with-phinx</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>図書館総合展 20191114 ウィキペディアと図書館の親和性 (Racco Jawp)</title>
+        <link>https://www.slideshare.net/RaccoJawp1/20191114-193964337</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[2022 UPDATE] Google Cloud Official Icons and Solution Architectures</title>
+        <link>https://docs.google.com/presentation/d/1fD1AwQo4E9Un6012zyPEb7NvUAGlzF6L-vo5DbUe4NQ/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>チームの体験をデザインする (Tetsuya Takeda)</title>
+        <link>https://speakerdeck.com/taketetsu1982/timufalseti-yan-wodezainsuru</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アジャイル開発を支えるアーキテクチャ設計とは</title>
+        <link>https://www.slideshare.net/yusuke/ss-84327277/49</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サウンド対談</title>
+        <link>https://docs.google.com/presentation/d/127h14SkbJ98iGG2mn8tNrgn6G15rkvEHVz7jxBTwaHw/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Riot.jsでSemanticUIを使ってみる (Nobuki Inoue)</title>
+        <link>https://speakerdeck.com/black_trooper/riot-dot-jsdesemanticuiwoshi-tutemiru</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>go-thumber-imagick (Yo Ya, @yoya)</title>
+        <link>https://www.slideshare.net/yoyayoya1/gothumberimagick-73128486</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PFN で開発している深層学習 コンパイラスタックについて</title>
         <link>https://docs.google.com/presentation/d/1WiFDrmcqLmaAUToT_PMrxXZLmWDRIZhlw90zQ69w4lY/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Amazon Kinesis Video Streams WebRTC 使ってみた (mganeko)</title>
         <link>https://www.slideshare.net/mganeko/amazon-kinesis-video-streams-webrtc-221404549</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spring Nativeの紹介</title>
-        <link>https://docs.google.com/presentation/d/1yLNTffctZQd-42FmYNNSeQ5PU9MugO26qtIrVf2FGTA/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Design System Discussion (Yosuke Furukawa)</title>
-        <link>https://speakerdeck.com/yosuke_furukawa/design-system-discussion</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20180721 First Challenge Logicflow (Tomoyuki Obi, twit_ahf)</title>
-        <link>https://www.slideshare.net/TomoyukiObi/20180721-first-challenge-logicflow</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>結果的にスクラムになってる！なのがいいと思う！ #RSGT2017 (Mitsuyuki Shiiba)</title>
-        <link>https://speakerdeck.com/bufferings/jie-guo-de-nisukuramuninatuteru-nafalsegaiitosi-u-number-rsgt2017</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OnsenUI + AngularJS + CloudEndpointsで作るSPA 地雷処理の巻 (Hiroshi Furuyama)</title>
-        <link>https://www.slideshare.net/hiroshifuruyama9/onsenui-angularjs-cloudendpointsspa-62291745</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>unbiased-learning-for-interactive-systems</title>
-        <link>https://docs.google.com/presentation/d/1LmDXroGHR9Qs9egvWnBgBG0zchLsxAkGBxSbmxgGIfM/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>目標を持って心地良いチーム開発を！ (DeNA_Tech)</title>
-        <link>https://speakerdeck.com/dena_tech/mu-biao-wochi-tutexin-di-liang-itimukai-fa-wo</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>猫でも分かるUMG (エピック・ゲームズ・ジャパン Epic Games Japan, @EpicGamesJapan)</title>
-        <link>https://www.slideshare.net/EpicGamesJapan/umg-80334310</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2019-05-03_Gitハンズオン Lv3.​5: 様々なrebase操作 (秋葉原)</title>
-        <link>https://docs.google.com/presentation/d/1qy0XpGHZS4bkpgkHhD8YbOnFMCpqn0CUPJb8klisNMY/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
