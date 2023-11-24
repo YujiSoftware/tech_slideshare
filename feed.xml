@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Webフロントエンド基礎研修 ~歴史から学ぶ、現場のスタンダードな開発~</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSjF1cp8fAdMKwFkLmtFT66e-UCD6zanO5KLsuRFmWyZ-8c06YQmgWT750Aqai2JfqHRARYWlkDLfaB/pub</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Motion Layout : Make your apps move auto-magically (Lin Min Phyo)</title>
+        <link>https://speakerdeck.com/hashlin/motion-layout-make-your-apps-move-auto-magically</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Managed App Configuration について MDMで iOSアプリ設定の配信 (feedtailor)</title>
+        <link>https://www.slideshare.net/feedtailor/managed-app-configuration-mdm-ios</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Signed HTTP Exchange subresource loading (#sxg_study)</title>
+        <link>https://docs.google.com/presentation/d/1lve4QnflFxJuDe55xzRjYi8fphEpiChSPLb5hOP9PA4/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>改めて整理するアプリケーション設計の基本 (os1ma)</title>
+        <link>https://speakerdeck.com/os1ma/gai-metezheng-li-suruapurikesiyonshe-ji-noji-ben</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Liquid の紹介 (Tomohiko Himura)</title>
+        <link>https://www.slideshare.net/TomohikoHimura/liquid</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rustによる数値計算の現状と課題</title>
+        <link>https://docs.google.com/presentation/d/1iujcfg2y3CMMgEO8BvX2__w_dbl4zQWQrK3ULaStD4E/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ジェネレーティブAI実践入門/20230524 (吉田真吾)</title>
+        <link>https://speakerdeck.com/yoshidashingo/20230524</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メドピアの開発の取り組み (Hiromichi Hirakawa)</title>
+        <link>https://www.slideshare.net/HiromichiHirakawa/ss-157681585</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>9.​ ゴールーチンとチャネル</title>
         <link>https://docs.google.com/presentation/d/1qyhk4vwjOOOty-AApB3rwP2LDxyxKh790a6xdo9tczQ/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>機械学習システムの33のアーキテクチャパターンおよびデザインパターン (Hironori Washizaki)</title>
         <link>https://www.slideshare.net/hironoriwashizaki/33-191682139</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HTML だけで UI を作る限界、あるいは無理なくユースケースと向き合っていくためには</title>
-        <link>https://docs.google.com/presentation/d/1fc7zz4m0q-dnMDGANLRNOWwf_ZxsDrwWiTdUDAa9cNg/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Importance of Morphological Analysis in Japanese Search Engines (Minoru Osuka)</title>
-        <link>https://speakerdeck.com/mosuka/the-importance-of-morphological-analysis-in-japanese-search-engines</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDNの必要性と将来性</title>
-        <link>https://www.slideshare.net/MasaakiNabeshima/cdn-49410618</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初めてのUNITYでVR inVR</title>
-        <link>https://docs.google.com/presentation/d/17XL9t7CWRkcmymf0y10jFgc9AK4mJROGcJJAawmPIHo/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Visually Grounded Neural Syntax Acquisition (Yuichiroh)</title>
-        <link>https://speakerdeck.com/yuichiroh/visually-grounded-neural-syntax-acquisition</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>日本の研究者による研究データマネジメント（RDM）の実践状況：�「研究データ公開と論⽂のオープンアクセスに関する実態調査」から (Ui Ikeuchi)</title>
-        <link>https://www.slideshare.net/ikeuchiui/rdm-238546330</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Double Faults</title>
-        <link>https://docs.google.com/presentation/d/1ge4QmMcG---IXv7w5tFbVF0F3MEBRn0UkAHU18di21Y/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サプライチェーン・セキュリティ Infra Study 2nd #4「セキュリティエンジニアリングの世界」 (Kengo Suzuki)</title>
-        <link>https://speakerdeck.com/ken5scal/sapuraitiensekiyuritei-infra-study-2nd-number-4-sekiyuriteienziniaringufalseshi-jie</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Aurora - Auroraの止まらない進化とその中身 (Amazon Web Services Japan, @awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/amazon-aurora-aurora/</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
