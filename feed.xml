@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GoとJSON</title>
+        <link>https://docs.google.com/presentation/d/1VCUPh21hrZRN-2kneQ07dxJPjgScSo3gsKESWlEBzIQ/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React Sketch.appでデザインガイドラインを作ってみた (Takayoshi Sawada)</title>
+        <link>https://speakerdeck.com/sawa_zen/react-sketch-dot-appdedezaingaidorainwozuo-tutemita</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>とある制作会社の目次索引作成技法 (Kenshi Muto)</title>
+        <link>https://www.slideshare.net/kenshimuto/ss-39948622</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LN - L2!L2!</title>
+        <link>https://docs.google.com/presentation/d/13mjgJNJKsaq0wklfTyxcc5a_ILWPmGRH2tuJZWOXnw0/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Unit of Workパターンで永続化とトランザクションを制御する (shimabox)</title>
+        <link>https://speakerdeck.com/shimabox/unit-of-workhatanteyong-sok-hua-totoransakusiyonwozhi-yu-suru</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ニコニコ生放送の watch ページを MobX で作り直している話 (_kondei)</title>
+        <link>https://www.slideshare.net/_kondei/watch-mobx</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>リモートWioくんで遠隔地の電源をON/OFFする (1stship)</title>
+        <link>https://speakerdeck.com/1stship/offsuru</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Upgrade Angular to v8.0</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vRfAA6JhQ-oPl_nKBSFHhDhkBrPcNHVu3OKZOEsfpHQ6FXZV1X_b3A50Hwx7_O1o6gA4WJSa_Y6E7aU/pub</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機械学習応用アーキテクチャ・デザインパターン概観 (Hironori Washizaki)</title>
+        <link>https://www.slideshare.net/hironoriwashizaki/ss-236852352</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>What Linux can learn from Solaris performance and vice-versa (Brendan Gregg)</title>
         <link>https://www.slideshare.net/brendangregg/what-linux-can-learn-from-solaris-performance-and-viceversa</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Signed HTTP Exchange subresource loading (#sxg_study)</title>
         <link>https://docs.google.com/presentation/d/1lve4QnflFxJuDe55xzRjYi8fphEpiChSPLb5hOP9PA4/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>改めて整理するアプリケーション設計の基本 (os1ma)</title>
-        <link>https://speakerdeck.com/os1ma/gai-metezheng-li-suruapurikesiyonshe-ji-noji-ben</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Liquid の紹介 (Tomohiko Himura)</title>
-        <link>https://www.slideshare.net/TomohikoHimura/liquid</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rustによる数値計算の現状と課題</title>
-        <link>https://docs.google.com/presentation/d/1iujcfg2y3CMMgEO8BvX2__w_dbl4zQWQrK3ULaStD4E/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ジェネレーティブAI実践入門/20230524 (吉田真吾)</title>
-        <link>https://speakerdeck.com/yoshidashingo/20230524</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メドピアの開発の取り組み (Hiromichi Hirakawa)</title>
-        <link>https://www.slideshare.net/HiromichiHirakawa/ss-157681585</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>9.​ ゴールーチンとチャネル</title>
-        <link>https://docs.google.com/presentation/d/1qyhk4vwjOOOty-AApB3rwP2LDxyxKh790a6xdo9tczQ/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rook/Ceph最新状況@Japan Rook Meetup #4 (Satoru Takeuchi)</title>
-        <link>https://speakerdeck.com/sat/cephzui-xin-zhuang-kuang-at-japan-rook-meetup-number-4</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Arduino TWE-Liteの使い方 (Atelier Frameworks)</title>
-        <link>https://www.slideshare.net/AtelierFrameworks/arduino-twelite</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>For a More Capable Web—Project Fugu</title>
-        <link>https://docs.google.com/presentation/d/1QPuoAWsk1BQfkg73x7IExvxi3VjIU9DGE0uIylprfWk/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
