@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Double Faults</title>
+        <link>https://docs.google.com/presentation/d/1ge4QmMcG---IXv7w5tFbVF0F3MEBRn0UkAHU18di21Y/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サプライチェーン・セキュリティ Infra Study 2nd #4「セキュリティエンジニアリングの世界」 (Kengo Suzuki)</title>
+        <link>https://speakerdeck.com/ken5scal/sapuraitiensekiyuritei-infra-study-2nd-number-4-sekiyuriteienziniaringufalseshi-jie</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Aurora - Auroraの止まらない進化とその中身 (Amazon Web Services Japan, @awscloud_jp)</title>
+        <link>https://www.slideshare.net/AmazonWebServicesJapan/amazon-aurora-aurora/</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenCensus for Frontend Development</title>
+        <link>https://docs.google.com/presentation/d/145vr-ouZFxlLub5dGyl3TkJmxqWqPMvmuZObUMgRzEg/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RubyのOSSコードリーディング / ruby-oss-code-reading (Osamtimizer)</title>
+        <link>https://speakerdeck.com/osamtimizer/ruby-oss-code-reading</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Web Component概要 (Shumpei Shiraishi)</title>
+        <link>https://www.slideshare.net/shumpei/web-component-14846079</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スクラムと見積り</title>
+        <link>https://docs.google.com/presentation/d/1s0ZVo6O7cs8wDAFLAwV2xyaMJCQ3yYSd1yf5sW3e-Pg/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TRAVEL Nowリリースの裏側 - 20180726 at TECH PLAY / TRAVEL Now (Mari Okada)</title>
+        <link>https://speakerdeck.com/mario_kada/travel-now</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[KDD 2018 tutorial] End to-end goal-oriented question answering syste… (Qi He)</title>
+        <link>https://www.slideshare.net/QiHe2/kdd-2018-tutorial-end-toend-goaloriented-question-answering-systems-110817295</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サンプルを通して学ぶPWA開発</title>
         <link>https://docs.google.com/presentation/d/19kq5v6RIsmVaWD38erGcJbRa4rocpzpKhstHNeDtsxY/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>AndroidManifest.xmlはその後どうなっているのか？</title>
         <link>https://docs.google.com/presentation/d/1pQcpH-uQVwOXargE90o6d7Bu9dnkd5COp9JO8896Wko/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoでGraphQLサーバを立てるぞ！ / Building GraphQL server by go (Masahiro Wakame)</title>
-        <link>https://speakerdeck.com/vvakame/building-graphql-server-by-go</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ちょっといいカメラ欲しいんだけど…って言われた時のおすすめカメラとレンズを超雑に紹介してみる(2017/07/13版) (Hiroshi Takayama)</title>
-        <link>https://www.slideshare.net/HiroshiTakayama/20161218</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoCon2019LT</title>
-        <link>https://docs.google.com/presentation/d/1mhvMIUmwyIcimLkVWY7x9ffwQ24bu-87-f8_KM5aaZw/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ITプロジェクトの歩き方 / How to work around software project (YUMOTO Michitaka)</title>
-        <link>https://speakerdeck.com/gothedistance/how-to-work-around-software-project</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unix コマンド入門 (Sho A)</title>
-        <link>https://www.slideshare.net/akagisho/unix-command-30250854</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Twirpで始めるスキーマ駆動API開発</title>
-        <link>https://docs.google.com/presentation/d/1x7ahtsKN7e6GRKhiK1cl66T7Gmwmkbb1K9v-rZggKuE/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Evolutionary Database Design for PHP Apps with Phinx (Paulo Phagula)</title>
-        <link>https://speakerdeck.com/pphagula/evolutionary-database-design-for-php-apps-with-phinx</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>図書館総合展 20191114 ウィキペディアと図書館の親和性 (Racco Jawp)</title>
-        <link>https://www.slideshare.net/RaccoJawp1/20191114-193964337</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[2022 UPDATE] Google Cloud Official Icons and Solution Architectures</title>
-        <link>https://docs.google.com/presentation/d/1fD1AwQo4E9Un6012zyPEb7NvUAGlzF6L-vo5DbUe4NQ/preview</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
