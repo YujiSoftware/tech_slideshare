@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>rosjp_171025</title>
+        <link>https://docs.google.com/presentation/d/1K8F9ppLOcYjq1tQumHexsipOj7EC-ZOCbzIhAOjc7ck/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>android app error handling (Shinnosuke Kugimiya)</title>
+        <link>https://speakerdeck.com/kgmyshin/android-app-error-handling</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>思ったほど怖くない！ Haskell on JVM 超入門 #jjug_ccc #ccc_l8 (y_taka_23)</title>
+        <link>https://www.slideshare.net/y_taka_23/haskell-on-jvm-jjugccc-cccl8</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オンライン運動会種目 作り方&amp;伝え方 β版</title>
+        <link>https://docs.google.com/presentation/d/1ElRXVjCn4oXjRbZTIcJ0eetnF161NbLZV_BU8ZDvm5I/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WebAssembly outside of the browser (d0iasm)</title>
+        <link>https://speakerdeck.com/d0iasm/webassembly-outside-of-the-browser</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DevOps ci/cd with Microsoft vsts and azure (Murughan Palaniachari, Murughan_P)</title>
+        <link>https://www.slideshare.net/arunmurughan/devops-cicd-with-microsoft-vsts-and-azure</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>KPI＆フレームワークから考える失敗しないアプリ改善 / How to successfully growth app (Tomoaki Takamatsu)</title>
+        <link>https://speakerdeck.com/t14i/how-to-successfully-growth-app</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pythonで時系列のデータを分析してみよう (達也 小林)</title>
+        <link>https://www.slideshare.net/ssuser49f8441/python-114923273</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TrapOfSpriteAtlas (Cova8bitdots)</title>
         <link>https://speakerdeck.com/cova8bitdots/trapofspriteatlas</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>ハッシュと暗号は違うぞ！ / Do not confuse hashes and ciphers. (HASEGAWA Tomoki)</title>
         <link>https://speakerdeck.com/tomzoh/do-not-confuse-hashes-and-ciphers</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>キャッチコピー フレームワーク15 (copita-tips)</title>
-        <link>https://www.slideshare.net/copita-tips/15-79039530</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UV Study : Rust LT会 Vol.7 Rustで作るリアルタイムOS</title>
-        <link>https://docs.google.com/presentation/d/1YZCaiuIpNrh_6T9oiOFWtjv8q4QJklceKUAEKBDv9rE/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シン・仮説検証 70000枚の付箋で分かった仮説検証のエッセンス / SHIN Hypothesis Testing (moriyuya)</title>
-        <link>https://speakerdeck.com/moriyuya/shin-hypothesis-testing</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドメイン駆動設計　コアドメインを語り合ってみよう (増田 亨, @​masuda220)</title>
-        <link>https://www.slideshare.net/masuda220/ss-205208803</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>教材の入手方法「Google ColabでWebアプリ開発ハンズオン」</title>
-        <link>https://docs.google.com/presentation/d/1Dx5A7g3I7hzdRc6hFK3OP5hkO08UWaIH1-SFBMwJXoY/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Front-end web application development with Azure PaaS &amp; Serverless, 2020 Update! (miyake)</title>
-        <link>https://speakerdeck.com/miyake/front-end-web-application-development-with-azure-paas-and-serverless-2020-update</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ReviveAdserverではじめるパーソナライズドリターゲティング (Nobumasa Ura)</title>
-        <link>https://www.slideshare.net/uranobumasa/revive-adserver</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>yttでYAML王に俺はなる!</title>
-        <link>https://docs.google.com/presentation/d/1FYbzsli4x9YJvNefbKQ8-NR3VWyC5Ou8WhKF32Cy8b4/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
