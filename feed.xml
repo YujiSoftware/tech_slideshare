@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>What is doobie? - database access for scala - (chibochibo)</title>
+        <link>https://www.slideshare.net/chibochibo/what-is-doobie-database-access-for-scala</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実践！モノリスからマイクロサービス！Event Stormingによるドメイン駆動設計から実装まで / AWS_Dev_Day_2023_E_3 (Atsushi Fukui)</title>
+        <link>https://speakerdeck.com/fatsushi/aws-dev-day-2023-e-3</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ngx_mrubyを用いた柔軟なABテスト基盤 (Recruit Lifestyle Co., Ltd.)</title>
+        <link>https://www.slideshare.net/RecruitLifestyle/ngxmrubyab</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenAI_Examples_を深堀りしてみた</title>
+        <link>https://docs.google.com/presentation/d/1IM7AI3VSL4dievFrL_jmZT_jc8j_4kTlPjfrUYBG_34/preview</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Testing is not the goal (Japanese Edition) (nihonbuson)</title>
+        <link>https://speakerdeck.com/nihonbuson/testing-is-not-the-goal-japanese-edition</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PCさえあればいい。 (bleis tift, @bleis)</title>
+        <link>https://www.slideshare.net/bleistift/pc-83199509</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20190629_Tokyo.​R_LT</title>
         <link>https://docs.google.com/presentation/d/1mDU3VgoaMgljEQj1zHSaDS5J0mzAu-MqlJd5jqHBt5I/edit</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>PyCon JP 2019 Day2 LT</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vQem8k4xAa10tFbXrN2OSG_1eLOA5c637-yQ8kQqP_CbmHGNeklRN5YH8ZlHYI_0_-ywLdzFq2zYHap/pub</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Laravelアプリを 倍速にするためのイロハ 〜障害対応から学ぶ高速化〜 (Mass-min)</title>
-        <link>https://speakerdeck.com/massmin/laravelapuriwo-bei-su-nisurutamefalseiroha-zhang-hai-dui-ying-karaxue-bugao-su-hua</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SketchがAndroidのUIデザインに向いているワケ (Asami Yamamoto)</title>
-        <link>https://www.slideshare.net/asamieee7/sketchandroidui-76429554</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Slackの3rd partyクライアント自作のこれから</title>
-        <link>https://docs.google.com/presentation/d/1TwQ6uRnVkwgBj3BgCi2a1CySo1bpIVCcv_w7bNC3MzQ/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ansible + CloudFormation を AWS CDK に移行する方法 v2 (manab)</title>
-        <link>https://speakerdeck.com/manab/ansible-plus-cloudformation-wo-aws-cdk-niyi-xing-surufang-fa-v2</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure aws違い (Masanobu Sato)</title>
-        <link>https://www.slideshare.net/miyavi0406/azure-aws</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Reserved decorator-like syntax: For Stage 1</title>
-        <link>https://docs.google.com/presentation/d/1HsbE-5l7CIHEQ60LMBKvHxmVHORh5NXujSNFMlNDdTQ/edit</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
