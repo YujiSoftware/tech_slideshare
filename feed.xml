@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>9.​ ゴールーチンとチャネル</title>
+        <link>https://docs.google.com/presentation/d/1qyhk4vwjOOOty-AApB3rwP2LDxyxKh790a6xdo9tczQ/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rook/Ceph最新状況@Japan Rook Meetup #4 (Satoru Takeuchi)</title>
+        <link>https://speakerdeck.com/sat/cephzui-xin-zhuang-kuang-at-japan-rook-meetup-number-4</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Arduino TWE-Liteの使い方 (Atelier Frameworks)</title>
+        <link>https://www.slideshare.net/AtelierFrameworks/arduino-twelite</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>For a More Capable Web—Project Fugu</title>
+        <link>https://docs.google.com/presentation/d/1QPuoAWsk1BQfkg73x7IExvxi3VjIU9DGE0uIylprfWk/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機械学習どこから手をつけよう？ Google DevFest 2018 Tokyo (Kazusa)</title>
+        <link>https://speakerdeck.com/tkazusa/ji-jie-xue-xi-dokokarashou-wotukeyou-google-devfest-2018-tokyo</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>組込エンジニアのための深層学習 (Takuya Matsunaga)</title>
+        <link>https://www.slideshare.net/kmt-t/ss-106683081</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Remote-Containersの接続先ホストにFedora CoreOSを使う / Using Fedora CoreOS for Remote-Containers (Shion Tanaka)</title>
+        <link>https://speakerdeck.com/tnk4on/using-fedora-coreos-for-remote-containers</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS ネージメントコンソール再入門 2019 (真乙 九龍, @​qryuu)</title>
+        <link>https://www.slideshare.net/qryuu/awsmanagementconsolereintroduction2019</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20191211_個人開発が停滞してる原因と対策</title>
         <link>https://docs.google.com/presentation/d/1jcHwYWPBlfEXv17mbsTChwn1-mr4ZFhWvX9GziQpeUI/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>Amazon Aurora - Auroraの止まらない進化とその中身 (Amazon Web Services Japan, @awscloud_jp)</title>
         <link>https://www.slideshare.net/AmazonWebServicesJapan/amazon-aurora-aurora/</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenCensus for Frontend Development</title>
-        <link>https://docs.google.com/presentation/d/145vr-ouZFxlLub5dGyl3TkJmxqWqPMvmuZObUMgRzEg/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RubyのOSSコードリーディング / ruby-oss-code-reading (Osamtimizer)</title>
-        <link>https://speakerdeck.com/osamtimizer/ruby-oss-code-reading</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web Component概要 (Shumpei Shiraishi)</title>
-        <link>https://www.slideshare.net/shumpei/web-component-14846079</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スクラムと見積り</title>
-        <link>https://docs.google.com/presentation/d/1s0ZVo6O7cs8wDAFLAwV2xyaMJCQ3yYSd1yf5sW3e-Pg/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TRAVEL Nowリリースの裏側 - 20180726 at TECH PLAY / TRAVEL Now (Mari Okada)</title>
-        <link>https://speakerdeck.com/mario_kada/travel-now</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[KDD 2018 tutorial] End to-end goal-oriented question answering syste… (Qi He)</title>
-        <link>https://www.slideshare.net/QiHe2/kdd-2018-tutorial-end-toend-goaloriented-question-answering-systems-110817295</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サンプルを通して学ぶPWA開発</title>
-        <link>https://docs.google.com/presentation/d/19kq5v6RIsmVaWD38erGcJbRa4rocpzpKhstHNeDtsxY/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bending The Curve: Putting Rust in Ruby with Helix (Godfrey Chan)</title>
-        <link>https://speakerdeck.com/chancancode/bending-the-curve-putting-rust-in-ruby-with-helix</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
