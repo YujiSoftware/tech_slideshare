@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20190604 State Execution Compendium at hashhub</title>
+        <link>https://docs.google.com/presentation/d/1LI651NcXSX6-S6G-68VZAO1IKxDjnhBUNcxvW01WrFI/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最近のTensorFlowの話 (Norihiro Shimoda)</title>
+        <link>https://speakerdeck.com/rindai87/zui-jin-falsetensorflowfalsehua</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>カテコラミン (Hiroyuki Ote)</title>
+        <link>https://www.slideshare.net/HiroyukiOte/ss-113921174</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>あなたはContextの挙動を説明できますか？ 最新版</title>
+        <link>https://docs.google.com/presentation/d/1xglEURYptsTg5KXh4bxWVKKOPba7N5DwPvazdi6Q1HY/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Network Bound Disk Encryptionとは (Kazuo Moriwaka)</title>
+        <link>https://speakerdeck.com/moriwaka/network-bound-disk-encryptiontoha</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>noteの決して止まらないカイゼンを支える、 エンジニアリングへの挑戦 (Kon Yuichi)</title>
+        <link>https://www.slideshare.net/KonYuichi/note-227802322</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ナイフ1本で行うGoのサバイバル術</title>
+        <link>https://docs.google.com/presentation/d/1EB-V2KyGADdQBWZPVfwh-lN-1blxi-ipLCvwbAq7tZs/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>じわじわとPerlからGoに移行しようとしている俺達のマイクロサービシーズの紹介 / The migrating to microservices in Go from Monolith in Perl (mackee)</title>
+        <link>https://speakerdeck.com/mackee/the-migrating-to-microservices-in-go-from-monolith-in-perl</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JAWSUG20180925 (陽平 山口)</title>
+        <link>https://www.slideshare.net/youheiyamaguchi/jawsug20180925</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>200424WEB MTGの極意ver3</title>
         <link>https://docs.google.com/presentation/d/1XFsJf41wa7JBidMDbuQK70mvCMrc3SiM3bxsZx26DFE/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>android app error handling (Shinnosuke Kugimiya)</title>
         <link>https://speakerdeck.com/kgmyshin/android-app-error-handling</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>思ったほど怖くない！ Haskell on JVM 超入門 #jjug_ccc #ccc_l8 (y_taka_23)</title>
-        <link>https://www.slideshare.net/y_taka_23/haskell-on-jvm-jjugccc-cccl8</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンライン運動会種目 作り方&amp;伝え方 β版</title>
-        <link>https://docs.google.com/presentation/d/1ElRXVjCn4oXjRbZTIcJ0eetnF161NbLZV_BU8ZDvm5I/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebAssembly outside of the browser (d0iasm)</title>
-        <link>https://speakerdeck.com/d0iasm/webassembly-outside-of-the-browser</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevOps ci/cd with Microsoft vsts and azure (Murughan Palaniachari, Murughan_P)</title>
-        <link>https://www.slideshare.net/arunmurughan/devops-cicd-with-microsoft-vsts-and-azure</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KPI＆フレームワークから考える失敗しないアプリ改善 / How to successfully growth app (Tomoaki Takamatsu)</title>
-        <link>https://speakerdeck.com/t14i/how-to-successfully-growth-app</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonで時系列のデータを分析してみよう (達也 小林)</title>
-        <link>https://www.slideshare.net/ssuser49f8441/python-114923273</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TrapOfSpriteAtlas (Cova8bitdots)</title>
-        <link>https://speakerdeck.com/cova8bitdots/trapofspriteatlas</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20190414 Point Cloud Reconstruction Survey</title>
-        <link>https://www.slideshare.net/FujimotoKeisuke/20190414-point-cloud-reconstruction-survey-140757963</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>明日からはじめられるEventStorming（イベントストーミング） / Let's try EventStorming (Yoshitaka Okuda)</title>
-        <link>https://speakerdeck.com/yoskhdia/lets-try-eventstorming</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
