@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>首都大講義資料</title>
+        <link>https://docs.google.com/presentation/d/1eJNfgmdbO_9hbgG_yVFX9vOSpa2K4C36OB7RSlCObU0/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ウェブブラウザ向け深層学習モデル高速実行フレームワーク「WebDNN」 (Kiikurage)</title>
+        <link>https://speakerdeck.com/kiikurage/uebuburauzaxiang-keshen-ceng-xue-xi-moderugao-su-shi-xing-huremuwaku-webdnn</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ユーザビリティテストをやってみよう (scarletplover)</title>
+        <link>https://www.slideshare.net/scarletplover/ss-84317973</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>null-safetyで快適Flutter生活</title>
+        <link>https://docs.google.com/presentation/d/1pYylt2nwBp2dQ5VAEI08WEj2aqpvarEKrDzchkpEJd4/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure Machine Learning - Ignite &amp; Build Update (20210603) (konabuta)</title>
+        <link>https://speakerdeck.com/konabuta/azure-machine-learning-ignite-and-build-update-20210603</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MVNO契約でInitial Attachを活用しよう！ (とうほぐモバイルミーティング)</title>
+        <link>https://www.slideshare.net/mobilemeeting/mvnoinitial-attach</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React+MSW+Storybookで始めるフロントエンドテスト</title>
+        <link>https://docs.google.com/presentation/d/1g58iBThR2eEHnOqiROR8FKvwv45ntXhngVGnVfaLLoc/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ZennにみるCloudRunとBigQueryによるアプリケーション構築 / zenn-cloudrun-bigquery-serverless (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/wadayusuke/zenn-cloudrun-bigquery-serverless</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ご注文はもきゅっとですか？？ (健太 松本)</title>
+        <link>https://www.slideshare.net/KentaMatsumoto/ss-59529311</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[公開] HTTP/3の今と将来 (html5j #71)</title>
         <link>https://docs.google.com/presentation/d/1zguVfx0ApC2IehcSp50-IXquWdekmXDwoJWomql_UOE/preview</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Mozilla Hubsの使い方_一般用</title>
         <link>https://docs.google.com/presentation/d/1q5flTzR_BHUAtAs1ZL7GWtuAOSWgsKJ_f4x5mZcHGyc/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>5 分ではわからない HM 型推論 - 型システム祭りオンライン 2020 4/17 (Biacco42)</title>
-        <link>https://speakerdeck.com/biacco42/17</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20200414 Fin-JAWS 金融アプリエンジニアが始めるAWS (secret)</title>
-        <link>https://www.slideshare.net/secret/r8H9pvLXPWFCVc</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Type Parameters in Go</title>
-        <link>https://docs.google.com/presentation/d/1NSAwji6SF1StyRA0AJocpW1RXA3rmKctI9xg6I7z_ks/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rust 🤝 Container Runtime @ Rust.​Tokyo 2021 (うたもく)</title>
-        <link>https://speakerdeck.com/utam0k/rust-container-runtime-at-rust-dot-tokyo-2021</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シリーズ企画「micro:bitでIoT！」のためにいよいよWiFi拡張にチャレンジし、自分の力不足に直面している話 (Takeshi Murakami)</title>
-        <link>https://www.slideshare.net/takemura1/microbitiotwifi</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[LT資料] OSSにコントリビュートしてみた</title>
-        <link>https://docs.google.com/presentation/d/1D2olAS7w26O_sNjd-FsUIS36zk5qqVrwmokeJZN4-Ec/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スライド作成のチェックポイント / WordCamp Ogijima 2018 slideguide_jp (majimasachi)</title>
-        <link>https://speakerdeck.com/majimasachi/wordcamp-ogijima-2018-slideguide-jp</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dan Sullivan - Data Analytics and Text Mining with MongoDB - NoSQL ma… (NoSQLmatters)</title>
-        <link>https://www.slideshare.net/NoSQLmatters/no-sql-mattersdublin2015sullivan</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoとJSON</title>
-        <link>https://docs.google.com/presentation/d/1VCUPh21hrZRN-2kneQ07dxJPjgScSo3gsKESWlEBzIQ/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
