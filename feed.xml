@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[公開] HTTP/3の今と将来 (html5j #71)</title>
+        <link>https://docs.google.com/presentation/d/1zguVfx0ApC2IehcSp50-IXquWdekmXDwoJWomql_UOE/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JAM Stackと静的サイトのイマ / modern-static-site (mottox2)</title>
+        <link>https://speakerdeck.com/mottox2/modern-static-site</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機械学習に超入門したはずが・・・いつのまにかFPGAを触っていた話 (shiho asa)</title>
+        <link>https://www.slideshare.net/shihoasa/fpga-79188871</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>xcoin wallet ベータテスト参加方法</title>
+        <link>https://docs.google.com/presentation/d/1lJFrbekj9-UyJq97Mzo6aE4k9-ZtSzdIgo3sQe5L14A/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアリング組織の基礎知識 / Basic knowledge of engineering organization (TAKAMURA Narimichi)</title>
+        <link>https://speakerdeck.com/nari_ex/basic-knowledge-of-engineering-organization</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Tomoya Kitayama, Enginner at Alpaca | SlideShare</title>
+        <link>https://www.slideshare.net/gamella</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JSX hacks</title>
+        <link>https://docs.google.com/presentation/d/1Tw_yJLTxC9Lgw3FuI_Ajt_TaIqMYqVBN-fl_ZohwwDo/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モデリングで既存システムの可視化に臨んだ話 (Jun Nakajima)</title>
+        <link>https://speakerdeck.com/jnuank/moderingudeji-cun-sisutemufalseke-shi-hua-nilin-ndahua</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>平成27年 名古屋の【新作振袖展示会情報】 (名古屋市で振袖をお探しの方へ)</title>
+        <link>https://www.slideshare.net/kunihikoyamanaka54/2701-43030235</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloudflare Workers は楽しい！ (Kei Kamikawa)</title>
         <link>https://speakerdeck.com/codehex/cloudflare-workers-hale-sii</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>GoとJSON</title>
         <link>https://docs.google.com/presentation/d/1VCUPh21hrZRN-2kneQ07dxJPjgScSo3gsKESWlEBzIQ/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Sketch.appでデザインガイドラインを作ってみた (Takayoshi Sawada)</title>
-        <link>https://speakerdeck.com/sawa_zen/react-sketch-dot-appdedezaingaidorainwozuo-tutemita</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>とある制作会社の目次索引作成技法 (Kenshi Muto)</title>
-        <link>https://www.slideshare.net/kenshimuto/ss-39948622</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LN - L2!L2!</title>
-        <link>https://docs.google.com/presentation/d/13mjgJNJKsaq0wklfTyxcc5a_ILWPmGRH2tuJZWOXnw0/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unit of Workパターンで永続化とトランザクションを制御する (shimabox)</title>
-        <link>https://speakerdeck.com/shimabox/unit-of-workhatanteyong-sok-hua-totoransakusiyonwozhi-yu-suru</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ニコニコ生放送の watch ページを MobX で作り直している話 (_kondei)</title>
-        <link>https://www.slideshare.net/_kondei/watch-mobx</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リモートWioくんで遠隔地の電源をON/OFFする (1stship)</title>
-        <link>https://speakerdeck.com/1stship/offsuru</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Upgrade Angular to v8.0</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vRfAA6JhQ-oPl_nKBSFHhDhkBrPcNHVu3OKZOEsfpHQ6FXZV1X_b3A50Hwx7_O1o6gA4WJSa_Y6E7aU/pub</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習応用アーキテクチャ・デザインパターン概観 (Hironori Washizaki)</title>
-        <link>https://www.slideshare.net/hironoriwashizaki/ss-236852352</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What Linux can learn from Solaris performance and vice-versa (Brendan Gregg)</title>
-        <link>https://www.slideshare.net/brendangregg/what-linux-can-learn-from-solaris-performance-and-viceversa</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
