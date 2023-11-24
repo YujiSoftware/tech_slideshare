@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Web IDL Bindings Update</title>
+        <link>https://docs.google.com/presentation/d/1wtAknL-UJWDoIgSbyF5paTBSpVVj-fKU4tiHMxJbSzE/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LayerXにおける機械学習を活用した請求書OCR機能に関する取り組み / deim2023-layerx-ai-ocr (Yuya Matsumura)</title>
+        <link>https://speakerdeck.com/yuya4/deim2023-layerx-ai-ocr</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS Black Belt Online Seminar 2017 AWSへのネットワーク接続とAWS上のネットワーク内部設計 (Amazon Web Services Japan, @awscloud_jp)</title>
+        <link>https://www.slideshare.net/AmazonWebServicesJapan/aws-black-belt-online-seminar-2017-awsaws</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Google Apps Script で始める RPA</title>
+        <link>https://docs.google.com/presentation/d/16Oo0_rVPl-gieZNAj2HNtWqQMJCPhW27CqLk-c5peyY/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>前処理が単語埋め込みに与える影響 A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks (uchi_k)</title>
+        <link>https://speakerdeck.com/uchi_k/qian-chu-li-gadan-yu-mai-meip-miniyu-eruying-xiang-a-comprehensive-analysis-of-preprocessing-for-word-representation-learning-in-affective-tasks</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ビックデータ分析基盤の成⻑の軌跡 (Recruit Lifestyle Co., Ltd.)</title>
+        <link>https://www.slideshare.net/RecruitLifestyle/ss-113196599</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rubyとハンダ付けからはじめる、自作キーボード入門</title>
+        <link>https://docs.google.com/presentation/d/12ulYx5A8_8aqHkoRZyyirHTW8c2e_vjhTeHZvkuTOcI/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>市場を創るためのルールメイキング (Takaaki Umada / 馬田隆明)</title>
+        <link>https://speakerdeck.com/tumada/shi-chang-wochuang-rutamefalserurumeikingu</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>市場価値で給料が決まるサイボウズの社員だけど、転職ドラフトに参加して給与交渉に挑戦してみました —結果編— (Yusuke Amano)</title>
+        <link>https://www.slideshare.net/ama-ch/ss-88211473</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>名古屋アジャイル勉強会「ティール組織 ～マネジメントの常識を覆す次世代型組織の出現～」 (Kamoshika soft, kaku_kaku)</title>
         <link>https://www.slideshare.net/kakukaku/ss-138997037</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>NFTと金融</title>
         <link>https://docs.google.com/presentation/d/174fTSbu6tgcOmfkEngJkY-mMCjIFqvdFxZCKsRcpDH0/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>本当にあった怖い脆弱性の話 (Roku)</title>
-        <link>https://speakerdeck.com/ad5jp/ben-dang-niatutabu-icui-ruo-xing-falsehua</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cricket live stream (kelly45124)</title>
-        <link>https://www.slideshare.net/kelly45124/cricket-live-stream-194728691</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>High Performance JavaScript</title>
-        <link>https://docs.google.com/presentation/d/1x2clfAPR9F83cBcmztFRXMnUw3pFX8QGdmXTMcIph4Y/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラスタ外から ClusterIP の Service に いい感じにアクセスする / How to connect to ClusterIP Service from the outside of Kubernetes cluster (Kazuki Suda)</title>
-        <link>https://speakerdeck.com/superbrothers/how-to-connect-to-clusterip-service-from-the-outside-of-kubernetes-cluster</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ある工場の Redmine 2016 (Kohei Nakamura)</title>
-        <link>https://www.slideshare.net/netazone/redmine-of-one-plant-2016</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第12回ロボゼミ</title>
-        <link>https://docs.google.com/presentation/d/14zoOuA3LuqGBONwemeh4kHyISTxo4r7f2JiQLKTy5YI/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDNフル活用でつくる、高速Webアプリ / Using CDN To Improve Web Performance (Kazunari Hara)</title>
-        <link>https://speakerdeck.com/herablog/using-cdn-to-improve-web-performance</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Python 3のWebシステムでDDDに入門してみた (Hiromu Yakura, @​hiromu1996)</title>
-        <link>https://www.slideshare.net/hiromu1996/python-3webddd-205794956</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>中小企業デジタル化応援隊 活用までの流れ（IT専門家）</title>
-        <link>https://docs.google.com/presentation/d/1YqkSEXOkleYAtmaTZL0O14cJKw9k5kvKJrqTO-z-HsA/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
