@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LightGBMTunerを使ってみた</title>
+        <link>https://docs.google.com/presentation/d/1O9KJRbHL6WSEj3IRAWyOImvd8w4Zpq0Bn9jqaJo3VKM/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Programming RbBCC (KONDO Uchio)</title>
+        <link>https://speakerdeck.com/udzura/programming-rbbcc</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CV分野での最近の脱○○系3選 (Kazuyuki Miyazawa, @​kzykmyzw)</title>
+        <link>https://www.slideshare.net/KazuyukiMiyazawa/cv3-243467945</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20210505_ROSJapanUG#42</title>
+        <link>https://docs.google.com/presentation/d/1Pmwb5wAY2JKZah-uniEo3M7polo7UeWSMiQxUQioR3s/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ng-mocksを活用したユニットテストのご紹介 (Yusuke Oba)</title>
+        <link>https://speakerdeck.com/yusukeoba1/ng-mockswohuo-yong-sitayunitutotesutofalsegoshao-jie</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>知識集約型の製品開発においてプロダクトオーナーがやるべき3つのこと #agilejapan #agilejapannagasaki #ag… (満徳 関, fullvirtue)</title>
+        <link>https://www.slideshare.net/fullvirtue/3-agilejapan-agilejapannagasaki-agilejapanfukuoka</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>State of AI Report 2021 - ONLINE</title>
+        <link>https://docs.google.com/presentation/d/1bwJDRC777rAf00Drthi9yT2c9b0MabWO5ZlksfvFzx8/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアとしてのプロダクト貢献 (Seiya Kokushi)</title>
+        <link>https://speakerdeck.com/ronnnnn/enziniatositefalsepurodakutogong-xian</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>121020 Out Of Tokyo Vol.1 地方ウェブ担サミット (Seiji Morino)</title>
+        <link>https://www.slideshare.net/uneidou/121020-out-of-tokyo-vol1</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ready For Nuxt.​js 3</title>
         <link>https://docs.google.com/presentation/d/1ZIzCC4_xE6N4yBDD4jnVZVOIUa7LGmtMPo_S8f3blFc/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>ひっそりJetpack似追加されていたAppCrawlertoolの紹介 / Introduce Jetpack App Crawler Tool (tkmnzm)</title>
         <link>https://speakerdeck.com/tkmnzm/introduce-jetpack-app-crawler-tool</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最愛志向のコミュニケーション戦略 20150929 (武 河野, @​smashmedia)</title>
-        <link>https://www.slideshare.net/smashmedia/20150929-53304533</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>競プロ忘年会in東京2019_nodchip</title>
-        <link>https://docs.google.com/presentation/d/1oQaq_-W3Vj5oKoGdTashsNZstqos5k-SyM-2GKdj2Nc/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>pnpm workspace実践ノウハウ (Hirotaka Miyagi)</title>
-        <link>https://speakerdeck.com/mh4gf/pnpm-workspaceshi-jian-nouhau</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AbemaTVにおける推薦システム (cyberagent)</title>
-        <link>https://www.slideshare.net/cyberagent/abematv-129635488</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>元フロントエンドエンジニアからみた デザイナーとの協業と実態 2023-04-18 #AwEngineerMeetup@SmartHR</title>
-        <link>https://docs.google.com/presentation/d/1k8RoNRXAMNazayzIGs14BZcVFeADVYvL2GxbaSeAGwM/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初心者向けスポーツ分析チュートリアル「目標達成に導くデータ分析」/ Sports Analysis Tutorial (u++)</title>
-        <link>https://speakerdeck.com/upura/sports-analysis-tutorial</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VRのすべて（発表者ノート付き）※全画面推奨 (yunoLv3 )</title>
-        <link>https://www.slideshare.net/YujiHatada1/vr-103655852</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>訳者による Understanding the InnerSource Checklist の概説</title>
-        <link>https://docs.google.com/presentation/d/1xH97D0C6gPL4Y21m53Ju3QTfs_oem-LBcpeo0OO2ics/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rustハンズオン @ Rust CA 1 Day Youth Boot Camp (Yuki Toyoda)</title>
-        <link>https://speakerdeck.com/helloyuk13/rusthanzuon-at-rust-ca-1-day-youth-boot-camp</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
