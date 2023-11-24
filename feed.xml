@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>XSLeaks in redirect flows</title>
+        <link>https://docs.google.com/presentation/d/1rlnxXUYHY9CHgCMckZsCGH4VopLo4DYMvAcOltma0og/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Node.​js v12のES Modules / ES Modules on NodeJS v12 (shimataro)</title>
+        <link>https://speakerdeck.com/shimataro/es-modules-on-nodejs-v12</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenJDKソムリエと巡るJDKワイナリーツアー #sfggjp #javajo (Takahiro YAMADA, @​yamadamn)</title>
+        <link>https://www.slideshare.net/TakahiroYamada3/jdk-winery-tour-20191026-sfggjp-javajo</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SelfMade3DPoseEstimation.​pptx</title>
+        <link>https://docs.google.com/presentation/d/1pT9cb-FA2lO60hP2iWOMkUe8d29TFCMJ/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>so this is KeyDB! So what.​ (Naoto Gohko)</title>
+        <link>https://speakerdeck.com/naototty/so-this-is-keydb-so-what</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20210217_sitTokyo_iRPAアップデート (MinoKato)</title>
+        <link>https://www.slideshare.net/MinoKato/20210217sittokyoirpa-242903451</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2021.09.29 - E-2 : LayerXインボイスのAI-OCRを支える非同期処理アーキテクチャ / AWS Dev Day Online Japan 2021</title>
+        <link>https://docs.google.com/presentation/d/1-eGkBHpMVGjvOhrDpJfvPHX1AasXtHunAmYJHEJLtaY/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機械学習システム開発と運用の落とし穴 (Asei Sugiyama)</title>
+        <link>https://speakerdeck.com/asei/ji-jie-xue-xi-sisutemukai-fa-toyun-yong-noluo-tosixue</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第2回html5jゲーム部勉強会 Oh! JavaScript 夢の続きを語ろうよ〜emscriptenの逆襲 - html5編 (Takashi Toyoshima)</title>
+        <link>https://www.slideshare.net/toyoshim/2html5j-oh-javascript-emscripten-html5</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Web IDL Bindings Update</title>
         <link>https://docs.google.com/presentation/d/1wtAknL-UJWDoIgSbyF5paTBSpVVj-fKU4tiHMxJbSzE/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>The ChatGPT Prompt Book - LifeArchitect.ai - Rev 3</title>
         <link>https://docs.google.com/presentation/d/17b_ocq-GL5lhV_bYSShzUgxL02mtWDoiw9xEroJ5m3Q/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Change the recipe's world (Yoshiori SHOJI)</title>
-        <link>https://speakerdeck.com/yoshiori/change-the-recipes-world</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>遅延価値観数と階層ベイズを用いた男心をくすぐる女の戦略.R (MrUnadon)</title>
-        <link>https://www.slideshare.net/MrUnadon/r-75317520</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>画像処理エンジニア・Computer Visionチーム紹介</title>
-        <link>https://docs.google.com/presentation/d/1kN4uUzQDId_opHobTzFosknTRmJ0kf-CIfjWbyVNgdM/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>良い設計と悪い設計の違い (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/good-or-bad-that-is-a-question</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OWASP WordPressセキュリティ実装ガイドライン （セキュアなWordPressの構築ハンズオン手順書） (OWASP Nagoya, @owaspnagoya)</title>
-        <link>https://www.slideshare.net/owaspnagoya/owasp-wordpress-wordpress-95391444</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>M5Stackでハイテクおもちゃを 作ってみた</title>
-        <link>https://docs.google.com/presentation/d/1kwozLQf4de2QPrteJ7AfTVVXfdgfo5HtL4clOcLcVe8/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SwiftUIで勘違いした話 (Yuta Koshizawa)</title>
-        <link>https://speakerdeck.com/koher/swiftuidekan-wei-isitahua</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>広告における機械学習の適用例とシステムについて (Yahoo!デベロッパーネットワーク, @ydnjp)</title>
-        <link>https://www.slideshare.net/techblogyahoo/ss-79795182</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NFTと金融</title>
-        <link>https://docs.google.com/presentation/d/174fTSbu6tgcOmfkEngJkY-mMCjIFqvdFxZCKsRcpDH0/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
