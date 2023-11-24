@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20191211_個人開発が停滞してる原因と対策</title>
+        <link>https://docs.google.com/presentation/d/1jcHwYWPBlfEXv17mbsTChwn1-mr4ZFhWvX9GziQpeUI/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>4月に80時間研修した人事が整えたリモートワーク環境 (frecce)</title>
+        <link>https://speakerdeck.com/frecce/4yue-ni80shi-jian-yan-xiu-sitaren-shi-gazheng-etarimotowakuhuan-jing</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機械学習システムの33のアーキテクチャパターンおよびデザインパターン (Hironori Washizaki)</title>
+        <link>https://www.slideshare.net/hironoriwashizaki/33-191682139</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>HTML だけで UI を作る限界、あるいは無理なくユースケースと向き合っていくためには</title>
+        <link>https://docs.google.com/presentation/d/1fc7zz4m0q-dnMDGANLRNOWwf_ZxsDrwWiTdUDAa9cNg/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The Importance of Morphological Analysis in Japanese Search Engines (Minoru Osuka)</title>
+        <link>https://speakerdeck.com/mosuka/the-importance-of-morphological-analysis-in-japanese-search-engines</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CDNの必要性と将来性</title>
+        <link>https://www.slideshare.net/MasaakiNabeshima/cdn-49410618</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>初めてのUNITYでVR inVR</title>
+        <link>https://docs.google.com/presentation/d/17XL9t7CWRkcmymf0y10jFgc9AK4mJROGcJJAawmPIHo/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Visually Grounded Neural Syntax Acquisition (Yuichiroh)</title>
+        <link>https://speakerdeck.com/yuichiroh/visually-grounded-neural-syntax-acquisition</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>日本の研究者による研究データマネジメント（RDM）の実践状況：�「研究データ公開と論⽂のオープンアクセスに関する実態調査」から (Ui Ikeuchi)</title>
+        <link>https://www.slideshare.net/ikeuchiui/rdm-238546330</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Double Faults</title>
         <link>https://docs.google.com/presentation/d/1ge4QmMcG---IXv7w5tFbVF0F3MEBRn0UkAHU18di21Y/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Bending The Curve: Putting Rust in Ruby with Helix (Godfrey Chan)</title>
         <link>https://speakerdeck.com/chancancode/bending-the-curve-putting-rust-in-ruby-with-helix</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>忙しい人の5分で分かるDocker 2017年春Ver (Masahito Zembutsu, @zembutsu)</title>
-        <link>https://www.slideshare.net/zembutsu/5-minuts-docker-2017</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web Creation in Society - 2020-02-15 in DIST31</title>
-        <link>https://docs.google.com/presentation/d/1kVz4fZFrXaROByBzQSP7SzTLAO8U4dRdE9CDYlQXGmM/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rails Performance Issues and Solutions (Akira Matsuda)</title>
-        <link>https://speakerdeck.com/a_matsuda/rails-performance-issues-and-solutions</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>同人ゲーム開発者が直面する法律問題 (IGDA Japan)</title>
-        <link>https://www.slideshare.net/sakugetu/ss-3235720</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HTML だけで UI を作る限界、あるいは無理なくユースケースと向き合っていくためには</title>
-        <link>https://docs.google.com/presentation/d/1fc7zz4m0q-dnMDGANLRNOWwf_ZxsDrwWiTdUDAa9cNg/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goでコマンドラインツールを作ってプロダクション投入した話 (Ryuji Iwata)</title>
-        <link>https://speakerdeck.com/qt_luigi/godekomandorainturuwozuo-tutepurodakusiyontou-ru-sitahua</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Prophet入門【理論編】Facebookの時系列予測ツール (hoxo_m, @hoxo_m)</title>
-        <link>https://www.slideshare.net/hoxo_m/prophetfacebook</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SORACOMで農業してみませんか？ 〜農業活用コミュニティの紹介〜 | SORACOM UG Explorer 2019 (Koichiro Oki, @​kuroneko_ko2a)</title>
-        <link>https://www.slideshare.net/kuroneko_ko2a/soracom-196972535</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AndroidManifest.xmlはその後どうなっているのか？</title>
-        <link>https://docs.google.com/presentation/d/1pQcpH-uQVwOXargE90o6d7Bu9dnkd5COp9JO8896Wko/preview</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
