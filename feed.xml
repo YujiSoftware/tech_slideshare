@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloudflare Workers は楽しい！ (Kei Kamikawa)</title>
+        <link>https://speakerdeck.com/codehex/cloudflare-workers-hale-sii</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Mozilla Hubsの使い方_一般用</title>
+        <link>https://docs.google.com/presentation/d/1q5flTzR_BHUAtAs1ZL7GWtuAOSWgsKJ_f4x5mZcHGyc/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>5 分ではわからない HM 型推論 - 型システム祭りオンライン 2020 4/17 (Biacco42)</title>
+        <link>https://speakerdeck.com/biacco42/17</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20200414 Fin-JAWS 金融アプリエンジニアが始めるAWS (secret)</title>
+        <link>https://www.slideshare.net/secret/r8H9pvLXPWFCVc</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Type Parameters in Go</title>
+        <link>https://docs.google.com/presentation/d/1NSAwji6SF1StyRA0AJocpW1RXA3rmKctI9xg6I7z_ks/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rust 🤝 Container Runtime @ Rust.​Tokyo 2021 (うたもく)</title>
+        <link>https://speakerdeck.com/utam0k/rust-container-runtime-at-rust-dot-tokyo-2021</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>シリーズ企画「micro:bitでIoT！」のためにいよいよWiFi拡張にチャレンジし、自分の力不足に直面している話 (Takeshi Murakami)</title>
+        <link>https://www.slideshare.net/takemura1/microbitiotwifi</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[LT資料] OSSにコントリビュートしてみた</title>
+        <link>https://docs.google.com/presentation/d/1D2olAS7w26O_sNjd-FsUIS36zk5qqVrwmokeJZN4-Ec/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スライド作成のチェックポイント / WordCamp Ogijima 2018 slideguide_jp (majimasachi)</title>
+        <link>https://speakerdeck.com/majimasachi/wordcamp-ogijima-2018-slideguide-jp</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Dan Sullivan - Data Analytics and Text Mining with MongoDB - NoSQL ma… (NoSQLmatters)</title>
+        <link>https://www.slideshare.net/NoSQLmatters/no-sql-mattersdublin2015sullivan</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GoとJSON</title>
         <link>https://docs.google.com/presentation/d/1VCUPh21hrZRN-2kneQ07dxJPjgScSo3gsKESWlEBzIQ/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>What Linux can learn from Solaris performance and vice-versa (Brendan Gregg)</title>
         <link>https://www.slideshare.net/brendangregg/what-linux-can-learn-from-solaris-performance-and-viceversa</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテナ / やわらかい仮想化 / enpit prosec it 2022</title>
-        <link>https://docs.google.com/presentation/d/1cHd9nsEj3iKJj4zWA7WKSILDu536HUSYLn84QLrLBEk/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バージョン管理とは / GitHub VCS</title>
-        <link>https://speakerdeck.com/kaityo256/github-vcs</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテンツマーケティングにおける動画の作り方・使い方・Pdcaサイクルの回し方のご紹介 (Members_corp, @​Members_corp)</title>
-        <link>https://www.slideshare.net/Memberscorp/pdca-56635481</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Applicative勉強会</title>
-        <link>https://docs.google.com/presentation/d/1UQ3g13mZU19j8_VgQYtZqBkM0IoO-AtZvP5CU7kG-7c/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>快適なUIを持つアプリを作るために できること (Muukii)</title>
-        <link>https://speakerdeck.com/muukii0803/kuai-shi-nauiwochi-tuapuriwozuo-rutameni-dekirukoto</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最近のやられアプリを試してみた (zaki4649)</title>
-        <link>https://www.slideshare.net/zaki4649/ss-116423487</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webフロントエンド基礎研修 ~歴史から学ぶ、現場のスタンダードな開発~</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSjF1cp8fAdMKwFkLmtFT66e-UCD6zanO5KLsuRFmWyZ-8c06YQmgWT750Aqai2JfqHRARYWlkDLfaB/pub</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Motion Layout : Make your apps move auto-magically (Lin Min Phyo)</title>
-        <link>https://speakerdeck.com/hashlin/motion-layout-make-your-apps-move-auto-magically</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Managed App Configuration について MDMで iOSアプリ設定の配信 (feedtailor)</title>
-        <link>https://www.slideshare.net/feedtailor/managed-app-configuration-mdm-ios</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Signed HTTP Exchange subresource loading (#sxg_study)</title>
-        <link>https://docs.google.com/presentation/d/1lve4QnflFxJuDe55xzRjYi8fphEpiChSPLb5hOP9PA4/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
