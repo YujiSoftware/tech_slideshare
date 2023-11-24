@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Which Kubernetes?</title>
+        <link>https://docs.google.com/presentation/d/1ZyehmfpYbixGgELwr2HJrOnWZb8DGElwg-WoEI6lgA4/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Effective E2E Test In An Electron Application (joe_re)</title>
+        <link>https://speakerdeck.com/joere/effective-e2e-test-in-an-electron-application</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>分散環境におけるDocker とオーケストレーション (Masahito Zembutsu, @zembutsu)</title>
+        <link>https://www.slideshare.net/zembutsu/distributed-docker-swarm-orchestration</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CPU Exceptions</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQYgTNt6l5Rqbbq4AnjL6gynqVkmXUEVf3xovVoh-_3x-chbDi_eAwJuJuZ7poPKdu-eIpsvlQ60Wum/pub</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>軽量なDockerイメージで CIのビルド時間を短くしてみる (Ryosuke Horie)</title>
+        <link>https://speakerdeck.com/horie1024/qing-liang-nadockerimezide-cifalsebirudoshi-jian-woduan-kusitemiru</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20181211 - PGconf.ASIA - NVMESSD&amp;GPU for BigData (Kohei KaiGai, kkaigai)</title>
+        <link>https://www.slideshare.net/kaigai/20181211-pgconfasia-nvmessdgpu-for-bigdata</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[shared] 20220815 What's new in Go 1.19?</title>
+        <link>https://docs.google.com/presentation/d/1FkXdI9oR8mUCzh-woca7O3K_T5iZCirp7QcoJY3d4Wk/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>HyperLedger Today (Seiji Takahashi)</title>
+        <link>https://speakerdeck.com/timakin/hyperledger-today</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[DL輪読会]Clebsch–Gordan Nets: a Fully Fourier Space Spherical Convoluti… (Deep Learning JP)</title>
+        <link>https://www.slideshare.net/DeepLearningJP2016/dlclebschgordan-nets-a-fully-fourier-space-spherical-convolutional-neural-network</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>日本語の表記ゆれ 解決方法の検討と実装 (Takahiko Ito)</title>
         <link>https://speakerdeck.com/takahiko03/ri-ben-yu-falsebiao-ji-yure-jie-jue-fang-fa-falsejian-tao-toshi-zhuang</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>カテコラミン (Hiroyuki Ote)</title>
         <link>https://www.slideshare.net/HiroyukiOte/ss-113921174</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あなたはContextの挙動を説明できますか？ 最新版</title>
-        <link>https://docs.google.com/presentation/d/1xglEURYptsTg5KXh4bxWVKKOPba7N5DwPvazdi6Q1HY/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Network Bound Disk Encryptionとは (Kazuo Moriwaka)</title>
-        <link>https://speakerdeck.com/moriwaka/network-bound-disk-encryptiontoha</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>noteの決して止まらないカイゼンを支える、 エンジニアリングへの挑戦 (Kon Yuichi)</title>
-        <link>https://www.slideshare.net/KonYuichi/note-227802322</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ナイフ1本で行うGoのサバイバル術</title>
-        <link>https://docs.google.com/presentation/d/1EB-V2KyGADdQBWZPVfwh-lN-1blxi-ipLCvwbAq7tZs/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>じわじわとPerlからGoに移行しようとしている俺達のマイクロサービシーズの紹介 / The migrating to microservices in Go from Monolith in Perl (mackee)</title>
-        <link>https://speakerdeck.com/mackee/the-migrating-to-microservices-in-go-from-monolith-in-perl</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWSUG20180925 (陽平 山口)</title>
-        <link>https://www.slideshare.net/youheiyamaguchi/jawsug20180925</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>200424WEB MTGの極意ver3</title>
-        <link>https://docs.google.com/presentation/d/1XFsJf41wa7JBidMDbuQK70mvCMrc3SiM3bxsZx26DFE/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NewRelicプラットフォームを使ったオブザーバビリティ入門 / phpcon2020jp-observability (dmnlk)</title>
-        <link>https://speakerdeck.com/dmnlk/phpcon2020jp-observability</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Chainerで学ぶdeep learning (Retrieva inc.)</title>
-        <link>https://www.slideshare.net/Retrieva_jp/chainerdeep-learning</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
