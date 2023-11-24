@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>教材の入手方法「Google ColabでWebアプリ開発ハンズオン」</title>
+        <link>https://docs.google.com/presentation/d/1Dx5A7g3I7hzdRc6hFK3OP5hkO08UWaIH1-SFBMwJXoY/preview</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Front-end web application development with Azure PaaS &amp; Serverless, 2020 Update! (miyake)</title>
+        <link>https://speakerdeck.com/miyake/front-end-web-application-development-with-azure-paas-and-serverless-2020-update</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ReviveAdserverではじめるパーソナライズドリターゲティング (Nobumasa Ura)</title>
+        <link>https://www.slideshare.net/uranobumasa/revive-adserver</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>yttでYAML王に俺はなる!</title>
+        <link>https://docs.google.com/presentation/d/1FYbzsli4x9YJvNefbKQ8-NR3VWyC5Ou8WhKF32Cy8b4/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>電子辞書は組み込みLinuxの夢を見るか？ (Takumi Sueda)</title>
+        <link>https://speakerdeck.com/puhitaku/dian-zi-ci-shu-hazu-miip-milinuxfalsemeng-wojian-ruka</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PyQtではじめるGUIプログラミング (Ransui Iso, @ransui)</title>
+        <link>https://www.slideshare.net/RansuiIso/pyqtgui</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Google Cloud Spanner 沼への誘い Advanced v20210518a</title>
+        <link>https://docs.google.com/presentation/d/1BGej_K3dNHVHQuoCESL6QsGAxrLrgE5SD4fDL8ndqJo/edit</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【完全版】AutoLayoutエラー診断所 ~発狂しないためのデバッグ手法~ (akatsuki174)</title>
+        <link>https://speakerdeck.com/akatsuki174/wan-quan-ban-autolayouterazhen-duan-suo-fa-kuang-sinaitamefalsetehatukushou-fa</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>1877-546-7370 Delta Airlines Customer Service (jackmark8744)</title>
+        <link>https://www.slideshare.net/jackmark8744/delta-airlines-customer-service-150366024</link>
+        <dc:date>2023-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LightGBMTunerを使ってみた</title>
         <link>https://docs.google.com/presentation/d/1O9KJRbHL6WSEj3IRAWyOImvd8w4Zpq0Bn9jqaJo3VKM/edit</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>AWS Startup ゼミ 2021 秋期講習 / AWS Startup Seminar 2021 Autumn class - AWS Dev Day (mats)</title>
         <link>https://speakerdeck.com/mats16/aws-startup-seminar-2021-autumn-class-aws-dev-day</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[DLHacks]“Recurrent Batch Normalization”&lt;Lightening Talk&gt; (Deep Learning JP)</title>
-        <link>https://www.slideshare.net/DeepLearningJP2016/recurrent-batch-normalizationlightening-talk</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はじめての AI 〜 Google がめざす、誰もが使える機械学習</title>
-        <link>https://docs.google.com/presentation/d/1aWaI-h8Qhc3D3SC0arNYrx595__QH27dW6pXQ70zogg/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Proxy-Wasm: Wasmを利用したPlugin機構の開発 (mathetake)</title>
-        <link>https://speakerdeck.com/mathetake/proxy-wasm-wasmwoli-yong-sitapluginji-gou-falsekai-fa</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GnukトークンでSSH (Yuji IMAI)</title>
-        <link>https://www.slideshare.net/YujiImai/cbug-gnuk2014121300-42981203</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Native for Webと Web componentsで iOS Android Next Railsの共通UIコンポーネントの夢は見れるのか</title>
-        <link>https://docs.google.com/presentation/d/1w8vkTEdJQbKYLQv6rEvVQrSFFEUPZZ5zr0AdXYzPC7Q/preview</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ホワイトボックススイッチとNOSを取り巻く状況について (Masaru OKI)</title>
-        <link>https://speakerdeck.com/imasaruoki/howaitobotukususuitutitonoswoqu-rijuan-kuzhuang-kuang-nituite</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Why Automate the Network? (Hank Preston, hfpreston)</title>
-        <link>https://www.slideshare.net/HankPreston1/why-automate-the-network</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Building JavaScript at Scale</title>
-        <link>https://docs.google.com/presentation/d/17AbKCIiJqe53l9vgqUqoCOWKs9KE32ba2NJtLTwm1Kg/edit</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ひっそりJetpack似追加されていたAppCrawlertoolの紹介 / Introduce Jetpack App Crawler Tool (tkmnzm)</title>
-        <link>https://speakerdeck.com/tkmnzm/introduce-jetpack-app-crawler-tool</link>
         <dc:date>2023-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
