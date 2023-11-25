@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RDFのチェックツール「rdflint」と�コミュニティによるオープンデータの作成 (Takeshi Mikami, @​takemikami)</title>
+        <link>https://www.slideshare.net/takemikami/rdfrdflint-153693907</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>(a bit) high-layer audio embedded platforms in 2020 (Tomoya Matsuura)</title>
+        <link>https://speakerdeck.com/tomoyanonymous/a-bit-high-layer-audio-embedded-platforms-in-2020</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラスメソッドにおける Web API エンジニアリングの基本的な考え方と標準定義 - Developers.IO 2018 (2018-… (ダイスケ 都元, daisuke_m)</title>
+        <link>https://www.slideshare.net/daisuke_m/web-api-developersio-2018-20181005-118223628</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>レガシーフロントエンドからNext.jsへの段階移行を可能にするAWS構成 (Takuya Mizuma)</title>
+        <link>https://speakerdeck.com/tamizuma/rekasihurontoentokaranext-dot-jshenoduan-jie-yi-xing-woke-neng-nisuruawsgou-cheng</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メルペイ リサーチチームの組織力 (Miho Matsuzono)</title>
+        <link>https://www.slideshare.net/MihoMatsuzono/ss-150146510</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Research Paper Introduction in IR Reading 2022 Fall (Takuya Asano)</title>
         <link>https://speakerdeck.com/takuyaa/research-paper-introduction-in-ir-reading-2022-fall</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>リーガルテックにおける MLOps 構築事例の紹介</title>
         <link>https://docs.google.com/presentation/d/1Vc-Sf0hMq5RKBDIDAI0aUdS-YWaiie306WykUG7dtJU/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deep Dive into LINE's Time Series Database 'Flash' (LINE DevDay 2019)</title>
-        <link>https://speakerdeck.com/line_devday2019/deep-dive-into-lines-time-series-database-flash</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトマネージャとして海外で働き始めて、自分の視点をどこに持ってこようかと考えた話 #pm_roppongi (DaisukeMatsuda2)</title>
-        <link>https://www.slideshare.net/DaisukeMatsuda2/pmroppongi-120745681</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ESLint</title>
-        <link>https://docs.google.com/presentation/d/1WktBwIZOwjhouElfXYwdBOItiF5kXoDCke0jgKPDmIA/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CPUとLinux (Satoru Takeuchi)</title>
-        <link>https://speakerdeck.com/sat/cputolinux</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オープンソースで始めるLinuxサーバー脆弱性診断入門 (Shinichiro Ohhara)</title>
-        <link>https://www.slideshare.net/ShinichiroOhhara/linux-79365978</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
