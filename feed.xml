@@ -6,13 +6,33 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
-        <title>Azure Arc Updates - 2023年9月版 (Kazuki Takai,@zhuky7)</title>
-        <link>https://www.docswell.com/s/takai/ZGXM34-Azure-Arc-Updates-2023-09</link>
+        <title>AI_Scale_Scrum</title>
+        <link>https://docs.google.com/presentation/d/1KCX5GuGkNckfuGuQvYeCSKnYux5ABiMVxYQAGJSMUWU/preview</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>拡張セキュリティ更新プログラム (ESU) のおさらい (tamaiyutaro)</title>
-        <link>https://speakerdeck.com/tamaiyutaro/kuo-zhang-sekiyuriteigeng-xin-puroguramu-esu-noosarai</link>
+        <title>Browser Automated Tests (derek-b)</title>
+        <link>https://speakerdeck.com/derekb/browser-automated-tests</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>続・時刻の話 (Satoshi G)</title>
+        <link>https://www.docswell.com/s/wind06106/5GXW89-clocktimenext</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes で実践するクラウドネイティブ DevOps "監視とオブザーバビリティ"編 / Cloud Native DevOp… (Preferred Networks)</title>
+        <link>https://www.slideshare.net/pfi/kubernetes-devops-cloud-native-devops-with-kubernetes-monitoring-and-observability-238617283</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スライド：アジャイルQAインセプションデッキ 開発中 v0.6</title>
+        <link>https://docs.google.com/presentation/d/1FmtDmxLdwGKrpL5vIovid1cMqKuIGAAO-6BbqDw2jL0/preview</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JITコンパイラはいかにRailsを速くするか / Rails Developers Meetup 2017 (Takashi Kokubun)</title>
+        <link>https://speakerdeck.com/k0kubun/rails-developers-meetup-2017</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
     <item>
@@ -21,8 +41,23 @@
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>続・時刻の話 (Satoshi G)</title>
-        <link>https://www.docswell.com/s/wind06106/5GXW89-clocktimenext</link>
+        <title>芸能事務所 (Yasutaka Ueda　, @​uedajouhoumedia)</title>
+        <link>https://www.slideshare.net/YasutakaUeda1/ss-186272902</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure Arc Updates - 2023年9月版 (Kazuki Takai,@zhuky7)</title>
+        <link>https://www.docswell.com/s/takai/ZGXM34-Azure-Arc-Updates-2023-09</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FaaS Meets Java EE: Developing Cloud Native Applications at Speed (Chris Bailey)</title>
+        <link>https://www.slideshare.net/cnbailey/faas-meets-java-ee-developing-cloud-native-applications-at-speed</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>拡張セキュリティ更新プログラム (ESU) のおさらい (tamaiyutaro)</title>
+        <link>https://speakerdeck.com/tamaiyutaro/kuo-zhang-sekiyuriteigeng-xin-puroguramu-esu-noosarai</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
     <item>
@@ -68,41 +103,6 @@
     <item>
         <title>MySQL 5.7のJSON型について | MySQL Casual Talks in Fukuoka vol.6 #mysql_casual_fukuoka (Manabu Matsuzaki)</title>
         <link>https://speakerdeck.com/matsumana/mysql-casual-talks-fukuoka-vol6</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Mirrativのデータサイエンスが意外と興味深い件 (Tosifumi Sakamoto)</title>
-        <link>https://www.slideshare.net/TosifumiSakamoto/mirrativ-128131643</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Apps Script 入門 2020</title>
-        <link>https://docs.google.com/presentation/d/1J05grqGg3gXC0mNKoukao6Dza4BvlA4K1ykdJp1Y2AY/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Re: Kubernetes-native テストベッドで始めるベストプラクティス模索 / kubefest2020_lt_k8s-native-testbed (Masaya Aoyama (@amsy810))</title>
-        <link>https://speakerdeck.com/masayaaoyama/kubefest2020-lt-k8s-native-testbed</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agile and DevOps (Yasunobu Kawaguchi, kawagutien)</title>
-        <link>https://www.slideshare.net/kawaguti/agile-and-devops</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2020-06-16 Async Function and Runtime Error Tracking (TypeScript Meetup #4)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQ-f9qAUrPz4Tedc98QqksbtAHGghdFy27dylzDw4qqMCmyTREqMgMsyE-yhBMYyPeSl_7tvg86f-VR/pub</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ザ！鉄腕エンジニア！ 「GO言語でWEBサーバを作れるか！？」「どのレベルで作るの？」 (Tatsuya Iwamatsu)</title>
-        <link>https://speakerdeck.com/iwamatsu0430/za-tie-wan-enzinia-goyan-yu-dewebsabawozuo-reruka-dofalsereberudezuo-rufalse</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PayPayモールのAMP活用とデザインシステム / YJTC19 in Shibuya B-1 #yjtc (Yahoo!デベロッパーネットワーク, @​ydnjp)</title>
-        <link>https://www.slideshare.net/techblogyahoo/paypayamp-yjtc19-in-shibuya-b1-yjtc-204740937</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
