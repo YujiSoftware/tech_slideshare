@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>巨大なSPAの技術的負債と向き合い続けるテクニック(2023年秋) (shibe23)</title>
+        <link>https://speakerdeck.com/shibe23/ju-da-naspanoji-shu-de-fu-zhai-toxiang-kihe-isok-kerutekunituku-2023nian-qiu</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>https://www.slideshare.net/alexpiwi5/deploying-webrtc-in-a-lowlatency-streaming-service (Alexandre Gouaillard, agouaillard)</title>
+        <link>https://www.slideshare.net/alexpiwi5/deploying-webrtc-in-a-lowlatency-streaming-service</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ICML Tutorial on Model-Based Methods in Reinforcement Learning</title>
+        <link>https://docs.google.com/presentation/d/1f-DIrIvh44-jmTIKdKcue0Hx2RqQSw52t4k8HEdn5-c/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SwiftUI時代のFunctional iOS Architecture / iOSDC Japan 2020 (Yasuhiro Inami)</title>
+        <link>https://speakerdeck.com/inamiy/iosdc-japan-2020</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Quarkus入門 (Norito Agetsuma)</title>
+        <link>https://www.slideshare.net/agetsuma/quarkus</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>発表用</title>
+        <link>https://docs.google.com/presentation/d/1yfOMk3lGJ-1GZocnc_HPFeq3Psq0jcTTWf7G3H7uNPY/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>freee を支えるインフラ技術 / freee-infrastructure (Manabu Sakai)</title>
+        <link>https://speakerdeck.com/manabusakai/freee-infrastructure</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ServerlessConf 2018 Keynote - Debunking Serverless Myths (Tim Wagner)</title>
+        <link>https://www.slideshare.net/TimWagner/serverlessconf-2018-keynote-debunking-serverless-myths</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>誰でもわかる強化学習 (今井翔太（えるエル）)</title>
         <link>https://speakerdeck.com/imai_eruel/reinforcement-learning-for-everyone</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>実践！モノリスからマイクロサービス！Event Stormingによるドメイン駆動設計から実装まで / AWS_Dev_Day_2023_E_3 (Atsushi Fukui)</title>
         <link>https://speakerdeck.com/fatsushi/aws-dev-day-2023-e-3</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ngx_mrubyを用いた柔軟なABテスト基盤 (Recruit Lifestyle Co., Ltd.)</title>
-        <link>https://www.slideshare.net/RecruitLifestyle/ngxmrubyab</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenAI_Examples_を深堀りしてみた</title>
-        <link>https://docs.google.com/presentation/d/1IM7AI3VSL4dievFrL_jmZT_jc8j_4kTlPjfrUYBG_34/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Testing is not the goal (Japanese Edition) (nihonbuson)</title>
-        <link>https://speakerdeck.com/nihonbuson/testing-is-not-the-goal-japanese-edition</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PCさえあればいい。 (bleis tift, @bleis)</title>
-        <link>https://www.slideshare.net/bleistift/pc-83199509</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20190629_Tokyo.​R_LT</title>
-        <link>https://docs.google.com/presentation/d/1mDU3VgoaMgljEQj1zHSaDS5J0mzAu-MqlJd5jqHBt5I/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チケット駆動開発がまわりはじめるまでの取り組み/okr-tidd-case (zinrai)</title>
-        <link>https://speakerdeck.com/zinrai/okr-tidd-case</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rolling Hashを殺す話 (Nagisa Eto)</title>
-        <link>https://www.slideshare.net/nagisaeto/rolling-hash-149990902</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevFest2020_LT_ARCore</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTpSuSzp1RXcjohkk4NG0vJAgbfXXbTLQbCn2Fzkd8Tr4LGSeTReWlTxFGHgCvi8D8v6v5CSWGuea8O/pub</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
