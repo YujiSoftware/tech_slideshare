@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2020-01-12 Angularの今を知る 2020年版 (オープンセミナー香川 2019)</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vS9ngB6LslOSmdmYSaB0_ZHfcuZvmh3BNSm0dFENWerYZTNWQQcR3d2zUIIhGXbf4pO2tC5q7BGQG_K/pub</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>インフラ女子の日常の描き方 (natsuyo)</title>
+        <link>https://speakerdeck.com/natsuyo/inhuranu-zi-falseri-chang-falsemiao-kifang</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今日から始める LotusScript - Domino クラスライブラリの使い方（Version 1.1） (Takeshi Yoshida)</title>
+        <link>https://www.slideshare.net/chemp7/lotusscript-domino-version-11</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>関係データベースの話 (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/guan-xi-detabesufalsehua</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ブラウザ自動化ツール カオスマップ風 - STAC2018 LT (hnisiji)</title>
+        <link>https://www.slideshare.net/hnisiji/stac2018-lt-125349647</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Google Cloud Spanner 沼への誘い Read v20210518a</title>
+        <link>https://docs.google.com/presentation/d/1lxB5pbPCMjOzxZEZSc-Nn06H79pfvgdFADgMb_Z37IA/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Apache Kafkaによるスケーラブル アプリケーション開発 (yuuki takezawa)</title>
+        <link>https://speakerdeck.com/ytake/apache-kafkaniyorusukeraburu-apurikesiyonkai-fa</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>地に足をつけたフロントエンドの改善 (Recruit Lifestyle Co., Ltd.)</title>
+        <link>https://www.slideshare.net/RecruitLifestyle/ss-98513552</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RecyclerViewで 折れ線グラフを作る (Yuki Mima)</title>
         <link>https://speakerdeck.com/amyu/recyclerviewde-zhe-rexian-gurahuwozuo-ru</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>SwiftUI時代のFunctional iOS Architecture / iOSDC Japan 2020 (Yasuhiro Inami)</title>
         <link>https://speakerdeck.com/inamiy/iosdc-japan-2020</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Quarkus入門 (Norito Agetsuma)</title>
-        <link>https://www.slideshare.net/agetsuma/quarkus</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>発表用</title>
-        <link>https://docs.google.com/presentation/d/1yfOMk3lGJ-1GZocnc_HPFeq3Psq0jcTTWf7G3H7uNPY/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>freee を支えるインフラ技術 / freee-infrastructure (Manabu Sakai)</title>
-        <link>https://speakerdeck.com/manabusakai/freee-infrastructure</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ServerlessConf 2018 Keynote - Debunking Serverless Myths (Tim Wagner)</title>
-        <link>https://www.slideshare.net/TimWagner/serverlessconf-2018-keynote-debunking-serverless-myths</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>誰でもわかる強化学習 (今井翔太（えるエル）)</title>
-        <link>https://speakerdeck.com/imai_eruel/reinforcement-learning-for-everyone</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>210520_GAAD Japan 2021_あなたのウェブサイトのアクセシビリティ、一括自動テストしてみませんか？</title>
-        <link>https://docs.google.com/presentation/d/1PPMrT7djg4pP7No_Jzj2h9PSSb4ZfmatC9GgNjm2YxI/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>5000兆円の作り方 (usagimaru)</title>
-        <link>https://speakerdeck.com/usagimaru/5000zhao-yuan-falsezuo-rifang</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to write Ansible modules for A10 Thunder - A10 Networks' presenta… (Kentaro Ishizuka)</title>
-        <link>https://www.slideshare.net/KentaroIshizuka/a10-ansible-nightosaka201811</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
