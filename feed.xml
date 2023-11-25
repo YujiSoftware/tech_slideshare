@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Research Paper Introduction in IR Reading 2022 Fall (Takuya Asano)</title>
+        <link>https://speakerdeck.com/takuyaa/research-paper-introduction-in-ir-reading-2022-fall</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>楽天トラベルの開発プロセスに関して (Rakuten, Inc, @rakuten_tech)</title>
+        <link>https://www.slideshare.net/rakutentech/ss-72213989</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>検索基盤を安全にElasticsearchに置き換えるためにやったこと (Hiroki Sakamoto)</title>
+        <link>https://speakerdeck.com/taisho6339/jian-suo-ji-pan-woan-quan-nielasticsearchnizhi-kihuan-erutameniyatutakoto</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>名古屋アジャイル勉強会「モチベーションはどこからくるの？」 (hiroyuki Yamamoto)</title>
+        <link>https://www.slideshare.net/yama__moto/ss-199170829</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機械学習と公平性 議論の経過と声明の内容</title>
+        <link>https://docs.google.com/presentation/d/1s3Q-cMDsAEGqpdchUU80kIFHEOuTB_Ia4MO-U920fOI/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>HTTP Session Architecture Pattern (Chihiro Ito)</title>
+        <link>https://speakerdeck.com/chiroito/http-session-architecture-pattern</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Deep Forest: Towards An Alternative to Deep Neural Networks (harmonylab)</title>
+        <link>https://www.slideshare.net/harmonylab/deep-forest-towards-an-alternative-to-deep-neural-networks</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>現場主導で取り組む継続的な技術的負債の解消 (ham)</title>
         <link>https://speakerdeck.com/ham0215/xian-chang-zhu-dao-tequ-rizu-muji-sok-de-naji-shu-de-fu-zhai-nojie-xiao</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>オープンソースで始めるLinuxサーバー脆弱性診断入門 (Shinichiro Ohhara)</title>
         <link>https://www.slideshare.net/ShinichiroOhhara/linux-79365978</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>YAPC::Kyoto 2023</title>
-        <link>https://docs.google.com/presentation/d/1XPk3JXHtwcjoCMHYU2ZAgNZ8Lrugj-Er1k0RLA5vIAY/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Djangoフレームワークの紹介 OSC2018do (Shinya Okano)</title>
-        <link>https://speakerdeck.com/tokibito/djangohuremuwakufalseshao-jie-osc2018do</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Yahoo!ニュースにおけるBFFパフォーマンスチューニング事例 (Yahoo!デベロッパーネットワーク, ydnjp)</title>
-        <link>https://www.slideshare.net/techblogyahoo/yahoobff</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goではじめる！ アルゴリズムとデータ構造実践入門</title>
-        <link>https://docs.google.com/presentation/d/1PPHMVOdq2q94VpvpBMLr2b8XMhP5DtRRC6y6iAYbknU/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マルチモジュール化のTips / The tips of Multi-module (Masatoshi Kubode)</title>
-        <link>https://speakerdeck.com/kubode/the-tips-of-multi-module</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>色々なダイクストラ高速化 (yosupo)</title>
-        <link>https://www.slideshare.net/yosupo/ss-46612984</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPT for Developer - 超入門 (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
-        <link>https://speakerdeck.com/dahatake/chatgpt-for-developer-chao-ru-men</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
