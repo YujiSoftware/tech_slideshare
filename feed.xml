@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenAI API を使って 会話形式の入力文から、 ジオコーディングしてみた</title>
+        <link>https://docs.google.com/presentation/d/15ALUB_s6I0wObixWU1wHSKom-0mPAOjLxaRmWtupRyQ/preview</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サーバレスアーキテクチャでLINE BOTが多分作れるようになるハンズオン (Yoshiki Kobayashi)</title>
+        <link>https://speakerdeck.com/yoshi0202/sabaresuakitekutiyadeline-botgaduo-fen-zuo-reruyouninaruhanzuon</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>https://www.slideshare.net/shinodogg/relevance-67664400 (Eiji Shinohara, shinodogg)</title>
+        <link>https://www.slideshare.net/shinodogg/relevance-67664400</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go理解度チェック</title>
+        <link>https://docs.google.com/presentation/d/1oqfPIEJlw1u0GStHPEJFMtq2FPFUGDVSgMW2sLsXZF8/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>説明の偏り・見せ方が推薦結果の選択にどう影響するか  (kuri8ive)</title>
+        <link>https://speakerdeck.com/kuri8ive/irreading2023-chiea2023</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RTLを語る会 2018/11/24 pp.​37-47 (hiyuh)</title>
+        <link>https://www.slideshare.net/hiyuh/rtl-20181124-pp3747</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ethereumの近況・Ethereum 2.​0 @第2回BSEC研究会 2020/9/23（公開用）</title>
+        <link>https://docs.google.com/presentation/d/1Dg9d1qoXT_mTk9z1_ZqPN71z6POCSNBZE9UdV9_DT0o/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Growing your app with Firebase (Yuki Shiho)</title>
+        <link>https://speakerdeck.com/shihochan/growing-your-app-with-firebase</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>No crash allowed - Fault tolerance patterns (Uwe Friedrichsen, ufried)</title>
+        <link>https://www.slideshare.net/ufried/no-crash-allowed-fault-tolerance-patterns</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>お客様、そこは秘孔です！突かないでください！ HTTP/2 Rapid reset の概要と対策 (Murachi Akira)</title>
         <link>https://speakerdeck.com/murachiakira/2-rapid-reset-nogai-yao-todui-ce</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Deep Dive on Amazon Managed Blockchain: re:Invent 2018 Recap at the A… (Amazon Web Services, @​awscloud)</title>
         <link>https://www.slideshare.net/AmazonWebServices/deep-dive-on-amazon-managed-blockchain-reinvent-2018-recap-at-the-aws-loft-san-francisco</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Gophercon UK] Fun With Pointers</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSVN5pXkK8CFimGIVqaUXpJxo0OUILbPMAMD1s0S1dZwXX-Z6lW9H5W7_rTAiDGacW2MSTpA0cnhZB_/pub</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP入門 (Takayuki)</title>
-        <link>https://speakerdeck.com/bumptakayuki/phpru-men</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to recover yahoo mail account +1855-429-1222 (arinamartin44)</title>
-        <link>https://www.slideshare.net/arinamartin44/how-to-recover-yahoo-mail-account-18554291222</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「みんなで普及・実用化プロジェクト」 参加シート</title>
-        <link>https://docs.google.com/presentation/d/1yeDpRy8jDlHrRcm8ksy26HPFx_rqzfwSgIm0qe7IeJ4/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初手が爆速になるフレームワークを作ってコンペ設計した話 (Yamaguchi Takahiro)</title>
-        <link>https://speakerdeck.com/nyk510/chu-shou-gabao-su-ninaruhuremuwakuwozuo-tutekonpeshe-ji-sitahua</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DeepLab v3触ってみた (KatsuyaENDOH)</title>
-        <link>https://www.slideshare.net/KatsuyaENDOH/deeplab-v3</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『ライフサイクルマネジメント』ssmjp_20191111_sawatari</title>
-        <link>https://docs.google.com/presentation/d/1NWYbLal2AneW9O02NXiaImAUKJaA2aUL84D8904Qhi0/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PIXIV TECH FES.​ short session / What kind of contribution to OSS is really pleased? (usa)</title>
-        <link>https://speakerdeck.com/unak/what-kind-of-contribution-to-oss-is-really-pleased</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JPiere 伝票の基礎知識 (Hideaki Hagiwara, HideakiHagiwara)</title>
-        <link>https://www.slideshare.net/hideakihagiwara3/jpiere-66760122</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
