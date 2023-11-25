@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>監視ってなんだっけ？</title>
+        <link>https://docs.google.com/presentation/d/1jc0voGfNCpDumTCTna1aqyV1NARxLKXS0LUYEfGOroY/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Elasticsearch Cluster Deployment Model (Kosho Owa)</title>
+        <link>https://speakerdeck.com/kosho/elasticsearch-cluster-deployment-model</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>本気で使うStack storm (tyamane)</title>
+        <link>https://www.slideshare.net/tyamane/stack-storm-81013760</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Yext COVID-19 | Global Search and Engagement Report</title>
+        <link>https://docs.google.com/presentation/d/1jv_slmhaC0aDlYUQby0NgpQy4miC8pWa79ZJftNw0S4/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コロナ禍でのチームビルディング (かわばたれもん(KawabataLemon))</title>
+        <link>https://speakerdeck.com/kawabatalemon/koronahuo-defalsetimubirudeingu</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microad adtech workshop_2010 (Wataru Noguchi, @​noogle)</title>
+        <link>https://www.slideshare.net/oillio99/microad-adtech-workshop2010</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PPL C++とJSを跨ぐ クロスコンポーネント ガベージコレクタ</title>
+        <link>https://docs.google.com/presentation/d/1r5WC_yTW2WS9ZYMn025_CZQjXLnnYnm54KOcZVzVYBc/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最強の500系エラー画面を探し求めて (akatsuki174)</title>
+        <link>https://speakerdeck.com/akatsuki174/zui-qiang-false500xi-erahua-mian-wotan-siqiu-mete</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>話題のKubernetesをRancher2.0で 便利に使う！ (Yutaka Ichikawa)</title>
+        <link>https://www.slideshare.net/cyberblackvoom/kubernetesrancher20-98688209</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Block Pong: Web 技術を駆使したゲームアプリの実装舞台裏 - DevFest 2020</title>
         <link>https://docs.google.com/presentation/d/1OmFQahgOZvd5kqI-P3oXaW5tn75IqId9lKKo1SVne30/preview</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>YAVIの紹介</title>
         <link>https://docs.google.com/presentation/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PickGo_for_Partnerの移行方法から学ぶ_既存のネイティブアプリをFlutterへリプレイスする方法_.​pdf (entaku)</title>
-        <link>https://speakerdeck.com/entaku/pickgo-for-partnerfalseyi-xing-fang-fa-karaxue-hu-ji-cun-falseneiteihuahuriwoflutterherihureisusurufang-fa</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How Netflix Tunes EC2 Instances for Performance (Brendan Gregg)</title>
-        <link>https://www.slideshare.net/brendangregg/how-netflix-tunes-ec2-instances-for-performance</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人開発OSSでバーンアウトしないために</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQ10LqQJEBldltJVmVtm-PCR4_O30AsiExtNAlc85hs9xR1DypoKYblUYViMwhwJhVfID5m1bHz8hsW/pub</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ディレクション資料をXD化してわかった、XDのメリットと課題 (assialiholic)</title>
-        <link>https://speakerdeck.com/assialiholic/deirekusiyonzi-liao-woxdhua-sitewakatuta-xdfalsemeritutotoke-ti</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20170308 古参AWSユーザーが悩むap-northeast-1bからの脱却 (Tsuyoshi Hisamatsu, @makaibito)</title>
-        <link>https://www.slideshare.net/makaibito/20170308-awsapnortheast1b</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトオーナーがエンジニアと会話できるようになるためにオススメしたいこと (Masatomo Sakagami)</title>
-        <link>https://speakerdeck.com/madai0517/hurotakutoonakaensiniatohui-hua-tekiruyouninarutameniosusumesitaikoto</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>An Insider’s Guide to Maximizing Spark SQL Performance (Takuya UESHIN, ueshin)</title>
-        <link>https://www.slideshare.net/ueshin/an-insiders-guide-to-maximizing-spark-sql-performance</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CameraX</title>
-        <link>https://docs.google.com/presentation/u/0/d/19v5_MrMQvtlrQrE7PXy8dZi7h_iFV0kFwQaJaXt5wEg/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アイドルとして勤務する -理論と実践- / Work as cute idol. - theory &amp; practice - #imas_hack (mzp)</title>
-        <link>https://speakerdeck.com/mzp/work-as-cute-idol-theory-and-practice-number-imas-hack</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
