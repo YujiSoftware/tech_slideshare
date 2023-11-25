@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ESLint</title>
+        <link>https://docs.google.com/presentation/d/1WktBwIZOwjhouElfXYwdBOItiF5kXoDCke0jgKPDmIA/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CPUとLinux (Satoru Takeuchi)</title>
+        <link>https://speakerdeck.com/sat/cputolinux</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オープンソースで始めるLinuxサーバー脆弱性診断入門 (Shinichiro Ohhara)</title>
+        <link>https://www.slideshare.net/ShinichiroOhhara/linux-79365978</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>YAPC::Kyoto 2023</title>
+        <link>https://docs.google.com/presentation/d/1XPk3JXHtwcjoCMHYU2ZAgNZ8Lrugj-Er1k0RLA5vIAY/preview</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Djangoフレームワークの紹介 OSC2018do (Shinya Okano)</title>
+        <link>https://speakerdeck.com/tokibito/djangohuremuwakufalseshao-jie-osc2018do</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Yahoo!ニュースにおけるBFFパフォーマンスチューニング事例 (Yahoo!デベロッパーネットワーク, ydnjp)</title>
+        <link>https://www.slideshare.net/techblogyahoo/yahoobff</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goではじめる！ アルゴリズムとデータ構造実践入門</title>
+        <link>https://docs.google.com/presentation/d/1PPHMVOdq2q94VpvpBMLr2b8XMhP5DtRRC6y6iAYbknU/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>マルチモジュール化のTips / The tips of Multi-module (Masatoshi Kubode)</title>
+        <link>https://speakerdeck.com/kubode/the-tips-of-multi-module</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>色々なダイクストラ高速化 (yosupo)</title>
+        <link>https://www.slideshare.net/yosupo/ss-46612984</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPT for Developer - 超入門 (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
         <link>https://speakerdeck.com/dahatake/chatgpt-for-developer-chao-ru-men</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Browser Automated Tests (derek-b)</title>
         <link>https://speakerdeck.com/derekb/browser-automated-tests</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>続・時刻の話 (Satoshi G)</title>
-        <link>https://www.docswell.com/s/wind06106/5GXW89-clocktimenext</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes で実践するクラウドネイティブ DevOps "監視とオブザーバビリティ"編 / Cloud Native DevOp… (Preferred Networks)</title>
-        <link>https://www.slideshare.net/pfi/kubernetes-devops-cloud-native-devops-with-kubernetes-monitoring-and-observability-238617283</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スライド：アジャイルQAインセプションデッキ 開発中 v0.6</title>
-        <link>https://docs.google.com/presentation/d/1FmtDmxLdwGKrpL5vIovid1cMqKuIGAAO-6BbqDw2jL0/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JITコンパイラはいかにRailsを速くするか / Rails Developers Meetup 2017 (Takashi Kokubun)</title>
-        <link>https://speakerdeck.com/k0kubun/rails-developers-meetup-2017</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230930_Azure Arc対応サーバーの展開と管理/Deployment and Management of Azure Arc Enabled Servers (Norio SASHIZAKI,@sshzk)</title>
-        <link>https://www.docswell.com/s/sshzk/ZNRXDD-2023-10-02-200639</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>芸能事務所 (Yasutaka Ueda　, @​uedajouhoumedia)</title>
-        <link>https://www.slideshare.net/YasutakaUeda1/ss-186272902</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Arc Updates - 2023年9月版 (Kazuki Takai,@zhuky7)</title>
-        <link>https://www.docswell.com/s/takai/ZGXM34-Azure-Arc-Updates-2023-09</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FaaS Meets Java EE: Developing Cloud Native Applications at Speed (Chris Bailey)</title>
-        <link>https://www.slideshare.net/cnbailey/faas-meets-java-ee-developing-cloud-native-applications-at-speed</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>拡張セキュリティ更新プログラム (ESU) のおさらい (tamaiyutaro)</title>
-        <link>https://speakerdeck.com/tamaiyutaro/kuo-zhang-sekiyuriteigeng-xin-puroguramu-esu-noosarai</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
