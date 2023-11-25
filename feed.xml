@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>First-class Type-level Programming</title>
+        <link>https://docs.google.com/presentation/d/1Z9blolF6wdc88W2AwKVj5VYbnaW95JUUSRnY8K-zi8Q/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テスト支援ツールのアジャイル開発とビジネス化の課題に関する事例 #jassttokyo (Kinji AKEMINE)</title>
+        <link>https://speakerdeck.com/kjstylepp/tesutozhi-yuan-turufalseaziyairukai-fa-tobizinesuhua-falseke-ti-niguan-surushi-li-number-jassttokyo</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>5-principles-for-project-facilitation (Kenji Hiranabe, @​hiranabe)</title>
+        <link>https://www.slideshare.net/hiranabe/5principlesforprojectfacilitation/</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>詳解CSSinJS</title>
+        <link>https://docs.google.com/presentation/d/1jOAu0pjqt2R-3CWP9bLsTN5siUpYGPjo22fcyAfU9eM/preview</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ruby on Rails 最初の一歩 (tdak)</title>
+        <link>https://speakerdeck.com/tdak/ruby-on-rails-zui-chu-false-bu</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大学向け Moodleビギナー管理者が知っておくべき10のこと (Takeshi Matsuzaki)</title>
+        <link>https://www.slideshare.net/matsuzakit/moodle10-89260846</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>電子情報学特論：Chromiumのアーキテクチャを解き明かす</title>
+        <link>https://docs.google.com/presentation/u/0/d/1AzBcuN-dmctk7v1IMZHivfpFAiXwCnsjyJS3wQ4sgE4/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHPで支える大規模アーキテクチャ (yuuki takezawa)</title>
+        <link>https://speakerdeck.com/ytake/phpdezhi-eruda-gui-mo-akitekutiya</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Watch wwe Smackdown / Watch Wrestling (kalisjack833)</title>
+        <link>https://www.slideshare.net/kalisjack833/watch-wwe-smackdown-watch-wrestling</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>FlutterでもFirebaseAnalyticsを活用しよう</title>
         <link>https://docs.google.com/presentation/d/1aCexEnRaIKJujUHWypXqovP8w1Xakxtgt5DAZcRx_cE/edit</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>[xSIG 2018]InvisibleWriteRule: Extended write protocol for 1VCC (Sho Nakazono)</title>
         <link>https://www.slideshare.net/nikezono/xsig-2018invisiblewriterule-extended-write-protocol-for-1vcc</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP 8 で作る JSON パーサ / php8-json-parser (shin1x1)</title>
-        <link>https://speakerdeck.com/shin1x1/php8-json-parser</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20191218 blueqat-summit-rikkyo-university-mochizuki-ul2 (secret)</title>
-        <link>https://www.slideshare.net/secret/qYKMk0sgrfpelu</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GKEとEKS</title>
-        <link>https://docs.google.com/presentation/u/0/d/17d33MfFhaVEtJ6dhqxRf7N3JHrqeIBFBStHwSoDyrtQ/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SecHack365 修了生LT（2018年愛媛回） (友利奈緒（@K_atc）)</title>
-        <link>https://speakerdeck.com/katc/sechack365-xiu-liao-sheng-lt-2018nian-ai-yuan-hui</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアチームにとって手の届くKPIを考えて、仕事に取り入れてみた supported by アトラクタ原田騎郎さん (Rakuten, Inc, @​rakuten_tech)</title>
-        <link>https://www.slideshare.net/rakutentech/kpi-supported-by</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Python機械学習勉強会in新潟のロゴが無いので、生成AIで作ってみましょう / osc2023niigata (kasacchiful)</title>
-        <link>https://speakerdeck.com/kasacchiful/osc2023niigata</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloud 2021 まとめ</title>
-        <link>https://docs.google.com/presentation/d/16tIWvAy7czvzldlT4liOcz8_WLkK41x4Nuyn2ce-ZII/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社内ツールを Rustに書き換えてみた件 (morimorikochan)</title>
-        <link>https://speakerdeck.com/diggymo/she-nei-turuwo-rustnishu-kihuan-etemitajian</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バイオインフォ分野におけるtidyなデータ解析の最新動向</title>
-        <link>https://www.slideshare.net/antiplastics/tidy-239579849</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
