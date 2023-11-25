@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜ リアーキテクティング専任チームを作ったのか (Kei Shiratsuchi)</title>
+        <link>https://speakerdeck.com/kei_s/naze-riakitekuteinguzhuan-ren-timuwozuo-tutanoka</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Writing Your App Swiftly (Sommer Panage)</title>
+        <link>https://www.slideshare.net/SommerPanage1/writing-your-app-swiftly</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>YAVIの紹介</title>
+        <link>https://docs.google.com/presentation/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PickGo_for_Partnerの移行方法から学ぶ_既存のネイティブアプリをFlutterへリプレイスする方法_.​pdf (entaku)</title>
+        <link>https://speakerdeck.com/entaku/pickgo-for-partnerfalseyi-xing-fang-fa-karaxue-hu-ji-cun-falseneiteihuahuriwoflutterherihureisusurufang-fa</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>How Netflix Tunes EC2 Instances for Performance (Brendan Gregg)</title>
+        <link>https://www.slideshare.net/brendangregg/how-netflix-tunes-ec2-instances-for-performance</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>個人開発OSSでバーンアウトしないために</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQ10LqQJEBldltJVmVtm-PCR4_O30AsiExtNAlc85hs9xR1DypoKYblUYViMwhwJhVfID5m1bHz8hsW/pub</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ディレクション資料をXD化してわかった、XDのメリットと課題 (assialiholic)</title>
+        <link>https://speakerdeck.com/assialiholic/deirekusiyonzi-liao-woxdhua-sitewakatuta-xdfalsemeritutotoke-ti</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20170308 古参AWSユーザーが悩むap-northeast-1bからの脱却 (Tsuyoshi Hisamatsu, @makaibito)</title>
+        <link>https://www.slideshare.net/makaibito/20170308-awsapnortheast1b</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクトオーナーがエンジニアと会話できるようになるためにオススメしたいこと (Masatomo Sakagami)</title>
         <link>https://speakerdeck.com/madai0517/hurotakutoonakaensiniatohui-hua-tekiruyouninarutameniosusumesitaikoto</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>後出しランチェスター戦略</title>
         <link>https://docs.google.com/presentation/d/1hZ8T0FV0l8KPybRcQ9J7zwQ0lIP525F7jXJBJhQsWYA/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Server-Side Kotlin で SpringBoot と Ktor の両方を使ってわかったことと使用したライブラリの比較 (mizumura3)</title>
-        <link>https://speakerdeck.com/mizumura3/server-side-kotlin-de-springboot-to-ktor-falseliang-fang-woshi-tutewakatutakototoshi-yong-sitaraiburarifalsebi-jiao</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Chainer の Trainer 解説と NStepLSTM について (Retrieva inc.)</title>
-        <link>https://www.slideshare.net/Retrieva_jp/chainer-trainer-nsteplstm</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2017年のJavaScriptと フロントエンドの楽しみかた #jserinfo (Potato4d(Hanatani Takuma))</title>
-        <link>https://speakerdeck.com/potato4d/2017nian-falsejavascriptto-hurontoendofalsele-simikata-number-jserinfo</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仕事ではじめる機械学習 (Aki Ariga)</title>
-        <link>https://www.slideshare.net/chezou/ss-97373367</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2020-01-12 Angularの今を知る 2020年版 (オープンセミナー香川 2019)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vS9ngB6LslOSmdmYSaB0_ZHfcuZvmh3BNSm0dFENWerYZTNWQQcR3d2zUIIhGXbf4pO2tC5q7BGQG_K/pub</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インフラ女子の日常の描き方 (natsuyo)</title>
-        <link>https://speakerdeck.com/natsuyo/inhuranu-zi-falseri-chang-falsemiao-kifang</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今日から始める LotusScript - Domino クラスライブラリの使い方（Version 1.1） (Takeshi Yoshida)</title>
-        <link>https://www.slideshare.net/chemp7/lotusscript-domino-version-11</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>関係データベースの話 (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/guan-xi-detabesufalsehua</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
