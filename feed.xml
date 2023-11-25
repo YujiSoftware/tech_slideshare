@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Mastering Webpack Plugins</title>
+        <link>https://docs.google.com/presentation/d/1P5f-cK4jlhGQIfPQ_vaYFRWV464kBb5UaUBkfRjBp4Y/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実演TypeScript + GitHub Copilot (erukiti)</title>
+        <link>https://speakerdeck.com/erukiti/shi-yan-typescript-plus-github-copilot</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Julian Hyde, Architect at hortonworks at Hortonworks | SlideShare</title>
+        <link>https://www.slideshare.net/julianhyde</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>初期アドベンチャーゲームの受容について</title>
+        <link>https://docs.google.com/presentation/d/1qQd4QVclXv9dpfR1fYifP3oTOfIfOtl9QVc6VQ4Vw9c/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rubyのエラーをちょっと整理（初級者向け） (Y. Sato ( ＊＊＊＊))</title>
+        <link>https://speakerdeck.com/universato/rubyfalseerawotiyotutozheng-li-chu-ji-zhe-xiang-ke</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Monitoring as Code: Getting to Monitoring-Driven Development - DEV314… (Amazon Web Services, awscloud)</title>
+        <link>https://www.slideshare.net/AmazonWebServices/monitoring-as-code-getting-to-monitoringdriven-development-dev314-reinvent-2017</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>pmconf2022_mot_miyamoto.pdf (Rieko Miyamoto)</title>
+        <link>https://speakerdeck.com/riekomiyamoto/pmconf2022-mot-miyamoto-d26601ca-efac-454c-a300-3f4363fd1b8c</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Effective java 輪読会 第5章 項目26-29 (Appresso Engineering Team, appresso_dstn)</title>
+        <link>https://www.slideshare.net/appresso/effective-java-4-31658259</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>みんなラズパイでTensorFlow Liteしよう？ - Speaker Deck (Want more?)</title>
         <link>https://speakerdeck.com/ornew/minnarazupaidetensorflow-litesiyou</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>GoでシュッとWebスクレイピングする (Yuta Ohashi)</title>
         <link>https://www.slideshare.net/ohashiyuta/goweb-98661777</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS-ANGEL Dojo 全体朝会LT（2021年6月11日）～内製化時代に�SIerが果たすべき役割とは？～ (中野康雄（ARI）)</title>
-        <link>https://speakerdeck.com/yasuoyasuo/aws-angel-dojo-quan-ti-zhao-hui-lt-2021nian-6yue-11ri-nei-zhi-hua-shi-dai-ni-siergaguo-tasubekiyi-ge-toha</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Step Function with API Gateway Integration - Metin Kale, Chicago (AWS Chicago, awschicago)</title>
-        <link>https://www.slideshare.net/awschicago/aws-step-function-with-api-gateway-integration-metin-kale-chicago</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>First-class Type-level Programming</title>
-        <link>https://docs.google.com/presentation/d/1Z9blolF6wdc88W2AwKVj5VYbnaW95JUUSRnY8K-zi8Q/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスト支援ツールのアジャイル開発とビジネス化の課題に関する事例 #jassttokyo (Kinji AKEMINE)</title>
-        <link>https://speakerdeck.com/kjstylepp/tesutozhi-yuan-turufalseaziyairukai-fa-tobizinesuhua-falseke-ti-niguan-surushi-li-number-jassttokyo</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>5-principles-for-project-facilitation (Kenji Hiranabe, @​hiranabe)</title>
-        <link>https://www.slideshare.net/hiranabe/5principlesforprojectfacilitation/</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>詳解CSSinJS</title>
-        <link>https://docs.google.com/presentation/d/1jOAu0pjqt2R-3CWP9bLsTN5siUpYGPjo22fcyAfU9eM/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby on Rails 最初の一歩 (tdak)</title>
-        <link>https://speakerdeck.com/tdak/ruby-on-rails-zui-chu-false-bu</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大学向け Moodleビギナー管理者が知っておくべき10のこと (Takeshi Matsuzaki)</title>
-        <link>https://www.slideshare.net/matsuzakit/moodle10-89260846</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
