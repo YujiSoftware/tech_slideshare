@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクトオーナーがエンジニアと会話できるようになるためにオススメしたいこと (Masatomo Sakagami)</title>
+        <link>https://speakerdeck.com/madai0517/hurotakutoonakaensiniatohui-hua-tekiruyouninarutameniosusumesitaikoto</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>An Insider’s Guide to Maximizing Spark SQL Performance (Takuya UESHIN, ueshin)</title>
+        <link>https://www.slideshare.net/ueshin/an-insiders-guide-to-maximizing-spark-sql-performance</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CameraX</title>
+        <link>https://docs.google.com/presentation/u/0/d/19v5_MrMQvtlrQrE7PXy8dZi7h_iFV0kFwQaJaXt5wEg/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アイドルとして勤務する -理論と実践- / Work as cute idol. - theory &amp; practice - #imas_hack (mzp)</title>
+        <link>https://speakerdeck.com/mzp/work-as-cute-idol-theory-and-practice-number-imas-hack</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Libra preliminary review from macro-prudential supervisory perspective (Masakazu Masujima, @​hakusansai)</title>
+        <link>https://www.slideshare.net/masamasujima/libra-preliminary-review-from-macroprudential-supervisory-perspective</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>coco利用者向けオンラインセミナー</title>
+        <link>https://docs.google.com/presentation/d/14mmF34DNL9TLZ-TyjbLDfpIk3deL_rQ66avZqZNqrLU/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WorkManager (takahirom)</title>
+        <link>https://speakerdeck.com/takahirom/workmanager</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>201802 WordBench Nagoya (takashi ishihara)</title>
+        <link>https://www.slideshare.net/takashiishihara2/201802-wordbench-nagoya</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TinyGo でキーボードを作る話</title>
         <link>https://docs.google.com/presentation/d/1me5TOH2tO3uLAGP2-6Z5dfvZCxsi-R_LqqJQQv_BLhI/preview</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>関係データベースの話 (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/guan-xi-detabesufalsehua</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ブラウザ自動化ツール カオスマップ風 - STAC2018 LT (hnisiji)</title>
-        <link>https://www.slideshare.net/hnisiji/stac2018-lt-125349647</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloud Spanner 沼への誘い Read v20210518a</title>
-        <link>https://docs.google.com/presentation/d/1lxB5pbPCMjOzxZEZSc-Nn06H79pfvgdFADgMb_Z37IA/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Apache Kafkaによるスケーラブル アプリケーション開発 (yuuki takezawa)</title>
-        <link>https://speakerdeck.com/ytake/apache-kafkaniyorusukeraburu-apurikesiyonkai-fa</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>地に足をつけたフロントエンドの改善 (Recruit Lifestyle Co., Ltd.)</title>
-        <link>https://www.slideshare.net/RecruitLifestyle/ss-98513552</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RecyclerViewで 折れ線グラフを作る (Yuki Mima)</title>
-        <link>https://speakerdeck.com/amyu/recyclerviewde-zhe-rexian-gurahuwozuo-ru</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「Eye」でカジュアルにプロセス監視 (Takeshi Yabe, @​tyabe)</title>
-        <link>https://www.slideshare.net/tyabe/eye-28447746</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シェーダー芸人を目指そう</title>
-        <link>https://docs.google.com/presentation/d/1-vydZDd1pH-zFGBQDSh6_OJYdvttZdFXsP-uw35aAz8/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sigfoxの通信料年額100円って本当ですか？ (zaki)</title>
-        <link>https://speakerdeck.com/zaki134rp/sigfoxfalsetong-xin-liao-nian-e-100yuan-tuteben-dang-desuka</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
