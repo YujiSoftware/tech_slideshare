@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Python機械学習勉強会in新潟のロゴが無いので、生成AIで作ってみましょう / osc2023niigata (kasacchiful)</title>
+        <link>https://speakerdeck.com/kasacchiful/osc2023niigata</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Google Cloud 2021 まとめ</title>
+        <link>https://docs.google.com/presentation/d/16tIWvAy7czvzldlT4liOcz8_WLkK41x4Nuyn2ce-ZII/preview</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>社内ツールを Rustに書き換えてみた件 (morimorikochan)</title>
+        <link>https://speakerdeck.com/diggymo/she-nei-turuwo-rustnishu-kihuan-etemitajian</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バイオインフォ分野におけるtidyなデータ解析の最新動向</title>
+        <link>https://www.slideshare.net/antiplastics/tidy-239579849</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ElmでVisual Study!!</title>
+        <link>https://docs.google.com/presentation/d/13FXKv1wjU41sXHPcNuCl3DQOexpruv1maB1zIbLg4sY/preview</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Spacyでお手軽NLP / NLP with spacy (himkt)</title>
+        <link>https://speakerdeck.com/himkt/nlp-with-spacy</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エディタの壁を越えるGoの開発ツールの文化と作成法 (Takuya Ueda, @tenntenn)</title>
+        <link>https://www.slideshare.net/takuyaueda967/go-68228940</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RLSL</title>
+        <link>https://docs.google.com/presentation/d/1_cB-sxUusYVoCYdXnqwAg2u3-lrqBfgrUj205ytxYaw/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React Native for WebでもOGP対応がしたい！ ~ TECH STAND #2 React Native 2020/12/18 ~ (tatsuaki watanabe)</title>
+        <link>https://speakerdeck.com/nabettu/18</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IIJmio meeting 22 お申し込み時のポイント2019</title>
+        <link>https://www.slideshare.net/IIJ_techlog/iijmio-meeting-22-2019/1</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OpenAI API を使って 会話形式の入力文から、 ジオコーディングしてみた</title>
         <link>https://docs.google.com/presentation/d/15ALUB_s6I0wObixWU1wHSKom-0mPAOjLxaRmWtupRyQ/preview</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>お客様、そこは秘孔です！突かないでください！ HTTP/2 Rapid reset の概要と対策 (Murachi Akira)</title>
         <link>https://speakerdeck.com/murachiakira/2-rapid-reset-nogai-yao-todui-ce</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>.NET 8世代のBlazorについて (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/dot-net-8shi-dai-noblazornituite</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LT-DIonScala</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQh38exYkKX3yMJ_GI-XF3VjQciNSdV1dZtVazxveQTp-2SshzrMh2P-8dA5e3JRVFPXItXZYDIICld/pub</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>明日から使えるFlutter For Android (hiraok)</title>
-        <link>https://speakerdeck.com/hiraok/ming-ri-karashi-eruflutter-for-android</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AutoMLとQumicoを使って、ラズパイでディープラーニングを動かす話 (Natsutani Minoru)</title>
-        <link>https://www.slideshare.net/minorunatsutani/automlqumico-191776828</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「2つのDX」とDX Criteria(DXD講演)</title>
-        <link>https://docs.google.com/presentation/d/1xE_6L_5GACrGl4PyMhFCqVBeQDCR2ruQyotejUCQzMw/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Prometheusを始めよう / Introduction Prometheus ja (kameneko)</title>
-        <link>https://speakerdeck.com/takumanakagame/introduction-prometheus-ja</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゲーム開発者のためのタイポグラフィ講座 (UnityTechnologiesJapan)</title>
-        <link>https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM Meetup Tokyo #1 微分可能な検索インデックスについて</title>
-        <link>https://docs.google.com/presentation/d/1-tqsW5roJ_WJH2xUAW3aKFfBtj7AlDT-wD98AeKaXbk/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spring Modulithで始めるモジュラモノリス開発 (YutoOtsuka)</title>
-        <link>https://speakerdeck.com/yutootsuka/spring-modulithdeshi-merumoziyuramonorisukai-fa</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deep Dive on Amazon Managed Blockchain: re:Invent 2018 Recap at the A… (Amazon Web Services, @​awscloud)</title>
-        <link>https://www.slideshare.net/AmazonWebServices/deep-dive-on-amazon-managed-blockchain-reinvent-2018-recap-at-the-aws-loft-san-francisco</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
