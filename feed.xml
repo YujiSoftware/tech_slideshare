@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RecyclerViewで 折れ線グラフを作る (Yuki Mima)</title>
+        <link>https://speakerdeck.com/amyu/recyclerviewde-zhe-rexian-gurahuwozuo-ru</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「Eye」でカジュアルにプロセス監視 (Takeshi Yabe, @​tyabe)</title>
+        <link>https://www.slideshare.net/tyabe/eye-28447746</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>シェーダー芸人を目指そう</title>
+        <link>https://docs.google.com/presentation/d/1-vydZDd1pH-zFGBQDSh6_OJYdvttZdFXsP-uw35aAz8/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Sigfoxの通信料年額100円って本当ですか？ (zaki)</title>
+        <link>https://speakerdeck.com/zaki134rp/sigfoxfalsetong-xin-liao-nian-e-100yuan-tuteben-dang-desuka</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MySQL 5.7 トラブルシューティング 性能解析入門編 (Mikiya Okuno, @nippondanji)</title>
+        <link>https://www.slideshare.net/nippondanji/mysql-57-77003983</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プライベートAPIのクライアントをいい感じにしたい / pepabo_ec_tech_mtg02 (Akihito Nakano)</title>
+        <link>https://speakerdeck.com/akihito_nakano/pepabo-ec-tech-mtg02</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>190827_JJUG-PivotalSpringRuntime</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vRCo_jXD2xBmxWpX9Moe3M8uH0v65vbfpm0iPhb8kanzsEoi-r7qnM14Xrh6WnA9OOcw3urDF9-78RK/pub</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RubyGems 3 &amp; 4 (Hiroshi SHIBATA, @hsbt)</title>
+        <link>https://www.slideshare.net/hsbt/rubygems-3-4</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>巨大なSPAの技術的負債と向き合い続けるテクニック(2023年秋) (shibe23)</title>
         <link>https://speakerdeck.com/shibe23/ju-da-naspanoji-shu-de-fu-zhai-toxiang-kihe-isok-kerutekunituku-2023nian-qiu</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>How to write Ansible modules for A10 Thunder - A10 Networks' presenta… (Kentaro Ishizuka)</title>
         <link>https://www.slideshare.net/KentaroIshizuka/a10-ansible-nightosaka201811</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Modernizing pixiv</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQck4DKc3GBrfDU_LJYRwuBAaRBlFTgJD2_k523Ximoi5juNRIX6TrjRF5zR4A6xQ6czlBLudgu4qHO/pub</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>適応し続けるプロダクトとセキュリティ (Kengo Suzuki)</title>
-        <link>https://speakerdeck.com/ken5scal/shi-ying-sisok-keruhurotakutotosekiyuritei</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OSC2020 Fukuoka: インストールいらず、WebAR入門</title>
-        <link>https://www.slideshare.net/ssuserc0d7fb/osc2020-fukuoka-webar</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HTML Optimization for Web Performance</title>
-        <link>https://docs.google.com/presentation/d/1aLhRaTr8GdA4vrEM4Frkmsyt3b5jjncPsvHtj9ar58U/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes標準のストレージ機能をおさらいしよう (hhiroshell)</title>
-        <link>https://speakerdeck.com/hhiroshell/kubernetesbiao-zhun-falsesutoreziji-neng-woosaraisiyou</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モノグサ万歳！Webデザイナーがesa→GitHub→Travis CI→Hexoで、ポートフォリオのビルドを自動化した話 #ltlove… (Ai Minatogawa)</title>
-        <link>https://www.slideshare.net/AiMinatogawa/webesagithubtravis-cihexo-ltlovers</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What is doobie? - database access for scala - (chibochibo)</title>
-        <link>https://www.slideshare.net/chibochibo/what-is-doobie-database-access-for-scala</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践！モノリスからマイクロサービス！Event Stormingによるドメイン駆動設計から実装まで / AWS_Dev_Day_2023_E_3 (Atsushi Fukui)</title>
-        <link>https://speakerdeck.com/fatsushi/aws-dev-day-2023-e-3</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
