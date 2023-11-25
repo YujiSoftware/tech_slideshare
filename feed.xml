@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GCPで始める Terraform</title>
+        <link>https://docs.google.com/presentation/d/1VAVuF1GGYq_kT3HgLk81UGWNa5xhNsy_nQDMJLpe9dE/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>グーペのE2Eテスト運用事情 (Makoto Chiba)</title>
+        <link>https://speakerdeck.com/hypermkt/gupefalsee2etesutoyun-yong-shi-qing</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>チームワークあふれる働き方を目指して -サイボウズが歩んだスクラム導入の道- (Yusuke Amano)</title>
+        <link>https://www.slideshare.net/ama-ch/ss-83166408</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>xUnit Test Patternsから学ぶテストアンチパターン</title>
+        <link>https://docs.google.com/presentation/d/1SEYB7EA0uw0ARGfiC3pkY9m4KFw0m8Myng3Fc29cFvU/preview</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ng-japan meetup evolution of Angular Compiler (Yosuke Kurami)</title>
+        <link>https://speakerdeck.com/quramy/ng-japan-meetup-evolution-of-angular-compiler</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>チームで「きちんと」Laravel を使っていくための取り組み (Shohei Okada, @​okashoi)</title>
+        <link>https://www.slideshare.net/ShoheiOkada/laravel-90603762</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>仕事でバックエンド開発するときに考えていること / GEEK-SAI-2022-AUTUMN-yanyan-Backend-Study (CARTA Engineering)</title>
+        <link>https://speakerdeck.com/carta_engineering/geek-sai-2022-autumn-yanyan-backend-study</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>階層的クラスタリング入門の入門 (Mas Kot)</title>
+        <link>https://www.slideshare.net/maskot3/ss-121402523</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【Hi-Con登壇資料】ブロックチェーンゲーム「My Crypto Heroes」で バトルβ版をリリースしてみました！〜課題と対処の現場録〜 (Shun Ishikawa)</title>
         <link>https://speakerdeck.com/shunishikawa/hi-condeng-tan-zi-liao-burotukutiengemu-my-crypto-heroes-de-batorubban-woririsusitemimasita-ke-ti-todui-chu-falsexian-chang-lu</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>Scalaを業務で使うためにした7つのこと (yoshiyoshifujii)</title>
         <link>https://speakerdeck.com/yoshiyoshifujii/scalawoye-wu-deshi-utamenisita7tufalsekoto</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>田端大学12/04お題　paypay</title>
-        <link>https://www.slideshare.net/ssuser5c94f9/1204paypay/1</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>情報科学における18のメタテクニック (nakano_lab)</title>
-        <link>https://www.slideshare.net/nakano_lab/cs-metatechniques</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare WorkersとKVで キャッシュを非同期に更新する | Cloudflare Meetup Nagoya (AijiUejima)</title>
-        <link>https://speakerdeck.com/aiji42/cloudflare-workerstokvde-kiyatusiyuwofei-tong-qi-nigeng-xin-suru-cloudflare-meetup-nagoya</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sharding with sql alchemy (Akira Matsuzaki)</title>
-        <link>https://www.slideshare.net/akipom/sharding-with-sql-alchemy</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PodSecurityPolicyの廃止に備えて、 一足先にPodSecurity Admissionを試してみよう! / from-psp-to-podsecurity (uesyn)</title>
-        <link>https://speakerdeck.com/uesyn/from-psp-to-podsecurity</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20190220 android-ios-testnight (Kazuaki Matsuo, Kazu_cocoa)</title>
-        <link>https://www.slideshare.net/KazuMatsu/20190220-androidiostestnight</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023-03 - Import attributes for Stage 3</title>
-        <link>https://docs.google.com/presentation/d/1Abdr54Iflz_4sah2_yX2qS3K09qDJGV84qIZ6pHAqIk/preview</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Node.​js in Rust: How to do it and what to expect from it (Kirill Vasiltsov)</title>
-        <link>https://speakerdeck.com/jlkiri/node-dot-js-in-rust-how-to-do-it-and-what-to-expect-from-it</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
