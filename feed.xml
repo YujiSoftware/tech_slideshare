@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FlutterでもFirebaseAnalyticsを活用しよう</title>
+        <link>https://docs.google.com/presentation/d/1aCexEnRaIKJujUHWypXqovP8w1Xakxtgt5DAZcRx_cE/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>読みやすいコードの書き方のススメ (Yu Watanabe)</title>
+        <link>https://speakerdeck.com/watanabeyu/du-miyasuikodofalseshu-kifang-falsesusume</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Caffe2によるディープラーニングの基礎と実践 (Kota Yamaguchi, @kotymg)</title>
+        <link>https://www.slideshare.net/KotaYamaguchi1/caffe2</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The Origin of the Moon (Takanori Sasaki)</title>
+        <link>https://speakerdeck.com/noinoi79528/the-origin-of-the-moon</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CVPR2020_ECCV2020_Anomaly_Detection_まとめ (Shunsuke NAKATSUKA)</title>
+        <link>https://www.slideshare.net/ShunsukeNAKATSUKA1/cvpr2020eccv2020anomalydetection</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BigQueryユーザのためのCloud Dataflow入門</title>
+        <link>https://docs.google.com/presentation/d/1cHec9y46gegcbp94TrUMdF2OWOsRDphwJiYUqGsxTUc/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ejectコマンド工作とRaspberry Piで始めるIoTもどき / 20161212-rpijam16 (Akira Ouchi)</title>
+        <link>https://speakerdeck.com/akkiesoft/20161212-rpijam16</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>(研究会輪読) Facial Landmark Detection by Deep Multi-task Learning (Masahiro Suzuki)</title>
+        <link>https://www.slideshare.net/masa_s/facial-landmark-detection-by-deep-multitask-learning</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Dive Deep into Quorum - blockchain.​tokyo#22</title>
         <link>https://docs.google.com/presentation/d/1GH_1B-3A-FSdiE8A8dfsWy2qs8nwUqjOPC5regI6Tds/edit</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>バイオインフォ分野におけるtidyなデータ解析の最新動向</title>
         <link>https://www.slideshare.net/antiplastics/tidy-239579849</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ElmでVisual Study!!</title>
-        <link>https://docs.google.com/presentation/d/13FXKv1wjU41sXHPcNuCl3DQOexpruv1maB1zIbLg4sY/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spacyでお手軽NLP / NLP with spacy (himkt)</title>
-        <link>https://speakerdeck.com/himkt/nlp-with-spacy</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エディタの壁を越えるGoの開発ツールの文化と作成法 (Takuya Ueda, @tenntenn)</title>
-        <link>https://www.slideshare.net/takuyaueda967/go-68228940</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RLSL</title>
-        <link>https://docs.google.com/presentation/d/1_cB-sxUusYVoCYdXnqwAg2u3-lrqBfgrUj205ytxYaw/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Native for WebでもOGP対応がしたい！ ~ TECH STAND #2 React Native 2020/12/18 ~ (tatsuaki watanabe)</title>
-        <link>https://speakerdeck.com/nabettu/18</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IIJmio meeting 22 お申し込み時のポイント2019</title>
-        <link>https://www.slideshare.net/IIJ_techlog/iijmio-meeting-22-2019/1</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenAI API を使って 会話形式の入力文から、 ジオコーディングしてみた</title>
-        <link>https://docs.google.com/presentation/d/15ALUB_s6I0wObixWU1wHSKom-0mPAOjLxaRmWtupRyQ/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバレスアーキテクチャでLINE BOTが多分作れるようになるハンズオン (Yoshiki Kobayashi)</title>
-        <link>https://speakerdeck.com/yoshi0202/sabaresuakitekutiyadeline-botgaduo-fen-zuo-reruyouninaruhanzuon</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
