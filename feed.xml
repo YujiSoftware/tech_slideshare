@@ -6,6 +6,66 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Azure Arc Updates - 2023年9月版 (Kazuki Takai,@zhuky7)</title>
+        <link>https://www.docswell.com/s/takai/ZGXM34-Azure-Arc-Updates-2023-09</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>拡張セキュリティ更新プログラム (ESU) のおさらい (tamaiyutaro)</title>
+        <link>https://speakerdeck.com/tamaiyutaro/kuo-zhang-sekiyuriteigeng-xin-puroguramu-esu-noosarai</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20230930_Azure Arc対応サーバーの展開と管理/Deployment and Management of Azure Arc Enabled Servers (Norio SASHIZAKI,@sshzk)</title>
+        <link>https://www.docswell.com/s/sshzk/ZNRXDD-2023-10-02-200639</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>続・時刻の話 (Satoshi G)</title>
+        <link>https://www.docswell.com/s/wind06106/5GXW89-clocktimenext</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>productive concurrency (shared)</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQTtMnIBsD0_e58-lab3cwJDGv_RPUSR4-aq-0nwdXefBIIkF6rdpXkxr7Fl9Kds6n8egMgkYKUax2w/pub</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go/Cgoで映像・音声のリアルタイム処理をやるまでの道のり - Go Conference 2023 (Yusuke Hata)</title>
+        <link>https://speakerdeck.com/octu0/cgodeying-xiang-yin-sheng-noriarutaimuchu-li-woyarumadenodao-nori</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>よわよわPCによる姿勢推定 -PoseNet- (Yuto Mori)</title>
+        <link>https://www.slideshare.net/YutoMori2/pc-posenet</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LiDARSemi#3</title>
+        <link>https://docs.google.com/presentation/d/1KN7mArNh4qD75FkKjTkYRrC0tyigj13YQi5yaUSK-p8/preview</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SNLP2019_watanabe.​pdf (Kento Watanabe)</title>
+        <link>https://speakerdeck.com/kentow/snlp2019-watanabe</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Git (Masahiro Tomita)</title>
+        <link>https://www.slideshare.net/tmtm/git-5323076</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Turf.jsで簡単 Geoデータ処理 (Taro Matsuzawa aka. btm)</title>
+        <link>https://speakerdeck.com/smellman/turf-dot-jsdejian-dan-geodetachu-li</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IBM Cloud IaaSのご紹介 (Atsushi Hanaki)</title>
+        <link>https://www.slideshare.net/AtsushiHanaki/ibm-cloud-iaas</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MySQL 5.7のJSON型について | MySQL Casual Talks in Fukuoka vol.6 #mysql_casual_fukuoka (Manabu Matsuzaki)</title>
         <link>https://speakerdeck.com/matsumana/mysql-casual-talks-fukuoka-vol6</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -43,66 +103,6 @@
     <item>
         <title>PayPayモールのAMP活用とデザインシステム / YJTC19 in Shibuya B-1 #yjtc (Yahoo!デベロッパーネットワーク, @​ydnjp)</title>
         <link>https://www.slideshare.net/techblogyahoo/paypayamp-yjtc19-in-shibuya-b1-yjtc-204740937</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20210721 エンジニアの学習効率を桁違いに加速させる３つの起爆剤 @ エンジニアの勉強法ハックLT- vol.​5</title>
-        <link>https://docs.google.com/presentation/d/173ZZYRH5XJf_tHI8PTC-iRmLONLTFfB9KxraoK5AkKI/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はじめよう mastodon (theoria)</title>
-        <link>https://speakerdeck.com/theoria24/hazimeyou-mastodon</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>teambongda19</title>
-        <link>https://www.slideshare.net/teambongda19</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エッジxクラウドの機械学習システムを、どう考えて開発しているか / ML@Loft #4 Edge</title>
-        <link>https://docs.google.com/presentation/d/13SJwaiWmw5ESm0_m-sqAGMulV3xJfwevhYuNvKH02pA/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Support Android 9 Pie (operandoOS)</title>
-        <link>https://speakerdeck.com/operando/support-android-9-pie</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Black Belt Online Seminar 2017 AWS re:Invent 2017速報 (Amazon Web Services Japan, @awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/aws-black-belt-online-seminar-2017-aws-reinvent-2017</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>seccamp DB final</title>
-        <link>https://docs.google.com/presentation/d/18fWGzCp-2O1TxqWoAN8-aaJGuFnwpAjWvs8JWdKfIqY/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ベイズ深層学習(3.​3~3.​4) (catla)</title>
-        <link>https://speakerdeck.com/catla/beizushen-ceng-xue-xi-3-dot-3-3-dot-4</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebAssemblyとGo (Takuya Ueda, @tenntenn)</title>
-        <link>https://www.slideshare.net/takuyaueda967/webassemblygo</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10181510_トラック2_東京都新型コロナ対策サイトのアクセシビリティ改善を語る</title>
-        <link>https://docs.google.com/presentation/d/1J85Tjx8Yorpg1D7eXgTeqgxLVMhGjKEoQOmiMGGN8dc/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CloudNative Days Tokyo2019 (tjun)</title>
-        <link>https://speakerdeck.com/tjun/cloudnative-days-tokyo2019</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>田端大学12/04お題　paypay</title>
-        <link>https://www.slideshare.net/secret/gzOSOmn2zlegE7?fbclid=IwAR3vSW5fO1YhrKXLHoOAxHMxZOJYSJP6xZIxh7LD_kH-r8iV8TM_A6rrjxc</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
