@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>歴史ある会社へのプロダクトマネジメント導入ジャーニー</title>
+        <link>https://docs.google.com/presentation/d/1bnfvEw-efCCTAj7ucedDAEW8prg6oKms74AtGLPKLow/preview</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CIをGASで継続的に改善したら幸せになった (kwzr)</title>
+        <link>https://speakerdeck.com/kwzr/ciwogasdeji-sok-de-nigai-shan-sitaraxing-seninatuta</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>What's Amazon Athena? - re:Growth 2016 Osaka (Ganota Ichida)</title>
+        <link>https://www.slideshare.net/GanotaIchida/re-growth2016osaka-amazonathena-70077024</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Change Management Framework</title>
+        <link>https://docs.google.com/presentation/d/1YMVERX1vBsknCjbCtsKFmHgWWZxFcO5A3urvWbWXKbs/template/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アジャイルと品質 (bayashi)</title>
+        <link>https://speakerdeck.com/murabayashi/aziyairutopin-zhi</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RayTracingNight_session2 (Kenichi_Makaya)</title>
+        <link>https://www.slideshare.net/Kenichi_Makaya/raytracingnightsession2</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React Nativeでアニメーションを頑張る- React Native Meetup #11 (takahi5)</title>
+        <link>https://speakerdeck.com/takahi5/react-nativedeanimesiyonwowan-zhang-ru-react-native-meetup-number-11</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>安全なWebアプリケーションの作り方2018 (Hiroshi Tokumaru)</title>
+        <link>https://www.slideshare.net/ockeghem/wasbook2018</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>監視ってなんだっけ？</title>
         <link>https://docs.google.com/presentation/d/1jc0voGfNCpDumTCTna1aqyV1NARxLKXS0LUYEfGOroY/edit</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>Emulating a Combo Organ Using Faust (Sampo Savolainen)</title>
         <link>https://www.slideshare.net/samposavolainen1/emulating-a-combo-organ-using-faust</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スクラム道関西オープンジャム-リファインメント (Eiji Yamane)</title>
-        <link>https://speakerdeck.com/eyamane/sukuramudao-guan-xi-ohunsiyamu-rihuainmento</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP開発者のためのNoSQL入門 (じゅん なかざ)</title>
-        <link>https://www.slideshare.net/j138/phpnosql-14081741</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【公開用】BizDev採用資料_Google SIides_vFin</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTKZFv9cNh6M3vcOib0MV5rR6bLnGgwCuR6_0HIKx2HDR6HnqXlOpnOikchnkc6eNI-ZmXucsgW_oDm/pub</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenStackクラスタ間マイグレーション事例 Havana to Mitaka / OpenStack Migration Case (Shift from Havana to Mitaka) (Shinya Tsunematsu)</title>
-        <link>https://speakerdeck.com/tnmt/openstack-migration-case-shift-from-havana-to-mitaka</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(DL hacks輪読) Deep Kernel Learning (Masahiro Suzuki)</title>
-        <link>https://www.slideshare.net/masa_s/dl-hacks-deep-kernel-learning</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ リアーキテクティング専任チームを作ったのか (Kei Shiratsuchi)</title>
-        <link>https://speakerdeck.com/kei_s/naze-riakitekuteinguzhuan-ren-timuwozuo-tutanoka</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Writing Your App Swiftly (Sommer Panage)</title>
-        <link>https://www.slideshare.net/SommerPanage1/writing-your-app-swiftly</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>YAVIの紹介</title>
-        <link>https://docs.google.com/presentation/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/edit</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
