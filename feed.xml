@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>現場主導で取り組む継続的な技術的負債の解消 (ham)</title>
+        <link>https://speakerdeck.com/ham0215/xian-chang-zhu-dao-tequ-rizu-muji-sok-de-naji-shu-de-fu-zhai-nojie-xiao</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Drupal migrations for non-coders</title>
+        <link>https://docs.google.com/presentation/d/150SdPznHWumqP0IzyIPx8Ss6igGepBIMUoSNVvnt1lc/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クックパッドの巨大 Rails アプリケーションの改善 (hogelog)</title>
+        <link>https://speakerdeck.com/hogelog/kutukupatudofalseju-da-rails-apurikesiyonfalsegai-shan</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pythonの処理系はどのように実装され，どのように動いているのか？ 我々はその実態を調査すべくアマゾンへと飛んだ． (kiki utagawa)</title>
+        <link>https://www.slideshare.net/utgw/python-73389442</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Standing United - External</title>
+        <link>https://docs.google.com/presentation/d/1ltJmjs20m1rQGXPesYRi7zLq35mgWELQO8oFOrD1UlM/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VRに効く！ライブステージを彩る照明・特殊効果基礎知識 / basic knowledge of lighting and special effects for live stage (DJ SHARPNEL)</title>
+        <link>https://speakerdeck.com/sharpnel/basic-knowledge-of-lighting-and-special-effects-for-live-stage</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20180723 量子コンピュータの量子化学への応用; Bravyi-Kitaev基底の実装 (Maho Nakata, NakataMaho)</title>
+        <link>https://www.slideshare.net/NakataMaho/20180723-bravyikitaev</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>リーガルテックにおける MLOps 構築事例の紹介</title>
+        <link>https://docs.google.com/presentation/d/1Vc-Sf0hMq5RKBDIDAI0aUdS-YWaiie306WykUG7dtJU/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Deep Dive into LINE's Time Series Database 'Flash' (LINE DevDay 2019)</title>
+        <link>https://speakerdeck.com/line_devday2019/deep-dive-into-lines-time-series-database-flash</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロダクトマネージャとして海外で働き始めて、自分の視点をどこに持ってこようかと考えた話 #pm_roppongi (DaisukeMatsuda2)</title>
+        <link>https://www.slideshare.net/DaisukeMatsuda2/pmroppongi-120745681</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ESLint</title>
         <link>https://docs.google.com/presentation/d/1WktBwIZOwjhouElfXYwdBOItiF5kXoDCke0jgKPDmIA/edit</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>ChatGPT for Developer - 超入門 (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
         <link>https://speakerdeck.com/dahatake/chatgpt-for-developer-chao-ru-men</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> Decentralized Web Platform - Public</title>
-        <link>https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DBRE 活動と information_schema (_awache)</title>
-        <link>https://speakerdeck.com/_awache/dbre-huo-dong-to-information-schema</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JavaOne 2017 - TestContainers: integration testing without the hassle (Anton Arhipov, @antonarhipov)</title>
-        <link>https://www.slideshare.net/arhan/javaone-2017-testcontainers-integration-testing-without-the-hassle</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CakePHP プロジェクトにプルリクを送り続けた僕は (tenkoma (Koji Tanaka))</title>
-        <link>https://speakerdeck.com/tenkoma_/cakephp-hurosiekutonihururikuwosong-risok-ketapu-ha</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今こそStream API入門 (Yuichi Sakuraba)</title>
-        <link>https://www.slideshare.net/skrb/stream-api-125945709</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シャイニーハザードみくも日記</title>
-        <link>https://docs.google.com/presentation/d/1LZ_VXf6mphDjS3C6OTlFRm5DKxybIBONMZnB71Tc9Gk/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ARKitで成功しよう / Success ARkit (Yutaka Matsui)</title>
-        <link>https://speakerdeck.com/yutakamatsui/success-arkit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The answers is in the SERPs (Gianluca Fiorelli, gfiorelli1)</title>
-        <link>https://www.slideshare.net/gfiorelli1/the-answers-is-in-the-serps</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI_Scale_Scrum</title>
-        <link>https://docs.google.com/presentation/d/1KCX5GuGkNckfuGuQvYeCSKnYux5ABiMVxYQAGJSMUWU/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Browser Automated Tests (derek-b)</title>
-        <link>https://speakerdeck.com/derekb/browser-automated-tests</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
