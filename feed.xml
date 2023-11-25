@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ChatGPT for Developer - 超入門 (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
+        <link>https://speakerdeck.com/dahatake/chatgpt-for-developer-chao-ru-men</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title> Decentralized Web Platform - Public</title>
+        <link>https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E/preview</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DBRE 活動と information_schema (_awache)</title>
+        <link>https://speakerdeck.com/_awache/dbre-huo-dong-to-information-schema</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JavaOne 2017 - TestContainers: integration testing without the hassle (Anton Arhipov, @antonarhipov)</title>
+        <link>https://www.slideshare.net/arhan/javaone-2017-testcontainers-integration-testing-without-the-hassle</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CakePHP プロジェクトにプルリクを送り続けた僕は (tenkoma (Koji Tanaka))</title>
+        <link>https://speakerdeck.com/tenkoma_/cakephp-hurosiekutonihururikuwosong-risok-ketapu-ha</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今こそStream API入門 (Yuichi Sakuraba)</title>
+        <link>https://www.slideshare.net/skrb/stream-api-125945709</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>シャイニーハザードみくも日記</title>
+        <link>https://docs.google.com/presentation/d/1LZ_VXf6mphDjS3C6OTlFRm5DKxybIBONMZnB71Tc9Gk/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ARKitで成功しよう / Success ARkit (Yutaka Matsui)</title>
+        <link>https://speakerdeck.com/yutakamatsui/success-arkit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The answers is in the SERPs (Gianluca Fiorelli, gfiorelli1)</title>
+        <link>https://www.slideshare.net/gfiorelli1/the-answers-is-in-the-serps</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI_Scale_Scrum</title>
         <link>https://docs.google.com/presentation/d/1KCX5GuGkNckfuGuQvYeCSKnYux5ABiMVxYQAGJSMUWU/preview</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>拡張セキュリティ更新プログラム (ESU) のおさらい (tamaiyutaro)</title>
         <link>https://speakerdeck.com/tamaiyutaro/kuo-zhang-sekiyuriteigeng-xin-puroguramu-esu-noosarai</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>productive concurrency (shared)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQTtMnIBsD0_e58-lab3cwJDGv_RPUSR4-aq-0nwdXefBIIkF6rdpXkxr7Fl9Kds6n8egMgkYKUax2w/pub</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go/Cgoで映像・音声のリアルタイム処理をやるまでの道のり - Go Conference 2023 (Yusuke Hata)</title>
-        <link>https://speakerdeck.com/octu0/cgodeying-xiang-yin-sheng-noriarutaimuchu-li-woyarumadenodao-nori</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>よわよわPCによる姿勢推定 -PoseNet- (Yuto Mori)</title>
-        <link>https://www.slideshare.net/YutoMori2/pc-posenet</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LiDARSemi#3</title>
-        <link>https://docs.google.com/presentation/d/1KN7mArNh4qD75FkKjTkYRrC0tyigj13YQi5yaUSK-p8/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SNLP2019_watanabe.​pdf (Kento Watanabe)</title>
-        <link>https://speakerdeck.com/kentow/snlp2019-watanabe</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Git (Masahiro Tomita)</title>
-        <link>https://www.slideshare.net/tmtm/git-5323076</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Turf.jsで簡単 Geoデータ処理 (Taro Matsuzawa aka. btm)</title>
-        <link>https://speakerdeck.com/smellman/turf-dot-jsdejian-dan-geodetachu-li</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IBM Cloud IaaSのご紹介 (Atsushi Hanaki)</title>
-        <link>https://www.slideshare.net/AtsushiHanaki/ibm-cloud-iaas</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MySQL 5.7のJSON型について | MySQL Casual Talks in Fukuoka vol.6 #mysql_casual_fukuoka (Manabu Matsuzaki)</title>
-        <link>https://speakerdeck.com/matsumana/mysql-casual-talks-fukuoka-vol6</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
