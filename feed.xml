@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20210210-Vue-I18nのメッセージファイルのLint</title>
+        <link>https://docs.google.com/presentation/d/1HuKPREAHoDgOTztVbz42DzGvbr-4VB-r3i-QqcgCXJE/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Tokyo.​R#89 Data visualization (kilometer)</title>
+        <link>https://speakerdeck.com/kilometer/tokyo-dot-r-number-89-data-visualization</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>itamaeで一撃サーバーProvisioning</title>
+        <link>https://www.slideshare.net/YutoOgi/itamaeprovisioning?next_slideshow=1</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>systemdエッセンシャル / systemd-intro (Kazuo Moriwaka)</title>
+        <link>https://speakerdeck.com/moriwaka/systemd-intro</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[Cloud OnAir] Cloud Data Fusion で GCP にデータを集約して素早く分析を開始しよう 2019年10月3… (Google Cloud Platform - Japan)</title>
+        <link>https://www.slideshare.net/GoogleCloudPlatformJP/cloud-onair-cloud-data-fusion-gcp-20191031</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DevRel Japan Tour 2019 - New Slack Platform Features in Action</title>
+        <link>https://docs.google.com/presentation/d/1X-TSoqpamzdfBLH48B5oNlntaurKOVywUfdcvNtnUnE/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>1on1で「考えること」をどう支援するか (全日本キャリア教育改善推進協会)</title>
+        <link>https://speakerdeck.com/careerupdate/1on1de-kao-erukoto-wodouzhi-yuan-suruka</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Industrial Machine Learning (SIGKDD17) (Joshua Bloom, @profjsb)</title>
+        <link>https://www.slideshare.net/JoshuaBloom/industrial-machine-learning-sigkdd17</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GCPで始める Terraform</title>
         <link>https://docs.google.com/presentation/d/1VAVuF1GGYq_kT3HgLk81UGWNa5xhNsy_nQDMJLpe9dE/edit</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>Azure Serverless 2019 Summer edition (miyake)</title>
         <link>https://speakerdeck.com/miyake/azure-serverless-2019-summer-edition</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NetBSD移植の昔話 (Masaru Oki, @masaru0714)</title>
-        <link>https://www.slideshare.net/masaruoki9/netbsd-91779295</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Read DroidKaigi2019 app source code (Kazuki Chigita)</title>
-        <link>https://speakerdeck.com/chigichan24/read-droidkaigi2019-app-source-code</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【RDS】Cloud SQL をまとめてみる (Yuya Ohara, Bolt3103)</title>
-        <link>https://www.slideshare.net/YuyaOhara/rdscloud-sql</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>visionOSについてGlobeeが取り組んでいること (toshi0383)</title>
-        <link>https://speakerdeck.com/toshi0383/visionosnituiteglobeegaqu-rizu-ndeirukoto</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spring Nativeの紹介</title>
-        <link>https://docs.google.com/presentation/d/1yLNTffctZQd-42FmYNNSeQ5PU9MugO26qtIrVf2FGTA/preview</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Docker/Kubernetes社内勉強会#1 公開資料 / Study basic of Docker and Kubernetes (Kohei Ota)</title>
-        <link>https://speakerdeck.com/inductor/study-basic-of-docker-and-kubernetes</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトデザイン＆ビジネス企画からプロダクトバックログに (Hagimoto Junzo)</title>
-        <link>https://www.slideshare.net/hagimotojunzo/ss-74585000</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Scalaを業務で使うためにした7つのこと (yoshiyoshifujii)</title>
-        <link>https://speakerdeck.com/yoshiyoshifujii/scalawoye-wu-deshi-utamenisita7tufalsekoto</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
