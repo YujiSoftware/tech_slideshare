@@ -6,6 +6,61 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>お客様、そこは秘孔です！突かないでください！ HTTP/2 Rapid reset の概要と対策 (Murachi Akira)</title>
+        <link>https://speakerdeck.com/murachiakira/2-rapid-reset-nogai-yao-todui-ce</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>.NET 8世代のBlazorについて (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/dot-net-8shi-dai-noblazornituite</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LT-DIonScala</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQh38exYkKX3yMJ_GI-XF3VjQciNSdV1dZtVazxveQTp-2SshzrMh2P-8dA5e3JRVFPXItXZYDIICld/pub</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>明日から使えるFlutter For Android (hiraok)</title>
+        <link>https://speakerdeck.com/hiraok/ming-ri-karashi-eruflutter-for-android</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AutoMLとQumicoを使って、ラズパイでディープラーニングを動かす話 (Natsutani Minoru)</title>
+        <link>https://www.slideshare.net/minorunatsutani/automlqumico-191776828</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「2つのDX」とDX Criteria(DXD講演)</title>
+        <link>https://docs.google.com/presentation/d/1xE_6L_5GACrGl4PyMhFCqVBeQDCR2ruQyotejUCQzMw/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Prometheusを始めよう / Introduction Prometheus ja (kameneko)</title>
+        <link>https://speakerdeck.com/takumanakagame/introduction-prometheus-ja</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゲーム開発者のためのタイポグラフィ講座 (UnityTechnologiesJapan)</title>
+        <link>https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLM Meetup Tokyo #1 微分可能な検索インデックスについて</title>
+        <link>https://docs.google.com/presentation/d/1-tqsW5roJ_WJH2xUAW3aKFfBtj7AlDT-wD98AeKaXbk/preview</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Spring Modulithで始めるモジュラモノリス開発 (YutoOtsuka)</title>
+        <link>https://speakerdeck.com/yutootsuka/spring-modulithdeshi-merumoziyuramonorisukai-fa</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Deep Dive on Amazon Managed Blockchain: re:Invent 2018 Recap at the A… (Amazon Web Services, @​awscloud)</title>
+        <link>https://www.slideshare.net/AmazonWebServices/deep-dive-on-amazon-managed-blockchain-reinvent-2018-recap-at-the-aws-loft-san-francisco</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[Gophercon UK] Fun With Pointers</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vSVN5pXkK8CFimGIVqaUXpJxo0OUILbPMAMD1s0S1dZwXX-Z6lW9H5W7_rTAiDGacW2MSTpA0cnhZB_/pub</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -48,61 +103,6 @@
     <item>
         <title>JPiere 伝票の基礎知識 (Hideaki Hagiwara, HideakiHagiwara)</title>
         <link>https://www.slideshare.net/hideakihagiwara3/jpiere-66760122</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>歴史ある会社へのプロダクトマネジメント導入ジャーニー</title>
-        <link>https://docs.google.com/presentation/d/1bnfvEw-efCCTAj7ucedDAEW8prg6oKms74AtGLPKLow/preview</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CIをGASで継続的に改善したら幸せになった (kwzr)</title>
-        <link>https://speakerdeck.com/kwzr/ciwogasdeji-sok-de-nigai-shan-sitaraxing-seninatuta</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What's Amazon Athena? - re:Growth 2016 Osaka (Ganota Ichida)</title>
-        <link>https://www.slideshare.net/GanotaIchida/re-growth2016osaka-amazonathena-70077024</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Change Management Framework</title>
-        <link>https://docs.google.com/presentation/d/1YMVERX1vBsknCjbCtsKFmHgWWZxFcO5A3urvWbWXKbs/template/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイルと品質 (bayashi)</title>
-        <link>https://speakerdeck.com/murabayashi/aziyairutopin-zhi</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RayTracingNight_session2 (Kenichi_Makaya)</title>
-        <link>https://www.slideshare.net/Kenichi_Makaya/raytracingnightsession2</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Nativeでアニメーションを頑張る- React Native Meetup #11 (takahi5)</title>
-        <link>https://speakerdeck.com/takahi5/react-nativedeanimesiyonwowan-zhang-ru-react-native-meetup-number-11</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>安全なWebアプリケーションの作り方2018 (Hiroshi Tokumaru)</title>
-        <link>https://www.slideshare.net/ockeghem/wasbook2018</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>監視ってなんだっけ？</title>
-        <link>https://docs.google.com/presentation/d/1jc0voGfNCpDumTCTna1aqyV1NARxLKXS0LUYEfGOroY/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Elasticsearch Cluster Deployment Model (Kosho Owa)</title>
-        <link>https://speakerdeck.com/kosho/elasticsearch-cluster-deployment-model</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>本気で使うStack storm (tyamane)</title>
-        <link>https://www.slideshare.net/tyamane/stack-storm-81013760</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
