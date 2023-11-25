@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>pycharity202109LT</title>
+        <link>https://docs.google.com/presentation/d/1-MH8ENq_G0b5jv9pjfL42oZtzpujVTJ42Rj_CAs7mz0/preview</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Filmarks デザイナー向け紹介資料 (Shingo Suzuki)</title>
+        <link>https://speakerdeck.com/shingo2000/filmarks-tesainaxiang-keshao-jie-zi-liao</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>違法駐輪対策のプレゼンテーション (Filament Inc )</title>
+        <link>https://www.slideshare.net/ssuser34b6fb/ss-32070249</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自信を持ってコードを書こう</title>
+        <link>https://docs.google.com/presentation/d/1qu3zFbzMh3AYhQ3DuDCDKbLlLqIrcklZdzi9fKyZPZQ/edit</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JavaからKotlinへの移行（相互運用ハマりポイント） #ca_kt (Taro Nagasawa)</title>
+        <link>https://speakerdeck.com/ntaro/javakarakotlinhefalseyi-xing-xiang-hu-yun-yong-hamaripointo-number-ca-kt</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ReVIEWを用いたPDFとEPUBへの変換について (masayoshi takahashi)</title>
+        <link>https://www.slideshare.net/takahashim/tatsu-zine20111022</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>XDPの最新動向とLINEにおける取り組み事例 / Recent updates on XDP (LINE Developers)</title>
+        <link>https://speakerdeck.com/line_developers/recent-updates-on-xdp</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Solr から使う OpenNLP の日本語固有表現抽出 (Koji Sekiguchi, @​kojisays)</title>
+        <link>https://www.slideshare.net/KojiSekiguchi/solr-opennlp-106671440</link>
+        <dc:date>2023-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RDFのチェックツール「rdflint」と�コミュニティによるオープンデータの作成 (Takeshi Mikami, @​takemikami)</title>
         <link>https://www.slideshare.net/takemikami/rdfrdflint-153693907</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>Deep Forest: Towards An Alternative to Deep Neural Networks (harmonylab)</title>
         <link>https://www.slideshare.net/harmonylab/deep-forest-towards-an-alternative-to-deep-neural-networks</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現場主導で取り組む継続的な技術的負債の解消 (ham)</title>
-        <link>https://speakerdeck.com/ham0215/xian-chang-zhu-dao-tequ-rizu-muji-sok-de-naji-shu-de-fu-zhai-nojie-xiao</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Drupal migrations for non-coders</title>
-        <link>https://docs.google.com/presentation/d/150SdPznHWumqP0IzyIPx8Ss6igGepBIMUoSNVvnt1lc/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クックパッドの巨大 Rails アプリケーションの改善 (hogelog)</title>
-        <link>https://speakerdeck.com/hogelog/kutukupatudofalseju-da-rails-apurikesiyonfalsegai-shan</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonの処理系はどのように実装され，どのように動いているのか？ 我々はその実態を調査すべくアマゾンへと飛んだ． (kiki utagawa)</title>
-        <link>https://www.slideshare.net/utgw/python-73389442</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Standing United - External</title>
-        <link>https://docs.google.com/presentation/d/1ltJmjs20m1rQGXPesYRi7zLq35mgWELQO8oFOrD1UlM/edit</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VRに効く！ライブステージを彩る照明・特殊効果基礎知識 / basic knowledge of lighting and special effects for live stage (DJ SHARPNEL)</title>
-        <link>https://speakerdeck.com/sharpnel/basic-knowledge-of-lighting-and-special-effects-for-live-stage</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20180723 量子コンピュータの量子化学への応用; Bravyi-Kitaev基底の実装 (Maho Nakata, NakataMaho)</title>
-        <link>https://www.slideshare.net/NakataMaho/20180723-bravyikitaev</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リーガルテックにおける MLOps 構築事例の紹介</title>
-        <link>https://docs.google.com/presentation/d/1Vc-Sf0hMq5RKBDIDAI0aUdS-YWaiie306WykUG7dtJU/edit</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
