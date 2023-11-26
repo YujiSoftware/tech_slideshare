@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby 3.2 リリースイベント</title>
+        <link>https://docs.google.com/presentation/d/1TmY23yVkrnHV3FuWleEXTY-x7LP18bobjOCzp5ZpyGU/preview</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ヘルプサイトの制作プロセス (Naohiro Nakata)</title>
+        <link>https://speakerdeck.com/naohiro_nakata/herupusaitofalsezhi-zuo-purosesu</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Free live cricket streaming (romanrocking8750)</title>
+        <link>https://www.slideshare.net/romanrocking8750/free-live-cricket-streaming-180353760</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新しいメルカリ Web とそのパフォーマンス</title>
+        <link>https://docs.google.com/presentation/d/1QJfjEt77VXDNlNEzYDKmGhMnVnhZDHS4jzuxxisOa-A/preview</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Try JIT compiler for Ruby 2.6 (south37)</title>
+        <link>https://speakerdeck.com/south37/try-jit-compiler-for-ruby-2-dot-6</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バッチではじめてAkkaを使ってみた (refined) (Koji Agawa, @​atty303)</title>
+        <link>https://www.slideshare.net/KojiAgawa/akka-meeting-2014-1112-refined</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WCAG2.​0 / 2.​1とCUDの整理、�スクリーンメディアにおけるCUD</title>
+        <link>https://docs.google.com/presentation/d/17EWdYNvf1uyei6EpGtCh2KriFCST6uWG5HKmHPdNq-g/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>月刊「検索」10月号 (sakura818uuu)</title>
+        <link>https://speakerdeck.com/sakura818uuu/yue-kan-jian-suo-10yue-hao</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Webアプリケーションフレームワークとしての Drupalの可能性 (Yoshikazu Aoyama)</title>
+        <link>https://www.slideshare.net/blauerberg/drupal-for-web-application-framework</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20210210-Vue-I18nのメッセージファイルのLint</title>
         <link>https://docs.google.com/presentation/d/1HuKPREAHoDgOTztVbz42DzGvbr-4VB-r3i-QqcgCXJE/edit</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>チームワークあふれる働き方を目指して -サイボウズが歩んだスクラム導入の道- (Yusuke Amano)</title>
         <link>https://www.slideshare.net/ama-ch/ss-83166408</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>xUnit Test Patternsから学ぶテストアンチパターン</title>
-        <link>https://docs.google.com/presentation/d/1SEYB7EA0uw0ARGfiC3pkY9m4KFw0m8Myng3Fc29cFvU/preview</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ng-japan meetup evolution of Angular Compiler (Yosuke Kurami)</title>
-        <link>https://speakerdeck.com/quramy/ng-japan-meetup-evolution-of-angular-compiler</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームで「きちんと」Laravel を使っていくための取り組み (Shohei Okada, @​okashoi)</title>
-        <link>https://www.slideshare.net/ShoheiOkada/laravel-90603762</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仕事でバックエンド開発するときに考えていること / GEEK-SAI-2022-AUTUMN-yanyan-Backend-Study (CARTA Engineering)</title>
-        <link>https://speakerdeck.com/carta_engineering/geek-sai-2022-autumn-yanyan-backend-study</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>階層的クラスタリング入門の入門 (Mas Kot)</title>
-        <link>https://www.slideshare.net/maskot3/ss-121402523</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【Hi-Con登壇資料】ブロックチェーンゲーム「My Crypto Heroes」で バトルβ版をリリースしてみました！〜課題と対処の現場録〜 (Shun Ishikawa)</title>
-        <link>https://speakerdeck.com/shunishikawa/hi-condeng-tan-zi-liao-burotukutiengemu-my-crypto-heroes-de-batorubban-woririsusitemimasita-ke-ti-todui-chu-falsexian-chang-lu</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『ゲームAI技術入門』講義用素材 (Youichiro Miyake, @​miyayou)</title>
-        <link>https://www.slideshare.net/youichiromiyake/ai-179237998</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Modern Development Map.​pptx</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSphZy9IoSx_h5vxVfoPEo2pNjCyGufMCZ3j7HlJAZEopgUvmKzdktH_jOxvxq4MA/pub</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Serverless 2019 Summer edition (miyake)</title>
-        <link>https://speakerdeck.com/miyake/azure-serverless-2019-summer-edition</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
