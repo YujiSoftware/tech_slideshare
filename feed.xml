@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Goの実装パターン ~ Webサーバ編 ~ (Daisuke Suzuki)</title>
+        <link>https://speakerdeck.com/daisuzu/gofalseshi-zhuang-patan-websababian</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今からはじめるPuppet 2016 ～ インフラエンジニアのたしなみ ～</title>
+        <link>https://www.slideshare.net/hadoopxnttdata/puppet-2016</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Intel MPKについて</title>
+        <link>https://docs.google.com/presentation/d/1JrejoTdEAlbyZuDTBPmPnQ77g0G-7yz7t6_Hp-r0LiU/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DynamicでScalableな空間分割データ構造Bkd-Tree (Takatomo Torigoe)</title>
+        <link>https://speakerdeck.com/piyo7/dynamicdescalablenakong-jian-fen-ge-detagou-zao-bkd-tree</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機械学習の精度と売上の関係 (Tokoroten Nakayama, @tokoroten)</title>
+        <link>https://www.slideshare.net/TokorotenNakayama/ss-93185418</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スタートアップで働くエンジニアがデザインファーストで開発した話 (risto24)</title>
+        <link>https://speakerdeck.com/risto24/sutatoatupudedong-kuenziniagadezainhuasutodekai-fa-sitahua</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20200514 classmethod online seminar (Kenji Tomooka)</title>
+        <link>https://www.slideshare.net/KenjiTomooka/20200514-classmethod-online-seminar</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ReactiveだけじゃないSpring 5 &amp; Spring Boot 2新機能解説 (Masatoshi Tada)</title>
         <link>https://www.slideshare.net/masatoshitada7/reactivespring-5-spring-boot-2</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>ネット広告のシステム関連の話 (Kousuke Yabumoto)</title>
         <link>https://www.slideshare.net/kousukeyabumoto9/ss-55210646</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Stage 2 Decorators の変遷 / Stage 2 Decorators history (森建)</title>
-        <link>https://speakerdeck.com/petamoriken/stage-2-decorators-history</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Scrum Fest Osaka 2020 サーバントリーダーシップを身に付けましょう！ (Rochelle Kopp, @​JapanIntercult)</title>
-        <link>https://www.slideshare.net/rochellekopp/scrum-fest-osaka-2020</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Infobip - Shift Conference (2022)</title>
-        <link>https://docs.google.com/presentation/d/1r3cen2_8CyJX8xBLGxfgPQzkyrBcHTKOujfNHbWexig/preview</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OG画像のためだけのFunctionsで、 htmlベタ書き＆リダイレクトをやめるんだ (tatsuaki watanabe)</title>
-        <link>https://speakerdeck.com/nabettu/oghua-xiang-falsetamedakefalsefunctionsde-htmlbetashu-ki-ridairekutowoyamerunda</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Japanese Kimono (名古屋市で振袖をお探しの方へ)</title>
-        <link>https://www.slideshare.net/kunihikoyamanaka54/japanese-kimono-107870896</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WAVEGLOW: A FLOW-BASED GENERATIVE NETWORK FOR SPEECH SYNTHESIS</title>
-        <link>https://docs.google.com/presentation/d/1bKd7nLgURoQA3YvWZNkxfA9h7Zu3wjeoSc_vMA77thc/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BtoBtoCサービスのデザイナーがユーザーに近づくために実施したこと (Yumi Jo)</title>
-        <link>https://speakerdeck.com/yumijo/btobtocsabisufalsedezainagayuzanijin-dukutamenishi-shi-sitakoto</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
