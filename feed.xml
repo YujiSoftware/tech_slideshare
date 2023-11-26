@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Web Packaging: Web Bundles (#webbundle_study)</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vRaVTNLZ-plDe-2beEL_WYmuJ6UYgby3oiOEDrCbUm6MUWnnwhFovWTPeIYXAjMIld-2P8xSRCn7Gdx/pub</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Replication crisis in psychology, and recent progress in resolving the “social dilemma” (Ken)</title>
+        <link>https://speakerdeck.com/kensukeokada/replication-crisis-in-psychology-and-recent-progress-in-resolving-the-social-dilemma</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自己紹介@名状しがたいお茶会 (Hiromu Yakura, @​hiromu1996)</title>
+        <link>https://www.slideshare.net/hiromu1996/ss-228229684</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>mqttノードの接続先設定</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQWMXdhe--06AyIZDKgv2Pgj8627sjxUyzIy0EC96PmsMXhaPtfrAPsxAGDagTNnDWX0XiK8jnpcUC7/pub</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Prometheus 実践入門 #hbstudy 79 / introduction-to-prometheus-practice (rrreeeyyy)</title>
+        <link>https://speakerdeck.com/rrreeeyyy/introduction-to-prometheus-practice</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20171028 osc-nagaoka-postgre sql-10 (Toshi Harada, @nuko_yokohama)</title>
+        <link>https://www.slideshare.net/toshiharada/20171028-oscnagaokapostgre-sql10</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Sh4der Jockey @ rust.​tokyo 2021</title>
+        <link>https://docs.google.com/presentation/d/1-FNuHKNFxNkUpc1USNIna_FfkY5zOF1YKdmfylWjffU/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Firebase Remote Config ベストプラクティス (Yuto Yazaki)</title>
+        <link>https://speakerdeck.com/yutoyazaki/firebase-remote-config-besutopurakuteisu</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GraphQLでフロントエンドの複雑性とたたかう (Yahoo!デベロッパーネットワーク, @​ydnjp)</title>
+        <link>https://www.slideshare.net/techblogyahoo/graphql-172863129</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby 3.2 リリースイベント</title>
         <link>https://docs.google.com/presentation/d/1TmY23yVkrnHV3FuWleEXTY-x7LP18bobjOCzp5ZpyGU/preview</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Tokyo.​R#89 Data visualization (kilometer)</title>
         <link>https://speakerdeck.com/kilometer/tokyo-dot-r-number-89-data-visualization</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>itamaeで一撃サーバーProvisioning</title>
-        <link>https://www.slideshare.net/YutoOgi/itamaeprovisioning?next_slideshow=1</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>systemdエッセンシャル / systemd-intro (Kazuo Moriwaka)</title>
-        <link>https://speakerdeck.com/moriwaka/systemd-intro</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Cloud OnAir] Cloud Data Fusion で GCP にデータを集約して素早く分析を開始しよう 2019年10月3… (Google Cloud Platform - Japan)</title>
-        <link>https://www.slideshare.net/GoogleCloudPlatformJP/cloud-onair-cloud-data-fusion-gcp-20191031</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevRel Japan Tour 2019 - New Slack Platform Features in Action</title>
-        <link>https://docs.google.com/presentation/d/1X-TSoqpamzdfBLH48B5oNlntaurKOVywUfdcvNtnUnE/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>1on1で「考えること」をどう支援するか (全日本キャリア教育改善推進協会)</title>
-        <link>https://speakerdeck.com/careerupdate/1on1de-kao-erukoto-wodouzhi-yuan-suruka</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Industrial Machine Learning (SIGKDD17) (Joshua Bloom, @profjsb)</title>
-        <link>https://www.slideshare.net/JoshuaBloom/industrial-machine-learning-sigkdd17</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GCPで始める Terraform</title>
-        <link>https://docs.google.com/presentation/d/1VAVuF1GGYq_kT3HgLk81UGWNa5xhNsy_nQDMJLpe9dE/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>グーペのE2Eテスト運用事情 (Makoto Chiba)</title>
-        <link>https://speakerdeck.com/hypermkt/gupefalsee2etesutoyun-yong-shi-qing</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームワークあふれる働き方を目指して -サイボウズが歩んだスクラム導入の道- (Yusuke Amano)</title>
-        <link>https://www.slideshare.net/ama-ch/ss-83166408</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
