@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アプリエンジニアを救え！ AWS CDKで実現するインフラCI・CD (bbrfkr)</title>
+        <link>https://speakerdeck.com/bbrfkr/apurienziniawojiu-e-aws-cdkdeshi-xian-suruinhuracicd</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Hidden linux metrics with ebpf exporter (Ivan Babrou)</title>
+        <link>https://www.slideshare.net/bobrik/hidden-linux-metrics-with-ebpf-exporter-109215844</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>True Refinements #tqrk12 (Tomohiro Hashidate)</title>
+        <link>https://speakerdeck.com/joker1007/true-refinements-number-tqrk12</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>YJTC18 A-1 大規模サーバの戦略 (Yahoo! JAPAN デベロッパーネットワーク, @ydnjp)</title>
+        <link>https://www.slideshare.net/techblogyahoo/yjtc18-a1-86835995</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Backends for Frontends を適用した話 (えぐ)</title>
+        <link>https://speakerdeck.com/egugue/backends-for-frontends-woshi-yong-sitahua</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>関数プログラマから見たPythonと機械学習 (Masahiro Sakai, @masahiro_sakai)</title>
+        <link>https://www.slideshare.net/sakai/mlxse20180227-python</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Hacking Go Compiler Internals - 2nd season (Moriyoshi Koizumi)</title>
         <link>https://speakerdeck.com/moriyoshi/hacking-go-compiler-internals-2nd-season</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>WEB アプリケーション設計入門 / Introduction to web application design (nrs)</title>
         <link>https://speakerdeck.com/nrslib/introduction-to-web-application-design</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unityとアセットツールで学ぶ「絵づくり」の基礎　ライト、シェーダー、イメージエフェクト (小林 信行, nyaa_toraneko)</title>
-        <link>https://www.slideshare.net/nyaakobayashi/unity-63884133</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>子どもたちが学ぶ体験型水産IoTの取り組み (Masayo Shokaku)</title>
-        <link>https://speakerdeck.com/masayoshokaku19/zi-domotatigaxue-buti-yan-xing-shui-chan-iotfalsequ-rizu-mi</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>顧客要望と情熱のあいだ　- B2B SaaS のプロダクトマネジメント - (Takuma Haraguchi, @​tachmaque)</title>
-        <link>https://www.slideshare.net/takumaharaguchi/b2b-saas</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2019-05 Webアプリケーション基礎知識/2019-05 Web application fundamentals (Cybozu)</title>
-        <link>https://speakerdeck.com/cybozuinsideout/2019-05-web-application-fundamentals</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「歴史研究におけるデジタル利活用の可能性」 (Naoki Kokaze)</title>
-        <link>https://www.slideshare.net/NaokiKokaze/ss-79827098</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Mackerelチームにおけるインフラオーナーシップ / Hatena Pepabo tech conf 4 DevOps Kyoto (Ken Hamada)</title>
-        <link>https://speakerdeck.com/itchyny/hatena-pepabo-tech-conf-4-devops-kyoto</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
