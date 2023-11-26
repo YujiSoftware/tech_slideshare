@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Speaker DeckにおけるGoogleスライドのフォントの問題解決/problem solving for google slides 2023 (moriyuya)</title>
+        <link>https://speakerdeck.com/moriyuya/problem-solving-for-google-slides-2023</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BigQueryエミュレータの作り方</title>
+        <link>https://docs.google.com/presentation/d/1j5TPCpXiE9CvBjq78W8BWz-cGxU8djW1qy9Y6eBHso8/preview</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>delyにおける安定性とアジリティ両立に向けたアプローチ / SRE NEXT 2020 (gomesuit)</title>
+        <link>https://speakerdeck.com/gomesuit/sre-next-2020</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Spark GraphX で始めるグラフ解析 (Yosuke Mizutani)</title>
+        <link>https://www.slideshare.net/mogproject/geeknightgraphx-70341335</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>桂小おやじの会：謎解きアイデア出し</title>
+        <link>https://docs.google.com/presentation/d/1hw3MhChU1yNxHwV6VkvOFID6CBmXfjAyBqiL0j6oefk/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>リモートワーク改善していきたいよね (uzulla)</title>
+        <link>https://speakerdeck.com/uzulla/rimotowakugai-shan-siteikitaiyone</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BigQuery GISを用いた物件レコメンド (Teito Nakagawa)</title>
+        <link>https://www.slideshare.net/teitonakagawa/bq-sushi-20181131</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Swiftプログラミングと論理 〜そして帰ってきた圏論〜 / Swift and Logic, and Category Theory (Yasuhiro Inami)</title>
+        <link>https://speakerdeck.com/inamiy/swift-and-logic-and-category-theory</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pact言語によるセキュアなスマートコントラクト開発 (knagato)</title>
+        <link>https://www.slideshare.net/knagato/pact-language</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Scaling to 5k Kubernetes Nodes: Lessons Learned</title>
         <link>https://docs.google.com/presentation/d/1XiXbudTvx-IYFV11RSx_7F5Wo0kkmMB0bfeUk4hhvJ0/edit</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>Replication crisis in psychology, and recent progress in resolving the “social dilemma” (Ken)</title>
         <link>https://speakerdeck.com/kensukeokada/replication-crisis-in-psychology-and-recent-progress-in-resolving-the-social-dilemma</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自己紹介@名状しがたいお茶会 (Hiromu Yakura, @​hiromu1996)</title>
-        <link>https://www.slideshare.net/hiromu1996/ss-228229684</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>mqttノードの接続先設定</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQWMXdhe--06AyIZDKgv2Pgj8627sjxUyzIy0EC96PmsMXhaPtfrAPsxAGDagTNnDWX0XiK8jnpcUC7/pub</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Prometheus 実践入門 #hbstudy 79 / introduction-to-prometheus-practice (rrreeeyyy)</title>
-        <link>https://speakerdeck.com/rrreeeyyy/introduction-to-prometheus-practice</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20171028 osc-nagaoka-postgre sql-10 (Toshi Harada, @nuko_yokohama)</title>
-        <link>https://www.slideshare.net/toshiharada/20171028-oscnagaokapostgre-sql10</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sh4der Jockey @ rust.​tokyo 2021</title>
-        <link>https://docs.google.com/presentation/d/1-FNuHKNFxNkUpc1USNIna_FfkY5zOF1YKdmfylWjffU/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Firebase Remote Config ベストプラクティス (Yuto Yazaki)</title>
-        <link>https://speakerdeck.com/yutoyazaki/firebase-remote-config-besutopurakuteisu</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQLでフロントエンドの複雑性とたたかう (Yahoo!デベロッパーネットワーク, @​ydnjp)</title>
-        <link>https://www.slideshare.net/techblogyahoo/graphql-172863129</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby 3.2 リリースイベント</title>
-        <link>https://docs.google.com/presentation/d/1TmY23yVkrnHV3FuWleEXTY-x7LP18bobjOCzp5ZpyGU/preview</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ヘルプサイトの制作プロセス (Naohiro Nakata)</title>
-        <link>https://speakerdeck.com/naohiro_nakata/herupusaitofalsezhi-zuo-purosesu</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
