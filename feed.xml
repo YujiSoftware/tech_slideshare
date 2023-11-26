@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>atelier basi</title>
+        <link>https://docs.google.com/presentation/d/1rjKShMYBmGvTRxLkiwJ6cT1oo5HiXz3AOGYi0feTHB4/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CloudNativeDaysTokyo 2019 slide (hidenobu goto)</title>
+        <link>https://speakerdeck.com/goto_hidenobu/cloudnativedaystokyo-2019-slide</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オンプレとAWSをつなぐVPNとルーティング</title>
+        <link>https://www.slideshare.net/qt_takada/awsvpn/7?src=clipshare</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜフロントエンド開発の見積もりは当たらないのか</title>
+        <link>https://docs.google.com/presentation/d/1VUfuooKs4LTqwcjlDRvNcOXaTahwJyX-ZdDkL8zxVKI/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHPerがこれから「型」とお付き合いしていくために (penguin045)</title>
+        <link>https://speakerdeck.com/penguin045/phpergakorekara-xing-toofu-kihe-isiteikutameni</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CVE-2010-1870 (abend_cve_9999_0001)</title>
+        <link>https://www.slideshare.net/abend_cve_9999_0001/cve20101870</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>3D Model in Haskell</title>
+        <link>https://docs.google.com/presentation/d/1TiDWz3zLUwEWgpzXfgVZFIib6JtYriB03TVgHsimJC0/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>4年の開発が積み重なったアプリへのリファクタリング手法 (Jun Ikeda)</title>
+        <link>https://speakerdeck.com/jnikd/4nian-falsekai-fa-gaji-mizhong-natutaapurihefalserihuakutaringushou-fa</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>詳説 Movable type 7 (Yuji Takayama)</title>
+        <link>https://www.slideshare.net/swordbreaker/movable-type-7-80522292</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DAGで表現するお気持ちネットワーク / Okimochi (erukiti)</title>
         <link>https://speakerdeck.com/erukiti/okimochi</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>DynamicでScalableな空間分割データ構造Bkd-Tree (Takatomo Torigoe)</title>
         <link>https://speakerdeck.com/piyo7/dynamicdescalablenakong-jian-fen-ge-detagou-zao-bkd-tree</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習の精度と売上の関係 (Tokoroten Nakayama, @tokoroten)</title>
-        <link>https://www.slideshare.net/TokorotenNakayama/ss-93185418</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタートアップで働くエンジニアがデザインファーストで開発した話 (risto24)</title>
-        <link>https://speakerdeck.com/risto24/sutatoatupudedong-kuenziniagadezainhuasutodekai-fa-sitahua</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20200514 classmethod online seminar (Kenji Tomooka)</title>
-        <link>https://www.slideshare.net/KenjiTomooka/20200514-classmethod-online-seminar</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ReactiveだけじゃないSpring 5 &amp; Spring Boot 2新機能解説 (Masatoshi Tada)</title>
-        <link>https://www.slideshare.net/masatoshitada7/reactivespring-5-spring-boot-2</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CTO から見た，なぜスタートアップ 初期のソフトウェア設計は壊れがちなのか (memory)</title>
-        <link>https://speakerdeck.com/memory1994/why-the-application-design-is-breaking-sometimes-at-a-startup-company</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deep-Dive into Scriptable Build Pipeline (Haruto Otake)</title>
-        <link>https://www.slideshare.net/harutootake/deepdive-into-scriptable-build-pipeline</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ごみ集めのない (頭の悪い) LISP</title>
-        <link>https://docs.google.com/presentation/d/1QCGnJk5FeI-1kdPB_g6xDd_DcqQxqGKOR8AbtKcXb8U/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チーム開発と Android アプリの構成 (Ryutaro Miyashita)</title>
-        <link>https://speakerdeck.com/ryugoo/timukai-fa-to-android-apurifalsegou-cheng</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>２D格闘ゲームにおけるユーザビリティとゲームデザインについて (Koji Morikawa)</title>
-        <link>https://www.slideshare.net/KojiMorikawa/ss-48284777</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
