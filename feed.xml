@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go製MVCアプリケーションのアーキテクチャを変更する (inari111)</title>
+        <link>https://speakerdeck.com/inari111/gozhi-mvcapurikesiyonfalseakitekutiyawobian-geng-suru</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Developers Summit Summer 2018 - 1日10TB以上の店舗映像を解析するサービスの仕組みとノウハウ (紘之 大田黒)</title>
+        <link>https://www.slideshare.net/xecus/developers-summit-summer-2018-110tb-107731118</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes Monitoring with Prometheus Workshop</title>
+        <link>https://docs.google.com/presentation/d/17XVCbiC4PZYvpreZINmhNltmT-DDCo3LjoaPgqpsxVo/preview</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>加速するコンポーネント設計入門 / Component Design as an Accelerator (ダーシノ)</title>
+        <link>https://speakerdeck.com/bcrikko/component-design-as-an-accelerator</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>C++入門? (tsudaa)</title>
+        <link>https://www.slideshare.net/tsudaa/cpp-33164455</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>詳解CSSinJS</title>
+        <link>https://docs.google.com/presentation/d/1jOAu0pjqt2R-3CWP9bLsTN5siUpYGPjo22fcyAfU9eM/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「始めるのをやめて、終わらせることを始める」ことを始めた開発チームの話 / Rakus Meetup Osaka 2020-02-05 (kyoshimoto)</title>
+        <link>https://speakerdeck.com/kyoshimoto/rakus-meetup-osaka-2020-02-05</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WioLTEで田んぼデプロイしてみた</title>
+        <link>https://www.slideshare.net/kenjitoyoda1/wiolte-104322030/kenjitoyoda1/wiolte-104322030</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Silky Smooth Animation with CSS (Will Boyd)</title>
         <link>https://speakerdeck.com/lonekorean/silky-smooth-animation-with-css</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>Top 10 siêu phẩm anime hay nhất mọi thời đại (2019) (AnimeVietsub.Org, animevietsuborg)</title>
         <link>https://www.slideshare.net/animevietsub/top-10-siu-phm-anime-hay-nht-mi-thi-i-2019</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Verilog-HDL Tutorial (9) (Hiroki Nakahara)</title>
-        <link>https://www.slideshare.net/HirokiNakahara1/veriloghdl-tutorial-9</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Machine learning (hiroyukikageyama2)</title>
-        <link>https://www.slideshare.net/hiroyukikageyama2/machine-learning-128571053</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20200504 Smalltalkを学ぶ会 (リモート開催) - Smalltalkについて (sumim)</title>
-        <link>https://www.slideshare.net/sumim/smalltalk-233151007</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ネットワーク障害を支配したい話 (Satoshi Hirata)</title>
-        <link>https://www.slideshare.net/debility/ss-113499377</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ライトニングネットワーク 技術基礎と今後の見通し (Takaya Imai)</title>
-        <link>https://speakerdeck.com/takayaimai/raitoningunetutowaku-ji-shu-ji-chu-tojin-hou-falsejian-tong-si</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>見やすいプレゼン資料の作り方 - リニューアル増量版</title>
-        <link>https://www.slideshare.net/yutamorishige50/ss-41321443?ref=https://writer.werehouse.co/prezen/</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>電子情報学特論：Chromiumのアーキテクチャを解き明かす</title>
-        <link>https://docs.google.com/presentation/d/12wd3hLkXVny0b5LnzizmH_3xe8zJ2WY5_9JprfIkp-o/preview</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>誰でもできるスマートシティ向けOSS : FIWAREのはじめかた (KIKUCHI Shunsuke)</title>
-        <link>https://speakerdeck.com/kikuzo/shui-demodekirusumatositeixiang-keoss-fiwarefalsehazimekata</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
