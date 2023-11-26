@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Scaling to 5k Kubernetes Nodes: Lessons Learned</title>
+        <link>https://docs.google.com/presentation/d/1XiXbudTvx-IYFV11RSx_7F5Wo0kkmMB0bfeUk4hhvJ0/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コンポーネント化とHeadlessCMSを用いた ECプロモーションの効率化 (yuya takei)</title>
+        <link>https://speakerdeck.com/takewell/konponentohua-toheadlesscmswoyong-ita-ecpuromosiyonfalsexiao-lu-hua</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アウトプットしよう これはあなたの成長の物語 (真吾 吉田, @​yoshidashingo)</title>
+        <link>https://www.slideshare.net/YoshidaShingo/jawsudaysoutput</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WebTransport TPAC-10-19/21-2020</title>
+        <link>https://docs.google.com/presentation/d/1xx1MLjxY-ZiWQBxivJCITmvKrHdW3AMuz-DxDOrAcdw/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Coursera完全に理解した / coursera-completely-understood (星影)</title>
+        <link>https://speakerdeck.com/unsoluble_sugar/coursera-completely-understood</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SIGNATE 産業技術総合研究所 衛星画像分析コンテスト ２位入賞モデルの工夫点 (Ken'ichi Matsui, kenmatsu4)</title>
+        <link>https://www.slideshare.net/matsukenbook/signate-108228406</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Robosemi 210917.pptx</title>
+        <link>https://docs.google.com/presentation/d/1XaYSO9JYQWKEdLaIKDOXiqsfZxA5f1d7/preview</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CPU__memory_and_Go.pdf (sonata)</title>
+        <link>https://speakerdeck.com/sonatard/cpu-memory-and-go</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>哲学する人工知能と人工意識 (Youichiro Miyake, @​miyayou)</title>
+        <link>https://www.slideshare.net/youichiromiyake/ss-80086146</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Web Packaging: Web Bundles (#webbundle_study)</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vRaVTNLZ-plDe-2beEL_WYmuJ6UYgby3oiOEDrCbUm6MUWnnwhFovWTPeIYXAjMIld-2P8xSRCn7Gdx/pub</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>ヘルプサイトの制作プロセス (Naohiro Nakata)</title>
         <link>https://speakerdeck.com/naohiro_nakata/herupusaitofalsezhi-zuo-purosesu</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Free live cricket streaming (romanrocking8750)</title>
-        <link>https://www.slideshare.net/romanrocking8750/free-live-cricket-streaming-180353760</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新しいメルカリ Web とそのパフォーマンス</title>
-        <link>https://docs.google.com/presentation/d/1QJfjEt77VXDNlNEzYDKmGhMnVnhZDHS4jzuxxisOa-A/preview</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Try JIT compiler for Ruby 2.6 (south37)</title>
-        <link>https://speakerdeck.com/south37/try-jit-compiler-for-ruby-2-dot-6</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バッチではじめてAkkaを使ってみた (refined) (Koji Agawa, @​atty303)</title>
-        <link>https://www.slideshare.net/KojiAgawa/akka-meeting-2014-1112-refined</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WCAG2.​0 / 2.​1とCUDの整理、�スクリーンメディアにおけるCUD</title>
-        <link>https://docs.google.com/presentation/d/17EWdYNvf1uyei6EpGtCh2KriFCST6uWG5HKmHPdNq-g/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>月刊「検索」10月号 (sakura818uuu)</title>
-        <link>https://speakerdeck.com/sakura818uuu/yue-kan-jian-suo-10yue-hao</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webアプリケーションフレームワークとしての Drupalの可能性 (Yoshikazu Aoyama)</title>
-        <link>https://www.slideshare.net/blauerberg/drupal-for-web-application-framework</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20210210-Vue-I18nのメッセージファイルのLint</title>
-        <link>https://docs.google.com/presentation/d/1HuKPREAHoDgOTztVbz42DzGvbr-4VB-r3i-QqcgCXJE/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tokyo.​R#89 Data visualization (kilometer)</title>
-        <link>https://speakerdeck.com/kilometer/tokyo-dot-r-number-89-data-visualization</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
