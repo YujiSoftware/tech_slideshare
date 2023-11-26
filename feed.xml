@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DAGで表現するお気持ちネットワーク / Okimochi (erukiti)</title>
+        <link>https://speakerdeck.com/erukiti/okimochi</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>kintone Café 釧路 Vol.​2(kintoneのキホン) (kintone papers)</title>
+        <link>https://www.slideshare.net/kintone-papers/kintone-caf-vol2kintone-66363438</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TokyoR 2</title>
+        <link>https://docs.google.com/presentation/d/1WFG6SN9QzdqvKmJ41VBFhbtRRefKLQBLzB4Wd0iDMKY/preview</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最近メールフォームかいてないメールフォーマーによる、ちょっとだけ変わった一応PHPのメールフォーム（？）のお話 〜副題 最近swooleがたのしいです〜 (uzulla)</title>
+        <link>https://speakerdeck.com/uzulla/zui-jin-meruhuomukaitenaimeruhuomaniyoru-tiyotutodakebian-watuta-ying-phpfalsemeruhuomu-falseohua-fu-ti-zui-jin-swoolegatafalsesiidesu</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TeXの気持ちを理解するために知っておくと役立つかもしれないこと (Keiichiro Shikano, @golden_lucky)</title>
+        <link>https://www.slideshare.net/k16shikano/tex-86824534</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Prisma2 with Graphql (joe_re)</title>
+        <link>https://speakerdeck.com/joere/prisma2-with-graphql</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pythonでの開発を効率的に進めるためのツール設定 (Atsushi Odagiri)</title>
+        <link>https://www.slideshare.net/aodag/python-172432039</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Goの実装パターン ~ Webサーバ編 ~ (Daisuke Suzuki)</title>
         <link>https://speakerdeck.com/daisuzu/gofalseshi-zhuang-patan-websababian</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>２D格闘ゲームにおけるユーザビリティとゲームデザインについて (Koji Morikawa)</title>
         <link>https://www.slideshare.net/KojiMorikawa/ss-48284777</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP で NFC リーダーを実装する (memory)</title>
-        <link>https://speakerdeck.com/memory1994/php-de-nfc-ridawoshi-zhuang-suru</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>知識ベースを活用した 自然言語処理の手法とその応用 (Ikuya Yamada)</title>
-        <link>https://www.slideshare.net/ikuyamada/ss-89380283</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Chatwork 開発組織の変遷 (Noriaki Kadota)</title>
-        <link>https://speakerdeck.com/nottegra/chatwork-kai-fa-zu-zhi-falsebian-qian</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction to Path tracing (Marc Sunet)</title>
-        <link>https://www.slideshare.net/jeannekamikaze/introduction-to-path-tracing</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud Spanner as a SQL System</title>
-        <link>https://docs.google.com/presentation/d/17RDfrKLpeZrVKuuskeO_E9x0wLeBeTNzPjqrdk97MFs/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>続・SOLIDの原則ってどんなふうに使うの？ 〜オープン・クローズドの原則 センパイのコーディングノート編〜 (hidenorigoto)</title>
-        <link>https://speakerdeck.com/hidenorigoto/sok-solidfalseyuan-ze-tutedonnahuunishi-ufalse-opunkurozudofalseyuan-ze-senpaifalsekodeingufalsetobian</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ネット広告のシステム関連の話 (Kousuke Yabumoto)</title>
-        <link>https://www.slideshare.net/kousukeyabumoto9/ss-55210646</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
