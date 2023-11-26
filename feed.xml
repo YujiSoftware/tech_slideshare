@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ReactiveだけじゃないSpring 5 &amp; Spring Boot 2新機能解説 (Masatoshi Tada)</title>
+        <link>https://www.slideshare.net/masatoshitada7/reactivespring-5-spring-boot-2</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CTO から見た，なぜスタートアップ 初期のソフトウェア設計は壊れがちなのか (memory)</title>
+        <link>https://speakerdeck.com/memory1994/why-the-application-design-is-breaking-sometimes-at-a-startup-company</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Deep-Dive into Scriptable Build Pipeline (Haruto Otake)</title>
+        <link>https://www.slideshare.net/harutootake/deepdive-into-scriptable-build-pipeline</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ごみ集めのない (頭の悪い) LISP</title>
+        <link>https://docs.google.com/presentation/d/1QCGnJk5FeI-1kdPB_g6xDd_DcqQxqGKOR8AbtKcXb8U/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>チーム開発と Android アプリの構成 (Ryutaro Miyashita)</title>
+        <link>https://speakerdeck.com/ryugoo/timukai-fa-to-android-apurifalsegou-cheng</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>２D格闘ゲームにおけるユーザビリティとゲームデザインについて (Koji Morikawa)</title>
+        <link>https://www.slideshare.net/KojiMorikawa/ss-48284777</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PHP で NFC リーダーを実装する (memory)</title>
         <link>https://speakerdeck.com/memory1994/php-de-nfc-ridawoshi-zhuang-suru</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>BtoBtoCサービスのデザイナーがユーザーに近づくために実施したこと (Yumi Jo)</title>
         <link>https://speakerdeck.com/yumijo/btobtocsabisufalsedezainagayuzanijin-dukutamenishi-shi-sitakoto</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WordPress公式テーマ登録のための5ステップ (Mignon Style, mignon_style)</title>
-        <link>https://www.slideshare.net/mignonstyle/wordpress5-38514853</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BigQuery を使った Firebase Analytics のデータ分析ハンズオン</title>
-        <link>https://docs.google.com/presentation/d/1s_v51sNYlZPLI4YoBhPnmX5OCsDQ_yJzV2Hm84_duEE/preview</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nuxt.jsで変わる開発フローとUniversal JavaScriptのイマ #jsfes (Potato4d(Hanatani Takuma))</title>
-        <link>https://speakerdeck.com/potato4d/nuxt-dot-jsdebian-warukai-fa-hurotouniversal-javascriptfalseima-number-jsfes</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Watch WWE legend wrestlers matches (djtherock12)</title>
-        <link>https://www.slideshare.net/djtherock12/watch-wwe-legend-wrestlers-matches</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リモート時代の雑談/相談、Peer 1on1の始め方 / Peer 1on1 (nakaly)</title>
-        <link>https://speakerdeck.com/nakaly/peer-1on1</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(ロフトワーク テクニカルディレクターがこっそり教える)運営スタッフに喜ばれる CMSの選び方 超入門 (loftwork)</title>
-        <link>https://www.slideshare.net/loftwork/cms-67272318</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
