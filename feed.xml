@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FOSS4G JAPAN 2022 sfnetworks</title>
+        <link>https://docs.google.com/presentation/d/1M-G2qw7btKC5ZGHjozIPzFME0OEJXJl-7NtVfGhlheE/preview</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大半のウェブサービス/アプリは，Firebaseなら簡単で安いですよ (Yatima-Kagurazaka)</title>
+        <link>https://speakerdeck.com/yatima/apuriha-firebasenarajian-dan-dean-idesuyo</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DroidKaigi 2019 シームレスに遷移可能な画面を他のアプリに提供する方法 (Takaki Hoshikawa, oboenikui)</title>
+        <link>https://www.slideshare.net/TakakiHoshikawa/droidkaigi-2019</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>API scenario testing tool with plugin package</title>
+        <link>https://docs.google.com/presentation/d/1SXNNuZLt1CKNrhgkOYYs1LA7iYlOuJENCSovaOMciPA/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20190827 AWS ML@Loft#5 by Hottolink (Hottolink, R&amp;D)</title>
+        <link>https://speakerdeck.com/hottolink_rd/20190827-aws-ml-at-loft-number-5-by-hottolink</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Unity Roadmap 2020: Core Engine &amp; Creator Tools (Unity Technologies, @​unity3d)</title>
+        <link>https://www.slideshare.net/unity3d/unity-roadmap-2020-core-engine-creator-tools</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WEB アプリケーション設計入門 / Introduction to web application design (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/introduction-to-web-application-design</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Unityとアセットツールで学ぶ「絵づくり」の基礎　ライト、シェーダー、イメージエフェクト (小林 信行, nyaa_toraneko)</title>
+        <link>https://www.slideshare.net/nyaakobayashi/unity-63884133</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>子どもたちが学ぶ体験型水産IoTの取り組み (Masayo Shokaku)</title>
         <link>https://speakerdeck.com/masayoshokaku19/zi-domotatigaxue-buti-yan-xing-shui-chan-iotfalsequ-rizu-mi</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>20180221 AWS Black Belt Online Seminar AWS Lambda@Edge (Amazon Web Services Japan, @awscloud_jp)</title>
         <link>https://www.slideshare.net/AmazonWebServicesJapan/20180221-aws-black-belt-online-seminar-aws-lambdaedge</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Masashi Kawamura</title>
-        <link>https://docs.google.com/presentation/d/1TL2sBdcX_bY1zBi-xFYeJVyGVRE2okHW_ETwtZ4ItH0/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Khovanov homology &amp; Khovanov homotopy type (Taketo Sano)</title>
-        <link>https://speakerdeck.com/taketosano/khovanov-homology-and-khovanov-homotopy-type</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第20回 OpenStack勉強会 Neutron Deep Dive - DVR (Toru Makabe, tmak_tw)</title>
-        <link>https://www.slideshare.net/ToruMakabe/20-openstack-neutron-deep-dive-dvr</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TLS 1.​3 と 0-RTT のこわ〜い話 (Kazuho Oku)</title>
-        <link>https://www.slideshare.net/kazuho/tls-13-0rtt</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Migrating-Session.​pptx</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQpQTWPhXehsh-jIkEWvHxsL2v_KoV3hems17p-QIngVvbgALd9qcc_w3ol4Nis4A/pub</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ごっこランドをささえる技術 〜AssetBundle 編〜/AssetBundle Fully Understood (Tetsuya Mori)</title>
-        <link>https://speakerdeck.com/monry/assetbundle-fully-understood</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Data Lake ハンズオン</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/data-lake-119443016?fbclid=IwAR2k7y5aubrpvfh8xDtw7cHZq9N_7lV_8D3gfHDA5W898apYVd_62oehkwc</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BigDecimal: For Stage 1</title>
-        <link>https://docs.google.com/presentation/d/1qceGOynkiypIgvv0Ju8uPqXP4GsWHoY2IVYSWE8SA4Y/edit</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
