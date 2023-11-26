@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM Meetup Tokyo #2 生成検索を用いた推薦システム</title>
+        <link>https://docs.google.com/presentation/d/1oBxQ3N93xRRMdujJwhOFZVOdnJElB8yqiGofz5qjK0E/preview</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>イエウール立ち上げに込めた想い / Speee Cafe Meetup 04 // Speaker Deck</title>
+        <link>https://speakerdeck.com/nisshiee/speee-cafe-meetup-04</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WACATE2018Summer BPP yoshitake (Nobuhiro Yoshitake, yoshitake_1201)</title>
+        <link>https://www.slideshare.net/NobuhiroYoshitake/wacate2018summer-bpp-yoshitake</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go言語低レイヤー入門 Hello world が 画面に表示されるまで (GoConforenceTokyo2021)</title>
+        <link>https://docs.google.com/presentation/d/10ru3LdbofJqgdmD8pprZuZyWbGvOFC8rKxb6q5Q46Xc/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>つらい時にアゲる机 (MATSUKI Hidenori)</title>
+        <link>https://speakerdeck.com/mazgi/turaishi-niageruji</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSのログ管理ベストプラクティス (Akihiro Kuwano, @kuwa_tw)</title>
+        <link>https://www.slideshare.net/akuwano/aws-77583244</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>もうそこまで迫っている！ Cloud2.​0 時代の開発 (Kazutomo Niwa)</title>
+        <link>https://speakerdeck.com/kazutomo/mousokomadepo-tuteiru-cloud2-dot-0-shi-dai-falsekai-fa</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>脆弱性ハンドリングと耐える設計 -Vulnerability Response- (Tomohiro Nakashima)</title>
+        <link>https://www.slideshare.net/nakatomoorg/vulnerability-response/</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Go製MVCアプリケーションのアーキテクチャを変更する (inari111)</title>
         <link>https://speakerdeck.com/inari111/gozhi-mvcapurikesiyonfalseakitekutiyawobian-geng-suru</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>Scenario Testing to Improve Product Quality at Merpay</title>
         <link>https://docs.google.com/presentation/d/1526Md64pmPdQIEamz5IBWvVZd7X70grz4XZ5VG4JFx4/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Machine Learning Interviews: Lessons from Both Sides - FSDL</title>
-        <link>https://docs.google.com/presentation/d/1MX2V6fTp71j1aztvY5HLYM44iLG4HYMrYd4Dxn6Cxnw/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Model-Driven Design with Business Patterns Explained in Scala (かとじゅん)</title>
-        <link>https://speakerdeck.com/j5ik2o/model-driven-design-with-business-patterns-explained-in-scala</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カラーミーショップカートのAngular事情 / Angular circumstances of colorme-cart (Kentaro Suda)</title>
-        <link>https://speakerdeck.com/ku00/angular-circumstances-of-colorme-cart</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>継続的サービスカイゼンと技術の刷新 (Gakuji Kitamura)</title>
-        <link>https://speakerdeck.com/ga9ji/ji-sok-de-sahisukaisentoji-shu-falseshua-xin</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『逆転オセロニア』におけるAI活用を振り返る (DeNA_Tech)</title>
-        <link>https://speakerdeck.com/dena_tech/ni-zhuan-oseronia-niokeruaihuo-yong-wozhen-rifan-ru</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>不偏推定量とJackknife法 / Jackknife (kaityo256)</title>
-        <link>https://speakerdeck.com/kaityo256/jackknife</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unreal engine4を使ったVRコンテンツ製作で 120%役に立つtips集+GDC情報をご紹介 (エピック・ゲームズ・ジャパン Epic Games Japan, @EpicGamesJapan)</title>
-        <link>https://www.slideshare.net/EpicGamesJapan/unreal-engine4vr-120tipsgdc</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Top 10 siêu phẩm anime hay nhất mọi thời đại (2019) (AnimeVietsub.Org, animevietsuborg)</title>
-        <link>https://www.slideshare.net/animevietsub/top-10-siu-phm-anime-hay-nht-mi-thi-i-2019</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
