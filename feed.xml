@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHP で NFC リーダーを実装する (memory)</title>
+        <link>https://speakerdeck.com/memory1994/php-de-nfc-ridawoshi-zhuang-suru</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>知識ベースを活用した 自然言語処理の手法とその応用 (Ikuya Yamada)</title>
+        <link>https://www.slideshare.net/ikuyamada/ss-89380283</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Chatwork 開発組織の変遷 (Noriaki Kadota)</title>
+        <link>https://speakerdeck.com/nottegra/chatwork-kai-fa-zu-zhi-falsebian-qian</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Introduction to Path tracing (Marc Sunet)</title>
+        <link>https://www.slideshare.net/jeannekamikaze/introduction-to-path-tracing</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloud Spanner as a SQL System</title>
+        <link>https://docs.google.com/presentation/d/17RDfrKLpeZrVKuuskeO_E9x0wLeBeTNzPjqrdk97MFs/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>続・SOLIDの原則ってどんなふうに使うの？ 〜オープン・クローズドの原則 センパイのコーディングノート編〜 (hidenorigoto)</title>
+        <link>https://speakerdeck.com/hidenorigoto/sok-solidfalseyuan-ze-tutedonnahuunishi-ufalse-opunkurozudofalseyuan-ze-senpaifalsekodeingufalsetobian</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ネット広告のシステム関連の話 (Kousuke Yabumoto)</title>
+        <link>https://www.slideshare.net/kousukeyabumoto9/ss-55210646</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Stage 2 Decorators の変遷 / Stage 2 Decorators history (森建)</title>
         <link>https://speakerdeck.com/petamoriken/stage-2-decorators-history</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>(ロフトワーク テクニカルディレクターがこっそり教える)運営スタッフに喜ばれる CMSの選び方 超入門 (loftwork)</title>
         <link>https://www.slideshare.net/loftwork/cms-67272318</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>s-dev talks 2019/03/26 Why and How does a hobby developer monetize one's app (Shintaro Morikawa)</title>
-        <link>https://speakerdeck.com/morishin/26-why-and-how-does-a-hobby-developer-monetize-ones-app</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Io tプラットフォーム主要ベンダ相関図2017mar. (Keiichiro Nabeno)</title>
-        <link>https://www.slideshare.net/knabeno/io-t2017mar</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Exploring Postgres VACUUM with the VACUUM Simulator (Keiko Oda)</title>
-        <link>https://speakerdeck.com/keiko713/exploring-postgres-vacuum-with-the-vacuum-simulator</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tổng kho ván sàn</title>
-        <link>https://docs.google.com/presentation/d/1Hi6onYkVqMD8yfhVrNuVCfDSaMD-yCFiMO8ZP1Yjst0/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HSEとは何か (Fadis)</title>
-        <link>https://speakerdeck.com/fadis/hsetohahe-ka</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Career Design (Ryuichi Naito)</title>
-        <link>https://www.slideshare.net/naitoryuichi/career-design-156358018</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今更聞けないMVPとMVVMの違い (Taiki Suzuki)</title>
-        <link>https://speakerdeck.com/martysuzuki/jin-geng-wen-kenaimvptomvvmfalsewei-i</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
