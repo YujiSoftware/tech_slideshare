@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Masashi Kawamura</title>
+        <link>https://docs.google.com/presentation/d/1TL2sBdcX_bY1zBi-xFYeJVyGVRE2okHW_ETwtZ4ItH0/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Khovanov homology &amp; Khovanov homotopy type (Taketo Sano)</title>
+        <link>https://speakerdeck.com/taketosano/khovanov-homology-and-khovanov-homotopy-type</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第20回 OpenStack勉強会 Neutron Deep Dive - DVR (Toru Makabe, tmak_tw)</title>
+        <link>https://www.slideshare.net/ToruMakabe/20-openstack-neutron-deep-dive-dvr</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TLS 1.​3 と 0-RTT のこわ〜い話 (Kazuho Oku)</title>
+        <link>https://www.slideshare.net/kazuho/tls-13-0rtt</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Migrating-Session.​pptx</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vQpQTWPhXehsh-jIkEWvHxsL2v_KoV3hems17p-QIngVvbgALd9qcc_w3ol4Nis4A/pub</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ごっこランドをささえる技術 〜AssetBundle 編〜/AssetBundle Fully Understood (Tetsuya Mori)</title>
+        <link>https://speakerdeck.com/monry/assetbundle-fully-understood</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Data Lake ハンズオン</title>
+        <link>https://www.slideshare.net/AmazonWebServicesJapan/data-lake-119443016?fbclid=IwAR2k7y5aubrpvfh8xDtw7cHZq9N_7lV_8D3gfHDA5W898apYVd_62oehkwc</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BigDecimal: For Stage 1</title>
         <link>https://docs.google.com/presentation/d/1qceGOynkiypIgvv0Ju8uPqXP4GsWHoY2IVYSWE8SA4Y/edit</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>H281219 1422045 田坂 俊介_事例研究予稿 (Shunsuke Tasaka)</title>
         <link>https://www.slideshare.net/ShunsukeTasaka/h281219-1422045-72415691</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジェンダシートフォーマット（Googleスライド版）</title>
-        <link>https://docs.google.com/presentation/d/1AWxlwJhGDC6egdd0jFAOcRUAX38HySQS_y9cVINOp-A/preview</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQL for service-to-service communication protocol (qsona)</title>
-        <link>https://speakerdeck.com/qsona/graphql-for-service-to-service-communication-protocol</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20190619 AWS Black Belt Online Seminar Dive Deep into AWS Chalice (Amazon Web Services Japan, @​awscloud_jp)</title>
-        <link>https://www.slideshare.net/AmazonWebServicesJapan/20190619-aws-black-belt-online-seminar-dive-deep-into-aws-chalice</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[shared] 20190621 ファイナンシャルプランニング基礎</title>
-        <link>https://docs.google.com/presentation/d/1kYEM5BrEaAlJrLUht2dKgKEyVXpX75380fPyzmke3Qc/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINE GAMEサービスのセキュリティ運営 / Security activity for LINE GAME services (LINE Developers)</title>
-        <link>https://speakerdeck.com/line_developers/security-activity-for-line-game-services</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>gopher-lua (Takuya Ueda, @​tenntenn)</title>
-        <link>https://www.slideshare.net/takuyaueda967/gopherlua</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SmartNews Adsの配信最適化のお話 (Ryoichi Nishio)</title>
-        <link>https://speakerdeck.com/ryoichinishio/smartnews-adsfalsepei-xin-zui-shi-hua-falseohua</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
