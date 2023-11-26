@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Exploring Postgres VACUUM with the VACUUM Simulator (Keiko Oda)</title>
+        <link>https://speakerdeck.com/keiko713/exploring-postgres-vacuum-with-the-vacuum-simulator</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Tổng kho ván sàn</title>
+        <link>https://docs.google.com/presentation/d/1Hi6onYkVqMD8yfhVrNuVCfDSaMD-yCFiMO8ZP1Yjst0/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>HSEとは何か (Fadis)</title>
+        <link>https://speakerdeck.com/fadis/hsetohahe-ka</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Career Design (Ryuichi Naito)</title>
+        <link>https://www.slideshare.net/naitoryuichi/career-design-156358018</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今更聞けないMVPとMVVMの違い (Taiki Suzuki)</title>
+        <link>https://speakerdeck.com/martysuzuki/jin-geng-wen-kenaimvptomvvmfalsewei-i</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>米国のペネトレーションテスト事情（ssmjp） (Tomohisa Ishikawa, CISSP, CSSLP, CISA, CISM, CFE)</title>
+        <link>https://www.slideshare.net/tomohisaishikawa/ssmjp-72358545</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>高速なメディアを実現するための戦術と戦略</title>
+        <link>https://docs.google.com/presentation/d/1ZE_95-mflu2yhzEdnYLorXLD2xK_ncjS3DSC6T_d8jc/edit</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>a-blog cmsのきほん2 〜そして上級者へ〜 (kwbmnb)</title>
+        <link>https://speakerdeck.com/kwbmnb/a-blog-cmsfalsekihon2-sositeshang-ji-zhe-he</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>60fpsアクションを実現する秘訣を伝授 解析編 (エピック・ゲームズ・ジャパン Epic Games Japan, @​UnrealEngineJP)</title>
+        <link>https://www.slideshare.net/EpicGamesJapan/ue4-festeast2019-60fpsanalysis</link>
+        <dc:date>2023-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Speaker DeckにおけるGoogleスライドのフォントの問題解決/problem solving for google slides 2023 (moriyuya)</title>
         <link>https://speakerdeck.com/moriyuya/problem-solving-for-google-slides-2023</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>コンポーネント化とHeadlessCMSを用いた ECプロモーションの効率化 (yuya takei)</title>
         <link>https://speakerdeck.com/takewell/konponentohua-toheadlesscmswoyong-ita-ecpuromosiyonfalsexiao-lu-hua</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アウトプットしよう これはあなたの成長の物語 (真吾 吉田, @​yoshidashingo)</title>
-        <link>https://www.slideshare.net/YoshidaShingo/jawsudaysoutput</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebTransport TPAC-10-19/21-2020</title>
-        <link>https://docs.google.com/presentation/d/1xx1MLjxY-ZiWQBxivJCITmvKrHdW3AMuz-DxDOrAcdw/edit</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Coursera完全に理解した / coursera-completely-understood (星影)</title>
-        <link>https://speakerdeck.com/unsoluble_sugar/coursera-completely-understood</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SIGNATE 産業技術総合研究所 衛星画像分析コンテスト ２位入賞モデルの工夫点 (Ken'ichi Matsui, kenmatsu4)</title>
-        <link>https://www.slideshare.net/matsukenbook/signate-108228406</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Robosemi 210917.pptx</title>
-        <link>https://docs.google.com/presentation/d/1XaYSO9JYQWKEdLaIKDOXiqsfZxA5f1d7/preview</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CPU__memory_and_Go.pdf (sonata)</title>
-        <link>https://speakerdeck.com/sonatard/cpu-memory-and-go</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>哲学する人工知能と人工意識 (Youichiro Miyake, @​miyayou)</title>
-        <link>https://www.slideshare.net/youichiromiyake/ss-80086146</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web Packaging: Web Bundles (#webbundle_study)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vRaVTNLZ-plDe-2beEL_WYmuJ6UYgby3oiOEDrCbUm6MUWnnwhFovWTPeIYXAjMIld-2P8xSRCn7Gdx/pub</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Replication crisis in psychology, and recent progress in resolving the “social dilemma” (Ken)</title>
-        <link>https://speakerdeck.com/kensukeokada/replication-crisis-in-psychology-and-recent-progress-in-resolving-the-social-dilemma</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
