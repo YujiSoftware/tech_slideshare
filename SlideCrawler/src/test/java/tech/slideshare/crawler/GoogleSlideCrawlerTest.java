@@ -29,4 +29,12 @@ class GoogleSlideCrawlerTest {
 
         assertTrue(actual.isEmpty());
     }
+
+    @Test
+    public void requiredLogin() throws IOException {
+        GoogleSlideCrawler crawler = new GoogleSlideCrawler();
+        List<String> actual = crawler.crawl("https://docs.google.com/presentation/d/1C7VB67KwNW790U07y3kwsUoXwY-rZGWuKFhCvklEf48/edit");
+
+        assertTrue(actual.isEmpty());
+    }
 }

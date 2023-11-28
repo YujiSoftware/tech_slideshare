@@ -24,7 +24,7 @@ public class GoogleSlideCrawler implements Crawler {
     @Override
     public List<String> crawl(String url) throws IOException {
         String export = url.replace("/preview", "/export/pdf").replace("/pub", "/export/pdf").replace("/edit", "/export/pdf");
-        Optional<Path> pdf = Downloader.download(export);
+        Optional<Path> pdf = PDFDownloader.download(export);
         if (pdf.isEmpty()) {
             return Collections.emptyList();
         }

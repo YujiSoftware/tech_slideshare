@@ -7,20 +7,32 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URI;
+import java.net.URLConnection;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
 import java.util.Optional;
 
-public class Downloader {
+public class PDFDownloader {
 
-    private static final Logger logger = LoggerFactory.getLogger(Downloader.class);
+    private static final Logger logger = LoggerFactory.getLogger(PDFDownloader.class);
 
     static Optional<Path> download(String url) throws IOException {
         try {
             Path temp = Files.createTempFile(null, null);
             temp.toFile().deleteOnExit();
-            try (InputStream stream = URI.create(url).toURL().openStream()) {
+
+            URLConnection connection = URI.create(url).toURL().openConnection();
+            try (InputStream stream = connection.getInputStream()) {
+                // リダイレクトしてログインページなどに飛んでしまうことがある。
+                // その時はダウンロードせず、諦める。
+                String contentType = connection.getHeaderField("Content-Type");
+                if (!contentType.equals("application/pdf")) {
+                    logger.warn("Ignored Content-Type: " + contentType);
+                    return Optional.empty();
+                }
+
+                logger.debug("Download from " + connection.getURL());
                 Files.copy(stream, temp, StandardCopyOption.REPLACE_EXISTING);
             }
 
