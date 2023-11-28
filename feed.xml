@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「北欧、暮らしの道具店」を支えるインフラ技術 (Nagisa Yata)</title>
+        <link>https://speakerdeck.com/nyata/bei-ou-mu-rasinodao-ju-dian-wozhi-eruinhuraji-shu</link>
+        <dc:date>2023-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第42回ロボティクス勉強会：実環境を手軽にシミュレータ環境に持ってくるpointcloud2gazebo (atinfinity)</title>
+        <link>https://speakerdeck.com/atinfinity/di-42hui-roboteikusumian-qiang-hui-shi-huan-jing-woshou-qing-nisimiyuretahuan-jing-nichi-tutekurupointcloud2gazebo</link>
+        <dc:date>2023-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>君たちはどうプログラミングするか (Hisateru Tanaka)</title>
+        <link>https://speakerdeck.com/tanakahisateru/jun-tatihadoupuroguramingusuruka</link>
+        <dc:date>2023-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BigQuery のデータ品質やデータ活用を高める Dataplex 等の活用 (GO Inc. dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/bigquery-nodetapin-zhi-yadetahuo-yong-wogao-meru-dataplex-deng-nohuo-yong</link>
+        <dc:date>2023-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロが生実演！ 「ユーザーインタビュー」の深掘りテクニックを大公開！ (Yoshiki Hayama,@storywriter)</title>
+        <link>https://www.slideshare.net/storywriterjp/ss-259728052</link>
+        <dc:date>2023-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Exploring Postgres VACUUM with the VACUUM Simulator (Keiko Oda)</title>
         <link>https://speakerdeck.com/keiko713/exploring-postgres-vacuum-with-the-vacuum-simulator</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>誰でもわかる強化学習 (今井翔太（えるエル）)</title>
         <link>https://speakerdeck.com/imai_eruel/reinforcement-learning-for-everyone</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024 IBM Champion ノミネーションチャレンジ vol.2 (1ft-seabass)</title>
-        <link>https://speakerdeck.com/1ftseabass/ibm-champion-nomination-2024-vol2</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Workers は楽しい！ (Kei Kamikawa)</title>
-        <link>https://speakerdeck.com/codehex/cloudflare-workers-hale-sii</link>
-        <dc:date>2023-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DMMプラットフォームにおけるコード品質を改善する取り組みの理想と現実 (pospome)</title>
-        <link>https://speakerdeck.com/pospome/dmmpuratutohuomuniokerukodopin-zhi-wogai-shan-suruqu-rizu-minoli-xiang-toxian-shi</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>⾃律的な開発チームを⽀えるためのSLO運⽤ (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20231122-1</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java Language Future (Chihiro Ito)</title>
-        <link>https://speakerdeck.com/chiroito/java-language-future</link>
-        <dc:date>2023-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
