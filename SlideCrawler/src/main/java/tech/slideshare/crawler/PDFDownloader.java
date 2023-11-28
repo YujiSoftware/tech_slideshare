@@ -27,8 +27,8 @@ public class PDFDownloader {
                 // リダイレクトしてログインページなどに飛んでしまうことがある。
                 // その時はダウンロードせず、諦める。
                 String contentType = connection.getHeaderField("Content-Type");
-                if (!contentType.equals("application/pdf")) {
-                    logger.warn("Ignored Content-Type: " + contentType);
+                if (!contentType.equals("application/pdf") && !contentType.equals("binary/octet-stream")) {
+                    logger.warn("Ignored Content-Type: " + contentType + ", URL:" + connection.getURL());
                     return Optional.empty();
                 }
 
