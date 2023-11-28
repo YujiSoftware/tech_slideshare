@@ -4,6 +4,7 @@ import org.apache.pdfbox.Loader;
 import org.apache.pdfbox.io.RandomAccessReadBuffer;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
+import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
@@ -12,6 +13,7 @@ import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.net.HttpURLConnection;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
@@ -29,12 +31,20 @@ public class SpeakerDeckCrawler implements Crawler {
     }
 
     public List<String> crawl(String url) throws IOException {
-        List<String> contents = new ArrayList<>();
+        Document doc;
+        try {
+            doc = Jsoup.connect(url).get();
+        } catch (HttpStatusException e) {
+            // ユーザが削除された場合は、404 NOT FOUND が返ってくる
+            if (e.getStatusCode() == HttpURLConnection.HTTP_NOT_FOUND) {
+                return Collections.emptyList();
+            }
+            throw e;
+        }
 
-        Document doc = Jsoup.connect(url).get();
         Elements elements = doc.select("a[title='Download PDF']");
         if (elements.isEmpty()) {
-            return contents;
+            return Collections.emptyList();
         }
 
         String link = elements.get(0).attr("href");
@@ -55,6 +65,7 @@ public class SpeakerDeckCrawler implements Crawler {
         } catch (InterruptedException ignored) {
         }
 
+        List<String> contents = new ArrayList<>();
         try (InputStream is = Files.newInputStream(fixed)) {
             try (PDDocument document = Loader.loadPDF(new RandomAccessReadBuffer(is))) {
                 PDFTextStripper pdfStripper = new PDFTextStripper();

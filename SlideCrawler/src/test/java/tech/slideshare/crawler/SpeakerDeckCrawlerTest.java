@@ -51,4 +51,12 @@ class SpeakerDeckCrawlerTest {
                 しゃいましたら一緒に対応策を考えてみませんか？
                 おわり""", actual.get(30));
     }
+
+    @Test
+    void notFound() throws IOException {
+        SpeakerDeckCrawler crawler = new SpeakerDeckCrawler();
+        List<String> actual = crawler.crawl("https://speakerdeck.com/tkrplus/bu-que-shi-xing-tozhan-utimu");
+
+        assertEquals(0, actual.size());
+    }
 }
