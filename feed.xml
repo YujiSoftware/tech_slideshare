@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Astroで サクッと作るWebサイト(仮) / Quickly create webpages with Astro (mu2in)</title>
+        <link>https://speakerdeck.com/mu2in/quickly-create-webpages-with-astro</link>
+        <dc:date>2023-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェア設計の トレードオフと誤り</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vSsESeR_qEqudzabbZSiUT9qIoowCJt_kH5xMDwLMNd3CFRHY0Zn5pdGLJUSiBPhqyaeP3zQnGWCLuU/pub</link>
         <dc:date>2023-11-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Python機械学習勉強会in新潟のロゴが無いので、生成AIで作ってみましょう / osc2023niigata (kasacchiful)</title>
         <link>https://speakerdeck.com/kasacchiful/osc2023niigata</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>お客様、そこは秘孔です！突かないでください！ HTTP/2 Rapid reset の概要と対策 (Murachi Akira)</title>
-        <link>https://speakerdeck.com/murachiakira/2-rapid-reset-nogai-yao-todui-ce</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
