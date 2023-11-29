@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェア設計の トレードオフと誤り</title>
+        <link>https://docs.google.com/presentation/u/0/d/e/2PACX-1vSsESeR_qEqudzabbZSiUT9qIoowCJt_kH5xMDwLMNd3CFRHY0Zn5pdGLJUSiBPhqyaeP3zQnGWCLuU/pub</link>
+        <dc:date>2023-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS re:Invent 2023の期間中に出たコンテナアップデート集 (yoshitaka KOITABASHI)</title>
+        <link>https://speakerdeck.com/yoshiitaka/aws-re-invent-2023noqi-jian-zhong-nichu-takontenaatupudetoji</link>
+        <dc:date>2023-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLMを活用した爆速アウトプットのすゝめ / bakusoku-outputs-with-llm (Yuya Matsumura)</title>
+        <link>https://speakerdeck.com/yuya4/bakusoku-outputs-with-llm</link>
+        <dc:date>2023-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロダクトマネジメントのグローバルトレンド #pmconf2023 / Global Trends in Product Management (kyonmm)</title>
+        <link>https://speakerdeck.com/kyonmm/global-trends-in-product-management</link>
+        <dc:date>2023-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>pmconf 2023 プロダクトと事業を無限にスケールするための最強のロードマップの作り方 / The Greatest Roadmap for Unlimited Scaling your Business and Products (yama@muteki)</title>
         <link>https://speakerdeck.com/yamamuteki/the-greatest-roadmap-for-unlimited-scaling-your-business-and-products</link>
         <dc:date>2023-11-28T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>ChatGPT for Developer - 超入門 (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
         <link>https://speakerdeck.com/dahatake/chatgpt-for-developer-chao-ru-men</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>続・時刻の話 (Satoshi G)</title>
-        <link>https://www.docswell.com/s/wind06106/5GXW89-clocktimenext</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230930_Azure Arc対応サーバーの展開と管理/Deployment and Management of Azure Arc Enabled Servers (Norio SASHIZAKI,@sshzk)</title>
-        <link>https://www.docswell.com/s/sshzk/ZNRXDD-2023-10-02-200639</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Arc Updates - 2023年9月版 (Kazuki Takai,@zhuky7)</title>
-        <link>https://www.docswell.com/s/takai/ZGXM34-Azure-Arc-Updates-2023-09</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>拡張セキュリティ更新プログラム (ESU) のおさらい (tamaiyutaro)</title>
-        <link>https://speakerdeck.com/tamaiyutaro/kuo-zhang-sekiyuriteigeng-xin-puroguramu-esu-noosarai</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
