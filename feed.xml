@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェア設計の トレードオフと誤り</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSsESeR_qEqudzabbZSiUT9qIoowCJt_kH5xMDwLMNd3CFRHY0Zn5pdGLJUSiBPhqyaeP3zQnGWCLuU/pub</link>
+        <dc:date>2023-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CPOが開発する覚悟 〜コンパウンドスタートアップにおける、爆速の新規プロダクト開発スタイル〜 (mosa)</title>
         <link>https://speakerdeck.com/mosa_siru/cpogakai-fa-surujue-wu-konpaundosutatoatupuniokeru-bao-su-noxin-gui-purodakutokai-fa-sutairu</link>
         <dc:date>2023-11-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>お客様、そこは秘孔です！突かないでください！ HTTP/2 Rapid reset の概要と対策 (Murachi Akira)</title>
         <link>https://speakerdeck.com/murachiakira/2-rapid-reset-nogai-yao-todui-ce</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>.NET 8世代のBlazorについて (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/dot-net-8shi-dai-noblazornituite</link>
         <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
