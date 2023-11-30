@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIでシステム開発はどう変わるか (Etaro Ito)</title>
+        <link>https://speakerdeck.com/etaroid/sheng-cheng-aidesisutemukai-fa-hadoubian-waruka</link>
+        <dc:date>2023-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>成果が出ないユーザーインタビューは何がダメだったのか？ ～「誰に聞くか」の探り方 ～ (Jou Yukawa)</title>
         <link>https://speakerdeck.com/jouykw/cheng-guo-gachu-naiyuzaintabiyuhahe-gadamedatutanoka-shui-niwen-kuka-notan-rifang</link>
         <dc:date>2023-11-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>visionOSについてGlobeeが取り組んでいること (toshi0383)</title>
         <link>https://speakerdeck.com/toshi0383/visionosnituiteglobeegaqu-rizu-ndeirukoto</link>
         <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現場主導で取り組む継続的な技術的負債の解消 (ham)</title>
-        <link>https://speakerdeck.com/ham0215/xian-chang-zhu-dao-tequ-rizu-muji-sok-de-naji-shu-de-fu-zhai-nojie-xiao</link>
-        <dc:date>2023-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
