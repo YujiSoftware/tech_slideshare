@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>岐阜デザイン勉強会-イントロダクション.pdf (keita)</title>
+        <link>https://speakerdeck.com/keita_yoshikawa/qi-fu-tesainmian-qiang-hui-intorotakusiyon</link>
+        <dc:date>2023-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>岐阜デザイン勉強会-デザインの勉強方法.pdf (keita)</title>
+        <link>https://speakerdeck.com/keita_yoshikawa/qi-fu-tesainmian-qiang-hui-tesainfalsemian-qiang-fang-fa</link>
+        <dc:date>2023-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>岐阜デザイン勉強会-デザインの制作フロー.pdf (keita)</title>
+        <link>https://speakerdeck.com/keita_yoshikawa/qi-fu-tesainmian-qiang-hui-tesainfalsezhi-zuo-huro</link>
+        <dc:date>2023-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AIでシステム開発はどう変わるか (Etaro Ito)</title>
         <link>https://speakerdeck.com/etaroid/sheng-cheng-aidesisutemukai-fa-hadoubian-waruka</link>
         <dc:date>2023-11-29T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>プロが生実演！ 「ユーザーインタビュー」の深掘りテクニックを大公開！ (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/storywriterjp/ss-259728052</link>
         <dc:date>2023-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Exploring Postgres VACUUM with the VACUUM Simulator (Keiko Oda)</title>
-        <link>https://speakerdeck.com/keiko713/exploring-postgres-vacuum-with-the-vacuum-simulator</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Speaker DeckにおけるGoogleスライドのフォントの問題解決/problem solving for google slides 2023 (moriyuya)</title>
-        <link>https://speakerdeck.com/moriyuya/problem-solving-for-google-slides-2023</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>visionOSについてGlobeeが取り組んでいること (toshi0383)</title>
-        <link>https://speakerdeck.com/toshi0383/visionosnituiteglobeegaqu-rizu-ndeirukoto</link>
-        <dc:date>2023-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
