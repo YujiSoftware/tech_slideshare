@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>eBPF でパケットを触ってみよう</title>
+        <link>https://docs.google.com/presentation/d/1z7y2SEF69RMJ4cL5uNOB2Ffk9gUgnGc6ORoA3AS6QNM/preview</link>
+        <dc:date>2023-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>機械学習ソフトウェアにおけるテスト手法 (Hiroki Tsuji)</title>
         <link>https://speakerdeck.com/hitsuji1991/ml-software-test-metamorphic</link>
         <dc:date>2023-11-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>第42回ロボティクス勉強会：実環境を手軽にシミュレータ環境に持ってくるpointcloud2gazebo (atinfinity)</title>
         <link>https://speakerdeck.com/atinfinity/di-42hui-roboteikusumian-qiang-hui-shi-huan-jing-woshou-qing-nisimiyuretahuan-jing-nichi-tutekurupointcloud2gazebo</link>
-        <dc:date>2023-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>君たちはどうプログラミングするか (Hisateru Tanaka)</title>
-        <link>https://speakerdeck.com/tanakahisateru/jun-tatihadoupuroguramingusuruka</link>
         <dc:date>2023-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
