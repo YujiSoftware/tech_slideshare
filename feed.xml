@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>機械学習ソフトウェアにおけるテスト手法 (Hiroki Tsuji)</title>
+        <link>https://speakerdeck.com/hitsuji1991/ml-software-test-metamorphic</link>
+        <dc:date>2023-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CSSパフォーマンスに関する計測結果 (poteboy)</title>
         <link>https://speakerdeck.com/poteboy/csspahuomansuniguan-suruji-ce-jie-guo</link>
         <dc:date>2023-11-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>君たちはどうプログラミングするか (Hisateru Tanaka)</title>
         <link>https://speakerdeck.com/tanakahisateru/jun-tatihadoupuroguramingusuruka</link>
-        <dc:date>2023-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BigQuery のデータ品質やデータ活用を高める Dataplex 等の活用 (GO Inc. dev)</title>
-        <link>https://speakerdeck.com/mot_techtalk/bigquery-nodetapin-zhi-yadetahuo-yong-wogao-meru-dataplex-deng-nohuo-yong</link>
         <dc:date>2023-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
