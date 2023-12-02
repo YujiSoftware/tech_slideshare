@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>device mapperによるディスクI/O障害のエミュレーション (Satoru Takeuchi)</title>
+        <link>https://speakerdeck.com/sat/ozhang-hai-noemiyuresiyon</link>
+        <dc:date>2023-12-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データ不足に数理モデルで立ち向かう / Japan.R 2023 (森下光之助)</title>
         <link>https://speakerdeck.com/dropout009/japan-dot-r-2023</link>
         <dc:date>2023-12-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Astroで サクッと作るWebサイト(仮) / Quickly create webpages with Astro (mu2in)</title>
         <link>https://speakerdeck.com/mu2in/quickly-create-webpages-with-astro</link>
-        <dc:date>2023-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア設計の トレードオフと誤り</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSsESeR_qEqudzabbZSiUT9qIoowCJt_kH5xMDwLMNd3CFRHY0Zn5pdGLJUSiBPhqyaeP3zQnGWCLuU/pub</link>
         <dc:date>2023-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
