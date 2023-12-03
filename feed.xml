@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マルチモーダルLLMの応用動向の論文調査 (masatoto)</title>
+        <link>https://speakerdeck.com/masatoto/marutimodarullmnoying-yong-dong-xiang</link>
+        <dc:date>2023-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>状態空間時系列モデルで見た R と Python の比較 〜 KFAS と statsmodels 〜 (tatamiya)</title>
         <link>https://speakerdeck.com/tatamiya/zhuang-tai-kong-jian-shi-xi-lie-moderudejian-ta-r-to-python-nobi-jiao-kfas-to-statsmodels</link>
         <dc:date>2023-12-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェア設計の トレードオフと誤り</title>
         <link>https://docs.google.com/presentation/u/0/d/e/2PACX-1vSsESeR_qEqudzabbZSiUT9qIoowCJt_kH5xMDwLMNd3CFRHY0Zn5pdGLJUSiBPhqyaeP3zQnGWCLuU/pub</link>
-        <dc:date>2023-11-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS re:Invent 2023の期間中に出たコンテナアップデート集 (yoshitaka KOITABASHI)</title>
-        <link>https://speakerdeck.com/yoshiitaka/aws-re-invent-2023noqi-jian-zhong-nichu-takontenaatupudetoji</link>
         <dc:date>2023-11-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
