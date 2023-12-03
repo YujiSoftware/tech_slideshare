@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>状態空間時系列モデルで見た R と Python の比較 〜 KFAS と statsmodels 〜 (tatamiya)</title>
+        <link>https://speakerdeck.com/tatamiya/zhuang-tai-kong-jian-shi-xi-lie-moderudejian-ta-r-to-python-nobi-jiao-kfas-to-statsmodels</link>
+        <dc:date>2023-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2023-12-01 吉祥寺.pm ベストプラクティスと組織とIaC (SUZUKI Masashi)</title>
+        <link>https://speakerdeck.com/masasuzu/2022-12-01-ji-xiang-si-dot-pm</link>
+        <dc:date>2023-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PMConf2023: シリコンバレーのプロダクトマネージャー達に見る、 覚悟を決めたPMは何が違うのか？ (Haruki)</title>
         <link>https://speakerdeck.com/sonehara/pmconf2023-sirikonbarenopurodakutomaneziyada-nijian-ru-jue-wu-wojue-metapmhahe-gawei-unoka</link>
         <dc:date>2023-12-02T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AWS re:Invent 2023の期間中に出たコンテナアップデート集 (yoshitaka KOITABASHI)</title>
         <link>https://speakerdeck.com/yoshiitaka/aws-re-invent-2023noqi-jian-zhong-nichu-takontenaatupudetoji</link>
-        <dc:date>2023-11-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMを活用した爆速アウトプットのすゝめ / bakusoku-outputs-with-llm (Yuya Matsumura)</title>
-        <link>https://speakerdeck.com/yuya4/bakusoku-outputs-with-llm</link>
-        <dc:date>2023-11-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトマネジメントのグローバルトレンド #pmconf2023 / Global Trends in Product Management (kyonmm)</title>
-        <link>https://speakerdeck.com/kyonmm/global-trends-in-product-management</link>
         <dc:date>2023-11-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
