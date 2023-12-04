@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>APIシナリオテストツールとしてのrunn / 4 API testing tools (Ken’ichiro Oyama)</title>
+        <link>https://speakerdeck.com/k1low/4-api-testing-tools</link>
+        <dc:date>2023-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Don’t use runCatching (LY Corporation Tech)</title>
         <link>https://speakerdeck.com/lycorptech_jp/dont-use-runcatching</link>
         <dc:date>2023-12-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>岐阜デザイン勉強会-デザインの制作フロー.pdf (keita)</title>
         <link>https://speakerdeck.com/keita_yoshikawa/qi-fu-tesainmian-qiang-hui-tesainfalsezhi-zuo-huro</link>
-        <dc:date>2023-11-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIでシステム開発はどう変わるか (Etaro Ito)</title>
-        <link>https://speakerdeck.com/etaroid/sheng-cheng-aidesisutemukai-fa-hadoubian-waruka</link>
         <dc:date>2023-11-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
