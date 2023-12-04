@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Unity Searchを拡張して高度な検索型UIを実現する (trapezoid)</title>
+        <link>https://speakerdeck.com/trapezoid/unity-searchwokuo-zhang-sitegao-du-najian-suo-xing-uiwoshi-xian-suru</link>
+        <dc:date>2023-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Llama.cpp+MetalをM1 Ultraで動かしてみた (Michael Tedder)</title>
         <link>https://speakerdeck.com/falken/llama-dot-cpp-plus-metal-on-m1-ultra</link>
         <dc:date>2023-12-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>岐阜デザイン勉強会-イントロダクション.pdf (keita)</title>
         <link>https://speakerdeck.com/keita_yoshikawa/qi-fu-tesainmian-qiang-hui-intorotakusiyon</link>
-        <dc:date>2023-11-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>岐阜デザイン勉強会-デザインの勉強方法.pdf (keita)</title>
-        <link>https://speakerdeck.com/keita_yoshikawa/qi-fu-tesainmian-qiang-hui-tesainfalsemian-qiang-fang-fa</link>
         <dc:date>2023-11-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
