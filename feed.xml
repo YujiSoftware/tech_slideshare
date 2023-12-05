@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アーキテクチャ刷新の現場 / Scene of architectural renewal (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/scene-of-architectural-renewal</link>
+        <dc:date>2023-12-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20220916RPA Communityさん登壇資料 (Naoto Usami)</title>
         <link>https://speakerdeck.com/naotousami/20220916rpa-communitysandeng-tan-zi-liao</link>
         <dc:date>2023-12-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>明治大学理工学部 特別講義: 2023年のAIの大事な話 - ChatGPT を知ろう - (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
         <link>https://speakerdeck.com/dahatake/ming-zhi-da-xue-li-gong-xue-bu-te-bie-jiang-yi-2023nian-noainoda-shi-nahua-chatgpt-wozhi-rou</link>
-        <dc:date>2023-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>eBPF でパケットを触ってみよう</title>
-        <link>https://docs.google.com/presentation/d/1z7y2SEF69RMJ4cL5uNOB2Ffk9gUgnGc6ORoA3AS6QNM/preview</link>
         <dc:date>2023-11-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
