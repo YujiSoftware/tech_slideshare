@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20220916RPA Communityさん登壇資料 (Naoto Usami)</title>
+        <link>https://speakerdeck.com/naotousami/20220916rpa-communitysandeng-tan-zi-liao</link>
+        <dc:date>2023-12-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>現象と向き合うデザイン @Spectrum Tokyo Festival 2023 (Hirokazu Oda (Dan))</title>
         <link>https://speakerdeck.com/hirokazu_oda/xian-xiang-toxiang-kihe-udezain-at-spectrum-tokyo-festival-2023</link>
         <dc:date>2023-12-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>eBPF でパケットを触ってみよう</title>
         <link>https://docs.google.com/presentation/d/1z7y2SEF69RMJ4cL5uNOB2Ffk9gUgnGc6ORoA3AS6QNM/preview</link>
-        <dc:date>2023-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習ソフトウェアにおけるテスト手法 (Hiroki Tsuji)</title>
-        <link>https://speakerdeck.com/hitsuji1991/ml-software-test-metamorphic</link>
         <dc:date>2023-11-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
