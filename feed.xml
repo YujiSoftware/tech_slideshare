@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>更新”しない”ドキュメント管理 「イミュータブルドキュメントモデル」の実運用 (kosui)</title>
+        <link>https://speakerdeck.com/kosui/immutable-document-model</link>
+        <dc:date>2023-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>めぐろLT20231130_vf_public.pptx</title>
         <link>https://docs.google.com/presentation/d/13OKMo5oZ8dHaZLtRe16Luaalb7WGloLI/preview</link>
         <dc:date>2023-12-05T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>効果検証入門に物申してみた_JapanR_2023 (うとしん)</title>
         <link>https://speakerdeck.com/s1ok69oo/xiao-guo-jian-zheng-ru-men-niwu-shen-sitemita-japanr-2023</link>
         <dc:date>2023-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>device mapperによるディスクI/O障害のエミュレーション (Satoru Takeuchi)</title>
-        <link>https://speakerdeck.com/sat/ozhang-hai-noemiyuresiyon</link>
-        <dc:date>2023-12-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
