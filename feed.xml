@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>状態設計から「なんとなく」を無くそう (Masaki Hara)</title>
+        <link>https://speakerdeck.com/qnighy/modelling-program-states-with-rationale</link>
+        <dc:date>2023-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>C++20からC++23までの変化 (Akira Takahashi)</title>
         <link>https://speakerdeck.com/faithandbrave/c-plus-plus-20karac-plus-plus-23madenobian-hua</link>
         <dc:date>2023-12-06T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>マルチモーダルLLMの応用動向の論文調査 (masatoto)</title>
         <link>https://speakerdeck.com/masatoto/marutimodarullmnoying-yong-dong-xiang</link>
         <dc:date>2023-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>状態空間時系列モデルで見た R と Python の比較 〜 KFAS と statsmodels 〜 (tatamiya)</title>
-        <link>https://speakerdeck.com/tatamiya/zhuang-tai-kong-jian-shi-xi-lie-moderudejian-ta-r-to-python-nobi-jiao-kfas-to-statsmodels</link>
-        <dc:date>2023-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
