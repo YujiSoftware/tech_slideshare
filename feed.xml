@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オンコールよもやま話 / JAWS-UG SRE#7 OnCall Yomoyama (Shoji Shirotori)</title>
+        <link>https://speakerdeck.com/irotoris/jaws-ug-sre-number-7-oncall-yomoyama</link>
+        <dc:date>2023-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>App Runner 実践 (a2-ito)</title>
+        <link>https://speakerdeck.com/a2ito/app-runner-shi-jian</link>
+        <dc:date>2023-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JAWS-UG SRE支部 #7 Security Hubは俺の姑 (Takashi Yamaguchi)</title>
+        <link>https://speakerdeck.com/yamaguchitk333/security-hubhaan-nogu</link>
+        <dc:date>2023-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ALBのアクセスログをAthenaで分析してSLOをゆるく決める (iwamot)</title>
+        <link>https://speakerdeck.com/iwamot/casual-slo-using-alb-and-athena</link>
+        <dc:date>2023-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>EC2 AutoScalingでスケーリングポリシー設定を失敗してうまく行かなった件とその対策 (tessy)</title>
+        <link>https://speakerdeck.com/tessy/ec2-autoscalingtesukerinkuhorisishe-ding-woshi-bai-siteumakuxing-kanatutajian-tosonodui-ce</link>
+        <dc:date>2023-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>小規模組織において、これから一緒にSREを考える仲間を増やすために実践したこと (YuppeEng)</title>
+        <link>https://speakerdeck.com/yuppeeng/xiao-gui-mo-zu-zhi-nioite-korekara-xu-nisrewokao-eruzhong-jian-wozeng-yasutamenishi-jian-sitakoto</link>
+        <dc:date>2023-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>状態設計から「なんとなく」を無くそう (Masaki Hara)</title>
         <link>https://speakerdeck.com/qnighy/modelling-program-states-with-rationale</link>
         <dc:date>2023-12-06T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>デザインをみんなのものに　「デザインの脱植民地化」を日本の文脈で考える (mayunak)</title>
         <link>https://speakerdeck.com/mayunak/dezainwominnanomononi-dezainnotuo-zhi-min-di-hua-wori-ben-nowen-mo-dekao-eru</link>
-        <dc:date>2023-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unity Searchを拡張して高度な検索型UIを実現する (trapezoid)</title>
-        <link>https://speakerdeck.com/trapezoid/unity-searchwokuo-zhang-sitegao-du-najian-suo-xing-uiwoshi-xian-suru</link>
-        <dc:date>2023-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Llama.cpp+MetalをM1 Ultraで動かしてみた (Michael Tedder)</title>
-        <link>https://speakerdeck.com/falken/llama-dot-cpp-plus-metal-on-m1-ultra</link>
-        <dc:date>2023-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>APIシナリオテストツールとしてのrunn / 4 API testing tools (Ken’ichiro Oyama)</title>
-        <link>https://speakerdeck.com/k1low/4-api-testing-tools</link>
-        <dc:date>2023-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Don’t use runCatching (LY Corporation Tech)</title>
-        <link>https://speakerdeck.com/lycorptech_jp/dont-use-runcatching</link>
-        <dc:date>2023-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue &amp; Vite Rustify (kazupon)</title>
-        <link>https://speakerdeck.com/kazupon/vue-and-vite-rustify</link>
-        <dc:date>2023-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マルチモーダルLLMの応用動向の論文調査 (masatoto)</title>
-        <link>https://speakerdeck.com/masatoto/marutimodarullmnoying-yong-dong-xiang</link>
         <dc:date>2023-12-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
