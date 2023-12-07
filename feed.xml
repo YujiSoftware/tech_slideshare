@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>C++20からC++23までの変化 (Akira Takahashi)</title>
+        <link>https://speakerdeck.com/faithandbrave/c-plus-plus-20karac-plus-plus-23madenobian-hua</link>
+        <dc:date>2023-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Repro の開発組織体制の変遷そして Platform Engineering / Platform Engineering Meetup #6 (Takeshi Arabiki)</title>
+        <link>https://speakerdeck.com/a_bicky/platform-engineering-meetup-number-6</link>
+        <dc:date>2023-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPT で自分の仕事がどう楽しくなるのかを考えるネタ集 -2023年12月バージョン- (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
         <link>https://speakerdeck.com/dahatake/chatgpt-dezi-fen-noshi-shi-gadoule-sikunarunokawokao-erunetaji-2023nian-12yue-baziyon</link>
         <dc:date>2023-12-06T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>状態空間時系列モデルで見た R と Python の比較 〜 KFAS と statsmodels 〜 (tatamiya)</title>
         <link>https://speakerdeck.com/tatamiya/zhuang-tai-kong-jian-shi-xi-lie-moderudejian-ta-r-to-python-nobi-jiao-kfas-to-statsmodels</link>
-        <dc:date>2023-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023-12-01 吉祥寺.pm ベストプラクティスと組織とIaC (SUZUKI Masashi)</title>
-        <link>https://speakerdeck.com/masasuzu/2022-12-01-ji-xiang-si-dot-pm</link>
-        <dc:date>2023-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PMConf2023: シリコンバレーのプロダクトマネージャー達に見る、 覚悟を決めたPMは何が違うのか？ (Haruki)</title>
-        <link>https://speakerdeck.com/sonehara/pmconf2023-sirikonbarenopurodakutomaneziyada-nijian-ru-jue-wu-wojue-metapmhahe-gawei-unoka</link>
         <dc:date>2023-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
