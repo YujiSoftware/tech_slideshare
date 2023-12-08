@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CircleCIの高速化🚀 / CircleCI faster (Takumi Shotoku)</title>
+        <link>https://speakerdeck.com/sinsoku/circleci-faster</link>
+        <dc:date>2023-12-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Create / distribute tiled map - JICA seminar 2023 (Taro Matsuzawa aka. btm,@smellman)</title>
         <link>https://www.docswell.com/s/smellman/K7V312-2023-12-07-jica-seminar</link>
         <dc:date>2023-12-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Scenarigoの紹介とそれを利用したメルペイでのインテグレーションテスト実例</title>
         <link>https://docs.google.com/presentation/d/1lsO4ujqnc3tfGQdWUwvmrdltdVBHRRwhjca5-sTUaXo/preview</link>
-        <dc:date>2023-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アーキテクチャ刷新の現場 / Scene of architectural renewal (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/scene-of-architectural-renewal</link>
         <dc:date>2023-12-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
