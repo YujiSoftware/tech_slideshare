@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DevFest Tokyo 2023: Google Cloudでチームで安全にデプロイをする (sakajunquality)</title>
+        <link>https://speakerdeck.com/sakajunquality/devfest-tokyo-2023-introduction-to-cloud-deploy</link>
+        <dc:date>2023-12-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>EMのスケールとマネジメントがチームになるということ / Team Building And Scaling Engineering Managers (Yoshiki Iida)</title>
         <link>https://speakerdeck.com/yoshikiiida/team-building-and-scaling-engineering-managers</link>
         <dc:date>2023-12-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>更新”しない”ドキュメント管理 「イミュータブルドキュメントモデル」の実運用 (kosui)</title>
         <link>https://speakerdeck.com/kosui/immutable-document-model</link>
         <dc:date>2023-12-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>めぐろLT20231130_vf_public.pptx</title>
-        <link>https://docs.google.com/presentation/d/13OKMo5oZ8dHaZLtRe16Luaalb7WGloLI/preview</link>
-        <dc:date>2023-12-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
