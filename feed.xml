@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自らを強いエンジニアにするための3つの習慣 / I need to be myself, I can't be no one else (Shinichi Nakagawa)</title>
+        <link>https://speakerdeck.com/shinyorke/i-need-to-be-myself-i-cant-be-no-one-else</link>
+        <dc:date>2023-12-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Biome is for JavaScripters (unvalley)</title>
         <link>https://speakerdeck.com/unvalley/biome-is-for-javascripters</link>
         <dc:date>2023-12-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>状態設計から「なんとなく」を無くそう (Masaki Hara)</title>
         <link>https://speakerdeck.com/qnighy/modelling-program-states-with-rationale</link>
-        <dc:date>2023-12-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C++20からC++23までの変化 (Akira Takahashi)</title>
-        <link>https://speakerdeck.com/faithandbrave/c-plus-plus-20karac-plus-plus-23madenobian-hua</link>
         <dc:date>2023-12-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
