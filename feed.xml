@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Biome is for JavaScripters (unvalley)</title>
+        <link>https://speakerdeck.com/unvalley/biome-is-for-javascripters</link>
+        <dc:date>2023-12-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアの設計を学び、メンテナンスしやすいテストを作ろう / Learn software design, Create tests that are easy to maintain (Culvert)</title>
         <link>https://speakerdeck.com/culvert/learn-software-design-create-tests-that-are-easy-to-maintain</link>
         <dc:date>2023-12-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>C++20からC++23までの変化 (Akira Takahashi)</title>
         <link>https://speakerdeck.com/faithandbrave/c-plus-plus-20karac-plus-plus-23madenobian-hua</link>
-        <dc:date>2023-12-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Repro の開発組織体制の変遷そして Platform Engineering / Platform Engineering Meetup #6 (Takeshi Arabiki)</title>
-        <link>https://speakerdeck.com/a_bicky/platform-engineering-meetup-number-6</link>
         <dc:date>2023-12-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
