@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オンプレミスRDBのデータをAWSクラウド上の分析基盤に取り込む手法の整理 (Akira Shimosako)</title>
+        <link>https://speakerdeck.com/simosako/onpuremisurdbnodetawoawskuraudoshang-nofen-xi-ji-pan-niqu-riip-mushou-fa-nozheng-li</link>
+        <dc:date>2023-12-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Hono + SvelteKit で 楽々型安全！</title>
         <link>https://docs.google.com/presentation/u/1/d/1sDwzmbSxrI2K5oxmeRsqLV2UnJjOAjE65Q2gKtVTRB4/preview</link>
         <dc:date>2023-12-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>EC2 AutoScalingでスケーリングポリシー設定を失敗してうまく行かなった件とその対策 (tessy)</title>
         <link>https://speakerdeck.com/tessy/ec2-autoscalingtesukerinkuhorisishe-ding-woshi-bai-siteumakuxing-kanatutajian-tosonodui-ce</link>
-        <dc:date>2023-12-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>小規模組織において、これから一緒にSREを考える仲間を増やすために実践したこと (YuppeEng)</title>
-        <link>https://speakerdeck.com/yuppeeng/xiao-gui-mo-zu-zhi-nioite-korekara-xu-nisrewokao-eruzhong-jian-wozeng-yasutamenishi-jian-sitakoto</link>
         <dc:date>2023-12-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
