@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloudflare Pages &amp;amp; Functionsで Astroサイトを運用している話 (Hidetaka Okamoto,@hidetaka_dev)</title>
+        <link>https://www.docswell.com/s/hideokamoto/K38772-cf_online_202307</link>
+        <dc:date>2023-12-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リクルートにおける Platform Engineering / SRE の事例共有 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/platformengineeringmeetup_suganuma</link>
         <dc:date>2023-12-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JAWS-UG SRE支部 #7 Security Hubは俺の姑 (Takashi Yamaguchi)</title>
         <link>https://speakerdeck.com/yamaguchitk333/security-hubhaan-nogu</link>
-        <dc:date>2023-12-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ALBのアクセスログをAthenaで分析してSLOをゆるく決める (iwamot)</title>
-        <link>https://speakerdeck.com/iwamot/casual-slo-using-alb-and-athena</link>
         <dc:date>2023-12-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
