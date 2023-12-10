@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Firebase Hostingを使ってPasskeyをandroidアプリで試してみよう (RyuNen344)</title>
+        <link>https://speakerdeck.com/ryunen344/firebase-hostingwoshi-tutepasskeywoandroidapurideshi-sitemiyou</link>
+        <dc:date>2023-12-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloudflare Pages &amp;amp; Functionsで Astroサイトを運用している話 (Hidetaka Okamoto,@hidetaka_dev)</title>
         <link>https://www.docswell.com/s/hideokamoto/K38772-cf_online_202307</link>
         <dc:date>2023-12-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>App Runner 実践 (a2-ito)</title>
         <link>https://speakerdeck.com/a2ito/app-runner-shi-jian</link>
-        <dc:date>2023-12-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS-UG SRE支部 #7 Security Hubは俺の姑 (Takashi Yamaguchi)</title>
-        <link>https://speakerdeck.com/yamaguchitk333/security-hubhaan-nogu</link>
         <dc:date>2023-12-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
