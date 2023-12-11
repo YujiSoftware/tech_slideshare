@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フルノード職人の朝は早い</title>
+        <link>https://docs.google.com/presentation/d/111-0V-8Cj-AE4QT3S74XNYsltixJf3Pe9Fl4Cz9hZUw/preview</link>
+        <dc:date>2023-12-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Trezor Safe 3 ファーストインプレッション (Toshihide Hara)</title>
+        <link>https://speakerdeck.com/toshihr/trezor-safe-3-huasutoinpuretusiyon</link>
+        <dc:date>2023-12-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Mastering Bitcoin Third Editionの紹介 (Shu Kobuchi)</title>
+        <link>https://speakerdeck.com/shukob/mastering-bitcoin-third-editionnoshao-jie</link>
+        <dc:date>2023-12-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「名前のない仕事」にチームで取り組む–WOLとトラッキングツールの活用- /  The SRE team's approach to unnamed work (mom0tomo)</title>
         <link>https://speakerdeck.com/mom0tomo/the-sre-teams-approach-to-unnamed-work</link>
         <dc:date>2023-12-10T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>Create / distribute tiled map - JICA seminar 2023 (Taro Matsuzawa aka. btm,@smellman)</title>
         <link>https://www.docswell.com/s/smellman/K7V312-2023-12-07-jica-seminar</link>
         <dc:date>2023-12-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>本当にわかりやすいAI入門 (segavvy)</title>
-        <link>https://speakerdeck.com/segavvy/ben-dang-niwakariyasuiairu-men</link>
-        <dc:date>2023-12-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オレオレGithubCopilot を作ろう</title>
-        <link>https://docs.google.com/presentation/d/1Euz4Fr1gMX9CchM2MbexxTIijShCChIJUzDp18349R0/preview</link>
-        <dc:date>2023-12-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンコールよもやま話 / JAWS-UG SRE#7 OnCall Yomoyama (Shoji Shirotori)</title>
-        <link>https://speakerdeck.com/irotoris/jaws-ug-sre-number-7-oncall-yomoyama</link>
-        <dc:date>2023-12-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
