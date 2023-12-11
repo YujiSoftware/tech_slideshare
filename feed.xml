@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kubernetesで構築する大規模時系列データのスケーラブルな分散処理 (LY Corporation Tech)</title>
+        <link>https://speakerdeck.com/lycorptech_jp/scalable-timeseries-database-on-object-storage</link>
+        <dc:date>2023-12-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>決済システム内製化のその先に ～クラウドネイティブな開発を"スケール"させるために必要だったこと / Beyond in-house production of payment systems (suzukij)</title>
+        <link>https://speakerdeck.com/suzukij/beyond-in-house-production-of-payment-systems</link>
+        <dc:date>2023-12-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes the hard way revisited 〜ゼロダウンタイムクラスタ移行から学ぶクラスタ構築の仕組み〜 (LY Corporation Tech)</title>
+        <link>https://speakerdeck.com/lycorptech_jp/kubernetes-the-hard-way-revisited</link>
+        <dc:date>2023-12-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CNDT2023: noteのEKS移設、ゼンブ見せます (varu3)</title>
         <link>https://speakerdeck.com/varu3/cndt2023-notenoeksyi-she-zenbujian-semasu</link>
         <dc:date>2023-12-10T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>リクルートにおける Platform Engineering / SRE の事例共有 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/platformengineeringmeetup_suganuma</link>
-        <dc:date>2023-12-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンプレミスRDBのデータをAWSクラウド上の分析基盤に取り込む手法の整理 (Akira Shimosako)</title>
-        <link>https://speakerdeck.com/simosako/onpuremisurdbnodetawoawskuraudoshang-nofen-xi-ji-pan-niqu-riip-mushou-fa-nozheng-li</link>
-        <dc:date>2023-12-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hono + SvelteKit で 楽々型安全！</title>
-        <link>https://docs.google.com/presentation/u/1/d/1sDwzmbSxrI2K5oxmeRsqLV2UnJjOAjE65Q2gKtVTRB4/preview</link>
-        <dc:date>2023-12-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自らを強いエンジニアにするための3つの習慣 / I need to be myself, I can't be no one else (Shinichi Nakagawa)</title>
-        <link>https://speakerdeck.com/shinyorke/i-need-to-be-myself-i-cant-be-no-one-else</link>
         <dc:date>2023-12-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
