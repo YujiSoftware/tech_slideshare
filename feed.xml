@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「名前のない仕事」にチームで取り組む–WOLとトラッキングツールの活用- /  The SRE team's approach to unnamed work (mom0tomo)</title>
+        <link>https://speakerdeck.com/mom0tomo/the-sre-teams-approach-to-unnamed-work</link>
+        <dc:date>2023-12-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Firebase Hostingを使ってPasskeyをandroidアプリで試してみよう (RyuNen344)</title>
         <link>https://speakerdeck.com/ryunen344/firebase-hostingwoshi-tutepasskeywoandroidapurideshi-sitemiyou</link>
         <dc:date>2023-12-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>オンコールよもやま話 / JAWS-UG SRE#7 OnCall Yomoyama (Shoji Shirotori)</title>
         <link>https://speakerdeck.com/irotoris/jaws-ug-sre-number-7-oncall-yomoyama</link>
-        <dc:date>2023-12-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>App Runner 実践 (a2-ito)</title>
-        <link>https://speakerdeck.com/a2ito/app-runner-shi-jian</link>
         <dc:date>2023-12-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
