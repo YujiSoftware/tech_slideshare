@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NetKit Device (Yutaro Hayakawa)</title>
+        <link>https://speakerdeck.com/yutarohayakawa/netkit-device</link>
+        <dc:date>2023-12-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2023-12-09 New in Angular  (GDG DevFest Tokyo 2023)</title>
         <link>https://docs.google.com/presentation/d/1FGKIQqS2c55rO5JxfSbQyP7aVmlLLLBpZ7orvAmdXHQ/preview</link>
         <dc:date>2023-12-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Biome is for JavaScripters (unvalley)</title>
         <link>https://speakerdeck.com/unvalley/biome-is-for-javascripters</link>
-        <dc:date>2023-12-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアの設計を学び、メンテナンスしやすいテストを作ろう / Learn software design, Create tests that are easy to maintain (Culvert)</title>
-        <link>https://speakerdeck.com/culvert/learn-software-design-create-tests-that-are-easy-to-maintain</link>
         <dc:date>2023-12-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
