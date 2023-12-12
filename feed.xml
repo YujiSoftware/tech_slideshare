@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人工衛星の運用を支えるクラウドネイティブ民主化への取り組み / Efforts toward cloud-native democratization for satellite operations (iselegant)</title>
+        <link>https://speakerdeck.com/iselegant/efforts-toward-cloud-native-democratization-for-satellite-operations</link>
+        <dc:date>2023-12-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>UE5の最新グラフィクスを使いこなすための4個の勘所 [CEDEC+KYUSHU 2023] (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
         <link>https://www.docswell.com/s/EpicGamesJapan/58GDN9-2023-12-11-035814</link>
         <dc:date>2023-12-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Firebase Hostingを使ってPasskeyをandroidアプリで試してみよう (RyuNen344)</title>
         <link>https://speakerdeck.com/ryunen344/firebase-hostingwoshi-tutepasskeywoandroidapurideshi-sitemiyou</link>
-        <dc:date>2023-12-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Pages &amp;amp; Functionsで Astroサイトを運用している話 (Hidetaka Okamoto,@hidetaka_dev)</title>
-        <link>https://www.docswell.com/s/hideokamoto/K38772-cf_online_202307</link>
         <dc:date>2023-12-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
