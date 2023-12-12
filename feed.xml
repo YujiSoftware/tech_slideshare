@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Unlocking Cloud Native Security (Kyohei Mizumoto)</title>
+        <link>https://speakerdeck.com/kyohmizu/unlocking-cloud-native-security</link>
+        <dc:date>2023-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生データを最速で取り込むチャレンジ ~LayerXデータ基盤成長物語 part1~ / Building a data infrastructure that captures raw data at the fastest (Civitaspo)</title>
+        <link>https://speakerdeck.com/civitaspo/building-a-data-infrastructure-that-captures-raw-data-at-the-fastest</link>
+        <dc:date>2023-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>会社PCでrm -rf ~した話 / rm_rf_choron (uhooi)</title>
         <link>https://speakerdeck.com/uhooi/rm-rf-choron</link>
         <dc:date>2023-12-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Robolectric Native Graphics and Roborazzi (takahirom)</title>
         <link>https://speakerdeck.com/takahirom/robolectric-native-graphics-and-roborazzi</link>
-        <dc:date>2023-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevTools Extension 3分クッキング (ashdik)</title>
-        <link>https://speakerdeck.com/daiki1003/devtools-extension-3fen-kutukingu</link>
-        <dc:date>2023-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Firebase Apple SDK 年間ダイジェスト: 2023年 / Firebase Apple SDK Annual Digest: 2023 (treastrain / Tanaka Ryoga)</title>
-        <link>https://speakerdeck.com/treastrain/firebase-apple-sdk-annual-digest-2023</link>
         <dc:date>2023-12-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
