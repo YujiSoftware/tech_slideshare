@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[CNDT2023]イオンがKubernetesを採用してどうなった? (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/cndt2023-ionkakuberneteswocai-yong-sitetounatuta</link>
+        <dc:date>2023-12-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>計測の手間を省きたい！OpenTelemetry に見る”自動計装”のイマ / Getting started auto instrumentation with OpenTelemetry (逆井（さかさい）)</title>
         <link>https://speakerdeck.com/k6s4i53rx/getting-started-auto-instrumentation-with-opentelemetry</link>
         <dc:date>2023-12-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>フルノード職人の朝は早い</title>
         <link>https://docs.google.com/presentation/d/111-0V-8Cj-AE4QT3S74XNYsltixJf3Pe9Fl4Cz9hZUw/preview</link>
-        <dc:date>2023-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Trezor Safe 3 ファーストインプレッション (Toshihide Hara)</title>
-        <link>https://speakerdeck.com/toshihr/trezor-safe-3-huasutoinpuretusiyon</link>
         <dc:date>2023-12-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
