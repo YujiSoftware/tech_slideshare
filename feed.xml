@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今年がんばったこと (Tiny Mouse)</title>
+        <link>https://speakerdeck.com/tinymouse/jin-nian-ganbatutakoto</link>
+        <dc:date>2023-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Node.js v12 を使い続けていたのはなぁぜなぁぜ？ (sadnessOjisan)</title>
         <link>https://speakerdeck.com/sadnessojisan/node-dot-js-v12-woshi-isok-keteitanohanaazenaaze</link>
         <dc:date>2023-12-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2023年のウェブ DevFest 2023 Tokyo</title>
         <link>https://docs.google.com/presentation/d/1ynfqbrsZCOzMwsAh-p80cPRt1P9IjkRCrx6JJoMUELk/preview</link>
-        <dc:date>2023-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Flutter × Jetpack Composeの相互運用 @ GDG Tokyo 2023 (Ryotaro Onoue)</title>
-        <link>https://speakerdeck.com/yumnumm/flutter-x-jetpack-composenoxiang-hu-yun-yong-at-gdg-tokyo-2023</link>
         <dc:date>2023-12-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
