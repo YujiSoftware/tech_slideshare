@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模言語モデルに追加学習で専門知識を教える試み (2023, arXiv:2312.03360) (Kan Hatakeyama,@kanhatakeyama)</title>
+        <link>https://www.docswell.com/s/KanHatakeyama/ZYW6ME-2023-12-09-121017</link>
+        <dc:date>2023-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BigQuery+RedShiftの経験から見るSnowflakeの真価 (Shu Murakami)</title>
+        <link>https://speakerdeck.com/shu22203/bigquery-plus-redshiftnojing-yan-karajian-rusnowflakenozhen-jia</link>
+        <dc:date>2023-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VRTを自炊してコスト削減した話 (JunpeiKawamura)</title>
         <link>https://speakerdeck.com/peijun333/vrtwozi-chui-sitekosutoxue-jian-sitahua</link>
         <dc:date>2023-12-13T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>[CNDT2023]イオンがKubernetesを採用してどうなった? (AEON)</title>
         <link>https://speakerdeck.com/aeonpeople/cndt2023-ionkakuberneteswocai-yong-sitetounatuta</link>
-        <dc:date>2023-12-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>計測の手間を省きたい！OpenTelemetry に見る”自動計装”のイマ / Getting started auto instrumentation with OpenTelemetry (逆井（さかさい）)</title>
-        <link>https://speakerdeck.com/k6s4i53rx/getting-started-auto-instrumentation-with-opentelemetry</link>
-        <dc:date>2023-12-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Behind The Scenes: Cloud Native Storage System for AI (UENISHI Kota)</title>
-        <link>https://speakerdeck.com/kuenishi/behind-the-scenes-cloud-native-storage-system-for-ai</link>
         <dc:date>2023-12-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
