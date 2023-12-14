@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VRTを自炊してコスト削減した話 (JunpeiKawamura)</title>
+        <link>https://speakerdeck.com/peijun333/vrtwozi-chui-sitekosutoxue-jian-sitahua</link>
+        <dc:date>2023-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2023年わたしの発見！.pptx</title>
+        <link>https://docs.google.com/presentation/d/1tCZoi5eZAroVlyNSx450Ko9OdDoIGKRa/preview</link>
+        <dc:date>2023-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RailsからReactを剥がした話 (Riya Amemiya)</title>
+        <link>https://speakerdeck.com/riyaamemiya/railskarareactwobo-gasitahua</link>
+        <dc:date>2023-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WYSIWYGを使って関数計算を可能にした話 (Jonathan Wills)</title>
+        <link>https://speakerdeck.com/johnywills1/wysiwygwoshi-tuteguan-shu-ji-suan-woke-neng-nisitahua</link>
+        <dc:date>2023-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>いつモブるか (やぐはる)</title>
+        <link>https://speakerdeck.com/haruo2177/itumohuruka</link>
+        <dc:date>2023-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>いろんな職種や役割を経験したらコミュニケーションがとりやすくなった話 (acchanAlexander)</title>
+        <link>https://speakerdeck.com/acchanalexander/experiencing-various-jobs-and-roles-communication-has-become-easier</link>
+        <dc:date>2023-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メンティー同士で輪読会を始めたら学びしかなかった (adachin0817)</title>
+        <link>https://speakerdeck.com/rvirus0817/menteitong-shi-delun-du-hui-woshi-metaraxue-bisikanakatuta</link>
+        <dc:date>2023-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テクノロジーエバンジェリストが指南！Postmanの機能を最大限に活用しよう (草薙昭彦)</title>
+        <link>https://speakerdeck.com/nagix/tekunoroziebanzierisutogazhi-nan-postmannoji-neng-wozui-da-xian-nihuo-yong-siyou</link>
+        <dc:date>2023-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postman test scripts でつくるカード決済の非同期処理テスト (ur1bou)</title>
+        <link>https://speakerdeck.com/ur1bou/test-scripts-tetukurukatojue-ji-nofei-tong-qi-chu-li-tesuto</link>
+        <dc:date>2023-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組織全体で開発生産性に取り組むために 専門チームを作った話 (pospome)</title>
         <link>https://speakerdeck.com/pospome/zu-zhi-quan-ti-dekai-fa-sheng-chan-xing-niqu-rizu-mutameni-zhuan-men-timuwozuo-tutahua</link>
         <dc:date>2023-12-13T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>Behind The Scenes: Cloud Native Storage System for AI (UENISHI Kota)</title>
         <link>https://speakerdeck.com/kuenishi/behind-the-scenes-cloud-native-storage-system-for-ai</link>
         <dc:date>2023-12-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIを活用した開発ワークフローの可能性と展望_DeNA_GitHub Universe Recap_20231205 (fumiya okazaki,@okgng)</title>
-        <link>https://www.docswell.com/s/2119490360/5ENVGN-2023-12-05-131500</link>
-        <dc:date>2023-12-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>人工衛星の運用を支えるクラウドネイティブ民主化への取り組み / Efforts toward cloud-native democratization for satellite operations (iselegant)</title>
-        <link>https://speakerdeck.com/iselegant/efforts-toward-cloud-native-democratization-for-satellite-operations</link>
-        <dc:date>2023-12-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UE5の最新グラフィクスを使いこなすための4個の勘所 [CEDEC+KYUSHU 2023] (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
-        <link>https://www.docswell.com/s/EpicGamesJapan/58GDN9-2023-12-11-035814</link>
-        <dc:date>2023-12-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesで構築する大規模時系列データのスケーラブルな分散処理 (LY Corporation Tech)</title>
-        <link>https://speakerdeck.com/lycorptech_jp/scalable-timeseries-database-on-object-storage</link>
-        <dc:date>2023-12-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>決済システム内製化のその先に ～クラウドネイティブな開発を"スケール"させるために必要だったこと / Beyond in-house production of payment systems (suzukij)</title>
-        <link>https://speakerdeck.com/suzukij/beyond-in-house-production-of-payment-systems</link>
-        <dc:date>2023-12-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes the hard way revisited 〜ゼロダウンタイムクラスタ移行から学ぶクラスタ構築の仕組み〜 (LY Corporation Tech)</title>
-        <link>https://speakerdeck.com/lycorptech_jp/kubernetes-the-hard-way-revisited</link>
-        <dc:date>2023-12-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CNDT2023: noteのEKS移設、ゼンブ見せます (varu3)</title>
-        <link>https://speakerdeck.com/varu3/cndt2023-notenoeksyi-she-zenbujian-semasu</link>
-        <dc:date>2023-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NetKit Device (Yutaro Hayakawa)</title>
-        <link>https://speakerdeck.com/yutarohayakawa/netkit-device</link>
-        <dc:date>2023-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023-12-09 New in Angular  (GDG DevFest Tokyo 2023)</title>
-        <link>https://docs.google.com/presentation/d/1FGKIQqS2c55rO5JxfSbQyP7aVmlLLLBpZ7orvAmdXHQ/preview</link>
-        <dc:date>2023-12-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
