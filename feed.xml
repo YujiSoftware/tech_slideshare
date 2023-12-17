@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FlutterKaigi - Everything is an “Element”</title>
+        <link>https://docs.google.com/presentation/d/1oNwingavUPWxbMh95UePU2ESUd57-MOPT8FOXvZtB9s/preview</link>
+        <dc:date>2023-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ameba-incident-management (田中秀樹)</title>
+        <link>https://speakerdeck.com/takosonomono/ameba-incident-management</link>
+        <dc:date>2023-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>イオンが立ち上げる超巨大データ基盤/Super huge data platform launched by AEON (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/super-huge-data-platform-launched-by-aeon</link>
+        <dc:date>2023-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>My journey from Fearless Change to Psychological Safety (Yasunobu Kawaguchi)</title>
+        <link>https://speakerdeck.com/kawaguti/my-journey-from-fearless-change-to-psychological-safety</link>
+        <dc:date>2023-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>不確実な世界で成果をあげる〜変化を抱擁するアジャイル思考 (Yoshihito Kuranuki / 倉貫義人)</title>
+        <link>https://speakerdeck.com/kuranuki/bu-que-shi-nashi-jie-decheng-guo-woageru-bian-hua-wobao-yong-suruaziyairusi-kao</link>
+        <dc:date>2023-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>漢は黙ってjQuery (Potato4d(Hanatani Takuma))</title>
+        <link>https://speakerdeck.com/potato4d/han-hamo-tutejquery</link>
+        <dc:date>2023-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go言語で始めるCloudflare Workers (syumai)</title>
+        <link>https://speakerdeck.com/syumai/godeshi-merucloudflare-workers</link>
+        <dc:date>2023-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>成果の最大化と向き合うEM思考 (shkomine)</title>
+        <link>https://speakerdeck.com/shkomine/cheng-guo-nozui-da-hua-toxiang-kihe-uemsi-kao</link>
+        <dc:date>2023-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AI離れを防ぐ、組織定着化のヒント (SoftBank Tech Night)</title>
+        <link>https://speakerdeck.com/sbtechnight/sheng-cheng-aili-rewofang-gu-zu-zhi-ding-zhao-hua-nohinto</link>
+        <dc:date>2023-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS認定全冠するまでのおすすめの順番 (da-hatakeyama)</title>
+        <link>https://speakerdeck.com/hatahata021/how-to-aws-cert-comp-jawsug-tokyo</link>
+        <dc:date>2023-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>1日50万件貯まるクエリのログを活かして、SQLの生成に挑戦している話 (nagai shinya)</title>
         <link>https://speakerdeck.com/__hiza__/1ri-50mo-jian-zhu-marukuerinorokuwohuo-kasite-sqlnosheng-cheng-nitiao-zhan-siteiruhua</link>
         <dc:date>2023-12-14T15:00:00Z</dc:date>
@@ -54,55 +104,5 @@
         <title>メンティー同士で輪読会を始めたら学びしかなかった (adachin0817)</title>
         <link>https://speakerdeck.com/rvirus0817/menteitong-shi-delun-du-hui-woshi-metaraxue-bisikanakatuta</link>
         <dc:date>2023-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テクノロジーエバンジェリストが指南！Postmanの機能を最大限に活用しよう (草薙昭彦)</title>
-        <link>https://speakerdeck.com/nagix/tekunoroziebanzierisutogazhi-nan-postmannoji-neng-wozui-da-xian-nihuo-yong-siyou</link>
-        <dc:date>2023-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postman test scripts でつくるカード決済の非同期処理テスト (ur1bou)</title>
-        <link>https://speakerdeck.com/ur1bou/test-scripts-tetukurukatojue-ji-nofei-tong-qi-chu-li-tesuto</link>
-        <dc:date>2023-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組織全体で開発生産性に取り組むために 専門チームを作った話 (pospome)</title>
-        <link>https://speakerdeck.com/pospome/zu-zhi-quan-ti-dekai-fa-sheng-chan-xing-niqu-rizu-mutameni-zhuan-men-timuwozuo-tutahua</link>
-        <dc:date>2023-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今年がんばったこと (Tiny Mouse)</title>
-        <link>https://speakerdeck.com/tinymouse/jin-nian-ganbatutakoto</link>
-        <dc:date>2023-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Node.js v12 を使い続けていたのはなぁぜなぁぜ？ (sadnessOjisan)</title>
-        <link>https://speakerdeck.com/sadnessojisan/node-dot-js-v12-woshi-isok-keteitanohanaazenaaze</link>
-        <dc:date>2023-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>日経ID 基盤刷新プロジェクト Melissa/nikkeiid-authlete (日本経済新聞社 エンジニア採用事務局)</title>
-        <link>https://speakerdeck.com/nikkei_engineer_recruiting/nikkeiid-authlete</link>
-        <dc:date>2023-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>100万コンテナのKubernetesプラットフォームを5年間スケーラブルに運用するために乗り越えていること (LY Corporation Tech)</title>
-        <link>https://speakerdeck.com/lycorptech_jp/kubernetes-platform-with-one-million-containers</link>
-        <dc:date>2023-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unlocking Cloud Native Security (Kyohei Mizumoto)</title>
-        <link>https://speakerdeck.com/kyohmizu/unlocking-cloud-native-security</link>
-        <dc:date>2023-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生データを最速で取り込むチャレンジ ~LayerXデータ基盤成長物語 part1~ / Building a data infrastructure that captures raw data at the fastest (Civitaspo)</title>
-        <link>https://speakerdeck.com/civitaspo/building-a-data-infrastructure-that-captures-raw-data-at-the-fastest</link>
-        <dc:date>2023-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>会社PCでrm -rf ~した話 / rm_rf_choron (uhooi)</title>
-        <link>https://speakerdeck.com/uhooi/rm-rf-choron</link>
-        <dc:date>2023-12-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
