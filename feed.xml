@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アンラーニングを体験しよう (na9amura)</title>
+        <link>https://speakerdeck.com/na9amura/anraninguwoti-yan-siyou</link>
+        <dc:date>2023-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20231123 ABC2023Autumn</title>
         <link>https://docs.google.com/presentation/d/17IF52jI8c6wLorPkJBNIMAs1bKhB1dHTTb9Efui7le8/preview</link>
         <dc:date>2023-12-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RailsからReactを剥がした話 (Riya Amemiya)</title>
         <link>https://speakerdeck.com/riyaamemiya/railskarareactwobo-gasitahua</link>
-        <dc:date>2023-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WYSIWYGを使って関数計算を可能にした話 (Jonathan Wills)</title>
-        <link>https://speakerdeck.com/johnywills1/wysiwygwoshi-tuteguan-shu-ji-suan-woke-neng-nisitahua</link>
         <dc:date>2023-12-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
