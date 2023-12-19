@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM in 2023 and 2024 (y_matsuwitter)</title>
+        <link>https://speakerdeck.com/ymatsuwitter/llm-in-2023-and-2024</link>
+        <dc:date>2023-12-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Google &amp; ⽶国Yahoo!の迷惑メール 対策強化について (JPAAWG)</title>
         <link>https://speakerdeck.com/jpaawg/google-and-guo-yahoo-nomi-huo-meru-dui-ce-qiang-hua-nituite</link>
         <dc:date>2023-12-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>1日50万件貯まるクエリのログを活かして、SQLの生成に挑戦している話 (nagai shinya)</title>
         <link>https://speakerdeck.com/__hiza__/1ri-50mo-jian-zhu-marukuerinorokuwohuo-kasite-sqlnosheng-cheng-nitiao-zhan-siteiruhua</link>
         <dc:date>2023-12-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデルに追加学習で専門知識を教える試み (2023, arXiv:2312.03360) (Kan Hatakeyama,@kanhatakeyama)</title>
-        <link>https://www.docswell.com/s/KanHatakeyama/ZYW6ME-2023-12-09-121017</link>
-        <dc:date>2023-12-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
