@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンドの複雑さに立ち向かう / Tackling Complexity of Front-end Software with DDD and Clean Architecture (ダーシノ)</title>
+        <link>https://speakerdeck.com/bcrikko/tackling-complexity-of-front-end-software-with-ddd-and-clean-architecture</link>
+        <dc:date>2023-12-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DynalystのML監視の取り組み事例 (Satsuki Nagae)</title>
         <link>https://speakerdeck.com/nsakki55/dynalystnomljian-shi-noqu-rizu-mishi-li</link>
         <dc:date>2023-12-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>BigQuery+RedShiftの経験から見るSnowflakeの真価 (Shu Murakami)</title>
         <link>https://speakerdeck.com/shu22203/bigquery-plus-redshiftnojing-yan-karajian-rusnowflakenozhen-jia</link>
-        <dc:date>2023-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VRTを自炊してコスト削減した話 (JunpeiKawamura)</title>
-        <link>https://speakerdeck.com/peijun333/vrtwozi-chui-sitekosutoxue-jian-sitahua</link>
         <dc:date>2023-12-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
