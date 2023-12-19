@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モバオクでのリアルタイムレコメンドシステムの紹介 (RyujiTamaki)</title>
+        <link>https://speakerdeck.com/ryujitamaki/mobaokudenoriarutaimurekomendosisutemunoshao-jie</link>
+        <dc:date>2023-12-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLM in 2023 and 2024 (y_matsuwitter)</title>
         <link>https://speakerdeck.com/ymatsuwitter/llm-in-2023-and-2024</link>
         <dc:date>2023-12-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AWS認定全冠するまでのおすすめの順番 (da-hatakeyama)</title>
         <link>https://speakerdeck.com/hatahata021/how-to-aws-cert-comp-jawsug-tokyo</link>
         <dc:date>2023-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>1日50万件貯まるクエリのログを活かして、SQLの生成に挑戦している話 (nagai shinya)</title>
-        <link>https://speakerdeck.com/__hiza__/1ri-50mo-jian-zhu-marukuerinorokuwohuo-kasite-sqlnosheng-cheng-nitiao-zhan-siteiruhua</link>
-        <dc:date>2023-12-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
