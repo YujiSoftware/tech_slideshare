@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Property-based Testing の位置付け / Intro to Property-based Testing (Takuto Wada)</title>
+        <link>https://speakerdeck.com/twada/intro-to-property-based-testing</link>
+        <dc:date>2023-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TiDBとMySQLの互換性改善アップデート (PingCAP-Japan)</title>
         <link>https://speakerdeck.com/pingcap0315/tidbtomysqlnohu-huan-xing-gai-shan-atupudeto</link>
         <dc:date>2023-12-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>FlutterKaigi - Everything is an “Element”</title>
         <link>https://docs.google.com/presentation/d/1oNwingavUPWxbMh95UePU2ESUd57-MOPT8FOXvZtB9s/preview</link>
-        <dc:date>2023-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ameba-incident-management (田中秀樹)</title>
-        <link>https://speakerdeck.com/takosonomono/ameba-incident-management</link>
         <dc:date>2023-12-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
