@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TiDBとMySQLの互換性改善アップデート (PingCAP-Japan)</title>
+        <link>https://speakerdeck.com/pingcap0315/tidbtomysqlnohu-huan-xing-gai-shan-atupudeto</link>
+        <dc:date>2023-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RustでOS開発はじめの一歩 (nasa)</title>
+        <link>https://speakerdeck.com/nasa_desu/rustdeoskai-fa-hazimeno-bu</link>
+        <dc:date>2023-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GPTで進化する働き方を変えるDXサービス / DX services that change the way we work evolving with GPT (Sansan R&amp;D)</title>
         <link>https://speakerdeck.com/sansan_randd/dx-services-that-change-the-way-we-work-evolving-with-gpt</link>
         <dc:date>2023-12-19T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ameba-incident-management (田中秀樹)</title>
         <link>https://speakerdeck.com/takosonomono/ameba-incident-management</link>
-        <dc:date>2023-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>イオンが立ち上げる超巨大データ基盤/Super huge data platform launched by AEON (AEON)</title>
-        <link>https://speakerdeck.com/aeonpeople/super-huge-data-platform-launched-by-aeon</link>
-        <dc:date>2023-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>My journey from Fearless Change to Psychological Safety (Yasunobu Kawaguchi)</title>
-        <link>https://speakerdeck.com/kawaguti/my-journey-from-fearless-change-to-psychological-safety</link>
         <dc:date>2023-12-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
