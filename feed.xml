@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今年1年間の”アウトプット”を振り返る / soudai's output - 2023 (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/soudais-output-2023</link>
+        <dc:date>2023-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kotlin Multiplatformで MIDI 1.0/2.0 ライブラリを作っている話 (Atsushi Eno)</title>
         <link>https://speakerdeck.com/atsushieno/2-dot-0-raiburariwozuo-tuteiruhua</link>
         <dc:date>2023-12-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>VPoEとEM、そして スクラムマスターの道/Relationship between VPoE, EM, and "Scrum Master Way (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/relationship-between-vpoe-em-and-scrum-master-way</link>
-        <dc:date>2023-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>情報工学専攻の中学生・高校生・大学生・専門学校生向け - ChatGPT で何が出来るのか (Daiyu Hatakeyama | @dahatake | 畠山 大有)</title>
-        <link>https://speakerdeck.com/dahatake/qing-bao-gong-xue-zhuan-gong-nozhong-xue-sheng-gao-xiao-sheng-da-xue-sheng-zhuan-men-xue-xiao-sheng-xiang-ke-chatgpt-dehe-gachu-lai-runoka</link>
         <dc:date>2023-12-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
