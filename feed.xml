@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GPTsより精度の高いRAGシステムの構築 (Matsumoto Kazutaka)</title>
+        <link>https://speakerdeck.com/mkazutaka/gptsyorijing-du-nogao-iragsisutemunogou-zhu</link>
+        <dc:date>2023-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Next.jsの今年一年を振り返る (hanetsuki)</title>
         <link>https://speakerdeck.com/hanetsuki/next-dot-jsnojin-nian-nian-wozhen-rifan-ru</link>
         <dc:date>2023-12-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>不確実な世界で成果をあげる〜変化を抱擁するアジャイル思考 (Yoshihito Kuranuki / 倉貫義人)</title>
         <link>https://speakerdeck.com/kuranuki/bu-que-shi-nashi-jie-decheng-guo-woageru-bian-hua-wobao-yong-suruaziyairusi-kao</link>
-        <dc:date>2023-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>漢は黙ってjQuery (Potato4d(Hanatani Takuma))</title>
-        <link>https://speakerdeck.com/potato4d/han-hamo-tutejquery</link>
         <dc:date>2023-12-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
