@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMマルチエージェントを俯瞰する (masatoto)</title>
+        <link>https://speakerdeck.com/masatoto/llmmarutiezientowofu-kan-suru</link>
+        <dc:date>2023-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kubernetesに対する理解を高めてKubernetesの「わからない」を減らそう (bells17)</title>
         <link>https://speakerdeck.com/bells17/kubernetesnidui-suruli-jie-wogao-metekubernetesno-wakaranai-wojian-rasou</link>
         <dc:date>2023-12-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TiDBとMySQLの互換性改善アップデート (PingCAP-Japan)</title>
         <link>https://speakerdeck.com/pingcap0315/tidbtomysqlnohu-huan-xing-gai-shan-atupudeto</link>
-        <dc:date>2023-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RustでOS開発はじめの一歩 (nasa)</title>
-        <link>https://speakerdeck.com/nasa_desu/rustdeoskai-fa-hazimeno-bu</link>
         <dc:date>2023-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
