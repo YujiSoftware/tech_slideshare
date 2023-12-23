@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模言語モデルとそのソフトウェア開発に向けた応用 (Hiroshi Kazato)</title>
+        <link>https://speakerdeck.com/kazato/da-gui-mo-yan-yu-moderutosonosohutoueakai-fa-nixiang-ketaying-yong</link>
+        <dc:date>2023-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発生産性とどう向き合うか | DMM Meetup #39 (Shunsuke Nakao)</title>
         <link>https://speakerdeck.com/noa4021j/kai-fa-sheng-chan-xing-todouxiang-kihe-uka-dmm-meetup-number-39</link>
         <dc:date>2023-12-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GPTsより精度の高いRAGシステムの構築 (Matsumoto Kazutaka)</title>
         <link>https://speakerdeck.com/mkazutaka/gptsyorijing-du-nogao-iragsisutemunogou-zhu</link>
-        <dc:date>2023-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.jsの今年一年を振り返る (hanetsuki)</title>
-        <link>https://speakerdeck.com/hanetsuki/next-dot-jsnojin-nian-nian-wozhen-rifan-ru</link>
         <dc:date>2023-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
