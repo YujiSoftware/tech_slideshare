@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CTO の考え事 (nozayasu)</title>
+        <link>https://speakerdeck.com/nozayasu/cto-nokao-eshi</link>
+        <dc:date>2023-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模言語モデルとそのソフトウェア開発に向けた応用 (Hiroshi Kazato)</title>
         <link>https://speakerdeck.com/kazato/da-gui-mo-yan-yu-moderutosonosohutoueakai-fa-nixiang-ketaying-yong</link>
         <dc:date>2023-12-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GPTで進化する働き方を変えるDXサービス / DX services that change the way we work evolving with GPT (Sansan R&amp;D)</title>
         <link>https://speakerdeck.com/sansan_randd/dx-services-that-change-the-way-we-work-evolving-with-gpt</link>
-        <dc:date>2023-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GPTsより精度の高いRAGシステムの構築 (Matsumoto Kazutaka)</title>
-        <link>https://speakerdeck.com/mkazutaka/gptsyorijing-du-nogao-iragsisutemunogou-zhu</link>
         <dc:date>2023-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
