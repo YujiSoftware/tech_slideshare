@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>pgvectorを使ってChatGPTとPostgreSQLを連携してみよう！（PostgreSQL Conference Japan 2023 発表資料） (NTT DATA Technology &amp; Innovation)</title>
+        <link>https://www.slideshare.net/nttdata-tech/postgresql-pgvector-chatgpt-pgcon23j-nttdata</link>
+        <dc:date>2023-12-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMマルチエージェントを俯瞰する (masatoto)</title>
         <link>https://speakerdeck.com/masatoto/llmmarutiezientowofu-kan-suru</link>
         <dc:date>2023-12-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Property-based Testing の位置付け / Intro to Property-based Testing (Takuto Wada)</title>
         <link>https://speakerdeck.com/twada/intro-to-property-based-testing</link>
-        <dc:date>2023-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TiDBとMySQLの互換性改善アップデート (PingCAP-Japan)</title>
-        <link>https://speakerdeck.com/pingcap0315/tidbtomysqlnohu-huan-xing-gai-shan-atupudeto</link>
         <dc:date>2023-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
