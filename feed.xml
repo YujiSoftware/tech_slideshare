@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BengaluruでLTしてきた (jollyjoester)</title>
+        <link>https://speakerdeck.com/jollyjoester/bengalurudeltsitekita</link>
+        <dc:date>2023-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>同じ様なUIをiOS/Android間で合わせるヒント (Fumiya Sakai)</title>
+        <link>https://speakerdeck.com/fumiyasac0921/androidjian-dehe-waseruhinto</link>
+        <dc:date>2023-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Juno julia-tokyo-20191129</title>
+        <link>https://docs.google.com/presentation/d/1nazmfMO-7LzjZTSrAhB6pOhPERMPl90ZH1podl0BQyE/preview</link>
+        <dc:date>2023-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>汎用AIプログラミングシステムGenを使ってみた (JunKaneko3)</title>
+        <link>https://www.slideshare.net/JunKaneko3/aigen</link>
+        <dc:date>2023-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Turing.jl によるベイジアンなデータ分析 Bayesian Data Analysis with Turing.jl (JuliaTokyo #10) (RyoYamamoto21)</title>
+        <link>https://www.slideshare.net/RyoYamamoto21/bayesian-data-analysis-with-turingjl-julia-tokyo-10</link>
+        <dc:date>2023-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2023-12-24-tokyoex-vol.24</title>
         <link>https://docs.google.com/presentation/d/1AShaXG8wBYZLia6WfecZADF1Gad_1Qlo1YG6bf3V1lc/preview</link>
         <dc:date>2023-12-24T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>NEMTUS_Hackathon_HACK+2024</title>
         <link>https://docs.google.com/presentation/d/1wbozRETAQjZCWuX1pjRlC7GjCoMU1ntx9DmhJcs8_HM/preview</link>
         <dc:date>2023-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023/12/16 NEMTUS Hackathon</title>
-        <link>https://docs.google.com/presentation/d/1DZASsjNNJ8SKObrs-3X7BI6WbEEjB9R9LkMkkOB_K5I/preview</link>
-        <dc:date>2023-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あなたの知らないJetpackの世界 - DroidKaigi.collect { #7@Tokyo } (Tomoki Yamashita)</title>
-        <link>https://speakerdeck.com/tomorrowkey/anatanozhi-ranaijetpacknoshi-jie-droidkaigi-dot-collect-number-7-at-tokyo</link>
-        <dc:date>2023-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TextField 表示スタイル変更の 有効活用例 5 選 (akkie76)</title>
-        <link>https://speakerdeck.com/akkie76/textfield-biao-shi-sutairubian-geng-no-you-xiao-huo-yong-li-5-xuan</link>
-        <dc:date>2023-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>screenWidthDpちょっと 怖いかも、、？？ (takarabe-hamuyatti)</title>
-        <link>https://speakerdeck.com/rabeyatti/screenwidthdptiyotuto-bu-ikamo</link>
-        <dc:date>2023-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DBアーキテクチャの比較と選択  (Sadayuki Furuhashi)</title>
-        <link>https://speakerdeck.com/frsyuki/dbakitekutiyanobi-jiao-toxuan-ze</link>
-        <dc:date>2023-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
