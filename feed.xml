@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JSTQB FL 幻のテスト技法「ユースケーステスト」を学ぶ / Use_case_testing (nihonbuson)</title>
+        <link>https://speakerdeck.com/nihonbuson/use-case-testing</link>
+        <dc:date>2023-12-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データベース論文朝輪のススメ (Takashi HOSHINO)</title>
         <link>https://speakerdeck.com/starpos/detabesulun-wen-zhao-lun-nosusume</link>
         <dc:date>2023-12-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>今年1年間の”アウトプット”を振り返る / soudai's output - 2023 (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/soudais-output-2023</link>
-        <dc:date>2023-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kotlin Multiplatformで MIDI 1.0/2.0 ライブラリを作っている話 (Atsushi Eno)</title>
-        <link>https://speakerdeck.com/atsushieno/2-dot-0-raiburariwozuo-tuteiruhua</link>
         <dc:date>2023-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
