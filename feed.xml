@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>1人システム開発を通じて感じたこと (矢島 達朗 / Tatsuro Yajima)</title>
+        <link>https://speakerdeck.com/tatsuroyajima/1ren-sisutemukai-fa-wotong-zitegan-zitakoto</link>
+        <dc:date>2023-12-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RB05_あーちゃん＆Λ（らむだ） / JPPC20231207RB05 (Λ)</title>
         <link>https://speakerdeck.com/lambda/jppc20231207rb05</link>
         <dc:date>2023-12-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLMマルチエージェントを俯瞰する (masatoto)</title>
         <link>https://speakerdeck.com/masatoto/llmmarutiezientowofu-kan-suru</link>
-        <dc:date>2023-12-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesに対する理解を高めてKubernetesの「わからない」を減らそう (bells17)</title>
-        <link>https://speakerdeck.com/bells17/kubernetesnidui-suruli-jie-wogao-metekubernetesno-wakaranai-wojian-rasou</link>
         <dc:date>2023-12-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
