@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RB05_あーちゃん＆Λ（らむだ） / JPPC20231207RB05 (Λ)</title>
+        <link>https://speakerdeck.com/lambda/jppc20231207rb05</link>
+        <dc:date>2023-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft Copilot Studio について (MiyakeMito)</title>
+        <link>https://speakerdeck.com/miyakemito/microsoft-copilot-studio-nituite</link>
+        <dc:date>2023-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft Fabric と データメッシュ (Ryoma Nagata)</title>
+        <link>https://speakerdeck.com/ryomaru0825/microsoft-fabric-to-detametusiyu</link>
+        <dc:date>2023-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JPPC2023_BI08_セマンティックモデルを覗き見る（公開用） (Akihiro Suto)</title>
+        <link>https://speakerdeck.com/hanaseleb/jppc2023-bi08-semanteitukumoderuwosi-kijian-ru-gong-kai-yong</link>
+        <dc:date>2023-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>徹底解説！Power Platform 導入の成功事例から見る DX 推進のコツ / Tips for DX promotion from Power Platform case studies (Takashi Shinohara)</title>
+        <link>https://speakerdeck.com/karamem0/tips-for-dx-promotion-from-power-platform-case-studies</link>
+        <dc:date>2023-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>トヨタの社内コミュニティについて色々聞いちゃおう ～たった4年の奇跡の軌跡～ (Taichi Nakamura)</title>
+        <link>https://speakerdeck.com/taichinakamura/toyotanoshe-nei-komiyuniteinituitese-wen-itiyaou-tatuta4nian-noqi-ji-nogui-ji</link>
+        <dc:date>2023-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPTを活用したUI勉強会のススメ (都村　美帆)</title>
         <link>https://speakerdeck.com/abokadotyann/chatgptwohuo-yong-sitauimian-qiang-hui-nosusume</link>
         <dc:date>2023-12-25T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>Kubernetesに対する理解を高めてKubernetesの「わからない」を減らそう (bells17)</title>
         <link>https://speakerdeck.com/bells17/kubernetesnidui-suruli-jie-wogao-metekubernetesno-wakaranai-wojian-rasou</link>
         <dc:date>2023-12-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CTO の考え事 (nozayasu)</title>
-        <link>https://speakerdeck.com/nozayasu/cto-nokao-eshi</link>
-        <dc:date>2023-12-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデルとそのソフトウェア開発に向けた応用 (Hiroshi Kazato)</title>
-        <link>https://speakerdeck.com/kazato/da-gui-mo-yan-yu-moderutosonosohutoueakai-fa-nixiang-ketaying-yong</link>
-        <dc:date>2023-12-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発生産性とどう向き合うか | DMM Meetup #39 (Shunsuke Nakao)</title>
-        <link>https://speakerdeck.com/noa4021j/kai-fa-sheng-chan-xing-todouxiang-kihe-uka-dmm-meetup-number-39</link>
-        <dc:date>2023-12-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>速習：LangChainの大きなアップデート（2023年秋〜冬） (os1ma)</title>
-        <link>https://speakerdeck.com/os1ma/su-xi-langchainnoda-kinaatupudeto-2023nian-qiu-dong</link>
-        <dc:date>2023-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Product-Writing (aguri otsuka)</title>
-        <link>https://speakerdeck.com/aguringo/product-writing</link>
-        <dc:date>2023-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発生産性の低下による、事業の失敗はなぜ起こるのか / ProductivityPitfalls (Masato Ishigaki / 石垣雅人)</title>
-        <link>https://speakerdeck.com/i35_267/productivitypitfalls</link>
-        <dc:date>2023-12-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
