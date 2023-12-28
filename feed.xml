@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>現役エンジニア兼採用担当から見たエンジニア採用アンチパターン / Engineer Recruitment Anti-Patterns (Songmu)</title>
+        <link>https://speakerdeck.com/songmu/engineer-recruitment-anti-patterns</link>
+        <dc:date>2023-12-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Target trial emulationの概要 (Shuntaro Sato)</title>
         <link>https://speakerdeck.com/shuntaros/target-trial-emulationnogai-yao</link>
         <dc:date>2023-12-27T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>データベース論文朝輪のススメ (Takashi HOSHINO)</title>
         <link>https://speakerdeck.com/starpos/detabesulun-wen-zhao-lun-nosusume</link>
         <dc:date>2023-12-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>pgvectorを使ってChatGPTとPostgreSQLを連携してみよう！（PostgreSQL Conference Japan 2023 発表資料） (NTT DATA Technology &amp; Innovation)</title>
-        <link>https://www.slideshare.net/nttdata-tech/postgresql-pgvector-chatgpt-pgcon23j-nttdata</link>
-        <dc:date>2023-12-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
