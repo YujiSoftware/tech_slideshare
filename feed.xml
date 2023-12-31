@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2024年のPlatform Engineeringはこうなる(なってほしい) (Kazuto Kusama)</title>
+        <link>https://speakerdeck.com/jacopen/2024nian-noplatform-engineeringhakounaru-natutehosii</link>
+        <dc:date>2023-12-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI PMOを作り途中にピボットを考えている話 (セーヤン)</title>
         <link>https://speakerdeck.com/ikefukurou777/ai-pmowozuo-ritu-zhong-nipibotutowokao-eteiruhua</link>
         <dc:date>2023-12-30T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Turing.jl によるベイジアンなデータ分析 Bayesian Data Analysis with Turing.jl (JuliaTokyo #10) (RyoYamamoto21)</title>
         <link>https://www.slideshare.net/RyoYamamoto21/bayesian-data-analysis-with-turingjl-julia-tokyo-10</link>
         <dc:date>2023-12-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023-12-24-tokyoex-vol.24</title>
-        <link>https://docs.google.com/presentation/d/1AShaXG8wBYZLia6WfecZADF1Gad_1Qlo1YG6bf3V1lc/preview</link>
-        <dc:date>2023-12-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
