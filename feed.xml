@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ChatGPTとKarateで実現するシン・BDD / Realizing New BDD through ChatGPT and Karate (Takanori Suzuki)</title>
+        <link>https://speakerdeck.com/takanorig/realizing-new-bdd-through-chatgpt-and-karate</link>
+        <dc:date>2023-12-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2024年のPlatform Engineeringはこうなる(なってほしい) (Kazuto Kusama)</title>
         <link>https://speakerdeck.com/jacopen/2024nian-noplatform-engineeringhakounaru-natutehosii</link>
         <dc:date>2023-12-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>汎用AIプログラミングシステムGenを使ってみた (JunKaneko3)</title>
         <link>https://www.slideshare.net/JunKaneko3/aigen</link>
-        <dc:date>2023-12-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Turing.jl によるベイジアンなデータ分析 Bayesian Data Analysis with Turing.jl (JuliaTokyo #10) (RyoYamamoto21)</title>
-        <link>https://www.slideshare.net/RyoYamamoto21/bayesian-data-analysis-with-turingjl-julia-tokyo-10</link>
         <dc:date>2023-12-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
