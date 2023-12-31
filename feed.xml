@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[KC3 Meet! vol.1]ちょっとだけわかるPasskey (Yuki Watanabe)</title>
+        <link>https://speakerdeck.com/ukwhatn/kc3-meet-1-passkey</link>
+        <dc:date>2023-12-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ChatGPTとKarateで実現するシン・BDD / Realizing New BDD through ChatGPT and Karate (Takanori Suzuki)</title>
         <link>https://speakerdeck.com/takanorig/realizing-new-bdd-through-chatgpt-and-karate</link>
         <dc:date>2023-12-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Juno julia-tokyo-20191129</title>
         <link>https://docs.google.com/presentation/d/1nazmfMO-7LzjZTSrAhB6pOhPERMPl90ZH1podl0BQyE/preview</link>
-        <dc:date>2023-12-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>汎用AIプログラミングシステムGenを使ってみた (JunKaneko3)</title>
-        <link>https://www.slideshare.net/JunKaneko3/aigen</link>
         <dc:date>2023-12-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
