@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コンテナって何？（Kubernetes入門） (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/kontenatutehe-kubernetesru-men</link>
+        <dc:date>2024-01-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[KC3 Meet! vol.1]ちょっとだけわかるPasskey (Yuki Watanabe)</title>
         <link>https://speakerdeck.com/ukwhatn/kc3-meet-1-passkey</link>
         <dc:date>2023-12-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>同じ様なUIをiOS/Android間で合わせるヒント (Fumiya Sakai)</title>
         <link>https://speakerdeck.com/fumiyasac0921/androidjian-dehe-waseruhinto</link>
-        <dc:date>2023-12-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Juno julia-tokyo-20191129</title>
-        <link>https://docs.google.com/presentation/d/1nazmfMO-7LzjZTSrAhB6pOhPERMPl90ZH1podl0BQyE/preview</link>
         <dc:date>2023-12-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
