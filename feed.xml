@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Javaは今どうなっているの？ / how about java now (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/how-about-java-now</link>
+        <dc:date>2024-01-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Tokyo dbt meetup #7『新規事業でdbtを導入した話』by 渡辺大貴 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/20231218_tokyo-dbt-meetup-no7_dbt-case-study-in-a-new-product_mixi_taiki_watanabe</link>
         <dc:date>2024-01-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Microsoft Copilot Studio について (MiyakeMito)</title>
         <link>https://speakerdeck.com/miyakemito/microsoft-copilot-studio-nituite</link>
-        <dc:date>2023-12-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Fabric と データメッシュ (Ryoma Nagata)</title>
-        <link>https://speakerdeck.com/ryomaru0825/microsoft-fabric-to-detametusiyu</link>
         <dc:date>2023-12-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
