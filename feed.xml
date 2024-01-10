@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発のアジリティ向上のためのシステムリプレイス ~DMM GAMESの事例~ (Kentaro Matsushita)</title>
+        <link>https://speakerdeck.com/kentarom/system-replacement-to-drive-agility-for-software-development</link>
+        <dc:date>2024-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>少しずつキャッチアップしていくAndroidアプリ開発の補足と振り返り (Fumiya Sakai)</title>
         <link>https://www.slideshare.net/fumiyasakai37/android-240434551</link>
         <dc:date>2024-01-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AI PMOを作り途中にピボットを考えている話 (セーヤン)</title>
         <link>https://speakerdeck.com/ikefukurou777/ai-pmowozuo-ritu-zhong-nipibotutowokao-eteiruhua</link>
         <dc:date>2023-12-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アーリースタートアップがCTOを迎えるために EMがやったこと、CTOを迎えてから変わったこと / What EM did for early startups to welcome CTO, and what changed after welcoming CTO (kaminashi, Inc.)</title>
-        <link>https://speakerdeck.com/kaminashi/what-em-did-for-early-startups-to-welcome-cto-and-what-changed-after-welcoming-cto</link>
-        <dc:date>2023-12-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
