@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>202312_キラキラミラクルな呪文でIaCを実現 ～あなたも魔法を使い倒しませんか～ (kidapan)</title>
+        <link>https://speakerdeck.com/kidapan/202312-kirakiramirakurunazhou-wen-deiacwoshi-xian-anatamomo-fa-woshi-idao-simasenka</link>
+        <dc:date>2024-01-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>情シスがMA移行を乗り切るIaC。AWS CDKで楽できたあれこれを語りたい。 (SHINCHI, Takahiro)</title>
+        <link>https://speakerdeck.com/shinchit/qing-sisugamayi-xing-wocheng-riqie-ruiac-aws-cdkdele-dekitaarekorewoyu-ritai</link>
+        <dc:date>2024-01-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IaCジャーニーの紹介 (msato)</title>
+        <link>https://speakerdeck.com/msato/iacziyaninoshao-jie</link>
+        <dc:date>2024-01-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2024年の抱負はアウトプット1割増/GWD-Tokyo (Ichiro Nishiuma)</title>
         <link>https://speakerdeck.com/nishiuma/gwd-tokyo</link>
         <dc:date>2024-01-10T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>目を惹くポートフォリオの8つのポイントと6つのコツ / 8 key points and 6 tips for portfolios (イノツメ / Design Program Manager)</title>
         <link>https://speakerdeck.com/takeshiinotsume/8-key-points-and-6-tips-for-portfolios</link>
         <dc:date>2024-01-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテナって何？（Kubernetes入門） (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/kontenatutehe-kubernetesru-men</link>
-        <dc:date>2024-01-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[KC3 Meet! vol.1]ちょっとだけわかるPasskey (Yuki Watanabe)</title>
-        <link>https://speakerdeck.com/ukwhatn/kc3-meet-1-passkey</link>
-        <dc:date>2023-12-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTとKarateで実現するシン・BDD / Realizing New BDD through ChatGPT and Karate (Takanori Suzuki)</title>
-        <link>https://speakerdeck.com/takanorig/realizing-new-bdd-through-chatgpt-and-karate</link>
-        <dc:date>2023-12-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
