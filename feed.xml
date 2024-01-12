@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHPerのためのOpenTelemetry入門 (Kazuhiko Yamashita)</title>
+        <link>https://speakerdeck.com/pyama86/phpernotamenoopentelemetryru-men</link>
+        <dc:date>2024-01-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>よいチームをよい雰囲気を保ったままよい組織にスケールさせていくためにできること / What you can do to scale a good team into a good organization (TAKAKING22)</title>
         <link>https://speakerdeck.com/takaking22/what-you-can-do-to-scale-a-good-team-into-a-good-organization</link>
         <dc:date>2024-01-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Javaは今どうなっているの？ / how about java now (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/how-about-java-now</link>
-        <dc:date>2024-01-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tokyo dbt meetup #7『新規事業でdbtを導入した話』by 渡辺大貴 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/20231218_tokyo-dbt-meetup-no7_dbt-case-study-in-a-new-product_mixi_taiki_watanabe</link>
         <dc:date>2024-01-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
