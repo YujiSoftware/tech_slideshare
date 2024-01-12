@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>A Philosophy of Software Design 2nd Ed (suchi)</title>
+        <link>https://speakerdeck.com/suchi/a-philosophy-of-software-design-2nd-ed</link>
+        <dc:date>2024-01-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PHPerのためのOpenTelemetry入門 (Kazuhiko Yamashita)</title>
         <link>https://speakerdeck.com/pyama86/phpernotamenoopentelemetryru-men</link>
         <dc:date>2024-01-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>抜擢されるには (Ryuya Nakamura)</title>
         <link>https://speakerdeck.com/nrryuya/ba-zhuo-sareruniha</link>
         <dc:date>2024-01-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Javaは今どうなっているの？ / how about java now (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/how-about-java-now</link>
-        <dc:date>2024-01-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
