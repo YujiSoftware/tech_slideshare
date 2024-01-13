@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>#phpcondo 新しくEMやってみる人にオススメしたい本を5分で25冊紹介する (hideki kinjyo)</title>
+        <link>https://speakerdeck.com/o0h/phpcondo-lt</link>
+        <dc:date>2024-01-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アジャイル開発で役立つセキュリティプラクティス / Agile Security Practice (aki.m)</title>
         <link>https://speakerdeck.com/aki_moon/agile-security-practice</link>
         <dc:date>2024-01-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>How to use HorizonCalendar (Akio Itaya)</title>
         <link>https://speakerdeck.com/akkeylab/how-to-use-horizoncalendar</link>
-        <dc:date>2024-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI×医用画像の現状と可能性_2023年版/AI×medical_imaging_in_japan_2023 (YoshihiroTodoroki)</title>
-        <link>https://speakerdeck.com/tdys13/aixmedical-imaging-in-japan-2023</link>
         <dc:date>2024-01-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
