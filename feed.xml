@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュリティ対策はじめました。​ ～やったこと紹介～​ (hikari)</title>
+        <link>https://speakerdeck.com/kgnkhkr/sekiyuriteidui-ce-hazimemasita-yatutakotoshao-jie</link>
+        <dc:date>2024-01-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Parsing Javascript (Taketoshi Aono(青野健利 a.k.a brn))</title>
+        <link>https://speakerdeck.com/brn/parsing-javascript</link>
+        <dc:date>2024-01-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScriptとDocumentaion tests / Documentation tests with TypeScript (TOMIKAWA Sotaro)</title>
+        <link>https://speakerdeck.com/ssssota/documentation-tests-with-typescript</link>
+        <dc:date>2024-01-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コードを計測することで捉える問題点 / phpcondo2024 (blue_goheimochi)</title>
         <link>https://speakerdeck.com/blue_goheimochi/phpcondo2024</link>
         <dc:date>2024-01-12T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>202312_キラキラミラクルな呪文でIaCを実現 ～あなたも魔法を使い倒しませんか～ (kidapan)</title>
         <link>https://speakerdeck.com/kidapan/202312-kirakiramirakurunazhou-wen-deiacwoshi-xian-anatamomo-fa-woshi-idao-simasenka</link>
-        <dc:date>2024-01-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>情シスがMA移行を乗り切るIaC。AWS CDKで楽できたあれこれを語りたい。 (SHINCHI, Takahiro)</title>
-        <link>https://speakerdeck.com/shinchit/qing-sisugamayi-xing-wocheng-riqie-ruiac-aws-cdkdele-dekitaarekorewoyu-ritai</link>
-        <dc:date>2024-01-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IaCジャーニーの紹介 (msato)</title>
-        <link>https://speakerdeck.com/msato/iacziyaninoshao-jie</link>
-        <dc:date>2024-01-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024年の抱負はアウトプット1割増/GWD-Tokyo (Ichiro Nishiuma)</title>
-        <link>https://speakerdeck.com/nishiuma/gwd-tokyo</link>
         <dc:date>2024-01-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
