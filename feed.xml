@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>失敗例から学ぶSOLID原則 (asumikam)</title>
+        <link>https://speakerdeck.com/asumikam/failure-example-solid</link>
+        <dc:date>2024-01-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ベテランのバグ調査の秘訣、こっそり教えちゃいます。 (Hiromi Hishida)</title>
         <link>https://speakerdeck.com/77web/beterannobagudiao-cha-nomi-jue-kotusorijiao-etiyaimasu</link>
         <dc:date>2024-01-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>機械学習を「社会実装」するということ 2024年版 / Social Implementation of Machine Learning 2024 (Moe Uchiike（内池 もえ）)</title>
         <link>https://speakerdeck.com/moepy_stats/social-implementation-of-machine-learning-2024</link>
-        <dc:date>2024-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発のアジリティ向上のためのシステムリプレイス ~DMM GAMESの事例~ (Kentaro Matsushita)</title>
-        <link>https://speakerdeck.com/kentarom/system-replacement-to-drive-agility-for-software-development</link>
         <dc:date>2024-01-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
