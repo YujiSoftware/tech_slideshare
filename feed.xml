@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>正直であることから始める / Start by being honest. (Pauli)</title>
+        <link>https://speakerdeck.com/pauli/start-by-being-honest</link>
+        <dc:date>2024-01-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実録レガシーコード改善 / Working with Legacy Code: the True Record (Takuto Wada)</title>
         <link>https://speakerdeck.com/twada/working-with-legacy-code-the-true-record</link>
         <dc:date>2024-01-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>初代プリウスにみるアジャイル開発の要素と現代の環境での進め方について (Shin)</title>
         <link>https://speakerdeck.com/shinichitakeuchi/chu-dai-puriusunimiruaziyairukai-fa-noyao-su-toxian-dai-nohuan-jing-denojin-mefang-nituite</link>
-        <dc:date>2024-01-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>A Philosophy of Software Design 2nd Ed (suchi)</title>
-        <link>https://speakerdeck.com/suchi/a-philosophy-of-software-design-2nd-ed</link>
         <dc:date>2024-01-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
