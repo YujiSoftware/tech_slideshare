@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Web — Pepabo Designer’s Meeting #24 (shikakun)</title>
+        <link>https://speakerdeck.com/shikakun/web</link>
+        <dc:date>2024-01-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「DI」と仲良くなる (Masaru Yamagishi)</title>
         <link>https://speakerdeck.com/myamagishi/di-tozhong-liang-kunaru</link>
         <dc:date>2024-01-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>PHPerのためのOpenTelemetry入門 (Kazuhiko Yamashita)</title>
         <link>https://speakerdeck.com/pyama86/phpernotamenoopentelemetryru-men</link>
-        <dc:date>2024-01-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>よいチームをよい雰囲気を保ったままよい組織にスケールさせていくためにできること / What you can do to scale a good team into a good organization (TAKAKING22)</title>
-        <link>https://speakerdeck.com/takaking22/what-you-can-do-to-scale-a-good-team-into-a-good-organization</link>
         <dc:date>2024-01-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
