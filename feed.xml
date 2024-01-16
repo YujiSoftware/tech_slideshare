@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DjangoのORMを触るあるSQLおじさんの悩み (Chihiro Kaneko)</title>
+        <link>https://speakerdeck.com/hirokinko/djangofalseormwohong-ruarusqlozisanfalsenao-mi</link>
+        <dc:date>2024-01-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>UserAgentに依存した分岐を捨てられるか (または何故捨てられていないのか) (pastak)</title>
         <link>https://speakerdeck.com/pastak/useragentniyi-cun-sitafen-qi-woshe-terareruka-matahahe-gu-she-terareteinainoka</link>
         <dc:date>2024-01-14T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>#phpcondo 新しくEMやってみる人にオススメしたい本を5分で25冊紹介する (hideki kinjyo)</title>
         <link>https://speakerdeck.com/o0h/phpcondo-lt</link>
         <dc:date>2024-01-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイル開発で役立つセキュリティプラクティス / Agile Security Practice (aki.m)</title>
-        <link>https://speakerdeck.com/aki_moon/agile-security-practice</link>
-        <dc:date>2024-01-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
