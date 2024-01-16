@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20220618_Microsoft Formsのフォームに回答していないひとに対する催促を自動化した話 (わたるふ,@wataruf01)</title>
+        <link>https://www.docswell.com/s/wataruf01/K1E2LZ-2022-06-18-215537</link>
+        <dc:date>2024-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Power Automateドリブンのチームマネジメント (Akihiro Suto)</title>
+        <link>https://speakerdeck.com/hanaseleb/power-automatedoribunfalsetimumanezimento</link>
+        <dc:date>2024-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Power AutomateとPower BI連携で 気ままにダイエット (石川 陽一 Yoichi Ishikawa,@ishiayaya)</title>
+        <link>https://www.docswell.com/s/ishiayaya/KVY6DK-diet</link>
+        <dc:date>2024-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREこのへんで苦戦しがちじゃないですか？ (Toshiaki Baba)</title>
         <link>https://speakerdeck.com/netmarkjp/srekonohenteku-zhan-sikatisiyanaitesuka</link>
         <dc:date>2024-01-15T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>TypeScriptとDocumentaion tests / Documentation tests with TypeScript (TOMIKAWA Sotaro)</title>
         <link>https://speakerdeck.com/ssssota/documentation-tests-with-typescript</link>
         <dc:date>2024-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードを計測することで捉える問題点 / phpcondo2024 (blue_goheimochi)</title>
-        <link>https://speakerdeck.com/blue_goheimochi/phpcondo2024</link>
-        <dc:date>2024-01-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>失敗例から学ぶSOLID原則 (asumikam)</title>
-        <link>https://speakerdeck.com/asumikam/failure-example-solid</link>
-        <dc:date>2024-01-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ベテランのバグ調査の秘訣、こっそり教えちゃいます。 (Hiromi Hishida)</title>
-        <link>https://speakerdeck.com/77web/beterannobagudiao-cha-nomi-jue-kotusorijiao-etiyaimasu</link>
-        <dc:date>2024-01-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
