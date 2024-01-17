@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2024年に描く青写真(データアーキテクチャ) / strongest-data-architecture-discussion-2024 (Jumpei Chikamori)</title>
+        <link>https://speakerdeck.com/pei0804/strongest-data-architecture-discussion-2024</link>
+        <dc:date>2024-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20220618_Microsoft Formsのフォームに回答していないひとに対する催促を自動化した話 (わたるふ,@wataruf01)</title>
         <link>https://www.docswell.com/s/wataruf01/K1E2LZ-2022-06-18-215537</link>
         <dc:date>2024-01-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Parsing Javascript (Taketoshi Aono(青野健利 a.k.a brn))</title>
         <link>https://speakerdeck.com/brn/parsing-javascript</link>
-        <dc:date>2024-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptとDocumentaion tests / Documentation tests with TypeScript (TOMIKAWA Sotaro)</title>
-        <link>https://speakerdeck.com/ssssota/documentation-tests-with-typescript</link>
         <dc:date>2024-01-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
