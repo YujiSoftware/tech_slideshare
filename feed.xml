@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Semantic Kernelのすすめ (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/semantic-kernelnosusume</link>
+        <dc:date>2024-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最速でサービス復旧をするための備え (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20240116</link>
         <dc:date>2024-01-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ありがとう、create-react-app (utagawa kiki)</title>
         <link>https://speakerdeck.com/utgwkk/arigatou-create-react-app</link>
-        <dc:date>2024-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure OpenAIと周辺機能を活用して​ 堅牢なLLMアプリケーションを開発しよう​ (07JP27)</title>
-        <link>https://speakerdeck.com/07jp27/azure-openaitozhou-bian-ji-neng-wohuo-yong-site-jian-lao-nallmapurikesiyonwokai-fa-siyou</link>
         <dc:date>2024-01-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
