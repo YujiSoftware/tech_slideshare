@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>カンファレンスから見る SRE トレンド 2024 / SRE Trends from Conferences in 2024 #SRE_Findy (rrreeeyyy)</title>
+        <link>https://speakerdeck.com/rrreeeyyy/sre-trends-from-conferences-in-2024-number-sre-findy</link>
+        <dc:date>2024-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SRE を立ち上げた4ヶ月後の世界 (ryurock)</title>
+        <link>https://speakerdeck.com/ryurock/sre-woli-tishang-geta4keyue-hou-noshi-jie</link>
+        <dc:date>2024-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2024年に描く青写真(データアーキテクチャ) / strongest-data-architecture-discussion-2024 (Jumpei Chikamori)</title>
         <link>https://speakerdeck.com/pei0804/strongest-data-architecture-discussion-2024</link>
         <dc:date>2024-01-16T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Unreal Engine 5 における レンダリング &amp;amp; デバッグTips (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
         <link>https://www.docswell.com/s/EpicGamesJapan/5Q8Q67-2023-12-21-185240</link>
-        <dc:date>2024-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ対策はじめました。​ ～やったこと紹介～​ (hikari)</title>
-        <link>https://speakerdeck.com/kgnkhkr/sekiyuriteidui-ce-hazimemasita-yatutakotoshao-jie</link>
-        <dc:date>2024-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Parsing Javascript (Taketoshi Aono(青野健利 a.k.a brn))</title>
-        <link>https://speakerdeck.com/brn/parsing-javascript</link>
         <dc:date>2024-01-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
