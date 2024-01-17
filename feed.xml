@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>透過型SMTPプロキシによる送信メールの可観測性向上 / Improved observability of outgoing emails with transparent smtp proxy (linyows)</title>
+        <link>https://speakerdeck.com/linyows/improved-observability-of-outgoing-emails-with-transparent-smtp-proxy</link>
+        <dc:date>2024-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアはどのようにドメインにダイブできるか (Matsumoto Moeka)</title>
+        <link>https://speakerdeck.com/moeka__c/ensiniahatonoyounitomeinnitaihutekiruka</link>
+        <dc:date>2024-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Semantic Kernelのすすめ (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/semantic-kernelnosusume</link>
         <dc:date>2024-01-16T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>【Λ（らむだ）】勉強会に参加していつのまにリスキリング20240113 / AzureTravelers20240113 (Λ)</title>
         <link>https://speakerdeck.com/lambda/azuretravelers20240113</link>
         <dc:date>2024-01-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Policyから始めるガバナンス (Jun Kudo)</title>
-        <link>https://speakerdeck.com/jkudo/azure-policykarashi-merugabanansu</link>
-        <dc:date>2024-01-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ありがとう、create-react-app (utagawa kiki)</title>
-        <link>https://speakerdeck.com/utgwkk/arigatou-create-react-app</link>
-        <dc:date>2024-01-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
