@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サービスを軌道に乗せるまで一人でやったすべてのこと (Terai Shogo)</title>
+        <link>https://speakerdeck.com/krpk1900/individual-development</link>
+        <dc:date>2024-01-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アジャイルの価値を活かせる受託開発案件の取り方・始め方 (Arata Fujimura,@aratafuji)</title>
         <link>https://www.docswell.com/s/aratafuji/54Q7MN-rsgt2024-aratafuji</link>
         <dc:date>2024-01-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>正直であることから始める / Start by being honest. (Pauli)</title>
         <link>https://speakerdeck.com/pauli/start-by-being-honest</link>
-        <dc:date>2024-01-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実録レガシーコード改善 / Working with Legacy Code: the True Record (Takuto Wada)</title>
-        <link>https://speakerdeck.com/twada/working-with-legacy-code-the-true-record</link>
         <dc:date>2024-01-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
