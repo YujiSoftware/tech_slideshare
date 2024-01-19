@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リンゴゲームと貧富の差 / Origin of the disparity of wealth (kaityo256)</title>
+        <link>https://speakerdeck.com/kaityo256/origin-of-the-disparity-of-wealth</link>
+        <dc:date>2024-01-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2022-03-25 意図的な学習につながる仕掛けのつくり方</title>
         <link>https://docs.google.com/presentation/d/1qaNofECrbB9v4weKYLcwVeiQ4erAn7sgLv6n2TrE-oQ/preview</link>
         <dc:date>2024-01-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>DjangoのORMを触るあるSQLおじさんの悩み (Chihiro Kaneko)</title>
         <link>https://speakerdeck.com/hirokinko/djangofalseormwohong-ruarusqlozisanfalsenao-mi</link>
         <dc:date>2024-01-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UserAgentに依存した分岐を捨てられるか (または何故捨てられていないのか) (pastak)</title>
-        <link>https://speakerdeck.com/pastak/useragentniyi-cun-sitafen-qi-woshe-terareruka-matahahe-gu-she-terareteinainoka</link>
-        <dc:date>2024-01-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
