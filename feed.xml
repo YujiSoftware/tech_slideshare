@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Databricksで築く未来のデータメッシュ組織/The Datamesh Organization  Built with Databricks (kakehashi)</title>
+        <link>https://speakerdeck.com/kakehashi/the-datamesh-organization-built-with-databricks</link>
+        <dc:date>2024-01-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リンゴゲームと貧富の差 / Origin of the disparity of wealth (kaityo256)</title>
         <link>https://speakerdeck.com/kaityo256/origin-of-the-disparity-of-wealth</link>
         <dc:date>2024-01-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>UX デザインとは何だったのか / What Was UX Design All About? (Spectrum Tokyo)</title>
         <link>https://speakerdeck.com/spectrumtokyo/7363155f1cb1697221087a247d2c7bde</link>
-        <dc:date>2024-01-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DjangoのORMを触るあるSQLおじさんの悩み (Chihiro Kaneko)</title>
-        <link>https://speakerdeck.com/hirokinko/djangofalseormwohong-ruarusqlozisanfalsenao-mi</link>
         <dc:date>2024-01-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
