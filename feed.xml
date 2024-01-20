@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Re:cap container Services (yoshitaka KOITABASHI)</title>
+        <link>https://speakerdeck.com/yoshiitaka/re-cap-container-services</link>
+        <dc:date>2024-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LALR parser generatorの作り方 (yui-knk)</title>
         <link>https://speakerdeck.com/yui_knk/lalr-parser-generatornozuo-rifang</link>
         <dc:date>2024-01-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エンジニアはどのようにドメインにダイブできるか (Matsumoto Moeka)</title>
         <link>https://speakerdeck.com/moeka__c/ensiniahatonoyounitomeinnitaihutekiruka</link>
-        <dc:date>2024-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Semantic Kernelのすすめ (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/semantic-kernelnosusume</link>
         <dc:date>2024-01-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
