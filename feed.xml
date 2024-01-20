@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Turso を Deno Deploy で触ってみる (虎の穴ラボ株式会社)</title>
+        <link>https://speakerdeck.com/toranoana/turso-wo-deno-deploy-dehong-tutemiru</link>
+        <dc:date>2024-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Re:cap container Services (yoshitaka KOITABASHI)</title>
         <link>https://speakerdeck.com/yoshiitaka/re-cap-container-services</link>
         <dc:date>2024-01-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>透過型SMTPプロキシによる送信メールの可観測性向上 / Improved observability of outgoing emails with transparent smtp proxy (linyows)</title>
         <link>https://speakerdeck.com/linyows/improved-observability-of-outgoing-emails-with-transparent-smtp-proxy</link>
-        <dc:date>2024-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアはどのようにドメインにダイブできるか (Matsumoto Moeka)</title>
-        <link>https://speakerdeck.com/moeka__c/ensiniahatonoyounitomeinnitaihutekiruka</link>
         <dc:date>2024-01-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
