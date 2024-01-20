@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Asynchronous over Synchronous / 同期という思い込み 世界は非同期で構成されている (kensh)</title>
+        <link>https://speakerdeck.com/_kensh/asynchronous-over-synchronous</link>
+        <dc:date>2024-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Why doesn't Ruby have Boolean class? (Masafumi Okura)</title>
+        <link>https://speakerdeck.com/okuramasafumi/why-doesnt-ruby-have-boolean-class</link>
+        <dc:date>2024-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>re:Invent 2023で感じたセキュリティの民主化と生成AI活用の未来 / The future of security democratization and generative AI as I felt at re:Invent 2023 (Yuji Oshima)</title>
         <link>https://speakerdeck.com/yuj1osm/the-future-of-security-democratization-and-generative-ai-as-i-felt-at-re-invent-2023</link>
         <dc:date>2024-01-19T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>カンファレンスから見る SRE トレンド 2024 / SRE Trends from Conferences in 2024 #SRE_Findy (rrreeeyyy)</title>
         <link>https://speakerdeck.com/rrreeeyyy/sre-trends-from-conferences-in-2024-number-sre-findy</link>
-        <dc:date>2024-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SRE を立ち上げた4ヶ月後の世界 (ryurock)</title>
-        <link>https://speakerdeck.com/ryurock/sre-woli-tishang-geta4keyue-hou-noshi-jie</link>
-        <dc:date>2024-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024年に描く青写真(データアーキテクチャ) / strongest-data-architecture-discussion-2024 (Jumpei Chikamori)</title>
-        <link>https://speakerdeck.com/pei0804/strongest-data-architecture-discussion-2024</link>
         <dc:date>2024-01-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
