@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践！Micro Frontends！~ kintone の共通ヘッダーは独立したデプロイの夢を見るか? ~ (Atsusuke)</title>
+        <link>https://speakerdeck.com/kuroppe1819/shi-jian-micro-frontends-kintone-nogong-tong-hetudahadu-li-sitadepuroinomeng-wojian-ruka</link>
+        <dc:date>2024-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今こそ、ラムダ式を考える - ラムダ式はどうやって動くのか (Yuichi.Sakuraba)</title>
+        <link>https://speakerdeck.com/skrb/jin-koso-ramudashi-wokao-eru-ramudashi-hadouyatutedong-kunoka</link>
+        <dc:date>2024-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Turso を Deno Deploy で触ってみる (虎の穴ラボ株式会社)</title>
         <link>https://speakerdeck.com/toranoana/turso-wo-deno-deploy-dehong-tutemiru</link>
         <dc:date>2024-01-20T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>実践！データセントリックなAIモデル開発 (ryoKaz)</title>
         <link>https://speakerdeck.com/ryokazami/shi-jian-tetasentoritukunaaimoterukai-fa</link>
         <dc:date>2024-01-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>控えめな App Router と持続可能な開発 - PWA Night vol.59 (Ayumu Sato)</title>
-        <link>https://speakerdeck.com/ahomu/kong-emena-app-router-tochi-sok-ke-neng-nakai-fa</link>
-        <dc:date>2024-01-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>透過型SMTPプロキシによる送信メールの可観測性向上 / Improved observability of outgoing emails with transparent smtp proxy (linyows)</title>
-        <link>https://speakerdeck.com/linyows/improved-observability-of-outgoing-emails-with-transparent-smtp-proxy</link>
-        <dc:date>2024-01-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
