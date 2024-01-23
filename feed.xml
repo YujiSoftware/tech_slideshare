@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今さら聞けないdbtの基本LT (Gaku TASHIRO)</title>
+        <link>https://speakerdeck.com/gak_t12/jin-sarawen-kenaidbtnoji-ben-lt</link>
+        <dc:date>2024-01-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ネットワーク科学で挑戦するゲームマーケティング改革 (RyoAdachi)</title>
         <link>https://www.slideshare.net/RyoAdachi/ss-238385632</link>
         <dc:date>2024-01-22T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Turso を Deno Deploy で触ってみる (虎の穴ラボ株式会社)</title>
         <link>https://speakerdeck.com/toranoana/turso-wo-deno-deploy-dehong-tutemiru</link>
         <dc:date>2024-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Re:cap container Services (yoshitaka KOITABASHI)</title>
-        <link>https://speakerdeck.com/yoshiitaka/re-cap-container-services</link>
-        <dc:date>2024-01-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
