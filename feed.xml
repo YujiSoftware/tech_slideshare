@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模言語モデル入門_第三章 (Masayuki Komai)</title>
+        <link>https://speakerdeck.com/rindybell/da-gui-mo-yan-yu-moderuru-men-di-san-zhang</link>
+        <dc:date>2024-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模言語モデル入門_第一章 (Masayuki Komai)</title>
+        <link>https://speakerdeck.com/rindybell/da-gui-mo-yan-yu-moderuru-men-di-zhang</link>
+        <dc:date>2024-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模言語モデル第二回 Transformer (Yosuke KOBAYASHI)</title>
+        <link>https://speakerdeck.com/m7142yosuke/da-gui-mo-yan-yu-moderudi-er-hui-transformer</link>
+        <dc:date>2024-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>越境思考×協同で切り開くシステム障害対応の未来_sawatari_20231114</title>
         <link>https://docs.google.com/presentation/d/1zPOS29-zKS334e_ejyVTu6jjLBHeJ6riPJz4cDk8EVU/preview</link>
         <dc:date>2024-01-22T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>LALR parser generatorの作り方 (yui-knk)</title>
         <link>https://speakerdeck.com/yui_knk/lalr-parser-generatornozuo-rifang</link>
-        <dc:date>2024-01-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Behind Biome (unvalley)</title>
-        <link>https://speakerdeck.com/unvalley/behind-biome</link>
-        <dc:date>2024-01-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Asynchronous over Synchronous / 同期という思い込み 世界は非同期で構成されている (kensh)</title>
-        <link>https://speakerdeck.com/_kensh/asynchronous-over-synchronous</link>
-        <dc:date>2024-01-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Why doesn't Ruby have Boolean class? (Masafumi Okura)</title>
-        <link>https://speakerdeck.com/okuramasafumi/why-doesnt-ruby-have-boolean-class</link>
         <dc:date>2024-01-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
