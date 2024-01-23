@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ネットワーク科学で挑戦するゲームマーケティング改革 (RyoAdachi)</title>
+        <link>https://www.slideshare.net/RyoAdachi/ss-238385632</link>
+        <dc:date>2024-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模言語モデル入門_第三章 (Masayuki Komai)</title>
         <link>https://speakerdeck.com/rindybell/da-gui-mo-yan-yu-moderuru-men-di-san-zhang</link>
         <dc:date>2024-01-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Re:cap container Services (yoshitaka KOITABASHI)</title>
         <link>https://speakerdeck.com/yoshiitaka/re-cap-container-services</link>
-        <dc:date>2024-01-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LALR parser generatorの作り方 (yui-knk)</title>
-        <link>https://speakerdeck.com/yui_knk/lalr-parser-generatornozuo-rifang</link>
         <dc:date>2024-01-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
