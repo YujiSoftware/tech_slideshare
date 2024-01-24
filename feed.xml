@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>差分プライバシーによる 安全な連合学習の実現 (LY Corporation Tech)</title>
+        <link>https://speakerdeck.com/lycorptech_jp/differential-privacy-for-secure-federated-learning</link>
+        <dc:date>2024-01-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLM時代におけるAI-OCR機能の開発戦略 / layerx-bakuraku-ocr-llm-lt-2024 (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/layerx-bakuraku-ocr-llm-lt-2024</link>
         <dc:date>2024-01-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>今さら聞けないdbtの基本LT (Gaku TASHIRO)</title>
         <link>https://speakerdeck.com/gak_t12/jin-sarawen-kenaidbtnoji-ben-lt</link>
         <dc:date>2024-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ネットワーク科学で挑戦するゲームマーケティング改革 (RyoAdachi)</title>
-        <link>https://www.slideshare.net/RyoAdachi/ss-238385632</link>
-        <dc:date>2024-01-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
