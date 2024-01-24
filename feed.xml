@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>一休レストランで Next.js App Router から Remix に乗り換えた話 / Migration from Next.js App Router to Remix (ONDA, Takashi)</title>
+        <link>https://speakerdeck.com/takonda/migration-from-next-app-router-to-remix</link>
+        <dc:date>2024-01-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>社内管理画面のデザインもプロダクトデザイン (takanorip)</title>
         <link>https://speakerdeck.com/takanorip/she-nei-guan-li-hua-mian-nodezainmopurodakutodezain</link>
         <dc:date>2024-01-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>大規模言語モデル入門_第三章 (Masayuki Komai)</title>
         <link>https://speakerdeck.com/rindybell/da-gui-mo-yan-yu-moderuru-men-di-san-zhang</link>
-        <dc:date>2024-01-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデル入門_第一章 (Masayuki Komai)</title>
-        <link>https://speakerdeck.com/rindybell/da-gui-mo-yan-yu-moderuru-men-di-zhang</link>
         <dc:date>2024-01-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
