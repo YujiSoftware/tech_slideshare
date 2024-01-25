@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Yujiro Urai (Yujiro)</title>
+        <link>https://speakerdeck.com/yujiro_25/yujiro-urai</link>
+        <dc:date>2024-01-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第三回生成AI勉強会 </title>
+        <link>https://docs.google.com/presentation/d/16dsQBQKWq4MnrwVrVpaYTF-IFNFijmtAaI4jD2-hf10/preview</link>
+        <dc:date>2024-01-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>人間によるKubernetesリソース最適化の”諦め” そこに見るリクガメの可能性 (sanposhiho)</title>
+        <link>https://speakerdeck.com/sanposhiho/ren-jian-niyorukubernetesrisosuzui-shi-hua-no-di-me-sokonijian-rurikugamenoke-neng-xing</link>
+        <dc:date>2024-01-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>そこまで大規模じゃない EKS環境を（あまり）頑張らずに 最新化し続けたい / FamilyAlbum EKS Continuous Improvement (kohbis)</title>
         <link>https://speakerdeck.com/kohbis/familyalbum-eks-continuous-improvement</link>
         <dc:date>2024-01-24T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Postman APIネットワークを使ってAPIを公開しよう (草薙昭彦)</title>
         <link>https://speakerdeck.com/nagix/postman-apinetutowakuwoshi-tuteapiwogong-kai-siyou</link>
-        <dc:date>2024-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>APIをもっと使ってもらうには？- APIファースト戦略のすすめ / Recommendation of API-first strategy (Yoichi Kawasaki)</title>
-        <link>https://speakerdeck.com/yokawasa/recommendation-of-api-first-strategy</link>
-        <dc:date>2024-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPT の新機能 「Function Calling」を Postman で使ってみる</title>
-        <link>https://docs.google.com/presentation/d/1Bw5uldlJrmwyJK-LWgYTL07O0_sTmKBA_EwplvY0pZ8/preview</link>
-        <dc:date>2024-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アナタの知らない Postman エクスペリエンス 2023.11 - 公開用</title>
-        <link>https://docs.google.com/presentation/d/1bzPDQWUEES5QF_oH3usrShH75gn0j1x-1WHoM1Ub3_0/preview</link>
         <dc:date>2024-01-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
