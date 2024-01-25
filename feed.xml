@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS x さくらのクラウドのハイブリッドクラウドによる安価なフレッツ閉域網接続の実装 (Kurochan)</title>
+        <link>https://speakerdeck.com/kurochan/aws-x-sakuranokuraudonohaiburitudokuraudoniyoruan-jia-nahuretutubi-yu-wang-jie-sok-noshi-zhuang</link>
+        <dc:date>2024-01-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240125 開発側・ビジネス側という壁を作らない LLMアプリ開発 @生成AI Conf (Ryuya Nakamura)</title>
         <link>https://speakerdeck.com/nrryuya/20240125-kai-fa-ce-bizinesuce-toiubi-wozuo-ranai-llmapurikai-fa-at-sheng-cheng-ai-conf</link>
         <dc:date>2024-01-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Postmanワークショップ - モックサーバー - 20231012 - 公開用</title>
         <link>https://docs.google.com/presentation/d/1D10lk0VPdxbi3HgZeV7N0ejxGdMV4Y_UJouMo_oax1A/preview</link>
-        <dc:date>2024-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>freeeAPI × Postman APIコラボレーションで スモールビジネスを世界の主役に！ / FreeeAPI x Postman API collaboration to make small business the world's leading actor! (freee)</title>
-        <link>https://speakerdeck.com/freee/freeeapi-x-postman-api-collaboration-to-make-small-business-the-worlds-leading-actor</link>
         <dc:date>2024-01-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
