@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>そこまで大規模じゃない EKS環境を（あまり）頑張らずに 最新化し続けたい / FamilyAlbum EKS Continuous Improvement (kohbis)</title>
+        <link>https://speakerdeck.com/kohbis/familyalbum-eks-continuous-improvement</link>
+        <dc:date>2024-01-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自作Lisp処理系：Sci-Lispの紹介（lispmeetup_#113）</title>
         <link>https://docs.google.com/presentation/d/1pGYnIth8EHD-aiaHNrLeu6HVXrDo68BlIwsV1ZsweBI/preview</link>
         <dc:date>2024-01-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アナタの知らない Postman エクスペリエンス 2023.11 - 公開用</title>
         <link>https://docs.google.com/presentation/d/1bzPDQWUEES5QF_oH3usrShH75gn0j1x-1WHoM1Ub3_0/preview</link>
-        <dc:date>2024-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソニーでの事例から考えるプラットフォーム開発 (Shun Satou)</title>
-        <link>https://speakerdeck.com/shunsato123/sonidenoshi-li-karakao-erupuratutohuomukai-fa</link>
         <dc:date>2024-01-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
