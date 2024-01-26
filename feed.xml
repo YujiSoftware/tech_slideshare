@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>kustomizeをいい感じに使う方法 (gree_tech)</title>
+        <link>https://speakerdeck.com/gree_tech/how-to-use-kustomize-effectively</link>
+        <dc:date>2024-01-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クリック率を最大化しない推薦システム (joisino)</title>
         <link>https://speakerdeck.com/joisino/kuritukulu-wozui-da-hua-sinaitui-jian-sisutemu</link>
         <dc:date>2024-01-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Postmanワークショップ: Postman入門 - 20230822 - 公開用</title>
         <link>https://docs.google.com/presentation/d/15GFD0GP0VGntlt5WdpKoEc4tsZIbCcm0FVX423TwlWU/preview</link>
-        <dc:date>2024-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanオンラインワークショップ: Postman入門 - 20230920 - 公開用</title>
-        <link>https://docs.google.com/presentation/d/19ttvmUHURkl_rte8ZpEXgBmRzPvLaZOKD1uXLBvy8rs/preview</link>
         <dc:date>2024-01-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
