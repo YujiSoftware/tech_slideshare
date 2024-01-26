@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テストコードを負債化させない上手な付き合い方  / Test Code Management (igsr5)</title>
+        <link>https://speakerdeck.com/igsr5/test-code-management</link>
+        <dc:date>2024-01-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>シフトレフトとシフトライトの両面から製品開発に取り組んだお話 (Regional Scrum Gathering Tokyo 2024) - #RSGT2024 / Shift left and Shift right (10xinc)</title>
         <link>https://speakerdeck.com/10xinc/shift-left-and-shift-right</link>
         <dc:date>2024-01-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Postmanワークショップ: テスト自動化 - 20230825 - 公開版</title>
         <link>https://docs.google.com/presentation/d/1E33xZ-9lpd7PnAFue8yZVLIzD3IK0QVOALJSYSC_iKs/preview</link>
-        <dc:date>2024-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ: テスト自動化 - 20231005 - 公開版</title>
-        <link>https://docs.google.com/presentation/d/12t1hsqK8QCjYicbtmz2PbYu1UEcFyJEie6Z5Y5DmsjE/preview</link>
         <dc:date>2024-01-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
