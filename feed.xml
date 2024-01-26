@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Platform EngineeringにおけるKubernetesの活用法とLINEヤフーにおける事例のご紹介 / Platform Engineering and Kubernetes Findy Lunch LT Edition (hhiroshell)</title>
+        <link>https://speakerdeck.com/hhiroshell/platform-engineering-and-kubernetes-findy-lunch-lt-edition</link>
+        <dc:date>2024-01-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>kustomizeをいい感じに使う方法 (gree_tech)</title>
         <link>https://speakerdeck.com/gree_tech/how-to-use-kustomize-effectively</link>
         <dc:date>2024-01-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Postmanワークショップ: テスト自動化 - 20230809 - 公開用</title>
         <link>https://docs.google.com/presentation/d/1OcEli7rKlDVyFhkNn5SEaI1EE_u62NjEnfarLBXh_Kw/preview</link>
-        <dc:date>2024-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ: Postman入門 - 20230822 - 公開用</title>
-        <link>https://docs.google.com/presentation/d/15GFD0GP0VGntlt5WdpKoEc4tsZIbCcm0FVX423TwlWU/preview</link>
         <dc:date>2024-01-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
