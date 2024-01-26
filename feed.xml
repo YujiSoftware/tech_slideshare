@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>C#とAzure Cosmos DBで簡単にイベントソーシングを始められるSekibanのデモ (Tomohisa Takaoka)</title>
+        <link>https://speakerdeck.com/tomohisa/c-number-toazure-cosmos-dbdejian-dan-niibentososinguwoshi-merarerusekibannodemo</link>
+        <dc:date>2024-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Sementic Kernelのネイティブ関数について (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/sementic-kernelnoneiteibuguan-shu-nituite</link>
+        <dc:date>2024-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IVRy Culture Deck（アイブリーカルチャーデック） (IVRy（アイブリー）のSpeaker Deck)</title>
+        <link>https://speakerdeck.com/ivry/ivry-culture-deck</link>
+        <dc:date>2024-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Platform EngineeringにおけるKubernetesの活用法とLINEヤフーにおける事例のご紹介 / Platform Engineering and Kubernetes Findy Lunch LT Edition (hhiroshell)</title>
         <link>https://speakerdeck.com/hhiroshell/platform-engineering-and-kubernetes-findy-lunch-lt-edition</link>
         <dc:date>2024-01-25T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>社内管理画面のデザインもプロダクトデザイン (takanorip)</title>
         <link>https://speakerdeck.com/takanorip/she-nei-guan-li-hua-mian-nodezainmopurodakutodezain</link>
-        <dc:date>2024-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RemixでWeb標準を学んだ1年間 / First year with Remix (Yukiya Nakagawa)</title>
-        <link>https://speakerdeck.com/nkzn/first-year-with-remix</link>
-        <dc:date>2024-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ - Enterprise機能基礎編 - 20230804 - 公開用</title>
-        <link>https://docs.google.com/presentation/d/1gXrTwxXIaz6Ej6VAD-C3gKKnNi_2H7QhITbevXpHx9Q/preview</link>
-        <dc:date>2024-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ: テスト自動化 - 20230809 - 公開用</title>
-        <link>https://docs.google.com/presentation/d/1OcEli7rKlDVyFhkNn5SEaI1EE_u62NjEnfarLBXh_Kw/preview</link>
         <dc:date>2024-01-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
