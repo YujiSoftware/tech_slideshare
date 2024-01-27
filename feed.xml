@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データパイプラインを作って改良する はじめてのデータ/アナリティクスエンジニアリング (contradiction29)</title>
+        <link>https://speakerdeck.com/sora32127/anariteikusuenziniaringu</link>
+        <dc:date>2024-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LayerXの企業文化をデータがもっと強くする (Shun Takagiwa)</title>
         <link>https://speakerdeck.com/shuntak/data-empowers-corporate-culture-significantly</link>
         <dc:date>2024-01-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>そこまで大規模じゃない EKS環境を（あまり）頑張らずに 最新化し続けたい / FamilyAlbum EKS Continuous Improvement (kohbis)</title>
         <link>https://speakerdeck.com/kohbis/familyalbum-eks-continuous-improvement</link>
-        <dc:date>2024-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自作Lisp処理系：Sci-Lispの紹介（lispmeetup_#113）</title>
-        <link>https://docs.google.com/presentation/d/1pGYnIth8EHD-aiaHNrLeu6HVXrDo68BlIwsV1ZsweBI/preview</link>
         <dc:date>2024-01-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
