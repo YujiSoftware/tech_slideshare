@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Prism (Kevin Newton)</title>
+        <link>https://speakerdeck.com/kddnewton/prism</link>
+        <dc:date>2024-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>文字ときどきRuby / Character and Ruby (NSEG) (とみたまさひろ)</title>
+        <link>https://speakerdeck.com/tmtms/character-and-ruby-nseg</link>
+        <dc:date>2024-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>その名はFlix</title>
         <link>https://docs.google.com/presentation/d/15N-YzyecXc3F8Nm0Xu5cHJNjRZ1xxH8ZuFc5pQH4XuA/preview</link>
         <dc:date>2024-01-27T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Yujiro Urai (Yujiro)</title>
         <link>https://speakerdeck.com/yujiro_25/yujiro-urai</link>
-        <dc:date>2024-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第三回生成AI勉強会 </title>
-        <link>https://docs.google.com/presentation/d/16dsQBQKWq4MnrwVrVpaYTF-IFNFijmtAaI4jD2-hf10/preview</link>
-        <dc:date>2024-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>人間によるKubernetesリソース最適化の”諦め” そこに見るリクガメの可能性 (sanposhiho)</title>
-        <link>https://speakerdeck.com/sanposhiho/ren-jian-niyorukubernetesrisosuzui-shi-hua-no-di-me-sokonijian-rurikugamenoke-neng-xing</link>
         <dc:date>2024-01-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
