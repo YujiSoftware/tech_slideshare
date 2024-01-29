@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Deep State Space Models 101 / Mamba (Hiroto Kurita)</title>
+        <link>https://speakerdeck.com/kurita/mamba</link>
+        <dc:date>2024-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Androidアプリ開発におけるSonarCloudの活用  (okuzawats)</title>
         <link>https://speakerdeck.com/okuzawats/androidapurikai-fa-niokerusonarcloudnohuo-yong</link>
         <dc:date>2024-01-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Sementic Kernelのネイティブ関数について (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/sementic-kernelnoneiteibuguan-shu-nituite</link>
-        <dc:date>2024-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IVRy Culture Deck（アイブリーカルチャーデック） (IVRy（アイブリー）のSpeaker Deck)</title>
-        <link>https://speakerdeck.com/ivry/ivry-culture-deck</link>
         <dc:date>2024-01-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
