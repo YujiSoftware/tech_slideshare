@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>関数型言語Elixirで組み込みLinux開発ができるNervesの紹介</title>
+        <link>https://docs.google.com/presentation/d/14dSg14FwvlGS7ZqBzThC9qxPeA_b-BiwBQiwMKWe8s4/preview</link>
+        <dc:date>2024-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>一般化ランダムフォレストの理論と統計的因果推論への応用 (Tomoshige Nakamura)</title>
         <link>https://speakerdeck.com/tomoshige_n/ban-hua-randamuhuoresutonoli-lun-totong-ji-de-yin-guo-tui-lun-henoying-yong</link>
         <dc:date>2024-01-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Platform EngineeringにおけるKubernetesの活用法とLINEヤフーにおける事例のご紹介 / Platform Engineering and Kubernetes Findy Lunch LT Edition (hhiroshell)</title>
         <link>https://speakerdeck.com/hhiroshell/platform-engineering-and-kubernetes-findy-lunch-lt-edition</link>
-        <dc:date>2024-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>kustomizeをいい感じに使う方法 (gree_tech)</title>
-        <link>https://speakerdeck.com/gree_tech/how-to-use-kustomize-effectively</link>
         <dc:date>2024-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
