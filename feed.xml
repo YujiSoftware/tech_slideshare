@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Flutter-Theming-Talk</title>
+        <link>https://docs.google.com/presentation/d/1JRQ3w1UPSlqfaW_pbBJrzjNOQnxEcRfGkbMF0Mwtr98/preview</link>
+        <dc:date>2024-01-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>良いソフトウェアとコードレビュー / Good software and code review (AGAWA Koji)</title>
         <link>https://speakerdeck.com/atty303/liang-isohutoueatokodorebiyu</link>
         <dc:date>2024-01-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>3年近くTiDBを使ってきた話 @ TiUG Kick Off #0 / My Journey with TiDB: Nearly Three Years On @ TiDB User Group Kick Off #0 (chibiegg)</title>
         <link>https://speakerdeck.com/chibiegg/my-journey-with-tidb-nearly-three-years-on-at-tidb-user-group-kick-off-number-0</link>
-        <dc:date>2024-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenAI DevDayから1ヶ月〜LLM開発はどう変わった？ (PharmaX（旧YOJO Technologies）開発チーム)</title>
-        <link>https://speakerdeck.com/pharma_x_tech/llmapurikesiyonnoshi-yan-guan-li-ping-jia-nituitenozhi-jian-womatometemita</link>
         <dc:date>2024-01-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
