@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Controllerを作ってみよう ~ Kubernetes Controllerハンズオン ~ (bells17)</title>
+        <link>https://speakerdeck.com/bells17/controllerwozuo-tutemiyou-kubernetes-controllerhansuon</link>
+        <dc:date>2024-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>行動指針アンチパターンから学ぶ 越境のすすめ (ar_tama)</title>
+        <link>https://speakerdeck.com/ar_tama/xing-dong-zhi-zhen-antipatankaraxue-bu-yue-jing-nosusume</link>
+        <dc:date>2024-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オープンな日本語埋め込みモデルの選択肢 / Exploring Publicly Available Japanese Embedding Models (NTT Communications)</title>
         <link>https://speakerdeck.com/nttcom/exploring-publicly-available-japanese-embedding-models</link>
         <dc:date>2024-01-29T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>その名はFlix</title>
         <link>https://docs.google.com/presentation/d/15N-YzyecXc3F8Nm0Xu5cHJNjRZ1xxH8ZuFc5pQH4XuA/preview</link>
         <dc:date>2024-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データパイプラインを作って改良する はじめてのデータ/アナリティクスエンジニアリング (contradiction29)</title>
-        <link>https://speakerdeck.com/sora32127/anariteikusuenziniaringu</link>
-        <dc:date>2024-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LayerXの企業文化をデータがもっと強くする (Shun Takagiwa)</title>
-        <link>https://speakerdeck.com/shuntak/data-empowers-corporate-culture-significantly</link>
-        <dc:date>2024-01-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
