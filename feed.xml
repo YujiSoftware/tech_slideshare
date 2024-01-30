@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>KSPを使ってコード生成 (Takuji Nishibayashi)</title>
+        <link>https://speakerdeck.com/takuji31/kspwoshi-tutekodosheng-cheng</link>
+        <dc:date>2024-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新卒iOSエンジニアとしてやってきたこと (Ryu-nakayama)</title>
+        <link>https://speakerdeck.com/ryunakayama/xin-zu-iosenziniatositeyatutekitakoto</link>
+        <dc:date>2024-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SPAの歴史とRemix SPAモードという到達点 / the SPA's chronicle reaches to remix (Yukiya Nakagawa)</title>
         <link>https://speakerdeck.com/nkzn/the-spas-chronicle-reaches-to-remix</link>
         <dc:date>2024-01-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>技術負債とデータ構造 (na9amura)</title>
         <link>https://speakerdeck.com/na9amura/ji-shu-fu-zhai-totetagou-zao</link>
-        <dc:date>2024-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240127_読書感想_今井翔太著_生成AIで世界はこう変わる (NobuakiOshiro)</title>
-        <link>https://speakerdeck.com/doradora09/20240127-du-shu-gan-xiang-jin-jing-xiang-tai-zhu-sheng-cheng-aiteshi-jie-hakoubian-waru</link>
-        <dc:date>2024-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C#とAzure Cosmos DBで簡単にイベントソーシングを始められるSekibanのデモ (Tomohisa Takaoka)</title>
-        <link>https://speakerdeck.com/tomohisa/c-number-toazure-cosmos-dbdejian-dan-niibentososinguwoshi-merarerusekibannodemo</link>
         <dc:date>2024-01-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
