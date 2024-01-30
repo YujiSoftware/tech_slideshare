@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GraphQL実践ノウハウv2 (sonatard)</title>
+        <link>https://speakerdeck.com/sonatard/graphql-knowhow-v2</link>
+        <dc:date>2024-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AIネイティブな プロダクト・UI/UXを考える (Shunsuke Ono)</title>
+        <link>https://speakerdeck.com/shunsukeono_am/uxwokao-eru</link>
+        <dc:date>2024-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「意思決定者」の役割を引き継ぐことになったとき、前任者と周囲から信頼を得て活躍するための方法 (Kazuki Onmori)</title>
+        <link>https://speakerdeck.com/onmori/yi-si-jue-ding-zhe-noyi-ge-woyin-kiji-gu-kotoninatutatoki-qian-ren-zhe-tozhou-wei-karaxin-lai-wode-tehuo-yue-surutamenofang-fa</link>
+        <dc:date>2024-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Controllerを作ってみよう ~ Kubernetes Controllerハンズオン ~ (bells17)</title>
         <link>https://speakerdeck.com/bells17/controllerwozuo-tutemiyou-kubernetes-controllerhansuon</link>
         <dc:date>2024-01-29T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>パナソニックコネクトが進める機械学習ライブラリのOSS開発 (seto)</title>
         <link>https://speakerdeck.com/kionawalker/panasonitukukonekutogajin-meruji-jie-xue-xi-raiburarinoosskai-fa</link>
-        <dc:date>2024-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Prism (Kevin Newton)</title>
-        <link>https://speakerdeck.com/kddnewton/prism</link>
-        <dc:date>2024-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>文字ときどきRuby / Character and Ruby (NSEG) (とみたまさひろ)</title>
-        <link>https://speakerdeck.com/tmtms/character-and-ruby-nseg</link>
-        <dc:date>2024-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>その名はFlix</title>
-        <link>https://docs.google.com/presentation/d/15N-YzyecXc3F8Nm0Xu5cHJNjRZ1xxH8ZuFc5pQH4XuA/preview</link>
         <dc:date>2024-01-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
