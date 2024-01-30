@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>良いソフトウェアとコードレビュー / Good software and code review (AGAWA Koji)</title>
+        <link>https://speakerdeck.com/atty303/liang-isohutoueatokodorebiyu</link>
+        <dc:date>2024-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GraphQL実践ノウハウv2 (sonatard)</title>
         <link>https://speakerdeck.com/sonatard/graphql-knowhow-v2</link>
         <dc:date>2024-01-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>OpenAI DevDayから1ヶ月〜LLM開発はどう変わった？ (PharmaX（旧YOJO Technologies）開発チーム)</title>
         <link>https://speakerdeck.com/pharma_x_tech/llmapurikesiyonnoshi-yan-guan-li-ping-jia-nituitenozhi-jian-womatometemita</link>
         <dc:date>2024-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>パナソニックコネクトが進める機械学習ライブラリのOSS開発 (seto)</title>
-        <link>https://speakerdeck.com/kionawalker/panasonitukukonekutogajin-meruji-jie-xue-xi-raiburarinoosskai-fa</link>
-        <dc:date>2024-01-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
