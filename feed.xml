@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソニー: GraphQLを活用したデータ配信プラットフォームの事例紹介 (Shin Kato)</title>
+        <link>https://speakerdeck.com/skato0321/graphqlwohuo-yong-sitadetapei-xin-puratutohuomunoshi-li-shao-jie</link>
+        <dc:date>2024-01-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Web API 学習ロードマップ 2024 / Web API Learning Roadmap 2024 (Yoichi Kawasaki)</title>
         <link>https://speakerdeck.com/yokawasa/web-api-learning-roadmap-2024</link>
         <dc:date>2024-01-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Deep State Space Models 101 / Mamba (Hiroto Kurita)</title>
         <link>https://speakerdeck.com/kurita/mamba</link>
-        <dc:date>2024-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Androidアプリ開発におけるSonarCloudの活用  (okuzawats)</title>
-        <link>https://speakerdeck.com/okuzawats/androidapurikai-fa-niokerusonarcloudnohuo-yong</link>
         <dc:date>2024-01-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
