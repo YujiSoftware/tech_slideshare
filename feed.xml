@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Web API 学習ロードマップ 2024 / Web API Learning Roadmap 2024 (Yoichi Kawasaki)</title>
+        <link>https://speakerdeck.com/yokawasa/web-api-learning-roadmap-2024</link>
+        <dc:date>2024-01-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GPTsをMVPに使うアジャイルな社内LLMツール開発 / Agile in-house LLM tool development using GPTs as MVPs  (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/agile-in-house-llm-tool-development-using-gpts-as-mvps</link>
         <dc:date>2024-01-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Androidアプリ開発におけるSonarCloudの活用  (okuzawats)</title>
         <link>https://speakerdeck.com/okuzawats/androidapurikai-fa-niokerusonarcloudnohuo-yong</link>
-        <dc:date>2024-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>関数型言語Elixirで組み込みLinux開発ができるNervesの紹介</title>
-        <link>https://docs.google.com/presentation/d/14dSg14FwvlGS7ZqBzThC9qxPeA_b-BiwBQiwMKWe8s4/preview</link>
         <dc:date>2024-01-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
