@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ネットワーク機器の中の OCaml (Masayuki Mizuno)</title>
+        <link>https://speakerdeck.com/fetburner/netutowakuji-qi-nozhong-no-ocaml</link>
+        <dc:date>2024-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>仮想関数テーブルと型クラスを見比べる (INA Lintaro)</title>
+        <link>https://speakerdeck.com/tarao/comparing-vtables-and-type-classes</link>
+        <dc:date>2024-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>C#で関数型プログラミング (dora56)</title>
+        <link>https://speakerdeck.com/dora56/c-number-deguan-shu-xing-puroguramingu</link>
+        <dc:date>2024-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モダン・ソフトウェアエンジニアリングEssenceの紹介 (匠Method User Group)</title>
         <link>https://speakerdeck.com/takumi_method_ug/modansohutoueaenziniaringuessencenoshao-jie</link>
         <dc:date>2024-01-31T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>オープンな日本語埋め込みモデルの選択肢 / Exploring Publicly Available Japanese Embedding Models (NTT Communications)</title>
         <link>https://speakerdeck.com/nttcom/exploring-publicly-available-japanese-embedding-models</link>
-        <dc:date>2024-01-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>影響力のあるプロダクトリーダーシップとは  〜リーダーシップのBサイド：信頼獲得編〜 / B-side of Product Leadership (Minoru YOKOMICHI)</title>
-        <link>https://speakerdeck.com/ykmc09/b-side-of-product-leadership</link>
-        <dc:date>2024-01-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>InstaNight Club #2 -8月リリース(Build255+Build256)の 推し機能紹介- (AiriFurukawa@IBM)</title>
-        <link>https://speakerdeck.com/airifurukawa0924/instanight-club-number-2-8yue-ririsu-build255-plus-build256-no-tui-siji-neng-shao-jie</link>
-        <dc:date>2024-01-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KSPを使ってコード生成 (Takuji Nishibayashi)</title>
-        <link>https://speakerdeck.com/takuji31/kspwoshi-tutekodosheng-cheng</link>
         <dc:date>2024-01-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
