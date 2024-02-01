@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSコストを全体で43.75%削減するためのコストモニタリング技術 (Yuki Ando,@integrated1453)</title>
+        <link>https://www.docswell.com/s/integrated1453/Z98QLL-cost-monitoring</link>
+        <dc:date>2024-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リンカを変えてgo buildを 速く出来るか (nasa)</title>
         <link>https://speakerdeck.com/nasa_desu/su-irinkawoqiu-mete</link>
         <dc:date>2024-01-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Controllerを作ってみよう ~ Kubernetes Controllerハンズオン ~ (bells17)</title>
         <link>https://speakerdeck.com/bells17/controllerwozuo-tutemiyou-kubernetes-controllerhansuon</link>
-        <dc:date>2024-01-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>行動指針アンチパターンから学ぶ 越境のすすめ (ar_tama)</title>
-        <link>https://speakerdeck.com/ar_tama/xing-dong-zhi-zhen-antipatankaraxue-bu-yue-jing-nosusume</link>
         <dc:date>2024-01-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
