@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240120_フローの親子関係を一覧化する (わたるふ,@wataruf01)</title>
+        <link>https://www.docswell.com/s/wataruf01/KRXPX4-2024-01-20-213505</link>
+        <dc:date>2024-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>習うより慣れる Ruby AST / Ruby AST is better to get used to than to learn. (Shintani Teppei)</title>
+        <link>https://speakerdeck.com/euglena1215/ruby-ast-is-better-to-get-used-to-than-to-learn</link>
+        <dc:date>2024-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>QAエンジニアがSMに憧れてしくじった話 (naco)</title>
         <link>https://speakerdeck.com/naco/qaensiniakasmnichong-retesikusitutahua</link>
         <dc:date>2024-02-01T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Flutter-Theming-Talk</title>
         <link>https://docs.google.com/presentation/d/1JRQ3w1UPSlqfaW_pbBJrzjNOQnxEcRfGkbMF0Mwtr98/preview</link>
         <dc:date>2024-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>良いソフトウェアとコードレビュー / Good software and code review (AGAWA Koji)</title>
-        <link>https://speakerdeck.com/atty303/liang-isohutoueatokodorebiyu</link>
-        <dc:date>2024-01-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQL実践ノウハウv2 (sonatard)</title>
-        <link>https://speakerdeck.com/sonatard/graphql-knowhow-v2</link>
-        <dc:date>2024-01-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
