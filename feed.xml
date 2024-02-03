@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>『新改訂版VS Code実践ガイド』の 改訂要素からみるVS Codeの進化 (74th(Atsushi Morimoto))</title>
+        <link>https://speakerdeck.com/74th/xin-gai-ding-ban-vs-codeshi-jian-gaido-no-gai-ding-yao-su-karamiruvs-codenojin-hua</link>
+        <dc:date>2024-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI-Powered Development with GitHub Copilot 20240202 (Yuki Hattori)</title>
         <link>https://speakerdeck.com/yuhattor/ai-powered-development-with-github-copilot-20240202</link>
         <dc:date>2024-02-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>はじめてのピープルマネジメント (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20240131-2</link>
-        <dc:date>2024-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LangGraphで始めるマルチエージェントシステム (peisuke)</title>
-        <link>https://speakerdeck.com/peisuke/langgraphdeshi-merumarutiezientosisutemu</link>
         <dc:date>2024-01-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
