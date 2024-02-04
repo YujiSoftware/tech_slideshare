@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データエンジニアのススメ (うとしん)</title>
+        <link>https://speakerdeck.com/s1ok69oo/detaenzinianosusume</link>
+        <dc:date>2024-02-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Django APIセキュリティについて_oda (oda)</title>
         <link>https://www.docswell.com/s/3037069716/538VL2-2024-01-31-232729</link>
         <dc:date>2024-02-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>仮想関数テーブルと型クラスを見比べる (INA Lintaro)</title>
         <link>https://speakerdeck.com/tarao/comparing-vtables-and-type-classes</link>
-        <dc:date>2024-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C#で関数型プログラミング (dora56)</title>
-        <link>https://speakerdeck.com/dora56/c-number-deguan-shu-xing-puroguramingu</link>
         <dc:date>2024-01-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
