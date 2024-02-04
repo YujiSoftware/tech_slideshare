@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>俺とAzureとTerraform ～2024新春バージョン～ (Toru Makabe)</title>
+        <link>https://speakerdeck.com/torumakabe/an-toazuretoterraform-2024xin-chun-baziyon</link>
+        <dc:date>2024-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>日本ディープラーニング協会主催 NeurIPS 2023 技術報告会講演資料 (株式会社TDAI Lab)</title>
+        <link>https://speakerdeck.com/tdailab/ri-ben-deipuraninguxie-hui-zhu-cui-neurips-2023-ji-shu-bao-gao-hui-jiang-yan-zi-liao</link>
+        <dc:date>2024-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AzureでRAGをガンガン試行錯誤してみて得たナレッジを紹介します！/Azure RAG knowledge share (Junya Miyake)</title>
         <link>https://speakerdeck.com/jnymyk/azure-rag-knowledge-share</link>
         <dc:date>2024-02-03T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>生成AI時代に告ぐ- 意味のある体験・ビジネスモデル デザイン (しょーてぃー/Experience&amp;Prompt Designer)</title>
         <link>https://speakerdeck.com/shoty_k2/sheng-cheng-aishi-dai-nigao-gu-yi-wei-noaruti-yan-bizinesumoderu-dezain</link>
-        <dc:date>2024-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソニー: GraphQLを活用したデータ配信プラットフォームの事例紹介 (Shin Kato)</title>
-        <link>https://speakerdeck.com/skato0321/graphqlwohuo-yong-sitadetapei-xin-puratutohuomunoshi-li-shao-jie</link>
-        <dc:date>2024-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web API 学習ロードマップ 2024 / Web API Learning Roadmap 2024 (Yoichi Kawasaki)</title>
-        <link>https://speakerdeck.com/yokawasa/web-api-learning-roadmap-2024</link>
         <dc:date>2024-01-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
