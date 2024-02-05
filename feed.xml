@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Flutter Tips and Tricks - FlutterCon23</title>
+        <link>https://docs.google.com/presentation/d/1az1lb-p-aI6abv6w-jgMXKCKbl6qwfEwwR98mbJavbE/preview</link>
+        <dc:date>2024-02-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Demystifying Text Rendering in Flutter</title>
+        <link>https://docs.google.com/presentation/d/1aGpzwXTj_JbNnRyIoXXSzVcEsBnYKhq_6J7eXX3VvMA/preview</link>
+        <dc:date>2024-02-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rolling in the deep(link) – take a deep dive into Flutter navigation</title>
+        <link>https://docs.google.com/presentation/d/1K69pyDKjtg_jwdgh9riT_myLIzNtiTU_DE63NETBM3s/preview</link>
+        <dc:date>2024-02-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Raitis Saripo - Memory management in Flutter #FlutterCon</title>
+        <link>https://docs.google.com/presentation/d/1VSGr2JlYVEpkwQe3yMYYqM8qADeSrBCoOep_5-Q5-xE/preview</link>
+        <dc:date>2024-02-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Patrol talk (fluttercon)</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSPuEU-QszHJA_Hgc6MzFDlfcVg92ucFaR_W1zs_BATGV9DeP-XyUeveyhmAXjAYriHFJrGi_fyuJ7w/pub</link>
+        <dc:date>2024-02-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FlutterCon23</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vRspqUZG0PhvaKRumFEyLGXqfnN2CqrM0onTVWBJSxU9Zt-0qb079iyCfoX6Ldq7eJVnMIvcyQwMTtn/pub</link>
+        <dc:date>2024-02-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fluttercon Berlin 2023 - Add2App</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSwnAX2YRB4sPJNBxTDg9us6B2qX7DWl-1GjieqXq-xVcpCDGA1pZkLjQR4mMlfo7GNdUW6m_yKzdFJ/pub</link>
+        <dc:date>2024-02-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マネジャーでなくてもマネジメントに挑戦できる組織なので挑戦してみた話 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20240131-1</link>
         <dc:date>2024-02-04T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>なんしかいろいろつながるZenohの紹介 (takasehideki)</title>
         <link>https://speakerdeck.com/takasehideki/nansikairoirotunagaruzenohnoshao-jie</link>
         <dc:date>2024-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『新改訂版VS Code実践ガイド』の 改訂要素からみるVS Codeの進化 (74th(Atsushi Morimoto))</title>
-        <link>https://speakerdeck.com/74th/xin-gai-ding-ban-vs-codeshi-jian-gaido-no-gai-ding-yao-su-karamiruvs-codenojin-hua</link>
-        <dc:date>2024-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI-Powered Development with GitHub Copilot 20240202 (Yuki Hattori)</title>
-        <link>https://speakerdeck.com/yuhattor/ai-powered-development-with-github-copilot-20240202</link>
-        <dc:date>2024-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Gmailに届け (tosio)</title>
-        <link>https://speakerdeck.com/tosiooooooo/gmailnijie-ke</link>
-        <dc:date>2024-02-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240120_フローの親子関係を一覧化する (わたるふ,@wataruf01)</title>
-        <link>https://www.docswell.com/s/wataruf01/KRXPX4-2024-01-20-213505</link>
-        <dc:date>2024-02-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>習うより慣れる Ruby AST / Ruby AST is better to get used to than to learn. (Shintani Teppei)</title>
-        <link>https://speakerdeck.com/euglena1215/ruby-ast-is-better-to-get-used-to-than-to-learn</link>
-        <dc:date>2024-02-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QAエンジニアがSMに憧れてしくじった話 (naco)</title>
-        <link>https://speakerdeck.com/naco/qaensiniakasmnichong-retesikusitutahua</link>
-        <dc:date>2024-02-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>節約は技術！削減は芸術！何より必要なものは覚悟！ (Masaya Hayashi)</title>
-        <link>https://speakerdeck.com/rinchsan/jie-yue-haji-shu-xue-jian-hayun-shu-he-yoribi-yao-namonohajue-wu</link>
-        <dc:date>2024-02-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
