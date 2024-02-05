@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>第93回 雲勉【オンライン：初心者向け】CI/CDって結局何なの？インフラエンジニアがCode3兄弟を学ぶ (Y.Sumikura)</title>
+        <link>https://speakerdeck.com/sumikurayurie1125/cdtutejie-ju-he-nano-inhuraenziniagacode3xiong-di-woxue-bu</link>
+        <dc:date>2024-02-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データエンジニアのススメ (うとしん)</title>
         <link>https://speakerdeck.com/s1ok69oo/detaenzinianosusume</link>
         <dc:date>2024-02-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ネットワーク機器の中の OCaml (Masayuki Mizuno)</title>
         <link>https://speakerdeck.com/fetburner/netutowakuji-qi-nozhong-no-ocaml</link>
-        <dc:date>2024-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仮想関数テーブルと型クラスを見比べる (INA Lintaro)</title>
-        <link>https://speakerdeck.com/tarao/comparing-vtables-and-type-classes</link>
         <dc:date>2024-01-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
