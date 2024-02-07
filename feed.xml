@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Postmanワークショップ: API基礎 - 20240116</title>
+        <link>https://docs.google.com/presentation/d/1XdX9Lz9TegX6URqBu66qykhm-NRLdsaTjoikEVbFYkQ/preview</link>
+        <dc:date>2024-02-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>運用設計における設計項目の体系化 / 20240207-ssmjp-operation-design-items (opelab)</title>
+        <link>https://speakerdeck.com/opelab/20240207-ssmjp-operation-design-items</link>
+        <dc:date>2024-02-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>非同期処理でLLMにもっと働いてもらおう (Higuchi kokoro)</title>
         <link>https://speakerdeck.com/zerebom/async-call-llm</link>
         <dc:date>2024-02-06T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>第93回 雲勉【オンライン：初心者向け】CI/CDって結局何なの？インフラエンジニアがCode3兄弟を学ぶ (Y.Sumikura)</title>
         <link>https://speakerdeck.com/sumikurayurie1125/cdtutejie-ju-he-nano-inhuraenziniagacode3xiong-di-woxue-bu</link>
         <dc:date>2024-02-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データエンジニアのススメ (うとしん)</title>
-        <link>https://speakerdeck.com/s1ok69oo/detaenzinianosusume</link>
-        <dc:date>2024-02-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Django APIセキュリティについて_oda (oda)</title>
-        <link>https://www.docswell.com/s/3037069716/538VL2-2024-01-31-232729</link>
-        <dc:date>2024-02-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
