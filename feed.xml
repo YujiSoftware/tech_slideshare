@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>非同期処理でLLMにもっと働いてもらおう (Higuchi kokoro)</title>
+        <link>https://speakerdeck.com/zerebom/async-call-llm</link>
+        <dc:date>2024-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cost Reduction for ECS Fargate Usage in Backlog (vvatanabe)</title>
+        <link>https://speakerdeck.com/vvatanabe/cost-reduction-for-ecs-fargate-usage-in-backlog</link>
+        <dc:date>2024-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>『チームトポロジー』と Platform Engineering (Miho Nagase)</title>
         <link>https://speakerdeck.com/miholovesq/team-topologies-with-platform-engineering</link>
         <dc:date>2024-02-06T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Django APIセキュリティについて_oda (oda)</title>
         <link>https://www.docswell.com/s/3037069716/538VL2-2024-01-31-232729</link>
-        <dc:date>2024-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「Widgetらしさ」を考える</title>
-        <link>https://docs.google.com/presentation/d/1pMZ8XkdTrNZrYiPmIKwG6V03JyfR_lEqstbflrlk9ik/preview</link>
-        <dc:date>2024-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024.1.31（金） Flutter/Dart Test Talk Vol.1</title>
-        <link>https://docs.google.com/presentation/d/1CP4Tqlj-D2JuUjfCegUUL5rxY-NMX1Pu3XWV3aBDnBg/preview</link>
         <dc:date>2024-02-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
