@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GraphQL「良さ」・「難しさ」再探訪 〜スタディサプリにおける実例〜 / StudySapuri with GraphQL (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/studysapuri-with-graphql</link>
+        <dc:date>2024-02-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Backend エンジニア視点からの GraphQL / GraphQL from a perspective of backend engineer (qsona)</title>
         <link>https://speakerdeck.com/qsona/graphql-from-a-perspective-of-backend-engineer</link>
         <dc:date>2024-02-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>FlutterCon23</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vRspqUZG0PhvaKRumFEyLGXqfnN2CqrM0onTVWBJSxU9Zt-0qb079iyCfoX6Ldq7eJVnMIvcyQwMTtn/pub</link>
-        <dc:date>2024-02-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fluttercon Berlin 2023 - Add2App</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSwnAX2YRB4sPJNBxTDg9us6B2qX7DWl-1GjieqXq-xVcpCDGA1pZkLjQR4mMlfo7GNdUW6m_yKzdFJ/pub</link>
         <dc:date>2024-02-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
