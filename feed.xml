@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Backend エンジニア視点からの GraphQL / GraphQL from a perspective of backend engineer (qsona)</title>
+        <link>https://speakerdeck.com/qsona/graphql-from-a-perspective-of-backend-engineer</link>
+        <dc:date>2024-02-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240207 Comparison of  AWS Security Hub and 3rd party CSPM, consideration of operational design (Typhon 666,@Typhon666_death)</title>
         <link>https://www.slideshare.net/slideshows/20240207-comparison-of-aws-security-hub-and-3rd-party-cspm-consideration-of-operational-design/266198968</link>
         <dc:date>2024-02-07T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Fluttercon Berlin 2023 - Add2App</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vSwnAX2YRB4sPJNBxTDg9us6B2qX7DWl-1GjieqXq-xVcpCDGA1pZkLjQR4mMlfo7GNdUW6m_yKzdFJ/pub</link>
         <dc:date>2024-02-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マネジャーでなくてもマネジメントに挑戦できる組織なので挑戦してみた話 (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/20240131-1</link>
-        <dc:date>2024-02-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
