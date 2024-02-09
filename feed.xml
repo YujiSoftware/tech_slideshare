@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GraphQL 「良さ」・「難しさ」 再探訪 〜スタディサプリにおける実例〜 (Fumina Chihama)</title>
+        <link>https://speakerdeck.com/fumina/graphql-liang-sa-nan-sisa-zai-tan-fang-sutadeisapuriniokerushi-li</link>
+        <dc:date>2024-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Hono v4 (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/hono-v4</link>
         <dc:date>2024-02-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アナリティクスエンジニアのキャリアとデータモデリング 〜資料「30分でわかるデータモデリング」を読む前に知ってほしいこと〜 / 20240116 (風音屋 (Kazaneya))</title>
         <link>https://speakerdeck.com/kazaneya/20240116</link>
-        <dc:date>2024-02-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Flutter Tips and Tricks - FlutterCon23</title>
-        <link>https://docs.google.com/presentation/d/1az1lb-p-aI6abv6w-jgMXKCKbl6qwfEwwR98mbJavbE/preview</link>
         <dc:date>2024-02-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
