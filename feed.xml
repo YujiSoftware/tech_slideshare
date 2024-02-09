@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織設計にリファクタリング・リアーキテクティングを適用してみた (eiryupio)</title>
+        <link>https://speakerdeck.com/eiryupio/zu-zhi-she-ji-nirihuakutaringuriakitekuteinguwoshi-yong-sitemita</link>
+        <dc:date>2024-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術的負債の発生と返し方の判断基準 (mkitahara)</title>
+        <link>https://speakerdeck.com/mkitahara01985/ji-shu-de-fu-zhai-nofa-sheng-tofan-sifang-nopan-duan-ji-zhun</link>
+        <dc:date>2024-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>第33回 JAWS-UG札幌 クラウド女子会コラボ 勉強会 (nagisa53)</title>
         <link>https://speakerdeck.com/nagisa53/di-33hui-jaws-ugzha-huang-kuraudonu-zi-hui-korabo-mian-qiang-hui</link>
         <dc:date>2024-02-08T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Rolling in the deep(link) – take a deep dive into Flutter navigation</title>
         <link>https://docs.google.com/presentation/d/1K69pyDKjtg_jwdgh9riT_myLIzNtiTU_DE63NETBM3s/preview</link>
-        <dc:date>2024-02-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Raitis Saripo - Memory management in Flutter #FlutterCon</title>
-        <link>https://docs.google.com/presentation/d/1VSGr2JlYVEpkwQe3yMYYqM8qADeSrBCoOep_5-Q5-xE/preview</link>
-        <dc:date>2024-02-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Patrol talk (fluttercon)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSPuEU-QszHJA_Hgc6MzFDlfcVg92ucFaR_W1zs_BATGV9DeP-XyUeveyhmAXjAYriHFJrGi_fyuJ7w/pub</link>
         <dc:date>2024-02-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
