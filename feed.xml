@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ZenohのROS 2向け対応の現状と方向性 (just my thought) (takasehideki)</title>
+        <link>https://speakerdeck.com/takasehideki/zenohnoros-2xiang-kedui-ying-noxian-zhuang-tofang-xiang-xing-just-my-thought</link>
+        <dc:date>2024-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組織設計にリファクタリング・リアーキテクティングを適用してみた (eiryupio)</title>
         <link>https://speakerdeck.com/eiryupio/zu-zhi-she-ji-nirihuakutaringuriakitekuteinguwoshi-yong-sitemita</link>
         <dc:date>2024-02-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Demystifying Text Rendering in Flutter</title>
         <link>https://docs.google.com/presentation/d/1aGpzwXTj_JbNnRyIoXXSzVcEsBnYKhq_6J7eXX3VvMA/preview</link>
-        <dc:date>2024-02-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rolling in the deep(link) – take a deep dive into Flutter navigation</title>
-        <link>https://docs.google.com/presentation/d/1K69pyDKjtg_jwdgh9riT_myLIzNtiTU_DE63NETBM3s/preview</link>
         <dc:date>2024-02-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
