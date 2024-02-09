@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Hono v4 (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/hono-v4</link>
+        <dc:date>2024-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ZenohのROS 2向け対応の現状と方向性 (just my thought) (takasehideki)</title>
         <link>https://speakerdeck.com/takasehideki/zenohnoros-2xiang-kedui-ying-noxian-zhuang-tofang-xiang-xing-just-my-thought</link>
         <dc:date>2024-02-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Flutter Tips and Tricks - FlutterCon23</title>
         <link>https://docs.google.com/presentation/d/1az1lb-p-aI6abv6w-jgMXKCKbl6qwfEwwR98mbJavbE/preview</link>
-        <dc:date>2024-02-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Demystifying Text Rendering in Flutter</title>
-        <link>https://docs.google.com/presentation/d/1aGpzwXTj_JbNnRyIoXXSzVcEsBnYKhq_6J7eXX3VvMA/preview</link>
         <dc:date>2024-02-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
