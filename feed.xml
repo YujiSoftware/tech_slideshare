@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon ECSで好きなだけ検証環境を起動できるOSSの設計・実装・運用 / YAPC::Hiroshima 2024 (FUJIWARA Shunichiro)</title>
+        <link>https://speakerdeck.com/fujiwara3/yapc-hiroshima-2024</link>
+        <dc:date>2024-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Management, Conviction, &amp; Engineering (y_matsuwitter)</title>
         <link>https://speakerdeck.com/ymatsuwitter/management-conviction-and-engineering</link>
         <dc:date>2024-02-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>非同期処理でLLMにもっと働いてもらおう (Higuchi kokoro)</title>
         <link>https://speakerdeck.com/zerebom/async-call-llm</link>
-        <dc:date>2024-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cost Reduction for ECS Fargate Usage in Backlog (vvatanabe)</title>
-        <link>https://speakerdeck.com/vvatanabe/cost-reduction-for-ecs-fargate-usage-in-backlog</link>
         <dc:date>2024-02-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
