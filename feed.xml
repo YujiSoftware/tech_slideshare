@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CloudFormation IaC generatorを使った既存AWS環境の管理方法 / Managing existing environment with AWS CFn IaC generator (Yukitaka Ohmura)</title>
+        <link>https://speakerdeck.com/ohmura/managing-existing-environment-with-aws-cfn-iac-generator</link>
+        <dc:date>2024-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>awkでつくってわかるWebアプリケーション / Web Application Implementation in awk (yammerjp)</title>
+        <link>https://speakerdeck.com/yammerjp/web-application-implementation-in-awk</link>
+        <dc:date>2024-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VISAカードの裏側と  “手が掛かる” 決済システムの育て方 (ShoheiMitani)</title>
+        <link>https://speakerdeck.com/shoheimitani/visakadonoli-ce-to-shou-gagua-karu-jue-ji-sisutemunoyu-tefang</link>
+        <dc:date>2024-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>キャリア理論をもとに考えるエンジニアのキャリア/Engineers' careers based on career theory (Daisuke Sato)</title>
         <link>https://speakerdeck.com/dskst/engineers-careers-based-on-career-theory</link>
         <dc:date>2024-02-09T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>第33回 JAWS-UG札幌 クラウド女子会コラボ 勉強会 (nagisa53)</title>
         <link>https://speakerdeck.com/nagisa53/di-33hui-jaws-ugzha-huang-kuraudonu-zi-hui-korabo-mian-qiang-hui</link>
         <dc:date>2024-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQL「良さ」・「難しさ」再探訪 〜スタディサプリにおける実例〜 / StudySapuri with GraphQL (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/studysapuri-with-graphql</link>
-        <dc:date>2024-02-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Backend エンジニア視点からの GraphQL / GraphQL from a perspective of backend engineer (qsona)</title>
-        <link>https://speakerdeck.com/qsona/graphql-from-a-perspective-of-backend-engineer</link>
-        <dc:date>2024-02-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240207 Comparison of  AWS Security Hub and 3rd party CSPM, consideration of operational design (Typhon 666,@Typhon666_death)</title>
-        <link>https://www.slideshare.net/slideshows/20240207-comparison-of-aws-security-hub-and-3rd-party-cspm-consideration-of-operational-design/266198968</link>
-        <dc:date>2024-02-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
