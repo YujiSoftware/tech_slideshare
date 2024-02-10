@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>C++ MIX #9 (Ryo Suzuki)</title>
+        <link>https://speakerdeck.com/cpp/cppmix9</link>
+        <dc:date>2024-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Platform as a productの取り組み - Sansan研究開発のPlatform Engineering / Platform as a product initiative - Platform Engineering at Sansan R&amp;D (Sansan R&amp;D)</title>
         <link>https://speakerdeck.com/sansan_randd/platform-as-a-product-initiative-platform-engineering-at-sansan-r-and-d</link>
         <dc:date>2024-02-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>2024 年版 Firestore バックアップ方法</title>
         <link>https://docs.google.com/presentation/d/1J9-jNt0eVjj-yzoOWuROFATDo9Vkvn4JJ79FNO5MsAM/preview</link>
         <dc:date>2024-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>100社のコスト診断から見えてきた、コスト削減の王道とケモノ道 (株式会社DELTA)</title>
-        <link>https://speakerdeck.com/delta_tech/100she-nokosutozhen-duan-karajian-etekita-kosutoxue-jian-nowang-dao-tokemonodao</link>
-        <dc:date>2024-02-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
