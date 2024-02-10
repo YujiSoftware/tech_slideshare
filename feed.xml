@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Management, Conviction, &amp; Engineering (y_matsuwitter)</title>
+        <link>https://speakerdeck.com/ymatsuwitter/management-conviction-and-engineering</link>
+        <dc:date>2024-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>My Favorite Protocol: Idempotency-Key Header (Masato Ohba)</title>
         <link>https://speakerdeck.com/ohbarye/my-favorite-protocol-idempotency-key-header</link>
         <dc:date>2024-02-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Cost Reduction for ECS Fargate Usage in Backlog (vvatanabe)</title>
         <link>https://speakerdeck.com/vvatanabe/cost-reduction-for-ecs-fargate-usage-in-backlog</link>
-        <dc:date>2024-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『チームトポロジー』と Platform Engineering (Miho Nagase)</title>
-        <link>https://speakerdeck.com/miholovesq/team-topologies-with-platform-engineering</link>
         <dc:date>2024-02-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
