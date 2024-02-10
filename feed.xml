@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コミットの歴史を継ぐ。 git-theseusで楽々! 歴史の引き継ぎ YAPC::Hiroshima Lightning Talk Feb 10, 2024  @moznion</title>
+        <link>https://docs.google.com/presentation/d/1VMVkgX_zR2Bx9qgjtVN4v0u8p3_QUnqsSVutbFr3AtE/preview</link>
+        <dc:date>2024-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>入門EOL対応 (ryuichi1208)</title>
+        <link>https://speakerdeck.com/ryuichi1208/ru-men-eoldui-ying</link>
+        <dc:date>2024-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Go to Cloudflare Workers (Kei Kamikawa)</title>
         <link>https://speakerdeck.com/codehex/go-to-cloudflare-workers</link>
         <dc:date>2024-02-09T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ZenohのROS 2向け対応の現状と方向性 (just my thought) (takasehideki)</title>
         <link>https://speakerdeck.com/takasehideki/zenohnoros-2xiang-kedui-ying-noxian-zhuang-tofang-xiang-xing-just-my-thought</link>
-        <dc:date>2024-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組織設計にリファクタリング・リアーキテクティングを適用してみた (eiryupio)</title>
-        <link>https://speakerdeck.com/eiryupio/zu-zhi-she-ji-nirihuakutaringuriakitekuteinguwoshi-yong-sitemita</link>
-        <dc:date>2024-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術的負債の発生と返し方の判断基準 (mkitahara)</title>
-        <link>https://speakerdeck.com/mkitahara01985/ji-shu-de-fu-zhai-nofa-sheng-tofan-sifang-nopan-duan-ji-zhun</link>
         <dc:date>2024-02-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
