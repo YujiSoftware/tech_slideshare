@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>古い技術について—SMTP現代事情つまみ食い— (azumakuniyuki)</title>
+        <link>https://speakerdeck.com/azumakuniyuki/gu-iji-shu-nituite-smtpxian-dai-shi-qing-tumamishi-i</link>
+        <dc:date>2024-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>非同期開発体制を支えるドキュメント文化 / YAPC::Hiroshima 2024 (Konboi)</title>
         <link>https://speakerdeck.com/konboi/yapc-hiroshima-2024</link>
         <dc:date>2024-02-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>速習Go/Fast Learning Go (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/fast-learning-go</link>
-        <dc:date>2024-02-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテンツマーケティングの戦略設計 (Yasuki Ichishima)</title>
-        <link>https://speakerdeck.com/makitani/kontentumaketeingunozhan-lue-she-ji</link>
         <dc:date>2024-02-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
