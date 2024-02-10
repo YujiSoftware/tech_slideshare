@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新任エンジニアリングマネージャーのための「ぼうけんのしょ」 (ar_tama)</title>
+        <link>https://speakerdeck.com/ar_tama/yapc-hiroshima-engineering-manager-day1</link>
+        <dc:date>2024-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ChatGPTの登場で始まるシステム管理の新しいパラダイム_システム管理者アワード特別講演 (Hirosato Gamo)</title>
+        <link>https://speakerdeck.com/hirosatogamo/chatgptnodeng-chang-deshi-marusisutemuguan-li-noxin-siiparadaimu-sisutemuguan-li-zhe-awadote-bie-jiang-yan</link>
+        <dc:date>2024-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>変更容易性と理解容易性を支える自動テスト（2024/02版） / Automated Test Knowledge from Savanna 202402 YAPC::Hiroshima edition (Takuto Wada)</title>
         <link>https://speakerdeck.com/twada/automated-test-knowledge-from-savanna-202402-yapc-hiroshima-edition</link>
         <dc:date>2024-02-09T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>新卒エンジニア研修2023（セキュリティ）- 日本経済新聞社 (ふじたーな,@tanafuji_sec)</title>
         <link>https://www.docswell.com/s/tanafuji-sec/KLL3PD-2023-05-18-144600</link>
-        <dc:date>2024-02-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ: API基礎 - 20240116</title>
-        <link>https://docs.google.com/presentation/d/1XdX9Lz9TegX6URqBu66qykhm-NRLdsaTjoikEVbFYkQ/preview</link>
-        <dc:date>2024-02-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>運用設計における設計項目の体系化 / 20240207-ssmjp-operation-design-items (opelab)</title>
-        <link>https://speakerdeck.com/opelab/20240207-ssmjp-operation-design-items</link>
         <dc:date>2024-02-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
