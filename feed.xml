@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>変更容易性と理解容易性を支える自動テスト（2024/02版） / Automated Test Knowledge from Savanna 202402 YAPC::Hiroshima edition (Takuto Wada)</title>
+        <link>https://speakerdeck.com/twada/automated-test-knowledge-from-savanna-202402-yapc-hiroshima-edition</link>
+        <dc:date>2024-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon ECSで好きなだけ検証環境を起動できるOSSの設計・実装・運用 / YAPC::Hiroshima 2024 (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/yapc-hiroshima-2024</link>
         <dc:date>2024-02-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>運用設計における設計項目の体系化 / 20240207-ssmjp-operation-design-items (opelab)</title>
         <link>https://speakerdeck.com/opelab/20240207-ssmjp-operation-design-items</link>
         <dc:date>2024-02-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非同期処理でLLMにもっと働いてもらおう (Higuchi kokoro)</title>
-        <link>https://speakerdeck.com/zerebom/async-call-llm</link>
-        <dc:date>2024-02-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
