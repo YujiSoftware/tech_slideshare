@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模画像テキストデータのフィルタリング手法の紹介 (lyakaap)</title>
+        <link>https://speakerdeck.com/lyakaap/da-gui-mo-hua-xiang-tekisutodetanohuirutaringushou-fa-noshao-jie</link>
+        <dc:date>2024-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>使いたい標準C++機能がない環境でいかに実装・設計するか (Akira Takahashi)</title>
         <link>https://speakerdeck.com/faithandbrave/shi-itaibiao-zhun-c-plus-plus-ji-neng-ganaihuan-jing-deikanishi-zhuang-she-ji-suruka-55e6f70a-5ff8-46f0-9cda-d7229c5e6d65</link>
         <dc:date>2024-02-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GraphQL 「良さ」・「難しさ」 再探訪 〜スタディサプリにおける実例〜 (Fumina Chihama)</title>
         <link>https://speakerdeck.com/fumina/graphql-liang-sa-nan-sisa-zai-tan-fang-sutadeisapuriniokerushi-li</link>
-        <dc:date>2024-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hono v4 (Yusuke Wada)</title>
-        <link>https://speakerdeck.com/yusukebe/hono-v4</link>
         <dc:date>2024-02-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
