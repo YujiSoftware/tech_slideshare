@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>使いたい標準C++機能がない環境でいかに実装・設計するか (Akira Takahashi)</title>
+        <link>https://speakerdeck.com/faithandbrave/shi-itaibiao-zhun-c-plus-plus-ji-neng-ganaihuan-jing-deikanishi-zhuang-she-ji-suruka-55e6f70a-5ff8-46f0-9cda-d7229c5e6d65</link>
+        <dc:date>2024-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コミットの歴史を継ぐ。 git-theseusで楽々! 歴史の引き継ぎ YAPC::Hiroshima Lightning Talk Feb 10, 2024  @moznion</title>
         <link>https://docs.google.com/presentation/d/1VMVkgX_zR2Bx9qgjtVN4v0u8p3_QUnqsSVutbFr3AtE/preview</link>
         <dc:date>2024-02-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Hono v4 (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/hono-v4</link>
-        <dc:date>2024-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ZenohのROS 2向け対応の現状と方向性 (just my thought) (takasehideki)</title>
-        <link>https://speakerdeck.com/takasehideki/zenohnoros-2xiang-kedui-ying-noxian-zhuang-tofang-xiang-xing-just-my-thought</link>
         <dc:date>2024-02-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
