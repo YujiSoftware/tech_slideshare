@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>令和最新版 PHP メモリ管理術 (memory)</title>
+        <link>https://speakerdeck.com/memory1994/php-memory-management-in-reiwa</link>
+        <dc:date>2024-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240116_Azure勉強会1-overview</title>
         <link>https://docs.google.com/presentation/d/16GSNmrzNiCh2nqyJU47YPOM1zX82W-7Js7gaROwB6sw/preview</link>
         <dc:date>2024-02-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CloudFormation IaC generatorを使った既存AWS環境の管理方法 / Managing existing environment with AWS CFn IaC generator (Yukitaka Ohmura)</title>
         <link>https://speakerdeck.com/ohmura/managing-existing-environment-with-aws-cfn-iac-generator</link>
-        <dc:date>2024-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>awkでつくってわかるWebアプリケーション / Web Application Implementation in awk (yammerjp)</title>
-        <link>https://speakerdeck.com/yammerjp/web-application-implementation-in-awk</link>
         <dc:date>2024-02-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
