@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>はじめてのOSSコントリビュート (てきめん tekimen)</title>
+        <link>https://speakerdeck.com/youkidearitai/hazimetenoosskontoribiyuto</link>
+        <dc:date>2024-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アプリケーションエンジニアこそ「監視」だよね！と私が考える訳 #phpkansai (hideki kinjyo)</title>
+        <link>https://speakerdeck.com/o0h/phpkansai-2024</link>
+        <dc:date>2024-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モデルとはなにか / what is model? (Hiromi Hishida)</title>
         <link>https://speakerdeck.com/77web/what-is-model</link>
         <dc:date>2024-02-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Management, Conviction, &amp; Engineering (y_matsuwitter)</title>
         <link>https://speakerdeck.com/ymatsuwitter/management-conviction-and-engineering</link>
-        <dc:date>2024-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>My Favorite Protocol: Idempotency-Key Header (Masato Ohba)</title>
-        <link>https://speakerdeck.com/ohbarye/my-favorite-protocol-idempotency-key-header</link>
-        <dc:date>2024-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C++ MIX #9 (Ryo Suzuki)</title>
-        <link>https://speakerdeck.com/cpp/cppmix9</link>
         <dc:date>2024-02-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
