@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240116_Azure勉強会1-overview</title>
+        <link>https://docs.google.com/presentation/d/16GSNmrzNiCh2nqyJU47YPOM1zX82W-7Js7gaROwB6sw/preview</link>
+        <dc:date>2024-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20240116_Azure勉強会1</title>
+        <link>https://docs.google.com/presentation/d/16CdfH9Oqc4Faw9YLImRK1COHjUQQFaUCU3RqgR-hkbg/preview</link>
+        <dc:date>2024-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20240206_Azure勉強会4-overview</title>
+        <link>https://docs.google.com/presentation/d/1wWeHmBLSVVKyHHpelBh9wwcqm_C_0POxHMO4PzMyXNg/preview</link>
+        <dc:date>2024-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20240206_Azure勉強会4 - クラウド サービスの種類について</title>
+        <link>https://docs.google.com/presentation/d/1MxcQ2w1mCE_fpoLbGT27ebZKX4jp1RITRQMgjtrFTzw/preview</link>
+        <dc:date>2024-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20240206_Azure勉強会4 - OneLake</title>
+        <link>https://docs.google.com/presentation/d/1zru0Ge0ysDIQFYdEcMd-qZMmWec1ooF7qWUcEzoJ4dM/preview</link>
+        <dc:date>2024-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20240130_Azure勉強会3-overview</title>
+        <link>https://docs.google.com/presentation/d/1xckllh21oCRvQHOfum8IfL4alntiIrt1fnHfXL2utro/preview</link>
+        <dc:date>2024-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20240130_Azure勉強会3 - クラウド サービスを使用する利点について</title>
+        <link>https://docs.google.com/presentation/d/1igrm_bT9SHSRm0Rj01hek_RKsDwqf_3xOoiTnCNUXQo/preview</link>
+        <dc:date>2024-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20240123_Azure勉強会2-overview</title>
+        <link>https://docs.google.com/presentation/d/18AabHMJRZXL9M-FLvyKxdG7yc1J6YhVgBhTA54N8xQs/preview</link>
+        <dc:date>2024-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20240123_Azure勉強会2 - クラウドコンピューティングについて</title>
+        <link>https://docs.google.com/presentation/d/1zhCLJ6L3_7-dYpUhJoMnb6XDdG1eHpJaDw2F8a4PuJ4/preview</link>
+        <dc:date>2024-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>はじめてのOSSコントリビュート (てきめん tekimen)</title>
         <link>https://speakerdeck.com/youkidearitai/hazimetenoosskontoribiyuto</link>
         <dc:date>2024-02-11T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>awkでつくってわかるWebアプリケーション / Web Application Implementation in awk (yammerjp)</title>
         <link>https://speakerdeck.com/yammerjp/web-application-implementation-in-awk</link>
-        <dc:date>2024-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VISAカードの裏側と  “手が掛かる” 決済システムの育て方 (ShoheiMitani)</title>
-        <link>https://speakerdeck.com/shoheimitani/visakadonoli-ce-to-shou-gagua-karu-jue-ji-sisutemunoyu-tefang</link>
-        <dc:date>2024-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>キャリア理論をもとに考えるエンジニアのキャリア/Engineers' careers based on career theory (Daisuke Sato)</title>
-        <link>https://speakerdeck.com/dskst/engineers-careers-based-on-career-theory</link>
-        <dc:date>2024-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>古い技術について—SMTP現代事情つまみ食い— (azumakuniyuki)</title>
-        <link>https://speakerdeck.com/azumakuniyuki/gu-iji-shu-nituite-smtpxian-dai-shi-qing-tumamishi-i</link>
-        <dc:date>2024-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非同期開発体制を支えるドキュメント文化 / YAPC::Hiroshima 2024 (Konboi)</title>
-        <link>https://speakerdeck.com/konboi/yapc-hiroshima-2024</link>
-        <dc:date>2024-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新任エンジニアリングマネージャーのための「ぼうけんのしょ」 (ar_tama)</title>
-        <link>https://speakerdeck.com/ar_tama/yapc-hiroshima-engineering-manager-day1</link>
-        <dc:date>2024-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTの登場で始まるシステム管理の新しいパラダイム_システム管理者アワード特別講演 (Hirosato Gamo)</title>
-        <link>https://speakerdeck.com/hirosatogamo/chatgptnodeng-chang-deshi-marusisutemuguan-li-noxin-siiparadaimu-sisutemuguan-li-zhe-awadote-bie-jiang-yan</link>
-        <dc:date>2024-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>変更容易性と理解容易性を支える自動テスト（2024/02版） / Automated Test Knowledge from Savanna 202402 YAPC::Hiroshima edition (Takuto Wada)</title>
-        <link>https://speakerdeck.com/twada/automated-test-knowledge-from-savanna-202402-yapc-hiroshima-edition</link>
-        <dc:date>2024-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon ECSで好きなだけ検証環境を起動できるOSSの設計・実装・運用 / YAPC::Hiroshima 2024 (FUJIWARA Shunichiro)</title>
-        <link>https://speakerdeck.com/fujiwara3/yapc-hiroshima-2024</link>
-        <dc:date>2024-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Management, Conviction, &amp; Engineering (y_matsuwitter)</title>
-        <link>https://speakerdeck.com/ymatsuwitter/management-conviction-and-engineering</link>
         <dc:date>2024-02-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
