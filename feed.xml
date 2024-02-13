@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RDBアンチパターンと戦う - 削除フラグ 完全攻略ガイド / delete flag (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/delete-flag</link>
+        <dc:date>2024-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[PUBLIC] Rohan Taneja - Fluttercon Berlin 2023</title>
         <link>https://docs.google.com/presentation/d/1WvNA6rKls51RXPJBoFKLVFruOf_g6DcxX73e81TCXFk/preview</link>
         <dc:date>2024-02-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コミットの歴史を継ぐ。 git-theseusで楽々! 歴史の引き継ぎ YAPC::Hiroshima Lightning Talk Feb 10, 2024  @moznion</title>
         <link>https://docs.google.com/presentation/d/1VMVkgX_zR2Bx9qgjtVN4v0u8p3_QUnqsSVutbFr3AtE/preview</link>
-        <dc:date>2024-02-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入門EOL対応 (ryuichi1208)</title>
-        <link>https://speakerdeck.com/ryuichi1208/ru-men-eoldui-ying</link>
         <dc:date>2024-02-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
