@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェアサイエンス特別講義A リバースエンジニアリング(2024/2/10 5限)  (ひろみつ)</title>
+        <link>https://speakerdeck.com/bakueikozo/10-5xian</link>
+        <dc:date>2024-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>rakulangで実装する! RubyVM (AnaTofuZ)</title>
         <link>https://speakerdeck.com/anatofuz/rakulangdeshi-zhuang-suru-rubyvm</link>
         <dc:date>2024-02-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20240123_Azure勉強会2-overview</title>
         <link>https://docs.google.com/presentation/d/18AabHMJRZXL9M-FLvyKxdG7yc1J6YhVgBhTA54N8xQs/preview</link>
-        <dc:date>2024-02-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240123_Azure勉強会2 - クラウドコンピューティングについて</title>
-        <link>https://docs.google.com/presentation/d/1zhCLJ6L3_7-dYpUhJoMnb6XDdG1eHpJaDw2F8a4PuJ4/preview</link>
         <dc:date>2024-02-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
