@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セイル会社紹介 / sail-introduction (taito)</title>
+        <link>https://speakerdeck.com/taito/sail-introduction</link>
+        <dc:date>2024-02-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>マイクロサービス導入により生まれた組織課題に対するソリューションとしてのTiDB/Developers Summit 2024 TiDB Sponsor Session (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/developers-summit-2024-tidb-sponsor-session</link>
+        <dc:date>2024-02-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発生産性の現在地点～エンジニアリングが及ぼす多角的視点 / Current status of development productivity (Masato Ishigaki / 石垣雅人)</title>
         <link>https://speakerdeck.com/i35_267/current-status-of-development-productivity</link>
         <dc:date>2024-02-14T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>RDBアンチパターンと戦う - 削除フラグ 完全攻略ガイド / delete flag (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/delete-flag</link>
         <dc:date>2024-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[PUBLIC] Rohan Taneja - Fluttercon Berlin 2023</title>
-        <link>https://docs.google.com/presentation/d/1WvNA6rKls51RXPJBoFKLVFruOf_g6DcxX73e81TCXFk/preview</link>
-        <dc:date>2024-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPで学ぶ Session の基本と応用 / web-app-session-101-2024 (Ryo Tomidokoro)</title>
-        <link>https://speakerdeck.com/hanhan1978/web-app-session-101-2024</link>
-        <dc:date>2024-02-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
