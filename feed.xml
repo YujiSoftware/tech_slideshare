@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kubernetesは怖くない！開発者のためのインフラトラブルシューティング入門 (aoi)</title>
+        <link>https://speakerdeck.com/aoi1/kuberneteshabu-kunai-kai-fa-zhe-notamenoinhuratoraburusiyuteinguru-men</link>
+        <dc:date>2024-02-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アーキテクチャから学ぶKubernetesの全体像 (bells17)</title>
         <link>https://speakerdeck.com/bells17/akitekutiyakaraxue-hukubernetesnoquan-ti-xiang</link>
         <dc:date>2024-02-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20240213_Azure勉強会5 - overview</title>
         <link>https://docs.google.com/presentation/d/1xvLNZGM4BfCxLpsi4FEJz-SNdpOFYpfU0uHXKR1KCJA/preview</link>
-        <dc:date>2024-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240213_Azure勉強会5 - Azure のコア アーキテクチャ コンポーネントについて</title>
-        <link>https://docs.google.com/presentation/d/1JRfVLGc4d8A2_fOLlZR7ptGH2GunHYU8U7p7xGzbdQA/preview</link>
         <dc:date>2024-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
