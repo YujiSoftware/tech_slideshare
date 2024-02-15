@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Building and Evaluating LLM Agents</title>
+        <link>https://docs.google.com/presentation/d/1gnXhucgiI7I7enBDSGmvTmLqKvs3zZIKWyjf0bsydsc/preview</link>
+        <dc:date>2024-02-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ほげ言語にあってPHPにない機能 (Hisateru Tanaka)</title>
         <link>https://speakerdeck.com/tanakahisateru/hokeyan-yu-niatutephpninaiji-neng</link>
         <dc:date>2024-02-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20240206_Azure勉強会4 - クラウド サービスの種類について</title>
         <link>https://docs.google.com/presentation/d/1MxcQ2w1mCE_fpoLbGT27ebZKX4jp1RITRQMgjtrFTzw/preview</link>
-        <dc:date>2024-02-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240206_Azure勉強会4 - OneLake</title>
-        <link>https://docs.google.com/presentation/d/1zru0Ge0ysDIQFYdEcMd-qZMmWec1ooF7qWUcEzoJ4dM/preview</link>
         <dc:date>2024-02-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
