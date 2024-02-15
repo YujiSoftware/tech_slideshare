@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代を乗り切る実装力をつけよう / Get avility of implementation beyond AI era (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/get-avility-of-implementation-beyond-ai-era</link>
+        <dc:date>2024-02-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kubernetesは怖くない！開発者のためのインフラトラブルシューティング入門 (aoi)</title>
         <link>https://speakerdeck.com/aoi1/kuberneteshabu-kunai-kai-fa-zhe-notamenoinhuratoraburusiyuteinguru-men</link>
         <dc:date>2024-02-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20240209_丸善博多_データで話す組織_出版記念ミニトーク.pdf (NobuakiOshiro)</title>
         <link>https://speakerdeck.com/doradora09/20240209-wan-shan-bo-duo-tetatehua-suzu-zhi-chu-ban-ji-nian-minitoku</link>
-        <dc:date>2024-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240213_Azure勉強会5 - overview</title>
-        <link>https://docs.google.com/presentation/d/1xvLNZGM4BfCxLpsi4FEJz-SNdpOFYpfU0uHXKR1KCJA/preview</link>
         <dc:date>2024-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
