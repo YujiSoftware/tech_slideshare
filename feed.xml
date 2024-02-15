@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発生産性の現在地点～エンジニアリングが及ぼす多角的視点 / Current status of development productivity (Masato Ishigaki / 石垣雅人)</title>
+        <link>https://speakerdeck.com/i35_267/current-status-of-development-productivity</link>
+        <dc:date>2024-02-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>"ウルトラジャンプ" な成長を支えるプロダクトエンジニアというキャリア  (hacomono Inc.)</title>
         <link>https://speakerdeck.com/hacomono/urutoraziyanpu-nacheng-chang-wozhi-erupurodakutoenziniatoiukiyaria</link>
         <dc:date>2024-02-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>PHPで学ぶ Session の基本と応用 / web-app-session-101-2024 (Ryo Tomidokoro)</title>
         <link>https://speakerdeck.com/hanhan1978/web-app-session-101-2024</link>
-        <dc:date>2024-02-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>令和最新版 PHP メモリ管理術 (memory)</title>
-        <link>https://speakerdeck.com/memory1994/php-memory-management-in-reiwa</link>
         <dc:date>2024-02-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
