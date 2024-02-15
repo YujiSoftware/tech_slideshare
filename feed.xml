@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アーキテクチャから学ぶKubernetesの全体像 (bells17)</title>
+        <link>https://speakerdeck.com/bells17/akitekutiyakaraxue-hukubernetesnoquan-ti-xiang</link>
+        <dc:date>2024-02-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セイル会社紹介 / sail-introduction (taito)</title>
         <link>https://speakerdeck.com/taito/sail-introduction</link>
         <dc:date>2024-02-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20240213_Azure勉強会5 - Azure のコア アーキテクチャ コンポーネントについて</title>
         <link>https://docs.google.com/presentation/d/1JRfVLGc4d8A2_fOLlZR7ptGH2GunHYU8U7p7xGzbdQA/preview</link>
-        <dc:date>2024-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDBアンチパターンと戦う - 削除フラグ 完全攻略ガイド / delete flag (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/delete-flag</link>
         <dc:date>2024-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
