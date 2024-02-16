@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サービスの危機に立ち向かうリーダーシップ～インシデントコマンダーの役割と戦略～ (Kazuto Kusama)</title>
+        <link>https://speakerdeck.com/jacopen/sabisunowei-ji-nili-tixiang-kauridasitupu-insidentokomandanoyi-ge-tozhan-lue</link>
+        <dc:date>2024-02-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Copilotは開発者の生産性をどれだけ上げるのか？ZOZOでの全社導入とその効果 / How Much Does GitHub Copilot Improve Developer Productivity? The Company-wide Implementation and Its Effects at ZOZO (Ryosuke Horie)</title>
         <link>https://speakerdeck.com/horie1024/how-much-does-github-copilot-improve-developer-productivity-the-company-wide-implementation-and-its-effects-at-zozo</link>
         <dc:date>2024-02-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>rakulangで実装する! RubyVM (AnaTofuZ)</title>
         <link>https://speakerdeck.com/anatofuz/rakulangdeshi-zhuang-suru-rubyvm</link>
         <dc:date>2024-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新年チャレンジしたことLT会</title>
-        <link>https://docs.google.com/presentation/d/19YPVAxGDjTeRoYfzcpWQ-TBYpusbF7MeWSK8VqAS27g/preview</link>
-        <dc:date>2024-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
