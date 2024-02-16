@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>5分でわかるGoの自動計装 (ryuichi1208)</title>
+        <link>https://speakerdeck.com/ryuichi1208/5fen-dewakarugonozi-dong-ji-zhuang</link>
+        <dc:date>2024-02-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>執筆テーマの決め方 (sapi_kawahara)</title>
         <link>https://speakerdeck.com/sapi_kawahara/zhi-bi-temanojue-mefang</link>
         <dc:date>2024-02-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スクラム &amp; アジャイル本をまとめてみた (DaisukeShinoku)</title>
         <link>https://speakerdeck.com/daisukeshinoku/hoge</link>
-        <dc:date>2024-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Zennを支える Google Cloud の技術  (Yusuke Wada)</title>
-        <link>https://speakerdeck.com/wadayusuke/the-technology-behind-zenn-powered-by-google-cloud</link>
         <dc:date>2024-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
