@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240216 Amazon Linux 2 を 2023 に移行してみた (Masaru Ogura)</title>
+        <link>https://speakerdeck.com/masaruogura/20240216-amazon-linux-2-wo-2023-niyi-xing-sitemita</link>
+        <dc:date>2024-02-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サービスの危機に立ち向かうリーダーシップ～インシデントコマンダーの役割と戦略～ (Kazuto Kusama)</title>
         <link>https://speakerdeck.com/jacopen/sabisunowei-ji-nili-tixiang-kauridasitupu-insidentokomandanoyi-ge-tozhan-lue</link>
         <dc:date>2024-02-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェアサイエンス特別講義A リバースエンジニアリング(2024/2/10 5限)  (ひろみつ)</title>
         <link>https://speakerdeck.com/bakueikozo/10-5xian</link>
-        <dc:date>2024-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>rakulangで実装する! RubyVM (AnaTofuZ)</title>
-        <link>https://speakerdeck.com/anatofuz/rakulangdeshi-zhuang-suru-rubyvm</link>
         <dc:date>2024-02-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
