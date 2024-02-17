@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Microsoft Intune 勉強会 第 1 回目 (tamaiyutaro)</title>
+        <link>https://speakerdeck.com/tamaiyutaro/microsoft-intune-mian-qiang-hui-di-1-hui-mu</link>
+        <dc:date>2024-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【DL輪読会】Mixtral of Experts (Deep Learning JP,@DL_Hacks)</title>
         <link>https://www.docswell.com/s/DeepLearning2023/KENMJQ-2024-01-12-105718</link>
         <dc:date>2024-02-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Building and Evaluating LLM Agents</title>
         <link>https://docs.google.com/presentation/d/1gnXhucgiI7I7enBDSGmvTmLqKvs3zZIKWyjf0bsydsc/preview</link>
-        <dc:date>2024-02-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ほげ言語にあってPHPにない機能 (Hisateru Tanaka)</title>
-        <link>https://speakerdeck.com/tanakahisateru/hokeyan-yu-niatutephpninaiji-neng</link>
         <dc:date>2024-02-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
