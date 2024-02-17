@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Linuxコンテナの仕組み / eBPF &amp; Container Study in Fukuoka (tenforward)</title>
+        <link>https://speakerdeck.com/tenforward/ebpf-and-container-study-in-fukuoka</link>
+        <dc:date>2024-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IaCでセキュリティを強化しよう！～IAMが苦手な開発者でも簡単に権限を絞れる。そう、AWS CDKならね！～/secjaws32 (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
         <link>https://speakerdeck.com/mhrtech/secjaws32</link>
         <dc:date>2024-02-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>チームと成長するSRE (maru)</title>
         <link>https://speakerdeck.com/maruloop/growth-of-sres-and-swes</link>
-        <dc:date>2024-02-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Defender for Endpoint でインシデント対応する上で知っておきたい Windows の知識 (Kunii, Suguru)</title>
-        <link>https://speakerdeck.com/sophiakunii/microsoft-defender-for-endpoint-deinsidentodui-ying-surushang-dezhi-tuteokitai-windows-nozhi-shi-9e50b52a-2ebd-4fa0-bcfb-7defc3415f43</link>
         <dc:date>2024-02-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
