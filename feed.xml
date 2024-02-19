@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go Down Rockin'  (Yoshiori SHOJI)</title>
+        <link>https://speakerdeck.com/yoshiori/go-down-rockin</link>
+        <dc:date>2024-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最適化ではなく最大化 生産性と生産量を上げるためにどう考えるか？ (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20240219</link>
+        <dc:date>2024-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CloudFormationとTerraformを 比較してみた (hiyanger)</title>
         <link>https://speakerdeck.com/hiyanger/cloudformationtoterraformwo-bi-jiao-sitemita</link>
         <dc:date>2024-02-18T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AI時代を乗り切る実装力をつけよう / Get avility of implementation beyond AI era (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/get-avility-of-implementation-beyond-ai-era</link>
-        <dc:date>2024-02-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesは怖くない！開発者のためのインフラトラブルシューティング入門 (aoi)</title>
-        <link>https://speakerdeck.com/aoi1/kuberneteshabu-kunai-kai-fa-zhe-notamenoinhuratoraburusiyuteinguru-men</link>
-        <dc:date>2024-02-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アーキテクチャから学ぶKubernetesの全体像 (bells17)</title>
-        <link>https://speakerdeck.com/bells17/akitekutiyakaraxue-hukubernetesnoquan-ti-xiang</link>
         <dc:date>2024-02-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
