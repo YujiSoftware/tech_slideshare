@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FlutterGakkai #5 SNKRDUNKにおける WebViewからFlutterへのリプレイス</title>
+        <link>https://docs.google.com/presentation/d/1B8QN4lQZgWrh8YBKWc678wxZ3pUTUAh9khFYkSAMgnk/preview</link>
+        <dc:date>2024-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Go Down Rockin'  (Yoshiori SHOJI)</title>
         <link>https://speakerdeck.com/yoshiori/go-down-rockin</link>
         <dc:date>2024-02-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>執筆テーマの決め方 (sapi_kawahara)</title>
         <link>https://speakerdeck.com/sapi_kawahara/zhi-bi-temanojue-mefang</link>
         <dc:date>2024-02-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代を乗り切る実装力をつけよう / Get avility of implementation beyond AI era (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/get-avility-of-implementation-beyond-ai-era</link>
-        <dc:date>2024-02-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
