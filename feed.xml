@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CloudFormationとTerraformを 比較してみた (hiyanger)</title>
+        <link>https://speakerdeck.com/hiyanger/cloudformationtoterraformwo-bi-jiao-sitemita</link>
+        <dc:date>2024-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>めぐろLT8スライド</title>
+        <link>https://docs.google.com/presentation/d/1gob0dTDkykSYNLNLVYVRVKeSvIzFqQ-du5c2pRmUXqc/preview</link>
+        <dc:date>2024-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MUI v6, v7 が2024年にリリースされるので新機能を調べてみた (semigura)</title>
         <link>https://speakerdeck.com/semigura/mui-v6-v7-ga2024nian-niririsusarerunodexin-ji-neng-wodiao-betemita</link>
         <dc:date>2024-02-18T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>アーキテクチャから学ぶKubernetesの全体像 (bells17)</title>
         <link>https://speakerdeck.com/bells17/akitekutiyakaraxue-hukubernetesnoquan-ti-xiang</link>
-        <dc:date>2024-02-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セイル会社紹介 / sail-introduction (taito)</title>
-        <link>https://speakerdeck.com/taito/sail-introduction</link>
-        <dc:date>2024-02-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マイクロサービス導入により生まれた組織課題に対するソリューションとしてのTiDB/Developers Summit 2024 TiDB Sponsor Session (AEON)</title>
-        <link>https://speakerdeck.com/aeonpeople/developers-summit-2024-tidb-sponsor-session</link>
         <dc:date>2024-02-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
