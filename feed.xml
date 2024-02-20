@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSで構築するCDパイプラインとその改善 (shonansurvivors)</title>
+        <link>https://speakerdeck.com/shonansurvivors/cd-pipeline-construction-and-improvements-on-aws</link>
+        <dc:date>2024-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アジャイルな情シスやってみた (KTCコーポレートITグループ)</title>
         <link>https://speakerdeck.com/ktc_corporate_it/aziyairunaqing-sisuyatutemita</link>
         <dc:date>2024-02-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Microsoft Intune 勉強会 第 1 回目 (tamaiyutaro)</title>
         <link>https://speakerdeck.com/tamaiyutaro/microsoft-intune-mian-qiang-hui-di-1-hui-mu</link>
-        <dc:date>2024-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【DL輪読会】Mixtral of Experts (Deep Learning JP,@DL_Hacks)</title>
-        <link>https://www.docswell.com/s/DeepLearning2023/KENMJQ-2024-01-12-105718</link>
         <dc:date>2024-02-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
