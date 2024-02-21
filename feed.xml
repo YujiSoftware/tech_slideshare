@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>reg-viz VRT tools (Yosuke Kurami)</title>
+        <link>https://speakerdeck.com/quramy/reg-viz-vrt-tools</link>
+        <dc:date>2024-02-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模言語モデルを作る、拡張する (stillpedant)</title>
+        <link>https://speakerdeck.com/stillpedant/da-gui-mo-yan-yu-moderuwozuo-ru-kuo-zhang-suru</link>
+        <dc:date>2024-02-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Playwright で一番小さく始める VRT と、次のステップの選択肢 (Hirotaka Miyagi)</title>
         <link>https://speakerdeck.com/mh4gf/playwright-de-fan-xiao-sakushi-meru-vrt-to-ci-nosutetupunoxuan-ze-zhi</link>
         <dc:date>2024-02-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>めぐろLT8スライド</title>
         <link>https://docs.google.com/presentation/d/1gob0dTDkykSYNLNLVYVRVKeSvIzFqQ-du5c2pRmUXqc/preview</link>
-        <dc:date>2024-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MUI v6, v7 が2024年にリリースされるので新機能を調べてみた (semigura)</title>
-        <link>https://speakerdeck.com/semigura/mui-v6-v7-ga2024nian-niririsusarerunodexin-ji-neng-wodiao-betemita</link>
-        <dc:date>2024-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データブリックスエンジニアが語るデータ・AI基盤の現在地とこれから (Databricks Japan)</title>
-        <link>https://speakerdeck.com/databricksjapan/detaburitukusuenziniagayu-rudetaaiji-pan-noxian-zai-di-tokorekara</link>
         <dc:date>2024-02-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
