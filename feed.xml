@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソニーにおける App Runner 導入事例と生の体験談の紹介 / Case study and real experience of using App Runner in Sony products (KenjiYoneyama)</title>
+        <link>https://speakerdeck.com/kenjiyoneyama/case-study-and-real-experience-of-using-app-runner-in-sony-products</link>
+        <dc:date>2024-02-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SaaS アーキテクチャ概要 (ryurock)</title>
         <link>https://speakerdeck.com/ryurock/saas-akitekutiyagai-yao</link>
         <dc:date>2024-02-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>最適化ではなく最大化 生産性と生産量を上げるためにどう考えるか？ (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20240219</link>
-        <dc:date>2024-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CloudFormationとTerraformを 比較してみた (hiyanger)</title>
-        <link>https://speakerdeck.com/hiyanger/cloudformationtoterraformwo-bi-jiao-sitemita</link>
         <dc:date>2024-02-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
