@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SaaS アーキテクチャ概要 (ryurock)</title>
+        <link>https://speakerdeck.com/ryurock/saas-akitekutiyagai-yao</link>
+        <dc:date>2024-02-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>reg-viz VRT tools (Yosuke Kurami)</title>
         <link>https://speakerdeck.com/quramy/reg-viz-vrt-tools</link>
         <dc:date>2024-02-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CloudFormationとTerraformを 比較してみた (hiyanger)</title>
         <link>https://speakerdeck.com/hiyanger/cloudformationtoterraformwo-bi-jiao-sitemita</link>
-        <dc:date>2024-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>めぐろLT8スライド</title>
-        <link>https://docs.google.com/presentation/d/1gob0dTDkykSYNLNLVYVRVKeSvIzFqQ-du5c2pRmUXqc/preview</link>
         <dc:date>2024-02-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
