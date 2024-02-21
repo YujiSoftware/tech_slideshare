@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Storybookの実力をフル活用するChromatic (sakito)</title>
+        <link>https://speakerdeck.com/sakito/storybooknoshi-li-wohuruhuo-yong-suruchromatic</link>
+        <dc:date>2024-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ヤフーのユーザー5,400万人から"同意"を得るための技術 (LY Corporation Tech)</title>
         <link>https://speakerdeck.com/lycorptech_jp/20231220</link>
         <dc:date>2024-02-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>バグハンティングのすゝめ / P3NFEST (Masato Kinugawa)</title>
         <link>https://speakerdeck.com/masatokinugawa/p3nfest</link>
         <dc:date>2024-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Linuxコンテナの仕組み / eBPF &amp; Container Study in Fukuoka (tenforward)</title>
-        <link>https://speakerdeck.com/tenforward/ebpf-and-container-study-in-fukuoka</link>
-        <dc:date>2024-02-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
