@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The State of Open Source Funding (Kara Sowles)</title>
+        <link>https://speakerdeck.com/karasowles/the-state-of-open-source-funding</link>
+        <dc:date>2024-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSで構築するCDパイプラインとその改善 (shonansurvivors)</title>
         <link>https://speakerdeck.com/shonansurvivors/cd-pipeline-construction-and-improvements-on-aws</link>
         <dc:date>2024-02-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>IaCでセキュリティを強化しよう！～IAMが苦手な開発者でも簡単に権限を絞れる。そう、AWS CDKならね！～/secjaws32 (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
         <link>https://speakerdeck.com/mhrtech/secjaws32</link>
-        <dc:date>2024-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Intune 勉強会 第 1 回目 (tamaiyutaro)</title>
-        <link>https://speakerdeck.com/tamaiyutaro/microsoft-intune-mian-qiang-hui-di-1-hui-mu</link>
         <dc:date>2024-02-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
