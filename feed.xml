@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Playwright で一番小さく始める VRT と、次のステップの選択肢 (Hirotaka Miyagi)</title>
+        <link>https://speakerdeck.com/mh4gf/playwright-de-fan-xiao-sakushi-meru-vrt-to-ci-nosutetupunoxuan-ze-zhi</link>
+        <dc:date>2024-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VRTツールのダークホース Lost Pixelを紹介したい (AijiUejima)</title>
+        <link>https://speakerdeck.com/aiji42/vrtturunodakuhosu-lost-pixelwoshao-jie-sitai</link>
+        <dc:date>2024-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Storybookの実力をフル活用するChromatic (sakito)</title>
         <link>https://speakerdeck.com/sakito/storybooknoshi-li-wohuruhuo-yong-suruchromatic</link>
         <dc:date>2024-02-20T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>データブリックスエンジニアが語るデータ・AI基盤の現在地とこれから (Databricks Japan)</title>
         <link>https://speakerdeck.com/databricksjapan/detaburitukusuenziniagayu-rudetaaiji-pan-noxian-zai-di-tokorekara</link>
         <dc:date>2024-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Copilot for Microsoft 365 ユーザー向け研修資料 (田口 大智 / ぐっちー)</title>
-        <link>https://speakerdeck.com/hirotomotaguchi/copilot-for-microsoft-365-yuzaxiang-keyan-xiu-zi-liao</link>
-        <dc:date>2024-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バグハンティングのすゝめ / P3NFEST (Masato Kinugawa)</title>
-        <link>https://speakerdeck.com/masatokinugawa/p3nfest</link>
-        <dc:date>2024-02-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
