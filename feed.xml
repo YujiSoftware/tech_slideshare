@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Lambdaのパフォーマンス改善 (mick)</title>
+        <link>https://speakerdeck.com/ryosuke_tsutsumi/lambdanohahuomansugai-shan</link>
+        <dc:date>2024-02-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インシデントコマンダーやってみた (Hayato Kawai)</title>
         <link>https://speakerdeck.com/fohte/insidentokomandayatutemita</link>
         <dc:date>2024-02-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アジャイルな情シスやってみた (KTCコーポレートITグループ)</title>
         <link>https://speakerdeck.com/ktc_corporate_it/aziyairunaqing-sisuyatutemita</link>
-        <dc:date>2024-02-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bookingsで健康診断予約改善してみた (KTCコーポレートITグループ)</title>
-        <link>https://speakerdeck.com/ktc_corporate_it/bookingsdejian-kang-zhen-duan-yu-yue-gai-shan-sitemita</link>
         <dc:date>2024-02-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
