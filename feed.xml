@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DNSで現在時刻がわかる魔法 (Toshihiko SHIMOKAWA)</title>
+        <link>https://speakerdeck.com/toshi0806/dnsdexian-zai-shi-ke-gawakarumo-fa</link>
+        <dc:date>2024-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Lambdaのパフォーマンス改善 (mick)</title>
         <link>https://speakerdeck.com/ryosuke_tsutsumi/lambdanohahuomansugai-shan</link>
         <dc:date>2024-02-22T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AWSで構築するCDパイプラインとその改善 (shonansurvivors)</title>
         <link>https://speakerdeck.com/shonansurvivors/cd-pipeline-construction-and-improvements-on-aws</link>
         <dc:date>2024-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイルな情シスやってみた (KTCコーポレートITグループ)</title>
-        <link>https://speakerdeck.com/ktc_corporate_it/aziyairunaqing-sisuyatutemita</link>
-        <dc:date>2024-02-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
