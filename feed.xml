@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インシデントコマンダーやってみた (Hayato Kawai)</title>
+        <link>https://speakerdeck.com/fohte/insidentokomandayatutemita</link>
+        <dc:date>2024-02-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSのログ管理ベストプラクティス (Akihiro Kuwano)</title>
         <link>https://speakerdeck.com/akuwano/awsnoroguguan-li-besutopurakuteisu</link>
         <dc:date>2024-02-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Bookingsで健康診断予約改善してみた (KTCコーポレートITグループ)</title>
         <link>https://speakerdeck.com/ktc_corporate_it/bookingsdejian-kang-zhen-duan-yu-yue-gai-shan-sitemita</link>
-        <dc:date>2024-02-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Jiraでやったった！無人備品貸出なしくみ (KTCコーポレートITグループ)</title>
-        <link>https://speakerdeck.com/ktc_corporate_it/jiradeyatutatuta-wu-ren-bei-pin-dai-chu-nasikumi</link>
         <dc:date>2024-02-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
