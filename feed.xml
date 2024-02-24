@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ENOG81: AWSのIPv6とPublic IPv4のおはなし (Yukihiro Kikuchi)</title>
+        <link>https://speakerdeck.com/yukihirokikuchi/enog81-aws-ipv6-public-ipv4</link>
+        <dc:date>2024-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DNSで現在時刻がわかる魔法 (Toshihiko SHIMOKAWA)</title>
         <link>https://speakerdeck.com/toshi0806/dnsdexian-zai-shi-ke-gawakarumo-fa</link>
         <dc:date>2024-02-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>The State of Open Source Funding (Kara Sowles)</title>
         <link>https://speakerdeck.com/karasowles/the-state-of-open-source-funding</link>
-        <dc:date>2024-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSで構築するCDパイプラインとその改善 (shonansurvivors)</title>
-        <link>https://speakerdeck.com/shonansurvivors/cd-pipeline-construction-and-improvements-on-aws</link>
         <dc:date>2024-02-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
