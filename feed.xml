@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最近個人開発が熱い (sugar)</title>
+        <link>https://speakerdeck.com/sugarcat7/zui-jin-ge-ren-kai-fa-gare-i</link>
+        <dc:date>2024-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Podman_CRI-O_update_2024-02 (orimanabu)</title>
         <link>https://speakerdeck.com/orimanabu/podman-cri-o-update-2024-02</link>
         <dc:date>2024-02-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>reg-viz VRT tools (Yosuke Kurami)</title>
         <link>https://speakerdeck.com/quramy/reg-viz-vrt-tools</link>
-        <dc:date>2024-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデルを作る、拡張する (stillpedant)</title>
-        <link>https://speakerdeck.com/stillpedant/da-gui-mo-yan-yu-moderuwozuo-ru-kuo-zhang-suru</link>
         <dc:date>2024-02-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
