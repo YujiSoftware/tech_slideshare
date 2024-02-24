@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Podman_CRI-O_update_2024-02 (orimanabu)</title>
+        <link>https://speakerdeck.com/orimanabu/podman-cri-o-update-2024-02</link>
+        <dc:date>2024-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>関数データに対する主成分分析 ～方法論の紹介とRによる実装～ (Hidetoshi Matsui)</title>
         <link>https://speakerdeck.com/hidetoshimatsui/guan-shu-detanidui-suruzhu-cheng-fen-fen-xi-fang-fa-lun-noshao-jie-torniyorushi-zhuang</link>
         <dc:date>2024-02-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>大規模言語モデルを作る、拡張する (stillpedant)</title>
         <link>https://speakerdeck.com/stillpedant/da-gui-mo-yan-yu-moderuwozuo-ru-kuo-zhang-suru</link>
         <dc:date>2024-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Playwright で一番小さく始める VRT と、次のステップの選択肢 (Hirotaka Miyagi)</title>
-        <link>https://speakerdeck.com/mh4gf/playwright-de-fan-xiao-sakushi-meru-vrt-to-ci-nosutetupunoxuan-ze-zhi</link>
-        <dc:date>2024-02-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
