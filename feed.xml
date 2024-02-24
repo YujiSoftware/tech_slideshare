@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>関数データに対する主成分分析 ～方法論の紹介とRによる実装～ (Hidetoshi Matsui)</title>
+        <link>https://speakerdeck.com/hidetoshimatsui/guan-shu-detanidui-suruzhu-cheng-fen-fen-xi-fang-fa-lun-noshao-jie-torniyorushi-zhuang</link>
+        <dc:date>2024-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>デプロイ再考2024/reconsidering-deploy-in-2024 (sugitak)</title>
         <link>https://speakerdeck.com/sugitak/reconsidering-deploy-in-2024</link>
         <dc:date>2024-02-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Playwright で一番小さく始める VRT と、次のステップの選択肢 (Hirotaka Miyagi)</title>
         <link>https://speakerdeck.com/mh4gf/playwright-de-fan-xiao-sakushi-meru-vrt-to-ci-nosutetupunoxuan-ze-zhi</link>
-        <dc:date>2024-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VRTツールのダークホース Lost Pixelを紹介したい (AijiUejima)</title>
-        <link>https://speakerdeck.com/aiji42/vrtturunodakuhosu-lost-pixelwoshao-jie-sitai</link>
         <dc:date>2024-02-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
