@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インシデントマネジメントとエンジニアリングのかけ算 (Hiroya Ito)</title>
+        <link>https://speakerdeck.com/hiboma/incident-management-and-engineering</link>
+        <dc:date>2024-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フィンテック養成勉強会#39 (フィンテック養成コミュニティ)</title>
         <link>https://speakerdeck.com/finengine/huintetukuyang-cheng-mian-qiang-hui-number-39</link>
         <dc:date>2024-02-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>監視SaaSが使えなくなった話 (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
         <link>https://www.docswell.com/s/WN_Tech-PR/5RXRQ9-2024-02-19-190757</link>
-        <dc:date>2024-02-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DNSでHTTPS ※ただしDNS over HTTPSではない (IIJ_PR)</title>
-        <link>https://speakerdeck.com/iij_pr/dnsdehttps-star-tadasidns-over-httpsdehanai</link>
         <dc:date>2024-02-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
