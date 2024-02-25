@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CI/CDボトルネックの把握とその先へ (Kenta Kase,@Kesin11)</title>
+        <link>https://www.docswell.com/s/Kesin11/K24PM1-2024-02-20-actions-timeline</link>
+        <dc:date>2024-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title> SREチームの立ち上げから5年間とこれから (CyberAgent SGE Engineer)</title>
         <link>https://speakerdeck.com/sgeengineer/sretimunoli-tishang-gekara5nian-jian-tokorekara</link>
         <dc:date>2024-02-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>手間なく保育園探し - Amazon Bedrockのナレッジベースで作るChatbot / Effortless Kindergarten Search - Building a Chatbot with Knowledge Bases for Amazon Bedrock (Tadashi Shigeoka)</title>
         <link>https://speakerdeck.com/codenote/effortless-kindergarten-search-building-a-chatbot-with-knowledge-bases-for-amazon-bedrock</link>
-        <dc:date>2024-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MN-Core™勉強会: MN-Core最新情報 - MN-Coreのこれまで、いま、これから - (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/20240221-mn-core-benkyokai-updates-past-present-future</link>
         <dc:date>2024-02-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
