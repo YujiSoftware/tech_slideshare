@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title> SREチームの立ち上げから5年間とこれから (CyberAgent SGE Engineer)</title>
+        <link>https://speakerdeck.com/sgeengineer/sretimunoli-tishang-gekara5nian-jian-tokorekara</link>
+        <dc:date>2024-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>より早く良いものを多くのお客様に使ってもらうために / To get customers to use better products faster (yayoi_dd)</title>
+        <link>https://speakerdeck.com/yayoi_dd/to-get-customers-to-use-better-products-faster</link>
+        <dc:date>2024-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発生産性を計測し、開発組織の当たり前基準を上げる (technuma)</title>
+        <link>https://speakerdeck.com/technuma/kai-fa-sheng-chan-xing-woji-ce-si-kai-fa-zu-zhi-nodang-tariqian-ji-zhun-woshang-geru</link>
+        <dc:date>2024-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発生産性と探索型組織の作り方 / developer-productivity-20240126 (morizumi)</title>
+        <link>https://speakerdeck.com/morizumi/developer-productivity-20240126</link>
+        <dc:date>2024-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最近個人開発が熱い (sugar)</title>
         <link>https://speakerdeck.com/sugarcat7/zui-jin-ge-ren-kai-fa-gare-i</link>
         <dc:date>2024-02-24T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>MN-Core™勉強会: MN-Core最新情報 - MN-Coreのこれまで、いま、これから - (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/20240221-mn-core-benkyokai-updates-past-present-future</link>
-        <dc:date>2024-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MN-Core™勉強会: MN-Core Architecture Deep Dive (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/20240221-mn-core-benkyokai-architecture-deep-dive</link>
-        <dc:date>2024-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソニーにおける App Runner 導入事例と生の体験談の紹介 / Case study and real experience of using App Runner in Sony products (KenjiYoneyama)</title>
-        <link>https://speakerdeck.com/kenjiyoneyama/case-study-and-real-experience-of-using-app-runner-in-sony-products</link>
-        <dc:date>2024-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SaaS アーキテクチャ概要 (ryurock)</title>
-        <link>https://speakerdeck.com/ryurock/saas-akitekutiyagai-yao</link>
-        <dc:date>2024-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>reg-viz VRT tools (Yosuke Kurami)</title>
-        <link>https://speakerdeck.com/quramy/reg-viz-vrt-tools</link>
         <dc:date>2024-02-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
