@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フィンテック養成勉強会#39 (フィンテック養成コミュニティ)</title>
+        <link>https://speakerdeck.com/finengine/huintetukuyang-cheng-mian-qiang-hui-number-39</link>
+        <dc:date>2024-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CI/CDボトルネックの把握とその先へ (Kenta Kase,@Kesin11)</title>
         <link>https://www.docswell.com/s/Kesin11/K24PM1-2024-02-20-actions-timeline</link>
         <dc:date>2024-02-24T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>DNSでHTTPS ※ただしDNS over HTTPSではない (IIJ_PR)</title>
         <link>https://speakerdeck.com/iij_pr/dnsdehttps-star-tadasidns-over-httpsdehanai</link>
         <dc:date>2024-02-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>手間なく保育園探し - Amazon Bedrockのナレッジベースで作るChatbot / Effortless Kindergarten Search - Building a Chatbot with Knowledge Bases for Amazon Bedrock (Tadashi Shigeoka)</title>
-        <link>https://speakerdeck.com/codenote/effortless-kindergarten-search-building-a-chatbot-with-knowledge-bases-for-amazon-bedrock</link>
-        <dc:date>2024-02-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
