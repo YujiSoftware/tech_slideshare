@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Raspberry PiではじめるKiCad入門 / 20240226-rpi-jam (Akira Ouchi)</title>
+        <link>https://speakerdeck.com/akkiesoft/20240226-rpi-jam</link>
+        <dc:date>2024-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>私がエッジを使う理由 (chimame)</title>
         <link>https://speakerdeck.com/chimame/si-gaetuziwoshi-uli-you</link>
         <dc:date>2024-02-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ENOG81: AWSのIPv6とPublic IPv4のおはなし (Yukihiro Kikuchi)</title>
         <link>https://speakerdeck.com/yukihirokikuchi/enog81-aws-ipv6-public-ipv4</link>
-        <dc:date>2024-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DNSで現在時刻がわかる魔法 (Toshihiko SHIMOKAWA)</title>
-        <link>https://speakerdeck.com/toshi0806/dnsdexian-zai-shi-ke-gawakarumo-fa</link>
         <dc:date>2024-02-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
