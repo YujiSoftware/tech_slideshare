@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>私がエッジを使う理由 (chimame)</title>
+        <link>https://speakerdeck.com/chimame/si-gaetuziwoshi-uli-you</link>
+        <dc:date>2024-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloudflare Workersの環境を再現することについて (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/cloudflare-workersnohuan-jing-wozai-xian-surukotonituite</link>
         <dc:date>2024-02-25T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>DNSで現在時刻がわかる魔法 (Toshihiko SHIMOKAWA)</title>
         <link>https://speakerdeck.com/toshi0806/dnsdexian-zai-shi-ke-gawakarumo-fa</link>
         <dc:date>2024-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Lambdaのパフォーマンス改善 (mick)</title>
-        <link>https://speakerdeck.com/ryosuke_tsutsumi/lambdanohahuomansugai-shan</link>
-        <dc:date>2024-02-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
