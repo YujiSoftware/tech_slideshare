@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>利用者の生産性をどう上げるか 中規模モノレポの苦しみ (noyan)</title>
+        <link>https://speakerdeck.com/noyan_/li-yong-zhe-nosheng-chan-xing-wodoushang-geruka-zhong-gui-mo-monoreponoku-simi</link>
+        <dc:date>2024-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GraphQL Client + 状態管理ライブラリを調査した話 (Watanabe)</title>
+        <link>https://speakerdeck.com/shikachii/graphql-client-plus-zhuang-tai-guan-li-raiburariwodiao-cha-sitahua</link>
+        <dc:date>2024-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発生産性と開発者体験の向上に向けた CI/CD改善の取り組み / proni-techbrew-in-tokyo-20240220 (PRONI株式会社)</title>
         <link>https://speakerdeck.com/proni/proni-techbrew-in-tokyo-20240220</link>
         <dc:date>2024-02-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>デプロイ再考2024/reconsidering-deploy-in-2024 (sugitak)</title>
         <link>https://speakerdeck.com/sugitak/reconsidering-deploy-in-2024</link>
-        <dc:date>2024-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【AOAIドーナツ本出版記念】AzureでのChatGPT活用入門【基本から周辺サービスまで解説】 (Taishi Miyata)</title>
-        <link>https://speakerdeck.com/teshi22/aoaidonatuben-chu-ban-ji-nian-azuredenochatgpthuo-yong-ru-men-ji-ben-karazhou-bian-sabisumadejie-shuo</link>
-        <dc:date>2024-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>developersio-2023-aws-api-publication-checklist (t-kikuchi)</title>
-        <link>https://speakerdeck.com/tkikuchi/developersio-2023-aws-api-publication-checklist-372cf39a-9b5d-4385-bb93-68f6abc6e7bb</link>
         <dc:date>2024-02-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
