@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Shadow DOMとCSSの現状 (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/shadow-domtocssnoxian-zhuang</link>
+        <dc:date>2024-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新入社員の呪いの解き方 (rocky)</title>
         <link>https://speakerdeck.com/rockymanobi/xin-ru-she-yuan-nozhou-inojie-kifang</link>
         <dc:date>2024-02-26T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>最近個人開発が熱い (sugar)</title>
         <link>https://speakerdeck.com/sugarcat7/zui-jin-ge-ren-kai-fa-gare-i</link>
         <dc:date>2024-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Podman_CRI-O_update_2024-02 (orimanabu)</title>
-        <link>https://speakerdeck.com/orimanabu/podman-cri-o-update-2024-02</link>
-        <dc:date>2024-02-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
