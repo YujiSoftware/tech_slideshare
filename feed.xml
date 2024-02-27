@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>いまさら聞けない生成AI入門 (Innovatia AI Lab)</title>
+        <link>https://speakerdeck.com/innovatiaailab/imasarawen-kenaisheng-cheng-airu-men</link>
+        <dc:date>2024-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Shadow DOMとCSSの現状 (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/shadow-domtocssnoxian-zhuang</link>
         <dc:date>2024-02-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>開発生産性と探索型組織の作り方 / developer-productivity-20240126 (morizumi)</title>
         <link>https://speakerdeck.com/morizumi/developer-productivity-20240126</link>
-        <dc:date>2024-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最近個人開発が熱い (sugar)</title>
-        <link>https://speakerdeck.com/sugarcat7/zui-jin-ge-ren-kai-fa-gare-i</link>
         <dc:date>2024-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
