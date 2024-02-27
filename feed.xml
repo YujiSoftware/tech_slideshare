@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WordCamp Kansai 2024 ハム『ブロックエディタでWebサイトの制作がどう変わったのか？実装事例から見る現在のWordPressの設計と構築』 (h2ham)</title>
+        <link>https://speakerdeck.com/h2ham/wordcamp-kansai-2024-hamu-burotukuedeitadewebsaitonozhi-zuo-gadoubian-watutanoka-shi-zhuang-shi-li-karajian-ruxian-zai-nowordpressnoshe-ji-togou-zhu</link>
+        <dc:date>2024-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>利用者の生産性をどう上げるか 中規模モノレポの苦しみ (noyan)</title>
         <link>https://speakerdeck.com/noyan_/li-yong-zhe-nosheng-chan-xing-wodoushang-geruka-zhong-gui-mo-monoreponoku-simi</link>
         <dc:date>2024-02-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>関数データに対する主成分分析 ～方法論の紹介とRによる実装～ (Hidetoshi Matsui)</title>
         <link>https://speakerdeck.com/hidetoshimatsui/guan-shu-detanidui-suruzhu-cheng-fen-fen-xi-fang-fa-lun-noshao-jie-torniyorushi-zhuang</link>
-        <dc:date>2024-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デプロイ再考2024/reconsidering-deploy-in-2024 (sugitak)</title>
-        <link>https://speakerdeck.com/sugitak/reconsidering-deploy-in-2024</link>
         <dc:date>2024-02-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
