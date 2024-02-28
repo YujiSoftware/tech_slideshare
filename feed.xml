@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模言語モデルを作る、拡張する (Masafumi Oyamada)</title>
+        <link>https://speakerdeck.com/stillpedant/building-llm</link>
+        <dc:date>2024-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Scala 3 にコントリビュートしよう (110416)</title>
         <link>https://speakerdeck.com/i10416/scala-3-nikontoribiyutosiyou</link>
         <dc:date>2024-02-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title> SREチームの立ち上げから5年間とこれから (CyberAgent SGE Engineer)</title>
         <link>https://speakerdeck.com/sgeengineer/sretimunoli-tishang-gekara5nian-jian-tokorekara</link>
-        <dc:date>2024-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>より早く良いものを多くのお客様に使ってもらうために / To get customers to use better products faster (yayoi_dd)</title>
-        <link>https://speakerdeck.com/yayoi_dd/to-get-customers-to-use-better-products-faster</link>
         <dc:date>2024-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
