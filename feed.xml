@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>一休.comレストランのRustバックエンド開発の様子 (Kōhei Yamamoto)</title>
+        <link>https://speakerdeck.com/kymmt90/xiu-dot-comresutorannorusthatukuentokai-fa-noyang-zi</link>
+        <dc:date>2024-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コンパウンドスタートアップにおける フロントエンド技術選定のこれまでとこれから (tatane)</title>
+        <link>https://speakerdeck.com/tatane616/konpaundosutatoatupuniokeru-hurontoendoji-shu-xuan-ding-nokoremadetokorekara</link>
+        <dc:date>2024-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模言語モデルを作る、拡張する (Masafumi Oyamada)</title>
         <link>https://speakerdeck.com/stillpedant/building-llm</link>
         <dc:date>2024-02-27T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>フィンテック養成勉強会#39 (フィンテック養成コミュニティ)</title>
         <link>https://speakerdeck.com/finengine/huintetukuyang-cheng-mian-qiang-hui-number-39</link>
-        <dc:date>2024-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CI/CDボトルネックの把握とその先へ (Kenta Kase,@Kesin11)</title>
-        <link>https://www.docswell.com/s/Kesin11/K24PM1-2024-02-20-actions-timeline</link>
-        <dc:date>2024-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> SREチームの立ち上げから5年間とこれから (CyberAgent SGE Engineer)</title>
-        <link>https://speakerdeck.com/sgeengineer/sretimunoli-tishang-gekara5nian-jian-tokorekara</link>
         <dc:date>2024-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
