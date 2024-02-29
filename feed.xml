@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Postmanでチームコラボレーション！ (草薙昭彦)</title>
+        <link>https://speakerdeck.com/nagix/postmandetimukoraboresiyon</link>
+        <dc:date>2024-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanを活用して業務プロセスを改善するアイデアを紹介します！ (kazuhiro-togo)</title>
+        <link>https://speakerdeck.com/kazuhiro_togo/postmanwohuo-yong-siteye-wu-purosesuwogai-shan-suruaideawoshao-jie-simasu</link>
+        <dc:date>2024-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanを活用した家電アプリプラットフォームAPIの試験効率化 (YukiOgawa)</title>
+        <link>https://speakerdeck.com/yukiogawa/postmanwohuo-yong-sitajia-dian-apuripuratutohuomuapinoshi-yan-xiao-lu-hua</link>
+        <dc:date>2024-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanを活用した効率的なAPIテスト自動化のススメ-202401</title>
+        <link>https://docs.google.com/presentation/d/17EdKk_mVizobJT5PPeVPta_tY3K1rGcdhVxk65sao_Y/preview</link>
+        <dc:date>2024-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postman で GraphQL のクエリを送ってみよう (SAW)</title>
+        <link>https://speakerdeck.com/azuki/postman-de-graphql-nokueriwo-song-tutemiyou</link>
+        <dc:date>2024-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>シェルの履歴とイクンリメンタル検索を使う (Naoya Ito)</title>
         <link>https://speakerdeck.com/naoya/sierunolu-li-toikunrimentarujian-suo-woshi-u</link>
         <dc:date>2024-02-28T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>利用者の生産性をどう上げるか 中規模モノレポの苦しみ (noyan)</title>
         <link>https://speakerdeck.com/noyan_/li-yong-zhe-nosheng-chan-xing-wodoushang-geruka-zhong-gui-mo-monoreponoku-simi</link>
         <dc:date>2024-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQL Client + 状態管理ライブラリを調査した話 (Watanabe)</title>
-        <link>https://speakerdeck.com/shikachii/graphql-client-plus-zhuang-tai-guan-li-raiburariwodiao-cha-sitahua</link>
-        <dc:date>2024-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発生産性と開発者体験の向上に向けた CI/CD改善の取り組み / proni-techbrew-in-tokyo-20240220 (PRONI株式会社)</title>
-        <link>https://speakerdeck.com/proni/proni-techbrew-in-tokyo-20240220</link>
-        <dc:date>2024-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Raspberry PiではじめるKiCad入門 / 20240226-rpi-jam (Akira Ouchi)</title>
-        <link>https://speakerdeck.com/akkiesoft/20240226-rpi-jam</link>
-        <dc:date>2024-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>私がエッジを使う理由 (chimame)</title>
-        <link>https://speakerdeck.com/chimame/si-gaetuziwoshi-uli-you</link>
-        <dc:date>2024-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Workersの環境を再現することについて (Yusuke Wada)</title>
-        <link>https://speakerdeck.com/yusukebe/cloudflare-workersnohuan-jing-wozai-xian-surukotonituite</link>
-        <dc:date>2024-02-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
