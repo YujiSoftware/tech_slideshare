@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>シェルの履歴とイクンリメンタル検索を使う (Naoya Ito)</title>
+        <link>https://speakerdeck.com/naoya/sierunolu-li-toikunrimentarujian-suo-woshi-u</link>
+        <dc:date>2024-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20230227-engineer-type-talk.pdf (Naoya Ito)</title>
         <link>https://speakerdeck.com/naoya/20230227-engineer-type-talk</link>
         <dc:date>2024-02-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Cloudflare Workersの環境を再現することについて (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/cloudflare-workersnohuan-jing-wozai-xian-surukotonituite</link>
-        <dc:date>2024-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアアーキテクチャメトリクスの基礎: Software architecture metrics in a nutshell (Koji SHIMADA)</title>
-        <link>https://speakerdeck.com/snoozer05/software-architecture-metrics-in-a-nutshell</link>
         <dc:date>2024-02-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
