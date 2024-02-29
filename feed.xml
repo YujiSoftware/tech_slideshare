@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20230227-engineer-type-talk.pdf (Naoya Ito)</title>
+        <link>https://speakerdeck.com/naoya/20230227-engineer-type-talk</link>
+        <dc:date>2024-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>いまこそ学ぶLLMベースのAIエージェント入門―基本的なしくみ／開発ツール／有名なOSSや論文の紹介 (os1ma)</title>
         <link>https://speakerdeck.com/os1ma/imakosoxue-bullmbesunoaiezientoru-men-ji-ben-de-nasikumi-slash-kai-fa-turu-slash-you-ming-naossyalun-wen-noshao-jie</link>
         <dc:date>2024-02-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェアアーキテクチャメトリクスの基礎: Software architecture metrics in a nutshell (Koji SHIMADA)</title>
         <link>https://speakerdeck.com/snoozer05/software-architecture-metrics-in-a-nutshell</link>
-        <dc:date>2024-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>もうすぐローンチ 3 周年! AWS App Runner の魅力と進化の歴史 (はまーん)</title>
-        <link>https://speakerdeck.com/track3jyo/app-runner-the-appeal-and-evolution-over-3-years-since-launch</link>
         <dc:date>2024-02-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
