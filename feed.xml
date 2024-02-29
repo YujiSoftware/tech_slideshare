@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「プログラマーのためのCPU入門」は入り口として丁度よい！ (forrep)</title>
+        <link>https://speakerdeck.com/forrep/introduction-to-cpus-for-programmers-is-just-right-f33bb0e0-4242-4f9b-8813-cc830709221b</link>
+        <dc:date>2024-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LaravelのフロントエンドをNext.jsに段階的に移行している話  (松本拓人)</title>
         <link>https://speakerdeck.com/takatoku/laravelnohurontoentowonext-dot-jsniduan-jie-de-niyi-xing-siteiruhua</link>
         <dc:date>2024-02-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>新入社員の呪いの解き方 (rocky)</title>
         <link>https://speakerdeck.com/rockymanobi/xin-ru-she-yuan-nozhou-inojie-kifang</link>
-        <dc:date>2024-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WordCamp Kansai 2024 ハム『ブロックエディタでWebサイトの制作がどう変わったのか？実装事例から見る現在のWordPressの設計と構築』 (h2ham)</title>
-        <link>https://speakerdeck.com/h2ham/wordcamp-kansai-2024-hamu-burotukuedeitadewebsaitonozhi-zuo-gadoubian-watutanoka-shi-zhuang-shi-li-karajian-ruxian-zai-nowordpressnoshe-ji-togou-zhu</link>
         <dc:date>2024-02-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
