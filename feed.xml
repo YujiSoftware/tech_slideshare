@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GPTs活用事例集 (KNR)</title>
+        <link>https://speakerdeck.com/knr109/gptshuo-yong-shi-li-ji</link>
+        <dc:date>2024-02-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScript x GraphQLで2年開発してみて (yutank34)</title>
         <link>https://speakerdeck.com/yutank34/typescript-x-graphqlde2nian-kai-fa-sitemite</link>
         <dc:date>2024-02-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>いまさら聞けない生成AI入門 (Innovatia AI Lab)</title>
         <link>https://speakerdeck.com/innovatiaailab/imasarawen-kenaisheng-cheng-airu-men</link>
-        <dc:date>2024-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Shadow DOMとCSSの現状 (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/shadow-domtocssnoxian-zhuang</link>
         <dc:date>2024-02-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
