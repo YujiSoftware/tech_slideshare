@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新米マネージャーの初めての目標設定と評価 / New manager's first goal setting and evaluation (kaminashi, Inc.)</title>
+        <link>https://speakerdeck.com/kaminashi/new-managers-first-goal-setting-and-evaluation</link>
+        <dc:date>2024-03-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Scala to WebAssembly #scala_waiwai (Rikito Taniguchi)</title>
         <link>https://speakerdeck.com/tanishiking/scala-to-webassembly-number-scala-waiwai</link>
         <dc:date>2024-03-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Postmanを活用した家電アプリプラットフォームAPIの試験効率化 (YukiOgawa)</title>
         <link>https://speakerdeck.com/yukiogawa/postmanwohuo-yong-sitajia-dian-apuripuratutohuomuapinoshi-yan-xiao-lu-hua</link>
-        <dc:date>2024-02-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanを活用した効率的なAPIテスト自動化のススメ-202401</title>
-        <link>https://docs.google.com/presentation/d/17EdKk_mVizobJT5PPeVPta_tY3K1rGcdhVxk65sao_Y/preview</link>
         <dc:date>2024-02-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
