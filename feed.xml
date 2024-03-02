@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクトマネジメントプロセス概要 (ryurock)</title>
+        <link>https://speakerdeck.com/ryurock/purodakutomanezimento-purosesugai-yao</link>
+        <dc:date>2024-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サイバーエージェントメディア事業部における推薦システム (CyberAgent)</title>
+        <link>https://speakerdeck.com/cyberagentdevelopers/saibaezientomedeiashi-ye-bu-niokerutui-jian-sisutemu</link>
+        <dc:date>2024-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LayerXにおけるAI・機械学習技術の活用事例とその裏側 / layerx-ai-deim2024 (Yuya Matsumura)</title>
+        <link>https://speakerdeck.com/yuya4/layerx-ai-deim2024</link>
+        <dc:date>2024-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpCode目線で眺める PHPコードのカバレッジ (hideki kinjyo)</title>
+        <link>https://speakerdeck.com/o0h/phperkaigi-2024-omake</link>
+        <dc:date>2024-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rustで自作しながら学ぶ仮想DOM</title>
         <link>https://docs.google.com/presentation/d/1qbgPleB81tqWrio9hSsRBp5iezgHjjPY7Hums0z_d5A/preview</link>
         <dc:date>2024-03-01T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>GPTs活用事例集 (KNR)</title>
         <link>https://speakerdeck.com/knr109/gptshuo-yong-shi-li-ji</link>
         <dc:date>2024-02-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript x GraphQLで2年開発してみて (yutank34)</title>
-        <link>https://speakerdeck.com/yutank34/typescript-x-graphqlde2nian-kai-fa-sitemite</link>
-        <dc:date>2024-02-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「プログラマーのためのCPU入門」は入り口として丁度よい！ (forrep)</title>
-        <link>https://speakerdeck.com/forrep/introduction-to-cpus-for-programmers-is-just-right-f33bb0e0-4242-4f9b-8813-cc830709221b</link>
-        <dc:date>2024-02-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LaravelのフロントエンドをNext.jsに段階的に移行している話  (松本拓人)</title>
-        <link>https://speakerdeck.com/takatoku/laravelnohurontoentowonext-dot-jsniduan-jie-de-niyi-xing-siteiruhua</link>
-        <dc:date>2024-02-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanでチームコラボレーション！ (草薙昭彦)</title>
-        <link>https://speakerdeck.com/nagix/postmandetimukoraboresiyon</link>
-        <dc:date>2024-02-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
