@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Dive into InnoDB from redo logs (tom--bo)</title>
+        <link>https://speakerdeck.com/tombo/dive-into-innodb-from-redo-logs</link>
+        <dc:date>2024-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Learning Ruby (Masafumi Okura)</title>
         <link>https://speakerdeck.com/okuramasafumi/learning-ruby</link>
         <dc:date>2024-03-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>評価者を孤独にしない (Takashi Matsuyuki)</title>
         <link>https://speakerdeck.com/applepine1125/supporting-managers-through-connection-254a8f82-c2f7-42a9-8faa-3ba4d25d80b8</link>
-        <dc:date>2024-02-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>何のための個人目標設定？ (konifar)</title>
-        <link>https://speakerdeck.com/konifar/he-notamenoge-ren-mu-biao-she-ding</link>
         <dc:date>2024-02-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
