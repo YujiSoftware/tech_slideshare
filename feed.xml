@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Learning Ruby (Masafumi Okura)</title>
+        <link>https://speakerdeck.com/okuramasafumi/learning-ruby</link>
+        <dc:date>2024-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>キャッシュと向き合う、キャッシュと共に生きる / cache pattern (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/cache-pattern</link>
         <dc:date>2024-03-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>何のための個人目標設定？ (konifar)</title>
         <link>https://speakerdeck.com/konifar/he-notamenoge-ren-mu-biao-she-ding</link>
-        <dc:date>2024-02-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データサイエンス系の勉強会を 1年間毎月開催したら何が起こるか？ / What happens if you continue the DS meetup (吉田勇太 / ysdyt)</title>
-        <link>https://speakerdeck.com/ysdyt/what-happens-if-you-continue-the-ds-meetup</link>
         <dc:date>2024-02-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
