@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>世界標準のソフトウェア工学知識体系SWEBOK Guide最新第4版を通じた開発アップデート (Hironori Washizaki)</title>
+        <link>https://www.slideshare.net/slideshows/swebok-guide4/266465974</link>
+        <dc:date>2024-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Dive into InnoDB from redo logs (tom--bo)</title>
         <link>https://speakerdeck.com/tombo/dive-into-innodb-from-redo-logs</link>
         <dc:date>2024-03-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【DeNATechCon2024】CI/CD の課題解消！ GitHub Actions への移行で可能になったこと (DeNA_Tech,@DeNAxTech)</title>
         <link>https://www.docswell.com/s/DeNA_Tech/Z8GPLQ-2024-02-29-092047</link>
-        <dc:date>2024-02-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>評価者を孤独にしない (Takashi Matsuyuki)</title>
-        <link>https://speakerdeck.com/applepine1125/supporting-managers-through-connection-254a8f82-c2f7-42a9-8faa-3ba4d25d80b8</link>
         <dc:date>2024-02-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
