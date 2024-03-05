@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>一番やさしいDJ入門 2024 (すてにゃん)</title>
+        <link>https://speakerdeck.com/stefafafan/introduction-to-dj-2024</link>
+        <dc:date>2024-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ワークフローオーケストレーション入門 (Satsuki Nagae)</title>
         <link>https://speakerdeck.com/nsakki55/wakuhurookesutoresiyonru-men</link>
         <dc:date>2024-03-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>sbt-assemblyにハマってDB接続できず時間が溶けた話 (wakye5815)</title>
         <link>https://speakerdeck.com/wakye5815/sbt-assemblynihamatutedbjie-sok-dekizushi-jian-garong-ketahua</link>
-        <dc:date>2024-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>見せ算をScalaで実装してみた / Scalaわいわい勉強会 #2 (Arthur)</title>
-        <link>https://speakerdeck.com/arthur1/scala-waiwai-number-2</link>
         <dc:date>2024-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
