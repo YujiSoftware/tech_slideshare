@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ワークフローオーケストレーション入門 (Satsuki Nagae)</title>
+        <link>https://speakerdeck.com/nsakki55/wakuhurookesutoresiyonru-men</link>
+        <dc:date>2024-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>dbtをDagster Cloudでオーケストレーションする (contradiction29)</title>
         <link>https://speakerdeck.com/sora32127/dbtwodagster-clouddeokesutoresiyonsuru</link>
         <dc:date>2024-03-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>見せ算をScalaで実装してみた / Scalaわいわい勉強会 #2 (Arthur)</title>
         <link>https://speakerdeck.com/arthur1/scala-waiwai-number-2</link>
-        <dc:date>2024-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Reckoner の Scala プロジェクトにおける オブザーバビリティの取り組み (KADOWAKI Takumi)</title>
-        <link>https://speakerdeck.com/nomadblacky/reckoner-no-scala-puroziekutoniokeru-obuzababiriteinoqu-rizu-mi</link>
         <dc:date>2024-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
