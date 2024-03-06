@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データ分析のためのSQL勉強会 〜実践編〜 (hikarut)</title>
+        <link>https://speakerdeck.com/hikarut/detafen-xi-notamenosqlmian-qiang-hui-shi-jian-bian</link>
+        <dc:date>2024-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>0から作らないデザイントークン (kuon,@kuon609)</title>
         <link>https://www.docswell.com/s/kuon/K4QP1N-2024-03-05-124238</link>
         <dc:date>2024-03-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>新米マネージャーの初めての目標設定と評価 / New manager's first goal setting and evaluation (kaminashi, Inc.)</title>
         <link>https://speakerdeck.com/kaminashi/new-managers-first-goal-setting-and-evaluation</link>
-        <dc:date>2024-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Scala to WebAssembly #scala_waiwai (Rikito Taniguchi)</title>
-        <link>https://speakerdeck.com/tanishiking/scala-to-webassembly-number-scala-waiwai</link>
         <dc:date>2024-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
