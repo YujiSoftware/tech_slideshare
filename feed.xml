@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>軽率にVue 3で リアルタイム3Dアプリを作れる ライブラリを作ってみた/vue-with-3d-app (にー兄さん)</title>
+        <link>https://speakerdeck.com/drumath2237/vue-with-3d-app</link>
+        <dc:date>2024-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>defineModelを使って気軽にコンポーネントのv-modelをやろう (nishihara)</title>
         <link>https://speakerdeck.com/nishiharatsubasa/definemodelwoshi-tuteqi-qing-nikonponentonov-modelwoyarou</link>
         <dc:date>2024-03-05T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>OpCode目線で眺める PHPコードのカバレッジ (hideki kinjyo)</title>
         <link>https://speakerdeck.com/o0h/phperkaigi-2024-omake</link>
         <dc:date>2024-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rustで自作しながら学ぶ仮想DOM</title>
-        <link>https://docs.google.com/presentation/d/1qbgPleB81tqWrio9hSsRBp5iezgHjjPY7Hums0z_d5A/preview</link>
-        <dc:date>2024-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
