@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>defineModelを使って気軽にコンポーネントのv-modelをやろう (nishihara)</title>
+        <link>https://speakerdeck.com/nishiharatsubasa/definemodelwoshi-tuteqi-qing-nikonponentonov-modelwoyarou</link>
+        <dc:date>2024-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>10分間でエンジニア就活について話す #ニックトレイン (Yuki Watanabe)</title>
         <link>https://speakerdeck.com/ukwhatn/nikkutrain-osaka-lt</link>
         <dc:date>2024-03-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Rustで自作しながら学ぶ仮想DOM</title>
         <link>https://docs.google.com/presentation/d/1qbgPleB81tqWrio9hSsRBp5iezgHjjPY7Hums0z_d5A/preview</link>
-        <dc:date>2024-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタディストにおけるOSSガイドラインの策定 (K@zuki.,@corrupt952)</title>
-        <link>https://www.docswell.com/s/corrupt952/ZVVWYV-2024-03-01-191736</link>
         <dc:date>2024-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
