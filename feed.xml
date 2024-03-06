@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>0から作らないデザイントークン (kuon,@kuon609)</title>
+        <link>https://www.docswell.com/s/kuon/K4QP1N-2024-03-05-124238</link>
+        <dc:date>2024-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>一番やさしいDJ入門 2024 (すてにゃん)</title>
         <link>https://speakerdeck.com/stefafafan/introduction-to-dj-2024</link>
         <dc:date>2024-03-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Scala to WebAssembly #scala_waiwai (Rikito Taniguchi)</title>
         <link>https://speakerdeck.com/tanishiking/scala-to-webassembly-number-scala-waiwai</link>
-        <dc:date>2024-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>sbt-assemblyにハマってDB接続できず時間が溶けた話 (wakye5815)</title>
-        <link>https://speakerdeck.com/wakye5815/sbt-assemblynihamatutedbjie-sok-dekizushi-jian-garong-ketahua</link>
         <dc:date>2024-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
