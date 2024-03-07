@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Docker ハンズオン / docker-hands-on (suzuki-hoge)</title>
+        <link>https://speakerdeck.com/suzukihoge/docker-hands-on-d50e3e1d-e669-4cb8-a143-cd1242a6f103</link>
+        <dc:date>2024-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ウェビナー：Nejumiリーダーボードを使った自社LLMモデルの独自評価.pdf (Yuya Yamamoto)</title>
+        <link>https://www.slideshare.net/slideshows/nejumillmpdf/266609969</link>
+        <dc:date>2024-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ローカルLLM on iOS の現状まとめ (Shuichi Tsutsumi,@shu223)</title>
         <link>https://www.docswell.com/s/shu223/ZDE8XL-llm-ios</link>
         <dc:date>2024-03-06T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>defineModelを使って気軽にコンポーネントのv-modelをやろう (nishihara)</title>
         <link>https://speakerdeck.com/nishiharatsubasa/definemodelwoshi-tuteqi-qing-nikonponentonov-modelwoyarou</link>
-        <dc:date>2024-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10分間でエンジニア就活について話す #ニックトレイン (Yuki Watanabe)</title>
-        <link>https://speakerdeck.com/ukwhatn/nikkutrain-osaka-lt</link>
-        <dc:date>2024-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ分析のためのSQL勉強会 〜実践編〜 (hikarut)</title>
-        <link>https://speakerdeck.com/hikarut/detafen-xi-notamenosqlmian-qiang-hui-shi-jian-bian</link>
         <dc:date>2024-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
