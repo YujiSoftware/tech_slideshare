@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>rubocop-daemon 裏話: OSS の苦悩 (Hayato Kawai)</title>
+        <link>https://speakerdeck.com/fohte/rubocop-daemon-li-hua-oss-noku-nao</link>
+        <dc:date>2024-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Swift 5.9 と C++ の互換性 (h.crane)</title>
         <link>https://speakerdeck.com/hcrane/swift-to-cpp</link>
         <dc:date>2024-03-06T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>大テーブルと小テーブルのJOINのコスト計算の話 (kubo ayumu)</title>
         <link>https://speakerdeck.com/boro1234/da-tehurutoxiao-tehurunojoinnokosutoji-suan-nohua</link>
         <dc:date>2024-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>軽率にVue 3で リアルタイム3Dアプリを作れる ライブラリを作ってみた/vue-with-3d-app (にー兄さん)</title>
-        <link>https://speakerdeck.com/drumath2237/vue-with-3d-app</link>
-        <dc:date>2024-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
