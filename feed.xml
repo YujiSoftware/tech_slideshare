@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Shopify/ruby-lsp で快適な Ruby 生活を始めよう / introduction-shopify-ruby-lsp (igsr5)</title>
+        <link>https://speakerdeck.com/igsr5/introduction-shopify-ruby-lsp</link>
+        <dc:date>2024-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RuboCop Server Mode の仕組み (Hayato Kawai)</title>
+        <link>https://speakerdeck.com/fohte/rubocop-server-mode-noshi-zu-mi</link>
+        <dc:date>2024-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>海外進学→現地就職→転職帰国→転職→レイオフ (Yu Usami)</title>
         <link>https://speakerdeck.com/usami/hai-wai-jin-xue-xian-di-jiu-zhi-zhuan-zhi-gui-guo-zhuan-zhi-reiohu</link>
         <dc:date>2024-03-06T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>技術書を書く技術　JAWS DAYS 2024 (Takuro SASAKI)</title>
         <link>https://speakerdeck.com/takuros/ji-shu-shu-woshu-kuji-shu-jaws-days-2024</link>
         <dc:date>2024-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発者体験を変えるInfrastructure as Codeの新機能6選！ (Kenji Kono)</title>
-        <link>https://speakerdeck.com/konokenj/iac-updates-2024-03-jaws-days</link>
-        <dc:date>2024-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSのマルチアカウント管理で意外と知られていないOU設計の話 (Ichino Shiraishi)</title>
-        <link>https://speakerdeck.com/pikosan0000/awsnomarutiakauntoguan-li-teyi-wai-tozhi-rareteinaioushe-ji-nohua</link>
-        <dc:date>2024-03-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
