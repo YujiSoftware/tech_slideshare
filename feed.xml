@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Swift 5.9 と C++ の互換性 (h.crane)</title>
+        <link>https://speakerdeck.com/hcrane/swift-to-cpp</link>
+        <dc:date>2024-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Docker ハンズオン / docker-hands-on (suzuki-hoge)</title>
         <link>https://speakerdeck.com/suzukihoge/docker-hands-on-d50e3e1d-e669-4cb8-a143-cd1242a6f103</link>
         <dc:date>2024-03-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>軽率にVue 3で リアルタイム3Dアプリを作れる ライブラリを作ってみた/vue-with-3d-app (にー兄さん)</title>
         <link>https://speakerdeck.com/drumath2237/vue-with-3d-app</link>
-        <dc:date>2024-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>defineModelを使って気軽にコンポーネントのv-modelをやろう (nishihara)</title>
-        <link>https://speakerdeck.com/nishiharatsubasa/definemodelwoshi-tuteqi-qing-nikonponentonov-modelwoyarou</link>
         <dc:date>2024-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
