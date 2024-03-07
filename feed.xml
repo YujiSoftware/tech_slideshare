@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Azure OpenAI コンテンツフィルターのススメ (07JP27)</title>
+        <link>https://speakerdeck.com/07jp27/azure-openai-kontentuhuirutanosusume</link>
+        <dc:date>2024-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Google Play ポリシー対応周りの整理/改善をしてみた (Hunachi)</title>
         <link>https://speakerdeck.com/hunachi/automated-google-play-policy-tracking</link>
         <dc:date>2024-03-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>世界標準のソフトウェア工学知識体系SWEBOK Guide最新第4版を通じた開発アップデート (Hironori Washizaki)</title>
         <link>https://www.slideshare.net/slideshows/swebok-guide4/266465974</link>
-        <dc:date>2024-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dive into InnoDB from redo logs (tom--bo)</title>
-        <link>https://speakerdeck.com/tombo/dive-into-innodb-from-redo-logs</link>
         <dc:date>2024-03-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
