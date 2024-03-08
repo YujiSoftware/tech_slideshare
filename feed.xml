@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エムスリーデータ基盤チーム紹介資料 / Introduction of M3 Data Platform Team (M3 Engineering)</title>
+        <link>https://speakerdeck.com/m3_engineering/introduction-of-m3-data-platform-team</link>
+        <dc:date>2024-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kotlinを用いたDSL的な設計手法と使用上の注意 (kohii)</title>
         <link>https://speakerdeck.com/kohii00/kotlinwoyong-itadslde-nashe-ji-shou-fa-toshi-yong-shang-nozhu-yi</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Vue 3.4 (kazupon)</title>
         <link>https://speakerdeck.com/kazupon/vue-3-dot-4</link>
-        <dc:date>2024-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GPT開発の悩みの種「速度」「精度」「評価」の壁をどう超えるか (Hirosato Gamo)</title>
-        <link>https://speakerdeck.com/hirosatogamo/gptkai-fa-nonao-minozhong-su-du-jing-du-ping-jia-nobi-wodouchao-eruka</link>
         <dc:date>2024-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
