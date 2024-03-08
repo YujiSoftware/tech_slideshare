@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kotlinを用いたDSL的な設計手法と使用上の注意 (kohii)</title>
+        <link>https://speakerdeck.com/kohii00/kotlinwoyong-itadslde-nashe-ji-shou-fa-toshi-yong-shang-nozhu-yi</link>
+        <dc:date>2024-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>UnityのアプリビルドをGitHub Actionsに移行した話【CAGC2024】 (CyberAgent)</title>
+        <link>https://speakerdeck.com/cyberagentdevelopers/unitynoapuribirudowogithub-actionsniyi-xing-sitahua-cagc2024</link>
+        <dc:date>2024-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Crafting a Own PHP - ウキウキ手作りミニマリストPHP (uzulla)</title>
+        <link>https://speakerdeck.com/uzulla/crafting-a-own-php-ukiukishou-zuo-riminimarisutophp</link>
+        <dc:date>2024-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloud RunとCloud PubSubでサーバレスなデータ基盤2024 with Terraform / Cloud Run and PubSub with Terraform (Shinichi Nakagawa)</title>
+        <link>https://speakerdeck.com/shinyorke/cloud-run-and-pubsub-with-terraform</link>
+        <dc:date>2024-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クロスモーダル表現学習の研究動向: 音声関連を中心として (Ryo Masumura)</title>
         <link>https://speakerdeck.com/ryomasumura/kurosumodarubiao-xian-xue-xi-noyan-jiu-dong-xiang-yin-sheng-guan-lian-wozhong-xin-tosite</link>
         <dc:date>2024-03-07T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>GPT開発の悩みの種「速度」「精度」「評価」の壁をどう超えるか (Hirosato Gamo)</title>
         <link>https://speakerdeck.com/hirosatogamo/gptkai-fa-nonao-minozhong-su-du-jing-du-ping-jia-nobi-wodouchao-eruka</link>
-        <dc:date>2024-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Shopify/ruby-lsp で快適な Ruby 生活を始めよう / introduction-shopify-ruby-lsp (igsr5)</title>
-        <link>https://speakerdeck.com/igsr5/introduction-shopify-ruby-lsp</link>
-        <dc:date>2024-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RuboCop Server Mode の仕組み (Hayato Kawai)</title>
-        <link>https://speakerdeck.com/fohte/rubocop-server-mode-noshi-zu-mi</link>
-        <dc:date>2024-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>海外進学→現地就職→転職帰国→転職→レイオフ (Yu Usami)</title>
-        <link>https://speakerdeck.com/usami/hai-wai-jin-xue-xian-di-jiu-zhi-zhuan-zhi-gui-guo-zhuan-zhi-reiohu</link>
-        <dc:date>2024-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データマネジメント入門 - DX推進を支えるデータ基盤の重要性 / 20240125 (風音屋 (Kazaneya))</title>
-        <link>https://speakerdeck.com/kazaneya/20240125</link>
         <dc:date>2024-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
