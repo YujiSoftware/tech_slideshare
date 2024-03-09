@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スクラムガイドに載っていないスクラムのはじめかた - チームでスクラムをはじめるときに知っておきたい5個のコツ - /  How to start Scrum that is not written in the Scrum Guide (TAKAKING22)</title>
+        <link>https://speakerdeck.com/takaking22/how-to-start-scrum-that-is-not-written-in-the-scrum-guide</link>
+        <dc:date>2024-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Webアプリケーション開発に潜むリスクのケーススタディ (徳丸 浩,@ockeghem)</title>
         <link>https://www.docswell.com/s/ockeghem/5M1NEJ-3rd-party-cookie</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Apache Iceberg Catalog選択のポイント (bering)</title>
         <link>https://speakerdeck.com/bering/apache-iceberg-catalogxuan-ze-nohointo-b44726a4-a8c8-49fc-9f06-7eb5729c9d7d</link>
         <dc:date>2024-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>rubocop-daemon 裏話: OSS の苦悩 (Hayato Kawai)</title>
-        <link>https://speakerdeck.com/fohte/rubocop-daemon-li-hua-oss-noku-nao</link>
-        <dc:date>2024-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
