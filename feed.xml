@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>さよなら Webpack さん (nappa)</title>
+        <link>https://speakerdeck.com/bebeji_nappa/sayonara-webpack-san</link>
+        <dc:date>2024-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スクラムガイドに載っていないスクラムのはじめかた - チームでスクラムをはじめるときに知っておきたい5個のコツ - /  How to start Scrum that is not written in the Scrum Guide (TAKAKING22)</title>
         <link>https://speakerdeck.com/takaking22/how-to-start-scrum-that-is-not-written-in-the-scrum-guide</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>全世界リリースを支えるマルチプレイゲームの裏側【CAGC2024】※2025年3月6日までの公開 (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/quan-shi-jie-ririsuwozhi-erumarutipureigemunoli-ce-cagc2024-star-2025nian-3yue-6ri-madenogong-kai</link>
-        <dc:date>2024-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Apache Iceberg Catalog選択のポイント (bering)</title>
-        <link>https://speakerdeck.com/bering/apache-iceberg-catalogxuan-ze-nohointo-b44726a4-a8c8-49fc-9f06-7eb5729c9d7d</link>
         <dc:date>2024-03-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
