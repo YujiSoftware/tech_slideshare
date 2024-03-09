@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHP8の機能を使って堅牢にコードを書く (Futoshi Endo)</title>
+        <link>https://speakerdeck.com/fendo181/php8noji-neng-woshi-tutejian-lao-nikotowoshu-ku</link>
+        <dc:date>2024-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>あなたの知らないバグバウンティの世界 (Eureka)</title>
         <link>https://speakerdeck.com/eurekaberry/anatanozhi-ranaibagubaunteinoshi-jie</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>フロントエンドパフォーマンスの変遷とNext.jsに見る次の時代 (sumiren)</title>
         <link>https://speakerdeck.com/sumiren/frontend-performance-history-and-new-generation-nextjs-designs-3cdc90df-05be-459f-948d-7a53dc4f4765</link>
-        <dc:date>2024-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いろんな外資、いろんなロールで働いてみた話 (Kazuto Kusama)</title>
-        <link>https://speakerdeck.com/jacopen/ironnawai-zi-ironnarorudedong-itemitahua</link>
         <dc:date>2024-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
