@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>基礎から学ぶNext.js (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/ochacafe-nextjs-basics</link>
+        <dc:date>2024-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>イベント駆動コンテンツ (Akihito Koriyama)</title>
+        <link>https://speakerdeck.com/koriym/ibentoqu-dong-kontentu</link>
+        <dc:date>2024-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>さよなら Webpack さん (nappa)</title>
         <link>https://speakerdeck.com/bebeji_nappa/sayonara-webpack-san</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>パフォーマンスを改善するには仕様変更が1番はやい (yamamoto-hiroya)</title>
         <link>https://speakerdeck.com/yamamotohiroya/pahuomansuwogai-shan-surunihashi-yang-bian-geng-ga1fan-hayai</link>
-        <dc:date>2024-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>12年目を迎えた『ガールフレンド(仮)』におけるデータベースの負債解消への道のり【CAGC2024】 (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/12nian-mu-woying-eta-garuhurendo-jia-niokerudetabesunofu-zhai-jie-xiao-henodao-nori-cagc2024</link>
-        <dc:date>2024-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>全世界リリースを支えるマルチプレイゲームの裏側【CAGC2024】※2025年3月6日までの公開 (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/quan-shi-jie-ririsuwozhi-erumarutipureigemunoli-ce-cagc2024-star-2025nian-3yue-6ri-madenogong-kai</link>
         <dc:date>2024-03-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
