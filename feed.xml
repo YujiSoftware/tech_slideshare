@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新卒1年目に勢いで技術コミュニティを立ち上げたことで得たもの / tech-community-iizo-lt (Yuya Matsumura)</title>
+        <link>https://speakerdeck.com/yuya4/tech-community-iizo-lt</link>
+        <dc:date>2024-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Command-line interface tool design / PHPerKaigi 2024 (Ken’ichiro Oyama)</title>
         <link>https://speakerdeck.com/k1low/phperkaigi-2024</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Docker ハンズオン / docker-hands-on (suzuki-hoge)</title>
         <link>https://speakerdeck.com/suzukihoge/docker-hands-on-d50e3e1d-e669-4cb8-a143-cd1242a6f103</link>
-        <dc:date>2024-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウェビナー：Nejumiリーダーボードを使った自社LLMモデルの独自評価.pdf (Yuya Yamamoto)</title>
-        <link>https://www.slideshare.net/slideshows/nejumillmpdf/266609969</link>
         <dc:date>2024-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
