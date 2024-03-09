@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Webアプリケーション開発に潜むリスクのケーススタディ (徳丸 浩,@ockeghem)</title>
+        <link>https://www.docswell.com/s/ockeghem/5M1NEJ-3rd-party-cookie</link>
+        <dc:date>2024-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>日系大手と日系スタートアップと外資系で働いてみた (yush1ga)</title>
+        <link>https://speakerdeck.com/yush1ga/findy-career-event-related-to-foreign-owned-companies</link>
+        <dc:date>2024-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新卒1年目に勢いで技術コミュニティを立ち上げたことで得たもの / tech-community-iizo-lt (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/tech-community-iizo-lt</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>rubocop-daemon 裏話: OSS の苦悩 (Hayato Kawai)</title>
         <link>https://speakerdeck.com/fohte/rubocop-daemon-li-hua-oss-noku-nao</link>
-        <dc:date>2024-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Swift 5.9 と C++ の互換性 (h.crane)</title>
-        <link>https://speakerdeck.com/hcrane/swift-to-cpp</link>
-        <dc:date>2024-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Docker ハンズオン / docker-hands-on (suzuki-hoge)</title>
-        <link>https://speakerdeck.com/suzukihoge/docker-hands-on-d50e3e1d-e669-4cb8-a143-cd1242a6f103</link>
         <dc:date>2024-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
