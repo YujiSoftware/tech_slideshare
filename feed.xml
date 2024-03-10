@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【OpenAI本出版記念】npakaによるOpenAI最新技術情報と技術情報キャッチアップ術 (npaka)</title>
+        <link>https://speakerdeck.com/npaka/openaiben-chu-ban-ji-nian-npakaniyoruopenaizui-xin-ji-shu-qing-bao-toji-shu-qing-bao-kiyatutiatupushu</link>
+        <dc:date>2024-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CSRF対策のやり方、そろそろアップデートしませんか / Update your knowledge of CSRF protection (YAMAOKA Hiroyuki)</title>
         <link>https://speakerdeck.com/hiro_y/update-your-knowledge-of-csrf-protection</link>
         <dc:date>2024-03-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kotlinを用いたDSL的な設計手法と使用上の注意 (kohii)</title>
         <link>https://speakerdeck.com/kohii00/kotlinwoyong-itadslde-nashe-ji-shou-fa-toshi-yong-shang-nozhu-yi</link>
-        <dc:date>2024-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UnityのアプリビルドをGitHub Actionsに移行した話【CAGC2024】 (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/unitynoapuribirudowogithub-actionsniyi-xing-sitahua-cagc2024</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
