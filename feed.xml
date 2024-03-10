@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>privateメソッドのテストって書かない方がいいんだっけ？ (asumikam)</title>
+        <link>https://speakerdeck.com/asumikam/private-methods-test</link>
+        <dc:date>2024-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PHP で読む楽しいコアダンプ (sji)</title>
         <link>https://speakerdeck.com/sji/php-dedu-mule-siikoadanpu</link>
         <dc:date>2024-03-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Crafting a Own PHP - ウキウキ手作りミニマリストPHP (uzulla)</title>
         <link>https://speakerdeck.com/uzulla/crafting-a-own-php-ukiukishou-zuo-riminimarisutophp</link>
-        <dc:date>2024-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud RunとCloud PubSubでサーバレスなデータ基盤2024 with Terraform / Cloud Run and PubSub with Terraform (Shinichi Nakagawa)</title>
-        <link>https://speakerdeck.com/shinyorke/cloud-run-and-pubsub-with-terraform</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
