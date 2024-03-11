@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BuildKitの不可解な挙動とGoのFileModeの仕様 (Kotaro Inoue)</title>
+        <link>https://speakerdeck.com/musaprg/buildkitnobu-ke-jie-naju-dong-togonofilemodenoshi-yang</link>
+        <dc:date>2024-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>顧客からのちょろちょろインプットを脱却 顧客からのめちゃ太いインプットを通して何を選んでもアウトカムを生み出すプロダクトバックログを実現する/Break free from narrow customer input 2024 (moriyuya)</title>
         <link>https://speakerdeck.com/moriyuya/break-free-from-narrow-customer-input-2024</link>
         <dc:date>2024-03-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Command-line interface tool design / PHPerKaigi 2024 (Ken’ichiro Oyama)</title>
         <link>https://speakerdeck.com/k1low/phperkaigi-2024</link>
-        <dc:date>2024-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『LeanとDevOpsの科学』をきちんと解読する 〜Four Keys だけじゃ絶対もったいなくなる話〜 (Takeo Imai)</title>
-        <link>https://speakerdeck.com/bonotake/leantodevopsnoke-xue-wokitintojie-du-suru-four-keys-dakeziyajue-dui-motutainakunaruhua</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
