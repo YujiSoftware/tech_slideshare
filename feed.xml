@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WasmOS: Wasmを実行する自作Microkernel (RI5255)</title>
+        <link>https://speakerdeck.com/riru/wasmos-wasmwoshi-xing-suruzi-zuo-microkernel</link>
+        <dc:date>2024-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BuildKitの不可解な挙動とGoのFileModeの仕様 (Kotaro Inoue)</title>
         <link>https://speakerdeck.com/musaprg/buildkitnobu-ke-jie-naju-dong-togonofilemodenoshi-yang</link>
         <dc:date>2024-03-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>新卒1年目に勢いで技術コミュニティを立ち上げたことで得たもの / tech-community-iizo-lt (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/tech-community-iizo-lt</link>
-        <dc:date>2024-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Command-line interface tool design / PHPerKaigi 2024 (Ken’ichiro Oyama)</title>
-        <link>https://speakerdeck.com/k1low/phperkaigi-2024</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
