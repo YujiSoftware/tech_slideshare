@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自作言語をGPUで走らせる_wakate</title>
+        <link>https://docs.google.com/presentation/d/1tvXdbYuhBZF280lclG0or_hzBKDvBHYN13KUlvFcGes/preview</link>
+        <dc:date>2024-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>内製課金基盤QuaPayの機能とその変遷【CAGC2024】 (CyberAgent)</title>
+        <link>https://speakerdeck.com/cyberagentdevelopers/nei-zhi-ke-jin-ji-pan-quapaynoji-neng-tosonobian-qian-cagc2024</link>
+        <dc:date>2024-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>レガシーなフロントエンドを_React___Next.js_にリプレースした結果.pdf (Yuto Ono)</title>
         <link>https://speakerdeck.com/yutoono/rekasinahurontoentowo-react-next-dot-js-nirihuresusitajie-guo</link>
         <dc:date>2024-03-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>PHP8の機能を使って堅牢にコードを書く (Futoshi Endo)</title>
         <link>https://speakerdeck.com/fendo181/php8noji-neng-woshi-tutejian-lao-nikotowoshu-ku</link>
-        <dc:date>2024-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あなたの知らないバグバウンティの世界 (Eureka)</title>
-        <link>https://speakerdeck.com/eurekaberry/anatanozhi-ranaibagubaunteinoshi-jie</link>
-        <dc:date>2024-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エムスリーデータ基盤チーム紹介資料 / Introduction of M3 Data Platform Team (M3 Engineering)</title>
-        <link>https://speakerdeck.com/m3_engineering/introduction-of-m3-data-platform-team</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
