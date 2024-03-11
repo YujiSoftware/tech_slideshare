@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Microsoft Fabric 開発ガイド (Ryoma Nagata)</title>
+        <link>https://speakerdeck.com/ryomaru0825/microsoft-fabric-kai-fa-gaido</link>
+        <dc:date>2024-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>B+木入門：PHPで理解する データベースインデックスの仕組み/b-plus-tree-101 (Ryo Tomidokoro)</title>
         <link>https://speakerdeck.com/hanhan1978/b-plus-tree-101</link>
         <dc:date>2024-03-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スクラムガイドに載っていないスクラムのはじめかた - チームでスクラムをはじめるときに知っておきたい5個のコツ - /  How to start Scrum that is not written in the Scrum Guide (TAKAKING22)</title>
         <link>https://speakerdeck.com/takaking22/how-to-start-scrum-that-is-not-written-in-the-scrum-guide</link>
-        <dc:date>2024-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webアプリケーション開発に潜むリスクのケーススタディ (徳丸 浩,@ockeghem)</title>
-        <link>https://www.docswell.com/s/ockeghem/5M1NEJ-3rd-party-cookie</link>
         <dc:date>2024-03-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
