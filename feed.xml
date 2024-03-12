@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>『Tailwind CSS実践入門』 出版記念基調講演 (fsubal)</title>
+        <link>https://speakerdeck.com/fsubal/tailwind-cssshi-jian-ru-men-chu-ban-ji-nian-ji-diao-jiang-yan</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Feature Flag Deep Dive (Shota Iwami)</title>
         <link>https://speakerdeck.com/biwashi/feature-flag-deep-dive</link>
         <dc:date>2024-03-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>デザイナーの帽子をかぶったわたしが、プロダクト開発するうえでスクラムチームに提供したいこと / what I want to provide to Scrum teams when developing products (Hiromi Morikawa)</title>
         <link>https://speakerdeck.com/hiromitsuuuuu/what-i-want-to-provide-to-scrum-teams-when-developing-products</link>
-        <dc:date>2024-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>すぐ使える Cloudflare Workers！ (Kei Kamikawa)</title>
-        <link>https://speakerdeck.com/codehex/sugushi-eru-cloudflare-workers</link>
         <dc:date>2024-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
