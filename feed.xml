@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>UIをもたらすコンテクストの考察 (Yu Morita)</title>
+        <link>https://speakerdeck.com/securecat/uiwomotarasukontekusutonokao-cha</link>
+        <dc:date>2024-03-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【OpsJAWS】EC2 のセキュリティの運用と監視について考えてみた件 (Hisashi Hibino)</title>
         <link>https://speakerdeck.com/hssh2_bin/opsjaws-ec2-nosekiyuriteinoyun-yong-tojian-shi-nituitekao-etemitajian</link>
         <dc:date>2024-03-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>基礎から学ぶNext.js (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/ochacafe-nextjs-basics</link>
-        <dc:date>2024-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>イベント駆動コンテンツ (Akihito Koriyama)</title>
-        <link>https://speakerdeck.com/koriym/ibentoqu-dong-kontentu</link>
         <dc:date>2024-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
