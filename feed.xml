@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Feature Flag Deep Dive (Shota Iwami)</title>
+        <link>https://speakerdeck.com/biwashi/feature-flag-deep-dive</link>
+        <dc:date>2024-03-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>株式会社Jambo_エンジニア_紹介資料 (jambo-develop-team)</title>
         <link>https://speakerdeck.com/jambo_develop_team/zhu-shi-hui-she-jambo-enzinia-shao-jie-zi-liao</link>
         <dc:date>2024-03-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>すぐ使える Cloudflare Workers！ (Kei Kamikawa)</title>
         <link>https://speakerdeck.com/codehex/sugushi-eru-cloudflare-workers</link>
-        <dc:date>2024-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スクラムマスター不在でスクラムをやるのは(とても辛いので)やめておけ！ #scrumfukuoka (株式会社ヌーラボ)</title>
-        <link>https://speakerdeck.com/nulabinc/that-is-not-a-scrum</link>
         <dc:date>2024-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
