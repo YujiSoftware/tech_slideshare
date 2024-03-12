@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【OpsJAWS】EC2 のセキュリティの運用と監視について考えてみた件 (Hisashi Hibino)</title>
+        <link>https://speakerdeck.com/hssh2_bin/opsjaws-ec2-nosekiyuriteinoyun-yong-tojian-shi-nituitekao-etemitajian</link>
+        <dc:date>2024-03-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>読みやすいテストコードへの一歩、適切なAssertionを使う (asumikam)</title>
         <link>https://speakerdeck.com/asumikam/good-assertion</link>
         <dc:date>2024-03-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>イベント駆動コンテンツ (Akihito Koriyama)</title>
         <link>https://speakerdeck.com/koriym/ibentoqu-dong-kontentu</link>
         <dc:date>2024-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>さよなら Webpack さん (nappa)</title>
-        <link>https://speakerdeck.com/bebeji_nappa/sayonara-webpack-san</link>
-        <dc:date>2024-03-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
