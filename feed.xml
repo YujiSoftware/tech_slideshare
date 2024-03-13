@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マルチテナントの実現におけるDB設計とRLS / Utilizing RSL in multi-tenancy (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/utilizing-rsl-in-multi-tenancy</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オープンソースコンパイラNNgenでつくるエッジ・ディープラーニングシステム (Shinya Takamaeda-Y,@shtaxxx)</title>
         <link>https://www.slideshare.net/shtaxxx/nngen-acri-webiner-3</link>
         <dc:date>2024-03-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>tokyo-spark-summit-LT</title>
         <link>https://docs.google.com/presentation/d/1Kf1lYn4BGgqoxod-tYEdQqVrl2QF-0XUr0qlWOTeuIA/preview</link>
-        <dc:date>2024-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Quick Overview of Upcoming Spark 3.0 + α (Takeshi Yamamuro)</title>
-        <link>https://www.slideshare.net/maropu0804/quick-overview-of-upcoming-spark-30</link>
         <dc:date>2024-03-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
