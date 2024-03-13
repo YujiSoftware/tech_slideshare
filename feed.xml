@@ -6,6 +6,66 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オープンソースコンパイラNNgenでつくるエッジ・ディープラーニングシステム (Shinya Takamaeda-Y,@shtaxxx)</title>
+        <link>https://www.slideshare.net/shtaxxx/nngen-acri-webiner-3</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ac ri webiner-agenda-20210309 (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/ac-ri-webineragenda20210309</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ACRi-webiner-agenda-20210119 (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/acriwebineragenda20210119</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オープンソースからの高位合成によるORB-SLAM FPGA実装 (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/orbslam-fpga</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FPGAによるホームサービスロボットのための組込脳型計算機システム (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/fpga-241550038</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「招待講演：ACRi ルームの小さな FPGA ボードで何がどこまでできるか」 (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/acri-fpga</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20220525_kobayashi.pdf (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/20220525kobayashipdf</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「FPGA 開発入門：FPGA を用いたエッジ AI の高速化手法を学ぶ」 (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/fpga-fpga-ai</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>220526_ACRi_Ando01r.pdf (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/220526acriando01rpdf</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2205ACRi_jinguji.pdf (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/2205acrijingujipdf</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ACRiポジショントーク_山科.pdf (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/acripdf</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>書を捨てよ、現場へ出よう (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/shu-woshe-teyo-xian-chang-hechu-you</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ACRiウェビナー：岩渕様ご講演資料 (直久 住川)</title>
         <link>https://www.slideshare.net/NaohisaSumikawa/acri-251352354</link>
         <dc:date>2024-03-12T15:00:00Z</dc:date>
@@ -44,65 +104,5 @@
         <title>Quick Overview of Upcoming Spark 3.0 + α (Takeshi Yamamuro)</title>
         <link>https://www.slideshare.net/maropu0804/quick-overview-of-upcoming-spark-30</link>
         <dc:date>2024-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Koalas: Unifying Spark and pandas APIs (Takuya UESHIN,@ueshin)</title>
-        <link>https://www.slideshare.net/ueshin/20191119-spark-meetup-tokyo-2</link>
-        <dc:date>2024-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Node-AI のリッチな WEB フロントエンドを支える技術 (neno)</title>
-        <link>https://speakerdeck.com/nenonaninu/node-ai-noritutina-web-hurontoendowozhi-eruji-shu</link>
-        <dc:date>2024-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『Tailwind CSS実践入門』 出版記念基調講演 (fsubal)</title>
-        <link>https://speakerdeck.com/fsubal/tailwind-cssshi-jian-ru-men-chu-ban-ji-nian-ji-diao-jiang-yan</link>
-        <dc:date>2024-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Feature Flag Deep Dive (Shota Iwami)</title>
-        <link>https://speakerdeck.com/biwashi/feature-flag-deep-dive</link>
-        <dc:date>2024-03-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>株式会社Jambo_エンジニア_紹介資料 (jambo-develop-team)</title>
-        <link>https://speakerdeck.com/jambo_develop_team/zhu-shi-hui-she-jambo-enzinia-shao-jie-zi-liao</link>
-        <dc:date>2024-03-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UIをもたらすコンテクストの考察 (Yu Morita)</title>
-        <link>https://speakerdeck.com/securecat/uiwomotarasukontekusutonokao-cha</link>
-        <dc:date>2024-03-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【OpsJAWS】EC2 のセキュリティの運用と監視について考えてみた件 (Hisashi Hibino)</title>
-        <link>https://speakerdeck.com/hssh2_bin/opsjaws-ec2-nosekiyuriteinoyun-yong-tojian-shi-nituitekao-etemitajian</link>
-        <dc:date>2024-03-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>読みやすいテストコードへの一歩、適切なAssertionを使う (asumikam)</title>
-        <link>https://speakerdeck.com/asumikam/good-assertion</link>
-        <dc:date>2024-03-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Fabric 開発ガイド (Ryoma Nagata)</title>
-        <link>https://speakerdeck.com/ryomaru0825/microsoft-fabric-kai-fa-gaido</link>
-        <dc:date>2024-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>B+木入門：PHPで理解する データベースインデックスの仕組み/b-plus-tree-101 (Ryo Tomidokoro)</title>
-        <link>https://speakerdeck.com/hanhan1978/b-plus-tree-101</link>
-        <dc:date>2024-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NinjaGazeTyping 制作秘話 (Cova8bitdots)</title>
-        <link>https://speakerdeck.com/cova8bitdots/ninjagazetyping-zhi-zuo-mi-hua</link>
-        <dc:date>2024-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WasmOS: Wasmを実行する自作Microkernel (RI5255)</title>
-        <link>https://speakerdeck.com/riru/wasmos-wasmwoshi-xing-suruzi-zuo-microkernel</link>
-        <dc:date>2024-03-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
