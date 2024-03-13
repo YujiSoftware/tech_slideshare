@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>dojo240422 (Mitsuaki Tohei)</title>
+        <link>https://speakerdeck.com/mitsuakitohei/dojo240422</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>tokyo-spark-summit-LT</title>
         <link>https://docs.google.com/presentation/d/1Kf1lYn4BGgqoxod-tYEdQqVrl2QF-0XUr0qlWOTeuIA/preview</link>
         <dc:date>2024-03-12T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>レガシーなフロントエンドを_React___Next.js_にリプレースした結果.pdf (Yuto Ono)</title>
         <link>https://speakerdeck.com/yutoono/rekasinahurontoentowo-react-next-dot-js-nirihuresusitajie-guo</link>
         <dc:date>2024-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【OpenAI本出版記念】npakaによるOpenAI最新技術情報と技術情報キャッチアップ術 (npaka)</title>
-        <link>https://speakerdeck.com/npaka/openaiben-chu-ban-ji-nian-npakaniyoruopenaizui-xin-ji-shu-qing-bao-toji-shu-qing-bao-kiyatutiatupushu</link>
-        <dc:date>2024-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
