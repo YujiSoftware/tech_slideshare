@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>tokyo-spark-summit-LT</title>
+        <link>https://docs.google.com/presentation/d/1Kf1lYn4BGgqoxod-tYEdQqVrl2QF-0XUr0qlWOTeuIA/preview</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Quick Overview of Upcoming Spark 3.0 + α (Takeshi Yamamuro)</title>
+        <link>https://www.slideshare.net/maropu0804/quick-overview-of-upcoming-spark-30</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Koalas: Unifying Spark and pandas APIs (Takuya UESHIN,@ueshin)</title>
+        <link>https://www.slideshare.net/ueshin/20191119-spark-meetup-tokyo-2</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Node-AI のリッチな WEB フロントエンドを支える技術 (neno)</title>
         <link>https://speakerdeck.com/nenonaninu/node-ai-noritutina-web-hurontoendowozhi-eruji-shu</link>
         <dc:date>2024-03-12T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>【OpenAI本出版記念】npakaによるOpenAI最新技術情報と技術情報キャッチアップ術 (npaka)</title>
         <link>https://speakerdeck.com/npaka/openaiben-chu-ban-ji-nian-npakaniyoruopenaizui-xin-ji-shu-qing-bao-toji-shu-qing-bao-kiyatutiatupushu</link>
-        <dc:date>2024-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CSRF対策のやり方、そろそろアップデートしませんか / Update your knowledge of CSRF protection (YAMAOKA Hiroyuki)</title>
-        <link>https://speakerdeck.com/hiro_y/update-your-knowledge-of-csrf-protection</link>
-        <dc:date>2024-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>privateメソッドのテストって書かない方がいいんだっけ？ (asumikam)</title>
-        <link>https://speakerdeck.com/asumikam/private-methods-test</link>
-        <dc:date>2024-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP で読む楽しいコアダンプ (sji)</title>
-        <link>https://speakerdeck.com/sji/php-dedu-mule-siikoadanpu</link>
         <dc:date>2024-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
