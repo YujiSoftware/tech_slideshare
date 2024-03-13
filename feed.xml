@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ACRiウェビナー：岩渕様ご講演資料 (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/acri-251352354</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ACRiウェビナー：小野様ご講演資料 (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/acri-251352366</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第9回ACRiウェビナー_日立／島田様ご講演資料 (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/9acri</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第9回ACRiウェビナー_セック／岩渕様ご講演資料 (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/9acri-252320166</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ACRiウェビナー：アジェンダ (直久 住川)</title>
+        <link>https://www.slideshare.net/NaohisaSumikawa/acri-251352348</link>
+        <dc:date>2024-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>dojo240422 (Mitsuaki Tohei)</title>
         <link>https://speakerdeck.com/mitsuakitohei/dojo240422</link>
         <dc:date>2024-03-12T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>WasmOS: Wasmを実行する自作Microkernel (RI5255)</title>
         <link>https://speakerdeck.com/riru/wasmos-wasmwoshi-xing-suruzi-zuo-microkernel</link>
-        <dc:date>2024-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BuildKitの不可解な挙動とGoのFileModeの仕様 (Kotaro Inoue)</title>
-        <link>https://speakerdeck.com/musaprg/buildkitnobu-ke-jie-naju-dong-togonofilemodenoshi-yang</link>
-        <dc:date>2024-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>顧客からのちょろちょろインプットを脱却 顧客からのめちゃ太いインプットを通して何を選んでもアウトカムを生み出すプロダクトバックログを実現する/Break free from narrow customer input 2024 (moriyuya)</title>
-        <link>https://speakerdeck.com/moriyuya/break-free-from-narrow-customer-input-2024</link>
-        <dc:date>2024-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自作言語をGPUで走らせる_wakate</title>
-        <link>https://docs.google.com/presentation/d/1tvXdbYuhBZF280lclG0or_hzBKDvBHYN13KUlvFcGes/preview</link>
-        <dc:date>2024-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>内製課金基盤QuaPayの機能とその変遷【CAGC2024】 (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/nei-zhi-ke-jin-ji-pan-quapaynoji-neng-tosonobian-qian-cagc2024</link>
-        <dc:date>2024-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>レガシーなフロントエンドを_React___Next.js_にリプレースした結果.pdf (Yuto Ono)</title>
-        <link>https://speakerdeck.com/yutoono/rekasinahurontoentowo-react-next-dot-js-nirihuresusitajie-guo</link>
         <dc:date>2024-03-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
