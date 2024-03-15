@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Webエンジニアのためのデータエンジニアリング概説 (to_lz1)</title>
+        <link>https://speakerdeck.com/mtoriyama000/data-engineering-for-web-developer</link>
+        <dc:date>2024-03-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Prompt Tuning から Fine Tuning への移行時期推定 (Takahiro Kubo)</title>
         <link>https://speakerdeck.com/icoxfog417/prompt-tuning-kara-fine-tuning-henoyi-xing-shi-qi-tui-ding</link>
         <dc:date>2024-03-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>FPGAによるホームサービスロボットのための組込脳型計算機システム (直久 住川)</title>
         <link>https://www.slideshare.net/NaohisaSumikawa/fpga-241550038</link>
-        <dc:date>2024-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「招待講演：ACRi ルームの小さな FPGA ボードで何がどこまでできるか」 (直久 住川)</title>
-        <link>https://www.slideshare.net/NaohisaSumikawa/acri-fpga</link>
         <dc:date>2024-03-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
