@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>htmx is fun! (Kei Kamikawa)</title>
+        <link>https://speakerdeck.com/codehex/htmx-is-fun</link>
+        <dc:date>2024-03-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>UIからの自動テスト事例 (atom)</title>
+        <link>https://speakerdeck.com/tomasagi/uikaranozi-dong-tesutoshi-li</link>
+        <dc:date>2024-03-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREのキャリア、 あるいは生態 / #ya8 (cohalz)</title>
         <link>https://speakerdeck.com/cohalz/ya8-2024</link>
         <dc:date>2024-03-14T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>20220525_kobayashi.pdf (直久 住川)</title>
         <link>https://www.slideshare.net/NaohisaSumikawa/20220525kobayashipdf</link>
-        <dc:date>2024-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「FPGA 開発入門：FPGA を用いたエッジ AI の高速化手法を学ぶ」 (直久 住川)</title>
-        <link>https://www.slideshare.net/NaohisaSumikawa/fpga-fpga-ai</link>
-        <dc:date>2024-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>220526_ACRi_Ando01r.pdf (直久 住川)</title>
-        <link>https://www.slideshare.net/NaohisaSumikawa/220526acriando01rpdf</link>
         <dc:date>2024-03-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
