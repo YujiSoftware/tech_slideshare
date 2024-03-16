@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人工衛星管制システムにおけるCICD / CICD in satellite control systems (iselegant)</title>
+        <link>https://speakerdeck.com/iselegant/cicd-in-satellite-control-systems</link>
+        <dc:date>2024-03-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Honoとhtmx (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/honotohtmx</link>
         <dc:date>2024-03-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ACRi-webiner-agenda-20210119 (直久 住川)</title>
         <link>https://www.slideshare.net/NaohisaSumikawa/acriwebineragenda20210119</link>
-        <dc:date>2024-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オープンソースからの高位合成によるORB-SLAM FPGA実装 (直久 住川)</title>
-        <link>https://www.slideshare.net/NaohisaSumikawa/orbslam-fpga</link>
         <dc:date>2024-03-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
