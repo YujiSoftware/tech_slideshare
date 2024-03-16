@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テストだけで品質は上がらない?! エセ自己組織化した品質組織からの脱却 / JaSST'24 Tokyo (Visional Engineering ＆ Design)</title>
+        <link>https://speakerdeck.com/visional_engineering_and_design/jasst24-tokyo</link>
+        <dc:date>2024-03-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>言語間転移学習で大規模言語モデルを賢くする (Ikuya Yamada)</title>
         <link>https://speakerdeck.com/ikuyamada/yan-yu-jian-zhuan-yi-xue-xi-deda-gui-mo-yan-yu-moderuwoxian-kusuru</link>
         <dc:date>2024-03-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>新規プロダクトの仮説検証ループをすばやく回し続けるためのプロダクトエンジニアリング/PdENight3  (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/pdenight3</link>
         <dc:date>2024-03-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ISUCON入門以前_ISUNARABE_LT#1 (sadnessOjisan)</title>
-        <link>https://speakerdeck.com/sadnessojisan/isuconru-men-yi-qian-isunarabe-lt-number-1</link>
-        <dc:date>2024-03-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
