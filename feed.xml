@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MSW+Storybookで始めるフロントエンドテスト</title>
+        <link>https://docs.google.com/presentation/d/1K01uV6rWFS6zBWLZZcOdNyAZbC_EFmGY6Oe7gp-481E/preview</link>
+        <dc:date>2024-03-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ここ1~2年くらいで 使えるようになった(主要ブラウザーの最新版 がすべて対応した ) ウェブの新機能について ランダムに喋る! (tebasaki)</title>
+        <link>https://speakerdeck.com/myzkyy/koko1-2nian-kuraide-shi-eruyouninatuta-zhu-yao-burauzanozui-xin-ban-gasubetedui-ying-sita-uebunoxin-ji-neng-nituite-randamunidie-ru</link>
+        <dc:date>2024-03-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>理想の組織も自分たちで作ろう！ ―LayerXの「全員採用」を支える文化 / How to create our own ideal team (ar_tama)</title>
         <link>https://speakerdeck.com/ar_tama/how-to-create-our-own-ideal-team</link>
         <dc:date>2024-03-16T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>fujiwara-ware OSSをひたすら紹介する/ya8-2024 (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/ya8-2024</link>
         <dc:date>2024-03-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQLのプランニング高速化の取り組み - 第45回 PostgreSQLアンカンファレンス@オンライン (Yuya Watari)</title>
-        <link>https://speakerdeck.com/yuyawatari/postgresqlnopuranningugao-su-hua-noqu-rizu-mi-di-45hui-postgresqlankanhuarensu-at-onrain</link>
-        <dc:date>2024-03-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cyber Sec+ Meet up Speaker doc (yki-yamamoto-csc)</title>
-        <link>https://speakerdeck.com/ykiy/cyber-sec-plus-meet-up-speaker-doc</link>
-        <dc:date>2024-03-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
