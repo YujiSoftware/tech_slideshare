@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>document.write再考 (Taketoshi Aono(青野健利 a.k.a brn))</title>
+        <link>https://speakerdeck.com/brn/document-dot-writezai-kao</link>
+        <dc:date>2024-03-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MSW+Storybookで始めるフロントエンドテスト</title>
         <link>https://docs.google.com/presentation/d/1K01uV6rWFS6zBWLZZcOdNyAZbC_EFmGY6Oe7gp-481E/preview</link>
         <dc:date>2024-03-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>実録_マルチテナント環境でのGmailガイドライン対応 (ryuichi1208)</title>
         <link>https://speakerdeck.com/ryuichi1208/shi-lu-marutitenantohuan-jing-tenogmailkaitoraindui-ying-0d2a978e-c058-430b-b194-3be324d5ef69</link>
-        <dc:date>2024-03-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>fujiwara-ware OSSをひたすら紹介する/ya8-2024 (FUJIWARA Shunichiro)</title>
-        <link>https://speakerdeck.com/fujiwara3/ya8-2024</link>
         <dc:date>2024-03-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
