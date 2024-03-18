@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インパクト10倍を目指すB2B SaaSマルチプロダクトなサイボウズ開発組織の取り組み (Teppei Sato,@teppeis)</title>
+        <link>https://www.docswell.com/s/teppeis/KW1DGY-cybozu-impact-10x</link>
+        <dc:date>2024-03-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Postmanワークショップ: API基礎 - 20240312</title>
         <link>https://docs.google.com/presentation/d/1clVcsuq1HAn62XIYXKbER4XGiZEpCwXCI7zJ66Og6J8/preview</link>
         <dc:date>2024-03-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Webエンジニアのためのデータエンジニアリング概説 (to_lz1)</title>
         <link>https://speakerdeck.com/mtoriyama000/data-engineering-for-web-developer</link>
-        <dc:date>2024-03-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Prompt Tuning から Fine Tuning への移行時期推定 (Takahiro Kubo)</title>
-        <link>https://speakerdeck.com/icoxfog417/prompt-tuning-kara-fine-tuning-henoyi-xing-shi-qi-tui-ding</link>
         <dc:date>2024-03-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
