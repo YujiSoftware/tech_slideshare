@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Google Bert + Transfer Learning + In-context Learning + Chat GPT.pdf (Moriyuki Arakawa)</title>
+        <link>https://www.slideshare.net/m_arakawa/google-bert-transfer-learning-incontext-learning-chat-gptpdf</link>
+        <dc:date>2024-03-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エディター付きのReact開発環境を ブラウザーだけで実装した話 (Hori Godai)</title>
         <link>https://speakerdeck.com/steelydylan/edeitafu-kinoreactkai-fa-huan-jing-wo-burauzadakedeshi-zhuang-sitahua</link>
         <dc:date>2024-03-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>htmx is fun! (Kei Kamikawa)</title>
         <link>https://speakerdeck.com/codehex/htmx-is-fun</link>
-        <dc:date>2024-03-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UIからの自動テスト事例 (atom)</title>
-        <link>https://speakerdeck.com/tomasagi/uikaranozi-dong-tesutoshi-li</link>
         <dc:date>2024-03-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
