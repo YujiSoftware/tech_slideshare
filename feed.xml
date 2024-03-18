@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「データ」の依頼のやり方 (ShinU)</title>
+        <link>https://speakerdeck.com/shinu/deta-noyi-lai-noyarifang</link>
+        <dc:date>2024-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Blink in JavaScript</title>
         <link>https://docs.google.com/presentation/d/1XvZdAF29Fgn19GCjDhHhlsECJAfOR49tpUFWrbtQAwU/preview</link>
         <dc:date>2024-03-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title> 本気でプロダクトに向き合うCTOになるために必要な事  (技育祭2024春) (mosa)</title>
         <link>https://speakerdeck.com/mosa_siru/ben-qi-depurodakutonixiang-kihe-uctoninarutamenibi-yao-nashi-ji-yu-ji-2024chun</link>
-        <dc:date>2024-03-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>人工衛星管制システムにおけるCICD / CICD in satellite control systems (iselegant)</title>
-        <link>https://speakerdeck.com/iselegant/cicd-in-satellite-control-systems</link>
         <dc:date>2024-03-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
