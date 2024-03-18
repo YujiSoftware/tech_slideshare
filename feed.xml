@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Terraform user getting started with AWS CDK (KOHEI SATO)</title>
+        <link>https://speakerdeck.com/kohekohe/english-lt-terraform-vs-aws-cdk-kohekohe</link>
+        <dc:date>2024-03-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インパクト10倍を目指すB2B SaaSマルチプロダクトなサイボウズ開発組織の取り組み (Teppei Sato,@teppeis)</title>
         <link>https://www.docswell.com/s/teppeis/KW1DGY-cybozu-impact-10x</link>
         <dc:date>2024-03-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Honoとhtmx (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/honotohtmx</link>
-        <dc:date>2024-03-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webエンジニアのためのデータエンジニアリング概説 (to_lz1)</title>
-        <link>https://speakerdeck.com/mtoriyama000/data-engineering-for-web-developer</link>
         <dc:date>2024-03-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
