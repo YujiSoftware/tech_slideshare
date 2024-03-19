@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>むやみにActionを送信してはいけない/do-not-send-actions-thoughtlessly (Takehiro Kaneko)</title>
+        <link>https://speakerdeck.com/takehilo/do-not-send-actions-thoughtlessly</link>
+        <dc:date>2024-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TCA入門したてなので、自分が馴染みのある実装と比較しながらキャッチアップしてみる (Fumiya Sakai)</title>
+        <link>https://speakerdeck.com/fumiyasac0921/tcaru-men-sitatenanode-zi-fen-gaxun-ran-minoarushi-zhuang-tobi-jiao-sinagarakiyatutiatupusitemiru</link>
+        <dc:date>2024-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>incrementalモデルの理解を深める (Ikki Miyazaki)</title>
+        <link>https://speakerdeck.com/ikkimiyazaki/incrementalmoterunoli-jie-woshen-meru</link>
+        <dc:date>2024-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データ化エンジニアとしての1年を振り返る (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20240319-2</link>
         <dc:date>2024-03-18T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>理想の組織も自分たちで作ろう！ ―LayerXの「全員採用」を支える文化 / How to create our own ideal team (ar_tama)</title>
         <link>https://speakerdeck.com/ar_tama/how-to-create-our-own-ideal-team</link>
         <dc:date>2024-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SecurityCamp2023基板作るコース講義資料/Security Camp 2023 Lecture Materials (Toshifumi NISHINAGA)</title>
-        <link>https://speakerdeck.com/tnishinaga/security-camp-2023-lecture-materials</link>
-        <dc:date>2024-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Material 3で Material 2ぽい見た目にする (Nabe)</title>
-        <link>https://speakerdeck.com/numeroanddev/material-3de-material-2poijian-tamu-nisuru</link>
-        <dc:date>2024-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>循環する学び～現場とコミュニティの境目で考える～/Learning Cycle between a team and a community (kakehashi)</title>
-        <link>https://speakerdeck.com/kakehashi/learning-cycle-between-a-team-and-a-community</link>
-        <dc:date>2024-03-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
