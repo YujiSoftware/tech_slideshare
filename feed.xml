@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go 1.22のEnhanced ServeMux chiから移行できるのか？ (sonatard)</title>
+        <link>https://speakerdeck.com/sonatard/migrate-from-chi-to-michi</link>
+        <dc:date>2024-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>孤独のCTOグルメという やや奇抜な企画をやった目的と効果 (ShoheiMitani)</title>
+        <link>https://speakerdeck.com/shoheimitani/gu-du-noctogurumetoiu-yayaqi-ba-naqi-hua-woyatutamu-de-toxiao-guo</link>
+        <dc:date>2024-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「データ」の依頼のやり方 (ShinU)</title>
         <link>https://speakerdeck.com/shinu/deta-noyi-lai-noyarifang</link>
         <dc:date>2024-03-18T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>プレイヤーとしてのチームのテスト力UP/Improving team skills for testing (Hiroki Iseri)</title>
         <link>https://speakerdeck.com/goyoki/improving-team-skills-for-testing</link>
-        <dc:date>2024-03-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Podcastを3年半続ける技術と得た物 / ya8-2024 (Ryo Takaishi)</title>
-        <link>https://speakerdeck.com/takaishi/ya8-2024</link>
-        <dc:date>2024-03-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> 本気でプロダクトに向き合うCTOになるために必要な事  (技育祭2024春) (mosa)</title>
-        <link>https://speakerdeck.com/mosa_siru/ben-qi-depurodakutonixiang-kihe-uctoninarutamenibi-yao-nashi-ji-yu-ji-2024chun</link>
         <dc:date>2024-03-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
