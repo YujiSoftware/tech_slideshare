@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【Nuxt3】useFetchWithCacheでAPIレスポンスをキャッシュさせる (dev.nakaya)</title>
+        <link>https://speakerdeck.com/nakaya/nuxt3-usefetchwithcachedeapiresuponsuwokiyatusiyusaseru</link>
+        <dc:date>2024-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Go 1.22のEnhanced ServeMux chiから移行できるのか？ (sonatard)</title>
         <link>https://speakerdeck.com/sonatard/migrate-from-chi-to-michi</link>
         <dc:date>2024-03-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>言語間転移学習で大規模言語モデルを賢くする (Ikuya Yamada)</title>
         <link>https://speakerdeck.com/ikuyamada/yan-yu-jian-zhuan-yi-xue-xi-deda-gui-mo-yan-yu-moderuwoxian-kusuru</link>
-        <dc:date>2024-03-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プレイヤーとしてのチームのテスト力UP/Improving team skills for testing (Hiroki Iseri)</title>
-        <link>https://speakerdeck.com/goyoki/improving-team-skills-for-testing</link>
         <dc:date>2024-03-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
