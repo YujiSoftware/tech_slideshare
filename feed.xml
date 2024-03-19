@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NLP2024-チュートリアル３-作って学ぶ 日本語大規模言語モデル</title>
+        <link>https://docs.google.com/presentation/d/1iROcbUOOBZlqIgmbySS_LYcrJsk8RRJxoHzhmkGV-Wk/preview</link>
+        <dc:date>2024-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【Nuxt3】useFetchWithCacheでAPIレスポンスをキャッシュさせる (dev.nakaya)</title>
         <link>https://speakerdeck.com/nakaya/nuxt3-usefetchwithcachedeapiresuponsuwokiyatusiyusaseru</link>
         <dc:date>2024-03-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>テストだけで品質は上がらない?! エセ自己組織化した品質組織からの脱却 / JaSST'24 Tokyo (Visional Engineering ＆ Design)</title>
         <link>https://speakerdeck.com/visional_engineering_and_design/jasst24-tokyo</link>
-        <dc:date>2024-03-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>言語間転移学習で大規模言語モデルを賢くする (Ikuya Yamada)</title>
-        <link>https://speakerdeck.com/ikuyamada/yan-yu-jian-zhuan-yi-xue-xi-deda-gui-mo-yan-yu-moderuwoxian-kusuru</link>
         <dc:date>2024-03-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
