@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>シミュレーションとコンピュータグラフィクス (Makato Sato,@makolooon)</title>
+        <link>https://www.docswell.com/s/MakotoSato/KEN326-2024-03-07-135654</link>
+        <dc:date>2024-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Elementaryを用いたデータ品質の可視化とデータ基盤の運用改善 (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/elementarywoyong-itadetapin-zhi-noke-shi-hua-todetaji-pan-noyun-yong-gai-shan</link>
+        <dc:date>2024-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Deep Dive 大規模システムアーキテクチャ／開発組織エンジニアリング / Deep Dive Large-Scale System Architecture, Development Organization Engineering (nrs)</title>
         <link>https://speakerdeck.com/nrslib/deep-dive-large-scale-system-architecture-development-organization-engineering</link>
         <dc:date>2024-03-19T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>An overview of the TurboFan compiler</title>
         <link>https://docs.google.com/presentation/d/1H1lLsbclvzyOF3IUR05ZUaZcqDxo7_-8f4yJoxdMooU/preview</link>
         <dc:date>2024-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>document.write再考 (Taketoshi Aono(青野健利 a.k.a brn))</title>
-        <link>https://speakerdeck.com/brn/document-dot-writezai-kao</link>
-        <dc:date>2024-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MSW+Storybookで始めるフロントエンドテスト</title>
-        <link>https://docs.google.com/presentation/d/1K01uV6rWFS6zBWLZZcOdNyAZbC_EFmGY6Oe7gp-481E/preview</link>
-        <dc:date>2024-03-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
