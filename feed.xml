@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Deep Dive 大規模システムアーキテクチャ／開発組織エンジニアリング / Deep Dive Large-Scale System Architecture, Development Organization Engineering (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/deep-dive-large-scale-system-architecture-development-organization-engineering</link>
+        <dc:date>2024-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マイクロサービス環境におけるDB戦略 in DMMプラットフォーム (pospome)</title>
         <link>https://speakerdeck.com/pospome/maikurosabisuhuan-jing-niokerudbzhan-lue-in-dmmpuratutohuomu</link>
         <dc:date>2024-03-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>MSW+Storybookで始めるフロントエンドテスト</title>
         <link>https://docs.google.com/presentation/d/1K01uV6rWFS6zBWLZZcOdNyAZbC_EFmGY6Oe7gp-481E/preview</link>
-        <dc:date>2024-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ここ1~2年くらいで 使えるようになった(主要ブラウザーの最新版 がすべて対応した ) ウェブの新機能について ランダムに喋る! (tebasaki)</title>
-        <link>https://speakerdeck.com/myzkyy/koko1-2nian-kuraide-shi-eruyouninatuta-zhu-yao-burauzanozui-xin-ban-gasubetedui-ying-sita-uebunoxin-ji-neng-nituite-randamunidie-ru</link>
         <dc:date>2024-03-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
