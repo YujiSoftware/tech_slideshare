@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ウェブアクセシビリティの ためのデザイン始めよう</title>
+        <link>https://docs.google.com/presentation/d/1jLXhOUZ0laF4nqU26L9-_N5jd5XV3c8Xv_KuF4VWQNA/preview</link>
+        <dc:date>2024-03-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コンパウンドスタートアップの“疎結合すぎない”チーム設計 (doyaaaaaken)</title>
         <link>https://speakerdeck.com/doyaaaaaken/konpaundosutatoatupuno-shu-jie-he-suginai-timushe-ji</link>
         <dc:date>2024-03-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Terraform user getting started with AWS CDK (KOHEI SATO)</title>
         <link>https://speakerdeck.com/kohekohe/english-lt-terraform-vs-aws-cdk-kohekohe</link>
-        <dc:date>2024-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インパクト10倍を目指すB2B SaaSマルチプロダクトなサイボウズ開発組織の取り組み (Teppei Sato,@teppeis)</title>
-        <link>https://www.docswell.com/s/teppeis/KW1DGY-cybozu-impact-10x</link>
         <dc:date>2024-03-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
