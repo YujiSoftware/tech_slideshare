@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロンプトエンジニアリング入門 (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/puronputoenziniaringuru-men</link>
+        <dc:date>2024-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データパイプラインバッチ設計で私が考えること (ugmuka)</title>
         <link>https://speakerdeck.com/ugmuka/data-pipeline-considerations</link>
         <dc:date>2024-03-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>NLP2024-チュートリアル３-作って学ぶ 日本語大規模言語モデル</title>
         <link>https://docs.google.com/presentation/d/1iROcbUOOBZlqIgmbySS_LYcrJsk8RRJxoHzhmkGV-Wk/preview</link>
-        <dc:date>2024-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【Nuxt3】useFetchWithCacheでAPIレスポンスをキャッシュさせる (dev.nakaya)</title>
-        <link>https://speakerdeck.com/nakaya/nuxt3-usefetchwithcachedeapiresuponsuwokiyatusiyusaseru</link>
         <dc:date>2024-03-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
