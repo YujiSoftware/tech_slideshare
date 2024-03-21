@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>A guided tour through Chrome's javascript compiler</title>
+        <link>https://docs.google.com/presentation/d/1DJcWByz11jLoQyNhmOvkZSrkgcVhllIlCHmal1tGzaw/preview</link>
+        <dc:date>2024-03-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Copilot Tips and Tricks (Yuichi Tanaka)</title>
         <link>https://speakerdeck.com/yuichielectric/github-copilot-tips-and-tricks</link>
         <dc:date>2024-03-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>「データ」の依頼のやり方 (ShinU)</title>
         <link>https://speakerdeck.com/shinu/deta-noyi-lai-noyarifang</link>
         <dc:date>2024-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Blink in JavaScript</title>
-        <link>https://docs.google.com/presentation/d/1XvZdAF29Fgn19GCjDhHhlsECJAfOR49tpUFWrbtQAwU/preview</link>
-        <dc:date>2024-03-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
