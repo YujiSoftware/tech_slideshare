@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ビジネスとコード品質の接合点 そしてコード品質がそこに及ぼす影響 / The Intersections of Business and Engineering, and The Impact of Code Quality There (mtx2s)</title>
+        <link>https://speakerdeck.com/mtx2s/the-intersections-of-business-and-engineering-and-the-impact-of-code-quality-there</link>
+        <dc:date>2024-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>家族アルバム みてねで直面してきた技術的負債 / MIXI KAG 2024 (Isao Shimizu)</title>
+        <link>https://speakerdeck.com/isaoshimizu/mixi-kag-2024</link>
+        <dc:date>2024-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実録！一人SREが直面している技術的負債 (syossan27)</title>
+        <link>https://speakerdeck.com/syossan27/shi-lu-ren-sregazhi-mian-siteiruji-shu-de-fu-zhai</link>
+        <dc:date>2024-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MongoDB Atlas Vectorsearchではじめる生成AIアプリ開発 (chie8842)</title>
         <link>https://speakerdeck.com/chie8842/mongodb-atlas-vectorsearchtehasimerusheng-cheng-aiahurikai-fa</link>
         <dc:date>2024-03-21T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>事業部を超えた 開発生産性向上に挑戦する (Kenta Kozuka)</title>
         <link>https://speakerdeck.com/kentakozuka/shi-ye-bu-wochao-eta-kai-fa-sheng-chan-xing-xiang-shang-nitiao-zhan-suru</link>
         <dc:date>2024-03-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シミュレーションとコンピュータグラフィクス (Makato Sato,@makolooon)</title>
-        <link>https://www.docswell.com/s/MakotoSato/KEN326-2024-03-07-135654</link>
-        <dc:date>2024-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Elementaryを用いたデータ品質の可視化とデータ基盤の運用改善 (10xinc)</title>
-        <link>https://speakerdeck.com/10xinc/elementarywoyong-itadetapin-zhi-noke-shi-hua-todetaji-pan-noyun-yong-gai-shan</link>
-        <dc:date>2024-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deep Dive 大規模システムアーキテクチャ／開発組織エンジニアリング / Deep Dive Large-Scale System Architecture, Development Organization Engineering (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/deep-dive-large-scale-system-architecture-development-organization-engineering</link>
-        <dc:date>2024-03-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
