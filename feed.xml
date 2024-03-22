@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Svelte初心者がSVELTEKITで作るワークフローシステム (miko3)</title>
+        <link>https://speakerdeck.com/miko3/sveltechu-xin-zhe-gasveltekitdezuo-ruwakuhurosisutemu</link>
+        <dc:date>2024-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>決断するための勇気、そのためのBacklog / Courage to make decisions, Backlog for that. (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/courage-to-make-decisions-backlog-for-that</link>
+        <dc:date>2024-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自動テスト実行結果の目的を整理する / Organizing objectives of automated test results (Takuto Wada)</title>
+        <link>https://speakerdeck.com/twada/organizing-objectives-of-automated-test-results</link>
+        <dc:date>2024-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サービス成長と共に肥大化するモノレポ、長くなるCI時間 / As services grow, monorepos get bigger and CI time gets longer (kohbis)</title>
+        <link>https://speakerdeck.com/kohbis/as-services-grow-monorepos-get-bigger-and-ci-time-gets-longer</link>
+        <dc:date>2024-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ビジネスとコード品質の接合点 そしてコード品質がそこに及ぼす影響 / The Intersections of Business and Engineering, and The Impact of Code Quality There (mtx2s)</title>
         <link>https://speakerdeck.com/mtx2s/the-intersections-of-business-and-engineering-and-the-impact-of-code-quality-there</link>
         <dc:date>2024-03-21T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>ウェブアクセシビリティの ためのデザイン始めよう</title>
         <link>https://docs.google.com/presentation/d/1jLXhOUZ0laF4nqU26L9-_N5jd5XV3c8Xv_KuF4VWQNA/preview</link>
-        <dc:date>2024-03-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンパウンドスタートアップの“疎結合すぎない”チーム設計 (doyaaaaaken)</title>
-        <link>https://speakerdeck.com/doyaaaaaken/konpaundosutatoatupuno-shu-jie-he-suginai-timushe-ji</link>
-        <dc:date>2024-03-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>An internship on laziness</title>
-        <link>https://docs.google.com/presentation/d/1AVu1wiz6Deyz1MDlhzOWZDRn6g_iFkcqsGce1F23i-M/preview</link>
-        <dc:date>2024-03-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>もうすぐ新年度、Babylon.jsがお勧めな3個の理由 (Hideyuki Nagata)</title>
-        <link>https://speakerdeck.com/hideg/mousuguxin-nian-du-babylon-dot-jsgaoquan-mena3ge-noli-you</link>
-        <dc:date>2024-03-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業部を超えた 開発生産性向上に挑戦する (Kenta Kozuka)</title>
-        <link>https://speakerdeck.com/kentakozuka/shi-ye-bu-wochao-eta-kai-fa-sheng-chan-xing-xiang-shang-nitiao-zhan-suru</link>
         <dc:date>2024-03-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
