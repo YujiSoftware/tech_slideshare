@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>上手な探索的テストとその上達方法について (matsu802)</title>
+        <link>https://speakerdeck.com/matsu802/shang-shou-natan-suo-de-tesutotosonoshang-da-fang-fa-nituite</link>
+        <dc:date>2024-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ウェビナー：Nejumiリーダーボードを使った自社LLMモデルの独自評価.pdf (Yuya Yamamoto)</title>
+        <link>https://www.slideshare.net/slideshow/nejumillmpdf/266609969</link>
+        <dc:date>2024-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Svelte初心者がSVELTEKITで作るワークフローシステム (miko3)</title>
         <link>https://speakerdeck.com/miko3/sveltechu-xin-zhe-gasveltekitdezuo-ruwakuhurosisutemu</link>
         <dc:date>2024-03-21T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>A guided tour through Chrome's javascript compiler</title>
         <link>https://docs.google.com/presentation/d/1DJcWByz11jLoQyNhmOvkZSrkgcVhllIlCHmal1tGzaw/preview</link>
-        <dc:date>2024-03-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilot Tips and Tricks (Yuichi Tanaka)</title>
-        <link>https://speakerdeck.com/yuichielectric/github-copilot-tips-and-tricks</link>
-        <dc:date>2024-03-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウェブアクセシビリティの ためのデザイン始めよう</title>
-        <link>https://docs.google.com/presentation/d/1jLXhOUZ0laF4nqU26L9-_N5jd5XV3c8Xv_KuF4VWQNA/preview</link>
         <dc:date>2024-03-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
