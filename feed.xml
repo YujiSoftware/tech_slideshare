@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Postmanオンラインワークショップ - API認証 - 20240321</title>
+        <link>https://docs.google.com/presentation/d/1w6I3YUxR0-51hsEUGINlCv3mnQoDz9Xbi73KQUS_ssE/preview</link>
+        <dc:date>2024-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Lv1,2の開発生産性を経営と繋ぐ (Kenichi Takahashi)</title>
         <link>https://speakerdeck.com/kenchan/lv12nokai-fa-sheng-chan-xing-wojing-ying-toxi-gu</link>
         <dc:date>2024-03-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>マイクロサービス環境におけるDB戦略 in DMMプラットフォーム (pospome)</title>
         <link>https://speakerdeck.com/pospome/maikurosabisuhuan-jing-niokerudbzhan-lue-in-dmmpuratutohuomu</link>
-        <dc:date>2024-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>むやみにActionを送信してはいけない/do-not-send-actions-thoughtlessly (Takehiro Kaneko)</title>
-        <link>https://speakerdeck.com/takehilo/do-not-send-actions-thoughtlessly</link>
         <dc:date>2024-03-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
