@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「コンパイル時のユニットテスト」導入するとユニットテストを 書かなくてよくなるのか？ (Tomohisa Takaoka)</title>
+        <link>https://speakerdeck.com/tomohisa/konpairushi-noyunitutotesuto-dao-ru-surutoyunitutotesutowo-shu-kanakuteyokunarunoka</link>
+        <dc:date>2024-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Dockerで始めるAWS Lambda開発 (Taka)</title>
         <link>https://speakerdeck.com/stutkhd0709/dockerdeshi-meruaws-lambdakai-fa</link>
         <dc:date>2024-03-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>メインサービスのDBを1年でAurora1から段階的にAurora3へアップグレードした話 (inamuu)</title>
         <link>https://speakerdeck.com/kzm0211/meinsabisunodbwo1nian-deaurora1karaduan-jie-de-niaurora3heatupuguredositahua</link>
-        <dc:date>2024-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロンプトエンジニアリング入門 (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/puronputoenziniaringuru-men</link>
         <dc:date>2024-03-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
