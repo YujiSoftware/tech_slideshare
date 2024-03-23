@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Dockerで始めるAWS Lambda開発 (Taka)</title>
+        <link>https://speakerdeck.com/stutkhd0709/dockerdeshi-meruaws-lambdakai-fa</link>
+        <dc:date>2024-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模なアジャイル開発の現場と技術負債 / Technical Debt (yoshitaka KOITABASHI)</title>
         <link>https://speakerdeck.com/yoshiitaka/technical-debt</link>
         <dc:date>2024-03-22T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>プロンプトエンジニアリング入門 (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/puronputoenziniaringuru-men</link>
         <dc:date>2024-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データパイプラインバッチ設計で私が考えること (ugmuka)</title>
-        <link>https://speakerdeck.com/ugmuka/data-pipeline-considerations</link>
-        <dc:date>2024-03-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
