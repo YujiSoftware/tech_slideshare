@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>現実世界の事象から学ぶSOLID原則 (ほりしょー)</title>
+        <link>https://speakerdeck.com/h0r15h0/xian-shi-shi-jie-noshi-xiang-karaxue-busolidyuan-ze</link>
+        <dc:date>2024-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DDDはなぜ難しいのか / 良いコードの定義と設計能力の壁 (pospome)</title>
+        <link>https://speakerdeck.com/pospome/liang-ikodonoding-yi-toshe-ji-neng-li-nobi</link>
+        <dc:date>2024-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オブジェクト指向宗教史 (Hisateru Tanaka)</title>
         <link>https://speakerdeck.com/tanakahisateru/obuziekutozhi-xiang-zong-jiao-shi</link>
         <dc:date>2024-03-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>決断するための勇気、そのためのBacklog / Courage to make decisions, Backlog for that. (shiro seike)</title>
         <link>https://speakerdeck.com/seike460/courage-to-make-decisions-backlog-for-that</link>
-        <dc:date>2024-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自動テスト実行結果の目的を整理する / Organizing objectives of automated test results (Takuto Wada)</title>
-        <link>https://speakerdeck.com/twada/organizing-objectives-of-automated-test-results</link>
-        <dc:date>2024-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サービス成長と共に肥大化するモノレポ、長くなるCI時間 / As services grow, monorepos get bigger and CI time gets longer (kohbis)</title>
-        <link>https://speakerdeck.com/kohbis/as-services-grow-monorepos-get-bigger-and-ci-time-gets-longer</link>
         <dc:date>2024-03-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
