@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>設計の知識と技能で駆動するソフトウェア開発 (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/software-development-driven-by-design-knowledge-and-skills</link>
+        <dc:date>2024-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>良いアプリケーションをデザインするための感覚の持ち方 / Cultivating a Sense for Designing Great Applications (usagimaru)</title>
         <link>https://speakerdeck.com/usagimaru/cultivating-a-sense-for-designing-great-applications</link>
         <dc:date>2024-03-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>家族アルバム みてねで直面してきた技術的負債 / MIXI KAG 2024 (Isao Shimizu)</title>
         <link>https://speakerdeck.com/isaoshimizu/mixi-kag-2024</link>
-        <dc:date>2024-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実録！一人SREが直面している技術的負債 (syossan27)</title>
-        <link>https://speakerdeck.com/syossan27/shi-lu-ren-sregazhi-mian-siteiruji-shu-de-fu-zhai</link>
         <dc:date>2024-03-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
