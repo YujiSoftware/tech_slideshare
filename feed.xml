@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オブジェクト指向は必要なのか / Is object-oriented needed? (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/is-object-oriented-needed</link>
+        <dc:date>2024-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>設計の知識と技能で駆動するソフトウェア開発 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/software-development-driven-by-design-knowledge-and-skills</link>
         <dc:date>2024-03-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ビジネスとコード品質の接合点 そしてコード品質がそこに及ぼす影響 / The Intersections of Business and Engineering, and The Impact of Code Quality There (mtx2s)</title>
         <link>https://speakerdeck.com/mtx2s/the-intersections-of-business-and-engineering-and-the-impact-of-code-quality-there</link>
-        <dc:date>2024-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>家族アルバム みてねで直面してきた技術的負債 / MIXI KAG 2024 (Isao Shimizu)</title>
-        <link>https://speakerdeck.com/isaoshimizu/mixi-kag-2024</link>
         <dc:date>2024-03-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
