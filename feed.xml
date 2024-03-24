@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS構成図についてのLT (Keisuke Matsuda)</title>
+        <link>https://speakerdeck.com/k5k/awsgou-cheng-tu-nituitenolt</link>
+        <dc:date>2024-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>15分間でふんわり理解するDocker @ Matsuriba MAX (Yuki Watanabe)</title>
         <link>https://speakerdeck.com/ukwhatn/matsuriba-max-15-min-docker</link>
         <dc:date>2024-03-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>上手な探索的テストとその上達方法について (matsu802)</title>
         <link>https://speakerdeck.com/matsu802/shang-shou-natan-suo-de-tesutotosonoshang-da-fang-fa-nituite</link>
-        <dc:date>2024-03-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウェビナー：Nejumiリーダーボードを使った自社LLMモデルの独自評価.pdf (Yuya Yamamoto)</title>
-        <link>https://www.slideshare.net/slideshow/nejumillmpdf/266609969</link>
         <dc:date>2024-03-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
