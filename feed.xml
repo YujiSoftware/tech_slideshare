@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM + RAG を使った SORACOM Support Bot の裏側の歴史 (SORACOM)</title>
+        <link>https://speakerdeck.com/soracom/history-of-soracom-support-bot-20240321</link>
+        <dc:date>2024-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>イベントストーミングによるオブジェクトモデリング・オブジェクト指向プログラミングの適用・開発プロセスの変遷・アーキテクチャの変革 / Object modeling with Event Storming. (nrs)</title>
         <link>https://speakerdeck.com/nrslib/object-modeling-with-event-storming</link>
         <dc:date>2024-03-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>大規模なアジャイル開発の現場と技術負債 / Technical Debt (yoshitaka KOITABASHI)</title>
         <link>https://speakerdeck.com/yoshiitaka/technical-debt</link>
-        <dc:date>2024-03-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub最新情報キャッチアップ 2024年3月 (Kazumi IWANAGA)</title>
-        <link>https://speakerdeck.com/dzeyelid/tech-street-catchup-github-updates-20240321</link>
         <dc:date>2024-03-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
