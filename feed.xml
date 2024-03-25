@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実務への応用例から考える 変更に強いオブジェクト指向設計 / 20240324-ooc2024 (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20240324-ooc2024</link>
+        <dc:date>2024-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLM + RAG を使った SORACOM Support Bot の裏側の歴史 (SORACOM)</title>
         <link>https://speakerdeck.com/soracom/history-of-soracom-support-bot-20240321</link>
         <dc:date>2024-03-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Dockerで始めるAWS Lambda開発 (Taka)</title>
         <link>https://speakerdeck.com/stutkhd0709/dockerdeshi-meruaws-lambdakai-fa</link>
-        <dc:date>2024-03-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模なアジャイル開発の現場と技術負債 / Technical Debt (yoshitaka KOITABASHI)</title>
-        <link>https://speakerdeck.com/yoshiitaka/technical-debt</link>
         <dc:date>2024-03-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
