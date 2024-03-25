@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SwiftUI, Jetpack Composeの導入で変化した「家族アルバム みてね」のアプリ開発体験 (hicka04)</title>
+        <link>https://speakerdeck.com/hicka04/swiftui-jetpack-composenodao-ru-debian-hua-sita-jia-zu-arubamu-mitene-noapurikai-fa-ti-yan</link>
+        <dc:date>2024-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>匠MethodとRDRAとICONIXとDDDで実現する一気通貫オブジェクト指向開発 (haru860)</title>
         <link>https://speakerdeck.com/haru860/ooc2024-jiang-methodtordratoiconixtodddteshi-xian-suru-qi-tong-guan-ohusiekutozhi-xiang-kai-fa</link>
         <dc:date>2024-03-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SparseなDNNモデルの分散学習 (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/20231220_wandb_pfn_sparse_dnn</link>
-        <dc:date>2024-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドパフォーマンス 入門 (Shouta)</title>
-        <link>https://speakerdeck.com/shouta2/hurontoendopahuomansu-ru-men</link>
         <dc:date>2024-03-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
