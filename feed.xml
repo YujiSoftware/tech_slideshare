@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>私のRSpecの書き方 / How I write RSpec (とみたまさひろ)</title>
+        <link>https://speakerdeck.com/tmtms/how-i-write-rspec</link>
+        <dc:date>2024-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SwiftUI, Jetpack Composeの導入で変化した「家族アルバム みてね」のアプリ開発体験 (hicka04)</title>
         <link>https://speakerdeck.com/hicka04/swiftui-jetpack-composenodao-ru-debian-hua-sita-jia-zu-arubamu-mitene-noapurikai-fa-ti-yan</link>
         <dc:date>2024-03-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>PATを使わずに Github Appを使ってGithub ActionsでPrivate Repoを参照する話</title>
         <link>https://docs.google.com/presentation/d/10-HgSST2xR5H3xCwGLKCk_PBwq4zHcxD2393ifwOsiM/preview</link>
-        <dc:date>2024-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SparseなDNNモデルの分散学習 (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/20231220_wandb_pfn_sparse_dnn</link>
         <dc:date>2024-03-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
