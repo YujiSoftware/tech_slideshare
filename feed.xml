@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>非デザイナーのフロントエンドエンジニアがOOUIを考える (yud0uhu)</title>
+        <link>https://speakerdeck.com/yud0uhu/fei-dezainanohurontoendoenziniagaoouiwokao-eru-2baa37f9-94be-4092-a4f0-5a8e03cbda75</link>
+        <dc:date>2024-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>私のRSpecの書き方 / How I write RSpec (とみたまさひろ)</title>
         <link>https://speakerdeck.com/tmtms/how-i-write-rspec</link>
         <dc:date>2024-03-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ビジネスロジックを「型」で表現するOOPのための関数型DDD / Functional And Type-Safe DDD for OOP (YuitoSato)</title>
         <link>https://speakerdeck.com/yuitosato/functional-and-type-safe-ddd-for-oop</link>
-        <dc:date>2024-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PATを使わずに Github Appを使ってGithub ActionsでPrivate Repoを参照する話</title>
-        <link>https://docs.google.com/presentation/d/10-HgSST2xR5H3xCwGLKCk_PBwq4zHcxD2393ifwOsiM/preview</link>
         <dc:date>2024-03-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
