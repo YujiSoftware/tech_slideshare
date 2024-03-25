@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>匠MethodとRDRAとICONIXとDDDで実現する一気通貫オブジェクト指向開発 (haru860)</title>
+        <link>https://speakerdeck.com/haru860/ooc2024-jiang-methodtordratoiconixtodddteshi-xian-suru-qi-tong-guan-ohusiekutozhi-xiang-kai-fa</link>
+        <dc:date>2024-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>どうしてこうなった命名集 ~🔥編~ / OOC 2024 LT (集約のエンティティ)</title>
         <link>https://speakerdeck.com/pictiny/ooc-2024-lt</link>
         <dc:date>2024-03-24T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>フロントエンドパフォーマンス 入門 (Shouta)</title>
         <link>https://speakerdeck.com/shouta2/hurontoendopahuomansu-ru-men</link>
         <dc:date>2024-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240207 Comparison of  AWS Security Hub and 3rd party CSPM, consideration of operational design (Typhon 666,@Typhon666_death)</title>
-        <link>https://www.slideshare.net/slideshow/20240207-comparison-of-aws-security-hub-and-3rd-party-cspm-consideration-of-operational-design/266198968</link>
-        <dc:date>2024-03-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
