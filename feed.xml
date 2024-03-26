@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREsのためのSRE定着ガイド (Toshiaki Baba)</title>
+        <link>https://speakerdeck.com/netmarkjp/sresnotamenosreding-zhao-gaido</link>
+        <dc:date>2024-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMプロダクト事業の立ち上げにおける挑戦 (LayerX)</title>
         <link>https://speakerdeck.com/layerx/awsstartupcommunity-shinofumijp-2024</link>
         <dc:date>2024-03-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>object-oriented-conference-2024 (ふわせぐ)</title>
         <link>https://speakerdeck.com/fuwasegu/object-oriented-conference-2024</link>
-        <dc:date>2024-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS構成図についてのLT (Keisuke Matsuda)</title>
-        <link>https://speakerdeck.com/k5k/awsgou-cheng-tu-nituitenolt</link>
         <dc:date>2024-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
