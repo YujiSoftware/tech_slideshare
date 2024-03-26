@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CI/CDがあたりまえの今の時代にAPIテスティングツールに求められていること / CI/CD Test Night #7 (Ken’ichiro Oyama)</title>
+        <link>https://speakerdeck.com/k1low/cd-test-night-number-7</link>
+        <dc:date>2024-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事例から見るプロダクトでの生成 AI 活用のポイント (Takahiro Kubo)</title>
         <link>https://speakerdeck.com/icoxfog417/shi-li-karajian-rupurodakutodenosheng-cheng-ai-huo-yong-nopointo</link>
         <dc:date>2024-03-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLM + RAG を使った SORACOM Support Bot の裏側の歴史 (SORACOM)</title>
         <link>https://speakerdeck.com/soracom/history-of-soracom-support-bot-20240321</link>
-        <dc:date>2024-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>イベントストーミングによるオブジェクトモデリング・オブジェクト指向プログラミングの適用・開発プロセスの変遷・アーキテクチャの変革 / Object modeling with Event Storming. (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/object-modeling-with-event-storming</link>
         <dc:date>2024-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
