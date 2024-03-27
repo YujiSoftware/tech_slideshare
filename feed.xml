@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CI の DX とセキュリティ</title>
+        <link>https://docs.google.com/presentation/d/1rN4kTtvErrheZ3SXNr49XUHbiGIoorpfiLGXjLt5vsc/preview</link>
+        <dc:date>2024-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バッチ処理のSLOをどう設計するか (Ryunosuke Iwai)</title>
+        <link>https://speakerdeck.com/rynsuke/batutichu-li-noslowodoushe-ji-suruka</link>
+        <dc:date>2024-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CI/CDがあたりまえの今の時代にAPIテスティングツールに求められていること / CI/CD Test Night #7 (Ken’ichiro Oyama)</title>
         <link>https://speakerdeck.com/k1low/cd-test-night-number-7</link>
         <dc:date>2024-03-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>オブジェクト指向CSSが叶えたかったことと、CSSのいま / The aims of Object-oriented CSS and the current state of CSS usage (ShinkuFencer)</title>
         <link>https://speakerdeck.com/shinkufencer/the-aims-of-object-oriented-css-and-the-current-state-of-css-usage</link>
-        <dc:date>2024-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実務への応用例から考える 変更に強いオブジェクト指向設計 / 20240324-ooc2024 (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20240324-ooc2024</link>
-        <dc:date>2024-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM + RAG を使った SORACOM Support Bot の裏側の歴史 (SORACOM)</title>
-        <link>https://speakerdeck.com/soracom/history-of-soracom-support-bot-20240321</link>
         <dc:date>2024-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
