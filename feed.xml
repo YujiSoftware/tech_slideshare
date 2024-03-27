@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サービスメッシュ環境における OpenTelemetry 活用 / OpenTelemetry in Service Mesh (逆井（さかさい）)</title>
+        <link>https://speakerdeck.com/k6s4i53rx/opentelemetry-in-service-mesh</link>
+        <dc:date>2024-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リリース戦略を支えるCI/CDパイプライン (katzumi,@katzchum)</title>
         <link>https://www.docswell.com/s/katzumi/58G8J9-empowering-release-strategies-cicd-pipelines</link>
         <dc:date>2024-03-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>#51 “Empowering Azure Storage with RDMA” (cafenero_777)</title>
         <link>https://speakerdeck.com/cafenero_777/number-51-empowering-azure-storage-with-rdma</link>
-        <dc:date>2024-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenTelemetry のサービスという概念について  (azukiazusa)</title>
-        <link>https://speakerdeck.com/azukiazusa1/opentelemetry-nosabisutoiugai-nian-nituite</link>
         <dc:date>2024-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
