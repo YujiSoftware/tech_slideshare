@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リリース戦略を支えるCI/CDパイプライン (katzumi,@katzchum)</title>
+        <link>https://www.docswell.com/s/katzumi/58G8J9-empowering-release-strategies-cicd-pipelines</link>
+        <dc:date>2024-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>両面どころかインフラもTSでできるよ ～ 全方位TypeScriptによるプロダクト開発 ～ (Tatasuro Hisamori)</title>
+        <link>https://speakerdeck.com/myfinder/liang-mian-dokorokainhuramotsdedekiruyo-quan-fang-wei-typescriptniyorupurodakutokai-fa</link>
+        <dc:date>2024-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>あらゆる商品を扱う商品データベースを再設計した話 / product db re-architecture (rince)</title>
         <link>https://speakerdeck.com/rince/product-db-re-architecture</link>
         <dc:date>2024-03-26T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>OpenTelemetry のサービスという概念について  (azukiazusa)</title>
         <link>https://speakerdeck.com/azukiazusa1/opentelemetry-nosabisutoiugai-nian-nituite</link>
         <dc:date>2024-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非デザイナーのフロントエンドエンジニアがOOUIを考える (yud0uhu)</title>
-        <link>https://speakerdeck.com/yud0uhu/fei-dezainanohurontoendoenziniagaoouiwokao-eru-2baa37f9-94be-4092-a4f0-5a8e03cbda75</link>
-        <dc:date>2024-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>私のRSpecの書き方 / How I write RSpec (とみたまさひろ)</title>
-        <link>https://speakerdeck.com/tmtms/how-i-write-rspec</link>
-        <dc:date>2024-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
