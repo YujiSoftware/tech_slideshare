@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>バーチャルキャストの舞台裏 :メタバースの長期運用を実現する技術と戦略 (とりすーぷ,@toRisouP)</title>
+        <link>https://www.docswell.com/s/torisoup/5YWX2E-xrkaigi2023</link>
+        <dc:date>2024-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サービスメッシュ環境における OpenTelemetry 活用 / OpenTelemetry in Service Mesh (逆井（さかさい）)</title>
         <link>https://speakerdeck.com/k6s4i53rx/opentelemetry-in-service-mesh</link>
         <dc:date>2024-03-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JTCマインドをぶっ壊す！教育の観点から (沖中がいこつ)</title>
         <link>https://speakerdeck.com/okinakagaikotu/jtcmaindowobutuhuai-su-jiao-yu-noguan-dian-kara</link>
-        <dc:date>2024-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>#51 “Empowering Azure Storage with RDMA” (cafenero_777)</title>
-        <link>https://speakerdeck.com/cafenero_777/number-51-empowering-azure-storage-with-rdma</link>
         <dc:date>2024-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
