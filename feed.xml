@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>あらゆる商品を扱う商品データベースを再設計した話 / product db re-architecture (rince)</title>
+        <link>https://speakerdeck.com/rince/product-db-re-architecture</link>
+        <dc:date>2024-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>"Do not post credentials on Slack" High School Song -- Try English LT! for engineers 第10回 (WaTTson)</title>
         <link>https://speakerdeck.com/wattson496/do-not-post-credentials-on-slack-high-school-song-try-english-lt-10</link>
         <dc:date>2024-03-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>私のRSpecの書き方 / How I write RSpec (とみたまさひろ)</title>
         <link>https://speakerdeck.com/tmtms/how-i-write-rspec</link>
-        <dc:date>2024-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SwiftUI, Jetpack Composeの導入で変化した「家族アルバム みてね」のアプリ開発体験 (hicka04)</title>
-        <link>https://speakerdeck.com/hicka04/swiftui-jetpack-composenodao-ru-debian-hua-sita-jia-zu-arubamu-mitene-noapurikai-fa-ti-yan</link>
         <dc:date>2024-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
