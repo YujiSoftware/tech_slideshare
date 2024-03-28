@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データマネジメントを支える武器としてのメタデータ管理 (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/detamanezimentowozhi-eruwu-qi-tositenometadetaguan-li</link>
+        <dc:date>2024-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データ品質をコード化！ LINEヤフーのMLOpsを最適化する "ACP Data Quality" の紹介 (LY Corporation Tech)</title>
+        <link>https://speakerdeck.com/lycorptech_jp/20240328-data-centric-ai-acp-data-quality</link>
+        <dc:date>2024-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScript Quiz (Encraft #12 Frontend Quiz Night) (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/typescript-quiz-encraft-number-12-frontend-quiz-night</link>
+        <dc:date>2024-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>現場主導の開発効率向上の仕組みづくり (Asakura Shinsuke)</title>
         <link>https://speakerdeck.com/asashin227/xian-chang-zhu-dao-nokai-fa-xiao-lu-xiang-shang-noshi-zu-midukuri</link>
         <dc:date>2024-03-27T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>事例から見るプロダクトでの生成 AI 活用のポイント (Takahiro Kubo)</title>
         <link>https://speakerdeck.com/icoxfog417/shi-li-karajian-rupurodakutodenosheng-cheng-ai-huo-yong-nopointo</link>
         <dc:date>2024-03-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREsのためのSRE定着ガイド (Toshiaki Baba)</title>
-        <link>https://speakerdeck.com/netmarkjp/sresnotamenosreding-zhao-gaido</link>
-        <dc:date>2024-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMプロダクト事業の立ち上げにおける挑戦 (LayerX)</title>
-        <link>https://speakerdeck.com/layerx/awsstartupcommunity-shinofumijp-2024</link>
-        <dc:date>2024-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>業務で使えるかもしれない…！？GitHub Actions の Tips 集 / CI/CD Test Night #7 (YuyaKoda)</title>
-        <link>https://speakerdeck.com/ponkio_o/cd-test-night-number-7</link>
-        <dc:date>2024-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
