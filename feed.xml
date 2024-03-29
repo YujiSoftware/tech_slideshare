@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>中学生でもわかる深層学習 (E869120)</title>
+        <link>https://speakerdeck.com/e869120/zhong-xue-sheng-demowakarushen-ceng-xue-xi</link>
+        <dc:date>2024-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PolarsとPanderaで実現する高速でロバストなデータ処理 (chimuichimu)</title>
+        <link>https://speakerdeck.com/chimuichimu/polarstopanderadeshi-xian-suru-gao-su-derobasutonadetachu-li</link>
+        <dc:date>2024-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240328_Apple Vision Pro小ネタ集 (Shinnosuke Iwaki,@MobileHackerz)</title>
         <link>https://www.docswell.com/s/MIRO/ZENG6D-2024-03-29-001327</link>
         <dc:date>2024-03-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>バーチャルキャストの舞台裏 :メタバースの長期運用を実現する技術と戦略 (とりすーぷ,@toRisouP)</title>
         <link>https://www.docswell.com/s/torisoup/5YWX2E-xrkaigi2023</link>
-        <dc:date>2024-03-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サービスメッシュ環境における OpenTelemetry 活用 / OpenTelemetry in Service Mesh (逆井（さかさい）)</title>
-        <link>https://speakerdeck.com/k6s4i53rx/opentelemetry-in-service-mesh</link>
-        <dc:date>2024-03-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リリース戦略を支えるCI/CDパイプライン (katzumi,@katzchum)</title>
-        <link>https://www.docswell.com/s/katzumi/58G8J9-empowering-release-strategies-cicd-pipelines</link>
         <dc:date>2024-03-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
