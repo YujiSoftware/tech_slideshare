@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMの現在 (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/llmnoxian-zai</link>
+        <dc:date>2024-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2024-03-29 SRETT9 Cloud SQLの可用性について (SUZUKI Masashi)</title>
         <link>https://speakerdeck.com/masasuzu/2024-03-29-srett9-cloudsqlnoke-yong-xing</link>
         <dc:date>2024-03-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kuma UIの設計思想と 頑張らないゼロランタイムCSS-in-JS (poteboy)</title>
         <link>https://speakerdeck.com/poteboy/kuma-uinoshe-ji-si-xiang-to-wan-zhang-ranaizerorantaimucss-in-js</link>
-        <dc:date>2024-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>中央集権体制からDataOpsへの転換 / centralized-to-dataops-transformation (Jumpei Chikamori)</title>
-        <link>https://speakerdeck.com/pei0804/centralized-to-dataops-transformation</link>
         <dc:date>2024-03-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
