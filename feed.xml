@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>これまでのキャリアとこれからMLエンジニアとしてどう動くか (Masataka Kashiwagi)</title>
+        <link>https://speakerdeck.com/masatakashiwagi/koremadenokiyariatokorekaramlenziniatositedoudong-kuka</link>
+        <dc:date>2024-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>継続的テストモデルを実現するためにスリーアミーゴスを用いた10Xでのシフトレフトの事例 (nihonbuson)</title>
         <link>https://speakerdeck.com/nihonbuson/processshiftleft</link>
         <dc:date>2024-03-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>両面どころかインフラもTSでできるよ ～ 全方位TypeScriptによるプロダクト開発 ～ (Tatasuro Hisamori)</title>
         <link>https://speakerdeck.com/myfinder/liang-mian-dokorokainhuramotsdedekiruyo-quan-fang-wei-typescriptniyorupurodakutokai-fa</link>
-        <dc:date>2024-03-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あらゆる商品を扱う商品データベースを再設計した話 / product db re-architecture (rince)</title>
-        <link>https://speakerdeck.com/rince/product-db-re-architecture</link>
         <dc:date>2024-03-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
