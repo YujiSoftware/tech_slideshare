@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Terraform v1.7のTest mocking機能の紹介 / Introducing the Test mocking feature of Terraform v1.7 (yayoi_dd)</title>
+        <link>https://speakerdeck.com/yayoi_dd/introducing-the-test-mocking-feature-of-terraform-v1-dot-7</link>
+        <dc:date>2024-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMの現在 (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/llmnoxian-zai</link>
         <dc:date>2024-03-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>開発活動の参照モデルを使ったベンチマーキングと最適化 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/bpstudy-199-essence-kernel</link>
-        <dc:date>2024-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kuma UIの設計思想と 頑張らないゼロランタイムCSS-in-JS (poteboy)</title>
-        <link>https://speakerdeck.com/poteboy/kuma-uinoshe-ji-si-xiang-to-wan-zhang-ranaizerorantaimucss-in-js</link>
         <dc:date>2024-03-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
