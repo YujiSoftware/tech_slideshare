@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なめらかな社会とその敵「生き物の巣とヒトの構築技術比較」</title>
+        <link>https://docs.google.com/presentation/d/1MIWTxZoXJKqmFQ2-So4f7EdxfX0JqpA_FLC3WP_BYvM/preview</link>
+        <dc:date>2024-03-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>品質とスピードを両立: TypeScriptの柔軟な型システムをバックエンドで活用する (kosui)</title>
         <link>https://speakerdeck.com/kosui/pin-zhi-tosupidowoliang-li-typescriptnorou-ruan-naxing-sisutemuwobatukuendodehuo-yong-suru</link>
         <dc:date>2024-03-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データ品質をコード化！ LINEヤフーのMLOpsを最適化する "ACP Data Quality" の紹介 (LY Corporation Tech)</title>
         <link>https://speakerdeck.com/lycorptech_jp/20240328-data-centric-ai-acp-data-quality</link>
-        <dc:date>2024-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript Quiz (Encraft #12 Frontend Quiz Night) (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/typescript-quiz-encraft-number-12-frontend-quiz-night</link>
         <dc:date>2024-03-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
