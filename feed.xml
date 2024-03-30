@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>品質とスピードを両立: TypeScriptの柔軟な型システムをバックエンドで活用する (kosui)</title>
+        <link>https://speakerdeck.com/kosui/pin-zhi-tosupidowoliang-li-typescriptnorou-ruan-naxing-sisutemuwobatukuendodehuo-yong-suru</link>
+        <dc:date>2024-03-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模言語モデル開発のための日本語 Instruction データセット作成の取り組み (Shouhei Kuniyoshi)</title>
         <link>https://speakerdeck.com/kunishou/da-gui-mo-yan-yu-moderukai-fa-notamenori-ben-yu-instruction-detasetutozuo-cheng-noqu-rizu-mi</link>
         <dc:date>2024-03-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TypeScript Quiz (Encraft #12 Frontend Quiz Night) (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/typescript-quiz-encraft-number-12-frontend-quiz-night</link>
-        <dc:date>2024-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現場主導の開発効率向上の仕組みづくり (Asakura Shinsuke)</title>
-        <link>https://speakerdeck.com/asashin227/xian-chang-zhu-dao-nokai-fa-xiao-lu-xiang-shang-noshi-zu-midukuri</link>
         <dc:date>2024-03-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
