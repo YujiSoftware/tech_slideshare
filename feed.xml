@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>金融時系列のためのデータ拡張入門 (tonic)</title>
+        <link>https://speakerdeck.com/tonic/jin-rong-shi-xi-lie-notamenodetakuo-zhang-ru-men</link>
+        <dc:date>2024-03-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>3/26 フロントエンドアーキテクチャ改善Night</title>
         <link>https://docs.google.com/presentation/d/183XfI6TqLVcFGRkZME2sZulRqgOHxzgbg3Av6NfD1bs/preview</link>
         <dc:date>2024-03-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>これまでのキャリアとこれからMLエンジニアとしてどう動くか (Masataka Kashiwagi)</title>
         <link>https://speakerdeck.com/masatakashiwagi/koremadenokiyariatokorekaramlenziniatositedoudong-kuka</link>
-        <dc:date>2024-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>継続的テストモデルを実現するためにスリーアミーゴスを用いた10Xでのシフトレフトの事例 (nihonbuson)</title>
-        <link>https://speakerdeck.com/nihonbuson/processshiftleft</link>
         <dc:date>2024-03-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
