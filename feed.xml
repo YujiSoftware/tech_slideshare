@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Data Availability Sampling を理解する</title>
+        <link>https://docs.google.com/presentation/d/1hWedC5Ti_9lXQD0jM2IhRGwu05erL-CKP_ecgyCHlbU/preview</link>
+        <dc:date>2024-04-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニア基礎 2024年度エンジニア新卒研修 (ことみん / kotomin_m)</title>
+        <link>https://speakerdeck.com/kotomin_m/ensiniaji-chu-2024nian-du-ensiniaxin-zu-yan-xiu-8571fa94-7ebf-44fc-a5cd-302763118aee</link>
+        <dc:date>2024-04-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React フレームワークの 動向と選定基準 (azukiazusa)</title>
         <link>https://speakerdeck.com/azukiazusa1/react-huremuwakuno-dong-xiang-toxuan-ding-ji-zhun</link>
         <dc:date>2024-03-31T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>中学生でもわかる深層学習 (E869120)</title>
         <link>https://speakerdeck.com/e869120/zhong-xue-sheng-demowakarushen-ceng-xue-xi</link>
-        <dc:date>2024-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PolarsとPanderaで実現する高速でロバストなデータ処理 (chimuichimu)</title>
-        <link>https://speakerdeck.com/chimuichimu/polarstopanderadeshi-xian-suru-gao-su-derobasutonadetachu-li</link>
-        <dc:date>2024-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240328_Apple Vision Pro小ネタ集 (Shinnosuke Iwaki,@MobileHackerz)</title>
-        <link>https://www.docswell.com/s/MIRO/ZENG6D-2024-03-29-001327</link>
         <dc:date>2024-03-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
