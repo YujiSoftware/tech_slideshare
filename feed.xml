@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>3/26 フロントエンドアーキテクチャ改善Night</title>
+        <link>https://docs.google.com/presentation/d/183XfI6TqLVcFGRkZME2sZulRqgOHxzgbg3Av6NfD1bs/preview</link>
+        <dc:date>2024-03-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>App Router への移行は「改善」となり得るのか？/ Can migration to App Router be an improvement (Takepepe)</title>
+        <link>https://speakerdeck.com/takefumiyoshii/can-migration-to-app-router-be-an-improvement</link>
+        <dc:date>2024-03-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>カスタムベクトルストアでRAGワークフローをカスタマイズする (Pretzelisa)</title>
+        <link>https://speakerdeck.com/risako/kasutamubekutorusutoaderagwakuhurowokasutamaizusuru</link>
+        <dc:date>2024-03-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ログラスを支える設計標準について / loglass-design-standards (urmot)</title>
         <link>https://speakerdeck.com/urmot/loglass-design-standards</link>
         <dc:date>2024-03-31T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>継続的テストモデルを実現するためにスリーアミーゴスを用いた10Xでのシフトレフトの事例 (nihonbuson)</title>
         <link>https://speakerdeck.com/nihonbuson/processshiftleft</link>
-        <dc:date>2024-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>放射線分野の問題をLLMに解かせてみた (Elith)</title>
-        <link>https://speakerdeck.com/elith/fang-she-xian-fen-ye-nowen-ti-wollmnijie-kasetemita</link>
-        <dc:date>2024-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードレビューを支援するAI技術の応用 (akkie76)</title>
-        <link>https://speakerdeck.com/akkie76/design-conf-extends-ooc</link>
-        <dc:date>2024-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>トーク力は一生役に立つよ (picopico)</title>
-        <link>https://speakerdeck.com/picopico/tokuli-ha-sheng-yi-nili-tuyo</link>
         <dc:date>2024-03-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
