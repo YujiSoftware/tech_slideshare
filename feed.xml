@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Babylon.js 勉強会 VirtualCast 採用事例</title>
+        <link>https://docs.google.com/presentation/d/1QMaQ9JuwoZA7kx1A2CPS5O4rlPUlDOgihJQXjtj-qAQ/preview</link>
+        <dc:date>2024-04-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Babylon.js 勉強会 2022 年度活動紹介</title>
+        <link>https://docs.google.com/presentation/d/1K8_Lbf511MV4BFagteJveyC3Eii6i-f2XkhgmDdM3RA/preview</link>
+        <dc:date>2024-04-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20230401_BABYLON_ぷちデジタルツイン</title>
+        <link>https://docs.google.com/presentation/d/13kRyPnmO1J7Z9kT3zpYLRv4h2lu3zq06M4Nho3saGD0/preview</link>
+        <dc:date>2024-04-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[Developers Summit 2024]良いプロダクト作りのための組織育成（理論＆実践編） 健全なコードは健全な組織、健全なチームから (Z.O.E.)</title>
         <link>https://speakerdeck.com/ikezoemakoto/developers-summit-2024-liang-ipurodakutozuo-rinotamenozu-zhi-yu-cheng-li-lun-and-shi-jian-bian-jian-quan-nakodohajian-quan-nazu-zhi-jian-quan-natimukara</link>
         <dc:date>2024-04-02T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>大規模言語モデル開発のための日本語 Instruction データセット作成の取り組み (Shouhei Kuniyoshi)</title>
         <link>https://speakerdeck.com/kunishou/da-gui-mo-yan-yu-moderukai-fa-notamenori-ben-yu-instruction-detasetutozuo-cheng-noqu-rizu-mi</link>
         <dc:date>2024-03-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>well-working story (株式会社SmartHR)</title>
-        <link>https://speakerdeck.com/smarthr_pr/well-working-story</link>
-        <dc:date>2024-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Terraform v1.7のTest mocking機能の紹介 / Introducing the Test mocking feature of Terraform v1.7 (yayoi_dd)</title>
-        <link>https://speakerdeck.com/yayoi_dd/introducing-the-test-mocking-feature-of-terraform-v1-dot-7</link>
-        <dc:date>2024-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMの現在 (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/llmnoxian-zai</link>
-        <dc:date>2024-03-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
