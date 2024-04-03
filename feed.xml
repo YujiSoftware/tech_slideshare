@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[Developers Summit 2024]良いプロダクト作りのための組織育成（理論＆実践編） 健全なコードは健全な組織、健全なチームから (Z.O.E.)</title>
+        <link>https://speakerdeck.com/ikezoemakoto/developers-summit-2024-liang-ipurodakutozuo-rinotamenozu-zhi-yu-cheng-li-lun-and-shi-jian-bian-jian-quan-nakodohajian-quan-nazu-zhi-jian-quan-natimukara</link>
+        <dc:date>2024-04-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Pinを追うにはRustを追わねば(体験版)</title>
         <link>https://docs.google.com/presentation/d/1SnlghUYWG6Bjnene6BONJIPvcBKGrQw6ZhmYSHAcYHs/preview</link>
         <dc:date>2024-04-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLMの現在 (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/llmnoxian-zai</link>
-        <dc:date>2024-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024-03-29 SRETT9 Cloud SQLの可用性について (SUZUKI Masashi)</title>
-        <link>https://speakerdeck.com/masasuzu/2024-03-29-srett9-cloudsqlnoke-yong-xing</link>
         <dc:date>2024-03-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
