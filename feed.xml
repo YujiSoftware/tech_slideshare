@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kubernetesでアプリの安定稼働と高頻度のアップデートを両立するためのプラクティス / Best Practices for Applications on Kubernetes to Achieve Both Frequent Updates and Stability (hhiroshell)</title>
+        <link>https://speakerdeck.com/hhiroshell/best-practices-for-applications-on-kubernetes-to-achieve-both-frequent-updates-and-stability-39bd8e98-5626-4cf2-8883-7eb19779996c</link>
+        <dc:date>2024-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>良いプロダクト作りのための組織育成 健全なコードは、 健全な組織・健全なチームから (Z.O.E.)</title>
         <link>https://speakerdeck.com/ikezoemakoto/liang-ipurodakutozuo-rinotamenozu-zhi-yu-cheng-jian-quan-nakodoha-jian-quan-nazu-zhi-jian-quan-natimukara</link>
         <dc:date>2024-04-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>振り返った結果、自分のキーワードは安心感だったという話 (sawarabi)</title>
         <link>https://speakerdeck.com/sawarabi/zhen-rifan-tutajie-guo-zi-fen-nokiwadohaan-xin-gan-datutatoiuhua</link>
-        <dc:date>2024-03-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>信頼される振る舞いを継続しましょう / Keep up the trusted behavior (Yuichi Tsunematsu)</title>
-        <link>https://speakerdeck.com/tunepolo/keep-up-the-trusted-behavior</link>
         <dc:date>2024-03-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
