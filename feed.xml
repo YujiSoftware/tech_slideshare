@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ドラッグ＆ドロップを支える技術 (高津亘宏)</title>
+        <link>https://speakerdeck.com/takatsunobuhiro/doratugu-and-dorotupuwozhi-eruji-shu</link>
+        <dc:date>2024-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>静的解析から学ぶ go/ast パッケージの設計思想.pptx</title>
+        <link>https://docs.google.com/presentation/d/1oza07b_JfwBmz6FowU8OdZY2Vk0WvlpC/preview</link>
+        <dc:date>2024-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Next.js×Prisma×GraphQL×Supabase +WASMでブログを自作した話 (yud0uhu)</title>
+        <link>https://speakerdeck.com/yud0uhu/next-dot-jsxprismaxgraphqlxsupabase-plus-wasmdeburoguwozi-zuo-sitahua</link>
+        <dc:date>2024-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>純SPAでNext.jsに対抗する 〜ページによってmetaタグを切り替える編〜 (kiyoshiro)</title>
+        <link>https://speakerdeck.com/kiyoshiro/chun-spadenext-dot-jsnidui-kang-suru-peziniyotutemetataguwoqie-riti-erubian</link>
+        <dc:date>2024-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新卒研修でNext.js AppRouterを導入した 学びと反省 (井内 将俊)</title>
+        <link>https://speakerdeck.com/iuchimasatoshi/xin-zu-yan-xiu-denext-dot-js-approuterwodao-ru-sita-xue-bitofan-sheng</link>
+        <dc:date>2024-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ビジネスとエンジニアリングの接合点 そしてコード品質がそこに及ぼす影響 v1.1 / The Intersections of Business and Engineering, and The Impact of Code Quality There (v1.1) (mtx2s)</title>
+        <link>https://speakerdeck.com/mtx2s/the-intersections-of-business-and-engineering-and-the-impact-of-code-quality-there-v1-dot-1</link>
+        <dc:date>2024-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kubernetesでアプリの安定稼働と高頻度のアップデートを両立するためのプラクティス / Best Practices for Applications on Kubernetes to Achieve Both Frequent Updates and Stability (hhiroshell)</title>
         <link>https://speakerdeck.com/hhiroshell/best-practices-for-applications-on-kubernetes-to-achieve-both-frequent-updates-and-stability-39bd8e98-5626-4cf2-8883-7eb19779996c</link>
         <dc:date>2024-04-03T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>金融時系列のためのデータ拡張入門 (tonic)</title>
         <link>https://speakerdeck.com/tonic/jin-rong-shi-xi-lie-notamenodetakuo-zhang-ru-men</link>
         <dc:date>2024-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>3/26 フロントエンドアーキテクチャ改善Night</title>
-        <link>https://docs.google.com/presentation/d/183XfI6TqLVcFGRkZME2sZulRqgOHxzgbg3Av6NfD1bs/preview</link>
-        <dc:date>2024-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>App Router への移行は「改善」となり得るのか？/ Can migration to App Router be an improvement (Takepepe)</title>
-        <link>https://speakerdeck.com/takefumiyoshii/can-migration-to-app-router-be-an-improvement</link>
-        <dc:date>2024-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カスタムベクトルストアでRAGワークフローをカスタマイズする (Pretzelisa)</title>
-        <link>https://speakerdeck.com/risako/kasutamubekutorusutoaderagwakuhurowokasutamaizusuru</link>
-        <dc:date>2024-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ログラスを支える設計標準について / loglass-design-standards (urmot)</title>
-        <link>https://speakerdeck.com/urmot/loglass-design-standards</link>
-        <dc:date>2024-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アプリ開発プロジェクト2024</title>
-        <link>https://docs.google.com/presentation/d/1rgiHn7nOFJsNA8J3lZNL7eUU1Pchoveq0sVgrwcrNe8/preview</link>
-        <dc:date>2024-03-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>振り返った結果、自分のキーワードは安心感だったという話 (sawarabi)</title>
-        <link>https://speakerdeck.com/sawarabi/zhen-rifan-tutajie-guo-zi-fen-nokiwadohaan-xin-gan-datutatoiuhua</link>
-        <dc:date>2024-03-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
