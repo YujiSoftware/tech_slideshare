@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>XSS using dirty Content Type in cloud era (Flatt Security)</title>
+        <link>https://speakerdeck.com/flatt_security/xss-using-dirty-content-type-in-cloud-era</link>
+        <dc:date>2024-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ドラッグ＆ドロップを支える技術 (高津亘宏)</title>
         <link>https://speakerdeck.com/takatsunobuhiro/doratugu-and-dorotupuwozhi-eruji-shu</link>
         <dc:date>2024-04-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>React フレームワークの 動向と選定基準 (azukiazusa)</title>
         <link>https://speakerdeck.com/azukiazusa1/react-huremuwakuno-dong-xiang-toxuan-ding-ji-zhun</link>
-        <dc:date>2024-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>金融時系列のためのデータ拡張入門 (tonic)</title>
-        <link>https://speakerdeck.com/tonic/jin-rong-shi-xi-lie-notamenodetakuo-zhang-ru-men</link>
         <dc:date>2024-03-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
