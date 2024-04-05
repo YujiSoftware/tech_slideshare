@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>EC2 からの脱出劇：多用途なサーバの全役割をサーバレス・コンテナ環境へ (Akari)</title>
+        <link>https://speakerdeck.com/akarin/ec2-karanotuo-chu-ju-duo-yong-tu-nasabanoquan-yi-ge-wosabaresukontenahuan-jing-he</link>
+        <dc:date>2024-04-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ruby on Rails + Sidekiq構成のモノリシックサービスをコンテナ化した話 / kayac_andpad_event (DAN)</title>
+        <link>https://speakerdeck.com/cassius7/kayac-andpad-event</link>
+        <dc:date>2024-04-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>隙間家具OSS開発で『自分の庭』をつくる / kayac-andpad-event (FUJIWARA Shunichiro)</title>
+        <link>https://speakerdeck.com/fujiwara3/kayac-andpad-event</link>
+        <dc:date>2024-04-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS Security Hubを有効化したけど見てない人に向けたDevSecOpsの実現方法 / #kayac_andpad_event (Masahiro Yoshizawa)</title>
+        <link>https://speakerdeck.com/muziyoshiz/kayac-andpad-event</link>
+        <dc:date>2024-04-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ログラスにおけるコード品質でビジネスに貢献する仕組み・カルチャー / A system and culture that contributes to business through code quality in Loglass (Yoshiki Iida)</title>
+        <link>https://speakerdeck.com/yoshikiiida/a-system-and-culture-that-contributes-to-business-through-code-quality-in-loglass</link>
+        <dc:date>2024-04-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MySQL 101 for Developers (wa6sn)</title>
         <link>https://speakerdeck.com/wa6sn/mysql-101-for-developers</link>
         <dc:date>2024-04-04T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>Babylon.js 勉強会 VirtualCast 採用事例</title>
         <link>https://docs.google.com/presentation/d/1QMaQ9JuwoZA7kx1A2CPS5O4rlPUlDOgihJQXjtj-qAQ/preview</link>
         <dc:date>2024-04-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Babylon.js 勉強会 2022 年度活動紹介</title>
-        <link>https://docs.google.com/presentation/d/1K8_Lbf511MV4BFagteJveyC3Eii6i-f2XkhgmDdM3RA/preview</link>
-        <dc:date>2024-04-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230401_BABYLON_ぷちデジタルツイン</title>
-        <link>https://docs.google.com/presentation/d/13kRyPnmO1J7Z9kT3zpYLRv4h2lu3zq06M4Nho3saGD0/preview</link>
-        <dc:date>2024-04-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Developers Summit 2024]良いプロダクト作りのための組織育成（理論＆実践編） 健全なコードは健全な組織、健全なチームから (Z.O.E.)</title>
-        <link>https://speakerdeck.com/ikezoemakoto/developers-summit-2024-liang-ipurodakutozuo-rinotamenozu-zhi-yu-cheng-li-lun-and-shi-jian-bian-jian-quan-nakodohajian-quan-nazu-zhi-jian-quan-natimukara</link>
-        <dc:date>2024-04-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pinを追うにはRustを追わねば(体験版)</title>
-        <link>https://docs.google.com/presentation/d/1SnlghUYWG6Bjnene6BONJIPvcBKGrQw6ZhmYSHAcYHs/preview</link>
-        <dc:date>2024-04-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Data Availability Sampling を理解する</title>
-        <link>https://docs.google.com/presentation/d/1hWedC5Ti_9lXQD0jM2IhRGwu05erL-CKP_ecgyCHlbU/preview</link>
-        <dc:date>2024-04-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
