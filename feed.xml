@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Why we expect the Microservices (Shingo.Kitayama)</title>
+        <link>https://speakerdeck.com/shkitayama/why-we-expect-the-microservices</link>
+        <dc:date>2024-04-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CloudflareのCAPTCHAを使って ユーザ体験を下げず不正利用を排除する / Cloudflare's captcha case study that does not degrade ux (linyows)</title>
         <link>https://speakerdeck.com/linyows/cloudflares-captcha-case-study-that-does-not-degrade-ux</link>
         <dc:date>2024-04-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スキル差があるペア_モブプロで効果的な_ドライバーナビゲータ以外のロールの分け方.pdf (Yata Shinnosuke)</title>
         <link>https://speakerdeck.com/yatasunshine/sukiruchai-kaaruhea-mohuhurotexiao-guo-de-na-toraihanahiketayi-wai-nororunofen-kefang</link>
-        <dc:date>2024-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>東京都デジタル人材確保・育成基本方針 ver.2.0 (東京都デジタル人材確保・育成)</title>
-        <link>https://speakerdeck.com/tokyo_metropolitan_gov_digital_hr/dong-jing-du-dezitaruren-cai-que-bao-yu-cheng-ji-ben-fang-zhen-ver-dot-2-0</link>
         <dc:date>2024-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
