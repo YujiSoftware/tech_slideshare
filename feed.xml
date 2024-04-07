@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新卒1年目でPjMと開発責任者を任された話 (Yuki Tagawa)</title>
+        <link>https://speakerdeck.com/raorao1011/xin-zu-1nian-mu-depjmtokai-fa-ze-ren-zhe-woren-saretahua</link>
+        <dc:date>2024-04-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ストーリーで学ぶモジュラーモノリス (suzuki masayuki)</title>
         <link>https://speakerdeck.com/suzukimar/sutoritexue-humosiyuramonorisu</link>
         <dc:date>2024-04-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ビジネスとエンジニアリングの接合点 そしてコード品質がそこに及ぼす影響 v1.1 / The Intersections of Business and Engineering, and The Impact of Code Quality There (v1.1) (mtx2s)</title>
         <link>https://speakerdeck.com/mtx2s/the-intersections-of-business-and-engineering-and-the-impact-of-code-quality-there-v1-dot-1</link>
-        <dc:date>2024-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesでアプリの安定稼働と高頻度のアップデートを両立するためのプラクティス / Best Practices for Applications on Kubernetes to Achieve Both Frequent Updates and Stability (hhiroshell)</title>
-        <link>https://speakerdeck.com/hhiroshell/best-practices-for-applications-on-kubernetes-to-achieve-both-frequent-updates-and-stability-39bd8e98-5626-4cf2-8883-7eb19779996c</link>
         <dc:date>2024-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
