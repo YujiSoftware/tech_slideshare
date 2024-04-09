@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Docker再入門 ~コンテナ・イメージ編~ (Haruki Yoshida)</title>
+        <link>https://speakerdeck.com/yoshiyoshiharu/dockerzai-ru-men-kontenaimezibian</link>
+        <dc:date>2024-04-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>⼤規模⾔語モデルの拡張（RAG）が 終わったかも知れない件について (NearMeの技術発表資料です)</title>
         <link>https://speakerdeck.com/nearme_tech/gui-mo-yu-moderunokuo-zhang-rag-ga-zhong-watutakamozhi-renaijian-nituite</link>
         <dc:date>2024-04-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>静的解析から学ぶ go/ast パッケージの設計思想.pptx</title>
         <link>https://docs.google.com/presentation/d/1oza07b_JfwBmz6FowU8OdZY2Vk0WvlpC/preview</link>
-        <dc:date>2024-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.js×Prisma×GraphQL×Supabase +WASMでブログを自作した話 (yud0uhu)</title>
-        <link>https://speakerdeck.com/yud0uhu/next-dot-jsxprismaxgraphqlxsupabase-plus-wasmdeburoguwozi-zuo-sitahua</link>
         <dc:date>2024-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
