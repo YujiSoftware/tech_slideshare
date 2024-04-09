@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>⼤規模⾔語モデルの拡張（RAG）が 終わったかも知れない件について (NearMeの技術発表資料です)</title>
+        <link>https://speakerdeck.com/nearme_tech/gui-mo-yu-moderunokuo-zhang-rag-ga-zhong-watutakamozhi-renaijian-nituite</link>
+        <dc:date>2024-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>技書博に参加したら執筆できた (uutan1108)</title>
         <link>https://speakerdeck.com/ohmori_yusuke/ji-shu-bo-nican-jia-sitarazhi-bi-tekita</link>
         <dc:date>2024-04-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Next.js×Prisma×GraphQL×Supabase +WASMでブログを自作した話 (yud0uhu)</title>
         <link>https://speakerdeck.com/yud0uhu/next-dot-jsxprismaxgraphqlxsupabase-plus-wasmdeburoguwozi-zuo-sitahua</link>
-        <dc:date>2024-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>純SPAでNext.jsに対抗する 〜ページによってmetaタグを切り替える編〜 (kiyoshiro)</title>
-        <link>https://speakerdeck.com/kiyoshiro/chun-spadenext-dot-jsnidui-kang-suru-peziniyotutemetataguwoqie-riti-erubian</link>
         <dc:date>2024-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
