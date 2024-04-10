@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenTelemetry を使ったトレースエグザンプラーの活用 / otel-trace-exemplar (逆井（さかさい）)</title>
+        <link>https://speakerdeck.com/k6s4i53rx/otel-trace-exemplar</link>
+        <dc:date>2024-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Docker再入門 ~コンテナ・イメージ編~ (Haruki Yoshida)</title>
         <link>https://speakerdeck.com/yoshiyoshiharu/dockerzai-ru-men-kontenaimezibian</link>
         <dc:date>2024-04-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ドラッグ＆ドロップを支える技術 (高津亘宏)</title>
         <link>https://speakerdeck.com/takatsunobuhiro/doratugu-and-dorotupuwozhi-eruji-shu</link>
-        <dc:date>2024-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>静的解析から学ぶ go/ast パッケージの設計思想.pptx</title>
-        <link>https://docs.google.com/presentation/d/1oza07b_JfwBmz6FowU8OdZY2Vk0WvlpC/preview</link>
         <dc:date>2024-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
