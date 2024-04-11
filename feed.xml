@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>シン・Kafka / shin-kafka (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/shin-kafka</link>
+        <dc:date>2024-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMアプリケーションの実験管理・評価の工夫を紹介 (PharmaX（旧YOJO Technologies）開発チーム)</title>
         <link>https://speakerdeck.com/pharma_x_tech/llmapurikesiyonnoshi-yan-guan-li-ping-jia-nogong-fu-woshao-jie</link>
         <dc:date>2024-04-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ふりかえり研修2024 (pokotyamu)</title>
         <link>https://speakerdeck.com/pokotyamu/furikaeri-2024-95ceb97e-d587-4c4b-a4ec-5e52672644f6</link>
-        <dc:date>2024-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>XSS using dirty Content Type in cloud era (Flatt Security)</title>
-        <link>https://speakerdeck.com/flatt_security/xss-using-dirty-content-type-in-cloud-era</link>
         <dc:date>2024-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
