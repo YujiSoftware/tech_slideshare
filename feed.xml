@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>クックパッドが取り組むレシピレコメンドの面白さと難しさ (しげひさ)</title>
+        <link>https://speakerdeck.com/naokishigehisa/kutukupatudogaqu-rizu-muresipirekomendonomian-bai-satonan-sisa</link>
+        <dc:date>2024-04-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>シン・Kafka / shin-kafka (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/shin-kafka</link>
         <dc:date>2024-04-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>MySQL 101 for Developers (wa6sn)</title>
         <link>https://speakerdeck.com/wa6sn/mysql-101-for-developers</link>
         <dc:date>2024-04-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ふりかえり研修2024 (pokotyamu)</title>
-        <link>https://speakerdeck.com/pokotyamu/furikaeri-2024-95ceb97e-d587-4c4b-a4ec-5e52672644f6</link>
-        <dc:date>2024-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
