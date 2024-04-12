@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>疲弊しない！AWSセキュリティ統制の考え方 #devio_osakaday1 (MasahiroKawahara)</title>
+        <link>https://speakerdeck.com/masahirokawahara/pi-bi-sinai-awssekiyuriteitong-zhi-nokao-efang-number-devio-osakaday1</link>
+        <dc:date>2024-04-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[第4回 Data-Centric AI勉強会] Benetechコンペ　エラー分析によるデータ追加とアノテーションの工夫について (YumeNeko)</title>
         <link>https://speakerdeck.com/yumeneko/di-4hui-data-centric-aimian-qiang-hui-benetechkonpe-erafen-xi-niyorudetazhui-jia-toanotesiyonnogong-fu-nituite</link>
         <dc:date>2024-04-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CloudflareのCAPTCHAを使って ユーザ体験を下げず不正利用を排除する / Cloudflare's captcha case study that does not degrade ux (linyows)</title>
         <link>https://speakerdeck.com/linyows/cloudflares-captcha-case-study-that-does-not-degrade-ux</link>
-        <dc:date>2024-04-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EC2 からの脱出劇：多用途なサーバの全役割をサーバレス・コンテナ環境へ (Akari)</title>
-        <link>https://speakerdeck.com/akarin/ec2-karanotuo-chu-ju-duo-yong-tu-nasabanoquan-yi-ge-wosabaresukontenahuan-jing-he</link>
         <dc:date>2024-04-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
