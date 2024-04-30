@@ -23,7 +23,7 @@ public class DocswellParserTest {
                 "小島 優介",
                 "kojimadev",
                 "Engineering Manager Meetup #10 での発表資料です。\r\nhttps://engineering-manager-meetup.connpass.com/event/239203/",
-                "https://img.docswell.com/cover/NPJX1D85JX.jpg"
+                "https://bcdn.docswell.com/page/NPJX1D85JX.jpg?width=480"
         );
 
         Optional<Slide> actual = parser.parse(expected.getLink());
