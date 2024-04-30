@@ -15,6 +15,20 @@ application {
      */
 }
 
+tasks.register('deploy', Exec) {
+    group "distribution"
+    dependsOn 'jar'
+    workingDir 'build/libs'
+
+    commandLine "rsync", "--backup-dir", "/tmp", "--suffix", ".${System.currentTimeMillis()}", jar.archiveFile.get(), "pi:tech_slideshare/SlideTwitter/lib/"
+
+    standardOutput = new ByteArrayOutputStream()
+
+    ext.output = {
+        return standardOutput.toString()
+    }
+}
+
 dependencies {
     // https://mvnrepository.com/artifact/mysql/mysql-connector-java
     implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.28'
