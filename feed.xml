@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>App Routerへの段階的移行で起きた basePathのバグ共有</title>
+        <link>https://docs.google.com/presentation/d/1UCYpx05loFreh9-BNI_hKFZVoRO8QknzUCwOGDORFB8/preview</link>
+        <dc:date>2024-04-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自動運転車両に乗ってみた</title>
         <link>https://docs.google.com/presentation/d/12E64aiaFWJPLigTysB6Jm5ZZBrAJ_q44IUYzv6R9DzY/preview</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2 週間で Twitter Bot を作ってみた (Daisuke Garaike)</title>
         <link>https://speakerdeck.com/contour_gara/2-zhou-jian-de-twitter-bot-wozuo-tutemita</link>
-        <dc:date>2024-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VSCodeの拡張機能を作っている話 (Kazuhiro Ebara)</title>
-        <link>https://speakerdeck.com/ebarakazuhiro/vscodenokuo-zhang-ji-neng-wozuo-tuteiruhua</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
