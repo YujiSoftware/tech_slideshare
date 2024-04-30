@@ -20,12 +20,19 @@ public class DocswellParser implements Parser {
 
     private static final Logger logger = LoggerFactory.getLogger(DocswellParser.class);
 
+    private static final Pattern REDIRECT = Pattern.compile("(https://www.docswell.com/.*)/\\d+$");
+
     private static final Pattern TWITTER = Pattern.compile("https://twitter.com/([^/]+)");
 
     public Optional<Slide> parse(String link) {
         try {
             if (!link.startsWith("https://www.docswell.com/s/")) {
                 return Optional.empty();
+            }
+
+            Matcher redirect = REDIRECT.matcher(link);
+            if (redirect.find()) {
+                link = redirect.group(1);
             }
 
             Document doc = Jsoup.connect(link).get();

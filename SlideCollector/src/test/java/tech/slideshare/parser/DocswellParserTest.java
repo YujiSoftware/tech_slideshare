@@ -56,4 +56,23 @@ public class DocswellParserTest {
         Optional<Slide> actual = parser.parse(link);
         assertTrue(actual.isEmpty());
     }
+
+    @Test
+    public void redirect() {
+        String url = "https://www.docswell.com/s/integrated1453/5DER7R-o11y/1";
+        Slide expected = new Slide(
+                "プロダクト開発エンジニア全員で取り組むオブザーバビリティ",
+                "https://www.docswell.com/s/integrated1453/5DER7R-o11y",
+                "Yuki Ando",
+                "integrated1453",
+                "TechBrew in 東京〜オブザーバビリティのベストプラクティス〜の発表資料です\r\nhttps://findy.connpass.com/event/312930/",
+                "https://bcdn.docswell.com/page/L73RK8YPJ5.jpg?width=480"
+        );
+
+        Optional<Slide> actual = parser.parse(url);
+        assertTrue(actual.isPresent());
+
+        Slide slide = actual.get();
+        assertSlide(expected, slide);
+    }
 }
