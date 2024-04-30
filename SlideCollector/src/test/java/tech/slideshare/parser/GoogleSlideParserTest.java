@@ -23,7 +23,7 @@ public class GoogleSlideParserTest {
                 null,
                 null,
                 "スケールするGo 2022年7月1日（金） @Qiita Night 資料URL：https://tenn.in/goscaling",
-                "https://lh7-us.googleusercontent.com/docs/AHkbwyLA1mzafJ0Xy4J46dwUBKhVE03OlfWdQm1pkO8RbjZwX0lTlKHGfuwSmA094YOvqNNzYcCV3B7FJMMTBQx-YPjjFAhAO4CIrkrfC6ZIazj_Jj4=w1200-h630-p"
+                "https://lh7-us.googleusercontent.com/docs/AHkbwyKFWVFie1Lt11KbBTRpqUJsH8VBfgoJOwwePcT3qi8bHk61Gx1-092PXxlS4uwX9SoqYy9eOisvJ-ndHdp4MD6f8JpdxJkJYwQ3FnL21kmlIeU0bnLO=w1200-h630-p"
         );
 
         Optional<Slide> actual = parser.parse(expected.getLink());

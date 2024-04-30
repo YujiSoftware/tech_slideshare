@@ -17,7 +17,7 @@ class ConnpassCollectorTest {
     public void collectSlideShare() throws IOException {
         Slide expected = new Slide(
                 "220217 RPAコミュニティ様向け",
-                "https://www.slideshare.net/ssuser6e5c8d/220217-rpa",
+                "https://www.slideshare.net/slideshow/220217-rpa/251242672",
                 "ラリオス 川口",
                 null,
                 "初心者・エンジニアじゃなくてもクラウドを学んで業務に活用できるチャンス！",
@@ -57,7 +57,7 @@ class ConnpassCollectorTest {
                 null,
                 null,
                 "第1回手順書Night Q&A 集 https://apcommunications.connpass.com/event/238403/ セッション2・LT 1",
-                "https://lh7-us.googleusercontent.com/docs/AHkbwyLW9KNELj7KYPPDFQyXvbaFalmc-TLwW-lFt_A4f197HrpI3wA9JzBWrCYlrw7oRNNu9cRZhl7KkkIuIoNEClQwXKydxhHfg4arzR6Xf1NFTA=w1200-h630-p"
+                "https://lh7-us.googleusercontent.com/docs/AHkbwyI4Nt0eC-KbwhyPlkpjYT3P6T8eT1fDi4s22T2Wy8iWZKzQVH-Zk2OMWys1x0xQr4XrxP-dnHsnpE0WLoETUxVzOoQS_QOYEa2_Ws9DuWRd_gh9BSs=w1200-h630-p"
         );
 
         List<Slide> actual = collector.collectSlide(new NullCache(), "https://apcommunications.connpass.com/event/238403/");
@@ -76,7 +76,7 @@ class ConnpassCollectorTest {
                 "きぬあさ",
                 "kinuasa",
                 "「Power Automate for desktop 教室 vol.1」(RPACommunity主催)の登壇資料です。\r\n(2022年8月17日オンライン開催)",
-                "https://img.docswell.com/cover/LE1V3MK27G.jpg"
+                "https://bcdn.docswell.com/page/LE1V3MK27G.jpg?width=480"
         );
 
         List<Slide> actual = collector.collectSlide(new NullCache(), "https://rpacommunity.connpass.com/event/257292/");
