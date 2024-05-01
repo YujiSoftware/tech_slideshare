@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Deep Dive into React Stream/Serialize (Hajime Mugishima)</title>
+        <link>https://speakerdeck.com/mugi_uno/serialize</link>
+        <dc:date>2024-04-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>App Routerへの段階的移行で起きた basePathのバグ共有</title>
         <link>https://docs.google.com/presentation/d/1UCYpx05loFreh9-BNI_hKFZVoRO8QknzUCwOGDORFB8/preview</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>デスクセットアップのアイディア探しプラットフォームを個人開発してみた話 (たかD)</title>
         <link>https://speakerdeck.com/tkd_dev/desukusetutoatupunoaideiatan-sipuratutohuomuwoge-ren-kai-fa-sitemitahua</link>
-        <dc:date>2024-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2 週間で Twitter Bot を作ってみた (Daisuke Garaike)</title>
-        <link>https://speakerdeck.com/contour_gara/2-zhou-jian-de-twitter-bot-wozuo-tutemita</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
