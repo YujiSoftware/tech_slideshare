@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>トランスコープ ChatGPTプロンプト集</title>
+        <link>https://docs.google.com/presentation/d/1ZIR1NsUV6_RzlKRDvbj3InsHFvvWjb6jBlgiZUs3eQQ/preview</link>
+        <dc:date>2024-04-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Deep Dive into React Stream/Serialize (Hajime Mugishima)</title>
         <link>https://speakerdeck.com/mugi_uno/serialize</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>検証も兼ねて個人開発でHonoとかと向き合った話 (hanetsuki)</title>
         <link>https://speakerdeck.com/hanetsuki/jian-zheng-mojian-netege-ren-kai-fa-dehonotokatoxiang-kihe-tutahua</link>
-        <dc:date>2024-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デスクセットアップのアイディア探しプラットフォームを個人開発してみた話 (たかD)</title>
-        <link>https://speakerdeck.com/tkd_dev/desukusetutoatupunoaideiatan-sipuratutohuomuwoge-ren-kai-fa-sitemitahua</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
