@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DynamoDBのテーブル設計手法.pptx (Tetsuya Wada)</title>
+        <link>https://www.slideshare.net/slideshow/dynamodbpptx/251896511</link>
+        <dc:date>2024-05-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>貞観政要から学ぶフォロワーの在り方 (よしたろう)</title>
         <link>https://speakerdeck.com/yoshitaroyoyo/zhen-guan-zheng-yao-karaxue-huhuorowanozai-rifang</link>
         <dc:date>2024-05-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>いいたいことちゃんという (けんご)</title>
         <link>https://speakerdeck.com/tkengo/iitaikototiyantoiu</link>
-        <dc:date>2024-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EM完全に理解した と思ったけど、 やっぱり何も分からなかった話 / EM Night Fukuoka #1 (Shinya Hiruta)</title>
-        <link>https://speakerdeck.com/hirutas/em-night-fukuoka-number-1</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
