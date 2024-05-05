@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>IaCからAWSに入門した初心者が CloudFormationを通して考えた「AWS操作」の使い分け (mai miya)</title>
+        <link>https://speakerdeck.com/maimyyym/beginner-with-iac-thinks-aws-operations-through-cfn</link>
+        <dc:date>2024-05-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>偶然のチャンスを掴めるのは誰だ？ (ことみん / kotomin_m)</title>
+        <link>https://speakerdeck.com/kotomin_m/kosen-career-20240505</link>
+        <dc:date>2024-05-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>レガシーなフロントエンドを リプレースするプラクティス。 エネチェンジが挑む 「React化」 (Yuto Ono)</title>
         <link>https://speakerdeck.com/yutoono/regasinahurontoendowo-ripuresusurupurakuteisu-enetienzigatiao-mu-reacthua</link>
         <dc:date>2024-05-02T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>MLOpsの「壁」を乗り越える、LINEヤフーの Data Quality as Code (LY Corporation Tech)</title>
         <link>https://speakerdeck.com/lycorptech_jp/20240423-mlops-community-ly-data-quality-as-code</link>
-        <dc:date>2024-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>福岡から小樽へ、 1400kmのマネジメントの旅 (mshd-fukui)</title>
-        <link>https://speakerdeck.com/mshdfukui86/fu-gang-karaxiao-zun-he-1400kmnomanezimentonolu</link>
-        <dc:date>2024-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非同期推論システムによるコスト削減と信頼性向上 (Koki Nishihara)</title>
-        <link>https://speakerdeck.com/koki_nishihara/asynchronous-inference-system-reduces-cost-and-improves-reliability</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
