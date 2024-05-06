@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SQL滅ぶべし (株式会社ホクソエム,@hoxo_m_inc)</title>
+        <link>https://www.docswell.com/s/hoxo-m_inc/Z4Q8NL-2024-05-06-203800</link>
+        <dc:date>2024-05-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IaCからAWSに入門した初心者が CloudFormationを通して考えた「AWS操作」の使い分け (mai miya)</title>
         <link>https://speakerdeck.com/maimyyym/beginner-with-iac-thinks-aws-operations-through-cfn</link>
         <dc:date>2024-05-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>開発生産性大幅アップ！Postman VS Code拡張機能 (草薙昭彦)</title>
         <link>https://speakerdeck.com/nagix/kai-fa-sheng-chan-xing-da-fu-atupu-postman-vs-codekuo-zhang-ji-neng-1c3a1e3f-faef-4dac-a8b2-33027af44c3a</link>
-        <dc:date>2024-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MLOpsの「壁」を乗り越える、LINEヤフーの Data Quality as Code (LY Corporation Tech)</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20240423-mlops-community-ly-data-quality-as-code</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
