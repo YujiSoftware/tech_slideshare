@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CockroachDB はどのくらい「しぶとい」のか？ / How tough is CockroachDB? (kota2and3kan)</title>
+        <link>https://speakerdeck.com/kota2and3kan/how-tough-is-cockroachdb</link>
+        <dc:date>2024-05-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>評価制度のための評価はもうやめにしない？　開発組織の評価制度の正しい使い方 (Hiroyuki Kaneda)</title>
         <link>https://speakerdeck.com/hiroyukikaneda/ping-jia-zhi-du-notamenoping-jia-hamouyamenisinai-kai-fa-zu-zhi-noping-jia-zhi-du-nozheng-siishi-ifang</link>
         <dc:date>2024-05-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AmplifyにCDKがやってきた_プレビュー版のAmplify_Gen2を触ってみた.pdf (tttol)</title>
         <link>https://speakerdeck.com/tttol/amplifynicdkkayatutekita-hurehiyuban-noamplify-gen2wohong-tutemita</link>
-        <dc:date>2024-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ブログ投稿することで得た気づき (shoma nakashima)</title>
-        <link>https://speakerdeck.com/shomzz/burogutou-gao-surukotodede-taqi-duki-3fc08f4c-1898-4991-8458-b0c7efbbfaa1</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
