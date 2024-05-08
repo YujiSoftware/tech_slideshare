@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「知的単純作業」を自動化する、地に足の着いた大規模言語モデル (LLM) の活用 (Ryuya Nakamura)</title>
+        <link>https://speakerdeck.com/nrryuya/zhi-de-dan-chun-zuo-ye-wozi-dong-hua-suru-di-nizu-nozhao-itada-gui-mo-yan-yu-moteru-llm-nohuo-yong</link>
+        <dc:date>2024-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CockroachDB はどのくらい「しぶとい」のか？ / How tough is CockroachDB? (kota2and3kan)</title>
         <link>https://speakerdeck.com/kota2and3kan/how-tough-is-cockroachdb</link>
         <dc:date>2024-05-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>禅の心を手に入れよ (Ikko Eltociear Ashimine)</title>
         <link>https://speakerdeck.com/eltociear/shan-noxin-woshou-niru-reyo</link>
-        <dc:date>2024-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AmplifyにCDKがやってきた_プレビュー版のAmplify_Gen2を触ってみた.pdf (tttol)</title>
-        <link>https://speakerdeck.com/tttol/amplifynicdkkayatutekita-hurehiyuban-noamplify-gen2wohong-tutemita</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
