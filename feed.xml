@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【DL輪読会】KAN: Kolmogorov–Arnold Networks (Deep Learning JP,@DL_Hacks)</title>
+        <link>https://www.docswell.com/s/DeepLearning2023/ZYW2GL-2024-05-09-142714</link>
+        <dc:date>2024-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NewSQL Landscape (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/newsql-landscape</link>
         <dc:date>2024-05-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自動運転車両に乗ってみた</title>
         <link>https://docs.google.com/presentation/d/12E64aiaFWJPLigTysB6Jm5ZZBrAJ_q44IUYzv6R9DzY/preview</link>
-        <dc:date>2024-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VS Code をプロダクトにどう取り込むか (Naoto Ono)</title>
-        <link>https://speakerdeck.com/onomax/vs-code-wopurodakutonidouqu-riip-muka</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
