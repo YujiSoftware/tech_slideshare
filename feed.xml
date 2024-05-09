@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS App Runnerで気軽にAPIを作ってみる ーそして、これはどんな人向けなのか？ー (Satoshi Kaneyasu)</title>
+        <link>https://speakerdeck.com/satoshi256kbyte/aws-app-runnerteqi-qing-niapiwozuo-tutemiru</link>
+        <dc:date>2024-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Aurora Serverless v2が意外と高かった話と、 AWS Database Migration Serviceの話 (Satoshi Kaneyasu)</title>
+        <link>https://speakerdeck.com/satoshi256kbyte/amazon-aurora-serverless-v2kayi-wai-togao-katutahua-to-aws-database-migration-servicenohua</link>
+        <dc:date>2024-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データ基盤を支える技術 (chanyou0311)</title>
+        <link>https://speakerdeck.com/chanyou0311/tetaji-pan-wozhi-eruji-shu</link>
+        <dc:date>2024-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>個人的、Kubernetes の最新注目機能！ (2024年5月版) / TechFeed Experts Night#28 〜 コンテナ技術最前線 (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/20240508-techfeed-experts-night-pfn</link>
+        <dc:date>2024-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>仕様と実装で学ぶOpenTelemetry (Drumato)</title>
+        <link>https://speakerdeck.com/drumato/shi-yang-toshi-zhuang-dexue-buopentelemetry</link>
+        <dc:date>2024-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SMTPでのOpenTelemetryの可能性を考えてみる (ryuichi1208)</title>
+        <link>https://speakerdeck.com/ryuichi1208/smtpdenoopentelemetrynoke-neng-xing-wokao-etemiru</link>
+        <dc:date>2024-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Revisiting the Hotwire Landscape after Turbo 8 @ RailsConf 2024, Detroit (Marco Roth)</title>
+        <link>https://speakerdeck.com/marcoroth/revisiting-the-hotwire-landscape-after-turbo-8</link>
+        <dc:date>2024-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240506_RPALT_LTimer</title>
         <link>https://docs.google.com/presentation/d/1Ea2L3Gze_wetBYmPylsf9ws_d173csPwuqTKT9nV6So/preview</link>
         <dc:date>2024-05-08T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>偶然のチャンスを掴めるのは誰だ？ (ことみん / kotomin_m)</title>
         <link>https://speakerdeck.com/kotomin_m/kosen-career-20240505</link>
         <dc:date>2024-05-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>レガシーなフロントエンドを リプレースするプラクティス。 エネチェンジが挑む 「React化」 (Yuto Ono)</title>
-        <link>https://speakerdeck.com/yutoono/regasinahurontoendowo-ripuresusurupurakuteisu-enetienzigatiao-mu-reacthua</link>
-        <dc:date>2024-05-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240501確率ロボティクス入門第1回 (Ryuichi Ueda,@ryuichiueda)</title>
-        <link>https://www.docswell.com/s/ryuichiueda/K8GJ1E-2024-05-01-104420</link>
-        <dc:date>2024-05-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DynamoDBのテーブル設計手法.pptx (Tetsuya Wada)</title>
-        <link>https://www.slideshare.net/slideshow/dynamodbpptx/251896511</link>
-        <dc:date>2024-05-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>貞観政要から学ぶフォロワーの在り方 (よしたろう)</title>
-        <link>https://speakerdeck.com/yoshitaroyoyo/zhen-guan-zheng-yao-karaxue-huhuorowanozai-rifang</link>
-        <dc:date>2024-05-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>成長をサポートするピープルマネジメントのやり方 (Shohei Koyama)</title>
-        <link>https://speakerdeck.com/sioncojp/cheng-chang-wosahotosuruhihurumanesimentonoyarifang</link>
-        <dc:date>2024-05-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CREってこういうこと？ 体験入社 - 提案資料 - / what-is-cre-trial-employment (shinden)</title>
-        <link>https://speakerdeck.com/shinden/what-is-cre-trial-employment</link>
-        <dc:date>2024-05-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>トランスコープ ChatGPTプロンプト集</title>
-        <link>https://docs.google.com/presentation/d/1ZIR1NsUV6_RzlKRDvbj3InsHFvvWjb6jBlgiZUs3eQQ/preview</link>
-        <dc:date>2024-04-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
