@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20分で分かる Human-in-the-Loop 機械学習におけるアノテーションとヒューマンコンピューターインタラクションの真髄 (Shunya Ueta)</title>
+        <link>https://speakerdeck.com/hurutoriya/20fen-defen-karu-human-in-the-loop-ji-jie-xue-xi-niokeruanotesiyontohiyumankonpiyutaintarakusiyonnozhen-sui</link>
+        <dc:date>2024-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS App Runnerで気軽にAPIを作ってみる ーそして、これはどんな人向けなのか？ー (Satoshi Kaneyasu)</title>
         <link>https://speakerdeck.com/satoshi256kbyte/aws-app-runnerteqi-qing-niapiwozuo-tutemiru</link>
         <dc:date>2024-05-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>IaCからAWSに入門した初心者が CloudFormationを通して考えた「AWS操作」の使い分け (mai miya)</title>
         <link>https://speakerdeck.com/maimyyym/beginner-with-iac-thinks-aws-operations-through-cfn</link>
-        <dc:date>2024-05-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>偶然のチャンスを掴めるのは誰だ？ (ことみん / kotomin_m)</title>
-        <link>https://speakerdeck.com/kotomin_m/kosen-career-20240505</link>
         <dc:date>2024-05-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
