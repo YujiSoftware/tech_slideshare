@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NewSQL Landscape (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/newsql-landscape</link>
+        <dc:date>2024-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「知的単純作業」を自動化する、地に足の着いた大規模言語モデル (LLM) の活用 (Ryuya Nakamura)</title>
         <link>https://speakerdeck.com/nrryuya/zhi-de-dan-chun-zuo-ye-wozi-dong-hua-suru-di-nizu-nozhao-itada-gui-mo-yan-yu-moteru-llm-nohuo-yong</link>
         <dc:date>2024-05-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>VS Code をプロダクトにどう取り込むか (Naoto Ono)</title>
         <link>https://speakerdeck.com/onomax/vs-code-wopurodakutonidouqu-riip-muka</link>
-        <dc:date>2024-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>禅の心を手に入れよ (Ikko Eltociear Ashimine)</title>
-        <link>https://speakerdeck.com/eltociear/shan-noxin-woshou-niru-reyo</link>
         <dc:date>2024-04-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
