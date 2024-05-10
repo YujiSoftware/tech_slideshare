@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kaggleで学ぶ系列データのための深層学習モデリング (yu4u)</title>
+        <link>https://speakerdeck.com/yu4u/kaggletexue-huxi-lie-tetanotamenoshen-ceng-xue-xi-moterinku</link>
+        <dc:date>2024-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20分で分かる Human-in-the-Loop 機械学習におけるアノテーションとヒューマンコンピューターインタラクションの真髄 (Shunya Ueta)</title>
         <link>https://speakerdeck.com/hurutoriya/20fen-defen-karu-human-in-the-loop-ji-jie-xue-xi-niokeruanotesiyontohiyumankonpiyutaintarakusiyonnozhen-sui</link>
         <dc:date>2024-05-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SQL滅ぶべし (株式会社ホクソエム,@hoxo_m_inc)</title>
         <link>https://www.docswell.com/s/hoxo-m_inc/Z4Q8NL-2024-05-06-203800</link>
-        <dc:date>2024-05-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IaCからAWSに入門した初心者が CloudFormationを通して考えた「AWS操作」の使い分け (mai miya)</title>
-        <link>https://speakerdeck.com/maimyyym/beginner-with-iac-thinks-aws-operations-through-cfn</link>
         <dc:date>2024-05-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
