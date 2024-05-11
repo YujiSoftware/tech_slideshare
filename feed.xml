@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>複雑なビジネスルールに挑む：正確性と効率性を両立するfp-tsのチーム活用術 / Strike a balance between correctness and efficiency with fp-ts (kakehashi)</title>
+        <link>https://speakerdeck.com/kakehashi/strike-a-balance-between-correctness-and-efficiency-with-fp-ts</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ハードウェアを動かすTypeScriptの世界 (kido)</title>
         <link>https://speakerdeck.com/9wick/hadoueawodong-kasutypescriptnoshi-jie</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>VSCodeの拡張機能開発で Tailwind CSSを使う (Kazuhiro Ebara)</title>
         <link>https://speakerdeck.com/ebarakazuhiro/vscodenokuo-zhang-ji-neng-kai-fa-de-tailwind-csswoshi-u</link>
-        <dc:date>2024-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kaggleで学ぶ系列データのための深層学習モデリング (yu4u)</title>
-        <link>https://speakerdeck.com/yu4u/kaggletexue-huxi-lie-tetanotamenoshen-ceng-xue-xi-moterinku</link>
         <dc:date>2024-05-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
