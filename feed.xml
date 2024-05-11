@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OKRと「測りすぎ」 〜なりたい姿を、「測りすぎ」ないようにしながらどう追いかけるか〜/OKR and the tyranny of metrics (kakehashi)</title>
+        <link>https://speakerdeck.com/kakehashi/okr-and-the-tyranny-of-metrics</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Introduction to Database Connection Management Patterns in TypeScript.pdf (sugar)</title>
         <link>https://speakerdeck.com/sugarcat7/introduction-to-database-connection-management-patterns-in-typescript</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>仕様と実装で学ぶOpenTelemetry (Drumato)</title>
         <link>https://speakerdeck.com/drumato/shi-yang-toshi-zhuang-dexue-buopentelemetry</link>
-        <dc:date>2024-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SMTPでのOpenTelemetryの可能性を考えてみる (ryuichi1208)</title>
-        <link>https://speakerdeck.com/ryuichi1208/smtpdenoopentelemetrynoke-neng-xing-wokao-etemiru</link>
         <dc:date>2024-05-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
