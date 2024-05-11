@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発組織のOKRの作り方 / OKR in a develoment division (kakehashi)</title>
+        <link>https://speakerdeck.com/kakehashi/okr-in-a-develoment-division</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OKRと「測りすぎ」 〜なりたい姿を、「測りすぎ」ないようにしながらどう追いかけるか〜/OKR and the tyranny of metrics (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/okr-and-the-tyranny-of-metrics</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>個人的、Kubernetes の最新注目機能！ (2024年5月版) / TechFeed Experts Night#28 〜 コンテナ技術最前線 (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/20240508-techfeed-experts-night-pfn</link>
-        <dc:date>2024-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仕様と実装で学ぶOpenTelemetry (Drumato)</title>
-        <link>https://speakerdeck.com/drumato/shi-yang-toshi-zhuang-dexue-buopentelemetry</link>
         <dc:date>2024-05-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
