@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TSKaigi2024 LT TypeScript化の旅</title>
+        <link>https://docs.google.com/presentation/d/1z1ouyBtsNFgdJysGLAKyJXgt4pEHDN3kD555Mh2UiR0/preview</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【TSkaigi】2024/05/11 当日スライド (Kimita Shoichi)</title>
+        <link>https://speakerdeck.com/kimitashoichi/11-dang-ri-suraido</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScript 関数型スタイルでバックエンド開発のリアル (Naoya Ito)</title>
+        <link>https://speakerdeck.com/naoya/typescript-guan-shu-xing-sutairudebatukuendokai-fa-noriaru</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Prisma ORMを2年運用して培ったノウハウを共有する (tockn)</title>
+        <link>https://speakerdeck.com/tockn/prisma-ormwo2nian-yun-yong-sitepei-tutanouhauwogong-you-suru</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypescriptでのContextualな構造化ロギングと社内全体への導入 (レバレジーズTechアカウント)</title>
+        <link>https://speakerdeck.com/leveragestech/typescripttenocontextualnagou-zao-hua-rokinkutoshe-nei-quan-ti-henodao-ru</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>そろそろ理解する includes / Understanding includes (Shintani Teppei)</title>
         <link>https://speakerdeck.com/euglena1215/understanding-includes</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>【DL輪読会】KAN: Kolmogorov–Arnold Networks (Deep Learning JP,@DL_Hacks)</title>
         <link>https://www.docswell.com/s/DeepLearning2023/ZYW2GL-2024-05-09-142714</link>
         <dc:date>2024-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NewSQL Landscape (oracle4engineer)</title>
-        <link>https://speakerdeck.com/oracle4engineer/newsql-landscape</link>
-        <dc:date>2024-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「知的単純作業」を自動化する、地に足の着いた大規模言語モデル (LLM) の活用 (Ryuya Nakamura)</title>
-        <link>https://speakerdeck.com/nrryuya/zhi-de-dan-chun-zuo-ye-wozi-dong-hua-suru-di-nizu-nozhao-itada-gui-mo-yan-yu-moteru-llm-nohuo-yong</link>
-        <dc:date>2024-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CockroachDB はどのくらい「しぶとい」のか？ / How tough is CockroachDB? (kota2and3kan)</title>
-        <link>https://speakerdeck.com/kota2and3kan/how-tough-is-cockroachdb</link>
-        <dc:date>2024-05-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>評価制度のための評価はもうやめにしない？　開発組織の評価制度の正しい使い方 (Hiroyuki Kaneda)</title>
-        <link>https://speakerdeck.com/hiroyukikaneda/ping-jia-zhi-du-notamenoping-jia-hamouyamenisinai-kai-fa-zu-zhi-noping-jia-zhi-du-nozheng-siishi-ifang</link>
-        <dc:date>2024-05-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>採用人事の立場で行う採用広報・技術広報の裏側 〜TVerがエンジニア採用を本格化するために継続し続けたこと〜 (TVer Inc.)</title>
-        <link>https://speakerdeck.com/techtver/cai-yong-ren-shi-noli-chang-dexing-ucai-yong-guang-bao-ji-shu-guang-bao-noli-ce-tvergaenziniacai-yong-woben-ge-hua-surutameniji-sok-sisok-ketakoto</link>
-        <dc:date>2024-05-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
