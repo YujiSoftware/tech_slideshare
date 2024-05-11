@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ハードウェアを動かすTypeScriptの世界 (kido)</title>
+        <link>https://speakerdeck.com/9wick/hadoueawodong-kasutypescriptnoshi-jie</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScriptのパフォーマンス改善 (やじはむ)</title>
+        <link>https://speakerdeck.com/yajihum/typescriptnopahuomansugai-shan</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Effectで作る堅牢でスケーラブルなAPIゲートウェイ / Robust and Scalable API Gateway Built on Effect (Yuichi Goto)</title>
+        <link>https://speakerdeck.com/yasaichi/robust-and-scalable-api-gateway-built-on-effect</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Powerfully Typed TypeScript (euxn23)</title>
         <link>https://speakerdeck.com/euxn23/powerfully-typed-typescript</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Kaggleで学ぶ系列データのための深層学習モデリング (yu4u)</title>
         <link>https://speakerdeck.com/yu4u/kaggletexue-huxi-lie-tetanotamenoshen-ceng-xue-xi-moterinku</link>
-        <dc:date>2024-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20分で分かる Human-in-the-Loop 機械学習におけるアノテーションとヒューマンコンピューターインタラクションの真髄 (Shunya Ueta)</title>
-        <link>https://speakerdeck.com/hurutoriya/20fen-defen-karu-human-in-the-loop-ji-jie-xue-xi-niokeruanotesiyontohiyumankonpiyutaintarakusiyonnozhen-sui</link>
-        <dc:date>2024-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS App Runnerで気軽にAPIを作ってみる ーそして、これはどんな人向けなのか？ー (Satoshi Kaneyasu)</title>
-        <link>https://speakerdeck.com/satoshi256kbyte/aws-app-runnerteqi-qing-niapiwozuo-tutemiru</link>
-        <dc:date>2024-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Aurora Serverless v2が意外と高かった話と、 AWS Database Migration Serviceの話 (Satoshi Kaneyasu)</title>
-        <link>https://speakerdeck.com/satoshi256kbyte/amazon-aurora-serverless-v2kayi-wai-togao-katutahua-to-aws-database-migration-servicenohua</link>
         <dc:date>2024-05-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
