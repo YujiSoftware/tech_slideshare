@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TanStack Routerで型安全かつ効率的なルーティングを実現 (ytaisei)</title>
+        <link>https://speakerdeck.com/ytaisei/tanstack-routerdexing-an-quan-katuxiao-lu-de-naruteinguwoshi-xian</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サービス開発におけるVue3とTypeScriptの親和性について (karacoro / からころ)</title>
         <link>https://speakerdeck.com/tsukuha/sabisukai-fa-niokeruvue3totypescriptnoqin-he-xing-nituite</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Revisiting the Hotwire Landscape after Turbo 8 @ RailsConf 2024, Detroit (Marco Roth)</title>
         <link>https://speakerdeck.com/marcoroth/revisiting-the-hotwire-landscape-after-turbo-8</link>
         <dc:date>2024-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240506_RPALT_LTimer</title>
-        <link>https://docs.google.com/presentation/d/1Ea2L3Gze_wetBYmPylsf9ws_d173csPwuqTKT9nV6So/preview</link>
-        <dc:date>2024-05-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
