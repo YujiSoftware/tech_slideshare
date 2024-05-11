@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Powerfully Typed TypeScript (euxn23)</title>
+        <link>https://speakerdeck.com/euxn23/powerfully-typed-typescript</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>tRPCを実務に導入して分かった旨味と苦味 (Keigo Ebihara)</title>
+        <link>https://speakerdeck.com/misoton665/trpcwoshi-wu-nidao-ru-sitefen-katutazhi-wei-toku-wei</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発組織のOKRの作り方 / OKR in a develoment division (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/okr-in-a-develoment-division</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Amazon Aurora Serverless v2が意外と高かった話と、 AWS Database Migration Serviceの話 (Satoshi Kaneyasu)</title>
         <link>https://speakerdeck.com/satoshi256kbyte/amazon-aurora-serverless-v2kayi-wai-togao-katutahua-to-aws-database-migration-servicenohua</link>
-        <dc:date>2024-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ基盤を支える技術 (chanyou0311)</title>
-        <link>https://speakerdeck.com/chanyou0311/tetaji-pan-wozhi-eruji-shu</link>
-        <dc:date>2024-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人的、Kubernetes の最新注目機能！ (2024年5月版) / TechFeed Experts Night#28 〜 コンテナ技術最前線 (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/20240508-techfeed-experts-night-pfn</link>
         <dc:date>2024-05-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
