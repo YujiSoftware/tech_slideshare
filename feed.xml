@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Introduction to Database Connection Management Patterns in TypeScript.pdf (sugar)</title>
+        <link>https://speakerdeck.com/sugarcat7/introduction-to-database-connection-management-patterns-in-typescript</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TanStack Routerで型安全かつ効率的なルーティングを実現 (ytaisei)</title>
         <link>https://speakerdeck.com/ytaisei/tanstack-routerdexing-an-quan-katuxiao-lu-de-naruteinguwoshi-xian</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SMTPでのOpenTelemetryの可能性を考えてみる (ryuichi1208)</title>
         <link>https://speakerdeck.com/ryuichi1208/smtpdenoopentelemetrynoke-neng-xing-wokao-etemiru</link>
-        <dc:date>2024-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Revisiting the Hotwire Landscape after Turbo 8 @ RailsConf 2024, Detroit (Marco Roth)</title>
-        <link>https://speakerdeck.com/marcoroth/revisiting-the-hotwire-landscape-after-turbo-8</link>
         <dc:date>2024-05-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
