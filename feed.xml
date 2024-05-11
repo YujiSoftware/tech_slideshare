@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>QA経験のないエンジニアリング マネージャーがQAのカジュアル面談に出て 苦労していること・気づいたこと / scrum fest niigata 2024 (Yoshiki Iida)</title>
+        <link>https://speakerdeck.com/yoshikiiida/scrum-fest-niigata-2024</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScriptでもLLMアプリケーション開発 / LLM Application In Typescript (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/llm-application-in-typescript</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「PHPカンファレンス小田原2024」を実行委員長がふりかえる (asumikam)</title>
+        <link>https://speakerdeck.com/asumikam/phpcon-odawara-2024-furikaeri</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Shinagile 2024 (Yasunobu Kawaguchi)</title>
+        <link>https://speakerdeck.com/kawaguti/shinagile-2024</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScript の抽象構文木を用いた、数百を超える API の大規模リファクタリング戦略 (yanaemon)</title>
         <link>https://speakerdeck.com/yanaemon/typescript-nochou-xiang-gou-wen-mu-woyong-ita-shu-bai-wochao-eru-api-noda-gui-mo-rihuakutaringuzhan-lue</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>PHPカンファレンス香川2024 (Kanon)</title>
         <link>https://speakerdeck.com/ysknsid25/phpkanhuarensuxiang-chuan</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TSKaigi 2024 - 新サービス Progate Path の演習で TypeScript を採用して見えた教材観点からの利点と課題 (Makoto Shimazu)</title>
-        <link>https://speakerdeck.com/makotoshimazu/tskaigi-2024-xin-sabisu-progate-path-noyan-xi-de-typescript-wocai-yong-sitejian-etajiao-cai-guan-dian-karanoli-dian-toke-ti</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TSKaigi2024 LT TypeScript化の旅</title>
-        <link>https://docs.google.com/presentation/d/1z1ouyBtsNFgdJysGLAKyJXgt4pEHDN3kD555Mh2UiR0/preview</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【TSkaigi】2024/05/11 当日スライド (Kimita Shoichi)</title>
-        <link>https://speakerdeck.com/kimitashoichi/11-dang-ri-suraido</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript 関数型スタイルでバックエンド開発のリアル (Naoya Ito)</title>
-        <link>https://speakerdeck.com/naoya/typescript-guan-shu-xing-sutairudebatukuendokai-fa-noriaru</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
