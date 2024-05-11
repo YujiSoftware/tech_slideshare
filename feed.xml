@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Real World Type Puzzle and Code Generation (Yuku Kotani)</title>
+        <link>https://speakerdeck.com/yukukotani/real-world-type-puzzle-and-code-generation</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>複雑なビジネスルールに挑む：正確性と効率性を両立するfp-tsのチーム活用術 / Strike a balance between correctness and efficiency with fp-ts (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/strike-a-balance-between-correctness-and-efficiency-with-fp-ts</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>そろそろ理解する includes / Understanding includes (Shintani Teppei)</title>
         <link>https://speakerdeck.com/euglena1215/understanding-includes</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VSCodeの拡張機能開発で Tailwind CSSを使う (Kazuhiro Ebara)</title>
-        <link>https://speakerdeck.com/ebarakazuhiro/vscodenokuo-zhang-ji-neng-kai-fa-de-tailwind-csswoshi-u</link>
-        <dc:date>2024-05-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
