@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScriptのコード生成をつらくしないために (Nkowne63)</title>
+        <link>https://speakerdeck.com/neutron63zf/typescriptnokodosheng-cheng-woturakusinaitameni</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Exploring Type-Informed Lint Rules in Rust based Linters (unvalley)</title>
+        <link>https://speakerdeck.com/unvalley/exploring-type-informed-lint-rules-in-rust-based-linters</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Real World Type Puzzle and Code Generation (Yuku Kotani)</title>
         <link>https://speakerdeck.com/yukukotani/real-world-type-puzzle-and-code-generation</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Prisma ORMを2年運用して培ったノウハウを共有する (tockn)</title>
         <link>https://speakerdeck.com/tockn/prisma-ormwo2nian-yun-yong-sitepei-tutanouhauwogong-you-suru</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypescriptでのContextualな構造化ロギングと社内全体への導入 (レバレジーズTechアカウント)</title>
-        <link>https://speakerdeck.com/leveragestech/typescripttenocontextualnagou-zao-hua-rokinkutoshe-nei-quan-ti-henodao-ru</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>そろそろ理解する includes / Understanding includes (Shintani Teppei)</title>
-        <link>https://speakerdeck.com/euglena1215/understanding-includes</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
