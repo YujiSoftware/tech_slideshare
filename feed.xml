@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript の抽象構文木を用いた、数百を超える API の大規模リファクタリング戦略 (yanaemon)</title>
+        <link>https://speakerdeck.com/yanaemon/typescript-nochou-xiang-gou-wen-mu-woyong-ita-shu-bai-wochao-eru-api-noda-gui-mo-rihuakutaringuzhan-lue</link>
+        <dc:date>2024-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScriptのコード生成をつらくしないために (Nkowne63)</title>
         <link>https://speakerdeck.com/neutron63zf/typescriptnokodosheng-cheng-woturakusinaitameni</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TypeScript 関数型スタイルでバックエンド開発のリアル (Naoya Ito)</title>
         <link>https://speakerdeck.com/naoya/typescript-guan-shu-xing-sutairudebatukuendokai-fa-noriaru</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Prisma ORMを2年運用して培ったノウハウを共有する (tockn)</title>
-        <link>https://speakerdeck.com/tockn/prisma-ormwo2nian-yun-yong-sitepei-tutanouhauwogong-you-suru</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
