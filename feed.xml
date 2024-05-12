@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TSKaigi 2024 TypeScript ASTを利用したコードジェネレーターの実装入門 (HireRoo,@hirerooinc)</title>
+        <link>https://www.docswell.com/s/hireroo/K382Y1-tskaigi-2024-05-11-11-30</link>
+        <dc:date>2024-05-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Prismaでスキーマ変更を行う際のベストプラクティス (ryusaka)</title>
+        <link>https://speakerdeck.com/ryusaka/prismadesukimabian-geng-woxing-uji-nobesutopurakuteisu</link>
+        <dc:date>2024-05-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>QA経験のないエンジニアリング マネージャーがQAのカジュアル面談に出て 苦労していること・気づいたこと / scrum fest niigata 2024 (Yoshiki Iida)</title>
         <link>https://speakerdeck.com/yoshikiiida/scrum-fest-niigata-2024</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>TanStack Routerで型安全かつ効率的なルーティングを実現 (ytaisei)</title>
         <link>https://speakerdeck.com/ytaisei/tanstack-routerdexing-an-quan-katuxiao-lu-de-naruteinguwoshi-xian</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サービス開発におけるVue3とTypeScriptの親和性について (karacoro / からころ)</title>
-        <link>https://speakerdeck.com/tsukuha/sabisukai-fa-niokeruvue3totypescriptnoqin-he-xing-nituite</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPカンファレンス香川2024 (Kanon)</title>
-        <link>https://speakerdeck.com/ysknsid25/phpkanhuarensuxiang-chuan</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
