@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新米SRE、4つのプロダクトを同時にPHP7.0から8.1へ！！ (ことみん / kotomin_m)</title>
+        <link>https://speakerdeck.com/kotomin_m/xin-mi-sre-4tunopurodakutowotong-shi-niphp7-dot-0kara8-dot-1he</link>
+        <dc:date>2024-05-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>哲学史とモデリング (Hisateru Tanaka)</title>
         <link>https://speakerdeck.com/tanakahisateru/zhe-xue-shi-tomoterinku</link>
         <dc:date>2024-05-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>OKRと「測りすぎ」 〜なりたい姿を、「測りすぎ」ないようにしながらどう追いかけるか〜/OKR and the tyranny of metrics (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/okr-and-the-tyranny-of-metrics</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction to Database Connection Management Patterns in TypeScript.pdf (sugar)</title>
-        <link>https://speakerdeck.com/sugarcat7/introduction-to-database-connection-management-patterns-in-typescript</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
