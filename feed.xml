@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>戦略的DDDは重いのか？ / Is strategic DDD heavy? (集約のエンティティ)</title>
+        <link>https://speakerdeck.com/pictiny/is-strategic-ddd-heavy</link>
+        <dc:date>2024-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>チーム立ち上げにAWSを活用したらClaudeさんに褒められた話 (k.masachika)</title>
         <link>https://speakerdeck.com/mkdev10/timuli-tishang-geawswohuo-yong-sitaraclaudesannibao-meraretahua</link>
         <dc:date>2024-05-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Exploring Type-Informed Lint Rules in Rust based Linters (unvalley)</title>
         <link>https://speakerdeck.com/unvalley/exploring-type-informed-lint-rules-in-rust-based-linters</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Real World Type Puzzle and Code Generation (Yuku Kotani)</title>
-        <link>https://speakerdeck.com/yukukotani/real-world-type-puzzle-and-code-generation</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
