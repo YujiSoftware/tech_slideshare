@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM評価の落とし穴~開発者目線で気をつけるポイント~ (rishigami)</title>
+        <link>https://speakerdeck.com/rishigami/llmping-jia-noluo-tosixue-kai-fa-zhe-mu-xian-deqi-wotukerupointo</link>
+        <dc:date>2024-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オープンデータを実サービスで活用してみた (y_hanamitsu)</title>
         <link>https://speakerdeck.com/y_hanamitsu/opundetawoshi-sabisudehuo-yong-sitemita</link>
         <dc:date>2024-05-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ハードウェアを動かすTypeScriptの世界 (kido)</title>
         <link>https://speakerdeck.com/9wick/hadoueawodong-kasutypescriptnoshi-jie</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptのパフォーマンス改善 (やじはむ)</title>
-        <link>https://speakerdeck.com/yajihum/typescriptnopahuomansugai-shan</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
