@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PhpStorm超絶技巧40分集中講義 #phpconkagawa (yusuke)</title>
+        <link>https://speakerdeck.com/yusuke/phpstormchao-jue-ji-qiao-40fen-ji-zhong-jiang-yi-number-phpconkagawa</link>
+        <dc:date>2024-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新米SRE、4つのプロダクトを同時にPHP7.0から8.1へ！！ (ことみん / kotomin_m)</title>
         <link>https://speakerdeck.com/kotomin_m/xin-mi-sre-4tunopurodakutowotong-shi-niphp7-dot-0kara8-dot-1he</link>
         <dc:date>2024-05-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>開発組織のOKRの作り方 / OKR in a develoment division (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/okr-in-a-develoment-division</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OKRと「測りすぎ」 〜なりたい姿を、「測りすぎ」ないようにしながらどう追いかけるか〜/OKR and the tyranny of metrics (kakehashi)</title>
-        <link>https://speakerdeck.com/kakehashi/okr-and-the-tyranny-of-metrics</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
