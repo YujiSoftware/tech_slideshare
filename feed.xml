@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScriptの型とパフォーマンス (TSKaigi 2024) (ypresto)</title>
+        <link>https://speakerdeck.com/ypresto/typescript-type-checking-and-its-performance</link>
+        <dc:date>2024-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Documentation testsの恩恵 / Documentation testing benefits (TOMIKAWA Sotaro)</title>
         <link>https://speakerdeck.com/ssssota/documentation-testing-benefits</link>
         <dc:date>2024-05-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Effectで作る堅牢でスケーラブルなAPIゲートウェイ / Robust and Scalable API Gateway Built on Effect (Yuichi Goto)</title>
         <link>https://speakerdeck.com/yasaichi/robust-and-scalable-api-gateway-built-on-effect</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Powerfully Typed TypeScript (euxn23)</title>
-        <link>https://speakerdeck.com/euxn23/powerfully-typed-typescript</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
