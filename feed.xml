@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Instana Cartoon - Airitech (Instanauts_jp)</title>
+        <link>https://speakerdeck.com/instanautsjp/instana-cartoon-airitech</link>
+        <dc:date>2024-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Airitech株式会社のご紹介 + Instana 普及に向けて (Instanauts_jp)</title>
+        <link>https://speakerdeck.com/instanautsjp/airitechzhu-shi-hui-she-nogoshao-jie-plus-instana-pu-ji-nixiang-kete</link>
+        <dc:date>2024-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Instanauts_jp#4  Instana最新リリース情報紹介 (Airi Furukawa)</title>
+        <link>https://speakerdeck.com/airifurukawa0924/instanauts-jp-number-4-instanazui-xin-ririsuqing-bao-shao-jie</link>
+        <dc:date>2024-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenLLMetryとInstanaで始める大規模言語モデル(LLM) と  AIアプリケーションの AI Observability入門 (Daisuke Hiraoka)</title>
+        <link>https://speakerdeck.com/daihiraoka/openllmetrytoinstanadeshi-meruda-gui-mo-yan-yu-moderu-llm-to-aiapurikesiyonno-ai-observabilityru-men</link>
+        <dc:date>2024-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Databricksの生成AI戦略 (Takaaki Yayoi)</title>
         <link>https://speakerdeck.com/taka_aki/databricksnosheng-cheng-aizhan-lue</link>
         <dc:date>2024-05-13T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>TypeScriptでもLLMアプリケーション開発 / LLM Application In Typescript (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/llm-application-in-typescript</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「PHPカンファレンス小田原2024」を実行委員長がふりかえる (asumikam)</title>
-        <link>https://speakerdeck.com/asumikam/phpcon-odawara-2024-furikaeri</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Shinagile 2024 (Yasunobu Kawaguchi)</title>
-        <link>https://speakerdeck.com/kawaguti/shinagile-2024</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript の抽象構文木を用いた、数百を超える API の大規模リファクタリング戦略 (yanaemon)</title>
-        <link>https://speakerdeck.com/yanaemon/typescript-nochou-xiang-gou-wen-mu-woyong-ita-shu-bai-wochao-eru-api-noda-gui-mo-rihuakutaringuzhan-lue</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptのコード生成をつらくしないために (Nkowne63)</title>
-        <link>https://speakerdeck.com/neutron63zf/typescriptnokodosheng-cheng-woturakusinaitameni</link>
         <dc:date>2024-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
