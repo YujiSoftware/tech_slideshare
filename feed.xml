@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240515第12回オープンエッジデバイス研究会</title>
+        <link>https://docs.google.com/presentation/d/1FLwt_YX-Cce_J9RNbuUvzden51yIdxD2v3oIin2OFYw/preview</link>
+        <dc:date>2024-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>電子情報学特論： Chromium のアーキテクチャを解き明かす 〜 EEIC の授業が生きるプロダクトの世界〜</title>
+        <link>https://docs.google.com/presentation/d/1oQ9SKpi_hSbFKIUbu22XSk_Uue25oWtz_u41OprLT_g/preview</link>
+        <dc:date>2024-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ts-morphを使ってコードリプレイスとASTへのハードルを下げる！ (nyawach)</title>
+        <link>https://speakerdeck.com/nyawach/ts-morphwoshi-tutekodoripureisutoasthenohadoruwoxia-geru</link>
+        <dc:date>2024-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模言語モデル (LLM)における低精度数値表現 (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/20240508-hpckenkyukai-pfn-llm</link>
+        <dc:date>2024-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>(公開版)スクラムマスターはどのように成長するのか (J.K)</title>
         <link>https://speakerdeck.com/junki/gong-kai-ban-sukuramumasutahadonoyounicheng-chang-surunoka</link>
         <dc:date>2024-05-13T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>新米SRE、4つのプロダクトを同時にPHP7.0から8.1へ！！ (ことみん / kotomin_m)</title>
         <link>https://speakerdeck.com/kotomin_m/xin-mi-sre-4tunopurodakutowotong-shi-niphp7-dot-0kara8-dot-1he</link>
         <dc:date>2024-05-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>哲学史とモデリング (Hisateru Tanaka)</title>
-        <link>https://speakerdeck.com/tanakahisateru/zhe-xue-shi-tomoterinku</link>
-        <dc:date>2024-05-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TSKaigi 2024 TypeScript ASTを利用したコードジェネレーターの実装入門 (HireRoo,@hirerooinc)</title>
-        <link>https://www.docswell.com/s/hireroo/K382Y1-tskaigi-2024-05-11-11-30</link>
-        <dc:date>2024-05-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Prismaでスキーマ変更を行う際のベストプラクティス (ryusaka)</title>
-        <link>https://speakerdeck.com/ryusaka/prismadesukimabian-geng-woxing-uji-nobesutopurakuteisu</link>
-        <dc:date>2024-05-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QA経験のないエンジニアリング マネージャーがQAのカジュアル面談に出て 苦労していること・気づいたこと / scrum fest niigata 2024 (Yoshiki Iida)</title>
-        <link>https://speakerdeck.com/yoshikiiida/scrum-fest-niigata-2024</link>
-        <dc:date>2024-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
