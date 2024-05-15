@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>欠陥を早期に発見するための Software Engineer in Test とその重要性 / What is Software Engineer in Test and How they works (Kuniwak)</title>
+        <link>https://speakerdeck.com/orgachem/what-is-software-engineer-in-test-and-how-they-works</link>
+        <dc:date>2024-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240515第12回オープンエッジデバイス研究会</title>
         <link>https://docs.google.com/presentation/d/1FLwt_YX-Cce_J9RNbuUvzden51yIdxD2v3oIin2OFYw/preview</link>
         <dc:date>2024-05-14T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>PhpStorm超絶技巧40分集中講義 #phpconkagawa (yusuke)</title>
         <link>https://speakerdeck.com/yusuke/phpstormchao-jue-ji-qiao-40fen-ji-zhong-jiang-yi-number-phpconkagawa</link>
         <dc:date>2024-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新米SRE、4つのプロダクトを同時にPHP7.0から8.1へ！！ (ことみん / kotomin_m)</title>
-        <link>https://speakerdeck.com/kotomin_m/xin-mi-sre-4tunopurodakutowotong-shi-niphp7-dot-0kara8-dot-1he</link>
-        <dc:date>2024-05-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
