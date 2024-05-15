@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Deno で作る快適な “as Code” プラットフォーム – TSKaigi 2024 (pizzacat83)</title>
+        <link>https://speakerdeck.com/pizzacat83/deno-dezuo-rukuai-shi-na-as-code-puratutohuomu-tskaigi-2024</link>
+        <dc:date>2024-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>欠陥を早期に発見するための Software Engineer in Test とその重要性 / What is Software Engineer in Test and How they works (Kuniwak)</title>
         <link>https://speakerdeck.com/orgachem/what-is-software-engineer-in-test-and-how-they-works</link>
         <dc:date>2024-05-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>多言語化対応における TypeScript の型定義を通して開発のしやすさについて考えた / TSKaigi TypeScript Multilingualization (nabeliwo)</title>
         <link>https://speakerdeck.com/nabeliwo/tskaigi-typescript-multilingualization</link>
-        <dc:date>2024-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PhpStorm超絶技巧40分集中講義 #phpconkagawa (yusuke)</title>
-        <link>https://speakerdeck.com/yusuke/phpstormchao-jue-ji-qiao-40fen-ji-zhong-jiang-yi-number-phpconkagawa</link>
         <dc:date>2024-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
