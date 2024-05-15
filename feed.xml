@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>B2C、B2B プロダクトマネジメントの違い（および思考の罠） / B2C, B2B PM and reduction fallacy (Minoru YOKOMICHI)</title>
+        <link>https://speakerdeck.com/ykmc09/b2c-b2b-pm-and-reduction-fallacy</link>
+        <dc:date>2024-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AIユースケースを考え倒すためのGenerative AI Use Cases JP (GenU)の魅力と使い方 (okamotoaws)</title>
         <link>https://speakerdeck.com/okamotoaws/sheng-cheng-aiyusukesuwokao-edao-sutamenogenerative-ai-use-cases-jp-genu-nomei-li-toshi-ifang</link>
         <dc:date>2024-05-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>オープンデータを実サービスで活用してみた (y_hanamitsu)</title>
         <link>https://speakerdeck.com/y_hanamitsu/opundetawoshi-sabisudehuo-yong-sitemita</link>
-        <dc:date>2024-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptの型とパフォーマンス (TSKaigi 2024) (ypresto)</title>
-        <link>https://speakerdeck.com/ypresto/typescript-type-checking-and-its-performance</link>
         <dc:date>2024-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
