@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIユースケースを考え倒すためのGenerative AI Use Cases JP (GenU)の魅力と使い方 (okamotoaws)</title>
+        <link>https://speakerdeck.com/okamotoaws/sheng-cheng-aiyusukesuwokao-edao-sutamenogenerative-ai-use-cases-jp-genu-nomei-li-toshi-ifang</link>
+        <dc:date>2024-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Exploring Reline: Enhancing Command Line Usability (ima1zumi)</title>
         <link>https://speakerdeck.com/ima1zumi/exploring-reline-enhancing-command-line-usability</link>
         <dc:date>2024-05-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TypeScriptの型とパフォーマンス (TSKaigi 2024) (ypresto)</title>
         <link>https://speakerdeck.com/ypresto/typescript-type-checking-and-its-performance</link>
-        <dc:date>2024-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Documentation testsの恩恵 / Documentation testing benefits (TOMIKAWA Sotaro)</title>
-        <link>https://speakerdeck.com/ssssota/documentation-testing-benefits</link>
         <dc:date>2024-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
