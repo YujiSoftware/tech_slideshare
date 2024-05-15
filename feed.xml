@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Exploring Reline: Enhancing Command Line Usability (ima1zumi)</title>
+        <link>https://speakerdeck.com/ima1zumi/exploring-reline-enhancing-command-line-usability</link>
+        <dc:date>2024-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Deno で作る快適な “as Code” プラットフォーム – TSKaigi 2024 (pizzacat83)</title>
         <link>https://speakerdeck.com/pizzacat83/deno-dezuo-rukuai-shi-na-as-code-puratutohuomu-tskaigi-2024</link>
         <dc:date>2024-05-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Documentation testsの恩恵 / Documentation testing benefits (TOMIKAWA Sotaro)</title>
         <link>https://speakerdeck.com/ssssota/documentation-testing-benefits</link>
-        <dc:date>2024-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>多言語化対応における TypeScript の型定義を通して開発のしやすさについて考えた / TSKaigi TypeScript Multilingualization (nabeliwo)</title>
-        <link>https://speakerdeck.com/nabeliwo/tskaigi-typescript-multilingualization</link>
         <dc:date>2024-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
