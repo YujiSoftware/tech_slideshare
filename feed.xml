@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The Journey of rubocop-daemon into RuboCop (Hayato Kawai)</title>
+        <link>https://speakerdeck.com/fohte/the-journey-of-rubocop-daemon-into-rubocop</link>
+        <dc:date>2024-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Gitの仕組みと用語 / GitHub Term (kaityo256)</title>
         <link>https://speakerdeck.com/kaityo256/github-term</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20240515第12回オープンエッジデバイス研究会</title>
         <link>https://docs.google.com/presentation/d/1FLwt_YX-Cce_J9RNbuUvzden51yIdxD2v3oIin2OFYw/preview</link>
-        <dc:date>2024-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>電子情報学特論： Chromium のアーキテクチャを解き明かす 〜 EEIC の授業が生きるプロダクトの世界〜</title>
-        <link>https://docs.google.com/presentation/d/1oQ9SKpi_hSbFKIUbu22XSk_Uue25oWtz_u41OprLT_g/preview</link>
         <dc:date>2024-05-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
