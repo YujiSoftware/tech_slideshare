@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Getting along with YAML comments with Psych (Masaki Hara)</title>
+        <link>https://speakerdeck.com/qnighy/getting-along-with-yaml-comments-with-psych</link>
+        <dc:date>2024-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スタックトレース始めてみた (kuro)</title>
         <link>https://speakerdeck.com/kuro_kurorrr/got-started-with-stack-trace</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>OpenLLMetryとInstanaで始める大規模言語モデル(LLM) と  AIアプリケーションの AI Observability入門 (Daisuke Hiraoka)</title>
         <link>https://speakerdeck.com/daihiraoka/openllmetrytoinstanadeshi-meruda-gui-mo-yan-yu-moderu-llm-to-aiapurikesiyonno-ai-observabilityru-men</link>
-        <dc:date>2024-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Databricksの生成AI戦略 (Takaaki Yayoi)</title>
-        <link>https://speakerdeck.com/taka_aki/databricksnosheng-cheng-aizhan-lue</link>
         <dc:date>2024-05-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
