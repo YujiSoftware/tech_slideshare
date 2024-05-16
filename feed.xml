@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Namespace, What and Why (Satoshi Tagomori)</title>
+        <link>https://speakerdeck.com/tagomoris/namespace-what-and-why</link>
+        <dc:date>2024-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新入生向けチュートリアル：文献のサーベイv2 (Taichi Aida)</title>
         <link>https://speakerdeck.com/a1da4/xin-ru-sheng-xiang-ketiyutoriaru-wen-xian-nosabeiv2</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>受託1年目が学んだチームが幸せになるPRの作り方 (mp)</title>
         <link>https://speakerdeck.com/mp32/shou-tuo-1nian-mu-gaxue-ndatimugaxing-seninaruprnozuo-rifang</link>
-        <dc:date>2024-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM評価の落とし穴~開発者目線で気をつけるポイント~ (rishigami)</title>
-        <link>https://speakerdeck.com/rishigami/llmping-jia-noluo-tosixue-kai-fa-zhe-mu-xian-deqi-wotukerupointo</link>
         <dc:date>2024-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
