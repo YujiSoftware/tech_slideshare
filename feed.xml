@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Embedding it into Ruby code (Soutaro Matsumoto)</title>
+        <link>https://speakerdeck.com/soutaro/embedding-it-into-ruby-code</link>
+        <dc:date>2024-05-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアゼロの組織から内製開発の DX をどう実現したのか / How did we achieve DX in in-house development in an organization with zero engineers?  (Genki)</title>
+        <link>https://speakerdeck.com/genkiogasawara/how-did-we-achieve-dx-in-in-house-development-in-an-organization-with-zero-engineers</link>
+        <dc:date>2024-05-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>The Journey of rubocop-daemon into RuboCop (Hayato Kawai)</title>
         <link>https://speakerdeck.com/fohte/the-journey-of-rubocop-daemon-into-rubocop</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Deno で作る快適な “as Code” プラットフォーム – TSKaigi 2024 (pizzacat83)</title>
         <link>https://speakerdeck.com/pizzacat83/deno-dezuo-rukuai-shi-na-as-code-puratutohuomu-tskaigi-2024</link>
-        <dc:date>2024-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>欠陥を早期に発見するための Software Engineer in Test とその重要性 / What is Software Engineer in Test and How they works (Kuniwak)</title>
-        <link>https://speakerdeck.com/orgachem/what-is-software-engineer-in-test-and-how-they-works</link>
-        <dc:date>2024-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240515第12回オープンエッジデバイス研究会</title>
-        <link>https://docs.google.com/presentation/d/1FLwt_YX-Cce_J9RNbuUvzden51yIdxD2v3oIin2OFYw/preview</link>
         <dc:date>2024-05-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
