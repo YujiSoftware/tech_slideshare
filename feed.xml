@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RubyGems on ruby.wasm (Yuta Saito)</title>
+        <link>https://speakerdeck.com/kateinoigakukun/rubygems-on-ruby-dot-wasm</link>
+        <dc:date>2024-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Getting along with YAML comments with Psych (Masaki Hara)</title>
         <link>https://speakerdeck.com/qnighy/getting-along-with-yaml-comments-with-psych</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Instanauts_jp#4  Instana最新リリース情報紹介 (Airi Furukawa)</title>
         <link>https://speakerdeck.com/airifurukawa0924/instanauts-jp-number-4-instanazui-xin-ririsuqing-bao-shao-jie</link>
-        <dc:date>2024-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenLLMetryとInstanaで始める大規模言語モデル(LLM) と  AIアプリケーションの AI Observability入門 (Daisuke Hiraoka)</title>
-        <link>https://speakerdeck.com/daihiraoka/openllmetrytoinstanadeshi-meruda-gui-mo-yan-yu-moderu-llm-to-aiapurikesiyonno-ai-observabilityru-men</link>
         <dc:date>2024-05-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
