@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スタックトレース始めてみた (kuro)</title>
+        <link>https://speakerdeck.com/kuro_kurorrr/got-started-with-stack-trace</link>
+        <dc:date>2024-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>使われないものを作るな！出口から作るデータ分析基盤 / Data Platform Development Starting from the User Needs (Amane Suzuki)</title>
         <link>https://speakerdeck.com/amaotone/data-platform-development-starting-from-the-user-needs</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Databricksの生成AI戦略 (Takaaki Yayoi)</title>
         <link>https://speakerdeck.com/taka_aki/databricksnosheng-cheng-aizhan-lue</link>
-        <dc:date>2024-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>戦略的DDDは重いのか？ / Is strategic DDD heavy? (集約のエンティティ)</title>
-        <link>https://speakerdeck.com/pictiny/is-strategic-ddd-heavy</link>
         <dc:date>2024-05-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
