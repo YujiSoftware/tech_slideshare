@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS CLIの起動が重くてつらいので aws-sdk-client-go を書いた / kamakura.go#6 (FUJIWARA Shunichiro)</title>
+        <link>https://speakerdeck.com/fujiwara3/number-kamakurago</link>
+        <dc:date>2024-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>YJIT Makes Rails 1.7x faster / RubyKaigi 2024 (Takashi Kokubun)</title>
         <link>https://speakerdeck.com/k0kubun/rubykaigi-2024</link>
         <dc:date>2024-05-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>The grand strategy of Ruby Parser (yui-knk)</title>
         <link>https://speakerdeck.com/yui_knk/the-grand-strategy-of-ruby-parser</link>
-        <dc:date>2024-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Namespace, What and Why (Satoshi Tagomori)</title>
-        <link>https://speakerdeck.com/tagomoris/namespace-what-and-why</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
