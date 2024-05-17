@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Actionsの痒いところを埋めるサードパーティーランナー (Minoru Takeuchi)</title>
+        <link>https://speakerdeck.com/dora1998/github-actionsnoyang-itokorowomai-merusadopateiranna</link>
+        <dc:date>2024-05-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Embedding it into Ruby code (Soutaro Matsumoto)</title>
         <link>https://speakerdeck.com/soutaro/embedding-it-into-ruby-code</link>
         <dc:date>2024-05-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Exploring Reline: Enhancing Command Line Usability (ima1zumi)</title>
         <link>https://speakerdeck.com/ima1zumi/exploring-reline-enhancing-command-line-usability</link>
-        <dc:date>2024-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deno で作る快適な “as Code” プラットフォーム – TSKaigi 2024 (pizzacat83)</title>
-        <link>https://speakerdeck.com/pizzacat83/deno-dezuo-rukuai-shi-na-as-code-puratutohuomu-tskaigi-2024</link>
         <dc:date>2024-05-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
