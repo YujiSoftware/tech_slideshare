@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DX企業CTOとして考える技術への向き合い方 (泰 昌平@ShoheiTai)</title>
+        <link>https://speakerdeck.com/shoheitai/dx-company-cto-career</link>
+        <dc:date>2024-05-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Actionsの痒いところを埋めるサードパーティーランナー (Minoru Takeuchi)</title>
         <link>https://speakerdeck.com/dora1998/github-actionsnoyang-itokorowomai-merusadopateiranna</link>
         <dc:date>2024-05-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成AIユースケースを考え倒すためのGenerative AI Use Cases JP (GenU)の魅力と使い方 (okamotoaws)</title>
         <link>https://speakerdeck.com/okamotoaws/sheng-cheng-aiyusukesuwokao-edao-sutamenogenerative-ai-use-cases-jp-genu-nomei-li-toshi-ifang</link>
-        <dc:date>2024-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Exploring Reline: Enhancing Command Line Usability (ima1zumi)</title>
-        <link>https://speakerdeck.com/ima1zumi/exploring-reline-enhancing-command-line-usability</link>
         <dc:date>2024-05-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
