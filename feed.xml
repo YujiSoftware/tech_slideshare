@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>YJIT Makes Rails 1.7x faster / RubyKaigi 2024 (Takashi Kokubun)</title>
+        <link>https://speakerdeck.com/k0kubun/rubykaigi-2024</link>
+        <dc:date>2024-05-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Intuneによる Cloudflare WARPの配布 (管理者向け)</title>
         <link>https://docs.google.com/presentation/d/1KyJWYKvrz-u-rANnLqdmWYQBqYdaCIsWwxSv1V-OS_g/preview</link>
         <dc:date>2024-05-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Namespace, What and Why (Satoshi Tagomori)</title>
         <link>https://speakerdeck.com/tagomoris/namespace-what-and-why</link>
-        <dc:date>2024-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新入生向けチュートリアル：文献のサーベイv2 (Taichi Aida)</title>
-        <link>https://speakerdeck.com/a1da4/xin-ru-sheng-xiang-ketiyutoriaru-wen-xian-nosabeiv2</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
