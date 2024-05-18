@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Using "modern" Ruby to build a better, faster Homebrew (Mike McQuaid)</title>
+        <link>https://speakerdeck.com/mikemcquaid/using-modern-ruby-to-build-a-better-faster-homebrew</link>
+        <dc:date>2024-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SLOいつ決めましょう？ (abnoumaru)</title>
+        <link>https://speakerdeck.com/abnoumaru/sloitujue-memasiyou</link>
+        <dc:date>2024-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Good first issues of TypeProf (Yusuke Endoh)</title>
         <link>https://speakerdeck.com/mame/good-first-issues-of-typeprof</link>
         <dc:date>2024-05-17T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Getting along with YAML comments with Psych (Masaki Hara)</title>
         <link>https://speakerdeck.com/qnighy/getting-along-with-yaml-comments-with-psych</link>
-        <dc:date>2024-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタックトレース始めてみた (kuro)</title>
-        <link>https://speakerdeck.com/kuro_kurorrr/got-started-with-stack-trace</link>
-        <dc:date>2024-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>使われないものを作るな！出口から作るデータ分析基盤 / Data Platform Development Starting from the User Needs (Amane Suzuki)</title>
-        <link>https://speakerdeck.com/amaotone/data-platform-development-starting-from-the-user-needs</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
