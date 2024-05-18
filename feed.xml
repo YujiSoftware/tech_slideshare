@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Good first issues of TypeProf (Yusuke Endoh)</title>
+        <link>https://speakerdeck.com/mame/good-first-issues-of-typeprof</link>
+        <dc:date>2024-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS CLIの起動が重くてつらいので aws-sdk-client-go を書いた / kamakura.go#6 (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/number-kamakurago</link>
         <dc:date>2024-05-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>使われないものを作るな！出口から作るデータ分析基盤 / Data Platform Development Starting from the User Needs (Amane Suzuki)</title>
         <link>https://speakerdeck.com/amaotone/data-platform-development-starting-from-the-user-needs</link>
-        <dc:date>2024-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The grand strategy of Ruby Parser (yui-knk)</title>
-        <link>https://speakerdeck.com/yui_knk/the-grand-strategy-of-ruby-parser</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
