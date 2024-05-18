@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Blazor WASM × Code-first gRPC で始める C# ⼤統⼀理論 (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20240515-2</link>
+        <dc:date>2024-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>.NET GraphQL Client のリアル (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20240515-1</link>
         <dc:date>2024-05-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Adding Security to Microcontroller Ruby (sylph01)</title>
         <link>https://speakerdeck.com/sylph01/adding-security-to-microcontroller-ruby</link>
-        <dc:date>2024-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初学者のためのアジャイルスターターキット/Agile starter kit for beginners (小田中育生)</title>
-        <link>https://speakerdeck.com/ikuodanaka/agile-starter-kit-for-beginners</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
