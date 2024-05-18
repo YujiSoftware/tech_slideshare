@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GoでParserを書く (karupanerura)</title>
+        <link>https://speakerdeck.com/karupanerura/goteparserwoshu-ku</link>
+        <dc:date>2024-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Blazor WASM × Code-first gRPC で始める C# ⼤統⼀理論 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20240515-2</link>
         <dc:date>2024-05-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>技術的負債解消の取り組みと専門チームのお話 / クラウドサイン (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/ji-shu-de-fu-zhai-jie-xiao-noqu-rizu-mitozhuan-men-timunoohua-20230608</link>
-        <dc:date>2024-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Adding Security to Microcontroller Ruby (sylph01)</title>
-        <link>https://speakerdeck.com/sylph01/adding-security-to-microcontroller-ruby</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
