@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>.NET GraphQL Client のリアル (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20240515-1</link>
+        <dc:date>2024-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜAWS S3ではなく Cloudflare R2を選ぶの？ - Cloudflare Meet-up Osaka #4 (Kanon)</title>
+        <link>https://speakerdeck.com/ysknsid25/nazeaws-s3dehanaku-cloudflare-r2woxuan-buno-cloudflare-meet-up-osaka-number-4</link>
+        <dc:date>2024-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Using "modern" Ruby to build a better, faster Homebrew (Mike McQuaid)</title>
         <link>https://speakerdeck.com/mikemcquaid/using-modern-ruby-to-build-a-better-faster-homebrew</link>
         <dc:date>2024-05-17T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>初学者のためのアジャイルスターターキット/Agile starter kit for beginners (小田中育生)</title>
         <link>https://speakerdeck.com/ikuodanaka/agile-starter-kit-for-beginners</link>
-        <dc:date>2024-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RubyGems on ruby.wasm (Yuta Saito)</title>
-        <link>https://speakerdeck.com/kateinoigakukun/rubygems-on-ruby-dot-wasm</link>
-        <dc:date>2024-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Getting along with YAML comments with Psych (Masaki Hara)</title>
-        <link>https://speakerdeck.com/qnighy/getting-along-with-yaml-comments-with-psych</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
