@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模言語モデル研究の最近の潮流(?)と実験研究への展開可能性について (Kan Hatakeyama,@kanhatakeyama)</title>
+        <link>https://www.docswell.com/s/KanHatakeyama/KJL7DN-2024-05-18-185008</link>
+        <dc:date>2024-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【SORACOM UG 四国】今だからこそ学ぶ！IoTの全体像と最新事例、生成AIの基礎 (SORACOM)</title>
         <link>https://speakerdeck.com/soracom/learn-now-iot-overview-latest-case-studies-generative-ai-basics</link>
         <dc:date>2024-05-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Embedding it into Ruby code (Soutaro Matsumoto)</title>
         <link>https://speakerdeck.com/soutaro/embedding-it-into-ruby-code</link>
-        <dc:date>2024-05-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアゼロの組織から内製開発の DX をどう実現したのか / How did we achieve DX in in-house development in an organization with zero engineers?  (Genki)</title>
-        <link>https://speakerdeck.com/genkiogasawara/how-did-we-achieve-dx-in-in-house-development-in-an-organization-with-zero-engineers</link>
         <dc:date>2024-05-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
