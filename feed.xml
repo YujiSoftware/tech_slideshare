@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Microsoft Learn の Plan を使って学習コンテンツをまとめよう (もくだい,@mokudai)</title>
+        <link>https://www.docswell.com/s/mokudai/ZM1MD2-2024-05-18-205840</link>
+        <dc:date>2024-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模言語モデル研究の最近の潮流(?)と実験研究への展開可能性について (Kan Hatakeyama,@kanhatakeyama)</title>
         <link>https://www.docswell.com/s/KanHatakeyama/KJL7DN-2024-05-18-185008</link>
         <dc:date>2024-05-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GitHub Actionsの痒いところを埋めるサードパーティーランナー (Minoru Takeuchi)</title>
         <link>https://speakerdeck.com/dora1998/github-actionsnoyang-itokorowomai-merusadopateiranna</link>
-        <dc:date>2024-05-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Embedding it into Ruby code (Soutaro Matsumoto)</title>
-        <link>https://speakerdeck.com/soutaro/embedding-it-into-ruby-code</link>
         <dc:date>2024-05-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
