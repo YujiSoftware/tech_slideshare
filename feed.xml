@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript Custom GitHub Action Development Tips (Shohei Ueda)</title>
+        <link>https://speakerdeck.com/peaceiris/typescript-custom-github-action-development-tips</link>
+        <dc:date>2024-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>日本が誇るイタリアのダンスミュージック!? ユーロビートって何？？ (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/ri-ben-gakua-ruitarianodansumiyuzituku-yurobitotutehe</link>
         <dc:date>2024-05-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>The Journey of rubocop-daemon into RuboCop (Hayato Kawai)</title>
         <link>https://speakerdeck.com/fohte/the-journey-of-rubocop-daemon-into-rubocop</link>
-        <dc:date>2024-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Gitの仕組みと用語 / GitHub Term (kaityo256)</title>
-        <link>https://speakerdeck.com/kaityo256/github-term</link>
         <dc:date>2024-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
