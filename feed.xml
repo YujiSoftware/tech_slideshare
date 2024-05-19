@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【SORACOM UG 四国】今だからこそ学ぶ！IoTの全体像と最新事例、生成AIの基礎 (SORACOM)</title>
+        <link>https://speakerdeck.com/soracom/learn-now-iot-overview-latest-case-studies-generative-ai-basics</link>
+        <dc:date>2024-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScript Custom GitHub Action Development Tips (Shohei Ueda)</title>
         <link>https://speakerdeck.com/peaceiris/typescript-custom-github-action-development-tips</link>
         <dc:date>2024-05-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>エンジニアゼロの組織から内製開発の DX をどう実現したのか / How did we achieve DX in in-house development in an organization with zero engineers?  (Genki)</title>
         <link>https://speakerdeck.com/genkiogasawara/how-did-we-achieve-dx-in-in-house-development-in-an-organization-with-zero-engineers</link>
         <dc:date>2024-05-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Journey of rubocop-daemon into RuboCop (Hayato Kawai)</title>
-        <link>https://speakerdeck.com/fohte/the-journey-of-rubocop-daemon-into-rubocop</link>
-        <dc:date>2024-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
