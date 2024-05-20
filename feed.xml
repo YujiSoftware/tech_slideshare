@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Does Ruby Parser dream of highly expressive grammar? (ydah)</title>
+        <link>https://speakerdeck.com/ydah/does-ruby-parser-dream-of-highly-expressive-grammar</link>
+        <dc:date>2024-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CloudflareとHonoを使って飲食店のレビューができるLINEアプリを作った (shinaps)</title>
         <link>https://speakerdeck.com/shinaps/cloudflaretohonowoshi-tuteyin-shi-dian-norebiyugadekirulineapuriwozuo-tuta</link>
         <dc:date>2024-05-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Community-driven RBS repository (pocke)</title>
         <link>https://speakerdeck.com/pocke/community-driven-rbs-repository</link>
-        <dc:date>2024-05-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DX企業CTOとして考える技術への向き合い方 (泰 昌平@ShoheiTai)</title>
-        <link>https://speakerdeck.com/shoheitai/dx-company-cto-career</link>
         <dc:date>2024-05-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
