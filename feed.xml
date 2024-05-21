@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Enjoy Creative Coding with Ruby (RubyKaigi2024) (chobishiba)</title>
+        <link>https://speakerdeck.com/chobishiba/enjoy-creative-coding-with-ruby-rubykaigi2024</link>
+        <dc:date>2024-05-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SaaSを作るという仕事について (Fujimura Daisuke)</title>
+        <link>https://speakerdeck.com/fujimura/this-craft-of-making-saas</link>
+        <dc:date>2024-05-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>accfes2024_torque_yamasaki (YuuYamasaki)</title>
         <link>https://speakerdeck.com/yuuyamasakiyuu/accfes2024-torque-yamasaki</link>
         <dc:date>2024-05-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>SLOいつ決めましょう？ (abnoumaru)</title>
         <link>https://speakerdeck.com/abnoumaru/sloitujue-memasiyou</link>
-        <dc:date>2024-05-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Good first issues of TypeProf (Yusuke Endoh)</title>
-        <link>https://speakerdeck.com/mame/good-first-issues-of-typeprof</link>
-        <dc:date>2024-05-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CLIの起動が重くてつらいので aws-sdk-client-go を書いた / kamakura.go#6 (FUJIWARA Shunichiro)</title>
-        <link>https://speakerdeck.com/fujiwara3/number-kamakurago</link>
         <dc:date>2024-05-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
