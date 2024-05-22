@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DatabricksにおけるRAGの実践 (Takaaki Yayoi)</title>
+        <link>https://speakerdeck.com/taka_aki/databricksniokeruragnoshi-jian</link>
+        <dc:date>2024-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今日からRAGを 始めることを考える (shibuiwilliam)</title>
+        <link>https://speakerdeck.com/shibuiwilliam/jin-ri-kararagwo-shi-merukotowokao-eru</link>
+        <dc:date>2024-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LangSmithを活用したRAGの評価・改善フローの整備 (os1ma)</title>
+        <link>https://speakerdeck.com/os1ma/langsmithwohuo-yong-sitaragnoping-jia-gai-shan-huronozheng-bei</link>
+        <dc:date>2024-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大きな泥団子に立ち向かう (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/big-ball-of-mud</link>
         <dc:date>2024-05-21T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>2023年 フィンテック大予想！（妄想アリ） (フィンテック養成コミュニティ)</title>
         <link>https://speakerdeck.com/finengine/2023nian-huintetukuda-yu-xiang-wang-xiang-ari</link>
-        <dc:date>2024-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フィンテックエンジニア養成勉強会9（最新技術特集） (フィンテック養成コミュニティ)</title>
-        <link>https://speakerdeck.com/finengine/huintetukuenziniayang-cheng-mian-qiang-hui-9-zui-xin-ji-shu-te-ji</link>
-        <dc:date>2024-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>分散型IDと検証可能なアイデンティティ技術概要 (Naohiro Fujie,@phr_eidentity)</title>
-        <link>https://www.slideshare.net/naohiro.fujie/id-252360106</link>
-        <dc:date>2024-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フィンテック養成勉強会#24 (フィンテック養成コミュニティ)</title>
-        <link>https://speakerdeck.com/finengine/huintetukuyang-cheng-mian-qiang-hui-number-24</link>
         <dc:date>2024-05-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
