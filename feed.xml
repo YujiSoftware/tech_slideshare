@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS Infrastructure as Code の新機能を総まとめ！ 2023.1-2024.5 (Kenji Kono)</title>
+        <link>https://speakerdeck.com/konokenj/iac-updates-2024-05</link>
+        <dc:date>2024-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スマートホームのこれから - NOT A HOTEL TECH TALK 2024/04/09 (imashin)</title>
         <link>https://speakerdeck.com/shinsuke_imai/09</link>
         <dc:date>2024-05-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>シン・シェルスクリプトで作るCNI</title>
         <link>https://docs.google.com/presentation/d/1GYrATSjAluJkL9isuXJCJQsekACUXoPQzt8sJYrNn5U/preview</link>
-        <dc:date>2024-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組織を強くするPdMのマインド / PMHub vol.2 (集約のエンティティ)</title>
-        <link>https://speakerdeck.com/pictiny/pmhub-vol-dot-2</link>
         <dc:date>2024-05-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
