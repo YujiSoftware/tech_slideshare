@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Unlocking Potential of Property Based Testing with Ractor (Masato Ohba)</title>
+        <link>https://speakerdeck.com/ohbarye/unlocking-potential-of-property-based-testing-with-ractor</link>
+        <dc:date>2024-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes でワークフローを組むなら cdk8s-argoworkflow がよさそう！/ cdk8s-argoworkflow is great! (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
+        <link>https://speakerdeck.com/mhrtech/cdk8s-argoworkflow-is-great</link>
+        <dc:date>2024-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSだ! Google Cloudだ! Azureだ!  認証連携だ！ (Kengo Suzuki)</title>
         <link>https://speakerdeck.com/ken5scal/awsda-google-cloudda-azureda-ren-zheng-lian-xi-da</link>
         <dc:date>2024-05-22T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>PGOによるコンパイラ最適化 / Compiler Optimization with PGO (Koya IWAMURA)</title>
         <link>https://speakerdeck.com/ciarana/compiler-optimization-with-pgo</link>
-        <dc:date>2024-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>見えないものに着目すると上手くいく、モデリングの勘所 / invisible-driven-design (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/invisible-driven-design</link>
-        <dc:date>2024-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CQRS+ES解体新書 / CQRS ES Disassembly Book (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/cqrs-es-disassembly-book</link>
         <dc:date>2024-05-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
