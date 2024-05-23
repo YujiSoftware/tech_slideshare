@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サービス立ち上げを終えて 追い求める美しいアーキテクチャ (TakuyaTezuka)</title>
+        <link>https://speakerdeck.com/takuyatezuka/sabisuli-tishang-gewozhong-ete-zhui-iqiu-merumei-siiakitekutiya</link>
+        <dc:date>2024-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>やってみてわかった クリーンアーキテクチャの勘所 (yonekubo@テスト駆動開発が好きなアーキテクト,@tyonekubo)</title>
         <link>https://www.docswell.com/s/tyonekubo/ZRXVNG-point-of-clean-architecture</link>
         <dc:date>2024-05-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>メッセージとイベントを中核に置いたシステム設計の有用性について (かとじゅん)</title>
         <link>https://speakerdeck.com/j5ik2o/metusezitoibentowozhong-he-nizhi-itasisutemushe-ji-noyou-yong-xing-nituite</link>
-        <dc:date>2024-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンパウンドプロダクト開発の質とスピードを支える Protobuf と Connect #アーキテクチャ_findy / Boosting Compound Product Development Efficiency with Protobuf and Connect (Masayuki Izumi)</title>
-        <link>https://speakerdeck.com/izumin5210/boosting-compound-product-development-efficiency-with-protobuf-and-connect</link>
         <dc:date>2024-05-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
