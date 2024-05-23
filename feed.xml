@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ビジネスの構造をアーキテクチャに落とし込みソフトウェアに可変性を注入する (MonotaRO)</title>
+        <link>https://speakerdeck.com/monotaro/bizinesunogou-zao-woakitekutiyaniluo-tosiip-misohutoueanike-bian-xing-wozhu-ru-suru</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BQで天気基盤をつくって、役立つ情報を可視化してみた! (wakama1994)</title>
         <link>https://speakerdeck.com/wakamatsu_takumu/bqdetian-qi-ji-pan-wotukutute-yi-li-tuqing-bao-woke-shi-hua-sitemita</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LangSmithを活用したRAGの評価・改善フローの整備 (os1ma)</title>
         <link>https://speakerdeck.com/os1ma/langsmithwohuo-yong-sitaragnoping-jia-gai-shan-huronozheng-bei</link>
-        <dc:date>2024-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大きな泥団子に立ち向かう (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/big-ball-of-mud</link>
         <dc:date>2024-05-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
