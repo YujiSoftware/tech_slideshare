@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>やってみてわかった クリーンアーキテクチャの勘所 (yonekubo@テスト駆動開発が好きなアーキテクト,@tyonekubo)</title>
+        <link>https://www.docswell.com/s/tyonekubo/ZRXVNG-point-of-clean-architecture</link>
+        <dc:date>2024-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Unlocking Potential of Property Based Testing with Ractor (Masato Ohba)</title>
         <link>https://speakerdeck.com/ohbarye/unlocking-potential-of-property-based-testing-with-ractor</link>
         <dc:date>2024-05-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コンパウンドプロダクト開発の質とスピードを支える Protobuf と Connect #アーキテクチャ_findy / Boosting Compound Product Development Efficiency with Protobuf and Connect (Masayuki Izumi)</title>
         <link>https://speakerdeck.com/izumin5210/boosting-compound-product-development-efficiency-with-protobuf-and-connect</link>
-        <dc:date>2024-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PGOによるコンパイラ最適化 / Compiler Optimization with PGO (Koya IWAMURA)</title>
-        <link>https://speakerdeck.com/ciarana/compiler-optimization-with-pgo</link>
         <dc:date>2024-05-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
