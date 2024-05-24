@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>事業価値を生み出すモデリング 価値をサステナブルにするアーキテクチャ (Koichiro Matsuoka)</title>
+        <link>https://speakerdeck.com/littlehands/shi-ye-jia-zhi-wosheng-michu-sumoderingu-jia-zhi-wosasutenaburunisuruakitekutiya</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon Cognitoで実装するパスキー （Security-JAWS【第33回】 勉強会） (keikoitakurag)</title>
         <link>https://www.slideshare.net/slideshow/amazon-cognito-security-jaws-33/269238204</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DatabricksにおけるRAGの実践 (Takaaki Yayoi)</title>
         <link>https://speakerdeck.com/taka_aki/databricksniokeruragnoshi-jian</link>
-        <dc:date>2024-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今日からRAGを 始めることを考える (shibuiwilliam)</title>
-        <link>https://speakerdeck.com/shibuiwilliam/jin-ri-kararagwo-shi-merukotowokao-eru</link>
         <dc:date>2024-05-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
