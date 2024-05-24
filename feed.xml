@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RAGのretrievalの評価を “ranx”で行う / Evaluate retrival of RAG using "ranx" (Kuniaki Shimizu)</title>
+        <link>https://speakerdeck.com/kun432/evaluate-retrival-of-rag-using-ranx</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サイト移行しくじり先生.pdf (kokamoto01)</title>
+        <link>https://speakerdeck.com/kokamoto01_metaps/saitoyi-xing-sikusirixian-sheng</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Webサービスの品質って何よってハナシ (tyasu)</title>
+        <link>https://speakerdeck.com/tyasu/websabisunopin-zhi-tutehe-yotutehanasi</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SONiCを自前でビルドする話 (Masaru OKI)</title>
         <link>https://speakerdeck.com/imasaruoki/sonicwozi-qian-debirudosuruhua</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>2PC between Binlog and InnoDB (tom--bo)</title>
         <link>https://speakerdeck.com/tombo/2pc-between-binlog-and-innodb</link>
-        <dc:date>2024-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes Code Contribution入門 (bells17)</title>
-        <link>https://speakerdeck.com/bells17/kubernetes-code-contributionru-men</link>
-        <dc:date>2024-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10Xが掲げるオリジナルの品質特性について / 10X quality characteristic (10xinc)</title>
-        <link>https://speakerdeck.com/10xinc/10x-quality-characteristic</link>
-        <dc:date>2024-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ユーザーフレンドリーな取引明細のアーキテクチャ  〜VISAカードの複雑性に向き合う実践例〜 (ShoheiMitani)</title>
-        <link>https://speakerdeck.com/shoheimitani/yuzahurendorinaqu-yin-ming-xi-noakitekutiya-visakadonofu-za-xing-nixiang-kihe-ushi-jian-li</link>
         <dc:date>2024-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
