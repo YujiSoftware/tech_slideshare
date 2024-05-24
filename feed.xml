@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon Cognitoで実装するパスキー （Security-JAWS【第33回】 勉強会） (keikoitakurag)</title>
+        <link>https://www.slideshare.net/slideshow/amazon-cognito-security-jaws-33/269238204</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ビジネスの構造をアーキテクチャに落とし込みソフトウェアに可変性を注入する (MonotaRO)</title>
         <link>https://speakerdeck.com/monotaro/bizinesunogou-zao-woakitekutiyaniluo-tosiip-misohutoueanike-bian-xing-wozhu-ru-suru</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>今日からRAGを 始めることを考える (shibuiwilliam)</title>
         <link>https://speakerdeck.com/shibuiwilliam/jin-ri-kararagwo-shi-merukotowokao-eru</link>
-        <dc:date>2024-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LangSmithを活用したRAGの評価・改善フローの整備 (os1ma)</title>
-        <link>https://speakerdeck.com/os1ma/langsmithwohuo-yong-sitaragnoping-jia-gai-shan-huronozheng-bei</link>
         <dc:date>2024-05-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
