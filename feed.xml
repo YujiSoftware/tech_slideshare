@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>よりシンプルになる Svelte の世界 (azukiazusa)</title>
+        <link>https://speakerdeck.com/azukiazusa1/yorisinpuruninaru-svelte-noshi-jie</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TanStackで効率的なルーティングとデータ取得を実現 (ytaisei)</title>
+        <link>https://speakerdeck.com/ytaisei/tanstackdexiao-lu-de-naruteingutodetaqu-de-woshi-xian</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CRuby超入門</title>
         <link>https://docs.google.com/presentation/d/1HSi8AzYHyETY6wrGSzOvfNgnIrddt_maRQJKoWlbaH8/preview</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Unlocking Potential of Property Based Testing with Ractor (Masato Ohba)</title>
         <link>https://speakerdeck.com/ohbarye/unlocking-potential-of-property-based-testing-with-ractor</link>
-        <dc:date>2024-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes でワークフローを組むなら cdk8s-argoworkflow がよさそう！/ cdk8s-argoworkflow is great! (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
-        <link>https://speakerdeck.com/mhrtech/cdk8s-argoworkflow-is-great</link>
-        <dc:date>2024-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSだ! Google Cloudだ! Azureだ!  認証連携だ！ (Kengo Suzuki)</title>
-        <link>https://speakerdeck.com/ken5scal/awsda-google-cloudda-azureda-ren-zheng-lian-xi-da</link>
         <dc:date>2024-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
