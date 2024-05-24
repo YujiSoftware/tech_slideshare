@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CRuby超入門</title>
+        <link>https://docs.google.com/presentation/d/1HSi8AzYHyETY6wrGSzOvfNgnIrddt_maRQJKoWlbaH8/preview</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>公式ドキュメントを読もう</title>
         <link>https://docs.google.com/presentation/d/15k_SNT9yf3EuGU8x7LObvk-r3m1DJWhq67CR6AfjK3I/preview</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWSだ! Google Cloudだ! Azureだ!  認証連携だ！ (Kengo Suzuki)</title>
         <link>https://speakerdeck.com/ken5scal/awsda-google-cloudda-azureda-ren-zheng-lian-xi-da</link>
-        <dc:date>2024-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Infrastructure as Code の新機能を総まとめ！ 2023.1-2024.5 (Kenji Kono)</title>
-        <link>https://speakerdeck.com/konokenj/iac-updates-2024-05</link>
         <dc:date>2024-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
