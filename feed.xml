@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SONiCを自前でビルドする話 (Masaru OKI)</title>
+        <link>https://speakerdeck.com/imasaruoki/sonicwozi-qian-debirudosuruhua</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Copilotと快適なユニットテストコード作成生活 (bun)</title>
         <link>https://speakerdeck.com/bun913/github-copilottokuai-shi-nayunitutotesutokodozuo-cheng-sheng-huo</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ユーザーフレンドリーな取引明細のアーキテクチャ  〜VISAカードの複雑性に向き合う実践例〜 (ShoheiMitani)</title>
         <link>https://speakerdeck.com/shoheimitani/yuzahurendorinaqu-yin-ming-xi-noakitekutiya-visakadonofu-za-xing-nixiang-kihe-ushi-jian-li</link>
-        <dc:date>2024-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アウトプットを頑張り始めたデータサイエンティストの話 (chimuichimu)</title>
-        <link>https://speakerdeck.com/chimuichimu/autopututowowan-zhang-rishi-metadetasaienteisutonohua</link>
         <dc:date>2024-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
