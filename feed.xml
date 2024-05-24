@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Spannerはなぜ原子時計が必要だったのか？ (1) (Yoshiaki Ueda (bootjp),@bootjp)</title>
+        <link>https://www.docswell.com/s/bootjp/KNRWDP-Spanner-atomic-clock</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事業価値を生み出すモデリング 価値をサステナブルにするアーキテクチャ (Koichiro Matsuoka)</title>
         <link>https://speakerdeck.com/littlehands/shi-ye-jia-zhi-wosheng-michu-sumoderingu-jia-zhi-wosasutenaburunisuruakitekutiya</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「情報保障とやさしい日本語」GAAD Japan 2024やさしい日本語についてのセッションスライド (junnamacom)</title>
         <link>https://www.slideshare.net/slideshow/gaad-japan-2024/268851401</link>
-        <dc:date>2024-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DatabricksにおけるRAGの実践 (Takaaki Yayoi)</title>
-        <link>https://speakerdeck.com/taka_aki/databricksniokeruragnoshi-jian</link>
         <dc:date>2024-05-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
