@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>公式ドキュメントを読もう</title>
+        <link>https://docs.google.com/presentation/d/15k_SNT9yf3EuGU8x7LObvk-r3m1DJWhq67CR6AfjK3I/preview</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goのライブラリのバグを見つけてから直すまで layerx.go#0 (Tomoaki)</title>
+        <link>https://speakerdeck.com/tomoaki25/gonoraiburarinobaguwojian-tuketekarazhi-sumade-layerx-dot-go-number-0</link>
+        <dc:date>2024-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RAGのretrievalの評価を “ranx”で行う / Evaluate retrival of RAG using "ranx" (Kuniaki Shimizu)</title>
         <link>https://speakerdeck.com/kun432/evaluate-retrival-of-rag-using-ranx</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AWS Infrastructure as Code の新機能を総まとめ！ 2023.1-2024.5 (Kenji Kono)</title>
         <link>https://speakerdeck.com/konokenj/iac-updates-2024-05</link>
-        <dc:date>2024-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スマートホームのこれから - NOT A HOTEL TECH TALK 2024/04/09 (imashin)</title>
-        <link>https://speakerdeck.com/shinsuke_imai/09</link>
-        <dc:date>2024-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2PC between Binlog and InnoDB (tom--bo)</title>
-        <link>https://speakerdeck.com/tombo/2pc-between-binlog-and-innodb</link>
         <dc:date>2024-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
