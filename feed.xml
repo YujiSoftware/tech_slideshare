@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「Elixir実践入門」をけっこう読み込んでみてガイド</title>
+        <link>https://docs.google.com/presentation/d/1uMm_5v4Em-X6IHn1D4seui6_hz8l1eY_CkQfYECO-sA/preview</link>
+        <dc:date>2024-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SPCC2.pptx</title>
+        <link>https://docs.google.com/presentation/d/1QgjfIm7yLW8-qvv9mnXmLA_3OBGIasCy/preview</link>
+        <dc:date>2024-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Secure Serverless Architecture (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/secure-serverless-architecture</link>
+        <dc:date>2024-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアとしてのキャリアを支える自宅サーバー (Kazuto Kusama)</title>
+        <link>https://speakerdeck.com/jacopen/enziniatositenokiyariawozhi-eruzi-zhai-saba</link>
+        <dc:date>2024-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>意義から考えるObservability入門 #srenext (すてにゃん)</title>
+        <link>https://speakerdeck.com/stefafafan/significance-of-observability</link>
+        <dc:date>2024-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>よりシンプルになる Svelte の世界 (azukiazusa)</title>
         <link>https://speakerdeck.com/azukiazusa1/yorisinpuruninaru-svelte-noshi-jie</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>Amazon Cognitoで実装するパスキー （Security-JAWS【第33回】 勉強会） (keikoitakurag)</title>
         <link>https://www.slideshare.net/slideshow/amazon-cognito-security-jaws-33/269238204</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ビジネスの構造をアーキテクチャに落とし込みソフトウェアに可変性を注入する (MonotaRO)</title>
-        <link>https://speakerdeck.com/monotaro/bizinesunogou-zao-woakitekutiyaniluo-tosiip-misohutoueanike-bian-xing-wozhu-ru-suru</link>
-        <dc:date>2024-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BQで天気基盤をつくって、役立つ情報を可視化してみた! (wakama1994)</title>
-        <link>https://speakerdeck.com/wakamatsu_takumu/bqdetian-qi-ji-pan-wotukutute-yi-li-tuqing-bao-woke-shi-hua-sitemita</link>
-        <dc:date>2024-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サービス立ち上げを終えて 追い求める美しいアーキテクチャ (TakuyaTezuka)</title>
-        <link>https://speakerdeck.com/takuyatezuka/sabisuli-tishang-gewozhong-ete-zhui-iqiu-merumei-siiakitekutiya</link>
-        <dc:date>2024-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>やってみてわかった クリーンアーキテクチャの勘所 (yonekubo@テスト駆動開発が好きなアーキテクト,@tyonekubo)</title>
-        <link>https://www.docswell.com/s/tyonekubo/ZRXVNG-point-of-clean-architecture</link>
-        <dc:date>2024-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unlocking Potential of Property Based Testing with Ractor (Masato Ohba)</title>
-        <link>https://speakerdeck.com/ohbarye/unlocking-potential-of-property-based-testing-with-ractor</link>
-        <dc:date>2024-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
