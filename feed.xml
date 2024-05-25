@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>これからはじめるインフラエンジニア (外道 父,@GedowFather)</title>
+        <link>https://www.slideshare.net/slideshow/lets-be-an-infrastructure-engineer/15678413</link>
+        <dc:date>2024-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GoのWebプロダクトに途中参加するときのキャッチアップ #layerxgo /  How to catch up Go web product (Yoichiro Shimizu)</title>
         <link>https://speakerdeck.com/budougumi0617/how-to-catch-up-go-web-product</link>
         <dc:date>2024-05-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Spannerはなぜ原子時計が必要だったのか？ (1) (Yoshiaki Ueda (bootjp),@bootjp)</title>
         <link>https://www.docswell.com/s/bootjp/KNRWDP-Spanner-atomic-clock</link>
-        <dc:date>2024-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業価値を生み出すモデリング 価値をサステナブルにするアーキテクチャ (Koichiro Matsuoka)</title>
-        <link>https://speakerdeck.com/littlehands/shi-ye-jia-zhi-wosheng-michu-sumoderingu-jia-zhi-wosasutenaburunisuruakitekutiya</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
