@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アクセシビリティの観点からみたFluent UI Blazorのすすめ (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/akusesibiriteinoguan-dian-karamitafluent-ui-blazornosusume</link>
+        <dc:date>2024-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JavaScriptのProxy(Reflect)と 昨日より仲良くなる20分 (猪野浩子,@uribou_studying)</title>
+        <link>https://www.docswell.com/s/hiroko_ino/KJL3GG-javascript-proxy-reflect</link>
+        <dc:date>2024-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>これからはじめるインフラエンジニア (外道 父,@GedowFather)</title>
         <link>https://www.slideshare.net/slideshow/lets-be-an-infrastructure-engineer/15678413</link>
         <dc:date>2024-05-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>⾃⼰教師あり学習によるビジョン基盤モデルの事前学習 (Hironobu Fujiyoshi)</title>
         <link>https://speakerdeck.com/hf149/jiao-shi-arixue-xi-niyorubiziyonji-pan-moderunoshi-qian-xue-xi</link>
-        <dc:date>2024-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Keeper of the Seven Keys 〜Four Keysとあと3つ〜 (kakehashi)</title>
-        <link>https://speakerdeck.com/kakehashi/keeper-of-the-seven-keys</link>
-        <dc:date>2024-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spannerはなぜ原子時計が必要だったのか？ (1) (Yoshiaki Ueda (bootjp),@bootjp)</title>
-        <link>https://www.docswell.com/s/bootjp/KNRWDP-Spanner-atomic-clock</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
