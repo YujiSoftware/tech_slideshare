@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BigQuery データ キャンバスでデータモデリングしてみた / I tried data modeling with BigQuery Data Canvas (Sansan R&amp;D)</title>
+        <link>https://speakerdeck.com/sansan_randd/i-tried-data-modeling-with-bigquery-data-canvas</link>
+        <dc:date>2024-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>仕事の対話を AI でハックする考え方とプロセス 〜 AI と協働できる人材へ 〜 (Ryosuke Yoshizaki)</title>
         <link>https://speakerdeck.com/yoshizaki/shi-shi-nodui-hua-wo-ai-dehatukusurukao-efang-topurosesu-ai-toxie-dong-dekiruren-cai-he</link>
         <dc:date>2024-05-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SONiCを自前でビルドする話 (Masaru OKI)</title>
         <link>https://speakerdeck.com/imasaruoki/sonicwozi-qian-debirudosuruhua</link>
-        <dc:date>2024-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilotと快適なユニットテストコード作成生活 (bun)</title>
-        <link>https://speakerdeck.com/bun913/github-copilottokuai-shi-nayunitutotesutokodozuo-cheng-sheng-huo</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
