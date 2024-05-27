@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>何を使って可視化する？AWSでのログ分析/What-do-you-use-to-visualise-it-log-analysis-in-AWS (emi)</title>
+        <link>https://speakerdeck.com/emiki/what-do-you-use-to-visualise-it-log-analysis-in-aws</link>
+        <dc:date>2024-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OSSのリリース作業をなるべく簡単にする (Kenta Kase,@Kesin11)</title>
         <link>https://www.docswell.com/s/Kesin11/K38XLY-2024-04-09-oss-release-workflow</link>
         <dc:date>2024-05-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RAGのretrievalの評価を “ranx”で行う / Evaluate retrival of RAG using "ranx" (Kuniaki Shimizu)</title>
         <link>https://speakerdeck.com/kun432/evaluate-retrival-of-rag-using-ranx</link>
-        <dc:date>2024-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイト移行しくじり先生.pdf (kokamoto01)</title>
-        <link>https://speakerdeck.com/kokamoto01_metaps/saitoyi-xing-sikusirixian-sheng</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
