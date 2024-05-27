@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Google Analytics でサイト速度を計測する / Measure site speed with Google Analytics (forrep)</title>
+        <link>https://speakerdeck.com/forrep/measure-site-speed-with-google-analytics</link>
+        <dc:date>2024-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スタートアップがAWSパートナーになって得られたこと (shonansurvivors)</title>
+        <link>https://speakerdeck.com/shonansurvivors/what-the-statup-gained-by-becoming-an-aws-partner</link>
+        <dc:date>2024-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ビックデータにおける、RAG性能向上戦略 (大堀遼介)</title>
         <link>https://speakerdeck.com/randoryo/hitukutetaniokeru-ragxing-neng-xiang-shang-zhan-lue</link>
         <dc:date>2024-05-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>CRuby超入門</title>
         <link>https://docs.google.com/presentation/d/1HSi8AzYHyETY6wrGSzOvfNgnIrddt_maRQJKoWlbaH8/preview</link>
-        <dc:date>2024-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>公式ドキュメントを読もう</title>
-        <link>https://docs.google.com/presentation/d/15k_SNT9yf3EuGU8x7LObvk-r3m1DJWhq67CR6AfjK3I/preview</link>
-        <dc:date>2024-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goのライブラリのバグを見つけてから直すまで layerx.go#0 (Tomoaki)</title>
-        <link>https://speakerdeck.com/tomoaki25/gonoraiburarinobaguwojian-tuketekarazhi-sumade-layerx-dot-go-number-0</link>
         <dc:date>2024-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
