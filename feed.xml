@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon RDS / Amazon Aurora パフォーマンスチューニングとモニタリング (@twingo_b)</title>
+        <link>https://speakerdeck.com/twingob/amazon-aurora-pahuomansutiyuningutomonitaringu</link>
+        <dc:date>2024-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>継続性視点での開発生産性マネジメント / Managing Engineering Organization in a Strategic Way (SMS tech)</title>
         <link>https://speakerdeck.com/sms_tech/managing-engineering-organization-in-a-strategic-way</link>
         <dc:date>2024-05-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SPCC2.pptx</title>
         <link>https://docs.google.com/presentation/d/1QgjfIm7yLW8-qvv9mnXmLA_3OBGIasCy/preview</link>
-        <dc:date>2024-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Secure Serverless Architecture (shiro seike)</title>
-        <link>https://speakerdeck.com/seike460/secure-serverless-architecture</link>
         <dc:date>2024-05-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
