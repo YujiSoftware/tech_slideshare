@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MySQLで処理するGIS ～地球が丸いことを覚えたMySQL～ / MySQL GIS FOSS4G TOKAI 2023 (YoshiakiYamasaki)</title>
+        <link>https://speakerdeck.com/yoshiakiyamasaki/mysql-gis-foss4g-tokai-2023</link>
+        <dc:date>2024-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>入門プロパティベーステスト/learning-property-based-testing (Yasuhiro Kiwada)</title>
         <link>https://speakerdeck.com/kiway/learning-property-based-testing</link>
         <dc:date>2024-05-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エンジニアとしてのキャリアを支える自宅サーバー (Kazuto Kusama)</title>
         <link>https://speakerdeck.com/jacopen/enziniatositenokiyariawozhi-eruzi-zhai-saba</link>
-        <dc:date>2024-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>意義から考えるObservability入門 #srenext (すてにゃん)</title>
-        <link>https://speakerdeck.com/stefafafan/significance-of-observability</link>
         <dc:date>2024-05-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
