@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ちょっとしたリアクティブユーティリティのご紹介 (v-tokyo #20)</title>
+        <link>https://docs.google.com/presentation/d/1uYjxkjN-aPPMkpTftaM-QUQr0OE9XJv2EOwQniurC0c/preview</link>
+        <dc:date>2024-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Nuxt Serverと$fetchを 組み合わせたTypeScript開発体験 (Keigo Nakao)</title>
+        <link>https://speakerdeck.com/kspace/nuxt-serverto-fetchwo-zu-mihe-wasetatypescriptkai-fa-ti-yan</link>
+        <dc:date>2024-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon RDS / Amazon Aurora パフォーマンスチューニングとモニタリング (@twingo_b)</title>
         <link>https://speakerdeck.com/twingob/amazon-aurora-pahuomansutiyuningutomonitaringu</link>
         <dc:date>2024-05-27T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>GoのWebプロダクトに途中参加するときのキャッチアップ #layerxgo /  How to catch up Go web product (Yoichiro Shimizu)</title>
         <link>https://speakerdeck.com/budougumi0617/how-to-catch-up-go-web-product</link>
-        <dc:date>2024-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「Elixir実践入門」をけっこう読み込んでみてガイド</title>
-        <link>https://docs.google.com/presentation/d/1uMm_5v4Em-X6IHn1D4seui6_hz8l1eY_CkQfYECO-sA/preview</link>
-        <dc:date>2024-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SPCC2.pptx</title>
-        <link>https://docs.google.com/presentation/d/1QgjfIm7yLW8-qvv9mnXmLA_3OBGIasCy/preview</link>
         <dc:date>2024-05-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
