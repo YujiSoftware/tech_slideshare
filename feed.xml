@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GWにチャレンジしたことLT会</title>
+        <link>https://docs.google.com/presentation/d/1GmhNvgC3NKXdk3O_70bFVrNO0N_H8zhg73ol_q8cXKg/preview</link>
+        <dc:date>2024-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「ソフトウェア設計」のドメイン - 「データモデリングでドメインを駆動する」を読んで (hidenorigoto)</title>
+        <link>https://speakerdeck.com/hidenorigoto/sohutoueashe-ji-nodomein-detamoderingudedomeinwoqu-dong-suru-wodu-nde</link>
+        <dc:date>2024-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>メルペイ Tech PR Roadmap を作成した話 (Miki Chida)</title>
         <link>https://speakerdeck.com/mikichin/merupei-tech-pr-roadmap-wozuo-cheng-sitahua</link>
         <dc:date>2024-05-27T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>アクセシビリティの観点からみたFluent UI Blazorのすすめ (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/akusesibiriteinoguan-dian-karamitafluent-ui-blazornosusume</link>
-        <dc:date>2024-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JavaScriptのProxy(Reflect)と 昨日より仲良くなる20分 (猪野浩子,@uribou_studying)</title>
-        <link>https://www.docswell.com/s/hiroko_ino/KJL3GG-javascript-proxy-reflect</link>
-        <dc:date>2024-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これからはじめるインフラエンジニア (外道 父,@GedowFather)</title>
-        <link>https://www.slideshare.net/slideshow/lets-be-an-infrastructure-engineer/15678413</link>
         <dc:date>2024-05-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
