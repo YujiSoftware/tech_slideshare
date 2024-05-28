@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>入門プロパティベーステスト/learning-property-based-testing (Yasuhiro Kiwada)</title>
+        <link>https://speakerdeck.com/kiway/learning-property-based-testing</link>
+        <dc:date>2024-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Mutation Testingを活用して テスト品質を考える /introduction to mutation testing (kakehashi)</title>
+        <link>https://speakerdeck.com/kakehashi/introduction-to-mutation-testing</link>
+        <dc:date>2024-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>第34回 中国地方DB勉強会 in 広島_Why DBRE? (tomo)</title>
         <link>https://speakerdeck.com/tomomo/di-34hui-zhong-guo-di-fang-dbmian-qiang-hui-in-guang-dao-why-dbre</link>
         <dc:date>2024-05-27T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>意義から考えるObservability入門 #srenext (すてにゃん)</title>
         <link>https://speakerdeck.com/stefafafan/significance-of-observability</link>
         <dc:date>2024-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>よりシンプルになる Svelte の世界 (azukiazusa)</title>
-        <link>https://speakerdeck.com/azukiazusa1/yorisinpuruninaru-svelte-noshi-jie</link>
-        <dc:date>2024-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TanStackで効率的なルーティングとデータ取得を実現 (ytaisei)</title>
-        <link>https://speakerdeck.com/ytaisei/tanstackdexiao-lu-de-naruteingutodetaqu-de-woshi-xian</link>
-        <dc:date>2024-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
