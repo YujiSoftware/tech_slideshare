@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アウトプット文化による第一想起を育てる (takashi)</title>
+        <link>https://speakerdeck.com/takashi_toyosaki/autopututowen-hua-niyorudi-xiang-qi-woyu-teru</link>
+        <dc:date>2024-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Capacitor製のWebViewアプリからReact Native製のハイブリッドアプリへ (Yuku Kotani)</title>
         <link>https://speakerdeck.com/yukukotani/from-capacitor-to-react-native-hybrid-app</link>
         <dc:date>2024-05-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>継続性視点での開発生産性マネジメント / Managing Engineering Organization in a Strategic Way (SMS tech)</title>
         <link>https://speakerdeck.com/sms_tech/managing-engineering-organization-in-a-strategic-way</link>
-        <dc:date>2024-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MySQLで処理するGIS ～地球が丸いことを覚えたMySQL～ / MySQL GIS FOSS4G TOKAI 2023 (YoshiakiYamasaki)</title>
-        <link>https://speakerdeck.com/yoshiakiyamasaki/mysql-gis-foss4g-tokai-2023</link>
         <dc:date>2024-05-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
