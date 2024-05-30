@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模言語モデルの開発 (Naoaki Okazaki)</title>
+        <link>https://speakerdeck.com/chokkan/jsai2024-tutorial-llm</link>
+        <dc:date>2024-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ベロシティを高く保つ仕事のすすめ方 / Maintaining a High Velocity as Productivity Hacks (iwashi)</title>
         <link>https://speakerdeck.com/iwashi86/maintaining-a-high-velocity-approach</link>
         <dc:date>2024-05-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Google Analytics でサイト速度を計測する / Measure site speed with Google Analytics (forrep)</title>
         <link>https://speakerdeck.com/forrep/measure-site-speed-with-google-analytics</link>
-        <dc:date>2024-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタートアップがAWSパートナーになって得られたこと (shonansurvivors)</title>
-        <link>https://speakerdeck.com/shonansurvivors/what-the-statup-gained-by-becoming-an-aws-partner</link>
         <dc:date>2024-05-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
