@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ベロシティを高く保つ仕事のすすめ方 / Maintaining a High Velocity as Productivity Hacks (iwashi)</title>
+        <link>https://speakerdeck.com/iwashi86/maintaining-a-high-velocity-approach</link>
+        <dc:date>2024-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Datadogのmonitorを Terraform管理に爆速で 移行する (kuro)</title>
         <link>https://speakerdeck.com/kuro_kurorrr/datadog-monitor-on-terraform</link>
         <dc:date>2024-05-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>スタートアップがAWSパートナーになって得られたこと (shonansurvivors)</title>
         <link>https://speakerdeck.com/shonansurvivors/what-the-statup-gained-by-becoming-an-aws-partner</link>
         <dc:date>2024-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ビックデータにおける、RAG性能向上戦略 (大堀遼介)</title>
-        <link>https://speakerdeck.com/randoryo/hitukutetaniokeru-ragxing-neng-xiang-shang-zhan-lue</link>
-        <dc:date>2024-05-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
