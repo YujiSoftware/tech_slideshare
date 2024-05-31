@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>はじめてのアジャイル開発入門 (市谷聡啓,@papanda)</title>
+        <link>https://www.docswell.com/s/papanda/ZJL3Q1-agile-hajimete</link>
+        <dc:date>2024-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アウトプット文化による第一想起を育てる (takashi)</title>
         <link>https://speakerdeck.com/takashi_toyosaki/autopututowen-hua-niyorudi-xiang-qi-woyu-teru</link>
         <dc:date>2024-05-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Amazon RDS / Amazon Aurora パフォーマンスチューニングとモニタリング (@twingo_b)</title>
         <link>https://speakerdeck.com/twingob/amazon-aurora-pahuomansutiyuningutomonitaringu</link>
-        <dc:date>2024-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>継続性視点での開発生産性マネジメント / Managing Engineering Organization in a Strategic Way (SMS tech)</title>
-        <link>https://speakerdeck.com/sms_tech/managing-engineering-organization-in-a-strategic-way</link>
         <dc:date>2024-05-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
