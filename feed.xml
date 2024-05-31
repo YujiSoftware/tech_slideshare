@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RAGのサービスをリリースして 1年が経ちました (segavvy)</title>
+        <link>https://speakerdeck.com/segavvy/ragnosabisuworirisusite-1nian-gajing-timasita</link>
+        <dc:date>2024-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>はじめてのアジャイル開発入門 (市谷聡啓,@papanda)</title>
         <link>https://www.docswell.com/s/papanda/ZJL3Q1-agile-hajimete</link>
         <dc:date>2024-05-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Nuxt Serverと$fetchを 組み合わせたTypeScript開発体験 (Keigo Nakao)</title>
         <link>https://speakerdeck.com/kspace/nuxt-serverto-fetchwo-zu-mihe-wasetatypescriptkai-fa-ti-yan</link>
-        <dc:date>2024-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon RDS / Amazon Aurora パフォーマンスチューニングとモニタリング (@twingo_b)</title>
-        <link>https://speakerdeck.com/twingob/amazon-aurora-pahuomansutiyuningutomonitaringu</link>
         <dc:date>2024-05-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
