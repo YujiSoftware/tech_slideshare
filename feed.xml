@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Module Harmony について (Yosuke Furukawa)</title>
+        <link>https://speakerdeck.com/yosuke_furukawa/module-harmony-nituite</link>
+        <dc:date>2024-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>シビックテックによる、社会と民主主義のアップデート (Haruyuki Seki)</title>
         <link>https://speakerdeck.com/halsk/sibitukutetukuniyoru-she-hui-tomin-zhu-zhu-yi-noatupudeto</link>
         <dc:date>2024-05-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>React 19を概念から理解する (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/react-19wogai-nian-karali-jie-suru</link>
-        <dc:date>2024-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nuxt DevTools 101 (Nozomu Ikuta)</title>
-        <link>https://speakerdeck.com/nozomuikuta/nuxt-devtools-101</link>
         <dc:date>2024-05-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
