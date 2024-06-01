@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>その失敗から何を学ぶ？不確実性をマネジメントして目標達成するための心得 #webtan (Aki / @LoveIdahoBurger)</title>
+        <link>https://speakerdeck.com/aki_iinuma/sonoshi-bai-karahe-woxue-bu-bu-que-shi-xing-womanezimentositemu-biao-da-cheng-surutamenoxin-de-number-webtan</link>
+        <dc:date>2024-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>HeadlessなUIライブラリを利用する価値 (PLAID Tech)</title>
         <link>https://speakerdeck.com/plaidtech/the-value-of-using-a-headless-ui-library</link>
         <dc:date>2024-05-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ベロシティを高く保つ仕事のすすめ方 / Maintaining a High Velocity as Productivity Hacks (iwashi)</title>
         <link>https://speakerdeck.com/iwashi86/maintaining-a-high-velocity-approach</link>
-        <dc:date>2024-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Datadogのmonitorを Terraform管理に爆速で 移行する (kuro)</title>
-        <link>https://speakerdeck.com/kuro_kurorrr/datadog-monitor-on-terraform</link>
         <dc:date>2024-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
