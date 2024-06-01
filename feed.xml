@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>HeadlessなUIライブラリを利用する価値 (PLAID Tech)</title>
+        <link>https://speakerdeck.com/plaidtech/the-value-of-using-a-headless-ui-library</link>
+        <dc:date>2024-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発生産性 超入門 / development productivity introduction (igsr5)</title>
         <link>https://speakerdeck.com/igsr5/development-productivity-introduction</link>
         <dc:date>2024-05-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Datadogのmonitorを Terraform管理に爆速で 移行する (kuro)</title>
         <link>https://speakerdeck.com/kuro_kurorrr/datadog-monitor-on-terraform</link>
-        <dc:date>2024-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【OpsJAWS】踏み台サーバーって何がうれしいんだっけ？ (Hisashi Hibino)</title>
-        <link>https://speakerdeck.com/hssh2_bin/opsjaws-ta-mitai-sahatutehe-kauresiintatuke</link>
         <dc:date>2024-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
