@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ruby.wasm 最前線 2024 - wasmでMockServerをつくる #rubykaigi (lni_T)</title>
+        <link>https://speakerdeck.com/lnit/rubykaigi2024-ruby-wasm-mock-server</link>
+        <dc:date>2024-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240530_CopilotforM365実際どうなん_.pdf (ponponmikan)</title>
         <link>https://speakerdeck.com/ponponmikankan/20240530-copilotform365shi-ji-dounan</link>
         <dc:date>2024-05-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>シリーズAをリファラル採用中心に走り抜ける / leaner-referral-engineer-2024 (Takahiro Tsuchiya)</title>
         <link>https://speakerdeck.com/corocn/leaner-referral-engineer-2024</link>
-        <dc:date>2024-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデルの開発 (Naoaki Okazaki)</title>
-        <link>https://speakerdeck.com/chokkan/jsai2024-tutorial-llm</link>
         <dc:date>2024-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
