@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CyberAgent AI事業本部2024年度MLOps研修基礎編 / MLOps Basic (Satsuki Nagae)</title>
+        <link>https://speakerdeck.com/nsakki55/mlops-basic</link>
+        <dc:date>2024-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最適化超入門 (Takami Sato)</title>
         <link>https://speakerdeck.com/tkm2261/zui-shi-hua-chao-ru-men</link>
         <dc:date>2024-06-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Capacitor製のWebViewアプリからReact Native製のハイブリッドアプリへ (Yuku Kotani)</title>
         <link>https://speakerdeck.com/yukukotani/from-capacitor-to-react-native-hybrid-app</link>
-        <dc:date>2024-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンプレミスネットワークとVPCとを接続する際に考慮すべきポイントを考えてみた #自治体クラウド勉強会 (のんピ)</title>
-        <link>https://speakerdeck.com/non97/onpuremisunetutowakutovpctowojie-sok-suruji-nikao-lu-subekipointowokao-etemita-number-zi-zhi-ti-kuraudomian-qiang-hui</link>
         <dc:date>2024-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
