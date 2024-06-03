@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マルチテナント戦略における Server-Driven UIのリアーキテクチャ (Sho)</title>
+        <link>https://speakerdeck.com/shonagai/server-driven-ui-rearchitecture-in-a-multi-tenant-strategy</link>
+        <dc:date>2024-06-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Datadog APMで測定するアプリケーションパフォーマンス (Hiroyuki Shigeta)</title>
         <link>https://speakerdeck.com/runtakun/datadog-apmdece-ding-suruapurikesiyonpahuomansu</link>
         <dc:date>2024-06-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Storage-JAWS #2登壇資料：きみは偉大な先輩Cloud Volumes ONTAPを知っているか？ (ssuser935fd7)</title>
         <link>https://www.slideshare.net/slideshow/storagejaws-2cloud-volumes-ontap/264622588</link>
-        <dc:date>2024-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CyberAgent AI事業本部2024年度MLOps研修基礎編 / MLOps Basic (Satsuki Nagae)</title>
-        <link>https://speakerdeck.com/nsakki55/mlops-basic</link>
         <dc:date>2024-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
