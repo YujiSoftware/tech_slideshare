@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CyberAgent AI事業本部2024年度MLOps研修Container編 / Container for MLOps (sZma5a)</title>
+        <link>https://speakerdeck.com/szma5a/container-for-mlops</link>
+        <dc:date>2024-06-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組合せ最適化による問題解決の実践的アプローチ  (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/jsai2024_umetani</link>
         <dc:date>2024-06-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【re:Invent 2023 re:cap】OpenSearchとS3のゼロETL統合してみた (Minami Nagasawa)</title>
         <link>https://speakerdeck.com/nagamina96/re-invent-2023-re-cap-opensearchtos3nozeroetltong-he-sitemita</link>
-        <dc:date>2024-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>S3バケットを高速で削除・空にするツール「cls3」 / s3-deletion-tool-cls3 (k.goto)</title>
-        <link>https://speakerdeck.com/gotok365/s3-deletion-tool-cls3</link>
         <dc:date>2024-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
