@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組合せ最適化による問題解決の実践的アプローチ  (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/jsai2024_umetani</link>
+        <dc:date>2024-06-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソニーにおけるプロダクトマネジメント スマホアプリ事例紹介 (Shinya Masunaga)</title>
         <link>https://speakerdeck.com/shinyamasunaga/soniniokerupurodakutomanezimento-sumahoapurishi-li-shao-jie</link>
         <dc:date>2024-06-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>S3バケットを高速で削除・空にするツール「cls3」 / s3-deletion-tool-cls3 (k.goto)</title>
         <link>https://speakerdeck.com/gotok365/s3-deletion-tool-cls3</link>
-        <dc:date>2024-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Storage LensでS3を大掃除しよう (Akira Sato)</title>
-        <link>https://speakerdeck.com/a22sato/storage-lensdes3woda-sao-chu-siyou</link>
         <dc:date>2024-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
