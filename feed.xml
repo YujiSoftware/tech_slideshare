@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>タスクマネジメント_基本編 (yoh nakamura,@yohhatu)</title>
+        <link>https://www.docswell.com/s/yohhatu/Z1JDLL-2024-05-20-081259</link>
+        <dc:date>2024-06-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScriptを活用したi18n対応 (minako-ph)</title>
         <link>https://speakerdeck.com/minako__ph/typescriptwohuo-yong-sitai18ndui-ying</link>
         <dc:date>2024-06-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SRE活動を促進させるドキュメント技術 〜ドキュメントレビューって、どうやってる?〜 (kenta_hi)</title>
         <link>https://speakerdeck.com/kenta_hi/srehuo-dong-wocu-jin-saserudokiyumentoji-shu-dokiyumentorebiyutute-douyatuteru</link>
-        <dc:date>2024-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREの仕事とは (h-nago)</title>
-        <link>https://speakerdeck.com/nago/srenoshi-shi-toha</link>
         <dc:date>2024-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
