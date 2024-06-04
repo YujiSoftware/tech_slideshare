@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScriptを活用したi18n対応 (minako-ph)</title>
+        <link>https://speakerdeck.com/minako__ph/typescriptwohuo-yong-sitai18ndui-ying</link>
+        <dc:date>2024-06-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>デザインプリンシプルのつくりかた（freee技術の日） (Rikiya Ihara / magi)</title>
         <link>https://speakerdeck.com/magi1125/dezainpurinsipurunotukurikata</link>
         <dc:date>2024-06-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SREの仕事とは (h-nago)</title>
         <link>https://speakerdeck.com/nago/srenoshi-shi-toha</link>
-        <dc:date>2024-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>小規模な会社のSREのリアル (Kaoru)</title>
-        <link>https://speakerdeck.com/okaru/shibui-gu-tehirupian-shou-nilthui-lt</link>
         <dc:date>2024-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
