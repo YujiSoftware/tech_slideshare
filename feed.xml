@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>メトリクス、ログ、トレースをうまく使い分けて可観測性を高めよう！ (masayoshi)</title>
+        <link>https://speakerdeck.com/masayoshi/metorikusu-rogu-toresuwoumakushi-ifen-keteke-guan-ce-xing-wogao-meyou</link>
+        <dc:date>2024-06-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>入門 電気通信事業者 (Kurochan)</title>
         <link>https://speakerdeck.com/kurochan/ctoa-2024-lt</link>
         <dc:date>2024-06-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エンジニア１年目のキャリアパス (putcho01)</title>
         <link>https://speakerdeck.com/putcho01/ensinia1nian-mu-nokiyariahasu</link>
-        <dc:date>2024-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SRE的観点から日常を振り返る (Naomichi Yamakita)</title>
-        <link>https://speakerdeck.com/naomichi/srede-guan-dian-karari-chang-wozhen-rifan-ru</link>
         <dc:date>2024-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
