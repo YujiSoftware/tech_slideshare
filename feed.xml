@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kubernetesで作るIaaS基盤/KubeVirt Deep Dive (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/kubevirt-deep-dive</link>
+        <dc:date>2024-06-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エレガントパズル エンジニアのマネジメントという難問にあなたはどう立ち向かうのか / Elegant Puzzle (iwashi)</title>
         <link>https://speakerdeck.com/iwashi86/elegant-puzzle-33a18089-3d8e-48b2-8ac9-fbe0a0204e52</link>
         <dc:date>2024-06-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>初めてのAPI開発のアーキテクチャ (ミカイ)</title>
         <link>https://speakerdeck.com/junmikai/chu-metenoapikai-fa-noakitekutiya</link>
-        <dc:date>2024-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>やらなきゃ損！S３利用料削減シミュレーション (浜崎春哉)</title>
-        <link>https://speakerdeck.com/0314/yaranakiyasun-s3li-yong-liao-xue-jian-simiyuresiyon</link>
         <dc:date>2024-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
