@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>#SRE論文紹介 Detection is Better Than Cure: A Cloud Incidents Perspective V. Ganatra et. al., ESEC/FSE’23 (Yuuki Tsubouchi (yuuk1))</title>
+        <link>https://speakerdeck.com/yuukit/fse23</link>
+        <dc:date>2024-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>仮説検定とP値 (Shuntaro Sato)</title>
         <link>https://speakerdeck.com/shuntaros/jia-shuo-jian-ding-topzhi</link>
         <dc:date>2024-06-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソニーにおけるプロダクトマネジメント スマホアプリ事例紹介 (Shinya Masunaga)</title>
         <link>https://speakerdeck.com/shinyamasunaga/soniniokerupurodakutomanezimento-sumahoapurishi-li-shao-jie</link>
-        <dc:date>2024-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マルチテナント戦略における Server-Driven UIのリアーキテクチャ (Sho)</title>
-        <link>https://speakerdeck.com/shonagai/server-driven-ui-rearchitecture-in-a-multi-tenant-strategy</link>
         <dc:date>2024-06-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
