@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS Storage Gatewayで始めるセキュアなデータ連携 / Secure data linkage with AWS Storage Gateway (Yuji Oshima)</title>
+        <link>https://speakerdeck.com/yuj1osm/secure-data-linkage-with-aws-storage-gateway</link>
+        <dc:date>2024-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>#SRE論文紹介 Detection is Better Than Cure: A Cloud Incidents Perspective V. Ganatra et. al., ESEC/FSE’23 (Yuuki Tsubouchi (yuuk1))</title>
         <link>https://speakerdeck.com/yuukit/fse23</link>
         <dc:date>2024-06-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>組合せ最適化による問題解決の実践的アプローチ  (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/jsai2024_umetani</link>
-        <dc:date>2024-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソニーにおけるプロダクトマネジメント スマホアプリ事例紹介 (Shinya Masunaga)</title>
-        <link>https://speakerdeck.com/shinyamasunaga/soniniokerupurodakutomanezimento-sumahoapurishi-li-shao-jie</link>
         <dc:date>2024-06-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
