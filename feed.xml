@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>仮説検定とP値 (Shuntaro Sato)</title>
+        <link>https://speakerdeck.com/shuntaros/jia-shuo-jian-ding-topzhi</link>
+        <dc:date>2024-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>検索失敗率のモニタリングから改善まで - Search Engineering Tech Talk 2024 Spring (Jungwon Choi)</title>
         <link>https://speakerdeck.com/magicpieh28/jian-suo-shi-bai-lu-nomonitaringukaragai-shan-made-search-engineering-tech-talk-2024-spring</link>
         <dc:date>2024-06-05T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>マルチテナント戦略における Server-Driven UIのリアーキテクチャ (Sho)</title>
         <link>https://speakerdeck.com/shonagai/server-driven-ui-rearchitecture-in-a-multi-tenant-strategy</link>
         <dc:date>2024-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Datadog APMで測定するアプリケーションパフォーマンス (Hiroyuki Shigeta)</title>
-        <link>https://speakerdeck.com/runtakun/datadog-apmdece-ding-suruapurikesiyonpahuomansu</link>
-        <dc:date>2024-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
