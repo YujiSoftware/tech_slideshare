@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>手を動かさないインシデント対応〜自動化で迅速・正確な運用を目指す〜 (Kazuto Kusama)</title>
+        <link>https://speakerdeck.com/jacopen/shou-wodong-kasanaiinsidentodui-ying-zi-dong-hua-dexun-su-zheng-que-nayun-yong-womu-zhi-su</link>
+        <dc:date>2024-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS Storage Gatewayで始めるセキュアなデータ連携 / Secure data linkage with AWS Storage Gateway (Yuji Oshima)</title>
         <link>https://speakerdeck.com/yuj1osm/secure-data-linkage-with-aws-storage-gateway</link>
         <dc:date>2024-06-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CyberAgent AI事業本部2024年度MLOps研修Container編 / Container for MLOps (sZma5a)</title>
         <link>https://speakerdeck.com/szma5a/container-for-mlops</link>
-        <dc:date>2024-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組合せ最適化による問題解決の実践的アプローチ  (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/jsai2024_umetani</link>
         <dc:date>2024-06-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
