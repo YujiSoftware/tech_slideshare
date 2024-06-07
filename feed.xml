@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Exploring the OpenTelemetry Client Library for Go (Akari)</title>
+        <link>https://speakerdeck.com/akarin/exploring-the-opentelemetry-client-library-for-go</link>
+        <dc:date>2024-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Reality Capture / Reality Scan ではじめる フォトグラメトリ | EGC2024 (Syuya Mukai) (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
         <link>https://www.docswell.com/s/EpicGamesJapan/51JD22-EGC2024_realitycapture_realityscan</link>
         <dc:date>2024-06-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>可観測性ガイダンス (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/ke-guan-ce-xing-kaitansu</link>
-        <dc:date>2024-06-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メトリクス、ログ、トレースをうまく使い分けて可観測性を高めよう！ (masayoshi)</title>
-        <link>https://speakerdeck.com/masayoshi/metorikusu-rogu-toresuwoumakushi-ifen-keteke-guan-ce-xing-wogao-meyou</link>
         <dc:date>2024-06-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
