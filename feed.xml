@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>続) カンファレンスバッジを TinyGo で作ろう</title>
+        <link>https://docs.google.com/presentation/d/1qwqCilooO80Vj2dBd2H3dLeH8vIQCYe1JkGYVPheoMs/preview</link>
+        <dc:date>2024-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goでテストをしやすくするためにやったこと (KazukiHayase)</title>
+        <link>https://speakerdeck.com/kazukihayase/gotetesutowosiyasukusurutameniyatutakoto</link>
+        <dc:date>2024-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>multipart/form-dataの省メモリパース / Go Conference 2024 Pre Party #gocon24_preparty (mazrean)</title>
+        <link>https://speakerdeck.com/mazrean/go-conference-2024-pre-party</link>
+        <dc:date>2024-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LangGraphを用いたマルチエージェント (Yuto Urushima)</title>
         <link>https://speakerdeck.com/yuto2000/langgraphwoyong-itamarutieziento</link>
         <dc:date>2024-06-06T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>#SRE論文紹介 Detection is Better Than Cure: A Cloud Incidents Perspective V. Ganatra et. al., ESEC/FSE’23 (Yuuki Tsubouchi (yuuk1))</title>
         <link>https://speakerdeck.com/yuukit/fse23</link>
         <dc:date>2024-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仮説検定とP値 (Shuntaro Sato)</title>
-        <link>https://speakerdeck.com/shuntaros/jia-shuo-jian-ding-topzhi</link>
-        <dc:date>2024-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>検索失敗率のモニタリングから改善まで - Search Engineering Tech Talk 2024 Spring (Jungwon Choi)</title>
-        <link>https://speakerdeck.com/magicpieh28/jian-suo-shi-bai-lu-nomonitaringukaragai-shan-made-search-engineering-tech-talk-2024-spring</link>
-        <dc:date>2024-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesで作るIaaS基盤/KubeVirt Deep Dive (oracle4engineer)</title>
-        <link>https://speakerdeck.com/oracle4engineer/kubevirt-deep-dive</link>
-        <dc:date>2024-06-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
