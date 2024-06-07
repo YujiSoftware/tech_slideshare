@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>クラウドを『作る』ってどういうこと？ (Kazuto Kusama)</title>
+        <link>https://speakerdeck.com/jacopen/kuraudowo-zuo-ru-tutedouiukoto</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メディア文化学 (in the blue shirt)</title>
+        <link>https://speakerdeck.com/arimuri/medeiawen-hua-xue</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コード生成を活用したgqlgen＋dataloaderの実装パターン解説 (syumai)</title>
+        <link>https://speakerdeck.com/syumai/kotosheng-cheng-wohuo-yong-sitagqlgen-plus-dataloadernoshi-zhuang-hatanjie-shuo</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>続) カンファレンスバッジを TinyGo で作ろう</title>
         <link>https://docs.google.com/presentation/d/1qwqCilooO80Vj2dBd2H3dLeH8vIQCYe1JkGYVPheoMs/preview</link>
         <dc:date>2024-06-06T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>OpenAIが推奨する ChatGPTを最大限活用するためのプロンプトのコツ.pdf (central18)</title>
         <link>https://www.slideshare.net/slideshow/openai-chatgptpdf/260306278</link>
-        <dc:date>2024-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>手を動かさないインシデント対応〜自動化で迅速・正確な運用を目指す〜 (Kazuto Kusama)</title>
-        <link>https://speakerdeck.com/jacopen/shou-wodong-kasanaiinsidentodui-ying-zi-dong-hua-dexun-su-zheng-que-nayun-yong-womu-zhi-su</link>
-        <dc:date>2024-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Storage Gatewayで始めるセキュアなデータ連携 / Secure data linkage with AWS Storage Gateway (Yuji Oshima)</title>
-        <link>https://speakerdeck.com/yuj1osm/secure-data-linkage-with-aws-storage-gateway</link>
-        <dc:date>2024-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>#SRE論文紹介 Detection is Better Than Cure: A Cloud Incidents Perspective V. Ganatra et. al., ESEC/FSE’23 (Yuuki Tsubouchi (yuuk1))</title>
-        <link>https://speakerdeck.com/yuukit/fse23</link>
         <dc:date>2024-06-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
