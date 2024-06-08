@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Dive into gomock / Go Conference 2024 (utagawa kiki)</title>
+        <link>https://speakerdeck.com/utgwkk/go-conference-2024</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cleanup handling in Go / Go Conference 2024 (Ken’ichiro Oyama)</title>
+        <link>https://speakerdeck.com/k1low/go-conference-2024</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オブザーバビリティ勉強会で模擬障害対応をやってみた (レバレジーズTechアカウント)</title>
         <link>https://speakerdeck.com/leveragestech/obuzababiriteimian-qiang-hui-demo-ni-zhang-hai-dui-ying-woyatutemita</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>不要な DNS リソースレコードは消そう / Delete unused DNS records (wa6sn)</title>
         <link>https://speakerdeck.com/wa6sn/delete-unused-dns-records</link>
         <dc:date>2024-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ダッシュボードを使ってもらうには、 現場へのヒアリングが重要だと 改めて気づいた話 (Higuchi kokoro)</title>
-        <link>https://speakerdeck.com/zerebom/datusiyubodowoshi-tutemorauniha-xian-chang-henohiaringugazhong-yao-dato-gai-meteqi-duitahua</link>
-        <dc:date>2024-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>When Walking like SREs (maru)</title>
-        <link>https://speakerdeck.com/maruloop/when-walking-like-sres</link>
-        <dc:date>2024-06-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
