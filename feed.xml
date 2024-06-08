@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オブザーバビリティ勉強会で模擬障害対応をやってみた (レバレジーズTechアカウント)</title>
+        <link>https://speakerdeck.com/leveragestech/obuzababiriteimian-qiang-hui-demo-ni-zhang-hai-dui-ying-woyatutemita</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go1.21から導入された Go Toolchainの仕組みをまるっと解説 (Takahito Yamatoya)</title>
+        <link>https://speakerdeck.com/yamatoya/go1-dot-21karadao-ru-sareta-go-toolchainnoshi-zu-miwomarututojie-shuo</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自分の学習データで画像生成AIを使ってみる話 (moyashi)</title>
+        <link>https://speakerdeck.com/moyashi/zi-fen-noxue-xi-detadehua-xiang-sheng-cheng-aiwoshi-tutemiruhua</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>xoのコード生成でgqlgenのDataLoader実装を楽にした話 (syumai)</title>
+        <link>https://speakerdeck.com/syumai/xonokotosheng-cheng-tegqlgennodataloadershi-zhuang-wole-nisitahua</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RAGの評価フレームワーク「Ragas」をさくっとキャッチアップ  (os1ma)</title>
         <link>https://speakerdeck.com/os1ma/ragnoping-jia-huremuwaku-ragas-wosakututokiyatutiatupu</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>When Walking like SREs (maru)</title>
         <link>https://speakerdeck.com/maruloop/when-walking-like-sres</link>
-        <dc:date>2024-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゆるっと話すSLI/SLOを設定してよかったこと出来ていないこと (maaaato)</title>
-        <link>https://speakerdeck.com/maaaato/slowoshe-ding-siteyokatutakotochu-lai-teinaikoto</link>
-        <dc:date>2024-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SLO Docsのすゝめ (ryuichi1208)</title>
-        <link>https://speakerdeck.com/ryuichi1208/slo-docsnosu-me</link>
-        <dc:date>2024-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024年度_サイバーエージェント_新卒研修「データベースの歴史」.pptx (yassun7010)</title>
-        <link>https://www.slideshare.net/slideshow/2024-_-_-pptx-5663/269395383</link>
-        <dc:date>2024-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自然言語とVision&amp;Language (Kohei Uehara)</title>
-        <link>https://speakerdeck.com/kuehara/zi-ran-yan-yu-tovision-and-language</link>
         <dc:date>2024-06-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
