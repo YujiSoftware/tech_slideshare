@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>試してわかるGo ModulesとMinimal Version Selection</title>
+        <link>https://docs.google.com/presentation/d/1X5dXShWTmjhQbXH7vXHnTLJ5Tca7QhU4Pq1YugGiIHs/preview</link>
+        <dc:date>2024-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自動生成されたhttpエンドポイントごとにカスタムミドルウェアを挿入したい話 (uhzz)</title>
         <link>https://speakerdeck.com/uhzz/zi-dong-sheng-cheng-saretahttpendopointogotonikasutamumidoruueawocha-ru-sitaihua</link>
         <dc:date>2024-06-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>オブザーバビリティ勉強会で模擬障害対応をやってみた (レバレジーズTechアカウント)</title>
         <link>https://speakerdeck.com/leveragestech/obuzababiriteimian-qiang-hui-demo-ni-zhang-hai-dui-ying-woyatutemita</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go1.21から導入された Go Toolchainの仕組みをまるっと解説 (Takahito Yamatoya)</title>
-        <link>https://speakerdeck.com/yamatoya/go1-dot-21karadao-ru-sareta-go-toolchainnoshi-zu-miwomarututojie-shuo</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
