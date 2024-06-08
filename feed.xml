@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Custom logging with slog Making Logging Fun Again! (Miki.M)</title>
+        <link>https://speakerdeck.com/masumomo/custom-logging-with-slog-making-logging-fun-again</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バイナリを眺めてわかる gob encoding の仕様と性質、適切な使い方 / understanding gob encoding (convto)</title>
+        <link>https://speakerdeck.com/convto/understanding-gob-encoding</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Mapのパフォーマンス向上のために検討されているSwissTableを理解する/Understanding the SwissTable being considered to improve Map performance (natsumi)</title>
         <link>https://speakerdeck.com/replu/understanding-the-swisstable-being-considered-to-improve-map-performance</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Exploring the OpenTelemetry Client Library for Go (Akari)</title>
         <link>https://speakerdeck.com/akarin/exploring-the-opentelemetry-client-library-for-go</link>
-        <dc:date>2024-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Reality Capture / Reality Scan ではじめる フォトグラメトリ | EGC2024 (Syuya Mukai) (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
-        <link>https://www.docswell.com/s/EpicGamesJapan/51JD22-EGC2024_realitycapture_realityscan</link>
-        <dc:date>2024-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTでデータ分析、生成AIで「文系社員」が「分析官」に (OUTPUT CAMP)</title>
-        <link>https://speakerdeck.com/outputcamp/output-camp</link>
         <dc:date>2024-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
