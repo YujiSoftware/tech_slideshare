@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Unified Diff 形式の差分から Go AST を構築して feature flag を自動計装する (Shota Iwami)</title>
+        <link>https://speakerdeck.com/biwashi/go-conference-2024-automating-feature-flag-instrumentation-by-constructing-go-ast-from-unified-diff-format</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Dive into gomock / Go Conference 2024 (utagawa kiki)</title>
         <link>https://speakerdeck.com/utgwkk/go-conference-2024</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>時系列基盤モデルの世界 / The World Of Time Series Foundation Models (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/the-world-of-time-series-foundation-models</link>
-        <dc:date>2024-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>不要な DNS リソースレコードは消そう / Delete unused DNS records (wa6sn)</title>
-        <link>https://speakerdeck.com/wa6sn/delete-unused-dns-records</link>
         <dc:date>2024-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
