@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>record4s --- Extensible Records for Scala 3, and Domain Modeling with Structural Types (INA Lintaro)</title>
+        <link>https://speakerdeck.com/tarao/record4s-extensible-records-for-scala-3-and-domain-modeling-with-structural-types</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Custom logging with slog Making Logging Fun Again! (Miki.M)</title>
         <link>https://speakerdeck.com/masumomo/custom-logging-with-slog-making-logging-fun-again</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Grokking Simplicity探訪 (Yoshitaka Kawashima,@kawasima)</title>
         <link>https://www.slideshare.net/slideshow/grokking-simplicity/269550070</link>
-        <dc:date>2024-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Exploring the OpenTelemetry Client Library for Go (Akari)</title>
-        <link>https://speakerdeck.com/akarin/exploring-the-opentelemetry-client-library-for-go</link>
         <dc:date>2024-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
