@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>go get で考慮している ファイルシステムの挙動について (shinnosuke)</title>
+        <link>https://speakerdeck.com/shinnosuke_kishida/go-get-dekao-lu-siteiru-huairusisutemunoju-dong-nituite</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Table-driven testing に縛られない Goのテストパターン (abekoh)</title>
+        <link>https://speakerdeck.com/abekoh/table-driven-testing-nifu-rarenai-gonotesutopatan</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>deadcode超解剖 (kuro)</title>
+        <link>https://speakerdeck.com/kuro_kurorrr/deep-dive-into-deadcode</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>詳解 "Fixing For Loops in Go 1.22" 自作linterをgolangci-lintへコントリビュートした話 (QualiArts)</title>
         <link>https://speakerdeck.com/qualiarts/xiang-jie-fixing-for-loops-in-go-1-dot-22-zi-zuo-linterwogolangci-linthekontoribiyutositahua</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>続) カンファレンスバッジを TinyGo で作ろう</title>
         <link>https://docs.google.com/presentation/d/1qwqCilooO80Vj2dBd2H3dLeH8vIQCYe1JkGYVPheoMs/preview</link>
-        <dc:date>2024-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goでテストをしやすくするためにやったこと (KazukiHayase)</title>
-        <link>https://speakerdeck.com/kazukihayase/gotetesutowosiyasukusurutameniyatutakoto</link>
-        <dc:date>2024-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>multipart/form-dataの省メモリパース / Go Conference 2024 Pre Party #gocon24_preparty (mazrean)</title>
-        <link>https://speakerdeck.com/mazrean/go-conference-2024-pre-party</link>
-        <dc:date>2024-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LangGraphを用いたマルチエージェント (Yuto Urushima)</title>
-        <link>https://speakerdeck.com/yuto2000/langgraphwoyong-itamarutieziento</link>
         <dc:date>2024-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
