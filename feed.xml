@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Mapのパフォーマンス向上のために検討されているSwissTableを理解する/Understanding the SwissTable being considered to improve Map performance (natsumi)</title>
+        <link>https://speakerdeck.com/replu/understanding-the-swisstable-being-considered-to-improve-map-performance</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Unified Diff 形式の差分から Go AST を構築して feature flag を自動計装する (Shota Iwami)</title>
         <link>https://speakerdeck.com/biwashi/go-conference-2024-automating-feature-flag-instrumentation-by-constructing-go-ast-from-unified-diff-format</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ChatGPTでデータ分析、生成AIで「文系社員」が「分析官」に (OUTPUT CAMP)</title>
         <link>https://speakerdeck.com/outputcamp/output-camp</link>
-        <dc:date>2024-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>時系列基盤モデルの世界 / The World Of Time Series Foundation Models (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/the-world-of-time-series-foundation-models</link>
         <dc:date>2024-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
