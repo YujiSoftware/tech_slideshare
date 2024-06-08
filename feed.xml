@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自動生成されたhttpエンドポイントごとにカスタムミドルウェアを挿入したい話 (uhzz)</title>
+        <link>https://speakerdeck.com/uhzz/zi-dong-sheng-cheng-saretahttpendopointogotonikasutamumidoruueawocha-ru-sitaihua</link>
+        <dc:date>2024-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goバックエンド標準化プロジェクトの取り組み (QualiArts)</title>
+        <link>https://speakerdeck.com/qualiarts/gobatukuendo-biao-zhun-hua-puroziekutono-qu-rizu-mi</link>
+        <dc:date>2024-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Introduction to safe programming with numeric library / 数値ライブラリで始める安全なプログラミング (Kushiro Taichi)</title>
+        <link>https://speakerdeck.com/boykush/introduction-to-safe-programming-with-numeric-library</link>
+        <dc:date>2024-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DELISH KITCHENにおけるマスタデータキャッシュ戦略とその歴史的変遷 (Akira Uchihara)</title>
         <link>https://speakerdeck.com/uchihara/delish-kitchenniokerumasutadetakiyatusiyuzhan-lue-tosonoli-shi-de-bian-qian</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Go1.21から導入された Go Toolchainの仕組みをまるっと解説 (Takahito Yamatoya)</title>
         <link>https://speakerdeck.com/yamatoya/go1-dot-21karadao-ru-sareta-go-toolchainnoshi-zu-miwomarututojie-shuo</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自分の学習データで画像生成AIを使ってみる話 (moyashi)</title>
-        <link>https://speakerdeck.com/moyashi/zi-fen-noxue-xi-detadehua-xiang-sheng-cheng-aiwoshi-tutemiruhua</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>xoのコード生成でgqlgenのDataLoader実装を楽にした話 (syumai)</title>
-        <link>https://speakerdeck.com/syumai/xonokotosheng-cheng-tegqlgennodataloadershi-zhuang-wole-nisitahua</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RAGの評価フレームワーク「Ragas」をさくっとキャッチアップ  (os1ma)</title>
-        <link>https://speakerdeck.com/os1ma/ragnoping-jia-huremuwaku-ragas-wosakututokiyatutiatupu</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
