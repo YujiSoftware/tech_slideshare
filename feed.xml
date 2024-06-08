@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自作HTTPルーターから新しいServeMuxへ (bmf_san)</title>
+        <link>https://speakerdeck.com/bmf_san/zi-zuo-httprutakaraxin-siiservemuxhe</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>go get で考慮している ファイルシステムの挙動について (shinnosuke)</title>
         <link>https://speakerdeck.com/shinnosuke_kishida/go-get-dekao-lu-siteiru-huairusisutemunoju-dong-nituite</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>コード生成を活用したgqlgen＋dataloaderの実装パターン解説 (syumai)</title>
         <link>https://speakerdeck.com/syumai/kotosheng-cheng-wohuo-yong-sitagqlgen-plus-dataloadernoshi-zhuang-hatanjie-shuo</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>続) カンファレンスバッジを TinyGo で作ろう</title>
-        <link>https://docs.google.com/presentation/d/1qwqCilooO80Vj2dBd2H3dLeH8vIQCYe1JkGYVPheoMs/preview</link>
-        <dc:date>2024-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
