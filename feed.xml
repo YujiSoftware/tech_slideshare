@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>詳解 "Fixing For Loops in Go 1.22" 自作linterをgolangci-lintへコントリビュートした話 (QualiArts)</title>
+        <link>https://speakerdeck.com/qualiarts/xiang-jie-fixing-for-loops-in-go-1-dot-22-zi-zuo-linterwogolangci-linthekontoribiyutositahua</link>
+        <dc:date>2024-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>record4s --- Extensible Records for Scala 3, and Domain Modeling with Structural Types (INA Lintaro)</title>
         <link>https://speakerdeck.com/tarao/record4s-extensible-records-for-scala-3-and-domain-modeling-with-structural-types</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LangGraphを用いたマルチエージェント (Yuto Urushima)</title>
         <link>https://speakerdeck.com/yuto2000/langgraphwoyong-itamarutieziento</link>
-        <dc:date>2024-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Grokking Simplicity探訪 (Yoshitaka Kawashima,@kawasima)</title>
-        <link>https://www.slideshare.net/slideshow/grokking-simplicity/269550070</link>
         <dc:date>2024-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
