@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>actionlint の Linter 設計 (Linda_pp)</title>
+        <link>https://speakerdeck.com/rhysd/actionlint-no-linter-she-ji</link>
+        <dc:date>2024-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>試してわかるGo ModulesとMinimal Version Selection</title>
         <link>https://docs.google.com/presentation/d/1X5dXShWTmjhQbXH7vXHnTLJ5Tca7QhU4Pq1YugGiIHs/preview</link>
         <dc:date>2024-06-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Cleanup handling in Go / Go Conference 2024 (Ken’ichiro Oyama)</title>
         <link>https://speakerdeck.com/k1low/go-conference-2024</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オブザーバビリティ勉強会で模擬障害対応をやってみた (レバレジーズTechアカウント)</title>
-        <link>https://speakerdeck.com/leveragestech/obuzababiriteimian-qiang-hui-demo-ni-zhang-hai-dui-ying-woyatutemita</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
