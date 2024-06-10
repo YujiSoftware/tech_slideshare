@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>5分で作るモックサーバー (satsukies)</title>
+        <link>https://speakerdeck.com/satsukies/create-mock-server-in-5min</link>
+        <dc:date>2024-06-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>E2Eテストワークフローを高速化・安定化させる取り組み (Ryo Mimura,@r4mimu)</title>
+        <link>https://www.docswell.com/s/r4mimu/ZXYR73-2024-05-16-184345</link>
+        <dc:date>2024-06-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>講習会で利用したLT　２月分</title>
         <link>https://docs.google.com/presentation/d/1d_yYA2BBGDwWqAZW2-ZrB31liL2Dai0m3NydGAoUA0I/preview</link>
         <dc:date>2024-06-09T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Custom logging with slog Making Logging Fun Again! (Miki.M)</title>
         <link>https://speakerdeck.com/masumomo/custom-logging-with-slog-making-logging-fun-again</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バイナリを眺めてわかる gob encoding の仕様と性質、適切な使い方 / understanding gob encoding (convto)</title>
-        <link>https://speakerdeck.com/convto/understanding-gob-encoding</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Mapのパフォーマンス向上のために検討されているSwissTableを理解する/Understanding the SwissTable being considered to improve Map performance (natsumi)</title>
-        <link>https://speakerdeck.com/replu/understanding-the-swisstable-being-considered-to-improve-map-performance</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
