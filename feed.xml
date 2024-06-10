@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>講習会で利用したLT　２月分</title>
+        <link>https://docs.google.com/presentation/d/1d_yYA2BBGDwWqAZW2-ZrB31liL2Dai0m3NydGAoUA0I/preview</link>
+        <dc:date>2024-06-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>lintnet - General purpose linter powered by Jsonnet (Shunsuke Suzuki)</title>
         <link>https://speakerdeck.com/szksh/lintnet-general-purpose-linter-powered-by-jsonnet</link>
         <dc:date>2024-06-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Mapのパフォーマンス向上のために検討されているSwissTableを理解する/Understanding the SwissTable being considered to improve Map performance (natsumi)</title>
         <link>https://speakerdeck.com/replu/understanding-the-swisstable-being-considered-to-improve-map-performance</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unified Diff 形式の差分から Go AST を構築して feature flag を自動計装する (Shota Iwami)</title>
-        <link>https://speakerdeck.com/biwashi/go-conference-2024-automating-feature-flag-instrumentation-by-constructing-go-ast-from-unified-diff-format</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
