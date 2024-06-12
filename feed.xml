@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>障害対応の人間的側面 (katsuhisa_)</title>
+        <link>https://speakerdeck.com/katsuhisa91/the-human-aspects-of-incident-response</link>
+        <dc:date>2024-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>5分で作るモックサーバー (satsukies)</title>
         <link>https://speakerdeck.com/satsukies/create-mock-server-in-5min</link>
         <dc:date>2024-06-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>record4s --- Extensible Records for Scala 3, and Domain Modeling with Structural Types (INA Lintaro)</title>
         <link>https://speakerdeck.com/tarao/record4s-extensible-records-for-scala-3-and-domain-modeling-with-structural-types</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Custom logging with slog Making Logging Fun Again! (Miki.M)</title>
-        <link>https://speakerdeck.com/masumomo/custom-logging-with-slog-making-logging-fun-again</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
