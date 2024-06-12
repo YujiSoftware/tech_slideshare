@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>platform engineering meetup wrapup (SatakeYusuke)</title>
+        <link>https://speakerdeck.com/satakeyusuke19920527/platform-engineering-meetup-wrapup</link>
+        <dc:date>2024-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title> NAB Show 2024 動画技術関連レポート/ NAB Show 2024 Report (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/nab-show-2024-report</link>
         <dc:date>2024-06-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>deadcode超解剖 (kuro)</title>
         <link>https://speakerdeck.com/kuro_kurorrr/deep-dive-into-deadcode</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>詳解 "Fixing For Loops in Go 1.22" 自作linterをgolangci-lintへコントリビュートした話 (QualiArts)</title>
-        <link>https://speakerdeck.com/qualiarts/xiang-jie-fixing-for-loops-in-go-1-dot-22-zi-zuo-linterwogolangci-linthekontoribiyutositahua</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
