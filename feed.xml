@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>You may not need XXX in Node.js (Masashi Hirano)</title>
+        <link>https://speakerdeck.com/masashi/you-may-not-need-xxx-in-nodejs</link>
+        <dc:date>2024-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>platform engineering meetup wrapup (SatakeYusuke)</title>
         <link>https://speakerdeck.com/satakeyusuke19920527/platform-engineering-meetup-wrapup</link>
         <dc:date>2024-06-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Table-driven testing に縛られない Goのテストパターン (abekoh)</title>
         <link>https://speakerdeck.com/abekoh/table-driven-testing-nifu-rarenai-gonotesutopatan</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>deadcode超解剖 (kuro)</title>
-        <link>https://speakerdeck.com/kuro_kurorrr/deep-dive-into-deadcode</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
