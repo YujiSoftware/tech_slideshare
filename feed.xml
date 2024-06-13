@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloudflare Workersで構築する非同期ジョブシステム (AijiUejima)</title>
+        <link>https://speakerdeck.com/aiji42/cloudflare-workersdegou-zhu-surufei-tong-qi-ziyobusisutemu</link>
+        <dc:date>2024-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自動テストは何の役に立つのか そして役に立たないのか (Nokogiri)</title>
         <link>https://speakerdeck.com/undefined_name/zi-dong-tesutohahe-noyi-nili-tunoka-sositeyi-nili-tanainoka</link>
         <dc:date>2024-06-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GoのLanguage Server Protocol実装、 「gopls」の自動補完の仕組みを学ぶ (Shoki Hata)</title>
         <link>https://speakerdeck.com/shohata/gonolanguage-server-protocolshi-zhuang-gopls-nozi-dong-bu-wan-noshi-zu-miwoxue-bu</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自作HTTPルーターから新しいServeMuxへ (bmf_san)</title>
-        <link>https://speakerdeck.com/bmf_san/zi-zuo-httprutakaraxin-siiservemuxhe</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
