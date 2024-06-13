@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最速で価値を届けるUXリサーチ (出口 裕貴)</title>
+        <link>https://speakerdeck.com/degudegu2510/zui-su-dejia-zhi-wojie-keruuxrisati</link>
+        <dc:date>2024-06-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SSII2024 [SS1]  拡散モデルの今　〜 2024年の研究動向 〜 (画像センシングシンポジウム)</title>
+        <link>https://speakerdeck.com/ssii/ssii2024-ss1-shing</link>
+        <dc:date>2024-06-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SSM Inventory を使って便利に EC2 棚卸し（ハマりどころを添えて） (MasahiroKawahara)</title>
+        <link>https://speakerdeck.com/masahirokawahara/ssm-inventory-woshi-tutebian-li-ni-ec2-peng-xie-si-hamaridokorowotian-ete</link>
+        <dc:date>2024-06-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ABEMA 画像配信基盤における Cloudflare Workers の活用 (Shohei Ueda)</title>
+        <link>https://speakerdeck.com/peaceiris/abema-cloudflare-workers-413d6a0c-d2b0-4555-87da-2de14214ec9f</link>
+        <dc:date>2024-06-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>三次元再構成（東京大学大学院 情報理工学系研究科『知能情報論』） (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/20240613-utokyo-intelligent-informatics</link>
         <dc:date>2024-06-12T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>lintnet - General purpose linter powered by Jsonnet (Shunsuke Suzuki)</title>
         <link>https://speakerdeck.com/szksh/lintnet-general-purpose-linter-powered-by-jsonnet</link>
         <dc:date>2024-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>reviewdog を飼った コードレビュー支援体験 とその汎用的な実現方法</title>
-        <link>https://docs.google.com/presentation/d/1PB3TWZn1SjWFAvxlX5_LrarxKY5pJFaEKTr-J1TiNYo/preview</link>
-        <dc:date>2024-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>actionlint の Linter 設計 (Linda_pp)</title>
-        <link>https://speakerdeck.com/rhysd/actionlint-no-linter-she-ji</link>
-        <dc:date>2024-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>試してわかるGo ModulesとMinimal Version Selection</title>
-        <link>https://docs.google.com/presentation/d/1X5dXShWTmjhQbXH7vXHnTLJ5Tca7QhU4Pq1YugGiIHs/preview</link>
-        <dc:date>2024-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自動生成されたhttpエンドポイントごとにカスタムミドルウェアを挿入したい話 (uhzz)</title>
-        <link>https://speakerdeck.com/uhzz/zi-dong-sheng-cheng-saretahttpendopointogotonikasutamumidoruueawocha-ru-sitaihua</link>
-        <dc:date>2024-06-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
