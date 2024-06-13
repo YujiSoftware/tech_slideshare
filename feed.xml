@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>三次元再構成（東京大学大学院 情報理工学系研究科『知能情報論』） (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/20240613-utokyo-intelligent-informatics</link>
+        <dc:date>2024-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Raftとは？ 仕組みから考える得意なこと苦手なこと/What is Raft? Strengths and Weaknesses Based on Its Mechanism (bootjp / ぶーと)</title>
         <link>https://speakerdeck.com/bootjp/what-is-raft-strengths-and-weaknesses-based-on-its-mechanism</link>
         <dc:date>2024-06-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自動生成されたhttpエンドポイントごとにカスタムミドルウェアを挿入したい話 (uhzz)</title>
         <link>https://speakerdeck.com/uhzz/zi-dong-sheng-cheng-saretahttpendopointogotonikasutamumidoruueawocha-ru-sitaihua</link>
-        <dc:date>2024-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goバックエンド標準化プロジェクトの取り組み (QualiArts)</title>
-        <link>https://speakerdeck.com/qualiarts/gobatukuendo-biao-zhun-hua-puroziekutono-qu-rizu-mi</link>
         <dc:date>2024-06-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
