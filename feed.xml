@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIの活用方法 - 2024年現在、 結局どのように使えばいいのだろうか？ / How to use Generative AI in 2024 (NTT Communications)</title>
+        <link>https://speakerdeck.com/nttcom/how-to-use-generative-ai-in-2024</link>
+        <dc:date>2024-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SSII2024 [SS2] 最適輸送の基礎から最近の動向まで (画像センシングシンポジウム)</title>
         <link>https://speakerdeck.com/ssii/ssii2024-ss2-ryomasato</link>
         <dc:date>2024-06-12T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Introduction to safe programming with numeric library / 数値ライブラリで始める安全なプログラミング (Kushiro Taichi)</title>
         <link>https://speakerdeck.com/boykush/introduction-to-safe-programming-with-numeric-library</link>
         <dc:date>2024-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DELISH KITCHENにおけるマスタデータキャッシュ戦略とその歴史的変遷 (Akira Uchihara)</title>
-        <link>https://speakerdeck.com/uchihara/delish-kitchenniokerumasutadetakiyatusiyuzhan-lue-tosonoli-shi-de-bian-qian</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
