@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自動テストは何の役に立つのか そして役に立たないのか (Nokogiri)</title>
+        <link>https://speakerdeck.com/undefined_name/zi-dong-tesutohahe-noyi-nili-tunoka-sositeyi-nili-tanainoka</link>
+        <dc:date>2024-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DockertestとLocalStackを使って 外部サービスに依存した多要素認証の 動作確認・テストをした話 / A story about using Dockertest and LocalStack to check and test the operation of multi-factor authentication that depends on external services (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/a-story-about-using-dockertest-and-localstack-to-check-and-test-the-operation-of-multi-factor-authentication-that-depends-on-external-services</link>
         <dc:date>2024-06-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自作HTTPルーターから新しいServeMuxへ (bmf_san)</title>
         <link>https://speakerdeck.com/bmf_san/zi-zuo-httprutakaraxin-siiservemuxhe</link>
-        <dc:date>2024-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>go get で考慮している ファイルシステムの挙動について (shinnosuke)</title>
-        <link>https://speakerdeck.com/shinnosuke_kishida/go-get-dekao-lu-siteiru-huairusisutemunoju-dong-nituite</link>
         <dc:date>2024-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
