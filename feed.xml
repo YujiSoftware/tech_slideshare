@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「脆弱性」「脅威」「リスク」の再整理 (はせがわようすけ,@hasegawayosuke)</title>
+        <link>https://www.docswell.com/s/hasegawa/ZW19QR-threatmodeling</link>
+        <dc:date>2024-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コンポーネント設計って何だろう (yonekubo@テスト駆動開発が好きなアーキテクト,@tyonekubo)</title>
         <link>https://www.docswell.com/s/tyonekubo/K24XP9-component-design</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自動テストは何の役に立つのか そして役に立たないのか (Nokogiri)</title>
         <link>https://speakerdeck.com/undefined_name/zi-dong-tesutohahe-noyi-nili-tunoka-sositeyi-nili-tanainoka</link>
-        <dc:date>2024-06-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DockertestとLocalStackを使って 外部サービスに依存した多要素認証の 動作確認・テストをした話 / A story about using Dockertest and LocalStack to check and test the operation of multi-factor authentication that depends on external services (株式会社カミナシ)</title>
-        <link>https://speakerdeck.com/kaminashi/a-story-about-using-dockertest-and-localstack-to-check-and-test-the-operation-of-multi-factor-authentication-that-depends-on-external-services</link>
         <dc:date>2024-06-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
