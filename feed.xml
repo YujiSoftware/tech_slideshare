@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenFeatureと自動生成を活用したフューチャーフラグの宣言的集約管理 (Shota Iwami)</title>
+        <link>https://speakerdeck.com/biwashi/cloudnative-days-summer-2024-declarative-aggregated-management-of-feature-flags-using-openfeature-and-auto-generation</link>
+        <dc:date>2024-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ロジックから状態を分離する技術/設計ナイト2024 by わいとん @ytnobody (azuma satoshi)</title>
         <link>https://www.slideshare.net/slideshow/2024-by-ytnobody/269683812</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成AIの活用方法 - 2024年現在、 結局どのように使えばいいのだろうか？ / How to use Generative AI in 2024 (NTT Communications)</title>
         <link>https://speakerdeck.com/nttcom/how-to-use-generative-ai-in-2024</link>
-        <dc:date>2024-06-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SSII2024 [SS2] 最適輸送の基礎から最近の動向まで (画像センシングシンポジウム)</title>
-        <link>https://speakerdeck.com/ssii/ssii2024-ss2-ryomasato</link>
         <dc:date>2024-06-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
