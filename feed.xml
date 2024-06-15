@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Railsでクリーンアーキテクチャを考えてきた (suzuki masayuki)</title>
+        <link>https://speakerdeck.com/suzukimar/railsdekurinakitekutiyawokao-etekita</link>
+        <dc:date>2024-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>マイクロサービス基盤にフルマネージドサービスではなくKubernetesを選択する理由 (Atsushi Tanaka)</title>
+        <link>https://speakerdeck.com/bgpat/maikurosabisuji-pan-nihurumanezidosabisudehanakukuberneteswoxuan-ze-suruli-you</link>
+        <dc:date>2024-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>定量データと定性評価を用いた技術戦略の組織的実践 / Systematic implementation of technology strategies using quantitative data and qualitative evaluation (Takeshi Kondo)</title>
+        <link>https://speakerdeck.com/chaspy/systematic-implementation-of-technology-strategies-using-quantitative-data-and-qualitative-evaluation</link>
+        <dc:date>2024-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Power Automateのデータ操作(Data Operation)について (Ver.モダンデザイナー） (MiyakeMito)</title>
         <link>https://speakerdeck.com/miyakemito/power-automatenodetacao-zuo-data-operation-nituite-ver-dot-modandezaina</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>やらない事を決めるプロダクト設計 (TwitterID：@rukiadia)</title>
         <link>https://speakerdeck.com/rukiadia/yaranaishi-wojue-meru-purodakutoshe-ji</link>
-        <dc:date>2024-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SSII2024 [OS1] 画像生成技術の発展： 過去10年の軌跡と未来への展望 (画像センシングシンポジウム)</title>
-        <link>https://speakerdeck.com/ssii/ssii2024-os1-02</link>
-        <dc:date>2024-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SSII2024 [OS2] 画像、その先へ 〜モーション解析への誘い〜 (画像センシングシンポジウム)</title>
-        <link>https://speakerdeck.com/ssii/ssii2024-os2-fujiwara</link>
-        <dc:date>2024-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シェーダコードも怖くない？UEのCustomノードで学ぶHLSL入門 (ゲームメーカーズ,@GameMakersJP)</title>
-        <link>https://www.docswell.com/s/gamemakers/K1JPYP-GameMakersScramble2024_ArchivesB5</link>
         <dc:date>2024-06-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
