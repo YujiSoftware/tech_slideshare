@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>電子計算機のイロハ (Koji E. Kosugi)</title>
+        <link>https://speakerdeck.com/kosugitti/dian-zi-ji-suan-ji-noiroha</link>
+        <dc:date>2024-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>未知の未知を既知の未知へ / Unknown unknowns to Known unknowns (Hiroki Takeda)</title>
+        <link>https://speakerdeck.com/rhumie/unknown-unknowns-to-known-unknowns</link>
+        <dc:date>2024-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AI向け機械学習クラスタ 構築のレシピ　北海道石狩編 (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/sheng-cheng-aixiang-keji-jie-xue-xi-kurasuta-gou-zhu-noresipi-bei-hai-dao-shi-shou-bian</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>SSII2024 [SS1]  拡散モデルの今　〜 2024年の研究動向 〜 (画像センシングシンポジウム)</title>
         <link>https://speakerdeck.com/ssii/ssii2024-ss1-shing</link>
-        <dc:date>2024-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SSM Inventory を使って便利に EC2 棚卸し（ハマりどころを添えて） (MasahiroKawahara)</title>
-        <link>https://speakerdeck.com/masahirokawahara/ssm-inventory-woshi-tutebian-li-ni-ec2-peng-xie-si-hamaridokorowotian-ete</link>
-        <dc:date>2024-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ABEMA 画像配信基盤における Cloudflare Workers の活用 (Shohei Ueda)</title>
-        <link>https://speakerdeck.com/peaceiris/abema-cloudflare-workers-413d6a0c-d2b0-4555-87da-2de14214ec9f</link>
         <dc:date>2024-06-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
