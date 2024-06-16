@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>いまどきの分析設計パターン10選 (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/jjug_ccc_2024_spring</link>
+        <dc:date>2024-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>YAVIの紹介</title>
         <link>https://docs.google.com/presentation/d/1ZcGN7qZpZ92XD6FwdHxpxJ1duF1kqilI97zq-0JpzsA/preview</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「脆弱性」「脅威」「リスク」の再整理 (はせがわようすけ,@hasegawayosuke)</title>
         <link>https://www.docswell.com/s/hasegawa/ZW19QR-threatmodeling</link>
-        <dc:date>2024-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンポーネント設計って何だろう (yonekubo@テスト駆動開発が好きなアーキテクト,@tyonekubo)</title>
-        <link>https://www.docswell.com/s/tyonekubo/K24XP9-component-design</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
