@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソートできるUUID v7をJavaで使うときの話 (Yoshiori SHOJI)</title>
+        <link>https://speakerdeck.com/yoshiori/sotodekiruuuid-v7wojavadeshi-utokinohua</link>
+        <dc:date>2024-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JJUG CCC 2024 Spring：テストコードが根付くチームを立ち上げるために考えたいこと (シンプレクス株式会社)</title>
         <link>https://www.docswell.com/s/Simplex/ZRXNDN-simplex_maeda01</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Pocochaにおけるデータマネジメント (DeNA_Tech)</title>
         <link>https://speakerdeck.com/dena_tech/how-to-organize-data-organization_ryoji-hasegawa</link>
-        <dc:date>2024-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>良い開発のためにまず組織を設計せい (nakamichi)</title>
-        <link>https://speakerdeck.com/ichimichi/liang-ikai-fa-notamenimazuzu-zhi-woshe-ji-sei</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
