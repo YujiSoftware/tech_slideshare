@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>どこでも使える Cloudflare Workers！ (Kei Kamikawa)</title>
+        <link>https://speakerdeck.com/codehex/dokodemoshi-eru-cloudflare-workers</link>
+        <dc:date>2024-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>初めての研究発表を成功させよう！ スライド作成の基本 (Ayako Sato)</title>
         <link>https://speakerdeck.com/ayaco0/how-to-create-research-presentation-slides-tutorial-for-new-lab-members</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Android アプリのプロジェクトをモダンにし続ける工夫 (Nabe)</title>
         <link>https://speakerdeck.com/numeroanddev/android-apurinopuroziekutowo-modannisisok-kerugong-fu</link>
-        <dc:date>2024-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[TimeTree] Aurora から Spanner への 移行の決断と背景 (ekanai)</title>
-        <link>https://speakerdeck.com/3utama/timetree-aurora-kara-spanner-heno-yi-xing-nojue-duan-tobei-jing</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
