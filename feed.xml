@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【JJUG CCC 2024 Spring】物理削除/論理削除 #jjug_ccc_c #jjug_ccc (hirotaka kono,@hk_it7)</title>
+        <link>https://www.docswell.com/s/hk_it7/ZENPR1-2024-06-16-111139</link>
+        <dc:date>2024-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>チームの成長を促すためのスプリントレトロスペクティブの活用法 / How to use sprint retrospectives to promote team growth (mackey0225)</title>
         <link>https://speakerdeck.com/mackey0225/how-to-use-sprint-retrospectives-to-promote-team-growth</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>OpenFeatureと自動生成を活用したフューチャーフラグの宣言的集約管理 (Shota Iwami)</title>
         <link>https://speakerdeck.com/biwashi/cloudnative-days-summer-2024-declarative-aggregated-management-of-feature-flags-using-openfeature-and-auto-generation</link>
-        <dc:date>2024-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ロジックから状態を分離する技術/設計ナイト2024 by わいとん @ytnobody (azuma satoshi)</title>
-        <link>https://www.slideshare.net/slideshow/2024-by-ytnobody/269683812</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
