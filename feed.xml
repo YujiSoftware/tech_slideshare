@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>チームの成長を促すためのスプリントレトロスペクティブの活用法 / How to use sprint retrospectives to promote team growth (mackey0225)</title>
+        <link>https://speakerdeck.com/mackey0225/how-to-use-sprint-retrospectives-to-promote-team-growth</link>
+        <dc:date>2024-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソートできるUUID v7をJavaで使うときの話 (Yoshiori SHOJI)</title>
         <link>https://speakerdeck.com/yoshiori/sotodekiruuuid-v7wojavadeshi-utokinohua</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ロジックから状態を分離する技術/設計ナイト2024 by わいとん @ytnobody (azuma satoshi)</title>
         <link>https://www.slideshare.net/slideshow/2024-by-ytnobody/269683812</link>
-        <dc:date>2024-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pocochaにおけるデータマネジメント (DeNA_Tech)</title>
-        <link>https://speakerdeck.com/dena_tech/how-to-organize-data-organization_ryoji-hasegawa</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
