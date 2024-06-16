@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>イベント駆動アーキテクチャ導入の手引きと共通の落とし穴 / Guide to Implementing Event-Driven Architecture and Common Pitfalls (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/guide-to-implementing-event-driven-architecture-and-common-pitfalls</link>
+        <dc:date>2024-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Monitoring user experience  of Flutter apps with SLI/SLO (日本語) (Takuma Osada)</title>
+        <link>https://speakerdeck.com/ostk0069/slowoyong-ite-flutterapuride-yuzati-yan-nopin-zhi-wojian-shi-suru</link>
+        <dc:date>2024-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>どこでも使える Cloudflare Workers！ (Kei Kamikawa)</title>
         <link>https://speakerdeck.com/codehex/dokodemoshi-eru-cloudflare-workers</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>未知の未知を既知の未知へ / Unknown unknowns to Known unknowns (Hiroki Takeda)</title>
         <link>https://speakerdeck.com/rhumie/unknown-unknowns-to-known-unknowns</link>
-        <dc:date>2024-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI向け機械学習クラスタ 構築のレシピ　北海道石狩編 (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/sheng-cheng-aixiang-keji-jie-xue-xi-kurasuta-gou-zhu-noresipi-bei-hai-dao-shi-shou-bian</link>
-        <dc:date>2024-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Android アプリのプロジェクトをモダンにし続ける工夫 (Nabe)</title>
-        <link>https://speakerdeck.com/numeroanddev/android-apurinopuroziekutowo-modannisisok-kerugong-fu</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
