@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>知名度は高くないけど 便利なJavaライブラリ集</title>
+        <link>https://docs.google.com/presentation/d/1UhEl2S7A-UTocHuosDG6E0pFqEYIMNqU8cXszoxOl2Q/preview</link>
+        <dc:date>2024-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2024 年のスタートアップの始め方・考え方 (Takaaki Umada / 馬田隆明)</title>
+        <link>https://speakerdeck.com/tumada/2024-nian-nosutatoatupunoshi-mefang-kao-efang</link>
+        <dc:date>2024-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>イベント駆動アーキテクチャ導入の手引きと共通の落とし穴 / Guide to Implementing Event-Driven Architecture and Common Pitfalls (nrs)</title>
         <link>https://speakerdeck.com/nrslib/guide-to-implementing-event-driven-architecture-and-common-pitfalls</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>変化と挑戦：NoSQLとNewSQL Serverless Databaseの技術革新とマルチテナンシーの秘密 (yoshitaka KOITABASHI)</title>
         <link>https://speakerdeck.com/yoshiitaka/serverless-database</link>
-        <dc:date>2024-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>電子計算機のイロハ (Koji E. Kosugi)</title>
-        <link>https://speakerdeck.com/kosugitti/dian-zi-ji-suan-ji-noiroha</link>
-        <dc:date>2024-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>未知の未知を既知の未知へ / Unknown unknowns to Known unknowns (Hiroki Takeda)</title>
-        <link>https://speakerdeck.com/rhumie/unknown-unknowns-to-known-unknowns</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
