@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>YAVIの紹介</title>
+        <link>https://docs.google.com/presentation/d/1ZcGN7qZpZ92XD6FwdHxpxJ1duF1kqilI97zq-0JpzsA/preview</link>
+        <dc:date>2024-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SSII2024 [OS2] 大規模言語モデルとVision &amp; Languageのこれから (画像センシングシンポジウム)</title>
         <link>https://speakerdeck.com/ssii/ssii2024-os2-kurita</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>コンポーネント設計って何だろう (yonekubo@テスト駆動開発が好きなアーキテクト,@tyonekubo)</title>
         <link>https://www.docswell.com/s/tyonekubo/K24XP9-component-design</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オブジェクト指向考古学 〜人類は再びDCIの夢を見るか〜 (Akira Suenami)</title>
-        <link>https://speakerdeck.com/a_suenami/obuziekutozhi-xiang-kao-gu-xue-ren-lei-hazai-bidcinomeng-wojian-ruka</link>
-        <dc:date>2024-06-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
