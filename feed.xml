@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>初めての研究発表を成功させよう！ スライド作成の基本 (Ayako Sato)</title>
+        <link>https://speakerdeck.com/ayaco0/how-to-create-research-presentation-slides-tutorial-for-new-lab-members</link>
+        <dc:date>2024-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【JJUG CCC 2024 Spring】物理削除/論理削除 #jjug_ccc_c #jjug_ccc (hirotaka kono,@hk_it7)</title>
         <link>https://www.docswell.com/s/hk_it7/ZENPR1-2024-06-16-111139</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[TimeTree] Aurora から Spanner への 移行の決断と背景 (ekanai)</title>
         <link>https://speakerdeck.com/3utama/timetree-aurora-kara-spanner-heno-yi-xing-nojue-duan-tobei-jing</link>
-        <dc:date>2024-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenFeatureと自動生成を活用したフューチャーフラグの宣言的集約管理 (Shota Iwami)</title>
-        <link>https://speakerdeck.com/biwashi/cloudnative-days-summer-2024-declarative-aggregated-management-of-feature-flags-using-openfeature-and-auto-generation</link>
         <dc:date>2024-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
