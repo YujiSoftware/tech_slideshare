@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WikipediaやYouTubeにおける論文参照 / joss2024 (Jiro Kikkawa)</title>
+        <link>https://speakerdeck.com/corgies/joss2024</link>
+        <dc:date>2024-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Chrome Tech Talk Night #16 〜 パスキー 講演資料</title>
         <link>https://docs.google.com/presentation/d/1nHsIV5ylaBFNqyjA0xsad0K1RKUjsuXDZU_vFlDJUFg/preview</link>
         <dc:date>2024-06-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Railsでクリーンアーキテクチャを考えてきた (suzuki masayuki)</title>
         <link>https://speakerdeck.com/suzukimar/railsdekurinakitekutiyawokao-etekita</link>
-        <dc:date>2024-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マイクロサービス基盤にフルマネージドサービスではなくKubernetesを選択する理由 (Atsushi Tanaka)</title>
-        <link>https://speakerdeck.com/bgpat/maikurosabisuji-pan-nihurumanezidosabisudehanakukuberneteswoxuan-ze-suruli-you</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
