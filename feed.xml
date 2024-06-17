@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Webアプリケーションセキュリティの基礎とSpring Bootでの実装 #jjug_ccc #jjug_ccc_c (tada,@suke_masa)</title>
+        <link>https://www.docswell.com/s/MasatoshiTada/ZYWP29-spring-boot-security</link>
+        <dc:date>2024-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>一人称視点映像解析の基礎と応用（CVIMチュートリアル） (Takuma Yagi)</title>
         <link>https://speakerdeck.com/takumayagi/ren-cheng-shi-dian-ying-xiang-jie-xi-noji-chu-toying-yong-cvimtiyutoriaru</link>
         <dc:date>2024-06-16T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>定量データと定性評価を用いた技術戦略の組織的実践 / Systematic implementation of technology strategies using quantitative data and qualitative evaluation (Takeshi Kondo)</title>
         <link>https://speakerdeck.com/chaspy/systematic-implementation-of-technology-strategies-using-quantitative-data-and-qualitative-evaluation</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Power Automateのデータ操作(Data Operation)について (Ver.モダンデザイナー） (MiyakeMito)</title>
-        <link>https://speakerdeck.com/miyakemito/power-automatenodetacao-zuo-data-operation-nituite-ver-dot-modandezaina</link>
-        <dc:date>2024-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
