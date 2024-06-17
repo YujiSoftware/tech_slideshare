@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Dockerコンテナのセキュリティを考えてみよう@TOKUSHIMA Cybersecurity Meetup #14 (gangan)</title>
+        <link>https://speakerdeck.com/shingangan/dockerkontenanosekiyuriteiwokao-etemiyou-at-tokushima-cybersecurity-meetup-number-14</link>
+        <dc:date>2024-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WikipediaやYouTubeにおける論文参照 / joss2024 (Jiro Kikkawa)</title>
         <link>https://speakerdeck.com/corgies/joss2024</link>
         <dc:date>2024-06-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SSII2024 [OS2] 大規模言語モデルとVision &amp; Languageのこれから (画像センシングシンポジウム)</title>
         <link>https://speakerdeck.com/ssii/ssii2024-os2-kurita</link>
-        <dc:date>2024-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Railsでクリーンアーキテクチャを考えてきた (suzuki masayuki)</title>
-        <link>https://speakerdeck.com/suzukimar/railsdekurinakitekutiyawokao-etekita</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
