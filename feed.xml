@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Chrome Tech Talk Night #16 〜 パスキー 講演資料</title>
+        <link>https://docs.google.com/presentation/d/1nHsIV5ylaBFNqyjA0xsad0K1RKUjsuXDZU_vFlDJUFg/preview</link>
+        <dc:date>2024-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Webアプリケーションセキュリティの基礎とSpring Bootでの実装 #jjug_ccc #jjug_ccc_c (tada,@suke_masa)</title>
         <link>https://www.docswell.com/s/MasatoshiTada/ZYWP29-spring-boot-security</link>
         <dc:date>2024-06-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>マイクロサービス基盤にフルマネージドサービスではなくKubernetesを選択する理由 (Atsushi Tanaka)</title>
         <link>https://speakerdeck.com/bgpat/maikurosabisuji-pan-nihurumanezidosabisudehanakukuberneteswoxuan-ze-suruli-you</link>
-        <dc:date>2024-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>定量データと定性評価を用いた技術戦略の組織的実践 / Systematic implementation of technology strategies using quantitative data and qualitative evaluation (Takeshi Kondo)</title>
-        <link>https://speakerdeck.com/chaspy/systematic-implementation-of-technology-strategies-using-quantitative-data-and-qualitative-evaluation</link>
         <dc:date>2024-06-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
