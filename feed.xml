@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>イミュータブルデータモデルの極意 (Yoshitaka Kawashima,@kawasima)</title>
+        <link>https://www.slideshare.net/slideshow/ss-250716400/250716400</link>
+        <dc:date>2024-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Virtual Threadsで実現する性能改善 (tttol)</title>
         <link>https://speakerdeck.com/tttol/virtual-threadsdeshi-xian-suruxing-neng-gai-shan</link>
         <dc:date>2024-06-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>NRUG_vol1_沖縄オープニングスライド (yos-ohshiro)</title>
         <link>https://speakerdeck.com/yoshiakiohshiro/nrug-vol1-chong-nawa-ohuninkusuraito</link>
-        <dc:date>2024-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>知名度は高くないけど 便利なJavaライブラリ集</title>
-        <link>https://docs.google.com/presentation/d/1UhEl2S7A-UTocHuosDG6E0pFqEYIMNqU8cXszoxOl2Q/preview</link>
         <dc:date>2024-06-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
