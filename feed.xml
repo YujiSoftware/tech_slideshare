@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【公開】ヒット作品のつくり方 (ゲームメーカーズ,@GameMakersJP)</title>
+        <link>https://www.docswell.com/s/gamemakers/5DEL8W-GameMakersScramble2024_ArchivesA5</link>
+        <dc:date>2024-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>gRPC Federation WebAssembly の実践活用 -</title>
+        <link>https://docs.google.com/presentation/d/16SWXksARvSGQgyp-rf2AeNIZ-uOfVCY_owxPjpCBwDM/preview</link>
+        <dc:date>2024-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>セキュリティ研修　〜テクニカルパート〜（サイバーエージェント新卒研修2024） (CyberAgent)</title>
+        <link>https://speakerdeck.com/cyberagentdevelopers/security-training-technical-part2024</link>
+        <dc:date>2024-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Bedrockで行うモデル評価入門 / Introduction to Model Evaluation in Amazon Bedrock (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/introduction-to-model-evaluation-with-amazon-bedrock</link>
+        <dc:date>2024-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>良いユニットテストの性質を整理してたら考えるべき設計も見えてきたの (bun)</title>
+        <link>https://speakerdeck.com/bun913/liang-iyunitutotesutonoxing-zhi-wozheng-li-sitetarakao-erubekishe-ji-mojian-etekitano</link>
+        <dc:date>2024-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>イミュータブルデータモデルの極意 (Yoshitaka Kawashima,@kawasima)</title>
         <link>https://www.slideshare.net/slideshow/ss-250716400/250716400</link>
         <dc:date>2024-06-17T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>WikipediaやYouTubeにおける論文参照 / joss2024 (Jiro Kikkawa)</title>
         <link>https://speakerdeck.com/corgies/joss2024</link>
-        <dc:date>2024-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Chrome Tech Talk Night #16 〜 パスキー 講演資料</title>
-        <link>https://docs.google.com/presentation/d/1nHsIV5ylaBFNqyjA0xsad0K1RKUjsuXDZU_vFlDJUFg/preview</link>
-        <dc:date>2024-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webアプリケーションセキュリティの基礎とSpring Bootでの実装 #jjug_ccc #jjug_ccc_c (tada,@suke_masa)</title>
-        <link>https://www.docswell.com/s/MasatoshiTada/ZYWP29-spring-boot-security</link>
-        <dc:date>2024-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一人称視点映像解析の基礎と応用（CVIMチュートリアル） (Takuma Yagi)</title>
-        <link>https://speakerdeck.com/takumayagi/ren-cheng-shi-dian-ying-xiang-jie-xi-noji-chu-toying-yong-cvimtiyutoriaru</link>
-        <dc:date>2024-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Lookupテーブルでダッシュボードをリッチに＋α (Koji Watanabe)</title>
-        <link>https://speakerdeck.com/kojw/lookupteburudedatusiyubodoworitutini-plus-a</link>
-        <dc:date>2024-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NRUG_vol1_沖縄オープニングスライド (yos-ohshiro)</title>
-        <link>https://speakerdeck.com/yoshiakiohshiro/nrug-vol1-chong-nawa-ohuninkusuraito</link>
         <dc:date>2024-06-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
