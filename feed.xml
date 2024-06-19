@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go 関連の個人的おもしろCVE 5選 / my favorite go cve (convto)</title>
+        <link>https://speakerdeck.com/convto/my-favorite-go-cve</link>
+        <dc:date>2024-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BigQueryとDataformとTROCCO®による事業グロース (nihemak)</title>
         <link>https://speakerdeck.com/nihemak/bigquerytodataformtotrocco-r-niyorushi-ye-gurosu</link>
         <dc:date>2024-06-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>sqlcを新規サービスに採用してみた！ (Kento Nishio)</title>
         <link>https://speakerdeck.com/ken2403/sqlcwoxin-gui-sabisunicai-yong-sitemita</link>
-        <dc:date>2024-06-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インディーでゲームを作るってどういうこと？インディー開発者の生活 (ゲームメーカーズ,@GameMakersJP)</title>
-        <link>https://www.docswell.com/s/gamemakers/KVVGPL-GameMakersScramble2024_ArchivesB4</link>
         <dc:date>2024-06-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
