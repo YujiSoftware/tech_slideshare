@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コミュニティを育てて会社を変える (shimobayashi)</title>
+        <link>https://speakerdeck.com/shimobayashi/komiyuniteiwoyu-tetehui-she-wobian-eru</link>
+        <dc:date>2024-06-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Spring Bootで作成したAPIテストのコスパを高めよう！ (gorou_178)</title>
         <link>https://speakerdeck.com/gorou_178/spring-boot-openapi-grpc-runn-test</link>
         <dc:date>2024-06-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Postmanオンラインワークショップ - APIコラボレーション - 20240122 - 公開用</title>
         <link>https://docs.google.com/presentation/d/1zo33H_rNgNOiUPvjANmic0Vf7AB4-8WqvAPgrCgYiuY/preview</link>
-        <dc:date>2024-06-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanオンラインワークショップ: Postman入門 - 20240208 - 公開用</title>
-        <link>https://docs.google.com/presentation/d/1scyPL_Pe0I2RfA56AIcBbLHT1YDPBltOZuHzWJj7p_I/preview</link>
         <dc:date>2024-06-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
