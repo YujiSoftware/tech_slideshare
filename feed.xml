@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>APIファーストなプロダクトマネジメントの実践 〜SaaSus Platformでの例〜 / "Practicing API-First Product Management - An Example with SaaSus Platform (Yuki.Ozasa)</title>
+        <link>https://speakerdeck.com/oztick139/practicing-api-first-product-management-an-example-with-saasus-platform</link>
+        <dc:date>2024-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postman v10リリース後を振り返る / Looking back at Postman v10 after release (Yoichi Kawasaki)</title>
+        <link>https://speakerdeck.com/yokawasa/looking-back-at-postman-v10-after-release</link>
+        <dc:date>2024-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スキーマ駆動開発による品質とスピードの両立 - 私達は何故、スキーマを書くのか (武田 憲太郎)</title>
+        <link>https://speakerdeck.com/kentaroutakeda/sukimaqu-dong-kai-fa-niyorupin-zhi-tosupidonoliang-li-si-da-hahe-gu-sukimawoshu-kunoka</link>
+        <dc:date>2024-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>業務ツールとして使うPostman (Masayoshi Kimoto)</title>
+        <link>https://speakerdeck.com/msys75/ye-wu-turutositeshi-upostman</link>
+        <dc:date>2024-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenAPIを中心に考えるAPI開発入門 / Introduction to API Development with a Focus on OpenAPI (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/introduction-to-api-development-with-a-focus-on-openapi</link>
+        <dc:date>2024-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PostmanでAPIの動作確認が楽になった話 (Toshimasa Hashiguchi)</title>
+        <link>https://speakerdeck.com/h455h1/postmandeapinodong-zuo-que-ren-gale-ninatutahua</link>
+        <dc:date>2024-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postman v10リリース後を振り返る (草薙昭彦)</title>
+        <link>https://speakerdeck.com/nagix/postman-v10ririsuhou-wozhen-rifan-ru</link>
+        <dc:date>2024-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AI向け機械学習クラスタ 構築のレシピ　北海道石狩編 (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/20240615-cloudnativedayssummer-pfn</link>
+        <dc:date>2024-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コミュニティを育てて会社を変える (shimobayashi)</title>
         <link>https://speakerdeck.com/shimobayashi/komiyuniteiwoyu-tetehui-she-wobian-eru</link>
         <dc:date>2024-06-19T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>gRPC Federation WebAssembly の実践活用 -</title>
         <link>https://docs.google.com/presentation/d/16SWXksARvSGQgyp-rf2AeNIZ-uOfVCY_owxPjpCBwDM/preview</link>
         <dc:date>2024-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ研修　〜テクニカルパート〜（サイバーエージェント新卒研修2024） (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/security-training-technical-part2024</link>
-        <dc:date>2024-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Bedrockで行うモデル評価入門 / Introduction to Model Evaluation in Amazon Bedrock (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/introduction-to-model-evaluation-with-amazon-bedrock</link>
-        <dc:date>2024-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>良いユニットテストの性質を整理してたら考えるべき設計も見えてきたの (bun)</title>
-        <link>https://speakerdeck.com/bun913/liang-iyunitutotesutonoxing-zhi-wozheng-li-sitetarakao-erubekishe-ji-mojian-etekitano</link>
-        <dc:date>2024-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>イミュータブルデータモデルの極意 (Yoshitaka Kawashima,@kawasima)</title>
-        <link>https://www.slideshare.net/slideshow/ss-250716400/250716400</link>
-        <dc:date>2024-06-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Virtual Threadsで実現する性能改善 (tttol)</title>
-        <link>https://speakerdeck.com/tttol/virtual-threadsdeshi-xian-suruxing-neng-gai-shan</link>
-        <dc:date>2024-06-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ: テスト自動化 - 20231024 - 公開版</title>
-        <link>https://docs.google.com/presentation/d/1PbSV4hIvuVC7vR-db410sI_6x2heVs2NQXGFEFcCSSQ/preview</link>
-        <dc:date>2024-06-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ: テスト自動化 - 20231117 - 公開版</title>
-        <link>https://docs.google.com/presentation/d/1de6aOJCxsrvUgoe2J8NlP6JX5kKeBcPyYCAODrL1nVw/preview</link>
-        <dc:date>2024-06-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanオンラインワークショップ - APIコラボレーション - 20240122 - 公開用</title>
-        <link>https://docs.google.com/presentation/d/1zo33H_rNgNOiUPvjANmic0Vf7AB4-8WqvAPgrCgYiuY/preview</link>
-        <dc:date>2024-06-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
