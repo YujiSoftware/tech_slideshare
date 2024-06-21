@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>明日使えるかもしれないLoss Functionsのアイディアと実装 (fumihiko takahashi)</title>
+        <link>https://speakerdeck.com/ftakahashi/ming-ri-shi-erukamosirenailoss-functionsnoaideiatoshi-zhuang</link>
+        <dc:date>2024-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240619_今すぐ試せるCopilot (ponponmikan)</title>
         <link>https://speakerdeck.com/ponponmikankan/20240619-jin-sugushi-serucopilot</link>
         <dc:date>2024-06-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>生成AIキャラクター作成プラットフォームにおける LLM応答の柔軟性の拡張の工夫 (waikei)</title>
         <link>https://speakerdeck.com/ykimura517/sheng-cheng-aikiyarakutazuo-cheng-puratutohuomuniokeru-llmying-da-norou-ruan-xing-nokuo-zhang-nogong-fu</link>
         <dc:date>2024-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ研修 〜マネジメントパート〜（サイバーエージェント新卒研修2024） (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/security-training-management-part2024</link>
-        <dc:date>2024-06-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
