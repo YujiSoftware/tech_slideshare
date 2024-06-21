@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>30分でわかるつくって、壊して、直して学ぶ Kubernetes入門 (aoi)</title>
+        <link>https://speakerdeck.com/aoi1/30fen-dewakarutukutute-huai-site-zhi-sitexue-bu-kubernetesru-men</link>
+        <dc:date>2024-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ウォンテッドリーのプロダクト開発における Python の開発・運用環境 (chimuichimu)</title>
         <link>https://speakerdeck.com/chimuichimu/uontetudorinopurodakutokai-fa-niokeru-python-nokai-fa-yun-yong-huan-jing</link>
         <dc:date>2024-06-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20240619第13回オープンエッジデバイス研究会</title>
         <link>https://docs.google.com/presentation/d/1ZPl_HNS2OQ3Zn-KNiaJZr5QWl1mydciP5pZaPiX-V1E/preview</link>
-        <dc:date>2024-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【公開】ヒット作品のつくり方 (ゲームメーカーズ,@GameMakersJP)</title>
-        <link>https://www.docswell.com/s/gamemakers/5DEL8W-GameMakersScramble2024_ArchivesA5</link>
         <dc:date>2024-06-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
