@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Route 53をイチから復習してみた (うつふみ)</title>
+        <link>https://speakerdeck.com/fumigeppi/route-53woitikarafu-xi-sitemita</link>
+        <dc:date>2024-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Security Hubのセキュリティスコアはどうやって計算されるか (Toru_Kubota)</title>
+        <link>https://speakerdeck.com/toru_kubota/security-hubnosekiyuriteisukoahadouyatuteji-suan-sareruka</link>
+        <dc:date>2024-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>明日使えるかもしれないLoss Functionsのアイディアと実装 (fumihiko takahashi)</title>
         <link>https://speakerdeck.com/ftakahashi/ming-ri-shi-erukamosirenailoss-functionsnoaideiatoshi-zhuang</link>
         <dc:date>2024-06-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>コミュニティを育てて会社を変える (shimobayashi)</title>
         <link>https://speakerdeck.com/shimobayashi/komiyuniteiwoyu-tetehui-she-wobian-eru</link>
-        <dc:date>2024-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spring Bootで作成したAPIテストのコスパを高めよう！ (gorou_178)</title>
-        <link>https://speakerdeck.com/gorou_178/spring-boot-openapi-grpc-runn-test</link>
-        <dc:date>2024-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIキャラクター作成プラットフォームにおける LLM応答の柔軟性の拡張の工夫 (waikei)</title>
-        <link>https://speakerdeck.com/ykimura517/sheng-cheng-aikiyarakutazuo-cheng-puratutohuomuniokeru-llmying-da-norou-ruan-xing-nokuo-zhang-nogong-fu</link>
         <dc:date>2024-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
