@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>こんなに違うよ MySQLとPostgreSQL /  (sakaik)</title>
+        <link>https://speakerdeck.com/sakaik/hey-mysql-and-postgresql-is-different</link>
+        <dc:date>2024-06-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OODAふりかえり 何って…ただ毎スプリント、違うふりかえり手法を採用してるだけだが？ / Retrospectives with OODA (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/retrospectives-with-ooda</link>
         <dc:date>2024-06-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Postman v10リリース後を振り返る / Looking back at Postman v10 after release (Yoichi Kawasaki)</title>
         <link>https://speakerdeck.com/yokawasa/looking-back-at-postman-v10-after-release</link>
-        <dc:date>2024-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スキーマ駆動開発による品質とスピードの両立 - 私達は何故、スキーマを書くのか (武田 憲太郎)</title>
-        <link>https://speakerdeck.com/kentaroutakeda/sukimaqu-dong-kai-fa-niyorupin-zhi-tosupidonoliang-li-si-da-hahe-gu-sukimawoshu-kunoka</link>
         <dc:date>2024-06-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
