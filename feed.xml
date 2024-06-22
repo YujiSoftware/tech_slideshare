@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Spring Bootと行レベルセキュリティではじめるマルチテナントアーキテクチャ / Multi-tenant architecture using Row-Level Security (Jaga)</title>
+        <link>https://speakerdeck.com/jaguar_imo/multi-tenant-architecture-using-row-level-security</link>
+        <dc:date>2024-06-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スタートアップ企業が実践する「身の丈スクラム」の現在地 / Current State of 'Right-Sized Scrum' Practices in Startups (ar_tama)</title>
         <link>https://speakerdeck.com/ar_tama/current-state-of-right-sized-scrum-practices-in-startups</link>
         <dc:date>2024-06-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>OpenAPIを中心に考えるAPI開発入門 / Introduction to API Development with a Focus on OpenAPI (shiro seike)</title>
         <link>https://speakerdeck.com/seike460/introduction-to-api-development-with-a-focus-on-openapi</link>
-        <dc:date>2024-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostmanでAPIの動作確認が楽になった話 (Toshimasa Hashiguchi)</title>
-        <link>https://speakerdeck.com/h455h1/postmandeapinodong-zuo-que-ren-gale-ninatutahua</link>
         <dc:date>2024-06-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
