@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織全体で品質を担保するための品管メンバーとしてのさまざまな役割 (tarappo,@tarappo)</title>
+        <link>https://www.docswell.com/s/tarappo/ZQ8G1J-2024-06-22-071901</link>
+        <dc:date>2024-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアとQAの壁が崩れていくのを眺めていた #scrumosaka (asato,@at_946)</title>
+        <link>https://www.docswell.com/s/at_946/KDEYN9-2024-06-22-094806</link>
+        <dc:date>2024-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>我々はなぜテストを書くのか / Why we write test codes (TAKAKING22)</title>
+        <link>https://speakerdeck.com/takaking22/why-we-write-test-codes</link>
+        <dc:date>2024-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>有効な使い方を正しく理解して実装する PHP8.3の最新機能 / Proper understanding and implementation of effective usage Latest features in PHP 8.3 (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/proper-understanding-and-implementation-of-effective-usage-latest-features-in-php-8-dot-3</link>
+        <dc:date>2024-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「出世」を目指そう、もとい「マネジングアップ」しよう / Managing Up (Minoru YOKOMICHI)</title>
+        <link>https://speakerdeck.com/ykmc09/managing-up</link>
+        <dc:date>2024-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>4年間で591冊の本を読む過程で生み出した読書方法カタログ / reading catalog (aki.m)</title>
+        <link>https://speakerdeck.com/aki_moon/reading-catalog</link>
+        <dc:date>2024-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アウトプット エンジニアリング 〜 インプット偏重から脱却して飛躍するための発想 /20240621-AWS-Summit-hatano-output (opelab)</title>
+        <link>https://speakerdeck.com/opelab/20240621-aws-summit-hatano-output</link>
+        <dc:date>2024-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>組織全体で品質を担保するための品管メンバーとしてのさまざまな役割 (tarappo)</title>
+        <link>https://speakerdeck.com/tarappo/zu-zhi-quan-ti-tepin-zhi-wodan-bao-surutamenopin-guan-menhatositenosamasamanayi-ge</link>
+        <dc:date>2024-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MyRaft論文読んでみた (tom--bo)</title>
+        <link>https://speakerdeck.com/tombo/myraftlun-wen-du-ndemita</link>
+        <dc:date>2024-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHPでデータベースを作ってみた/create-data-with-php (Ryo Tomidokoro)</title>
+        <link>https://speakerdeck.com/hanhan1978/create-data-with-php</link>
+        <dc:date>2024-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>こんなに違うよ MySQLとPostgreSQL /  (sakaik)</title>
         <link>https://speakerdeck.com/sakaik/hey-mysql-and-postgresql-is-different</link>
         <dc:date>2024-06-21T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>明日使えるかもしれないLoss Functionsのアイディアと実装 (fumihiko takahashi)</title>
         <link>https://speakerdeck.com/ftakahashi/ming-ri-shi-erukamosirenailoss-functionsnoaideiatoshi-zhuang</link>
-        <dc:date>2024-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240619_今すぐ試せるCopilot (ponponmikan)</title>
-        <link>https://speakerdeck.com/ponponmikankan/20240619-jin-sugushi-serucopilot</link>
-        <dc:date>2024-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbt Semantic Layer ( MetricFlow ) の理解を深める (たぬ)</title>
-        <link>https://speakerdeck.com/tanuuuuuuu/dbt-semantic-layer-metricflow-noli-jie-woshen-meru</link>
-        <dc:date>2024-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>品質活動を事業に結びつけるためのQA文化の築き方 / how to build QA culture (miisan)</title>
-        <link>https://speakerdeck.com/mii3king/how-to-build-qa-culture</link>
-        <dc:date>2024-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>猫でも分かる ゲームエンジンのサンプルを面白くする方法 (ゲームメーカーズ,@GameMakersJP)</title>
-        <link>https://www.docswell.com/s/gamemakers/ZGXRMM-GameMakersScramble2024_ArchivesB1</link>
-        <dc:date>2024-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20分で分かるIAM全機能 /20240621-aws-summit-iam (opelab)</title>
-        <link>https://speakerdeck.com/opelab/20240621-aws-summit-iam</link>
-        <dc:date>2024-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMチャットアプリケーション・アーキテクチャの工夫 (PharmaX（旧YOJO Technologies）開発チーム)</title>
-        <link>https://speakerdeck.com/pharma_x_tech/llmtiyatutoapurikesiyonakitekutiyanogong-fu</link>
-        <dc:date>2024-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>30分でわかるつくって、壊して、直して学ぶ Kubernetes入門 (aoi)</title>
-        <link>https://speakerdeck.com/aoi1/30fen-dewakarutukutute-huai-site-zhi-sitexue-bu-kubernetesru-men</link>
-        <dc:date>2024-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウォンテッドリーのプロダクト開発における Python の開発・運用環境 (chimuichimu)</title>
-        <link>https://speakerdeck.com/chimuichimu/uontetudorinopurodakutokai-fa-niokeru-python-nokai-fa-yun-yong-huan-jing</link>
-        <dc:date>2024-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>APIファーストなプロダクトマネジメントの実践 〜SaaSus Platformでの例〜 / "Practicing API-First Product Management - An Example with SaaSus Platform (Yuki.Ozasa)</title>
-        <link>https://speakerdeck.com/oztick139/practicing-api-first-product-management-an-example-with-saasus-platform</link>
-        <dc:date>2024-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postman v10リリース後を振り返る / Looking back at Postman v10 after release (Yoichi Kawasaki)</title>
-        <link>https://speakerdeck.com/yokawasa/looking-back-at-postman-v10-after-release</link>
         <dc:date>2024-06-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
