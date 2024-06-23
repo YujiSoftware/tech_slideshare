@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PdM から見た「スーパーエンジニア」の思考と行動 / Thoughts and Actions of Super Engineers as Seen from PdM (happy)</title>
+        <link>https://speakerdeck.com/happy_imafuku/thoughts-and-actions-of-super-engineers-as-seen-from-pdm</link>
+        <dc:date>2024-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>タクシーアプリ『GO』を運営する中発生した様々な失敗例の紹介 (GO Inc. dev)</title>
         <link>https://speakerdeck.com/mot_techtalk/takusiahuri-go-woyun-ying-suruzhong-fa-sheng-sitayang-nashi-bai-li-noshao-jie</link>
         <dc:date>2024-06-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Spring Bootと行レベルセキュリティではじめるマルチテナントアーキテクチャ / Multi-tenant architecture using Row-Level Security (Jaga)</title>
         <link>https://speakerdeck.com/jaguar_imo/multi-tenant-architecture-using-row-level-security</link>
-        <dc:date>2024-06-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタートアップ企業が実践する「身の丈スクラム」の現在地 / Current State of 'Right-Sized Scrum' Practices in Startups (ar_tama)</title>
-        <link>https://speakerdeck.com/ar_tama/current-state-of-right-sized-scrum-practices-in-startups</link>
         <dc:date>2024-06-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
