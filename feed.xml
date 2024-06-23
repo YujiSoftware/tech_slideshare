@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Microsoft 365の全体観 １＆２ (miyakawayuho,@miyakawayuho)</title>
+        <link>https://www.docswell.com/s/miyakawayuho/K6YQ87-2024-05-12-113341</link>
+        <dc:date>2024-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>キョムリリースをやめて、プロダクトと向き合う！ (asumikam)</title>
         <link>https://speakerdeck.com/asumikam/face-my-product-without-kyomu-release</link>
         <dc:date>2024-06-22T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>PHPでデータベースを作ってみた/create-data-with-php (Ryo Tomidokoro)</title>
         <link>https://speakerdeck.com/hanhan1978/create-data-with-php</link>
         <dc:date>2024-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>こんなに違うよ MySQLとPostgreSQL /  (sakaik)</title>
-        <link>https://speakerdeck.com/sakaik/hey-mysql-and-postgresql-is-different</link>
-        <dc:date>2024-06-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
