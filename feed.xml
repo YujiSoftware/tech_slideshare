@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>dbt v1.8で追加された単体テストを触ってみた (k_data_analyst)</title>
+        <link>https://speakerdeck.com/k_data_analyst/dbt-v1-dot-8dezhui-jia-saretadan-ti-tesutowohong-tutemita</link>
+        <dc:date>2024-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自動化と効率化のためにGitHub Actionsを使いこなそう (とことんDevOps)</title>
         <link>https://speakerdeck.com/devops_vtj/zi-dong-hua-toxiao-lu-hua-notamenigithub-actionswoshi-ikonasou</link>
         <dc:date>2024-06-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>4年間で591冊の本を読む過程で生み出した読書方法カタログ / reading catalog (aki.m)</title>
         <link>https://speakerdeck.com/aki_moon/reading-catalog</link>
-        <dc:date>2024-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アウトプット エンジニアリング 〜 インプット偏重から脱却して飛躍するための発想 /20240621-AWS-Summit-hatano-output (opelab)</title>
-        <link>https://speakerdeck.com/opelab/20240621-aws-summit-hatano-output</link>
         <dc:date>2024-06-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
