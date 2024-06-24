@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>webrtc-meetup_LT_ブイキューブ紹介 (mk)</title>
+        <link>https://speakerdeck.com/mk2345/webrtc-meetup-lt-buikiyubushao-jie</link>
+        <dc:date>2024-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Media over QUICとRTMP+HLSの比較 (kota-yata)</title>
+        <link>https://speakerdeck.com/kota_yata/media-over-quictortmp-plus-hlsnobi-jiao</link>
+        <dc:date>2024-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WebRTC Meetup 10th Anniversary LT (Katsumi Takahashi)</title>
+        <link>https://speakerdeck.com/mobilebiz/webrtc-meetup-10th-anniversary-lt</link>
+        <dc:date>2024-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ちーん2024 (D.F.Mac. @TripArts Music)</title>
+        <link>https://speakerdeck.com/tadfmac/tin2024</link>
+        <dc:date>2024-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>dbt+GCPで実現するPII管理と 一時権限付与の実装 (okodoon)</title>
+        <link>https://speakerdeck.com/okodoon/dbt-plus-gcpdeshi-xian-surupiiguan-li-to-shi-quan-xian-fu-yu-noshi-zhuang</link>
+        <dc:date>2024-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>dbt v1.8で追加された単体テストを触ってみた (k_data_analyst)</title>
         <link>https://speakerdeck.com/k_data_analyst/dbt-v1-dot-8dezhui-jia-saretadan-ti-tesutowohong-tutemita</link>
         <dc:date>2024-06-23T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>組織全体で品質を担保するための品管メンバーとしてのさまざまな役割 (tarappo,@tarappo)</title>
         <link>https://www.docswell.com/s/tarappo/ZQ8G1J-2024-06-22-071901</link>
-        <dc:date>2024-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアとQAの壁が崩れていくのを眺めていた #scrumosaka (asato,@at_946)</title>
-        <link>https://www.docswell.com/s/at_946/KDEYN9-2024-06-22-094806</link>
-        <dc:date>2024-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>我々はなぜテストを書くのか / Why we write test codes (TAKAKING22)</title>
-        <link>https://speakerdeck.com/takaking22/why-we-write-test-codes</link>
-        <dc:date>2024-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>有効な使い方を正しく理解して実装する PHP8.3の最新機能 / Proper understanding and implementation of effective usage Latest features in PHP 8.3 (shiro seike)</title>
-        <link>https://speakerdeck.com/seike460/proper-understanding-and-implementation-of-effective-usage-latest-features-in-php-8-dot-3</link>
-        <dc:date>2024-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「出世」を目指そう、もとい「マネジングアップ」しよう / Managing Up (Minoru YOKOMICHI)</title>
-        <link>https://speakerdeck.com/ykmc09/managing-up</link>
-        <dc:date>2024-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>4年間で591冊の本を読む過程で生み出した読書方法カタログ / reading catalog (aki.m)</title>
-        <link>https://speakerdeck.com/aki_moon/reading-catalog</link>
         <dc:date>2024-06-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
