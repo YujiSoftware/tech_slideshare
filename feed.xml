@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240621 esbuild_deno_loaderでフロントのコードも丸ごとバンドル</title>
+        <link>https://docs.google.com/presentation/d/1SNbSKxcAzSs3fZ9tno0cyJd-TVcKiLT5qTTrQl65dO8/preview</link>
+        <dc:date>2024-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自分好みの TS バンドラを Rust で作れる！Deno の内部ライブラリの活用 – Denoで変わるランタイムの景色 実践事例 Lunch LT (pizzacat83)</title>
+        <link>https://speakerdeck.com/pizzacat83/zi-fen-hao-mino-ts-bandorawo-rust-dezuo-reru-deno-nonei-bu-raiburarinohuo-yong-denodebian-warurantaimunojing-se-shi-jian-shi-li-lunch-lt</link>
+        <dc:date>2024-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Web 開発における Deno Fresh の活用例：ペアプロタイマー timer.team の開発 (LEF)</title>
+        <link>https://speakerdeck.com/lef237/web-kai-fa-niokeru-deno-fresh-nohuo-yong-li-peapurotaima-timer-dot-team-nokai-fa</link>
+        <dc:date>2024-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>過去や未来を扱うのは難しい？　過去と未来に立ち向かうための勘所 (Shinpei Maruyama)</title>
         <link>https://speakerdeck.com/shinpeim/guo-qu-yawei-lai-woxi-unohanan-sii-guo-qu-towei-lai-nili-tixiang-kautamenokan-suo</link>
         <dc:date>2024-06-23T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>PdM から見た「スーパーエンジニア」の思考と行動 / Thoughts and Actions of Super Engineers as Seen from PdM (happy)</title>
         <link>https://speakerdeck.com/happy_imafuku/thoughts-and-actions-of-super-engineers-as-seen-from-pdm</link>
-        <dc:date>2024-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>タクシーアプリ『GO』を運営する中発生した様々な失敗例の紹介 (GO Inc. dev)</title>
-        <link>https://speakerdeck.com/mot_techtalk/takusiahuri-go-woyun-ying-suruzhong-fa-sheng-sitayang-nashi-bai-li-noshao-jie</link>
-        <dc:date>2024-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>分散システムについて語らせてくれ (Kumazaki Hiroki,@kumagi)</title>
-        <link>https://www.slideshare.net/slideshow/ss-78765920/78765920</link>
-        <dc:date>2024-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発組織全員が自ら学んで成長していく組織づくり (nextbeat-engineer)</title>
-        <link>https://speakerdeck.com/nextbeatdev/kai-fa-zu-zhi-quan-yuan-gazi-raxue-ndecheng-chang-siteikuzu-zhi-dukuri</link>
         <dc:date>2024-06-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
