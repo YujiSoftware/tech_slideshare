@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>例外設計について考えて Kotlin（Spring Boot&amp;Arrow）で実践する/thinking exception design and implementation by kotlin (Msksgm)</title>
+        <link>https://speakerdeck.com/msksgm/thinking-exception-design-and-implementation-by-kotlin</link>
+        <dc:date>2024-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>『術中にはめられた！』と嬉しそうにふりかえるチーム 「みんなで協力できるようになることでフロー効率を高める」術のかけ方 (kawanotron)</title>
+        <link>https://speakerdeck.com/kawanotron/shu-zhong-nihamerareta-toxi-sisounihurikaerutimu-minnadexie-li-dekiruyouninarukotodehuroxiao-lu-wogao-meru-shu-nokakefang</link>
+        <dc:date>2024-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>見えないユーザの声はログに埋もれている！ ～ログから具体的なユーザの体験を数値化した事例紹介～ (NAVITIME JAPAN)</title>
         <link>https://speakerdeck.com/navitimejapan/jian-enaiyuzanosheng-harogunimai-moreteiru-rogukaraju-ti-de-nayuzanoti-yan-woshu-zhi-hua-sitashi-li-shao-jie</link>
         <dc:date>2024-06-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>dbt+GCPで実現するPII管理と 一時権限付与の実装 (okodoon)</title>
         <link>https://speakerdeck.com/okodoon/dbt-plus-gcpdeshi-xian-surupiiguan-li-to-shi-quan-xian-fu-yu-noshi-zhuang</link>
-        <dc:date>2024-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbt v1.8で追加された単体テストを触ってみた (k_data_analyst)</title>
-        <link>https://speakerdeck.com/k_data_analyst/dbt-v1-dot-8dezhui-jia-saretadan-ti-tesutowohong-tutemita</link>
-        <dc:date>2024-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自動化と効率化のためにGitHub Actionsを使いこなそう (とことんDevOps)</title>
-        <link>https://speakerdeck.com/devops_vtj/zi-dong-hua-toxiao-lu-hua-notamenigithub-actionswoshi-ikonasou</link>
         <dc:date>2024-06-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
