@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>How to send distibuted traces to Datadog using build own OpenTelemetry-Lambda distribution (aereal)</title>
+        <link>https://speakerdeck.com/aereal/how-to-send-distibuted-traces-to-datadog-using-build-own-opentelemetry-lambda-distribution</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フロントエンドの Monorepo をやめてリポジトリ分割したワケ / Why did we stop using Monorepo on the frontend and split the repository? (株式会社カミナシ)</title>
+        <link>https://speakerdeck.com/kaminashi/why-did-we-stop-using-monorepo-on-the-frontend-and-split-the-repository</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成 AI の評価方法 (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/sheng-cheng-ai-noping-jia-fang-fa</link>
         <dc:date>2024-06-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Web 開発における Deno Fresh の活用例：ペアプロタイマー timer.team の開発 (LEF)</title>
         <link>https://speakerdeck.com/lef237/web-kai-fa-niokeru-deno-fresh-nohuo-yong-li-peapurotaima-timer-dot-team-nokai-fa</link>
-        <dc:date>2024-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>過去や未来を扱うのは難しい？　過去と未来に立ち向かうための勘所 (Shinpei Maruyama)</title>
-        <link>https://speakerdeck.com/shinpeim/guo-qu-yawei-lai-woxi-unohanan-sii-guo-qu-towei-lai-nili-tixiang-kautamenokan-suo</link>
-        <dc:date>2024-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スクラムマスターの 「真のリーダー」を考える (J.K)</title>
-        <link>https://speakerdeck.com/junki/sukuramumasutano-zhen-norida-wokao-eru</link>
         <dc:date>2024-06-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
