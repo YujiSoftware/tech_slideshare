@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2024-06-25 ソフトウェア設計における思考と学び方を考える  〜増田さんの思考を構造的に見える化してみる〜 (株式会社レヴィ)</title>
+        <link>https://speakerdeck.com/levii/2024-06-25-software-design-thinking</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>How to send distibuted traces to Datadog using build own OpenTelemetry-Lambda distribution (aereal)</title>
         <link>https://speakerdeck.com/aereal/how-to-send-distibuted-traces-to-datadog-using-build-own-opentelemetry-lambda-distribution</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自分好みの TS バンドラを Rust で作れる！Deno の内部ライブラリの活用 – Denoで変わるランタイムの景色 実践事例 Lunch LT (pizzacat83)</title>
         <link>https://speakerdeck.com/pizzacat83/zi-fen-hao-mino-ts-bandorawo-rust-dezuo-reru-deno-nonei-bu-raiburarinohuo-yong-denodebian-warurantaimunojing-se-shi-jian-shi-li-lunch-lt</link>
-        <dc:date>2024-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web 開発における Deno Fresh の活用例：ペアプロタイマー timer.team の開発 (LEF)</title>
-        <link>https://speakerdeck.com/lef237/web-kai-fa-niokeru-deno-fresh-nohuo-yong-li-peapurotaima-timer-dot-team-nokai-fa</link>
         <dc:date>2024-06-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
