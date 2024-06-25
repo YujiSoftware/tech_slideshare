@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>良いテストコードのために悪いテストコードを理解する -  不安定なテスト編: iOSアプリ開発ユニットテストの場合 (yimajo)</title>
+        <link>https://speakerdeck.com/yimajo/bad-test-practice</link>
+        <dc:date>2024-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>feature flag と OpenTelemetry (Shota Iwami)</title>
+        <link>https://speakerdeck.com/biwashi/feature-flag-to-opentelemetry</link>
+        <dc:date>2024-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>あらゆるアプリをCompose Multiplatformで書きたい！ -ネイティブアプリの「あの機能」を私たちはどう作るか- (subroh_0508)</title>
         <link>https://speakerdeck.com/subroh0508/arayuruapuriwocompose-multiplatformdeshu-kitai-neiteibuapurino-anoji-neng-wosi-tatihadouzuo-ruka</link>
         <dc:date>2024-06-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>顧客価値に向き合うためのCREのススメ (Shingo Yamazaki)</title>
         <link>https://speakerdeck.com/zakiyama/a-guide-to-cre-for-customer-value</link>
-        <dc:date>2024-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>webrtc-meetup_LT_ブイキューブ紹介 (mk)</title>
-        <link>https://speakerdeck.com/mk2345/webrtc-meetup-lt-buikiyubushao-jie</link>
-        <dc:date>2024-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Media over QUICとRTMP+HLSの比較 (kota-yata)</title>
-        <link>https://speakerdeck.com/kota_yata/media-over-quictortmp-plus-hlsnobi-jiao</link>
         <dc:date>2024-06-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
