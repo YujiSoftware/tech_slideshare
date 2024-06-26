@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>私たちはなぜ事業責任者にならないといけないのか ~Webサービスを作る茨の道~ (KEITA YANAGAWA)</title>
+        <link>https://speakerdeck.com/gimupop/si-tatihanazeshi-ye-ze-ren-zhe-ninaranaitoikenainoka-websabisuwozuo-ruci-nodao</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>いいチームでいるためにやっていること/Things we are doing to remain a good team (hachi (Hayao Kimura))</title>
         <link>https://speakerdeck.com/hayaokimura/things-we-are-doing-to-remain-a-good-team</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>良いテストコードのために悪いテストコードを理解する -  不安定なテスト編: iOSアプリ開発ユニットテストの場合 (yimajo)</title>
         <link>https://speakerdeck.com/yimajo/bad-test-practice</link>
-        <dc:date>2024-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>feature flag と OpenTelemetry (Shota Iwami)</title>
-        <link>https://speakerdeck.com/biwashi/feature-flag-to-opentelemetry</link>
         <dc:date>2024-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
