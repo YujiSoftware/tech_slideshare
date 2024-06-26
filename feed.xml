@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kotest を使って 快適にテストを書こう - KotlinFest 2024 (Hirotaka Kawata,@hktechno)</title>
+        <link>https://www.slideshare.net/slideshow/kotest-kotlinfest-2024/269819350</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>楽ありゃ苦もあるモノレポ化 / Goodness and Difficulties of Monorepo (Henry Inc.)</title>
         <link>https://speakerdeck.com/henryofficial/goodness-and-difficulties-of-monorepo</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Jetpack Compose: 効果的なComposable関数のAPI設計 (haru067)</title>
         <link>https://speakerdeck.com/haru067/jetpack-compose-xiao-guo-de-nacomposableguan-shu-noapishe-ji</link>
         <dc:date>2024-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>お手並み拝見にしないオンボーディング / onboarding with careful introduction (zuckey_17)</title>
-        <link>https://speakerdeck.com/zuckey_17/onboarding-with-careful-introduction</link>
-        <dc:date>2024-06-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
