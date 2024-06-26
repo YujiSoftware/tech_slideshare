@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>What's new in Xcode 16 ダイジェスト (Kenta Enomoto)</title>
+        <link>https://speakerdeck.com/enomotok/whats-new-in-xcode-16-daiziesuto</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2024-06-25 ソフトウェア設計における思考と学び方を考える  〜増田さんの思考を構造的に見える化してみる〜 (株式会社レヴィ)</title>
         <link>https://speakerdeck.com/levii/2024-06-25-software-design-thinking</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20240621 esbuild_deno_loaderでフロントのコードも丸ごとバンドル</title>
         <link>https://docs.google.com/presentation/d/1SNbSKxcAzSs3fZ9tno0cyJd-TVcKiLT5qTTrQl65dO8/preview</link>
-        <dc:date>2024-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自分好みの TS バンドラを Rust で作れる！Deno の内部ライブラリの活用 – Denoで変わるランタイムの景色 実践事例 Lunch LT (pizzacat83)</title>
-        <link>https://speakerdeck.com/pizzacat83/zi-fen-hao-mino-ts-bandorawo-rust-dezuo-reru-deno-nonei-bu-raiburarinohuo-yong-denodebian-warurantaimunojing-se-shi-jian-shi-li-lunch-lt</link>
         <dc:date>2024-06-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
