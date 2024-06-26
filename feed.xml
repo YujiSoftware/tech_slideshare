@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>いいチームでいるためにやっていること/Things we are doing to remain a good team (hachi (Hayao Kimura))</title>
+        <link>https://speakerdeck.com/hayaokimura/things-we-are-doing-to-remain-a-good-team</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【暫定版】App Intentsの新機能から見るApple Intelligenceと近い未来 (ikejun360)</title>
         <link>https://speakerdeck.com/ikejun360/zan-ding-ban-app-intentsnoxin-ji-neng-karajian-ruapple-intelligencetojin-iwei-lai</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>feature flag と OpenTelemetry (Shota Iwami)</title>
         <link>https://speakerdeck.com/biwashi/feature-flag-to-opentelemetry</link>
-        <dc:date>2024-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あらゆるアプリをCompose Multiplatformで書きたい！ -ネイティブアプリの「あの機能」を私たちはどう作るか- (subroh_0508)</title>
-        <link>https://speakerdeck.com/subroh0508/arayuruapuriwocompose-multiplatformdeshu-kitai-neiteibuapurino-anoji-neng-wosi-tatihadouzuo-ruka</link>
         <dc:date>2024-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
