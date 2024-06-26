@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Next.js の fetch 拡張とキャッシュ機構の違いを理解する (mattsu-)</title>
+        <link>https://speakerdeck.com/ryo_manba/fetch-kuo-zhang-tokiyatusiyuji-gou-nowei-iwoli-jie-suru</link>
+        <dc:date>2024-06-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloud Nativeを支える要素技術・プロダクト・プラクティスの歩み / infrastudy-returns-01-amsy810 (Masaya Aoyama (@amsy810))</title>
+        <link>https://speakerdeck.com/masayaaoyama/infrastudy-returns-01-amsy810</link>
+        <dc:date>2024-06-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロダクト組織全員がレベルアップする勉強会を継続的に開催する秘訣 (kotatsu)</title>
+        <link>https://speakerdeck.com/kotatsu/purodakutozu-zhi-quan-yuan-gareberuatupusurumian-qiang-hui-woji-sok-de-nikai-cui-surumi-jue</link>
+        <dc:date>2024-06-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Apollo Client  useFragment (Yosuke Kurami)</title>
         <link>https://speakerdeck.com/quramy/apollo-client-usefragment</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>2024-06-25 ソフトウェア設計における思考と学び方を考える  〜増田さんの思考を構造的に見える化してみる〜 (株式会社レヴィ)</title>
         <link>https://speakerdeck.com/levii/2024-06-25-software-design-thinking</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to send distibuted traces to Datadog using build own OpenTelemetry-Lambda distribution (aereal)</title>
-        <link>https://speakerdeck.com/aereal/how-to-send-distibuted-traces-to-datadog-using-build-own-opentelemetry-lambda-distribution</link>
-        <dc:date>2024-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドの Monorepo をやめてリポジトリ分割したワケ / Why did we stop using Monorepo on the frontend and split the repository? (株式会社カミナシ)</title>
-        <link>https://speakerdeck.com/kaminashi/why-did-we-stop-using-monorepo-on-the-frontend-and-split-the-repository</link>
-        <dc:date>2024-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成 AI の評価方法 (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/sheng-cheng-ai-noping-jia-fang-fa</link>
-        <dc:date>2024-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
