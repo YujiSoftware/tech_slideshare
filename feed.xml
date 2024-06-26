@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Recommendation Industry Talks #1 Opening (Shuhei Goda)</title>
+        <link>https://speakerdeck.com/hakubishin3/recommendation-industry-talks-number-1-opening</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Wantedly におけるマッチング体験を最大化させるための推薦システム (Shuhei Goda)</title>
+        <link>https://speakerdeck.com/hakubishin3/wantedly-niokerumatutinguti-yan-wo-zui-da-hua-saserutamenotui-jian-sisutemu</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メルカリホーム画面におけるレコメンド改善事例 - Long-tailを考慮した辞書拡張 (yaginuuun)</title>
+        <link>https://speakerdeck.com/shyaginuma/merukarihomuhua-mian-niokerurekomendogai-shan-shi-li-long-tailwokao-lu-sitaci-shu-kuo-zhang</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DMMのあちこちをパーソナライズする推薦システム (nadare)</title>
+        <link>https://speakerdeck.com/nadare881/dmmnoatikotiwopasonaraizusurutui-jian-sisutemu</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アクセシビリティって何だろう？ -アクセシビリティの概念、そして向き合い方まで- (Yu Morita)</title>
+        <link>https://speakerdeck.com/securecat/akusesibiriteitutehe-darou-akusesibiriteinogai-nian-sositexiang-kihe-ifang-made</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Node.jsのWorker threadsの話 (nus3)</title>
         <link>https://speakerdeck.com/yotahada3/node-dot-jsnoworker-threadsnohua</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>Kotlin Collection関数をマスター (Masayuki Suda)</title>
         <link>https://speakerdeck.com/masayukisuda/kotlin-collectionguan-shu-womasuta</link>
-        <dc:date>2024-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>株式会社万葉「自分ごと」としての産休・育休（持続的エンジニア人生のための組織戦略）　#enechange_meetup (やきとりい)</title>
-        <link>https://speakerdeck.com/yotii23/zhu-shi-hui-she-mo-xie-zi-fen-goto-tositenochan-xiu-yu-xiu-number-enechange-meetup</link>
-        <dc:date>2024-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>例外設計について考えて Kotlin（Spring Boot&amp;Arrow）で実践する/thinking exception design and implementation by kotlin (Msksgm)</title>
-        <link>https://speakerdeck.com/msksgm/thinking-exception-design-and-implementation-by-kotlin</link>
-        <dc:date>2024-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『術中にはめられた！』と嬉しそうにふりかえるチーム 「みんなで協力できるようになることでフロー効率を高める」術のかけ方 (kawanotron)</title>
-        <link>https://speakerdeck.com/kawanotron/shu-zhong-nihamerareta-toxi-sisounihurikaerutimu-minnadexie-li-dekiruyouninarukotodehuroxiao-lu-wogao-meru-shu-nokakefang</link>
-        <dc:date>2024-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>見えないユーザの声はログに埋もれている！ ～ログから具体的なユーザの体験を数値化した事例紹介～ (NAVITIME JAPAN)</title>
-        <link>https://speakerdeck.com/navitimejapan/jian-enaiyuzanosheng-harogunimai-moreteiru-rogukaraju-ti-de-nayuzanoti-yan-woshu-zhi-hua-sitashi-li-shao-jie</link>
-        <dc:date>2024-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>対話したいわ 〜認知バイアスを知り、円滑な対話を〜 / I want to have a dialogue -Knowing cognitive biases and having a smooth dialogue (Pauli)</title>
-        <link>https://speakerdeck.com/pauli/i-want-to-have-a-dialogue-knowing-cognitive-biases-and-having-a-smooth-dialogue</link>
         <dc:date>2024-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
