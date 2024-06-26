@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Node.jsのWorker threadsの話 (nus3)</title>
+        <link>https://speakerdeck.com/yotahada3/node-dot-jsnoworker-threadsnohua</link>
+        <dc:date>2024-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kotest を使って 快適にテストを書こう - KotlinFest 2024 (Hirotaka Kawata,@hktechno)</title>
         <link>https://www.slideshare.net/slideshow/kotest-kotlinfest-2024/269819350</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>対話したいわ 〜認知バイアスを知り、円滑な対話を〜 / I want to have a dialogue -Knowing cognitive biases and having a smooth dialogue (Pauli)</title>
         <link>https://speakerdeck.com/pauli/i-want-to-have-a-dialogue-knowing-cognitive-biases-and-having-a-smooth-dialogue</link>
-        <dc:date>2024-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Jetpack Compose: 効果的なComposable関数のAPI設計 (haru067)</title>
-        <link>https://speakerdeck.com/haru067/jetpack-compose-xiao-guo-de-nacomposableguan-shu-noapishe-ji</link>
         <dc:date>2024-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
