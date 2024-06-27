@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>全社的な生成AI活用プラットフォームとしての Difyの導入事例紹介 (Tokita Mitsuru)</title>
+        <link>https://speakerdeck.com/tokita_kakaku/quan-she-de-nasheng-cheng-aihuo-yong-puratutohuomutositeno-difynodao-ru-shi-li-shao-jie</link>
+        <dc:date>2024-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>10社以上のCTO/技術顧問を経験してみえた 技術組織に起こる課題と対策 (yuji.otani)</title>
         <link>https://speakerdeck.com/otani_yuji/ji-shu-gu-wen-wojing-yan-sitemieta-ji-shu-zu-zhi-niqi-koruke-ti-todui-ce</link>
         <dc:date>2024-06-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Node.jsのWorker threadsの話 (nus3)</title>
         <link>https://speakerdeck.com/yotahada3/node-dot-jsnoworker-threadsnohua</link>
-        <dc:date>2024-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kotest を使って 快適にテストを書こう - KotlinFest 2024 (Hirotaka Kawata,@hktechno)</title>
-        <link>https://www.slideshare.net/slideshow/kotest-kotlinfest-2024/269819350</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
