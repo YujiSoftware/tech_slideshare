@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>突然PCI DSS担当になった人が話すPCI DSS入門 (Kiyokatsu Ogushi (Ohgushi))</title>
+        <link>https://www.slideshare.net/slideshow/pci-dsspci-dss/228132227</link>
+        <dc:date>2024-06-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CentOS 7サポート終了直前！次はどうする？ (koedoyoshida)</title>
         <link>https://speakerdeck.com/koedoyoshida/centos-7sapotozhong-liao-zhi-qian-ci-hadousuru</link>
         <dc:date>2024-06-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>設計の考え方 - インターフェースと腐敗防止層編 #phpconfuk / Interface and Anti Corruption Layer (Shohei Okada)</title>
         <link>https://speakerdeck.com/okashoi/interface-and-anti-corruption-layer</link>
-        <dc:date>2024-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What's new in Xcode 16 ダイジェスト (Kenta Enomoto)</title>
-        <link>https://speakerdeck.com/enomotok/whats-new-in-xcode-16-daiziesuto</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
