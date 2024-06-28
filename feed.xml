@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【Gemini本発売記念】npaka による マルチモーダルとローカルLLMの現在と未来 (npaka)</title>
+        <link>https://speakerdeck.com/npaka/geminiben-fa-mai-ji-nian-npaka-niyoru-marutimodarutorokarullmnoxian-zai-towei-lai</link>
+        <dc:date>2024-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模言語モデル (LLM) の技術と最新動向 (Ikuya Yamada)</title>
         <link>https://speakerdeck.com/ikuyamada/da-gui-mo-yan-yu-moderu-llm-noji-shu-tozui-xin-dong-xiang</link>
         <dc:date>2024-06-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Apollo Client  useFragment (Yosuke Kurami)</title>
         <link>https://speakerdeck.com/quramy/apollo-client-usefragment</link>
-        <dc:date>2024-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>私たちはなぜ事業責任者にならないといけないのか ~Webサービスを作る茨の道~ (KEITA YANAGAWA)</title>
-        <link>https://speakerdeck.com/gimupop/si-tatihanazeshi-ye-ze-ren-zhe-ninaranaitoikenainoka-websabisuwozuo-ruci-nodao</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
