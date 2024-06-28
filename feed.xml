@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>小さくはじめるウェブアクセシビリティ_20240629 (さといも)</title>
+        <link>https://speakerdeck.com/tricolorebox/xiao-sakuhazimeruuebuakusesibiritei-20240629</link>
+        <dc:date>2024-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>数値の文字列をパースしよう (Matsui Masashi)</title>
         <link>https://speakerdeck.com/circled9/20240628-parse-numeric</link>
         <dc:date>2024-06-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Wantedly におけるマッチング体験を最大化させるための推薦システム (Shuhei Goda)</title>
         <link>https://speakerdeck.com/hakubishin3/wantedly-niokerumatutinguti-yan-wo-zui-da-hua-saserutamenotui-jian-sisutemu</link>
-        <dc:date>2024-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メルカリホーム画面におけるレコメンド改善事例 - Long-tailを考慮した辞書拡張 (yaginuuun)</title>
-        <link>https://speakerdeck.com/shyaginuma/merukarihomuhua-mian-niokerurekomendogai-shan-shi-li-long-tailwokao-lu-sitaci-shu-kuo-zhang</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
