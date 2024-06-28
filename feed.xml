@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>やらかしgit リカバリー大作戦！ (Shino)</title>
+        <link>https://speakerdeck.com/shinoh/yarakasigit-rikabarida-zuo-zhan</link>
+        <dc:date>2024-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>全社的な生成AI活用プラットフォームとしての Difyの導入事例紹介 (Tokita Mitsuru)</title>
         <link>https://speakerdeck.com/tokita_kakaku/quan-she-de-nasheng-cheng-aihuo-yong-puratutohuomutositeno-difynodao-ru-shi-li-shao-jie</link>
         <dc:date>2024-06-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アクセシビリティって何だろう？ -アクセシビリティの概念、そして向き合い方まで- (Yu Morita)</title>
         <link>https://speakerdeck.com/securecat/akusesibiriteitutehe-darou-akusesibiriteinogai-nian-sositexiang-kihe-ifang-made</link>
-        <dc:date>2024-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Node.jsのWorker threadsの話 (nus3)</title>
-        <link>https://speakerdeck.com/yotahada3/node-dot-jsnoworker-threadsnohua</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
