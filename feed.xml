@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>数値の文字列をパースしよう (Matsui Masashi)</title>
+        <link>https://speakerdeck.com/circled9/20240628-parse-numeric</link>
+        <dc:date>2024-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>高品質と高スピードを両立させるテストアプローチ/Test Approach that Improves Quality and Agility Together (Hiroki Iseri)</title>
         <link>https://speakerdeck.com/goyoki/test-approach-that-improves-quality-and-agility-together</link>
         <dc:date>2024-06-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>メルカリホーム画面におけるレコメンド改善事例 - Long-tailを考慮した辞書拡張 (yaginuuun)</title>
         <link>https://speakerdeck.com/shyaginuma/merukarihomuhua-mian-niokerurekomendogai-shan-shi-li-long-tailwokao-lu-sitaci-shu-kuo-zhang</link>
-        <dc:date>2024-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DMMのあちこちをパーソナライズする推薦システム (nadare)</title>
-        <link>https://speakerdeck.com/nadare881/dmmnoatikotiwopasonaraizusurutui-jian-sisutemu</link>
         <dc:date>2024-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
