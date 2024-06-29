@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>EC2の脆弱性対応で何が使える？ Inspector や SSM あたりを整理する #nakanoshima_dev (MasahiroKawahara)</title>
+        <link>https://speakerdeck.com/masahirokawahara/ec2nocui-ruo-xing-dui-ying-dehe-gashi-eru-inspector-ya-ssm-atariwozheng-li-suru-number-nakanoshima-dev</link>
+        <dc:date>2024-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクト拡大フェーズでプロダクト検証サイクル効率化を目指す過程で見えたもの / Streamlining Product Validation in Growth Phase (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/streamlining-product-validation-in-growth-phase</link>
         <dc:date>2024-06-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CentOS 7サポート終了直前！次はどうする？ (koedoyoshida)</title>
         <link>https://speakerdeck.com/koedoyoshida/centos-7sapotozhong-liao-zhi-qian-ci-hadousuru</link>
-        <dc:date>2024-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.js の fetch 拡張とキャッシュ機構の違いを理解する (mattsu-)</title>
-        <link>https://speakerdeck.com/ryo_manba/fetch-kuo-zhang-tokiyatusiyuji-gou-nowei-iwoli-jie-suru</link>
         <dc:date>2024-06-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
