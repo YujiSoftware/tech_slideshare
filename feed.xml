@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アクセシビリティは誰のため？</title>
+        <link>https://docs.google.com/presentation/d/1MRhp-N2KloaG0Rr_vYwPHyeZTsfetpumn0j5d_TLUQo/preview</link>
+        <dc:date>2024-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>私の困りごとと解決案 / My issues and proposed solutions (Shota Kubota)</title>
+        <link>https://speakerdeck.com/kubosho/my-issues-and-proposed-solutions</link>
+        <dc:date>2024-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インプロセスQAとテスト自動化の両輪で進める食べログの開発生産性と品質改善の3年間 (ハゲワシ)</title>
         <link>https://speakerdeck.com/hagevvashi/enhancing-development-productivity-and-quality-at-tabelog-over-three-years-the-dual-approach-of-in-process-qa-and-test-automation</link>
         <dc:date>2024-06-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>OpenTelemetry Meetup 2024-06 - ABEMA と分散トレーシングのあゆみ (tetsuya28)</title>
         <link>https://speakerdeck.com/tetsuya28/opentelemetry-meetup-2024-06-abema-tofen-san-toresingunoayumi</link>
-        <dc:date>2024-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IaCにおけるテスト考察 / Tests in IaC (linyows)</title>
-        <link>https://speakerdeck.com/linyows/tests-in-iac</link>
-        <dc:date>2024-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudless Computingの論文紹介 (Yuuki Tsubouchi (yuuk1))</title>
-        <link>https://speakerdeck.com/yuukit/cloudless-computingnolun-wen-shao-jie</link>
         <dc:date>2024-06-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
