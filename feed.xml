@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データドリブン組織の継続的拡大のためのヒント (阿部 昌利)</title>
+        <link>https://speakerdeck.com/masatoshi0205/detadoribunzu-zhi-noji-sok-de-kuo-da-notamenohinto</link>
+        <dc:date>2024-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>EC2の脆弱性対応で何が使える？ Inspector や SSM あたりを整理する #nakanoshima_dev (MasahiroKawahara)</title>
         <link>https://speakerdeck.com/masahirokawahara/ec2nocui-ruo-xing-dui-ying-dehe-gashi-eru-inspector-ya-ssm-atariwozheng-li-suru-number-nakanoshima-dev</link>
         <dc:date>2024-06-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>突然PCI DSS担当になった人が話すPCI DSS入門 (Kiyokatsu Ogushi (Ohgushi))</title>
         <link>https://www.slideshare.net/slideshow/pci-dsspci-dss/228132227</link>
-        <dc:date>2024-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CentOS 7サポート終了直前！次はどうする？ (koedoyoshida)</title>
-        <link>https://speakerdeck.com/koedoyoshida/centos-7sapotozhong-liao-zhi-qian-ci-hadousuru</link>
         <dc:date>2024-06-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
