@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発生産性の観点から考える自動テスト（2024/06版） / Automated Test Knowledge from Savanna 202406 Findy dev-prod-con edition (Takuto Wada)</title>
+        <link>https://speakerdeck.com/twada/automated-test-knowledge-from-savanna-202406-findy-dev-prod-con-edition</link>
+        <dc:date>2024-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践チームトポロジー： プラットフォーム性とイネイブリング性の戦略 / Practical Team Topologies in Timee (Go Akazawa)</title>
         <link>https://speakerdeck.com/go0517go/practical-team-topologies-in-timee</link>
         <dc:date>2024-06-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>大規模言語モデル (LLM) の技術と最新動向 (Ikuya Yamada)</title>
         <link>https://speakerdeck.com/ikuyamada/da-gui-mo-yan-yu-moderu-llm-noji-shu-tozui-xin-dong-xiang</link>
-        <dc:date>2024-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マルチエージェントで性能が上がったText-to-SQLのいま/Text-to-SQL (吉田真吾)</title>
-        <link>https://speakerdeck.com/yoshidashingo/text-to-sql</link>
         <dc:date>2024-06-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
