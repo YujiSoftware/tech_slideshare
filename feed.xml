@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクト拡大フェーズでプロダクト検証サイクル効率化を目指す過程で見えたもの / Streamlining Product Validation in Growth Phase (kakehashi)</title>
+        <link>https://speakerdeck.com/kakehashi/streamlining-product-validation-in-growth-phase</link>
+        <dc:date>2024-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>タクシーアプリ『GO』におけるプラットフォームエンジニアリングの実践 (GO Inc. dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/takusiapuri-go-niokerupuratutohuomuenziniaringunoshi-jian</link>
+        <dc:date>2024-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「開発生産性を上げる改善」って儲かるの？に答えられるようにする / Is development productivity profitable? (Masato Ishigaki / 石垣雅人)</title>
+        <link>https://speakerdeck.com/i35_267/is-development-productivity-profitable</link>
+        <dc:date>2024-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【Gemini本発売記念】npaka による マルチモーダルとローカルLLMの現在と未来 (npaka)</title>
         <link>https://speakerdeck.com/npaka/geminiben-fa-mai-ji-nian-npaka-niyoru-marutimodarutorokarullmnoxian-zai-towei-lai</link>
         <dc:date>2024-06-28T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>Next.js の fetch 拡張とキャッシュ機構の違いを理解する (mattsu-)</title>
         <link>https://speakerdeck.com/ryo_manba/fetch-kuo-zhang-tokiyatusiyuji-gou-nowei-iwoli-jie-suru</link>
         <dc:date>2024-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud Nativeを支える要素技術・プロダクト・プラクティスの歩み / infrastudy-returns-01-amsy810 (Masaya Aoyama (@amsy810))</title>
-        <link>https://speakerdeck.com/masayaaoyama/infrastudy-returns-01-amsy810</link>
-        <dc:date>2024-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクト組織全員がレベルアップする勉強会を継続的に開催する秘訣 (kotatsu)</title>
-        <link>https://speakerdeck.com/kotatsu/purodakutozu-zhi-quan-yuan-gareberuatupusurumian-qiang-hui-woji-sok-de-nikai-cui-surumi-jue</link>
-        <dc:date>2024-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Apollo Client  useFragment (Yosuke Kurami)</title>
-        <link>https://speakerdeck.com/quramy/apollo-client-usefragment</link>
-        <dc:date>2024-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
