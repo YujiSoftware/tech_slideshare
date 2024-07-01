@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【拡張版】 これが知りたかった! WordPressサイトの制作から運用までの全体像と押さえるべきポイント</title>
+        <link>https://docs.google.com/presentation/d/194XanKVmp26M1hvD7qRIfbc6NMZ3OGsJlg8m3tGya7E/preview</link>
+        <dc:date>2024-06-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSで生成AI入門！LLMの基本からRAG、Agentまで (Takuya Yamazaki)</title>
         <link>https://www.docswell.com/s/kkmtyyz/K24X7R-2024-05-31-205635</link>
         <dc:date>2024-06-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LeanとDevOpsのためにE2Eテストができること (MagicPod)</title>
         <link>https://speakerdeck.com/magicpod/leantodevopsnotamenie2etesutogadekirukoto</link>
-        <dc:date>2024-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024年のRailsと自由について考える (Masayoshi Takahashi)</title>
-        <link>https://speakerdeck.com/takahashim/enishitechcconf2024</link>
         <dc:date>2024-06-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
