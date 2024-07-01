@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>運用者の各領域で向き合うLLM (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/yun-yong-zhe-noge-ling-yu-dexiang-kihe-ullm</link>
+        <dc:date>2024-06-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>負荷テスト on AWS のすすめ (AWS Summit Japan 2024 - Ministage session) (Mab)</title>
         <link>https://speakerdeck.com/mabuchs/fu-he-tesuto-on-aws-nosusume-aws-summit-japan-2024-ministage-session</link>
         <dc:date>2024-06-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ビズリーチが目指す「開発生産性」ダッシュボード 〜 データ収集の壁と乗り越え方 〜 / dev-productivity-con2024 (Visional Engineering ＆ Design)</title>
         <link>https://speakerdeck.com/visional_engineering_and_design/dev-productivity-con2024</link>
-        <dc:date>2024-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アーキテクチャレベルで考える開発生産性 / architecture-and-productivity (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/architecture-and-productivity</link>
         <dc:date>2024-06-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
