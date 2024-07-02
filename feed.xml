@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>#CanvaCampHokkaido Vol.1 〜Canvaをつかってみよう〜 (Makky)</title>
+        <link>https://speakerdeck.com/makky_tyuyan/number-canvacamphokkaido-vol-dot-1-canvawotukatutemiyou</link>
+        <dc:date>2024-07-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>makeでつくるGPT-4oを 利用した国旗LINE Bot🎌 (Van🤗)</title>
         <link>https://speakerdeck.com/vanchan2625/makedetukurugpt-4owo-li-yong-sitaguo-qi-line-bot</link>
         <dc:date>2024-07-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>経営視点から捉えた開発生産性 / Development productivity from a management perspective (Masayuki Imamura)</title>
         <link>https://speakerdeck.com/kyuns/development-productivity-from-a-management-perspective</link>
-        <dc:date>2024-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発生産性の観点から考える自動テスト（2024/06版） / Automated Test Knowledge from Savanna 202406 Findy dev-prod-con edition (Takuto Wada)</title>
-        <link>https://speakerdeck.com/twada/automated-test-knowledge-from-savanna-202406-findy-dev-prod-con-edition</link>
         <dc:date>2024-06-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
