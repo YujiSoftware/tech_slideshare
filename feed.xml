@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CTFで出題されたXS-Leaks (ntomoya)</title>
+        <link>https://speakerdeck.com/ntomoya/ctfdechu-ti-saretaxs-leaks-a95f5b6a-134d-4537-a104-233ce9b8c56f</link>
+        <dc:date>2024-07-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>#CanvaCampHokkaido Vol.1 〜Canvaをつかってみよう〜 (Makky)</title>
         <link>https://speakerdeck.com/makky_tyuyan/number-canvacamphokkaido-vol-dot-1-canvawotukatutemiyou</link>
         <dc:date>2024-07-01T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Productivity-Conference-GitHub-20240629 (Yuki Hattori)</title>
         <link>https://speakerdeck.com/yuhattor/productivity-conference-github-20240629</link>
         <dc:date>2024-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>経営視点から捉えた開発生産性 / Development productivity from a management perspective (Masayuki Imamura)</title>
-        <link>https://speakerdeck.com/kyuns/development-productivity-from-a-management-perspective</link>
-        <dc:date>2024-06-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
