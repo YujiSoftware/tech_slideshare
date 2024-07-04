@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240704_AGI福岡_LT_API費用と時給から考えるマルチモーダルなAIとの協業時期 (NobuakiOshiro)</title>
+        <link>https://speakerdeck.com/doradora09/20240704-agifu-gang-lt-apifei-yong-toshi-gei-karakao-erumarutimotarunaaitonoxie-ye-shi-qi</link>
+        <dc:date>2024-07-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20240704 Zero Trust Strategy Implementation and Operational Challenges (Shun Yoshie)</title>
+        <link>https://speakerdeck.com/syoshie/20240704-zero-trust-strategy-implementation-and-operational-challenges</link>
+        <dc:date>2024-07-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>こわくない!! たのしい!! GDExtension (ueshita)</title>
         <link>https://speakerdeck.com/ueshita/kowakunai-tanosii-gdextension</link>
         <dc:date>2024-07-03T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>NLPを活用したオンボーディング改善とコールドスタート問題への対策 (Takanobu Nozawa)</title>
         <link>https://speakerdeck.com/takapy/nlpwohuo-yong-sitaonbodeingugai-shan-tokorudosutatowen-ti-henodui-ce</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Python ライブラリ開発における失敗談 〜開発者に選ばれるライブラリを作るために必要なこと〜 / pycon-jp-2022 (taishi-i)</title>
-        <link>https://speakerdeck.com/taishii/pycon-jp-2022</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Development_C_Extension_with_Pybind11.pdf (Takayuki Suzuki)</title>
-        <link>https://www.slideshare.net/slideshow/developmentcextensionwithpybind11pdf/253572764</link>
         <dc:date>2024-07-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
