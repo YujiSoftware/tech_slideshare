@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSの生成AIサービス入門 ＆ 最強の書籍紹介！ (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/awsnosheng-cheng-aisabisuru-men-and-zui-qiang-noshu-ji-shao-jie</link>
+        <dc:date>2024-07-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VRPの近傍操作SWAP*について調べてみた (NearMeの技術発表資料です)</title>
         <link>https://speakerdeck.com/nearme_tech/vrpnojin-bang-cao-zuo-swap-star-nituitediao-betemita</link>
         <dc:date>2024-07-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Python3.11新機能asyncio.TaskGroup()と2022年asyncioの"Hello-ish world" (Junya Fukuda)</title>
         <link>https://speakerdeck.com/jrfk/python3-dot-11xin-ji-neng-asyncio-dot-taskgroup-to2022nian-asynciono-hello-ish-world</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Event-driven architecture (massa142)</title>
-        <link>https://speakerdeck.com/massa142/event-driven-architecture</link>
         <dc:date>2024-07-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
