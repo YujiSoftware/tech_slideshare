@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VRPの近傍操作SWAP*について調べてみた (NearMeの技術発表資料です)</title>
+        <link>https://speakerdeck.com/nearme_tech/vrpnojin-bang-cao-zuo-swap-star-nituitediao-betemita</link>
+        <dc:date>2024-07-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>awslim - Goで実装された高速なAWS CLIの代替品を作った/layerx.go#1 (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/layerx-dot-go-number-1</link>
         <dc:date>2024-07-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Event-driven architecture (massa142)</title>
         <link>https://speakerdeck.com/massa142/event-driven-architecture</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sphinxを通して考える、「拡張」の仕方 / First approach for development sphinx extension (attakei)</title>
-        <link>https://speakerdeck.com/attakei/first-approach-for-development-sphinx-extension</link>
         <dc:date>2024-07-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
