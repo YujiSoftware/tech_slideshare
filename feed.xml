@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ゲームでも使われているTypeScript</title>
+        <link>https://docs.google.com/presentation/d/1K8umippOPdRYi4jXcmioaMU-KtO5VNcpoVJ_gPNPDIU/preview</link>
+        <dc:date>2024-07-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>初心者がおさえておきたいAWS CDKのベストプラクティス 2024 (Kenji Kono)</title>
         <link>https://speakerdeck.com/konokenj/cdk-best-practice-2024</link>
         <dc:date>2024-07-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SQLクエリ解析によるE2Eデータリネージの実現 / E2E-data-lineage (Toshifumi Tsutsumi)</title>
         <link>https://speakerdeck.com/tosh2230/e2e-data-lineage</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>顧客に指摘される前に 改善の意思決定をする仕組みで、 DJANGOアプリケーションの パフォーマンス改善をした記録 (takeaship)</title>
-        <link>https://speakerdeck.com/takeaship/gu-ke-nizhi-zhai-sareruqian-ni-gai-shan-noyi-si-jue-ding-wosurushi-zu-mide-djangoapurikesiyonno-pahuomansugai-shan-wositaji-lu</link>
         <dc:date>2024-07-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
