@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2024-07-03 Eliminating toil with LLM (Naka Masato)</title>
+        <link>https://speakerdeck.com/nakamasato/03-eliminating-toil-with-llm</link>
+        <dc:date>2024-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プラットフォーム開発の実例と撤退から学ぶ / Learning from examples of platform development and withdrawal (株式会社カミナシ)</title>
+        <link>https://speakerdeck.com/kaminashi/learning-from-examples-of-platform-development-and-withdrawal</link>
+        <dc:date>2024-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メールサービスの信頼性を支えるSREの取り組み (haruki)</title>
+        <link>https://speakerdeck.com/harukin721/merusahisunoxin-lai-xing-wozhi-erusrenoqu-rizu-mi</link>
+        <dc:date>2024-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スクラムマスターって孤独じゃないですか？ (よしたろう)</title>
+        <link>https://speakerdeck.com/yoshitaroyoyo/sukuramumasutatutegu-du-ziyanaidesuka</link>
+        <dc:date>2024-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「swift-testingはじめました」 Quick/Nimbleからの置き換えの最初の一歩 (Fumiya Sakai)</title>
+        <link>https://speakerdeck.com/fumiyasac0921/nimblekaranozhi-kihuan-enozui-chu-no-bu</link>
+        <dc:date>2024-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SMTP RELIABILITY ENGNEERING (azumakuniyuki)</title>
+        <link>https://speakerdeck.com/azumakuniyuki/smtp-reliability-engneering</link>
+        <dc:date>2024-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ゲームでも使われているTypeScript</title>
         <link>https://docs.google.com/presentation/d/1K8umippOPdRYi4jXcmioaMU-KtO5VNcpoVJ_gPNPDIU/preview</link>
         <dc:date>2024-07-05T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>[PyCon JP] Modernizing development workflows for a 7-year old 74K LoC Python project using Pantsbuild (Joongi Kim)</title>
         <link>https://speakerdeck.com/achimnol/pycon-jp-modernizing-development-workflows-for-a-7-year-old-74k-loc-python-project-using-pantsbuild</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>setuptoolsの最近 (Atsushi Odagiri)</title>
-        <link>https://speakerdeck.com/aodag/setuptoolsnozui-jin</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GeoDjango ORMと地理空間データの世界 (abe ryohei)</title>
-        <link>https://speakerdeck.com/selfsryo/geodjango-ormtodi-li-kong-jian-detanoshi-jie</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Python使いのためのスポーツデータ解析のきほん - PySparkとメジャーリーグデータを添えて #PyConJP 2022 (Shinichi Nakagawa)</title>
-        <link>https://speakerdeck.com/shinyorke/pythonshi-inotamenosupotudetajie-xi-nokihon-pysparktomeziyarigudetawotian-ete-number-pyconjp-2022</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データに関する堅牢性と可読性を向上させるpydanticとpanderaの活用方法の提案 (Daiki Katsuragawa)</title>
-        <link>https://speakerdeck.com/daikikatsuragawa/tetaniguan-surujian-lao-xing-toke-du-xing-woxiang-shang-saserupydantictopanderanohuo-yong-fang-fa-noti-an</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonで公的統計APIのオープンデータ活用(PyConJP2022) (Ryo YOSHI)</title>
-        <link>https://speakerdeck.com/welliving/pythondegong-de-tong-ji-apinoopundetahuo-yong-pyconjp2022</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SQLクエリ解析によるE2Eデータリネージの実現 / E2E-data-lineage (Toshifumi Tsutsumi)</title>
-        <link>https://speakerdeck.com/tosh2230/e2e-data-lineage</link>
         <dc:date>2024-07-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
