@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>踏み台の運用が変わる？ VPC上で起動できるようになったCloudShellを語る (平木佳介)</title>
+        <link>https://speakerdeck.com/khiraki/ta-mitai-noyun-yong-gabian-waru-vpcshang-deqi-dong-dekiruyouninatutacloudshellwoyu-ru</link>
+        <dc:date>2024-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2024-07-03 Eliminating toil with LLM (Naka Masato)</title>
         <link>https://speakerdeck.com/nakamasato/03-eliminating-toil-with-llm</link>
         <dc:date>2024-07-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>業務改善の面白さ~毎日更新されるビジュアルコンテンツの差分を わかりやすくするためのプロトタイプを作るまで~ (Marina Nakagawa)</title>
         <link>https://speakerdeck.com/marina1017/ye-wu-gai-shan-nomian-bai-sa</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[PyCon JP] Modernizing development workflows for a 7-year old 74K LoC Python project using Pantsbuild (Joongi Kim)</title>
-        <link>https://speakerdeck.com/achimnol/pycon-jp-modernizing-development-workflows-for-a-7-year-old-74k-loc-python-project-using-pantsbuild</link>
         <dc:date>2024-07-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
