@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>明日から始める持続可能なドキュメンテーション戦略 / Sustainable Documentation Strategies: Documentation as a Product (akitok)</title>
+        <link>https://speakerdeck.com/akitok_/sustainable-documentation-strategies-documentation-as-a-product</link>
+        <dc:date>2024-07-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSアンチパターン戦記 (ARAKI Yasuhiro)</title>
         <link>https://speakerdeck.com/armaniacs/awsantipatanzhan-ji</link>
         <dc:date>2024-07-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>awslim - Goで実装された高速なAWS CLIの代替品を作った/layerx.go#1 (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/layerx-dot-go-number-1</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DMMプラットフォームにおけるTiDBの導入から運用まで (pospome)</title>
-        <link>https://speakerdeck.com/pospome/dmmpuratutohuomuniokerutidbnodao-ru-karayun-yong-made</link>
         <dc:date>2024-07-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
