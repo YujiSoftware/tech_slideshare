@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSアンチパターン戦記 (ARAKI Yasuhiro)</title>
+        <link>https://speakerdeck.com/armaniacs/awsantipatanzhan-ji</link>
+        <dc:date>2024-07-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>UMEKITAFORCE_Prompt_Builderができること.pdf (ShinyaYamada)</title>
         <link>https://speakerdeck.com/shinyayamada/umekitaforce-prompt-builderkatekirukoto</link>
         <dc:date>2024-07-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DMMプラットフォームにおけるTiDBの導入から運用まで (pospome)</title>
         <link>https://speakerdeck.com/pospome/dmmpuratutohuomuniokerutidbnodao-ru-karayun-yong-made</link>
-        <dc:date>2024-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240704_AGI福岡_LT_API費用と時給から考えるマルチモーダルなAIとの協業時期 (NobuakiOshiro)</title>
-        <link>https://speakerdeck.com/doradora09/20240704-agifu-gang-lt-apifei-yong-toshi-gei-karakao-erumarutimotarunaaitonoxie-ye-shi-qi</link>
         <dc:date>2024-07-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
