@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Power Query_Fundamentals (Eiki Sui,@marshal_dabao)</title>
+        <link>https://www.docswell.com/s/marshal_dabao/538PX1-2024-07-08-105358</link>
+        <dc:date>2024-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クラウドセキュリティ入門〜オフェンシブ視点でAWS環境に着目した際の脅威と対策〜 (morioka12)</title>
         <link>https://speakerdeck.com/scgajge12/kuraudosekiyuriteiru-men-ohuensibushi-dian-deawshuan-jing-nizhao-mu-sitaji-noxie-wei-todui-ce</link>
         <dc:date>2024-07-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>踏み台の運用が変わる？ VPC上で起動できるようになったCloudShellを語る (平木佳介)</title>
         <link>https://speakerdeck.com/khiraki/ta-mitai-noyun-yong-gabian-waru-vpcshang-deqi-dong-dekiruyouninatutacloudshellwoyu-ru</link>
-        <dc:date>2024-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024-07-03 Eliminating toil with LLM (Naka Masato)</title>
-        <link>https://speakerdeck.com/nakamasato/03-eliminating-toil-with-llm</link>
         <dc:date>2024-07-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
