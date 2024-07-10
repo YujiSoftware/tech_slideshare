@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>いつPlatform Engineeringを始めるべきか？〜レバテックのケーススタディ〜 Platform Engineering Kaigi 2024 (Tech Leverages)</title>
+        <link>https://speakerdeck.com/leveragestech/ituplatform-engineeringwoshi-merubekika-rebatetukunokesusutadei-platform-engineering-kaigi-2024</link>
+        <dc:date>2024-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>仮名加工化の実践 データ分析基盤における挑戦と学び (tenajima)</title>
+        <link>https://speakerdeck.com/tenajima/jia-ming-jia-gong-hua-noshi-jian-detafen-xi-ji-pan-niokerutiao-zhan-toxue-bi</link>
+        <dc:date>2024-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模言語モデルによる視覚・言語の融合/Large Vision Language Models (Ryota Tanaka)</title>
         <link>https://speakerdeck.com/ryotatanaka/large-vision-language-models</link>
         <dc:date>2024-07-09T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>プラットフォーム開発の実例と撤退から学ぶ / Learning from examples of platform development and withdrawal (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/learning-from-examples-of-platform-development-and-withdrawal</link>
-        <dc:date>2024-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メールサービスの信頼性を支えるSREの取り組み (haruki)</title>
-        <link>https://speakerdeck.com/harukin721/merusahisunoxin-lai-xing-wozhi-erusrenoqu-rizu-mi</link>
-        <dc:date>2024-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スクラムマスターって孤独じゃないですか？ (よしたろう)</title>
-        <link>https://speakerdeck.com/yoshitaroyoyo/sukuramumasutatutegu-du-ziyanaidesuka</link>
         <dc:date>2024-07-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
