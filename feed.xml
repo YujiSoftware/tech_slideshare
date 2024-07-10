@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モノリス開発の名残から脱却、マルチプロダクト開発における多様な開発者のニーズに応える使い勝手と 堅牢性を追求した認可基盤刷新の過程と工夫 (PLAID Tech)</title>
+        <link>https://speakerdeck.com/plaidtech/takumi-ishii_platform-engineering-kaigi-2024</link>
+        <dc:date>2024-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Platform Engineering と SRE の門  (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/platform-engineering-to-sre-nomen</link>
         <dc:date>2024-07-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWSの生成AIサービス入門 ＆ 最強の書籍紹介！ (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/awsnosheng-cheng-aisabisuru-men-and-zui-qiang-noshu-ji-shao-jie</link>
-        <dc:date>2024-07-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VRPの近傍操作SWAP*について調べてみた (NearMeの技術発表資料です)</title>
-        <link>https://speakerdeck.com/nearme_tech/vrpnojin-bang-cao-zuo-swap-star-nituitediao-betemita</link>
         <dc:date>2024-07-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
