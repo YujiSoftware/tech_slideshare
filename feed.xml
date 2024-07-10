@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Shinjuku.rb #92 好きなもの紹介LT RubyKaigi行ってきたよレポ (1mori)</title>
+        <link>https://speakerdeck.com/1mori/shinjuku-dot-rb-number-92-hao-kinamonoshao-jie-lt-rubykaigixing-tutekitayorepo</link>
+        <dc:date>2024-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>私の好きなCopilotの使い方 (Joji Wakairo)</title>
+        <link>https://speakerdeck.com/wakairo/si-nohao-kinacopilotnoshi-ifang</link>
+        <dc:date>2024-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>面白かった本 (muranet)</title>
+        <link>https://speakerdeck.com/muranet/mian-bai-katutaben</link>
+        <dc:date>2024-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DevTools と デバッグ と 私 (Koji NAKAMURA)</title>
+        <link>https://speakerdeck.com/kozy4324/devtools-to-debatugu-to-si</link>
+        <dc:date>2024-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Supabase x Ruby on Rails (4geru sakisaka)</title>
+        <link>https://speakerdeck.com/4geru/supabase-x-ruby-on-rails</link>
+        <dc:date>2024-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モノリス開発の名残から脱却、マルチプロダクト開発における多様な開発者のニーズに応える使い勝手と 堅牢性を追求した認可基盤刷新の過程と工夫 (PLAID Tech)</title>
         <link>https://speakerdeck.com/plaidtech/takumi-ishii_platform-engineering-kaigi-2024</link>
         <dc:date>2024-07-09T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>「swift-testingはじめました」 Quick/Nimbleからの置き換えの最初の一歩 (Fumiya Sakai)</title>
         <link>https://speakerdeck.com/fumiyasac0921/nimblekaranozhi-kihuan-enozui-chu-no-bu</link>
         <dc:date>2024-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SMTP RELIABILITY ENGNEERING (azumakuniyuki)</title>
-        <link>https://speakerdeck.com/azumakuniyuki/smtp-reliability-engneering</link>
-        <dc:date>2024-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゲームでも使われているTypeScript</title>
-        <link>https://docs.google.com/presentation/d/1K8umippOPdRYi4jXcmioaMU-KtO5VNcpoVJ_gPNPDIU/preview</link>
-        <dc:date>2024-07-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初心者がおさえておきたいAWS CDKのベストプラクティス 2024 (Kenji Kono)</title>
-        <link>https://speakerdeck.com/konokenj/cdk-best-practice-2024</link>
-        <dc:date>2024-07-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Javaの現状2024夏 / Java current status 2024 summer (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/java-current-status-2024-summer</link>
-        <dc:date>2024-07-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSの生成AIサービス入門 ＆ 最強の書籍紹介！ (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/awsnosheng-cheng-aisabisuru-men-and-zui-qiang-noshu-ji-shao-jie</link>
-        <dc:date>2024-07-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
