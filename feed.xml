@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>クラウドセキュリティ入門〜オフェンシブ視点でAWS環境に着目した際の脅威と対策〜 (morioka12)</title>
+        <link>https://speakerdeck.com/scgajge12/kuraudosekiyuriteiru-men-ohuensibushi-dian-deawshuan-jing-nizhao-mu-sitaji-noxie-wei-todui-ce</link>
+        <dc:date>2024-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>いつPlatform Engineeringを始めるべきか？〜レバテックのケーススタディ〜 Platform Engineering Kaigi 2024 (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/ituplatform-engineeringwoshi-merubekika-rebatetukunokesusutadei-platform-engineering-kaigi-2024</link>
         <dc:date>2024-07-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2024-07-03 Eliminating toil with LLM (Naka Masato)</title>
         <link>https://speakerdeck.com/nakamasato/03-eliminating-toil-with-llm</link>
-        <dc:date>2024-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プラットフォーム開発の実例と撤退から学ぶ / Learning from examples of platform development and withdrawal (株式会社カミナシ)</title>
-        <link>https://speakerdeck.com/kaminashi/learning-from-examples-of-platform-development-and-withdrawal</link>
         <dc:date>2024-07-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
