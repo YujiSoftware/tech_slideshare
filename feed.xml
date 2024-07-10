@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模言語モデルによる視覚・言語の融合/Large Vision Language Models (Ryota Tanaka)</title>
+        <link>https://speakerdeck.com/ryotatanaka/large-vision-language-models</link>
+        <dc:date>2024-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Shinjuku.rb #92 好きなもの紹介LT RubyKaigi行ってきたよレポ (1mori)</title>
         <link>https://speakerdeck.com/1mori/shinjuku-dot-rb-number-92-hao-kinamonoshao-jie-lt-rubykaigixing-tutekitayorepo</link>
         <dc:date>2024-07-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スクラムマスターって孤独じゃないですか？ (よしたろう)</title>
         <link>https://speakerdeck.com/yoshitaroyoyo/sukuramumasutatutegu-du-ziyanaidesuka</link>
-        <dc:date>2024-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「swift-testingはじめました」 Quick/Nimbleからの置き換えの最初の一歩 (Fumiya Sakai)</title>
-        <link>https://speakerdeck.com/fumiyasac0921/nimblekaranozhi-kihuan-enozui-chu-no-bu</link>
         <dc:date>2024-07-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
