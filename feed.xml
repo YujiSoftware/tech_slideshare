@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>EnablingとEmbeddedのはざまで (tatsuo48,@tatsuo4848)</title>
+        <link>https://www.docswell.com/s/tatsuo48/KYWYYD-enabling-embedded</link>
+        <dc:date>2024-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SREチーム立ち上げ3年目、Embeddedやってみた実践と気づき/the practice of embeddedSRE (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/the-practice-of-embeddedsre</link>
+        <dc:date>2024-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Trinoの長期運用から学んだこと (LY Corporation Tech)</title>
         <link>https://speakerdeck.com/lycorptech_jp/20240711a</link>
         <dc:date>2024-07-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AWSアンチパターン戦記 (ARAKI Yasuhiro)</title>
         <link>https://speakerdeck.com/armaniacs/awsantipatanzhan-ji</link>
-        <dc:date>2024-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UMEKITAFORCE_Prompt_Builderができること.pdf (ShinyaYamada)</title>
-        <link>https://speakerdeck.com/shinyayamada/umekitaforce-prompt-builderkatekirukoto</link>
-        <dc:date>2024-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Umekita Force - 2024-05-09 - Salesforce Data Cloud のユースケース紹介</title>
-        <link>https://docs.google.com/presentation/d/10zrhavFWBOTnGJngcMeh1Mify8IhWW5kq9DsJy9Vegs/preview</link>
         <dc:date>2024-07-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
