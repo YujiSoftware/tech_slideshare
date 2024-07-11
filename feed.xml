@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Trinoの長期運用から学んだこと (LY Corporation Tech)</title>
+        <link>https://speakerdeck.com/lycorptech_jp/20240711a</link>
+        <dc:date>2024-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ガチンコ比較！ LangChain vs LlamaIndex (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/gatinkobi-jiao-langchain-vs-llamaindex</link>
         <dc:date>2024-07-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Umekita Force - 2024-05-09 - Salesforce Data Cloud のユースケース紹介</title>
         <link>https://docs.google.com/presentation/d/10zrhavFWBOTnGJngcMeh1Mify8IhWW5kq9DsJy9Vegs/preview</link>
         <dc:date>2024-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SIM? LTE-M? SORACOM?セルラーLPWA通信 まるわかり！ (SORACOM)</title>
-        <link>https://speakerdeck.com/soracom/about-sim-lte-m-and-soracom</link>
-        <dc:date>2024-07-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
