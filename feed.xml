@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Data Ingestion ETL の技術選定の変遷をADRで振り返る / Data Ingestion ETL ADRs at DataOps Night#4 (Shoji Shirotori)</title>
+        <link>https://speakerdeck.com/irotoris/data-ingestion-etl-adrs-at-dataops-night-number-4</link>
+        <dc:date>2024-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[ServerlessMeetupOsaka#2] AzureServerlessで作るコスパ最強RAGシステム構築 (Taishi Miyata)</title>
         <link>https://speakerdeck.com/teshi22/serverlessmeetuposaka-number-2-azureserverlessdezuo-rukosupazui-qiang-ragsisutemugou-zhu</link>
         <dc:date>2024-07-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ソーシャルゲームの長期運用 を目指すための SRE の取り組み  - 10 周年を⽬指すコトダマンの場合 - (i2tsuki)</title>
         <link>https://speakerdeck.com/i2tsuki/sosiyarugemunochang-qi-yun-yong-womu-zhi-sutameno-sre-noqu-rizu-mi-10-zhou-nian-wo-zhi-sukotodamannochang-he</link>
         <dc:date>2024-07-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Mastering Developer Experience:  A Roadmap for Success 【開発生産性Conference 2024】 (Findy)</title>
-        <link>https://speakerdeck.com/findyinc/mastering-developer-experience-a-roadmap-for-success-kai-fa-sheng-chan-xing-conference-2024</link>
-        <dc:date>2024-07-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
