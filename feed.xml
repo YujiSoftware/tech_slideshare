@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Core MLのアップデート (Shuichi Tsutsumi,@shu223)</title>
+        <link>https://www.docswell.com/s/shu223/56VMYP-coreml</link>
+        <dc:date>2024-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「確率的なオウム」にできること、またそれがなぜできるのかについて (Sho Yokoi)</title>
         <link>https://speakerdeck.com/eumesy/language-models-as-modern-version-of-the-use-theory-of-meaning</link>
         <dc:date>2024-07-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DevTools と デバッグ と 私 (Koji NAKAMURA)</title>
         <link>https://speakerdeck.com/kozy4324/devtools-to-debatugu-to-si</link>
-        <dc:date>2024-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Supabase x Ruby on Rails (4geru sakisaka)</title>
-        <link>https://speakerdeck.com/4geru/supabase-x-ruby-on-rails</link>
         <dc:date>2024-07-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
