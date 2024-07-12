@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>入社1ヶ月でここまでやった！Findy Toolsインフラ支援の最適化 (adachin0817)</title>
+        <link>https://speakerdeck.com/rvirus0817/ru-she-1keyue-tekokomateyatuta-findy-toolsinhurazhi-yuan-nozui-shi-hua</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロジェクト推進におけるLLMチューニング (LayerX)</title>
+        <link>https://speakerdeck.com/layerx/llm-tech-night-kosei-0711</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2024-07-11 Mercari Hallo 立ち上げ時のSRE (Naka Masato)</title>
+        <link>https://speakerdeck.com/nakamasato/2024-07-11-mercari-hallo-li-tishang-geshi-nosre</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloudflare Workers x AWS Lambdaの組み合わせユースケース / Cloudflare Workers x AWS Lambda Combination Use Case (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/cloudflare-workers-x-aws-lambda-combination-use-case</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Core MLのアップデート (Shuichi Tsutsumi,@shu223)</title>
         <link>https://www.docswell.com/s/shu223/56VMYP-coreml</link>
         <dc:date>2024-07-11T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>大規模言語モデルによる視覚・言語の融合/Large Vision Language Models (Ryota Tanaka)</title>
         <link>https://speakerdeck.com/ryotatanaka/large-vision-language-models</link>
-        <dc:date>2024-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Shinjuku.rb #92 好きなもの紹介LT RubyKaigi行ってきたよレポ (1mori)</title>
-        <link>https://speakerdeck.com/1mori/shinjuku-dot-rb-number-92-hao-kinamonoshao-jie-lt-rubykaigixing-tutekitayorepo</link>
-        <dc:date>2024-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>私の好きなCopilotの使い方 (Joji Wakairo)</title>
-        <link>https://speakerdeck.com/wakairo/si-nohao-kinacopilotnoshi-ifang</link>
-        <dc:date>2024-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>面白かった本 (muranet)</title>
-        <link>https://speakerdeck.com/muranet/mian-bai-katutaben</link>
-        <dc:date>2024-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevTools と デバッグ と 私 (Koji NAKAMURA)</title>
-        <link>https://speakerdeck.com/kozy4324/devtools-to-debatugu-to-si</link>
         <dc:date>2024-07-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
