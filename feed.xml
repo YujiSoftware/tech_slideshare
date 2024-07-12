@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「確率的なオウム」にできること、またそれがなぜできるのかについて (Sho Yokoi)</title>
+        <link>https://speakerdeck.com/eumesy/language-models-as-modern-version-of-the-use-theory-of-meaning</link>
+        <dc:date>2024-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AzureのPrompt Flowを使ったRAG精度評価とつらみ (id32h6kz)</title>
         <link>https://speakerdeck.com/hiidemitsu/azurenoprompt-flowwoshi-tutaragjing-du-ping-jia-toturami</link>
         <dc:date>2024-07-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Supabase x Ruby on Rails (4geru sakisaka)</title>
         <link>https://speakerdeck.com/4geru/supabase-x-ruby-on-rails</link>
-        <dc:date>2024-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モノリス開発の名残から脱却、マルチプロダクト開発における多様な開発者のニーズに応える使い勝手と 堅牢性を追求した認可基盤刷新の過程と工夫 (PLAID Tech)</title>
-        <link>https://speakerdeck.com/plaidtech/takumi-ishii_platform-engineering-kaigi-2024</link>
         <dc:date>2024-07-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
