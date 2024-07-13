@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織横断型であるがゆえの楽しみと苦しみ (Ryo Yoshii)</title>
+        <link>https://speakerdeck.com/yoshiiryo1/zu-zhi-heng-duan-xing-dearugayuenole-simitoku-simi</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクトのコードをPandasからPolarsへ書き換えた話 (Yudai Hayashi)</title>
         <link>https://speakerdeck.com/yudai00/purodakutonokodowopandaskarapolarsheshu-kihuan-etahua</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Trinoの長期運用から学んだこと (LY Corporation Tech)</title>
         <link>https://speakerdeck.com/lycorptech_jp/20240711a</link>
-        <dc:date>2024-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ガチンコ比較！ LangChain vs LlamaIndex (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/gatinkobi-jiao-langchain-vs-llamaindex</link>
         <dc:date>2024-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
