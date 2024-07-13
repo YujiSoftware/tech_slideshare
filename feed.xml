@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240713 Generative AI with AWS (@twingo_b)</title>
+        <link>https://speakerdeck.com/twingob/generative-ai-with-aws</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コミュニケーションを「パス」のやりとりと捉え大切にしていること / dai-kichijojipm-2024 (blue_goheimochi)</title>
+        <link>https://speakerdeck.com/blue_goheimochi/dai-kichijojipm-2024</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模言語データの前処理と LLM-as-a-Judge の活用 (yudai yamamoto)</title>
         <link>https://speakerdeck.com/yyo616/da-gui-mo-yan-yu-detanoqian-chu-li-to-llm-as-a-judge-nohuo-yong</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>RAGの簡易評価によるフィードバックサイクル実践 / Feedback cycle practice through simplified assessment of RAGs (Takeshi Kondo)</title>
         <link>https://speakerdeck.com/chaspy/feedback-cycle-practice-through-simplified-assessment-of-rags</link>
-        <dc:date>2024-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「Lambdaレス」なサーバーレスについての考察 (Makky12)</title>
-        <link>https://speakerdeck.com/smt7174/lambdaresu-nasabaresunituitenokao-cha</link>
-        <dc:date>2024-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EnablingとEmbeddedのはざまで (tatsuo48,@tatsuo4848)</title>
-        <link>https://www.docswell.com/s/tatsuo48/KYWYYD-enabling-embedded</link>
         <dc:date>2024-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
