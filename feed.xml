@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大吉祥寺.pm 基調講演 (Yasuhiro Onishi)</title>
+        <link>https://speakerdeck.com/onishi/da-ji-xiang-si-dot-pm-ji-diao-jiang-yan</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>入社1ヶ月でここまでやった！Findy Toolsインフラ支援の最適化 (adachin0817)</title>
         <link>https://speakerdeck.com/rvirus0817/ru-she-1keyue-tekokomateyatuta-findy-toolsinhurazhi-yuan-nozui-shi-hua</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>仮名加工化の実践 データ分析基盤における挑戦と学び (tenajima)</title>
         <link>https://speakerdeck.com/tenajima/jia-ming-jia-gong-hua-noshi-jian-detafen-xi-ji-pan-niokerutiao-zhan-toxue-bi</link>
         <dc:date>2024-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデルによる視覚・言語の融合/Large Vision Language Models (Ryota Tanaka)</title>
-        <link>https://speakerdeck.com/ryotatanaka/large-vision-language-models</link>
-        <dc:date>2024-07-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
