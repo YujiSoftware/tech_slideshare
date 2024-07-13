@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクトのコードをPandasからPolarsへ書き換えた話 (Yudai Hayashi)</title>
+        <link>https://speakerdeck.com/yudai00/purodakutonokodowopandaskarapolarsheshu-kihuan-etahua</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>集中して作業する技術/how_to_work_deeply (Ryo Tomidokoro)</title>
+        <link>https://speakerdeck.com/hanhan1978/how-to-work-deeply</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組織のスケーリングと持続性 / Scaling and Sustainability (Yuichi Tsunematsu)</title>
         <link>https://speakerdeck.com/tunepolo/scaling-and-sustainability</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ガチンコ比較！ LangChain vs LlamaIndex (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/gatinkobi-jiao-langchain-vs-llamaindex</link>
-        <dc:date>2024-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Data Ingestion ETL の技術選定の変遷をADRで振り返る / Data Ingestion ETL ADRs at DataOps Night#4 (Shoji Shirotori)</title>
-        <link>https://speakerdeck.com/irotoris/data-ingestion-etl-adrs-at-dataops-night-number-4</link>
-        <dc:date>2024-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[ServerlessMeetupOsaka#2] AzureServerlessで作るコスパ最強RAGシステム構築 (Taishi Miyata)</title>
-        <link>https://speakerdeck.com/teshi22/serverlessmeetuposaka-number-2-azureserverlessdezuo-rukosupazui-qiang-ragsisutemugou-zhu</link>
         <dc:date>2024-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
