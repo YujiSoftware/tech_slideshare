@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>君たちはどうコードをレビューする (される) か / 大吉祥寺.pm (utagawa kiki)</title>
+        <link>https://speakerdeck.com/utgwkk/da-ji-xiang-si-dot-pm</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大吉祥寺.pm 基調講演 (Yasuhiro Onishi)</title>
         <link>https://speakerdeck.com/onishi/da-ji-xiang-si-dot-pm-ji-diao-jiang-yan</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>いつPlatform Engineeringを始めるべきか？〜レバテックのケーススタディ〜 Platform Engineering Kaigi 2024 (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/ituplatform-engineeringwoshi-merubekika-rebatetukunokesusutadei-platform-engineering-kaigi-2024</link>
-        <dc:date>2024-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仮名加工化の実践 データ分析基盤における挑戦と学び (tenajima)</title>
-        <link>https://speakerdeck.com/tenajima/jia-ming-jia-gong-hua-noshi-jian-detafen-xi-ji-pan-niokerutiao-zhan-toxue-bi</link>
         <dc:date>2024-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
