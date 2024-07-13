@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>多様性の時代を生き抜くキャリアプラニング (yonekubo@テスト駆動開発が好きなアーキテクト,@tyonekubo)</title>
+        <link>https://www.docswell.com/s/tyonekubo/K6VMMP-careerplanning</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Linux コンテナの歴史を追うとコンテナの仕組みがわかる / Dai Kichijoji pm (tenforward)</title>
+        <link>https://speakerdeck.com/tenforward/dai-kichijoji-pm</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>君たちはどうコードをレビューする (される) か / 大吉祥寺.pm (utagawa kiki)</title>
         <link>https://speakerdeck.com/utgwkk/da-ji-xiang-si-dot-pm</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Power Query_Fundamentals (Eiki Sui,@marshal_dabao)</title>
         <link>https://www.docswell.com/s/marshal_dabao/538PX1-2024-07-08-105358</link>
-        <dc:date>2024-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウドセキュリティ入門〜オフェンシブ視点でAWS環境に着目した際の脅威と対策〜 (morioka12)</title>
-        <link>https://speakerdeck.com/scgajge12/kuraudosekiyuriteiru-men-ohuensibushi-dian-deawshuan-jing-nizhao-mu-sitaji-noxie-wei-todui-ce</link>
-        <dc:date>2024-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いつPlatform Engineeringを始めるべきか？〜レバテックのケーススタディ〜 Platform Engineering Kaigi 2024 (Tech Leverages)</title>
-        <link>https://speakerdeck.com/leveragestech/ituplatform-engineeringwoshi-merubekika-rebatetukunokesusutadei-platform-engineering-kaigi-2024</link>
         <dc:date>2024-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
