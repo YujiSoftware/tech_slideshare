@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織のスケーリングと持続性 / Scaling and Sustainability (Yuichi Tsunematsu)</title>
+        <link>https://speakerdeck.com/tunepolo/scaling-and-sustainability</link>
+        <dc:date>2024-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>多様性の時代を生き抜くキャリアプラニング (yonekubo@テスト駆動開発が好きなアーキテクト,@tyonekubo)</title>
         <link>https://www.docswell.com/s/tyonekubo/K6VMMP-careerplanning</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[ServerlessMeetupOsaka#2] AzureServerlessで作るコスパ最強RAGシステム構築 (Taishi Miyata)</title>
         <link>https://speakerdeck.com/teshi22/serverlessmeetuposaka-number-2-azureserverlessdezuo-rukosupazui-qiang-ragsisutemugou-zhu</link>
-        <dc:date>2024-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Power Query_Fundamentals (Eiki Sui,@marshal_dabao)</title>
-        <link>https://www.docswell.com/s/marshal_dabao/538PX1-2024-07-08-105358</link>
         <dc:date>2024-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
