@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240711_RAGを用いたシンプルな 社内情報検索システムを導入した話とつらみ (shunta ichikawa)</title>
+        <link>https://speakerdeck.com/shunta27/20240711-ragwoyong-itasinhuruna-she-nei-qing-bao-jian-suo-sisutemuwodao-ru-sitahua-toturami</link>
+        <dc:date>2024-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240713 Generative AI with AWS (@twingo_b)</title>
         <link>https://speakerdeck.com/twingob/generative-ai-with-aws</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AzureのPrompt Flowを使ったRAG精度評価とつらみ (id32h6kz)</title>
         <link>https://speakerdeck.com/hiidemitsu/azurenoprompt-flowwoshi-tutaragjing-du-ping-jia-toturami</link>
-        <dc:date>2024-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RAGの簡易評価によるフィードバックサイクル実践 / Feedback cycle practice through simplified assessment of RAGs (Takeshi Kondo)</title>
-        <link>https://speakerdeck.com/chaspy/feedback-cycle-practice-through-simplified-assessment-of-rags</link>
         <dc:date>2024-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
