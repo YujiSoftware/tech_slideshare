@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オブザーバビリティ・エンジニアリング本を輪読して取り組んだo11yのはじめの一歩 (Soichiro Korenaga)</title>
+        <link>https://speakerdeck.com/koresou/obuzababiriteienziniaringuben-wolun-du-sitequ-rizu-ndao11ynohazimeno-bu</link>
+        <dc:date>2024-07-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜ宣言的 UI は壊れにくいのか / Why declarative UI is less fragile (Ueni)</title>
+        <link>https://speakerdeck.com/uenitty/why-declarative-ui-is-less-fragile</link>
+        <dc:date>2024-07-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>僕はまだ見ぬ誰かを動かすために登壇をする。 (nakamichi)</title>
         <link>https://speakerdeck.com/ichimichi/pu-hamadajian-nushui-kawodong-kasutamenideng-tan-wosuru</link>
         <dc:date>2024-07-13T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>2024-07-11 Mercari Hallo 立ち上げ時のSRE (Naka Masato)</title>
         <link>https://speakerdeck.com/nakamasato/2024-07-11-mercari-hallo-li-tishang-geshi-nosre</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Workers x AWS Lambdaの組み合わせユースケース / Cloudflare Workers x AWS Lambda Combination Use Case (shiro seike)</title>
-        <link>https://speakerdeck.com/seike460/cloudflare-workers-x-aws-lambda-combination-use-case</link>
-        <dc:date>2024-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Core MLのアップデート (Shuichi Tsutsumi,@shu223)</title>
-        <link>https://www.docswell.com/s/shu223/56VMYP-coreml</link>
-        <dc:date>2024-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
