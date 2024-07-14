@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>そのスキル本当に必要？デザイナーが伸び悩まないためにはじめたこと (井上辰徳)</title>
+        <link>https://speakerdeck.com/inoue_tatsunori/sofalsesukiruben-dang-nibi-yao-dezainagashen-binao-manaitamenihazimetakoto-425ef8e8-34ef-49a5-9ab4-46cfb3dd56b5</link>
+        <dc:date>2024-07-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オブザーバビリティ・エンジニアリング本を輪読して取り組んだo11yのはじめの一歩 (Soichiro Korenaga)</title>
         <link>https://speakerdeck.com/koresou/obuzababiriteienziniaringuben-wolun-du-sitequ-rizu-ndao11ynohazimeno-bu</link>
         <dc:date>2024-07-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロジェクト推進におけるLLMチューニング (LayerX)</title>
         <link>https://speakerdeck.com/layerx/llm-tech-night-kosei-0711</link>
-        <dc:date>2024-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024-07-11 Mercari Hallo 立ち上げ時のSRE (Naka Masato)</title>
-        <link>https://speakerdeck.com/nakamasato/2024-07-11-mercari-hallo-li-tishang-geshi-nosre</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
