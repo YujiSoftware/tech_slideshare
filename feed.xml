@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最古の関数型言語「Lisp」ことはじめ / lisp_in_kamiyama (uhooi)</title>
+        <link>https://speakerdeck.com/uhooi/lisp-in-kamiyama</link>
+        <dc:date>2024-07-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue.js, React.jsとSwiftUIのpropsを比較する@神山.swift (gangan)</title>
+        <link>https://speakerdeck.com/shingangan/vue-dot-js-react-dot-jstoswiftuinopropswobi-jiao-suru-at-shen-shan-dot-swift</link>
+        <dc:date>2024-07-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>こんなUIってSwiftUIでこう作るのか！を解剖してみた (Fumiya Sakai)</title>
+        <link>https://speakerdeck.com/fumiyasac0921/konnauituteswiftuidekouzuo-runoka-wojie-pou-sitemita</link>
+        <dc:date>2024-07-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>揺れものとコントロールリグ UEを使用したバーチャルライブでの実例 (Indie-us Games,@IndieusGames)</title>
         <link>https://www.docswell.com/s/indieusgames/K4Q2XJ-2024-06-14-175045</link>
         <dc:date>2024-07-14T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Linux コンテナの歴史を追うとコンテナの仕組みがわかる / Dai Kichijoji pm (tenforward)</title>
         <link>https://speakerdeck.com/tenforward/dai-kichijoji-pm</link>
-        <dc:date>2024-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>君たちはどうコードをレビューする (される) か / 大吉祥寺.pm (utagawa kiki)</title>
-        <link>https://speakerdeck.com/utgwkk/da-ji-xiang-si-dot-pm</link>
-        <dc:date>2024-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大吉祥寺.pm 基調講演 (Yasuhiro Onishi)</title>
-        <link>https://speakerdeck.com/onishi/da-ji-xiang-si-dot-pm-ji-diao-jiang-yan</link>
-        <dc:date>2024-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入社1ヶ月でここまでやった！Findy Toolsインフラ支援の最適化 (adachin0817)</title>
-        <link>https://speakerdeck.com/rvirus0817/ru-she-1keyue-tekokomateyatuta-findy-toolsinhurazhi-yuan-nozui-shi-hua</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
