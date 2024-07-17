@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Actions でプライベートなネットワークにアクセスしたい (ussvgr,@ussvgr)</title>
+        <link>https://www.docswell.com/s/ussvgr/5EX4L7-gitHub-actions-private-network</link>
+        <dc:date>2024-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クラウドネイティブの本質から考える、生産性と信頼性の両立 (Kazuto Kusama)</title>
         <link>https://speakerdeck.com/jacopen/kuraudoneiteibunoben-zhi-karakao-eru-sheng-chan-xing-toxin-lai-xing-noliang-li</link>
         <dc:date>2024-07-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロダクトのコードをPandasからPolarsへ書き換えた話 (Yudai Hayashi)</title>
         <link>https://speakerdeck.com/yudai00/purodakutonokodowopandaskarapolarsheshu-kihuan-etahua</link>
-        <dc:date>2024-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>集中して作業する技術/how_to_work_deeply (Ryo Tomidokoro)</title>
-        <link>https://speakerdeck.com/hanhan1978/how-to-work-deeply</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
