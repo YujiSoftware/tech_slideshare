@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Liberty Dojo 2024 第1回「いまからでも遅くない！LibertyでエンタープライズJavaのモダナイズ」 (Takakiyo Tanaka)</title>
+        <link>https://speakerdeck.com/takakiyo/liberty-dojo-2024-di-1hui-imakarademochi-kunai-libertydeentapuraizujavanomodanaizu</link>
+        <dc:date>2024-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Liberty Dojo 2024 第3回「Liberty 開発ツール入門」 (Takakiyo Tanaka)</title>
+        <link>https://speakerdeck.com/takakiyo/liberty-dojo-2024-di-3hui-liberty-kai-fa-tururu-men</link>
+        <dc:date>2024-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゆめみのアクセシビリティの現在地と今後 (ryokatsuse)</title>
+        <link>https://speakerdeck.com/ryokatsuse/yumeminoakusesihiriteinoxian-zai-di-tojin-hou</link>
+        <dc:date>2024-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Actions でプライベートなネットワークにアクセスしたい (ussvgr,@ussvgr)</title>
         <link>https://www.docswell.com/s/ussvgr/5EX4L7-gitHub-actions-private-network</link>
         <dc:date>2024-07-16T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>大規模言語データの前処理と LLM-as-a-Judge の活用 (yudai yamamoto)</title>
         <link>https://speakerdeck.com/yyo616/da-gui-mo-yan-yu-detanoqian-chu-li-to-llm-as-a-judge-nohuo-yong</link>
-        <dc:date>2024-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発部に不満を持っていたCSがエンジニアにジョブチェンしてわかった「勝手に諦めない」ことの大切さ (Sakurai)</title>
-        <link>https://speakerdeck.com/sakuraikotone/kai-fa-bu-nibu-man-wochi-tuteitacsgaenzinianiziyobutiensitewakatuta-sheng-shou-nidi-menai-kotonoda-qie-sa</link>
-        <dc:date>2024-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組織横断型であるがゆえの楽しみと苦しみ (Ryo Yoshii)</title>
-        <link>https://speakerdeck.com/yoshiiryo1/zu-zhi-heng-duan-xing-dearugayuenole-simitoku-simi</link>
-        <dc:date>2024-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトのコードをPandasからPolarsへ書き換えた話 (Yudai Hayashi)</title>
-        <link>https://speakerdeck.com/yudai00/purodakutonokodowopandaskarapolarsheshu-kihuan-etahua</link>
         <dc:date>2024-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
