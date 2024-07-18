@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Platform Engineeringの功罪 in DMM (jono)</title>
+        <link>https://speakerdeck.com/hilenet/platform-engineeringnogong-zui-in-dmm</link>
+        <dc:date>2024-07-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サーバーレスファーストで考えるクレジットカードビジネスの最適化 / Business Optimization for Credit Card by Serverless (iselegant)</title>
         <link>https://speakerdeck.com/iselegant/business-optimization-for-credit-card-by-serverless</link>
         <dc:date>2024-07-17T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>なぜ宣言的 UI は壊れにくいのか / Why declarative UI is less fragile (Ueni)</title>
         <link>https://speakerdeck.com/uenitty/why-declarative-ui-is-less-fragile</link>
         <dc:date>2024-07-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>僕はまだ見ぬ誰かを動かすために登壇をする。 (nakamichi)</title>
-        <link>https://speakerdeck.com/ichimichi/pu-hamadajian-nushui-kawodong-kasutamenideng-tan-wosuru</link>
-        <dc:date>2024-07-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
