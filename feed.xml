@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エレガントパズル 30分 ダイジェスト版/ Elegant Puzzle 30min Digest (iwashi)</title>
+        <link>https://speakerdeck.com/iwashi86/elegant-puzzle-30min-digest</link>
+        <dc:date>2024-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ボイラープレート自動生成ツールを使わなくなった話.pdf (sugar)</title>
+        <link>https://speakerdeck.com/sugarcat7/hoirahuretozi-dong-sheng-cheng-turuwoshi-wanakunatutahua</link>
+        <dc:date>2024-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模Hive-Trino移行PJの事例紹介 (LY Corporation Tech)</title>
+        <link>https://speakerdeck.com/lycorptech_jp/20240716a</link>
+        <dc:date>2024-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DDDにおける認可の扱いとKotlinにおける実装パターン / authorization-for-ddd-and-kotlin-implement-pattern (urmot)</title>
+        <link>https://speakerdeck.com/urmot/authorization-for-ddd-and-kotlin-implement-pattern</link>
+        <dc:date>2024-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>逆ポーランド記法とpreg_match_all (asumikam)</title>
+        <link>https://speakerdeck.com/asumikam/rpn-and-preg-match-all</link>
+        <dc:date>2024-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ヘルプデスクの事例で学ぶAIエージェント (masatoto)</title>
         <link>https://speakerdeck.com/masatoto/herupudesukunoshi-li-dexue-buaieziento</link>
         <dc:date>2024-07-18T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>esbuild 最適化芸人 (TATSUNO Yasuhiro)</title>
         <link>https://speakerdeck.com/exoego/esbuild-zui-shi-hua-yun-ren</link>
-        <dc:date>2024-07-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「責任ある開発」を！フルサービスオーナーシップが変えるエンジニアリング文化 (Kazuto Kusama)</title>
-        <link>https://speakerdeck.com/jacopen/ze-ren-arukai-fa-wo-hurusabisuonasitupugabian-eruenziniaringuwen-hua</link>
-        <dc:date>2024-07-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Liberty Dojo 2024 第1回「いまからでも遅くない！LibertyでエンタープライズJavaのモダナイズ」 (Takakiyo Tanaka)</title>
-        <link>https://speakerdeck.com/takakiyo/liberty-dojo-2024-di-1hui-imakarademochi-kunai-libertydeentapuraizujavanomodanaizu</link>
-        <dc:date>2024-07-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Liberty Dojo 2024 第3回「Liberty 開発ツール入門」 (Takakiyo Tanaka)</title>
-        <link>https://speakerdeck.com/takakiyo/liberty-dojo-2024-di-3hui-liberty-kai-fa-tururu-men</link>
-        <dc:date>2024-07-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゆめみのアクセシビリティの現在地と今後 (ryokatsuse)</title>
-        <link>https://speakerdeck.com/ryokatsuse/yumeminoakusesihiriteinoxian-zai-di-tojin-hou</link>
-        <dc:date>2024-07-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Actions でプライベートなネットワークにアクセスしたい (ussvgr,@ussvgr)</title>
-        <link>https://www.docswell.com/s/ussvgr/5EX4L7-gitHub-actions-private-network</link>
         <dc:date>2024-07-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
