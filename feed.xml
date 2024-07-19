@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Android : What's new in Android Overview</title>
+        <link>https://docs.google.com/presentation/d/1MzIQ-dnjLdEldFcOGmAeAm1nFuFJu7cCMDH_6p4TmaE/preview</link>
+        <dc:date>2024-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ML : Google I/O 2019_adamrocker</title>
+        <link>https://docs.google.com/presentation/d/1ucdN11kknJNpGWtGRkHafjWlDAnTGfxpk84Udm9a7nY/preview</link>
+        <dc:date>2024-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模マルチテナントを解決するYugabyteDBという選択肢 (nnaka2992)</title>
+        <link>https://speakerdeck.com/nnaka2992/da-gui-mo-marutitenantowojie-jue-suruyugabytedbtoiuxuan-ze-zhi</link>
+        <dc:date>2024-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「2024年版 Kotlin サーバーサイドプログラミング実践開発」の補講 〜O/Rマッパー編〜 (Takehata Naoto)</title>
+        <link>https://speakerdeck.com/n_takehata/kotlin-server-side-programming-practice-2024-makeup-classes</link>
+        <dc:date>2024-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コード生成を伴う LLM エージェント - 2024.07.18 Tokyo AI (Shumpei Miyawaki)</title>
         <link>https://speakerdeck.com/smiyawaki0820/kodosheng-cheng-woban-u-llm-eziento-2024-dot-07-dot-18-tokyo-ai</link>
         <dc:date>2024-07-18T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>脅威モデリングとの出会いと実践 (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
         <link>https://www.docswell.com/s/WN_Tech-PR/582YYW-2024-07-11-170416</link>
         <dc:date>2024-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最古の関数型言語「Lisp」ことはじめ / lisp_in_kamiyama (uhooi)</title>
-        <link>https://speakerdeck.com/uhooi/lisp-in-kamiyama</link>
-        <dc:date>2024-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue.js, React.jsとSwiftUIのpropsを比較する@神山.swift (gangan)</title>
-        <link>https://speakerdeck.com/shingangan/vue-dot-js-react-dot-jstoswiftuinopropswobi-jiao-suru-at-shen-shan-dot-swift</link>
-        <dc:date>2024-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>こんなUIってSwiftUIでこう作るのか！を解剖してみた (Fumiya Sakai)</title>
-        <link>https://speakerdeck.com/fumiyasac0921/konnauituteswiftuidekouzuo-runoka-wojie-pou-sitemita</link>
-        <dc:date>2024-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>揺れものとコントロールリグ UEを使用したバーチャルライブでの実例 (Indie-us Games,@IndieusGames)</title>
-        <link>https://www.docswell.com/s/indieusgames/K4Q2XJ-2024-06-14-175045</link>
-        <dc:date>2024-07-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
