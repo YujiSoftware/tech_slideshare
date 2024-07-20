@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>mobile dev japan 0318 (for share)</title>
+        <link>https://docs.google.com/presentation/d/10K0YlWawVHXojXUsOzcCAALjFuN6GlH6dWUE_CrL_Mg/preview</link>
+        <dc:date>2024-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Architecture Design for Local Database ~ Realm, CoreData, SwiftData ~ (ムッチョ)</title>
+        <link>https://speakerdeck.com/musayazuju/architecture-design-for-local-database-realm-coredata-swiftdata</link>
+        <dc:date>2024-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>How to make Stripe and RevenueCat coexist in an app (KBOY)</title>
+        <link>https://speakerdeck.com/fujikawakei/how-to-make-stripe-and-revenuecat-coexist-in-an-app</link>
+        <dc:date>2024-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Introduction to 3D/AR with Sceneview on Android (Jerome)</title>
+        <link>https://speakerdeck.com/jeromecha/ar-with-sceneview-on-android</link>
+        <dc:date>2024-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Hello, NativeScript (Jamie Birch)</title>
+        <link>https://speakerdeck.com/shirakaba/hello-nativescript</link>
+        <dc:date>2024-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Docker互換のセキュアなコンテナ実行環境「Podman」超入門 (とことんDevOps)</title>
         <link>https://speakerdeck.com/devops_vtj/dockerhu-huan-nosekiyuanakontenashi-xing-huan-jing-podman-chao-ru-men</link>
         <dc:date>2024-07-19T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>大規模マルチテナントを解決するYugabyteDBという選択肢 (nnaka2992)</title>
         <link>https://speakerdeck.com/nnaka2992/da-gui-mo-marutitenantowojie-jue-suruyugabytedbtoiuxuan-ze-zhi</link>
         <dc:date>2024-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「2024年版 Kotlin サーバーサイドプログラミング実践開発」の補講 〜O/Rマッパー編〜 (Takehata Naoto)</title>
-        <link>https://speakerdeck.com/n_takehata/kotlin-server-side-programming-practice-2024-makeup-classes</link>
-        <dc:date>2024-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コード生成を伴う LLM エージェント - 2024.07.18 Tokyo AI (Shumpei Miyawaki)</title>
-        <link>https://speakerdeck.com/smiyawaki0820/kodosheng-cheng-woban-u-llm-eziento-2024-dot-07-dot-18-tokyo-ai</link>
-        <dc:date>2024-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>成長期に歩みを止めないための創業期の開発文化形成 (mayah)</title>
-        <link>https://speakerdeck.com/mayah/cheng-chang-qi-nibu-miwozhi-menaitamenochuang-ye-qi-nokai-fa-wen-hua-xing-cheng</link>
-        <dc:date>2024-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エラーハンドリングを少しずつ改善していく / improving error handling little by little (コドモン開発チーム)</title>
-        <link>https://speakerdeck.com/codmoninc/improving-error-handling-little-by-little</link>
-        <dc:date>2024-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Platform Engineeringの功罪 in DMM (jono)</title>
-        <link>https://speakerdeck.com/hilenet/platform-engineeringnogong-zui-in-dmm</link>
-        <dc:date>2024-07-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
