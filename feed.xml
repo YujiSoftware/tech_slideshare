@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スタートアップにおける組織設計とスクラムの長期戦略 / Scrum Fest Kanazawa 2024 (Yoshiki Iida)</title>
+        <link>https://speakerdeck.com/yoshikiiida/scrum-fest-kanazawa-2024</link>
+        <dc:date>2024-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>機械学習による統計的実験計画（ベイズ最適化を中心に） (Kota Matsui)</title>
         <link>https://www.slideshare.net/slideshow/ss-250012988/250012988</link>
         <dc:date>2024-07-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サーバーレスファーストで考えるクレジットカードビジネスの最適化 / Business Optimization for Credit Card by Serverless (iselegant)</title>
         <link>https://speakerdeck.com/iselegant/business-optimization-for-credit-card-by-serverless</link>
-        <dc:date>2024-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MySQLのロックの種類とその競合 (yoku0825)</title>
-        <link>https://speakerdeck.com/yoku0825/mysqlnorotukunozhong-lei-tosonojing-he</link>
         <dc:date>2024-07-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
