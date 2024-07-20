@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Docker互換のセキュアなコンテナ実行環境「Podman」超入門 (とことんDevOps)</title>
+        <link>https://speakerdeck.com/devops_vtj/dockerhu-huan-nosekiyuanakontenashi-xing-huan-jing-podman-chao-ru-men</link>
+        <dc:date>2024-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スタートアップにおける組織設計とスクラムの長期戦略 / Scrum Fest Kanazawa 2024 (Yoshiki Iida)</title>
         <link>https://speakerdeck.com/yoshikiiida/scrum-fest-kanazawa-2024</link>
         <dc:date>2024-07-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Platform Engineeringの功罪 in DMM (jono)</title>
         <link>https://speakerdeck.com/hilenet/platform-engineeringnogong-zui-in-dmm</link>
-        <dc:date>2024-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーレスファーストで考えるクレジットカードビジネスの最適化 / Business Optimization for Credit Card by Serverless (iselegant)</title>
-        <link>https://speakerdeck.com/iselegant/business-optimization-for-credit-card-by-serverless</link>
         <dc:date>2024-07-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
