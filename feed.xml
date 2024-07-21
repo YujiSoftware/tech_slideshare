@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サービスの持続的な成長と技術負債について (SIVA)</title>
+        <link>https://speakerdeck.com/siva_official/sustainable-growth-and-technical-debt</link>
+        <dc:date>2024-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>楽しくGoを学び合う、LayerXの勉強会文化 / LayerX's study culture of having fun and learning Go together (ar_tama)</title>
         <link>https://speakerdeck.com/ar_tama/layerxs-study-culture-of-having-fun-and-learning-go-together</link>
         <dc:date>2024-07-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>mobile dev japan 0318 (for share)</title>
         <link>https://docs.google.com/presentation/d/10K0YlWawVHXojXUsOzcCAALjFuN6GlH6dWUE_CrL_Mg/preview</link>
-        <dc:date>2024-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Architecture Design for Local Database ~ Realm, CoreData, SwiftData ~ (ムッチョ)</title>
-        <link>https://speakerdeck.com/musayazuju/architecture-design-for-local-database-realm-coredata-swiftdata</link>
         <dc:date>2024-07-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
