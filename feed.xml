@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Using OBS to Build Containerized Application Image  (Andi Sugandi)</title>
+        <link>https://speakerdeck.com/andisugandi/using-obs-to-build-containerized-application-image</link>
+        <dc:date>2024-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Become a TDF Member (Franklin Weng)</title>
+        <link>https://speakerdeck.com/fweng322/become-a-tdf-member</link>
+        <dc:date>2024-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The Interoperability of Documents (was: A War of File Format) (Franklin Weng)</title>
+        <link>https://speakerdeck.com/fweng322/the-interoperability-of-documents-was-a-war-of-file-format</link>
+        <dc:date>2024-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kernel entrance to-geek- (mao999)</title>
+        <link>https://www.slideshare.net/slideshow/kernel-entrance-togeek-81301836/81301836</link>
+        <dc:date>2024-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>openSUSE tools on Debian (Hideki Yamane)</title>
+        <link>https://www.slideshare.net/slideshow/opensuse-tools-on-debian-81015400/81015400</link>
+        <dc:date>2024-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Large-scale deploy by AutoYast (Hillwood Yang)</title>
+        <link>https://www.slideshare.net/slideshow/largescale-deploy-by-autoyast/81193045</link>
+        <dc:date>2024-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Building japanese full text search system by Solr (Syuta Hashimoto)</title>
+        <link>https://www.slideshare.net/slideshow/building-japanese-full-text-search-system-by-solr/81152730</link>
+        <dc:date>2024-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LibreOffice: The Office Suite with Mixing Bowl Culture (Naruhiko Ogasawara,@naru0ga)</title>
+        <link>https://www.slideshare.net/slideshow/libreoffice-the-office-suite-with-mixing-bowl-culture/81068733</link>
+        <dc:date>2024-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>How &amp; Why we have connected Slack &amp; IRC (Youngbin Han,@sukso96100)</title>
+        <link>https://www.slideshare.net/slideshow/how-why-we-have-connected-slack-irc-81046128/81046128</link>
+        <dc:date>2024-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title> Hacking with x86 Windows Tablet and mobile devices on openSUSE　#opensuseasia17 (Netwalker lab kapper,@kapper1224)</title>
+        <link>https://www.slideshare.net/slideshow/hacking-with-x86-windows-tablet-and-mobile-devices-on-opensuseopensuseasia17-80873767/80873767</link>
+        <dc:date>2024-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>可視化プラットフォームGrafanaの基本と活用方法の全て (濱田孝治)</title>
         <link>https://speakerdeck.com/hamadakoji/ke-shi-hua-puratutohuomugrafananoji-ben-tohuo-yong-fang-fa-noquan-te</link>
         <dc:date>2024-07-20T15:00:00Z</dc:date>
@@ -54,55 +104,5 @@
         <title>Introduction to 3D/AR with Sceneview on Android (Jerome)</title>
         <link>https://speakerdeck.com/jeromecha/ar-with-sceneview-on-android</link>
         <dc:date>2024-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hello, NativeScript (Jamie Birch)</title>
-        <link>https://speakerdeck.com/shirakaba/hello-nativescript</link>
-        <dc:date>2024-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Docker互換のセキュアなコンテナ実行環境「Podman」超入門 (とことんDevOps)</title>
-        <link>https://speakerdeck.com/devops_vtj/dockerhu-huan-nosekiyuanakontenashi-xing-huan-jing-podman-chao-ru-men</link>
-        <dc:date>2024-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタートアップにおける組織設計とスクラムの長期戦略 / Scrum Fest Kanazawa 2024 (Yoshiki Iida)</title>
-        <link>https://speakerdeck.com/yoshikiiida/scrum-fest-kanazawa-2024</link>
-        <dc:date>2024-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習による統計的実験計画（ベイズ最適化を中心に） (Kota Matsui)</title>
-        <link>https://www.slideshare.net/slideshow/ss-250012988/250012988</link>
-        <dc:date>2024-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CTOから見た事業開発とプロダクト開発 / My Perspective on Business and Product Development as CTO (Keisuke69)</title>
-        <link>https://speakerdeck.com/keisuke69/my-perspective-on-business-and-product-development-as-cto</link>
-        <dc:date>2024-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エレガントパズル 30分 ダイジェスト版/ Elegant Puzzle 30min Digest (iwashi)</title>
-        <link>https://speakerdeck.com/iwashi86/elegant-puzzle-30min-digest</link>
-        <dc:date>2024-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ボイラープレート自動生成ツールを使わなくなった話.pdf (sugar)</title>
-        <link>https://speakerdeck.com/sugarcat7/hoirahuretozi-dong-sheng-cheng-turuwoshi-wanakunatutahua</link>
-        <dc:date>2024-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模Hive-Trino移行PJの事例紹介 (LY Corporation Tech)</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20240716a</link>
-        <dc:date>2024-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DDDにおける認可の扱いとKotlinにおける実装パターン / authorization-for-ddd-and-kotlin-implement-pattern (urmot)</title>
-        <link>https://speakerdeck.com/urmot/authorization-for-ddd-and-kotlin-implement-pattern</link>
-        <dc:date>2024-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>逆ポーランド記法とpreg_match_all (asumikam)</title>
-        <link>https://speakerdeck.com/asumikam/rpn-and-preg-match-all</link>
-        <dc:date>2024-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
