@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模エンタープライズの全員参加が可能な内部開発者ポータルの野望 (Takeshi Yaegashi,@hogegashi)</title>
+        <link>https://www.docswell.com/s/yaegashi/KDEYLV-pek2024</link>
+        <dc:date>2024-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Using OBS to Build Containerized Application Image  (Andi Sugandi)</title>
         <link>https://speakerdeck.com/andisugandi/using-obs-to-build-containerized-application-image</link>
         <dc:date>2024-07-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>How to make Stripe and RevenueCat coexist in an app (KBOY)</title>
         <link>https://speakerdeck.com/fujikawakei/how-to-make-stripe-and-revenuecat-coexist-in-an-app</link>
-        <dc:date>2024-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction to 3D/AR with Sceneview on Android (Jerome)</title>
-        <link>https://speakerdeck.com/jeromecha/ar-with-sceneview-on-android</link>
         <dc:date>2024-07-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
