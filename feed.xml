@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フルクラウド環境下でのペネトレーションテスト (Yuya Asato)</title>
+        <link>https://speakerdeck.com/328/hurukurautohuan-jing-xia-tenohenetoresiyontesuto</link>
+        <dc:date>2024-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>devio-2024-Introduction-golang-backend (mokocm)</title>
         <link>https://speakerdeck.com/mokocm/devio-2024-introduction-golang-backend</link>
         <dc:date>2024-07-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LibreOffice: The Office Suite with Mixing Bowl Culture (Naruhiko Ogasawara,@naru0ga)</title>
         <link>https://www.slideshare.net/slideshow/libreoffice-the-office-suite-with-mixing-bowl-culture/81068733</link>
-        <dc:date>2024-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How &amp; Why we have connected Slack &amp; IRC (Youngbin Han,@sukso96100)</title>
-        <link>https://www.slideshare.net/slideshow/how-why-we-have-connected-slack-irc-81046128/81046128</link>
         <dc:date>2024-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
