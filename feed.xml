@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Introduction of Happy Eyeballs Version 2 (RFC8305) to the Socket library (Misaki Shioi(塩井美咲/しおい))</title>
+        <link>https://speakerdeck.com/coe401_/introduction-of-happy-eyeballs-version-2-rfc8305-to-the-socket-library</link>
+        <dc:date>2024-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Namespace on read (Satoshi Tagomori)</title>
         <link>https://speakerdeck.com/tagomoris/namespace-on-read</link>
         <dc:date>2024-07-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>What is DRE? - Road to SRE NEXT@広島 (chanyou0311)</title>
         <link>https://speakerdeck.com/chanyou0311/what-is-dre-road-to-sre-next-at-guang-dao</link>
-        <dc:date>2024-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタートアップにおける Platform Engineering の 片鱗 / A glimpse of platform engineering in startups (株式会社ビットキー / Bitkey Inc.)</title>
-        <link>https://speakerdeck.com/bitkey/a-glimpse-of-platform-engineering-in-startups</link>
         <dc:date>2024-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
