@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS Healthの通知の実装について考えてみた (t-kikuchi)</title>
+        <link>https://speakerdeck.com/tkikuchi/aws-healthnotong-zhi-noshi-zhuang-nituitekao-etemita</link>
+        <dc:date>2024-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20231025_HibiyaTech#1_SecurityLake (h-ashisan)</title>
+        <link>https://speakerdeck.com/hiashisan/20231025-hibiyatech-number-1-securitylake</link>
+        <dc:date>2024-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon FSx for NetApp ONTAPは オブジェクトストレージとしても使えるんだぞ 〜ONTAP S3〜 #hibiyatech (のんピ)</title>
+        <link>https://speakerdeck.com/non97/amazon-fsx-for-netapp-ontapha-obuziekutosutorezitositemoshi-erundazo-ontap-s3-number-hibiyatech</link>
+        <dc:date>2024-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Hibiya.Tech #1 登壇資料 (松波 花奈)</title>
+        <link>https://speakerdeck.com/o2mami/hibiya-dot-tech-number-1-deng-tan-zi-liao</link>
+        <dc:date>2024-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FSx for NetApp ONTAP のエンドポイントについて語りたい/hibiyatech1-i-want-to-talk-about-fsx-for-netapp-ontap-endpoints (emi)</title>
+        <link>https://speakerdeck.com/emiki/i-want-to-talk-about-fsx-for-netapp-ontap-endpoints</link>
+        <dc:date>2024-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GuardDutyとSysdigのランタイムセキュリティ機能を比較してみる (t-kikuchi)</title>
+        <link>https://speakerdeck.com/tkikuchi/guarddutytosysdignorantaimusekiyuriteiji-neng-wobi-jiao-sitemiru</link>
+        <dc:date>2024-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サーバーのセキュリティ対策とコンテナのセキュリティ対策の違い/hibiyatech_differences-between-server-security-and-container-security (emi)</title>
+        <link>https://speakerdeck.com/emiki/hibiyatech-differences-between-server-security-and-container-security</link>
+        <dc:date>2024-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSでもBuildpacksを使ってDockerfileレスに出来るのか!?/can-i-use-buildpacks-to-go-dockerfile-less-in-aws (tomoki10)</title>
+        <link>https://speakerdeck.com/tomoki10/can-i-use-buildpacks-to-go-dockerfile-less-in-aws</link>
+        <dc:date>2024-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コンテナセキュリティの概要と デプロイフローに組み込んだ後の課題 (Takashi Yamaguchi)</title>
+        <link>https://speakerdeck.com/yamaguchitk333/kontenasekiyuriteinogai-yao-to-depuroihuronizu-miip-ndahou-noke-ti</link>
+        <dc:date>2024-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>1520180607 (ymmt3-lab)</title>
         <link>https://www.slideshare.net/slideshow/1520180607/102395216</link>
         <dc:date>2024-07-22T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>やめるという決断がもたらした変化 (izumii19)</title>
         <link>https://speakerdeck.com/izumii19/yamerutoiujue-duan-gamotarasitabian-hua</link>
         <dc:date>2024-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> 人文学から学ぶ 人として、リーダーとして、スクラムマスターとしてのより善い在り方 (よしたろう)</title>
-        <link>https://speakerdeck.com/yoshitaroyoyo/ren-wen-xue-karaxue-hu-ren-tosite-ritatosite-sukuramumasutatositenoyorishan-izai-rifang</link>
-        <dc:date>2024-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サービスの持続的な成長と技術負債について (SIVA)</title>
-        <link>https://speakerdeck.com/siva_official/sustainable-growth-and-technical-debt</link>
-        <dc:date>2024-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>楽しくGoを学び合う、LayerXの勉強会文化 / LayerX's study culture of having fun and learning Go together (ar_tama)</title>
-        <link>https://speakerdeck.com/ar_tama/layerxs-study-culture-of-having-fun-and-learning-go-together</link>
-        <dc:date>2024-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模エンタープライズの全員参加が可能な内部開発者ポータルの野望 (Takeshi Yaegashi,@hogegashi)</title>
-        <link>https://www.docswell.com/s/yaegashi/KDEYLV-pek2024</link>
-        <dc:date>2024-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Using OBS to Build Containerized Application Image  (Andi Sugandi)</title>
-        <link>https://speakerdeck.com/andisugandi/using-obs-to-build-containerized-application-image</link>
-        <dc:date>2024-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Become a TDF Member (Franklin Weng)</title>
-        <link>https://speakerdeck.com/fweng322/become-a-tdf-member</link>
-        <dc:date>2024-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Interoperability of Documents (was: A War of File Format) (Franklin Weng)</title>
-        <link>https://speakerdeck.com/fweng322/the-interoperability-of-documents-was-a-war-of-file-format</link>
-        <dc:date>2024-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kernel entrance to-geek- (mao999)</title>
-        <link>https://www.slideshare.net/slideshow/kernel-entrance-togeek-81301836/81301836</link>
-        <dc:date>2024-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>openSUSE tools on Debian (Hideki Yamane)</title>
-        <link>https://www.slideshare.net/slideshow/opensuse-tools-on-debian-81015400/81015400</link>
-        <dc:date>2024-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
