@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>令和トラベル Dify講座（社内イベント資料） (Daisuke Miyata,@miyatti)</title>
+        <link>https://www.docswell.com/s/miyatti/KJ4GN1-2024-07-22-195223</link>
+        <dc:date>2024-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアリングマネージャーはどう学んでいくのか #devsumi / How Do Engineering Managers Continue to Learn and Grow? (Shu OGAWARA)</title>
         <link>https://speakerdeck.com/expajp/how-do-engineering-managers-continue-to-learn-and-grow</link>
         <dc:date>2024-07-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Large-scale deploy by AutoYast (Hillwood Yang)</title>
         <link>https://www.slideshare.net/slideshow/largescale-deploy-by-autoyast/81193045</link>
-        <dc:date>2024-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Building japanese full text search system by Solr (Syuta Hashimoto)</title>
-        <link>https://www.slideshare.net/slideshow/building-japanese-full-text-search-system-by-solr/81152730</link>
         <dc:date>2024-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
