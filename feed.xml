@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>devsumi-2024-summer (onigra)</title>
+        <link>https://speakerdeck.com/onigra/devsumi-2024-summer</link>
+        <dc:date>2024-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>年間一億円削減した時系列データベースのアーキテクチャ改善～不確実性の高いプロジェクトへの挑戦～ (LY Corporation Tech)</title>
         <link>https://speakerdeck.com/lycorptech_jp/how-to-deal-with-uncertainty-in-tech</link>
         <dc:date>2024-07-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エンジニアリングマネージャーはどう学んでいくのか #devsumi / How Do Engineering Managers Continue to Learn and Grow? (Shu OGAWARA)</title>
         <link>https://speakerdeck.com/expajp/how-do-engineering-managers-continue-to-learn-and-grow</link>
-        <dc:date>2024-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フルクラウド環境下でのペネトレーションテスト (Yuya Asato)</title>
-        <link>https://speakerdeck.com/328/hurukurautohuan-jing-xia-tenohenetoresiyontesuto</link>
         <dc:date>2024-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
