@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発チーム、TerraformでAWS始めました - 公開版 (sasaki)</title>
+        <link>https://www.docswell.com/s/kei-s16/KP28J2-2024-07-23-164704</link>
+        <dc:date>2024-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>いま求められるソフトウェアのアクセシビリティ</title>
+        <link>https://docs.google.com/presentation/d/121lEpDeVx5I_AreRJPFRGdO1Zzm4POXf0k6FDsAgrSE/preview</link>
+        <dc:date>2024-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>目標設定は好きですか? アジャイルとともに目標と向き合い続ける方法 / Do you like target Management? (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/do-you-like-target-management</link>
         <dc:date>2024-07-23T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>AWSで”最小権限の原則”を実現するための考え方 /20240722-ssmjp-aws-least-privilege (opelab)</title>
         <link>https://speakerdeck.com/opelab/20240722-ssmjp-aws-least-privilege</link>
         <dc:date>2024-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実務におけるRAG 〜学びと現場のノウハウ〜 (株式会社ホクソエム,@hoxo_m_inc)</title>
-        <link>https://www.docswell.com/s/hoxo-m_inc/K4V3MW-rag</link>
-        <dc:date>2024-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>A Study in Bitmap: Is NDK the fast Processing method by CPU? (bigbackboom)</title>
-        <link>https://speakerdeck.com/bigbackboom/a-study-in-bitmap-is-ndk-the-fast-processing-method-by-cpu</link>
-        <dc:date>2024-07-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
