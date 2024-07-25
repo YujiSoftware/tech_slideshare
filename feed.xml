@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AI時代のソフトウェアエンジニアが持つべきケイパビリティを考える (takuya kikuchi)</title>
+        <link>https://speakerdeck.com/tkikuchi1002/20240725-aoai-service-dev-day</link>
+        <dc:date>2024-07-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RAGのサービスをリリースして1年3ヶ月が経ちました (segavvy)</title>
+        <link>https://speakerdeck.com/segavvy/ragnosabisuworirisusite1nian-3keyue-gajing-timasita</link>
+        <dc:date>2024-07-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AOAI Dev Day LLMシステム開発 Tips集 (Hirosato Gamo)</title>
+        <link>https://speakerdeck.com/hirosatogamo/aoai-dev-day-llmsisutemukai-fa-tipsji</link>
+        <dc:date>2024-07-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240725 LLMによるDXのビジョンと、今何からやるべきか @Azure OpenAI Service Dev Day (Ryuya Nakamura)</title>
         <link>https://speakerdeck.com/nrryuya/20240725-llmniyorudxnobiziyonto-jin-he-karayarubekika-at-azure-openai-service-dev-day</link>
         <dc:date>2024-07-24T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>開発と事業を繋ぐ！SREのオブザーバビリティ戦略 ~ Developers Summit 2024 Summer ~ (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/kai-fa-toshi-ye-woxi-gu-srenoobuzababiriteizhan-lue-developers-summit-2024-summer</link>
         <dc:date>2024-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアの生存戦略 〜クラウド潮流の経験から紐解く技術トレンドのメカニズムと乗りこなし方〜 (shimy)</title>
-        <link>https://speakerdeck.com/shimy/ensinianosheng-cun-zhan-lue-kurautochao-liu-nojing-yan-karaniu-jie-kuji-shu-torentonomekanisumutocheng-rikonasifang</link>
-        <dc:date>2024-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Healthの通知の実装について考えてみた (t-kikuchi)</title>
-        <link>https://speakerdeck.com/tkikuchi/aws-healthnotong-zhi-noshi-zhuang-nituitekao-etemita</link>
-        <dc:date>2024-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20231025_HibiyaTech#1_SecurityLake (h-ashisan)</title>
-        <link>https://speakerdeck.com/hiashisan/20231025-hibiyatech-number-1-securitylake</link>
-        <dc:date>2024-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
