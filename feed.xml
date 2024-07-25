@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RDS for Db2 はじめの一歩・バックアップ編 #1 /20240725-RDSforDb2-dojo (Mayumi Hirano)</title>
+        <link>https://speakerdeck.com/mayumihirano/20240725-rdsfordb2-dojo</link>
+        <dc:date>2024-07-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RDS for Db2 はじめの一歩・HA(高可用性)編 #2/ 20240712 First RDS for Db2 HA (Kyoko Nishito)</title>
+        <link>https://speakerdeck.com/kyokonishito/20240712-first-rds-for-db2-ha</link>
+        <dc:date>2024-07-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RDS for Db2 はじめの一歩・HA(高可用性)編 #1 /20240712-RDSforDb2-dojo (Mayumi Hirano)</title>
+        <link>https://speakerdeck.com/mayumihirano/20240712-rdsfordb2-dojo</link>
+        <dc:date>2024-07-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RDS for Db2 はじめの一歩・作り方編 #1 /20240628-RDSforDb2-dojo  (Mayumi Hirano)</title>
+        <link>https://speakerdeck.com/mayumihirano/20240628-rdsfordb2-dojo</link>
+        <dc:date>2024-07-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RDS for Db2 はじめの一歩・作り方編 #2/ 20240628 First RDS for Db2 creation (Kyoko Nishito)</title>
+        <link>https://speakerdeck.com/kyokonishito/20240628-first-rds-for-db2-creation</link>
+        <dc:date>2024-07-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ドメイン駆動設計の実践 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/learning-domain-driven-design-japanese-edition-findy-2024-7</link>
         <dc:date>2024-07-24T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>Amazon FSx for NetApp ONTAPは オブジェクトストレージとしても使えるんだぞ 〜ONTAP S3〜 #hibiyatech (のんピ)</title>
         <link>https://speakerdeck.com/non97/amazon-fsx-for-netapp-ontapha-obuziekutosutorezitositemoshi-erundazo-ontap-s3-number-hibiyatech</link>
-        <dc:date>2024-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hibiya.Tech #1 登壇資料 (松波 花奈)</title>
-        <link>https://speakerdeck.com/o2mami/hibiya-dot-tech-number-1-deng-tan-zi-liao</link>
-        <dc:date>2024-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FSx for NetApp ONTAP のエンドポイントについて語りたい/hibiyatech1-i-want-to-talk-about-fsx-for-netapp-ontap-endpoints (emi)</title>
-        <link>https://speakerdeck.com/emiki/i-want-to-talk-about-fsx-for-netapp-ontap-endpoints</link>
-        <dc:date>2024-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GuardDutyとSysdigのランタイムセキュリティ機能を比較してみる (t-kikuchi)</title>
-        <link>https://speakerdeck.com/tkikuchi/guarddutytosysdignorantaimusekiyuriteiji-neng-wobi-jiao-sitemiru</link>
-        <dc:date>2024-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーのセキュリティ対策とコンテナのセキュリティ対策の違い/hibiyatech_differences-between-server-security-and-container-security (emi)</title>
-        <link>https://speakerdeck.com/emiki/hibiyatech-differences-between-server-security-and-container-security</link>
-        <dc:date>2024-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSでもBuildpacksを使ってDockerfileレスに出来るのか!?/can-i-use-buildpacks-to-go-dockerfile-less-in-aws (tomoki10)</title>
-        <link>https://speakerdeck.com/tomoki10/can-i-use-buildpacks-to-go-dockerfile-less-in-aws</link>
         <dc:date>2024-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
