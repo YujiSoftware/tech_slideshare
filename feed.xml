@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ドメイン駆動設計の実践 (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/learning-domain-driven-design-japanese-edition-findy-2024-7</link>
+        <dc:date>2024-07-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>12年前の『型システム入門』翻訳の思い出話 (Yusuke Endoh)</title>
         <link>https://speakerdeck.com/mame/12nian-qian-no-xing-sisutemuru-men-fan-yi-nosi-ichu-hua</link>
         <dc:date>2024-07-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWSでもBuildpacksを使ってDockerfileレスに出来るのか!?/can-i-use-buildpacks-to-go-dockerfile-less-in-aws (tomoki10)</title>
         <link>https://speakerdeck.com/tomoki10/can-i-use-buildpacks-to-go-dockerfile-less-in-aws</link>
-        <dc:date>2024-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテナセキュリティの概要と デプロイフローに組み込んだ後の課題 (Takashi Yamaguchi)</title>
-        <link>https://speakerdeck.com/yamaguchitk333/kontenasekiyuriteinogai-yao-to-depuroihuronizu-miip-ndahou-noke-ti</link>
         <dc:date>2024-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
