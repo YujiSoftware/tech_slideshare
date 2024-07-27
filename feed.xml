@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>研究分野をサーベイする (Takayuki Itoh)</title>
+        <link>https://www.slideshare.net/slideshow/itolab-how-to-survey-2017/76678583</link>
+        <dc:date>2024-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践ARMアーキテクチャ移行  (Kazuhiko Yamashita)</title>
         <link>https://speakerdeck.com/pyama86/shi-jian-armakitekutiyayi-xing</link>
         <dc:date>2024-07-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>近似最近傍探索とVector DBの理論的背景 (Yusuke Matsui)</title>
         <link>https://speakerdeck.com/matsui_528/jin-si-zui-jin-bang-tan-suo-tovector-dbnoli-lun-de-bei-jing</link>
-        <dc:date>2024-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>devsumi-2024-summer (onigra)</title>
-        <link>https://speakerdeck.com/onigra/devsumi-2024-summer</link>
         <dc:date>2024-07-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
