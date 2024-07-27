@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VueUse: 5分で分かる Vue.js 開発の効率化術 (Naoki Haba)</title>
+        <link>https://speakerdeck.com/naokihaba/vueuse-5fen-defen-karu-vue-dot-js-kai-fa-noxiao-lu-hua-shu</link>
+        <dc:date>2024-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240525_社内でPower Platform勉強会開いたら900人来た話 (ponponmikan)</title>
         <link>https://speakerdeck.com/ponponmikankan/20240525-she-nei-depower-platformmian-qiang-hui-kai-itara900ren-lai-tahua</link>
         <dc:date>2024-07-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ドメイン駆動設計の実践 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/learning-domain-driven-design-japanese-edition-findy-2024-7</link>
-        <dc:date>2024-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>12年前の『型システム入門』翻訳の思い出話 (Yusuke Endoh)</title>
-        <link>https://speakerdeck.com/mame/12nian-qian-no-xing-sisutemuru-men-fan-yi-nosi-ichu-hua</link>
         <dc:date>2024-07-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
