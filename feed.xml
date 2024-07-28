@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>さきがけから振り返るアーキテクチャ刷新 / Reflecting on the Architectural Renewal from the Vanguard (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/reflecting-on-the-architectural-renewal-from-the-vanguard</link>
+        <dc:date>2024-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【2024年最新】「エンジニアお茶会」という取り組みについて (pastak)</title>
         <link>https://speakerdeck.com/pastak/2024nian-zui-xin-enziniaocha-hui-toiuqu-rizu-minituite</link>
         <dc:date>2024-07-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RDS for Db2 はじめの一歩・バックアップ編 #1 /20240725-RDSforDb2-dojo (Mayumi Hirano)</title>
         <link>https://speakerdeck.com/mayumihirano/20240725-rdsfordb2-dojo</link>
-        <dc:date>2024-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDS for Db2 はじめの一歩・HA(高可用性)編 #2/ 20240712 First RDS for Db2 HA (Kyoko Nishito)</title>
-        <link>https://speakerdeck.com/kyokonishito/20240712-first-rds-for-db2-ha</link>
         <dc:date>2024-07-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
