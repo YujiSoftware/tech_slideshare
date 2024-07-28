@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title> Nuxt Scriptsって何ができるの？ Nuxt4メインセッションに添えて@Vue.js v-tokyo Meetup #21 (gangan)</title>
+        <link>https://speakerdeck.com/shingangan/nuxt-scriptstutehe-gadekiruno-nuxt4meinsetusiyonnitian-ete-at-vue-dot-js-v-tokyo-meetup-number-21</link>
+        <dc:date>2024-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>すばやく実装するための戦略とテクニック2024 / speed is power! 2024 #techramen24conf #shoyu (Hiromi Hishida)</title>
         <link>https://speakerdeck.com/77web/speed-is-power-2024-number-techramen2024conf-number-shoyu</link>
         <dc:date>2024-07-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AOAI Dev Day LLMシステム開発 Tips集 (Hirosato Gamo)</title>
         <link>https://speakerdeck.com/hirosatogamo/aoai-dev-day-llmsisutemukai-fa-tipsji</link>
-        <dc:date>2024-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240725 LLMによるDXのビジョンと、今何からやるべきか @Azure OpenAI Service Dev Day (Ryuya Nakamura)</title>
-        <link>https://speakerdeck.com/nrryuya/20240725-llmniyorudxnobiziyonto-jin-he-karayarubekika-at-azure-openai-service-dev-day</link>
         <dc:date>2024-07-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
