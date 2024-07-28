@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>すばやく実装するための戦略とテクニック2024 / speed is power! 2024 #techramen24conf #shoyu (Hiromi Hishida)</title>
+        <link>https://speakerdeck.com/77web/speed-is-power-2024-number-techramen2024conf-number-shoyu</link>
+        <dc:date>2024-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>さきがけから振り返るアーキテクチャ刷新 / Reflecting on the Architectural Renewal from the Vanguard (nrs)</title>
         <link>https://speakerdeck.com/nrslib/reflecting-on-the-architectural-renewal-from-the-vanguard</link>
         <dc:date>2024-07-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20240725 LLMによるDXのビジョンと、今何からやるべきか @Azure OpenAI Service Dev Day (Ryuya Nakamura)</title>
         <link>https://speakerdeck.com/nrryuya/20240725-llmniyorudxnobiziyonto-jin-he-karayarubekika-at-azure-openai-service-dev-day</link>
-        <dc:date>2024-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDS for Db2 はじめの一歩・バックアップ編 #1 /20240725-RDSforDb2-dojo (Mayumi Hirano)</title>
-        <link>https://speakerdeck.com/mayumihirano/20240725-rdsfordb2-dojo</link>
         <dc:date>2024-07-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
