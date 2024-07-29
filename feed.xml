@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Temporalを取り巻く仕様を整理する (Saji)</title>
+        <link>https://speakerdeck.com/sajikix/temporalwoqu-rijuan-kushi-yang-wozheng-li-suru</link>
+        <dc:date>2024-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title> Nuxt Scriptsって何ができるの？ Nuxt4メインセッションに添えて@Vue.js v-tokyo Meetup #21 (gangan)</title>
         <link>https://speakerdeck.com/shingangan/nuxt-scriptstutehe-gadekiruno-nuxt4meinsetusiyonnitian-ete-at-vue-dot-js-v-tokyo-meetup-number-21</link>
         <dc:date>2024-07-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RAGのサービスをリリースして1年3ヶ月が経ちました (segavvy)</title>
         <link>https://speakerdeck.com/segavvy/ragnosabisuworirisusite1nian-3keyue-gajing-timasita</link>
-        <dc:date>2024-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AOAI Dev Day LLMシステム開発 Tips集 (Hirosato Gamo)</title>
-        <link>https://speakerdeck.com/hirosatogamo/aoai-dev-day-llmsisutemukai-fa-tipsji</link>
         <dc:date>2024-07-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
