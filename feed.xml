@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RDBでのツリー表現入門2024 (Kent OHASHI,@lagenorhynque)</title>
+        <link>https://www.docswell.com/s/lagenorhynque/K4V3WW-introduction-to-tree-representations-in-rdb-2024</link>
+        <dc:date>2024-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JAWS-UG コンテナ支部 #27 EKSワークショップ ハンズオン (Hidekazu Karino)</title>
         <link>https://speakerdeck.com/hkford/jaws-ug-eks-workshop-and-handson</link>
         <dc:date>2024-07-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>使ってみよう！GitHub</title>
         <link>https://docs.google.com/presentation/d/19I90cIcfDsTMHstn7YDPOXcijNbpAY8Rjap2k-V7zgI/preview</link>
-        <dc:date>2024-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入門オンコール対応 (ryuichi1208)</title>
-        <link>https://speakerdeck.com/ryuichi1208/ru-men-onkorudui-ying</link>
         <dc:date>2024-07-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
