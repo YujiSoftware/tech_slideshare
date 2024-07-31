@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>競ソウではなく協ソウしよう UEテクニカルアーティスト生存戦略 2024/07/06</title>
+        <link>https://docs.google.com/presentation/d/1CBzq_BU7zBvOaBLOlC3EyubolBNWdoxFOJUFq7SIYEs/preview</link>
+        <dc:date>2024-07-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第2回 Unreal Engine KYUSHU LT会</title>
+        <link>https://docs.google.com/presentation/d/1JuhDk32onn3LY9nvaJ73KSVlaZFTUrhIOQwVcKSye60/preview</link>
+        <dc:date>2024-07-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>間違いが許されないケースでLLMを使うためには @GenAI Playground Meetup #01 (Ryuya Nakamura)</title>
         <link>https://speakerdeck.com/nrryuya/jian-wei-igaxu-sarenaikesudellmwoshi-utameniha-at-genai-playground-meetup-number-01</link>
         <dc:date>2024-07-30T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>「アジャイルチームによる目標づくりガイドブック OKRを機能させ成果に繋げるためのアプローチ」のOKR/The OKR of OKR Guidebook (小田中育生)</title>
         <link>https://speakerdeck.com/ikuodanaka/the-okr-of-okr-guidebook</link>
-        <dc:date>2024-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UnJSを使って軽率にCLIを作ってみたらめちゃくちゃ便利だった / create CLI with UnJS (にー兄さん)</title>
-        <link>https://speakerdeck.com/drumath2237/create-cli-with-unjs</link>
-        <dc:date>2024-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ABEMAにおけるLLMを用いたコンテンツベース推薦システム導入と効果検証 (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/introduction-and-effectiveness-verification-of-a-content-based-recommendation-system-using-llm-at-abema</link>
         <dc:date>2024-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
