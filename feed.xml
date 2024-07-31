@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>間違いが許されないケースでLLMを使うためには @GenAI Playground Meetup #01 (Ryuya Nakamura)</title>
+        <link>https://speakerdeck.com/nrryuya/jian-wei-igaxu-sarenaikesudellmwoshi-utameniha-at-genai-playground-meetup-number-01</link>
+        <dc:date>2024-07-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>世界初のPC共通規格「MSX」が今も世界で現役な件 (Usamiko)</title>
         <link>https://speakerdeck.com/usamiko/shi-jie-chu-nopcgong-tong-gui-ge-msx-gajin-moshi-jie-dexian-yi-najian</link>
         <dc:date>2024-07-30T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ABEMAにおけるLLMを用いたコンテンツベース推薦システム導入と効果検証 (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/introduction-and-effectiveness-verification-of-a-content-based-recommendation-system-using-llm-at-abema</link>
         <dc:date>2024-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VueUse: 5分で分かる Vue.js 開発の効率化術 (Naoki Haba)</title>
-        <link>https://speakerdeck.com/naokihaba/vueuse-5fen-defen-karu-vue-dot-js-kai-fa-noxiao-lu-hua-shu</link>
-        <dc:date>2024-07-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
