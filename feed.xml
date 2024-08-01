@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>方向性・仕組み・文化で実現する プロダクト志向の開発組織 / Product-oriented development organizations are realized through direction, systems, and culture. (Tomohiro Furusawa)</title>
+        <link>https://speakerdeck.com/rilmayer/product-oriented-development-organizations-are-realized-through-direction-systems-and-culture</link>
+        <dc:date>2024-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>継続的にRailsアプリを開発する上で早めにやっておきたいこと (morihirok)</title>
+        <link>https://speakerdeck.com/morihirok/ji-sok-de-nirailsapuriwokai-fa-surushang-dezao-meniyatuteokitaikoto</link>
+        <dc:date>2024-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMで推論するライブラリを整理する (shibuiwilliam)</title>
         <link>https://speakerdeck.com/shibuiwilliam/llmdetui-lun-sururaiburariwozheng-li-suru</link>
         <dc:date>2024-07-31T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>具体的に困ろう for Qiita Engineer Festa 2024 後夜祭 ～アウトプットの祭典！～ (Itsuki KAMINAGA)</title>
         <link>https://speakerdeck.com/_mi/ju-ti-de-nikun-rou-for-qiita-engineer-festa-2024-hou-ye-ji-autopututonoji-dian</link>
-        <dc:date>2024-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Temporalを取り巻く仕様を整理する (Saji)</title>
-        <link>https://speakerdeck.com/sajikix/temporalwoqu-rijuan-kushi-yang-wozheng-li-suru</link>
-        <dc:date>2024-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> Nuxt Scriptsって何ができるの？ Nuxt4メインセッションに添えて@Vue.js v-tokyo Meetup #21 (gangan)</title>
-        <link>https://speakerdeck.com/shingangan/nuxt-scriptstutehe-gadekiruno-nuxt4meinsetusiyonnitian-ete-at-vue-dot-js-v-tokyo-meetup-number-21</link>
         <dc:date>2024-07-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
