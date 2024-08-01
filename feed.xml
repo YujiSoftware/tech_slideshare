@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMで推論するライブラリを整理する (shibuiwilliam)</title>
+        <link>https://speakerdeck.com/shibuiwilliam/llmdetui-lun-sururaiburariwozheng-li-suru</link>
+        <dc:date>2024-07-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術的困難に立ち向かうためのMECEと抽象</title>
+        <link>https://docs.google.com/presentation/d/1LuxtA4JIJLbfEEnTLE9oRRijEgPYW1Nb7mZbhQ6Q1SQ/preview</link>
+        <dc:date>2024-07-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>これまでと違う学び方をしたら挫折せずにRustを学べた話 / Programming Rust techramen24conf LT (Takuto Wada)</title>
         <link>https://speakerdeck.com/twada/programming-rust-techramen24conf-lt</link>
         <dc:date>2024-07-31T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title> Nuxt Scriptsって何ができるの？ Nuxt4メインセッションに添えて@Vue.js v-tokyo Meetup #21 (gangan)</title>
         <link>https://speakerdeck.com/shingangan/nuxt-scriptstutehe-gadekiruno-nuxt4meinsetusiyonnitian-ete-at-vue-dot-js-v-tokyo-meetup-number-21</link>
         <dc:date>2024-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>すばやく実装するための戦略とテクニック2024 / speed is power! 2024 #techramen24conf #shoyu (Hiromi Hishida)</title>
-        <link>https://speakerdeck.com/77web/speed-is-power-2024-number-techramen2024conf-number-shoyu</link>
-        <dc:date>2024-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>さきがけから振り返るアーキテクチャ刷新 / Reflecting on the Architectural Renewal from the Vanguard (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/reflecting-on-the-architectural-renewal-from-the-vanguard</link>
-        <dc:date>2024-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
