@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIによる新しいUI/UX ~Generative UI の世界を感じよう~ / introducing-generative-ui (geeawa)</title>
+        <link>https://speakerdeck.com/gawa/introducing-generative-ui</link>
+        <dc:date>2024-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクトエンジニアを支える組織アーキテクチャ (Niwa Takeru)</title>
         <link>https://speakerdeck.com/niwatakeru/creating-an-organizational-architecture-to-support-product-engineers</link>
         <dc:date>2024-08-01T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>みんなでワイワイ「テスト駆動開発」の話をやる会 #techramen24conf (hideki kinjyo)</title>
         <link>https://speakerdeck.com/o0h/techramen24conf</link>
         <dc:date>2024-07-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDBでのツリー表現入門2024 (Kent OHASHI,@lagenorhynque)</title>
-        <link>https://www.docswell.com/s/lagenorhynque/K4V3WW-introduction-to-tree-representations-in-rdb-2024</link>
-        <dc:date>2024-07-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
