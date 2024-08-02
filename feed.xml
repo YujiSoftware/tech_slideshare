@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクトエンジニアを支える組織アーキテクチャ (Niwa Takeru)</title>
+        <link>https://speakerdeck.com/niwatakeru/creating-an-organizational-architecture-to-support-product-engineers</link>
+        <dc:date>2024-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>システムを脳に収める技術(公開版) (usadamasa,@usadamasa)</title>
         <link>https://www.docswell.com/s/usadamasa/59V14V-2024-08-01-maps-of-your-code</link>
         <dc:date>2024-08-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RDBでのツリー表現入門2024 (Kent OHASHI,@lagenorhynque)</title>
         <link>https://www.docswell.com/s/lagenorhynque/K4V3WW-introduction-to-tree-representations-in-rdb-2024</link>
-        <dc:date>2024-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS-UG コンテナ支部 #27 EKSワークショップ ハンズオン (Hidekazu Karino)</title>
-        <link>https://speakerdeck.com/hkford/jaws-ug-eks-workshop-and-handson</link>
         <dc:date>2024-07-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
