@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SQLを使ったデータ分析事例紹介〜2つの事例から学ぶSQLの活用方法〜 (hikarut)</title>
+        <link>https://speakerdeck.com/hikarut/sqlwoshi-tutadetafen-xi-shi-li-shao-jie-2tunoshi-li-karaxue-busqlnohuo-yong-fang-fa</link>
+        <dc:date>2024-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>工学としてのSRE再訪 / Revisiting SRE as Engineering (Yuuki Tsubouchi (yuuk1))</title>
         <link>https://speakerdeck.com/yuukit/revisiting-sre-as-engineering</link>
         <dc:date>2024-08-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>間違いが許されないケースでLLMを使うためには @GenAI Playground Meetup #01 (Ryuya Nakamura)</title>
         <link>https://speakerdeck.com/nrryuya/jian-wei-igaxu-sarenaikesudellmwoshi-utameniha-at-genai-playground-meetup-number-01</link>
-        <dc:date>2024-07-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>世界初のPC共通規格「MSX」が今も世界で現役な件 (Usamiko)</title>
-        <link>https://speakerdeck.com/usamiko/shi-jie-chu-nopcgong-tong-gui-ge-msx-gajin-moshi-jie-dexian-yi-najian</link>
         <dc:date>2024-07-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
