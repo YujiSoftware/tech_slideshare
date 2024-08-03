@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>HTMLファイルひとつでOpenAI APIを使いこなす (徳和貴成)</title>
+        <link>https://speakerdeck.com/tokuwa/htmlhuairuhitotudeopenai-apiwoshi-ikonasu</link>
+        <dc:date>2024-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20240723 kintoneのデータバックアップを考える (Satoshi Morita)</title>
+        <link>https://speakerdeck.com/tarimo34/20240723-kintonenodetabatukuatupuwokao-eru</link>
+        <dc:date>2024-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今のうちにデータを整理しておこう (たまい)</title>
+        <link>https://speakerdeck.com/tamai_63/jin-noutinidetawozheng-li-siteokou</link>
+        <dc:date>2024-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>え、3年前のデータを取り出したい？え、システム入れ替えちゃった？え、バックアップはPDFだけ？ (mk)</title>
+        <link>https://speakerdeck.com/mk_chimpanzee/20240726</link>
+        <dc:date>2024-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft Copilot Studio についてざっくり説明 (MiyakeMito)</title>
+        <link>https://speakerdeck.com/miyakemito/microsoft-copilot-studio-nituitezatukurishuo-ming</link>
+        <dc:date>2024-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AIによる新しいUI/UX ~Generative UI の世界を感じよう~ / introducing-generative-ui (geeawa)</title>
         <link>https://speakerdeck.com/gawa/introducing-generative-ui</link>
         <dc:date>2024-08-02T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>大規模 SaaS の技術的意思決定を支える三要素 / Three elements that support technical decision-making for large-scale SaaS (atsushisakai)</title>
         <link>https://speakerdeck.com/_atsushisakai/three-elements-that-support-technical-decision-making-for-large-scale-saas-b41c5a61-a8cb-4e21-8e55-086a662c559c</link>
         <dc:date>2024-07-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現場のエンジニアから見た採用担当との協働 (Takahiro Tsuchiya)</title>
-        <link>https://speakerdeck.com/corocn/xian-chang-noenziniakarajian-tacai-yong-dan-dang-tonoxie-dong</link>
-        <dc:date>2024-07-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vonageを使った連続架電フローのご紹介 (Katsumi Takahashi)</title>
-        <link>https://speakerdeck.com/mobilebiz/vonagewoshi-tutalian-sok-jia-dian-huronogoshao-jie</link>
-        <dc:date>2024-07-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIとAPIで開発を加速！Postman v11リリース (草薙昭彦)</title>
-        <link>https://speakerdeck.com/nagix/aitoapidekai-fa-wojia-su-postman-v11ririsu</link>
-        <dc:date>2024-07-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ利用者が最速で価値を評価できるDataOpsを目指して / Towards DataOps that Enables Analysts to Deliver Value Rapidly (Civitaspo)</title>
-        <link>https://speakerdeck.com/civitaspo/towards-dataops-that-enables-analysts-to-deliver-value-rapidly</link>
-        <dc:date>2024-07-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>みんなでワイワイ「テスト駆動開発」の話をやる会 #techramen24conf (hideki kinjyo)</title>
-        <link>https://speakerdeck.com/o0h/techramen24conf</link>
-        <dc:date>2024-07-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
