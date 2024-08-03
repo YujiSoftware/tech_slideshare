@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>工学としてのSRE再訪 / Revisiting SRE as Engineering (Yuuki Tsubouchi (yuuk1))</title>
+        <link>https://speakerdeck.com/yuukit/revisiting-sre-as-engineering</link>
+        <dc:date>2024-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>HTMLファイルひとつでOpenAI APIを使いこなす (徳和貴成)</title>
         <link>https://speakerdeck.com/tokuwa/htmlhuairuhitotudeopenai-apiwoshi-ikonasu</link>
         <dc:date>2024-08-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>世界初のPC共通規格「MSX」が今も世界で現役な件 (Usamiko)</title>
         <link>https://speakerdeck.com/usamiko/shi-jie-chu-nopcgong-tong-gui-ge-msx-gajin-moshi-jie-dexian-yi-najian</link>
-        <dc:date>2024-07-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模 SaaS の技術的意思決定を支える三要素 / Three elements that support technical decision-making for large-scale SaaS (atsushisakai)</title>
-        <link>https://speakerdeck.com/_atsushisakai/three-elements-that-support-technical-decision-making-for-large-scale-saas-b41c5a61-a8cb-4e21-8e55-086a662c559c</link>
         <dc:date>2024-07-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
