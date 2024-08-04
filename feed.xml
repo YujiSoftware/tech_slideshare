@@ -6,6 +6,71 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>関東 Kaggler 会でいろいろと 雑談</title>
+        <link>https://docs.google.com/presentation/d/17nkPp8Xe0D131EapJdaRvmeG9b7lOb2HhrSzMTfnKos/preview</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20240803_関東Kaggler会LT_初手LightGBMは正しいのか？</title>
+        <link>https://docs.google.com/presentation/d/1wHcj_JCNTXlAXkpiS85-8odnJ-G_zOZcPu3Us8-oEIA/preview</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>睡眠コンペ 1st place solution (kami)</title>
+        <link>https://speakerdeck.com/unonao/shui-mian-konpe-1st-place-solution</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kaggle役立ちアイテム紹介（入門編） (tatematsu)</title>
+        <link>https://speakerdeck.com/k951286/kaggleyi-li-tiaitemushao-jie-ru-men-bian</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20240803_関東kaggler会_HMS振り返り&amp;チームで取り組むkaggle (suguuuuuすぐー)</title>
+        <link>https://speakerdeck.com/sugupoko/20240803-guan-dong-kagglerhui-hmszhen-rifan-ri-and-timudequ-rizu-mukaggle</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>約5分でSHAP完全に理解する_関東kaggler会LT_投稿用.pdf (zaki)</title>
+        <link>https://speakerdeck.com/zaki_0009/yue-5fen-deshapwan-quan-nili-jie-suru-guan-dong-kagglerhui-lt-tou-gao-yong</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【第2回】関東Kaggler会「How are you handling High Score Public Notebook?」 (takaito)</title>
+        <link>https://speakerdeck.com/takaito/di-2hui-guan-dong-kagglerhui-how-are-you-handling-high-score-public-notebook</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>非競プロ勢によるUSPTOコンペ参加記 (chimuichimu)</title>
+        <link>https://speakerdeck.com/chimuichimu/20240803-di-2hui-guan-dong-kagglerhui-fei-jing-puroshi-niyoruusptokonpecan-jia-ji</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kagglerが学会コンペに参加したら無双できる説 (mujirushi)</title>
+        <link>https://speakerdeck.com/mujirushi/kagglerkaxue-hui-konhenican-jia-sitarawu-shuang-tekirushuo</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第2回 関東Kaggler会 LT (Takayoshi Makabe)</title>
+        <link>https://speakerdeck.com/takayoshimakabe/di-2hui-guan-dong-kagglerhui-lt</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>もしKagglerがスクラムを学んだら_関東Kaggler会#2 (sue124)</title>
+        <link>https://speakerdeck.com/sue1242/mosikagglerkasukuramuwoxue-ntara-guan-dong-kagglerhui-number-2</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kaggleで賞金200万円ゲットした話 〜 Machine Unlearning と Google AI Assistants 〜 (toshi_k)</title>
+        <link>https://speakerdeck.com/toshi_k_datasci/kaggledeshang-jin-200mo-yuan-getutositahua-machine-unlearning-to-google-ai-assistants</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロダクトのスケールによって顕在化しうるリスクをどう管理するか？ (urahiroshi)</title>
+        <link>https://speakerdeck.com/urahiroshi/purodakutonosukeruniyotutexian-zai-hua-siururisukuwodouguan-li-suruka</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SRE の考えをマネジメントに活かす / applying SRE ideas to management (Takeshi Kondo)</title>
         <link>https://speakerdeck.com/chaspy/applying-sre-ideas-to-management</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
@@ -39,70 +104,5 @@
         <title>SQLを使ったデータ分析事例紹介〜2つの事例から学ぶSQLの活用方法〜 (hikarut)</title>
         <link>https://speakerdeck.com/hikarut/sqlwoshi-tutadetafen-xi-shi-li-shao-jie-2tunoshi-li-karaxue-busqlnohuo-yong-fang-fa</link>
         <dc:date>2024-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>工学としてのSRE再訪 / Revisiting SRE as Engineering (Yuuki Tsubouchi (yuuk1))</title>
-        <link>https://speakerdeck.com/yuukit/revisiting-sre-as-engineering</link>
-        <dc:date>2024-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HTMLファイルひとつでOpenAI APIを使いこなす (徳和貴成)</title>
-        <link>https://speakerdeck.com/tokuwa/htmlhuairuhitotudeopenai-apiwoshi-ikonasu</link>
-        <dc:date>2024-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240723 kintoneのデータバックアップを考える (Satoshi Morita)</title>
-        <link>https://speakerdeck.com/tarimo34/20240723-kintonenodetabatukuatupuwokao-eru</link>
-        <dc:date>2024-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今のうちにデータを整理しておこう (たまい)</title>
-        <link>https://speakerdeck.com/tamai_63/jin-noutinidetawozheng-li-siteokou</link>
-        <dc:date>2024-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>え、3年前のデータを取り出したい？え、システム入れ替えちゃった？え、バックアップはPDFだけ？ (mk)</title>
-        <link>https://speakerdeck.com/mk_chimpanzee/20240726</link>
-        <dc:date>2024-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Copilot Studio についてざっくり説明 (MiyakeMito)</title>
-        <link>https://speakerdeck.com/miyakemito/microsoft-copilot-studio-nituitezatukurishuo-ming</link>
-        <dc:date>2024-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIによる新しいUI/UX ~Generative UI の世界を感じよう~ / introducing-generative-ui (geeawa)</title>
-        <link>https://speakerdeck.com/gawa/introducing-generative-ui</link>
-        <dc:date>2024-08-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトエンジニアを支える組織アーキテクチャ (Niwa Takeru)</title>
-        <link>https://speakerdeck.com/niwatakeru/creating-an-organizational-architecture-to-support-product-engineers</link>
-        <dc:date>2024-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>システムを脳に収める技術(公開版) (usadamasa,@usadamasa)</title>
-        <link>https://www.docswell.com/s/usadamasa/59V14V-2024-08-01-maps-of-your-code</link>
-        <dc:date>2024-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>食べログのモジュラモノリス化戦略 (Tomoki Kuriyama)</title>
-        <link>https://speakerdeck.com/weakboson/shi-berogunomoziyuramonorisuhua-zhan-lue</link>
-        <dc:date>2024-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>方向性・仕組み・文化で実現する プロダクト志向の開発組織 / Product-oriented development organizations are realized through direction, systems, and culture. (Tomohiro Furusawa)</title>
-        <link>https://speakerdeck.com/rilmayer/product-oriented-development-organizations-are-realized-through-direction-systems-and-culture</link>
-        <dc:date>2024-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>継続的にRailsアプリを開発する上で早めにやっておきたいこと (morihirok)</title>
-        <link>https://speakerdeck.com/morihirok/ji-sok-de-nirailsapuriwokai-fa-surushang-dezao-meniyatuteokitaikoto</link>
-        <dc:date>2024-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMで推論するライブラリを整理する (shibuiwilliam)</title>
-        <link>https://speakerdeck.com/shibuiwilliam/llmdetui-lun-sururaiburariwozheng-li-suru</link>
-        <dc:date>2024-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
