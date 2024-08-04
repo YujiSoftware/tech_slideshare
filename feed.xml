@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>500万人が利用する「友達と遊べるたまり場アプリ パラレル」におけるデータベース基盤の継続的改善 (yoheimuta)</title>
+        <link>https://speakerdeck.com/yoheimuta/500mo-ren-gali-yong-suru-you-da-toyou-berutamarichang-apuri-parareru-niokerudetabesuji-pan-noji-sok-de-gai-shan</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Central SREとEmbedded SREのハイブリッド体制で目指す最高のSRE組織 (Akira Goto)</title>
         <link>https://speakerdeck.com/akiragoto/central-sretoembedded-srenohaiburitudoti-zhi-demu-zhi-suzui-gao-nosrezu-zhi</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>これまでと違う学び方をしたら挫折せずにRustを学べた話 / Programming Rust techramen24conf LT (Takuto Wada)</title>
         <link>https://speakerdeck.com/twada/programming-rust-techramen24conf-lt</link>
-        <dc:date>2024-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア設計と生成AI (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/sohutoueashe-ji-tosheng-cheng-ai</link>
         <dc:date>2024-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
