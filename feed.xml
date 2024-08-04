@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オブザーバビリティのマクロからミクロまで / Observability from macro to micro (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/observability-from-macro-to-micro</link>
+        <dc:date>2024-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スタートアップの急成長に寄り添うOn-Call体制構築とその変遷 (horimislime)</title>
         <link>https://speakerdeck.com/horimislime/sutatoatupunoji-cheng-chang-niji-ritian-uon-callti-zhi-gou-zhu-tosonobian-qian</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>敵対的SRE: 300個のジョブをAIチーム全員で支える技術 (Ryo Kitagawa)</title>
         <link>https://speakerdeck.com/kitagry/di-dui-de-sre-300ge-noziyobuwoaitimuquan-yuan-dezhi-eruji-shu</link>
-        <dc:date>2024-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>500万人が利用する「友達と遊べるたまり場アプリ パラレル」におけるデータベース基盤の継続的改善 (yoheimuta)</title>
-        <link>https://speakerdeck.com/yoheimuta/500mo-ren-gali-yong-suru-you-da-toyou-berutamarichang-apuri-parareru-niokerudetabesuji-pan-noji-sok-de-gai-shan</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
