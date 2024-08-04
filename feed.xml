@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SRE の考えをマネジメントに活かす / applying SRE ideas to management (Takeshi Kondo)</title>
+        <link>https://speakerdeck.com/chaspy/applying-sre-ideas-to-management</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>敵対的SRE: 300個のジョブをAIチーム全員で支える技術 (Ryo Kitagawa)</title>
         <link>https://speakerdeck.com/kitagry/di-dui-de-sre-300ge-noziyobuwoaitimuquan-yuan-dezhi-eruji-shu</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLMで推論するライブラリを整理する (shibuiwilliam)</title>
         <link>https://speakerdeck.com/shibuiwilliam/llmdetui-lun-sururaiburariwozheng-li-suru</link>
-        <dc:date>2024-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術的困難に立ち向かうためのMECEと抽象</title>
-        <link>https://docs.google.com/presentation/d/1LuxtA4JIJLbfEEnTLE9oRRijEgPYW1Nb7mZbhQ6Q1SQ/preview</link>
         <dc:date>2024-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
