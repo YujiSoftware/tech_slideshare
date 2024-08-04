@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクト全体で取り組むSREing イシューから始める信頼性・生産性向上の実践/SRE NEXT 2024 (Visional Engineering ＆ Design)</title>
+        <link>https://speakerdeck.com/visional_engineering_and_design/sre-next-2024</link>
+        <dc:date>2024-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オブザーバビリティのマクロからミクロまで / Observability from macro to micro (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/observability-from-macro-to-micro</link>
         <dc:date>2024-08-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SRE の考えをマネジメントに活かす / applying SRE ideas to management (Takeshi Kondo)</title>
         <link>https://speakerdeck.com/chaspy/applying-sre-ideas-to-management</link>
-        <dc:date>2024-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>敵対的SRE: 300個のジョブをAIチーム全員で支える技術 (Ryo Kitagawa)</title>
-        <link>https://speakerdeck.com/kitagry/di-dui-de-sre-300ge-noziyobuwoaitimuquan-yuan-dezhi-eruji-shu</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
