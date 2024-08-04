@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Central SREとEmbedded SREのハイブリッド体制で目指す最高のSRE組織 (Akira Goto)</title>
+        <link>https://speakerdeck.com/akiragoto/central-sretoembedded-srenohaiburitudoti-zhi-demu-zhi-suzui-gao-nosrezu-zhi</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GoDay 出張編 - ジェネリクスの実装方針を知ろう - (DeNA_Tech,@DeNAxTech)</title>
         <link>https://www.docswell.com/s/DeNA_Tech/ZJLJPM-2024-04-17-094303</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェア設計と生成AI (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/sohutoueashe-ji-tosheng-cheng-ai</link>
-        <dc:date>2024-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>競ソウではなく協ソウしよう UEテクニカルアーティスト生存戦略 2024/07/06</title>
-        <link>https://docs.google.com/presentation/d/1CBzq_BU7zBvOaBLOlC3EyubolBNWdoxFOJUFq7SIYEs/preview</link>
         <dc:date>2024-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
