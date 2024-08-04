@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SkyWayが遭遇したWebRTC の可観測性に関する問題と開発者向け可視化サービス提供までの道のり (yuki_uchida)</title>
+        <link>https://speakerdeck.com/yuki_uchida/skywaygazao-yu-sitawebrtc-noke-guan-ce-xing-niguan-suruwen-ti-tokai-fa-zhe-xiang-keke-shi-hua-sabisuti-gong-madenodao-nori</link>
+        <dc:date>2024-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>徹底的な自動化とトイルの撲滅で実現する効率的なSREの実践例 - SRE NEXT 2024 (Shun)</title>
         <link>https://speakerdeck.com/bbqallstars/che-di-de-nazi-dong-hua-totoirunopu-mie-deshi-xian-suruxiao-lu-de-nasrenoshi-jian-li-sre-next-2024</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>GoDay 出張編 - ジェネリクスの実装方針を知ろう - (DeNA_Tech,@DeNAxTech)</title>
         <link>https://www.docswell.com/s/DeNA_Tech/ZJLJPM-2024-04-17-094303</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIでユーザー分析を強くする (PLAID Tech)</title>
-        <link>https://speakerdeck.com/plaidtech/sheng-cheng-aiteyusafen-xi-woqiang-kusuru</link>
-        <dc:date>2024-08-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
