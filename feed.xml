@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AppleVisionProCICD (Graffity)</title>
+        <link>https://speakerdeck.com/graffity/applevisionprocicd</link>
+        <dc:date>2024-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AppStoreConnectAPIを使って端末登録作業を自動化しよう！(Unity CI/CD 完全に理解した 勉強会) (Graffity)</title>
+        <link>https://speakerdeck.com/graffity/cd-wan-quan-nili-jie-sita-mian-qiang-hui</link>
+        <dc:date>2024-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ビルドシステムを C# 大統一したお話 (Tetsuya Mori)</title>
+        <link>https://speakerdeck.com/monry/unifying-the-build-system-with-csharp</link>
+        <dc:date>2024-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title> 開発チームへのディープダイブで見えてきた顧客＝開発者の本当の課題/sre-next-2024-link-and-motivation (リンクアンドモチベーション)</title>
+        <link>https://speakerdeck.com/lmi/sre-next-2024-link-and-motivation</link>
+        <dc:date>2024-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SREが考えるハイブリッド開催の技術イベントのライブ配信における信頼性 (Naoki Katahira)</title>
+        <link>https://speakerdeck.com/yuchi/srekakao-eruhaihuritutokai-cui-noji-shu-ihentonoraihupei-xin-niokeruxin-lai-xing-at-sre-next2024</link>
+        <dc:date>2024-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>悩ましきインシデント管理 みてねのケース / Incident management is a tough (kohbis)</title>
         <link>https://speakerdeck.com/kohbis/insident-management-is-a-tough</link>
         <dc:date>2024-08-04T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>睡眠コンペ 1st place solution (kami)</title>
         <link>https://speakerdeck.com/unonao/shui-mian-konpe-1st-place-solution</link>
-        <dc:date>2024-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kaggle役立ちアイテム紹介（入門編） (tatematsu)</title>
-        <link>https://speakerdeck.com/k951286/kaggleyi-li-tiaitemushao-jie-ru-men-bian</link>
-        <dc:date>2024-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240803_関東kaggler会_HMS振り返り&amp;チームで取り組むkaggle (suguuuuuすぐー)</title>
-        <link>https://speakerdeck.com/sugupoko/20240803-guan-dong-kagglerhui-hmszhen-rifan-ri-and-timudequ-rizu-mukaggle</link>
-        <dc:date>2024-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>約5分でSHAP完全に理解する_関東kaggler会LT_投稿用.pdf (zaki)</title>
-        <link>https://speakerdeck.com/zaki_0009/yue-5fen-deshapwan-quan-nili-jie-suru-guan-dong-kagglerhui-lt-tou-gao-yong</link>
-        <dc:date>2024-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【第2回】関東Kaggler会「How are you handling High Score Public Notebook?」 (takaito)</title>
-        <link>https://speakerdeck.com/takaito/di-2hui-guan-dong-kagglerhui-how-are-you-handling-high-score-public-notebook</link>
-        <dc:date>2024-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非競プロ勢によるUSPTOコンペ参加記 (chimuichimu)</title>
-        <link>https://speakerdeck.com/chimuichimu/20240803-di-2hui-guan-dong-kagglerhui-fei-jing-puroshi-niyoruusptokonpecan-jia-ji</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
