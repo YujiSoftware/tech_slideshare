@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織的なインシデント対応を目指して〜成熟度評価と改善のステップ〜 / Towards an Organized Incident Response - Maturity Assessment and Improvement Steps - (Takamura Narimichi)</title>
+        <link>https://speakerdeck.com/nari_ex/towards-an-organized-incident-response-maturity-assessment-and-improvement-steps</link>
+        <dc:date>2024-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SRE文化の導入とプラットフォームの信頼性向上の取り組み (mugi)</title>
         <link>https://www.docswell.com/s/mugioka/ZDNDLW-sre-next-2024</link>
         <dc:date>2024-08-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>もしKagglerがスクラムを学んだら_関東Kaggler会#2 (sue124)</title>
         <link>https://speakerdeck.com/sue1242/mosikagglerkasukuramuwoxue-ntara-guan-dong-kagglerhui-number-2</link>
-        <dc:date>2024-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kaggleで賞金200万円ゲットした話 〜 Machine Unlearning と Google AI Assistants 〜 (toshi_k)</title>
-        <link>https://speakerdeck.com/toshi_k_datasci/kaggledeshang-jin-200mo-yuan-getutositahua-machine-unlearning-to-google-ai-assistants</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
