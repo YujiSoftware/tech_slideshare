@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SRE文化の導入とプラットフォームの信頼性向上の取り組み (mugi)</title>
+        <link>https://www.docswell.com/s/mugioka/ZDNDLW-sre-next-2024</link>
+        <dc:date>2024-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Enabling Client-side SLO (gr1m0h)</title>
         <link>https://speakerdeck.com/grimoh/enabling-client-side-slo</link>
         <dc:date>2024-08-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kaggleで賞金200万円ゲットした話 〜 Machine Unlearning と Google AI Assistants 〜 (toshi_k)</title>
         <link>https://speakerdeck.com/toshi_k_datasci/kaggledeshang-jin-200mo-yuan-getutositahua-machine-unlearning-to-google-ai-assistants</link>
-        <dc:date>2024-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトのスケールによって顕在化しうるリスクをどう管理するか？ (urahiroshi)</title>
-        <link>https://speakerdeck.com/urahiroshi/purodakutonosukeruniyotutexian-zai-hua-siururisukuwodouguan-li-suruka</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
