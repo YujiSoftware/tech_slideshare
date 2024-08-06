@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>約10年間MIXIのインフラを 支えてきたPagerDutyの活用事例 / PagerDuty on Tour 2024 (Isao Shimizu)</title>
+        <link>https://speakerdeck.com/isaoshimizu/pagerduty-on-tour-2024</link>
+        <dc:date>2024-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンタープライズ企業の障害対応革新 – PagerDuty導入とその成果/pagerduty-usecase-of-aeon (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/pagerduty-usecase-of-aeon</link>
+        <dc:date>2024-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSのコストを４桁万円削減して円安をなかったことにした話 (Takeharu Terasawa)</title>
         <link>https://speakerdeck.com/terasawa/awsnokosutowo4hang-mo-yuan-xue-jian-siteyuan-an-wonakatutakotonisitahua</link>
         <dc:date>2024-08-05T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>【SRE-NEXT 2024】内製化を見据えた効果的なSRE支援のアプローチ (kojake_300)</title>
         <link>https://speakerdeck.com/kojake_300/sre-next-2024-nei-zhi-hua-wojian-ju-etaxiao-guo-de-nasrezhi-yuan-noapuroti</link>
-        <dc:date>2024-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIの回答内容の修正を課題としたレポートについて：お茶の水女子大学「授業・研究における生成系AIの活用事例」での講演資料 (Takayuki Itoh)</title>
-        <link>https://www.slideshare.net/slideshow/ai-ai-7875/267776458</link>
-        <dc:date>2024-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組織的なインシデント対応を目指して〜成熟度評価と改善のステップ〜 / Towards an Organized Incident Response - Maturity Assessment and Improvement Steps - (Takamura Narimichi)</title>
-        <link>https://speakerdeck.com/nari_ex/towards-an-organized-incident-response-maturity-assessment-and-improvement-steps</link>
         <dc:date>2024-08-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
