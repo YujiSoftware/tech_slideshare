@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSのコストを４桁万円削減して円安をなかったことにした話 (Takeharu Terasawa)</title>
+        <link>https://speakerdeck.com/terasawa/awsnokosutowo4hang-mo-yuan-xue-jian-siteyuan-an-wonakatutakotonisitahua</link>
+        <dc:date>2024-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Leetcodeで競プロに挑戦してみた.pdf (Yuriko)</title>
+        <link>https://speakerdeck.com/beljar731/leetcodedejing-puronitiao-zhan-sitemita</link>
+        <dc:date>2024-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術同人誌を作った話 (Kazuro Fukuhara)</title>
+        <link>https://speakerdeck.com/kazurof/ji-shu-tong-ren-zhi-wozuo-tutahua</link>
+        <dc:date>2024-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2023-11-01_GitHub_Copilot_使ってみた.pdf (Masanori Okazaki)</title>
+        <link>https://speakerdeck.com/grokazaki/2023-11-01-github-copilot-shi-tutemita-gang-qi</link>
+        <dc:date>2024-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大きな組織にSLOを導入し 運用するということ、その難しさ / SRE NEXT 2024 (Jun Kudo)</title>
         <link>https://speakerdeck.com/junjunjunk/sre-next-2024</link>
         <dc:date>2024-08-05T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>組織的なインシデント対応を目指して〜成熟度評価と改善のステップ〜 / Towards an Organized Incident Response - Maturity Assessment and Improvement Steps - (Takamura Narimichi)</title>
         <link>https://speakerdeck.com/nari_ex/towards-an-organized-incident-response-maturity-assessment-and-improvement-steps</link>
-        <dc:date>2024-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SRE文化の導入とプラットフォームの信頼性向上の取り組み (mugi)</title>
-        <link>https://www.docswell.com/s/mugioka/ZDNDLW-sre-next-2024</link>
-        <dc:date>2024-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Enabling Client-side SLO (gr1m0h)</title>
-        <link>https://speakerdeck.com/grimoh/enabling-client-side-slo</link>
-        <dc:date>2024-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクト全体で取り組むSREing イシューから始める信頼性・生産性向上の実践/SRE NEXT 2024 (Visional Engineering ＆ Design)</title>
-        <link>https://speakerdeck.com/visional_engineering_and_design/sre-next-2024</link>
-        <dc:date>2024-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オブザーバビリティのマクロからミクロまで / Observability from macro to micro (ymotongpoo)</title>
-        <link>https://speakerdeck.com/ymotongpoo/observability-from-macro-to-micro</link>
         <dc:date>2024-08-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
