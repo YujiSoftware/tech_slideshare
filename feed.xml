@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2024-07 Ocsigen: 1st public meeting</title>
+        <link>https://docs.google.com/presentation/d/1B3PKucvGiL82gOa32LLEx7RzTh9BBzf8AKQp3e4SLFo/preview</link>
+        <dc:date>2024-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Actions x Unity プロジェクトの裏側 (DeNA_Tech,@DeNAxTech)</title>
         <link>https://www.docswell.com/s/DeNA_Tech/ZYDNP3-2024-08-05-134204</link>
         <dc:date>2024-08-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スタートアップの急成長に寄り添うOn-Call体制構築とその変遷 (horimislime)</title>
         <link>https://speakerdeck.com/horimislime/sutatoatupunoji-cheng-chang-niji-ritian-uon-callti-zhi-gou-zhu-tosonobian-qian</link>
-        <dc:date>2024-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FourKeysを導入したが生産性向上には至らなかった理由 (ニフティ株式会社)</title>
-        <link>https://speakerdeck.com/niftycorp/sre-next-2024-lt</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
