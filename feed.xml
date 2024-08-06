@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>tsconfig.jsonの設定を見直そう！ フロントエンド向け　2024夏 (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/tsconfig-dot-jsonnoshe-ding-wojian-zhi-sou-hurontoendoxiang-ke-2024xia</link>
+        <dc:date>2024-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>約10年間MIXIのインフラを 支えてきたPagerDutyの活用事例 / PagerDuty on Tour 2024 (Isao Shimizu)</title>
         <link>https://speakerdeck.com/isaoshimizu/pagerduty-on-tour-2024</link>
         <dc:date>2024-08-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>悩ましきインシデント管理 みてねのケース / Incident management is a tough (kohbis)</title>
         <link>https://speakerdeck.com/kohbis/insident-management-is-a-tough</link>
-        <dc:date>2024-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【SRE-NEXT 2024】内製化を見据えた効果的なSRE支援のアプローチ (kojake_300)</title>
-        <link>https://speakerdeck.com/kojake_300/sre-next-2024-nei-zhi-hua-wojian-ju-etaxiao-guo-de-nasrezhi-yuan-noapuroti</link>
         <dc:date>2024-08-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
