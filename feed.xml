@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Actions x Unity プロジェクトの裏側 (DeNA_Tech,@DeNAxTech)</title>
+        <link>https://www.docswell.com/s/DeNA_Tech/ZYDNP3-2024-08-05-134204</link>
+        <dc:date>2024-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新卒エンジニア視点から見た大規模プロジェクトでのスクラム導入の体験ではなく、プロジェクトを離れてみて色々振り返る (uutan1108)</title>
         <link>https://speakerdeck.com/ohmori_yusuke/xin-zu-ensiniashi-dian-karajian-tada-gui-mo-hurosiekutotenosukuramudao-ru-noti-yan-tehanaku-hurosiekutowoli-retemitese-zhen-rifan-ru</link>
         <dc:date>2024-08-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>FourKeysを導入したが生産性向上には至らなかった理由 (ニフティ株式会社)</title>
         <link>https://speakerdeck.com/niftycorp/sre-next-2024-lt</link>
-        <dc:date>2024-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SkyWayが遭遇したWebRTC の可観測性に関する問題と開発者向け可視化サービス提供までの道のり (yuki_uchida)</title>
-        <link>https://speakerdeck.com/yuki_uchida/skywaygazao-yu-sitawebrtc-noke-guan-ce-xing-niguan-suruwen-ti-tokai-fa-zhe-xiang-keke-shi-hua-sabisuti-gong-madenodao-nori</link>
         <dc:date>2024-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
