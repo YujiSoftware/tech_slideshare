@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>その「人間らしさ」、本当に必要ですか？ ～タスクにあわせた対話評価指標定義のススメ～ / LLM Meetup 20240807 (Mr. Bay Area)</title>
+        <link>https://speakerdeck.com/kh21/llm-meetup-20240807</link>
+        <dc:date>2024-08-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>小さなコーポレートITのはじめかた (Haya,@yo_hayasaka)</title>
         <link>https://www.docswell.com/s/yohaya/ZWWEJR-2024-08-06-113914</link>
         <dc:date>2024-08-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ビルドシステムを C# 大統一したお話 (Tetsuya Mori)</title>
         <link>https://speakerdeck.com/monry/unifying-the-build-system-with-csharp</link>
-        <dc:date>2024-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> 開発チームへのディープダイブで見えてきた顧客＝開発者の本当の課題/sre-next-2024-link-and-motivation (リンクアンドモチベーション)</title>
-        <link>https://speakerdeck.com/lmi/sre-next-2024-link-and-motivation</link>
         <dc:date>2024-08-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
