@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新リポジトリを作るときフロントエンドで気をつけたかった5つのコト/ Five things I wanted to pay attention to on the front end when creating a new repository (株式会社カミナシ)</title>
+        <link>https://speakerdeck.com/kaminashi/five-things-i-wanted-to-pay-attention-to-on-the-front-end-when-creating-a-new-repository</link>
+        <dc:date>2024-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Entra IDとJamfで実現する金融業界のセキュリティ対策 〜デバイストラストへの道のり〜 (hikky)</title>
+        <link>https://speakerdeck.com/ken_hikita/entra-idtojamfdeshi-xian-surujin-rong-ye-jie-nosekiyuriteidui-ce-debaisutorasutohenodao-nori</link>
+        <dc:date>2024-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>UU数 160%成長を支えたエンジニアと共創するテックブログ醸成術 / cocreating tech blog cultivation with engineers (CARTA Engineering)</title>
+        <link>https://speakerdeck.com/carta_engineering/cocreating-tech-blog-cultivation-with-engineers</link>
+        <dc:date>2024-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>その「人間らしさ」、本当に必要ですか？ ～タスクにあわせた対話評価指標定義のススメ～ / LLM Meetup 20240807 (Mr. Bay Area)</title>
         <link>https://speakerdeck.com/kh21/llm-meetup-20240807</link>
         <dc:date>2024-08-06T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>事業フェーズの変化を乗り越えるEnabling/Platform SREへの転換 (Takanobu Hoshino)</title>
         <link>https://speakerdeck.com/hosht/platform-srehenozhuan-huan</link>
         <dc:date>2024-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AppleVisionProCICD (Graffity)</title>
-        <link>https://speakerdeck.com/graffity/applevisionprocicd</link>
-        <dc:date>2024-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AppStoreConnectAPIを使って端末登録作業を自動化しよう！(Unity CI/CD 完全に理解した 勉強会) (Graffity)</title>
-        <link>https://speakerdeck.com/graffity/cd-wan-quan-nili-jie-sita-mian-qiang-hui</link>
-        <dc:date>2024-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ビルドシステムを C# 大統一したお話 (Tetsuya Mori)</title>
-        <link>https://speakerdeck.com/monry/unifying-the-build-system-with-csharp</link>
-        <dc:date>2024-08-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
