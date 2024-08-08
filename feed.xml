@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リーダブルなE2Eテストコードのための3つのC (tsuemura)</title>
+        <link>https://speakerdeck.com/tsuemura/ridaburunae2etesutokodonotameno3tunoc</link>
+        <dc:date>2024-08-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>無料で楽しむ Go サーバー開発のススメ (Kotaro Otaka)</title>
         <link>https://speakerdeck.com/otakakot/free-go-server-development-recommendations</link>
         <dc:date>2024-08-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2024-07 Ocsigen: 1st public meeting</title>
         <link>https://docs.google.com/presentation/d/1B3PKucvGiL82gOa32LLEx7RzTh9BBzf8AKQp3e4SLFo/preview</link>
-        <dc:date>2024-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Actions x Unity プロジェクトの裏側 (DeNA_Tech,@DeNAxTech)</title>
-        <link>https://www.docswell.com/s/DeNA_Tech/ZYDNP3-2024-08-05-134204</link>
         <dc:date>2024-08-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
