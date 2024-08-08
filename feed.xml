@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>無料で楽しむ Go サーバー開発のススメ (Kotaro Otaka)</title>
+        <link>https://speakerdeck.com/otakakot/free-go-server-development-recommendations</link>
+        <dc:date>2024-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニア組織30人の壁を超えるための 評価システムとマネジメントのスケール / Scaling evaluation system and management (Yoshiki Iida)</title>
+        <link>https://speakerdeck.com/yoshikiiida/scaling-evaluation-system-and-management</link>
+        <dc:date>2024-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロポーザル出しまくり芸人が教える、プロポーザルを採択してもらう技術 / Techniques for Getting Proposal Accepted (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/techniques-for-getting-proposal-accepted</link>
         <dc:date>2024-08-07T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>GitHub Actions x Unity プロジェクトの裏側 (DeNA_Tech,@DeNAxTech)</title>
         <link>https://www.docswell.com/s/DeNA_Tech/ZYDNP3-2024-08-05-134204</link>
-        <dc:date>2024-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新卒エンジニア視点から見た大規模プロジェクトでのスクラム導入の体験ではなく、プロジェクトを離れてみて色々振り返る (uutan1108)</title>
-        <link>https://speakerdeck.com/ohmori_yusuke/xin-zu-ensiniashi-dian-karajian-tada-gui-mo-hurosiekutotenosukuramudao-ru-noti-yan-tehanaku-hurosiekutowoli-retemitese-zhen-rifan-ru</link>
-        <dc:date>2024-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームビルディングの始め方 / How to start team building (Yoshiki Iida)</title>
-        <link>https://speakerdeck.com/yoshikiiida/how-to-start-team-building</link>
         <dc:date>2024-08-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
