@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React Server Components の疑問を解き明かす (mizdra)</title>
+        <link>https://speakerdeck.com/mizdra/react-server-components-noyi-wen-wojie-kiming-kasu</link>
+        <dc:date>2024-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>知育おもちゃの遊び方 Lv. 999 (Takumi Sueda)</title>
         <link>https://speakerdeck.com/puhitaku/zhi-yu-omotiyanoyou-bifang-lv-999</link>
         <dc:date>2024-08-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLMアプリ開発プラットフォームDifyをAWSで可能な限りマネージド化したかった  (Masashi Tomooka)</title>
         <link>https://speakerdeck.com/tmokmss/llmapurikai-fa-puratutohuomudifywoawsdeke-neng-naxian-rimanezidohua-sitakatuta</link>
-        <dc:date>2024-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新リポジトリを作るときフロントエンドで気をつけたかった5つのコト/ Five things I wanted to pay attention to on the front end when creating a new repository (株式会社カミナシ)</title>
-        <link>https://speakerdeck.com/kaminashi/five-things-i-wanted-to-pay-attention-to-on-the-front-end-when-creating-a-new-repository</link>
         <dc:date>2024-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
