@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>署名とゼロ知識証明の初歩 (herumi)</title>
+        <link>https://speakerdeck.com/herumi/shu-ming-tozerozhi-shi-zheng-ming-nochu-bu</link>
+        <dc:date>2024-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScript入門 2024 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/typescriptru-men-2024</link>
         <dc:date>2024-08-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エンジニアリングが好きな私たちのためのエンジニアリングマネジャー入門 / Engineering management for the rest of us (iwashi)</title>
         <link>https://speakerdeck.com/iwashi86/engineering-management-for-the-rest-of-us</link>
-        <dc:date>2024-08-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リーダブルなE2Eテストコードのための3つのC (tsuemura)</title>
-        <link>https://speakerdeck.com/tsuemura/ridaburunae2etesutokodonotameno3tunoc</link>
         <dc:date>2024-08-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
