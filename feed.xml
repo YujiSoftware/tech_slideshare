@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript入門 2024 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/typescriptru-men-2024</link>
+        <dc:date>2024-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実践データベース設計 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/shi-jian-detabesushe-ji</link>
+        <dc:date>2024-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Browser (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/browser-9b5a2b70-4b6a-4108-a1f5-0876a3ceb8d0</link>
+        <dc:date>2024-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>いかにして命令の入れ替わりについて心配するのをやめ、メモリモデルを愛するようになったか (Takaya Saeki)</title>
+        <link>https://speakerdeck.com/nullpo_head/ikanisiteming-ling-noru-reti-warinituitexin-pei-surunowoyame-memorimoderuwoai-suruyouninatutaka</link>
+        <dc:date>2024-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React Server Components の疑問を解き明かす (mizdra)</title>
         <link>https://speakerdeck.com/mizdra/react-server-components-noyi-wen-wojie-kiming-kasu</link>
         <dc:date>2024-08-09T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>リーダブルなE2Eテストコードのための3つのC (tsuemura)</title>
         <link>https://speakerdeck.com/tsuemura/ridaburunae2etesutokodonotameno3tunoc</link>
         <dc:date>2024-08-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>無料で楽しむ Go サーバー開発のススメ (Kotaro Otaka)</title>
-        <link>https://speakerdeck.com/otakakot/free-go-server-development-recommendations</link>
-        <dc:date>2024-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニア組織30人の壁を超えるための 評価システムとマネジメントのスケール / Scaling evaluation system and management (Yoshiki Iida)</title>
-        <link>https://speakerdeck.com/yoshikiiida/scaling-evaluation-system-and-management</link>
-        <dc:date>2024-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロポーザル出しまくり芸人が教える、プロポーザルを採択してもらう技術 / Techniques for Getting Proposal Accepted (kakehashi)</title>
-        <link>https://speakerdeck.com/kakehashi/techniques-for-getting-proposal-accepted</link>
-        <dc:date>2024-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMアプリ開発プラットフォームDifyをAWSで可能な限りマネージド化したかった  (Masashi Tomooka)</title>
-        <link>https://speakerdeck.com/tmokmss/llmapurikai-fa-puratutohuomudifywoawsdeke-neng-naxian-rimanezidohua-sitakatuta</link>
-        <dc:date>2024-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
