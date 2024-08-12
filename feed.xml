@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GPUアーキテクチャから考えるComputeShaderのスレッド数</title>
+        <link>https://docs.google.com/presentation/d/1yrJtd4sLFDvPHHFerWKXmPMpcJXufhlARoXheJLWxGw/preview</link>
+        <dc:date>2024-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240810_ワンオペ社内勉強会のノウハウ (ponponmikan)</title>
         <link>https://speakerdeck.com/ponponmikankan/20240810-wanopeshe-nei-mian-qiang-hui-nonouhau</link>
         <dc:date>2024-08-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>A/Bテスト概論 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/btesutogai-lun</link>
         <dc:date>2024-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現代的システム開発概論 2024 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/xian-dai-de-sisutemukai-fa-gai-lun-2024</link>
-        <dc:date>2024-08-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
