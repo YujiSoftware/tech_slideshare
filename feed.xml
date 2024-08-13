@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Next.js 研修 2024 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/next-dot-js-yan-xiu-2024</link>
+        <dc:date>2024-08-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>App Router入門 Next.js App Router@Recruit bootcamp2024 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/app-routerru-men-next-dot-js-app-router-at-recruit-bootcamp2024</link>
+        <dc:date>2024-08-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BareMetalで遊ぶ Raspberry Pi 5 PCIe編/KernelVM Tokyo17 (Toshifumi NISHINAGA)</title>
         <link>https://speakerdeck.com/tnishinaga/kernelvm-tokyo17</link>
         <dc:date>2024-08-12T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>React Server Components の疑問を解き明かす (mizdra)</title>
         <link>https://speakerdeck.com/mizdra/react-server-components-noyi-wen-wojie-kiming-kasu</link>
-        <dc:date>2024-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>知育おもちゃの遊び方 Lv. 999 (Takumi Sueda)</title>
-        <link>https://speakerdeck.com/puhitaku/zhi-yu-omotiyanoyou-bifang-lv-999</link>
-        <dc:date>2024-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React 研修 (2024) (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/react-yan-xiu-2024</link>
         <dc:date>2024-08-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
