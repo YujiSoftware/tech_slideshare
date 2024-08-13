@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践オブジェクト指向設計 〜Javaで学ぶオブジェクト指向（応⽤）〜 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/shi-jian-obuziekutozhi-xiang-she-ji-javadexue-buobuziekutozhi-xiang-ying</link>
+        <dc:date>2024-08-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240807 賃貸検索の地図 UI を改善した話 ―Leaflet から MapLibre への移行―</title>
         <link>https://docs.google.com/presentation/d/1W4e7i7m4ejvuaDvZ-NKg37xsGh5peH_lHrGtPL1AxV0/preview</link>
         <dc:date>2024-08-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>HNSWの内部構造 (株式会社LIFULL,@LIFULL_Corp)</title>
         <link>https://www.docswell.com/s/LIFULL/Z1JQ88-2023-09-05-100726</link>
-        <dc:date>2024-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業価値と Engineering 2024年版 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/shi-ye-jia-zhi-to-engineering-2024nian-ban</link>
         <dc:date>2024-08-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
