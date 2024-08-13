@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BareMetalで遊ぶ Raspberry Pi 5 PCIe編/KernelVM Tokyo17 (Toshifumi NISHINAGA)</title>
+        <link>https://speakerdeck.com/tnishinaga/kernelvm-tokyo17</link>
+        <dc:date>2024-08-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践オブジェクト指向設計 〜Javaで学ぶオブジェクト指向（応⽤）〜 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/shi-jian-obuziekutozhi-xiang-she-ji-javadexue-buobuziekutozhi-xiang-ying</link>
         <dc:date>2024-08-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>React 研修 (2024) (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/react-yan-xiu-2024</link>
-        <dc:date>2024-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HNSWの内部構造 (株式会社LIFULL,@LIFULL_Corp)</title>
-        <link>https://www.docswell.com/s/LIFULL/Z1JQ88-2023-09-05-100726</link>
         <dc:date>2024-08-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
