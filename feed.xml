@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Elixirの構造体へのいざない</title>
+        <link>https://docs.google.com/presentation/d/1kFMmdkd5nicO7nH4GM9jyHDhdPXAXaPAZwvVvi01qwU/preview</link>
+        <dc:date>2024-08-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自分の強みを活かしてスタートアップでプロダクトエンジニアとして働く👩🏻‍💻 (Yuka Masuda)</title>
         <link>https://speakerdeck.com/ykmsd/zi-fen-noqiang-miwohuo-kasitesutatoatupudepurodakutoenziniatositedong-ku</link>
         <dc:date>2024-08-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TypeScript入門 2024 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/typescriptru-men-2024</link>
-        <dc:date>2024-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践データベース設計 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/shi-jian-detabesushe-ji</link>
         <dc:date>2024-08-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
