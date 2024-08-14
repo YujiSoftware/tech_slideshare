@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Strip Types と Storage (Yosuke Furukawa)</title>
+        <link>https://speakerdeck.com/yosuke_furukawa/strip-types-to-storage</link>
+        <dc:date>2024-08-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JavaScript研修 (2024) (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/javascriptyan-xiu-2024</link>
         <dc:date>2024-08-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Browser (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/browser-9b5a2b70-4b6a-4108-a1f5-0876a3ceb8d0</link>
-        <dc:date>2024-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いかにして命令の入れ替わりについて心配するのをやめ、メモリモデルを愛するようになったか (Takaya Saeki)</title>
-        <link>https://speakerdeck.com/nullpo_head/ikanisiteming-ling-noru-reti-warinituitexin-pei-surunowoyame-memorimoderuwoai-suruyouninatutaka</link>
         <dc:date>2024-08-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
