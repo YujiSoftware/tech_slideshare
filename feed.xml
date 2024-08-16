@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Recap of Google I/O 2024</title>
+        <link>https://docs.google.com/presentation/d/1NxCWVGBhkyALU7gmRUlyfA5K0NuBXktX067kXazfxgc/preview</link>
+        <dc:date>2024-08-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ハンディターミナルでLinuxを動かしてみた (Chiharu Shirasaka)</title>
         <link>https://speakerdeck.com/pepepper/handeitaminarudelinuxwodong-kasitemita</link>
         <dc:date>2024-08-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>検索結果の品質向上 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/jian-suo-jie-guo-nopin-zhi-xiang-shang-85f05b22-08b9-4f54-8363-4e2142ee462d</link>
-        <dc:date>2024-08-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>1000 行で実現する Linux on Browser (bokuweb)</title>
-        <link>https://speakerdeck.com/bokuweb/1000-xing-deshi-xian-suru-linux-on-browser</link>
         <dc:date>2024-08-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
