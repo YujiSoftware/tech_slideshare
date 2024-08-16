@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Postman概要</title>
+        <link>https://docs.google.com/presentation/d/1zzaZsEf4NpUSbBnGAxdOnACcJ65bkWabHMvWZ3wzjmI/preview</link>
+        <dc:date>2024-08-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>8/8(木)_Findy_ワンチームで勝つ:プロダクトチームの中でのQAエンジニアのふるまい事例 (kotatsu)</title>
         <link>https://speakerdeck.com/kotatsu/8-mu-findy-wantimudesheng-tu-purodakutotimunozhong-denoqaenzinianohurumaishi-li</link>
         <dc:date>2024-08-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ライトたくさんReSTIRを実装しよう (Fadis)</title>
         <link>https://speakerdeck.com/fadis/raitotakusanrestirwoshi-zhuang-siyou</link>
-        <dc:date>2024-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>誰が作成しても1つの構造になるモデリング作成技術、Theory of Models⁠ に夢を見る (mokuo)</title>
-        <link>https://speakerdeck.com/mokuo/shui-gazuo-cheng-sitemo1tunogou-zao-ninarumoderinguzuo-cheng-ji-shu-theory-of-models-nimeng-wojian-ru</link>
         <dc:date>2024-08-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
