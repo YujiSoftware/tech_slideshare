@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Android 15 と Compose の最新情報</title>
+        <link>https://docs.google.com/presentation/d/1ZXEtiJvjSzsEvRbfl21kmR2VkyV6yu_RxjJowAwfTI8/preview</link>
+        <dc:date>2024-08-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Recap of Google I/O 2024</title>
         <link>https://docs.google.com/presentation/d/1NxCWVGBhkyALU7gmRUlyfA5K0NuBXktX067kXazfxgc/preview</link>
         <dc:date>2024-08-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>MIRU2024チュートリアル「様々なセンサやモダリティを用いたシーン状態推定」 (Mariko Isogawa)</title>
         <link>https://speakerdeck.com/miso2024/miru2024tiyutoriaru-yang-nasensayamodariteiwoyong-itasinzhuang-tai-tui-ding</link>
         <dc:date>2024-08-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>検索結果の品質向上 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/jian-suo-jie-guo-nopin-zhi-xiang-shang-85f05b22-08b9-4f54-8363-4e2142ee462d</link>
-        <dc:date>2024-08-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
