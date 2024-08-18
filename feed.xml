@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【拡散モデル勉強会】拡散モデルの数理 (Deep Learning JP,@DL_Hacks)</title>
+        <link>https://www.docswell.com/s/DeepLearning2023/ZG1XG4-2024-08-13-162043</link>
+        <dc:date>2024-08-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ゾンビEMが出来上がるまで (Ryota Abe)</title>
         <link>https://speakerdeck.com/abryt69/zonbiemgachu-lai-shang-garumade</link>
         <dc:date>2024-08-17T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>App Router入門 Next.js App Router@Recruit bootcamp2024 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/app-routerru-men-next-dot-js-app-router-at-recruit-bootcamp2024</link>
         <dc:date>2024-08-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BareMetalで遊ぶ Raspberry Pi 5 PCIe編/KernelVM Tokyo17 (Toshifumi NISHINAGA)</title>
-        <link>https://speakerdeck.com/tnishinaga/kernelvm-tokyo17</link>
-        <dc:date>2024-08-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
