@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHPアプリケーションにおけるeBPFの使い所 (Sohei Iwahori)</title>
+        <link>https://speakerdeck.com/egmc/phpapurikesiyonniokeruebpfnoshi-isuo</link>
+        <dc:date>2024-08-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>おもにクラウドの話してます#3 OPスライド (Satoshi Kaneyasu)</title>
         <link>https://speakerdeck.com/satoshi256kbyte/omonikurautonohua-sitemasu-number-3-opsuraido</link>
         <dc:date>2024-08-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2024-08-14 LTC（Linearly Transformed Cosines）によるエリアライトのUnity URP実装</title>
         <link>https://docs.google.com/presentation/d/1OAey5wGU7BIKw7YOpILKz-Ymqv-jysgFeWpvJVVdXm0/preview</link>
-        <dc:date>2024-08-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これで猛暑を乗り越えよう！2024年真夏の最新トレンドTerraform Tips集 (kuro)</title>
-        <link>https://speakerdeck.com/kuro_kurorrr/terraform-tips</link>
         <dc:date>2024-08-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
