@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェアの実装と事業戦略を結びつける (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/aligning-software-architecture-and-business-strategy-2024-8-forkwill</link>
+        <dc:date>2024-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Gitハンズオン準備 (NoMu)</title>
         <link>https://speakerdeck.com/nomu/githanzuonzhun-bei</link>
         <dc:date>2024-08-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ゾンビEMが出来上がるまで (Ryota Abe)</title>
         <link>https://speakerdeck.com/abryt69/zonbiemgachu-lai-shang-garumade</link>
-        <dc:date>2024-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>使われないダッシュボードを生まないためのプロジェクトマネジメント / Project management to avoid creating unused dashboards (Sansan R&amp;D)</title>
-        <link>https://speakerdeck.com/sansan_randd/project-management-to-avoid-creating-unused-dashboards</link>
         <dc:date>2024-08-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
