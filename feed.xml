@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模データに集まるみんなの負債！との付き合い方 (阿部 昌利)</title>
+        <link>https://speakerdeck.com/masatoshi0205/da-gui-mo-detaniji-maruminnanofu-zhai-tonofu-kihe-ifang</link>
+        <dc:date>2024-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>HonoとPostgreSQL with Workersを本番投入に向けて検証している話 (Horai)</title>
+        <link>https://speakerdeck.com/pensuke81/postgresql-with-workers-on-hono-at-workers-tech-talks-in-osaka-20240226</link>
+        <dc:date>2024-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenAIのStructured Outputsを試してみた ~LLMを活用した機械学習モデルのアノテーション効率化を目指して~ (Tomoaki)</title>
+        <link>https://speakerdeck.com/tomoaki25/openainostructured-outputswoshi-sitemita-llmwohuo-yong-sitaji-jie-xue-xi-moderunoanotesiyonxiao-lu-hua-womu-zhi-site</link>
+        <dc:date>2024-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアの実装と事業戦略を結びつける (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/aligning-software-architecture-and-business-strategy-2024-8-forkwill</link>
         <dc:date>2024-08-19T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>Google Cloud Vertex AIにおけるGemini vs Claude (dyoshikawa)</title>
         <link>https://speakerdeck.com/dyoshikawa1993/google-cloud-vertex-ainiokerugemini-vs-claude</link>
         <dc:date>2024-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(論文読み)AI Scientist: 科学的発見の完全自動化に向けて (ymgc)</title>
-        <link>https://speakerdeck.com/__ymgc__/lun-wen-du-mi-ai-scientist-ke-xue-de-fa-jian-nowan-quan-zi-dong-hua-nixiang-kete</link>
-        <dc:date>2024-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【拡散モデル勉強会】拡散モデルの数理 (Deep Learning JP,@DL_Hacks)</title>
-        <link>https://www.docswell.com/s/DeepLearning2023/ZG1XG4-2024-08-13-162043</link>
-        <dc:date>2024-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゾンビEMが出来上がるまで (Ryota Abe)</title>
-        <link>https://speakerdeck.com/abryt69/zonbiemgachu-lai-shang-garumade</link>
-        <dc:date>2024-08-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
