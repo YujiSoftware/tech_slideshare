@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データの受託開発からの卒業 (Hiroyuki Ueno)</title>
+        <link>https://speakerdeck.com/hiro0329/detanoshou-tuo-kai-fa-karanozu-ye</link>
+        <dc:date>2024-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Dataform を使った GAS によるデータ運用からの脱却 (Noriaki Hiraki)</title>
+        <link>https://speakerdeck.com/hiracky16/dataform-woshi-tuta-gas-niyorudetayun-yong-karanotuo-que</link>
+        <dc:date>2024-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>信頼性とアジリティの両輪で進むスタートアップSRE (Nealle)</title>
         <link>https://speakerdeck.com/nealle/xin-lai-xing-toaziriteinoliang-lun-dejin-musutatoatupusre</link>
         <dc:date>2024-08-19T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Android 15 と Compose の最新情報</title>
         <link>https://docs.google.com/presentation/d/1ZXEtiJvjSzsEvRbfl21kmR2VkyV6yu_RxjJowAwfTI8/preview</link>
-        <dc:date>2024-08-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Recap of Google I/O 2024</title>
-        <link>https://docs.google.com/presentation/d/1NxCWVGBhkyALU7gmRUlyfA5K0NuBXktX067kXazfxgc/preview</link>
-        <dc:date>2024-08-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハンディターミナルでLinuxを動かしてみた (Chiharu Shirasaka)</title>
-        <link>https://speakerdeck.com/pepepper/handeitaminarudelinuxwodong-kasitemita</link>
         <dc:date>2024-08-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
