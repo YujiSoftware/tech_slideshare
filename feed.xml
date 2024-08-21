@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>入門 Docker - JAWS-UG東京 ランチタイムLT会 #14  (y-ohgi)</title>
+        <link>https://speakerdeck.com/y0hgi/ru-men-docker-jaws-ug-tokyo-introduction-docker</link>
+        <dc:date>2024-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ansibleを学ぼう。Ansibleとは？ (とある監視員)</title>
+        <link>https://speakerdeck.com/toarukanshiin/ansiblewoxue-bou-ansibletoha</link>
+        <dc:date>2024-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DNSSEC基礎とRoute53運用 (Toru_Kubota)</title>
+        <link>https://speakerdeck.com/toru_kubota/dnssecji-chu-toroute53yun-yong</link>
+        <dc:date>2024-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS ALL Certifications Engineersになるには (Toru_Kubota)</title>
+        <link>https://speakerdeck.com/toru_kubota/aws-all-certifications-engineersninaruniha</link>
+        <dc:date>2024-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模データに集まるみんなの負債！との付き合い方 (阿部 昌利)</title>
         <link>https://speakerdeck.com/masatoshi0205/da-gui-mo-detaniji-maruminnanofu-zhai-tonofu-kihe-ifang</link>
         <dc:date>2024-08-20T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>おもにクラウドの話してます#3 OPスライド (Satoshi Kaneyasu)</title>
         <link>https://speakerdeck.com/satoshi256kbyte/omonikurautonohua-sitemasu-number-3-opsuraido</link>
-        <dc:date>2024-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CodeCommitの次として考えた 場合のAmazon CodeCatalyst (Satoshi Kaneyasu)</title>
-        <link>https://speakerdeck.com/satoshi256kbyte/aws-codecommitnoci-tositekao-eta-chang-he-noamazon-codecatalyst</link>
-        <dc:date>2024-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SORACOM Discovery 2024行ってきた (Ozk)</title>
-        <link>https://speakerdeck.com/ozk009/soracom-discovery-2024xing-tutekita</link>
-        <dc:date>2024-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pulumi に入門してみた (chanyou0311)</title>
-        <link>https://speakerdeck.com/chanyou0311/pulumi-niru-men-sitemita</link>
-        <dc:date>2024-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloud Vertex AIにおけるGemini vs Claude (dyoshikawa)</title>
-        <link>https://speakerdeck.com/dyoshikawa1993/google-cloud-vertex-ainiokerugemini-vs-claude</link>
         <dc:date>2024-08-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
