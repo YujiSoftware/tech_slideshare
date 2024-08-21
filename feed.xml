@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Design and build about DataOps hands-on (shumpei3)</title>
+        <link>https://speakerdeck.com/shumpei3/design-and-build-about-dataops-hands-on</link>
+        <dc:date>2024-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CEDEC 2024『ゲーム開発者のための C++17～C++23, 近年の C++ 規格策定の動向』 (Ryo Suzuki)</title>
         <link>https://www.docswell.com/s/cpp/5XEY92-cedec2024</link>
         <dc:date>2024-08-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>信頼性とアジリティの両輪で進むスタートアップSRE (Nealle)</title>
         <link>https://speakerdeck.com/nealle/xin-lai-xing-toaziriteinoliang-lun-dejin-musutatoatupusre</link>
-        <dc:date>2024-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゲームエンジンGodot 4の概要とそのVR開発について (こりん,@korinVR)</title>
-        <link>https://www.docswell.com/s/korinVR/5EXNYR-2022-12-14-godot</link>
         <dc:date>2024-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
