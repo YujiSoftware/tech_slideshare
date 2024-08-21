@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>猫でもわかった気になるRedshift Serverless(更新系限定) (Hiroo Katoh)</title>
+        <link>https://speakerdeck.com/kentapapa/mao-demowakatutaqi-ninaruredshift-serverless-geng-xin-xi-xian-ding</link>
+        <dc:date>2024-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データドリブン経営への転換 / transforming-to-data-driven (pei0804)</title>
+        <link>https://speakerdeck.com/pei0804/transforming-to-data-driven</link>
+        <dc:date>2024-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>多すぎる！！ 気づくと増えてるAmazon CloudWatch大家族、クラウド初心者にも分かりやすく整理しました (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/duo-sugiru-qi-dukutozeng-eteruamazon-cloudwatchda-jia-zu-kuraudochu-xin-zhe-nimofen-kariyasukuzheng-li-simasita</link>
         <dc:date>2024-08-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>アジリティの高いデータ基盤を目指して (Toshiki Tsuchikawa)</title>
         <link>https://speakerdeck.com/ttccddtoki/aziriteinogao-idetaji-pan-womu-zhi-site</link>
-        <dc:date>2024-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データの受託開発からの卒業 (Hiroyuki Ueno)</title>
-        <link>https://speakerdeck.com/hiro0329/detanoshou-tuo-kai-fa-karanozu-ye</link>
-        <dc:date>2024-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dataform を使った GAS によるデータ運用からの脱却 (Noriaki Hiraki)</title>
-        <link>https://speakerdeck.com/hiracky16/dataform-woshi-tuta-gas-niyorudetayun-yong-karanotuo-que</link>
         <dc:date>2024-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
