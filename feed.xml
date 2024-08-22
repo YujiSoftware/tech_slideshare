@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BigQueryからSnowflakeへ移管して作る最強のデータ基盤 〜Data Ingestion編〜 / The Ultimate Data Platform Migration from BigQuery to Snowflake: Data Ingestion Edition (Civitaspo)</title>
+        <link>https://speakerdeck.com/civitaspo/the-ultimate-data-platform-migration-from-bigquery-to-snowflake-data-ingestion-edition</link>
+        <dc:date>2024-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>これまでに存在しない業務フローは どう作っていくか？ドメインエキスパートやビジネスサイド、 チーム一丸となって取り組むドメインモデリング (Tatsuya Iwamatsu)</title>
         <link>https://speakerdeck.com/iwamatsu0430/how-to-make-undefined-business-by-all</link>
         <dc:date>2024-08-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>HonoとPostgreSQL with Workersを本番投入に向けて検証している話 (Horai)</title>
         <link>https://speakerdeck.com/pensuke81/postgresql-with-workers-on-hono-at-workers-tech-talks-in-osaka-20240226</link>
-        <dc:date>2024-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenAIのStructured Outputsを試してみた ~LLMを活用した機械学習モデルのアノテーション効率化を目指して~ (Tomoaki)</title>
-        <link>https://speakerdeck.com/tomoaki25/openainostructured-outputswoshi-sitemita-llmwohuo-yong-sitaji-jie-xue-xi-moderunoanotesiyonxiao-lu-hua-womu-zhi-site</link>
         <dc:date>2024-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
