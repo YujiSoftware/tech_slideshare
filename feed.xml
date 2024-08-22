@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>App Clipの魔法: iOSデザイン開発の新時代 (log5)</title>
+        <link>https://speakerdeck.com/judau/the-magic-of-app-clips-a-new-era-in-ios-design-and-development</link>
+        <dc:date>2024-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BigQueryからSnowflakeへ移管して作る最強のデータ基盤 〜Data Ingestion編〜 / The Ultimate Data Platform Migration from BigQuery to Snowflake: Data Ingestion Edition (Civitaspo)</title>
         <link>https://speakerdeck.com/civitaspo/the-ultimate-data-platform-migration-from-bigquery-to-snowflake-data-ingestion-edition</link>
         <dc:date>2024-08-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>大規模データに集まるみんなの負債！との付き合い方 (阿部 昌利)</title>
         <link>https://speakerdeck.com/masatoshi0205/da-gui-mo-detaniji-maruminnanofu-zhai-tonofu-kihe-ifang</link>
-        <dc:date>2024-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HonoとPostgreSQL with Workersを本番投入に向けて検証している話 (Horai)</title>
-        <link>https://speakerdeck.com/pensuke81/postgresql-with-workers-on-hono-at-workers-tech-talks-in-osaka-20240226</link>
         <dc:date>2024-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
