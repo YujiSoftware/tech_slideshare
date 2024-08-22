@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>これまでに存在しない業務フローは どう作っていくか？ドメインエキスパートやビジネスサイド、 チーム一丸となって取り組むドメインモデリング (Tatsuya Iwamatsu)</title>
+        <link>https://speakerdeck.com/iwamatsu0430/how-to-make-undefined-business-by-all</link>
+        <dc:date>2024-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ファインディでのGitHub Actions活用事例 (puku0x)</title>
         <link>https://speakerdeck.com/puku0x/huaindeidenogithub-actionshuo-yong-shi-li</link>
         <dc:date>2024-08-21T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>OpenAIのStructured Outputsを試してみた ~LLMを活用した機械学習モデルのアノテーション効率化を目指して~ (Tomoaki)</title>
         <link>https://speakerdeck.com/tomoaki25/openainostructured-outputswoshi-sitemita-llmwohuo-yong-sitaji-jie-xue-xi-moderunoanotesiyonxiao-lu-hua-womu-zhi-site</link>
         <dc:date>2024-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアの実装と事業戦略を結びつける (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/aligning-software-architecture-and-business-strategy-2024-8-forkwill</link>
-        <dc:date>2024-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
