@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>そのQRコード、安全ですか？ / Cross Device Flow (ritou)</title>
+        <link>https://speakerdeck.com/ritou/cross-device-flow</link>
+        <dc:date>2024-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>続「AWS 基礎 100 本ノック」をやってみた (Uechi Shingo)</title>
         <link>https://speakerdeck.com/uechishingo/sok-aws-ji-chu-100-ben-notuku-woyatutemita</link>
         <dc:date>2024-08-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>入門 Docker - JAWS-UG東京 ランチタイムLT会 #14  (y-ohgi)</title>
         <link>https://speakerdeck.com/y0hgi/ru-men-docker-jaws-ug-tokyo-introduction-docker</link>
-        <dc:date>2024-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ansibleを学ぼう。Ansibleとは？ (とある監視員)</title>
-        <link>https://speakerdeck.com/toarukanshiin/ansiblewoxue-bou-ansibletoha</link>
         <dc:date>2024-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
