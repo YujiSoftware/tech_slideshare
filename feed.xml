@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>続「AWS 基礎 100 本ノック」をやってみた (Uechi Shingo)</title>
+        <link>https://speakerdeck.com/uechishingo/sok-aws-ji-chu-100-ben-notuku-woyatutemita</link>
+        <dc:date>2024-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Neptuneを使ってRAGをつくってみた (Atsushi Shimizu)</title>
+        <link>https://speakerdeck.com/shimizuxa/amazon-neptunewoshi-tuteragwotukututemita</link>
+        <dc:date>2024-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RedshiftのサーチパスとDBメンテ (NaoyaYamamoto)</title>
+        <link>https://speakerdeck.com/naonana777/redshiftnosatipasunohuo-yong</link>
+        <dc:date>2024-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>App Clipの魔法: iOSデザイン開発の新時代 (log5)</title>
         <link>https://speakerdeck.com/judau/the-magic-of-app-clips-a-new-era-in-ios-design-and-development</link>
         <dc:date>2024-08-22T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Ansibleを学ぼう。Ansibleとは？ (とある監視員)</title>
         <link>https://speakerdeck.com/toarukanshiin/ansiblewoxue-bou-ansibletoha</link>
-        <dc:date>2024-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DNSSEC基礎とRoute53運用 (Toru_Kubota)</title>
-        <link>https://speakerdeck.com/toru_kubota/dnssecji-chu-toroute53yun-yong</link>
-        <dc:date>2024-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS ALL Certifications Engineersになるには (Toru_Kubota)</title>
-        <link>https://speakerdeck.com/toru_kubota/aws-all-certifications-engineersninaruniha</link>
-        <dc:date>2024-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模データに集まるみんなの負債！との付き合い方 (阿部 昌利)</title>
-        <link>https://speakerdeck.com/masatoshi0205/da-gui-mo-detaniji-maruminnanofu-zhai-tonofu-kihe-ifang</link>
         <dc:date>2024-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
