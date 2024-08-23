@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>運用エンジニアのための AWSドキュメントの歩き方・まとめ方 / 20240822-jawsug-tokyo-aws-documents (opelab)</title>
+        <link>https://speakerdeck.com/opelab/20240822-jawsug-tokyo-aws-documents</link>
+        <dc:date>2024-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>チームで開発する際にアクセシビリティを保つ施策 (azukiazusa)</title>
         <link>https://speakerdeck.com/azukiazusa1/timudekai-fa-suruji-niakusesibiriteiwobao-tushi-ce</link>
         <dc:date>2024-08-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CEDEC 2024『ゲーム開発者のための C++17～C++23, 近年の C++ 規格策定の動向』 (Ryo Suzuki)</title>
         <link>https://www.docswell.com/s/cpp/5XEY92-cedec2024</link>
-        <dc:date>2024-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CloudShell全機能 〜 CLI活用のススメ / 20240821-nri-aws-cloudshell (opelab)</title>
-        <link>https://speakerdeck.com/opelab/20240821-nri-aws-cloudshell</link>
         <dc:date>2024-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
