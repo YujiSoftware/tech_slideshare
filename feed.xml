@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Rustで作るtree-sitterパーサーのRubyバインディング (Tomohiro Hashidate)</title>
+        <link>https://speakerdeck.com/joker1007/rustdezuo-rutree-sitterpasanorubybaindeingu</link>
+        <dc:date>2024-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最高の構文木の設計 2024年版 (yui-knk)</title>
+        <link>https://speakerdeck.com/yui_knk/zui-gao-nogou-wen-mu-noshe-ji-2024nian-ban</link>
+        <dc:date>2024-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CSSレイアウト再入門:完全に理解してCSSを記述するために (berlysia)</title>
         <link>https://speakerdeck.com/berlysia/revisiting-css-layout-mastering-css-for-writing-with-complete-understanding</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>猫でもわかった気になるRedshift Serverless(更新系限定) (Hiroo Katoh)</title>
         <link>https://speakerdeck.com/kentapapa/mao-demowakatutaqi-ninaruredshift-serverless-geng-xin-xi-xian-ding</link>
         <dc:date>2024-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データドリブン経営への転換 / transforming-to-data-driven (pei0804)</title>
-        <link>https://speakerdeck.com/pei0804/transforming-to-data-driven</link>
-        <dc:date>2024-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>多すぎる！！ 気づくと増えてるAmazon CloudWatch大家族、クラウド初心者にも分かりやすく整理しました (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/duo-sugiru-qi-dukutozeng-eteruamazon-cloudwatchda-jia-zu-kuraudochu-xin-zhe-nimofen-kariyasukuzheng-li-simasita</link>
-        <dc:date>2024-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
