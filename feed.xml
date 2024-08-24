@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Webの潮流から考える、フロントエンドの溢れんばかりの 魅力とフロントエンドエンジニアの役目 (NishimuraWataru,@_n13u_)</title>
+        <link>https://www.docswell.com/s/_n13u_/57RV6J-2024-08-24-025033</link>
+        <dc:date>2024-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScriptで 負荷テストを書こう 〜k6のシングルバイナリの秘密〜 (Minoru Takeuchi)</title>
         <link>https://speakerdeck.com/dora1998/typescriptte-fu-he-tesutowoshu-kou-k6nosinkuruhainarinomi-mi</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>続「AWS 基礎 100 本ノック」をやってみた (Uechi Shingo)</title>
         <link>https://speakerdeck.com/uechishingo/sok-aws-ji-chu-100-ben-notuku-woyatutemita</link>
-        <dc:date>2024-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Neptuneを使ってRAGをつくってみた (Atsushi Shimizu)</title>
-        <link>https://speakerdeck.com/shimizuxa/amazon-neptunewoshi-tuteragwotukututemita</link>
         <dc:date>2024-08-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
