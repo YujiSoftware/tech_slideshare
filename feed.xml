@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>10年もののjQueryフロントエンドを良くしていくための道筋 (ぺんた / 菅原 政行,@plageoj)</title>
+        <link>https://www.docswell.com/s/plageoj/KR2XJ3-10-yo-jquery</link>
+        <dc:date>2024-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ESLint Rule により事業, 技術ドメインに沿った制約と誓約を敷衍させるアプローチのすゝめ (Shinobu Hayashi)</title>
+        <link>https://speakerdeck.com/shinyaigeek/eslint-rule-niyorishi-ye-ji-shu-domeinniyan-tutazhi-yue-toshi-yue-wofu-yan-saseruapurotinosu-me-796c5458-d929-455c-90cf-f4914b91621f</link>
+        <dc:date>2024-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>5分で分かる React Aria の 良いところ・これからなところ (mattsu-)</title>
         <link>https://speakerdeck.com/ryo_manba/5fen-defen-karu-react-aria-no-liang-itokorokorekaranatokoro</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>RedshiftのサーチパスとDBメンテ (NaoyaYamamoto)</title>
         <link>https://speakerdeck.com/naonana777/redshiftnosatipasunohuo-yong</link>
-        <dc:date>2024-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>App Clipの魔法: iOSデザイン開発の新時代 (log5)</title>
-        <link>https://speakerdeck.com/judau/the-magic-of-app-clips-a-new-era-in-ios-design-and-development</link>
-        <dc:date>2024-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BigQueryからSnowflakeへ移管して作る最強のデータ基盤 〜Data Ingestion編〜 / The Ultimate Data Platform Migration from BigQuery to Snowflake: Data Ingestion Edition (Civitaspo)</title>
-        <link>https://speakerdeck.com/civitaspo/the-ultimate-data-platform-migration-from-bigquery-to-snowflake-data-ingestion-edition</link>
         <dc:date>2024-08-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
