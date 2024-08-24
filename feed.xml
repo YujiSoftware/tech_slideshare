@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>5分で分かる React Aria の 良いところ・これからなところ (mattsu-)</title>
+        <link>https://speakerdeck.com/ryo_manba/5fen-defen-karu-react-aria-no-liang-itokorokorekaranatokoro</link>
+        <dc:date>2024-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>New Order in Cascade Sorting Order (Hajime Mugishima)</title>
+        <link>https://speakerdeck.com/mugi_uno/new-order-in-cascade-sorting-order</link>
+        <dc:date>2024-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ECMAScript仕様を読むのに必要な知識 - ダイジェスト版 (syumai)</title>
+        <link>https://speakerdeck.com/syumai/ecmascriptshi-yang-wodu-munonibi-yao-nazhi-shi-daiziesutoban</link>
+        <dc:date>2024-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>現代のVueとTypeScript - 型安全の活用術 (minako-ph)</title>
+        <link>https://speakerdeck.com/minako__ph/xian-dai-novuetotypescript-xing-an-quan-nohuo-yong-shu</link>
+        <dc:date>2024-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Component-Driven Design &amp; Development (sakito)</title>
         <link>https://speakerdeck.com/sakito/component-driven-design-and-development</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>BigQueryからSnowflakeへ移管して作る最強のデータ基盤 〜Data Ingestion編〜 / The Ultimate Data Platform Migration from BigQuery to Snowflake: Data Ingestion Edition (Civitaspo)</title>
         <link>https://speakerdeck.com/civitaspo/the-ultimate-data-platform-migration-from-bigquery-to-snowflake-data-ingestion-edition</link>
         <dc:date>2024-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これまでに存在しない業務フローは どう作っていくか？ドメインエキスパートやビジネスサイド、 チーム一丸となって取り組むドメインモデリング (Tatsuya Iwamatsu)</title>
-        <link>https://speakerdeck.com/iwamatsu0430/how-to-make-undefined-business-by-all</link>
-        <dc:date>2024-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ファインディでのGitHub Actions活用事例 (puku0x)</title>
-        <link>https://speakerdeck.com/puku0x/huaindeidenogithub-actionshuo-yong-shi-li</link>
-        <dc:date>2024-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「龍が如く」も「スーパーモンキーボール」も自動化！クオリティエンジニアリングチームによるマルチゲームエンジン対応で進化した「龍が如くスタジオ」のテスト自動化環境について (SEGADevTech)</title>
-        <link>https://speakerdeck.com/segadevtech/long-garu-ku-mo-supamonkiboru-mozi-dong-hua-kuoriteienziniaringutimuniyorumarutigemuenzindui-ying-dejin-hua-sita-long-garu-kusutazio-notesutozi-dong-hua-huan-jing-nituite</link>
-        <dc:date>2024-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Actions ステップアップ Tips 〜高速化・セキュリティ・設計〜 #GitHubActions_findy (Masanori Tani,@uta8a)</title>
-        <link>https://www.docswell.com/s/uta8a/KYDW9P-2024-08-22-github-actions-tips</link>
-        <dc:date>2024-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
