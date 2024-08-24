@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>非同期処理を活用しながら Rust製wasmとJSを連携する方法（wasm-bindgenを使いたくない人向け） (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/fei-tong-qi-chu-li-wohuo-yong-sinagara-rustzhi-wasmtojswolian-xi-surufang-fa-wasm-bindgenwoshi-itakunairen-xiang-ke</link>
+        <dc:date>2024-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Web技術を駆使して ユーザーの画面を「録画」する (Yuku Kotani)</title>
         <link>https://speakerdeck.com/yukukotani/recording-web-app-user-screen-powered-by-web-tech</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JavaScript Runtime とはなにか (Yosuke Furukawa)</title>
         <link>https://speakerdeck.com/yosuke_furukawa/javascript-runtime-tohananika</link>
-        <dc:date>2024-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ・キャンプ全国大会2024 S17 探査機自作ゼミ 事前学習・当日資料 (sksat)</title>
-        <link>https://speakerdeck.com/sksat/seccamp2024-s17</link>
         <dc:date>2024-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
