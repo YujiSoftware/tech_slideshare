@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>座談会 「Strict ConcurrencyとSwift 6が開く新時代: 私たちはどう生きるか？」 ([email protected])</title>
+        <link>https://speakerdeck.com/shiz/zuo-tan-hui-strict-concurrencytoswift-6gakai-kuxin-shi-dai-si-tatihadousheng-kiruka</link>
+        <dc:date>2024-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エッジはフロントエンドなのか？ バックエンドなのか？ について考えてみる (AijiUejima)</title>
+        <link>https://speakerdeck.com/aiji42/etuzihahurontondonanoka-batukuendonanoka-nituitekao-etemiru</link>
+        <dc:date>2024-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Swift 6のTyped throwsとSwiftにおけるエラーハンドリングの全体像を学ぶ (Yuta Koshizawa)</title>
+        <link>https://speakerdeck.com/koher/swift-6notyped-throwstoswiftniokeruerahandoringunoquan-ti-xiang-woxue-bu</link>
+        <dc:date>2024-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The Future of Frontend i18n : Intl.MessageFormat (Saji)</title>
+        <link>https://speakerdeck.com/sajikix/the-future-of-frontend-i18n-intl-dot-messageformat</link>
+        <dc:date>2024-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>32歳 1 児の母がエンジニアとして成長するために今できること (meru)</title>
         <link>https://speakerdeck.com/c5meg1012/32sui-1-er-nomu-gaenziniatositecheng-chang-surutamenijin-dekirukoto</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>CSSレイアウト再入門:完全に理解してCSSを記述するために (berlysia)</title>
         <link>https://speakerdeck.com/berlysia/revisiting-css-layout-mastering-css-for-writing-with-complete-understanding</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プログラマのための音楽入門 (CHEEBOW)</title>
-        <link>https://speakerdeck.com/cheebow/puroguramanotamenoyin-le-ru-men</link>
-        <dc:date>2024-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>運用エンジニアのための AWSドキュメントの歩き方・まとめ方 / 20240822-jawsug-tokyo-aws-documents (opelab)</title>
-        <link>https://speakerdeck.com/opelab/20240822-jawsug-tokyo-aws-documents</link>
-        <dc:date>2024-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームで開発する際にアクセシビリティを保つ施策 (azukiazusa)</title>
-        <link>https://speakerdeck.com/azukiazusa1/timudekai-fa-suruji-niakusesibiriteiwobao-tushi-ce</link>
-        <dc:date>2024-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>電子署名サービスの品質戦略 (林憲吾)</title>
-        <link>https://speakerdeck.com/hayashikengo/dian-zi-shu-ming-sahisunopin-zhi-zhan-lue</link>
-        <dc:date>2024-08-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
