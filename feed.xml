@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>dRuby 入門者によるあなたの身近にあるdRuby 入門 (makicamel)</title>
+        <link>https://speakerdeck.com/makicamel/druby-ru-men-zhe-niyoruanatanoshen-jin-niarudruby-ru-men</link>
+        <dc:date>2024-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloudflareスタックで月間1200万UUの経済メディアにアバター画像生成サービスを作る / Cloudflare Developer Platform for AI avatar service (Yukiya Nakagawa)</title>
         <link>https://speakerdeck.com/nkzn/cloudflare-developer-platform-for-ai-avatar-service</link>
         <dc:date>2024-08-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>非同期処理を活用しながら Rust製wasmとJSを連携する方法（wasm-bindgenを使いたくない人向け） (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/fei-tong-qi-chu-li-wohuo-yong-sinagara-rustzhi-wasmtojswolian-xi-surufang-fa-wasm-bindgenwoshi-itakunairen-xiang-ke</link>
-        <dc:date>2024-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web技術を駆使して ユーザーの画面を「録画」する (Yuku Kotani)</title>
-        <link>https://speakerdeck.com/yukukotani/recording-web-app-user-screen-powered-by-web-tech</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
