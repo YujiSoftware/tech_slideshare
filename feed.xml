@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Playwrightから始めるVisual Regression Testingのススメ by とっと (totto2727)</title>
+        <link>https://speakerdeck.com/totto2727/playwrightkarashi-meruvisual-regression-testingnosusume-by-totuto</link>
+        <dc:date>2024-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>dRuby 入門者によるあなたの身近にあるdRuby 入門 (makicamel)</title>
         <link>https://speakerdeck.com/makicamel/druby-ru-men-zhe-niyoruanatanoshen-jin-niarudruby-ru-men</link>
         <dc:date>2024-08-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Component-Driven Design &amp; Development (sakito)</title>
         <link>https://speakerdeck.com/sakito/component-driven-design-and-development</link>
-        <dc:date>2024-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非同期処理を活用しながら Rust製wasmとJSを連携する方法（wasm-bindgenを使いたくない人向け） (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/fei-tong-qi-chu-li-wohuo-yong-sinagara-rustzhi-wasmtojswolian-xi-surufang-fa-wasm-bindgenwoshi-itakunairen-xiang-ke</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
