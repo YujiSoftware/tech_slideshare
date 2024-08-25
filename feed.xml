@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BasicBasic認証 (sadnessOjisan)</title>
+        <link>https://speakerdeck.com/sadnessojisan/basicbasicren-zheng</link>
+        <dc:date>2024-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>どうしてこうなった？から理解するActive Recordの関連の裏側 (Shinichi Maeshima)</title>
         <link>https://speakerdeck.com/willnet/dousitekounatuta-karali-jie-suruactive-recordnoguan-lian-noli-ce-3dad1d86-eb47-4b73-9c69-34b66919315b</link>
         <dc:date>2024-08-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Rustで作るtree-sitterパーサーのRubyバインディング (Tomohiro Hashidate)</title>
         <link>https://speakerdeck.com/joker1007/rustdezuo-rutree-sitterpasanorubybaindeingu</link>
-        <dc:date>2024-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最高の構文木の設計 2024年版 (yui-knk)</title>
-        <link>https://speakerdeck.com/yui_knk/zui-gao-nogou-wen-mu-noshe-ji-2024nian-ban</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
