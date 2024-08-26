@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ダークテーマとアクセシビリティの融合したカラートークンの設計 (出口 裕貴)</title>
+        <link>https://speakerdeck.com/degudegu2510/dakutematoakusesibiriteinorong-he-sitakaratokunnoshe-ji</link>
+        <dc:date>2024-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最近個人開発が熱い ~多言語対応編~ (sugar)</title>
+        <link>https://speakerdeck.com/sugarcat7/zui-jin-ge-ren-kai-fa-kare-i-duo-yan-yu-dui-ying-bian</link>
+        <dc:date>2024-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フロントエンドカンファレンス北海道2024 『小規模サイトでも使えるVite 〜HTMLコーディングをよりスマートに〜』長谷川広武（ハム） (h2ham)</title>
+        <link>https://speakerdeck.com/h2ham/hurontoendokanhuarensubei-hai-dao-2024-xiao-gui-mo-saitodemoshi-eruvite-htmlkodeinguwoyorisumatoni-chang-gu-chuan-guang-wu-hamu</link>
+        <dc:date>2024-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve (Sho Yokoi)</title>
+        <link>https://speakerdeck.com/eumesy/embers-of-autoregression-understanding-large-language-models-through-the-problem-they-are-trained-to-solve</link>
+        <dc:date>2024-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>存在感が薄い?!意外とがんばってるさくらインターネットFEチーム / Frontend Conference 2024 (ダーシノ)</title>
+        <link>https://speakerdeck.com/bcrikko/frontend-conference-2024</link>
+        <dc:date>2024-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Remix Way を外れる自由 (ONDA, Takashi)</title>
         <link>https://speakerdeck.com/takonda/freedom-to-minimize-dependencies-remix</link>
         <dc:date>2024-08-25T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>32歳 1 児の母がエンジニアとして成長するために今できること (meru)</title>
         <link>https://speakerdeck.com/c5meg1012/32sui-1-er-nomu-gaenziniatositecheng-chang-surutamenijin-dekirukoto</link>
-        <dc:date>2024-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザインシステムとコンポーネント指向によるフロントエンド開発プロセスの革新 / Innovation in Frontend Development Processes through Design Systems and Component-Oriented Architecture (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/innovation-in-frontend-development-processes-through-design-systems-and-component-oriented-architecture</link>
-        <dc:date>2024-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webの潮流から考える、フロントエンドの溢れんばかりの 魅力とフロントエンドエンジニアの役目 (NishimuraWataru,@_n13u_)</title>
-        <link>https://www.docswell.com/s/_n13u_/57RV6J-2024-08-24-025033</link>
-        <dc:date>2024-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptで 負荷テストを書こう 〜k6のシングルバイナリの秘密〜 (Minoru Takeuchi)</title>
-        <link>https://speakerdeck.com/dora1998/typescriptte-fu-he-tesutowoshu-kou-k6nosinkuruhainarinomi-mi</link>
-        <dc:date>2024-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10年もののjQueryフロントエンドを良くしていくための道筋 (ぺんた / 菅原 政行,@plageoj)</title>
-        <link>https://www.docswell.com/s/plageoj/KR2XJ3-10-yo-jquery</link>
-        <dc:date>2024-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ESLint Rule により事業, 技術ドメインに沿った制約と誓約を敷衍させるアプローチのすゝめ (Shinobu Hayashi)</title>
-        <link>https://speakerdeck.com/shinyaigeek/eslint-rule-niyorishi-ye-ji-shu-domeinniyan-tutazhi-yue-toshi-yue-wofu-yan-saseruapurotinosu-me-796c5458-d929-455c-90cf-f4914b91621f</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
