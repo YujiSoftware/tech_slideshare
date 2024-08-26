@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自己組織化の真価を引き出す EM of EMsのしごと (Yuu Igarashi)</title>
+        <link>https://speakerdeck.com/yigarashi/zi-ji-zu-zhi-hua-nozhen-jia-woyin-kichu-su-em-of-emsnosigoto</link>
+        <dc:date>2024-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Playwrightから始めるVisual Regression Testingのススメ by とっと (totto2727)</title>
         <link>https://speakerdeck.com/totto2727/playwrightkarashi-meruvisual-regression-testingnosusume-by-totuto</link>
         <dc:date>2024-08-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>現代のVueとTypeScript - 型安全の活用術 (minako-ph)</title>
         <link>https://speakerdeck.com/minako__ph/xian-dai-novuetotypescript-xing-an-quan-nohuo-yong-shu</link>
-        <dc:date>2024-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Component-Driven Design &amp; Development (sakito)</title>
-        <link>https://speakerdeck.com/sakito/component-driven-design-and-development</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
