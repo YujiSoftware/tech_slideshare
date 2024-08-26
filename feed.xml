@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>名刺アプリ「Eight」におけるFrontend Ops (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20210221</link>
+        <dc:date>2024-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自己組織化の真価を引き出す EM of EMsのしごと (Yuu Igarashi)</title>
         <link>https://speakerdeck.com/yigarashi/zi-ji-zu-zhi-hua-nozhen-jia-woyin-kichu-su-em-of-emsnosigoto</link>
         <dc:date>2024-08-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ECMAScript仕様を読むのに必要な知識 - ダイジェスト版 (syumai)</title>
         <link>https://speakerdeck.com/syumai/ecmascriptshi-yang-wodu-munonibi-yao-nazhi-shi-daiziesutoban</link>
-        <dc:date>2024-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現代のVueとTypeScript - 型安全の活用術 (minako-ph)</title>
-        <link>https://speakerdeck.com/minako__ph/xian-dai-novuetotypescript-xing-an-quan-nohuo-yong-shu</link>
         <dc:date>2024-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
