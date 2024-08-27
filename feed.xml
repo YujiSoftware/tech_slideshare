@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Linterからはじめるa11y (nacal)</title>
+        <link>https://speakerdeck.com/nacal/linterkarahazimerua11y</link>
+        <dc:date>2024-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>3-shake SRE Tech Talk #10 LLMのO11yに触れる (abnoumaru)</title>
         <link>https://speakerdeck.com/abnoumaru/3-shake-sre-tech-talk-number-10-llmnoo11ynihong-reru</link>
         <dc:date>2024-08-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エッジはフロントエンドなのか？ バックエンドなのか？ について考えてみる (AijiUejima)</title>
         <link>https://speakerdeck.com/aiji42/etuzihahurontondonanoka-batukuendonanoka-nituitekao-etemiru</link>
-        <dc:date>2024-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Swift 6のTyped throwsとSwiftにおけるエラーハンドリングの全体像を学ぶ (Yuta Koshizawa)</title>
-        <link>https://speakerdeck.com/koher/swift-6notyped-throwstoswiftniokeruerahandoringunoquan-ti-xiang-woxue-bu</link>
         <dc:date>2024-08-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
