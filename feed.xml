@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ブラウザはどのようにしてテキストを描画しているのか？――Chromiumにみるテキスト描画の深淵</title>
+        <link>https://docs.google.com/presentation/d/1-OyytTBfOI9vs22Xbqx3PkvUcnFQEJEOWKiJzh1h_RY/preview</link>
+        <dc:date>2024-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>論文紹介 / The Llama 3 Herd of Models (Kyosuke Nishida)</title>
+        <link>https://speakerdeck.com/kyoun/the-llama-3-herd-of-models</link>
+        <dc:date>2024-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Gyazoの最近の生成AI関連の研究開発を全部見せます (yuiseki)</title>
         <link>https://speakerdeck.com/yuiseki/gyazonozui-jin-nosheng-cheng-aiguan-lian-noyan-jiu-kai-fa-woquan-bu-jian-semasu</link>
         <dc:date>2024-08-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Cloudflareスタックで月間1200万UUの経済メディアにアバター画像生成サービスを作る / Cloudflare Developer Platform for AI avatar service (Yukiya Nakagawa)</title>
         <link>https://speakerdeck.com/nkzn/cloudflare-developer-platform-for-ai-avatar-service</link>
-        <dc:date>2024-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BasicBasic認証 (sadnessOjisan)</title>
-        <link>https://speakerdeck.com/sadnessojisan/basicbasicren-zheng</link>
-        <dc:date>2024-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>どうしてこうなった？から理解するActive Recordの関連の裏側 (Shinichi Maeshima)</title>
-        <link>https://speakerdeck.com/willnet/dousitekounatuta-karali-jie-suruactive-recordnoguan-lian-noli-ce-3dad1d86-eb47-4b73-9c69-34b66919315b</link>
         <dc:date>2024-08-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
