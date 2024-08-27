@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Datadogマニアック機能活用術 (Shota Iwami)</title>
+        <link>https://speakerdeck.com/biwashi/mastering-datadogs-advanced-features</link>
+        <dc:date>2024-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ブラウザはどのようにしてテキストを描画しているのか？――Chromiumにみるテキスト描画の深淵</title>
         <link>https://docs.google.com/presentation/d/1-OyytTBfOI9vs22Xbqx3PkvUcnFQEJEOWKiJzh1h_RY/preview</link>
         <dc:date>2024-08-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>dRuby 入門者によるあなたの身近にあるdRuby 入門 (makicamel)</title>
         <link>https://speakerdeck.com/makicamel/druby-ru-men-zhe-niyoruanatanoshen-jin-niarudruby-ru-men</link>
-        <dc:date>2024-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflareスタックで月間1200万UUの経済メディアにアバター画像生成サービスを作る / Cloudflare Developer Platform for AI avatar service (Yukiya Nakagawa)</title>
-        <link>https://speakerdeck.com/nkzn/cloudflare-developer-platform-for-ai-avatar-service</link>
         <dc:date>2024-08-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
