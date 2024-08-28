@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Rustではじめる負荷試験 (skanehira)</title>
+        <link>https://speakerdeck.com/skanehira/rusttehasimerufu-he-shi-yan</link>
+        <dc:date>2024-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアリングマネージャーが紐解く、事業視点から組織文化まで、包括的アプローチの探求 / READYFOR (Ryohei Kumagai)</title>
         <link>https://speakerdeck.com/9ma3r/em</link>
         <dc:date>2024-08-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Gyazoの最近の生成AI関連の研究開発を全部見せます (yuiseki)</title>
         <link>https://speakerdeck.com/yuiseki/gyazonozui-jin-nosheng-cheng-aiguan-lian-noyan-jiu-kai-fa-woquan-bu-jian-semasu</link>
-        <dc:date>2024-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>日本の医療システムの再構築を目指すスタートアップ「カケハシ」のフロントエンド領域でのチャレンジ / Challenges in the frontend domain at “Kakehashi” (kakehashi)</title>
-        <link>https://speakerdeck.com/kakehashi/challenges-in-the-frontend-domain-at-kakehashi</link>
         <dc:date>2024-08-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
