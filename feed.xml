@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>採用イベント参考資料 (ABEJA)</title>
+        <link>https://speakerdeck.com/abeja/cai-yong-ibentocan-kao-zi-liao</link>
+        <dc:date>2024-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>KAUCHE Loves Go (Yuki Ito)</title>
+        <link>https://speakerdeck.com/110y/kauche-loves-go</link>
+        <dc:date>2024-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DuckDB雑紹介 (Ktz)</title>
+        <link>https://speakerdeck.com/ktz/duckdbza-shao-jie</link>
+        <dc:date>2024-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>長期運用プロダクトの開発速度を維持し続けるためのリファクタリング実践例 (Wataru)</title>
         <link>https://speakerdeck.com/wataruss/chang-qi-yun-yong-purodakutonokai-fa-su-du-wowei-chi-sisok-kerutamenorihuakutaringushi-jian-li</link>
         <dc:date>2024-08-27T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>フロントエンドカンファレンス北海道2024 『小規模サイトでも使えるVite 〜HTMLコーディングをよりスマートに〜』長谷川広武（ハム） (h2ham)</title>
         <link>https://speakerdeck.com/h2ham/hurontoendokanhuarensubei-hai-dao-2024-xiao-gui-mo-saitodemoshi-eruvite-htmlkodeinguwoyorisumatoni-chang-gu-chuan-guang-wu-hamu</link>
         <dc:date>2024-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Embers of Autoregression: Understanding Large Language Models Through the Problem They are Trained to Solve (Sho Yokoi)</title>
-        <link>https://speakerdeck.com/eumesy/embers-of-autoregression-understanding-large-language-models-through-the-problem-they-are-trained-to-solve</link>
-        <dc:date>2024-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>存在感が薄い?!意外とがんばってるさくらインターネットFEチーム / Frontend Conference 2024 (ダーシノ)</title>
-        <link>https://speakerdeck.com/bcrikko/frontend-conference-2024</link>
-        <dc:date>2024-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Remix Way を外れる自由 (ONDA, Takashi)</title>
-        <link>https://speakerdeck.com/takonda/freedom-to-minimize-dependencies-remix</link>
-        <dc:date>2024-08-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
