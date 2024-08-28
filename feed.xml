@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Rubyのobject_id (Masaki Hara)</title>
+        <link>https://speakerdeck.com/qnighy/rubynoobject-id</link>
+        <dc:date>2024-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>仮想ファイルシステムを導入して開発環境のストレージ課題を解消する (SEGADevTech)</title>
+        <link>https://speakerdeck.com/segadevtech/jia-xiang-huairusisutemuwodao-ru-sitekai-fa-huan-jing-nosutorezike-ti-wojie-xiao-suru</link>
+        <dc:date>2024-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>connect-go で面倒くささと戦う / 2024-08-27 #newmo_layerx_go (Masayuki Izumi)</title>
+        <link>https://speakerdeck.com/izumin5210/2024-08-27-number-newmo-layerx-go</link>
+        <dc:date>2024-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS IAM Identity Center議論会 〜 認証認可結合モデルと認証認可分離モデル / 20240827-jawsug-arch-iam_identity_center (opelab)</title>
+        <link>https://speakerdeck.com/opelab/20240827-jawsug-arch-iam-identity-center</link>
+        <dc:date>2024-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>pgvectorを使ってChatGPTとPostgreSQLを連携してみよう！（PostgreSQL Conference Japan 2023 発表資料） (NTT DATA Technology &amp; Innovation)</title>
+        <link>https://www.slideshare.net/slideshow/postgresql-pgvector-chatgpt-pgcon23j-nttdata/263745966</link>
+        <dc:date>2024-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rustではじめる負荷試験 (skanehira)</title>
         <link>https://speakerdeck.com/skanehira/rusttehasimerufu-he-shi-yan</link>
         <dc:date>2024-08-27T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>チームが自己組織化してから敢えて専任スクラムマスターを置いてみたらめちゃめちゃワークした話 / How bringing in a Scrum Master to an already self-organized team totally worked out (HirokiChida)</title>
         <link>https://speakerdeck.com/hc0208/how-bringing-in-a-scrum-master-to-an-already-self-organized-team-totally-worked-out</link>
-        <dc:date>2024-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Datadogと末永くお付き合いするためのコスト最適化TIPS (tatsuo48,@tatsuo4848)</title>
-        <link>https://www.docswell.com/s/tatsuo48/5MX1DJ-datadog-cost-optimization-tips</link>
-        <dc:date>2024-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Datadogマニアック機能活用術 (Shota Iwami)</title>
-        <link>https://speakerdeck.com/biwashi/mastering-datadogs-advanced-features</link>
-        <dc:date>2024-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ブラウザはどのようにしてテキストを描画しているのか？――Chromiumにみるテキスト描画の深淵</title>
-        <link>https://docs.google.com/presentation/d/1-OyytTBfOI9vs22Xbqx3PkvUcnFQEJEOWKiJzh1h_RY/preview</link>
-        <dc:date>2024-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>論文紹介 / The Llama 3 Herd of Models (Kyosuke Nishida)</title>
-        <link>https://speakerdeck.com/kyoun/the-llama-3-herd-of-models</link>
-        <dc:date>2024-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Gyazoの最近の生成AI関連の研究開発を全部見せます (yuiseki)</title>
-        <link>https://speakerdeck.com/yuiseki/gyazonozui-jin-nosheng-cheng-aiguan-lian-noyan-jiu-kai-fa-woquan-bu-jian-semasu</link>
         <dc:date>2024-08-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
