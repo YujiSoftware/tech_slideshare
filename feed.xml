@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ことばをそろえる / Bridging the Terminology Gap (Amane Suzuki)</title>
+        <link>https://speakerdeck.com/amaotone/bridging-the-terminology-gap</link>
+        <dc:date>2024-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>技術広報戦略の立て方 (HireRoo,@hirerooinc)</title>
         <link>https://www.docswell.com/s/hireroo/56VYW4-tech_pr_strategy</link>
         <dc:date>2024-08-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DuckDB雑紹介 (Ktz)</title>
         <link>https://speakerdeck.com/ktz/duckdbza-shao-jie</link>
-        <dc:date>2024-08-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>長期運用プロダクトの開発速度を維持し続けるためのリファクタリング実践例 (Wataru)</title>
-        <link>https://speakerdeck.com/wataruss/chang-qi-yun-yong-purodakutonokai-fa-su-du-wowei-chi-sisok-kerutamenorihuakutaringushi-jian-li</link>
         <dc:date>2024-08-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
