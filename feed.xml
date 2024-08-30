@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RAGにベクトルDBは必要ない！DBも不要で運用めちゃ楽な RAG Chatbot を作った話 (forrep)</title>
+        <link>https://speakerdeck.com/forrep/rag-does-not-need-a-vector-db</link>
+        <dc:date>2024-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GIS入門 - 地理情報をiOSで活用する (Shuichi Tsutsumi,@shu223)</title>
         <link>https://www.docswell.com/s/shu223/KN1RGE-GIS-iOS</link>
         <dc:date>2024-08-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>pgvectorを使ってChatGPTとPostgreSQLを連携してみよう！（PostgreSQL Conference Japan 2023 発表資料） (NTT DATA Technology &amp; Innovation)</title>
         <link>https://www.slideshare.net/slideshow/postgresql-pgvector-chatgpt-pgcon23j-nttdata/263745966</link>
         <dc:date>2024-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rustではじめる負荷試験 (skanehira)</title>
-        <link>https://speakerdeck.com/skanehira/rusttehasimerufu-he-shi-yan</link>
-        <dc:date>2024-08-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
