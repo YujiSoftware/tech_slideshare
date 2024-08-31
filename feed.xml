@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240828_EM_Fest (Kazuki Maeda)</title>
+        <link>https://speakerdeck.com/kzkmaeda/20240828-em-fest</link>
+        <dc:date>2024-08-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ECMAScript、Web標準の型はどう管理されているか / How ECMAScript and Web standards types are maintained (petamoriken / 森建)</title>
         <link>https://speakerdeck.com/petamoriken/how-ecmascript-and-web-standards-types-are-maintained</link>
         <dc:date>2024-08-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>connect-go で面倒くささと戦う / 2024-08-27 #newmo_layerx_go (Masayuki Izumi)</title>
         <link>https://speakerdeck.com/izumin5210/2024-08-27-number-newmo-layerx-go</link>
-        <dc:date>2024-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS IAM Identity Center議論会 〜 認証認可結合モデルと認証認可分離モデル / 20240827-jawsug-arch-iam_identity_center (opelab)</title>
-        <link>https://speakerdeck.com/opelab/20240827-jawsug-arch-iam-identity-center</link>
         <dc:date>2024-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
