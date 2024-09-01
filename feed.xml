@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>『ドメイン駆動設計をはじめよう』中核の業務領域 (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/learning-domain-driven-design-2024-8-bpstuty-204</link>
+        <dc:date>2024-08-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Hono・Prisma・AWSでGeoなAPI開発 (nokonoko1203)</title>
         <link>https://speakerdeck.com/nokonoko1203/honoprismaawstegeonaapikai-fa</link>
         <dc:date>2024-08-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Rubyのobject_id (Masaki Hara)</title>
         <link>https://speakerdeck.com/qnighy/rubynoobject-id</link>
-        <dc:date>2024-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仮想ファイルシステムを導入して開発環境のストレージ課題を解消する (SEGADevTech)</title>
-        <link>https://speakerdeck.com/segadevtech/jia-xiang-huairusisutemuwodao-ru-sitekai-fa-huan-jing-nosutorezike-ti-wojie-xiao-suru</link>
         <dc:date>2024-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
