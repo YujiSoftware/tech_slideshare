@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>My own Ruby, thereafter (monochrome)</title>
+        <link>https://speakerdeck.com/sisshiki1969/my-own-ruby-thereafter</link>
+        <dc:date>2024-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>詳解UIWindow (Atsuya Sato)</title>
+        <link>https://speakerdeck.com/natmark/iosdc-japan-2024-uiwindow</link>
+        <dc:date>2024-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【拡散モデル勉強会】Diffusion Models for Non-autoregressive Text Generation: A Survey (Deep Learning JP,@DL_Hacks)</title>
         <link>https://www.docswell.com/s/DeepLearning2023/K222LM-2024-08-30-143002</link>
         <dc:date>2024-08-31T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>技術広報戦略の立て方 (HireRoo,@hirerooinc)</title>
         <link>https://www.docswell.com/s/hireroo/56VYW4-tech_pr_strategy</link>
-        <dc:date>2024-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>私の考える初学者がBlazorできるまでの学習方法 (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/si-nokao-eruchu-xue-zhe-gablazordekirumadenoxue-xi-fang-fa</link>
-        <dc:date>2024-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Datadogの便利な使い方 - 意外と知らない？CoScreenとCloudcraft (Taiji HAGINO)</title>
-        <link>https://speakerdeck.com/taijihagino/datadog-coscreen-cloudcraft</link>
         <dc:date>2024-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
