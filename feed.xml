@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>visionOSで空間演出を実現する方法 (satoshi0212,@shmdevelop)</title>
+        <link>https://www.docswell.com/s/satoshi0212/5L1L8D-2024-08-24-135302</link>
+        <dc:date>2024-08-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>『ドメイン駆動設計をはじめよう』中核の業務領域 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/learning-domain-driven-design-2024-8-bpstuty-204</link>
         <dc:date>2024-08-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スタートアップにおけるプロダクト志向なエンジニア組織作り (前編) (madox)</title>
         <link>https://speakerdeck.com/madoxten/sutatoatupuniokerupurodakutozhi-xiang-naenziniazu-zhi-zuo-ri</link>
-        <dc:date>2024-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rubyのobject_id (Masaki Hara)</title>
-        <link>https://speakerdeck.com/qnighy/rubynoobject-id</link>
         <dc:date>2024-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
