@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践的なバグバウンティ入門 (morioka12)</title>
+        <link>https://speakerdeck.com/scgajge12/shi-jian-de-nabagubaunteiru-men</link>
+        <dc:date>2024-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>秘伝：脆弱性診断をうまく活用してセキュリティを確保するには (Riotaro OKADA)</title>
         <link>https://speakerdeck.com/okdt/secrets-of-utilizing-zeijakusei-shindan</link>
         <dc:date>2024-09-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>チーム一丸で取り組む採用とDevRel ~Engineering Office誕生の背景と取り組み~ / Engineering Office at  CoDMON  (コドモン開発チーム)</title>
         <link>https://speakerdeck.com/codmoninc/engineering-office-at-codmon</link>
-        <dc:date>2024-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>私たちのプロダクトにとってのよいテスト (naco)</title>
-        <link>https://speakerdeck.com/naco/si-tatinohurotakutonitotutenoyoitesuto</link>
         <dc:date>2024-08-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
