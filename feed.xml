@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践 Advanced CallKit 〜快適な通話の実現に向けて〜 (GO Inc. dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/shi-jian-advanced-callkit-kuai-shi-natong-hua-noshi-xian-nixiang-kete</link>
+        <dc:date>2024-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>My own Ruby, thereafter (monochrome)</title>
         <link>https://speakerdeck.com/sisshiki1969/my-own-ruby-thereafter</link>
         <dc:date>2024-09-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ことばをそろえる / Bridging the Terminology Gap (Amane Suzuki)</title>
         <link>https://speakerdeck.com/amaotone/bridging-the-terminology-gap</link>
-        <dc:date>2024-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術広報戦略の立て方 (HireRoo,@hirerooinc)</title>
-        <link>https://www.docswell.com/s/hireroo/56VYW4-tech_pr_strategy</link>
         <dc:date>2024-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
