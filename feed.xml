@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby Parser progress report 2024 (yui-knk)</title>
+        <link>https://speakerdeck.com/yui_knk/ruby-parser-progress-report-2024</link>
+        <dc:date>2024-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アウトプット＝アウトカムではない世界で開発生産性を考える  (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/autopututo-equals-autokamudehanaishi-jie-dekai-fa-sheng-chan-xing-wokao-eru</link>
         <dc:date>2024-09-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RAGにベクトルDBは必要ない！DBも不要で運用めちゃ楽な RAG Chatbot を作った話 (forrep)</title>
         <link>https://speakerdeck.com/forrep/rag-does-not-need-a-vector-db</link>
-        <dc:date>2024-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GIS入門 - 地理情報をiOSで活用する (Shuichi Tsutsumi,@shu223)</title>
-        <link>https://www.docswell.com/s/shu223/KN1RGE-GIS-iOS</link>
         <dc:date>2024-08-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
