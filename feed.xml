@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMに日本語テキストを学習させる意義 (Koshiro Saito)</title>
+        <link>https://speakerdeck.com/ksaito/llmniri-ben-yu-tekisutowoxue-xi-saseruyi-yi</link>
+        <dc:date>2024-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby Parser progress report 2024 (yui-knk)</title>
         <link>https://speakerdeck.com/yui_knk/ruby-parser-progress-report-2024</link>
         <dc:date>2024-09-02T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ECMAScript、Web標準の型はどう管理されているか / How ECMAScript and Web standards types are maintained (petamoriken / 森建)</title>
         <link>https://speakerdeck.com/petamoriken/how-ecmascript-and-web-standards-types-are-maintained</link>
         <dc:date>2024-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RAGにベクトルDBは必要ない！DBも不要で運用めちゃ楽な RAG Chatbot を作った話 (forrep)</title>
-        <link>https://speakerdeck.com/forrep/rag-does-not-need-a-vector-db</link>
-        <dc:date>2024-08-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
