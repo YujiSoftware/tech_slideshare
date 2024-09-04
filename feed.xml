@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LR で JSON パーサーを作る / Coding LR JSON Parser (Junichi Kobayashi)</title>
+        <link>https://speakerdeck.com/junk0612/coding-json-lr-parser</link>
+        <dc:date>2024-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>健康第一！MetricKitで始めるアプリの健康診断 / App Health Checkups Starting with MetricKit  (nekowen)</title>
+        <link>https://speakerdeck.com/nekowen/app-health-checkups-starting-with-metrickit</link>
+        <dc:date>2024-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ROSからROS 2への切り替えのときの作業と考えたこと (Ryuichi Ueda,@ryuichiueda)</title>
         <link>https://www.docswell.com/s/ryuichiueda/54VVYD-2024-09-03-ros-ug</link>
         <dc:date>2024-09-03T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>【拡散モデル勉強会】Diffusion Models for Non-autoregressive Text Generation: A Survey (Deep Learning JP,@DL_Hacks)</title>
         <link>https://www.docswell.com/s/DeepLearning2023/K222LM-2024-08-30-143002</link>
-        <dc:date>2024-08-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>visionOSで空間演出を実現する方法 (satoshi0212,@shmdevelop)</title>
-        <link>https://www.docswell.com/s/satoshi0212/5L1L8D-2024-08-24-135302</link>
-        <dc:date>2024-08-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『ドメイン駆動設計をはじめよう』中核の業務領域 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/learning-domain-driven-design-2024-8-bpstuty-204</link>
         <dc:date>2024-08-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
