@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フィードバックされやすい人になろう (Ryuya Nakamura)</title>
+        <link>https://speakerdeck.com/nrryuya/huitohatukusareyasuiren-ninarou</link>
+        <dc:date>2024-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PlaywrightによるE2Eテスト入門 / Introduction to E2E Testing with Playwright  (Hiroki Takeda)</title>
+        <link>https://speakerdeck.com/rhumie/introduction-to-e2e-testing-with-playwright</link>
+        <dc:date>2024-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLM を現場で評価する (Asei Sugiyama)</title>
+        <link>https://speakerdeck.com/asei/llm-woxian-chang-deping-jia-suru</link>
+        <dc:date>2024-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LR で JSON パーサーを作る / Coding LR JSON Parser (Junichi Kobayashi)</title>
         <link>https://speakerdeck.com/junk0612/coding-json-lr-parser</link>
         <dc:date>2024-09-03T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>実践 Advanced CallKit 〜快適な通話の実現に向けて〜 (GO Inc. dev)</title>
         <link>https://speakerdeck.com/mot_techtalk/shi-jian-advanced-callkit-kuai-shi-natong-hua-noshi-xian-nixiang-kete</link>
         <dc:date>2024-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>My own Ruby, thereafter (monochrome)</title>
-        <link>https://speakerdeck.com/sisshiki1969/my-own-ruby-thereafter</link>
-        <dc:date>2024-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>詳解UIWindow (Atsuya Sato)</title>
-        <link>https://speakerdeck.com/natmark/iosdc-japan-2024-uiwindow</link>
-        <dc:date>2024-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【拡散モデル勉強会】Diffusion Models for Non-autoregressive Text Generation: A Survey (Deep Learning JP,@DL_Hacks)</title>
-        <link>https://www.docswell.com/s/DeepLearning2023/K222LM-2024-08-30-143002</link>
-        <dc:date>2024-08-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
