@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ROSからROS 2への切り替えのときの作業と考えたこと (Ryuichi Ueda,@ryuichiueda)</title>
+        <link>https://www.docswell.com/s/ryuichiueda/54VVYD-2024-09-03-ros-ug</link>
+        <dc:date>2024-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GoのIteratorに詳しくなってしまう (Shuya Inada)</title>
         <link>https://speakerdeck.com/inatonix/gonoiteratornixiang-sikunatutesimau</link>
         <dc:date>2024-09-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>『ドメイン駆動設計をはじめよう』中核の業務領域 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/learning-domain-driven-design-2024-8-bpstuty-204</link>
-        <dc:date>2024-08-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hono・Prisma・AWSでGeoなAPI開発 (nokonoko1203)</title>
-        <link>https://speakerdeck.com/nokonoko1203/honoprismaawstegeonaapikai-fa</link>
         <dc:date>2024-08-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
