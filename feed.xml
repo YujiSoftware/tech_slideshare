@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GoのIteratorに詳しくなってしまう (Shuya Inada)</title>
+        <link>https://speakerdeck.com/inatonix/gonoiteratornixiang-sikunatutesimau</link>
+        <dc:date>2024-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rubyとクリエイティブコーディングの輪の広がり / The Growing Circle of Ruby and Creative Coding (chobishiba)</title>
         <link>https://speakerdeck.com/chobishiba/the-growing-circle-of-ruby-and-creative-coding</link>
         <dc:date>2024-09-02T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Hono・Prisma・AWSでGeoなAPI開発 (nokonoko1203)</title>
         <link>https://speakerdeck.com/nokonoko1203/honoprismaawstegeonaapikai-fa</link>
         <dc:date>2024-08-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240828_EM_Fest (Kazuki Maeda)</title>
-        <link>https://speakerdeck.com/kzkmaeda/20240828-em-fest</link>
-        <dc:date>2024-08-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
