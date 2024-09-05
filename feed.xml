@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>null or undefined (Susisu)</title>
+        <link>https://speakerdeck.com/susisu/null-or-undefined</link>
+        <dc:date>2024-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ニューラルネットワークの損失地形 (佐藤竜馬 (Ryoma Sato))</title>
         <link>https://speakerdeck.com/joisino/landscape</link>
         <dc:date>2024-09-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GPSでどのようにして現在地が分かるのか (ta.inoue)</title>
         <link>https://speakerdeck.com/ta_inoue/gpstetonoyounisitexian-zai-di-kafen-karunoka</link>
-        <dc:date>2024-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践的なバグバウンティ入門 (morioka12)</title>
-        <link>https://speakerdeck.com/scgajge12/shi-jian-de-nabagubaunteiru-men</link>
         <dc:date>2024-09-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
