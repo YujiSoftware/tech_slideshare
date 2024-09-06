@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ウェブエンジニアでもWasmを使いたい! (asuka)</title>
+        <link>https://speakerdeck.com/askua/uebuenziniademowasmwoshi-itai</link>
+        <dc:date>2024-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TailwindCSSで学ぶ技術批判の気をつけ方 (imaimai17468)</title>
         <link>https://speakerdeck.com/imaimai17468/tailwindcssdexue-buji-shu-pi-pan-noqi-wotukefang</link>
         <dc:date>2024-09-04T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>モバイルゲームの「大規模な開発」かつ「高頻度の更新」を実現するための開発環境整備の取り組み (MorioImai)</title>
         <link>https://www.slideshare.net/slideshow/ss-238391956/238391956</link>
         <dc:date>2024-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Swift6からのTyped throws (Toshiyana)</title>
-        <link>https://speakerdeck.com/toshiyana36/swift6karanotyped-throws</link>
-        <dc:date>2024-09-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
