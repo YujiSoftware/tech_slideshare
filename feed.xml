@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>技術ブログや登壇資料を秒で作るコツ伝授します (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/ji-shu-buroguyadeng-tan-zi-liao-womiao-dezuo-rukotuchuan-shou-simasu</link>
+        <dc:date>2024-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ウェブエンジニアでもWasmを使いたい! (asuka)</title>
         <link>https://speakerdeck.com/askua/uebuenziniademowasmwoshi-itai</link>
         <dc:date>2024-09-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>チームトポロジーに見るKubernetes×PlatformEngineeringの目指す姿 / Team Topologies Kubernetes Platform Engineering (Shintaro Kitamura)</title>
         <link>https://speakerdeck.com/skitamura7446/team-topologies-kubernetes-platform-engineering</link>
-        <dc:date>2024-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モバイルゲームの「大規模な開発」かつ「高頻度の更新」を実現するための開発環境整備の取り組み (MorioImai)</title>
-        <link>https://www.slideshare.net/slideshow/ss-238391956/238391956</link>
         <dc:date>2024-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
