@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>医療分野におけるLLMの現状と応用可能性について (kento sugimoto)</title>
+        <link>https://speakerdeck.com/kento1109/yi-liao-fen-ye-niokerullmnoxian-zhuang-toying-yong-ke-neng-xing-nituite</link>
+        <dc:date>2024-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュリティ監視の内製化 効率とリスク (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/in-house_security_monitoring_efficiency_and_risk</link>
         <dc:date>2024-09-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLMに日本語テキストを学習させる意義 (Koshiro Saito)</title>
         <link>https://speakerdeck.com/ksaito/llmniri-ben-yu-tekisutowoxue-xi-saseruyi-yi</link>
-        <dc:date>2024-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby Parser progress report 2024 (yui-knk)</title>
-        <link>https://speakerdeck.com/yui_knk/ruby-parser-progress-report-2024</link>
         <dc:date>2024-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
