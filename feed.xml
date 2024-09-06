@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>第42回ロボティクス勉強会：実環境を手軽にシミュレータ環境に持ってくるpointcloud2gazebo (dandelion,@dandelion1124)</title>
+        <link>https://www.docswell.com/s/dandelion1124/ZENDP8-2024-02-13-094148</link>
+        <dc:date>2024-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>技術ブログや登壇資料を秒で作るコツ伝授します (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/ji-shu-buroguyadeng-tan-zi-liao-womiao-dezuo-rukotuchuan-shou-simasu</link>
         <dc:date>2024-09-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ビジネス貢献を目指して 〜開発者体験から始める開発生産性向上～ (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/bizinesugong-xian-womu-zhi-site-kai-fa-zhe-ti-yan-karashi-merukai-fa-sheng-chan-xing-xiang-shang</link>
-        <dc:date>2024-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームトポロジーに見るKubernetes×PlatformEngineeringの目指す姿 / Team Topologies Kubernetes Platform Engineering (Shintaro Kitamura)</title>
-        <link>https://speakerdeck.com/skitamura7446/team-topologies-kubernetes-platform-engineering</link>
         <dc:date>2024-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
