@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アクセシビリティチェックを後回しにしないためのツールを作ってる</title>
+        <link>https://docs.google.com/presentation/d/1vIlsbQN4Q-ewpKohdz1i0ZvOd0tZE78uHZf4yjGIt9o/preview</link>
+        <dc:date>2024-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>そして僕は粛々とサービスデザインをするだけ (Yoshiki Hayama,@storywriter)</title>
+        <link>https://www.slideshare.net/slideshow/ss-260462616/260462616</link>
+        <dc:date>2024-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自社開発した大規模言語モデルをどうプロダクションに乗せて運用していくか〜インフラ編〜 (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/20240906-cloud-operator-days-2024-pfn</link>
         <dc:date>2024-09-06T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>ウェブエンジニアでもWasmを使いたい! (asuka)</title>
         <link>https://speakerdeck.com/askua/uebuenziniademowasmwoshi-itai</link>
         <dc:date>2024-09-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TailwindCSSで学ぶ技術批判の気をつけ方 (imaimai17468)</title>
-        <link>https://speakerdeck.com/imaimai17468/tailwindcssdexue-buji-shu-pi-pan-noqi-wotukefang</link>
-        <dc:date>2024-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術広報のベーシックな話 (Ko Kazaana,@windhole)</title>
-        <link>https://www.docswell.com/s/windhole/5MXXVW-2024-09-04</link>
-        <dc:date>2024-09-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
