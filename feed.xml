@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜクラウドサービスで Web コンソールを提供するのか (did0es)</title>
+        <link>https://speakerdeck.com/shuta13/nazekuraudosabisude-web-konsoruwoti-gong-surunoka</link>
+        <dc:date>2024-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScriptとGraphQLを活用した変化に強いプロダクト作り (おおいし)</title>
         <link>https://speakerdeck.com/bicstone/graphql-2024-approach</link>
         <dc:date>2024-09-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLM を現場で評価する (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/llm-woxian-chang-deping-jia-suru</link>
-        <dc:date>2024-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LR で JSON パーサーを作る / Coding LR JSON Parser (Junichi Kobayashi)</title>
-        <link>https://speakerdeck.com/junk0612/coding-json-lr-parser</link>
         <dc:date>2024-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
