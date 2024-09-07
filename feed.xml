@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自社開発した大規模言語モデルをどうプロダクションに乗せて運用していくか〜インフラ編〜 (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/20240906-cloud-operator-days-2024-pfn</link>
+        <dc:date>2024-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>すぐに始めるAWSコスト削減。短期でできる改善策と長期的な運用負荷軽減への取り組み方を解説 (NCDC)</title>
+        <link>https://speakerdeck.com/ncdc/sugunishi-meruawskosutoxue-jian-duan-qi-dedekirugai-shan-ce-tochang-qi-de-nayun-yong-fu-he-qing-jian-henoqu-rizu-mifang-wojie-shuo</link>
+        <dc:date>2024-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>僕が思い描くTypeScriptの未来を勝手に先取りする (Yuku Kotani)</title>
+        <link>https://speakerdeck.com/yukukotani/my-own-typescript-future</link>
+        <dc:date>2024-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React Aria で実現する次世代のアクセシビリティ (mattsu-)</title>
+        <link>https://speakerdeck.com/ryo_manba/react-aria-deshi-xian-suruci-shi-dai-noakusesibiritei</link>
+        <dc:date>2024-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AIの二大潮流と自動運転 (Hidehisa Arai)</title>
+        <link>https://speakerdeck.com/koukyo1994/sheng-cheng-ainoer-da-chao-liu-tozi-dong-yun-zhuan</link>
+        <dc:date>2024-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>3ヶ月でできる！ 探査機自作ゼミ教材自作入門 (sksat)</title>
+        <link>https://speakerdeck.com/sksat/seccamp2024-s17-course-material-dev</link>
+        <dc:date>2024-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なぜクラウドサービスで Web コンソールを提供するのか (did0es)</title>
         <link>https://speakerdeck.com/shuta13/nazekuraudosabisude-web-konsoruwoti-gong-surunoka</link>
         <dc:date>2024-09-06T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>技術広報のベーシックな話 (Ko Kazaana,@windhole)</title>
         <link>https://www.docswell.com/s/windhole/5MXXVW-2024-09-04</link>
         <dc:date>2024-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>null or undefined (Susisu)</title>
-        <link>https://speakerdeck.com/susisu/null-or-undefined</link>
-        <dc:date>2024-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ニューラルネットワークの損失地形 (佐藤竜馬 (Ryoma Sato))</title>
-        <link>https://speakerdeck.com/joisino/landscape</link>
-        <dc:date>2024-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoとWASI~超入門~ (sugar)</title>
-        <link>https://speakerdeck.com/sugarcat7/gotowasi-chao-ru-men</link>
-        <dc:date>2024-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フィードバックされやすい人になろう (Ryuya Nakamura)</title>
-        <link>https://speakerdeck.com/nrryuya/huitohatukusareyasuiren-ninarou</link>
-        <dc:date>2024-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PlaywrightによるE2Eテスト入門 / Introduction to E2E Testing with Playwright  (Hiroki Takeda)</title>
-        <link>https://speakerdeck.com/rhumie/introduction-to-e2e-testing-with-playwright</link>
-        <dc:date>2024-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM を現場で評価する (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/llm-woxian-chang-deping-jia-suru</link>
-        <dc:date>2024-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
