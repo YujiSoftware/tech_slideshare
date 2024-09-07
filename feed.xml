@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScriptとGraphQLを活用した変化に強いプロダクト作り (おおいし)</title>
+        <link>https://speakerdeck.com/bicstone/graphql-2024-approach</link>
+        <dc:date>2024-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>状態管理ライブラリZustandの導入から運用まで (daiki)</title>
+        <link>https://speakerdeck.com/k1tikurisu/zhuang-tai-guan-li-raiburarizustandnodao-ru-karayun-yong-made</link>
+        <dc:date>2024-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Next.jsでクエリパラメータを楽に扱おう nuqsを紹介！ (imaimai17468)</title>
+        <link>https://speakerdeck.com/imaimai17468/next-dot-jsdekueriparametawole-nixi-ou-nuqswoshao-jie</link>
+        <dc:date>2024-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>shadcn/uiで考えるコンポーネント設計 (ryokatsuse)</title>
+        <link>https://speakerdeck.com/ryokatsuse/uitekao-erukonhonentoshe-ji</link>
+        <dc:date>2024-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マルチプロダクトでのプロダクトマネージャーのリアル / RAKUSTechCon2024_Inagaki (Rakus_Dev)</title>
         <link>https://speakerdeck.com/rakus_dev/rakustechcon2024-inagaki</link>
         <dc:date>2024-09-06T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>LR で JSON パーサーを作る / Coding LR JSON Parser (Junichi Kobayashi)</title>
         <link>https://speakerdeck.com/junk0612/coding-json-lr-parser</link>
         <dc:date>2024-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>健康第一！MetricKitで始めるアプリの健康診断 / App Health Checkups Starting with MetricKit  (nekowen)</title>
-        <link>https://speakerdeck.com/nekowen/app-health-checkups-starting-with-metrickit</link>
-        <dc:date>2024-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ROSからROS 2への切り替えのときの作業と考えたこと (Ryuichi Ueda,@ryuichiueda)</title>
-        <link>https://www.docswell.com/s/ryuichiueda/54VVYD-2024-09-03-ros-ug</link>
-        <dc:date>2024-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoのIteratorに詳しくなってしまう (Shuya Inada)</title>
-        <link>https://speakerdeck.com/inatonix/gonoiteratornixiang-sikunatutesimau</link>
-        <dc:date>2024-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rubyとクリエイティブコーディングの輪の広がり / The Growing Circle of Ruby and Creative Coding (chobishiba)</title>
-        <link>https://speakerdeck.com/chobishiba/the-growing-circle-of-ruby-and-creative-coding</link>
-        <dc:date>2024-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
