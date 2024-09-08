@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>What is Parser (yui-knk)</title>
+        <link>https://speakerdeck.com/yui_knk/what-is-parser</link>
+        <dc:date>2024-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロが生実演！ 「ユーザーインタビュー」の深掘りテクニックを大公開！ (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/slideshow/ss-259728052/259728052</link>
         <dc:date>2024-09-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>セキュリティ監視の内製化 効率とリスク (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/in-house_security_monitoring_efficiency_and_risk</link>
-        <dc:date>2024-09-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>音声AIエージェントの世界とRetell AI入門 /  Introduction to the World of Voice AI Agents and Retell AI (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/introduction-to-the-world-of-voice-ai-agents-and-retell-ai</link>
         <dc:date>2024-09-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
