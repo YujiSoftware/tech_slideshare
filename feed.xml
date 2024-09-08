@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240908_民主主義を支える技術</title>
+        <link>https://docs.google.com/presentation/d/1g76UaPUQjb7ndkrNSGRcbXziUtFkvg1Wt2lk0ZzRDTo/preview</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>otel4s + マクロでの 半自動計装</title>
+        <link>https://docs.google.com/presentation/d/1JFe-nYRwCSFEle10UY5YQKwF1RTCXCcXKBH5G6Bxgnk/preview</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Findy Development Productivity Conference (Kazutoshi Ono)</title>
+        <link>https://speakerdeck.com/lalha/findy-development-productivity-conference</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>疎通2024 (sadnessOjisan)</title>
+        <link>https://speakerdeck.com/sadnessojisan/shu-tong-2024</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ZIOでサクッとFunctionalにETL (wakye5815)</title>
+        <link>https://speakerdeck.com/wakye5815/ziodesakututofunctionalnietl</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Scala におけるコンパイラエラーとの付き合い方 (Chen)</title>
+        <link>https://speakerdeck.com/chencmd/scala-niokerukonpairaeratonofu-kihe-ifang</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Scala アプリケーションのビルドを改善してデプロイ時間を 1/4 にした話 | How I improved the build of my Scala application and reduced deployment time by 4x (KADOWAKI Takumi)</title>
+        <link>https://speakerdeck.com/nomadblacky/scala-ahurikesiyonnohirutowogai-shan-sitetehuroishi-jian-wo-1-4-nisitahua-how-i-improved-the-build-of-my-scala-application-and-reduced-deployment-time-by-4x</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最速[要出典]アクセシビリティチェック</title>
         <link>https://docs.google.com/presentation/d/16xM_XHva4h9JvF8Yfqdpxu2q2XjikQRgvHNDL0g4FFI/preview</link>
         <dc:date>2024-09-07T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>3ヶ月でできる！ 探査機自作ゼミ教材自作入門 (sksat)</title>
         <link>https://speakerdeck.com/sksat/seccamp2024-s17-course-material-dev</link>
         <dc:date>2024-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜクラウドサービスで Web コンソールを提供するのか (did0es)</title>
-        <link>https://speakerdeck.com/shuta13/nazekuraudosabisude-web-konsoruwoti-gong-surunoka</link>
-        <dc:date>2024-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptとGraphQLを活用した変化に強いプロダクト作り (おおいし)</title>
-        <link>https://speakerdeck.com/bicstone/graphql-2024-approach</link>
-        <dc:date>2024-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>状態管理ライブラリZustandの導入から運用まで (daiki)</title>
-        <link>https://speakerdeck.com/k1tikurisu/zhuang-tai-guan-li-raiburarizustandnodao-ru-karayun-yong-made</link>
-        <dc:date>2024-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.jsでクエリパラメータを楽に扱おう nuqsを紹介！ (imaimai17468)</title>
-        <link>https://speakerdeck.com/imaimai17468/next-dot-jsdekueriparametawole-nixi-ou-nuqswoshao-jie</link>
-        <dc:date>2024-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>shadcn/uiで考えるコンポーネント設計 (ryokatsuse)</title>
-        <link>https://speakerdeck.com/ryokatsuse/uitekao-erukonhonentoshe-ji</link>
-        <dc:date>2024-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マルチプロダクトでのプロダクトマネージャーのリアル / RAKUSTechCon2024_Inagaki (Rakus_Dev)</title>
-        <link>https://speakerdeck.com/rakus_dev/rakustechcon2024-inagaki</link>
-        <dc:date>2024-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>医療分野におけるLLMの現状と応用可能性について (kento sugimoto)</title>
-        <link>https://speakerdeck.com/kento1109/yi-liao-fen-ye-niokerullmnoxian-zhuang-toying-yong-ke-neng-xing-nituite</link>
-        <dc:date>2024-09-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
