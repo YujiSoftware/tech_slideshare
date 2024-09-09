@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Next.js App Routerを駆使したアプリケーション開発：React Server Componentを使った機能実装とテストの結合 (Junsei Nagao,@junpai_code)</title>
+        <link>https://www.docswell.com/s/junseinagao/KGXPXN-nextjs-app-router-testing-strategy</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>関数型ドメインモデリングを 非関数型のプログラミング言語で やってみた (Tomohisa Takaoka)</title>
         <link>https://speakerdeck.com/tomohisa/guan-shu-xing-domeinmoderinguwo-fei-guan-shu-xing-nopuroguraminguyan-yu-de-yatutemita</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>EitherT_with_Future (Naoki Aoyama - @aoiroaoino)</title>
         <link>https://speakerdeck.com/aoiroaoino/eithert-with-future</link>
-        <dc:date>2024-09-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Javaにおける関数型プログラミンへの取り組み (Yuichi.Sakuraba)</title>
-        <link>https://speakerdeck.com/skrb/javaniokeruguan-shu-xing-puroguraminhenoqu-rizu-mi</link>
         <dc:date>2024-09-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
