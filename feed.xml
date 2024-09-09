@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Architecture Decision Record (ADR) (NearMeの技術発表資料です)</title>
+        <link>https://speakerdeck.com/nearme_tech/architecture-decision-record-adr</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>金融システムの運用基盤で活用できそうな、re:Invent発の注目アップデート！ (hiropy877)</title>
         <link>https://speakerdeck.com/hiropy877/jin-rong-sisutemunoyun-yong-ji-pan-dehuo-yong-dekisouna-re-inventfa-nozhu-mu-atupudeto</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>そして僕は粛々とサービスデザインをするだけ (Yoshiki Hayama,@storywriter)</title>
         <link>https://www.slideshare.net/slideshow/ss-260462616/260462616</link>
         <dc:date>2024-09-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自社開発した大規模言語モデルをどうプロダクションに乗せて運用していくか〜インフラ編〜 (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/20240906-cloud-operator-days-2024-pfn</link>
-        <dc:date>2024-09-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
