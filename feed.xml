@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>金融システムの運用基盤で活用できそうな、re:Invent発の注目アップデート！ (hiropy877)</title>
+        <link>https://speakerdeck.com/hiropy877/jin-rong-sisutemunoyun-yong-ji-pan-dehuo-yong-dekisouna-re-inventfa-nozhu-mu-atupudeto</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>re:Invent期間に発表されたCloudWatch Logsのアップデートを金融エンジニアの目線で試してみる (Naoki Yoshitake)</title>
+        <link>https://speakerdeck.com/ny7760/cloudwatch-logs-update-from-financial-engineers-perspective</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>zero-ETLが金融業界にもたらすものとは？ (Hikaru Kawagoe)</title>
+        <link>https://speakerdeck.com/rrrraaaaa6/fin-jaws-zero-etl</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Functional TypeScript (Naoya Ito)</title>
         <link>https://speakerdeck.com/naoya/functional-typescript</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>自社開発した大規模言語モデルをどうプロダクションに乗せて運用していくか〜インフラ編〜 (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/20240906-cloud-operator-days-2024-pfn</link>
-        <dc:date>2024-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>すぐに始めるAWSコスト削減。短期でできる改善策と長期的な運用負荷軽減への取り組み方を解説 (NCDC)</title>
-        <link>https://speakerdeck.com/ncdc/sugunishi-meruawskosutoxue-jian-duan-qi-dedekirugai-shan-ce-tochang-qi-de-nayun-yong-fu-he-qing-jian-henoqu-rizu-mifang-wojie-shuo</link>
-        <dc:date>2024-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>僕が思い描くTypeScriptの未来を勝手に先取りする (Yuku Kotani)</title>
-        <link>https://speakerdeck.com/yukukotani/my-own-typescript-future</link>
-        <dc:date>2024-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Aria で実現する次世代のアクセシビリティ (mattsu-)</title>
-        <link>https://speakerdeck.com/ryo_manba/react-aria-deshi-xian-suruci-shi-dai-noakusesibiritei</link>
         <dc:date>2024-09-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
