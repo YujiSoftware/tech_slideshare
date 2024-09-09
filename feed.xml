@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>関数型ドメインモデリングを 非関数型のプログラミング言語で やってみた (Tomohisa Takaoka)</title>
+        <link>https://speakerdeck.com/tomohisa/guan-shu-xing-domeinmoderinguwo-fei-guan-shu-xing-nopuroguraminguyan-yu-de-yatutemita</link>
+        <dc:date>2024-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>関数型プログラミングの設計テクニック (INOMATA Kentaro)</title>
         <link>https://speakerdeck.com/matarillo/guan-shu-xing-puroguramingunoshe-ji-tekunituku</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Javaにおける関数型プログラミンへの取り組み (Yuichi.Sakuraba)</title>
         <link>https://speakerdeck.com/skrb/javaniokeruguan-shu-xing-puroguraminhenoqu-rizu-mi</link>
-        <dc:date>2024-09-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アクセシビリティチェックを後回しにしないためのツールを作ってる</title>
-        <link>https://docs.google.com/presentation/d/1vIlsbQN4Q-ewpKohdz1i0ZvOd0tZE78uHZf4yjGIt9o/preview</link>
         <dc:date>2024-09-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
