@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なにもしてないのにNew Relicのデータ転送量が増えていたときに確認したこと (Hiroki Takatsuka)</title>
+        <link>https://speakerdeck.com/tk3fftk/nanimositenainoninew-relicnodetazhuan-song-liang-gazeng-eteitatokinique-ren-sitakoto</link>
+        <dc:date>2024-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>定時実行の設定が難しいから、 仕組みで解決をしている話 (Hayato Nakamura)</title>
         <link>https://speakerdeck.com/chikin14niwa/ding-shi-shi-xing-noshe-ding-ganan-siikara-shi-zu-midejie-jue-wositeiruhua</link>
         <dc:date>2024-09-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>疎通2024 (sadnessOjisan)</title>
         <link>https://speakerdeck.com/sadnessojisan/shu-tong-2024</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ZIOでサクッとFunctionalにETL (wakye5815)</title>
-        <link>https://speakerdeck.com/wakye5815/ziodesakututofunctionalnietl</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
