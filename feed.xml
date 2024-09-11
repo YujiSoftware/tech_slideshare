@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240911 Findy Rust イベント</title>
+        <link>https://docs.google.com/presentation/d/1P7QCQjFyYk_MCnOfNCEyR6w4whLHeuOEfjXBNwtyK4c/preview</link>
+        <dc:date>2024-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PdMO プロダクトマネジメントを変える仕組み (MVP版) (市谷聡啓,@papanda)</title>
         <link>https://www.docswell.com/s/papanda/K6VV1P-2024-09-11-081227</link>
         <dc:date>2024-09-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Scala におけるコンパイラエラーとの付き合い方 (Chen)</title>
         <link>https://speakerdeck.com/chencmd/scala-niokerukonpairaeratonofu-kihe-ifang</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Scala アプリケーションのビルドを改善してデプロイ時間を 1/4 にした話 | How I improved the build of my Scala application and reduced deployment time by 4x (KADOWAKI Takumi)</title>
-        <link>https://speakerdeck.com/nomadblacky/scala-ahurikesiyonnohirutowogai-shan-sitetehuroishi-jian-wo-1-4-nisitahua-how-i-improved-the-build-of-my-scala-application-and-reduced-deployment-time-by-4x</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
