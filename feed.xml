@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サーバーレスで負荷試験！Step Functions + Lambdaを使ったk6の分散実行 (たかしゅん/moko-poi)</title>
+        <link>https://speakerdeck.com/shuntakahashi/sabaresudefu-he-shi-yan-step-functions-plus-lambdawoshi-tutak6nofen-san-shi-xing</link>
+        <dc:date>2024-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なにもしてないのにNew Relicのデータ転送量が増えていたときに確認したこと (Hiroki Takatsuka)</title>
         <link>https://speakerdeck.com/tk3fftk/nanimositenainoninew-relicnodetazhuan-song-liang-gazeng-eteitatokinique-ren-sitakoto</link>
         <dc:date>2024-09-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Findy Development Productivity Conference (Kazutoshi Ono)</title>
         <link>https://speakerdeck.com/lalha/findy-development-productivity-conference</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>疎通2024 (sadnessOjisan)</title>
-        <link>https://speakerdeck.com/sadnessojisan/shu-tong-2024</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
