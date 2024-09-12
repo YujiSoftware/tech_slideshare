@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240911_New_Relicダッシュボード活用例 (fukuda.k)</title>
+        <link>https://speakerdeck.com/speakerdeckfk/20240911-new-relicdatusiyubodohuo-yong-li</link>
+        <dc:date>2024-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サーバレスでモバイルアプリ開発！ NTTコム「ビジネスdアプリ」のアーキテクチャ / The architecture of business d app (NTT Communications)</title>
         <link>https://speakerdeck.com/nttcom/the-architecture-of-business-d-app</link>
         <dc:date>2024-09-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>関数型プログラミングの設計テクニック (INOMATA Kentaro)</title>
         <link>https://speakerdeck.com/matarillo/guan-shu-xing-puroguramingunoshe-ji-tekunituku</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Architecture Decision Record (ADR) (NearMeの技術発表資料です)</title>
-        <link>https://speakerdeck.com/nearme_tech/architecture-decision-record-adr</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
