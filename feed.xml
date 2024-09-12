@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>watsonx.ai Dojo #1 生成AIと向き合うための準備編 (Akira Onishi (IBM))</title>
+        <link>https://speakerdeck.com/oniak3ibm/wxaidojo01-20240821</link>
+        <dc:date>2024-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>より快適なエラーログ監視を目指して (Tech Leverages)</title>
+        <link>https://speakerdeck.com/leveragestech/yorikuai-shi-naerarokujian-shi-womu-zhi-site</link>
+        <dc:date>2024-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>こんなにあるの？ 最近のIPAトレンドを ざっくりまとめてみた (watany)</title>
         <link>https://speakerdeck.com/watany/exploring-the-latest-ipa-trends</link>
         <dc:date>2024-09-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>re:Invent期間に発表されたCloudWatch Logsのアップデートを金融エンジニアの目線で試してみる (Naoki Yoshitake)</title>
         <link>https://speakerdeck.com/ny7760/cloudwatch-logs-update-from-financial-engineers-perspective</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>zero-ETLが金融業界にもたらすものとは？ (Hikaru Kawagoe)</title>
-        <link>https://speakerdeck.com/rrrraaaaa6/fin-jaws-zero-etl</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Functional TypeScript (Naoya Ito)</title>
-        <link>https://speakerdeck.com/naoya/functional-typescript</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
