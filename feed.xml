@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>こんなにあるの？ 最近のIPAトレンドを ざっくりまとめてみた (watany)</title>
+        <link>https://speakerdeck.com/watany/exploring-the-latest-ipa-trends</link>
+        <dc:date>2024-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>確率推論としての最適制御 (kohonda)</title>
         <link>https://www.docswell.com/s/9107484187/5WWWLX-2024-09-09-105128</link>
         <dc:date>2024-09-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Functional TypeScript (Naoya Ito)</title>
         <link>https://speakerdeck.com/naoya/functional-typescript</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CRTO/CRTL/OSEPの比較・勉強法とAV/EDRの検知実験 (tera)</title>
-        <link>https://speakerdeck.com/chayakonanaika/edrnojian-zhi-shi-yan</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
