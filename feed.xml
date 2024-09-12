@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CDNのログでLPの可観測性を高めた話 (tak0x00)</title>
+        <link>https://speakerdeck.com/tak0x00/cdnnorogudelpnoke-guan-ce-xing-wogao-metahua</link>
+        <dc:date>2024-09-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スタッフエンジニアの道: The Staff Engineer’s Path (Koji SHIMADA)</title>
         <link>https://speakerdeck.com/snoozer05/sutatuhuenzinianodao-the-staff-engineers-path</link>
         <dc:date>2024-09-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>【マーケティング・テクノロジーフェア 大阪 2023】 データから正しい意思決定を行うために 〜全社横断で実施したデータ活用プロジェクトの取り組み〜.pdf (株式会社MonotaRO Tech Team)</title>
         <link>https://www.slideshare.net/slideshow/2023-pdf-259324912/259324912</link>
         <dc:date>2024-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.js App Routerを駆使したアプリケーション開発：React Server Componentを使った機能実装とテストの結合 (Junsei Nagao,@junpai_code)</title>
-        <link>https://www.docswell.com/s/junseinagao/KGXPXN-nextjs-app-router-testing-strategy</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
