@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サーバレスでモバイルアプリ開発！ NTTコム「ビジネスdアプリ」のアーキテクチャ / The architecture of business d app (NTT Communications)</title>
+        <link>https://speakerdeck.com/nttcom/the-architecture-of-business-d-app</link>
+        <dc:date>2024-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLVM/ASMを使った有限体の高速実装 (herumi)</title>
         <link>https://speakerdeck.com/herumi/asmwoshi-tutayou-xian-ti-nogao-su-shi-zhuang</link>
         <dc:date>2024-09-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Architecture Decision Record (ADR) (NearMeの技術発表資料です)</title>
         <link>https://speakerdeck.com/nearme_tech/architecture-decision-record-adr</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>金融システムの運用基盤で活用できそうな、re:Invent発の注目アップデート！ (hiropy877)</title>
-        <link>https://speakerdeck.com/hiropy877/jin-rong-sisutemunoyun-yong-ji-pan-dehuo-yong-dekisouna-re-inventfa-nozhu-mu-atupudeto</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
