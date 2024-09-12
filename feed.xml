@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLVM/ASMを使った有限体の高速実装 (herumi)</title>
+        <link>https://speakerdeck.com/herumi/asmwoshi-tutayou-xian-ti-nogao-su-shi-zhuang</link>
+        <dc:date>2024-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>watsonx.ai Dojo #1 生成AIと向き合うための準備編 (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/wxaidojo01-20240821</link>
         <dc:date>2024-09-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>金融システムの運用基盤で活用できそうな、re:Invent発の注目アップデート！ (hiropy877)</title>
         <link>https://speakerdeck.com/hiropy877/jin-rong-sisutemunoyun-yong-ji-pan-dehuo-yong-dekisouna-re-inventfa-nozhu-mu-atupudeto</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>re:Invent期間に発表されたCloudWatch Logsのアップデートを金融エンジニアの目線で試してみる (Naoki Yoshitake)</title>
-        <link>https://speakerdeck.com/ny7760/cloudwatch-logs-update-from-financial-engineers-perspective</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
