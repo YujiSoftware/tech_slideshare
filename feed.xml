@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>確率推論としての最適制御 (kohonda)</title>
+        <link>https://www.docswell.com/s/9107484187/5WWWLX-2024-09-09-105128</link>
+        <dc:date>2024-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>効果的なオンコール対応と障害対応 (ryuichi1208)</title>
+        <link>https://speakerdeck.com/ryuichi1208/xiao-guo-de-naonkorudui-ying-tozhang-hai-dui-ying</link>
+        <dc:date>2024-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>COMETAを用いたデータ品質管理と業務標準化への取り組み (Kazuya Mori)</title>
+        <link>https://speakerdeck.com/bob_omb/cometawoyong-itadetapin-zhi-guan-li-toye-wu-biao-zhun-hua-henoqu-rizu-mi</link>
+        <dc:date>2024-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サーバーレスで負荷試験！Step Functions + Lambdaを使ったk6の分散実行 (たかしゅん/moko-poi)</title>
         <link>https://speakerdeck.com/shuntakahashi/sabaresudefu-he-shi-yan-step-functions-plus-lambdawoshi-tutak6nofen-san-shi-xing</link>
         <dc:date>2024-09-11T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>CRTO/CRTL/OSEPの比較・勉強法とAV/EDRの検知実験 (tera)</title>
         <link>https://speakerdeck.com/chayakonanaika/edrnojian-zhi-shi-yan</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240908_民主主義を支える技術</title>
-        <link>https://docs.google.com/presentation/d/1g76UaPUQjb7ndkrNSGRcbXziUtFkvg1Wt2lk0ZzRDTo/preview</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>otel4s + マクロでの 半自動計装</title>
-        <link>https://docs.google.com/presentation/d/1JFe-nYRwCSFEle10UY5YQKwF1RTCXCcXKBH5G6Bxgnk/preview</link>
-        <dc:date>2024-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Findy Development Productivity Conference (Kazutoshi Ono)</title>
-        <link>https://speakerdeck.com/lalha/findy-development-productivity-conference</link>
         <dc:date>2024-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
