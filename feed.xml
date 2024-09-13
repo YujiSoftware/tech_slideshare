@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DuckDB雑紹介(1.1対応版)@DuckDB座談会 (Ktz)</title>
+        <link>https://speakerdeck.com/ktz/duckdbza-shao-jie-1-dot-1dui-ying-ban-at-duckdbzuo-tan-hui</link>
+        <dc:date>2024-09-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>App Router を実プロダクトで採用して見えてきた勘所をちょっとだけ紹介 (maroKanatani)</title>
         <link>https://speakerdeck.com/marokanatani/app-router-woshi-purodakutodecai-yong-sitejian-etekitakan-suo-wotiyotutodakeshao-jie</link>
         <dc:date>2024-09-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>なにもしてないのにNew Relicのデータ転送量が増えていたときに確認したこと (Hiroki Takatsuka)</title>
         <link>https://speakerdeck.com/tk3fftk/nanimositenainoninew-relicnodetazhuan-song-liang-gazeng-eteitatokinique-ren-sitakoto</link>
-        <dc:date>2024-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>定時実行の設定が難しいから、 仕組みで解決をしている話 (Hayato Nakamura)</title>
-        <link>https://speakerdeck.com/chikin14niwa/ding-shi-shi-xing-noshe-ding-ganan-siikara-shi-zu-midejie-jue-wositeiruhua</link>
         <dc:date>2024-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
