@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セルフホスト型ランタイムによる WebAssembly インストルメンテーションの実現可能性検討/jssst-41 (Yuki Nakata chikuwait)</title>
+        <link>https://speakerdeck.com/chikuwait/jssst-41</link>
+        <dc:date>2024-09-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>忙しい人のためのLangGraph概要まとめ (ymgc)</title>
         <link>https://speakerdeck.com/__ymgc__/mang-siiren-notamenolanggraphgai-yao-matome</link>
         <dc:date>2024-09-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>難しいから面白い！医薬品×在庫管理ドメインの複雑性と向き合い、プロダクトの成長を支えるための取り組み / Initiatives to Support Product Growth (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/initiatives-to-support-product-growth</link>
-        <dc:date>2024-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQL あるいは React における自律的なデータ取得について (Yosuke Kurami)</title>
-        <link>https://speakerdeck.com/quramy/graphql-aruiha-react-niokeruzi-lu-de-nadetaqu-de-nituite</link>
         <dc:date>2024-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
