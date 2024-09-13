@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>忙しい人のためのLangGraph概要まとめ (ymgc)</title>
+        <link>https://speakerdeck.com/__ymgc__/mang-siiren-notamenolanggraphgai-yao-matome</link>
+        <dc:date>2024-09-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CDNのログでLPの可観測性を高めた話 (tak0x00)</title>
         <link>https://speakerdeck.com/tak0x00/cdnnorogudelpnoke-guan-ce-xing-wogao-metahua</link>
         <dc:date>2024-09-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GraphQL あるいは React における自律的なデータ取得について (Yosuke Kurami)</title>
         <link>https://speakerdeck.com/quramy/graphql-aruiha-react-niokeruzi-lu-de-nadetaqu-de-nituite</link>
-        <dc:date>2024-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【マーケティング・テクノロジーフェア 大阪 2023】 データから正しい意思決定を行うために 〜全社横断で実施したデータ活用プロジェクトの取り組み〜.pdf (株式会社MonotaRO Tech Team)</title>
-        <link>https://www.slideshare.net/slideshow/2023-pdf-259324912/259324912</link>
         <dc:date>2024-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
