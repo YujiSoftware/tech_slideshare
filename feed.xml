@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>What you can do with Ruby on WebAssembly (Yuta Saito)</title>
+        <link>https://speakerdeck.com/kateinoigakukun/what-you-can-do-with-ruby-on-webassembly</link>
+        <dc:date>2024-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事前準備が肝！AI活用のための業務改革 (LayerX)</title>
         <link>https://speakerdeck.com/layerx/real-estate-tech-product-night-0910</link>
         <dc:date>2024-09-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>watsonx.ai Dojo #1 生成AIと向き合うための準備編 (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/wxaidojo01-20240821</link>
-        <dc:date>2024-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>より快適なエラーログ監視を目指して (Tech Leverages)</title>
-        <link>https://speakerdeck.com/leveragestech/yorikuai-shi-naerarokujian-shi-womu-zhi-site</link>
         <dc:date>2024-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
