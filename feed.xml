@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>事前準備が肝！AI活用のための業務改革 (LayerX)</title>
+        <link>https://speakerdeck.com/layerx/real-estate-tech-product-night-0910</link>
+        <dc:date>2024-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Android開発以外のAndroid開発経験の活かしどころ (konifar)</title>
+        <link>https://speakerdeck.com/konifar/androidkai-fa-yi-wai-noandroidkai-fa-jing-yan-nohuo-kasidokoro</link>
+        <dc:date>2024-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go1.23で入った errorsパッケージの小さなアプデ (kuro)</title>
+        <link>https://speakerdeck.com/kuro_kurorrr/minor-updates-in-the-errors-package-from-go-1-dot-23</link>
+        <dc:date>2024-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアと関係組織をつなぐ社内 DevRel のとりくみ / Why DevRel works in-house (NTT Communications)</title>
+        <link>https://speakerdeck.com/nttcom/why-devrel-works-in-house</link>
+        <dc:date>2024-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS Ambassador が本気で Minecraft サーバを運用してみた (issei.hamada)</title>
         <link>https://speakerdeck.com/isseihamada/aws-ambassador-gaben-qi-de-minecraft-sabawoyun-yong-sitemita-bbc5bbd4-82c9-42b4-af38-c0fed3d79b4d</link>
         <dc:date>2024-09-12T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>より快適なエラーログ監視を目指して (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/yorikuai-shi-naerarokujian-shi-womu-zhi-site</link>
-        <dc:date>2024-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>こんなにあるの？ 最近のIPAトレンドを ざっくりまとめてみた (watany)</title>
-        <link>https://speakerdeck.com/watany/exploring-the-latest-ipa-trends</link>
-        <dc:date>2024-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>確率推論としての最適制御 (kohonda)</title>
-        <link>https://www.docswell.com/s/9107484187/5WWWLX-2024-09-09-105128</link>
-        <dc:date>2024-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>効果的なオンコール対応と障害対応 (ryuichi1208)</title>
-        <link>https://speakerdeck.com/ryuichi1208/xiao-guo-de-naonkorudui-ying-tozhang-hai-dui-ying</link>
-        <dc:date>2024-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>COMETAを用いたデータ品質管理と業務標準化への取り組み (Kazuya Mori)</title>
-        <link>https://speakerdeck.com/bob_omb/cometawoyong-itadetapin-zhi-guan-li-toye-wu-biao-zhun-hua-henoqu-rizu-mi</link>
         <dc:date>2024-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
