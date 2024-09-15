@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>デザインからアプリ実装まで一貫したデザインシステムを構築するベストプラクティス_.pdf (Shuzo Takahashi)</title>
+        <link>https://speakerdeck.com/shuzo/tesainkaraahurishi-zhuang-mate-guan-sitatesainsisutemuwogou-zhu-suruhesutohurakuteisu</link>
+        <dc:date>2024-09-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>watsonx.ai Dojo 環境準備について (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/watsonx-ai-dojo-prereq</link>
         <dc:date>2024-09-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20240911_New_Relicダッシュボード活用例 (fukuda.k)</title>
         <link>https://speakerdeck.com/speakerdeckfk/20240911-new-relicdatusiyubodohuo-yong-li</link>
-        <dc:date>2024-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバレスでモバイルアプリ開発！ NTTコム「ビジネスdアプリ」のアーキテクチャ / The architecture of business d app (NTT Communications)</title>
-        <link>https://speakerdeck.com/nttcom/the-architecture-of-business-d-app</link>
         <dc:date>2024-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
