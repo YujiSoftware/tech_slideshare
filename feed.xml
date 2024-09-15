@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>watsonx.ai Dojo 環境準備について (Akira Onishi (IBM))</title>
+        <link>https://speakerdeck.com/oniak3ibm/watsonx-ai-dojo-prereq</link>
+        <dc:date>2024-09-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>社内の学びの場・コミュニティ形成とエンジニア同士のリレーションシップ構築/devreljapan2024 (Ichiro Nishiuma)</title>
         <link>https://speakerdeck.com/nishiuma/devreljapan2024</link>
         <dc:date>2024-09-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サーバレスでモバイルアプリ開発！ NTTコム「ビジネスdアプリ」のアーキテクチャ / The architecture of business d app (NTT Communications)</title>
         <link>https://speakerdeck.com/nttcom/the-architecture-of-business-d-app</link>
-        <dc:date>2024-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLVM/ASMを使った有限体の高速実装 (herumi)</title>
-        <link>https://speakerdeck.com/herumi/asmwoshi-tutayou-xian-ti-nogao-su-shi-zhuang</link>
         <dc:date>2024-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
