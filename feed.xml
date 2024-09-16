@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PdMはどのように全てのスピードを上げられるか　~ 非連続進化のための具体的な取り組み ~ (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20240911-1</link>
+        <dc:date>2024-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プログラム検証入門 (r1ru)</title>
         <link>https://speakerdeck.com/riru/puroguramujian-zheng-ru-men</link>
         <dc:date>2024-09-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>CDNのログでLPの可観測性を高めた話 (tak0x00)</title>
         <link>https://speakerdeck.com/tak0x00/cdnnorogudelpnoke-guan-ce-xing-wogao-metahua</link>
         <dc:date>2024-09-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタッフエンジニアの道: The Staff Engineer’s Path (Koji SHIMADA)</title>
-        <link>https://speakerdeck.com/snoozer05/sutatuhuenzinianodao-the-staff-engineers-path</link>
-        <dc:date>2024-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
