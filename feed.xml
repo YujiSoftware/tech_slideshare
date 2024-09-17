@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MobileActOsaka_240531.pdf (AKAI Tadaaki)</title>
+        <link>https://speakerdeck.com/akaitadaaki/mobileactosaka-240531</link>
+        <dc:date>2024-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Swift Attributes (Takuma Shimizu)</title>
+        <link>https://speakerdeck.com/hokuron/swift-attributes</link>
+        <dc:date>2024-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バリデーション付きフォームを宣言的に実装する / Declaratively Implementing a Form with Validation (Studio Rookery)</title>
+        <link>https://speakerdeck.com/studio_rookery/declaratively-implementing-a-form-with-validation</link>
+        <dc:date>2024-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「認証認可」という体験をデザインする ～Nekko Cloud認証認可基盤計画 (logica)</title>
         <link>https://speakerdeck.com/logica0419/designing-auth-wakate</link>
         <dc:date>2024-09-16T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>App Router を実プロダクトで採用して見えてきた勘所をちょっとだけ紹介 (maroKanatani)</title>
         <link>https://speakerdeck.com/marokanatani/app-router-woshi-purodakutodecai-yong-sitejian-etekitakan-suo-wotiyotutodakeshao-jie</link>
-        <dc:date>2024-09-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>XStateでReactに秩序を与えたい (gizm000)</title>
-        <link>https://speakerdeck.com/gizm000/xstatedereactnizhi-xu-woyu-etai</link>
-        <dc:date>2024-09-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニア1年目で複雑なコードの改善に取り組んだ話 (mtnmr)</title>
-        <link>https://speakerdeck.com/mtnmr/ensinia1nian-mu-tefu-za-nakotonogai-shan-niqu-rizu-ntahua</link>
-        <dc:date>2024-09-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セルフホスト型ランタイムによる WebAssembly インストルメンテーションの実現可能性検討/jssst-41 (Yuki Nakata chikuwait)</title>
-        <link>https://speakerdeck.com/chikuwait/jssst-41</link>
         <dc:date>2024-09-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
