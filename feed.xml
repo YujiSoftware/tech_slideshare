@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>そろそろイベントソーシング・CQRSを使ってみてもいい頃なんじゃない？ (Tomohisa Takaoka)</title>
+        <link>https://speakerdeck.com/tomohisa/sorosoroibentososingucqrswoshi-tutemoiiqing-nanziyanai</link>
+        <dc:date>2024-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>持続可能なソフトウェア開発を支える『GitHub CI/CD実践ガイド』 (tmknom)</title>
         <link>https://speakerdeck.com/tmknom/github-cicd-book</link>
         <dc:date>2024-09-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS Ambassador が本気で Minecraft サーバを運用してみた (issei.hamada)</title>
         <link>https://speakerdeck.com/isseihamada/aws-ambassador-gaben-qi-de-minecraft-sabawoyun-yong-sitemita-bbc5bbd4-82c9-42b4-af38-c0fed3d79b4d</link>
-        <dc:date>2024-09-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240906_JAWS_Yamanashi_#1_leap_beyond_the_AWS_all_certifications (tsumita)</title>
-        <link>https://speakerdeck.com/tsumita/20240906-jaws-yamanashi-number-1-leap-beyond-the-aws-all-certifications</link>
         <dc:date>2024-09-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
