@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>持続可能なソフトウェア開発を支える『GitHub CI/CD実践ガイド』 (tmknom)</title>
+        <link>https://speakerdeck.com/tmknom/github-cicd-book</link>
+        <dc:date>2024-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>UNIXよ2038年を越えてゆけ (Ran350)</title>
         <link>https://speakerdeck.com/ran350/unixyo2038nian-woyue-eteyuke</link>
         <dc:date>2024-09-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20240906_JAWS_Yamanashi_#1_leap_beyond_the_AWS_all_certifications (tsumita)</title>
         <link>https://speakerdeck.com/tsumita/20240906-jaws-yamanashi-number-1-leap-beyond-the-aws-all-certifications</link>
-        <dc:date>2024-09-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DuckDB雑紹介(1.1対応版)@DuckDB座談会 (Ktz)</title>
-        <link>https://speakerdeck.com/ktz/duckdbza-shao-jie-1-dot-1dui-ying-ban-at-duckdbzuo-tan-hui</link>
         <dc:date>2024-09-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
