@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「認証認可」という体験をデザインする ～Nekko Cloud認証認可基盤計画 (logica)</title>
+        <link>https://speakerdeck.com/logica0419/designing-auth-wakate</link>
+        <dc:date>2024-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>eBPFのこれまでとこれから (Yutaro Hayakawa)</title>
         <link>https://speakerdeck.com/yutarohayakawa/ebpfnokoremadetokorekara</link>
         <dc:date>2024-09-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>セルフホスト型ランタイムによる WebAssembly インストルメンテーションの実現可能性検討/jssst-41 (Yuki Nakata chikuwait)</title>
         <link>https://speakerdeck.com/chikuwait/jssst-41</link>
-        <dc:date>2024-09-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>忙しい人のためのLangGraph概要まとめ (ymgc)</title>
-        <link>https://speakerdeck.com/__ymgc__/mang-siiren-notamenolanggraphgai-yao-matome</link>
         <dc:date>2024-09-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
