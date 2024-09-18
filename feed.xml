@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OSTという文化を組織に根付かせてみた (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20240914</link>
+        <dc:date>2024-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>そろそろイベントソーシング・CQRSを使ってみてもいい頃なんじゃない？ (Tomohisa Takaoka)</title>
         <link>https://speakerdeck.com/tomohisa/sorosoroibentososingucqrswoshi-tutemoiiqing-nanziyanai</link>
         <dc:date>2024-09-16T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>エンジニアと関係組織をつなぐ社内 DevRel のとりくみ / Why DevRel works in-house (NTT Communications)</title>
         <link>https://speakerdeck.com/nttcom/why-devrel-works-in-house</link>
         <dc:date>2024-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Ambassador が本気で Minecraft サーバを運用してみた (issei.hamada)</title>
-        <link>https://speakerdeck.com/isseihamada/aws-ambassador-gaben-qi-de-minecraft-sabawoyun-yong-sitemita-bbc5bbd4-82c9-42b4-af38-c0fed3d79b4d</link>
-        <dc:date>2024-09-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
