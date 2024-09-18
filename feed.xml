@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Patched fetch did not work (Yosuke Kurami)</title>
+        <link>https://speakerdeck.com/quramy/patched-fetch-did-not-work</link>
+        <dc:date>2024-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>美意識と匠Methodの関係性（論理思考の限界を超えるために） (匠Method User Group)</title>
         <link>https://speakerdeck.com/takumi_method_ug/mei-yi-shi-tojiang-methodnoguan-xi-xing-lun-li-si-kao-noxian-jie-wochao-erutameni</link>
         <dc:date>2024-09-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>What you can do with Ruby on WebAssembly (Yuta Saito)</title>
         <link>https://speakerdeck.com/kateinoigakukun/what-you-can-do-with-ruby-on-webassembly</link>
-        <dc:date>2024-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事前準備が肝！AI活用のための業務改革 (LayerX)</title>
-        <link>https://speakerdeck.com/layerx/real-estate-tech-product-night-0910</link>
         <dc:date>2024-09-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
