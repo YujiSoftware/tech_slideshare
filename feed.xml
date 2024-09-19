@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リーガルテックにおける検索・推薦技術 (LegalOn Technologies, Inc)</title>
+        <link>https://speakerdeck.com/legalontechnologies/wakate-57-legalontech</link>
+        <dc:date>2024-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Patched fetch did not work (Yosuke Kurami)</title>
         <link>https://speakerdeck.com/quramy/patched-fetch-did-not-work</link>
         <dc:date>2024-09-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>社内の学びの場・コミュニティ形成とエンジニア同士のリレーションシップ構築/devreljapan2024 (Ichiro Nishiuma)</title>
         <link>https://speakerdeck.com/nishiuma/devreljapan2024</link>
         <dc:date>2024-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What you can do with Ruby on WebAssembly (Yuta Saito)</title>
-        <link>https://speakerdeck.com/kateinoigakukun/what-you-can-do-with-ruby-on-webassembly</link>
-        <dc:date>2024-09-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
