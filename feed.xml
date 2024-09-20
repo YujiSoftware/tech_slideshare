@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ヒューマンエラーの本を読んだ ~報告会~ (hideki kinjyo)</title>
+        <link>https://speakerdeck.com/o0h/funabashidev-1</link>
+        <dc:date>2024-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Perl 5 OOP機構30年史 - Perl 5's OOP Mechanism over the past 30 years (moznion)</title>
         <link>https://speakerdeck.com/moznion/perl-5-oopji-gou-30nian-shi-perl-5-s-oop-mechanism-past-30-years</link>
         <dc:date>2024-09-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自作Cコンパイラ 8時間の奮闘 (soukouki)</title>
         <link>https://speakerdeck.com/soukouki/zi-zuo-ckonpaira-8shi-jian-nofen-dou</link>
-        <dc:date>2024-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザインからアプリ実装まで一貫したデザインシステムを構築するベストプラクティス_.pdf (Shuzo Takahashi)</title>
-        <link>https://speakerdeck.com/shuzo/tesainkaraahurishi-zhuang-mate-guan-sitatesainsisutemuwogou-zhu-suruhesutohurakuteisu</link>
         <dc:date>2024-09-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
