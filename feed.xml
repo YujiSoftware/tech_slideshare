@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>情報設計からのデザインアプローチ ～ユーザーの声を聞くよりも、もっとデータの声を聞け～ (Yu Morita)</title>
+        <link>https://speakerdeck.com/securecat/qing-bao-she-ji-karanodezainapuroti-yuzanosheng-wowen-kuyorimo-motutodetanosheng-wowen-ke</link>
+        <dc:date>2024-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>E2Eテストのシナリオと抽象化の粒度の話.pdf (tsuemura)</title>
         <link>https://speakerdeck.com/tsuemura/e2etesutonosinariotochou-xiang-hua-noli-du-nohua</link>
         <dc:date>2024-09-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>eBPFのこれまでとこれから (Yutaro Hayakawa)</title>
         <link>https://speakerdeck.com/yutarohayakawa/ebpfnokoremadetokorekara</link>
-        <dc:date>2024-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PdMはどのように全てのスピードを上げられるか　~ 非連続進化のための具体的な取り組み ~ (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20240911-1</link>
         <dc:date>2024-09-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
