@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kubernetesって何？ -大規模なKubernetesを運用するKubernetes as a Serviceチームの話を添えて- (LY Corporation Tech)</title>
+        <link>https://speakerdeck.com/lycorptech_jp/kaas-zcp-kubernetes-tutorial</link>
+        <dc:date>2024-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コンポーネントテストの手法と その効果を考える (nus3)</title>
+        <link>https://speakerdeck.com/yotahada3/frontend-component-test</link>
+        <dc:date>2024-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>横断組織として考える共通DBの課題解決 〜 桃園の誓いアーキテクチャ 〜 / Addressing Shared Database Challenges as Cross-Team:  “Peach Garden Oath” Architecture (4geru sakisaka)</title>
         <link>https://speakerdeck.com/4geru/addressing-shared-database-challenges-as-cross-team-peach-garden-oath-architecture</link>
         <dc:date>2024-09-19T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Swift Attributes (Takuma Shimizu)</title>
         <link>https://speakerdeck.com/hokuron/swift-attributes</link>
-        <dc:date>2024-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バリデーション付きフォームを宣言的に実装する / Declaratively Implementing a Form with Validation (Studio Rookery)</title>
-        <link>https://speakerdeck.com/studio_rookery/declaratively-implementing-a-form-with-validation</link>
-        <dc:date>2024-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「認証認可」という体験をデザインする ～Nekko Cloud認証認可基盤計画 (logica)</title>
-        <link>https://speakerdeck.com/logica0419/designing-auth-wakate</link>
         <dc:date>2024-09-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
