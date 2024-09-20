@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Streamlitで結合テスト工数の削減に成功した話 (GO Inc. dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/streamlitdejie-he-tesutogong-shu-noxue-jian-nicheng-gong-sitahua</link>
+        <dc:date>2024-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Streamlit ホスティング基盤をどのように作ったか (GO Inc. dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/streamlit-hosuteinguji-pan-wodonoyounizuo-tutaka</link>
+        <dc:date>2024-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Pythonで改めて考える「クラス（class）」の使いどころ (os1ma)</title>
         <link>https://speakerdeck.com/os1ma/pythondegai-metekao-eru-kurasu-class-noshi-idokoro</link>
         <dc:date>2024-09-19T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>そろそろイベントソーシング・CQRSを使ってみてもいい頃なんじゃない？ (Tomohisa Takaoka)</title>
         <link>https://speakerdeck.com/tomohisa/sorosoroibentososingucqrswoshi-tutemoiiqing-nanziyanai</link>
-        <dc:date>2024-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>持続可能なソフトウェア開発を支える『GitHub CI/CD実践ガイド』 (tmknom)</title>
-        <link>https://speakerdeck.com/tmknom/github-cicd-book</link>
-        <dc:date>2024-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UNIXよ2038年を越えてゆけ (Ran350)</title>
-        <link>https://speakerdeck.com/ran350/unixyo2038nian-woyue-eteyuke</link>
         <dc:date>2024-09-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
