@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>上手に付き合うコンポーネントテスト (Yosuke Kurami)</title>
+        <link>https://speakerdeck.com/quramy/shang-shou-nifu-kihe-ukonponentotesuto</link>
+        <dc:date>2024-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Streamlitで結合テスト工数の削減に成功した話 (GO Inc. dev)</title>
         <link>https://speakerdeck.com/mot_techtalk/streamlitdejie-he-tesutogong-shu-noxue-jian-nicheng-gong-sitahua</link>
         <dc:date>2024-09-19T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>OSTという文化を組織に根付かせてみた (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20240914</link>
         <dc:date>2024-09-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>そろそろイベントソーシング・CQRSを使ってみてもいい頃なんじゃない？ (Tomohisa Takaoka)</title>
-        <link>https://speakerdeck.com/tomohisa/sorosoroibentososingucqrswoshi-tutemoiiqing-nanziyanai</link>
-        <dc:date>2024-09-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
