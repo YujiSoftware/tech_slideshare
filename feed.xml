@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>横断組織として考える共通DBの課題解決 〜 桃園の誓いアーキテクチャ 〜 / Addressing Shared Database Challenges as Cross-Team:  “Peach Garden Oath” Architecture (4geru sakisaka)</title>
+        <link>https://speakerdeck.com/4geru/addressing-shared-database-challenges-as-cross-team-peach-garden-oath-architecture</link>
+        <dc:date>2024-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>情報設計からのデザインアプローチ ～ユーザーの声を聞くよりも、もっとデータの声を聞け～ (Yu Morita)</title>
         <link>https://speakerdeck.com/securecat/qing-bao-she-ji-karanodezainapuroti-yuzanosheng-wowen-kuyorimo-motutodetanosheng-wowen-ke</link>
         <dc:date>2024-09-19T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>「認証認可」という体験をデザインする ～Nekko Cloud認証認可基盤計画 (logica)</title>
         <link>https://speakerdeck.com/logica0419/designing-auth-wakate</link>
         <dc:date>2024-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>eBPFのこれまでとこれから (Yutaro Hayakawa)</title>
-        <link>https://speakerdeck.com/yutarohayakawa/ebpfnokoremadetokorekara</link>
-        <dc:date>2024-09-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
