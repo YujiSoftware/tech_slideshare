@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サーバーレスAPIのパフォーマンステストとアプリの未来 (草薙昭彦)</title>
+        <link>https://speakerdeck.com/nagix/sabaresuapinopahuomansutesutotoapurinowei-lai</link>
+        <dc:date>2024-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>いまあるチームにフィットさせる Serverless そして Platform Engineeringへの挑戦 / Serverless Fits the Team You Have and Platform Engineering (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/serverless-fits-the-team-you-have-and-platform-engineering</link>
+        <dc:date>2024-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サーバーレスなユーザー認証認可の考慮事項と実践的プラクティス紹介 / slsdays-tokyo-2024 (Serverless Operations)</title>
+        <link>https://speakerdeck.com/slsops/slsdays-tokyo-2023-3cd5886a-cee0-425b-821f-f4cd3230e1e0</link>
+        <dc:date>2024-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>静的サイトのCI/CDでも侮るなかれ！Docs as Codeに沿ったセキュアな開発プロセスの実践/secure-docsascode-cicd-for-static-sites (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
+        <link>https://speakerdeck.com/mhrtech/secure-docsascode-cicd-for-static-sites</link>
+        <dc:date>2024-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成 AI による新しい UI/UX 〜サーバーレスで実現する Generative UI の世界〜 / generative ui with serverless (geeawa)</title>
+        <link>https://speakerdeck.com/gawa/generative-ui-with-serverless</link>
+        <dc:date>2024-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>10年モノの24x7サービスにおける障害対応と生成AIの活用 (Yuki Ando,@integrated1453)</title>
         <link>https://www.docswell.com/s/integrated1453/5EXXYN-CODT2024</link>
         <dc:date>2024-09-20T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>情報設計からのデザインアプローチ ～ユーザーの声を聞くよりも、もっとデータの声を聞け～ (Yu Morita)</title>
         <link>https://speakerdeck.com/securecat/qing-bao-she-ji-karanodezainapuroti-yuzanosheng-wowen-kuyorimo-motutodetanosheng-wowen-ke</link>
         <dc:date>2024-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>E2Eテストのシナリオと抽象化の粒度の話.pdf (tsuemura)</title>
-        <link>https://speakerdeck.com/tsuemura/e2etesutonosinariotochou-xiang-hua-noli-du-nohua</link>
-        <dc:date>2024-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI前提のサービス運用ってなんだろう？ (ryuichi1208)</title>
-        <link>https://speakerdeck.com/ryuichi1208/aiqian-ti-nosabisuyun-yong-tutenandarou-1122ee7d-3d66-4920-9933-4c975ff16b9a</link>
-        <dc:date>2024-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ヒューマンエラーの本を読んだ ~報告会~ (hideki kinjyo)</title>
-        <link>https://speakerdeck.com/o0h/funabashidev-1</link>
-        <dc:date>2024-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Perl 5 OOP機構30年史 - Perl 5's OOP Mechanism over the past 30 years (moznion)</title>
-        <link>https://speakerdeck.com/moznion/perl-5-oopji-gou-30nian-shi-perl-5-s-oop-mechanism-past-30-years</link>
-        <dc:date>2024-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>世界のオープンソースロボットたち #1 (shiba_8ro)</title>
-        <link>https://speakerdeck.com/shiba_8ro/shi-jie-noopunsosurobotutotati-number-1</link>
-        <dc:date>2024-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
