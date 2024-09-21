@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloud Run で作るサーバーレス アーキテクチャ 30 連発 - これのときはこう！ (GoogleCloudPlatformJapan)</title>
+        <link>https://speakerdeck.com/googlecloudjapan/cloud-run-dezuo-rusabaresu-akitekutiya-30-lian-fa-korenotokihakou-836ef9eb-8f2a-4b87-afef-dfab362b33c3</link>
+        <dc:date>2024-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Passkey Autofill に賭けるマネーフォワード ID - Money Forward Tech Day 2024 (Nov Matake)</title>
         <link>https://speakerdeck.com/nov/passkey-autofill-nidu-kerumanehuowado-id-money-forward-tech-day-2024</link>
         <dc:date>2024-09-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>美意識と匠Methodの関係性（論理思考の限界を超えるために） (匠Method User Group)</title>
         <link>https://speakerdeck.com/takumi_method_ug/mei-yi-shi-tojiang-methodnoguan-xi-xing-lun-li-si-kao-noxian-jie-wochao-erutameni</link>
-        <dc:date>2024-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.js のページ遷移を全力で止める (ypresto)</title>
-        <link>https://speakerdeck.com/ypresto/hack-to-prevent-page-navigation-in-next-js</link>
         <dc:date>2024-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
