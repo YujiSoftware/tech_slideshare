@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMマルチエージェントのフローエンジニアリングを支えるLLM Ops (PharmaX（旧YOJO Technologies）開発チーム)</title>
+        <link>https://speakerdeck.com/pharma_x_tech/llmmarutiezientonohuroenziniaringuwozhi-erullm-ops</link>
+        <dc:date>2024-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS Lambda Web Adapterを活用する新しいサーバーレスの実装パターン (Masashi Tomooka)</title>
         <link>https://speakerdeck.com/tmokmss/aws-lambda-web-adapterwohuo-yong-suruxin-siisabaresunoshi-zhuang-patan</link>
         <dc:date>2024-09-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>白金鉱業 Meetup Vol.15 :『Pythonで学ぶ効果検証入門』 の歪なところ、その理由 (Hirotake Ito)</title>
         <link>https://speakerdeck.com/ito_hirotake/bai-jin-kuang-ye-meetup-vol-dot-15-pythondexue-buxiao-guo-jian-zheng-ru-men-nowai-natokoro-sonoli-you</link>
-        <dc:date>2024-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesって何？ -大規模なKubernetesを運用するKubernetes as a Serviceチームの話を添えて- (LY Corporation Tech)</title>
-        <link>https://speakerdeck.com/lycorptech_jp/kaas-zcp-kubernetes-tutorial</link>
         <dc:date>2024-09-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
