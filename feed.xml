@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ネットワークだけ隔離されたコンテナ作成デモ / Kichijoji.pm36 (tenforward)</title>
+        <link>https://speakerdeck.com/tenforward/kichijoji-dot-pm36</link>
+        <dc:date>2024-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発者の定量・定性データを組み合わせて開発者体験を把握するための取り組み (ham)</title>
+        <link>https://speakerdeck.com/ham0215/kai-fa-zhe-noding-liang-ding-xing-detawozu-mihe-wasetekai-fa-zhe-ti-yan-woba-wo-surutamenoqu-rizu-mi</link>
+        <dc:date>2024-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Godot Engine でゲームを作ろう！リーダブルノードのススメ (NAKAOKU Takahiro)</title>
         <link>https://speakerdeck.com/kamera25/godot-engine-degemuwozuo-rou-ridaburunodonosusume</link>
         <dc:date>2024-09-21T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Streamlitで結合テスト工数の削減に成功した話 (GO Inc. dev)</title>
         <link>https://speakerdeck.com/mot_techtalk/streamlitdejie-he-tesutogong-shu-noxue-jian-nicheng-gong-sitahua</link>
-        <dc:date>2024-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Streamlit ホスティング基盤をどのように作ったか (GO Inc. dev)</title>
-        <link>https://speakerdeck.com/mot_techtalk/streamlit-hosuteinguji-pan-wodonoyounizuo-tutaka</link>
-        <dc:date>2024-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonで改めて考える「クラス（class）」の使いどころ (os1ma)</title>
-        <link>https://speakerdeck.com/os1ma/pythondegai-metekao-eru-kurasu-class-noshi-idokoro</link>
         <dc:date>2024-09-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
