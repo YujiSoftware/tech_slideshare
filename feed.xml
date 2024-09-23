@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>『GRANBLUE FANTASY Relink』ソフトウェアラスタライザによる実践的なオクルージョンカリング (Cygames)</title>
+        <link>https://speakerdeck.com/cygames/granblue-fantasy-relink-sohutouearasutaraizaniyorushi-jian-de-naokuruziyonkaringu</link>
+        <dc:date>2024-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GC24 Recap: Interface Internals (task4233)</title>
         <link>https://speakerdeck.com/task4233/recap-interface-internals</link>
         <dc:date>2024-09-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Technology that powers Lambda / AWS Lambda を支える技術 (kensh)</title>
         <link>https://speakerdeck.com/_kensh/technology-that-powers-lambda</link>
-        <dc:date>2024-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud Run で作るサーバーレス アーキテクチャ 30 連発 - これのときはこう！ (GoogleCloudPlatformJapan)</title>
-        <link>https://speakerdeck.com/googlecloudjapan/cloud-run-dezuo-rusabaresu-akitekutiya-30-lian-fa-korenotokihakou-836ef9eb-8f2a-4b87-afef-dfab362b33c3</link>
         <dc:date>2024-09-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
