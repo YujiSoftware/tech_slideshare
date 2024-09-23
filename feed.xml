@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Beyond the RuboCop Defaults (Koichi ITO)</title>
+        <link>https://speakerdeck.com/koic/beyond-the-rubocop-defaults</link>
+        <dc:date>2024-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>go:wasmexport (asuka)</title>
+        <link>https://speakerdeck.com/askua/go-wasmexport</link>
+        <dc:date>2024-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ビジネスに必要な全てを担い、 自分の専門性を見つけ出す フルサイクル開発者のあり方@技育祭 秋 / how-find-own-speciality-in-full-cycle (pei0804)</title>
+        <link>https://speakerdeck.com/pei0804/how-find-own-speciality-in-full-cycle</link>
+        <dc:date>2024-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>1000万DL人を支えるiAEONアプリ：完全停止を防ぐ耐障害性の設計/iAEON app supporting 10 million users (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/iaeon-app-supporting-10-million-users-fault-tolerant-design-to-prevent-complete-outages</link>
+        <dc:date>2024-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Streamlit ホスティング基盤をスケールさせる (GO Inc. dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/streamlit-hosuteinguji-pan-wosukerusaseru</link>
+        <dc:date>2024-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>『GRANBLUE FANTASY Relink』ソフトウェアラスタライザによる実践的なオクルージョンカリング (Cygames)</title>
         <link>https://speakerdeck.com/cygames/granblue-fantasy-relink-sohutouearasutaraizaniyorushi-jian-de-naokuruziyonkaringu</link>
         <dc:date>2024-09-22T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>サーバーレスなユーザー認証認可の考慮事項と実践的プラクティス紹介 / slsdays-tokyo-2024 (Serverless Operations)</title>
         <link>https://speakerdeck.com/slsops/slsdays-tokyo-2023-3cd5886a-cee0-425b-821f-f4cd3230e1e0</link>
         <dc:date>2024-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>静的サイトのCI/CDでも侮るなかれ！Docs as Codeに沿ったセキュアな開発プロセスの実践/secure-docsascode-cicd-for-static-sites (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
-        <link>https://speakerdeck.com/mhrtech/secure-docsascode-cicd-for-static-sites</link>
-        <dc:date>2024-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成 AI による新しい UI/UX 〜サーバーレスで実現する Generative UI の世界〜 / generative ui with serverless (geeawa)</title>
-        <link>https://speakerdeck.com/gawa/generative-ui-with-serverless</link>
-        <dc:date>2024-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10年モノの24x7サービスにおける障害対応と生成AIの活用 (Yuki Ando,@integrated1453)</title>
-        <link>https://www.docswell.com/s/integrated1453/5EXXYN-CODT2024</link>
-        <dc:date>2024-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『Sysdigで始めてみる [偉い人] &lt; “弊社のセキュリティ大丈夫？” ← “大丈夫！” &gt; [現場] なセキュリティ対策』 (Kazuhiro Hashimoto)</title>
-        <link>https://speakerdeck.com/kazutb/sysdigdeshi-metemiru-wei-iren-bi-she-nosekiyuriteida-zhang-fu-da-zhang-fu-xian-chang-nasekiyuriteidui-ce</link>
-        <dc:date>2024-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Technology that powers Lambda / AWS Lambda を支える技術 (kensh)</title>
-        <link>https://speakerdeck.com/_kensh/technology-that-powers-lambda</link>
-        <dc:date>2024-09-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
