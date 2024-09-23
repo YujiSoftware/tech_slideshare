@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GC24 Recap: Interface Internals (task4233)</title>
+        <link>https://speakerdeck.com/task4233/recap-interface-internals</link>
+        <dc:date>2024-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>研究の進め方 ランダムネスとの付き合い方について (佐藤竜馬 (Ryoma Sato))</title>
         <link>https://speakerdeck.com/joisino/randomness</link>
         <dc:date>2024-09-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Cloud Run で作るサーバーレス アーキテクチャ 30 連発 - これのときはこう！ (GoogleCloudPlatformJapan)</title>
         <link>https://speakerdeck.com/googlecloudjapan/cloud-run-dezuo-rusabaresu-akitekutiya-30-lian-fa-korenotokihakou-836ef9eb-8f2a-4b87-afef-dfab362b33c3</link>
-        <dc:date>2024-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Passkey Autofill に賭けるマネーフォワード ID - Money Forward Tech Day 2024 (Nov Matake)</title>
-        <link>https://speakerdeck.com/nov/passkey-autofill-nidu-kerumanehuowado-id-money-forward-tech-day-2024</link>
         <dc:date>2024-09-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
