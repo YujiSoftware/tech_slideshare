@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>研究発表を準備する（2022年版） (Takayuki Itoh)</title>
+        <link>https://www.slideshare.net/slideshow/2022-250960325/250960325</link>
+        <dc:date>2024-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Iteratorでページネーションを実現する (sonatard)</title>
         <link>https://speakerdeck.com/sonatard/iterator-for-pagination</link>
         <dc:date>2024-09-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLMマルチエージェントのフローエンジニアリングを支えるLLM Ops (PharmaX（旧YOJO Technologies）開発チーム)</title>
         <link>https://speakerdeck.com/pharma_x_tech/llmmarutiezientonohuroenziniaringuwozhi-erullm-ops</link>
-        <dc:date>2024-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Lambda Web Adapterを活用する新しいサーバーレスの実装パターン (Masashi Tomooka)</title>
-        <link>https://speakerdeck.com/tmokmss/aws-lambda-web-adapterwohuo-yong-suruxin-siisabaresunoshi-zhuang-patan</link>
         <dc:date>2024-09-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
