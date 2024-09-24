@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>(React)コンテナー・プレゼンテーションパターンの設計 (r-sugi)</title>
+        <link>https://speakerdeck.com/rsugi/react-kontenapurezentesiyonpatannoshe-ji</link>
+        <dc:date>2024-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Platform Engineeringのエッセンスを小規模な開発組織に取り入れた事例紹介 (ham)</title>
+        <link>https://speakerdeck.com/ham0215/platform-engineeringnoetusensuwoxiao-gui-mo-nakai-fa-zu-zhi-niqu-riru-retashi-li-shao-jie</link>
+        <dc:date>2024-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>『GRANBLUE FANTASY: Relink』最高の「没入感」を実現するカットシーン制作手法とそれを支える技術 (Cygames)</title>
         <link>https://speakerdeck.com/cygames/granblue-fantasy-relink-zui-gao-no-mei-ru-gan-woshi-xian-surukatutosinzhi-zuo-shou-fa-tosorewozhi-eruji-shu</link>
         <dc:date>2024-09-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ナガシヨミ Windows - Windows Server Update Service (WSUS) 概要 (オータタクヤ,@takuyaot01)</title>
         <link>https://www.docswell.com/s/takuyaot/Z7RR26-wsus</link>
-        <dc:date>2024-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【Serverless Days】マルチクラウド環境における持続的コスト最適化サイクルの実践.pptx (ssuser9987f9)</title>
-        <link>https://www.slideshare.net/slideshow/serverless-days-pptx/271931091</link>
-        <dc:date>2024-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーレスAPIのパフォーマンステストとアプリの未来 (草薙昭彦)</title>
-        <link>https://speakerdeck.com/nagix/sabaresuapinopahuomansutesutotoapurinowei-lai</link>
         <dc:date>2024-09-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
