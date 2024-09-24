@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Iteratorでページネーションを実現する (sonatard)</title>
+        <link>https://speakerdeck.com/sonatard/iterator-for-pagination</link>
+        <dc:date>2024-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>(React)コンテナー・プレゼンテーションパターンの設計 (r-sugi)</title>
         <link>https://speakerdeck.com/rsugi/react-kontenapurezentesiyonpatannoshe-ji</link>
         <dc:date>2024-09-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS Lambda Web Adapterを活用する新しいサーバーレスの実装パターン (Masashi Tomooka)</title>
         <link>https://speakerdeck.com/tmokmss/aws-lambda-web-adapterwohuo-yong-suruxin-siisabaresunoshi-zhuang-patan</link>
-        <dc:date>2024-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ナガシヨミ Windows - Windows Server Update Service (WSUS) 概要 (オータタクヤ,@takuyaot01)</title>
-        <link>https://www.docswell.com/s/takuyaot/Z7RR26-wsus</link>
         <dc:date>2024-09-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
