@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>k6を活用した再現性・拡張性の高い 負荷試験基盤の構築 (Shota Iwami)</title>
+        <link>https://speakerdeck.com/biwashi/k6-protoc-gen-scenario</link>
+        <dc:date>2024-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS CDKを用いたセキュアなCI/CDパイプラインの構築 / Build a secure CI/CD pipeline using AWS CDK (shiro seike)</title>
         <link>https://speakerdeck.com/seike460/cd-pipeline-using-aws-cdk</link>
         <dc:date>2024-09-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ビジネスに必要な全てを担い、 自分の専門性を見つけ出す フルサイクル開発者のあり方@技育祭 秋 / how-find-own-speciality-in-full-cycle (pei0804)</title>
         <link>https://speakerdeck.com/pei0804/how-find-own-speciality-in-full-cycle</link>
-        <dc:date>2024-09-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>1000万DL人を支えるiAEONアプリ：完全停止を防ぐ耐障害性の設計/iAEON app supporting 10 million users (AEON)</title>
-        <link>https://speakerdeck.com/aeonpeople/iaeon-app-supporting-10-million-users-fault-tolerant-design-to-prevent-complete-outages</link>
         <dc:date>2024-09-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
