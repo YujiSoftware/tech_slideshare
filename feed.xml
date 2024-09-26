@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS CDKを用いたセキュアなCI/CDパイプラインの構築 / Build a secure CI/CD pipeline using AWS CDK (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/cd-pipeline-using-aws-cdk</link>
+        <dc:date>2024-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Golangで作るプロトコルスタック</title>
         <link>https://docs.google.com/presentation/d/1XHo-d4FitNDdlYBBRP4Ud91YgDyicl0-HmlYWcQuZEo/preview</link>
         <dc:date>2024-09-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>1000万DL人を支えるiAEONアプリ：完全停止を防ぐ耐障害性の設計/iAEON app supporting 10 million users (AEON)</title>
         <link>https://speakerdeck.com/aeonpeople/iaeon-app-supporting-10-million-users-fault-tolerant-design-to-prevent-complete-outages</link>
-        <dc:date>2024-09-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Streamlit ホスティング基盤をスケールさせる (GO Inc. dev)</title>
-        <link>https://speakerdeck.com/mot_techtalk/streamlit-hosuteinguji-pan-wosukerusaseru</link>
         <dc:date>2024-09-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
