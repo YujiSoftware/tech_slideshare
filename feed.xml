@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Swiftで高速フーリエ変換してオーディオビジュアライザーを作る / iOSDC Japan 2024 Day1 Track D (Kyome (Takuto Nakamura))</title>
+        <link>https://speakerdeck.com/kyome22/iosdc-japan-2024-day1-track-d</link>
+        <dc:date>2024-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>FastAPIでのasync defとdefの使い分け (Takashi Sasaki)</title>
         <link>https://speakerdeck.com/takashi1029/fastapidenoasync-deftodefnoshi-ifen-ke</link>
         <dc:date>2024-09-26T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Difyを活用した「内省支援」エージェント開発の所感  (gmoriki | 森木銀河)</title>
         <link>https://speakerdeck.com/gmoriki/difywohuo-yong-sita-nei-sheng-zhi-yuan-ezientokai-fa-nosuo-gan</link>
         <dc:date>2024-09-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>研究発表を準備する（2022年版） (Takayuki Itoh)</title>
-        <link>https://www.slideshare.net/slideshow/2022-250960325/250960325</link>
-        <dc:date>2024-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
