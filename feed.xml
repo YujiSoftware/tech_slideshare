@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Removing Corepack  (Yosuke Furukawa)</title>
+        <link>https://speakerdeck.com/yosuke_furukawa/removing-corepack</link>
+        <dc:date>2024-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マイグレーションコード自作して File-Based Routing に自動移行！！ ~250 ページの歴史的経緯を添えて~ (Cut0)</title>
         <link>https://speakerdeck.com/cut0/maiguresiyonkodozi-zuo-site-file-based-routing-nizi-dong-yi-xing-250-pezinoli-shi-de-jing-wei-wotian-ete</link>
         <dc:date>2024-09-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Iteratorでページネーションを実現する (sonatard)</title>
         <link>https://speakerdeck.com/sonatard/iterator-for-pagination</link>
-        <dc:date>2024-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(React)コンテナー・プレゼンテーションパターンの設計 (r-sugi)</title>
-        <link>https://speakerdeck.com/rsugi/react-kontenapurezentesiyonpatannoshe-ji</link>
         <dc:date>2024-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
