@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マイグレーションコード自作して File-Based Routing に自動移行！！ ~250 ページの歴史的経緯を添えて~ (Cut0)</title>
+        <link>https://speakerdeck.com/cut0/maiguresiyonkodozi-zuo-site-file-based-routing-nizi-dong-yi-xing-250-pezinoli-shi-de-jing-wei-wotian-ete</link>
+        <dc:date>2024-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FastlyとfalcoでNode.jsレスな Webサーバー構築 : IPTV版 ABEMAアプリインフラ刷新 / Building web server using Fastly and falco without Node.js for IPTV ABEMA app (nodaguti)</title>
+        <link>https://speakerdeck.com/nodaguti/building-web-server-using-fastly-and-falco-without-node-dot-js-for-iptv-abema-app</link>
+        <dc:date>2024-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amebaチョイス立ち上げの裏側 ~依存システムとの闘い~ (Daichi Igarashi)</title>
+        <link>https://speakerdeck.com/daichi_igarashi/amebatiyoisuli-tishang-genoli-ce-yi-cun-sisutemutonodou-i</link>
+        <dc:date>2024-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コードメトリクス計測による課題可視化と品質確保 /  Visualize issues and ensure quality by measuring code metrics (texdeath)</title>
+        <link>https://speakerdeck.com/texdeath/visualize-issues-and-ensure-quality-by-measuring-code-metrics</link>
+        <dc:date>2024-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Go製CLIツールGatling Commanderによる負荷試験実施の自動化 (okmtz)</title>
         <link>https://speakerdeck.com/okmtz/gozhi-cliturugatling-commanderniyorufu-he-shi-yan-shi-shi-nozi-dong-hua</link>
         <dc:date>2024-09-26T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>(React)コンテナー・プレゼンテーションパターンの設計 (r-sugi)</title>
         <link>https://speakerdeck.com/rsugi/react-kontenapurezentesiyonpatannoshe-ji</link>
         <dc:date>2024-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Platform Engineeringのエッセンスを小規模な開発組織に取り入れた事例紹介 (ham)</title>
-        <link>https://speakerdeck.com/ham0215/platform-engineeringnoetusensuwoxiao-gui-mo-nakai-fa-zu-zhi-niqu-riru-retashi-li-shao-jie</link>
-        <dc:date>2024-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『GRANBLUE FANTASY: Relink』最高の「没入感」を実現するカットシーン制作手法とそれを支える技術 (Cygames)</title>
-        <link>https://speakerdeck.com/cygames/granblue-fantasy-relink-zui-gao-no-mei-ru-gan-woshi-xian-surukatutosinzhi-zuo-shou-fa-tosorewozhi-eruji-shu</link>
-        <dc:date>2024-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仕事を前に進めるためのコツ - 判断と決断と共有 / Aim for the goal (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/aim-for-the-goal</link>
-        <dc:date>2024-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Beyond the RuboCop Defaults (Koichi ITO)</title>
-        <link>https://speakerdeck.com/koic/beyond-the-rubocop-defaults</link>
-        <dc:date>2024-09-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
