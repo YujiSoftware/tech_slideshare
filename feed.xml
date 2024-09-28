@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「巨人の肩の上」で自作ライブラリを作る技術 / pyconjp2024 (Shotaro Ishihara)</title>
+        <link>https://speakerdeck.com/upura/pyconjp2024</link>
+        <dc:date>2024-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PythonのUTF8化(PyCon JP 2024)</title>
         <link>https://docs.google.com/presentation/d/1HXmhIMObv1_76OruS6cDARWreARuudachrgOvXXdDho/preview</link>
         <dc:date>2024-09-27T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Golangで作るプロトコルスタック</title>
         <link>https://docs.google.com/presentation/d/1XHo-d4FitNDdlYBBRP4Ud91YgDyicl0-HmlYWcQuZEo/preview</link>
         <dc:date>2024-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>急拡大する開発組織を支えるナレッジワークの E2E テスト基盤 (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
-        <link>https://speakerdeck.com/kworkdev/knowledgework-e2e-testing-platform-to-support-rapidly-expanding-development-organizations</link>
-        <dc:date>2024-09-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
