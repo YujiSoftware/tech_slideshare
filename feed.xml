@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>標準ライブラリの動向とイテレータのパフォーマンス (MakKi)</title>
+        <link>https://speakerdeck.com/makki_d/biao-zhun-raiburarinodong-xiang-toiteretanopahuomansu</link>
+        <dc:date>2024-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>利用者視点で考える、イテレータとの上手な付き合い方 (syumai)</title>
+        <link>https://speakerdeck.com/syumai/li-yong-zhe-shi-dian-dekao-eru-iteretatonoshang-shou-nafu-kihe-ifang</link>
+        <dc:date>2024-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Swiftで高速フーリエ変換してオーディオビジュアライザーを作る / iOSDC Japan 2024 Day1 Track D (Kyome (Takuto Nakamura))</title>
         <link>https://speakerdeck.com/kyome22/iosdc-japan-2024-day1-track-d</link>
         <dc:date>2024-09-27T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Storing Data in Control Flow ~ Goのコルーチン深堀りNight</title>
         <link>https://docs.google.com/presentation/d/1XYwB6nARBhYjwMvCgczB9APC6OlvQVAzQqFRrAT556s/preview</link>
-        <dc:date>2024-09-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMの効率化を支えるアルゴリズム (triwave33)</title>
-        <link>https://speakerdeck.com/taturabe/llmnoxiao-lu-hua-wozhi-eruarugorizumu</link>
-        <dc:date>2024-09-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Difyを活用した「内省支援」エージェント開発の所感  (gmoriki | 森木銀河)</title>
-        <link>https://speakerdeck.com/gmoriki/difywohuo-yong-sita-nei-sheng-zhi-yuan-ezientokai-fa-nosuo-gan</link>
         <dc:date>2024-09-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
