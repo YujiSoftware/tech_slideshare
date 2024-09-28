@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Apple Silicon (arm64) 上で FreeBSD に dug を導入する</title>
+        <link>https://docs.google.com/presentation/d/1jxhXClCdWDqf2enl1Wpe_kXtnozdpc3AHlz3JK_QpAY/preview</link>
+        <dc:date>2024-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>社内Slackで「DNS 浸透」と検索した件</title>
+        <link>https://docs.google.com/presentation/d/1cM0Jfl5UrzBrl0KSTEGCSflrjcoJ2KJQ4KvNRKo5VbA/preview</link>
+        <dc:date>2024-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>個人事業主型開発からの脱却 (bayashi)</title>
+        <link>https://speakerdeck.com/murabayashi/kojinjigyonushi</link>
+        <dc:date>2024-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ORM と向き合う (Yuki Ishikawa)</title>
         <link>https://speakerdeck.com/hoto17296/orm-toxiang-kihe-u</link>
         <dc:date>2024-09-27T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>Amebaチョイス立ち上げの裏側 ~依存システムとの闘い~ (Daichi Igarashi)</title>
         <link>https://speakerdeck.com/daichi_igarashi/amebatiyoisuli-tishang-genoli-ce-yi-cun-sisutemutonodou-i</link>
         <dc:date>2024-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードメトリクス計測による課題可視化と品質確保 /  Visualize issues and ensure quality by measuring code metrics (texdeath)</title>
-        <link>https://speakerdeck.com/texdeath/visualize-issues-and-ensure-quality-by-measuring-code-metrics</link>
-        <dc:date>2024-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go製CLIツールGatling Commanderによる負荷試験実施の自動化 (okmtz)</title>
-        <link>https://speakerdeck.com/okmtz/gozhi-cliturugatling-commanderniyorufu-he-shi-yan-shi-shi-nozi-dong-hua</link>
-        <dc:date>2024-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10Xでのデータ基盤の変遷とこれから: データマネジメントのリアル 〜BtoB企業3社の歩みとこれから〜 (10xinc)</title>
-        <link>https://speakerdeck.com/10xinc/10xdenodetaji-pan-nobian-qian-tokorekara-detamanezimentonoriaru-btobqi-ye-3she-nobu-mitokorekara</link>
-        <dc:date>2024-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
