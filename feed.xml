@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>つよつよリーダーが 抜けたらどうする？ 〜ナビタイムのAgile⽀援組織の変遷〜 (NAVITIME JAPAN)</title>
+        <link>https://speakerdeck.com/navitimejapan/tuyotuyoridaga-ba-ketaradousuru-nabitaimunoagile-yuan-zu-zhi-nobian-qian</link>
+        <dc:date>2024-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「巨人の肩の上」で自作ライブラリを作る技術 / pyconjp2024 (Shotaro Ishihara)</title>
         <link>https://speakerdeck.com/upura/pyconjp2024</link>
         <dc:date>2024-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS CDKを用いたセキュアなCI/CDパイプラインの構築 / Build a secure CI/CD pipeline using AWS CDK (shiro seike)</title>
         <link>https://speakerdeck.com/seike460/cd-pipeline-using-aws-cdk</link>
-        <dc:date>2024-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Golangで作るプロトコルスタック</title>
-        <link>https://docs.google.com/presentation/d/1XHo-d4FitNDdlYBBRP4Ud91YgDyicl0-HmlYWcQuZEo/preview</link>
         <dc:date>2024-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
