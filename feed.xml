@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PythonのUTF8化(PyCon JP 2024)</title>
+        <link>https://docs.google.com/presentation/d/1HXmhIMObv1_76OruS6cDARWreARuudachrgOvXXdDho/preview</link>
+        <dc:date>2024-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloud Adoption Frameworkにみる組織とクラウド導入戦略(縮小版) (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/cloud-adoption-frameworknimiruzu-zhi-tokuraudodao-ru-zhan-lue-suo-xiao-ban</link>
         <dc:date>2024-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>急拡大する開発組織を支えるナレッジワークの E2E テスト基盤 (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
         <link>https://speakerdeck.com/kworkdev/knowledgework-e2e-testing-platform-to-support-rapidly-expanding-development-organizations</link>
-        <dc:date>2024-09-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RemixでVersion skewに立ち向かう (chimame)</title>
-        <link>https://speakerdeck.com/chimame/remixdeversion-skewnili-tixiang-kau</link>
         <dc:date>2024-09-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
