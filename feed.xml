@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LINE10/26</title>
+        <link>https://docs.google.com/presentation/d/1Gc4wjUomeeCq190Bu4j-KhWjrWNa28QDm2_q0gZsB6Q/preview</link>
+        <dc:date>2024-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Apple Silicon (arm64) 上で FreeBSD に dug を導入する</title>
         <link>https://docs.google.com/presentation/d/1jxhXClCdWDqf2enl1Wpe_kXtnozdpc3AHlz3JK_QpAY/preview</link>
         <dc:date>2024-09-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>FastlyとfalcoでNode.jsレスな Webサーバー構築 : IPTV版 ABEMAアプリインフラ刷新 / Building web server using Fastly and falco without Node.js for IPTV ABEMA app (nodaguti)</title>
         <link>https://speakerdeck.com/nodaguti/building-web-server-using-fastly-and-falco-without-node-dot-js-for-iptv-abema-app</link>
-        <dc:date>2024-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amebaチョイス立ち上げの裏側 ~依存システムとの闘い~ (Daichi Igarashi)</title>
-        <link>https://speakerdeck.com/daichi_igarashi/amebatiyoisuli-tishang-genoli-ce-yi-cun-sisutemutonodou-i</link>
         <dc:date>2024-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
