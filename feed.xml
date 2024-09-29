@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>App Router 悲喜交々 (Yosuke Kurami)</title>
+        <link>https://speakerdeck.com/quramy/app-router-bei-xi-jiao</link>
+        <dc:date>2024-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Android15（SDK35）から強制される、Edge-to-Edgeに対応しなければならない (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20240925-1</link>
+        <dc:date>2024-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Remix × Cloudflare Pages × Sentry 奮闘記 / remix-pages-sentry (Yukiya Nakagawa)</title>
+        <link>https://speakerdeck.com/nkzn/remix-pages-sentry</link>
+        <dc:date>2024-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BLEA v3.0.0の新しいベストプラクティスを取り入れた効率的なAWS CDK開発/jawsug_cdk16 (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
+        <link>https://speakerdeck.com/mhrtech/jawsug-cdk16</link>
+        <dc:date>2024-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CDKとLambda Aliasで実現する、SQS+Lambdaの安全なリリース手法 / SQS+Lambda release method with CDK and Lambda Alias (コドモン開発チーム)</title>
+        <link>https://speakerdeck.com/codmoninc/sqs-plus-lambda-release-method-with-cdk-and-lambda-alias</link>
+        <dc:date>2024-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Sansanにおける全社横断データ分析基盤の挑戦と未来 / Challenges and Future of Cross-Organizational Data Analytics Platform at Sansan (Sansan R&amp;D)</title>
+        <link>https://speakerdeck.com/sansan_randd/challenges-and-future-of-cross-organizational-data-analytics-platform-at-sansan</link>
+        <dc:date>2024-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CDK Pipelinesをざっくり理解する (Makky12)</title>
+        <link>https://speakerdeck.com/smt7174/cdk-pipelineswozatukurili-jie-suru</link>
+        <dc:date>2024-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LINE10/26</title>
         <link>https://docs.google.com/presentation/d/1Gc4wjUomeeCq190Bu4j-KhWjrWNa28QDm2_q0gZsB6Q/preview</link>
         <dc:date>2024-09-28T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>Rustを活用したPythonライブラリの開発 (PyCon JP 2024)</title>
         <link>https://docs.google.com/presentation/d/1XJvbkwfhVvmOb-PAOr6paHhAvo6LC0GGRen-uM2rhBw/pub</link>
         <dc:date>2024-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>標準ライブラリの動向とイテレータのパフォーマンス (MakKi)</title>
-        <link>https://speakerdeck.com/makki_d/biao-zhun-raiburarinodong-xiang-toiteretanopahuomansu</link>
-        <dc:date>2024-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>利用者視点で考える、イテレータとの上手な付き合い方 (syumai)</title>
-        <link>https://speakerdeck.com/syumai/li-yong-zhe-shi-dian-dekao-eru-iteretatonoshang-shou-nafu-kihe-ifang</link>
-        <dc:date>2024-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Swiftで高速フーリエ変換してオーディオビジュアライザーを作る / iOSDC Japan 2024 Day1 Track D (Kyome (Takuto Nakamura))</title>
-        <link>https://speakerdeck.com/kyome22/iosdc-japan-2024-day1-track-d</link>
-        <dc:date>2024-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FastAPIでのasync defとdefの使い分け (Takashi Sasaki)</title>
-        <link>https://speakerdeck.com/takashi1029/fastapidenoasync-deftodefnoshi-ifen-ke</link>
-        <dc:date>2024-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Removing Corepack  (Yosuke Furukawa)</title>
-        <link>https://speakerdeck.com/yosuke_furukawa/removing-corepack</link>
-        <dc:date>2024-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マイグレーションコード自作して File-Based Routing に自動移行！！ ~250 ページの歴史的経緯を添えて~ (Cut0)</title>
-        <link>https://speakerdeck.com/cut0/maiguresiyonkodozi-zuo-site-file-based-routing-nizi-dong-yi-xing-250-pezinoli-shi-de-jing-wei-wotian-ete</link>
-        <dc:date>2024-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FastlyとfalcoでNode.jsレスな Webサーバー構築 : IPTV版 ABEMAアプリインフラ刷新 / Building web server using Fastly and falco without Node.js for IPTV ABEMA app (nodaguti)</title>
-        <link>https://speakerdeck.com/nodaguti/building-web-server-using-fastly-and-falco-without-node-dot-js-for-iptv-abema-app</link>
-        <dc:date>2024-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
