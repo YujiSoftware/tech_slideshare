@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データサイエンスのフルサイクル開発を実現する機械学習パイプライン / Machine-learning-pipeline-realize-full-cycle-development-in-data-science (CARTA Engineering)</title>
+        <link>https://speakerdeck.com/carta_engineering/machine-learning-pipeline-realize-full-cycle-development-in-data-science</link>
+        <dc:date>2024-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rubyはなぜ「たのしい」のか？ / Why is Ruby a programmers' best friend? #tqrk15 (Shu OGAWARA)</title>
+        <link>https://speakerdeck.com/expajp/why-is-ruby-a-programmers-best-friend</link>
+        <dc:date>2024-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TokyuRuby会議15発表資料「omotesando.rbを配信する技術」 (Toshio Maki,@Kirika_K2)</title>
         <link>https://www.docswell.com/s/kirika/ZR2QQ9-2024-09-29-221133</link>
         <dc:date>2024-09-29T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>個人事業主型開発からの脱却 (bayashi)</title>
         <link>https://speakerdeck.com/murabayashi/kojinjigyonushi</link>
         <dc:date>2024-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ORM と向き合う (Yuki Ishikawa)</title>
-        <link>https://speakerdeck.com/hoto17296/orm-toxiang-kihe-u</link>
-        <dc:date>2024-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WEBアプリケーションにおけるAWS Lambdaを用いた大規模な非同期処理の実践 (delhi09)</title>
-        <link>https://speakerdeck.com/delhi09/lambda-sqs-prod-knowledge</link>
-        <dc:date>2024-09-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
