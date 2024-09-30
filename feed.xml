@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>タイミーにおけるデータの利用シーンと データ基盤の挑戦 (Masahiro ISHII)</title>
+        <link>https://speakerdeck.com/marufeuille/taiminiokerudetanoli-yong-sinto-detaji-pan-notiao-zhan</link>
+        <dc:date>2024-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>求人検索をElasticsearchにしたら 速度２倍速くなった！！ (Kazuki Tsunemi)</title>
         <link>https://speakerdeck.com/ksilverwall/elasticsearchcommunityeventinda-ban-nozi-liao</link>
         <dc:date>2024-09-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Sansanにおける全社横断データ分析基盤の挑戦と未来 / Challenges and Future of Cross-Organizational Data Analytics Platform at Sansan (Sansan R&amp;D)</title>
         <link>https://speakerdeck.com/sansan_randd/challenges-and-future-of-cross-organizational-data-analytics-platform-at-sansan</link>
-        <dc:date>2024-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDK Pipelinesをざっくり理解する (Makky12)</title>
-        <link>https://speakerdeck.com/smt7174/cdk-pipelineswozatukurili-jie-suru</link>
         <dc:date>2024-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
