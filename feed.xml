@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>求人検索をElasticsearchにしたら 速度２倍速くなった！！ (Kazuki Tsunemi)</title>
+        <link>https://speakerdeck.com/ksilverwall/elasticsearchcommunityeventinda-ban-nozi-liao</link>
+        <dc:date>2024-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby in Ruby - Building an AOT Compiler with Ruby (MATSUMOTO Katsuyoshi)</title>
         <link>https://speakerdeck.com/katsyoshi/ruby-in-ruby-building-an-aot-compiler-with-ruby</link>
         <dc:date>2024-09-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CDK Pipelinesをざっくり理解する (Makky12)</title>
         <link>https://speakerdeck.com/smt7174/cdk-pipelineswozatukurili-jie-suru</link>
-        <dc:date>2024-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINE10/26</title>
-        <link>https://docs.google.com/presentation/d/1Gc4wjUomeeCq190Bu4j-KhWjrWNa28QDm2_q0gZsB6Q/preview</link>
         <dc:date>2024-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
