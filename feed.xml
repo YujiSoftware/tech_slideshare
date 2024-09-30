@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>5年分のツケを一気に払った話 (Soogie)</title>
+        <link>https://speakerdeck.com/soogie/5nian-fen-notukewo-qi-nifu-tutahua</link>
+        <dc:date>2024-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Growth Grand Theory - Dos and Donts (Hikaru Kashida)</title>
         <link>https://speakerdeck.com/hik0107/growth-grand-theory-dos-and-donts</link>
         <dc:date>2024-09-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Apple Silicon (arm64) 上で FreeBSD に dug を導入する</title>
         <link>https://docs.google.com/presentation/d/1jxhXClCdWDqf2enl1Wpe_kXtnozdpc3AHlz3JK_QpAY/preview</link>
-        <dc:date>2024-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社内Slackで「DNS 浸透」と検索した件</title>
-        <link>https://docs.google.com/presentation/d/1cM0Jfl5UrzBrl0KSTEGCSflrjcoJ2KJQ4KvNRKo5VbA/preview</link>
         <dc:date>2024-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
