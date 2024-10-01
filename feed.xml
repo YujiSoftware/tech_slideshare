@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>My Generation 年配者がこの先生きのこるには/My Generation How elder engineers can survive (Hiromu Shioya)</title>
+        <link>https://speakerdeck.com/kwappa/my-generation-how-elder-engineers-can-survive</link>
+        <dc:date>2024-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スモールスタート、不都合な真実 〜 耳当たりの良い言葉に現場が振り回されないために/20240930-ssmjp-small-start (opelab)</title>
         <link>https://speakerdeck.com/opelab/20240930-ssmjp-small-start</link>
         <dc:date>2024-09-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Remix × Cloudflare Pages × Sentry 奮闘記 / remix-pages-sentry (Yukiya Nakagawa)</title>
         <link>https://speakerdeck.com/nkzn/remix-pages-sentry</link>
-        <dc:date>2024-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BLEA v3.0.0の新しいベストプラクティスを取り入れた効率的なAWS CDK開発/jawsug_cdk16 (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
-        <link>https://speakerdeck.com/mhrtech/jawsug-cdk16</link>
         <dc:date>2024-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
