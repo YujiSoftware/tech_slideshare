@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンドの単体テスト (みき)</title>
+        <link>https://speakerdeck.com/takecantik/hurontoendonodan-ti-tesuto</link>
+        <dc:date>2024-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>compilerOptions、全部読んだ (Hiroyuki ANAI)</title>
+        <link>https://speakerdeck.com/pirosikick/compileroptions-quan-bu-du-nda</link>
+        <dc:date>2024-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>標準最高！標準はださくないぞ！ at fukuoka.ts #1 (yoiwamoto)</title>
+        <link>https://speakerdeck.com/yoiwamoto/biao-zhun-zui-gao-biao-zhun-hadasakunaizo-at-fukuoka-dot-ts-number-1</link>
+        <dc:date>2024-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cancel Next.js Page Navigation: Full Throttle (ypresto)</title>
+        <link>https://speakerdeck.com/ypresto/cancel-next-js-page-navigation-full-throttle</link>
+        <dc:date>2024-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby on Rails と Django を比較してみる (小林ノエル,@free_world21)</title>
         <link>https://www.docswell.com/s/free_world21/KJ499V-2024-09-30-120609</link>
         <dc:date>2024-09-30T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>PHPを書く理由、PHPを書いていて良い理由 / Reasons to write PHP and why it is good to write PHP (shiro seike)</title>
         <link>https://speakerdeck.com/seike460/reasons-to-write-php-and-why-it-is-good-to-write-php</link>
-        <dc:date>2024-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践Dash - 手を抜きながら本気で作るデータApplicationの基本と応用 / Dash for Python and Baseball (Shinichi Nakagawa)</title>
-        <link>https://speakerdeck.com/shinyorke/dash-for-python-and-baseball</link>
-        <dc:date>2024-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonによるイベントソーシングへの挑戦と現状に対する考察 / Challenging Event Sourcing with Python and Reflections on the Current State (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/challenging-event-sourcing-with-python-and-reflections-on-the-current-state</link>
-        <dc:date>2024-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドメインと向き合う - 旅行予約編 (hidenorigoto)</title>
-        <link>https://speakerdeck.com/hidenorigoto/domeintoxiang-kihe-u-lu-xing-yu-yue-bian</link>
-        <dc:date>2024-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>App Router 悲喜交々 (Yosuke Kurami)</title>
-        <link>https://speakerdeck.com/quramy/app-router-bei-xi-jiao</link>
         <dc:date>2024-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
