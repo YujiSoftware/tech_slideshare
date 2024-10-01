@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スモールスタート、不都合な真実 〜 耳当たりの良い言葉に現場が振り回されないために/20240930-ssmjp-small-start (opelab)</title>
+        <link>https://speakerdeck.com/opelab/20240930-ssmjp-small-start</link>
+        <dc:date>2024-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Infrastructure as Code でセキュリティを楽にしよう！ (Kenji Kono)</title>
+        <link>https://speakerdeck.com/konokenj/simplify-security-with-iac</link>
+        <dc:date>2024-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>タイミーにおけるデータの利用シーンと データ基盤の挑戦 (Masahiro ISHII)</title>
         <link>https://speakerdeck.com/marufeuille/taiminiokerudetanoli-yong-sinto-detaji-pan-notiao-zhan</link>
         <dc:date>2024-09-29T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>BLEA v3.0.0の新しいベストプラクティスを取り入れた効率的なAWS CDK開発/jawsug_cdk16 (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
         <link>https://speakerdeck.com/mhrtech/jawsug-cdk16</link>
-        <dc:date>2024-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDKとLambda Aliasで実現する、SQS+Lambdaの安全なリリース手法 / SQS+Lambda release method with CDK and Lambda Alias (コドモン開発チーム)</title>
-        <link>https://speakerdeck.com/codmoninc/sqs-plus-lambda-release-method-with-cdk-and-lambda-alias</link>
-        <dc:date>2024-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sansanにおける全社横断データ分析基盤の挑戦と未来 / Challenges and Future of Cross-Organizational Data Analytics Platform at Sansan (Sansan R&amp;D)</title>
-        <link>https://speakerdeck.com/sansan_randd/challenges-and-future-of-cross-organizational-data-analytics-platform-at-sansan</link>
         <dc:date>2024-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
