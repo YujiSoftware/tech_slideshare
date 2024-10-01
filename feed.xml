@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby on Rails と Django を比較してみる (小林ノエル,@free_world21)</title>
+        <link>https://www.docswell.com/s/free_world21/KJ499V-2024-09-30-120609</link>
+        <dc:date>2024-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TokyuRuby会議15: Rubyistのみんなに 私の推しのDuckDBを 紹介させてください</title>
         <link>https://docs.google.com/presentation/d/1Px_Nz0w6B7RI-K5T-65JVHUFPWn7Mjll4rC1rv2ZIf0/preview</link>
         <dc:date>2024-09-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>App Router 悲喜交々 (Yosuke Kurami)</title>
         <link>https://speakerdeck.com/quramy/app-router-bei-xi-jiao</link>
-        <dc:date>2024-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Android15（SDK35）から強制される、Edge-to-Edgeに対応しなければならない (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20240925-1</link>
         <dc:date>2024-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
