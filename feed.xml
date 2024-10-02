@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>tsconfig.jsonの最近の新機能　ファイルパス編 (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/tsconfig-dot-jsonnozui-jin-noxin-ji-neng-huairupasubian</link>
+        <dc:date>2024-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発フェーズでのオブザーバビリティ活用やプロファイルのススメ / getting-started-profile-o11y (逆井（さかさい）)</title>
         <link>https://speakerdeck.com/k6s4i53rx/getting-started-profile-o11y</link>
         <dc:date>2024-10-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データサイエンスのフルサイクル開発を実現する機械学習パイプライン / Machine-learning-pipeline-realize-full-cycle-development-in-data-science (CARTA Engineering)</title>
         <link>https://speakerdeck.com/carta_engineering/machine-learning-pipeline-realize-full-cycle-development-in-data-science</link>
-        <dc:date>2024-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rubyはなぜ「たのしい」のか？ / Why is Ruby a programmers' best friend? #tqrk15 (Shu OGAWARA)</title>
-        <link>https://speakerdeck.com/expajp/why-is-ruby-a-programmers-best-friend</link>
         <dc:date>2024-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
