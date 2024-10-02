@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発フェーズでのオブザーバビリティ活用やプロファイルのススメ / getting-started-profile-o11y (逆井（さかさい）)</title>
+        <link>https://speakerdeck.com/k6s4i53rx/getting-started-profile-o11y</link>
+        <dc:date>2024-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「実践！難読化ガイド」事前予告編 (みっちゃん)</title>
         <link>https://speakerdeck.com/mitchan/shi-jian-nan-du-hua-gaido-shi-qian-yu-gao-bian</link>
         <dc:date>2024-10-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Rubyはなぜ「たのしい」のか？ / Why is Ruby a programmers' best friend? #tqrk15 (Shu OGAWARA)</title>
         <link>https://speakerdeck.com/expajp/why-is-ruby-a-programmers-best-friend</link>
-        <dc:date>2024-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TokyuRuby会議15発表資料「omotesando.rbを配信する技術」 (Toshio Maki,@Kirika_K2)</title>
-        <link>https://www.docswell.com/s/kirika/ZR2QQ9-2024-09-29-221133</link>
         <dc:date>2024-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
