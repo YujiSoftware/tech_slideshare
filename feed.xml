@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>文化が生産性を作る (jimpei)</title>
+        <link>https://speakerdeck.com/jimpei/wen-hua-gasheng-chan-xing-wozuo-ru</link>
+        <dc:date>2024-10-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>HashiCorpと歩むPlatform Engineeringジャーニー/the-journey-of-platform-engineering-with-hashicorp (AEON)</title>
         <link>https://speakerdeck.com/aeonpeople/the-journey-of-platform-engineering-with-hashicorp</link>
         <dc:date>2024-10-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>タイミーにおけるデータの利用シーンと データ基盤の挑戦 (Masahiro ISHII)</title>
         <link>https://speakerdeck.com/marufeuille/taiminiokerudetanoli-yong-sinto-detaji-pan-notiao-zhan</link>
-        <dc:date>2024-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>求人検索をElasticsearchにしたら 速度２倍速くなった！！ (Kazuki Tsunemi)</title>
-        <link>https://speakerdeck.com/ksilverwall/elasticsearchcommunityeventinda-ban-nozi-liao</link>
         <dc:date>2024-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
