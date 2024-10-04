@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>expo-routerで(Deep|Web) Link対応 (Shinnosuke Yamamoto)</title>
+        <link>https://speakerdeck.com/mrtry/expo-routerde-deep-web-linkdui-ying</link>
+        <dc:date>2024-10-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>文化が生産性を作る (jimpei)</title>
         <link>https://speakerdeck.com/jimpei/wen-hua-gasheng-chan-xing-wozuo-ru</link>
         <dc:date>2024-10-03T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Infrastructure as Code でセキュリティを楽にしよう！ (Kenji Kono)</title>
         <link>https://speakerdeck.com/konokenj/simplify-security-with-iac</link>
         <dc:date>2024-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>タイミーにおけるデータの利用シーンと データ基盤の挑戦 (Masahiro ISHII)</title>
-        <link>https://speakerdeck.com/marufeuille/taiminiokerudetanoli-yong-sinto-detaji-pan-notiao-zhan</link>
-        <dc:date>2024-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
