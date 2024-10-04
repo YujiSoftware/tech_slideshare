@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>New Relicを活用したシステム監視の強化とオブザーバビリティ向上 (sugoto911)</title>
+        <link>https://speakerdeck.com/sugoto911/new-relicwohuo-yong-sitasisutemujian-shi-noqiang-hua-toobuzababiriteixiang-shang</link>
+        <dc:date>2024-10-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS Lambdaで実現するスケーラブルで低コストなWebサービス構築/YAPC::Hakodate2024 (FUJIWARA Shunichiro)</title>
+        <link>https://speakerdeck.com/fujiwara3/yapc-hakodate2024</link>
+        <dc:date>2024-10-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>expo-routerで(Deep|Web) Link対応 (Shinnosuke Yamamoto)</title>
         <link>https://speakerdeck.com/mrtry/expo-routerde-deep-web-linkdui-ying</link>
         <dc:date>2024-10-03T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>My Generation 年配者がこの先生きのこるには/My Generation How elder engineers can survive (Hiromu Shioya)</title>
         <link>https://speakerdeck.com/kwappa/my-generation-how-elder-engineers-can-survive</link>
-        <dc:date>2024-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スモールスタート、不都合な真実 〜 耳当たりの良い言葉に現場が振り回されないために/20240930-ssmjp-small-start (opelab)</title>
-        <link>https://speakerdeck.com/opelab/20240930-ssmjp-small-start</link>
-        <dc:date>2024-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Infrastructure as Code でセキュリティを楽にしよう！ (Kenji Kono)</title>
-        <link>https://speakerdeck.com/konokenj/simplify-security-with-iac</link>
         <dc:date>2024-09-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
