@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【インフラエンジニアbooks】30分でわかる「AWS継続的セキュリティ実践ガイド」 (Hisashi Hibino)</title>
+        <link>https://speakerdeck.com/hssh2_bin/inhuraensiniabooks-30fen-tewakaru-awsji-sok-de-sekiyuriteishi-jian-kaito</link>
+        <dc:date>2024-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>入門 バックアップ (ryuichi1208)</title>
+        <link>https://speakerdeck.com/ryuichi1208/ru-men-batukuatupu</link>
+        <dc:date>2024-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>U理論で深まる匠Method のモデリングプロセス / the modeling process of the Takumi Method deepened by theory-U (haru860)</title>
         <link>https://speakerdeck.com/haru860/the-modeling-process-of-the-takumi-method-deepened-by-theory-u</link>
         <dc:date>2024-10-03T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Cancel Next.js Page Navigation: Full Throttle (ypresto)</title>
         <link>https://speakerdeck.com/ypresto/cancel-next-js-page-navigation-full-throttle</link>
         <dc:date>2024-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby on Rails と Django を比較してみる (小林ノエル,@free_world21)</title>
-        <link>https://www.docswell.com/s/free_world21/KJ499V-2024-09-30-120609</link>
-        <dc:date>2024-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TokyuRuby会議15: Rubyistのみんなに 私の推しのDuckDBを 紹介させてください</title>
-        <link>https://docs.google.com/presentation/d/1Px_Nz0w6B7RI-K5T-65JVHUFPWn7Mjll4rC1rv2ZIf0/preview</link>
-        <dc:date>2024-09-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
