@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LT1_PVEのクラスタ通信（Corosync）について考えてみました.pptx</title>
+        <link>https://docs.google.com/presentation/d/1jz_aUHUH53RwoRBBBspebOgTuWavnGEf/preview</link>
+        <dc:date>2024-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>普通の Web エンジニアのための様相論理入門 #yapcjapan / YAPC Hakodate 2024 (y_taka_23)</title>
         <link>https://speakerdeck.com/ytaka23/yapc-hakodate-2024</link>
         <dc:date>2024-10-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS Lambdaで実現するスケーラブルで低コストなWebサービス構築/YAPC::Hakodate2024 (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/yapc-hakodate2024</link>
-        <dc:date>2024-10-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>expo-routerで(Deep|Web) Link対応 (Shinnosuke Yamamoto)</title>
-        <link>https://speakerdeck.com/mrtry/expo-routerde-deep-web-linkdui-ying</link>
         <dc:date>2024-10-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
