@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ガバメントクラウド開発と変化と成長する組織 / Organizational change and growth in developing a government cloud (kazeburo)</title>
+        <link>https://speakerdeck.com/kazeburo/organizational-change-and-growth-in-developing-a-government-cloud</link>
+        <dc:date>2024-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIが介在するサービスのUX設計で 考えるべきポイントとは (PKSHA Technology)</title>
         <link>https://speakerdeck.com/pkshadeck/aikajie-zai-surusahisunouxshe-ji-te-kao-eruhekihointotoha</link>
         <dc:date>2024-10-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>フロントエンドの単体テスト (みき)</title>
         <link>https://speakerdeck.com/takecantik/hurontoendonodan-ti-tesuto</link>
-        <dc:date>2024-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>compilerOptions、全部読んだ (Hiroyuki ANAI)</title>
-        <link>https://speakerdeck.com/pirosikick/compileroptions-quan-bu-du-nda</link>
         <dc:date>2024-10-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
