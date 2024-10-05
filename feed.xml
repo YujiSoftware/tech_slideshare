@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Causal Impactを用いたLINE Pay UIの効果検証とABテスト実施への貢献 (LY Corporation Tech)</title>
+        <link>https://speakerdeck.com/lycorptech_jp/20240927a</link>
+        <dc:date>2024-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>15 JSON serializers for Ruby (Masafumi Okura)</title>
+        <link>https://speakerdeck.com/okuramasafumi/15-json-serializers-for-ruby</link>
+        <dc:date>2024-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DenoでもViteしたい！インポートパスのエイリアスを指定してラクラクアプリ開発 (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20241002-cloudsign-vuefes-tskaigi-lt</link>
+        <dc:date>2024-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モジュラモノリス、その前に / Modular monolith, before that (Shintani Teppei)</title>
+        <link>https://speakerdeck.com/euglena1215/modular-monolith-before-that</link>
+        <dc:date>2024-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>学生の時に開催したPerl入学式をきっかけにエンジニアが組織に馴染むために勉強会を主催や仲間と参加して職能間の境界を越えていく (uutan1108)</title>
+        <link>https://speakerdeck.com/ohmori_yusuke/xue-sheng-noshi-nikai-cui-sitaperlru-xue-shi-wokitukakenienziniagazu-zhi-nixun-ran-mutamenimian-qiang-hui-wozhu-cui-yazhong-jian-tocan-jia-sitezhi-neng-jian-nojing-jie-woyue-eteiku</link>
+        <dc:date>2024-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クレジットカードを製造する技術 (Yuta Horii)</title>
         <link>https://speakerdeck.com/yutadayo/technology-for-manufacturing-credit-card</link>
         <dc:date>2024-10-04T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>HashiCorpと歩むPlatform Engineeringジャーニー/the-journey-of-platform-engineering-with-hashicorp (AEON)</title>
         <link>https://speakerdeck.com/aeonpeople/the-journey-of-platform-engineering-with-hashicorp</link>
         <dc:date>2024-10-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The NOPs You Don't Know (herumi)</title>
-        <link>https://speakerdeck.com/herumi/the-nops-you-dont-know</link>
-        <dc:date>2024-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人開発で使ってるやつを紹介する回 (yohfee)</title>
-        <link>https://speakerdeck.com/yohfee/ge-ren-kai-fa-deshi-tuteruyatuwoshao-jie-suruhui</link>
-        <dc:date>2024-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「PHPカンファレンス小田原」がつくる世界 (asumikam)</title>
-        <link>https://speakerdeck.com/asumikam/devreljp-phpcon-odawara</link>
-        <dc:date>2024-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>tsconfig.jsonの最近の新機能　ファイルパス編 (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/tsconfig-dot-jsonnozui-jin-noxin-ji-neng-huairupasubian</link>
-        <dc:date>2024-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発フェーズでのオブザーバビリティ活用やプロファイルのススメ / getting-started-profile-o11y (逆井（さかさい）)</title>
-        <link>https://speakerdeck.com/k6s4i53rx/getting-started-profile-o11y</link>
-        <dc:date>2024-10-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
