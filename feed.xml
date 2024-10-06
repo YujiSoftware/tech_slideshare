@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>YAPC::Hakodateの映像記録を支える技術 (godan)</title>
+        <link>https://speakerdeck.com/godan/yapc-hakodatenoying-xiang-ji-lu-wozhi-eruji-shu</link>
+        <dc:date>2024-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>デジタルIDウォレットが切り開くHigh Assurance Identity Proofingの未来 (kokukuma)</title>
         <link>https://speakerdeck.com/kokukuma/dezitaruiduoretutogaqie-rikai-kuhigh-assurance-identity-proofingnowei-lai</link>
         <dc:date>2024-10-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【インフラエンジニアbooks】30分でわかる「AWS継続的セキュリティ実践ガイド」 (Hisashi Hibino)</title>
         <link>https://speakerdeck.com/hssh2_bin/inhuraensiniabooks-30fen-tewakaru-awsji-sok-de-sekiyuriteishi-jian-kaito</link>
-        <dc:date>2024-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入門 バックアップ (ryuichi1208)</title>
-        <link>https://speakerdeck.com/ryuichi1208/ru-men-batukuatupu</link>
         <dc:date>2024-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
