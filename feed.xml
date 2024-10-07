@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Develop to Survive - YAPC::Hakodate 2024 Keynote (moznion)</title>
+        <link>https://speakerdeck.com/moznion/develop-to-survive-yapc-hakodate-2024-keynote</link>
+        <dc:date>2024-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>これはPerl？　それともRuby？ クイズ〜〜〜〜〜！！！- Perl or Ruby Quiz (moznion)</title>
+        <link>https://speakerdeck.com/moznion/korehaperl-soretomoruby-kuizu-perl-or-ruby-quiz</link>
+        <dc:date>2024-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>perl for shell, awk and sed programmers (mackee)</title>
         <link>https://speakerdeck.com/mackee/perl-for-shell-awk-and-sed-programmers</link>
         <dc:date>2024-10-06T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>クレジットカードを製造する技術 (Yuta Horii)</title>
         <link>https://speakerdeck.com/yutadayo/technology-for-manufacturing-credit-card</link>
-        <dc:date>2024-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webセキュリティのあるきかた (akiym)</title>
-        <link>https://speakerdeck.com/akiym/websekiyuriteinoarukikata</link>
-        <dc:date>2024-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドの現在地とこれから (koba04)</title>
-        <link>https://speakerdeck.com/koba04/hurontoentonoxian-zai-di-tokorekara</link>
         <dc:date>2024-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
