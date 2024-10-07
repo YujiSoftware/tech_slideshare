@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>perl for shell, awk and sed programmers (mackee)</title>
+        <link>https://speakerdeck.com/mackee/perl-for-shell-awk-and-sed-programmers</link>
+        <dc:date>2024-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Perlで始めるeBPF:  自作Loaderの作り方 / Getting started with eBPF in Perl_How to create your own Loader (Takeru Hayasaka)</title>
         <link>https://speakerdeck.com/takehaya/getting-started-with-ebpf-in-perl-how-to-create-your-own-loader</link>
         <dc:date>2024-10-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>フロントエンドの現在地とこれから (koba04)</title>
         <link>https://speakerdeck.com/koba04/hurontoentonoxian-zai-di-tokorekara</link>
-        <dc:date>2024-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud Adoption Framework にみる組織とクラウド導入戦略 (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/cloud-adoption-framework-nimiruzu-zhi-tokuraudodao-ru-zhan-lue</link>
         <dc:date>2024-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
