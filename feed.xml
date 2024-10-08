@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>10 min de Scrum 2021 (Yasunobu Kawaguchi)</title>
+        <link>https://speakerdeck.com/kawaguti/10-min-de-scrum-2021</link>
+        <dc:date>2024-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2024-10-06 YAPC函館市電LT / 次の駅につくまでに心をこめて精一杯SvelteKitを褒める</title>
         <link>https://docs.google.com/presentation/d/1tzO8UbnCBGPM2zfyKDB8Q8ve_fqGJQsKhSi-y79GMeo/preview</link>
         <dc:date>2024-10-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Causal Impactを用いたLINE Pay UIの効果検証とABテスト実施への貢献 (LY Corporation Tech)</title>
         <link>https://speakerdeck.com/lycorptech_jp/20240927a</link>
-        <dc:date>2024-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>15 JSON serializers for Ruby (Masafumi Okura)</title>
-        <link>https://speakerdeck.com/okuramasafumi/15-json-serializers-for-ruby</link>
         <dc:date>2024-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
