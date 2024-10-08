@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Language Evolution</title>
+        <link>https://docs.google.com/presentation/d/1ylROTu3N6MyHzNzWJXQAc7Bo1O0FHO3lNKfQMfPOA4o/preview</link>
+        <dc:date>2024-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ADRを運用して3年経った僕らの現在地 (Takafumi ONAKA)</title>
         <link>https://speakerdeck.com/onk/2024-10-05-adr-in-3-years</link>
         <dc:date>2024-10-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DenoでもViteしたい！インポートパスのエイリアスを指定してラクラクアプリ開発 (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20241002-cloudsign-vuefes-tskaigi-lt</link>
-        <dc:date>2024-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モジュラモノリス、その前に / Modular monolith, before that (Shintani Teppei)</title>
-        <link>https://speakerdeck.com/euglena1215/modular-monolith-before-that</link>
         <dc:date>2024-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
