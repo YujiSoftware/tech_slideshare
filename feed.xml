@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ADRを運用して3年経った僕らの現在地 (Takafumi ONAKA)</title>
+        <link>https://speakerdeck.com/onk/2024-10-05-adr-in-3-years</link>
+        <dc:date>2024-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コード✕AIーソフトウェア開発者のための生成AI実践入門~ (Yuki Hattori)</title>
         <link>https://speakerdeck.com/yuhattor/kodoaisohutoueakai-fa-zhe-notamenosheng-cheng-aishi-jian-ru-men-forkwell-library</link>
         <dc:date>2024-10-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>モジュラモノリス、その前に / Modular monolith, before that (Shintani Teppei)</title>
         <link>https://speakerdeck.com/euglena1215/modular-monolith-before-that</link>
-        <dc:date>2024-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>学生の時に開催したPerl入学式をきっかけにエンジニアが組織に馴染むために勉強会を主催や仲間と参加して職能間の境界を越えていく (uutan1108)</title>
-        <link>https://speakerdeck.com/ohmori_yusuke/xue-sheng-noshi-nikai-cui-sitaperlru-xue-shi-wokitukakenienziniagazu-zhi-nixun-ran-mutamenimian-qiang-hui-wozhu-cui-yazhong-jian-tocan-jia-sitezhi-neng-jian-nojing-jie-woyue-eteiku</link>
         <dc:date>2024-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
