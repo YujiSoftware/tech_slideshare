@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>new engineering 2024 our remaining work (Fujimura Daisuke)</title>
+        <link>https://speakerdeck.com/fujimura/new-engineering-2024-our-remaining-work</link>
+        <dc:date>2024-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>10 min de Scrum 2021 (Yasunobu Kawaguchi)</title>
         <link>https://speakerdeck.com/kawaguti/10-min-de-scrum-2021</link>
         <dc:date>2024-10-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CloudNative Meets WebAssembly: Exploring Wasm's Potential to Replace Containers (Kohei Ota)</title>
         <link>https://speakerdeck.com/inductor/cloudnative-meets-webassembly-exploring-wasms-potential-to-replace-containers</link>
-        <dc:date>2024-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Causal Impactを用いたLINE Pay UIの効果検証とABテスト実施への貢献 (LY Corporation Tech)</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20240927a</link>
         <dc:date>2024-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
