@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The Myth of the Modular Monolith - Day 2 Keynote - Rails World 2024 (Eileen M. Uchitelle)</title>
+        <link>https://speakerdeck.com/eileencodes/the-myth-of-the-modular-monolith-day-2-keynote-rails-world-2024</link>
+        <dc:date>2024-10-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GrafanaのHTTP API を眺めてみよう (Rinchoku)</title>
         <link>https://speakerdeck.com/rinchoku/grafananohttp-api-wotiao-metemiyou</link>
         <dc:date>2024-10-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>デジタルIDウォレットが切り開くHigh Assurance Identity Proofingの未来 (kokukuma)</title>
         <link>https://speakerdeck.com/kokukuma/dezitaruiduoretutogaqie-rikai-kuhigh-assurance-identity-proofingnowei-lai</link>
-        <dc:date>2024-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テストコードの品質を客観的な数値で担保しよう〜Mutation Testのすすめ〜 (Kanon)</title>
-        <link>https://speakerdeck.com/ysknsid25/tesutokodonopin-zhi-woke-guan-de-nashu-zhi-dedan-bao-siyou-mutation-testnosusume</link>
         <dc:date>2024-10-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
