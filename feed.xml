@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>KubeVirt Networking ONIC 2024 (orimanabu)</title>
+        <link>https://speakerdeck.com/orimanabu/kubevirt-networking-onic-2024</link>
+        <dc:date>2024-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>kube-scheduler: from 101 to the frontier (sanposhiho)</title>
+        <link>https://speakerdeck.com/sanposhiho/kube-scheduler-from-101-to-the-frontier</link>
+        <dc:date>2024-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>An Introduction to Search and Recommender Systems for Product Manager (LegalOn Technologies, Inc)</title>
         <link>https://speakerdeck.com/legalontechnologies/fe6ab6547641330050eff260a37274dc</link>
         <dc:date>2024-10-09T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>令和最新版 Perlコーディングガイド (AnaTofuZ)</title>
         <link>https://speakerdeck.com/anatofuz/ling-he-zui-xin-ban-perlkodeingugaido</link>
-        <dc:date>2024-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ITエンジニアとして知っておいてほしい、電子メールという大きな穴 (logica)</title>
-        <link>https://speakerdeck.com/logica0419/email-security</link>
-        <dc:date>2024-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>YAPC::Hakodateの映像記録を支える技術 (godan)</title>
-        <link>https://speakerdeck.com/godan/yapc-hakodatenoying-xiang-ji-lu-wozhi-eruji-shu</link>
         <dc:date>2024-10-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
