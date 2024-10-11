@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>App Routerの開発で気をつけたいこと3選 (Tech Leverages)</title>
+        <link>https://speakerdeck.com/leveragestech/app-routernokai-fa-deqi-wotuketaikoto3xuan</link>
+        <dc:date>2024-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>App Router に移行して良かったところを語る (ANDPAD inc)</title>
+        <link>https://speakerdeck.com/andpad/app-router-virtues-extolled</link>
+        <dc:date>2024-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>C#の素晴らしさ (松井 敏)</title>
         <link>https://www.docswell.com/s/binnmti/53GMND-2024-10-09-113510</link>
         <dc:date>2024-10-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>これはPerl？　それともRuby？ クイズ〜〜〜〜〜！！！- Perl or Ruby Quiz (moznion)</title>
         <link>https://speakerdeck.com/moznion/korehaperl-soretomoruby-kuizu-perl-or-ruby-quiz</link>
-        <dc:date>2024-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>perl for shell, awk and sed programmers (mackee)</title>
-        <link>https://speakerdeck.com/mackee/perl-for-shell-awk-and-sed-programmers</link>
-        <dc:date>2024-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Perlで始めるeBPF:  自作Loaderの作り方 / Getting started with eBPF in Perl_How to create your own Loader (Takeru Hayasaka)</title>
-        <link>https://speakerdeck.com/takehaya/getting-started-with-ebpf-in-perl-how-to-create-your-own-loader</link>
         <dc:date>2024-10-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
