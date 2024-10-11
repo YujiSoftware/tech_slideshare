@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>How to create mobile apps like cup noodles (Shinnosuke Yamamoto)</title>
+        <link>https://speakerdeck.com/mrtry/how-to-create-mobile-apps-like-cup-noodles</link>
+        <dc:date>2024-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テストを楽に書きたい (Tomoki Yamashita)</title>
+        <link>https://speakerdeck.com/tomorrowkey/tesutowole-nishu-kitai</link>
+        <dc:date>2024-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データマイグレーションの成功戦略~サービスリニューアルで失敗しないための実践ガイド~ (tkzwtks)</title>
         <link>https://speakerdeck.com/tkzwtks/yapc-hakodate-2024-publish</link>
         <dc:date>2024-10-10T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>10 min de Scrum 2021 (Yasunobu Kawaguchi)</title>
         <link>https://speakerdeck.com/kawaguti/10-min-de-scrum-2021</link>
         <dc:date>2024-10-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024-10-06 YAPC函館市電LT / 次の駅につくまでに心をこめて精一杯SvelteKitを褒める</title>
-        <link>https://docs.google.com/presentation/d/1tzO8UbnCBGPM2zfyKDB8Q8ve_fqGJQsKhSi-y79GMeo/preview</link>
-        <dc:date>2024-10-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Language Evolution</title>
-        <link>https://docs.google.com/presentation/d/1ylROTu3N6MyHzNzWJXQAc7Bo1O0FHO3lNKfQMfPOA4o/preview</link>
-        <dc:date>2024-10-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
