@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データマイグレーションの成功戦略~サービスリニューアルで失敗しないための実践ガイド~ (tkzwtks)</title>
+        <link>https://speakerdeck.com/tkzwtks/yapc-hakodate-2024-publish</link>
+        <dc:date>2024-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>State of AI Report - 2024 ONLINE</title>
         <link>https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M/preview</link>
         <dc:date>2024-10-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Language Evolution</title>
         <link>https://docs.google.com/presentation/d/1ylROTu3N6MyHzNzWJXQAc7Bo1O0FHO3lNKfQMfPOA4o/preview</link>
-        <dc:date>2024-10-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ADRを運用して3年経った僕らの現在地 (Takafumi ONAKA)</title>
-        <link>https://speakerdeck.com/onk/2024-10-05-adr-in-3-years</link>
         <dc:date>2024-10-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
