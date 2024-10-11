@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>State of AI Report - 2024 ONLINE</title>
+        <link>https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M/preview</link>
+        <dc:date>2024-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>みんなに知って欲しい 視覚過敏のアクセシビリティ (ori)</title>
+        <link>https://speakerdeck.com/0opacity_/minnanizhi-tuteyu-sii-shi-jue-guo-min-noakusesibiritei</link>
+        <dc:date>2024-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>“Rails × 型”での2年間を振り返る (a_fujisaki)</title>
         <link>https://speakerdeck.com/aki19035vc/rails-x-xing-deno2nian-jian-wozhen-rifan-ru</link>
         <dc:date>2024-10-10T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>ADRを運用して3年経った僕らの現在地 (Takafumi ONAKA)</title>
         <link>https://speakerdeck.com/onk/2024-10-05-adr-in-3-years</link>
         <dc:date>2024-10-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コード✕AIーソフトウェア開発者のための生成AI実践入門~ (Yuki Hattori)</title>
-        <link>https://speakerdeck.com/yuhattor/kodoaisohutoueakai-fa-zhe-notamenosheng-cheng-aishi-jian-ru-men-forkwell-library</link>
-        <dc:date>2024-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Develop to Survive - YAPC::Hakodate 2024 Keynote (moznion)</title>
-        <link>https://speakerdeck.com/moznion/develop-to-survive-yapc-hakodate-2024-keynote</link>
-        <dc:date>2024-10-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
