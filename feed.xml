@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>“Rails × 型”での2年間を振り返る (a_fujisaki)</title>
+        <link>https://speakerdeck.com/aki19035vc/rails-x-xing-deno2nian-jian-wozhen-rifan-ru</link>
+        <dc:date>2024-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>App Routerの開発で気をつけたいこと3選 (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/app-routernokai-fa-deqi-wotuketaikoto3xuan</link>
         <dc:date>2024-10-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Develop to Survive - YAPC::Hakodate 2024 Keynote (moznion)</title>
         <link>https://speakerdeck.com/moznion/develop-to-survive-yapc-hakodate-2024-keynote</link>
-        <dc:date>2024-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これはPerl？　それともRuby？ クイズ〜〜〜〜〜！！！- Perl or Ruby Quiz (moznion)</title>
-        <link>https://speakerdeck.com/moznion/korehaperl-soretomoruby-kuizu-perl-or-ruby-quiz</link>
         <dc:date>2024-10-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
