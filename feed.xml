@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Do you know “Environment Variables” ? (Akiho Miyamura)</title>
+        <link>https://speakerdeck.com/akimiya/do-you-know-environment-variables</link>
+        <dc:date>2024-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>KubeVirt Networking ONIC 2024 (orimanabu)</title>
         <link>https://speakerdeck.com/orimanabu/kubevirt-networking-onic-2024</link>
         <dc:date>2024-10-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2024年秋のPerl (Kenichi Ishigaki)</title>
         <link>https://speakerdeck.com/charsbar/2024nian-qiu-noperl</link>
-        <dc:date>2024-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>令和最新版 Perlコーディングガイド (AnaTofuZ)</title>
-        <link>https://speakerdeck.com/anatofuz/ling-he-zui-xin-ban-perlkodeingugaido</link>
         <dc:date>2024-10-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
