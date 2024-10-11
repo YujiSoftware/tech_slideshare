@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>デバッグの話 / Debugging for Beginners (kaityo256)</title>
+        <link>https://speakerdeck.com/kaityo256/debugging-for-beginners</link>
+        <dc:date>2024-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>How to create mobile apps like cup noodles (Shinnosuke Yamamoto)</title>
         <link>https://speakerdeck.com/mrtry/how-to-create-mobile-apps-like-cup-noodles</link>
         <dc:date>2024-10-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>new engineering 2024 our remaining work (Fujimura Daisuke)</title>
         <link>https://speakerdeck.com/fujimura/new-engineering-2024-our-remaining-work</link>
-        <dc:date>2024-10-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10 min de Scrum 2021 (Yasunobu Kawaguchi)</title>
-        <link>https://speakerdeck.com/kawaguti/10-min-de-scrum-2021</link>
         <dc:date>2024-10-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
