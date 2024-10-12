@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【完全版】Dify - LINE Bot連携　考え方と実用テクニック (uezo)</title>
+        <link>https://speakerdeck.com/uezo/wan-quan-ban-dify-line-botlian-xi-kao-efang-toshi-yong-tekunituku</link>
+        <dc:date>2024-10-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Grafana エコシステムの活用事例 on ABEMA (tetsuya28)</title>
+        <link>https://speakerdeck.com/tetsuya28/grafana-ekosisutemunohuo-yong-shi-li-on-abema</link>
+        <dc:date>2024-10-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon 流のプロダクトマネジメント @ Product DeepLive 会場 + 懇親会スポンサーセッション (Takahiro Kubo)</title>
+        <link>https://speakerdeck.com/icoxfog417/amazon-liu-nopurodakutomanezimento-at-product-deeplive-hui-chang-plus-ken-qin-hui-suponsasetusiyon</link>
+        <dc:date>2024-10-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実践サーバーレスパフォーマンスチューニング ~その実力に迫る~ / Practical Serverless Performance Tuning ~A Close Look at its Power~ (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/practical-serverless-performance-tuning-a-close-look-at-its-power</link>
+        <dc:date>2024-10-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon ECS &amp; AWS Fargate 今昔物語 / past and present stories of Amazon ECS and AWS Fargate (iselegant)</title>
         <link>https://speakerdeck.com/iselegant/past-and-present-stories-of-amazon-ecs-and-aws-fargate</link>
         <dc:date>2024-10-11T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>C#の素晴らしさ (松井 敏)</title>
         <link>https://www.docswell.com/s/binnmti/53GMND-2024-10-09-113510</link>
         <dc:date>2024-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Do you know “Environment Variables” ? (Akiho Miyamura)</title>
-        <link>https://speakerdeck.com/akimiya/do-you-know-environment-variables</link>
-        <dc:date>2024-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KubeVirt Networking ONIC 2024 (orimanabu)</title>
-        <link>https://speakerdeck.com/orimanabu/kubevirt-networking-onic-2024</link>
-        <dc:date>2024-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>kube-scheduler: from 101 to the frontier (sanposhiho)</title>
-        <link>https://speakerdeck.com/sanposhiho/kube-scheduler-from-101-to-the-frontier</link>
-        <dc:date>2024-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>An Introduction to Search and Recommender Systems for Product Manager (LegalOn Technologies, Inc)</title>
-        <link>https://speakerdeck.com/legalontechnologies/fe6ab6547641330050eff260a37274dc</link>
-        <dc:date>2024-10-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
