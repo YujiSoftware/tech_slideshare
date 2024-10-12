@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>やりっぱなしで終わらない勉強法 (uutan1108)</title>
+        <link>https://speakerdeck.com/ohmori_yusuke/yarituhanasitezhong-waranaimian-qiang-fa</link>
+        <dc:date>2024-10-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>観察研究における因果推論 (NearMeの技術発表資料です)</title>
         <link>https://speakerdeck.com/nearme_tech/guan-cha-yan-jiu-niokeruyin-guo-tui-lun</link>
         <dc:date>2024-10-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GrafanaのHTTP API を眺めてみよう (Rinchoku)</title>
         <link>https://speakerdeck.com/rinchoku/grafananohttp-api-wotiao-metemiyou</link>
-        <dc:date>2024-10-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>受託開発でもアジャイル開発できました / Agile in Contract Development (TAKAKING22)</title>
-        <link>https://speakerdeck.com/takaking22/agile-in-contract-development</link>
         <dc:date>2024-10-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
