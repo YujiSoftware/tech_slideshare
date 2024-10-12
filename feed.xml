@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模言語モデルLlama-3.1に専門的な数値データを学習させる検討 (Kan Hatakeyama,@kanhatakeyama)</title>
+        <link>https://www.docswell.com/s/KanHatakeyama/KEXE3Q-2024-10-12-131658</link>
+        <dc:date>2024-10-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Graph Database と Generative AI の素敵な関係 (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/graph-database-to-generative-ai-nosu-di-naguan-xi</link>
+        <dc:date>2024-10-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Bluesky 2019〜2022 (yamarten)</title>
         <link>https://speakerdeck.com/yamarten/bluesky-2019-2022</link>
         <dc:date>2024-10-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>“Rails × 型”での2年間を振り返る (a_fujisaki)</title>
         <link>https://speakerdeck.com/aki19035vc/rails-x-xing-deno2nian-jian-wozhen-rifan-ru</link>
-        <dc:date>2024-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>App Routerの開発で気をつけたいこと3選 (Tech Leverages)</title>
-        <link>https://speakerdeck.com/leveragestech/app-routernokai-fa-deqi-wotuketaikoto3xuan</link>
-        <dc:date>2024-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>App Router に移行して良かったところを語る (ANDPAD inc)</title>
-        <link>https://speakerdeck.com/andpad/app-router-virtues-extolled</link>
         <dc:date>2024-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
