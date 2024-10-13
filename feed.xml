@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RDBMSで位置情報を扱おう～PostGIS超入門 / PostGIS introduction and PG-Strom (sakaik)</title>
+        <link>https://speakerdeck.com/sakaik/postgis-introduction-and-pg-strom</link>
+        <dc:date>2024-10-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>(論文読み)BigCodeBench: 多様な関数呼び出しと複雑な指示を用いたコード生成のベンチマーキング (ymgc)</title>
         <link>https://speakerdeck.com/__ymgc__/lun-wen-du-mi-bigcodebench-duo-yang-naguan-shu-hu-bichu-sitofu-za-nazhi-shi-woyong-itakodosheng-cheng-nobentimakingu</link>
         <dc:date>2024-10-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>State of AI Report - 2024 ONLINE</title>
         <link>https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M/preview</link>
-        <dc:date>2024-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>みんなに知って欲しい 視覚過敏のアクセシビリティ (ori)</title>
-        <link>https://speakerdeck.com/0opacity_/minnanizhi-tuteyu-sii-shi-jue-guo-min-noakusesibiritei</link>
         <dc:date>2024-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
