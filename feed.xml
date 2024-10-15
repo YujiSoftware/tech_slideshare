@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>KongによるAPIライフサイクル マネジメント (hashi)</title>
+        <link>https://speakerdeck.com/hashitokyo/kongniyoruapiraihusaikuru-manezimento</link>
+        <dc:date>2024-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20241004 モノタロウ式~ドメインモデリングとリアーキテクチャ (MonotaRO)</title>
         <link>https://speakerdeck.com/monotaro/20241004-monotaroushi-domeinmoderingutoriakitekutiya</link>
         <dc:date>2024-10-14T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>観察研究における因果推論 (NearMeの技術発表資料です)</title>
         <link>https://speakerdeck.com/nearme_tech/guan-cha-yan-jiu-niokeruyin-guo-tui-lun</link>
         <dc:date>2024-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Play Consoleデベロッパー アカウントの確認 / Verifying your Play Console developer account (Masatoshi Kubode)</title>
-        <link>https://speakerdeck.com/kubode/verifying-your-play-console-developer-account</link>
-        <dc:date>2024-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
