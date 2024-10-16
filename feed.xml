@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>知られざるNaNの世界 (hole)</title>
+        <link>https://speakerdeck.com/hole/nan-and-inf</link>
+        <dc:date>2024-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ロジカルなUIデザイン 考え方と関わり方 / A Logical Approach to UI Design, How to Think and Engage (usagimaru)</title>
         <link>https://speakerdeck.com/usagimaru/a-logical-approach-to-ui-design-how-to-think-and-engage</link>
         <dc:date>2024-10-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Grafana エコシステムの活用事例 on ABEMA (tetsuya28)</title>
         <link>https://speakerdeck.com/tetsuya28/grafana-ekosisutemunohuo-yong-shi-li-on-abema</link>
-        <dc:date>2024-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon 流のプロダクトマネジメント @ Product DeepLive 会場 + 懇親会スポンサーセッション (Takahiro Kubo)</title>
-        <link>https://speakerdeck.com/icoxfog417/amazon-liu-nopurodakutomanezimento-at-product-deeplive-hui-chang-plus-ken-qin-hui-suponsasetusiyon</link>
         <dc:date>2024-10-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
