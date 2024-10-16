@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ロジカルなUIデザイン 考え方と関わり方 / A Logical Approach to UI Design, How to Think and Engage (usagimaru)</title>
+        <link>https://speakerdeck.com/usagimaru/a-logical-approach-to-ui-design-how-to-think-and-engage</link>
+        <dc:date>2024-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>いまいまMySQL2024 @ OSC Nagaoka (sakaik)</title>
+        <link>https://speakerdeck.com/sakaik/imyma-mysql-at-osc-2024-nagaoka</link>
+        <dc:date>2024-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>今日から始める技術的負債の解消 (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/jin-ri-karashi-meruji-shu-de-fu-zhai-nojie-xiao</link>
         <dc:date>2024-10-15T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Amazon 流のプロダクトマネジメント @ Product DeepLive 会場 + 懇親会スポンサーセッション (Takahiro Kubo)</title>
         <link>https://speakerdeck.com/icoxfog417/amazon-liu-nopurodakutomanezimento-at-product-deeplive-hui-chang-plus-ken-qin-hui-suponsasetusiyon</link>
-        <dc:date>2024-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践サーバーレスパフォーマンスチューニング ~その実力に迫る~ / Practical Serverless Performance Tuning ~A Close Look at its Power~ (shiro seike)</title>
-        <link>https://speakerdeck.com/seike460/practical-serverless-performance-tuning-a-close-look-at-its-power</link>
-        <dc:date>2024-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon ECS &amp; AWS Fargate 今昔物語 / past and present stories of Amazon ECS and AWS Fargate (iselegant)</title>
-        <link>https://speakerdeck.com/iselegant/past-and-present-stories-of-amazon-ecs-and-aws-fargate</link>
         <dc:date>2024-10-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
