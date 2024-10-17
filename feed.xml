@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>B-Treeのアーキテクチャ解説 (第49回PostgreSQLアンカンファレンス@東京 発表資料) (NTT DATA Technology &amp; Innovation)</title>
+        <link>https://www.slideshare.net/slideshow/postgresql-btree-architecture-pgunconf49-nttdata/272447687</link>
+        <dc:date>2024-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自動化基盤・iPaaS導入のプラクティス (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
         <link>https://speakerdeck.com/kworkdev/practices-for-automation-infrastructure-and-ipaas-deployment</link>
         <dc:date>2024-10-16T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Graph Database と Generative AI の素敵な関係 (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/graph-database-to-generative-ai-nosu-di-naguan-xi</link>
         <dc:date>2024-10-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bluesky 2019〜2022 (yamarten)</title>
-        <link>https://speakerdeck.com/yamarten/bluesky-2019-2022</link>
-        <dc:date>2024-10-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
