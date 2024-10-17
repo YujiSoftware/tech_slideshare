@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自動化基盤・iPaaS導入のプラクティス (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
+        <link>https://speakerdeck.com/kworkdev/practices-for-automation-infrastructure-and-ipaas-deployment</link>
+        <dc:date>2024-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SRv6-mobile VPP plugin Performance Optimization (Yasuhiro Ohara)</title>
         <link>https://speakerdeck.com/yasuhironet/srv6-mobile-vpp-plugin-performance-optimization</link>
         <dc:date>2024-10-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Bluesky 2019〜2022 (yamarten)</title>
         <link>https://speakerdeck.com/yamarten/bluesky-2019-2022</link>
-        <dc:date>2024-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【完全版】Dify - LINE Bot連携　考え方と実用テクニック (uezo)</title>
-        <link>https://speakerdeck.com/uezo/wan-quan-ban-dify-line-botlian-xi-kao-efang-toshi-yong-tekunituku</link>
         <dc:date>2024-10-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
