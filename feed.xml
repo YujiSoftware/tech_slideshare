@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Rails に型を導入する 2024秋</title>
+        <link>https://docs.google.com/presentation/d/13S03Cj6ZcFpSS9g4OkN9sW6vmmnIVARQg6Z9OFx0u9E/preview</link>
+        <dc:date>2024-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>40代後半で開発エンジニアからクラウドインフラエンジニアにキャリアチェンジし、生き残れる自信がようやく持てた話 (iwamot)</title>
         <link>https://speakerdeck.com/iwamot/kinoko-33efec14-974b-4c59-8a81-1c855bc34d54</link>
         <dc:date>2024-10-17T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>20241004 モノタロウ式~ドメインモデリングとリアーキテクチャ (MonotaRO)</title>
         <link>https://speakerdeck.com/monotaro/20241004-monotaroushi-domeinmoderingutoriakitekutiya</link>
         <dc:date>2024-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023.05.19 東邦システムサイエンス講演資料 (BrainPad)</title>
-        <link>https://speakerdeck.com/brainpadpr/2023-dot-05-dot-19-dong-bang-sisutemusaiensujiang-yan-zi-liao</link>
-        <dc:date>2024-10-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
