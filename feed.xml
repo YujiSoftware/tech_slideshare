@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>10年続くサービスのデータを1日未満のメンテナンスウィンドウで安全に移管する (masawada)</title>
+        <link>https://speakerdeck.com/masawada/10nian-sok-kusabisunodetawo1ri-wei-man-nomentenansuuindoudean-quan-niyi-guan-suru</link>
+        <dc:date>2024-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「ちょっといいUI」を目指す努力 / Striving for Little Big Details (usagimaru)</title>
         <link>https://speakerdeck.com/usagimaru/striving-for-little-big-details</link>
         <dc:date>2024-10-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>(論文読み)BigCodeBench: 多様な関数呼び出しと複雑な指示を用いたコード生成のベンチマーキング (ymgc)</title>
         <link>https://speakerdeck.com/__ymgc__/lun-wen-du-mi-bigcodebench-duo-yang-naguan-shu-hu-bichu-sitofu-za-nazhi-shi-woyong-itakodosheng-cheng-nobentimakingu</link>
-        <dc:date>2024-10-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模言語モデルLlama-3.1に専門的な数値データを学習させる検討 (Kan Hatakeyama,@kanhatakeyama)</title>
-        <link>https://www.docswell.com/s/KanHatakeyama/KEXE3Q-2024-10-12-131658</link>
         <dc:date>2024-10-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
