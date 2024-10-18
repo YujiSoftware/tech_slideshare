@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自然言語処理を役立てるのはなぜ難しいのか (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/20241015_todai_nlp_unno_lecture</link>
+        <dc:date>2024-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SwiftでCPUを作る (freddi(Yuki Aki))</title>
         <link>https://speakerdeck.com/freddi/swiftdecpuwozuo-ru</link>
         <dc:date>2024-10-17T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>スタサプ ForSCHOOLアプリのシンプルな設計 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/findy-koji-1009</link>
         <dc:date>2024-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20241009_がっかりコパだったCopilot_in_Excel今はどうなん？ (ponponmikan)</title>
-        <link>https://speakerdeck.com/ponponmikankan/20241009-gatukarikopadatutacopilot-in-exceljin-hadounan</link>
-        <dc:date>2024-10-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
