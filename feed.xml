@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VueとViteで作るUIコンポーネントライブラリ ~デザインシステムとプロダクトの理想的な分離を目指して~  / 20241019_cloudsign_VueFesJapan2024_1 (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20241019-cloudsign-vuefesjapan2024-1</link>
+        <dc:date>2024-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最新のWasm事情 (asuka)</title>
         <link>https://speakerdeck.com/askua/zui-xin-nowasmshi-qing</link>
         <dc:date>2024-10-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>さくっと実践！Postmanを活用した高品質で持続可能なAPI管理 (Yoichi Kawasaki)</title>
         <link>https://speakerdeck.com/yokawasa/sakututoshi-jian-postmanwohuo-yong-sitagao-pin-zhi-dechi-sok-ke-neng-naapiguan-li</link>
-        <dc:date>2024-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KongによるAPIライフサイクル マネジメント (hashi)</title>
-        <link>https://speakerdeck.com/hashitokyo/kongniyoruapiraihusaikuru-manezimento</link>
         <dc:date>2024-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
