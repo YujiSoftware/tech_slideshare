@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最新のWasm事情 (asuka)</title>
+        <link>https://speakerdeck.com/askua/zui-xin-nowasmshi-qing</link>
+        <dc:date>2024-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rails に型を導入する 2024秋</title>
         <link>https://docs.google.com/presentation/d/13S03Cj6ZcFpSS9g4OkN9sW6vmmnIVARQg6Z9OFx0u9E/preview</link>
         <dc:date>2024-10-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>KongによるAPIライフサイクル マネジメント (hashi)</title>
         <link>https://speakerdeck.com/hashitokyo/kongniyoruapiraihusaikuru-manezimento</link>
         <dc:date>2024-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20241004 モノタロウ式~ドメインモデリングとリアーキテクチャ (MonotaRO)</title>
-        <link>https://speakerdeck.com/monotaro/20241004-monotaroushi-domeinmoderingutoriakitekutiya</link>
-        <dc:date>2024-10-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
