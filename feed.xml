@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vue.js、Nuxtの機能を使い、 大量のコピペコードをリファクタリングする (igayamaguchi)</title>
+        <link>https://speakerdeck.com/igayamaguchi/vue-dot-js-nuxtnoji-neng-woshi-i-da-liang-nokopipekodoworihuakutaringusuru</link>
+        <dc:date>2024-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue3の一歩踏み込んだパフォーマンスチューニング2024 (Hal)</title>
+        <link>https://speakerdeck.com/hal_spidernight/vue3no-bu-ta-miip-ndapahuomansutiyuningu2024</link>
+        <dc:date>2024-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自動テストの信頼性を高めるミューテーションテストの活用に向けて (tarappo,@tarappo)</title>
         <link>https://www.docswell.com/s/tarappo/ZP2MVL-2024-10-18-183434</link>
         <dc:date>2024-10-18T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>ActiveRecordの力でDBのメタデータを迅速に解析する (lni_T)</title>
         <link>https://speakerdeck.com/lnit/reject-on-rails-2024-dbschema</link>
         <dc:date>2024-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10年続くサービスのデータを1日未満のメンテナンスウィンドウで安全に移管する (masawada)</title>
-        <link>https://speakerdeck.com/masawada/10nian-sok-kusabisunodetawo1ri-wei-man-nomentenansuuindoudean-quan-niyi-guan-suru</link>
-        <dc:date>2024-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「ちょっといいUI」を目指す努力 / Striving for Little Big Details (usagimaru)</title>
-        <link>https://speakerdeck.com/usagimaru/striving-for-little-big-details</link>
-        <dc:date>2024-10-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
