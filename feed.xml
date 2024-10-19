@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vue 3 と Svelte 5 のランタイムを比較する 〜技術を一段深く理解する〜</title>
+        <link>https://docs.google.com/presentation/d/1xvcDewSssDweawP3ZnkQi0L-1AjaOl5oD8YFiiZuk3A/preview</link>
+        <dc:date>2024-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Why did my proposals get rejected? (Masafumi Okura)</title>
         <link>https://speakerdeck.com/okuramasafumi/why-did-my-proposals-get-rejected</link>
         <dc:date>2024-10-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ロジカルなUIデザイン 考え方と関わり方 / A Logical Approach to UI Design, How to Think and Engage (usagimaru)</title>
         <link>https://speakerdeck.com/usagimaru/a-logical-approach-to-ui-design-how-to-think-and-engage</link>
-        <dc:date>2024-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いまいまMySQL2024 @ OSC Nagaoka (sakaik)</title>
-        <link>https://speakerdeck.com/sakaik/imyma-mysql-at-osc-2024-nagaoka</link>
         <dc:date>2024-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
