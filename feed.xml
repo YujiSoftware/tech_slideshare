@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアの「センス」とは何か / What is the sense of engineers (YAMAOKA Hiroyuki)</title>
+        <link>https://speakerdeck.com/hiro_y/what-is-the-sense-of-engineers</link>
+        <dc:date>2024-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Application Signalsで始めるSLO ユーザー満足度を数値化する第一歩 (ニフティ株式会社)</title>
+        <link>https://speakerdeck.com/niftycorp/jawsfesta2024-asami</link>
+        <dc:date>2024-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vue 3 と Svelte 5 のランタイムを比較する 〜技術を一段深く理解する〜</title>
         <link>https://docs.google.com/presentation/d/1xvcDewSssDweawP3ZnkQi0L-1AjaOl5oD8YFiiZuk3A/preview</link>
         <dc:date>2024-10-18T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>SRv6-mobile VPP plugin Performance Optimization (Yasuhiro Ohara)</title>
         <link>https://speakerdeck.com/yasuhironet/srv6-mobile-vpp-plugin-performance-optimization</link>
-        <dc:date>2024-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>知られざるNaNの世界 (hole)</title>
-        <link>https://speakerdeck.com/hole/nan-and-inf</link>
-        <dc:date>2024-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ロジカルなUIデザイン 考え方と関わり方 / A Logical Approach to UI Design, How to Think and Engage (usagimaru)</title>
-        <link>https://speakerdeck.com/usagimaru/a-logical-approach-to-ui-design-how-to-think-and-engage</link>
         <dc:date>2024-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
