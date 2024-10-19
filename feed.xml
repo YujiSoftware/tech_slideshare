@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自動テストの信頼性を高めるミューテーションテストの活用に向けて (tarappo,@tarappo)</title>
+        <link>https://www.docswell.com/s/tarappo/ZP2MVL-2024-10-18-183434</link>
+        <dc:date>2024-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>普通のエンジニアが頑張って30万行のNuxt3移行した話 / Vue Fes Japan 2024 Nuxt3 version up (konkarin)</title>
+        <link>https://speakerdeck.com/konkarin/vue-fes-japan-2024-nuxt3-version-up</link>
+        <dc:date>2024-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>v-modelの歩みを振り返る (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20241019-cloudsign-vuefesjapan2024-2</link>
+        <dc:date>2024-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアの「センス」とは何か / What is the sense of engineers (YAMAOKA Hiroyuki)</title>
         <link>https://speakerdeck.com/hiro_y/what-is-the-sense-of-engineers</link>
         <dc:date>2024-10-18T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>「ちょっといいUI」を目指す努力 / Striving for Little Big Details (usagimaru)</title>
         <link>https://speakerdeck.com/usagimaru/striving-for-little-big-details</link>
         <dc:date>2024-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>B-Treeのアーキテクチャ解説 (第49回PostgreSQLアンカンファレンス@東京 発表資料) (NTT DATA Technology &amp; Innovation)</title>
-        <link>https://www.slideshare.net/slideshow/postgresql-btree-architecture-pgunconf49-nttdata/272447687</link>
-        <dc:date>2024-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自動化基盤・iPaaS導入のプラクティス (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
-        <link>https://speakerdeck.com/kworkdev/practices-for-automation-infrastructure-and-ipaas-deployment</link>
-        <dc:date>2024-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SRv6-mobile VPP plugin Performance Optimization (Yasuhiro Ohara)</title>
-        <link>https://speakerdeck.com/yasuhironet/srv6-mobile-vpp-plugin-performance-optimization</link>
-        <dc:date>2024-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
