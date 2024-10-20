@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Golang と Erlang (鹿)</title>
+        <link>https://speakerdeck.com/taiyow/golang-to-erlang</link>
+        <dc:date>2024-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vaporモードを大規模サービスに最速導入して学びを共有する (Kazuki Shimamoto)</title>
         <link>https://speakerdeck.com/kazukishimamoto/vapormodowoda-gui-mo-sabisunizui-su-dao-ru-sitexue-biwogong-you-suru</link>
         <dc:date>2024-10-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自然言語処理を役立てるのはなぜ難しいのか (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/20241015_todai_nlp_unno_lecture</link>
-        <dc:date>2024-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SwiftでCPUを作る (freddi(Yuki Aki))</title>
-        <link>https://speakerdeck.com/freddi/swiftdecpuwozuo-ru</link>
         <dc:date>2024-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
