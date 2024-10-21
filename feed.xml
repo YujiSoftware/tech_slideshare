@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMOps : ΔMLOps (イトー)</title>
+        <link>https://speakerdeck.com/shuntaito/llmops-dmlops</link>
+        <dc:date>2024-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>長期運用を支えるみてねの継続的なコスト最適化の取り組み (kimuson13)</title>
         <link>https://speakerdeck.com/kimuson13/chang-qi-yun-yong-wozhi-erumitenenoji-sok-de-nakosutozui-shi-hua-noqu-rizu-mi</link>
         <dc:date>2024-10-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>暴カワでビデオシンセサイザーを導入する技術 (Naoki Katahira)</title>
         <link>https://speakerdeck.com/yuchi/bao-kawadebideosinsesaizawodao-ru-suruji-shu</link>
-        <dc:date>2024-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VueとViteで作るUIコンポーネントライブラリ ~デザインシステムとプロダクトの理想的な分離を目指して~  / 20241019_cloudsign_VueFesJapan2024_1 (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20241019-cloudsign-vuefesjapan2024-1</link>
         <dc:date>2024-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
