@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Lessons learned from being customer zero of Chrome's built-in APIs</title>
+        <link>https://docs.google.com/presentation/d/1rzATE3t4sclvUEae1jIT6MpUEajLQKu9_bKKHdrpU1c/preview</link>
+        <dc:date>2024-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Active Recordの複数DB対応を活用して、Railsアプリケーションを統廃合する</title>
         <link>https://docs.google.com/presentation/d/1LzPqnSCC24Qc6__F1Qw5PyCW0HXVIeC3v2BNaAH45uc/preview</link>
         <dc:date>2024-10-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Rails に型を導入する 2024秋</title>
         <link>https://docs.google.com/presentation/d/13S03Cj6ZcFpSS9g4OkN9sW6vmmnIVARQg6Z9OFx0u9E/preview</link>
         <dc:date>2024-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>40代後半で開発エンジニアからクラウドインフラエンジニアにキャリアチェンジし、生き残れる自信がようやく持てた話 (iwamot)</title>
-        <link>https://speakerdeck.com/iwamot/kinoko-33efec14-974b-4c59-8a81-1c855bc34d54</link>
-        <dc:date>2024-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
