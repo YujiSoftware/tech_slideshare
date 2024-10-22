@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Honoの来た道とこれから (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/hononolai-tadao-tokorekara</link>
+        <dc:date>2024-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2万ページのSSG運用における工夫と注意点 / Vue Fes Japan 2024 (Chinen)</title>
         <link>https://speakerdeck.com/chinen/vue-fes-japan-2024</link>
         <dc:date>2024-10-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Why did my proposals get rejected? (Masafumi Okura)</title>
         <link>https://speakerdeck.com/okuramasafumi/why-did-my-proposals-get-rejected</link>
-        <dc:date>2024-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自動テストの信頼性を高めるミューテーションテストの活用に向けて (tarappo)</title>
-        <link>https://speakerdeck.com/tarappo/zi-dong-tesutonoxin-lai-xing-wogao-merumiyutesiyontesutonohuo-yong-nixiang-kete</link>
         <dc:date>2024-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
