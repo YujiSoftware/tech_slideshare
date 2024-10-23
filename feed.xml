@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Scala NativeでAtCoderに 入門してみた (tsatow)</title>
+        <link>https://speakerdeck.com/tsatow/scala-nativedeatcoderni-ru-men-sitemita</link>
+        <dc:date>2024-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>go.mod、DockerfileやCI設定に分散しがちなGoのバージョンをまとめて管理する / Go Connect #3 (Arthur)</title>
         <link>https://speakerdeck.com/arthur1/go-toolchain-version</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Golang と Erlang (鹿)</title>
         <link>https://speakerdeck.com/taiyow/golang-to-erlang</link>
         <dc:date>2024-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vaporモードを大規模サービスに最速導入して学びを共有する (Kazuki Shimamoto)</title>
-        <link>https://speakerdeck.com/kazukishimamoto/vapormodowoda-gui-mo-sabisunizui-su-dao-ru-sitexue-biwogong-you-suru</link>
-        <dc:date>2024-10-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
