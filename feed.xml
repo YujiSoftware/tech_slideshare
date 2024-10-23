@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ECMA-402 Tokyo Meetup 2024</title>
+        <link>https://docs.google.com/presentation/d/1kNhMC3kK9t4Fk9hLB09C0Fua0aWYXLuRpX5oe7a9FeQ/preview</link>
+        <dc:date>2024-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>秋にチャレンジしたことLT会</title>
         <link>https://docs.google.com/presentation/d/1p9PA3R5WjAzMmiEiQLPpoZd2eCuC086jCr0p31XzWaQ/preview</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>普通のエンジニアが頑張って30万行のNuxt3移行した話 / Vue Fes Japan 2024 Nuxt3 version up (konkarin)</title>
         <link>https://speakerdeck.com/konkarin/vue-fes-japan-2024-nuxt3-version-up</link>
-        <dc:date>2024-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>v-modelの歩みを振り返る (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20241019-cloudsign-vuefesjapan2024-2</link>
         <dc:date>2024-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
