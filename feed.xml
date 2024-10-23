@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby と Rails の小ネタ集 (DaisukeShinoku)</title>
+        <link>https://speakerdeck.com/daisukeshinoku/ruby-on-rails-small-talk</link>
+        <dc:date>2024-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>数値計算とメモリ最適化 (Masayuki Mizuno)</title>
+        <link>https://speakerdeck.com/fetburner/shu-zhi-ji-suan-tomemorizui-shi-hua</link>
+        <dc:date>2024-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Piniaの現状と今後 (waka292)</title>
         <link>https://speakerdeck.com/waka292/pinianoxian-zhuang-tojin-hou</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>直積は便利/direct_product_is_useful (florets1)</title>
         <link>https://speakerdeck.com/florets1/direct-product-is-useful</link>
         <dc:date>2024-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deep dive into Nuxt Server Components (wattanx)</title>
-        <link>https://speakerdeck.com/wattanx/deep-dive-into-nuxt-server-components</link>
-        <dc:date>2024-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue.js、Nuxtの機能を使い、 大量のコピペコードをリファクタリングする (igayamaguchi)</title>
-        <link>https://speakerdeck.com/igayamaguchi/vue-dot-js-nuxtnoji-neng-woshi-i-da-liang-nokopipekodoworihuakutaringusuru</link>
-        <dc:date>2024-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
