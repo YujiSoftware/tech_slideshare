@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>意外に簡単！ ドキュメント翻訳で始める OSS コントリビュート @ UV Study: Vue.js LT会 (Jun Shindo,@shindy_JP)</title>
+        <link>https://www.docswell.com/s/jay-es/K3G38V-2024-10-22-uv-study</link>
+        <dc:date>2024-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ECMA-402 Tokyo Meetup 2024</title>
         <link>https://docs.google.com/presentation/d/1kNhMC3kK9t4Fk9hLB09C0Fua0aWYXLuRpX5oe7a9FeQ/preview</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自動テストの信頼性を高めるミューテーションテストの活用に向けて (tarappo,@tarappo)</title>
         <link>https://www.docswell.com/s/tarappo/ZP2MVL-2024-10-18-183434</link>
-        <dc:date>2024-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>普通のエンジニアが頑張って30万行のNuxt3移行した話 / Vue Fes Japan 2024 Nuxt3 version up (konkarin)</title>
-        <link>https://speakerdeck.com/konkarin/vue-fes-japan-2024-nuxt3-version-up</link>
         <dc:date>2024-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
