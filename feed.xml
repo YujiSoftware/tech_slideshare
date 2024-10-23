@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>go.mod、DockerfileやCI設定に分散しがちなGoのバージョンをまとめて管理する / Go Connect #3 (Arthur)</title>
+        <link>https://speakerdeck.com/arthur1/go-toolchain-version</link>
+        <dc:date>2024-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby と Rails の小ネタ集 (DaisukeShinoku)</title>
         <link>https://speakerdeck.com/daisukeshinoku/ruby-on-rails-small-talk</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Vaporモードを大規模サービスに最速導入して学びを共有する (Kazuki Shimamoto)</title>
         <link>https://speakerdeck.com/kazukishimamoto/vapormodowoda-gui-mo-sabisunizui-su-dao-ru-sitexue-biwogong-you-suru</link>
-        <dc:date>2024-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>直積は便利/direct_product_is_useful (florets1)</title>
-        <link>https://speakerdeck.com/florets1/direct-product-is-useful</link>
         <dc:date>2024-10-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
