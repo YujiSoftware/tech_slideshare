@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Honoで実現するバックエンド開発のイマ (sugar-cat)</title>
+        <link>https://speakerdeck.com/sugarcat7/honodeshi-xian-surubatukuendokai-fa-noima</link>
+        <dc:date>2024-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>意外に簡単！ ドキュメント翻訳で始める OSS コントリビュート @ UV Study: Vue.js LT会 (Jun Shindo,@shindy_JP)</title>
         <link>https://www.docswell.com/s/jay-es/K3G38V-2024-10-22-uv-study</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Vue3の一歩踏み込んだパフォーマンスチューニング2024 (Hal)</title>
         <link>https://speakerdeck.com/hal_spidernight/vue3no-bu-ta-miip-ndapahuomansutiyuningu2024</link>
-        <dc:date>2024-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自動テストの信頼性を高めるミューテーションテストの活用に向けて (tarappo,@tarappo)</title>
-        <link>https://www.docswell.com/s/tarappo/ZP2MVL-2024-10-18-183434</link>
         <dc:date>2024-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
