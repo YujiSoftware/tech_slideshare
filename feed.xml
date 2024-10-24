@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIの活用パターンと継続的評価 (Asei Sugiyama)</title>
+        <link>https://speakerdeck.com/asei/sheng-cheng-ainohuo-yong-patantoji-sok-de-ping-jia</link>
+        <dc:date>2024-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>意外(？)と語られないGoのいいところ (LayerX)</title>
+        <link>https://speakerdeck.com/layerx/go-connect-20241023</link>
+        <dc:date>2024-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>巨大企業でDX革新を起こすということ  BTCONJP 2024 (Ken YAMAZAKI)</title>
         <link>https://speakerdeck.com/yamaken66/ju-da-qi-ye-dedxge-xin-woqi-kosutoiukoto-btconjp-2024</link>
         <dc:date>2024-10-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Vitest Browser Mode への期待 / Vitest Browser Mode (odanado)</title>
         <link>https://speakerdeck.com/odanado/vitest-browser-mode</link>
-        <dc:date>2024-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Lessons learned from being customer zero of Chrome's built-in APIs</title>
-        <link>https://docs.google.com/presentation/d/1rzATE3t4sclvUEae1jIT6MpUEajLQKu9_bKKHdrpU1c/preview</link>
-        <dc:date>2024-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Active Recordの複数DB対応を活用して、Railsアプリケーションを統廃合する</title>
-        <link>https://docs.google.com/presentation/d/1LzPqnSCC24Qc6__F1Qw5PyCW0HXVIeC3v2BNaAH45uc/preview</link>
         <dc:date>2024-10-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
