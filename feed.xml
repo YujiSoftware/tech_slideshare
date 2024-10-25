@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Capybara+生成AIでどこまで本当に自然言語のテストを書けるか？ (Yusuke Iwaki)</title>
+        <link>https://speakerdeck.com/yusukeiwaki/capybara-plus-sheng-cheng-aidedokomadeben-dang-nizi-ran-yan-yu-notesutowoshu-keruka</link>
+        <dc:date>2024-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Sidekiqで実現する 長時間非同期処理の中断と再開 / Pausing and Resuming Long-Running Asynchronous Jobs with Sidekiq (hypermkt)</title>
         <link>https://speakerdeck.com/hypermkt/pausing-and-resuming-long-running-asynchronous-jobs-with-sidekiq</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Piniaの現状と今後 (waka292)</title>
         <link>https://speakerdeck.com/waka292/pinianoxian-zhuang-tojin-hou</link>
-        <dc:date>2024-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Honoで実現するバックエンド開発のイマ (sugar-cat)</title>
-        <link>https://speakerdeck.com/sugarcat7/honodeshi-xian-surubatukuendokai-fa-noima</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
