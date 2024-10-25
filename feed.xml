@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenTelemetryでRailsのパフォーマンス分析を始めてみよう（KoR2024） (Y.Matsuda)</title>
+        <link>https://speakerdeck.com/ymtdzzz/opentelemetryderailsnopahuomansufen-xi-woshi-metemiyou-kor2024</link>
+        <dc:date>2024-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RailsのPull requestsのレビューの時に私が考えていること (Yasuo Honda)</title>
         <link>https://speakerdeck.com/yahonda/railsnopull-requestsnorebiyunoshi-nisi-gakao-eteirukoto</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>秋にチャレンジしたことLT会</title>
         <link>https://docs.google.com/presentation/d/1p9PA3R5WjAzMmiEiQLPpoZd2eCuC086jCr0p31XzWaQ/preview</link>
-        <dc:date>2024-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>まだ間に合う！ 生成AIトレンド一挙おさらい ＆ AWSのBedrockに入門しよう (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/madajian-nihe-u-sheng-cheng-aitorendo-ju-osarai-and-awsnobedrockniru-men-siyou</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
