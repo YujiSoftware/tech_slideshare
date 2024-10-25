@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>KaigiOnRails2024 (Kuniaki IGARASHI)</title>
+        <link>https://speakerdeck.com/igaiga/kaigionrails2024</link>
+        <dc:date>2024-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Postmanワークショップ: テスト自動化 - 20241008 - 公開版</title>
         <link>https://docs.google.com/presentation/d/1OL2UL8o27nUGkOSlF0OnmBCghQ8PMCzV-5fbHLDMG7U/preview</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Nuxt × Vue Router の力を最大限に引き出す機能を紹介 (ytr0903)</title>
         <link>https://speakerdeck.com/ytr0903/nuxt-x-vue-router-noli-wozui-da-xian-niyin-kichu-suji-neng-woshao-jie</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Honoの来た道とこれから (Yusuke Wada)</title>
-        <link>https://speakerdeck.com/yusukebe/hononolai-tadao-tokorekara</link>
-        <dc:date>2024-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
