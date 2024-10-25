@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>カラム追加で増えるActiveRecordのメモリサイズ イメージできますか? (asayamakk)</title>
+        <link>https://speakerdeck.com/asayamakk/karamuzhui-jia-dezeng-eruactiverecordnomemorisaizu-imezidekimasuka</link>
+        <dc:date>2024-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>僕がつくった48個のWebサービス達 (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/seventy-webservices-censored</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Ruby と Rails の小ネタ集 (DaisukeShinoku)</title>
         <link>https://speakerdeck.com/daisukeshinoku/ruby-on-rails-small-talk</link>
-        <dc:date>2024-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>数値計算とメモリ最適化 (Masayuki Mizuno)</title>
-        <link>https://speakerdeck.com/fetburner/shu-zhi-ji-suan-tomemorizui-shi-hua</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
