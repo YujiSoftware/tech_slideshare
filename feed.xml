@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RustでWeb開発コソコソ噂話 (Yuki Toyoda)</title>
+        <link>https://speakerdeck.com/helloyuk13/rustdewebkai-fa-kosokosozun-hua</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リリース8年目のサービスの1800個のERBファイルをViewComponentに移行した方法とその結果 (片岡 直之)</title>
         <link>https://speakerdeck.com/katty0324/ririsu8nian-mu-nosabisuno1800ge-noerbhuairuwoviewcomponentniyi-xing-sitafang-fa-tosonojie-guo</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>巨大企業でDX革新を起こすということ  BTCONJP 2024 (Ken YAMAZAKI)</title>
         <link>https://speakerdeck.com/yamaken66/ju-da-qi-ye-dedxge-xin-woqi-kosutoiukoto-btconjp-2024</link>
-        <dc:date>2024-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Scala NativeでAtCoderに 入門してみた (tsatow)</title>
-        <link>https://speakerdeck.com/tsatow/scala-nativedeatcoderni-ru-men-sitemita</link>
         <dc:date>2024-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
