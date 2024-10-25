@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Sidekiqで実現する 長時間非同期処理の中断と再開 / Pausing and Resuming Long-Running Asynchronous Jobs with Sidekiq (hypermkt)</title>
+        <link>https://speakerdeck.com/hypermkt/pausing-and-resuming-long-running-asynchronous-jobs-with-sidekiq</link>
+        <dc:date>2024-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS 構成図を S3 にアップするだけで  Terraform のコードを git push / pull request から terraform plan まで自動で動作するシステム (hiyanger)</title>
         <link>https://speakerdeck.com/hiyanger/pull-request-kara-terraform-plan-madezi-dong-dedong-zuo-surusisutemu</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Honoで実現するバックエンド開発のイマ (sugar-cat)</title>
         <link>https://speakerdeck.com/sugarcat7/honodeshi-xian-surubatukuendokai-fa-noima</link>
-        <dc:date>2024-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>意外に簡単！ ドキュメント翻訳で始める OSS コントリビュート @ UV Study: Vue.js LT会 (Jun Shindo,@shindy_JP)</title>
-        <link>https://www.docswell.com/s/jay-es/K3G38V-2024-10-22-uv-study</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
