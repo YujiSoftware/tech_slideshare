@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kaigi on Rails 2024 - Rails APIモードのためのシンプルで効果的なCSRF対策 / kaigionrails-2024-csrf (Takahiro Tsuchiya)</title>
+        <link>https://speakerdeck.com/corocn/kaigionrails-2024-csrf</link>
+        <dc:date>2024-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>カラム追加で増えるActiveRecordのメモリサイズ イメージできますか? (asayamakk)</title>
         <link>https://speakerdeck.com/asayamakk/karamuzhui-jia-dezeng-eruactiverecordnomemorisaizu-imezidekimasuka</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>go.mod、DockerfileやCI設定に分散しがちなGoのバージョンをまとめて管理する / Go Connect #3 (Arthur)</title>
         <link>https://speakerdeck.com/arthur1/go-toolchain-version</link>
-        <dc:date>2024-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby と Rails の小ネタ集 (DaisukeShinoku)</title>
-        <link>https://speakerdeck.com/daisukeshinoku/ruby-on-rails-small-talk</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
