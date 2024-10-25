@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS 構成図を S3 にアップするだけで  Terraform のコードを git push / pull request から terraform plan まで自動で動作するシステム (hiyanger)</title>
+        <link>https://speakerdeck.com/hiyanger/pull-request-kara-terraform-plan-madezi-dong-dedong-zuo-surusisutemu</link>
+        <dc:date>2024-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cursorでアプリ創ろ！ (dokozon0)</title>
+        <link>https://speakerdeck.com/dokozon0/cursordeapurichuang-ro</link>
+        <dc:date>2024-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OpenTelemetryでRailsのパフォーマンス分析を始めてみよう（KoR2024） (Y.Matsuda)</title>
         <link>https://speakerdeck.com/ymtdzzz/opentelemetryderailsnopahuomansufen-xi-woshi-metemiyou-kor2024</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>意外に簡単！ ドキュメント翻訳で始める OSS コントリビュート @ UV Study: Vue.js LT会 (Jun Shindo,@shindy_JP)</title>
         <link>https://www.docswell.com/s/jay-es/K3G38V-2024-10-22-uv-study</link>
-        <dc:date>2024-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ECMA-402 Tokyo Meetup 2024</title>
-        <link>https://docs.google.com/presentation/d/1kNhMC3kK9t4Fk9hLB09C0Fua0aWYXLuRpX5oe7a9FeQ/preview</link>
-        <dc:date>2024-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>秋にチャレンジしたことLT会</title>
-        <link>https://docs.google.com/presentation/d/1p9PA3R5WjAzMmiEiQLPpoZd2eCuC086jCr0p31XzWaQ/preview</link>
         <dc:date>2024-10-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
