@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大事なデータを守りたい！ActiveRecord Encryptionと、より安全かつ検索可能な暗号化手法の実装例の紹介 (小林ノエル,@free_world21)</title>
+        <link>https://www.docswell.com/s/free_world21/ZQRM4V-2024-10-26-165756</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>勉強したらどうなるの？ (Matsu)</title>
         <link>https://speakerdeck.com/mineo_matsuya/mian-qiang-sitaradounaruno</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>インシデント対応の 実践と品質文化の醸成 (rina)</title>
         <link>https://speakerdeck.com/____rina____/insidentodui-ying-no-shi-jian-topin-zhi-wen-hua-noniang-cheng</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RustでWeb開発コソコソ噂話 (Yuki Toyoda)</title>
-        <link>https://speakerdeck.com/helloyuk13/rustdewebkai-fa-kosokosozun-hua</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
