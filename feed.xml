@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[Kaigi on Rails 2024] Rails Way, or the highway (Vladimir Dementyev)</title>
+        <link>https://speakerdeck.com/palkan/kaigi-on-rails-2024-rails-way-or-the-highway</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Jamstack でリニューアルするグリーグループのメディア (gree_tech)</title>
         <link>https://speakerdeck.com/gree_tech/jamstack-deriniyuarusurugurigurupunomedeia</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>リリース8年目のサービスの1800個のERBファイルをViewComponentに移行した方法とその結果 (片岡 直之)</title>
         <link>https://speakerdeck.com/katty0324/ririsu8nian-mu-nosabisuno1800ge-noerbhuairuwoviewcomponentniyi-xing-sitafang-fa-tosonojie-guo</link>
-        <dc:date>2024-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kaigi on Rails 2024 - Rails APIモードのためのシンプルで効果的なCSRF対策 / kaigionrails-2024-csrf (Takahiro Tsuchiya)</title>
-        <link>https://speakerdeck.com/corocn/kaigionrails-2024-csrf</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
