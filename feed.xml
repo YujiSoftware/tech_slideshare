@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>デプロイを任されたので、教わった通りにデプロイしたら障害になった件 ～俺のやらかしを越えてゆけ～ (Techouse)</title>
+        <link>https://speakerdeck.com/techouse/depuroiworen-saretanode-jiao-watutatong-rinidepuroisitarazhang-hai-ninatutajian-an-noyarakasiwoyue-eteyuke</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2024-10-26-tokyo.ex-gleam-intro</title>
         <link>https://docs.google.com/presentation/d/1puSTUpkKmxMMw7qUWA5kbOY8cdY8ZhssAXuMN8Om34Q/preview</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>2024-10-09_D-Plus_LT_by_hashimo2 (hashimo2)</title>
         <link>https://speakerdeck.com/_hashimo2/2024-10-09-d-plus-lt-by-hashimo2-da2d6aae-ec42-4fa4-8a71-583017e251d5</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ECSのサービス間通信 4つの方法を比較する 〜Canary,Blue/Greenも添えて〜 (Tetsuya Kikuchi)</title>
-        <link>https://speakerdeck.com/tkikuc/greenmotian-ete</link>
-        <dc:date>2024-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
