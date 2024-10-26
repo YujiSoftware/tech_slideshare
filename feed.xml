@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2024-10-26-tokyo.ex-gleam-intro</title>
+        <link>https://docs.google.com/presentation/d/1puSTUpkKmxMMw7qUWA5kbOY8cdY8ZhssAXuMN8Om34Q/preview</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>hotwire_or_react (haruna tsujita)</title>
         <link>https://speakerdeck.com/harunatsujita/hotwire-or-react</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ECSのサービス間通信 4つの方法を比較する 〜Canary,Blue/Greenも添えて〜 (Tetsuya Kikuchi)</title>
         <link>https://speakerdeck.com/tkikuc/greenmotian-ete</link>
-        <dc:date>2024-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FargateのCPU性能の違い (moko-poi)</title>
-        <link>https://speakerdeck.com/mokopoi/fargatenocpuxing-neng-nowei-i</link>
         <dc:date>2024-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
