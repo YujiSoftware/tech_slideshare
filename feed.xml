@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DatadogでAPI毎のSQL発行数を可視化してN+1を改善した話 (Nealle)</title>
+        <link>https://speakerdeck.com/nealle/datadogdeapimei-nosqlfa-xing-shu-woke-shi-hua-siten-plus-1wogai-shan-sitahua</link>
+        <dc:date>2024-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ログから始めるオブザーバビリティ (Takanobu Hoshino)</title>
+        <link>https://speakerdeck.com/hosht/rogukarashi-meruobuzababiritei</link>
+        <dc:date>2024-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Datadogのグラフにデプロイタイミングを表示する  / deploy timing on datadog graph (Akira Kuriyama)</title>
+        <link>https://speakerdeck.com/sheepland/deploy-timing-on-datadog-graph</link>
+        <dc:date>2024-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Custom Query で監視が捗った話 / Monitoring with Custom Query (akitok)</title>
+        <link>https://speakerdeck.com/akitok_/monitoring-with-custom-query</link>
+        <dc:date>2024-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>推し活の ハイトラフィックに立ち向かう Railsとアーキテクチャ - Kaigi on Rails 2024 (Hayato OKUMOTO)</title>
+        <link>https://speakerdeck.com/falcon8823/tui-sihuo-no-haitorahuitukunili-tixiang-kau-railstoakitekutiya-kaigi-on-rails-2024</link>
+        <dc:date>2024-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>リファクタリングへの耐性が高いモデルベースの統合テストの紹介 / Model-Base Integration Test for Refactoring (YuitoSato)</title>
+        <link>https://speakerdeck.com/yuitosato/model-base-integration-test-for-refactoring</link>
+        <dc:date>2024-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Type on Rails - Railsアプリケーションの安全性と開発体験を型で革新する (kazzix)</title>
+        <link>https://speakerdeck.com/kazzix/type-on-rails-railsapurikesiyonnoan-quan-xing-tokai-fa-ti-yan-woxing-dege-xin-suru</link>
+        <dc:date>2024-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Identifying User Idenity (MOROHASHI Kyosuke)</title>
+        <link>https://speakerdeck.com/moro/identifying-user-idenity</link>
+        <dc:date>2024-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大事なデータを守りたい！ActiveRecord Encryptionと、より安全かつ検索可能な暗号化手法の実装例の紹介 (小林ノエル,@free_world21)</title>
         <link>https://www.docswell.com/s/free_world21/ZQRM4V-2024-10-26-165756</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>mockgenによるモック生成を高速化するツール bulkmockgenのご紹介 / Kyoto.go #43 (utagawa kiki)</title>
         <link>https://speakerdeck.com/utgwkk/kyoto-dot-go-number-43</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C#/.NETのこれまでのふりかえり (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/dot-netnokoremadenohurikaeri</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>約9000個の自動テストの 時間を50分-&gt;10分に短縮 Flakyテストを1%以下に抑えた話 (hatsu)</title>
-        <link>https://speakerdeck.com/hatsu38/yue-9000ge-nozi-dong-tesutono-shi-jian-wo50fen-10fen-niduan-suo-flakytesutowo1-percent-yi-xia-niyi-etahua</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OmniAuthから学ぶOAuth2.0 [Kaigi on Rails 2024] (ykpythemind)</title>
-        <link>https://speakerdeck.com/ykpythemind/omniauthkaraxue-buoauth2-dot-0-kaigi-on-rails-2024</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デプロイを任されたので、教わった通りにデプロイしたら障害になった件 ～俺のやらかしを越えてゆけ～ (Techouse)</title>
-        <link>https://speakerdeck.com/techouse/depuroiworen-saretanode-jiao-watutatong-rinidepuroisitarazhang-hai-ninatutajian-an-noyarakasiwoyue-eteyuke</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024-10-26-tokyo.ex-gleam-intro</title>
-        <link>https://docs.google.com/presentation/d/1puSTUpkKmxMMw7qUWA5kbOY8cdY8ZhssAXuMN8Om34Q/preview</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>hotwire_or_react (haruna tsujita)</title>
-        <link>https://speakerdeck.com/harunatsujita/hotwire-or-react</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>破壊せよ！データ破壊駆動で考えるドメインモデリング / data-destroy-driven (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/data-destroy-driven</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インシデント対応の 実践と品質文化の醸成 (rina)</title>
-        <link>https://speakerdeck.com/____rina____/insidentodui-ying-no-shi-jian-topin-zhi-wen-hua-noniang-cheng</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
