@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Data Migration on Rails (Masato Ohba)</title>
+        <link>https://speakerdeck.com/ohbarye/data-migration-on-rails</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Hotwire光の道とStimulus (Yasuko Ohba)</title>
+        <link>https://speakerdeck.com/nay3/hotwireguang-nodao-tostimulus</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>cXML という電子商取引の トランザクションを支える プロトコルと向きあっている話 (phigasui)</title>
         <link>https://speakerdeck.com/phigasui/cxml-toiudian-zi-shang-qu-yin-no-toranzakusiyonwozhi-eru-purotokorutoxiang-kiatuteiruhua</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Capybara+生成AIでどこまで本当に自然言語のテストを書けるか？ (Yusuke Iwaki)</title>
         <link>https://speakerdeck.com/yusukeiwaki/capybara-plus-sheng-cheng-aidedokomadeben-dang-nizi-ran-yan-yu-notesutowoshu-keruka</link>
-        <dc:date>2024-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sidekiqで実現する 長時間非同期処理の中断と再開 / Pausing and Resuming Long-Running Asynchronous Jobs with Sidekiq (hypermkt)</title>
-        <link>https://speakerdeck.com/hypermkt/pausing-and-resuming-long-running-asynchronous-jobs-with-sidekiq</link>
-        <dc:date>2024-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS 構成図を S3 にアップするだけで  Terraform のコードを git push / pull request から terraform plan まで自動で動作するシステム (hiyanger)</title>
-        <link>https://speakerdeck.com/hiyanger/pull-request-kara-terraform-plan-madezi-dong-dedong-zuo-surusisutemu</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
