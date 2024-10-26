@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Sidekiq vs Solid Queue (Shinichi Maeshima)</title>
+        <link>https://speakerdeck.com/willnet/sidekiq-vs-solid-queue</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>slogパッケージ超入門 Kyoto.go #43 オフラインLT会@マネフォ京都) (Kota)</title>
         <link>https://speakerdeck.com/yagikota/slogpatukezichao-ru-men-kyoto-dot-go-number-43-ohurainlthui-at-manehuojing-du</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Cursorでアプリ創ろ！ (dokozon0)</title>
         <link>https://speakerdeck.com/dokozon0/cursordeapurichuang-ro</link>
-        <dc:date>2024-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenTelemetryでRailsのパフォーマンス分析を始めてみよう（KoR2024） (Y.Matsuda)</title>
-        <link>https://speakerdeck.com/ymtdzzz/opentelemetryderailsnopahuomansufen-xi-woshi-metemiyou-kor2024</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
