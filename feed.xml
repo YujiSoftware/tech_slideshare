@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WHOLENESS, REPAIRING, AND TO HAVE FUN: 全体性、修復、そして楽しむこと (Koji SHIMADA)</title>
+        <link>https://speakerdeck.com/snoozer05/wholeness-repairing-and-to-have-fun</link>
+        <dc:date>2024-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DatadogでAPI毎のSQL発行数を可視化してN+1を改善した話 (Nealle)</title>
         <link>https://speakerdeck.com/nealle/datadogdeapimei-nosqlfa-xing-shu-woke-shi-hua-siten-plus-1wogai-shan-sitahua</link>
         <dc:date>2024-10-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>slogパッケージ超入門 Kyoto.go #43 オフラインLT会@マネフォ京都) (Kota)</title>
         <link>https://speakerdeck.com/yagikota/slogpatukezichao-ru-men-kyoto-dot-go-number-43-ohurainlthui-at-manehuojing-du</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>mockgenによるモック生成を高速化するツール bulkmockgenのご紹介 / Kyoto.go #43 (utagawa kiki)</title>
-        <link>https://speakerdeck.com/utgwkk/kyoto-dot-go-number-43</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
