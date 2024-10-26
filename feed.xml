@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>cXML という電子商取引の トランザクションを支える プロトコルと向きあっている話 (phigasui)</title>
+        <link>https://speakerdeck.com/phigasui/cxml-toiudian-zi-shang-qu-yin-no-toranzakusiyonwozhi-eru-purotokorutoxiang-kiatuteiruhua</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Sidekiq vs Solid Queue (Shinichi Maeshima)</title>
         <link>https://speakerdeck.com/willnet/sidekiq-vs-solid-queue</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS 構成図を S3 にアップするだけで  Terraform のコードを git push / pull request から terraform plan まで自動で動作するシステム (hiyanger)</title>
         <link>https://speakerdeck.com/hiyanger/pull-request-kara-terraform-plan-madezi-dong-dedong-zuo-surusisutemu</link>
-        <dc:date>2024-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cursorでアプリ創ろ！ (dokozon0)</title>
-        <link>https://speakerdeck.com/dokozon0/cursordeapurichuang-ro</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
