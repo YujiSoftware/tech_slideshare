@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>hotwire_or_react (haruna tsujita)</title>
+        <link>https://speakerdeck.com/harunatsujita/hotwire-or-react</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>破壊せよ！データ破壊駆動で考えるドメインモデリング / data-destroy-driven (MinoDriven)</title>
         <link>https://speakerdeck.com/minodriven/data-destroy-driven</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>FargateのCPU性能の違い (moko-poi)</title>
         <link>https://speakerdeck.com/mokopoi/fargatenocpuxing-neng-nowei-i</link>
-        <dc:date>2024-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIの活用パターンと継続的評価 (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/sheng-cheng-ainohuo-yong-patantoji-sok-de-ping-jia</link>
         <dc:date>2024-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
