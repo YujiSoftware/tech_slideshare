@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>slogパッケージ超入門 Kyoto.go #43 オフラインLT会@マネフォ京都) (Kota)</title>
+        <link>https://speakerdeck.com/yagikota/slogpatukezichao-ru-men-kyoto-dot-go-number-43-ohurainlthui-at-manehuojing-du</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>mockgenによるモック生成を高速化するツール bulkmockgenのご紹介 / Kyoto.go #43 (utagawa kiki)</title>
+        <link>https://speakerdeck.com/utgwkk/kyoto-dot-go-number-43</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>C#/.NETのこれまでのふりかえり (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/dot-netnokoremadenohurikaeri</link>
+        <dc:date>2024-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>約9000個の自動テストの 時間を50分-&gt;10分に短縮 Flakyテストを1%以下に抑えた話 (hatsu)</title>
         <link>https://speakerdeck.com/hatsu38/yue-9000ge-nozi-dong-tesutono-shi-jian-wo50fen-10fen-niduan-suo-flakytesutowo1-percent-yi-xia-niyi-etahua</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>OpenTelemetryでRailsのパフォーマンス分析を始めてみよう（KoR2024） (Y.Matsuda)</title>
         <link>https://speakerdeck.com/ymtdzzz/opentelemetryderailsnopahuomansufen-xi-woshi-metemiyou-kor2024</link>
-        <dc:date>2024-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RailsのPull requestsのレビューの時に私が考えていること (Yasuo Honda)</title>
-        <link>https://speakerdeck.com/yahonda/railsnopull-requestsnorebiyunoshi-nisi-gakao-eteirukoto</link>
-        <dc:date>2024-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>推し活としてのrails new/oshikatsu_ha_iizo (sakahukamaki)</title>
-        <link>https://speakerdeck.com/sakahukamaki/oshikatsu-ha-iizo</link>
-        <dc:date>2024-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KaigiOnRails2024 (Kuniaki IGARASHI)</title>
-        <link>https://speakerdeck.com/igaiga/kaigionrails2024</link>
         <dc:date>2024-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
