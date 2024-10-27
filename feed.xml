@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>作って理解する RDBMSのしくみ (ydah)</title>
+        <link>https://speakerdeck.com/ydah/zuo-tuteli-jie-suru-rdbmsnosikumi</link>
+        <dc:date>2024-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Java Webフレームワークの現状 / java web framework (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/java-web-framework</link>
         <dc:date>2024-10-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Practical The One Person Framework (あそなす)</title>
         <link>https://speakerdeck.com/asonas/practical-the-one-person-framework</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Data Migration on Rails (Masato Ohba)</title>
-        <link>https://speakerdeck.com/ohbarye/data-migration-on-rails</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
