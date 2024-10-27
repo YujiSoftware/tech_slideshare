@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20241027.jjug_ccc_creditsaison.pdf (Kazutoshi Ono)</title>
+        <link>https://speakerdeck.com/lalha/20241027-dot-jjug-ccc-creditsaison</link>
+        <dc:date>2024-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オニオンアーキテクチャで実現した 本質課題を解決する インフラ移行の実例 (Hiroto Ryushima)</title>
         <link>https://speakerdeck.com/hryushm/onion-architecture-infrastructure-migration</link>
         <dc:date>2024-10-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>cXML という電子商取引の トランザクションを支える プロトコルと向きあっている話 (phigasui)</title>
         <link>https://speakerdeck.com/phigasui/cxml-toiudian-zi-shang-qu-yin-no-toranzakusiyonwozhi-eru-purotokorutoxiang-kiatuteiruhua</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sidekiq vs Solid Queue (Shinichi Maeshima)</title>
-        <link>https://speakerdeck.com/willnet/sidekiq-vs-solid-queue</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
