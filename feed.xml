@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オニオンアーキテクチャで実現した 本質課題を解決する インフラ移行の実例 (Hiroto Ryushima)</title>
+        <link>https://speakerdeck.com/hryushm/onion-architecture-infrastructure-migration</link>
+        <dc:date>2024-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WHOLENESS, REPAIRING, AND TO HAVE FUN: 全体性、修復、そして楽しむこと (Koji SHIMADA)</title>
         <link>https://speakerdeck.com/snoozer05/wholeness-repairing-and-to-have-fun</link>
         <dc:date>2024-10-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Sidekiq vs Solid Queue (Shinichi Maeshima)</title>
         <link>https://speakerdeck.com/willnet/sidekiq-vs-solid-queue</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>slogパッケージ超入門 Kyoto.go #43 オフラインLT会@マネフォ京都) (Kota)</title>
-        <link>https://speakerdeck.com/yagikota/slogpatukezichao-ru-men-kyoto-dot-go-number-43-ohurainlthui-at-manehuojing-du</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
