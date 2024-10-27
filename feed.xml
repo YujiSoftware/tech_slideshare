@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Nix入門パラダイム編 (asa1984)</title>
+        <link>https://speakerdeck.com/asa1984/nixru-men-paradaimubian</link>
+        <dc:date>2024-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>詳細解説！ ArrayListの仕組みと実装 (YujiSoftware)</title>
+        <link>https://speakerdeck.com/yujisoftware/xiang-xi-jie-shuo-arraylistnoshi-zu-mitoshi-zhuang</link>
+        <dc:date>2024-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>で、ValhallaのValue Classってどうなったの？ (Yuichi.Sakuraba)</title>
+        <link>https://speakerdeck.com/skrb/de-valhallanovalue-classtutedounatutano</link>
+        <dc:date>2024-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>map関数の内部実装から探るJVM言語のコレクション: Scala, Kotlin, Clojureコレクションの基本的な設計を理解しよう (Kent OHASHI,@lagenorhynque)</title>
         <link>https://www.docswell.com/s/lagenorhynque/5QRM7E-exploring-collections-in-jvm-languages-through-internals-of-map-function</link>
         <dc:date>2024-10-26T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>大事なデータを守りたい！ActiveRecord Encryptionと、より安全かつ検索可能な暗号化手法の実装例の紹介 (小林ノエル,@free_world21)</title>
         <link>https://www.docswell.com/s/free_world21/ZQRM4V-2024-10-26-165756</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>勉強したらどうなるの？ (Matsu)</title>
-        <link>https://speakerdeck.com/mineo_matsuya/mian-qiang-sitaradounaruno</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Kaigi on Rails 2024] Rails Way, or the highway (Vladimir Dementyev)</title>
-        <link>https://speakerdeck.com/palkan/kaigi-on-rails-2024-rails-way-or-the-highway</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Jamstack でリニューアルするグリーグループのメディア (gree_tech)</title>
-        <link>https://speakerdeck.com/gree_tech/jamstack-deriniyuarusurugurigurupunomedeia</link>
         <dc:date>2024-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
