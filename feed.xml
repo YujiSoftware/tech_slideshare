@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ActiveRecord SQLインジェクションクイズ (Rails 7.1.3.4) (Koji NAKAMURA)</title>
+        <link>https://speakerdeck.com/kozy4324/activerecord-sqlinziekusiyonkuizu-rails-7-dot-1-3-dot-4</link>
+        <dc:date>2024-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Nix入門パラダイム編 (asa1984)</title>
         <link>https://speakerdeck.com/asa1984/nixru-men-paradaimubian</link>
         <dc:date>2024-10-27T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Identifying User Idenity (MOROHASHI Kyosuke)</title>
         <link>https://speakerdeck.com/moro/identifying-user-idenity</link>
         <dc:date>2024-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大事なデータを守りたい！ActiveRecord Encryptionと、より安全かつ検索可能な暗号化手法の実装例の紹介 (小林ノエル,@free_world21)</title>
-        <link>https://www.docswell.com/s/free_world21/ZQRM4V-2024-10-26-165756</link>
-        <dc:date>2024-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
