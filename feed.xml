@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kaigi on Rails: ActionCable なら簡単? 生成 AI の応答をタイピングアニメーションで表示。実装、コスト削減、テスト、運用まで。</title>
+        <link>https://docs.google.com/presentation/d/1sPCFlWPKmnTcc11Nt99swIJ-M056JtdK2tqHYZ18QEs/preview</link>
+        <dc:date>2024-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>dbt-coreで実現するCore DataMartsのデータモデリング〜dbt編〜 / Core DataMarts Modeling with dbt-core (Satoko Yanagisawa)</title>
+        <link>https://speakerdeck.com/i125/core-datamarts-modeling-with-dbt-core</link>
+        <dc:date>2024-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JJUG_CCC_2024 プロダクトが変われば、テストも変わる (mashi)</title>
+        <link>https://speakerdeck.com/yukishima/jjug-ccc-2024-hurotakutokabian-wareha-tesutomobian-waru</link>
+        <dc:date>2024-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SpringBoot x MyBatis x TestContainersでSQLテストを行う (k_sasaki)</title>
         <link>https://speakerdeck.com/koheisasaki/springboot-x-mybatis-x-testcontainersdesqltesutowoxing-u</link>
         <dc:date>2024-10-27T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>作って理解する RDBMSのしくみ (ydah)</title>
         <link>https://speakerdeck.com/ydah/zuo-tuteli-jie-suru-rdbmsnosikumi</link>
-        <dc:date>2024-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java Webフレームワークの現状 / java web framework (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/java-web-framework</link>
-        <dc:date>2024-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現場で役立つモデリング　超入門 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/modeling-primer</link>
-        <dc:date>2024-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20241027.jjug_ccc_creditsaison.pdf (Kazutoshi Ono)</title>
-        <link>https://speakerdeck.com/lalha/20241027-dot-jjug-ccc-creditsaison</link>
         <dc:date>2024-10-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
