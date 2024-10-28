@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「ビジネスロジック」と「例外」 (Magnolia.K)</title>
+        <link>https://speakerdeck.com/magnolia/bizinesurozituku-to-li-wai</link>
+        <dc:date>2024-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>内製化によるシステムモダナイゼーションの実践 (Kazuhiko Okumura)</title>
         <link>https://speakerdeck.com/kazokmr/nei-zhi-hua-niyorusisutemumodanaizesiyonnoshi-jian</link>
         <dc:date>2024-10-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>リファクタリングへの耐性が高いモデルベースの統合テストの紹介 / Model-Base Integration Test for Refactoring (YuitoSato)</title>
         <link>https://speakerdeck.com/yuitosato/model-base-integration-test-for-refactoring</link>
-        <dc:date>2024-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Type on Rails - Railsアプリケーションの安全性と開発体験を型で革新する (kazzix)</title>
-        <link>https://speakerdeck.com/kazzix/type-on-rails-railsapurikesiyonnoan-quan-xing-tokai-fa-ti-yan-woxing-dege-xin-suru</link>
         <dc:date>2024-10-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
