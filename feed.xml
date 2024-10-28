@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kotlin/Androidでテスト駆動開発をはじめよう (hiro)</title>
+        <link>https://speakerdeck.com/hiroaki404/androiddetesutoqu-dong-kai-fa-wohazimeyou</link>
+        <dc:date>2024-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テストコードの観点から見たSansanのアーキテクチャ変遷 (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/sansan-20240626</link>
+        <dc:date>2024-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[Flutter] Unitテストの基礎を理解する (h.uriu)</title>
+        <link>https://speakerdeck.com/haruki_uiru/flutter-unittesutonoji-chu-woli-jie-suru</link>
+        <dc:date>2024-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>いまからでも遅くない！ コンテナでWebアプリケーションを 動かしてみよう（1）Gitハンズオン (NoMu)</title>
         <link>https://speakerdeck.com/nomu/imakarademochi-kunai-kontenadewebapurikesiyonwo-dong-kasitemiyou-1-githanzuon</link>
         <dc:date>2024-10-27T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>WHOLENESS, REPAIRING, AND TO HAVE FUN: 全体性、修復、そして楽しむこと (Koji SHIMADA)</title>
         <link>https://speakerdeck.com/snoozer05/wholeness-repairing-and-to-have-fun</link>
-        <dc:date>2024-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DatadogでAPI毎のSQL発行数を可視化してN+1を改善した話 (Nealle)</title>
-        <link>https://speakerdeck.com/nealle/datadogdeapimei-nosqlfa-xing-shu-woke-shi-hua-siten-plus-1wogai-shan-sitahua</link>
-        <dc:date>2024-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ログから始めるオブザーバビリティ (Takanobu Hoshino)</title>
-        <link>https://speakerdeck.com/hosht/rogukarashi-meruobuzababiritei</link>
-        <dc:date>2024-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Datadogのグラフにデプロイタイミングを表示する  / deploy timing on datadog graph (Akira Kuriyama)</title>
-        <link>https://speakerdeck.com/sheepland/deploy-timing-on-datadog-graph</link>
         <dc:date>2024-10-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
