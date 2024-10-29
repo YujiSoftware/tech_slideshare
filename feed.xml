@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ピラミッド、アイスクリームコーン、SMURF: 自動テストの最適バランスを求めて / Pyramid Ice-Cream-Cone and SMURF (Takuto Wada)</title>
+        <link>https://speakerdeck.com/twada/pyramid-ice-cream-cone-and-smurf</link>
+        <dc:date>2024-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS IaCの注目アップデート 2024年10月版 (Kenji Kono)</title>
         <link>https://speakerdeck.com/konokenj/aws-iac-update-oct-2024</link>
         <dc:date>2024-10-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>詳細解説！ ArrayListの仕組みと実装 (YujiSoftware)</title>
         <link>https://speakerdeck.com/yujisoftware/xiang-xi-jie-shuo-arraylistnoshi-zu-mitoshi-zhuang</link>
-        <dc:date>2024-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>で、ValhallaのValue Classってどうなったの？ (Yuichi.Sakuraba)</title>
-        <link>https://speakerdeck.com/skrb/de-valhallanovalue-classtutedounatutano</link>
         <dc:date>2024-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
