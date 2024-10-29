@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「最高のチューニング」をしないために / hack@delta 24.10 (FUJIWARA Shunichiro)</title>
+        <link>https://speakerdeck.com/fujiwara3/hack-at-delta-24-dot-10</link>
+        <dc:date>2024-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>顧客が本当に必要だったもの  - パフォーマンス改善編 / Make what is needed (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/make-what-is-needed</link>
         <dc:date>2024-10-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ActiveRecord SQLインジェクションクイズ (Rails 7.1.3.4) (Koji NAKAMURA)</title>
         <link>https://speakerdeck.com/kozy4324/activerecord-sqlinziekusiyonkuizu-rails-7-dot-1-3-dot-4</link>
-        <dc:date>2024-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nix入門パラダイム編 (asa1984)</title>
-        <link>https://speakerdeck.com/asa1984/nixru-men-paradaimubian</link>
         <dc:date>2024-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
