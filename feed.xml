@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>顧客が本当に必要だったもの  - パフォーマンス改善編 / Make what is needed (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/make-what-is-needed</link>
+        <dc:date>2024-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ピラミッド、アイスクリームコーン、SMURF: 自動テストの最適バランスを求めて / Pyramid Ice-Cream-Cone and SMURF (Takuto Wada)</title>
         <link>https://speakerdeck.com/twada/pyramid-ice-cream-cone-and-smurf</link>
         <dc:date>2024-10-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Nix入門パラダイム編 (asa1984)</title>
         <link>https://speakerdeck.com/asa1984/nixru-men-paradaimubian</link>
-        <dc:date>2024-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>詳細解説！ ArrayListの仕組みと実装 (YujiSoftware)</title>
-        <link>https://speakerdeck.com/yujisoftware/xiang-xi-jie-shuo-arraylistnoshi-zu-mitoshi-zhuang</link>
         <dc:date>2024-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
