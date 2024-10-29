@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LeSSに潜む「隠れWF病」とその処方箋 (LY Corporation Tech)</title>
+        <link>https://speakerdeck.com/lycorptech_jp/20241021_less_yokae_prescription</link>
+        <dc:date>2024-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LeSSをはじめよう〜LeSSをはじめるとき、LeSSをはじめてから、知りたかったこと詰め合わせ〜 (LY Corporation Tech)</title>
+        <link>https://speakerdeck.com/lycorptech_jp/lesswohazimeyou-lesswohazimerutoki-lesswohazimetekara-zhi-ritakatutakotojie-mehe-wase</link>
+        <dc:date>2024-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Unlocking the potential of Nuxt Server Components (wattanx)</title>
+        <link>https://speakerdeck.com/wattanx/unlocking-the-potential-of-nuxt-server-components</link>
+        <dc:date>2024-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CI/CDやテスト自動化の開発プロジェクトへの適用 (Satoshi Seto)</title>
         <link>https://speakerdeck.com/megascus/cdyatesutozi-dong-hua-nokai-fa-puroziekutohenoshi-yong</link>
         <dc:date>2024-10-28T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>役立つログに取り組もう (irof)</title>
         <link>https://speakerdeck.com/irof/yi-li-turokuniqu-rizu-mou</link>
-        <dc:date>2024-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイロ化した金融システムを、packwerk を利用して無事故でリファクタリングした話 (coincheck)</title>
-        <link>https://speakerdeck.com/coincheck_recruit/sairohua-sitajin-rong-sisutemuwo-packwerk-woli-yong-sitewu-shi-gu-derihuakutaringusitahua</link>
-        <dc:date>2024-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「ビジネスロジック」と「例外」 (Magnolia.K)</title>
-        <link>https://speakerdeck.com/magnolia/bizinesurozituku-to-li-wai</link>
-        <dc:date>2024-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>内製化によるシステムモダナイゼーションの実践 (Kazuhiko Okumura)</title>
-        <link>https://speakerdeck.com/kazokmr/nei-zhi-hua-niyorusisutemumodanaizesiyonnoshi-jian</link>
         <dc:date>2024-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
