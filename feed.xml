@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS IaCの注目アップデート 2024年10月版 (Kenji Kono)</title>
+        <link>https://speakerdeck.com/konokenj/aws-iac-update-oct-2024</link>
+        <dc:date>2024-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>都市伝説バスターズ「WebアプリのボトルネックはDBだから言語の性能は関係ない」 - Kaigi on Rails 2024 (osyoyu)</title>
         <link>https://speakerdeck.com/osyoyu/du-shi-chuan-shuo-basutazu-webapurinobotorunetukuhadbdakarayan-yu-noxing-neng-haguan-xi-nai-kaigi-on-rails-2024</link>
         <dc:date>2024-10-28T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>で、ValhallaのValue Classってどうなったの？ (Yuichi.Sakuraba)</title>
         <link>https://speakerdeck.com/skrb/de-valhallanovalue-classtutedounatutano</link>
         <dc:date>2024-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>map関数の内部実装から探るJVM言語のコレクション: Scala, Kotlin, Clojureコレクションの基本的な設計を理解しよう (Kent OHASHI,@lagenorhynque)</title>
-        <link>https://www.docswell.com/s/lagenorhynque/5QRM7E-exploring-collections-in-jvm-languages-through-internals-of-map-function</link>
-        <dc:date>2024-10-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
