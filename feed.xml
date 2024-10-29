@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>品質の高速フィードバックへの取り組み / Commitment to Fast Quality Feedback (freee)</title>
+        <link>https://speakerdeck.com/freee/commitment-to-fast-quality-feedback</link>
+        <dc:date>2024-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kaigi on Rails: ActionCable なら簡単? 生成 AI の応答をタイピングアニメーションで表示。実装、コスト削減、テスト、運用まで。</title>
         <link>https://docs.google.com/presentation/d/1sPCFlWPKmnTcc11Nt99swIJ-M056JtdK2tqHYZ18QEs/preview</link>
         <dc:date>2024-10-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>EventSourcingの理想と現実 (H.Naka)</title>
         <link>https://speakerdeck.com/wenas/eventsourcingnoli-xiang-toxian-shi</link>
-        <dc:date>2024-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>作って理解する RDBMSのしくみ (ydah)</title>
-        <link>https://speakerdeck.com/ydah/zuo-tuteli-jie-suru-rdbmsnosikumi</link>
         <dc:date>2024-10-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
