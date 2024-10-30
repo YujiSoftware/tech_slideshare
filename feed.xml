@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>30万人が利用するチャットをFirebase Realtime DatabaseからActionCableへ移行する方法 (ryosk7)</title>
+        <link>https://speakerdeck.com/ryosk7/30mo-ren-gali-yong-surutiyatutowofirebase-realtime-databasekaraactioncableheyi-xing-surufang-fa</link>
+        <dc:date>2024-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>APIテスト自動化の勘所 (Yoichi Kawasaki)</title>
         <link>https://speakerdeck.com/yokawasa/the-key-to-api-test-automation</link>
         <dc:date>2024-10-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>テストコードの観点から見たSansanのアーキテクチャ変遷 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20240626</link>
-        <dc:date>2024-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Flutter] Unitテストの基礎を理解する (h.uriu)</title>
-        <link>https://speakerdeck.com/haruki_uiru/flutter-unittesutonoji-chu-woli-jie-suru</link>
         <dc:date>2024-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
