@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>再考: みてねにおけるSLI/SLO (kimuson13)</title>
+        <link>https://speakerdeck.com/kimuson13/slo</link>
+        <dc:date>2024-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バクラクにおける可観測性向上の取り組み (yuu26)</title>
+        <link>https://speakerdeck.com/yuu26/20241030-mixi-layerx-sre</link>
+        <dc:date>2024-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>30万人が利用するチャットをFirebase Realtime DatabaseからActionCableへ移行する方法 (ryosk7)</title>
         <link>https://speakerdeck.com/ryosk7/30mo-ren-gali-yong-surutiyatutowofirebase-realtime-databasekaraactioncableheyi-xing-surufang-fa</link>
         <dc:date>2024-10-29T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>omakaseしないための.rubocop.yml のつくりかた / How to Build Your .rubocop.yml to Avoid Omakase #kaigionrails (Linkers Tech)</title>
         <link>https://speakerdeck.com/linkers_tech/how-to-build-your-rubocop-dot-yml-to-avoid-omakase</link>
-        <dc:date>2024-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kotlin/Androidでテスト駆動開発をはじめよう (hiro)</title>
-        <link>https://speakerdeck.com/hiroaki404/androiddetesutoqu-dong-kai-fa-wohazimeyou</link>
-        <dc:date>2024-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テストコードの観点から見たSansanのアーキテクチャ変遷 (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20240626</link>
         <dc:date>2024-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
