@@ -38,10 +38,10 @@ public class ConnpassCollector implements SlideCollector {
 
         List<Slide> list = new ArrayList<>();
         for (Connpass.Event event : Connpass.getEvents(cache.updatedAt())) {
-            List<Slide> found = collectSlide(cache, event.eventUrl());
+            List<Slide> found = collectSlide(cache, event.url());
             list.addAll(found);
 
-            logger.debug("Event url: {}, found: {}", event.eventUrl(), found.size());
+            logger.debug("Event url: {}, found: {}", event.url(), found.size());
         }
 
         cache.flush();
@@ -49,10 +49,10 @@ public class ConnpassCollector implements SlideCollector {
         return list;
     }
 
-    protected List<Slide> collectSlide(Cache cache, String eventUrl) throws IOException {
+    protected List<Slide> collectSlide(Cache cache, String url) throws IOException {
         List<Slide> list = new ArrayList<>();
 
-        String presentation = eventUrl + "/presentation/";
+        String presentation = url + "/presentation/";
         Document doc = Jsoup.connect(presentation).get();
 
         // SlideShare

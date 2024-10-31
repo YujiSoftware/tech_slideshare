@@ -1,5 +1,6 @@
 package tech.slideshare.connpass;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
@@ -31,11 +32,11 @@ public record Connpass(
     /**
      * イベント情報
      *
-     * @param eventId          イベントID
+     * @param id               イベントID
      * @param title            タイトル
      * @param catchText        キャッチ
      * @param description      概要(HTML形式)
-     * @param eventUrl         connpass.com 上のURL
+     * @param url              connpass.com上のURL
      * @param hashTag          Twitterのハッシュタグ
      * @param startedAt        イベント開催日時 (ISO-8601形式)
      * @param endedAt          イベント終了日時 (ISO-8601形式)
@@ -53,12 +54,13 @@ public record Connpass(
      * @param waiting          補欠者数
      * @param updatedAt        更新日時 (ISO-8601形式)
      */
+    @JsonIgnoreProperties({"event_id", "event_url"})
     public record Event(
-            @JsonProperty("event_id") int eventId,
+            @JsonProperty("id") int id,
             @JsonProperty("title") String title,
             @JsonProperty("catch") String catchText,
             @JsonProperty("description") String description,
-            @JsonProperty("event_url") String eventUrl,
+            @JsonProperty("url") String url,
             @JsonProperty("hash_tag") String hashTag,
             @JsonProperty("started_at") ZonedDateTime startedAt,
             @JsonProperty("ended_at") ZonedDateTime endedAt,
@@ -93,6 +95,8 @@ public record Connpass(
 
     private static final Logger logger = LoggerFactory.getLogger(ConnpassCollector.class);
 
+    static final ObjectMapper mapper = new ObjectMapper().registerModule(new JavaTimeModule());
+
     public static List<Event> getEvents(Instant instant) throws IOException {
         int count = 100;
         int loop = 10;
@@ -103,8 +107,6 @@ public record Connpass(
             URL url = new URL("https://connpass.com/api/v1/event/?count=" + count + "&start=" + (i * count));
             logger.debug("Request: {}", url);
 
-            ObjectMapper mapper = new ObjectMapper();
-            mapper.registerModule(new JavaTimeModule());
             Connpass connpass = mapper.readValue(url, Connpass.class);
 
             for (Event event : connpass.events()) {
@@ -119,4 +121,5 @@ public record Connpass(
 
         return events;
     }
+
 }
