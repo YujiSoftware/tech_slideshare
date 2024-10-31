@@ -6,6 +6,96 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS Fault Injection Serviceを使った障害試験のシナリオと実施方法について (NRI Netcom)</title>
+        <link>https://speakerdeck.com/nrinetcom/aws-fault-injection-servicewoshi-tuta-zhang-hai-shi-yan-nosinariotoshi-shi-fang-fa-nituite</link>
+        <dc:date>2024-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RDS for Db2 データ移行編 - Part3: Qレプリケーションでデータ連携/20241025-RDSforDb2-dojo (Mayumi Hirano)</title>
+        <link>https://speakerdeck.com/mayumihirano/20241025-rdsfordb2-dojo</link>
+        <dc:date>2024-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Gemini in Android Studio 使ってますか？ (satoryo56)</title>
+        <link>https://speakerdeck.com/satoryo56/gemini-in-android-studio-shi-tutemasuka</link>
+        <dc:date>2024-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[LT] Type First な Form 開発のご紹介 (hedrall)</title>
+        <link>https://speakerdeck.com/hedrall/lt-type-first-na-form-kai-fa-nogoshao-jie</link>
+        <dc:date>2024-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ECS Service Connectのこれまでのアップデートと今後のRoadmapを見てみる (Tetsuya Kikuchi)</title>
+        <link>https://speakerdeck.com/tkikuc/ecs-service-connectnokoremadenoatupudetotojin-hou-noroadmapwojian-temiru</link>
+        <dc:date>2024-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>いまさらのStorybook (ikuma-t)</title>
+        <link>https://speakerdeck.com/ikumatadokoro/imasaranostorybook-576eb695-5b03-4e63-83ec-54c7071ac2af</link>
+        <dc:date>2024-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Streams APIとTCPフロー制御 / Web Streams API and TCP flow control (tasshi)</title>
+        <link>https://speakerdeck.com/tasshi/web-streams-api-and-tcp-flow-control</link>
+        <dc:date>2024-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>いまならこう作りたい AWSコンテナ[本格]入門ハンズオン　〜2024年版 ハンズオンの構想〜 (horsewin)</title>
+        <link>https://speakerdeck.com/horsewin/imanarakouzuo-ritai-awskontena-ben-ge-ru-men-hanzuon-2024nian-ban-hanzuonnogou-xiang</link>
+        <dc:date>2024-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>『ドメイン駆動設計をはじめよう』のモデリングアプローチ (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/umtp-modeling-seminar-2024-10</link>
+        <dc:date>2024-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>pandasはPolarsに性能面で追いつき追い越せるのか (vaaaaanquish)</title>
+        <link>https://speakerdeck.com/vaaaaanquish/comparison-polars-pandas</link>
+        <dc:date>2024-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最速最小からはじめるデータプロダクト / Data Product MVP (Amane Suzuki)</title>
+        <link>https://speakerdeck.com/amaotone/data-product-mvp</link>
+        <dc:date>2024-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>小規模に始めるデータメッシュとデータガバナンスの実践 (kimujun)</title>
+        <link>https://speakerdeck.com/kimujun/xiao-gui-mo-nishi-merudetametusiyutodetagabanansunoshi-jian</link>
+        <dc:date>2024-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コスト観点で見る CloudFront (4hei4hei)</title>
+        <link>https://speakerdeck.com/4hei4hei/kosutoguan-dian-dejian-ru-cloudfront</link>
+        <dc:date>2024-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アジャイルを支えるテストアーキテクチャ設計/Test Architecting for Agile (Hiroki Iseri)</title>
+        <link>https://speakerdeck.com/goyoki/test-architecting-for-agile</link>
+        <dc:date>2024-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSコンテナ本出版から3年経った今、もし改めて執筆し直すなら / If I revise our container book (iselegant)</title>
+        <link>https://speakerdeck.com/iselegant/if-i-revise-our-container-book</link>
+        <dc:date>2024-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データサイエンス関連資格 (猫のタロー,@lou66jp)</title>
+        <link>https://www.docswell.com/s/Cat_Taro/ZWWVQX-2024-10-30-091539</link>
+        <dc:date>2024-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vueで Webコンポーネントを作って Reactで使う / 20241030-cloudsign-vuefes_after_night (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20241030-cloudsign-vuefes-after-night</link>
+        <dc:date>2024-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新卒1年目が向き合う生成AI事業の開発を加速させる技術選定 / ai-web-launcher (CyberAgent)</title>
+        <link>https://speakerdeck.com/cyberagentdevelopers/ai-web-launcher</link>
+        <dc:date>2024-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>分布で見る効果検証入門 / ai-distributional-effect (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/ai-distributional-effect</link>
         <dc:date>2024-10-30T15:00:00Z</dc:date>
@@ -14,95 +104,5 @@
         <title>再考: みてねにおけるSLI/SLO (kimuson13)</title>
         <link>https://speakerdeck.com/kimuson13/slo</link>
         <dc:date>2024-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バクラクにおける可観測性向上の取り組み (yuu26)</title>
-        <link>https://speakerdeck.com/yuu26/20241030-mixi-layerx-sre</link>
-        <dc:date>2024-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>30万人が利用するチャットをFirebase Realtime DatabaseからActionCableへ移行する方法 (ryosk7)</title>
-        <link>https://speakerdeck.com/ryosk7/30mo-ren-gali-yong-surutiyatutowofirebase-realtime-databasekaraactioncableheyi-xing-surufang-fa</link>
-        <dc:date>2024-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>APIテスト自動化の勘所 (Yoichi Kawasaki)</title>
-        <link>https://speakerdeck.com/yokawasa/the-key-to-api-test-automation</link>
-        <dc:date>2024-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPUnitのマニュアルを徹底解剖してみる パート2 (kouki.miura)</title>
-        <link>https://speakerdeck.com/koukimiura/phpunitnomaniyuaruwoche-di-jie-pou-sitemiru-pato2</link>
-        <dc:date>2024-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LeSSに潜む「隠れWF病」とその処方箋 (LY Corporation Tech)</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20241021_less_yokae_prescription</link>
-        <dc:date>2024-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LeSSをはじめよう〜LeSSをはじめるとき、LeSSをはじめてから、知りたかったこと詰め合わせ〜 (LY Corporation Tech)</title>
-        <link>https://speakerdeck.com/lycorptech_jp/lesswohazimeyou-lesswohazimerutoki-lesswohazimetekara-zhi-ritakatutakotojie-mehe-wase</link>
-        <dc:date>2024-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unlocking the potential of Nuxt Server Components (wattanx)</title>
-        <link>https://speakerdeck.com/wattanx/unlocking-the-potential-of-nuxt-server-components</link>
-        <dc:date>2024-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CI/CDやテスト自動化の開発プロジェクトへの適用 (Satoshi Seto)</title>
-        <link>https://speakerdeck.com/megascus/cdyatesutozi-dong-hua-nokai-fa-puroziekutohenoshi-yong</link>
-        <dc:date>2024-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「最高のチューニング」をしないために / hack@delta 24.10 (FUJIWARA Shunichiro)</title>
-        <link>https://speakerdeck.com/fujiwara3/hack-at-delta-24-dot-10</link>
-        <dc:date>2024-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>顧客が本当に必要だったもの  - パフォーマンス改善編 / Make what is needed (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/make-what-is-needed</link>
-        <dc:date>2024-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ピラミッド、アイスクリームコーン、SMURF: 自動テストの最適バランスを求めて / Pyramid Ice-Cream-Cone and SMURF (Takuto Wada)</title>
-        <link>https://speakerdeck.com/twada/pyramid-ice-cream-cone-and-smurf</link>
-        <dc:date>2024-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS IaCの注目アップデート 2024年10月版 (Kenji Kono)</title>
-        <link>https://speakerdeck.com/konokenj/aws-iac-update-oct-2024</link>
-        <dc:date>2024-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>都市伝説バスターズ「WebアプリのボトルネックはDBだから言語の性能は関係ない」 - Kaigi on Rails 2024 (osyoyu)</title>
-        <link>https://speakerdeck.com/osyoyu/du-shi-chuan-shuo-basutazu-webapurinobotorunetukuhadbdakarayan-yu-noxing-neng-haguan-xi-nai-kaigi-on-rails-2024</link>
-        <dc:date>2024-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>品質の高速フィードバックへの取り組み / Commitment to Fast Quality Feedback (freee)</title>
-        <link>https://speakerdeck.com/freee/commitment-to-fast-quality-feedback</link>
-        <dc:date>2024-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kaigi on Rails: ActionCable なら簡単? 生成 AI の応答をタイピングアニメーションで表示。実装、コスト削減、テスト、運用まで。</title>
-        <link>https://docs.google.com/presentation/d/1sPCFlWPKmnTcc11Nt99swIJ-M056JtdK2tqHYZ18QEs/preview</link>
-        <dc:date>2024-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbt-coreで実現するCore DataMartsのデータモデリング〜dbt編〜 / Core DataMarts Modeling with dbt-core (Satoko Yanagisawa)</title>
-        <link>https://speakerdeck.com/i125/core-datamarts-modeling-with-dbt-core</link>
-        <dc:date>2024-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JJUG_CCC_2024 プロダクトが変われば、テストも変わる (mashi)</title>
-        <link>https://speakerdeck.com/yukishima/jjug-ccc-2024-hurotakutokabian-wareha-tesutomobian-waru</link>
-        <dc:date>2024-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SpringBoot x MyBatis x TestContainersでSQLテストを行う (k_sasaki)</title>
-        <link>https://speakerdeck.com/koheisasaki/springboot-x-mybatis-x-testcontainersdesqltesutowoxing-u</link>
-        <dc:date>2024-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
