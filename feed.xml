@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プリントデバッグを失敗させないテクニック (Kentaro Matsumoto)</title>
+        <link>https://speakerdeck.com/matsu7874/rust-lt-for-beginners-print-debug</link>
+        <dc:date>2024-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RustでAWS Lambda functionをいい感じに書く (taiki45)</title>
+        <link>https://speakerdeck.com/taiki45/rustdeaws-lambda-functionwoiigan-zinishu-ku</link>
+        <dc:date>2024-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS Fault Injection Serviceを使った障害試験のシナリオと実施方法について (NRI Netcom)</title>
         <link>https://speakerdeck.com/nrinetcom/aws-fault-injection-servicewoshi-tuta-zhang-hai-shi-yan-nosinariotoshi-shi-fang-fa-nituite</link>
         <dc:date>2024-10-31T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>新卒1年目が向き合う生成AI事業の開発を加速させる技術選定 / ai-web-launcher (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/ai-web-launcher</link>
         <dc:date>2024-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>分布で見る効果検証入門 / ai-distributional-effect (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/ai-distributional-effect</link>
-        <dc:date>2024-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>再考: みてねにおけるSLI/SLO (kimuson13)</title>
-        <link>https://speakerdeck.com/kimuson13/slo</link>
-        <dc:date>2024-10-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
