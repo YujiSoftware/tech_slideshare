@@ -6,6 +6,61 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクト成長に対応するプラットフォーム戦略:Authleteによる共通認証基盤の移行事例 / Building an authentication platform using Authlete and AWS (kakehashi)</title>
+        <link>https://speakerdeck.com/kakehashi/building-an-authentication-platform-using-authlete-and-aws</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>初心者に Vue.js を 教えるには (karacoro / からころ)</title>
+        <link>https://speakerdeck.com/tsukuha/chu-xin-zhe-ni-vue-dot-js-wo-jiao-eruniha</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pinia Colada が実現するスマートな非同期処理 (Naoki Haba)</title>
+        <link>https://speakerdeck.com/naokihaba/pinia-colada-gashi-xian-surusumatonafei-tong-qi-chu-li</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Weekly AI Agents News! 10月号 論文のアーカイブ (masatoto)</title>
+        <link>https://speakerdeck.com/masatoto/weekly-ai-agents-news-10yue-hao-lun-wen-noakaibu</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なんで、私がAWS Heroに!? 〜社外の広い世界に一歩踏み出そう〜 (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/nande-si-gaaws-heroni-she-wai-noguang-ishi-jie-ni-bu-ta-michu-sou</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ベイビーステップで実現！ 地図検索機能のVue2→3移行話/Achieving Baby Steps: Transitioning Map Search Functionality from Vue 2 to Vue 3 (コドモン開発チーム)</title>
+        <link>https://speakerdeck.com/codmoninc/achieving-baby-steps-transitioning-map-search-functionality-from-vue-2-to-vue-3</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Actionsのキャッシュと手を挙げることの大切さとそれに必要なこと (Satoshi Kaneyasu)</title>
+        <link>https://speakerdeck.com/satoshi256kbyte/5fen-lt-github-actionsnokiyatusiyutokoretuteshui-kayaruno-nahua</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ウォンテッドリーの推薦システム開発を支える評価とデプロイの仕組み (chimuichimu)</title>
+        <link>https://speakerdeck.com/chimuichimu/uontetudorinotui-jian-sisutemukai-fa-wozhi-eruping-jia-todepuroinoshi-zu-mi</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロダクトチームへのSystem Risk Records導入・運用事例の紹介/Introduction and Case Studies on Implementing and Operating System Risk Records for Product Teams (SadayoshiTada)</title>
+        <link>https://speakerdeck.com/taddy_919/introduction-and-case-studies-on-implementing-and-operating-system-risk-records-for-product-teams</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>一休.comレストランにおけるRustの活用 (Kōhei Yamamoto)</title>
+        <link>https://speakerdeck.com/kymmt90/xiu-dot-comresutoranniokerurustnohuo-yong</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS CDKでデータリストアの運用、どのように設計する？～Aurora・EFSの実践事例を紹介～/aws-cdk-data-restore-aurora-efs (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
+        <link>https://speakerdeck.com/mhrtech/aws-cdk-data-restore-aurora-efs</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Shift-from-React-to-Vue (Moriyama Nagi)</title>
         <link>https://speakerdeck.com/calm1205/vue-fes-after-party-shift-from-react-to-vue</link>
         <dc:date>2024-10-31T15:00:00Z</dc:date>
@@ -49,60 +104,5 @@
         <title>Gemini in Android Studio 使ってますか？ (satoryo56)</title>
         <link>https://speakerdeck.com/satoryo56/gemini-in-android-studio-shi-tutemasuka</link>
         <dc:date>2024-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[LT] Type First な Form 開発のご紹介 (hedrall)</title>
-        <link>https://speakerdeck.com/hedrall/lt-type-first-na-form-kai-fa-nogoshao-jie</link>
-        <dc:date>2024-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ECS Service Connectのこれまでのアップデートと今後のRoadmapを見てみる (Tetsuya Kikuchi)</title>
-        <link>https://speakerdeck.com/tkikuc/ecs-service-connectnokoremadenoatupudetotojin-hou-noroadmapwojian-temiru</link>
-        <dc:date>2024-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いまさらのStorybook (ikuma-t)</title>
-        <link>https://speakerdeck.com/ikumatadokoro/imasaranostorybook-576eb695-5b03-4e63-83ec-54c7071ac2af</link>
-        <dc:date>2024-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Streams APIとTCPフロー制御 / Web Streams API and TCP flow control (tasshi)</title>
-        <link>https://speakerdeck.com/tasshi/web-streams-api-and-tcp-flow-control</link>
-        <dc:date>2024-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いまならこう作りたい AWSコンテナ[本格]入門ハンズオン　〜2024年版 ハンズオンの構想〜 (horsewin)</title>
-        <link>https://speakerdeck.com/horsewin/imanarakouzuo-ritai-awskontena-ben-ge-ru-men-hanzuon-2024nian-ban-hanzuonnogou-xiang</link>
-        <dc:date>2024-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『ドメイン駆動設計をはじめよう』のモデリングアプローチ (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/umtp-modeling-seminar-2024-10</link>
-        <dc:date>2024-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>pandasはPolarsに性能面で追いつき追い越せるのか (vaaaaanquish)</title>
-        <link>https://speakerdeck.com/vaaaaanquish/comparison-polars-pandas</link>
-        <dc:date>2024-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最速最小からはじめるデータプロダクト / Data Product MVP (Amane Suzuki)</title>
-        <link>https://speakerdeck.com/amaotone/data-product-mvp</link>
-        <dc:date>2024-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>小規模に始めるデータメッシュとデータガバナンスの実践 (kimujun)</title>
-        <link>https://speakerdeck.com/kimujun/xiao-gui-mo-nishi-merudetametusiyutodetagabanansunoshi-jian</link>
-        <dc:date>2024-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コスト観点で見る CloudFront (4hei4hei)</title>
-        <link>https://speakerdeck.com/4hei4hei/kosutoguan-dian-dejian-ru-cloudfront</link>
-        <dc:date>2024-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイルを支えるテストアーキテクチャ設計/Test Architecting for Agile (Hiroki Iseri)</title>
-        <link>https://speakerdeck.com/goyoki/test-architecting-for-agile</link>
-        <dc:date>2024-10-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
