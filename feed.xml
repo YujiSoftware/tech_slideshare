@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Komerco-コメルコ-を支える技術 (star__hoshi)</title>
+        <link>https://speakerdeck.com/starhoshi/komerco-komeruko-wozhi-eruji-shu</link>
+        <dc:date>2024-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Effective Firestore Security (Suguru Kishimoto)</title>
+        <link>https://speakerdeck.com/sgrksmt/effective-firestore-security</link>
+        <dc:date>2024-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プリントデバッグを失敗させないテクニック (Kentaro Matsumoto)</title>
         <link>https://speakerdeck.com/matsu7874/rust-lt-for-beginners-print-debug</link>
         <dc:date>2024-10-31T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>データサイエンス関連資格 (猫のタロー,@lou66jp)</title>
         <link>https://www.docswell.com/s/Cat_Taro/ZWWVQX-2024-10-30-091539</link>
-        <dc:date>2024-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vueで Webコンポーネントを作って Reactで使う / 20241030-cloudsign-vuefes_after_night (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20241030-cloudsign-vuefes-after-night</link>
-        <dc:date>2024-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新卒1年目が向き合う生成AI事業の開発を加速させる技術選定 / ai-web-launcher (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/ai-web-launcher</link>
         <dc:date>2024-10-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
