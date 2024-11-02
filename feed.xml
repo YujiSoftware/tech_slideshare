@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>日経電子版におけるリアルタイムレコメンドシステム開発の事例紹介/nikkei-realtime-recommender-system (yng87)</title>
+        <link>https://speakerdeck.com/yng87/nikkei-realtime-recommender-system</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>高速軽量点群エンジンDawnの 事例紹介とアップデート_技術編 (ホロラボ,@HoloLabInc)</title>
         <link>https://www.docswell.com/s/HoloLab/51R29L-holotech24_b1_b</link>
         <dc:date>2024-11-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS Fault Injection Serviceを使った障害試験のシナリオと実施方法について (NRI Netcom)</title>
         <link>https://speakerdeck.com/nrinetcom/aws-fault-injection-servicewoshi-tuta-zhang-hai-shi-yan-nosinariotoshi-shi-fang-fa-nituite</link>
-        <dc:date>2024-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDS for Db2 データ移行編 - Part3: Qレプリケーションでデータ連携/20241025-RDSforDb2-dojo (Mayumi Hirano)</title>
-        <link>https://speakerdeck.com/mayumihirano/20241025-rdsfordb2-dojo</link>
         <dc:date>2024-10-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
