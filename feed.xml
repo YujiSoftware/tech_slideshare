@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>高速軽量点群エンジンDawnの 事例紹介とアップデート_技術編 (ホロラボ,@HoloLabInc)</title>
+        <link>https://www.docswell.com/s/HoloLab/51R29L-holotech24_b1_b</link>
+        <dc:date>2024-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクト成長に対応するプラットフォーム戦略:Authleteによる共通認証基盤の移行事例 / Building an authentication platform using Authlete and AWS (kakehashi)</title>
         <link>https://speakerdeck.com/kakehashi/building-an-authentication-platform-using-authlete-and-aws</link>
         <dc:date>2024-11-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RDS for Db2 データ移行編 - Part3: Qレプリケーションでデータ連携/20241025-RDSforDb2-dojo (Mayumi Hirano)</title>
         <link>https://speakerdeck.com/mayumihirano/20241025-rdsfordb2-dojo</link>
-        <dc:date>2024-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Gemini in Android Studio 使ってますか？ (satoryo56)</title>
-        <link>https://speakerdeck.com/satoryo56/gemini-in-android-studio-shi-tutemasuka</link>
         <dc:date>2024-10-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
