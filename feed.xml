@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>macOS でできる リアルタイム動画像処理 (Biacco42)</title>
+        <link>https://speakerdeck.com/biacco42/macos-dedekiru-riarutaimudong-hua-xiang-chu-li</link>
+        <dc:date>2024-11-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>日経電子版におけるリアルタイムレコメンドシステム開発の事例紹介/nikkei-realtime-recommender-system (yng87)</title>
         <link>https://speakerdeck.com/yng87/nikkei-realtime-recommender-system</link>
         <dc:date>2024-11-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RustでAWS Lambda functionをいい感じに書く (taiki45)</title>
         <link>https://speakerdeck.com/taiki45/rustdeaws-lambda-functionwoiigan-zinishu-ku</link>
-        <dc:date>2024-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Fault Injection Serviceを使った障害試験のシナリオと実施方法について (NRI Netcom)</title>
-        <link>https://speakerdeck.com/nrinetcom/aws-fault-injection-servicewoshi-tuta-zhang-hai-shi-yan-nosinariotoshi-shi-fang-fa-nituite</link>
         <dc:date>2024-10-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
