@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon_CloudWatch_ログ異常検出_導入ガイド (tsujiba)</title>
+        <link>https://speakerdeck.com/tsujiba/amazon-cloudwatch-yi-chang-jian-chu-dao-ru-kaito-97aa98e0-cbeb-493c-bf9b-68afc14a1acf</link>
+        <dc:date>2024-11-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>macOS でできる リアルタイム動画像処理 (Biacco42)</title>
         <link>https://speakerdeck.com/biacco42/macos-dedekiru-riarutaimudong-hua-xiang-chu-li</link>
         <dc:date>2024-11-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プリントデバッグを失敗させないテクニック (Kentaro Matsumoto)</title>
         <link>https://speakerdeck.com/matsu7874/rust-lt-for-beginners-print-debug</link>
-        <dc:date>2024-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RustでAWS Lambda functionをいい感じに書く (taiki45)</title>
-        <link>https://speakerdeck.com/taiki45/rustdeaws-lambda-functionwoiigan-zinishu-ku</link>
         <dc:date>2024-10-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
