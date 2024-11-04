@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JavaScript’s Single Thread and Event Loop (Xiaodong Hu)</title>
+        <link>https://speakerdeck.com/jamesdongdong/javascripts-single-thread-and-event-loop</link>
+        <dc:date>2024-11-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon_CloudWatch_ログ異常検出_導入ガイド (tsujiba)</title>
         <link>https://speakerdeck.com/tsujiba/amazon-cloudwatch-yi-chang-jian-chu-dao-ru-kaito-97aa98e0-cbeb-493c-bf9b-68afc14a1acf</link>
         <dc:date>2024-11-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Effective Firestore Security (Suguru Kishimoto)</title>
         <link>https://speakerdeck.com/sgrksmt/effective-firestore-security</link>
-        <dc:date>2024-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プリントデバッグを失敗させないテクニック (Kentaro Matsumoto)</title>
-        <link>https://speakerdeck.com/matsu7874/rust-lt-for-beginners-print-debug</link>
         <dc:date>2024-10-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
