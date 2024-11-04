@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアのキャリアパスはどう描く？ まつもとりーさんと考える後悔しないキャリア選択 (MATSUMOTO Ryosuke)</title>
+        <link>https://speakerdeck.com/matsumoto_r/enzinianokiyariapasuhadoumiao-ku-matumotorisantokao-eruhou-hui-sinaikiyariaxuan-ze</link>
+        <dc:date>2024-11-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JavaScript’s Single Thread and Event Loop (Xiaodong Hu)</title>
         <link>https://speakerdeck.com/jamesdongdong/javascripts-single-thread-and-event-loop</link>
         <dc:date>2024-11-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Komerco-コメルコ-を支える技術 (star__hoshi)</title>
         <link>https://speakerdeck.com/starhoshi/komerco-komeruko-wozhi-eruji-shu</link>
-        <dc:date>2024-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Effective Firestore Security (Suguru Kishimoto)</title>
-        <link>https://speakerdeck.com/sgrksmt/effective-firestore-security</link>
         <dc:date>2024-10-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
