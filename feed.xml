@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロポーザルのつくり方 〜個人技編〜 / How to come up with proposals (Masato Ohba)</title>
+        <link>https://speakerdeck.com/ohbarye/how-to-come-up-with-proposals</link>
+        <dc:date>2024-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Odencat開発戦略2019 (Daigo Sato)</title>
         <link>https://www.slideshare.net/slideshow/odencat2019/241691950</link>
         <dc:date>2024-11-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Shift-from-React-to-Vue (Moriyama Nagi)</title>
         <link>https://speakerdeck.com/calm1205/vue-fes-after-party-shift-from-react-to-vue</link>
-        <dc:date>2024-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Commitment vs Harrisonism - Keynote for Scrum Niseko 2024 (Miho Nagase)</title>
-        <link>https://speakerdeck.com/miholovesq/commitment-vs-harrisonism</link>
         <dc:date>2024-10-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
