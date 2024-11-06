@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Riverpod 移行を支えた  LivMap のアーキテクチャ (Chooyan)</title>
+        <link>https://speakerdeck.com/chooyan244/riverpod-yi-xing-wozhi-eta-livmap-noakitekutiya</link>
+        <dc:date>2024-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>4年間変わらなかった YOUTRUSTのアーキテクチャ (ashdik)</title>
+        <link>https://speakerdeck.com/daiki1003/4nian-jian-bian-waranakatuta-youtrustnoakitekutiya</link>
+        <dc:date>2024-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メルカリ ハロ アプリの技術スタック (atsumo)</title>
+        <link>https://speakerdeck.com/atsumo/merukari-haro-apurinoji-shu-sutatuku</link>
+        <dc:date>2024-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロポーザルのつくり方 〜個人技編〜 / How to come up with proposals (Masato Ohba)</title>
         <link>https://speakerdeck.com/ohbarye/how-to-come-up-with-proposals</link>
         <dc:date>2024-11-05T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>プロダクトチームへのSystem Risk Records導入・運用事例の紹介/Introduction and Case Studies on Implementing and Operating System Risk Records for Product Teams (SadayoshiTada)</title>
         <link>https://speakerdeck.com/taddy_919/introduction-and-case-studies-on-implementing-and-operating-system-risk-records-for-product-teams</link>
         <dc:date>2024-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一休.comレストランにおけるRustの活用 (Kōhei Yamamoto)</title>
-        <link>https://speakerdeck.com/kymmt90/xiu-dot-comresutoranniokerurustnohuo-yong</link>
-        <dc:date>2024-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CDKでデータリストアの運用、どのように設計する？～Aurora・EFSの実践事例を紹介～/aws-cdk-data-restore-aurora-efs (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
-        <link>https://speakerdeck.com/mhrtech/aws-cdk-data-restore-aurora-efs</link>
-        <dc:date>2024-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Shift-from-React-to-Vue (Moriyama Nagi)</title>
-        <link>https://speakerdeck.com/calm1205/vue-fes-after-party-shift-from-react-to-vue</link>
-        <dc:date>2024-10-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
