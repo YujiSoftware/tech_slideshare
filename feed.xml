@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Webフロントエンドの脆弱性つまみ食い 2024年版 (tyage)</title>
+        <link>https://speakerdeck.com/tyage/webhurontoentonocui-ruo-xing-tumamishi-i-2024nian-ban</link>
+        <dc:date>2024-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Next.js App Router セキュリティ (zaru)</title>
         <link>https://speakerdeck.com/zaru_sakuraba/nextjssekiyuritei</link>
         <dc:date>2024-11-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GitHub Actionsのキャッシュと手を挙げることの大切さとそれに必要なこと (Satoshi Kaneyasu)</title>
         <link>https://speakerdeck.com/satoshi256kbyte/5fen-lt-github-actionsnokiyatusiyutokoretuteshui-kayaruno-nahua</link>
-        <dc:date>2024-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウォンテッドリーの推薦システム開発を支える評価とデプロイの仕組み (chimuichimu)</title>
-        <link>https://speakerdeck.com/chimuichimu/uontetudorinotui-jian-sisutemukai-fa-wozhi-eruping-jia-todepuroinoshi-zu-mi</link>
         <dc:date>2024-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
