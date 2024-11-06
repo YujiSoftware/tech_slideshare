@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WebフロントエンドにおけるGraphQL（あるいはバックエンドのAPI）との向き合い方 / #241106_plk_frontend (Masayuki Izumi)</title>
+        <link>https://speakerdeck.com/izumin5210/number-241106-plk-frontend</link>
+        <dc:date>2024-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>創薬における機械学習技術について (Hiroshi Kajino)</title>
         <link>https://speakerdeck.com/kanojikajino/chuang-yao-niokeruji-jie-xue-xi-ji-shu-nituite</link>
         <dc:date>2024-11-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>初心者に Vue.js を 教えるには (karacoro / からころ)</title>
         <link>https://speakerdeck.com/tsukuha/chu-xin-zhe-ni-vue-dot-js-wo-jiao-eruniha</link>
-        <dc:date>2024-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pinia Colada が実現するスマートな非同期処理 (Naoki Haba)</title>
-        <link>https://speakerdeck.com/naokihaba/pinia-colada-gashi-xian-surusumatonafei-tong-qi-chu-li</link>
         <dc:date>2024-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
