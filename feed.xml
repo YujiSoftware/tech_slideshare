@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Next.js App Router セキュリティ (zaru)</title>
+        <link>https://speakerdeck.com/zaru_sakuraba/nextjssekiyuritei</link>
+        <dc:date>2024-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Riverpod 移行を支えた  LivMap のアーキテクチャ (Chooyan)</title>
         <link>https://speakerdeck.com/chooyan244/riverpod-yi-xing-wozhi-eta-livmap-noakitekutiya</link>
         <dc:date>2024-11-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ウォンテッドリーの推薦システム開発を支える評価とデプロイの仕組み (chimuichimu)</title>
         <link>https://speakerdeck.com/chimuichimu/uontetudorinotui-jian-sisutemukai-fa-wozhi-eruping-jia-todepuroinoshi-zu-mi</link>
-        <dc:date>2024-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトチームへのSystem Risk Records導入・運用事例の紹介/Introduction and Case Studies on Implementing and Operating System Risk Records for Product Teams (SadayoshiTada)</title>
-        <link>https://speakerdeck.com/taddy_919/introduction-and-case-studies-on-implementing-and-operating-system-risk-records-for-product-teams</link>
         <dc:date>2024-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
