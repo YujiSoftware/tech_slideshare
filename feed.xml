@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生産性の高い開発組織を作るためのテスト文化の育て方 (PharmaX（旧YOJO Technologies）開発チーム)</title>
+        <link>https://speakerdeck.com/pharma_x_tech/sheng-chan-xing-nogao-ikai-fa-zu-zhi-wozuo-rutameno-tesutowen-hua-noyu-tefang</link>
+        <dc:date>2024-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ノーコードに学ぶE2Eテスト自動化ベストプラクティス (Nozomi Ito)</title>
+        <link>https://speakerdeck.com/nozomiito/nokodonixue-bue2etesutozi-dong-hua-besutopurakuteisu</link>
+        <dc:date>2024-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WebのE2Eテスト自動化 〜導入から運用・評価までの道のり編〜 (coconala_engineer)</title>
+        <link>https://speakerdeck.com/coconala_engineer/webnoe2etesutozi-dong-hua-dao-ru-karayun-yong-ping-jia-madenodao-noribian</link>
+        <dc:date>2024-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Webフロントエンドの脆弱性つまみ食い 2024年版 (tyage)</title>
         <link>https://speakerdeck.com/tyage/webhurontoentonocui-ruo-xing-tumamishi-i-2024nian-ban</link>
         <dc:date>2024-11-05T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Weekly AI Agents News! 10月号 論文のアーカイブ (masatoto)</title>
         <link>https://speakerdeck.com/masatoto/weekly-ai-agents-news-10yue-hao-lun-wen-noakaibu</link>
-        <dc:date>2024-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なんで、私がAWS Heroに!? 〜社外の広い世界に一歩踏み出そう〜 (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/nande-si-gaaws-heroni-she-wai-noguang-ishi-jie-ni-bu-ta-michu-sou</link>
-        <dc:date>2024-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ベイビーステップで実現！ 地図検索機能のVue2→3移行話/Achieving Baby Steps: Transitioning Map Search Functionality from Vue 2 to Vue 3 (コドモン開発チーム)</title>
-        <link>https://speakerdeck.com/codmoninc/achieving-baby-steps-transitioning-map-search-functionality-from-vue-2-to-vue-3</link>
-        <dc:date>2024-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Actionsのキャッシュと手を挙げることの大切さとそれに必要なこと (Satoshi Kaneyasu)</title>
-        <link>https://speakerdeck.com/satoshi256kbyte/5fen-lt-github-actionsnokiyatusiyutokoretuteshui-kayaruno-nahua</link>
         <dc:date>2024-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
