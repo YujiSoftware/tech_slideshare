@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREの前に (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/srenoqian-ni</link>
+        <dc:date>2024-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>文書画像のデータ化における VLM活用 / Use of VLM in document image data conversion (Sansan R&amp;D)</title>
+        <link>https://speakerdeck.com/sansan_randd/use-of-vlm-in-document-image-data-conversion</link>
+        <dc:date>2024-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Quine, Polyglot, 良いコード (Masaki Hara)</title>
+        <link>https://speakerdeck.com/qnighy/quine-polyglot-liang-ikodo</link>
+        <dc:date>2024-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DynamoDBの"Replacement"時にデータが消されないようにCustom Resource Provider Frameworkでカスタムリソース作ってみた件 (morimorikochan)</title>
         <link>https://speakerdeck.com/diggymo/dynamodbno-replacement-shi-nidetagaxiao-sarenaiyouni-kasutamurisosuzuo-tutemitajian</link>
         <dc:date>2024-11-06T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>JavaScript’s Single Thread and Event Loop (Xiaodong Hu)</title>
         <link>https://speakerdeck.com/jamesdongdong/javascripts-single-thread-and-event-loop</link>
         <dc:date>2024-11-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon_CloudWatch_ログ異常検出_導入ガイド (tsujiba)</title>
-        <link>https://speakerdeck.com/tsujiba/amazon-cloudwatch-yi-chang-jian-chu-dao-ru-kaito-97aa98e0-cbeb-493c-bf9b-68afc14a1acf</link>
-        <dc:date>2024-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>macOS でできる リアルタイム動画像処理 (Biacco42)</title>
-        <link>https://speakerdeck.com/biacco42/macos-dedekiru-riarutaimudong-hua-xiang-chu-li</link>
-        <dc:date>2024-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>日経電子版におけるリアルタイムレコメンドシステム開発の事例紹介/nikkei-realtime-recommender-system (yng87)</title>
-        <link>https://speakerdeck.com/yng87/nikkei-realtime-recommender-system</link>
-        <dc:date>2024-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
