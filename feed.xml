@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>vitestはじめるまで (pisa-kun)</title>
+        <link>https://speakerdeck.com/pisakun/vitesthazimerumade</link>
+        <dc:date>2024-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>レガシーシステムにどう立ち向かうか　複雑さと理想と現実/vs-legacy (suzuki-hoge)</title>
+        <link>https://speakerdeck.com/suzukihoge/vs-legacy</link>
+        <dc:date>2024-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREの前に (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/srenoqian-ni</link>
         <dc:date>2024-11-06T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Odencat開発戦略2019 (Daigo Sato)</title>
         <link>https://www.slideshare.net/slideshow/odencat2019/241691950</link>
         <dc:date>2024-11-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアのキャリアパスはどう描く？ まつもとりーさんと考える後悔しないキャリア選択 (MATSUMOTO Ryosuke)</title>
-        <link>https://speakerdeck.com/matsumoto_r/enzinianokiyariapasuhadoumiao-ku-matumotorisantokao-eruhou-hui-sinaikiyariaxuan-ze</link>
-        <dc:date>2024-11-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JavaScript’s Single Thread and Event Loop (Xiaodong Hu)</title>
-        <link>https://speakerdeck.com/jamesdongdong/javascripts-single-thread-and-event-loop</link>
-        <dc:date>2024-11-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
