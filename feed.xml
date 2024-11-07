@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>富山デザイン勉強会_デザイナー経験ゼロからデザイン職に就く方法.pdf (keita)</title>
+        <link>https://speakerdeck.com/keita_yoshikawa/fu-shan-tesainmian-qiang-hui-tesainajing-yan-serokaratesainzhi-nijiu-kufang-fa</link>
+        <dc:date>2024-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>富山デザイン勉強会_ワンランク上に見せるデザインのコツ.pdf (keita)</title>
+        <link>https://speakerdeck.com/keita_yoshikawa/fu-shan-tesainmian-qiang-hui-wanrankushang-nijian-serutesainnokotu</link>
+        <dc:date>2024-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>HA構成のArgoCD パフォーマンス最適化への道 (Kumo Ishikawa)</title>
+        <link>https://speakerdeck.com/kumorn5s/hagou-cheng-noargocd-pahuomansuzui-shi-hua-henodao</link>
+        <dc:date>2024-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>軽量DDDはもういらない！ スタイルガイド本で OOPの実装パターンを学ぼう (panda_program)</title>
         <link>https://speakerdeck.com/panda_program/no-more-lightweight-ddd</link>
         <dc:date>2024-11-06T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Next.js App Router セキュリティ (zaru)</title>
         <link>https://speakerdeck.com/zaru_sakuraba/nextjssekiyuritei</link>
-        <dc:date>2024-11-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Riverpod 移行を支えた  LivMap のアーキテクチャ (Chooyan)</title>
-        <link>https://speakerdeck.com/chooyan244/riverpod-yi-xing-wozhi-eta-livmap-noakitekutiya</link>
-        <dc:date>2024-11-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>4年間変わらなかった YOUTRUSTのアーキテクチャ (ashdik)</title>
-        <link>https://speakerdeck.com/daiki1003/4nian-jian-bian-waranakatuta-youtrustnoakitekutiya</link>
-        <dc:date>2024-11-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メルカリ ハロ アプリの技術スタック (atsumo)</title>
-        <link>https://speakerdeck.com/atsumo/merukari-haro-apurinoji-shu-sutatuku</link>
         <dc:date>2024-11-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
