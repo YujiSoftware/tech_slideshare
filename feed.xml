@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DynamoDBの"Replacement"時にデータが消されないようにCustom Resource Provider Frameworkでカスタムリソース作ってみた件 (morimorikochan)</title>
+        <link>https://speakerdeck.com/diggymo/dynamodbno-replacement-shi-nidetagaxiao-sarenaiyouni-kasutamurisosuzuo-tutemitajian</link>
+        <dc:date>2024-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Platform Engineering ことはじめ (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/platform-engineering-kotohazime</link>
         <dc:date>2024-11-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>日経電子版におけるリアルタイムレコメンドシステム開発の事例紹介/nikkei-realtime-recommender-system (yng87)</title>
         <link>https://speakerdeck.com/yng87/nikkei-realtime-recommender-system</link>
-        <dc:date>2024-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>高速軽量点群エンジンDawnの 事例紹介とアップデート_技術編 (ホロラボ,@HoloLabInc)</title>
-        <link>https://www.docswell.com/s/HoloLab/51R29L-holotech24_b1_b</link>
         <dc:date>2024-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
