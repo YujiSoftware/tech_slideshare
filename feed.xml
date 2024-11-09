@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ActiveSupport::Notifications supporting instrumentation of Rails apps with OpenTelemetry (Y.Matsuda)</title>
+        <link>https://speakerdeck.com/ymtdzzz/activesupport-notifications-supporting-instrumentation-of-rails-apps-with-opentelemetry</link>
+        <dc:date>2024-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MapLibreで使えるいろんなTerrainを作ってみよう (Taro Matsuzawa aka. btm,@smellman)</title>
         <link>https://www.docswell.com/s/smellman/KWW4X4-2024-11-08-mugjp-terrain</link>
         <dc:date>2024-11-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Platform Engineering ことはじめ (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/platform-engineering-kotohazime</link>
-        <dc:date>2024-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SaaS開発における手戻りを減らすためのリファインメントの実践 (おおいし)</title>
-        <link>https://speakerdeck.com/bicstone/circumstances-of-refinement</link>
         <dc:date>2024-11-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
