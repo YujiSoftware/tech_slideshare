@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>C++でシェーダを書く (Fadis)</title>
+        <link>https://speakerdeck.com/fadis/c-plus-plus-desiedawoshu-ku</link>
+        <dc:date>2024-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>利きプロセススケジューラ (Satoru Takeuchi)</title>
+        <link>https://speakerdeck.com/sat/li-kipurosesusukeziyura</link>
+        <dc:date>2024-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ActiveSupport::Notifications supporting instrumentation of Rails apps with OpenTelemetry (Y.Matsuda)</title>
         <link>https://speakerdeck.com/ymtdzzz/activesupport-notifications-supporting-instrumentation-of-rails-apps-with-opentelemetry</link>
         <dc:date>2024-11-08T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Quine, Polyglot, 良いコード (Masaki Hara)</title>
         <link>https://speakerdeck.com/qnighy/quine-polyglot-liang-ikodo</link>
-        <dc:date>2024-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DynamoDBの"Replacement"時にデータが消されないようにCustom Resource Provider Frameworkでカスタムリソース作ってみた件 (morimorikochan)</title>
-        <link>https://speakerdeck.com/diggymo/dynamodbno-replacement-shi-nidetagaxiao-sarenaiyouni-kasutamurisosuzuo-tutemitajian</link>
-        <dc:date>2024-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Platform Engineering ことはじめ (oracle4engineer)</title>
-        <link>https://speakerdeck.com/oracle4engineer/platform-engineering-kotohazime</link>
         <dc:date>2024-11-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
