@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MapLibreで使えるいろんなTerrainを作ってみよう (Taro Matsuzawa aka. btm,@smellman)</title>
+        <link>https://www.docswell.com/s/smellman/KWW4X4-2024-11-08-mugjp-terrain</link>
+        <dc:date>2024-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>シェーダーで魅せるMapLibreの動的ラスタータイル (Satoshi Komatsu)</title>
+        <link>https://speakerdeck.com/satoshi7190/sietatemei-serumaplibrenodong-de-rasutatairu</link>
+        <dc:date>2024-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>watsonx.ai Dojo #3 プロンプトエンジニアリング入門  (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/wxaidojo03-20241016-promptengineering</link>
         <dc:date>2024-11-07T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>SaaS開発における手戻りを減らすためのリファインメントの実践 (おおいし)</title>
         <link>https://speakerdeck.com/bicstone/circumstances-of-refinement</link>
         <dc:date>2024-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebフロントエンドにおけるGraphQL（あるいはバックエンドのAPI）との向き合い方 / #241106_plk_frontend (Masayuki Izumi)</title>
-        <link>https://speakerdeck.com/izumin5210/number-241106-plk-frontend</link>
-        <dc:date>2024-11-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>創薬における機械学習技術について (Hiroshi Kajino)</title>
-        <link>https://speakerdeck.com/kanojikajino/chuang-yao-niokeruji-jie-xue-xi-ji-shu-nituite</link>
-        <dc:date>2024-11-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
