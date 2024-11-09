@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データの信頼性を支える仕組みと技術 (chanyou0311)</title>
+        <link>https://speakerdeck.com/chanyou0311/detanoxin-lai-xing-wozhi-erushi-zu-mitoji-shu</link>
+        <dc:date>2024-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>"君は見ているが観察していない"で考えるインシデントマネジメント (gr1m0h)</title>
         <link>https://speakerdeck.com/grimoh/jun-hajian-teirugaguan-cha-siteinai-dekao-eruinsidentomanezimento</link>
         <dc:date>2024-11-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>レガシーシステムにどう立ち向かうか　複雑さと理想と現実/vs-legacy (suzuki-hoge)</title>
         <link>https://speakerdeck.com/suzukihoge/vs-legacy</link>
-        <dc:date>2024-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREの前に (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/srenoqian-ni</link>
         <dc:date>2024-11-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
