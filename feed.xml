@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今、始める、第一歩。 / Your first step (Yasuo Honda)</title>
+        <link>https://speakerdeck.com/yahonda/your-first-step</link>
+        <dc:date>2024-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>C++でシェーダを書く (Fadis)</title>
         <link>https://speakerdeck.com/fadis/c-plus-plus-desiedawoshu-ku</link>
         <dc:date>2024-11-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>文書画像のデータ化における VLM活用 / Use of VLM in document image data conversion (Sansan R&amp;D)</title>
         <link>https://speakerdeck.com/sansan_randd/use-of-vlm-in-document-image-data-conversion</link>
-        <dc:date>2024-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Quine, Polyglot, 良いコード (Masaki Hara)</title>
-        <link>https://speakerdeck.com/qnighy/quine-polyglot-liang-ikodo</link>
         <dc:date>2024-11-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
