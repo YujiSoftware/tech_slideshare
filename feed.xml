@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>もしドラッカーがアジャイルコーチになったら / If Drucker Were an Agile Coach (Fumihiko Kinoshita)</title>
+        <link>https://speakerdeck.com/fkino/if-drucker-were-an-agile-coach</link>
+        <dc:date>2024-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2024/11/8 関西Kaggler会 2024 #3 / Kaggle Kernel で Gemma 2 × vLLM を動かす。 (Kohecchi)</title>
         <link>https://speakerdeck.com/kohecchi/kaggle-kernel-de-gemma-2-x-vllm-wodong-kasu</link>
         <dc:date>2024-11-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>最近個人開発が熱い ~モニタリング強化編v0.1.0~ (sugar-cat)</title>
         <link>https://speakerdeck.com/sugarcat7/zui-jin-ge-ren-kai-fa-gare-i-monitaringuqiang-hua-bian-v0-dot-1-0</link>
-        <dc:date>2024-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コドモンがXPを取り入れている理由 / The reason why Codmon is incorporating XP (コドモン開発チーム)</title>
-        <link>https://speakerdeck.com/codmoninc/the-reason-why-codmon-is-incorporating-xp</link>
         <dc:date>2024-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
