@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マイベストのデータ基盤の現在と未来 / mybest-data-infra-asis-tobe (mybest)</title>
+        <link>https://speakerdeck.com/mybestinc/mybest-data-infra-asis-tobe</link>
+        <dc:date>2024-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>炎上案件の楽しみ方</title>
         <link>https://docs.google.com/presentation/d/1kLKEGR-M0S3XSOcIPFdkCEHJfo1PGSqn0hURQy9COGE/preview</link>
         <dc:date>2024-11-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>watsonx.ai Dojo #2 生成AIを使ったアプリ開発入門編 (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/wxaidojo02-20240918-appdev101</link>
-        <dc:date>2024-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[IBIS2024 ビジネスと機械学習] 近年のData-Centricな 自動運転AI開発 (Kohei Iwamasa)</title>
-        <link>https://speakerdeck.com/koheiiwamasa/ibis2024-bizinesutoji-jie-xue-xi-jin-nian-nodata-centricna-zi-dong-yun-zhuan-aikai-fa</link>
         <dc:date>2024-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
