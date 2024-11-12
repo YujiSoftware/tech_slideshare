@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Make Impossible States Impossibleを 意識してReactのPropsを設計しよう (ikuma-t)</title>
+        <link>https://speakerdeck.com/ikumatadokoro/make-impossible-states-impossiblewo-yi-shi-sitereactnopropswoshe-ji-siyou</link>
+        <dc:date>2024-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【若手エンジニア応援LT会】AWS ACMで証明書の自動更新を設定してみた (Kazushi)</title>
+        <link>https://speakerdeck.com/kazushi_ohata/ruo-shou-enziniaying-yuan-lthui-aws-acmdezheng-ming-shu-nozi-dong-geng-xin-woshe-ding-sitemita</link>
+        <dc:date>2024-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【若手エンジニア応援LT会】CodePipelineのV1とV2の違いを調べてみた件 (Kazushi)</title>
+        <link>https://speakerdeck.com/kazushi_ohata/ruo-shou-enziniaying-yuan-lthui-codepipelinenov1tov2nowei-iwodiao-betemitajian</link>
+        <dc:date>2024-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Jr. Championsになって、強く連携しながらAWSをもっと使いたい！~AWSに対する期待と行動~ (amixedcolor)</title>
+        <link>https://speakerdeck.com/amixedcolor/jr-championsninatute-qiang-kulian-xi-sinagaraawswomotutoshi-itai-awsnidui-suruqi-dai-toxing-dong</link>
+        <dc:date>2024-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【若手エンジニア応援LT会】AWSで繋がり、共に成長！ ～コミュニティ活動と新人教育への挑戦～ (Kazushi)</title>
+        <link>https://speakerdeck.com/kazushi_ohata/awsdexi-gari-gong-nicheng-chang-komiyuniteihuo-dong-toxin-ren-jiao-yu-henotiao-zhan</link>
+        <dc:date>2024-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【若手エンジニア応援LT会】AWS Security Hubの活用に苦労した話 (Kazushi)</title>
+        <link>https://speakerdeck.com/kazushi_ohata/ruo-shou-enziniaying-yuan-lthui-aws-security-hubnohuo-yong-niku-lao-sitahua</link>
+        <dc:date>2024-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>使えそうで使われないCloudHSM (かぴ)</title>
+        <link>https://speakerdeck.com/maikamibayashi/shi-esoudeshi-warenaicloudhsm</link>
+        <dc:date>2024-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AIとAWS CDKで実現！ 自社ブログレビューの効率化 (y-mae)</title>
+        <link>https://speakerdeck.com/ymae/sheng-cheng-aitoaws-cdkdeshi-xian-zi-she-burogurebiyunoxiao-lu-hua</link>
+        <dc:date>2024-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>透過型SMTPプロキシによる送信メールの可観測性向上: Update Edition / Improved observability of outgoing emails with transparent smtp proxy: Update edition (linyows)</title>
         <link>https://speakerdeck.com/linyows/improved-observability-of-outgoing-emails-with-transparent-smtp-proxy-update-edition</link>
         <dc:date>2024-11-11T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>プロダクトエンジニアが活躍する環境を作りたくて 事業責任者になった話 ~プロダクトエンジニアの行き着く先~ (KEITA YANAGAWA)</title>
         <link>https://speakerdeck.com/gimupop/purodakutoenziniagahuo-yue-suruhuan-jing-wozuo-ritakute-shi-ye-ze-ren-zhe-ninatutahua-purodakutoenzinianoxing-kizhao-kuxian</link>
-        <dc:date>2024-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データの信頼性を支える仕組みと技術 (chanyou0311)</title>
-        <link>https://speakerdeck.com/chanyou0311/detanoxin-lai-xing-wozhi-erushi-zu-mitoji-shu</link>
-        <dc:date>2024-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>"君は見ているが観察していない"で考えるインシデントマネジメント (gr1m0h)</title>
-        <link>https://speakerdeck.com/grimoh/jun-hajian-teirugaguan-cha-siteinai-dekao-eruinsidentomanezimento</link>
-        <dc:date>2024-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今、始める、第一歩。 / Your first step (Yasuo Honda)</title>
-        <link>https://speakerdeck.com/yahonda/your-first-step</link>
-        <dc:date>2024-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C++でシェーダを書く (Fadis)</title>
-        <link>https://speakerdeck.com/fadis/c-plus-plus-desiedawoshu-ku</link>
-        <dc:date>2024-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>利きプロセススケジューラ (Satoru Takeuchi)</title>
-        <link>https://speakerdeck.com/sat/li-kipurosesusukeziyura</link>
-        <dc:date>2024-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ActiveSupport::Notifications supporting instrumentation of Rails apps with OpenTelemetry (Y.Matsuda)</title>
-        <link>https://speakerdeck.com/ymtdzzz/activesupport-notifications-supporting-instrumentation-of-rails-apps-with-opentelemetry</link>
-        <dc:date>2024-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MapLibreで使えるいろんなTerrainを作ってみよう (Taro Matsuzawa aka. btm,@smellman)</title>
-        <link>https://www.docswell.com/s/smellman/KWW4X4-2024-11-08-mugjp-terrain</link>
-        <dc:date>2024-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シェーダーで魅せるMapLibreの動的ラスタータイル (Satoshi Komatsu)</title>
-        <link>https://speakerdeck.com/satoshi7190/sietatemei-serumaplibrenodong-de-rasutatairu</link>
         <dc:date>2024-11-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
