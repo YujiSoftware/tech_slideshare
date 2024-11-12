@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MLIRでQBE向けバックエンドを作った話</title>
+        <link>https://docs.google.com/presentation/d/1a_BP8H0z7DF5Ake-QcCqx5q8CSmpRNV8G02SeadwIe8/preview</link>
+        <dc:date>2024-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ソフトウェア エンジニアリング勉強会</title>
+        <link>https://docs.google.com/presentation/d/1iNRehsGP78K0mvfDuFbXwEnSISbL4hjk3BrULdWq7-0/preview</link>
+        <dc:date>2024-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Railsで4GBのデカ動画ファイルのアップロードと配信、どう実現する？ (Tomohiko SEO)</title>
+        <link>https://speakerdeck.com/asflash8/railsde4gbnodekadong-hua-huairunoatupurodotopei-xin-doushi-xian-suru</link>
+        <dc:date>2024-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代におけるSRE、 あるいはエンジニアの生存戦略 (Kazuhiko Yamashita)</title>
+        <link>https://speakerdeck.com/pyama86/aishi-dai-niokerusre-aruihaenzinianosheng-cun-zhan-lue</link>
+        <dc:date>2024-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「今のプロジェクトいろいろ大変なんですよ、app/services とかもあって……」/After Kaigi on Rails 2024 LT Night (Junichi Kobayashi)</title>
         <link>https://speakerdeck.com/junk0612/after-kaigi-on-rails-2024-lt-night</link>
         <dc:date>2024-11-11T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>もしドラッカーがアジャイルコーチになったら / If Drucker Were an Agile Coach (Fumihiko Kinoshita)</title>
         <link>https://speakerdeck.com/fkino/if-drucker-were-an-agile-coach</link>
         <dc:date>2024-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024/11/8 関西Kaggler会 2024 #3 / Kaggle Kernel で Gemma 2 × vLLM を動かす。 (Kohecchi)</title>
-        <link>https://speakerdeck.com/kohecchi/kaggle-kernel-de-gemma-2-x-vllm-wodong-kasu</link>
-        <dc:date>2024-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【拡散モデル勉強会】拡散モデルのサンプラーまとめ (Deep Learning JP,@DL_Hacks)</title>
-        <link>https://www.docswell.com/s/DeepLearning2023/KYDEY4-2024-11-06-172305</link>
-        <dc:date>2024-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PyLadiesCaravan_in_苫小牧 (kanan)</title>
-        <link>https://speakerdeck.com/kanan/pyladiescaravan-in-shan-xiao-mu</link>
-        <dc:date>2024-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組み込みLinuxの時系列 (Takumi Sueda)</title>
-        <link>https://speakerdeck.com/puhitaku/zu-miip-milinuxnoshi-xi-lie</link>
-        <dc:date>2024-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
