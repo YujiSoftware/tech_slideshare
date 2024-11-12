@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>透過型SMTPプロキシによる送信メールの可観測性向上: Update Edition / Improved observability of outgoing emails with transparent smtp proxy: Update edition (linyows)</title>
+        <link>https://speakerdeck.com/linyows/improved-observability-of-outgoing-emails-with-transparent-smtp-proxy-update-edition</link>
+        <dc:date>2024-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ライブラリでしかお目にかかれない珍しい実装 (mikan)</title>
         <link>https://speakerdeck.com/mikanichinose/raiburaridesikaomu-nikakarenaizhen-siishi-zhuang</link>
         <dc:date>2024-11-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>シェーダーで魅せるMapLibreの動的ラスタータイル (Satoshi Komatsu)</title>
         <link>https://speakerdeck.com/satoshi7190/sietatemei-serumaplibrenodong-de-rasutatairu</link>
         <dc:date>2024-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>watsonx.ai Dojo #3 プロンプトエンジニアリング入門  (Akira Onishi (IBM))</title>
-        <link>https://speakerdeck.com/oniak3ibm/wxaidojo03-20241016-promptengineering</link>
-        <dc:date>2024-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
