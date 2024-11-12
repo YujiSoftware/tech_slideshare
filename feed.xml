@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ライブラリでしかお目にかかれない珍しい実装 (mikan)</title>
+        <link>https://speakerdeck.com/mikanichinose/raiburaridesikaomu-nikakarenaizhen-siishi-zhuang</link>
+        <dc:date>2024-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マイベストのデータ基盤の現在と未来 / mybest-data-infra-asis-tobe (mybest)</title>
         <link>https://speakerdeck.com/mybestinc/mybest-data-infra-asis-tobe</link>
         <dc:date>2024-11-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>watsonx.ai Dojo #3 プロンプトエンジニアリング入門  (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/wxaidojo03-20241016-promptengineering</link>
-        <dc:date>2024-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>watsonx.ai Dojo #2 生成AIを使ったアプリ開発入門編 (Akira Onishi (IBM))</title>
-        <link>https://speakerdeck.com/oniak3ibm/wxaidojo02-20240918-appdev101</link>
         <dc:date>2024-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
