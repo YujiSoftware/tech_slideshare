@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「今のプロジェクトいろいろ大変なんですよ、app/services とかもあって……」/After Kaigi on Rails 2024 LT Night (Junichi Kobayashi)</title>
+        <link>https://speakerdeck.com/junk0612/after-kaigi-on-rails-2024-lt-night</link>
+        <dc:date>2024-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ドメイン名の終活について - JPAAWG 7th - (mikiT)</title>
         <link>https://speakerdeck.com/mikit/domeinming-nozhong-huo-nituite-jpaawg-7th</link>
         <dc:date>2024-11-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>組み込みLinuxの時系列 (Takumi Sueda)</title>
         <link>https://speakerdeck.com/puhitaku/zu-miip-milinuxnoshi-xi-lie</link>
-        <dc:date>2024-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>形式手法の 10 メートル手前 #kernelvm / Kernel VM Study Hokuriku Part 7 (y_taka_23)</title>
-        <link>https://speakerdeck.com/ytaka23/kernel-vm-study-hokuriku-part-7</link>
         <dc:date>2024-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
