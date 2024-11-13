@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スタートアップのマネージャーに役立つ視座/A useful perspective for startup managers (Daisuke Sato)</title>
+        <link>https://speakerdeck.com/dskst/a-useful-perspective-for-startup-managers</link>
+        <dc:date>2024-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS Lambdaから始まった Serverlessの「熱」とキャリアパス / It started with AWS Lambda Serverless “fever” and career path (shiro seike)</title>
         <link>https://speakerdeck.com/seike460/it-started-with-aws-lambda-serverless-fever-and-career-path</link>
         <dc:date>2024-11-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成AIとAWS CDKで実現！ 自社ブログレビューの効率化 (y-mae)</title>
         <link>https://speakerdeck.com/ymae/sheng-cheng-aitoaws-cdkdeshi-xian-zi-she-burogurebiyunoxiao-lu-hua</link>
-        <dc:date>2024-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>透過型SMTPプロキシによる送信メールの可観測性向上: Update Edition / Improved observability of outgoing emails with transparent smtp proxy: Update edition (linyows)</title>
-        <link>https://speakerdeck.com/linyows/improved-observability-of-outgoing-emails-with-transparent-smtp-proxy-update-edition</link>
         <dc:date>2024-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
