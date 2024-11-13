@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS Lambdaから始まった Serverlessの「熱」とキャリアパス / It started with AWS Lambda Serverless “fever” and career path (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/it-started-with-aws-lambda-serverless-fever-and-career-path</link>
+        <dc:date>2024-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2024-10-30_Transcending_the_Boundaries between_Engineers_and_Designers (hashimo2)</title>
         <link>https://speakerdeck.com/_hashimo2/2024-10-30-transcending-the-boundaries-between-engineers-and-designers-555ebbd6-b940-477e-af58-49a95da5d3da</link>
         <dc:date>2024-11-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>透過型SMTPプロキシによる送信メールの可観測性向上: Update Edition / Improved observability of outgoing emails with transparent smtp proxy: Update edition (linyows)</title>
         <link>https://speakerdeck.com/linyows/improved-observability-of-outgoing-emails-with-transparent-smtp-proxy-update-edition</link>
-        <dc:date>2024-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ライブラリでしかお目にかかれない珍しい実装 (mikan)</title>
-        <link>https://speakerdeck.com/mikanichinose/raiburaridesikaomu-nikakarenaizhen-siishi-zhuang</link>
         <dc:date>2024-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
