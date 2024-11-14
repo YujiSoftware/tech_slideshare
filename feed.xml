@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREによる隣接領域への越境とその先の信頼性 (shonansurvivors)</title>
+        <link>https://speakerdeck.com/shonansurvivors/sre-beyond</link>
+        <dc:date>2024-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>巨大 tfstate に立ち向かう技術 (Hayato Kawai)</title>
         <link>https://speakerdeck.com/fohte/ju-da-tfstate-nili-tixiang-kauji-shu</link>
         <dc:date>2024-11-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【若手エンジニア応援LT会】CodePipelineのV1とV2の違いを調べてみた件 (Kazushi)</title>
         <link>https://speakerdeck.com/kazushi_ohata/ruo-shou-enziniaying-yuan-lthui-codepipelinenov1tov2nowei-iwodiao-betemitajian</link>
-        <dc:date>2024-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Jr. Championsになって、強く連携しながらAWSをもっと使いたい！~AWSに対する期待と行動~ (amixedcolor)</title>
-        <link>https://speakerdeck.com/amixedcolor/jr-championsninatute-qiang-kulian-xi-sinagaraawswomotutoshi-itai-awsnidui-suruqi-dai-toxing-dong</link>
         <dc:date>2024-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
