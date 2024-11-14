@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AGIについてChatGPTに聞いてみた (ayane)</title>
+        <link>https://speakerdeck.com/blueb/aginituitechatgptniwen-itemita</link>
+        <dc:date>2024-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>はてなインターンシップ2024 ブログライティング講義資料 (Hatena)</title>
+        <link>https://speakerdeck.com/hatena/internship-2024-blog-writing</link>
+        <dc:date>2024-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREによる隣接領域への越境とその先の信頼性 (shonansurvivors)</title>
         <link>https://speakerdeck.com/shonansurvivors/sre-beyond</link>
         <dc:date>2024-11-13T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Make Impossible States Impossibleを 意識してReactのPropsを設計しよう (ikuma-t)</title>
         <link>https://speakerdeck.com/ikumatadokoro/make-impossible-states-impossiblewo-yi-shi-sitereactnopropswoshe-ji-siyou</link>
-        <dc:date>2024-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【若手エンジニア応援LT会】AWS ACMで証明書の自動更新を設定してみた (Kazushi)</title>
-        <link>https://speakerdeck.com/kazushi_ohata/ruo-shou-enziniaying-yuan-lthui-aws-acmdezheng-ming-shu-nozi-dong-geng-xin-woshe-ding-sitemita</link>
-        <dc:date>2024-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【若手エンジニア応援LT会】CodePipelineのV1とV2の違いを調べてみた件 (Kazushi)</title>
-        <link>https://speakerdeck.com/kazushi_ohata/ruo-shou-enziniaying-yuan-lthui-codepipelinenov1tov2nowei-iwodiao-betemitajian</link>
         <dc:date>2024-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
