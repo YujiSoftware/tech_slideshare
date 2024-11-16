@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>よくできたテンプレート言語として TypeScript + JSX を利用する試み / Using TypeScript + JSX outside of Web Frontend #TSKaigiKansai (Masayuki Izumi)</title>
+        <link>https://speakerdeck.com/izumin5210/using-typescript-plus-jsx-outside-of-web-frontend-number-tskaigikansai</link>
+        <dc:date>2024-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発生産性を上げながらビジネスも30倍成長させてきたチームの姿 (Kaito Minatoya)</title>
         <link>https://speakerdeck.com/kamina_zzz/kai-fa-sheng-chan-xing-woshang-genagarabizinesumo30bei-cheng-chang-sasetekitatimunozi</link>
         <dc:date>2024-11-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【令和最新版】AWS Direct Connectと愉快なGWたちのおさらい (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/ling-he-zui-xin-ban-aws-direct-connecttoyu-kuai-nagwtatinoosarai</link>
-        <dc:date>2024-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メール警察！？Amazon SESが守るメール世界の治安 ※諸説あり (原嶋晃生)</title>
-        <link>https://speakerdeck.com/harashy0912/merujing-cha-amazon-sesgashou-rumerushi-jie-nozhi-an-star-zhu-shuo-ari</link>
         <dc:date>2024-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
