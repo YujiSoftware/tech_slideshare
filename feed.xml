@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>for public) TypeScriptの型システムは万能機械の夢を見るか？</title>
+        <link>https://docs.google.com/presentation/d/1hnvPiSCI2UBIZ0x5OTl3ZFHvIGMIl3g37It1_Qd7hNA/preview</link>
+        <dc:date>2024-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アプリ文言のパースで学ぶ 文字列Literal型パズル入門 (Saji)</title>
         <link>https://speakerdeck.com/sajikix/apuriwen-yan-nopasudexue-bu-wen-zi-lie-literalxing-pazururu-men</link>
         <dc:date>2024-11-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>re:Invent 2023終了後～2024年のネットワーク関連のアップデート (Shota Shiratori)</title>
         <link>https://speakerdeck.com/shotashiratori/re-invent-2023zhong-liao-hou-2024nian-nonetutowakuguan-lian-noatupudeto</link>
-        <dc:date>2024-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インフラとバックエンドとフロントエンドをくまなく調べて遅いアプリを早くした件 (tubone(Yu Otsubo))</title>
-        <link>https://speakerdeck.com/tubone24/inhuratobatukuendotohurontoendowokumanakudiao-betechi-iapuriwozao-kusitajian</link>
         <dc:date>2024-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
