@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>複雑なフロントエンド（ノーコード）を堅牢に作る (yuta-ike,@Selria1)</title>
+        <link>https://www.docswell.com/s/yuta-ike/KJ486V-tskaigi-kansai-2024</link>
+        <dc:date>2024-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>型付き API リクエストを実現するいくつかの手法とその選択 / Typed API Request (euxn23)</title>
         <link>https://speakerdeck.com/euxn23/typed-api-request</link>
         <dc:date>2024-11-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SREによる隣接領域への越境とその先の信頼性 (shonansurvivors)</title>
         <link>https://speakerdeck.com/shonansurvivors/sre-beyond</link>
-        <dc:date>2024-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>巨大 tfstate に立ち向かう技術 (Hayato Kawai)</title>
-        <link>https://speakerdeck.com/fohte/ju-da-tfstate-nili-tixiang-kauji-shu</link>
         <dc:date>2024-11-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
