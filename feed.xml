@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アプリ文言のパースで学ぶ 文字列Literal型パズル入門 (Saji)</title>
+        <link>https://speakerdeck.com/sajikix/apuriwen-yan-nopasudexue-bu-wen-zi-lie-literalxing-pazururu-men</link>
+        <dc:date>2024-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ts-morphのパフォーマンス改善 (ryo,@RyoKawamata)</title>
         <link>https://www.docswell.com/s/kawamataryo/56VJ1W-ts-morph-performance</link>
         <dc:date>2024-11-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>インフラとバックエンドとフロントエンドをくまなく調べて遅いアプリを早くした件 (tubone(Yu Otsubo))</title>
         <link>https://speakerdeck.com/tubone24/inhuratobatukuendotohurontoendowokumanakudiao-betechi-iapuriwozao-kusitajian</link>
-        <dc:date>2024-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon CloudWatch Network Monitor のススメ (矢儀丈博)</title>
-        <link>https://speakerdeck.com/yuki_ink/amazon-cloudwatch-network-monitor-nosusume</link>
         <dc:date>2024-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
