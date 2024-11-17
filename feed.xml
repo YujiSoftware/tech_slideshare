@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScriptの次なる大進化なるか！？　条件型を返り値とする関数の型推論 (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/typescriptnoci-naruda-jin-hua-naruka-tiao-jian-xing-wofan-rizhi-tosuruguan-shu-noxing-tui-lun</link>
+        <dc:date>2024-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>for public) TypeScriptの型システムは万能機械の夢を見るか？</title>
         <link>https://docs.google.com/presentation/d/1hnvPiSCI2UBIZ0x5OTl3ZFHvIGMIl3g37It1_Qd7hNA/preview</link>
         <dc:date>2024-11-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>グレー障害に備える 〜ベストプラクティスとApplication Recovery Controller Zonal Shift〜 (Tsukasa Kawamura)</title>
         <link>https://speakerdeck.com/kawakawa2222/gurezhang-hai-nibei-eru-besutopurakuteisutoapplication-recovery-controller-zonal-shift</link>
-        <dc:date>2024-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>re:Invent 2023終了後～2024年のネットワーク関連のアップデート (Shota Shiratori)</title>
-        <link>https://speakerdeck.com/shotashiratori/re-invent-2023zhong-liao-hou-2024nian-nonetutowakuguan-lian-noatupudeto</link>
         <dc:date>2024-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
