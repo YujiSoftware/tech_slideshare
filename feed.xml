@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TSKaigi Kansai 2024 - 構造的部分型と serialize 境界 (ONDA, Takashi)</title>
+        <link>https://speakerdeck.com/takonda/structural-subtyping-and-serialize</link>
+        <dc:date>2024-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScriptの次なる大進化なるか！？　条件型を返り値とする関数の型推論 (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/typescriptnoci-naruda-jin-hua-naruka-tiao-jian-xing-wofan-rizhi-tosuruguan-shu-noxing-tui-lun</link>
         <dc:date>2024-11-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Rubyに(ちょっと)コントリビュートできた話 (YuheiNakasaka)</title>
         <link>https://speakerdeck.com/yuheinakasaka/rubyni-tiyotuto-kontoribiyutodekitahua</link>
-        <dc:date>2024-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>グレー障害に備える 〜ベストプラクティスとApplication Recovery Controller Zonal Shift〜 (Tsukasa Kawamura)</title>
-        <link>https://speakerdeck.com/kawakawa2222/gurezhang-hai-nibei-eru-besutopurakuteisutoapplication-recovery-controller-zonal-shift</link>
         <dc:date>2024-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
