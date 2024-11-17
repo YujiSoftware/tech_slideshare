@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>as（型アサーション）を書く前にできること (maroKanatani)</title>
+        <link>https://speakerdeck.com/marokanatani/as-xing-asasiyon-woshu-kuqian-nidekirukoto</link>
+        <dc:date>2024-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TSKaigi Kansai 2024 - 構造的部分型と serialize 境界 (ONDA, Takashi)</title>
         <link>https://speakerdeck.com/takonda/structural-subtyping-and-serialize</link>
         <dc:date>2024-11-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>マルチモーダル / AI Agent / LLMOps 3つの技術トレンドで理解するLLMの今後の展望 (Hirosato Gamo)</title>
         <link>https://speakerdeck.com/hirosatogamo/llmops-3tunoji-shu-torendodeli-jie-surullmnojin-hou-nozhan-wang</link>
-        <dc:date>2024-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rubyに(ちょっと)コントリビュートできた話 (YuheiNakasaka)</title>
-        <link>https://speakerdeck.com/yuheinakasaka/rubyni-tiyotuto-kontoribiyutodekitahua</link>
         <dc:date>2024-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
