@@ -18,7 +18,7 @@ public class SlideShareParserTest {
     public void parse() {
         Slide expected = new Slide(
                 "Cmdstanr入門とreduce_sum()解説",
-                "https://www.slideshare.net/simizu706/cmdstanrreducesum",
+                "https://www.slideshare.net/slideshow/cmdstanrreducesum/250180303",
                 "Hiroshi Shimizu",
                 "simizu706",
                 "Cmdstanrとreduce_sum()の使い方を解説します",
@@ -76,7 +76,7 @@ public class SlideShareParserTest {
         assertTrue(actual.isPresent());
 
         Slide slide = actual.get();
-        assertEquals("https://www.slideshare.net/YujiSoftware/jep280-java-9", slide.getLink());
+        assertEquals("https://www.slideshare.net/slideshow/jep280-java-9/82267503", slide.getLink());
     }
 
     @Test
