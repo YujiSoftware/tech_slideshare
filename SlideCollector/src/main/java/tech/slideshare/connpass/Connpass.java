@@ -42,6 +42,7 @@ public record Connpass(
      * @param endedAt          イベント終了日時 (ISO-8601形式)
      * @param limit            定員
      * @param eventType        イベント参加タイプ
+     * @param openStatus       イベントの開催状態(preopen: 開催前, open: 開催中, close: 終了, cancelled: 中止)
      * @param series           グループ
      * @param address          開催場所
      * @param place            開催会場
@@ -66,6 +67,7 @@ public record Connpass(
             @JsonProperty("ended_at") ZonedDateTime endedAt,
             @JsonProperty("limit") long limit,
             @JsonProperty("event_type") String eventType,
+            @JsonProperty("open_status") String openStatus,
             @JsonProperty("series") Series series,
             @JsonProperty("address") String address,
             @JsonProperty("place") String place,
@@ -81,12 +83,14 @@ public record Connpass(
         /**
          * グループ
          *
-         * @param id    グループID
-         * @param title グループタイトル
-         * @param url   グループのconnpass.com 上のURL
+         * @param id        グループID
+         * @param subdomain サブドメイン
+         * @param title     グループタイトル
+         * @param url       グループのconnpass.com 上のURL
          */
         public record Series(
                 @JsonProperty("id") int id,
+                @JsonProperty("subdomain") String subdomain,
                 @JsonProperty("title") String title,
                 @JsonProperty("url") String url
         ) {
