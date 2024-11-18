@@ -6,6 +6,71 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Haskellで競技プログラミングに入門してみた</title>
+        <link>https://docs.google.com/presentation/d/1h96gdb5KF64DXAM05C4bcmfP4LxIj0f_5_Pq-AULYI8/preview</link>
+        <dc:date>2024-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20241118_RPALT_ガンダムLT</title>
+        <link>https://docs.google.com/presentation/d/1a32Tp1jJ0UW87oQLATuz7RoXNA6UGJmcrUuiFjM8Rb0/preview</link>
+        <dc:date>2024-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>酪農IoTにおけるリアルタイム分析 @AWSカーニバル 2023-11-04 (Shigeru Okuyama(@sgrokym))</title>
+        <link>https://speakerdeck.com/sgrokym/luo-nong-iotniokeruriarutaimufen-xi-at-awskanibaru-2023-11-04</link>
+        <dc:date>2024-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「地方局がBedrock を使った 業務改善に 挑戦している話」2023.11/4 - AWSカーニバル  (ayuki sugimoto)</title>
+        <link>https://speakerdeck.com/ayuki_sugimoto/4-awskanibaru-di-fang-ju-gabedrock-woshi-tuta-ye-wu-gai-shan-ni-tiao-zhan-siteiruhua</link>
+        <dc:date>2024-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>感謝の彩り：拝啓 JAWS-UGさま、AWSさまへ/20231104_aws-carnival-color-of-gratitude (kobank_t)</title>
+        <link>https://speakerdeck.com/kobank_t/20231104-aws-carnival-color-of-gratitude</link>
+        <dc:date>2024-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSのアップデートを 毎週まとめ続けてみた and more ...? at AWSカーニバル懇親会 (SimSta)</title>
+        <link>https://speakerdeck.com/shimagaji/awsnoatupudetowo-mei-zhou-matomesok-ketemita-and-more-dot-dot-dot-at-awskanibaruken-qin-hui</link>
+        <dc:date>2024-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フリースタイル・ストリーム・トークについて (takuma.watabiki)</title>
+        <link>https://speakerdeck.com/bikisuke/about-freestyle-stream-talk</link>
+        <dc:date>2024-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術的負債解消の取り組みと専門チームのお話 (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20240912-cloudsign-techdebt</link>
+        <dc:date>2024-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>eDCタワーへの道のり</title>
+        <link>https://docs.google.com/presentation/d/1Rdj5tPKyLQeW0woSO-uYIj2IC8NS7KYrPkG1PGwPGOk/preview</link>
+        <dc:date>2024-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Large Vision Language Model (LVLM) に関する最新知見まとめ (Part 1) (Daiki Shiono)</title>
+        <link>https://speakerdeck.com/onely7/large-vision-language-model-lvlm-niguan-suruzui-xin-zhi-jian-matome-part-1</link>
+        <dc:date>2024-11-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CysharpのOSS群から見るModern C#の現在地 (Yoshifumi Kawai)</title>
+        <link>https://speakerdeck.com/neuecc/cysharpnoossqun-karajian-rumodern-c-number-noxian-zai-di</link>
+        <dc:date>2024-11-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScript Graph でコードレビューの心理的障壁を乗り越える (ysk8hori)</title>
+        <link>https://speakerdeck.com/ysk8hori/typescript-graph-tekotorehiyunoxin-li-de-zhang-bi-wocheng-riyue-eru</link>
+        <dc:date>2024-11-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発チームから始める 「学習する組織」に 成長するための取り組み (PharmaX（旧YOJO Technologies）開発チーム)</title>
+        <link>https://speakerdeck.com/pharma_x_tech/kai-fa-timukarashi-meru-xue-xi-suruzu-zhi-ni-cheng-chang-surutamenoqu-rizu-mi</link>
+        <dc:date>2024-11-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>学び実践してきたこと (Daisuke Yamazaki)</title>
         <link>https://speakerdeck.com/yamaz/xue-bishi-jian-sitekitakoto</link>
         <dc:date>2024-11-17T15:00:00Z</dc:date>
@@ -39,70 +104,5 @@
         <title>TypeScriptの次なる大進化なるか！？　条件型を返り値とする関数の型推論 (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/typescriptnoci-naruda-jin-hua-naruka-tiao-jian-xing-wofan-rizhi-tosuruguan-shu-noxing-tui-lun</link>
         <dc:date>2024-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>for public) TypeScriptの型システムは万能機械の夢を見るか？</title>
-        <link>https://docs.google.com/presentation/d/1hnvPiSCI2UBIZ0x5OTl3ZFHvIGMIl3g37It1_Qd7hNA/preview</link>
-        <dc:date>2024-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アプリ文言のパースで学ぶ 文字列Literal型パズル入門 (Saji)</title>
-        <link>https://speakerdeck.com/sajikix/apuriwen-yan-nopasudexue-bu-wen-zi-lie-literalxing-pazururu-men</link>
-        <dc:date>2024-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ts-morphのパフォーマンス改善 (ryo,@RyoKawamata)</title>
-        <link>https://www.docswell.com/s/kawamataryo/56VJ1W-ts-morph-performance</link>
-        <dc:date>2024-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>よくできたテンプレート言語として TypeScript + JSX を利用する試み / Using TypeScript + JSX outside of Web Frontend #TSKaigiKansai (Masayuki Izumi)</title>
-        <link>https://speakerdeck.com/izumin5210/using-typescript-plus-jsx-outside-of-web-frontend-number-tskaigikansai</link>
-        <dc:date>2024-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発生産性を上げながらビジネスも30倍成長させてきたチームの姿 (Kaito Minatoya)</title>
-        <link>https://speakerdeck.com/kamina_zzz/kai-fa-sheng-chan-xing-woshang-genagarabizinesumo30bei-cheng-chang-sasetekitatimunozi</link>
-        <dc:date>2024-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データガバナンスチームの結成で得た学び / Insights from the Data Governance Team (Yuto TANAKA)</title>
-        <link>https://speakerdeck.com/auto_yak_ant/insights-from-the-data-governance-team</link>
-        <dc:date>2024-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript、上達の瞬間 (sadnessOjisan)</title>
-        <link>https://speakerdeck.com/sadnessojisan/typescript-shang-da-noshun-jian</link>
-        <dc:date>2024-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テストコード品質を高めるためにMutation Testingライブラリ・Strykerを実戦導入してみた話 (Kanon)</title>
-        <link>https://speakerdeck.com/ysknsid25/tesutokodopin-zhi-wogao-merutamenimutation-testingraiburaristrykerwoshi-zhan-dao-ru-sitemita</link>
-        <dc:date>2024-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>複雑なフロントエンド（ノーコード）を堅牢に作る (yuta-ike,@Selria1)</title>
-        <link>https://www.docswell.com/s/yuta-ike/KJ486V-tskaigi-kansai-2024</link>
-        <dc:date>2024-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>型付き API リクエストを実現するいくつかの手法とその選択 / Typed API Request (euxn23)</title>
-        <link>https://speakerdeck.com/euxn23/typed-api-request</link>
-        <dc:date>2024-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ペアーズにおけるAmazon Bedrockを⽤いた障害対応⽀援 ⽣成AIツールの導⼊事例 @ 20241115配信AWSウェビナー登壇 (fukubaka0825)</title>
-        <link>https://speakerdeck.com/fukubaka0825/peazuniokeruamazon-bedrockwo-itazhang-hai-dui-ying-yuan-cheng-aiturunodao-shi-li-at-20241115pei-xin-awsuebinadeng-tan</link>
-        <dc:date>2024-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ今 AI Agent なのか _近藤憲児 (Kenji KONDO)</title>
-        <link>https://speakerdeck.com/kenjikondobai/nasejin-ai-agent-nanoka-jin-teng-xian-er</link>
-        <dc:date>2024-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RubyのWebアプリケーションを50倍速くする方法 / How to Make a Ruby Web Application 50 Times Faster (hogelog)</title>
-        <link>https://speakerdeck.com/hogelog/how-to-make-a-ruby-web-application-50-times-faster</link>
-        <dc:date>2024-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
