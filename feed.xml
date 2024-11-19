@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>watsonx.ai Dojo #4 生成AIを使ったアプリ開発、応用編 (Akira Onishi (IBM))</title>
+        <link>https://speakerdeck.com/oniak3ibm/wxaidojo04-20241120-rag-langchain</link>
+        <dc:date>2024-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>脆弱性管理のはじめかた(公開版) (Haya,@yo_hayasaka)</title>
+        <link>https://www.docswell.com/s/yohaya/ZMXV2N-2024-11-19-SST-Whatsup-How-to-start-vulnerability</link>
+        <dc:date>2024-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>New Relicを活用したSREの最初のステップ / NRUG OKINAWA VOL.3 (Isao Shimizu)</title>
+        <link>https://speakerdeck.com/isaoshimizu/nrug-okinawa-vol-dot-3</link>
+        <dc:date>2024-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Postmanオンラインワークショップ - API認証 - 20241119</title>
         <link>https://docs.google.com/presentation/d/161CFuj9ziKiI-xV1w_qYoADRbtArCJnJR5hsZ1HI50M/preview</link>
         <dc:date>2024-11-18T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>学び実践してきたこと (Daisuke Yamazaki)</title>
         <link>https://speakerdeck.com/yamaz/xue-bishi-jian-sitekitakoto</link>
         <dc:date>2024-11-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>安心してください、日本語使えますよ―Ubuntu日本語Remix提供休止に寄せて― 2024-11-17 (Nobuto Murata)</title>
-        <link>https://speakerdeck.com/nobutomurata/dont-worry-you-can-use-ubuntu-in-japanese-2024-11-17</link>
-        <dc:date>2024-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Code AI Findy Event (Yuki Hattori)</title>
-        <link>https://speakerdeck.com/yuhattor/code-ai-findy-event</link>
-        <dc:date>2024-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>B2B SaaS × AI機能開発 〜テナント分離のパターン解説〜 / B2B SaaS x AI function development - Explanation of tenant separation pattern (Yuki.Ozasa)</title>
-        <link>https://speakerdeck.com/oztick139/b2b-saas-x-ai-function-development-explanation-of-tenant-separation-pattern</link>
-        <dc:date>2024-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
