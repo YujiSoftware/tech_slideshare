@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RustとPyTorchで作る推論サーバー (Yudai Hayashi)</title>
+        <link>https://speakerdeck.com/yudai00/rusttopytorchdezuo-rutui-lun-saba</link>
+        <dc:date>2024-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>The Rise of LLMOps (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/the-rise-of-llmops</link>
         <dc:date>2024-11-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「地方局がBedrock を使った 業務改善に 挑戦している話」2023.11/4 - AWSカーニバル  (ayuki sugimoto)</title>
         <link>https://speakerdeck.com/ayuki_sugimoto/4-awskanibaru-di-fang-ju-gabedrock-woshi-tuta-ye-wu-gai-shan-ni-tiao-zhan-siteiruhua</link>
-        <dc:date>2024-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>感謝の彩り：拝啓 JAWS-UGさま、AWSさまへ/20231104_aws-carnival-color-of-gratitude (kobank_t)</title>
-        <link>https://speakerdeck.com/kobank_t/20231104-aws-carnival-color-of-gratitude</link>
         <dc:date>2024-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
