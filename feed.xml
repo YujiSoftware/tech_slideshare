@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Zipf 白色化：タイプとトークンの区別がもたらす良質な埋め込み空間と損失関数 (Sho Yokoi)</title>
+        <link>https://speakerdeck.com/eumesy/zipfian-whitening</link>
+        <dc:date>2024-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>恐竜がAWS_Network_Firewallを導入してみた.pdf (中濱 誠司)</title>
         <link>https://speakerdeck.com/nakahama_seiji/kong-long-kaaws-network-firewallwodao-ru-sitemita</link>
         <dc:date>2024-11-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWSのアップデートを 毎週まとめ続けてみた and more ...? at AWSカーニバル懇親会 (SimSta)</title>
         <link>https://speakerdeck.com/shimagaji/awsnoatupudetowo-mei-zhou-matomesok-ketemita-and-more-dot-dot-dot-at-awskanibaruken-qin-hui</link>
-        <dc:date>2024-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フリースタイル・ストリーム・トークについて (takuma.watabiki)</title>
-        <link>https://speakerdeck.com/bikisuke/about-freestyle-stream-talk</link>
         <dc:date>2024-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
