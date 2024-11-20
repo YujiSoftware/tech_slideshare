@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データプロダクトの定義からはじめる、データコントラクト駆動なデータ基盤 (chanyou0311)</title>
+        <link>https://speakerdeck.com/chanyou0311/detapurodakutonoding-yi-karahazimeru-detakontorakutoqu-dong-nadetaji-pan</link>
+        <dc:date>2024-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Arm移行タイムアタック (Masaki Hara)</title>
         <link>https://speakerdeck.com/qnighy/armyi-xing-taimuatatuku</link>
         <dc:date>2024-11-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20241118_RPALT_ガンダムLT</title>
         <link>https://docs.google.com/presentation/d/1a32Tp1jJ0UW87oQLATuz7RoXNA6UGJmcrUuiFjM8Rb0/preview</link>
-        <dc:date>2024-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>酪農IoTにおけるリアルタイム分析 @AWSカーニバル 2023-11-04 (Shigeru Okuyama(@sgrokym))</title>
-        <link>https://speakerdeck.com/sgrokym/luo-nong-iotniokeruriarutaimufen-xi-at-awskanibaru-2023-11-04</link>
         <dc:date>2024-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
