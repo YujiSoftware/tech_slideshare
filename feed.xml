@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>庭と負債 (Fujimura Daisuke)</title>
+        <link>https://speakerdeck.com/fujimura/debt-and-garden</link>
+        <dc:date>2024-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>10XにおけるData Contractの導入について: Data Contract事例共有会 (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/10xniokerudata-contractnodao-ru-nituite-data-contractshi-li-gong-you-hui</link>
+        <dc:date>2024-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オープンソースAIとは何か？ --「オープンソースAIの定義 v1.0」詳細解説 (Shuji Sado)</title>
         <link>https://speakerdeck.com/shujisado/opunsosuaitohahe-ka-opunsosuainoding-yi-v1-dot-0-xiang-xi-jie-shuo</link>
         <dc:date>2024-11-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>タクシーアプリ『GO』のリアルタイムデータ分析基盤における機械学習サービスの活用 (GO Inc. dev)</title>
         <link>https://speakerdeck.com/mot_techtalk/takusiapuri-go-noriarutaimudetafen-xi-ji-pan-niokeruji-jie-xue-xi-sabisunohuo-yong</link>
-        <dc:date>2024-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ活用促進のためのデータ分析基盤の進化 (Takuma Kouno)</title>
-        <link>https://speakerdeck.com/takumakouno/wei-zhi-qing-bao-detawokosutozui-shi-hua-situtu-fen-xi-nihuo-kasutameno-detaguan-li-toyun-yong-fang-fa-nituite-e27496cc-5f9c-4b53-80e0-eb7d88d02ef3</link>
-        <dc:date>2024-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Haskellで競技プログラミングに入門してみた</title>
-        <link>https://docs.google.com/presentation/d/1h96gdb5KF64DXAM05C4bcmfP4LxIj0f_5_Pq-AULYI8/preview</link>
         <dc:date>2024-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
