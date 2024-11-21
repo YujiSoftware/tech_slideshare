@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Roborazziでスクリーンショットを撮るときに役立つTips集 / A collection of useful tips for taking screenshots in Roborazzi (TOYAMA Sumio)</title>
+        <link>https://speakerdeck.com/sumio/a-collection-of-useful-tips-for-taking-screenshots-in-roborazzi</link>
+        <dc:date>2024-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Roomのマイグレーションをテストする方法 (Rakalute)</title>
+        <link>https://speakerdeck.com/rakalute/roomnomaiguresiyonwotesutosurufang-fa</link>
+        <dc:date>2024-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Android の静的解析における SARIF ファイルの活用 (Hiroyuki Kusu)</title>
+        <link>https://speakerdeck.com/hkusu/android-nojing-de-jie-xi-niokeru-sarif-huairunohuo-yong</link>
+        <dc:date>2024-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ZOZOのデータマネジメントの取り組み：これまでとこれから / ZOZO's Data Management Initiatives (Yudai Takagi)</title>
         <link>https://speakerdeck.com/takagiyudai/zozos-data-management-initiatives</link>
         <dc:date>2024-11-20T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>watsonx.ai Dojo #4 生成AIを使ったアプリ開発、応用編 (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/wxaidojo04-20241120-rag-langchain</link>
         <dc:date>2024-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脆弱性管理のはじめかた(公開版) (Haya,@yo_hayasaka)</title>
-        <link>https://www.docswell.com/s/yohaya/ZMXV2N-2024-11-19-SST-Whatsup-How-to-start-vulnerability</link>
-        <dc:date>2024-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>New Relicを活用したSREの最初のステップ / NRUG OKINAWA VOL.3 (Isao Shimizu)</title>
-        <link>https://speakerdeck.com/isaoshimizu/nrug-okinawa-vol-dot-3</link>
-        <dc:date>2024-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanオンラインワークショップ - API認証 - 20241119</title>
-        <link>https://docs.google.com/presentation/d/161CFuj9ziKiI-xV1w_qYoADRbtArCJnJR5hsZ1HI50M/preview</link>
-        <dc:date>2024-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
