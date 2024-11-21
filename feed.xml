@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ZOZOのデータマネジメントの取り組み：これまでとこれから / ZOZO's Data Management Initiatives (Yudai Takagi)</title>
+        <link>https://speakerdeck.com/takagiyudai/zozos-data-management-initiatives</link>
+        <dc:date>2024-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>庭と負債 (Fujimura Daisuke)</title>
         <link>https://speakerdeck.com/fujimura/debt-and-garden</link>
         <dc:date>2024-11-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Postmanオンラインワークショップ - API認証 - 20241119</title>
         <link>https://docs.google.com/presentation/d/161CFuj9ziKiI-xV1w_qYoADRbtArCJnJR5hsZ1HI50M/preview</link>
-        <dc:date>2024-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>タクシーアプリ『GO』のリアルタイムデータ分析基盤における機械学習サービスの活用 (GO Inc. dev)</title>
-        <link>https://speakerdeck.com/mot_techtalk/takusiapuri-go-noriarutaimudetafen-xi-ji-pan-niokeruji-jie-xue-xi-sabisunohuo-yong</link>
         <dc:date>2024-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
