@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>チームでDDDを実践するためのことはじめ (akkino/D-En)</title>
+        <link>https://speakerdeck.com/d_endo/timudedddwoshi-jian-surutamenokotohazime</link>
+        <dc:date>2024-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>デザインパターンを掘り下げよう ~Singleton Pattern 編~ (mashirou1234)</title>
+        <link>https://speakerdeck.com/mashirou1234/dezainpatanwojue-rixia-geyou-singleton-pattern-bian</link>
+        <dc:date>2024-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アプリのリニューアル時にDomainModelを削除した話(設計カンファレンス extends OOC 2024.3.29) (domonr)</title>
+        <link>https://speakerdeck.com/domonr/apurinoriniyuarushi-nidomainmodelwoxue-chu-sitahua-she-ji-kanhuarensu-extends-ooc-2024-dot-3-29</link>
+        <dc:date>2024-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新刊紹介 (asuka)</title>
+        <link>https://speakerdeck.com/askua/xin-kan-shao-jie</link>
+        <dc:date>2024-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゆめみ大技林について (macneko-ayu)</title>
+        <link>https://speakerdeck.com/macnekoayu/yumemida-ji-lin-nituite</link>
+        <dc:date>2024-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>カンファレンスの「アレ」Webでなんとかしませんか？ / Conference “thing” Why don't you do something about it on the Web? (デロ)</title>
+        <link>https://speakerdeck.com/dero1to/conference-thing-why-dont-you-do-something-about-it-on-the-web</link>
+        <dc:date>2024-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>情報処理学会関西支部2024年度定期講演会「自然言語処理と大規模言語モデルの基礎」 (Katsuhito Sudoh)</title>
         <link>https://speakerdeck.com/ksudoh/qing-bao-chu-li-xue-hui-guan-xi-zhi-bu-2024nian-du-ding-qi-jiang-yan-hui-zi-ran-yan-yu-chu-li-toda-gui-mo-yan-yu-moderunoji-chu</link>
         <dc:date>2024-11-20T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>The Rise of LLMOps (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/the-rise-of-llmops</link>
-        <dc:date>2024-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Zipf 白色化：タイプとトークンの区別がもたらす良質な埋め込み空間と損失関数 (Sho Yokoi)</title>
-        <link>https://speakerdeck.com/eumesy/zipfian-whitening</link>
-        <dc:date>2024-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>恐竜がAWS_Network_Firewallを導入してみた.pdf (中濱 誠司)</title>
-        <link>https://speakerdeck.com/nakahama_seiji/kong-long-kaaws-network-firewallwodao-ru-sitemita</link>
-        <dc:date>2024-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>浅めの知識から見た  AWS Certified AI Practitioner ベータ版 (sakaguchi)</title>
-        <link>https://speakerdeck.com/sakaguchi/qian-menozhi-shi-karajian-ta-aws-certified-ai-practitioner-betaban</link>
-        <dc:date>2024-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>そのS3暗号化ちょっと待って(SSE-S3とSSE-KMSの違いと注意点) (k_sasano)</title>
-        <link>https://speakerdeck.com/sasano/sonos3an-hao-hua-tiyotutodai-tute-sse-s3tosse-kmsnowei-itozhu-yi-dian</link>
-        <dc:date>2024-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Neptuneで始めてみるグラフDB －OpenSearchによるグラフの全文検索－ (Satoshi Kaneyasu)</title>
-        <link>https://speakerdeck.com/satoshi256kbyte/amazon-neptuneteshi-metemirukurahudb-gai-gurahudbwoshi-uyi-wei-wokao-eru</link>
-        <dc:date>2024-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EKS初心者が早めに知っておきたかったこと (cuorain)</title>
-        <link>https://speakerdeck.com/cuorain/ekschu-xin-zhe-gazao-menizhi-tuteokitakatutakoto</link>
         <dc:date>2024-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
