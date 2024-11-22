@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM講座2024年「Day10. LLMの分析と理論」（後半パート） (Kogoro)</title>
+        <link>https://speakerdeck.com/kogoro/llmjiang-zuo-2024nian-day10-llmnofen-xi-toli-lun-hou-ban-pato</link>
+        <dc:date>2024-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SREが投資するAIOps  ~ペアーズにおけるLLM for Developerへの取り組み~ (ogady)</title>
+        <link>https://speakerdeck.com/takumiogawa/sregatou-zi-suruaiops-peazuniokerullm-for-developerhenoqu-rizu-mi</link>
+        <dc:date>2024-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組織をオンボードし続けていくためにできること (tkkz1009)</title>
         <link>https://speakerdeck.com/tkkz1009/20241121-2024qiu-nosinsiniameetup</link>
         <dc:date>2024-11-21T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>データプロダクトの定義からはじめる、データコントラクト駆動なデータ基盤 (chanyou0311)</title>
         <link>https://speakerdeck.com/chanyou0311/detapurodakutonoding-yi-karahazimeru-detakontorakutoqu-dong-nadetaji-pan</link>
         <dc:date>2024-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Arm移行タイムアタック (Masaki Hara)</title>
-        <link>https://speakerdeck.com/qnighy/armyi-xing-taimuatatuku</link>
-        <dc:date>2024-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RustとPyTorchで作る推論サーバー (Yudai Hayashi)</title>
-        <link>https://speakerdeck.com/yudai00/rusttopytorchdezuo-rutui-lun-saba</link>
-        <dc:date>2024-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
