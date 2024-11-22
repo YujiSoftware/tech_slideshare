@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>飲食店データの分析事例とそれを支えるデータ基盤 (kimujun)</title>
+        <link>https://speakerdeck.com/kimujun/yin-shi-dian-detanofen-xi-shi-li-tosorewozhi-erudetaji-pan</link>
+        <dc:date>2024-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLM講座2024年「Day10. LLMの分析と理論」（後半パート） (Kogoro)</title>
         <link>https://speakerdeck.com/kogoro/llmjiang-zuo-2024nian-day10-llmnofen-xi-toli-lun-hou-ban-pato</link>
         <dc:date>2024-11-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>オープンソースAIとは何か？ --「オープンソースAIの定義 v1.0」詳細解説 (Shuji Sado)</title>
         <link>https://speakerdeck.com/shujisado/opunsosuaitohahe-ka-opunsosuainoding-yi-v1-dot-0-xiang-xi-jie-shuo</link>
-        <dc:date>2024-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データプロダクトの定義からはじめる、データコントラクト駆動なデータ基盤 (chanyou0311)</title>
-        <link>https://speakerdeck.com/chanyou0311/detapurodakutonoding-yi-karahazimeru-detakontorakutoqu-dong-nadetaji-pan</link>
         <dc:date>2024-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
