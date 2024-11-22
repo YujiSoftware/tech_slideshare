@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織をオンボードし続けていくためにできること (tkkz1009)</title>
+        <link>https://speakerdeck.com/tkkz1009/20241121-2024qiu-nosinsiniameetup</link>
+        <dc:date>2024-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>チームでDDDを実践するためのことはじめ (akkino/D-En)</title>
         <link>https://speakerdeck.com/d_endo/timudedddwoshi-jian-surutamenokotohazime</link>
         <dc:date>2024-11-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RustとPyTorchで作る推論サーバー (Yudai Hayashi)</title>
         <link>https://speakerdeck.com/yudai00/rusttopytorchdezuo-rutui-lun-saba</link>
-        <dc:date>2024-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Rise of LLMOps (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/the-rise-of-llmops</link>
         <dc:date>2024-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
