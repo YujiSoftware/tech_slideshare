@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>.NET のための通信フレームワーク MagicOnion 入門 / Introduction to MagicOnion (Mayuki Sawatari)</title>
+        <link>https://speakerdeck.com/mayuki/introduction-to-magiconion</link>
+        <dc:date>2024-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>徹底解剖！ 医療業務システムのReactコンポーネント設計 / Deep Dive into React Component Design for Medical Systems (Medley Inc.)</title>
         <link>https://speakerdeck.com/medley/deep-dive-into-react-component-design-for-medical-systems</link>
         <dc:date>2024-11-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ゆめみ大技林について (macneko-ayu)</title>
         <link>https://speakerdeck.com/macnekoayu/yumemida-ji-lin-nituite</link>
-        <dc:date>2024-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カンファレンスの「アレ」Webでなんとかしませんか？ / Conference “thing” Why don't you do something about it on the Web? (デロ)</title>
-        <link>https://speakerdeck.com/dero1to/conference-thing-why-dont-you-do-something-about-it-on-the-web</link>
         <dc:date>2024-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
