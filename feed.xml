@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>UI 開発における ヘッドレス UI ライブラリの重要性とデザインシステムへの取り入れ方 (azukiazusa)</title>
+        <link>https://speakerdeck.com/azukiazusa1/ui-kai-fa-niokeru-hetudoresu-ui-raiburarinozhong-yao-xing-todezainsisutemuhenoqu-riru-refang</link>
+        <dc:date>2024-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React への依存を最小にするフロントエンド設計 (ONDA, Takashi)</title>
+        <link>https://speakerdeck.com/takonda/minimize-framework-dependency-in-frontend</link>
+        <dc:date>2024-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サイボウズの QAエンジニアについて / about cybozu QA (Cybozu)</title>
         <link>https://speakerdeck.com/cybozuinsideout/about-cybozu-qa</link>
         <dc:date>2024-11-22T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Roborazziでスクリーンショットを撮るときに役立つTips集 / A collection of useful tips for taking screenshots in Roborazzi (TOYAMA Sumio)</title>
         <link>https://speakerdeck.com/sumio/a-collection-of-useful-tips-for-taking-screenshots-in-roborazzi</link>
-        <dc:date>2024-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Roomのマイグレーションをテストする方法 (Rakalute)</title>
-        <link>https://speakerdeck.com/rakalute/roomnomaiguresiyonwotesutosurufang-fa</link>
-        <dc:date>2024-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Android の静的解析における SARIF ファイルの活用 (Hiroyuki Kusu)</title>
-        <link>https://speakerdeck.com/hkusu/android-nojing-de-jie-xi-niokeru-sarif-huairunohuo-yong</link>
         <dc:date>2024-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
