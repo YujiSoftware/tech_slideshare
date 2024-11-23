@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>徹底解剖！ 医療業務システムのReactコンポーネント設計 / Deep Dive into React Component Design for Medical Systems (Medley Inc.)</title>
+        <link>https://speakerdeck.com/medley/deep-dive-into-react-component-design-for-medical-systems</link>
+        <dc:date>2024-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JavaScriptのモジュール解決の相互運用性 / JSConf JP 2024 - Interoperability of Module Resolutions in JavaScript (berlysia)</title>
+        <link>https://speakerdeck.com/berlysia/interoperability-of-module-resolutions-in-javascript</link>
+        <dc:date>2024-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>あなたの知らない Function.prototype.toString() の世界 (mizdra)</title>
+        <link>https://speakerdeck.com/mizdra/the-world-of-function-prototype-tostring-you-dont-know</link>
+        <dc:date>2024-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Storybook との上手な向き合い方を考える (Rintaro Itokawa)</title>
         <link>https://speakerdeck.com/re_taro/storybook-tonoshang-shou-naxiang-kihe-ifang-wokao-eru</link>
         <dc:date>2024-11-22T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>カンファレンスの「アレ」Webでなんとかしませんか？ / Conference “thing” Why don't you do something about it on the Web? (デロ)</title>
         <link>https://speakerdeck.com/dero1to/conference-thing-why-dont-you-do-something-about-it-on-the-web</link>
         <dc:date>2024-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>情報処理学会関西支部2024年度定期講演会「自然言語処理と大規模言語モデルの基礎」 (Katsuhito Sudoh)</title>
-        <link>https://speakerdeck.com/ksudoh/qing-bao-chu-li-xue-hui-guan-xi-zhi-bu-2024nian-du-ding-qi-jiang-yan-hui-zi-ran-yan-yu-chu-li-toda-gui-mo-yan-yu-moderunoji-chu</link>
-        <dc:date>2024-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これはSRE? Platform Engineering? Other? ～プロダクトと一緒にSREの道を歩き始めた、インフラエンジニアの現在地～ (sakai-nako,@sakai_nako)</title>
-        <link>https://www.docswell.com/s/sakai-nako/5QR9M3-2024-11-10-133945</link>
-        <dc:date>2024-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Building Observability Infrastructure with OpenTelemetry and SaaS (Y.Matsuda)</title>
-        <link>https://speakerdeck.com/ymtdzzz/building-observability-infrastructure-with-opentelemetry-and-saas</link>
-        <dc:date>2024-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
