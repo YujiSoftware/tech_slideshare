@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サイボウズの QAエンジニアについて / about cybozu QA (Cybozu)</title>
+        <link>https://speakerdeck.com/cybozuinsideout/about-cybozu-qa</link>
+        <dc:date>2024-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>B2B SaaSから見た最近のC#/.NETの進化 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20241118</link>
         <dc:date>2024-11-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Android の静的解析における SARIF ファイルの活用 (Hiroyuki Kusu)</title>
         <link>https://speakerdeck.com/hkusu/android-nojing-de-jie-xi-niokeru-sarif-huairunohuo-yong</link>
-        <dc:date>2024-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ZOZOのデータマネジメントの取り組み：これまでとこれから / ZOZO's Data Management Initiatives (Yudai Takagi)</title>
-        <link>https://speakerdeck.com/takagiyudai/zozos-data-management-initiatives</link>
         <dc:date>2024-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
