@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Next.jsとNuxtが混在？ iframeでなんとかする！ (ypresto)</title>
+        <link>https://speakerdeck.com/ypresto/nuxt-inside-nextjs-with-iframe</link>
+        <dc:date>2024-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMによるLLMアプリ評価パイプライン構築 (mtsukada)</title>
         <link>https://speakerdeck.com/licux/llmniyorullmapuriping-jia-paipuraingou-zhu</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>CDCL による厳密解法を採用した MILP ソルバー (今井義弥)</title>
         <link>https://speakerdeck.com/imai448/cdcl-niyoruyan-mi-jie-fa-wocai-yong-sita-milp-soruba</link>
         <dc:date>2024-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>飲食店データの分析事例とそれを支えるデータ基盤 (kimujun)</title>
-        <link>https://speakerdeck.com/kimujun/yin-shi-dian-detanofen-xi-shi-li-tosorewozhi-erudetaji-pan</link>
-        <dc:date>2024-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
