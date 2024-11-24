@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>デザインシステムの力 Webデザイナーとエンジニアのための実践ガイド / The Power of Design System (Ameba Spindle)</title>
+        <link>https://speakerdeck.com/spindle/the-power-of-design-system</link>
+        <dc:date>2024-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>イテレータとイテラブルの概要と課題、未来 (sosukesuzuki)</title>
         <link>https://speakerdeck.com/sosukesuzuki/iteretatoiteraburunogai-yao-toke-ti-wei-lai</link>
         <dc:date>2024-11-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>デザインパターンを掘り下げよう ~Singleton Pattern 編~ (mashirou1234)</title>
         <link>https://speakerdeck.com/mashirou1234/dezainpatanwojue-rixia-geyou-singleton-pattern-bian</link>
-        <dc:date>2024-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アプリのリニューアル時にDomainModelを削除した話(設計カンファレンス extends OOC 2024.3.29) (domonr)</title>
-        <link>https://speakerdeck.com/domonr/apurinoriniyuarushi-nidomainmodelwoxue-chu-sitahua-she-ji-kanhuarensu-extends-ooc-2024-dot-3-29</link>
         <dc:date>2024-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
