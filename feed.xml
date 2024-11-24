@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vapor Revolution (kazupon)</title>
+        <link>https://speakerdeck.com/kazupon/vapor-revolution</link>
+        <dc:date>2024-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SDN の Hype Cycle を 一通り経験してみて思うこと / Going through the Hype Cycle of SDN (Motonori Shindo / 進藤資訓)</title>
+        <link>https://speakerdeck.com/mshindo/going-through-the-hype-cycle-of-sdn</link>
+        <dc:date>2024-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React CompilerとFine Grained Reactivityと宣言的UIのこれから / The next chapter of declarative UI (TOMIKAWA Sotaro)</title>
         <link>https://speakerdeck.com/ssssota/the-next-chapter-of-declarative-ui</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>React への依存を最小にするフロントエンド設計 (ONDA, Takashi)</title>
         <link>https://speakerdeck.com/takonda/minimize-framework-dependency-in-frontend</link>
-        <dc:date>2024-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイボウズの QAエンジニアについて / about cybozu QA (Cybozu)</title>
-        <link>https://speakerdeck.com/cybozuinsideout/about-cybozu-qa</link>
-        <dc:date>2024-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>B2B SaaSから見た最近のC#/.NETの進化 (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/sansan-20241118</link>
         <dc:date>2024-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
