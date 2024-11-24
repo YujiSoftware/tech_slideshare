@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Modular Monolith Monorepo ～シンプルさを保ちながらmonorepoのメリットを最大化する～ (Yui Sakamoto)</title>
+        <link>https://speakerdeck.com/yuisakamoto/modular-monolith-monorepo-sinpurusawobao-tinagaramonoreponomeritutowozui-da-hua-suru</link>
+        <dc:date>2024-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>デザインシステムの力 Webデザイナーとエンジニアのための実践ガイド / The Power of Design System (Ameba Spindle)</title>
         <link>https://speakerdeck.com/spindle/the-power-of-design-system</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>チームでDDDを実践するためのことはじめ (akkino/D-En)</title>
         <link>https://speakerdeck.com/d_endo/timudedddwoshi-jian-surutamenokotohazime</link>
-        <dc:date>2024-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザインパターンを掘り下げよう ~Singleton Pattern 編~ (mashirou1234)</title>
-        <link>https://speakerdeck.com/mashirou1234/dezainpatanwojue-rixia-geyou-singleton-pattern-bian</link>
         <dc:date>2024-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
