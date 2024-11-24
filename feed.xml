@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React CompilerとFine Grained Reactivityと宣言的UIのこれから / The next chapter of declarative UI (TOMIKAWA Sotaro)</title>
+        <link>https://speakerdeck.com/ssssota/the-next-chapter-of-declarative-ui</link>
+        <dc:date>2024-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>静的解析で実現した効率的なi18n対応の仕組みづくり (minako-ph)</title>
+        <link>https://speakerdeck.com/minako__ph/jing-de-jie-xi-deshi-xian-sitaxiao-lu-de-nai18ndui-ying-noshi-zu-midukuri</link>
+        <dc:date>2024-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Next.jsとNuxtが混在？ iframeでなんとかする！ (ypresto)</title>
         <link>https://speakerdeck.com/ypresto/nuxt-inside-nextjs-with-iframe</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>B2B SaaSから見た最近のC#/.NETの進化 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/sansan-20241118</link>
-        <dc:date>2024-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新しい社員の組織適応を 支える3つの要素とプロセス / Three elements and processes of organizational adaptation (tbpgr)</title>
-        <link>https://speakerdeck.com/tbpgr/three-elements-and-processes-of-organizational-adaptation</link>
-        <dc:date>2024-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDCL による厳密解法を採用した MILP ソルバー (今井義弥)</title>
-        <link>https://speakerdeck.com/imai448/cdcl-niyoruyan-mi-jie-fa-wocai-yong-sita-milp-soruba</link>
         <dc:date>2024-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
