@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>デザインパターンで理解するLLMエージェントの作り方 / How to develop an LLM agent using agentic design patterns (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/how-to-develop-an-llm-agent-using-agentic-design-patterns</link>
+        <dc:date>2024-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>組織成長を加速させるオンボーディングの取り組み (aki)</title>
+        <link>https://speakerdeck.com/sudoakiy/zu-zhi-cheng-chang-wojia-su-saseruonbodeingunoqu-rizu-mi</link>
+        <dc:date>2024-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>メタヒューリスティクスに基づく汎用線形整数計画ソルバーの開発 (yk)</title>
         <link>https://speakerdeck.com/snowberryfield/metahiyurisuteikusuniji-dukufan-yong-xian-xing-zheng-shu-ji-hua-sorubanokai-fa</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>LLM講座2024年「Day10. LLMの分析と理論」（後半パート） (Kogoro)</title>
         <link>https://speakerdeck.com/kogoro/llmjiang-zuo-2024nian-day10-llmnofen-xi-toli-lun-hou-ban-pato</link>
-        <dc:date>2024-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREが投資するAIOps  ~ペアーズにおけるLLM for Developerへの取り組み~ (ogady)</title>
-        <link>https://speakerdeck.com/takumiogawa/sregatou-zi-suruaiops-peazuniokerullm-for-developerhenoqu-rizu-mi</link>
-        <dc:date>2024-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組織をオンボードし続けていくためにできること (tkkz1009)</title>
-        <link>https://speakerdeck.com/tkkz1009/20241121-2024qiu-nosinsiniameetup</link>
         <dc:date>2024-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
