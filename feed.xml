@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>500万件に向けた課題と未来 (osechitan)</title>
+        <link>https://speakerdeck.com/tmiyao/500mo-jian-nixiang-ketake-ti-towei-lai</link>
+        <dc:date>2024-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ニアリアルタイムのデータ基盤を構築して得られたものと課題 (j-chikushi)</title>
+        <link>https://speakerdeck.com/chikushi/niariarutaimunodetaji-pan-wogou-zhu-sitede-raretamonotoke-ti</link>
+        <dc:date>2024-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vapor Revolution (kazupon)</title>
         <link>https://speakerdeck.com/kazupon/vapor-revolution</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Storybook との上手な向き合い方を考える (Rintaro Itokawa)</title>
         <link>https://speakerdeck.com/re_taro/storybook-tonoshang-shou-naxiang-kihe-ifang-wokao-eru</link>
-        <dc:date>2024-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UI 開発における ヘッドレス UI ライブラリの重要性とデザインシステムへの取り入れ方 (azukiazusa)</title>
-        <link>https://speakerdeck.com/azukiazusa1/ui-kai-fa-niokeru-hetudoresu-ui-raiburarinozhong-yao-xing-todezainsisutemuhenoqu-riru-refang</link>
-        <dc:date>2024-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React への依存を最小にするフロントエンド設計 (ONDA, Takashi)</title>
-        <link>https://speakerdeck.com/takonda/minimize-framework-dependency-in-frontend</link>
         <dc:date>2024-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
