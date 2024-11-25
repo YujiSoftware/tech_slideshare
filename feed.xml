@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェアエンジニア 目線の再発防止策とは</title>
+        <link>https://docs.google.com/presentation/d/1Xcq1ZW98TKlRA5z0SOsCvoV0fAaagP1MKSsdngAZmtQ/preview</link>
+        <dc:date>2024-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>500万件に向けた課題と未来 (osechitan)</title>
         <link>https://speakerdeck.com/tmiyao/500mo-jian-nixiang-ketake-ti-towei-lai</link>
         <dc:date>2024-11-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>あなたの知らない Function.prototype.toString() の世界 (mizdra)</title>
         <link>https://speakerdeck.com/mizdra/the-world-of-function-prototype-tostring-you-dont-know</link>
-        <dc:date>2024-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Storybook との上手な向き合い方を考える (Rintaro Itokawa)</title>
-        <link>https://speakerdeck.com/re_taro/storybook-tonoshang-shou-naxiang-kihe-ifang-wokao-eru</link>
         <dc:date>2024-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
