@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SQLServerのパフォーマンスチューニング (もり,@morisapporo2017)</title>
+        <link>https://www.docswell.com/s/moriyama/Z6VJ2L-2024-11-22-043809</link>
+        <dc:date>2024-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>KotlinユーザのためのJSpecify入門 / JSpecify 101 for Kotlin Devs (Kengo TODA)</title>
         <link>https://speakerdeck.com/eller86/jspecify-101-for-kotlin-devs</link>
         <dc:date>2024-11-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>徹底解剖！ 医療業務システムのReactコンポーネント設計 / Deep Dive into React Component Design for Medical Systems (Medley Inc.)</title>
         <link>https://speakerdeck.com/medley/deep-dive-into-react-component-design-for-medical-systems</link>
-        <dc:date>2024-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JavaScriptのモジュール解決の相互運用性 / JSConf JP 2024 - Interoperability of Module Resolutions in JavaScript (berlysia)</title>
-        <link>https://speakerdeck.com/berlysia/interoperability-of-module-resolutions-in-javascript</link>
         <dc:date>2024-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
