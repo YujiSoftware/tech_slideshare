@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ゼロからSpringヒーローになるまでの道筋 #kanjava (tada,@suke_masa)</title>
+        <link>https://www.docswell.com/s/MasatoshiTada/ZYDM2P-zero-to-spring-hero</link>
+        <dc:date>2024-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>HonoXで動かすアプリケーションのリアル (takahiro suzuki)</title>
+        <link>https://speakerdeck.com/susan1129/honoxdedong-kasuapurikesiyonnoriaru</link>
+        <dc:date>2024-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LINEヤフーにおけるPrerender技術の導入とその効果 (narirou)</title>
+        <link>https://speakerdeck.com/narirou/lineyahuniokeruprerenderji-shu-nodao-ru-tosonoxiao-guo</link>
+        <dc:date>2024-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生配信の裏方のシステムを作っている話</title>
         <link>https://docs.google.com/presentation/d/1IAMXb2AzJbVaVFV4lqrMGgAWt9SrYctwDSvDv47PQec/preview</link>
         <dc:date>2024-11-25T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>LLMによるLLMアプリ評価パイプライン構築 (mtsukada)</title>
         <link>https://speakerdeck.com/licux/llmniyorullmapuriping-jia-paipuraingou-zhu</link>
-        <dc:date>2024-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザインパターンで理解するLLMエージェントの作り方 / How to develop an LLM agent using agentic design patterns (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/how-to-develop-an-llm-agent-using-agentic-design-patterns</link>
-        <dc:date>2024-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組織成長を加速させるオンボーディングの取り組み (aki)</title>
-        <link>https://speakerdeck.com/sudoakiy/zu-zhi-cheng-chang-wojia-su-saseruonbodeingunoqu-rizu-mi</link>
-        <dc:date>2024-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メタヒューリスティクスに基づく汎用線形整数計画ソルバーの開発 (yk)</title>
-        <link>https://speakerdeck.com/snowberryfield/metahiyurisuteikusuniji-dukufan-yong-xian-xing-zheng-shu-ji-hua-sorubanokai-fa</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
