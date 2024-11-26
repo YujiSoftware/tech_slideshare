@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生配信の裏方のシステムを作っている話</title>
+        <link>https://docs.google.com/presentation/d/1IAMXb2AzJbVaVFV4lqrMGgAWt9SrYctwDSvDv47PQec/preview</link>
+        <dc:date>2024-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェア開発の複雑さに立ち向かう (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/sohutoueakai-fa-nofu-za-sanili-tixiang-kau</link>
         <dc:date>2024-11-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>メタヒューリスティクスに基づく汎用線形整数計画ソルバーの開発 (yk)</title>
         <link>https://speakerdeck.com/snowberryfield/metahiyurisuteikusuniji-dukufan-yong-xian-xing-zheng-shu-ji-hua-sorubanokai-fa</link>
-        <dc:date>2024-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Modular Monolith Monorepo ～シンプルさを保ちながらmonorepoのメリットを最大化する～ (Yui Sakamoto)</title>
-        <link>https://speakerdeck.com/yuisakamoto/modular-monolith-monorepo-sinpurusawobao-tinagaramonoreponomeritutowozui-da-hua-suru</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
