@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェア開発の複雑さに立ち向かう (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/sohutoueakai-fa-nofu-za-sanili-tixiang-kau</link>
+        <dc:date>2024-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PaaSとSaaSの境目で信頼性と開発速度を両立する 〜TROCCO®︎のこれまでとこれから〜 (gtnao)</title>
+        <link>https://speakerdeck.com/gtnao/paastosaasnojing-mu-dexin-lai-xing-tokai-fa-su-du-woliang-li-suru-trocco-r-nokoremadetokorekara</link>
+        <dc:date>2024-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>"とにかくやってみる"で始めるAWS Security Hub (mai miya)</title>
         <link>https://speakerdeck.com/maimyyym/aws-security-hub-get-started-just-try-it</link>
         <dc:date>2024-11-25T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Modular Monolith Monorepo ～シンプルさを保ちながらmonorepoのメリットを最大化する～ (Yui Sakamoto)</title>
         <link>https://speakerdeck.com/yuisakamoto/modular-monolith-monorepo-sinpurusawobao-tinagaramonoreponomeritutowozui-da-hua-suru</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザインシステムの力 Webデザイナーとエンジニアのための実践ガイド / The Power of Design System (Ameba Spindle)</title>
-        <link>https://speakerdeck.com/spindle/the-power-of-design-system</link>
-        <dc:date>2024-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>イテレータとイテラブルの概要と課題、未来 (sosukesuzuki)</title>
-        <link>https://speakerdeck.com/sosukesuzuki/iteretatoiteraburunogai-yao-toke-ti-wei-lai</link>
-        <dc:date>2024-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
