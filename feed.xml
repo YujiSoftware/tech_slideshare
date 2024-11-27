@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>累計2500万着電を支える大規模 電話自動応答サービスのアーキテクチャ / Architecture of a Large-Scale Automated Phone Response Service Supporting 25 Million Cumulative Calls (Yuichiro Machida)</title>
+        <link>https://speakerdeck.com/ymachida/architecture-of-a-large-scale-automated-phone-response-service-supporting-25-million-cumulative-calls</link>
+        <dc:date>2024-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>偶有的複雑性と戦うためのアーキテクチャとチームトポロジー (Kenichi SUZUKI)</title>
         <link>https://speakerdeck.com/knih/architectures-and-topologies</link>
         <dc:date>2024-11-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>静的解析で実現した効率的なi18n対応の仕組みづくり (minako-ph)</title>
         <link>https://speakerdeck.com/minako__ph/jing-de-jie-xi-deshi-xian-sitaxiao-lu-de-nai18ndui-ying-noshi-zu-midukuri</link>
-        <dc:date>2024-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.jsとNuxtが混在？ iframeでなんとかする！ (ypresto)</title>
-        <link>https://speakerdeck.com/ypresto/nuxt-inside-nextjs-with-iframe</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
