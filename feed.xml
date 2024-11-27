@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>偶有的複雑性と戦うためのアーキテクチャとチームトポロジー (Kenichi SUZUKI)</title>
+        <link>https://speakerdeck.com/knih/architectures-and-topologies</link>
+        <dc:date>2024-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ゼロからSpringヒーローになるまでの道筋 #kanjava (tada,@suke_masa)</title>
         <link>https://www.docswell.com/s/MasatoshiTada/ZYDM2P-zero-to-spring-hero</link>
         <dc:date>2024-11-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Next.jsとNuxtが混在？ iframeでなんとかする！ (ypresto)</title>
         <link>https://speakerdeck.com/ypresto/nuxt-inside-nextjs-with-iframe</link>
-        <dc:date>2024-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMによるLLMアプリ評価パイプライン構築 (mtsukada)</title>
-        <link>https://speakerdeck.com/licux/llmniyorullmapuriping-jia-paipuraingou-zhu</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
