@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>イオンCTOが語るイオングループ全体を支えるクリティカルシステム解体新書/findy-architecture-conf-2024 (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/findy-architecture-conf-2024</link>
+        <dc:date>2024-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>累計2500万着電を支える大規模 電話自動応答サービスのアーキテクチャ / Architecture of a Large-Scale Automated Phone Response Service Supporting 25 Million Cumulative Calls (Yuichiro Machida)</title>
         <link>https://speakerdeck.com/ymachida/architecture-of-a-large-scale-automated-phone-response-service-supporting-25-million-cumulative-calls</link>
         <dc:date>2024-11-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>React CompilerとFine Grained Reactivityと宣言的UIのこれから / The next chapter of declarative UI (TOMIKAWA Sotaro)</title>
         <link>https://speakerdeck.com/ssssota/the-next-chapter-of-declarative-ui</link>
-        <dc:date>2024-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>静的解析で実現した効率的なi18n対応の仕組みづくり (minako-ph)</title>
-        <link>https://speakerdeck.com/minako__ph/jing-de-jie-xi-deshi-xian-sitaxiao-lu-de-nai18ndui-ying-noshi-zu-midukuri</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
