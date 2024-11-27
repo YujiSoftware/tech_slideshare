@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクトマネージャーはどこまで出世すべきか (KEITA YANAGAWA)</title>
+        <link>https://speakerdeck.com/gimupop/pmzadankai</link>
+        <dc:date>2024-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREチームの越境/crossing-Boundaries-of-the-SRE Team (AEON)</title>
         <link>https://speakerdeck.com/aeonpeople/crossing-boundaries-of-the-sre-team</link>
         <dc:date>2024-11-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Vapor Revolution (kazupon)</title>
         <link>https://speakerdeck.com/kazupon/vapor-revolution</link>
-        <dc:date>2024-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SDN の Hype Cycle を 一通り経験してみて思うこと / Going through the Hype Cycle of SDN (Motonori Shindo / 進藤資訓)</title>
-        <link>https://speakerdeck.com/mshindo/going-through-the-hype-cycle-of-sdn</link>
         <dc:date>2024-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
