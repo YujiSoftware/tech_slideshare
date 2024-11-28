@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>eBPF Deep Dive: Architecture and Safety Mechanisms (Takeru Hayasaka)</title>
+        <link>https://speakerdeck.com/takehaya/ebpf-deep-dive-architecture-and-safety-mechanisms</link>
+        <dc:date>2024-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>東急URBAN HACKSのデザイナーって何やってるの？ 〜Designer Night #1〜 組織横断のデザインの 取り組みについて (Shigenori Yamasaki)</title>
         <link>https://speakerdeck.com/sig/dong-ji-urban-hacksnodezainatutehe-yatuteruno-designer-night-number-1-zu-zhi-heng-duan-nodezainno-qu-rizu-minituite</link>
         <dc:date>2024-11-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェアエンジニア 目線の再発防止策とは</title>
         <link>https://docs.google.com/presentation/d/1Xcq1ZW98TKlRA5z0SOsCvoV0fAaagP1MKSsdngAZmtQ/preview</link>
-        <dc:date>2024-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>500万件に向けた課題と未来 (osechitan)</title>
-        <link>https://speakerdeck.com/tmiyao/500mo-jian-nixiang-ketake-ti-towei-lai</link>
         <dc:date>2024-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
