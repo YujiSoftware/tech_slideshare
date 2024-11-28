@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SharePointでのドキュメント管理について (コルネ,@koruneko32767)</title>
+        <link>https://www.docswell.com/s/korune/ZXE4M2-2024-11-28-115126</link>
+        <dc:date>2024-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクトマネージャーはどこまで出世すべきか (KEITA YANAGAWA)</title>
         <link>https://speakerdeck.com/gimupop/pmzadankai</link>
         <dc:date>2024-11-27T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ニアリアルタイムのデータ基盤を構築して得られたものと課題 (j-chikushi)</title>
         <link>https://speakerdeck.com/chikushi/niariarutaimunodetaji-pan-wogou-zhu-sitede-raretamonotoke-ti</link>
         <dc:date>2024-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vapor Revolution (kazupon)</title>
-        <link>https://speakerdeck.com/kazupon/vapor-revolution</link>
-        <dc:date>2024-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
