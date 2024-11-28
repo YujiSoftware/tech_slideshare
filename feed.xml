@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript でバックもやるって実際どう？ 実運用で困ったこと3選 (Yuichiro SERITA)</title>
+        <link>https://speakerdeck.com/yuichiro_serita/typescript-tehatukumoyarututeshi-ji-tou-shi-yun-yong-tekun-tutakoto3xuan</link>
+        <dc:date>2024-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プラットフォームエンジニアリングアーキテクチャ道場 on AWS &amp; EKS Kubernetes / Platform Engineering Architecture Dojo (riita10069)</title>
         <link>https://speakerdeck.com/riita10069/platform-engineering-architecture-dojo</link>
         <dc:date>2024-11-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SQLServerのパフォーマンスチューニング (もり,@morisapporo2017)</title>
         <link>https://www.docswell.com/s/moriyama/Z6VJ2L-2024-11-22-043809</link>
-        <dc:date>2024-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KotlinユーザのためのJSpecify入門 / JSpecify 101 for Kotlin Devs (Kengo TODA)</title>
-        <link>https://speakerdeck.com/eller86/jspecify-101-for-kotlin-devs</link>
         <dc:date>2024-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
