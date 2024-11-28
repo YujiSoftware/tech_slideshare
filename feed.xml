@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>もう一度、 事業を支えるシステムに。 (Tech Leverages)</title>
+        <link>https://speakerdeck.com/leveragestech/mou-du-shi-ye-wozhi-erusisutemuni</link>
+        <dc:date>2024-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScript でバックもやるって実際どう？ 実運用で困ったこと3選 (Yuichiro SERITA)</title>
         <link>https://speakerdeck.com/yuichiro_serita/typescript-tehatukumoyarututeshi-ji-tou-shi-yun-yong-tekun-tutakoto3xuan</link>
         <dc:date>2024-11-27T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>江別大人の勉強会　受付手順と留意事項.pptx</title>
         <link>https://docs.google.com/presentation/d/10aJQikxbbbMmmjMDv_6l1yW41dnYDpeg/preview</link>
         <dc:date>2024-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SQLServerのパフォーマンスチューニング (もり,@morisapporo2017)</title>
-        <link>https://www.docswell.com/s/moriyama/Z6VJ2L-2024-11-22-043809</link>
-        <dc:date>2024-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
