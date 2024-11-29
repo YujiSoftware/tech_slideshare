@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Streamlitで開発した自作データカタログの導入 (Ayumu Yamaguchi)</title>
+        <link>https://speakerdeck.com/ayumu_yamaguchi/streamlitdekai-fa-sitazi-zuo-detakatarogunodao-ru</link>
+        <dc:date>2024-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Wi-Fi廃人しぐさ (Ken Sasaki,@sasakipochi)</title>
         <link>https://www.docswell.com/s/sasakipochi/K7R4YJ-2024-11-28-185717</link>
         <dc:date>2024-11-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロダクトマネージャーはどこまで出世すべきか (KEITA YANAGAWA)</title>
         <link>https://speakerdeck.com/gimupop/pmzadankai</link>
-        <dc:date>2024-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREチームの越境/crossing-Boundaries-of-the-SRE Team (AEON)</title>
-        <link>https://speakerdeck.com/aeonpeople/crossing-boundaries-of-the-sre-team</link>
         <dc:date>2024-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
