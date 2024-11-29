@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon ECSとCloud Runの相互理解で広げる クラウドネイティブの景色 /  Mutually understanding Amazon ECS and Cloud Run (iselegant)</title>
+        <link>https://speakerdeck.com/iselegant/mutually-understanding-amazon-ecs-and-cloud-run</link>
+        <dc:date>2024-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RDRAとLLM (神崎)</title>
         <link>https://speakerdeck.com/kanzaki/rdratollm</link>
         <dc:date>2024-11-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>PaaSとSaaSの境目で信頼性と開発速度を両立する 〜TROCCO®︎のこれまでとこれから〜 (gtnao)</title>
         <link>https://speakerdeck.com/gtnao/paastosaasnojing-mu-dexin-lai-xing-tokai-fa-su-du-woliang-li-suru-trocco-r-nokoremadetokorekara</link>
-        <dc:date>2024-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>"とにかくやってみる"で始めるAWS Security Hub (mai miya)</title>
-        <link>https://speakerdeck.com/maimyyym/aws-security-hub-get-started-just-try-it</link>
         <dc:date>2024-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
