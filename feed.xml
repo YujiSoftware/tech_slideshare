@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>.NET 9アプリをCGIとして レンタルサーバーで動かす (Mayuki Sawatari)</title>
+        <link>https://speakerdeck.com/mayuki/dot-net-9apuriwocgitosite-rentarusabadedong-kasu</link>
+        <dc:date>2024-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Unity6で登場！Multiplayer Centerで捗る、オンラインゲーム開発 (Kutani Mio)</title>
+        <link>https://speakerdeck.com/rossam/unity6dedeng-chang-multiplayer-centerdebu-ru-onraingemukai-fa</link>
+        <dc:date>2024-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2024-10-24 【日経×MIERUNE×ENECHANGE】地理空間情報で進化するエンジニアリングと顧客体験 / 位置情報エンジニアへの第一歩</title>
         <link>https://docs.google.com/presentation/d/1C4whgaritSRzuCHNvGAqFPZc-_HTR83VZuj0v6OLVBI/preview</link>
         <dc:date>2024-11-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>イオンCTOが語るイオングループ全体を支えるクリティカルシステム解体新書/findy-architecture-conf-2024 (AEON)</title>
         <link>https://speakerdeck.com/aeonpeople/findy-architecture-conf-2024</link>
-        <dc:date>2024-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>累計2500万着電を支える大規模 電話自動応答サービスのアーキテクチャ / Architecture of a Large-Scale Automated Phone Response Service Supporting 25 Million Cumulative Calls (Yuichiro Machida)</title>
-        <link>https://speakerdeck.com/ymachida/architecture-of-a-large-scale-automated-phone-response-service-supporting-25-million-cumulative-calls</link>
-        <dc:date>2024-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>偶有的複雑性と戦うためのアーキテクチャとチームトポロジー (Kenichi SUZUKI)</title>
-        <link>https://speakerdeck.com/knih/architectures-and-topologies</link>
         <dc:date>2024-11-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
