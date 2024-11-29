@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Next.jsのセキュリティ設計とアーキテクチャ (muratak)</title>
+        <link>https://speakerdeck.com/tresagua0123/next-dot-jsnosekiyuriteishe-ji-toakitekutiya</link>
+        <dc:date>2024-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Gitを理解した話 (ryosk7)</title>
+        <link>https://speakerdeck.com/ryosk7/gitwoli-jie-sitahua</link>
+        <dc:date>2024-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Entra ID の基礎（Japan Microsoft 365 コミュニティ カンファレンス 2024） (Murachi Akira)</title>
         <link>https://speakerdeck.com/murachiakira/entra-id-noji-chu-japan-microsoft-365-komiyunitei-kanhuarensu-2024</link>
         <dc:date>2024-11-28T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>HonoXで動かすアプリケーションのリアル (takahiro suzuki)</title>
         <link>https://speakerdeck.com/susan1129/honoxdedong-kasuapurikesiyonnoriaru</link>
         <dc:date>2024-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINEヤフーにおけるPrerender技術の導入とその効果 (narirou)</title>
-        <link>https://speakerdeck.com/narirou/lineyahuniokeruprerenderji-shu-nodao-ru-tosonoxiao-guo</link>
-        <dc:date>2024-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生配信の裏方のシステムを作っている話</title>
-        <link>https://docs.google.com/presentation/d/1IAMXb2AzJbVaVFV4lqrMGgAWt9SrYctwDSvDv47PQec/preview</link>
-        <dc:date>2024-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
