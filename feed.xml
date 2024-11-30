@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>非難なきポストモーテム文化が好き (Yuki Ando,@integrated1453)</title>
+        <link>https://www.docswell.com/s/integrated1453/K1J91E-blameless-postmortems</link>
+        <dc:date>2024-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ゆるSRE勉強会 #8 組織的にSREが始まる中で意識したこと (abnoumaru)</title>
         <link>https://speakerdeck.com/abnoumaru/yurusremian-qiang-hui-number-8-zu-zhi-de-nisregashi-maruzhong-deyi-shi-sitakoto</link>
         <dc:date>2024-11-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プラットフォームエンジニアリングアーキテクチャ道場 on AWS &amp; EKS Kubernetes / Platform Engineering Architecture Dojo (riita10069)</title>
         <link>https://speakerdeck.com/riita10069/platform-engineering-architecture-dojo</link>
-        <dc:date>2024-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>eBPF Deep Dive: Architecture and Safety Mechanisms (Takeru Hayasaka)</title>
-        <link>https://speakerdeck.com/takehaya/ebpf-deep-dive-architecture-and-safety-mechanisms</link>
         <dc:date>2024-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
