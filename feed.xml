@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>業務改善をラクにするSharePoint の機能 N 選 (Sakura Yurimiya,@yurimiyasakura)</title>
+        <link>https://www.docswell.com/s/yurimiya/KXE6YR-2024-11-29-JapanM365CC_A07</link>
+        <dc:date>2024-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Data Driven SEO: A Framework Based Approach (Kazushi Nagayama)</title>
+        <link>https://speakerdeck.com/knagayama/data-driven-seo-a-framework-based-approach</link>
+        <dc:date>2024-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rustでマルチスレッドプログラミング！ リアルタイム通信ではどのようにスレッドを立てるのか (yuki_uchida)</title>
         <link>https://speakerdeck.com/yuki_uchida/rusttemarutisuretutohurokuraminku-riarutaimutong-xin-tehatonoyounisuretutowoli-terunoka</link>
         <dc:date>2024-11-29T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Amazon ECSとCloud Runの相互理解で広げる クラウドネイティブの景色 /  Mutually understanding Amazon ECS and Cloud Run (iselegant)</title>
         <link>https://speakerdeck.com/iselegant/mutually-understanding-amazon-ecs-and-cloud-run</link>
-        <dc:date>2024-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDRAとLLM (神崎)</title>
-        <link>https://speakerdeck.com/kanzaki/rdratollm</link>
-        <dc:date>2024-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>50以上のマイクロサービスを支えるアプリケーションプラットフォームの設計・構築の後悔と進化 #CNDW2024 / regrets and evolution of application platform (Toshinori Sugita)</title>
-        <link>https://speakerdeck.com/toshi0607/regrets-and-evolution-of-application-platform</link>
         <dc:date>2024-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
