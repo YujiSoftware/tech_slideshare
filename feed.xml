@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Rustでマルチスレッドプログラミング！ リアルタイム通信ではどのようにスレッドを立てるのか (yuki_uchida)</title>
+        <link>https://speakerdeck.com/yuki_uchida/rusttemarutisuretutohurokuraminku-riarutaimutong-xin-tehatonoyounisuretutowoli-terunoka</link>
+        <dc:date>2024-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新婚19年目から学ぶ夫婦円満の正しい歩き方 / Life is beautiful (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/life-is-beautiful</link>
         <dc:date>2024-11-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>50以上のマイクロサービスを支えるアプリケーションプラットフォームの設計・構築の後悔と進化 #CNDW2024 / regrets and evolution of application platform (Toshinori Sugita)</title>
         <link>https://speakerdeck.com/toshi0607/regrets-and-evolution-of-application-platform</link>
         <dc:date>2024-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>もう一度、 事業を支えるシステムに。 (Tech Leverages)</title>
-        <link>https://speakerdeck.com/leveragestech/mou-du-shi-ye-wozhi-erusisutemuni</link>
-        <dc:date>2024-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
