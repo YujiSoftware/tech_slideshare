@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Developing an accounting application using Next.js</title>
+        <link>https://docs.google.com/presentation/d/1E5hlDFF0M1SdXSZL4JTbxO-_FG5_nmaAKXqmjZMKXlA/preview</link>
+        <dc:date>2024-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>そのCIは本当に役に立ってますか？～ 高品質なCIプロセスを実現する設計術 ～ (Haruka Sakihara)</title>
         <link>https://speakerdeck.com/harukasakihara/sonocihaben-dang-niyi-nili-tutemasuka-gao-pin-zhi-nacipurosesuwoshi-xian-surushe-ji-shu</link>
         <dc:date>2024-11-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>東急URBAN HACKSのデザイナーって何やってるの？ 〜Designer Night #1〜 組織横断のデザインの 取り組みについて (Shigenori Yamasaki)</title>
         <link>https://speakerdeck.com/sig/dong-ji-urban-hacksnodezainatutehe-yatuteruno-designer-night-number-1-zu-zhi-heng-duan-nodezainno-qu-rizu-minituite</link>
-        <dc:date>2024-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SharePointでのドキュメント管理について (コルネ,@koruneko32767)</title>
-        <link>https://www.docswell.com/s/korune/ZXE4M2-2024-11-28-115126</link>
         <dc:date>2024-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
