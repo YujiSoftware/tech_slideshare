@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>asumikamというカンファレンスオーガナイザの凄さを語る / The Brilliance of Asumikam (HASEGAWA Tomoki)</title>
+        <link>https://speakerdeck.com/tomzoh/the-brilliance-of-asumikam</link>
+        <dc:date>2024-12-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Visual StudioのGitHub Copilotが便利すぎて離れられない (yuma(Maki),@yuma_prog)</title>
         <link>https://www.docswell.com/s/yuma/K1R3Y8-2024-11-30-vsuc</link>
         <dc:date>2024-11-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>そのCIは本当に役に立ってますか？～ 高品質なCIプロセスを実現する設計術 ～ (Haruka Sakihara)</title>
         <link>https://speakerdeck.com/harukasakihara/sonocihaben-dang-niyi-nili-tutemasuka-gao-pin-zhi-nacipurosesuwoshi-xian-surushe-ji-shu</link>
-        <dc:date>2024-11-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Streamlitで開発した自作データカタログの導入 (Ayumu Yamaguchi)</title>
-        <link>https://speakerdeck.com/ayumu_yamaguchi/streamlitdekai-fa-sitazi-zuo-detakatarogunodao-ru</link>
         <dc:date>2024-11-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
