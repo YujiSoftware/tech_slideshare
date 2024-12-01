@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>似たもの同士のPerlとPHP (uzulla)</title>
+        <link>https://speakerdeck.com/uzulla/si-tamonotong-shi-noperltophp</link>
+        <dc:date>2024-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20241129_A08_Copilotなしの生活が考えられなくなった件 (ponponmikan)</title>
         <link>https://speakerdeck.com/ponponmikankan/20241129-a08-copilotnasinosheng-huo-gakao-erarenakunatutajian</link>
         <dc:date>2024-11-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Wi-Fi廃人しぐさ (Ken Sasaki,@sasakipochi)</title>
         <link>https://www.docswell.com/s/sasakipochi/K7R4YJ-2024-11-28-185717</link>
-        <dc:date>2024-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>.NET 9アプリをCGIとして レンタルサーバーで動かす (Mayuki Sawatari)</title>
-        <link>https://speakerdeck.com/mayuki/dot-net-9apuriwocgitosite-rentarusabadedong-kasu</link>
         <dc:date>2024-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
