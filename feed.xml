@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kubernetesを初めて触った時に混乱したPDBやStatefulSet 今なら5分で明快に説明できると思うんだ (びきニキ,@BkNkbot)</title>
+        <link>https://www.docswell.com/s/BkNkbot/ZQR9GJ-2024-11-28-143744</link>
+        <dc:date>2024-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetesを知る (logica / Takuto Nagami)</title>
+        <link>https://speakerdeck.com/logica0419/discovering-kubernetes</link>
+        <dc:date>2024-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Mackerelが取り組むオブザーバビリティ - Mackerel Tech Day (mackerelio)</title>
         <link>https://speakerdeck.com/mackerelio/mackerel-tech-day</link>
         <dc:date>2024-12-01T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>新婚19年目から学ぶ夫婦円満の正しい歩き方 / Life is beautiful (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/life-is-beautiful</link>
-        <dc:date>2024-11-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>総会員数1,500万人のレストランWeb予約サービスにおけるRustの活用 (Kōhei Yamamoto)</title>
-        <link>https://speakerdeck.com/kymmt90/zong-hui-yuan-shu-1500mo-ren-noresutoranwebyu-yue-sabisuniokerurustnohuo-yong</link>
-        <dc:date>2024-11-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非難なきポストモーテム文化が好き (Yuki Ando,@integrated1453)</title>
-        <link>https://www.docswell.com/s/integrated1453/K1J91E-blameless-postmortems</link>
         <dc:date>2024-11-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
