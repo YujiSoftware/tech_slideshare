@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>次のコンテナセキュリティの時代 - User Namespace With a Pod / CloudNative Days Winter 2024 (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/cloudnative-days-2024-usernamespace-with-a-pod</link>
+        <dc:date>2024-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLMを「速く」「安く」 動かすには / CloudNative Days Winter 2024 (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/cloudnative-days-2024-lean-and-swift-llm-deployment</link>
+        <dc:date>2024-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LINEヤフーにおける超大規模プラットフォーム実現への挑戦と学び / Challenges and Lessons in Building an Ultra-Large-Scale Platform at LY Corporation (hhiroshell)</title>
+        <link>https://speakerdeck.com/hhiroshell/challenges-and-lessons-in-building-an-ultra-large-scale-platform-at-ly-corporation</link>
+        <dc:date>2024-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Bytebaseで実現する データベース管理の効率化 (shogo452)</title>
+        <link>https://speakerdeck.com/shogo452/bytebasedeshi-xian-suru-detabesuguan-li-noxiao-lu-hua</link>
+        <dc:date>2024-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>散らばったトレースを繋げる技術 (Kazuki Obata)</title>
+        <link>https://speakerdeck.com/donkomura/san-rabatutatoresuwoxi-geruji-shu</link>
+        <dc:date>2024-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>日本全国・都市3D化プロジェクト「PLATEAU」とデータ変換OSS「PLATEAU GIS Converter」の公開 (nokonoko1203)</title>
+        <link>https://speakerdeck.com/nokonoko1203/ri-ben-quan-guo-du-shi-3dhua-hurosiekuto-plateau-todetabian-huan-oss-plateau-gis-converter-nogong-kai</link>
+        <dc:date>2024-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ONNX推論クレートの比較と実装奮闘記 (Satoshi Yoshikawa)</title>
+        <link>https://speakerdeck.com/emergent/rust-tokyo-2024-comparing-onnx-crates</link>
+        <dc:date>2024-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>超初心者の私が2か月でデータ転送やdbtジョブを実行するTROCCO®のワークフローを作ってみた！ (田丸瑞花)</title>
         <link>https://speakerdeck.com/mizukatamaru/chao-chu-xin-zhe-nosi-ga2kayue-dedetazhuan-song-yadbtziyobuwoshi-xing-surutrocco-r-nowakuhurowozuo-tutemita</link>
         <dc:date>2024-12-02T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>似たもの同士のPerlとPHP (uzulla)</title>
         <link>https://speakerdeck.com/uzulla/si-tamonotong-shi-noperltophp</link>
-        <dc:date>2024-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20241129_A08_Copilotなしの生活が考えられなくなった件 (ponponmikan)</title>
-        <link>https://speakerdeck.com/ponponmikankan/20241129-a08-copilotnasinosheng-huo-gakao-erarenakunatutajian</link>
-        <dc:date>2024-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft 365と開発者ツールの 素敵な関係 (KAMEGAWA Kazushi)</title>
-        <link>https://speakerdeck.com/kkamegawa/microsoft-365tokai-fa-zhe-turuno-su-di-naguan-xi</link>
-        <dc:date>2024-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>徹底解説！Microsoft 365 Copilot の拡張機能 / Complete guide to Microsoft 365 Copilot extensions (Takashi Shinohara)</title>
-        <link>https://speakerdeck.com/karamem0/complete-guide-to-microsoft-365-copilot-extensions</link>
-        <dc:date>2024-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIから考える Microsoft 365 Copilot～イケコパ、がっかりコパが発生した理由～ (ぺぺ)</title>
-        <link>https://speakerdeck.com/pepe223223/sheng-cheng-aikarakao-eru-microsoft-365-copilot-ikekopa-gatukarikopagafa-sheng-sitali-you</link>
-        <dc:date>2024-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Entra ID の多要素認証（Japan Microsoft 365 コミュニティ カンファレンス 2024 ） (Murachi Akira)</title>
-        <link>https://speakerdeck.com/murachiakira/entra-id-noduo-yao-su-ren-zheng</link>
-        <dc:date>2024-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rust と歩んだ 7 年間：プロダクションコードのための実践的テスト (Rust.Tokyo2024) (青柳康平,@aoyagikouhei)</title>
-        <link>https://www.docswell.com/s/aoyagikouhei/ZJ4Q9Q-2024-11-30-131529</link>
-        <dc:date>2024-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>241130紅白ぺぱ合戦LT「編集の技術」 (toya)</title>
-        <link>https://speakerdeck.com/toya524287/241130hong-bai-pepahe-zhan-lt-bian-ji-noji-shu</link>
         <dc:date>2024-11-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
