@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>仮説行動とマップ・ループ・リープ (Takaaki Umada / 馬田隆明)</title>
+        <link>https://speakerdeck.com/tumada/jia-shuo-xing-dong-tomatupurupuripu</link>
+        <dc:date>2024-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>次のコンテナセキュリティの時代 - User Namespace With a Pod / CloudNative Days Winter 2024 (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/cloudnative-days-2024-usernamespace-with-a-pod</link>
         <dc:date>2024-12-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Visual StudioのGitHub Copilotが便利すぎて離れられない (yuma(Maki),@yuma_prog)</title>
         <link>https://www.docswell.com/s/yuma/K1R3Y8-2024-11-30-vsuc</link>
-        <dc:date>2024-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>似たもの同士のPerlとPHP (uzulla)</title>
-        <link>https://speakerdeck.com/uzulla/si-tamonotong-shi-noperltophp</link>
         <dc:date>2024-11-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
