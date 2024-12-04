@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ファインディの4年にわたる技術的負債の返済 / Repaying 4 Years of Technical Debt at Findy (Masataka Sato)</title>
+        <link>https://speakerdeck.com/ma3tk/repaying-4-years-of-technical-debt-at-findy</link>
+        <dc:date>2024-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>仮説行動とマップ・ループ・リープ (Takaaki Umada / 馬田隆明)</title>
         <link>https://speakerdeck.com/tumada/jia-shuo-xing-dong-tomatupurupuripu</link>
         <dc:date>2024-12-03T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>asumikamというカンファレンスオーガナイザの凄さを語る / The Brilliance of Asumikam (HASEGAWA Tomoki)</title>
         <link>https://speakerdeck.com/tomzoh/the-brilliance-of-asumikam</link>
         <dc:date>2024-12-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Visual StudioのGitHub Copilotが便利すぎて離れられない (yuma(Maki),@yuma_prog)</title>
-        <link>https://www.docswell.com/s/yuma/K1R3Y8-2024-11-30-vsuc</link>
-        <dc:date>2024-11-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
