@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクトの爆速開発を支える、 「作らない・削る・尖らせる」技術 (Michiru Kato)</title>
+        <link>https://speakerdeck.com/applism118/hurotakutonobao-su-kai-fa-wozhi-eru-zuo-ranaixue-rujian-raseru-ji-shu</link>
+        <dc:date>2024-12-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データプロダクト開発の歩み (10xinc)</title>
         <link>https://speakerdeck.com/10xinc/steps-in-data-product-development</link>
         <dc:date>2024-12-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>システムベンダーからSaasスタートアップに転職！ 働き方改革を実現して札幌に定着した話 #seb_sapporo (Makky)</title>
         <link>https://speakerdeck.com/makky_tyuyan/sisutemubendakarasaassutatoatupunizhuan-zhi-dong-kifang-gai-ge-woshi-xian-sitezha-huang-niding-zhao-sitahua-number-seb-sapporo</link>
-        <dc:date>2024-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesを初めて触った時に混乱したPDBやStatefulSet 今なら5分で明快に説明できると思うんだ (びきニキ,@BkNkbot)</title>
-        <link>https://www.docswell.com/s/BkNkbot/ZQR9GJ-2024-11-28-143744</link>
         <dc:date>2024-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
