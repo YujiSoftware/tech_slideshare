@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データプロダクト開発の歩み (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/steps-in-data-product-development</link>
+        <dc:date>2024-12-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>高品質と高スピードを両立させるソフトウェアQA/Software QA that Supports Agility and Quality (Hiroki Iseri)</title>
         <link>https://speakerdeck.com/goyoki/software-qa-that-supports-agility-and-quality</link>
         <dc:date>2024-12-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kubernetesを初めて触った時に混乱したPDBやStatefulSet 今なら5分で明快に説明できると思うんだ (びきニキ,@BkNkbot)</title>
         <link>https://www.docswell.com/s/BkNkbot/ZQR9GJ-2024-11-28-143744</link>
-        <dc:date>2024-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesを知る (logica / Takuto Nagami)</title>
-        <link>https://speakerdeck.com/logica0419/discovering-kubernetes</link>
         <dc:date>2024-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
