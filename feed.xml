@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>高品質と高スピードを両立させるソフトウェアQA/Software QA that Supports Agility and Quality (Hiroki Iseri)</title>
+        <link>https://speakerdeck.com/goyoki/software-qa-that-supports-agility-and-quality</link>
+        <dc:date>2024-12-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Space Time Attack: ハンドトラッキングでスペースシップを操縦する空間ゲーム (TAAT)</title>
         <link>https://speakerdeck.com/taat/space-time-attack-handotoratukingudesupesusitupuwocao-zong-surukong-jian-gemu</link>
         <dc:date>2024-12-04T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Kubernetesを知る (logica / Takuto Nagami)</title>
         <link>https://speakerdeck.com/logica0419/discovering-kubernetes</link>
         <dc:date>2024-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Mackerelが取り組むオブザーバビリティ - Mackerel Tech Day (mackerelio)</title>
-        <link>https://speakerdeck.com/mackerelio/mackerel-tech-day</link>
-        <dc:date>2024-12-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
