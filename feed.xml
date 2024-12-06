@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Compose Material3 Adaptive で アダプティブ UIと仲良くなる未来</title>
+        <link>https://docs.google.com/presentation/d/1hPPQHFe2phhi-F7_xO9z20e_opHzo8M1H5xJ6_c-b10/preview</link>
+        <dc:date>2024-12-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Matsuo_lab_LLM_Day11金融パート_vF_講義後編集 (Kangsoo Kim)</title>
         <link>https://www.docswell.com/s/Kangsoo-Kim/5XE62G-llm2024-domain-specific-llm</link>
         <dc:date>2024-12-05T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ONNX推論クレートの比較と実装奮闘記 (Satoshi Yoshikawa)</title>
         <link>https://speakerdeck.com/emergent/rust-tokyo-2024-comparing-onnx-crates</link>
         <dc:date>2024-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>超初心者の私が2か月でデータ転送やdbtジョブを実行するTROCCO®のワークフローを作ってみた！ (田丸瑞花)</title>
-        <link>https://speakerdeck.com/mizukatamaru/chao-chu-xin-zhe-nosi-ga2kayue-dedetazhuan-song-yadbtziyobuwoshi-xing-surutrocco-r-nowakuhurowozuo-tutemita</link>
-        <dc:date>2024-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
