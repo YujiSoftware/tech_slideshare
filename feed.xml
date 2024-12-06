@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>EthernetベースのGPUクラスタ導入による学びと展望 (LINEヤフーTech (LY Corporation Tech))</title>
+        <link>https://speakerdeck.com/lycorptech_jp/20241202</link>
+        <dc:date>2024-12-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ミスが許されない領域にAIを溶け込ませる プロダクトマネジメントの裏側 (Shohei Yoneda)</title>
+        <link>https://speakerdeck.com/t01062sy/misugaxu-sarenailing-yu-niaiworong-keip-maseru-purodakutomanezimentonoli-ce</link>
+        <dc:date>2024-12-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Compose Material3 Adaptive で アダプティブ UIと仲良くなる未来</title>
         <link>https://docs.google.com/presentation/d/1hPPQHFe2phhi-F7_xO9z20e_opHzo8M1H5xJ6_c-b10/preview</link>
         <dc:date>2024-12-05T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>散らばったトレースを繋げる技術 (Kazuki Obata)</title>
         <link>https://speakerdeck.com/donkomura/san-rabatutatoresuwoxi-geruji-shu</link>
-        <dc:date>2024-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>日本全国・都市3D化プロジェクト「PLATEAU」とデータ変換OSS「PLATEAU GIS Converter」の公開 (nokonoko1203)</title>
-        <link>https://speakerdeck.com/nokonoko1203/ri-ben-quan-guo-du-shi-3dhua-hurosiekuto-plateau-todetabian-huan-oss-plateau-gis-converter-nogong-kai</link>
-        <dc:date>2024-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ONNX推論クレートの比較と実装奮闘記 (Satoshi Yoshikawa)</title>
-        <link>https://speakerdeck.com/emergent/rust-tokyo-2024-comparing-onnx-crates</link>
         <dc:date>2024-12-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
