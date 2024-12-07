@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ISUCON過去問との 向き合い方指南 (matsuu,@matsuu)</title>
+        <link>https://www.docswell.com/s/matsuu/538JJ8-isucon</link>
+        <dc:date>2024-12-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PMConf2024: プロダクトマネージャーの良い意思決定についてQuestする (Haruki)</title>
+        <link>https://speakerdeck.com/sonehara/pmconf2024-purodakutomaneziyanoliang-iyi-si-jue-ding-nituitequestsuru-2f3db2b2-56e0-44d7-82aa-10af2520554d</link>
+        <dc:date>2024-12-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>知らない景色を見に行こう チャンスを掴んだら道が開けたマネジメントの旅 / Into the unknown~My management journey~ (KAKEHASHI)</title>
         <link>https://speakerdeck.com/kakehashi/into-the-unknown-my-management-journey</link>
         <dc:date>2024-12-06T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Space Time Attack: ハンドトラッキングでスペースシップを操縦する空間ゲーム (TAAT)</title>
         <link>https://speakerdeck.com/taat/space-time-attack-handotoratukingudesupesusitupuwocao-zong-surukong-jian-gemu</link>
         <dc:date>2024-12-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>突き破って学ぶコンテナセキュリティ/container-breakout-cncj-lt (mochizuki875)</title>
-        <link>https://speakerdeck.com/mochizuki875/container-breakout-cncj-lt</link>
-        <dc:date>2024-12-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nihonbashi Test Talk #3_WebDriver BiDiと最新の実装状況 / WebDriver BiDi latest status (kishiken)</title>
-        <link>https://speakerdeck.com/takeyaqa/webdriver-bidi-latest-status</link>
-        <dc:date>2024-12-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
