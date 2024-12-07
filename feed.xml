@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>A/Aテストにおけるサンプルサイズ/japanr2024 (日本経済新聞社 エンジニア採用事務局)</title>
+        <link>https://speakerdeck.com/nikkei_engineer_recruiting/japanr2024</link>
+        <dc:date>2024-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>tidymodelsによるtidyな生存時間解析 / Japan.R2024 (森下光之助)</title>
+        <link>https://speakerdeck.com/dropout009/japan-dot-r2024</link>
+        <dc:date>2024-12-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアエンジニアとしてキャリアの螺旋を駆け上がる方法 - 経験と出会いが人生を変える / Career-Anchor-Drive (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/career-anchor-drive</link>
         <dc:date>2024-12-06T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>仮説行動とマップ・ループ・リープ (Takaaki Umada / 馬田隆明)</title>
         <link>https://speakerdeck.com/tumada/jia-shuo-xing-dong-tomatupurupuripu</link>
-        <dc:date>2024-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>次のコンテナセキュリティの時代 - User Namespace With a Pod / CloudNative Days Winter 2024 (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/cloudnative-days-2024-usernamespace-with-a-pod</link>
-        <dc:date>2024-12-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMを「速く」「安く」 動かすには / CloudNative Days Winter 2024 (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/cloudnative-days-2024-lean-and-swift-llm-deployment</link>
         <dc:date>2024-12-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
