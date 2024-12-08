@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS初心者がS3バケット作ってみた件 (NAKAOKU Takahiro)</title>
+        <link>https://speakerdeck.com/kamera25/awschu-xin-zhe-gas3baketutozuo-tutemitajian</link>
+        <dc:date>2024-12-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Aurora Serverless v2のアプデと、Amazon Aurora PostgreSQL Limitless DatabaseのGAについて (Satoshi Kaneyasu)</title>
+        <link>https://speakerdeck.com/satoshi256kbyte/amazon-aurora-serverless-v2noahuteto-amazon-aurora-postgresql-limitless-databasenoganituite</link>
+        <dc:date>2024-12-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS認定資格を勉強した先に何があったか (Satoshi Kaneyasu)</title>
+        <link>https://speakerdeck.com/satoshi256kbyte/awsren-ding-zi-ge-womian-qiang-sitaxian-nihe-kaatutaka</link>
+        <dc:date>2024-12-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>おもにクラウドの話してます#4 OPスライド (Satoshi Kaneyasu)</title>
+        <link>https://speakerdeck.com/satoshi256kbyte/omonikurautonohua-sitemasu-number-4-opsuraido</link>
+        <dc:date>2024-12-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>これからのエンジニアの価値と エンジニアリングマネージャーの存在意義 (Ken YAMAZAKI)</title>
+        <link>https://speakerdeck.com/yamaken66/korekaranoenzinianojia-zhi-to-enziniaringumaneziyanocun-zai-yi-yi</link>
+        <dc:date>2024-12-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Yahoo! JAPANトップページにおけるマイクロフロントエンド - 大規模組織におけるFE開発を加速させるには (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/20241126a</link>
         <dc:date>2024-12-07T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>Explain EXPLAIN (Keiko Oda)</title>
         <link>https://speakerdeck.com/keiko713/explain-explain</link>
         <dc:date>2024-12-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EthernetベースのGPUクラスタ導入による学びと展望 (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20241202</link>
-        <dc:date>2024-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ミスが許されない領域にAIを溶け込ませる プロダクトマネジメントの裏側 (Shohei Yoneda)</title>
-        <link>https://speakerdeck.com/t01062sy/misugaxu-sarenailing-yu-niaiworong-keip-maseru-purodakutomanezimentonoli-ce</link>
-        <dc:date>2024-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Compose Material3 Adaptive で アダプティブ UIと仲良くなる未来</title>
-        <link>https://docs.google.com/presentation/d/1hPPQHFe2phhi-F7_xO9z20e_opHzo8M1H5xJ6_c-b10/preview</link>
-        <dc:date>2024-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Matsuo_lab_LLM_Day11金融パート_vF_講義後編集 (Kangsoo Kim)</title>
-        <link>https://www.docswell.com/s/Kangsoo-Kim/5XE62G-llm2024-domain-specific-llm</link>
-        <dc:date>2024-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RWC 2024 DICOM &amp; ISO/IEC 2022 (seki at druby.org)</title>
-        <link>https://speakerdeck.com/m_seki/rwc-2024-dicom-and-2022</link>
-        <dc:date>2024-12-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
