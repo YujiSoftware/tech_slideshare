@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>rails statsで大解剖 🔍 “B/43流” のRailsの育て方を歴史とともに振り返ります (ShoheiMitani)</title>
+        <link>https://speakerdeck.com/shoheimitani/43liu-norailsnoyu-tefang-woli-shi-totomonizhen-rifan-rimasu</link>
+        <dc:date>2024-12-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>当事者不在のアクセシビリティを避ける</title>
         <link>https://docs.google.com/presentation/d/1HoSxOjsmhSuInBkAmav7TARHgcfow6mmfQCjU1pFw8s/preview</link>
         <dc:date>2024-12-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Google Cloud 入門</title>
         <link>https://docs.google.com/presentation/d/17gk15zxBlvs5w7tCkVX53Iof3J-RkUxuBUtqzNxWCl8/preview</link>
-        <dc:date>2024-12-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How is Cilium Tested? (Yutaro Hayakawa)</title>
-        <link>https://speakerdeck.com/yutarohayakawa/how-is-cilium-tested</link>
         <dc:date>2024-12-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
