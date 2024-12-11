@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スパイクアクセス対策としての pitchfork 導入 (Shia)</title>
+        <link>https://speakerdeck.com/riseshia/introducing-pitchfork-as-a-countermeasure-for-traffic-spikes</link>
+        <dc:date>2024-12-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>rails stats で紐解く ANDPAD のイマを支える技術たち (ANDPAD inc)</title>
         <link>https://speakerdeck.com/andpad/andpad-rails-stats-2024</link>
         <dc:date>2024-12-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>これからのエンジニアの価値と エンジニアリングマネージャーの存在意義 (Ken YAMAZAKI)</title>
         <link>https://speakerdeck.com/yamaken66/korekaranoenzinianojia-zhi-to-enziniaringumaneziyanocun-zai-yi-yi</link>
         <dc:date>2024-12-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Yahoo! JAPANトップページにおけるマイクロフロントエンド - 大規模組織におけるFE開発を加速させるには (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20241126a</link>
-        <dc:date>2024-12-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
