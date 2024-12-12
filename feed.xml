@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Unityを使ったリアルタイムプロシージャルモデリング</title>
+        <link>https://docs.google.com/presentation/u/0/d/1KUernaqp5CNgfm0-_AVmUGAMEZAo8_xq7cupBwhotHE/preview</link>
+        <dc:date>2024-12-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SharePoint Onlineデータの扱いでハマった話 (HANAchan)</title>
         <link>https://www.docswell.com/s/7576047183/KL984Z-2022-04-09-235536</link>
         <dc:date>2024-12-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LangChainとSupabaseを活用して、RAGを実装してみた (Atsushi Miyamoto)</title>
         <link>https://speakerdeck.com/atsushii/langchaintosupabasewohuo-yong-site-ragwoshi-zhuang-sitemita</link>
-        <dc:date>2024-12-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ - モックサーバー - 20241210</title>
-        <link>https://docs.google.com/presentation/d/1-0yoKxuWgzSmD24akdPQnSDFPYb_T7cFVP7WQyw1UaM/preview</link>
         <dc:date>2024-12-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
