@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スーパーマーケットのこれまでとこれから (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/supamaketutonokoremadetokorekara</link>
+        <dc:date>2024-12-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kubernetesトラフィックルーティング徹底解説/Kubernetes-traffic-deep-dive (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/kubernetes-traffic-deep-dive</link>
         <dc:date>2024-12-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「genai-quickstart-pocs」を使ってお手軽に生成AIのPoCを始めよう！ (y-mae)</title>
         <link>https://speakerdeck.com/ymae/genai-quickstart-pocs-woshi-tuteoshou-qing-nisheng-cheng-ainopocwoshi-meyou</link>
-        <dc:date>2024-12-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbtplyr を使ってみる (小坪琢人,@airspace_nobo)</title>
-        <link>https://www.docswell.com/s/airspace_nobo/ZMX699-try_using_dbtplyr_japanr</link>
         <dc:date>2024-12-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
