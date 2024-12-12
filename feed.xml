@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>カイ二乗検定は何をやっているのか/What_Does_the_Chi-Square_Test_Do (florets1)</title>
+        <link>https://speakerdeck.com/florets1/what-does-the-chi-square-test-do</link>
+        <dc:date>2024-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>useSyncExternalStoreを使いまくる (TOMIKAWA Sotaro)</title>
         <link>https://speakerdeck.com/ssssota/use-usesyncexternalstore</link>
         <dc:date>2024-12-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>当事者不在のアクセシビリティを避ける</title>
         <link>https://docs.google.com/presentation/d/1HoSxOjsmhSuInBkAmav7TARHgcfow6mmfQCjU1pFw8s/preview</link>
-        <dc:date>2024-12-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いま、データに必要な解像度 (Hikaru Kashida)</title>
-        <link>https://speakerdeck.com/hik0107/data-and-resolution-we-have-to-know</link>
         <dc:date>2024-12-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
