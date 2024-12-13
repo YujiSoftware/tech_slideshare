@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>toBエンプラのスタートアップで Remixを使ってチーム開発した軌跡 (マッケイ)</title>
+        <link>https://speakerdeck.com/mackay_1503/tobenpuranosutatoatupude-remixwoshi-tutetimukai-fa-sitagui-ji</link>
+        <dc:date>2024-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>iOS 18 から追加された SwiftUI の傾向について調べてみる (swiftty)</title>
         <link>https://speakerdeck.com/swiftty/new-apis-for-ios-18</link>
         <dc:date>2024-12-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Open Source Summit から見る Wasm の活用事例</title>
         <link>https://docs.google.com/presentation/d/1YsoxbEr8QrGAfeyACPJA2JqwoQmxWBIcQPFlrjWNr6k/preview</link>
-        <dc:date>2024-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2038年問題が思ったよりヤバい。検出ツールを作って脅威性評価してみた論文 | Kansai Open Forum 2024 (Ran350)</title>
-        <link>https://speakerdeck.com/ran350/2038nian-wen-ti-kasi-tutayoriyahai-jian-chu-turuwozuo-tutexie-wei-xing-ping-jia-sitemitalun-wen-kansai-open-forum-2024</link>
         <dc:date>2024-12-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
