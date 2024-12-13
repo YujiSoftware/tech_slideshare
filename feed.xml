@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>iOS 18 から追加された SwiftUI の傾向について調べてみる (swiftty)</title>
+        <link>https://speakerdeck.com/swiftty/new-apis-for-ios-18</link>
+        <dc:date>2024-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PR TIMESにおけるNext.jsとcacheの付き合い方 (Ryuya Yanagi)</title>
         <link>https://speakerdeck.com/apple_yagi/pr-timesniokerunext-dot-jstocachenofu-kihe-ifang</link>
         <dc:date>2024-12-12T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>2038年問題が思ったよりヤバい。検出ツールを作って脅威性評価してみた論文 | Kansai Open Forum 2024 (Ran350)</title>
         <link>https://speakerdeck.com/ran350/2038nian-wen-ti-kasi-tutayoriyahai-jian-chu-turuwozuo-tutexie-wei-xing-ping-jia-sitemitalun-wen-kansai-open-forum-2024</link>
         <dc:date>2024-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>rails statsで大解剖 🔍 “B/43流” のRailsの育て方を歴史とともに振り返ります (ShoheiMitani)</title>
-        <link>https://speakerdeck.com/shoheimitani/43liu-norailsnoyu-tefang-woli-shi-totomonizhen-rifan-rimasu</link>
-        <dc:date>2024-12-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
