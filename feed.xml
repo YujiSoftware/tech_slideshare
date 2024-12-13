@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ジャンプTOONにおける サイトマップの自動生成手法 (Asahara)</title>
+        <link>https://speakerdeck.com/assa1605/ziyanputoonniokeru-saitomatupunozi-dong-sheng-cheng-shou-fa</link>
+        <dc:date>2024-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>17年周年のWebアプリケーションにTanStack Queryを導入する / Implementing TanStack Query in a 17th Anniversary Web Application (Tadao Iseki)</title>
+        <link>https://speakerdeck.com/saitolume/implementing-tanstack-query-in-a-17th-anniversary-web-application</link>
+        <dc:date>2024-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ブラウザ単体でmp4書き出すまで - muddy-web - 2024-12 (yue)</title>
+        <link>https://speakerdeck.com/yue4u/burauzadan-ti-demp4shu-kichu-sumade-muddy-web-2024-12</link>
+        <dc:date>2024-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ABEMA スマートテレビアプリケーションのパフォーマンス改善 〜業界トップクラスを目指して〜 / Performance Improvements on ABEMA Smart TV App (nodaguti)</title>
+        <link>https://speakerdeck.com/nodaguti/performance-improvements-on-abema-smart-tv-app</link>
+        <dc:date>2024-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>toBエンプラのスタートアップで Remixを使ってチーム開発した軌跡 (マッケイ)</title>
         <link>https://speakerdeck.com/mackay_1503/tobenpuranosutatoatupude-remixwoshi-tutetimukai-fa-sitagui-ji</link>
         <dc:date>2024-12-12T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>Password-less Journey - パスキーへの移行を見据えたユーザーの準備 @ AXIES 2024 (ritou)</title>
         <link>https://speakerdeck.com/ritou/password-less-journey-pasukihenoyi-xing-wojian-ju-etayuzanozhun-bei-at-axies-2024</link>
-        <dc:date>2024-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スパイクアクセス対策としての pitchfork 導入 (Shia)</title>
-        <link>https://speakerdeck.com/riseshia/introducing-pitchfork-as-a-countermeasure-for-traffic-spikes</link>
-        <dc:date>2024-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>rails stats で紐解く ANDPAD のイマを支える技術たち (ANDPAD inc)</title>
-        <link>https://speakerdeck.com/andpad/andpad-rails-stats-2024</link>
-        <dc:date>2024-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SmartHR の `rails stats`―― 良いところ・伸びしろ全部語り尽くしちゃいます (yuriko)</title>
-        <link>https://speakerdeck.com/yuriko1211/smarthr-no-rails-stats-liang-itokoroshen-bisiroquan-bu-yu-rijin-kusitiyaimasu</link>
-        <dc:date>2024-12-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Open Source Summit から見る Wasm の活用事例</title>
-        <link>https://docs.google.com/presentation/d/1YsoxbEr8QrGAfeyACPJA2JqwoQmxWBIcQPFlrjWNr6k/preview</link>
         <dc:date>2024-12-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
