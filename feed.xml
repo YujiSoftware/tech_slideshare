@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データパイプラインをなんとかした話 / Improving the Data Pipeline in IVRy (Issei Naruta)</title>
+        <link>https://speakerdeck.com/mirakui/improving-the-data-pipeline-in-ivry</link>
+        <dc:date>2024-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>権威ドキュメントで振り返る2024 #年忘れセキュリティ2024 (田口 大智 / ぐっちー)</title>
         <link>https://speakerdeck.com/hirotomotaguchi/quan-wei-dokiyumentodezhen-rifan-ru2024-number-nian-wang-resekiyuritei2024</link>
         <dc:date>2024-12-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スーパーマーケットのこれまでとこれから (10xinc)</title>
         <link>https://speakerdeck.com/10xinc/supamaketutonokoremadetokorekara</link>
-        <dc:date>2024-12-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesトラフィックルーティング徹底解説/Kubernetes-traffic-deep-dive (oracle4engineer)</title>
-        <link>https://speakerdeck.com/oracle4engineer/kubernetes-traffic-deep-dive</link>
         <dc:date>2024-12-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
