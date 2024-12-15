@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React 19 + Jotaiを試して気づいた 注意点 (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/react-19-plus-jotaiwoshi-siteqi-duita-zhu-yi-dian</link>
+        <dc:date>2024-12-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LinuxとMN-Coreコンパイラランタイムにおける_プログラムの起動プロセスとその比較 (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/20241213_pfn_camphor</link>
         <dc:date>2024-12-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>useSyncExternalStoreを使いまくる (TOMIKAWA Sotaro)</title>
         <link>https://speakerdeck.com/ssssota/use-usesyncexternalstore</link>
-        <dc:date>2024-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発者とQAの越境で自動テストが増える開発プロセスを実現する  (Ryota Kunisada)</title>
-        <link>https://speakerdeck.com/92thunder/kai-fa-zhe-toqanoyue-jing-dezi-dong-tesutogazeng-erukai-fa-purosesuwoshi-xian-suru</link>
         <dc:date>2024-12-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
