@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>rails "all" stats (ykpythemind)</title>
+        <link>https://speakerdeck.com/ykpythemind/rails-all-stats</link>
+        <dc:date>2024-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コンテナセキュリティのためのLandlock入門 (Takaya Saeki)</title>
+        <link>https://speakerdeck.com/nullpo_head/kontenasekiyuriteinotamenolandlockru-men</link>
+        <dc:date>2024-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>UIデザインワークショップ-金内透-JaSST'23 Hokkaido (@Garyuten)</title>
         <link>https://speakerdeck.com/garyuten/uidezainwakusiyotupu-jin-nei-tou-jasst23-hokkaido</link>
         <dc:date>2024-12-15T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>統計データで2024年の クラウド・インフラ動向を眺める (Kanon)</title>
         <link>https://speakerdeck.com/ysknsid25/tong-ji-detade2024nian-no-kuraudoinhuradong-xiang-wotiao-meru</link>
-        <dc:date>2024-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データパイプラインをなんとかした話 / Improving the Data Pipeline in IVRy (Issei Naruta)</title>
-        <link>https://speakerdeck.com/mirakui/improving-the-data-pipeline-in-ivry</link>
-        <dc:date>2024-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>権威ドキュメントで振り返る2024 #年忘れセキュリティ2024 (田口 大智 / ぐっちー)</title>
-        <link>https://speakerdeck.com/hirotomotaguchi/quan-wei-dokiyumentodezhen-rifan-ru2024-number-nian-wang-resekiyuritei2024</link>
         <dc:date>2024-12-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
