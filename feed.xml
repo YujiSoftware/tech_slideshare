@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>UIデザインワークショップ-金内透-JaSST'23 Hokkaido (@Garyuten)</title>
+        <link>https://speakerdeck.com/garyuten/uidezainwakusiyotupu-jin-nei-tou-jasst23-hokkaido</link>
+        <dc:date>2024-12-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マルチプロダクト開発の現場でAWS Security Hubを1年以上運用して得た教訓 (Masahiro Yoshizawa)</title>
         <link>https://speakerdeck.com/muziyoshiz/lessons-learned-from-operating-aws-security-hub-for-over-a-year-in-a-multi-product-development-field</link>
         <dc:date>2024-12-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>権威ドキュメントで振り返る2024 #年忘れセキュリティ2024 (田口 大智 / ぐっちー)</title>
         <link>https://speakerdeck.com/hirotomotaguchi/quan-wei-dokiyumentodezhen-rifan-ru2024-number-nian-wang-resekiyuritei2024</link>
         <dc:date>2024-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テーブルが200以上あるSaaSでRSCとGraphQLを併用する理由 (msickpaler)</title>
-        <link>https://speakerdeck.com/msickpaler/teburuga200yi-shang-arusaasdersctographqlwobing-yong-suruli-you</link>
-        <dc:date>2024-12-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
