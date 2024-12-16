@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マルチプロダクト開発の現場でAWS Security Hubを1年以上運用して得た教訓 (Masahiro Yoshizawa)</title>
+        <link>https://speakerdeck.com/muziyoshiz/lessons-learned-from-operating-aws-security-hub-for-over-a-year-in-a-multi-product-development-field</link>
+        <dc:date>2024-12-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>よいPM定例はPM組織を強くする ~ 共有から共創へ、悩みを共に解決する場づくり ~ (Jou Yukawa)</title>
         <link>https://speakerdeck.com/jouykw/yoipmding-li-hapmzu-zhi-woqiang-kusuru-gong-you-karagong-chuang-he-nao-miwogong-nijie-jue-suruchang-dukuri</link>
         <dc:date>2024-12-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>テーブルが200以上あるSaaSでRSCとGraphQLを併用する理由 (msickpaler)</title>
         <link>https://speakerdeck.com/msickpaler/teburuga200yi-shang-arusaasdersctographqlwobing-yong-suruli-you</link>
-        <dc:date>2024-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CloudflareStack でRAGに入門 (Asahi)</title>
-        <link>https://speakerdeck.com/asahiiwm/cloudflarestack-deragniru-men</link>
         <dc:date>2024-12-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
