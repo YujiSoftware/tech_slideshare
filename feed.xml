@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>成果のためのコミュニケーション - 語彙を育てよう -/communication-for-good-outcome-developing-vocabulary (hassaku63)</title>
+        <link>https://speakerdeck.com/hassaku63/communication-for-good-outcome-developing-vocabulary</link>
+        <dc:date>2024-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Copilot のテクニック集/GitHub Copilot Techniques (Yu Sato)</title>
         <link>https://speakerdeck.com/rayuron/github-copilot-techniques</link>
         <dc:date>2024-12-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>NilAway による静的解析で「10 億ドル」を節約する #kyotogo / Kyoto Go 56th (y_taka_23)</title>
         <link>https://speakerdeck.com/ytaka23/kyoto-go-56th</link>
-        <dc:date>2024-12-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゆるやかにgolangci-lintのルールを強くする / Kyoto.go #56 (utagawa kiki)</title>
-        <link>https://speakerdeck.com/utgwkk/kyoto-dot-go-number-56</link>
         <dc:date>2024-12-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
