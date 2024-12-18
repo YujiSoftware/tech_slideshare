@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Copilot のテクニック集/GitHub Copilot Techniques (Yu Sato)</title>
+        <link>https://speakerdeck.com/rayuron/github-copilot-techniques</link>
+        <dc:date>2024-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI Safety の必要性と具体的な攻撃、その対策について (schroneko)</title>
         <link>https://speakerdeck.com/schroneko/ai-safety-nobi-yao-xing-toju-ti-de-nagong-ji-sonodui-ce-nituite</link>
         <dc:date>2024-12-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ゆるやかにgolangci-lintのルールを強くする / Kyoto.go #56 (utagawa kiki)</title>
         <link>https://speakerdeck.com/utgwkk/kyoto-dot-go-number-56</link>
-        <dc:date>2024-12-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go の GC の不得意な 部分を克服したい (鹿)</title>
-        <link>https://speakerdeck.com/taiyow/go-no-gc-nobu-de-yi-na-bu-fen-woke-fu-sitai</link>
         <dc:date>2024-12-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
