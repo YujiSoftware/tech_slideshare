@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Wantedly での Datadog 活用事例 (Atsushi Tanaka)</title>
+        <link>https://speakerdeck.com/bgpat/wantedly-deno-datadog-huo-yong-shi-li</link>
+        <dc:date>2024-12-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLM Supervised Fine-tuningの理論と実践（サンプル） (データアナリティクスラボ / DATA ANALYTICS LABO)</title>
         <link>https://speakerdeck.com/datanalyticslabo/llm-supervised-fine-tuningnoli-lun-toshi-jian-sanhuru-add08e76-9191-4c17-ab15-637ed971b665</link>
         <dc:date>2024-12-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>新米エンジニアから見たGo (yuita)</title>
         <link>https://speakerdeck.com/yuita/xin-mi-enziniakarajian-tago</link>
-        <dc:date>2024-12-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>命名をリントする (chiroruxx)</title>
-        <link>https://speakerdeck.com/chiroruxx/ming-ming-worintosuru</link>
         <dc:date>2024-12-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
