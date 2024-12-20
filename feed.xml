@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>その機能、今作る必要ある？ (Aki / @LoveIdahoBurger)</title>
+        <link>https://speakerdeck.com/aki_iinuma/sonoji-neng-jin-zuo-rubi-yao-aru</link>
+        <dc:date>2024-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組織に自動テストを書く文化を根付かせる戦略（2024冬版） / Building Automated Test Culture 2024 Winter Edition (Takuto Wada)</title>
         <link>https://speakerdeck.com/twada/building-automated-test-culture-2024-winter-edition</link>
         <dc:date>2024-12-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>詳解 bypass4netns: Rootless Containers Network の仕組みと高速化 (松本直樹)</title>
         <link>https://speakerdeck.com/mt2naoki/xiang-jie-bypass4netns-rootless-containers-network-noshi-zu-mitogao-su-hua</link>
-        <dc:date>2024-12-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>nekko cloudにおけるProxmox VE利用事例 (Irumaru)</title>
-        <link>https://speakerdeck.com/irumaru/nekko-cloudniokeruproxmox-veli-yong-shi-li</link>
         <dc:date>2024-12-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
