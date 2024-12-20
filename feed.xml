@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>良いユニットテストを書こう (mototakatsu)</title>
+        <link>https://speakerdeck.com/mototakatsu/liang-iyunitutotesutowoshu-kou</link>
+        <dc:date>2024-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>return文におけるstd::moveについて (onihusube)</title>
         <link>https://speakerdeck.com/onihusube/returnwen-niokerustd-movenituite</link>
         <dc:date>2024-12-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI Safety の必要性と具体的な攻撃、その対策について (schroneko)</title>
         <link>https://speakerdeck.com/schroneko/ai-safety-nobi-yao-xing-toju-ti-de-nagong-ji-sonodui-ce-nituite</link>
-        <dc:date>2024-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バグを見つけた？それAppleに直してもらおう！ (上ちょ / uetyo)</title>
-        <link>https://speakerdeck.com/uetyo/baguwojian-tuketa-soreapplenizhi-sitemoraou</link>
         <dc:date>2024-12-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
