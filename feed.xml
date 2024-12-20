@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サイバー攻撃を想定したセキュリティガイドライン 策定とASM及びCNAPPの活用方法 (Shun Yoshie)</title>
+        <link>https://speakerdeck.com/syoshie/saibagong-ji-woxiang-ding-sitasekiyuriteigaidorain-ce-ding-toasmji-bicnappnohuo-yong-fang-fa</link>
+        <dc:date>2024-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20240917_wandb_Monthly_meetup_TIS (Keisuke Kamata)</title>
         <link>https://speakerdeck.com/olachinkei/20240917-wandb-monthly-meetup-tis</link>
         <dc:date>2024-12-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>rails "all" stats (ykpythemind)</title>
         <link>https://speakerdeck.com/ykpythemind/rails-all-stats</link>
-        <dc:date>2024-12-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテナセキュリティのためのLandlock入門 (Takaya Saeki)</title>
-        <link>https://speakerdeck.com/nullpo_head/kontenasekiyuriteinotamenolandlockru-men</link>
         <dc:date>2024-12-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
