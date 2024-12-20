@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>return文におけるstd::moveについて (onihusube)</title>
+        <link>https://speakerdeck.com/onihusube/returnwen-niokerustd-movenituite</link>
+        <dc:date>2024-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>C++26 エラー性動作 (Akira Takahashi)</title>
         <link>https://speakerdeck.com/faithandbrave/c-plus-plus-26-eraxing-dong-zuo</link>
         <dc:date>2024-12-19T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>バグを見つけた？それAppleに直してもらおう！ (上ちょ / uetyo)</title>
         <link>https://speakerdeck.com/uetyo/baguwojian-tuketa-soreapplenizhi-sitemoraou</link>
         <dc:date>2024-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『全員インシデントコマンダー』の体制構築から 1年経った現在地 (Yuki Ando,@integrated1453)</title>
-        <link>https://www.docswell.com/s/integrated1453/ZWWRXQ-2024-12-17-194039</link>
-        <dc:date>2024-12-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
