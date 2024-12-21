@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>２年間の実運用を経て振り返るイベントソーシングの実際 (Tomohisa Takaoka)</title>
+        <link>https://speakerdeck.com/tomohisa/2nian-jian-noshi-yun-yong-wojing-tezhen-rifan-ruibentososingunoshi-ji</link>
+        <dc:date>2024-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>非機能品質を作り込むための実践アーキテクチャ (Kenichi SUZUKI)</title>
         <link>https://speakerdeck.com/knih/practical-software-architecture-for-building-cross-functional-quality</link>
         <dc:date>2024-12-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Wantedly での Datadog 活用事例 (Atsushi Tanaka)</title>
         <link>https://speakerdeck.com/bgpat/wantedly-deno-datadog-huo-yong-shi-li</link>
         <dc:date>2024-12-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM Supervised Fine-tuningの理論と実践（サンプル） (データアナリティクスラボ / DATA ANALYTICS LABO)</title>
-        <link>https://speakerdeck.com/datanalyticslabo/llm-supervised-fine-tuningnoli-lun-toshi-jian-sanhuru-add08e76-9191-4c17-ab15-637ed971b665</link>
-        <dc:date>2024-12-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
