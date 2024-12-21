@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>非機能品質を作り込むための実践アーキテクチャ (Kenichi SUZUKI)</title>
+        <link>https://speakerdeck.com/knih/practical-software-architecture-for-building-cross-functional-quality</link>
+        <dc:date>2024-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLM Supervised Fine-tuningの理論と実践 (データアナリティクスラボ / DATA ANALYTICS LABO)</title>
+        <link>https://speakerdeck.com/datanalyticslabo/llm-supervised-fine-tuningnoli-lun-toshi-jian</link>
+        <dc:date>2024-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>.NET 9 のパフォーマンス改善 (neno)</title>
         <link>https://speakerdeck.com/nenonaninu/dot-net-9-nopahuomansugai-shan</link>
         <dc:date>2024-12-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>LLM Supervised Fine-tuningの理論と実践（サンプル） (データアナリティクスラボ / DATA ANALYTICS LABO)</title>
         <link>https://speakerdeck.com/datanalyticslabo/llm-supervised-fine-tuningnoli-lun-toshi-jian-sanhuru-add08e76-9191-4c17-ab15-637ed971b665</link>
-        <dc:date>2024-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>成果のためのコミュニケーション - 語彙を育てよう -/communication-for-good-outcome-developing-vocabulary (hassaku63)</title>
-        <link>https://speakerdeck.com/hassaku63/communication-for-good-outcome-developing-vocabulary</link>
-        <dc:date>2024-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilot のテクニック集/GitHub Copilot Techniques (Yu Sato)</title>
-        <link>https://speakerdeck.com/rayuron/github-copilot-techniques</link>
         <dc:date>2024-12-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
