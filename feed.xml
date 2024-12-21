@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20241220_S3 tablesの使い方を検証してみた (daiki.handa)</title>
+        <link>https://speakerdeck.com/handy/20241220-s3-tablesnoshi-ifang-wojian-zheng-sitemita</link>
+        <dc:date>2024-12-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>２年間の実運用を経て振り返るイベントソーシングの実際 (Tomohisa Takaoka)</title>
         <link>https://speakerdeck.com/tomohisa/2nian-jian-noshi-yun-yong-wojing-tezhen-rifan-ruibentososingunoshi-ji</link>
         <dc:date>2024-12-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ゼロから創る横断SREチーム 挑戦と進化の軌跡 (adachin0817)</title>
         <link>https://speakerdeck.com/rvirus0817/zerokarachuang-ruheng-duan-sretimu-tiao-zhan-tojin-hua-nogui-ji</link>
-        <dc:date>2024-12-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Wantedly での Datadog 活用事例 (Atsushi Tanaka)</title>
-        <link>https://speakerdeck.com/bgpat/wantedly-deno-datadog-huo-yong-shi-li</link>
         <dc:date>2024-12-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
