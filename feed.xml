@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>.NET 9 のパフォーマンス改善 (neno)</title>
+        <link>https://speakerdeck.com/nenonaninu/dot-net-9-nopahuomansugai-shan</link>
+        <dc:date>2024-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>良いユニットテストを書こう (mototakatsu)</title>
         <link>https://speakerdeck.com/mototakatsu/liang-iyunitutotesutowoshu-kou</link>
         <dc:date>2024-12-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GitHub Copilot のテクニック集/GitHub Copilot Techniques (Yu Sato)</title>
         <link>https://speakerdeck.com/rayuron/github-copilot-techniques</link>
-        <dc:date>2024-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Safety の必要性と具体的な攻撃、その対策について (schroneko)</title>
-        <link>https://speakerdeck.com/schroneko/ai-safety-nobi-yao-xing-toju-ti-de-nagong-ji-sonodui-ce-nituite</link>
         <dc:date>2024-12-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
