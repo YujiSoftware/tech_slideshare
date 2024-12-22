@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>使いたいから使うんじゃなく「必然」として使うCQRS＋ES (おだかとしゆき)</title>
+        <link>https://speakerdeck.com/jgeem/shi-itaikarashi-unziyanaku-bi-ran-tositeshi-ucqrs-plus-es</link>
+        <dc:date>2024-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Beyond ORM (Hiromi Hishida)</title>
         <link>https://speakerdeck.com/77web/beyond-orm</link>
         <dc:date>2024-12-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>MPA対応したView Transitions APIの悪用方法を考えていた</title>
         <link>https://docs.google.com/presentation/d/1i9tOHH2uEiHjmO2EyO9Vtz37aPFDECsBZWyRr6hPQfs/preview</link>
-        <dc:date>2024-12-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIConf_SNOWFLAKE様「生成 AI でデータから価値を引き出す」 (生成AI Conf)</title>
-        <link>https://speakerdeck.com/gen_ai_conf/snowflake-sheng-cheng-ai-dedetakarajia-zhi-woyin-kichu-su</link>
         <dc:date>2024-12-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
