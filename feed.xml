@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Tracking Any Pointの紹介 (Shigeki Kobayashi)</title>
+        <link>https://speakerdeck.com/sgk/tracking-any-pointnoshao-jie</link>
+        <dc:date>2024-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>責務を分離するための例外設計 - PHPカンファレンス 2024 (Takuma Kajikawa)</title>
         <link>https://speakerdeck.com/kajitack/ze-wu-wofen-li-surutamenoli-wai-she-ji-phpkanhuarensu-2024</link>
         <dc:date>2024-12-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アーキテクチャを設計するといふこと (yonekubo@テスト駆動開発が好きなアーキテクト,@tyonekubo)</title>
         <link>https://www.docswell.com/s/tyonekubo/Z82NW9-2024-12-19-ForkwellLibrary-77</link>
-        <dc:date>2024-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実務につなげる数理最適化 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/brainpad-meetup-umetani</link>
         <dc:date>2024-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
