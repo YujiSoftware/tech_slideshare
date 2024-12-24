@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>歴史と現在から考えるスケーラブルなソフトウェア開発のプラクティス (110416)</title>
+        <link>https://speakerdeck.com/i10416/li-shi-toxian-zai-karakao-erusukeraburunasohutoueakai-fa-nopurakuteisu</link>
+        <dc:date>2024-12-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術的負債と向き合うカイゼン活動を1年続けて分かった "持続可能" なプロダクト開発 (Yuichiro SERITA)</title>
+        <link>https://speakerdeck.com/yuichiro_serita/ji-shu-de-fu-zhai-toxiang-kihe-ukaizenhuo-dong-wo1nian-sok-ketefen-katuta-chi-sok-ke-neng-napurodakutokai-fa</link>
+        <dc:date>2024-12-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>事業貢献を考えるための技術改善の目標設計と改善実績 / Targeted design of technical improvements to consider business contribution and improvement performance (Tomohisa Omagari)</title>
+        <link>https://speakerdeck.com/oomatomo/targeted-design-of-technical-improvements-to-consider-business-contribution-and-improvement-performance</link>
+        <dc:date>2024-12-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Snowflake x dbtで作るセキュアでアジャイルなデータ基盤 (tsoshiro)</title>
         <link>https://speakerdeck.com/tsoshiro/snowflake-x-dbtdezuo-rusekiyuadeaziyairunadetaji-pan</link>
         <dc:date>2024-12-23T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>C++26 エラー性動作 (Akira Takahashi)</title>
         <link>https://speakerdeck.com/faithandbrave/c-plus-plus-26-eraxing-dong-zuo</link>
-        <dc:date>2024-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PydanticAI × Logfire ではじめる  LLM エージェントのモニタリング (chimuichimu)</title>
-        <link>https://speakerdeck.com/chimuichimu/pydanticai-x-logfire-dehazimeru-llm-ezientonomonitaringu</link>
-        <dc:date>2024-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>その機能、今作る必要ある？ (Aki / @LoveIdahoBurger)</title>
-        <link>https://speakerdeck.com/aki_iinuma/sonoji-neng-jin-zuo-rubi-yao-aru</link>
-        <dc:date>2024-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組織に自動テストを書く文化を根付かせる戦略（2024冬版） / Building Automated Test Culture 2024 Winter Edition (Takuto Wada)</title>
-        <link>https://speakerdeck.com/twada/building-automated-test-culture-2024-winter-edition</link>
         <dc:date>2024-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
