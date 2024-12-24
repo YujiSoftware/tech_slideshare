@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>UI State設計とテスト方針 (rmakiyama)</title>
+        <link>https://speakerdeck.com/rmakiyama/designing-ui-state-and-testing-strategies</link>
+        <dc:date>2024-12-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>歴史と現在から考えるスケーラブルなソフトウェア開発のプラクティス (110416)</title>
         <link>https://speakerdeck.com/i10416/li-shi-toxian-zai-karakao-erusukeraburunasohutoueakai-fa-nopurakuteisu</link>
         <dc:date>2024-12-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>return文におけるstd::moveについて (onihusube)</title>
         <link>https://speakerdeck.com/onihusube/returnwen-niokerustd-movenituite</link>
         <dc:date>2024-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C++26 エラー性動作 (Akira Takahashi)</title>
-        <link>https://speakerdeck.com/faithandbrave/c-plus-plus-26-eraxing-dong-zuo</link>
-        <dc:date>2024-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
