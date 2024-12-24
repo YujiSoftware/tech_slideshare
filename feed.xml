@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHP ユーザのための OpenTelemetry 入門 / phpcon2024-opentelemetry (shin1x1)</title>
+        <link>https://speakerdeck.com/shin1x1/phpcon2024-opentelemetry</link>
+        <dc:date>2024-12-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Tracking Any Pointの紹介 (Shigeki Kobayashi)</title>
         <link>https://speakerdeck.com/sgk/tracking-any-pointnoshao-jie</link>
         <dc:date>2024-12-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20240917_wandb_Monthly_meetup_TIS (Keisuke Kamata)</title>
         <link>https://speakerdeck.com/olachinkei/20240917-wandb-monthly-meetup-tis</link>
-        <dc:date>2024-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アーキテクチャを設計するといふこと (yonekubo@テスト駆動開発が好きなアーキテクト,@tyonekubo)</title>
-        <link>https://www.docswell.com/s/tyonekubo/Z82NW9-2024-12-19-ForkwellLibrary-77</link>
         <dc:date>2024-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
