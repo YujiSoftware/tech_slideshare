@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Snowflake x dbtで作るセキュアでアジャイルなデータ基盤 (tsoshiro)</title>
+        <link>https://speakerdeck.com/tsoshiro/snowflake-x-dbtdezuo-rusekiyuadeaziyairunadetaji-pan</link>
+        <dc:date>2024-12-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>3年でバックエンドエンジニアが5倍に増えても破綻しなかったアーキテクチャ そして、これから / Software architecture that scales even with a 5x increase in backend engineers in 3 years (Shintani Teppei)</title>
         <link>https://speakerdeck.com/euglena1215/software-architecture-that-scales-even-with-a-5x-increase-in-backend-engineers-in-3-years</link>
         <dc:date>2024-12-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>組織に自動テストを書く文化を根付かせる戦略（2024冬版） / Building Automated Test Culture 2024 Winter Edition (Takuto Wada)</title>
         <link>https://speakerdeck.com/twada/building-automated-test-culture-2024-winter-edition</link>
-        <dc:date>2024-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイバー攻撃を想定したセキュリティガイドライン 策定とASM及びCNAPPの活用方法 (Shun Yoshie)</title>
-        <link>https://speakerdeck.com/syoshie/saibagong-ji-woxiang-ding-sitasekiyuriteigaidorain-ce-ding-toasmji-bicnappnohuo-yong-fang-fa</link>
         <dc:date>2024-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
