@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHPerのための計算量入門/Complexity101 for PHPer (Ryo Tomidokoro)</title>
+        <link>https://speakerdeck.com/hanhan1978/complexity101-for-phper</link>
+        <dc:date>2024-12-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSのLambdaで PHPを動かす選択肢 (Rinchoku)</title>
         <link>https://speakerdeck.com/rinchoku/awsnolambdade-phpwodong-kasuxuan-ze-zhi</link>
         <dc:date>2024-12-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>非機能品質を作り込むための実践アーキテクチャ (Kenichi SUZUKI)</title>
         <link>https://speakerdeck.com/knih/practical-software-architecture-for-building-cross-functional-quality</link>
-        <dc:date>2024-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM Supervised Fine-tuningの理論と実践 (データアナリティクスラボ / DATA ANALYTICS LABO)</title>
-        <link>https://speakerdeck.com/datanalyticslabo/llm-supervised-fine-tuningnoli-lun-toshi-jian</link>
         <dc:date>2024-12-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
