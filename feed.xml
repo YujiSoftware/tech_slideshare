@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript開発にモジュラーモノリスを持ち込む (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/20241223-1</link>
+        <dc:date>2024-12-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>UI State設計とテスト方針 (rmakiyama)</title>
         <link>https://speakerdeck.com/rmakiyama/designing-ui-state-and-testing-strategies</link>
         <dc:date>2024-12-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>良いユニットテストを書こう (mototakatsu)</title>
         <link>https://speakerdeck.com/mototakatsu/liang-iyunitutotesutowoshu-kou</link>
-        <dc:date>2024-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>return文におけるstd::moveについて (onihusube)</title>
-        <link>https://speakerdeck.com/onihusube/returnwen-niokerustd-movenituite</link>
         <dc:date>2024-12-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
