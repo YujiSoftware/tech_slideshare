@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSのLambdaで PHPを動かす選択肢 (Rinchoku)</title>
+        <link>https://speakerdeck.com/rinchoku/awsnolambdade-phpwodong-kasuxuan-ze-zhi</link>
+        <dc:date>2024-12-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>100人超のエンジニア組織の統合、60以上のアプリケーションの基盤集約、日本最大級の不動産・住宅情報サイト『LIFULL HOME&amp;#039;S』を支え続けるエンジニアリング＿長沢翼 (株式会社LIFULL,@LIFULL_Corp)</title>
         <link>https://www.docswell.com/s/LIFULL/K1RQ77-2024-12-24-163440</link>
         <dc:date>2024-12-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLM Supervised Fine-tuningの理論と実践 (データアナリティクスラボ / DATA ANALYTICS LABO)</title>
         <link>https://speakerdeck.com/datanalyticslabo/llm-supervised-fine-tuningnoli-lun-toshi-jian</link>
-        <dc:date>2024-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>.NET 9 のパフォーマンス改善 (neno)</title>
-        <link>https://speakerdeck.com/nenonaninu/dot-net-9-nopahuomansugai-shan</link>
         <dc:date>2024-12-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
