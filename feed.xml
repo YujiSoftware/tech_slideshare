@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最近のSfM手法まとめ (hiroki kawauchi)</title>
+        <link>https://speakerdeck.com/kwchrk/zui-jin-nosfmshou-fa-matome</link>
+        <dc:date>2024-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>社内ツールから生まれたOSS "ts-remove-unused" によるフロントエンド開発の効率化と品質の向上 (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/she-nei-turukarasheng-maretaoss-ts-remove-unused-niyoruhurontoendokai-fa-noxiao-lu-hua-topin-zhi-noxiang-shang</link>
         <dc:date>2024-12-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>終了の危機にあった15年続くWebサービスを全力で存続させる - phpcon2024 (yositosi)</title>
         <link>https://speakerdeck.com/yositosi/zhong-liao-nowei-ji-niatuta15nian-sok-kuwebsabisuwoquan-li-decun-sok-saseru-phpcon2024</link>
-        <dc:date>2024-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Copilot Studioことはじめ (Junichi Kodama,@KodamaJn)</title>
-        <link>https://www.docswell.com/s/KodamaJn/KDNM9G-2024-12-21-200811</link>
         <dc:date>2024-12-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
