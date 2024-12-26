@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>能動的ドメイン名ライフサイクル管理のすゝめ / Practice on Active Domain Name Lifecycle Management (NTT Communications)</title>
+        <link>https://speakerdeck.com/nttcom/practice-on-active-domain-name-lifecycle-management</link>
+        <dc:date>2024-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PHPerのための計算量入門/Complexity101 for PHPer (Ryo Tomidokoro)</title>
         <link>https://speakerdeck.com/hanhan1978/complexity101-for-phper</link>
         <dc:date>2024-12-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>２年間の実運用を経て振り返るイベントソーシングの実際 (Tomohisa Takaoka)</title>
         <link>https://speakerdeck.com/tomohisa/2nian-jian-noshi-yun-yong-wojing-tezhen-rifan-ruibentososingunoshi-ji</link>
-        <dc:date>2024-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非機能品質を作り込むための実践アーキテクチャ (Kenichi SUZUKI)</title>
-        <link>https://speakerdeck.com/knih/practical-software-architecture-for-building-cross-functional-quality</link>
         <dc:date>2024-12-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
