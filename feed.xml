@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go初心者がAWS設定のチェックツール作ってみた (shogo_yuasa)</title>
+        <link>https://speakerdeck.com/shogo_yuasa/gochu-xin-zhe-gaawsshe-ding-notietukuturuzuo-tutemita</link>
+        <dc:date>2024-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goでの楕円曲線暗号の実装</title>
+        <link>https://docs.google.com/presentation/d/17CCGEZ6ts7Y2sHp0TBa0q4oHF2kc9688iy59_Es0XCg/preview</link>
+        <dc:date>2024-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スタブサーバ自動生成ツール 〜負荷試験をもっと楽に〜 (teru0x1)</title>
+        <link>https://speakerdeck.com/teru0x1/sutabusabazi-dong-sheng-cheng-turu-fu-he-shi-yan-womotutole-ni</link>
+        <dc:date>2024-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発者体験から見える技術的負債 (38sawa)</title>
         <link>https://speakerdeck.com/38sawa/kai-fa-zhe-ti-yan-karajian-eruji-shu-de-fu-zhai</link>
         <dc:date>2024-12-26T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>能動的ドメイン名ライフサイクル管理のすゝめ / Practice on Active Domain Name Lifecycle Management (NTT Communications)</title>
         <link>https://speakerdeck.com/nttcom/practice-on-active-domain-name-lifecycle-management</link>
         <dc:date>2024-12-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPerのための計算量入門/Complexity101 for PHPer (Ryo Tomidokoro)</title>
-        <link>https://speakerdeck.com/hanhan1978/complexity101-for-phper</link>
-        <dc:date>2024-12-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSのLambdaで PHPを動かす選択肢 (Rinchoku)</title>
-        <link>https://speakerdeck.com/rinchoku/awsnolambdade-phpwodong-kasuxuan-ze-zhi</link>
-        <dc:date>2024-12-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>100人超のエンジニア組織の統合、60以上のアプリケーションの基盤集約、日本最大級の不動産・住宅情報サイト『LIFULL HOME&amp;#039;S』を支え続けるエンジニアリング＿長沢翼 (株式会社LIFULL,@LIFULL_Corp)</title>
-        <link>https://www.docswell.com/s/LIFULL/K1RQ77-2024-12-24-163440</link>
-        <dc:date>2024-12-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
