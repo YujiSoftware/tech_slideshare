@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新卒iOSエンジニアの歩み (Toshiyana)</title>
+        <link>https://speakerdeck.com/toshiyana36/xin-zu-iosenzinianobu-mi</link>
+        <dc:date>2024-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DMM.Swift #1　詳解 ViewModifier (K-Torishima)</title>
+        <link>https://speakerdeck.com/k_torishima/dmm-dot-swift-number-1-xiang-jie-viewmodifier</link>
+        <dc:date>2024-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DMM.swift#1 Mergeable Libraryを試した (yuki tamazawa)</title>
+        <link>https://speakerdeck.com/srea/dmm-dot-swift-number-1-mergeable-librarywoshi-sita</link>
+        <dc:date>2024-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>非ブラウザランタイムとWeb標準 / Non-Browser Runtimes and Web Standards (petamoriken / 森建)</title>
         <link>https://speakerdeck.com/petamoriken/non-browser-runtimes-and-web-standards</link>
         <dc:date>2024-12-26T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>PHP ユーザのための OpenTelemetry 入門 / phpcon2024-opentelemetry (shin1x1)</title>
         <link>https://speakerdeck.com/shin1x1/phpcon2024-opentelemetry</link>
         <dc:date>2024-12-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tracking Any Pointの紹介 (Shigeki Kobayashi)</title>
-        <link>https://speakerdeck.com/sgk/tracking-any-pointnoshao-jie</link>
-        <dc:date>2024-12-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>責務を分離するための例外設計 - PHPカンファレンス 2024 (Takuma Kajikawa)</title>
-        <link>https://speakerdeck.com/kajitack/ze-wu-wofen-li-surutamenoli-wai-she-ji-phpkanhuarensu-2024</link>
-        <dc:date>2024-12-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>使いたいから使うんじゃなく「必然」として使うCQRS＋ES (おだかとしゆき)</title>
-        <link>https://speakerdeck.com/jgeem/shi-itaikarashi-unziyanaku-bi-ran-tositeshi-ucqrs-plus-es</link>
-        <dc:date>2024-12-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
