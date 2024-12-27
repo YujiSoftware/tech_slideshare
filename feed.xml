@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新米テックリードの試行錯誤.pdf (mitohato14)</title>
+        <link>https://speakerdeck.com/mitohato14/dmm-android-5-xin-mi-tetukuritonoshi-xing-cuo-wu</link>
+        <dc:date>2024-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ジョインして1ヶ月 緊急リリースを3度体験した話 〜そして改善へ〜 (Yomogi.)</title>
+        <link>https://speakerdeck.com/shibatadaiki/ziyoinsite1keyue-jin-ji-ririsuwo3du-ti-yan-sitahua-sositegai-shan-he</link>
+        <dc:date>2024-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DMM Android Meetup#5 「例外と向き合う」 (irom219)</title>
+        <link>https://speakerdeck.com/yukihiromori/dmm-android-meetup-number-5-li-wai-toxiang-kihe-u</link>
+        <dc:date>2024-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DMM TVのSDカードダウンロード機能を実装した話 (Yuta Tomiyama)</title>
+        <link>https://speakerdeck.com/yt8492/dmm-tvnosdkadodaunrodoji-neng-woshi-zhuang-sitahua</link>
+        <dc:date>2024-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新卒iOSエンジニアの歩み (Toshiyana)</title>
         <link>https://speakerdeck.com/toshiyana36/xin-zu-iosenzinianobu-mi</link>
         <dc:date>2024-12-26T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>技術的負債と向き合うカイゼン活動を1年続けて分かった "持続可能" なプロダクト開発 (Yuichiro SERITA)</title>
         <link>https://speakerdeck.com/yuichiro_serita/ji-shu-de-fu-zhai-toxiang-kihe-ukaizenhuo-dong-wo1nian-sok-ketefen-katuta-chi-sok-ke-neng-napurodakutokai-fa</link>
-        <dc:date>2024-12-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業貢献を考えるための技術改善の目標設計と改善実績 / Targeted design of technical improvements to consider business contribution and improvement performance (Tomohisa Omagari)</title>
-        <link>https://speakerdeck.com/oomatomo/targeted-design-of-technical-improvements-to-consider-business-contribution-and-improvement-performance</link>
-        <dc:date>2024-12-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Snowflake x dbtで作るセキュアでアジャイルなデータ基盤 (tsoshiro)</title>
-        <link>https://speakerdeck.com/tsoshiro/snowflake-x-dbtdezuo-rusekiyuadeaziyairunadetaji-pan</link>
-        <dc:date>2024-12-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>3年でバックエンドエンジニアが5倍に増えても破綻しなかったアーキテクチャ そして、これから / Software architecture that scales even with a 5x increase in backend engineers in 3 years (Shintani Teppei)</title>
-        <link>https://speakerdeck.com/euglena1215/software-architecture-that-scales-even-with-a-5x-increase-in-backend-engineers-in-3-years</link>
-        <dc:date>2024-12-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP ユーザのための OpenTelemetry 入門 / phpcon2024-opentelemetry (shin1x1)</title>
-        <link>https://speakerdeck.com/shin1x1/phpcon2024-opentelemetry</link>
         <dc:date>2024-12-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
