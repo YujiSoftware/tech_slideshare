@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vue 3.5で追加されたuseTemplateRefの型の謎に迫る</title>
+        <link>https://docs.google.com/presentation/d/1J4hvk5PsMUaMJ9-VYVisR8L9STTBrU5mN5LIa16_eCM/preview</link>
+        <dc:date>2024-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub CopilotでTypeScriptの コード生成するワザップ (starfish719)</title>
+        <link>https://speakerdeck.com/starfish719/github-copilotdetypescriptno-kodosheng-cheng-suruwazatupu</link>
+        <dc:date>2024-12-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Go初心者がAWS設定のチェックツール作ってみた (shogo_yuasa)</title>
         <link>https://speakerdeck.com/shogo_yuasa/gochu-xin-zhe-gaawsshe-ding-notietukuturuzuo-tutemita</link>
         <dc:date>2024-12-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>社内ツールから生まれたOSS "ts-remove-unused" によるフロントエンド開発の効率化と品質の向上 (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/she-nei-turukarasheng-maretaoss-ts-remove-unused-niyoruhurontoendokai-fa-noxiao-lu-hua-topin-zhi-noxiang-shang</link>
-        <dc:date>2024-12-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>管理画面向けUIコンポーネントの設計 - Web componentsでフレームワーク非依存を目指す (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/guan-li-hua-mian-xiang-keuikonponentonoshe-ji-web-componentsdehuremuwakufei-yi-cun-womu-zhi-su</link>
-        <dc:date>2024-12-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>能動的ドメイン名ライフサイクル管理のすゝめ / Practice on Active Domain Name Lifecycle Management (NTT Communications)</title>
-        <link>https://speakerdeck.com/nttcom/practice-on-active-domain-name-lifecycle-management</link>
         <dc:date>2024-12-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
