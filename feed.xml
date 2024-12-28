@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>UnityおとなのLT大会2024: MPPM</title>
+        <link>https://docs.google.com/presentation/d/1YHKV828w-_TYWxjRsrvRKUCIwI68ePPnMX6GqAm0IYI/preview</link>
+        <dc:date>2024-12-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ネットワーク可視化の世界 (Yosuke Onoue)</title>
         <link>https://speakerdeck.com/likr/the-world-of-network-visualization</link>
         <dc:date>2024-12-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DMM.swift#1 Mergeable Libraryを試した (yuki tamazawa)</title>
         <link>https://speakerdeck.com/srea/dmm-dot-swift-number-1-mergeable-librarywoshi-sita</link>
-        <dc:date>2024-12-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非ブラウザランタイムとWeb標準 / Non-Browser Runtimes and Web Standards (petamoriken / 森建)</title>
-        <link>https://speakerdeck.com/petamoriken/non-browser-runtimes-and-web-standards</link>
         <dc:date>2024-12-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
