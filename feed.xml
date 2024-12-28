@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ネットワーク可視化の世界 (Yosuke Onoue)</title>
+        <link>https://speakerdeck.com/likr/the-world-of-network-visualization</link>
+        <dc:date>2024-12-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「それいけ！アンパンマン vs APIリクエスト：技術的勝利への道」 (Shuma)</title>
         <link>https://speakerdeck.com/shubox/soreike-anpanman-vs-apirikuesuto-ji-shu-de-sheng-li-henodao</link>
         <dc:date>2024-12-27T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>非ブラウザランタイムとWeb標準 / Non-Browser Runtimes and Web Standards (petamoriken / 森建)</title>
         <link>https://speakerdeck.com/petamoriken/non-browser-runtimes-and-web-standards</link>
         <dc:date>2024-12-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発生産性から振り返るエンジニアリングマネジメントの失敗2選 (ussy / @sudo5in5k)</title>
-        <link>https://speakerdeck.com/sudo5in5k/kai-fa-sheng-chan-xing-karazhen-rifan-ruenziniaringumanezimentonoshi-bai-2xuan</link>
-        <dc:date>2024-12-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
