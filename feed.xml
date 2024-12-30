@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>イベントをどう管理するか (mikan)</title>
+        <link>https://speakerdeck.com/mikanichinose/ibentowodouguan-li-suruka</link>
+        <dc:date>2024-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React 19でお手軽にCSS-in-JSを自作する (Yuku Kotani)</title>
         <link>https://speakerdeck.com/yukukotani/css-in-js-in-react-19</link>
         <dc:date>2024-12-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DMM TVのSDカードダウンロード機能を実装した話 (Yuta Tomiyama)</title>
         <link>https://speakerdeck.com/yt8492/dmm-tvnosdkadodaunrodoji-neng-woshi-zhuang-sitahua</link>
-        <dc:date>2024-12-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新卒iOSエンジニアの歩み (Toshiyana)</title>
-        <link>https://speakerdeck.com/toshiyana36/xin-zu-iosenzinianobu-mi</link>
         <dc:date>2024-12-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
