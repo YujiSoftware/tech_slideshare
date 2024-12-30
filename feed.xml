@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React 19でお手軽にCSS-in-JSを自作する (Yuku Kotani)</title>
+        <link>https://speakerdeck.com/yukukotani/css-in-js-in-react-19</link>
+        <dc:date>2024-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VOICEVOXでVRMを喋らせるライブラリの紹介 (とりすーぷ,@toRisouP)</title>
         <link>https://www.docswell.com/s/torisoup/K22731-voicevoxclientsharp</link>
         <dc:date>2024-12-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>新卒iOSエンジニアの歩み (Toshiyana)</title>
         <link>https://speakerdeck.com/toshiyana36/xin-zu-iosenzinianobu-mi</link>
-        <dc:date>2024-12-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DMM.Swift #1　詳解 ViewModifier (K-Torishima)</title>
-        <link>https://speakerdeck.com/k_torishima/dmm-dot-swift-number-1-xiang-jie-viewmodifier</link>
         <dc:date>2024-12-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
