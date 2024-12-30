@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VOICEVOXでVRMを喋らせるライブラリの紹介 (とりすーぷ,@toRisouP)</title>
+        <link>https://www.docswell.com/s/torisoup/K22731-voicevoxclientsharp</link>
+        <dc:date>2024-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>UnityおとなのLT大会2024: MPPM</title>
         <link>https://docs.google.com/presentation/d/1YHKV828w-_TYWxjRsrvRKUCIwI68ePPnMX6GqAm0IYI/preview</link>
         <dc:date>2024-12-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DMM.Swift #1　詳解 ViewModifier (K-Torishima)</title>
         <link>https://speakerdeck.com/k_torishima/dmm-dot-swift-number-1-xiang-jie-viewmodifier</link>
-        <dc:date>2024-12-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DMM.swift#1 Mergeable Libraryを試した (yuki tamazawa)</title>
-        <link>https://speakerdeck.com/srea/dmm-dot-swift-number-1-mergeable-librarywoshi-sita</link>
         <dc:date>2024-12-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
