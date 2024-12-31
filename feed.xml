@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>良い仮説を評価する技術 (Takaaki Umada / 馬田隆明)</title>
+        <link>https://speakerdeck.com/tumada/liang-ijia-shuo-woping-jia-suruji-shu</link>
+        <dc:date>2024-12-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アクターシステムに頼らずEvent Sourcingする方法について (かとじゅん)</title>
         <link>https://speakerdeck.com/j5ik2o/akutasisutemunilai-razuevent-sourcingsurufang-fa-nituite</link>
         <dc:date>2024-12-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ジョインして1ヶ月 緊急リリースを3度体験した話 〜そして改善へ〜 (Yomogi.)</title>
         <link>https://speakerdeck.com/shibatadaiki/ziyoinsite1keyue-jin-ji-ririsuwo3du-ti-yan-sitahua-sositegai-shan-he</link>
-        <dc:date>2024-12-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DMM Android Meetup#5 「例外と向き合う」 (irom219)</title>
-        <link>https://speakerdeck.com/yukihiromori/dmm-android-meetup-number-5-li-wai-toxiang-kihe-u</link>
         <dc:date>2024-12-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
