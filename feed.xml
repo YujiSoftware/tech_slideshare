@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHPの今とこれから2023 (Rui Hirokawa)</title>
+        <link>https://www.slideshare.net/slideshow/php2023/261910187</link>
+        <dc:date>2025-01-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アーキテクチャの進化から学ぶ、プラットフォームエンジニアリングへのアプローチ (Yusuke Suzuki)</title>
         <link>https://www.slideshare.net/slideshow/ss-f5c4/263277773</link>
         <dc:date>2025-01-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>テストコードのガイドライン 〜作成から運用まで〜 (Rikuto Sato)</title>
         <link>https://speakerdeck.com/riku929hr/tesutokodonogaidorain-zuo-cheng-karayun-yong-made</link>
-        <dc:date>2024-12-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新米テックリードの試行錯誤.pdf (mitohato14)</title>
-        <link>https://speakerdeck.com/mitohato14/dmm-android-5-xin-mi-tetukuritonoshi-xing-cuo-wu</link>
         <dc:date>2024-12-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
