@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新しいスケーリング則と学習理論 (Taiji Suzuki)</title>
+        <link>https://speakerdeck.com/taiji_suzuki/xin-siisukeringuze-toxue-xi-li-lun</link>
+        <dc:date>2025-01-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>行動なしに良い仮説思考はできない (Takaaki Umada / 馬田隆明)</title>
         <link>https://speakerdeck.com/tumada/jia-shuo-si-kao-tojia-shuo-xing-dong</link>
         <dc:date>2025-01-06T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>「それいけ！アンパンマン vs APIリクエスト：技術的勝利への道」 (Shuma)</title>
         <link>https://speakerdeck.com/shubox/soreike-anpanman-vs-apirikuesuto-ji-shu-de-sheng-li-henodao</link>
         <dc:date>2024-12-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア開発における「パーフェクトな意思決定」/Perfect Decision-Making in Software Development (yayoi_dd)</title>
-        <link>https://speakerdeck.com/yayoi_dd/perfect-decision-making-in-software-development</link>
-        <dc:date>2024-12-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
