@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>行動なしに良い仮説思考はできない (Takaaki Umada / 馬田隆明)</title>
+        <link>https://speakerdeck.com/tumada/jia-shuo-si-kao-tojia-shuo-xing-dong</link>
+        <dc:date>2025-01-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>30分でわかるデータ分析者のためのディメンショナルモデリング #datatechjp / 20250120 (風音屋 (Kazaneya))</title>
         <link>https://speakerdeck.com/kazaneya/20250120</link>
         <dc:date>2025-01-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェア開発における「パーフェクトな意思決定」/Perfect Decision-Making in Software Development (yayoi_dd)</title>
         <link>https://speakerdeck.com/yayoi_dd/perfect-decision-making-in-software-development</link>
-        <dc:date>2024-12-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue 3.5で追加されたuseTemplateRefの型の謎に迫る</title>
-        <link>https://docs.google.com/presentation/d/1J4hvk5PsMUaMJ9-VYVisR8L9STTBrU5mN5LIa16_eCM/preview</link>
         <dc:date>2024-12-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
