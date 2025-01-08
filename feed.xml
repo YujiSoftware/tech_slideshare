@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【お子さま向け】Amazon ECS サービスディスカバリーって知ってる？【楽しい読み聞かせ】 (tubone(Yu Otsubo))</title>
+        <link>https://speakerdeck.com/tubone24/amazon-ecs-sahisuteisukaharitutezhi-tuteru</link>
+        <dc:date>2025-01-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2D SLAMにおけるScan Matchingアルゴリズムについて</title>
         <link>https://docs.google.com/presentation/d/1Ug3iN_dS9tbv8h3ykxgRALGzIcdgnXafwgzDIzheE1s/preview</link>
         <dc:date>2025-01-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>イベントをどう管理するか (mikan)</title>
         <link>https://speakerdeck.com/mikanichinose/ibentowodouguan-li-suruka</link>
-        <dc:date>2024-12-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React 19でお手軽にCSS-in-JSを自作する (Yuku Kotani)</title>
-        <link>https://speakerdeck.com/yukukotani/css-in-js-in-react-19</link>
         <dc:date>2024-12-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
