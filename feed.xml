@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React Routerで実現する型安全なSPAルーティング (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/20241223-3</link>
+        <dc:date>2025-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>深層学習と3Dキャプチャ・3Dモデル生成（土木学会応用力学委員会 応用数理・AIセミナー） (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/20250109_jsce_pfn</link>
+        <dc:date>2025-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>パフォーマンス改善を支えるアーキテクチャの役割とは？ (deep-rain)</title>
         <link>https://speakerdeck.com/deeprain/pahuomansugai-shan-wozhi-eruakitekutiyanoyi-ge-toha</link>
         <dc:date>2025-01-09T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>新しいスケーリング則と学習理論 (Taiji Suzuki)</title>
         <link>https://speakerdeck.com/taiji_suzuki/xin-siisukeringuze-toxue-xi-li-lun</link>
         <dc:date>2025-01-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>行動なしに良い仮説思考はできない (Takaaki Umada / 馬田隆明)</title>
-        <link>https://speakerdeck.com/tumada/jia-shuo-si-kao-tojia-shuo-xing-dong</link>
-        <dc:date>2025-01-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>30分でわかるデータ分析者のためのディメンショナルモデリング #datatechjp / 20250120 (風音屋 (Kazaneya))</title>
-        <link>https://speakerdeck.com/kazaneya/20250120</link>
-        <dc:date>2025-01-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
