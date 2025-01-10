@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240827_LLM発表 (TK)</title>
+        <link>https://speakerdeck.com/takeofuture/takeo-shibata</link>
+        <dc:date>2025-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ChatGPTを社内に広めるためにゲーム大会を開催したら200人も集まっちゃった件 (Tori)</title>
+        <link>https://speakerdeck.com/tori_gpt/chatgptwoshe-nei-niguang-merutamenigemuda-hui-wokai-cui-sitara200ren-moji-matutiyatutajian-0f03c3a6-66f6-4658-8ebf-24bd50daad29</link>
+        <dc:date>2025-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ロボット分野で使われる生成AIについて調べてみた.pdf (AGIRobots)</title>
+        <link>https://speakerdeck.com/robots/robotutofen-ye-deshi-warerusheng-cheng-ainituitediao-betemita</link>
+        <dc:date>2025-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Bedrock Knowledge baseを使って今年の上半期のニュースを聞いてみた (リベンジ編) (KMiura)</title>
+        <link>https://speakerdeck.com/miura55/bedrock-knowledge-basewoshi-tutejin-nian-noshang-ban-qi-noniyusuwowen-itemita-ribenzibian-1278bc84-0683-4fb9-8ce6-b26b552bfec1</link>
+        <dc:date>2025-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Flatt Security XSS Challenge 解答・解説 (Flatt Security)</title>
         <link>https://speakerdeck.com/flatt_security/jie-da-jie-shuo-flatt-security-xss-challenge</link>
         <dc:date>2025-01-09T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>RAG？エージェント？何それおいしいの？ 今からはじめる生成AI爆速キャッチアップ (makishy)</title>
         <link>https://speakerdeck.com/makishy/rag-eziento-he-soreoisiino-jin-karahazimerusheng-cheng-aibao-su-kiyatutiatupu</link>
         <dc:date>2025-01-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue 2 の EOL まで 2 ヶ月ですが進捗どうですか？ (Kazuhiro Kobayashi)</title>
-        <link>https://www.slideshare.net/slideshow/vue-2-eol-2/262827830</link>
-        <dc:date>2025-01-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPの今とこれから2023 (Rui Hirokawa)</title>
-        <link>https://www.slideshare.net/slideshow/php2023/261910187</link>
-        <dc:date>2025-01-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アーキテクチャの進化から学ぶ、プラットフォームエンジニアリングへのアプローチ (Yusuke Suzuki)</title>
-        <link>https://www.slideshare.net/slideshow/ss-f5c4/263277773</link>
-        <dc:date>2025-01-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>良い仮説を評価する技術 (Takaaki Umada / 馬田隆明)</title>
-        <link>https://speakerdeck.com/tumada/liang-ijia-shuo-woping-jia-suruji-shu</link>
-        <dc:date>2024-12-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
