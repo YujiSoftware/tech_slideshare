@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20250107Solidityの基礎1回目</title>
+        <link>https://docs.google.com/presentation/d/1DD9NL7tUk8n1Gr1I5muMQezDpAkPVaz24ZfPtm3rPkI/preview</link>
+        <dc:date>2025-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React Routerで実現する型安全なSPAルーティング (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20241223-3</link>
         <dc:date>2025-01-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>総務担当者のOSINT (Nonogaki Hiroshi)</title>
         <link>https://speakerdeck.com/hinono/zong-wu-dan-dang-zhe-noosint-5470b945-2153-4f7f-ba32-c3f5630cc1c6</link>
-        <dc:date>2025-01-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新しいスケーリング則と学習理論 (Taiji Suzuki)</title>
-        <link>https://speakerdeck.com/taiji_suzuki/xin-siisukeringuze-toxue-xi-li-lun</link>
         <dc:date>2025-01-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
