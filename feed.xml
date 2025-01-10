@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>パフォーマンス改善を支えるアーキテクチャの役割とは？ (deep-rain)</title>
+        <link>https://speakerdeck.com/deeprain/pahuomansugai-shan-wozhi-eruakitekutiyanoyi-ge-toha</link>
+        <dc:date>2025-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>⽉間17億レコードを処理する動態管理システムのアーキテクチャ/登壇資料（三⽊ 拓史） (Hacobu)</title>
+        <link>https://speakerdeck.com/hacobu/deng-tan-zi-liao-san-tuo-shi</link>
+        <dc:date>2025-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アイテムレビュー基盤で導入したアーキテクチャとその成果 / Item Review Introduction Architecture Outcome (chiharu terashima)</title>
+        <link>https://speakerdeck.com/chichi1091/item-review-introduction-architecture-outcome</link>
+        <dc:date>2025-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>分散システム？モジュラーモノリス？モノレポ？全部やってみた結果は？ (Tech Leverages)</title>
+        <link>https://speakerdeck.com/leveragestech/fen-san-sisutemu-mosiyuramonorisu-monoreho-quan-bu-yatutemitajie-guo-ha</link>
+        <dc:date>2025-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Web APIのAWS Lambda移行で工夫したこと (iwamot)</title>
+        <link>https://speakerdeck.com/iwamot/aws-lambda-migration-case-study</link>
+        <dc:date>2025-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSの生成AIサービス Amazon Bedrock入門！（2025年1月版） (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/awsnosheng-cheng-aisabisu-amazon-bedrockru-men-2025nian-1yue-ban</link>
         <dc:date>2025-01-09T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>30分でわかるデータ分析者のためのディメンショナルモデリング #datatechjp / 20250120 (風音屋 (Kazaneya))</title>
         <link>https://speakerdeck.com/kazaneya/20250120</link>
         <dc:date>2025-01-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RustはOS界の銀の弾丸になりうるか</title>
-        <link>https://docs.google.com/presentation/d/1RRccgmR-EsnfanWrpyywvx4fDbohEHWuqsAoMAT6YUY/preview</link>
-        <dc:date>2025-01-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フリーランスエンジニアに必要なソフトスキルについて by y2m @ 2024/12/19 Relanceエンジニア忘年会2024 (y2m yusuke1225math2)</title>
-        <link>https://www.slideshare.net/slideshow/by-y2m-2024-12-19-relance-2024-3d5f/274332877</link>
-        <dc:date>2025-01-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI界隈で大注目！MCPについて (Tai)</title>
-        <link>https://speakerdeck.com/tai51/sheng-cheng-aijie-wei-deda-zhu-mu-mcpnituite</link>
-        <dc:date>2025-01-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>未経験からの挑戦：注文管理アプリ開発with ChatGPT (Tai)</title>
-        <link>https://speakerdeck.com/tai51/wei-jing-yan-karanotiao-zhan-zhu-wen-guan-li-apurikai-fa-with-chatgpt-696ea2cc-6967-4b0b-90bc-198af36f4146</link>
-        <dc:date>2025-01-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントを実運用に乗せるステップはこんな感じじゃなかろうか (Naoto Ota)</title>
-        <link>https://speakerdeck.com/naotoota/aiezientowoshi-yun-yong-nicheng-serusutetupuhakonnagan-ziziyanakarouka</link>
-        <dc:date>2025-01-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
