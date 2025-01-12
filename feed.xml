@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMアプリケーションの Fine-tunningと蒸留を活用した改善 (PharmaX（旧YOJO Technologies）開発チーム)</title>
+        <link>https://speakerdeck.com/pharma_x_tech/llmahurikesiyonno-fine-tunningtozheng-liu-wohuo-yong-sitagai-shan</link>
+        <dc:date>2025-01-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【DL輪読会】HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection (Deep Learning JP,@DL_Hacks)</title>
         <link>https://www.docswell.com/s/DeepLearning2023/5V1JG2-2025-01-09-144208</link>
         <dc:date>2025-01-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>【お子さま向け】Amazon ECS サービスディスカバリーって知ってる？【楽しい読み聞かせ】 (tubone(Yu Otsubo))</title>
         <link>https://speakerdeck.com/tubone24/amazon-ecs-sahisuteisukaharitutezhi-tuteru</link>
         <dc:date>2025-01-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2D SLAMにおけるScan Matchingアルゴリズムについて</title>
-        <link>https://docs.google.com/presentation/d/1Ug3iN_dS9tbv8h3ykxgRALGzIcdgnXafwgzDIzheE1s/preview</link>
-        <dc:date>2025-01-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
