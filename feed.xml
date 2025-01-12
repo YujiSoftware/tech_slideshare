@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ラムダ計算の拡張に基づく 音楽プログラミング言語mimium とそのVMの実装 (Tomoya Matsuura)</title>
+        <link>https://speakerdeck.com/tomoyanonymous/ramudaji-suan-nokuo-zhang-niji-duku-yin-le-puroguraminguyan-yu-mimium-tosonovmnoshi-zhuang</link>
+        <dc:date>2025-01-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMアプリケーションの Fine-tunningと蒸留を活用した改善 (PharmaX（旧YOJO Technologies）開発チーム)</title>
         <link>https://speakerdeck.com/pharma_x_tech/llmahurikesiyonno-fine-tunningtozheng-liu-wohuo-yong-sitagai-shan</link>
         <dc:date>2025-01-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>I could be Wrong!! - Learning from Agile Experts (Yasunobu Kawaguchi)</title>
         <link>https://speakerdeck.com/kawaguti/i-could-be-wrong-learning-from-agile-experts</link>
-        <dc:date>2025-01-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【お子さま向け】Amazon ECS サービスディスカバリーって知ってる？【楽しい読み聞かせ】 (tubone(Yu Otsubo))</title>
-        <link>https://speakerdeck.com/tubone24/amazon-ecs-sahisuteisukaharitutezhi-tuteru</link>
         <dc:date>2025-01-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
