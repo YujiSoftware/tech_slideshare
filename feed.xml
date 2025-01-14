@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>カンファレンスを全力で楽しむ技術 (totokit4)</title>
+        <link>https://speakerdeck.com/totokit4/kanhuarensuwoquan-li-dele-simuji-shu</link>
+        <dc:date>2025-01-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MobileActOsaka_241018.pdf (AKAI Tadaaki)</title>
+        <link>https://speakerdeck.com/akaitadaaki/mobileactosaka-241018</link>
+        <dc:date>2025-01-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フェンリルの SwiftUI の研修を覗いてみる / Fenrir SwiftUI Training (Studio Rookery)</title>
+        <link>https://speakerdeck.com/studio_rookery/fenrir-swiftui-training</link>
+        <dc:date>2025-01-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ラムダ計算の拡張に基づく 音楽プログラミング言語mimium とそのVMの実装 (Tomoya Matsuura)</title>
         <link>https://speakerdeck.com/tomoyanonymous/ramudaji-suan-nokuo-zhang-niji-duku-yin-le-puroguraminguyan-yu-mimium-tosonovmnoshi-zhuang</link>
         <dc:date>2025-01-12T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>ロボット分野で使われる生成AIについて調べてみた.pdf (AGIRobots)</title>
         <link>https://speakerdeck.com/robots/robotutofen-ye-deshi-warerusheng-cheng-ainituitediao-betemita</link>
         <dc:date>2025-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bedrock Knowledge baseを使って今年の上半期のニュースを聞いてみた (リベンジ編) (KMiura)</title>
-        <link>https://speakerdeck.com/miura55/bedrock-knowledge-basewoshi-tutejin-nian-noshang-ban-qi-noniyusuwowen-itemita-ribenzibian-1278bc84-0683-4fb9-8ce6-b26b552bfec1</link>
-        <dc:date>2025-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Flatt Security XSS Challenge 解答・解説 (Flatt Security)</title>
-        <link>https://speakerdeck.com/flatt_security/jie-da-jie-shuo-flatt-security-xss-challenge</link>
-        <dc:date>2025-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>I could be Wrong!! - Learning from Agile Experts (Yasunobu Kawaguchi)</title>
-        <link>https://speakerdeck.com/kawaguti/i-could-be-wrong-learning-from-agile-experts</link>
-        <dc:date>2025-01-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
