@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PostgreSQLの ロジカルレプリケーションを利用してみる (daichi)</title>
+        <link>https://speakerdeck.com/daikin555/postgresqlno-rozikarurepurikesiyonwoli-yong-sitemiru</link>
+        <dc:date>2025-01-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>初心者向け！OSSコントリビュート概要 ～ Keycloakにプルリクエストしてみた話 (kouki.miura)</title>
+        <link>https://speakerdeck.com/koukimiura/chu-xin-zhe-xiang-ke-osskontoribiyutogai-yao-keycloaknipururikuesutositemitahua</link>
+        <dc:date>2025-01-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アジャイル成熟度評価の陰と陽〜組織やチームがアジャイルかを評価する前に考えたいこと〜 / Agile Assessment Tips (aki.m)</title>
+        <link>https://speakerdeck.com/aki_moon/agile-assessment-tips</link>
+        <dc:date>2025-01-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Introduction of Drupal CMS features and trends | Drupal CMSの機能紹介および動向共有 (Takahiro Komatsu)</title>
         <link>https://speakerdeck.com/takahiro_komatsu1982/introduction-of-drupal-cms-features-and-trends-drupal-cmsnoji-neng-shao-jie-oyobidong-xiang-gong-you</link>
         <dc:date>2025-01-15T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>分散システム？モジュラーモノリス？モノレポ？全部やってみた結果は？ (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/fen-san-sisutemu-mosiyuramonorisu-monoreho-quan-bu-yatutemitajie-guo-ha</link>
-        <dc:date>2025-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web APIのAWS Lambda移行で工夫したこと (iwamot)</title>
-        <link>https://speakerdeck.com/iwamot/aws-lambda-migration-case-study</link>
-        <dc:date>2025-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSの生成AIサービス Amazon Bedrock入門！（2025年1月版） (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/awsnosheng-cheng-aisabisu-amazon-bedrockru-men-2025nian-1yue-ban</link>
-        <dc:date>2025-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240827_LLM発表 (TK)</title>
-        <link>https://speakerdeck.com/takeofuture/takeo-shibata</link>
         <dc:date>2025-01-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
