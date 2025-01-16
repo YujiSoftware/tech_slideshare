@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自社 200 記事を元に整理した読みやすいテックブログを書くための Tips 集 (p2sk)</title>
+        <link>https://speakerdeck.com/masakihirose/zi-she-200-ji-shi-woyuan-nizheng-li-sitadu-miyasuitetukuburoguwoshu-kutameno-tips-ji</link>
+        <dc:date>2025-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PostgreSQLの ロジカルレプリケーションを利用してみる (daichi)</title>
         <link>https://speakerdeck.com/daikin555/postgresqlno-rozikarurepurikesiyonwoli-yong-sitemiru</link>
         <dc:date>2025-01-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アイテムレビュー基盤で導入したアーキテクチャとその成果 / Item Review Introduction Architecture Outcome (chiharu terashima)</title>
         <link>https://speakerdeck.com/chichi1091/item-review-introduction-architecture-outcome</link>
-        <dc:date>2025-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>分散システム？モジュラーモノリス？モノレポ？全部やってみた結果は？ (Tech Leverages)</title>
-        <link>https://speakerdeck.com/leveragestech/fen-san-sisutemu-mosiyuramonorisu-monoreho-quan-bu-yatutemitajie-guo-ha</link>
         <dc:date>2025-01-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
