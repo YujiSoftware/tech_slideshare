@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>embedパッケージを深掘りする / Deep Dive into embed Package in Go (task4233)</title>
+        <link>https://speakerdeck.com/task4233/deep-dive-into-embed-package-in-go</link>
+        <dc:date>2025-01-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go標準の暗号ライブラリメンテナンス戦略 (uji)</title>
+        <link>https://speakerdeck.com/uji/gobiao-zhun-noan-hao-raihurari-mentenansuzhan-lue</link>
+        <dc:date>2025-01-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>QuestProで遊ぼう！~カラーパススルー &amp; アイトラッキング~ (41 h0 -シホ- (‪41h0‬))</title>
         <link>https://speakerdeck.com/41h0_shiho/questprodeyou-bou-karapasusuru-and-aitoratukingu</link>
         <dc:date>2025-01-17T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>【DL輪読会】HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection (Deep Learning JP,@DL_Hacks)</title>
         <link>https://www.docswell.com/s/DeepLearning2023/5V1JG2-2025-01-09-144208</link>
         <dc:date>2025-01-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>トレードオフの連続解決を通して対立を協力に変えるプロダクトマネジメントを実現するぞ/continuous management of Trade offs rsgt2025 (moriyuya)</title>
-        <link>https://speakerdeck.com/moriyuya/continuous-management-of-trade-offs-rsgt2025</link>
-        <dc:date>2025-01-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>rails newと同時に型を書く (a_fujisaki)</title>
-        <link>https://speakerdeck.com/aki19035vc/roppongi-dot-rb-number-26</link>
-        <dc:date>2025-01-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
