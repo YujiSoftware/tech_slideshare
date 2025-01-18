@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>東京Ruby会議12 Ruby と Rust と私 / Tokyo RubyKaigi 12 Ruby, Rust and me (Kohei Suzuki)</title>
+        <link>https://speakerdeck.com/eagletmt/tokyo-rubykaigi-12-ruby-rust-and-me</link>
+        <dc:date>2025-01-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代に求められるプログラマの能力 / ability of programmer in AI era (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/ability-of-programmer-in-ai-era</link>
         <dc:date>2025-01-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アジャイル成熟度評価の陰と陽〜組織やチームがアジャイルかを評価する前に考えたいこと〜 / Agile Assessment Tips (aki.m)</title>
         <link>https://speakerdeck.com/aki_moon/agile-assessment-tips</link>
-        <dc:date>2025-01-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction of Drupal CMS features and trends | Drupal CMSの機能紹介および動向共有 (Takahiro Komatsu)</title>
-        <link>https://speakerdeck.com/takahiro_komatsu1982/introduction-of-drupal-cms-features-and-trends-drupal-cmsnoji-neng-shao-jie-oyobidong-xiang-gong-you</link>
         <dc:date>2025-01-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
