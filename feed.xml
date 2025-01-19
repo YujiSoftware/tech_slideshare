@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Git scrapingで始める継続的なデータ追跡 / Git Scraping (Masato Ohba)</title>
+        <link>https://speakerdeck.com/ohbarye/git-scraping</link>
+        <dc:date>2025-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PaaSの歴史と、 アプリケーションプラットフォームのこれから (Kazuto Kusama)</title>
+        <link>https://speakerdeck.com/jacopen/paasnoli-shi-to-apurikesiyonpuratutohuomunokorekara</link>
+        <dc:date>2025-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コロプラのオンボーディングを採用から語りたい (COLOPL Inc.)</title>
+        <link>https://speakerdeck.com/colopl/findy-event-colopl-the-journey-from-recruitment-to-onboarding-ae23e9b6-3ce7-4471-b146-20a17f6eb14b</link>
+        <dc:date>2025-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>混沌とした例外処理とエラー監視に秩序をもたらす (morihirok)</title>
         <link>https://speakerdeck.com/morihirok/hun-dun-tositali-wai-chu-li-toerajian-shi-nizhi-xu-womotarasu</link>
         <dc:date>2025-01-18T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>AI時代に調査、執筆を高速に行う方法まとめ (逆瀬川)</title>
         <link>https://speakerdeck.com/sakasegawa/aishi-dai-nidiao-cha-zhi-bi-wogao-su-nixing-ufang-fa-matome</link>
-        <dc:date>2025-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『改訂新版 良いコード／悪いコードで学ぶ設計入門』活用方法−爆速でスキルアップする！効果的な学習アプローチ / effective-learning-of-good-code (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/effective-learning-of-good-code</link>
-        <dc:date>2025-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IMPACT!! ゴールとアウトカムからはじめる経験的アプローチ #RSGT2025 (長沢 智治,@tnagasawa)</title>
-        <link>https://www.docswell.com/s/nagasawa/ZN17WG-impact_goals_and_outcomes_with_empiricism</link>
-        <dc:date>2025-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自社 200 記事を元に整理した読みやすいテックブログを書くための Tips 集 (p2sk)</title>
-        <link>https://speakerdeck.com/masakihirose/zi-she-200-ji-shi-woyuan-nizheng-li-sitadu-miyasuitetukuburoguwoshu-kutameno-tips-ji</link>
         <dc:date>2025-01-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
