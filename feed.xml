@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>混沌とした例外処理とエラー監視に秩序をもたらす (morihirok)</title>
+        <link>https://speakerdeck.com/morihirok/hun-dun-tositali-wai-chu-li-toerajian-shi-nizhi-xu-womotarasu</link>
+        <dc:date>2025-01-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>いま現場PMのあなたが、 経営と向き合うPMになるために 必要なこと、腹をくくること (Takahiro Yamaguchi)</title>
         <link>https://speakerdeck.com/hiro93n/imaxian-chang-pmnoanataga-jing-ying-toxiang-kihe-upmninarutameni-bi-yao-nakoto-fu-wokukurukoto</link>
         <dc:date>2025-01-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>自社 200 記事を元に整理した読みやすいテックブログを書くための Tips 集 (p2sk)</title>
         <link>https://speakerdeck.com/masakihirose/zi-she-200-ji-shi-woyuan-nizheng-li-sitadu-miyasuitetukuburoguwoshu-kutameno-tips-ji</link>
         <dc:date>2025-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQLの ロジカルレプリケーションを利用してみる (daichi)</title>
-        <link>https://speakerdeck.com/daikin555/postgresqlno-rozikarurepurikesiyonwoli-yong-sitemiru</link>
-        <dc:date>2025-01-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
