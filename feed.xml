@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIレシート読み取り機能をRuby on Rails on AWSで実現するLLMにまつわるアレコレ / AI-based receipt reading function powered by LLM on Ruby on Rails on AWS (moznion)</title>
+        <link>https://speakerdeck.com/moznion/ai-based-receipt-reading-function-powered-by-llm-on-ruby-on-rails</link>
+        <dc:date>2025-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Git scrapingで始める継続的なデータ追跡 / Git Scraping (Masato Ohba)</title>
         <link>https://speakerdeck.com/ohbarye/git-scraping</link>
         <dc:date>2025-01-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>つくばチャレンジ2024全体概要 (つくばチャレンジ実行委員会)</title>
         <link>https://speakerdeck.com/tsukubachallenge/tc2024-orientation</link>
-        <dc:date>2025-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代に調査、執筆を高速に行う方法まとめ (逆瀬川)</title>
-        <link>https://speakerdeck.com/sakasegawa/aishi-dai-nidiao-cha-zhi-bi-wogao-su-nixing-ufang-fa-matome</link>
         <dc:date>2025-01-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
