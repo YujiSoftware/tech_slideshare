@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>第12回 Data-CentricAI勉強会_データ品質向上のために１年間一人で取り組んだアノテーションのリアル (Katsuya Hyodo)</title>
+        <link>https://www.docswell.com/s/PINTO0309/ZN1XQR-2025-01-20-200526</link>
+        <dc:date>2025-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ecspresso, ecschedule, lambroll を PipeCDプラグインとして動かしてみた （プロトタイプ）　/ Running ecspresso, ecschedule, and lambroll as PipeCD Plugins (prototype) (Tetsuya Kikuchi)</title>
         <link>https://speakerdeck.com/tkikuc/running-ecspresso-ecschedule-and-lambroll-as-pipecd-plugins-prototype</link>
         <dc:date>2025-01-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>embedパッケージを深掘りする / Deep Dive into embed Package in Go (task4233)</title>
         <link>https://speakerdeck.com/task4233/deep-dive-into-embed-package-in-go</link>
-        <dc:date>2025-01-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go標準の暗号ライブラリメンテナンス戦略 (uji)</title>
-        <link>https://speakerdeck.com/uji/gobiao-zhun-noan-hao-raihurari-mentenansuzhan-lue</link>
         <dc:date>2025-01-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
