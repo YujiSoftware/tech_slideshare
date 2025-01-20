@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>パーソナライズされたコンテンツ配信のための低遅延分散KVSの構築 VRChat ver / Building-a-low-latency-distributed-KVS-for-personalized-content-delivery-VRChat-ver (bootjp / ぶーと)</title>
+        <link>https://speakerdeck.com/bootjp/building-a-low-latency-distributed-kvs-for-personalized-content-delivery-vrchat-ver</link>
+        <dc:date>2025-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIレシート読み取り機能をRuby on Rails on AWSで実現するLLMにまつわるアレコレ / AI-based receipt reading function powered by LLM on Ruby on Rails on AWS (moznion)</title>
         <link>https://speakerdeck.com/moznion/ai-based-receipt-reading-function-powered-by-llm-on-ruby-on-rails</link>
         <dc:date>2025-01-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>つくばチャレンジ2024EX＠イーアスつくば概要 (つくばチャレンジ実行委員会)</title>
         <link>https://speakerdeck.com/tsukubachallenge/tc2024ex-orientation</link>
-        <dc:date>2025-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>つくばチャレンジ2024全体概要 (つくばチャレンジ実行委員会)</title>
-        <link>https://speakerdeck.com/tsukubachallenge/tc2024-orientation</link>
         <dc:date>2025-01-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
