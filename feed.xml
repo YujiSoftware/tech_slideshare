@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ぶっちゃけどうなの、コンパウンド 〜連続複数事業立ち上げから見る、PdMが成長する環境の考察〜 (numashi)</title>
+        <link>https://speakerdeck.com/numashi/bututiyakedounano-konpaundo-lian-sok-fu-shu-shi-ye-li-tishang-gekarajian-ru-pdmgacheng-chang-suruhuan-jing-nokao-cha</link>
+        <dc:date>2025-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>第12回 Data-CentricAI勉強会_データ品質向上のために１年間一人で取り組んだアノテーションのリアル (Katsuya Hyodo)</title>
         <link>https://www.docswell.com/s/PINTO0309/ZN1XQR-2025-01-20-200526</link>
         <dc:date>2025-01-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「隙間家具OSS」に至る道/Fujiwara Tech Conference 2025 (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/fujiwara-tech-conference-2025</link>
-        <dc:date>2025-01-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>embedパッケージを深掘りする / Deep Dive into embed Package in Go (task4233)</title>
-        <link>https://speakerdeck.com/task4233/deep-dive-into-embed-package-in-go</link>
         <dc:date>2025-01-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
