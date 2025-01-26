@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>信頼性を支えるテレメトリーパイプラインの構築 / Building Telemetry Pipeline with OpenTelemetry (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/building-telemetry-pipeline-with-opentelemetry</link>
+        <dc:date>2025-01-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インフラコストとセキュリティ課題解決のためのリアーキテクチャリング / srekaigi2025 (Kazuki Higashiguchi)</title>
         <link>https://speakerdeck.com/hgsgtk/srekaigi2025</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>書きながら考えないRSpec (Tetsu Nishimura)</title>
         <link>https://speakerdeck.com/kitsunecat/shu-kinagarakao-enairspec</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React→Hotwireへ 技術スタック変更した話 (Nao)</title>
-        <link>https://speakerdeck.com/nao_072/react-hotwirehe-ji-shu-sutatukubian-geng-sitahua</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
