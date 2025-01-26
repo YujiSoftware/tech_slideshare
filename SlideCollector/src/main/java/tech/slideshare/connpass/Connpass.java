@@ -38,6 +38,7 @@ public record Connpass(
      * @param description      概要(HTML形式)
      * @param url              connpass.com上のURL
      * @param hashTag          Twitterのハッシュタグ
+     * @param imageUrl         イベント画像URL
      * @param startedAt        イベント開催日時 (ISO-8601形式)
      * @param endedAt          イベント終了日時 (ISO-8601形式)
      * @param limit            定員
@@ -62,6 +63,7 @@ public record Connpass(
             @JsonProperty("catch") String catchText,
             @JsonProperty("description") String description,
             @JsonProperty("url") String url,
+            @JsonProperty("image_url") String imageUrl,
             @JsonProperty("hash_tag") String hashTag,
             @JsonProperty("started_at") ZonedDateTime startedAt,
             @JsonProperty("ended_at") ZonedDateTime endedAt,
