@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREKaigi.pdf (_awache)</title>
+        <link>https://speakerdeck.com/_awache/srekaigi</link>
+        <dc:date>2025-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>一人から始めたSREチーム3年の歩み - 求められるスキルの変化とチームのあり方 - / The three-year journey of the SRE team, which started all by myself (VTRyo)</title>
+        <link>https://speakerdeck.com/vtryo/the-three-year-journey-of-the-sre-team-which-started-all-by-myself</link>
+        <dc:date>2025-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>信頼性を支えるテレメトリーパイプラインの構築 / Building Telemetry Pipeline with OpenTelemetry (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/building-telemetry-pipeline-with-opentelemetry</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Weaveを用いた生成AIアプリケーションの評価_モニタリンングと実践例.pdf (Keisuke Kamata)</title>
         <link>https://speakerdeck.com/olachinkei/weavewoyong-itasheng-cheng-aiahurikesiyonnoping-jia-monitarinnkutoshi-jian-li</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人開発サービスを使ってもらうための技術選定 (Kawakami Natsumi)</title>
-        <link>https://speakerdeck.com/natsumican63/personal-project-tech-selection</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>書きながら考えないRSpec (Tetsu Nishimura)</title>
-        <link>https://speakerdeck.com/kitsunecat/shu-kinagarakao-enairspec</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
