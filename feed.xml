@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクト開発、インフラ、コーポレート、そしてAIとの共通言語としての Terraform / Terraform as a Common Language for Product Development, Infrastructure, Corporate Engineering, and AI (Yuya Takeyama)</title>
+        <link>https://speakerdeck.com/yuyatakeyama/terraform-as-a-common-language-for-product-development-infrastructure-corporate-engineering-and-ai-f38017cc-8236-463c-9357-33c8a9086018</link>
+        <dc:date>2025-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>HCP TerraformとAzure：イオンスマートテクノロジーのインフラ革新 / HCP Terraform and Azure AEON Smart Technology's Infrastructure Innovation (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/hcp-terraform-and-azure-aeon-smart-technologys-infrastructure-innovation</link>
+        <dc:date>2025-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Platform EngineeringがあればSREはいらない!? 新時代のSREに求められる役割とは (Mitsuhiro Shibuya)</title>
         <link>https://speakerdeck.com/mshibuya/platform-engineeringgaarebasrehairanai-xin-shi-dai-nosreniqiu-merareruyi-ge-toha</link>
         <dc:date>2025-01-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>みんなでプロポーザルを書いてみた (yuriko)</title>
         <link>https://speakerdeck.com/yuriko1211/minnadepuropozaruwoshu-itemita</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デスク環境のアイディア探しサービス「setups.」の技術選定 (たかD)</title>
-        <link>https://speakerdeck.com/tkd_dev/desukuhuan-jing-noaideiatan-sisabisu-setups-dot-noji-shu-xuan-ding</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>月間60万ユーザーを抱える 個人開発サービス「Walica」の 技術スタック変遷 (MIYACHIN)</title>
-        <link>https://speakerdeck.com/miyachin/yue-jian-60mo-yuzawobao-eru-ge-ren-kai-fa-sabisu-walica-no-ji-shu-sutatukubian-qian</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
