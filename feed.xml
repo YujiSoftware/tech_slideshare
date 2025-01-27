@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Compose でデザインと実装の差異を減らすための取り組み (oidy)</title>
+        <link>https://speakerdeck.com/oidy/compose-dedezaintoshi-zhuang-nochai-yi-wojian-rasutamenoqu-rizu-mi</link>
+        <dc:date>2025-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「Rustで作って学ぶ分散合意アルゴリズムRaft」を書きたいという意思表明 (Yusuke Tanaka,@yusuktan)</title>
         <link>https://www.docswell.com/s/magurotuna/KV19NP-2025-01-22-osaki-rs-3</link>
         <dc:date>2025-01-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>let's write rubima event report (Keiko Kaneko)</title>
         <link>https://speakerdeck.com/neko314/lets-write-rubima-event-report</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現実のRuby/Railsアップグレード外伝 ～そして僕はforkした～ (Yuichi Takeuchi)</title>
-        <link>https://speakerdeck.com/takeyuweb/railsatupuguredowai-chuan-sositepu-haforksita</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
