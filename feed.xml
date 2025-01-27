@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>あなたはJVMの気持ちを理解できるか？ (Yuichi.Sakuraba)</title>
+        <link>https://speakerdeck.com/skrb/anatahajvmnoqi-chi-tiwoli-jie-dekiruka</link>
+        <dc:date>2025-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>あなたの興味は信頼性？それとも生産性？ SREとしてのキャリアに悩むみなさまに伝えたい選択肢  (Kazuto Kusama)</title>
+        <link>https://speakerdeck.com/jacopen/anatanoxing-wei-haxin-lai-xing-soretomosheng-chan-xing-sretositenokiyarianinao-muminasamanichuan-etaixuan-ze-zhi</link>
+        <dc:date>2025-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Compose でデザインと実装の差異を減らすための取り組み (oidy)</title>
         <link>https://speakerdeck.com/oidy/compose-dedezaintoshi-zhuang-nochai-yi-wojian-rasutamenoqu-rizu-mi</link>
         <dc:date>2025-01-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Windows Server 2025 へのアップグレードではまった話 (tamaiyutaro)</title>
         <link>https://speakerdeck.com/tamaiyutaro/windows-server-2025-henoatupuguredodehamatutahua</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kaigi on Rails 2024 〜運営の裏側〜 (Terai Shogo)</title>
-        <link>https://speakerdeck.com/krpk1900/behind-of-kaigi-on-rails-2024</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>let's write rubima event report (Keiko Kaneko)</title>
-        <link>https://speakerdeck.com/neko314/lets-write-rubima-event-report</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
