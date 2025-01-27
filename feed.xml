@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「Rustで作って学ぶ分散合意アルゴリズムRaft」を書きたいという意思表明 (Yusuke Tanaka,@yusuktan)</title>
+        <link>https://www.docswell.com/s/magurotuna/KV19NP-2025-01-22-osaki-rs-3</link>
+        <dc:date>2025-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクト開発、インフラ、コーポレート、そしてAIとの共通言語としての Terraform / Terraform as a Common Language for Product Development, Infrastructure, Corporate Engineering, and AI (Yuya Takeyama)</title>
         <link>https://speakerdeck.com/yuyatakeyama/terraform-as-a-common-language-for-product-development-infrastructure-corporate-engineering-and-ai-f38017cc-8236-463c-9357-33c8a9086018</link>
         <dc:date>2025-01-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>現実のRuby/Railsアップグレード外伝 ～そして僕はforkした～ (Yuichi Takeuchi)</title>
         <link>https://speakerdeck.com/takeyuweb/railsatupuguredowai-chuan-sositepu-haforksita</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>みんなでプロポーザルを書いてみた (yuriko)</title>
-        <link>https://speakerdeck.com/yuriko1211/minnadepuropozaruwoshu-itemita</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
