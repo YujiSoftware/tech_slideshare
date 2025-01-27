@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Platform EngineeringがあればSREはいらない!? 新時代のSREに求められる役割とは (Mitsuhiro Shibuya)</title>
+        <link>https://speakerdeck.com/mshibuya/platform-engineeringgaarebasrehairanai-xin-shi-dai-nosreniqiu-merareruyi-ge-toha</link>
+        <dc:date>2025-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSにおける横断的なログ分析と コストの管理 (Naomichi Yamakita)</title>
         <link>https://speakerdeck.com/naomichi/awsniokeruheng-duan-de-narogufen-xi-to-kosutonoguan-li</link>
         <dc:date>2025-01-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>月間60万ユーザーを抱える 個人開発サービス「Walica」の 技術スタック変遷 (MIYACHIN)</title>
         <link>https://speakerdeck.com/miyachin/yue-jian-60mo-yuzawobao-eru-ge-ren-kai-fa-sabisu-walica-no-ji-shu-sutatukubian-qian</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>イベント駆動で成長して委員会 (Mana Kinoshita)</title>
-        <link>https://speakerdeck.com/happymana/ibentoqu-dong-decheng-chang-sitewei-yuan-hui</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
