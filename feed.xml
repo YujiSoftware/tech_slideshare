@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSにおける横断的なログ分析と コストの管理 (Naomichi Yamakita)</title>
+        <link>https://speakerdeck.com/naomichi/awsniokeruheng-duan-de-narogufen-xi-to-kosutonoguan-li</link>
+        <dc:date>2025-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>監視SaaSの運用におけるObservability改善の歩み (taxin)</title>
+        <link>https://speakerdeck.com/taxin/jian-shi-saasnoyun-yong-niokeruobservabilitygai-shan-nobu-mi</link>
+        <dc:date>2025-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>横断SREの立ち上げと、AWSセキュリティへの取り組みの軌跡 (adachin0817)</title>
         <link>https://speakerdeck.com/rvirus0817/heng-duan-srenoli-tishang-geto-awssekiyuriteihenoqu-rizu-minogui-ji</link>
         <dc:date>2025-01-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>イベント駆動で成長して委員会 (Mana Kinoshita)</title>
         <link>https://speakerdeck.com/happymana/ibentoqu-dong-decheng-chang-sitewei-yuan-hui</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>受け取る人から提供する人になるということ (Yla Aioi)</title>
-        <link>https://speakerdeck.com/little_rubyist/shou-kequ-ruren-karati-gong-sururen-ninarutoiukoto</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI開発を加速するNVIDIA NIMとNVIDIA NeMo (Keisuke Kamata)</title>
-        <link>https://speakerdeck.com/olachinkei/sheng-cheng-aikai-fa-wojia-su-surunvidia-nimtonvidia-nemo</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
