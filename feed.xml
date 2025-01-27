@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>横断SREの立ち上げと、AWSセキュリティへの取り組みの軌跡 (adachin0817)</title>
+        <link>https://speakerdeck.com/rvirus0817/heng-duan-srenoli-tishang-geto-awssekiyuriteihenoqu-rizu-minogui-ji</link>
+        <dc:date>2025-01-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREKaigi.pdf (_awache)</title>
         <link>https://speakerdeck.com/_awache/srekaigi</link>
         <dc:date>2025-01-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成AI開発を加速するNVIDIA NIMとNVIDIA NeMo (Keisuke Kamata)</title>
         <link>https://speakerdeck.com/olachinkei/sheng-cheng-aikai-fa-wojia-su-surunvidia-nimtonvidia-nemo</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Weaveを用いた生成AIアプリケーションの評価_モニタリンングと実践例.pdf (Keisuke Kamata)</title>
-        <link>https://speakerdeck.com/olachinkei/weavewoyong-itasheng-cheng-aiahurikesiyonnoping-jia-monitarinnkutoshi-jian-li</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
