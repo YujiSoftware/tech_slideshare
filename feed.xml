@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>社内フレームワークとその依存性解決 / in-house framework and its dependency management (Masahiro Wakame)</title>
+        <link>https://speakerdeck.com/vvakame/in-house-framework-and-its-dependency-management</link>
+        <dc:date>2025-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>無理せずに みんなで作ろう 発信文化 (Kyosuke Awata)</title>
         <link>https://speakerdeck.com/wooootack/wu-li-sezuni-minnadezuo-rou-fa-xin-wen-hua</link>
         <dc:date>2025-01-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>kamalでRailsアプリを Amazon Lightsailにデプロイするぞ！ (jacoyutorius)</title>
         <link>https://speakerdeck.com/jacoyutorius/kamalderailsapuriwo-amazon-lightsailnidepuroisuruzo</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSにおける生成AIでの動画生成について (Kazuki Miura)</title>
-        <link>https://speakerdeck.com/miu_crescent/awsniokerusheng-cheng-aidenodong-hua-sheng-cheng-nituite</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
