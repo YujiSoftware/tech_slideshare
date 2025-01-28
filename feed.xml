@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>レイクハウスとはなんだったのか？ (Akihiro Kuwano)</title>
+        <link>https://speakerdeck.com/akuwano/reikuhausutohanantatutanoka</link>
+        <dc:date>2025-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>社内フレームワークとその依存性解決 / in-house framework and its dependency management (Masahiro Wakame)</title>
         <link>https://speakerdeck.com/vvakame/in-house-framework-and-its-dependency-management</link>
         <dc:date>2025-01-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コード化されていない稼働中のサーバを移設_再構築する技術 (ryuichi1208)</title>
         <link>https://speakerdeck.com/ryuichi1208/kodohua-sareteinaijia-dong-zhong-nosabawoyi-she-zai-gou-zhu-suruji-shu</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>kamalでRailsアプリを Amazon Lightsailにデプロイするぞ！ (jacoyutorius)</title>
-        <link>https://speakerdeck.com/jacoyutorius/kamalderailsapuriwo-amazon-lightsailnidepuroisuruzo</link>
         <dc:date>2025-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
