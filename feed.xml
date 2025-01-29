@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>施策の効果はKPI設計で決まる！ ゴールから逆算する行動デザイン (satomino)</title>
+        <link>https://speakerdeck.com/satomino/shi-ce-noxiao-guo-hakpishe-ji-dejue-maru-gorukarani-suan-suruxing-dong-dezain</link>
+        <dc:date>2025-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>攻撃者の視点で社内リソースはどう見えるのかを ASMで実現する (hikae)</title>
         <link>https://speakerdeck.com/hikaruegashira/gong-ji-zhe-noshi-dian-deshe-nei-risosuhadoujian-erunokawo-asmdeshi-xian-suru</link>
         <dc:date>2025-01-28T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>一人から始めたSREチーム3年の歩み - 求められるスキルの変化とチームのあり方 - / The three-year journey of the SRE team, which started all by myself (VTRyo)</title>
         <link>https://speakerdeck.com/vtryo/the-three-year-journey-of-the-sre-team-which-started-all-by-myself</link>
         <dc:date>2025-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>信頼性を支えるテレメトリーパイプラインの構築 / Building Telemetry Pipeline with OpenTelemetry (ymotongpoo)</title>
-        <link>https://speakerdeck.com/ymotongpoo/building-telemetry-pipeline-with-opentelemetry</link>
-        <dc:date>2025-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
