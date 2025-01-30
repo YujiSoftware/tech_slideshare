@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>製造業とソフトウェアは本当に共存できていたのか？品質とスピードを問い直す (Hiroyuki TAKAHASHI)</title>
+        <link>https://speakerdeck.com/takabow/zhi-zao-ye-tosohutoueahaben-dang-nigong-cun-dekiteitanoka-pin-zhi-tosupidowowen-izhi-su-dc76f0ad-2d4c-4f2a-bf4d-cecbceb7eb5e</link>
+        <dc:date>2025-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SRE じゃなくてもできる！ インシデント対応で鍛えた CRE チームの5年史 / Five-year history of CRE's hard work in incident response (Mayuka Sugimoto)</title>
         <link>https://speakerdeck.com/mayuzo/five-year-history-of-cres-hard-work-in-incident-response</link>
         <dc:date>2025-01-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>レイクハウスとはなんだったのか？ (Akihiro Kuwano)</title>
         <link>https://speakerdeck.com/akuwano/reikuhausutohanantatutanoka</link>
-        <dc:date>2025-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社内フレームワークとその依存性解決 / in-house framework and its dependency management (Masahiro Wakame)</title>
-        <link>https://speakerdeck.com/vvakame/in-house-framework-and-its-dependency-management</link>
         <dc:date>2025-01-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
