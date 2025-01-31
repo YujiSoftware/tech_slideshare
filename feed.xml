@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloudflare Workflowsを使いたい倒したい (sugar-cat)</title>
+        <link>https://speakerdeck.com/sugarcat7/cloudflare-workflows</link>
+        <dc:date>2025-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>トレードオフスライダーにおける品質について考えてみた (Suzuki)</title>
         <link>https://speakerdeck.com/suzuki_tada/toredoohusuraidaniokerupin-zhi-nituitekao-etemita</link>
         <dc:date>2025-01-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>いりゃあせ、PHPカンファレンス名古屋2025 / Welcome to PHP Conference Nagoya 2025 (Takashi Kanemoto)</title>
         <link>https://speakerdeck.com/ttskch/welcome-to-php-conference-nagoya-2025</link>
-        <dc:date>2025-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>chibiccをCILに移植した結果 (NGK2025S版) (Kouji Matsui)</title>
-        <link>https://speakerdeck.com/kekyo/chibiccwocilniyi-zhi-sitajie-guo-ngk2025sban</link>
         <dc:date>2025-01-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
