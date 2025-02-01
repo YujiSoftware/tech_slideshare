@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>パブリッククラウドのプロダクトマネジメントとアーキテクト (Satoshi Tagomori)</title>
+        <link>https://speakerdeck.com/tagomoris/paburitukukuraudonopurodakutomanezimentotoakitekuto</link>
+        <dc:date>2025-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>複雑なStep FunctionsをAWS CDKでコード管理するときに気にしたところ (Yoshiyuki Nakano)</title>
+        <link>https://speakerdeck.com/drumnistnakano/fu-za-nastep-functionswoaws-cdkdekodoguan-li-surutokiniqi-nisitatokoro</link>
+        <dc:date>2025-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Zenn のウラガワ ~エンジニアのアウトプットを支える環境で Google Cloud が採用されているワケ~ #burikaigi #burikaigi_h (Takaaki Tanaka)</title>
+        <link>https://speakerdeck.com/kongmingstrap/zenn-nouragawa-enzinianoautopututowozhi-eruhuan-jing-de-google-cloud-gacai-yong-sareteiruwake-number-burikaigi-number-burikaigi-h-3374cbda-d8c3-40cc-8376-2305d4a57eb2</link>
+        <dc:date>2025-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>もし今からGraphQLを採用するなら (KazukiHayase)</title>
         <link>https://speakerdeck.com/kazukihayase/mosijin-karagraphqlwocai-yong-surunara</link>
         <dc:date>2025-01-31T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>JAWS-UG 名古屋の楽しみ方 (@mujyun_furu)</title>
         <link>https://speakerdeck.com/mujyun/jaws-ug-ming-gu-wu-nole-simifang</link>
-        <dc:date>2025-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>鯱.pyはいいぞ！ (果糖kato)</title>
-        <link>https://speakerdeck.com/katop/shachi-dot-pyhaiizo</link>
-        <dc:date>2025-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メールヘッダーを見てみよう (Nonogaki Hiroshi)</title>
-        <link>https://speakerdeck.com/hinono/meruhetudawojian-temiyou</link>
-        <dc:date>2025-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kindle漫画の買い過ぎを防ぐた め個人用クレジットカードを 解約しました (yuji38kwmt)</title>
-        <link>https://speakerdeck.com/yuji38kwmt/kindleman-hua-nomai-iguo-giwofang-guta-mege-ren-yong-kurezitutokadowo-jie-yue-simasita</link>
         <dc:date>2025-01-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
