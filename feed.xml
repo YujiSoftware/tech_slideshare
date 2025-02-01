@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>もし今からGraphQLを採用するなら (KazukiHayase)</title>
+        <link>https://speakerdeck.com/kazukihayase/mosijin-karagraphqlwocai-yong-surunara</link>
+        <dc:date>2025-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>例外処理を理解して、設計段階からエラーを「見つけやすく」「起こりにくく」する (Takuma Kajikawa)</title>
         <link>https://speakerdeck.com/kajitack/li-wai-chu-li-woli-jie-site-she-ji-duan-jie-karaerawo-jian-tukeyasuku-qi-korinikuku-suru</link>
         <dc:date>2025-01-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kindle漫画の買い過ぎを防ぐた め個人用クレジットカードを 解約しました (yuji38kwmt)</title>
         <link>https://speakerdeck.com/yuji38kwmt/kindleman-hua-nomai-iguo-giwofang-guta-mege-ren-yong-kurezitutokadowo-jie-yue-simasita</link>
-        <dc:date>2025-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>色々なAWSサービス名の由来を調べてみた (入井 啓太)</title>
-        <link>https://speakerdeck.com/iriikeita/se-naawssabisuming-noyou-lai-wodiao-betemita</link>
         <dc:date>2025-01-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
