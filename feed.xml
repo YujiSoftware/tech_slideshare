@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2024年のWebフロントエンドのふりかえりと2025年 (sakito,@__sakito__)</title>
+        <link>https://www.docswell.com/s/sakito/Z82RGP-burikaigi2025</link>
+        <dc:date>2025-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Java Webフレームワークの現状 / java web framework at burikaigi (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/java-web-framework-at-burikaigi</link>
+        <dc:date>2025-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloudflare Workflowsを使いたい倒したい (sugar-cat)</title>
         <link>https://speakerdeck.com/sugarcat7/cloudflare-workflows</link>
         <dc:date>2025-01-31T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>JuliaTokaiとJuliaLangJaの紹介 for NGK2025S (GOTOH Shunsuke)</title>
         <link>https://speakerdeck.com/antimon2/juliatokaitojulialangjanoshao-jie-for-ngk2025s</link>
-        <dc:date>2025-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あなたの知らないクラフトビールの世界 (KMiura)</title>
-        <link>https://speakerdeck.com/miura55/anatanozhi-ranaikurahutobirunoshi-jie</link>
-        <dc:date>2025-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いりゃあせ、PHPカンファレンス名古屋2025 / Welcome to PHP Conference Nagoya 2025 (Takashi Kanemoto)</title>
-        <link>https://speakerdeck.com/ttskch/welcome-to-php-conference-nagoya-2025</link>
         <dc:date>2025-01-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
