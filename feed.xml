@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜIaCの引き継ぎは 上手くいかないのか？ (msato)</title>
+        <link>https://speakerdeck.com/msato/nazeiacfalseyin-kiji-giha-shang-shou-kuikanaifalseka</link>
+        <dc:date>2025-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>富山デザイン勉強会_生成AIを使ったデザイン制作.pdf (keita)</title>
         <link>https://speakerdeck.com/keita_yoshikawa/fu-shan-tesainmian-qiang-hui-sheng-cheng-aiwoshi-tutatesainzhi-zuo</link>
         <dc:date>2025-02-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Java Webフレームワークの現状 / java web framework at burikaigi (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/java-web-framework-at-burikaigi</link>
-        <dc:date>2025-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Workflowsを使いたい倒したい (sugar-cat)</title>
-        <link>https://speakerdeck.com/sugarcat7/cloudflare-workflows</link>
         <dc:date>2025-01-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
