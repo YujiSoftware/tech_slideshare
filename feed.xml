@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2025.01.17_Sansan × DMM.swift (RioFujimon)</title>
+        <link>https://speakerdeck.com/riofujimon/2025-dot-01-dot-17-dot-sansan-dot-dmm</link>
+        <dc:date>2025-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>iPadOS18でフローティングタブバーを解除してみた (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/20250117</link>
+        <dc:date>2025-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DMMブックスへのTipKit導入 (hisashi)</title>
+        <link>https://speakerdeck.com/ttyi2/tipkit-introduction</link>
+        <dc:date>2025-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DMMオンラインサロンアプリのSwift化 (hayatan)</title>
+        <link>https://speakerdeck.com/hayatan/dmmonrainsaronahurinoswifthua</link>
+        <dc:date>2025-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なぜIaCの引き継ぎは 上手くいかないのか？ (msato)</title>
         <link>https://speakerdeck.com/msato/nazeiacfalseyin-kiji-giha-shang-shou-kuikanaifalseka</link>
         <dc:date>2025-02-03T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>もし今からGraphQLを採用するなら (KazukiHayase)</title>
         <link>https://speakerdeck.com/kazukihayase/mosijin-karagraphqlwocai-yong-surunara</link>
-        <dc:date>2025-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>例外処理を理解して、設計段階からエラーを「見つけやすく」「起こりにくく」する (Takuma Kajikawa)</title>
-        <link>https://speakerdeck.com/kajitack/li-wai-chu-li-woli-jie-site-she-ji-duan-jie-karaerawo-jian-tukeyasuku-qi-korinikuku-suru</link>
-        <dc:date>2025-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>地方企業がクラウドを活用するヒント (Kazuki Miura)</title>
-        <link>https://speakerdeck.com/miu_crescent/di-fang-qi-ye-gakuraudowohuo-yong-suruhinto</link>
-        <dc:date>2025-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024年のWebフロントエンドのふりかえりと2025年 (sakito,@__sakito__)</title>
-        <link>https://www.docswell.com/s/sakito/Z82RGP-burikaigi2025</link>
-        <dc:date>2025-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java Webフレームワークの現状 / java web framework at burikaigi (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/java-web-framework-at-burikaigi</link>
         <dc:date>2025-01-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
