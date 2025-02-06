@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ask! NIKKEI RAG検索技術の深層 (Yuichi Tateno)</title>
+        <link>https://speakerdeck.com/hotchpotch/ask-nikkei-ragjian-suo-ji-shu-noshen-ceng</link>
+        <dc:date>2025-02-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Pulsar2 を雰囲気で使ってみよう (anoken)</title>
         <link>https://speakerdeck.com/anoken/pulsar2-wofen-wei-qi-deshi-tutemiyou</link>
         <dc:date>2025-02-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>法律の脱レガシーに学ぶフロントエンド刷新 (おぐえもん)</title>
         <link>https://speakerdeck.com/oguemon/modernizing-law-and-frontend-app</link>
-        <dc:date>2025-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Server Side Swift 実践レポート: 2024年に案件で採用して見えた課題と可能性 (Yu Sugawara)</title>
-        <link>https://speakerdeck.com/yusuga/server-side-swift-shi-jian-repoto-2024nian-nian-jian-decai-yong-sitejian-etake-ti-toke-neng-xing</link>
         <dc:date>2025-02-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
