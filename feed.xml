@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>これからSREになる人と、これからもSREをやっていく人へ (masayoshi)</title>
+        <link>https://speakerdeck.com/masayoshi/korekarasreninaruren-to-korekaramosrewoyatuteikuren-he</link>
+        <dc:date>2025-02-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データ基盤の成長を加速させる： アイスタイルにおける挑戦と教訓 (tsudash0)</title>
         <link>https://speakerdeck.com/tsuda7/detaji-pan-nocheng-chang-wojia-su-saseru-aisutairuniokerutiao-zhan-tojiao-xun</link>
         <dc:date>2025-02-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スプリントゴールで価値を駆動しよう (Taku Fujii)</title>
         <link>https://speakerdeck.com/takufujii/supurintogorudejia-zhi-woqu-dong-siyou</link>
-        <dc:date>2025-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JavaScriptツール群「UnJS」を5分で一気に駆け巡る！ (daiki)</title>
-        <link>https://speakerdeck.com/k1tikurisu/javascriptturuqun-unjs-wo5fen-de-qi-niqu-kexun-ru</link>
         <dc:date>2025-02-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
