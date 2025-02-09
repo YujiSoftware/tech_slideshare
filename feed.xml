@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>依存関係があるコンポーネントは Barrel ファイルでまとめよう (azukiazusa)</title>
+        <link>https://speakerdeck.com/azukiazusa1/yi-cun-guan-xi-gaarukonponentoha-barrel-huairudematomeyou</link>
+        <dc:date>2025-02-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PythonでPLATEAUのデータを扱ってみる (ぴっかりん)</title>
         <link>https://speakerdeck.com/ra0kley/pythondeplateaunodetawoxi-tutemiru</link>
         <dc:date>2025-02-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>富山デザイン勉強会_デザインで使うChatGPTとFirefly.pdf (keita)</title>
         <link>https://speakerdeck.com/keita_yoshikawa/fu-shan-tesainmian-qiang-hui-tesainteshi-uchatgpttofirefly-51901608-b776-4b5e-9e70-e2c122c46ac1</link>
-        <dc:date>2025-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AＩにPyxel×Pymunkでゲームを作ってもらった話</title>
-        <link>https://docs.google.com/presentation/d/1WGy3HZVqqV5NRBvvrHTKknRurGZMZ5dr13NrTbps2ro/preview</link>
         <dc:date>2025-02-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
