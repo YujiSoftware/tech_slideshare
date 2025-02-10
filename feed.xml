@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最強DB講義 #35 大規模言語モデルに基づく検索モデル (Makoto P. Kato)</title>
+        <link>https://speakerdeck.com/mpkato/zui-qiang-dbjiang-yi-number-35-da-gui-mo-yan-yu-moderuniji-dukujian-suo-moderu</link>
+        <dc:date>2025-02-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>依存関係があるコンポーネントは Barrel ファイルでまとめよう (azukiazusa)</title>
         <link>https://speakerdeck.com/azukiazusa1/yi-cun-guan-xi-gaarukonponentoha-barrel-huairudematomeyou</link>
         <dc:date>2025-02-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>富山デザイン勉強会_生成AIを使ったデザイン制作.pdf (keita)</title>
         <link>https://speakerdeck.com/keita_yoshikawa/fu-shan-tesainmian-qiang-hui-sheng-cheng-aiwoshi-tutatesainzhi-zuo</link>
-        <dc:date>2025-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>富山デザイン勉強会_デザインで使うChatGPTとFirefly.pdf (keita)</title>
-        <link>https://speakerdeck.com/keita_yoshikawa/fu-shan-tesainmian-qiang-hui-tesainteshi-uchatgpttofirefly-51901608-b776-4b5e-9e70-e2c122c46ac1</link>
         <dc:date>2025-02-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
