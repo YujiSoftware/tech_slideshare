@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon S3 TablesとAmazon S3 Metadataを触ってみた / 20250201-jawsug-tochigi-s3tables-s3metadata (kasacchiful)</title>
+        <link>https://speakerdeck.com/kasacchiful/20250201-jawsug-tochigi-s3tables-s3metadata</link>
+        <dc:date>2025-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[JAWS-UG栃木]地方だからできたクラウドネイティブ事例大公開！ / jawsug_tochigi_tachibana (Takuya Tachibana)</title>
+        <link>https://speakerdeck.com/biatunky/jaws-tochigi-tachibana</link>
+        <dc:date>2025-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JAWS-UGのご紹介 JAWS-UGとは？ (awsj communty program manager - Shigeru Numaguchi)</title>
+        <link>https://speakerdeck.com/awsjcpm/jaws-ugnogoshao-jie-jaws-ugtoha</link>
+        <dc:date>2025-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSエンジニアに捧ぐLangChainの歩き方 (つくぼし)</title>
+        <link>https://speakerdeck.com/tsukuboshi/awsenzinianipeng-gulangchainnobu-kifang</link>
+        <dc:date>2025-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JAWS-UGを通じてアウトプット活動を楽しんでみませんか？ #jawsug_tochigi (モブエンジニア)</title>
+        <link>https://speakerdeck.com/masakiokuda/jaws-ugwotong-ziteautopututohuo-dong-wole-sindemimasenka-number-jawsug-tochigi</link>
+        <dc:date>2025-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon ECS とマイクロサービスから考えるシステム構成 (hiyanger)</title>
+        <link>https://speakerdeck.com/hiyanger/ecs-microservice-20250201</link>
+        <dc:date>2025-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Location Serviceを使ってラーメンマップを作る (みどり)</title>
+        <link>https://speakerdeck.com/ryder472/amazon-location-servicewoshi-tuteramenmatupuwozuo-ru</link>
+        <dc:date>2025-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サーバーレスで楽しよう！お気軽に始められる3つのポイント / Have fun with Serverless! (kensh)</title>
+        <link>https://speakerdeck.com/_kensh/have-fun-with-serverless</link>
+        <dc:date>2025-02-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>初めての管理職での大失敗談 (Ikko Eltociear Ashimine)</title>
         <link>https://speakerdeck.com/eltociear/chu-metenoguan-li-zhi-denoda-shi-bai-tan</link>
         <dc:date>2025-02-09T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>Ask! NIKKEI RAG検索技術の深層 (Yuichi Tateno)</title>
         <link>https://speakerdeck.com/hotchpotch/ask-nikkei-ragjian-suo-ji-shu-noshen-ceng</link>
         <dc:date>2025-02-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pulsar2 を雰囲気で使ってみよう (anoken)</title>
-        <link>https://speakerdeck.com/anoken/pulsar2-wofen-wei-qi-deshi-tutemiyou</link>
-        <dc:date>2025-02-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Active Directory の保護 (Eureka)</title>
-        <link>https://speakerdeck.com/eurekaberry/active-directory-nobao-hu</link>
-        <dc:date>2025-02-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア エンジニアとしての 姿勢と心構え (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/engineer-2024</link>
-        <dc:date>2025-02-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dockerfileの考え方 (Masaki Hara)</title>
-        <link>https://speakerdeck.com/qnighy/dockerfilenokao-efang</link>
-        <dc:date>2025-02-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Women in Agile Tokyo 2025_「多様性に寛容なつもり」が個人とチームの成長を阻んでいた？〜小さな違和感やモヤモヤに興味をもってみたら個人もチームも成長したよ〜 (nekoyanagi)</title>
-        <link>https://speakerdeck.com/nekoyanagi/women-in-agile-tokyo-2025-duo-yang-xing-nikuan-rong-natumori-kage-ren-totimunocheng-chang-wozu-nteita-xiao-sanawei-he-gan-yamoyamoyanixing-wei-womotutemitarage-ren-motimumocheng-chang-sitayo</link>
-        <dc:date>2025-02-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントについてまとめてみた (PharmaX（旧YOJO Technologies）開発チーム)</title>
-        <link>https://speakerdeck.com/pharma_x_tech/aiezientonituitematometemita</link>
-        <dc:date>2025-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025.01.17_Sansan × DMM.swift (RioFujimon)</title>
-        <link>https://speakerdeck.com/riofujimon/2025-dot-01-dot-17-dot-sansan-dot-dmm</link>
-        <dc:date>2025-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iPadOS18でフローティングタブバーを解除してみた (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/20250117</link>
-        <dc:date>2025-02-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
