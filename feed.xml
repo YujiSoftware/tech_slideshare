@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サーバーレスアーキテクチャと生成AIの融合 / Serverless Meets Generative AI (kensh)</title>
+        <link>https://speakerdeck.com/_kensh/serverless-meets-generative-ai</link>
+        <dc:date>2025-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Reckoner における Datadog Browser Test の活用事例 / Datadog Browser Test at Reckoner (KADOWAKI Takumi)</title>
         <link>https://speakerdeck.com/nomadblacky/datadog-browser-test-at-reckoner</link>
         <dc:date>2025-02-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>最強DB講義 #35 大規模言語モデルに基づく検索モデル (Makoto P. Kato)</title>
         <link>https://speakerdeck.com/mpkato/zui-qiang-dbjiang-yi-number-35-da-gui-mo-yan-yu-moderuniji-dukujian-suo-moderu</link>
         <dc:date>2025-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>依存関係があるコンポーネントは Barrel ファイルでまとめよう (azukiazusa)</title>
-        <link>https://speakerdeck.com/azukiazusa1/yi-cun-guan-xi-gaarukonponentoha-barrel-huairudematomeyou</link>
-        <dc:date>2025-02-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
