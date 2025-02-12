@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モノレポ開発のエラー、誰が見る？Datadog で実現する適切なトリアージとエスカレーション (Shota Iwami)</title>
+        <link>https://speakerdeck.com/biwashi/datadog-roscafe</link>
+        <dc:date>2025-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Conform を推す - Advocating for Conform (Coji Mizoguchi)</title>
         <link>https://speakerdeck.com/mizoguchicoji/conform-wotui-su</link>
         <dc:date>2025-02-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>最初にもらったフロントのタスクは半年以上かかりました (Mitsuhiro Okada)</title>
         <link>https://speakerdeck.com/mitsu0428/zui-chu-nimoratutahurontonotasukuhaban-nian-yi-shang-kakarimasita</link>
-        <dc:date>2025-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TCPポート使い切り事件 (T. MOTOOKA)</title>
-        <link>https://speakerdeck.com/motooka/tcppotoshi-iqie-rishi-jian</link>
         <dc:date>2025-02-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
