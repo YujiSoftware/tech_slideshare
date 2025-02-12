@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AndroidデバイスにFTPサーバを建立する (Yoshihiro WADA)</title>
+        <link>https://speakerdeck.com/e10dokup/androiddebaisuniftpsabawojian-li-suru</link>
+        <dc:date>2025-02-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モノレポ開発のエラー、誰が見る？Datadog で実現する適切なトリアージとエスカレーション (Shota Iwami)</title>
         <link>https://speakerdeck.com/biwashi/datadog-roscafe</link>
         <dc:date>2025-02-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自分発信のミーティングがノープランすぎて失敗しかけた話 (nakampany)</title>
         <link>https://speakerdeck.com/nakampany/zi-fen-fa-xin-nomiteinguganopuransugiteshi-bai-sikaketahua</link>
-        <dc:date>2025-02-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最初にもらったフロントのタスクは半年以上かかりました (Mitsuhiro Okada)</title>
-        <link>https://speakerdeck.com/mitsu0428/zui-chu-nimoratutahurontonotasukuhaban-nian-yi-shang-kakarimasita</link>
         <dc:date>2025-02-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
