@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>30分でわかる『アジャイルデータモデリング』 (Uchide Hiroki(ucchi-))</title>
+        <link>https://speakerdeck.com/hanon52_/30fen-dewakaru-aziyairudetamoderingu</link>
+        <dc:date>2025-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インフラをつくるとはどういうことなのか、 あるいはPlatform Engineeringについて (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/inhurawotukurutohadouiukotonanoka-aruihaplatform-engineeringnituite</link>
         <dc:date>2025-02-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>レガシーシステムへのDatadog APM導入奮闘記 (Masaki Takeya)</title>
         <link>https://speakerdeck.com/mtakeya4062/regasisisutemuhenodatadog-apmdao-ru-fen-dou-ji</link>
-        <dc:date>2025-02-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>障害対応における Datadog プラットフォーム機能の活用 (笹崎日登)</title>
-        <link>https://speakerdeck.com/sasazakihideto/zhang-hai-dui-ying-niokeru-datadog-puratutohuomuji-neng-nohuo-yong</link>
         <dc:date>2025-02-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
