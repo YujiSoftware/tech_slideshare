@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インフラをつくるとはどういうことなのか、 あるいはPlatform Engineeringについて (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/inhurawotukurutohadouiukotonanoka-aruihaplatform-engineeringnituite</link>
+        <dc:date>2025-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自動テストの世界に、この5年間で起きたこと (Autify)</title>
+        <link>https://speakerdeck.com/autifyhq/things-happened-in-5-years-in-the-testing-automation-world</link>
+        <dc:date>2025-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>滅・サービスクラス🔥 / Destruction Service Class (Takumi Shotoku)</title>
+        <link>https://speakerdeck.com/sinsoku/destruction-service-class</link>
+        <dc:date>2025-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>個人開発から公式機能へ: PlaywrightとRailsをつなげた3年の軌跡 (Yusuke Iwaki)</title>
+        <link>https://speakerdeck.com/yusukeiwaki/ge-ren-kai-fa-karagong-shi-ji-neng-he-playwrighttorailswotunageta3nian-nogui-ji</link>
+        <dc:date>2025-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>目の前の仕事と向き合うことで成長できる - 仕事とスキルを広げる / Every little bit counts (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/every-little-bit-counts</link>
+        <dc:date>2025-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>業務理解の深化と実践～ドメインモデリングで基幹システムを捉える (MonotaRO)</title>
+        <link>https://speakerdeck.com/monotaro/ye-wu-li-jie-noshen-hua-toshi-jian-domeinmoderingudeji-gan-sisutemuwozhuo-eru</link>
+        <dc:date>2025-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>現場の種を事業の芽にする - エンジニア主導のイノベーションを事業戦略に装着する方法 - (Kazuki Maeda)</title>
         <link>https://speakerdeck.com/kzkmaeda/xian-chang-nozhong-woshi-ye-noya-nisuru-enziniazhu-dao-noinobesiyonwoshi-ye-zhan-lue-nizhuang-zhao-surufang-fa</link>
         <dc:date>2025-02-12T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>障害対応における Datadog プラットフォーム機能の活用 (笹崎日登)</title>
         <link>https://speakerdeck.com/sasazakihideto/zhang-hai-dui-ying-niokeru-datadog-puratutohuomuji-neng-nohuo-yong</link>
-        <dc:date>2025-02-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Datadog RUM を用いた UX 指標の監視・顧客対応への活用 (imamura-ko-0314)</title>
-        <link>https://speakerdeck.com/imamura_ko_0314/datadog-rum-woyong-ita-ux-zhi-biao-nojian-shi-gu-ke-dui-ying-henohuo-yong</link>
-        <dc:date>2025-02-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OOM発生時のトラブルシューティング Profilerを活用できるか調査してみた (Atsushi Miyamoto)</title>
-        <link>https://speakerdeck.com/atsushii/oomfa-sheng-shi-notoraburusiyuteingu-profilerwohuo-yong-dekirukadiao-cha-sitemita</link>
-        <dc:date>2025-02-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dd-trace-goのtrace context propagation実装 (Takato Fukui)</title>
-        <link>https://speakerdeck.com/takatofukui/dd-trace-gonotrace-context-propagationshi-zhuang</link>
-        <dc:date>2025-02-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon S3 TablesとAmazon S3 Metadataを触ってみた / 20250201-jawsug-tochigi-s3tables-s3metadata (kasacchiful)</title>
-        <link>https://speakerdeck.com/kasacchiful/20250201-jawsug-tochigi-s3tables-s3metadata</link>
-        <dc:date>2025-02-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[JAWS-UG栃木]地方だからできたクラウドネイティブ事例大公開！ / jawsug_tochigi_tachibana (Takuya Tachibana)</title>
-        <link>https://speakerdeck.com/biatunky/jaws-tochigi-tachibana</link>
-        <dc:date>2025-02-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS-UGのご紹介 JAWS-UGとは？ (awsj communty program manager - Shigeru Numaguchi)</title>
-        <link>https://speakerdeck.com/awsjcpm/jaws-ugnogoshao-jie-jaws-ugtoha</link>
         <dc:date>2025-02-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
