@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データの品質が低いと何が困るのか (Kazuyuki Miyazawa)</title>
+        <link>https://speakerdeck.com/kzykmyzw/detanopin-zhi-gadi-itohe-gakun-runoka</link>
+        <dc:date>2025-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データの整合性を保つ非同期処理アーキテクチャパターン / Async Architecture Patterns (mokuo)</title>
         <link>https://speakerdeck.com/mokuo/async-architecture-patterns</link>
         <dc:date>2025-02-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>現場の種を事業の芽にする - エンジニア主導のイノベーションを事業戦略に装着する方法 - (Kazuki Maeda)</title>
         <link>https://speakerdeck.com/kzkmaeda/xian-chang-nozhong-woshi-ye-noya-nisuru-enziniazhu-dao-noinobesiyonwoshi-ye-zhan-lue-nizhuang-zhao-surufang-fa</link>
-        <dc:date>2025-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>飲食店予約台帳を支えるインタラクティブ UI 設計と実装 (Ryohei Shirai)</title>
-        <link>https://speakerdeck.com/siropaca/yin-shi-dian-yu-yue-tai-zhang-wozhi-eruintarakuteibu-ui-she-ji-toshi-zhuang</link>
         <dc:date>2025-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
