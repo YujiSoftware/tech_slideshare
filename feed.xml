@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>EMから見たLinQ (operandoOS)</title>
+        <link>https://speakerdeck.com/operando/emkarajian-talinq</link>
+        <dc:date>2025-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マネージド環境とは何か？Power Platform管理者が押さえておくべきポイント (たな,@dreams_panda)</title>
         <link>https://www.docswell.com/s/tanapandalove/KEN7EE-2023-12-07-174940</link>
         <dc:date>2025-02-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Software design as a cooperative game with EventStorming (Alberto Brandolini,@ziobrando)</title>
         <link>https://www.slideshare.net/slideshow/software-design-as-a-cooperative-game-with-eventstorming/187725642</link>
-        <dc:date>2025-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バックエンドエンジニアのためのフロントエンド入門 (panda_program)</title>
-        <link>https://speakerdeck.com/panda_program/learning-frontend-for-backend-developers-be63adc1-1f5b-44da-b68c-3f7f94fb6b86</link>
         <dc:date>2025-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
