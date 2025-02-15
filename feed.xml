@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon Bedrockでブラウザを操作するAIエージェントを作ってみた (Kento.Yamada)</title>
+        <link>https://speakerdeck.com/ymd65536/amazon-bedrockdeburauzawocao-zuo-suruaiezientowozuo-tutemita</link>
+        <dc:date>2025-02-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ハッキングの世界に迫る～攻撃者の思考で考えるセキュリティ～ (Nomizo Nomizo)</title>
         <link>https://speakerdeck.com/nomizone/hatukingunoshi-jie-nipo-ru-gong-ji-zhe-nosi-kao-dekao-erusekiyuritei</link>
         <dc:date>2025-02-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>滅・サービスクラス🔥 / Destruction Service Class (Takumi Shotoku)</title>
         <link>https://speakerdeck.com/sinsoku/destruction-service-class</link>
-        <dc:date>2025-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人開発から公式機能へ: PlaywrightとRailsをつなげた3年の軌跡 (Yusuke Iwaki)</title>
-        <link>https://speakerdeck.com/yusukeiwaki/ge-ren-kai-fa-karagong-shi-ji-neng-he-playwrighttorailswotunageta3nian-nogui-ji</link>
         <dc:date>2025-02-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
