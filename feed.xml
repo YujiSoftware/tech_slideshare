@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プレゼン資料作成で最低限気をつけるべきこと (Masanori Suganuma)</title>
+        <link>https://speakerdeck.com/sgnm/purezendezui-di-xian-qi-wotukerubekikoto-suraidozuo-cheng</link>
+        <dc:date>2025-02-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon Bedrockでブラウザを操作するAIエージェントを作ってみた (Kento.Yamada)</title>
         <link>https://speakerdeck.com/ymd65536/amazon-bedrockdeburauzawocao-zuo-suruaiezientowozuo-tutemita</link>
         <dc:date>2025-02-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自動テストの世界に、この5年間で起きたこと (Autify)</title>
         <link>https://speakerdeck.com/autifyhq/things-happened-in-5-years-in-the-testing-automation-world</link>
-        <dc:date>2025-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>滅・サービスクラス🔥 / Destruction Service Class (Takumi Shotoku)</title>
-        <link>https://speakerdeck.com/sinsoku/destruction-service-class</link>
         <dc:date>2025-02-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
