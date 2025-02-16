@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サーバーサイド開発者のためのパスキー入門 (Yoshikazu Nojima)</title>
+        <link>https://speakerdeck.com/ynojima/sabasaidokai-fa-zhe-notamenopasukiru-men</link>
+        <dc:date>2025-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアのためのドキュメント力基礎講座〜構造化思考から始めよう〜（2025/02/15jbug広島#15発表資料） (中野康雄（ARI）)</title>
         <link>https://speakerdeck.com/yasuoyasuo/15jbugguang-dao-number-15fa-biao-zi-liao</link>
         <dc:date>2025-02-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データの品質が低いと何が困るのか (Kazuyuki Miyazawa)</title>
         <link>https://speakerdeck.com/kzykmyzw/detanopin-zhi-gadi-itohe-gakun-runoka</link>
-        <dc:date>2025-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データの整合性を保つ非同期処理アーキテクチャパターン / Async Architecture Patterns (mokuo)</title>
-        <link>https://speakerdeck.com/mokuo/async-architecture-patterns</link>
         <dc:date>2025-02-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
