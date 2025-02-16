@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアのためのドキュメント力基礎講座〜構造化思考から始めよう〜（2025/02/15jbug広島#15発表資料） (中野康雄（ARI）)</title>
+        <link>https://speakerdeck.com/yasuoyasuo/15jbugguang-dao-number-15fa-biao-zi-liao</link>
+        <dc:date>2025-02-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>お前もAI鬼にならないか？👹Bolt &amp; Cursor &amp; Supabase &amp; Vercelで人間をやめるぞ、ジョジョー！👺 (Taishi Yamasaki)</title>
         <link>https://speakerdeck.com/taishiyade/oqian-moaigui-ninaranaika-bolt-and-cursor-and-supabase-and-vercelderen-jian-woyameruzo-ziyoziyo</link>
         <dc:date>2025-02-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データの整合性を保つ非同期処理アーキテクチャパターン / Async Architecture Patterns (mokuo)</title>
         <link>https://speakerdeck.com/mokuo/async-architecture-patterns</link>
-        <dc:date>2025-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【Developers Summit 2025】プロダクトエンジニアから学ぶ、 ユーザーにより高い価値を届ける技術 (Niwa Takeru)</title>
-        <link>https://speakerdeck.com/niwatakeru/developers-summit-2025</link>
         <dc:date>2025-02-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
