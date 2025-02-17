@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜイベント駆動が必要なのか - CQRS/ESで解く複雑系システムの課題 - (かとじゅん)</title>
+        <link>https://speakerdeck.com/j5ik2o/esdejie-kufu-za-xi-sisutemunoke-ti</link>
+        <dc:date>2025-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オブザーバビリティの観点でみるAWS / AWS from observability perspective (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/aws-from-observability-perspective</link>
         <dc:date>2025-02-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プレゼン資料作成で最低限気をつけるべきこと (Masanori Suganuma)</title>
         <link>https://speakerdeck.com/sgnm/purezendezui-di-xian-qi-wotukerubekikoto-suraidozuo-cheng</link>
-        <dc:date>2025-02-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Bedrockでブラウザを操作するAIエージェントを作ってみた (Kento.Yamada)</title>
-        <link>https://speakerdeck.com/ymd65536/amazon-bedrockdeburauzawocao-zuo-suruaiezientowozuo-tutemita</link>
         <dc:date>2025-02-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
