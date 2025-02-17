@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PostgreSQLのVACUUMとは (Ken Kato)</title>
+        <link>https://speakerdeck.com/kkato1/postgresqlnovacuumtoha-ee956e68-6a69-4055-8aa4-c9488e007c1b</link>
+        <dc:date>2025-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>4年間Scaniverseでスキャンしたもの (NAGASAKA Masayuki,@tasklong)</title>
         <link>https://www.docswell.com/s/masanaga/ZWWG2D-2025-02-16-225935</link>
         <dc:date>2025-02-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Step Functionsの良さを伝えたい。 (村松祥（しょう）)</title>
         <link>https://speakerdeck.com/shawnmuramatsu/step-functionsnoliang-sawochuan-etai</link>
-        <dc:date>2025-02-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ガバメントクラウドにおけるネットワーク接続（省庁編） (Tsukasa Kawamura)</title>
-        <link>https://speakerdeck.com/kawakawa2222/kahamentokurautoniokerunetutowakujie-sok-sheng-ting-bian</link>
         <dc:date>2025-02-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
