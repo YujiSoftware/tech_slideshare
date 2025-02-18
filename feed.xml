@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TAMとre:Capセキュリティ編 〜拡張脅威検出デモを添えて〜 (fujiihda)</title>
+        <link>https://speakerdeck.com/fujiihda/security-jaws-36-security-recap</link>
+        <dc:date>2025-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>読みやすいコードの書き方 第 3 回 / Code readability: Session 3 (ver. 2, Ja) (Munetoshi Ishikawa)</title>
         <link>https://speakerdeck.com/munetoshi/code-readability-session-3-ver-2-ja</link>
         <dc:date>2025-02-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「情報セキュリティの敗北史」にならないための組織的アプローチ (nikinusu)</title>
         <link>https://speakerdeck.com/nikinusu/qing-bao-sekiyuriteinobai-bei-shi-ninaranaitamenozu-zhi-de-apuroti</link>
-        <dc:date>2025-02-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成 AI アプリの本番導入を可能にした 3 つの評価プロセス ～DB 設計レビュー自動化の取り組み～ @Developers Summit 2025 (p2sk)</title>
-        <link>https://speakerdeck.com/masakihirose/sheng-cheng-ai-apurinoben-fan-dao-ru-woke-neng-nisita-3-tunoping-jia-purosesu-db-she-ji-rebiyuzi-dong-hua-noqu-rizu-mi-at-developers-summit-2025</link>
         <dc:date>2025-02-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
