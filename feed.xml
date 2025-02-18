@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>転生CISOサバイバル・ガイド / CISO Career Transition Survival Guide (Hokuto Hoshi)</title>
+        <link>https://speakerdeck.com/kanny/ciso-career-transition-survival-guide</link>
+        <dc:date>2025-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon S3 Tablesと外部分析基盤連携について / Amazon S3 Tables and External Data Analytics Platform (NTT Communications)</title>
         <link>https://speakerdeck.com/nttcom/amazon-s3-tables-and-external-data-analytics-platform</link>
         <dc:date>2025-02-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【Adobe MAX Japan 2025】上手にFireflyにお願いしてウェブデザイン案を出すぞ！ (Akiko Kurono)</title>
         <link>https://speakerdeck.com/cremacrema/adobe-max-japan-2025-shang-shou-nifireflynioyuan-isiteuebudezainan-wochu-suzo</link>
-        <dc:date>2025-02-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自治体ネットワークとAWSの接続について (Shota Shiratori)</title>
-        <link>https://speakerdeck.com/shotashiratori/zi-zhi-ti-netutowakutoawsnojie-sok-nituite</link>
         <dc:date>2025-02-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
