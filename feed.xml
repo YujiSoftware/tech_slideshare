@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>速くて安いWebサイトを作る (にしはら)</title>
+        <link>https://speakerdeck.com/nishiharatsubasa/su-kutean-iwebsaitowozuo-ru</link>
+        <dc:date>2025-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>見積り、計画の 考え方や手法について ビープラウドの場合を紹介します/ introduce-the-concept-and-method-of-estimation-and-planning-in-the-case-of-BeProud (haru860)</title>
         <link>https://speakerdeck.com/haru860/introduce-the-concept-and-method-of-estimation-and-planning-in-the-case-of-beproud</link>
         <dc:date>2025-02-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Honoをフロントエンドで使う 3つのやり方 (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/honowohurontoendodeshi-u-3tunoyarifang</link>
         <dc:date>2025-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQLのVACUUMとは (Ken Kato)</title>
-        <link>https://speakerdeck.com/kkato1/postgresqlnovacuumtoha-ee956e68-6a69-4055-8aa4-c9488e007c1b</link>
-        <dc:date>2025-02-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
