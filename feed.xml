@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Grafana Cloudとソラカメ (kumico)</title>
+        <link>https://speakerdeck.com/devoc/grafana-cloudtosorakame</link>
+        <dc:date>2025-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Grafanaのvariables機能について (佐々木千奈)</title>
+        <link>https://speakerdeck.com/tiina/grafananovariablesji-neng-nituite</link>
+        <dc:date>2025-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ObservabilityCON on the Road Tokyoの見どころ (濱田孝治)</title>
+        <link>https://speakerdeck.com/hamadakoji/observabilitycon-on-the-road-tokyonojian-dokoro</link>
+        <dc:date>2025-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発スピードは上がっている…品質はどうする？ スピードと品質を両立させるためのプロダクト開発の進め方とは #DevSumi #DevSumiB / Agile And Quality (nihonbuson)</title>
+        <link>https://speakerdeck.com/nihonbuson/agile-and-quality</link>
+        <dc:date>2025-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[Human-AI Decision Making勉強会] AIの説明表現は人間の意思決定にどのような影響をもたらすのか (AyanoOkoso)</title>
+        <link>https://speakerdeck.com/okoso/human-ai-decision-makingmian-qiang-hui-ainoshuo-ming-biao-xian-haren-jian-noyi-si-jue-ding-nidonoyounaying-xiang-womotarasunoka</link>
+        <dc:date>2025-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>苦しいTiDBへの移行を乗り越えて快適な運用を目指す (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/ku-siitidbhenoyi-xing-wocheng-riyue-etekuai-shi-nayun-yong-womu-zhi-su</link>
         <dc:date>2025-02-19T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>いにしえの国産データベース～桐～って知っていますか？ (モブエンジニア)</title>
         <link>https://speakerdeck.com/masakiokuda/inisienoguo-chan-detabesu-tong-tutezhi-tuteimasuka</link>
-        <dc:date>2025-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアエンジニアの成長 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/kanjava-2024-2</link>
-        <dc:date>2025-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bedrock カスタムモデルvs汎用モデルの比較 (為藤アキラ)</title>
-        <link>https://speakerdeck.com/akiratameto/bedrock-kasutamumoderuvsfan-yong-moderunobi-jiao</link>
-        <dc:date>2025-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Bedrock Custom model importを試してみる (ttnyt8701)</title>
-        <link>https://speakerdeck.com/ttnyt8701/amazon-bedrock-custom-model-importwoshi-sitemiru</link>
-        <dc:date>2025-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Novaを使用した蒸留 (Shota Totsuka)</title>
-        <link>https://speakerdeck.com/totsukash/amazon-novawoshi-yong-sitazheng-liu</link>
-        <dc:date>2025-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Why Hono なぜHonoを使うべきなのか (muratak)</title>
-        <link>https://speakerdeck.com/tresagua0123/why-hono-nazehonowoshi-ubekinanoka</link>
         <dc:date>2025-02-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
