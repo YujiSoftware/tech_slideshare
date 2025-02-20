@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>もう僕は OpenAPI を書きたくない (Sugar Sato)</title>
+        <link>https://speakerdeck.com/sgash708/moupu-ha-openapi-woshu-kitakunai</link>
+        <dc:date>2025-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloud Spanner 導入で実現した快適な開発と運用について (COLOPL Inc.)</title>
         <link>https://speakerdeck.com/colopl/implementing-cloud-spanner-achieving-comfortable-development-and-operations</link>
         <dc:date>2025-02-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TAMとre:Capセキュリティ編 〜拡張脅威検出デモを添えて〜 (fujiihda)</title>
         <link>https://speakerdeck.com/fujiihda/security-jaws-36-security-recap</link>
-        <dc:date>2025-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>読みやすいコードの書き方 第 3 回 / Code readability: Session 3 (ver. 2, Ja) (Munetoshi Ishikawa)</title>
-        <link>https://speakerdeck.com/munetoshi/code-readability-session-3-ver-2-ja</link>
         <dc:date>2025-02-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
