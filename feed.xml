@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloud Spanner 導入で実現した快適な開発と運用について (COLOPL Inc.)</title>
+        <link>https://speakerdeck.com/colopl/implementing-cloud-spanner-achieving-comfortable-development-and-operations</link>
+        <dc:date>2025-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ビジネスモデリング道場　目的と背景 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/business-modeling-dojo</link>
         <dc:date>2025-02-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>読みやすいコードの書き方 第 3 回 / Code readability: Session 3 (ver. 2, Ja) (Munetoshi Ishikawa)</title>
         <link>https://speakerdeck.com/munetoshi/code-readability-session-3-ver-2-ja</link>
-        <dc:date>2025-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクト観点で考えるデータ基盤の育成戦略 / Growth Strategy of Data Analytics Platforms from a Product Perspective (yamamoto-yuta)</title>
-        <link>https://speakerdeck.com/yamamotoyuta/growth-strategy-of-data-analytics-platforms-from-a-product-perspective</link>
         <dc:date>2025-02-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
