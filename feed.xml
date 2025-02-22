@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>抽象化をするということ - 具体と抽象の往復を身につける / Abstraction and concretization (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/abstraction-and-concretization</link>
+        <dc:date>2025-02-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>dbt Pythonモデルで実現するSnowflake活用術 (Trs)</title>
         <link>https://speakerdeck.com/trsnium/dbt-pythonmoderudeshi-xian-surusnowflakehuo-yong-shu</link>
         <dc:date>2025-02-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ビジネスモデリング道場　目的と背景 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/business-modeling-dojo</link>
-        <dc:date>2025-02-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>速くて安いWebサイトを作る (にしはら)</title>
-        <link>https://speakerdeck.com/nishiharatsubasa/su-kutean-iwebsaitowozuo-ru</link>
         <dc:date>2025-02-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
