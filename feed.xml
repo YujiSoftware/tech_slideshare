@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>dbt Pythonモデルで実現するSnowflake活用術 (Trs)</title>
+        <link>https://speakerdeck.com/trsnium/dbt-pythonmoderudeshi-xian-surusnowflakehuo-yong-shu</link>
+        <dc:date>2025-02-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアが加速させるプロダクトディスカバリー 〜最速で価値ある機能を見つける方法〜 / product discovery accelerated by engineers (rince)</title>
         <link>https://speakerdeck.com/rince/product-discovery-accelerated-by-engineers</link>
         <dc:date>2025-02-21T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>速くて安いWebサイトを作る (にしはら)</title>
         <link>https://speakerdeck.com/nishiharatsubasa/su-kutean-iwebsaitowozuo-ru</link>
         <dc:date>2025-02-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>見積り、計画の 考え方や手法について ビープラウドの場合を紹介します/ introduce-the-concept-and-method-of-estimation-and-planning-in-the-case-of-BeProud (haru860)</title>
-        <link>https://speakerdeck.com/haru860/introduce-the-concept-and-method-of-estimation-and-planning-in-the-case-of-beproud</link>
-        <dc:date>2025-02-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
