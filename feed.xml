@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Goで作って学ぶWebSocket (ryuichi1208)</title>
+        <link>https://speakerdeck.com/ryuichi1208/godezuo-tutexue-huwebsocket</link>
+        <dc:date>2025-02-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>設計原則、アーキテクチャパターン、アーキテクチャスタイルの違いって何？いつどう向き合ったらいいの？を考えてみる (katzumi,@katzchum)</title>
         <link>https://www.docswell.com/s/katzumi/KN1NJG-software-design-hierarchy</link>
         <dc:date>2025-02-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>開発組織のための セキュアコーディング研修の始め方 (GMO Flatt Security)</title>
         <link>https://speakerdeck.com/flatt_security/kai-fa-zu-zhi-notameno-sekiyuakodeinguyan-xiu-noshi-mefang</link>
-        <dc:date>2025-02-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024.02.19 W&amp;B AIエージェントLT会 / AIエージェントが業務を代行するための計画と実行 / Algomatic 宮脇 (Shumpei Miyawaki)</title>
-        <link>https://speakerdeck.com/smiyawaki0820/2024-dot-02-dot-19-w-and-b-aiezientolthui</link>
         <dc:date>2025-02-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
