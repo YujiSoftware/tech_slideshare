@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>不要コード削除のススメ (なお,@naopusyu)</title>
+        <link>https://www.docswell.com/s/naopusyu/KYD7W3-unused-code-cleanup</link>
+        <dc:date>2025-02-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>人はなぜコミュニティとつながると幸せを感じるのか (448jp | OKI Yoshiya)</title>
         <link>https://speakerdeck.com/448jp/ren-hanazekomiyuniteitotunagarutoxing-sewogan-zirunoka</link>
         <dc:date>2025-02-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ObservabilityCON on the Road Tokyoの見どころ (濱田孝治)</title>
         <link>https://speakerdeck.com/hamadakoji/observabilitycon-on-the-road-tokyonojian-dokoro</link>
-        <dc:date>2025-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発スピードは上がっている…品質はどうする？ スピードと品質を両立させるためのプロダクト開発の進め方とは #DevSumi #DevSumiB / Agile And Quality (nihonbuson)</title>
-        <link>https://speakerdeck.com/nihonbuson/agile-and-quality</link>
         <dc:date>2025-02-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
