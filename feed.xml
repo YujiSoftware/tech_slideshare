@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>続く障害からの脱却 オブザーバビリティで立て直すサービス開発 (Yamato)</title>
+        <link>https://speakerdeck.com/yamato_sorariku/sok-kuzhang-hai-karanotuo-que-obuzababiriteideli-tezhi-susabisukai-fa</link>
+        <dc:date>2025-02-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Goで作って学ぶWebSocket (ryuichi1208)</title>
         <link>https://speakerdeck.com/ryuichi1208/godezuo-tutexue-huwebsocket</link>
         <dc:date>2025-02-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>苦しいTiDBへの移行を乗り越えて快適な運用を目指す (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/ku-siitidbhenoyi-xing-wocheng-riyue-etekuai-shi-nayun-yong-womu-zhi-su</link>
-        <dc:date>2025-02-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発組織のための セキュアコーディング研修の始め方 (GMO Flatt Security)</title>
-        <link>https://speakerdeck.com/flatt_security/kai-fa-zu-zhi-notameno-sekiyuakodeinguyan-xiu-noshi-mefang</link>
         <dc:date>2025-02-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
