@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サンプルコードによるC++23ジェネレータの紹介 (yoh,@yohhoy)</title>
+        <link>https://www.docswell.com/s/yohhoy/KEXQPG-cpp23gen</link>
+        <dc:date>2025-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Djangoにおける複数ユーザー種別認証の設計アプローチ@DjangoCongress JP 2025 (delhi09)</title>
         <link>https://speakerdeck.com/delhi09/django-multiple-user-authentication-design-pattern</link>
         <dc:date>2025-02-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Honoとフロントエンドの 型安全性について (yodaka)</title>
         <link>https://speakerdeck.com/yodaka/honotohurontoendono-xing-an-quan-xing-nituite</link>
-        <dc:date>2025-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Grafana Cloudとソラカメ (kumico)</title>
-        <link>https://speakerdeck.com/devoc/grafana-cloudtosorakame</link>
         <dc:date>2025-02-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
