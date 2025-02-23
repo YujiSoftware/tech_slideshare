@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Djangoにおける複数ユーザー種別認証の設計アプローチ@DjangoCongress JP 2025 (delhi09)</title>
+        <link>https://speakerdeck.com/delhi09/django-multiple-user-authentication-design-pattern</link>
+        <dc:date>2025-02-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>仕様変更に耐えるための"今の"DRY原則を考える / Rethinking the "Don't repeat yourself" for resilience to specification changes (Maki Hayashi)</title>
         <link>https://speakerdeck.com/mkmk884/rethinking-the-dont-repeat-yourself-for-resilience-to-specification-changes</link>
         <dc:date>2025-02-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Grafana Cloudとソラカメ (kumico)</title>
         <link>https://speakerdeck.com/devoc/grafana-cloudtosorakame</link>
-        <dc:date>2025-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Grafanaのvariables機能について (佐々木千奈)</title>
-        <link>https://speakerdeck.com/tiina/grafananovariablesji-neng-nituite</link>
         <dc:date>2025-02-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
