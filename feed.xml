@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>分解して理解する Aspire (neno)</title>
+        <link>https://speakerdeck.com/nenonaninu/fen-jie-siteli-jie-suru-aspire</link>
+        <dc:date>2025-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>深層学習と古典的画像アルゴリズムを組み合わせた類似画像検索内製化 (Shuto Takahashi)</title>
         <link>https://speakerdeck.com/shutotakahashi/shen-ceng-xue-xi-togu-dian-de-hua-xiang-arugorizumuwozu-mihe-wasetalei-si-hua-xiang-jian-suo-nei-zhi-hua</link>
         <dc:date>2025-02-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Apache Icebergテーブル同時書き込み競合解決の仕組みと注意点 (bering)</title>
         <link>https://speakerdeck.com/bering/apache-icebergtehurutong-shi-shu-kiip-mijing-he-jie-jue-noshi-zu-mitozhu-yi-dian</link>
-        <dc:date>2025-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>抽象化をするということ - 具体と抽象の往復を身につける / Abstraction and concretization (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/abstraction-and-concretization</link>
         <dc:date>2025-02-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
