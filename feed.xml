@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>深層学習と古典的画像アルゴリズムを組み合わせた類似画像検索内製化 (Shuto Takahashi)</title>
+        <link>https://speakerdeck.com/shutotakahashi/shen-ceng-xue-xi-togu-dian-de-hua-xiang-arugorizumuwozu-mihe-wasetalei-si-hua-xiang-jian-suo-nei-zhi-hua</link>
+        <dc:date>2025-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成 AI プロダクトを育てる技術 〜データ品質向上による継続的な価値創出の実践〜 (Takahiro Kubo)</title>
         <link>https://speakerdeck.com/icoxfog417/strike-balance-between-benefit-and-risk-for-generative-ai-future-developer-summit-2025-aws</link>
         <dc:date>2025-02-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>抽象化をするということ - 具体と抽象の往復を身につける / Abstraction and concretization (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/abstraction-and-concretization</link>
-        <dc:date>2025-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbt Pythonモデルで実現するSnowflake活用術 (Trs)</title>
-        <link>https://speakerdeck.com/trsnium/dbt-pythonmoderudeshi-xian-surusnowflakehuo-yong-shu</link>
         <dc:date>2025-02-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
