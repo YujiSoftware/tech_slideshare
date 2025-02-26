@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>個人開発自慢LT会</title>
+        <link>https://docs.google.com/presentation/d/14dtZdMgDh1u5zBkDY93SkTBzN7pm_1Cff8S405-hJhk/preview</link>
+        <dc:date>2025-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜ私は自分が使わないサービスを作るのか？ / Why would I create a service that I would not use? (END)</title>
+        <link>https://speakerdeck.com/aiandrox/why-would-i-create-a-service-that-i-would-not-use</link>
+        <dc:date>2025-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ファインディLT_ポケモン対戦の定量的分析 (Yusuke Fukasawa)</title>
+        <link>https://speakerdeck.com/fufufukakaka/huaindeilt-pokemondui-zhan-noding-liang-de-fen-xi</link>
+        <dc:date>2025-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>レビューを増やしつつ 高評価維持するテクニック (Ryo Tsuzukihashi)</title>
+        <link>https://speakerdeck.com/tsuzuki817/rebiyuwozeng-yasitutu-gao-ping-jia-wei-chi-surutekunituku</link>
+        <dc:date>2025-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>運用しているアプリケーションのDBのリプレイスをやってみた (KMiura)</title>
+        <link>https://speakerdeck.com/miura55/yun-yong-siteiruapurikesiyonnodbnoripureisuwoyatutemita</link>
+        <dc:date>2025-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>さいきんの MySQL との付き合い方 〜 MySQL 8.0 より後の世界へようこそ 〜 (hmatsu47(まつ),@hmatsu47)</title>
+        <link>https://www.docswell.com/s/hmatsu47/Z3GL92-2025-02-07-144215</link>
+        <dc:date>2025-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SORACOM のアーキテクチャと挑戦のフィールド (SORACOM)</title>
         <link>https://speakerdeck.com/soracom/soracom-architecture-and-challenges-field</link>
         <dc:date>2025-02-25T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>分解して理解する Aspire (neno)</title>
         <link>https://speakerdeck.com/nenonaninu/fen-jie-siteli-jie-suru-aspire</link>
         <dc:date>2025-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>深層学習と古典的画像アルゴリズムを組み合わせた類似画像検索内製化 (Shuto Takahashi)</title>
-        <link>https://speakerdeck.com/shutotakahashi/shen-ceng-xue-xi-togu-dian-de-hua-xiang-arugorizumuwozu-mihe-wasetalei-si-hua-xiang-jian-suo-nei-zhi-hua</link>
-        <dc:date>2025-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成 AI プロダクトを育てる技術 〜データ品質向上による継続的な価値創出の実践〜 (Takahiro Kubo)</title>
-        <link>https://speakerdeck.com/icoxfog417/strike-balance-between-benefit-and-risk-for-generative-ai-future-developer-summit-2025-aws</link>
-        <dc:date>2025-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>依存パッケージの更新はコツコツが勝つコツ！ /  phpcon_nagoya2025 (blue_goheimochi)</title>
-        <link>https://speakerdeck.com/blue_goheimochi/phpcon-nagoya2025</link>
-        <dc:date>2025-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Visualize, Visualize, Visualize and rclone (Aki Teshima)</title>
-        <link>https://speakerdeck.com/tomoaki0705/visualize-visualize-visualize-and-rclone</link>
-        <dc:date>2025-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>biblio_battle_GDGoCTMU_2024 (YuYu's Lab)</title>
-        <link>https://speakerdeck.com/yuyuslab009/biblio-battle-gdgoctmu-2024</link>
-        <dc:date>2025-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術書ビブリオバトル - 『プログラミング TypeScript スケールするJavaScriptアプリケーション開発』 (Kanade)</title>
-        <link>https://speakerdeck.com/kanadesisido/ji-shu-shu-biburiobatoru-puroguramingu-typescript-sukerusurujavascriptapurikesiyonkai-fa</link>
-        <dc:date>2025-02-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
