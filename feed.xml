@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Observability Technology Selection Tips (Y.Matsuda)</title>
+        <link>https://speakerdeck.com/ymtdzzz/observability-technology-selection-tips</link>
+        <dc:date>2025-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンド設計にモブ設計を導入してみた / 20241212_cloudsign_TechFrontMeetup (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20241212-cloudsign-techfrontmeetup</link>
         <dc:date>2025-02-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>『テスト書いた方が開発が早いじゃん』を解き明かす #phpcon_nagoya (hideki kinjyo)</title>
         <link>https://speakerdeck.com/o0h/phpcon-nagoya-2025</link>
-        <dc:date>2025-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バッチを作らなきゃとなったときに考えること (irof)</title>
-        <link>https://speakerdeck.com/irof/hatutiwozuo-ranakiyatonatutatokinikao-erukoto</link>
         <dc:date>2025-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
