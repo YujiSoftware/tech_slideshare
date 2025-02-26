@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIプログラミング雑キャッチアップ (YuheiNakasaka)</title>
+        <link>https://speakerdeck.com/yuheinakasaka/aipuroguraminguza-kiyatutiatupu</link>
+        <dc:date>2025-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Observability Technology Selection Tips (Y.Matsuda)</title>
         <link>https://speakerdeck.com/ymtdzzz/observability-technology-selection-tips</link>
         <dc:date>2025-02-25T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>脅威インテリジェンス＋SIGMAから始めるDetection Engineering (Tomohisa Ishikawa)</title>
         <link>https://speakerdeck.com/scientia/detection-enginering-with-cti-and-sigma</link>
         <dc:date>2025-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『テスト書いた方が開発が早いじゃん』を解き明かす #phpcon_nagoya (hideki kinjyo)</title>
-        <link>https://speakerdeck.com/o0h/phpcon-nagoya-2025</link>
-        <dc:date>2025-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
