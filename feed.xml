@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SORACOM のアーキテクチャと挑戦のフィールド (SORACOM)</title>
+        <link>https://speakerdeck.com/soracom/soracom-architecture-and-challenges-field</link>
+        <dc:date>2025-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ブロックチェーン初心者であるWebエンジニアが解釈したブロックチェーンの面白さ / web-developer+alpha-blockchain (shinden)</title>
+        <link>https://speakerdeck.com/shinden/web-developer-plus-alpha-blockchain</link>
+        <dc:date>2025-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React 19アップデートのために必要なこと (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/react-19atupudetonotamenibi-yao-nakoto</link>
         <dc:date>2025-02-25T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>技術書ビブリオバトル - 『プログラミング TypeScript スケールするJavaScriptアプリケーション開発』 (Kanade)</title>
         <link>https://speakerdeck.com/kanadesisido/ji-shu-shu-biburiobatoru-puroguramingu-typescript-sukerusurujavascriptapurikesiyonkai-fa</link>
-        <dc:date>2025-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Active Directory攻防 (Ruslan Sayfiev)</title>
-        <link>https://speakerdeck.com/cryptopeg/active-directorykoubou</link>
-        <dc:date>2025-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>0から作る動画生成AI (あるふ,@alfredplpl)</title>
-        <link>https://www.docswell.com/s/alfredplpl/K22JN9-2025-02-23-204416</link>
         <dc:date>2025-02-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
