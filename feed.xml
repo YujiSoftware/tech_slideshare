@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React 19アップデートのために必要なこと (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/react-19atupudetonotamenibi-yao-nakoto</link>
+        <dc:date>2025-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ハワイアン航空 ステータスへの道 #HAairstudy (maroon1st)</title>
         <link>https://speakerdeck.com/maroon1st/hawaianhang-kong-sutetasuhenodao-number-haairstudy</link>
         <dc:date>2025-02-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>0から作る動画生成AI (あるふ,@alfredplpl)</title>
         <link>https://www.docswell.com/s/alfredplpl/K22JN9-2025-02-23-204416</link>
-        <dc:date>2025-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サンプルコードによるC++23ジェネレータの紹介 (yoh,@yohhoy)</title>
-        <link>https://www.docswell.com/s/yohhoy/KEXQPG-cpp23gen</link>
         <dc:date>2025-02-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
