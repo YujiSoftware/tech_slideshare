@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>EDRの検知の仕組みと検知回避について (tera)</title>
+        <link>https://speakerdeck.com/chayakonanaika/edrnojian-zhi-noshi-zu-mitojian-zhi-hui-bi-nituite</link>
+        <dc:date>2025-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIプログラミング雑キャッチアップ (YuheiNakasaka)</title>
         <link>https://speakerdeck.com/yuheinakasaka/aipuroguraminguza-kiyatutiatupu</link>
         <dc:date>2025-02-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>オアフ島のブルワリー制覇してみた - おすすめブルワリーとモデルプラン (kensuke morimoto)</title>
         <link>https://speakerdeck.com/kemorimo/oahudao-noburuwarizhi-ba-sitemita-osusumeburuwaritomoderupuran</link>
-        <dc:date>2025-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脅威インテリジェンス＋SIGMAから始めるDetection Engineering (Tomohisa Ishikawa)</title>
-        <link>https://speakerdeck.com/scientia/detection-enginering-with-cti-and-sigma</link>
         <dc:date>2025-02-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
