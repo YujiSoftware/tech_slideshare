@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データ基盤のための Terraform Workflow を tfaction で構築しよう (Shunsuke Suzuki)</title>
+        <link>https://speakerdeck.com/szksh/tetaji-pan-notameno-terraform-workflow-wo-tfaction-tegou-zhu-siyou</link>
+        <dc:date>2025-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>企業も候補者も納得する採用プロセスとは？ 〜LayerXの実践事例〜 (LayerX)</title>
         <link>https://speakerdeck.com/layerx/winwin-engineer-hiring-layerx-202502</link>
         <dc:date>2025-02-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2025_02_Sake RAG (kaeru-0.5B,@mryo39)</title>
         <link>https://www.docswell.com/s/kaeru/ZP2XQ6-2025-02-26-004337</link>
-        <dc:date>2025-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データエンジニアリング領域におけるDuckDBのユースケース (chanyou0311)</title>
-        <link>https://speakerdeck.com/chanyou0311/tetaensiniarinkuling-yu-niokeruduckdbnoyusukesu</link>
         <dc:date>2025-02-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
