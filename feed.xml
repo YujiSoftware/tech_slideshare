@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンドで日時処理と戦うために 2025 ver (Saji)</title>
+        <link>https://speakerdeck.com/sajikix/hurontoendoderi-shi-chu-li-tozhan-utameni-2025-ver</link>
+        <dc:date>2025-02-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>推しメソッドsource_locationのしくみを探る - はじめてRubyのコードを読んでみた (nobu09)</title>
         <link>https://speakerdeck.com/nobu09/tui-simesotudosource-locationnosikumiwotan-ru-hazimeterubynokodowodu-ndemita</link>
         <dc:date>2025-02-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>遷移の高速化 ヤフートップの試行錯誤 (narirou)</title>
         <link>https://speakerdeck.com/narirou/qian-yi-nogao-su-hua-yahutotuhunoshi-xing-cuo-wu</link>
-        <dc:date>2025-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>超入門SRE 2025 (ryuichi1208)</title>
-        <link>https://speakerdeck.com/ryuichi1208/chao-ru-men-sre-2025</link>
         <dc:date>2025-02-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
