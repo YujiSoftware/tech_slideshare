@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>これからのデータ分析はPandasにDuckDBも併用して高速化しようという話 ver2025 (yonesuke,@ebichizu39)</title>
+        <link>https://www.docswell.com/s/yonesuke0716/5WW3GG-2025-02-25-214715</link>
+        <dc:date>2025-03-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rubyと自由とAIと (やきとりい)</title>
         <link>https://speakerdeck.com/yotii23/rubytozi-you-toaito</link>
         <dc:date>2025-03-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>重めタスクのオフロード先としてのWasmとWebGPU (Hiroya Kubo)</title>
         <link>https://speakerdeck.com/kubohiroya/zhong-metasukunoohurodoxian-tositenowasmtowebgpu</link>
-        <dc:date>2025-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェント元年@日本生成AIユーザ会 (Shu Kobuchi)</title>
-        <link>https://speakerdeck.com/shukob/aiezientoyuan-nian-at-ri-ben-sheng-cheng-aiyuzahui</link>
         <dc:date>2025-02-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
