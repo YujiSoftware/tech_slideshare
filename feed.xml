@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ドラッガーに学ぶスクラムマスターとしての振る舞い方 (Koito)</title>
+        <link>https://speakerdeck.com/yuhkoito/learn-how-to-behave-as-scrum-master-from-drucker</link>
+        <dc:date>2025-03-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>これからのデータ分析はPandasにDuckDBも併用して高速化しようという話 ver2025 (yonesuke,@ebichizu39)</title>
         <link>https://www.docswell.com/s/yonesuke0716/5WW3GG-2025-02-25-214715</link>
         <dc:date>2025-03-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>このwasm何か変… (famasoon)</title>
         <link>https://speakerdeck.com/famasoon/konowasmhe-kabian-dot-dot-dot</link>
-        <dc:date>2025-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>重めタスクのオフロード先としてのWasmとWebGPU (Hiroya Kubo)</title>
-        <link>https://speakerdeck.com/kubohiroya/zhong-metasukunoohurodoxian-tositenowasmtowebgpu</link>
         <dc:date>2025-02-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
