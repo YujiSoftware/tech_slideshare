@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>From Scala/Clojure to Kotlin (Kent OHASHI,@lagenorhynque)</title>
+        <link>https://www.docswell.com/s/lagenorhynque/Z4VMP8-from-scala-clojure-to-kotlin</link>
+        <dc:date>2025-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>デザイナーとPMの両ロール_３つのポイント (toy)</title>
         <link>https://speakerdeck.com/toy1618/dezainatopmnoliang-roru-3tunopointo</link>
         <dc:date>2025-03-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kotlinの開発でも AIをいい感じに使いたい / Making the Most of AI in Kotlin Development (kohii)</title>
         <link>https://speakerdeck.com/kohii00/making-the-most-of-ai-in-kotlin-development</link>
-        <dc:date>2025-02-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pwned Labsのすゝめ (Kengo Suzuki)</title>
-        <link>https://speakerdeck.com/ken5scal/pwned-labsnosu-me</link>
         <dc:date>2025-02-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
