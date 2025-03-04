@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FinOpsの考えをベースにした継続的なコスト改善の取り組み (Haruki Matsuno)</title>
+        <link>https://speakerdeck.com/sony_haruki_matsuno/finops-nokao-ewobesunisitaji-sok-de-nakosutogai-shan-noqu-rizu-mi-5730bd62-aaa9-4a63-9e6b-23cf5914f774</link>
+        <dc:date>2025-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェント開発のノウハウと課題 (PharmaX（旧YOJO Technologies）開発チーム)</title>
+        <link>https://speakerdeck.com/pharma_x_tech/aiezientokai-fa-nonouhautoke-ti</link>
+        <dc:date>2025-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最新 Azure AI Update_0303 (Daiki Kanemitsu)</title>
+        <link>https://speakerdeck.com/daikikanemitsu/zui-xin-azure-ai-update</link>
+        <dc:date>2025-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIエージェント時代の可能性と実践 #AIエージェント_findy (LayerX)</title>
         <link>https://speakerdeck.com/layerx/ai-agents-practice-202503</link>
         <dc:date>2025-03-03T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>これからのデータ分析はPandasにDuckDBも併用して高速化しようという話 ver2025 (yonesuke,@ebichizu39)</title>
         <link>https://www.docswell.com/s/yonesuke0716/5WW3GG-2025-02-25-214715</link>
-        <dc:date>2025-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rubyと自由とAIと (やきとりい)</title>
-        <link>https://speakerdeck.com/yotii23/rubytozi-you-toaito</link>
-        <dc:date>2025-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>見積りと提案の力を競う見積りソン/ an estimation-thon to compete on the quality of estimates and proposals (BPStudy)</title>
-        <link>https://speakerdeck.com/bpstudy/an-estimation-thon-to-compete-on-the-quality-of-estimates-and-proposals</link>
-        <dc:date>2025-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSではじめる Web APIテスト実践ガイド / A practical guide to testing Web APIs on AWS (Yoichi Kawasaki)</title>
-        <link>https://speakerdeck.com/yokawasa/a-practical-guide-to-testing-web-apis-on-aws</link>
         <dc:date>2025-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
