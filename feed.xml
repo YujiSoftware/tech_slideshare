@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIエージェント時代の可能性と実践 #AIエージェント_findy (LayerX)</title>
+        <link>https://speakerdeck.com/layerx/ai-agents-practice-202503</link>
+        <dc:date>2025-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IAMのマニアックな話2025 (NRI Netcom)</title>
         <link>https://speakerdeck.com/nrinetcom/iamnomaniatukunahua-2025</link>
         <dc:date>2025-03-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWSではじめる Web APIテスト実践ガイド / A practical guide to testing Web APIs on AWS (Yoichi Kawasaki)</title>
         <link>https://speakerdeck.com/yokawasa/a-practical-guide-to-testing-web-apis-on-aws</link>
-        <dc:date>2025-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「候補者をファンにする」エンジニア採用 (monzou)</title>
-        <link>https://speakerdeck.com/monzou/hou-bu-zhe-wohuannisuru-ensiniacai-yong</link>
         <dc:date>2025-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
