@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PEPCは何を変えようとしていたのか (ken7253)</title>
+        <link>https://speakerdeck.com/ken7253/pepchahe-wobian-eyoutositeitanoka</link>
+        <dc:date>2025-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>FinOpsの考えをベースにした継続的なコスト改善の取り組み (Haruki Matsuno)</title>
         <link>https://speakerdeck.com/sony_haruki_matsuno/finops-nokao-ewobesunisitaji-sok-de-nakosutogai-shan-noqu-rizu-mi-5730bd62-aaa9-4a63-9e6b-23cf5914f774</link>
         <dc:date>2025-03-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ドラッガーに学ぶスクラムマスターとしての振る舞い方 (Koito)</title>
         <link>https://speakerdeck.com/yuhkoito/learn-how-to-behave-as-scrum-master-from-drucker</link>
-        <dc:date>2025-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これからのデータ分析はPandasにDuckDBも併用して高速化しようという話 ver2025 (yonesuke,@ebichizu39)</title>
-        <link>https://www.docswell.com/s/yonesuke0716/5WW3GG-2025-02-25-214715</link>
         <dc:date>2025-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
