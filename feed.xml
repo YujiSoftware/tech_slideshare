@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI Agent時代なのでAWSのLLMs.txtが欲しい！ (watany)</title>
+        <link>https://speakerdeck.com/watany/we-wants-llms-dot-txt</link>
+        <dc:date>2025-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>機能が複雑化しても 頼りになる FactoryBotの話 (Tamiko.f)</title>
         <link>https://speakerdeck.com/tamikof/ji-neng-gafu-za-hua-sitemo-lai-rininaru-factorybotnohua</link>
         <dc:date>2025-03-04T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>デザインチームの取り組みについて (kanayan)</title>
         <link>https://speakerdeck.com/renakanahama/dezaintimunoqu-rizu-minituite</link>
         <dc:date>2025-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ElasticsearchでSPLADEする [Search Engineering Tech Talk 2025 Winter] (kota usuha)</title>
-        <link>https://www.slideshare.net/slideshow/elasticsearch-splade-search-engineering-tech-talk-2025-winter-433f/276117844</link>
-        <dc:date>2025-03-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
