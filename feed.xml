@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「一つのVPCを作る」徹底討論 (Shota Shiratori)</title>
+        <link>https://speakerdeck.com/shotashiratori/tunovpcwozuo-ru-che-di-tao-lun</link>
+        <dc:date>2025-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Apache Iceberg を学び Amazon S3 Tables を活用しよう (bering)</title>
         <link>https://speakerdeck.com/bering/apache-iceberg-woxue-bi-amazon-s3-tables-wohuo-yong-siyou</link>
         <dc:date>2025-03-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ユーザーにとってファイル管理の中心はやっぱり OneDrive だろう (Ota Hirofumi,@hrfmjp)</title>
         <link>https://www.docswell.com/s/hrfmjp/5P2XNL-2025-03-03-084735</link>
-        <dc:date>2025-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS FESTA 2024「バスロケ」GPS×サーバーレスの開発と運用の舞台裏/jawsfesta2024-bus-gps-serverless (Kohei "Max" MATSUSHITA)</title>
-        <link>https://speakerdeck.com/ma2shita/jawsfesta2024-bus-gps-serverless</link>
         <dc:date>2025-03-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
