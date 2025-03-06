@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The Clean ArchitectureがWebフロントエンドでしっくりこないのは何故か / Why The Clean Architecture does not fit with Web Frontend (Takuto Wada)</title>
+        <link>https://speakerdeck.com/twada/why-the-clean-architecture-does-not-fit-with-web-frontend</link>
+        <dc:date>2025-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Lambdaの監視、できてますか？Datadogを用いてLambdaを見守ろう (Nealle)</title>
+        <link>https://speakerdeck.com/nealle/lambdanojian-shi-dekitemasuka-datadogwoyong-itelambdawojian-shou-rou</link>
+        <dc:date>2025-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サバイバルモード下でのエンジニアリングマネジメント (konifar)</title>
         <link>https://speakerdeck.com/konifar/sahaiharumotoxia-tenoensiniarinkumanesimento</link>
         <dc:date>2025-03-05T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>AIエージェント開発のノウハウと課題 (PharmaX（旧YOJO Technologies）開発チーム)</title>
         <link>https://speakerdeck.com/pharma_x_tech/aiezientokai-fa-nonouhautoke-ti</link>
         <dc:date>2025-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最新 Azure AI Update_0303 (Daiki Kanemitsu)</title>
-        <link>https://speakerdeck.com/daikikanemitsu/zui-xin-azure-ai-update</link>
-        <dc:date>2025-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェント時代の可能性と実践 #AIエージェント_findy (LayerX)</title>
-        <link>https://speakerdeck.com/layerx/ai-agents-practice-202503</link>
-        <dc:date>2025-03-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
