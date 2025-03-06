@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Apache Iceberg を学び Amazon S3 Tables を活用しよう (bering)</title>
+        <link>https://speakerdeck.com/bering/apache-iceberg-woxue-bi-amazon-s3-tables-wohuo-yong-siyou</link>
+        <dc:date>2025-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kaggle自然言語処理コンペ向けローカルLLM活用入門 (tatematsu)</title>
+        <link>https://speakerdeck.com/k951286/kagglezi-ran-yan-yu-chu-li-konpexiang-kerokarullmhuo-yong-ru-men</link>
+        <dc:date>2025-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>目標を軸にしたふりかえりでパフォーマンスを上げる / Using goals to improve performance (tbpgr)</title>
         <link>https://speakerdeck.com/tbpgr/using-goals-to-improve-performance</link>
         <dc:date>2025-03-05T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>JAWS FESTA 2024「バスロケ」GPS×サーバーレスの開発と運用の舞台裏/jawsfesta2024-bus-gps-serverless (Kohei "Max" MATSUSHITA)</title>
         <link>https://speakerdeck.com/ma2shita/jawsfesta2024-bus-gps-serverless</link>
         <dc:date>2025-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウド関連のインシデントケースを収集して見えてきたもの (LHazy)</title>
-        <link>https://speakerdeck.com/lhazy/kuraudoguan-lian-noinsidentokesuwoshou-ji-sitejian-etekitamono</link>
-        <dc:date>2025-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2002年無職の旅</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vThuHxOttu3eHkkXyriI4Y1zuaJeprKz-pkWydcLRZqsjp0t_7dAx1bem0Bfepj3mp0JA3G1SDZyucl/pub</link>
-        <dc:date>2025-03-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
