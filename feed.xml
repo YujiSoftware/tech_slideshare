@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>400超Lambda構成アプリケーションの漸進的リアーキテクチャ (Shodai Suzuki)</title>
+        <link>https://speakerdeck.com/soarteclab/400chao-lambdagou-cheng-apurikesiyonnojian-jin-de-riakitekutiya</link>
+        <dc:date>2025-03-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>入門リトライ (ryuichi1208)</title>
         <link>https://speakerdeck.com/ryuichi1208/ru-men-ritorai</link>
         <dc:date>2025-03-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>５分でワカル!? ROSとはなにか</title>
         <link>https://docs.google.com/presentation/d/1BZU3nFDiSrUU7wAMpqgY4kU6-65wxzvfHVRZigsHlDI/preview</link>
-        <dc:date>2025-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>どちらかだけじゃもったいないかも？ ECSとEKSを適材適所で併用するメリット、運用課題とそれらの対応について (Hiroki Takatsuka)</title>
-        <link>https://speakerdeck.com/tk3fftk/dotirakadakeziyamotutainaikamo-ecstoekswoshi-cai-shi-suo-debing-yong-surumerituto-yun-yong-ke-ti-tosoreranodui-ying-nituite</link>
         <dc:date>2025-03-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
