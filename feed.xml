@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オレを救った Cline を紹介する (Kei Kamikawa)</title>
+        <link>https://speakerdeck.com/codehex/orewojiu-tuta-cline-woshao-jie-suru</link>
+        <dc:date>2025-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Databricksで挑む！SEGAのデータ活用の次なる一歩 (Databricks Japan)</title>
         <link>https://speakerdeck.com/databricksjapan/sega-future-of-data-analytics-with-databricks</link>
         <dc:date>2025-03-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>困難を「一般解」で解く (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/findy-2025-03-05</link>
-        <dc:date>2025-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI自体のOps 〜LLMアプリの運用、AWSサービスとOSSの使い分け〜 (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/aizi-ti-noops-llmapurinoyun-yong-awssabisutoossnoshi-ifen-ke</link>
         <dc:date>2025-03-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
