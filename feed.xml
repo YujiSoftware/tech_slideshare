@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Databricks AI/BIクイックワークショップ (Databricks Japan)</title>
+        <link>https://speakerdeck.com/databricksjapan/aibi-quick-workshop</link>
+        <dc:date>2025-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JEDAI Meetup! Databricks AI/BI概要 (Databricks Japan)</title>
+        <link>https://speakerdeck.com/databricksjapan/jedai-meetup-databricks-aibi-overview</link>
+        <dc:date>2025-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Webフレームワークとともに利用するWeb components / JSConf.jp おかわり (spring_raining)</title>
         <link>https://speakerdeck.com/spring_raining/jsconf-dot-jp-okawari</link>
         <dc:date>2025-03-06T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>機能が複雑化しても 頼りになる FactoryBotの話 (Tamiko.f)</title>
         <link>https://speakerdeck.com/tamikof/ji-neng-gafu-za-hua-sitemo-lai-rininaru-factorybotnohua</link>
-        <dc:date>2025-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PEPCは何を変えようとしていたのか (ken7253)</title>
-        <link>https://speakerdeck.com/ken7253/pepchahe-wobian-eyoutositeitanoka</link>
-        <dc:date>2025-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FinOpsの考えをベースにした継続的なコスト改善の取り組み (Haruki Matsuno)</title>
-        <link>https://speakerdeck.com/sony_haruki_matsuno/finops-nokao-ewobesunisitaji-sok-de-nakosutogai-shan-noqu-rizu-mi-5730bd62-aaa9-4a63-9e6b-23cf5914f774</link>
         <dc:date>2025-03-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
