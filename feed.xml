@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Databricksで挑む！SEGAのデータ活用の次なる一歩 (Databricks Japan)</title>
+        <link>https://speakerdeck.com/databricksjapan/sega-future-of-data-analytics-with-databricks</link>
+        <dc:date>2025-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MILIZE ProにおけるDatabricks活用事例 -データカタログ化とコードAI Agentによる開 発実情 (onhrs)</title>
+        <link>https://speakerdeck.com/onhrs0622/milize-proniokerudatabrickshuo-yong-shi-li-detakataroguhua-tokodoai-agentniyorukai-fa-shi-qing</link>
+        <dc:date>2025-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Databricks AI/BIクイックワークショップ (Databricks Japan)</title>
         <link>https://speakerdeck.com/databricksjapan/aibi-quick-workshop</link>
         <dc:date>2025-03-06T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AI自体のOps 〜LLMアプリの運用、AWSサービスとOSSの使い分け〜 (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/aizi-ti-noops-llmapurinoyun-yong-awssabisutoossnoshi-ifen-ke</link>
-        <dc:date>2025-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Agent時代なのでAWSのLLMs.txtが欲しい！ (watany)</title>
-        <link>https://speakerdeck.com/watany/we-wants-llms-dot-txt</link>
-        <dc:date>2025-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機能が複雑化しても 頼りになる FactoryBotの話 (Tamiko.f)</title>
-        <link>https://speakerdeck.com/tamikof/ji-neng-gafu-za-hua-sitemo-lai-rininaru-factorybotnohua</link>
         <dc:date>2025-03-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
