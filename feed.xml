@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>変わりゆくもの、変わらないもの。 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
+        <link>https://www.docswell.com/s/tyonekubo/ZMX3Y2-2025-03-09-kinoko</link>
+        <dc:date>2025-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自分のためから誰かのためへ (shimabox)</title>
         <link>https://speakerdeck.com/shimabox/zi-fen-notamekarashui-kanotamehe</link>
         <dc:date>2025-03-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Databricks AI/BIクイックワークショップ (Databricks Japan)</title>
         <link>https://speakerdeck.com/databricksjapan/aibi-quick-workshop</link>
-        <dc:date>2025-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JEDAI Meetup! Databricks AI/BI概要 (Databricks Japan)</title>
-        <link>https://speakerdeck.com/databricksjapan/jedai-meetup-databricks-aibi-overview</link>
         <dc:date>2025-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
