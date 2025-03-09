@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI-Agent時代のエンジニアの役割と野性 (おだかとしゆき)</title>
+        <link>https://speakerdeck.com/jgeem/ai-agentshi-dai-noenzinianoyi-ge-toye-xing</link>
+        <dc:date>2025-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>人生を左右する「即答」のススメ: 一瞬の判断を間違えないためにするべきこと (Sugiyama Takaaki)</title>
+        <link>https://speakerdeck.com/takasyou/ren-sheng-wozuo-you-suru-ji-da-nosusume-shun-nopan-duan-wojian-wei-enaitamenisurubekikoto</link>
+        <dc:date>2025-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアの健康管理術 / Engineer Health Management Techniques (y_sone)</title>
         <link>https://speakerdeck.com/y_sone/engineer-health-management-techniques</link>
         <dc:date>2025-03-08T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Webフレームワークとともに利用するWeb components / JSConf.jp おかわり (spring_raining)</title>
         <link>https://speakerdeck.com/spring_raining/jsconf-dot-jp-okawari</link>
-        <dc:date>2025-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Clean ArchitectureがWebフロントエンドでしっくりこないのは何故か / Why The Clean Architecture does not fit with Web Frontend (Takuto Wada)</title>
-        <link>https://speakerdeck.com/twada/why-the-clean-architecture-does-not-fit-with-web-frontend</link>
-        <dc:date>2025-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Lambdaの監視、できてますか？Datadogを用いてLambdaを見守ろう (Nealle)</title>
-        <link>https://speakerdeck.com/nealle/lambdanojian-shi-dekitemasuka-datadogwoyong-itelambdawojian-shou-rou</link>
         <dc:date>2025-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
