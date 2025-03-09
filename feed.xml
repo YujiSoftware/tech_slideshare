@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最近のSRE支援ニーズ考察  | sogaoh's LT @ Road to SRE NEXT@札幌 (Hisashi SOGA)</title>
+        <link>https://speakerdeck.com/sogaoh/20250307-roadtosrenext-sapporo2025-lt</link>
+        <dc:date>2025-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>行列分解を用いたメタアナリシスによる有害事象のパターン抽出 (Kentaro Matsuura,@hankagosa)</title>
         <link>https://www.docswell.com/s/MatsuuraKentaro/ZN1Q7L-2025-03-07-145044</link>
         <dc:date>2025-03-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>良いコードレビューとは (Hideaki ishii)</title>
         <link>https://speakerdeck.com/danimal141/liang-ikodorebiyutoha</link>
-        <dc:date>2025-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「一つのVPCを作る」徹底討論 (Shota Shiratori)</title>
-        <link>https://speakerdeck.com/shotashiratori/tunovpcwozuo-ru-che-di-tao-lun</link>
         <dc:date>2025-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
