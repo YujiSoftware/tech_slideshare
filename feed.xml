@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Introduction to C Extensions (sylph01)</title>
+        <link>https://speakerdeck.com/sylph01/introduction-to-c-extensions</link>
+        <dc:date>2025-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最近のSRE支援ニーズ考察  | sogaoh's LT @ Road to SRE NEXT@札幌 (Hisashi SOGA)</title>
         <link>https://speakerdeck.com/sogaoh/20250307-roadtosrenext-sapporo2025-lt</link>
         <dc:date>2025-03-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サバイバルモード下でのエンジニアリングマネジメント (konifar)</title>
         <link>https://speakerdeck.com/konifar/sahaiharumotoxia-tenoensiniarinkumanesimento</link>
-        <dc:date>2025-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>良いコードレビューとは (Hideaki ishii)</title>
-        <link>https://speakerdeck.com/danimal141/liang-ikodorebiyutoha</link>
         <dc:date>2025-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
