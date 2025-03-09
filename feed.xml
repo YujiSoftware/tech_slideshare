@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアの健康管理術 / Engineer Health Management Techniques (y_sone)</title>
+        <link>https://speakerdeck.com/y_sone/engineer-health-management-techniques</link>
+        <dc:date>2025-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Introduction to C Extensions (sylph01)</title>
         <link>https://speakerdeck.com/sylph01/introduction-to-c-extensions</link>
         <dc:date>2025-03-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Lambdaの監視、できてますか？Datadogを用いてLambdaを見守ろう (Nealle)</title>
         <link>https://speakerdeck.com/nealle/lambdanojian-shi-dekitemasuka-datadogwoyong-itelambdawojian-shou-rou</link>
         <dc:date>2025-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サバイバルモード下でのエンジニアリングマネジメント (konifar)</title>
-        <link>https://speakerdeck.com/konifar/sahaiharumotoxia-tenoensiniarinkumanesimento</link>
-        <dc:date>2025-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
