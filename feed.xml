@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>言語モデルの内部機序：解析と解釈 (Sho Yokoi)</title>
+        <link>https://speakerdeck.com/eumesy/analysis_and_interpretation_of_language_models</link>
+        <dc:date>2025-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20250309 無冠のわたし これからどう先生きのこれる？ (Akiko Takano)</title>
         <link>https://speakerdeck.com/akiko_pusu/20250309-wu-guan-nowatasi-korekaradouxian-sheng-kinokoreru</link>
         <dc:date>2025-03-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>オレを救った Cline を紹介する (Kei Kamikawa)</title>
         <link>https://speakerdeck.com/codehex/orewojiu-tuta-cline-woshao-jie-suru</link>
-        <dc:date>2025-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Databricksで挑む！SEGAのデータ活用の次なる一歩 (Databricks Japan)</title>
-        <link>https://speakerdeck.com/databricksjapan/sega-future-of-data-analytics-with-databricks</link>
         <dc:date>2025-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
