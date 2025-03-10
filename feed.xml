@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>クラウドセキュリティのベストプラクティスと実装例 /cloudsec-bestpractice-example (Masayoshi Mizutani)</title>
+        <link>https://speakerdeck.com/mizutani/cloudsec-bestpractice-example</link>
+        <dc:date>2025-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>所属企業の選択について / Company Selection (とうま)</title>
         <link>https://speakerdeck.com/toma_sm/company-selection</link>
         <dc:date>2025-03-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Google Cloudとo11yで実現するアプリケーション開発者主体のDB改善 (nnaka2992)</title>
         <link>https://speakerdeck.com/nnaka2992/google-cloudtoo11ydeshi-xian-suruapurikesiyonkai-fa-zhe-zhu-ti-nodbgai-shan</link>
-        <dc:date>2025-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>x86-64 Assembly Essentials (Latte72)</title>
-        <link>https://speakerdeck.com/latte72/x86-64-assembly-essentials</link>
         <dc:date>2025-03-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
