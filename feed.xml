@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title> WebRTCの会　OpenAI Realtime API Embedded SDK  で喋るAIミニ四駆 をつくってみた</title>
+        <link>https://docs.google.com/presentation/d/1IUN5OKqPPHv9t1KW0DgdUm1qCc0xf0-LJat7rNvK55Q/preview</link>
+        <dc:date>2025-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クラウドセキュリティのベストプラクティスと実装例 /cloudsec-bestpractice-example (Masayoshi Mizutani)</title>
         <link>https://speakerdeck.com/mizutani/cloudsec-bestpractice-example</link>
         <dc:date>2025-03-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【Snowflake九州ユーザー会#2】BigQueryとSnowflakeを比較してそれぞれの良し悪しを掴む / BigQuery vs Snowflake: Pros &amp; Cons (Civitaspo)</title>
         <link>https://speakerdeck.com/civitaspo/bigquery-vs-snowflake-pros-and-cons</link>
-        <dc:date>2025-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloudとo11yで実現するアプリケーション開発者主体のDB改善 (nnaka2992)</title>
-        <link>https://speakerdeck.com/nnaka2992/google-cloudtoo11ydeshi-xian-suruapurikesiyonkai-fa-zhe-zhu-ti-nodbgai-shan</link>
         <dc:date>2025-03-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
