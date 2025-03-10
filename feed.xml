@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>所属企業の選択について / Company Selection (とうま)</title>
+        <link>https://speakerdeck.com/toma_sm/company-selection</link>
+        <dc:date>2025-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ことばの意味を計算するしくみ (Hitomi Yanaka)</title>
         <link>https://speakerdeck.com/verypluming/kotobanoyi-wei-woji-suan-surusikumi</link>
         <dc:date>2025-03-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>x86-64 Assembly Essentials (Latte72)</title>
         <link>https://speakerdeck.com/latte72/x86-64-assembly-essentials</link>
-        <dc:date>2025-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>400超Lambda構成アプリケーションの漸進的リアーキテクチャ (Shodai Suzuki)</title>
-        <link>https://speakerdeck.com/soarteclab/400chao-lambdagou-cheng-apurikesiyonnojian-jin-de-riakitekutiya</link>
         <dc:date>2025-03-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
