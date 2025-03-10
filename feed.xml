@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ことばの意味を計算するしくみ (Hitomi Yanaka)</title>
+        <link>https://speakerdeck.com/verypluming/kotobanoyi-wei-woji-suan-surusikumi</link>
+        <dc:date>2025-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Platform Engineeringで クラウドの「楽しくない」を解消しよう (Kazuto Kusama)</title>
         <link>https://speakerdeck.com/jacopen/platform-engineeringde-kuraudono-le-sikunai-wojie-xiao-siyou</link>
         <dc:date>2025-03-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>400超Lambda構成アプリケーションの漸進的リアーキテクチャ (Shodai Suzuki)</title>
         <link>https://speakerdeck.com/soarteclab/400chao-lambdagou-cheng-apurikesiyonnojian-jin-de-riakitekutiya</link>
         <dc:date>2025-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入門リトライ (ryuichi1208)</title>
-        <link>https://speakerdeck.com/ryuichi1208/ru-men-ritorai</link>
-        <dc:date>2025-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
