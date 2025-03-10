@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアのキャリアパスと、 その中で自分が大切にしていること (note)</title>
+        <link>https://speakerdeck.com/noteinc/enzinianokiyariapasuto-sonozhong-dezi-fen-gada-qie-nisiteirukoto</link>
+        <dc:date>2025-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>書籍『入門 OpenTelemetry』 / Intro of OpenTelemetry book (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/intro-of-opentelemetry-book</link>
+        <dc:date>2025-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Devin入門 〜月500ドルから始まるAIチームメイトとの開発生活〜 / Introduction Devin 〜Development With AI Teammates〜 (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/introduction-devin-development-with-ai-teammates</link>
+        <dc:date>2025-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title> WebRTCの会　OpenAI Realtime API Embedded SDK  で喋るAIミニ四駆 をつくってみた</title>
         <link>https://docs.google.com/presentation/d/1IUN5OKqPPHv9t1KW0DgdUm1qCc0xf0-LJat7rNvK55Q/preview</link>
         <dc:date>2025-03-09T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>LayerXにおけるAI活用事例とその裏側（2025年2月） バクラクの目指す “業務の自動運転” の例 / layerx-ai-deim2025 (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/layerx-ai-deim2025</link>
         <dc:date>2025-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>User Story Mapping + Inclusive Team (Yasunobu Kawaguchi)</title>
-        <link>https://speakerdeck.com/kawaguti/user-story-mapping-plus-inclusive-team</link>
-        <dc:date>2025-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>職位にかかわらず全員がリーダーシップを発揮するチーム作り / Building a team where everyone can demonstrate leadership, regardless of position (madox)</title>
-        <link>https://speakerdeck.com/madoxten/building-a-team-where-everyone-can-demonstrate-leadership-regardless-of-position</link>
-        <dc:date>2025-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【Snowflake九州ユーザー会#2】BigQueryとSnowflakeを比較してそれぞれの良し悪しを掴む / BigQuery vs Snowflake: Pros &amp; Cons (Civitaspo)</title>
-        <link>https://speakerdeck.com/civitaspo/bigquery-vs-snowflake-pros-and-cons</link>
-        <dc:date>2025-03-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
