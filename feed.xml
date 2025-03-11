@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>事業を差別化する技術を生み出す技術 (Kazuhiko Yamashita)</title>
+        <link>https://speakerdeck.com/pyama86/shi-ye-wochai-bie-hua-suruji-shu-wosheng-michu-suji-shu</link>
+        <dc:date>2025-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>はじめてのIssueOps - GitHub Actionsで実現するコメント駆動オペレーション (tmknom)</title>
         <link>https://speakerdeck.com/tmknom/introducing-issue-ops</link>
         <dc:date>2025-03-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Introduction to C Extensions (sylph01)</title>
         <link>https://speakerdeck.com/sylph01/introduction-to-c-extensions</link>
-        <dc:date>2025-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最近のSRE支援ニーズ考察  | sogaoh's LT @ Road to SRE NEXT@札幌 (Hisashi SOGA)</title>
-        <link>https://speakerdeck.com/sogaoh/20250307-roadtosrenext-sapporo2025-lt</link>
         <dc:date>2025-03-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
