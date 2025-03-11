@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Figma102_デザインからアプリ実装まで一貫したデザインシステムを構築するベストプラクティス (Shuzo Takahashi)</title>
+        <link>https://speakerdeck.com/shuzo/figma102-tesainkaraahurishi-zhuang-mate-guan-sitatesainsisutemuwogou-zhu-suruhesutohurakuteisu</link>
+        <dc:date>2025-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事業を差別化する技術を生み出す技術 (Kazuhiko Yamashita)</title>
         <link>https://speakerdeck.com/pyama86/shi-ye-wochai-bie-hua-suruji-shu-wosheng-michu-suji-shu</link>
         <dc:date>2025-03-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エンジニアの健康管理術 / Engineer Health Management Techniques (y_sone)</title>
         <link>https://speakerdeck.com/y_sone/engineer-health-management-techniques</link>
-        <dc:date>2025-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction to C Extensions (sylph01)</title>
-        <link>https://speakerdeck.com/sylph01/introduction-to-c-extensions</link>
         <dc:date>2025-03-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
