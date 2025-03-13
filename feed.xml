@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアリング 💰Moneyジャー / Engineering Money-ger (Kenichi Takahashi)</title>
+        <link>https://speakerdeck.com/kenchan/enziniaringu-moneyziya</link>
+        <dc:date>2025-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Goで作るChrome Extensions / Fukuoka.go #21 (yukyan)</title>
         <link>https://speakerdeck.com/n3xem/fukuoka-dot-go-number-21</link>
         <dc:date>2025-03-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>変わりゆくもの、変わらないもの。 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
         <link>https://www.docswell.com/s/tyonekubo/ZMX3Y2-2025-03-09-kinoko</link>
-        <dc:date>2025-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自分のためから誰かのためへ (shimabox)</title>
-        <link>https://speakerdeck.com/shimabox/zi-fen-notamekarashui-kanotamehe</link>
         <dc:date>2025-03-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
