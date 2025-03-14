@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアに許された特別な時間の終わり (watany)</title>
+        <link>https://speakerdeck.com/watany/the-end-of-the-special-time-granted-to-engineers</link>
+        <dc:date>2025-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SwiftUIのObservationツールの挙動をテストしてみた (KenShih)</title>
         <link>https://speakerdeck.com/kenshih522/swiftuinoobservationturunoju-dong-wotesutositemita</link>
         <dc:date>2025-03-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Platform Engineeringで クラウドの「楽しくない」を解消しよう (Kazuto Kusama)</title>
         <link>https://speakerdeck.com/jacopen/platform-engineeringde-kuraudono-le-sikunai-wojie-xiao-siyou</link>
-        <dc:date>2025-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>言語モデルの内部機序：解析と解釈 (Sho Yokoi)</title>
-        <link>https://speakerdeck.com/eumesy/analysis_and_interpretation_of_language_models</link>
         <dc:date>2025-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
