@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>学校の提出物管理もPleasanterで!</title>
+        <link>https://docs.google.com/presentation/d/1HUuQ-_Fai13UctyZpXjFZMu0Cvt_x-nNVupq8ygUV80/preview</link>
+        <dc:date>2025-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Zephyr RTOS Tutorial &amp; MeetUp @ OSC2025Tokyo/Spring 駒澤大学種月館 (soburi)</title>
+        <link>https://speakerdeck.com/tokitahiroshi/spring-ju-ze-da-xue-zhong-yue-guan</link>
+        <dc:date>2025-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OSS構成管理ツールCMDBuild を使ったAWSリソース管理の自動化 (Satoru Funai)</title>
+        <link>https://speakerdeck.com/satorufunai/ossgou-cheng-guan-li-turucmdbuild-woshi-tutaawsrisosuguan-li-nozi-dong-hua</link>
+        <dc:date>2025-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>デスクトップだけじゃないUbuntu (Mitsuya Shibata)</title>
+        <link>https://speakerdeck.com/mtyshibata/desukutotupudakeziyanaiubuntu</link>
+        <dc:date>2025-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアに許された特別な時間の終わり (watany)</title>
         <link>https://speakerdeck.com/watany/the-end-of-the-special-time-granted-to-engineers</link>
         <dc:date>2025-03-13T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title> WebRTCの会　OpenAI Realtime API Embedded SDK  で喋るAIミニ四駆 をつくってみた</title>
         <link>https://docs.google.com/presentation/d/1IUN5OKqPPHv9t1KW0DgdUm1qCc0xf0-LJat7rNvK55Q/preview</link>
-        <dc:date>2025-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウドセキュリティのベストプラクティスと実装例 /cloudsec-bestpractice-example (Masayoshi Mizutani)</title>
-        <link>https://speakerdeck.com/mizutani/cloudsec-bestpractice-example</link>
-        <dc:date>2025-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>所属企業の選択について / Company Selection (とうま)</title>
-        <link>https://speakerdeck.com/toma_sm/company-selection</link>
-        <dc:date>2025-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ことばの意味を計算するしくみ (Hitomi Yanaka)</title>
-        <link>https://speakerdeck.com/verypluming/kotobanoyi-wei-woji-suan-surusikumi</link>
-        <dc:date>2025-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Platform Engineeringで クラウドの「楽しくない」を解消しよう (Kazuto Kusama)</title>
-        <link>https://speakerdeck.com/jacopen/platform-engineeringde-kuraudono-le-sikunai-wojie-xiao-siyou</link>
         <dc:date>2025-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
