@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RailsでCQRS/ESをやってみたきづき (suzuki masayuki)</title>
+        <link>https://speakerdeck.com/suzukimar/eswoyatutemitakiduki</link>
+        <dc:date>2025-03-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>多相メソッドの話</title>
         <link>https://docs.google.com/presentation/d/1xV7eJLsG25dqsaEcL7dOn5hhiV3wT7GFe4ZyjHebnQ4/preview</link>
         <dc:date>2025-03-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI_Agent_の作り方_近藤憲児 (Kenji KONDO)</title>
         <link>https://speakerdeck.com/kenjikondobai/ai-agent-nozuo-rifang-jin-teng-xian-er</link>
-        <dc:date>2025-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアリング 💰Moneyジャー / Engineering Money-ger (Kenichi Takahashi)</title>
-        <link>https://speakerdeck.com/kenchan/enziniaringu-moneyziya</link>
         <dc:date>2025-03-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
