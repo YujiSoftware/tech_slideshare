@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>多相メソッドの話</title>
+        <link>https://docs.google.com/presentation/d/1xV7eJLsG25dqsaEcL7dOn5hhiV3wT7GFe4ZyjHebnQ4/preview</link>
+        <dc:date>2025-03-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Scala meets WebAssembly (Rikito Taniguchi)</title>
+        <link>https://speakerdeck.com/tanishiking/scala-meets-webassembly</link>
+        <dc:date>2025-03-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>技術を育てる組織・組織を育てる技術 / technology and organization (motemen)</title>
         <link>https://speakerdeck.com/motemen/technology-and-organization</link>
         <dc:date>2025-03-14T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>エンジニアリング 💰Moneyジャー / Engineering Money-ger (Kenichi Takahashi)</title>
         <link>https://speakerdeck.com/kenchan/enziniaringu-moneyziya</link>
         <dc:date>2025-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goで作るChrome Extensions / Fukuoka.go #21 (yukyan)</title>
-        <link>https://speakerdeck.com/n3xem/fukuoka-dot-go-number-21</link>
-        <dc:date>2025-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>反省 モジュラモノリス タイミーの試行錯誤と現在地 (shunsugai)</title>
-        <link>https://speakerdeck.com/shunsugai/fan-sheng-moziyuramonorisu-taiminoshi-xing-cuo-wu-toxian-zai-di</link>
-        <dc:date>2025-03-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
