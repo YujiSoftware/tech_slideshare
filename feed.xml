@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>技術を育てる組織・組織を育てる技術 / technology and organization (motemen)</title>
+        <link>https://speakerdeck.com/motemen/technology-and-organization</link>
+        <dc:date>2025-03-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>そのドキュメント、ちゃんと息してる？ ~ 使われ続ける“生きた”ドキュメントの育て方 ~ (Natty)</title>
         <link>https://speakerdeck.com/natty_natty254/sonodokiyumento-tiyantoxi-siteru-shi-waresok-keru-sheng-kita-dokiyumentonoyu-tefang</link>
         <dc:date>2025-03-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>反省 モジュラモノリス タイミーの試行錯誤と現在地 (shunsugai)</title>
         <link>https://speakerdeck.com/shunsugai/fan-sheng-moziyuramonorisu-taiminoshi-xing-cuo-wu-toxian-zai-di</link>
-        <dc:date>2025-03-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Expoによるアプリ開発の現在地とReact Server Componentsが切り開く未来 (Yuku Kotani)</title>
-        <link>https://speakerdeck.com/yukukotani/expo-and-react-server-components</link>
         <dc:date>2025-03-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
