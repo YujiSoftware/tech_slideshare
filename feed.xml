@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RAGもファインチューニングも使わない 素朴なAIチャットボットを職場に導入した結果 (iwamot)</title>
+        <link>https://speakerdeck.com/iwamot/success-of-simple-ai-chatbot-in-workspace</link>
+        <dc:date>2025-03-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組織のスケールを見据えたプロジェクトリードエンジニア制度の実践 / Project Lead Engineer for Scaling Engineering Organization (Masato Ohba)</title>
         <link>https://speakerdeck.com/ohbarye/project-lead-engineer-for-scaling-engineering-organization</link>
         <dc:date>2025-03-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>事業を差別化する技術を生み出す技術 (Kazuhiko Yamashita)</title>
         <link>https://speakerdeck.com/pyama86/shi-ye-wochai-bie-hua-suruji-shu-wosheng-michu-suji-shu</link>
-        <dc:date>2025-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はじめてのIssueOps - GitHub Actionsで実現するコメント駆動オペレーション (tmknom)</title>
-        <link>https://speakerdeck.com/tmknom/introducing-issue-ops</link>
         <dc:date>2025-03-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
