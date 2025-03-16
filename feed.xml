@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20250416第23回オープンエッジデバイス研究会</title>
+        <link>https://docs.google.com/presentation/d/1AI1SqgYWJaRLdQhtprUZyTwJ_KyL6fwJSOQr2-sApAI/preview</link>
+        <dc:date>2025-03-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IoT Get Started Day M5Stackハンズオン資料</title>
+        <link>https://docs.google.com/presentation/d/1ZdIbEA59_p1aXXCSSdUg7qN61V2XVPYuz0DYMG9fMSg/preview</link>
+        <dc:date>2025-03-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プラクティスの名前は言わない方がいい / Not to mention the name of the practice (Ryusei Ohkura)</title>
+        <link>https://speakerdeck.com/3l4l5/not-to-mention-the-name-of-the-practice</link>
+        <dc:date>2025-03-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RailsでCQRS/ESをやってみたきづき (suzuki masayuki)</title>
         <link>https://speakerdeck.com/suzukimar/eswoyatutemitakiduki</link>
         <dc:date>2025-03-15T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>エンジニアに許された特別な時間の終わり (watany)</title>
         <link>https://speakerdeck.com/watany/the-end-of-the-special-time-granted-to-engineers</link>
         <dc:date>2025-03-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SwiftUIのObservationツールの挙動をテストしてみた (KenShih)</title>
-        <link>https://speakerdeck.com/kenshih522/swiftuinoobservationturunoju-dong-wotesutositemita</link>
-        <dc:date>2025-03-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いまから始めるAWS CDK 〜モダンなインフラ構築入門〜/iac-night-cdk-introduction (tomoki10)</title>
-        <link>https://speakerdeck.com/tomoki10/iac-night-cdk-introduction</link>
-        <dc:date>2025-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI_Agent_の作り方_近藤憲児 (Kenji KONDO)</title>
-        <link>https://speakerdeck.com/kenjikondobai/ai-agent-nozuo-rifang-jin-teng-xian-er</link>
-        <dc:date>2025-03-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
