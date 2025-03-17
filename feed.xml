@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>一歩ずつ成長しながら進める ZOZOの基幹システムリプレイス/Growing Stap by Stap ZOZO BackOffice System Replacement (takumi.okamoto)</title>
+        <link>https://speakerdeck.com/cocet33000/growing-stap-by-stap-zozo-backoffice-system-replacement</link>
+        <dc:date>2025-03-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DenoでOpenTelemetryに入門する (nus3)</title>
         <link>https://speakerdeck.com/yotahada3/deno-otel</link>
         <dc:date>2025-03-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Zephyr RTOS Tutorial &amp; MeetUp @ OSC2025Tokyo/Spring 駒澤大学種月館 (soburi)</title>
         <link>https://speakerdeck.com/tokitahiroshi/spring-ju-ze-da-xue-zhong-yue-guan</link>
-        <dc:date>2025-03-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OSS構成管理ツールCMDBuild を使ったAWSリソース管理の自動化 (Satoru Funai)</title>
-        <link>https://speakerdeck.com/satorufunai/ossgou-cheng-guan-li-turucmdbuild-woshi-tutaawsrisosuguan-li-nozi-dong-hua</link>
         <dc:date>2025-03-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
