@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DenoでOpenTelemetryに入門する (nus3)</title>
+        <link>https://speakerdeck.com/yotahada3/deno-otel</link>
+        <dc:date>2025-03-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>心に灯を、過去に​感謝を、​​​​​​​未来に花束を。​ (viva_tweet_x)</title>
         <link>https://speakerdeck.com/viva_tweet_x/xin-nideng-wo-guo-qu-nigan-xie-wo-wei-lai-nihua-shu-wo</link>
         <dc:date>2025-03-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>OSS構成管理ツールCMDBuild を使ったAWSリソース管理の自動化 (Satoru Funai)</title>
         <link>https://speakerdeck.com/satorufunai/ossgou-cheng-guan-li-turucmdbuild-woshi-tutaawsrisosuguan-li-nozi-dong-hua</link>
-        <dc:date>2025-03-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デスクトップだけじゃないUbuntu (Mitsuya Shibata)</title>
-        <link>https://speakerdeck.com/mtyshibata/desukutotupudakeziyanaiubuntu</link>
         <dc:date>2025-03-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
