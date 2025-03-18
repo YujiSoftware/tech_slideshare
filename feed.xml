@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Streamlitの細かい話 (NISHIKAWA, Daisuke)</title>
+        <link>https://speakerdeck.com/nishikawadaisuke/streamlitnoxi-kaihua</link>
+        <dc:date>2025-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>知識を蓄積していくAI駆動開発 (hayata-yamamoto)</title>
         <link>https://speakerdeck.com/hayata_yamamoto/zhi-shi-woxu-ji-siteikuaiqu-dong-kai-fa</link>
         <dc:date>2025-03-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>多相メソッドの話</title>
         <link>https://docs.google.com/presentation/d/1xV7eJLsG25dqsaEcL7dOn5hhiV3wT7GFe4ZyjHebnQ4/preview</link>
-        <dc:date>2025-03-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Scala meets WebAssembly (Rikito Taniguchi)</title>
-        <link>https://speakerdeck.com/tanishiking/scala-meets-webassembly</link>
         <dc:date>2025-03-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
