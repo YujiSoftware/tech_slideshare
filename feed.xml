@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Postmanワークショップ - モックサーバー - 20250318</title>
+        <link>https://docs.google.com/presentation/d/1olEvG-UZlwxS5RRVZ1bFPNzOqwIVHVmsw3tfgLqDrTE/preview</link>
+        <dc:date>2025-03-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20250314_第６回_データサイエンティストの応援団_ゲスト松村さん (NobuakiOshiro)</title>
         <link>https://speakerdeck.com/doradora09/20250314-di-6hui-tetasaienteisutonoying-yuan-tuan-kesutosong-cun-san</link>
         <dc:date>2025-03-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>クラウドのテレメトリーシステム研究動向2025年 (Yuuki Tsubouchi (yuuk1))</title>
         <link>https://speakerdeck.com/yuukit/telemetry-systems-research-trends-in-2025</link>
-        <dc:date>2025-03-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deep Dive into deno lint plugin (Yusuke Tanaka,@yusuktan)</title>
-        <link>https://www.docswell.com/s/magurotuna/5YDLWV-2025-03-14-toranoana-deno-20</link>
         <dc:date>2025-03-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
