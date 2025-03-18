@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Jasprが凄い話 (Hayami Shuhei)</title>
+        <link>https://speakerdeck.com/hyshu/jasprgaqi-ihua</link>
+        <dc:date>2025-03-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Postmanワークショップ - モックサーバー - 20250318</title>
         <link>https://docs.google.com/presentation/d/1olEvG-UZlwxS5RRVZ1bFPNzOqwIVHVmsw3tfgLqDrTE/preview</link>
         <dc:date>2025-03-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>バックエンドNode.js × フロントエンドDeno で開発して得られた知見 (ayame113)</title>
         <link>https://speakerdeck.com/ayame113/batukuendonode-dot-js-x-hurontoendodeno-dekai-fa-sitede-raretazhi-jian</link>
-        <dc:date>2025-03-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウドのテレメトリーシステム研究動向2025年 (Yuuki Tsubouchi (yuuk1))</title>
-        <link>https://speakerdeck.com/yuukit/telemetry-systems-research-trends-in-2025</link>
         <dc:date>2025-03-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
