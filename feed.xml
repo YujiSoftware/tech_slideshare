@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>知識を蓄積していくAI駆動開発 (hayata-yamamoto)</title>
+        <link>https://speakerdeck.com/hayata_yamamoto/zhi-shi-woxu-ji-siteikuaiqu-dong-kai-fa</link>
+        <dc:date>2025-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ランチの間に GitHub Copilot Agent が仕事を終わらせてくれた話 (おおいし)</title>
+        <link>https://speakerdeck.com/bicstone/github-copilot-agent-mode</link>
+        <dc:date>2025-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>技術好きなエンジニアが "リーダーへの進化" によって得たものと失ったもの (pospome)</title>
         <link>https://speakerdeck.com/pospome/ji-shu-hao-kinaenziniaga-ridahenojin-hua-niyotutede-tamonotoshi-tutamono</link>
         <dc:date>2025-03-17T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Scala meets WebAssembly (Rikito Taniguchi)</title>
         <link>https://speakerdeck.com/tanishiking/scala-meets-webassembly</link>
-        <dc:date>2025-03-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術を育てる組織・組織を育てる技術 / technology and organization (motemen)</title>
-        <link>https://speakerdeck.com/motemen/technology-and-organization</link>
-        <dc:date>2025-03-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>そのドキュメント、ちゃんと息してる？ ~ 使われ続ける“生きた”ドキュメントの育て方 ~ (Natty)</title>
-        <link>https://speakerdeck.com/natty_natty254/sonodokiyumento-tiyantoxi-siteru-shi-waresok-keru-sheng-kita-dokiyumentonoyu-tefang</link>
         <dc:date>2025-03-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
