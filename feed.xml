@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Gitの中身 / GitHub Internals (kaityo256)</title>
+        <link>https://speakerdeck.com/kaityo256/github-internals</link>
+        <dc:date>2025-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2/18 Making Security Scale:  メルカリが考えるセキュリティ戦略 - Coincheck x LayerX x Mercari (json)</title>
         <link>https://speakerdeck.com/jsonf/18-making-security-scale-merukarigakao-erusekiyuriteizhan-lue-coincheck-x-layerx-x-mercari</link>
         <dc:date>2025-03-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DenoでOpenTelemetryに入門する (nus3)</title>
         <link>https://speakerdeck.com/yotahada3/deno-otel</link>
-        <dc:date>2025-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>心に灯を、過去に​感謝を、​​​​​​​未来に花束を。​ (viva_tweet_x)</title>
-        <link>https://speakerdeck.com/viva_tweet_x/xin-nideng-wo-guo-qu-nigan-xie-wo-wei-lai-nihua-shu-wo</link>
         <dc:date>2025-03-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
