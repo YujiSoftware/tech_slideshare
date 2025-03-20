@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>工場を、誇ろう。プロジェクト (Hisanori Kobayashi)</title>
+        <link>https://speakerdeck.com/coprec/gong-chang-wo-kua-rou-puroziekuto</link>
+        <dc:date>2025-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大学院の課題でコンパイラを作っている (Yusuke Tanaka,@yusuktan)</title>
         <link>https://www.docswell.com/s/magurotuna/ZL1R8P-2025-03-20-tokatsu-dev-5</link>
         <dc:date>2025-03-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GTM設定のためのJavaScript徹底理解.pptx</title>
         <link>https://docs.google.com/presentation/d/13GHTS-SRqtuYcb9NZx4Ce8Tj48y2s6Dx/preview</link>
-        <dc:date>2025-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一歩ずつ成長しながら進める ZOZOの基幹システムリプレイス/Growing Stap by Stap ZOZO BackOffice System Replacement (takumi.okamoto)</title>
-        <link>https://speakerdeck.com/cocet33000/growing-stap-by-stap-zozo-backoffice-system-replacement</link>
         <dc:date>2025-03-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
