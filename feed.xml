@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代のプログラミング教育 / programming education in ai era (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/programming-education-in-ai-era</link>
+        <dc:date>2025-03-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREとしてSLI_SLOをどう普及してきたか、CTOとしてSLI_SLOをどう活用しているか (Yuki Ando,@integrated1453)</title>
         <link>https://www.docswell.com/s/integrated1453/KL1RRP-sli-slo-cto</link>
         <dc:date>2025-03-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2025-03-18 MapLibre Meetup Japan #04 / MapLibreの日本語フォントを深掘りする</title>
         <link>https://docs.google.com/presentation/d/1gmzbro2SNvgbljFyV2TMnZMbylybfXCIVaLAcdzP_8s/preview</link>
-        <dc:date>2025-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>複雑なフォームと複雑な状態管理にどう向き合うか /  #newt_techtalk vol. 15 (Masayuki Izumi)</title>
-        <link>https://speakerdeck.com/izumin5210/number-newt-techtalk-vol-15</link>
         <dc:date>2025-03-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
