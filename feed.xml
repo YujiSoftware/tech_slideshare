@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>非エンジニアにも伝えるメールセキュリティ / Email security for non-engineers (Y-KANOH)</title>
+        <link>https://speakerdeck.com/ykanoh/email-security-for-non-engineers</link>
+        <dc:date>2025-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェア開発におけるインターフェイスという考え方 / PHPerKaigi 2025 (Ken’ichiro Oyama)</title>
         <link>https://speakerdeck.com/k1low/phperkaigi-2025</link>
         <dc:date>2025-03-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2/18 Making Security Scale:  メルカリが考えるセキュリティ戦略 - Coincheck x LayerX x Mercari (json)</title>
         <link>https://speakerdeck.com/jsonf/18-making-security-scale-merukarigakao-erusekiyuriteizhan-lue-coincheck-x-layerx-x-mercari</link>
-        <dc:date>2025-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>rtrec@dbem6 (Makoto Yui)</title>
-        <link>https://speakerdeck.com/myui/rtrec-at-dbem6</link>
         <dc:date>2025-03-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
