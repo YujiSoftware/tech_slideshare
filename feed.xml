@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>技術的負債を正しく理解し、正しく付き合う #phperkaigi / PHPerKaigi 2025 (shogogg)</title>
+        <link>https://speakerdeck.com/shogogg/phperkaigi-2025</link>
+        <dc:date>2025-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>非エンジニアにも伝えるメールセキュリティ / Email security for non-engineers (Y-KANOH)</title>
         <link>https://speakerdeck.com/ykanoh/email-security-for-non-engineers</link>
         <dc:date>2025-03-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Gitの中身 / GitHub Internals (kaityo256)</title>
         <link>https://speakerdeck.com/kaityo256/github-internals</link>
         <dc:date>2025-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2/18 Making Security Scale:  メルカリが考えるセキュリティ戦略 - Coincheck x LayerX x Mercari (json)</title>
-        <link>https://speakerdeck.com/jsonf/18-making-security-scale-merukarigakao-erusekiyuriteizhan-lue-coincheck-x-layerx-x-mercari</link>
-        <dc:date>2025-03-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
