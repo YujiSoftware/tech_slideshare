@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DMARCレポートの可視化ツールの作成と運用した結果 (yjszk)</title>
+        <link>https://speakerdeck.com/yjszk/dmarcrepotonoke-shi-hua-turunozuo-cheng-toyun-yong-sitajie-guo</link>
+        <dc:date>2025-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>令和最新版 メールの技術LT会 @ yabaibuki.dev #1 〜BIMIって・・・〜 (Kaoru)</title>
+        <link>https://speakerdeck.com/okaru/ling-he-zui-xin-ban-merunoji-shu-lthui-at-yabaibuki-dot-dev-number-1-bimitute</link>
+        <dc:date>2025-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DNSルックアップの回数制限でハマった話 (Ken Kato)</title>
+        <link>https://speakerdeck.com/kkato1/dnsrutukuatupunohui-shu-zhi-xian-dehamatutahua-73091dc2-6185-46e8-b9e2-3f413db036a3</link>
+        <dc:date>2025-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>技術的負債を正しく理解し、正しく付き合う #phperkaigi / PHPerKaigi 2025 (shogogg)</title>
         <link>https://speakerdeck.com/shogogg/phperkaigi-2025</link>
         <dc:date>2025-03-23T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>CTFのWebにおける⾼難易度問題について (hamayanhamayan)</title>
         <link>https://speakerdeck.com/hamayanhamayan/ctfnowebniokeru-nan-yi-du-wen-ti-nituite</link>
         <dc:date>2025-03-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>工場を、誇ろう。プロジェクト (Hisanori Kobayashi)</title>
-        <link>https://speakerdeck.com/coprec/gong-chang-wo-kua-rou-puroziekuto</link>
-        <dc:date>2025-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大学院の課題でコンパイラを作っている (Yusuke Tanaka,@yusuktan)</title>
-        <link>https://www.docswell.com/s/magurotuna/ZL1R8P-2025-03-20-tokatsu-dev-5</link>
-        <dc:date>2025-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Gitの中身 / GitHub Internals (kaityo256)</title>
-        <link>https://speakerdeck.com/kaityo256/github-internals</link>
-        <dc:date>2025-03-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
