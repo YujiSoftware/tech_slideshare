@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モジュラーモノリスでスケーラブルなシステムを作る - BASE のリアーキテクチャのいま (panda_program)</title>
+        <link>https://speakerdeck.com/panda_program/base-modular-monolith</link>
+        <dc:date>2025-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>シンデレラなんかになりたくない～裸足で歩く自分だけの道～ (Nomizo Nomizo)</title>
         <link>https://speakerdeck.com/nomizone/sindereranankaninaritakunai-d0b26aff-c733-482c-94eb-8c5ceb0d7d74</link>
         <dc:date>2025-03-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI時代のプログラミング教育 / programming education in ai era (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/programming-education-in-ai-era</link>
-        <dc:date>2025-03-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREとしてSLI_SLOをどう普及してきたか、CTOとしてSLI_SLOをどう活用しているか (Yuki Ando,@integrated1453)</title>
-        <link>https://www.docswell.com/s/integrated1453/KL1RRP-sli-slo-cto</link>
         <dc:date>2025-03-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
