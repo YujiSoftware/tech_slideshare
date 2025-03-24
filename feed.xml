@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Collaborative Development of Foundation Models at Japanese Academia (Yusuke Oda)</title>
+        <link>https://speakerdeck.com/odashi/collaborative-development-of-foundation-models-at-japanese-academia</link>
+        <dc:date>2025-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モジュラーモノリスでスケーラブルなシステムを作る - BASE のリアーキテクチャのいま (panda_program)</title>
         <link>https://speakerdeck.com/panda_program/base-modular-monolith</link>
         <dc:date>2025-03-24T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ClineにNext.jsのプロジェクト改善をお願いしてみた / 20250321_reacttokyo_LT (OPTiM)</title>
         <link>https://speakerdeck.com/optim/20250321-reacttokyo-lt</link>
         <dc:date>2025-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代のプログラミング教育 / programming education in ai era (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/programming-education-in-ai-era</link>
-        <dc:date>2025-03-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
