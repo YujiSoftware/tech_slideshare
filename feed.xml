@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[PHPerKaigi2025]PHP実行環境の歴史 PHP-FPMからFrankenPHPの誕生へ (_ma_me_)</title>
+        <link>https://www.docswell.com/s/1313108/ZP2QQ1-2025-03-21-123847</link>
+        <dc:date>2025-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kubernetesで実現できるPlatform Engineering の現在地 (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/kubernetesdeshi-xian-dekiruplatform-engineering-noxian-zai-di</link>
         <dc:date>2025-03-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェア開発におけるインターフェイスという考え方 / PHPerKaigi 2025 (Ken’ichiro Oyama)</title>
         <link>https://speakerdeck.com/k1low/phperkaigi-2025</link>
-        <dc:date>2025-03-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新卒から4年間、20年もののWebサービスと 向き合って学んだソフトウェア考古学 (guri)</title>
-        <link>https://speakerdeck.com/oguri/xin-zu-kara4nian-jian-20nian-mononowebsabisuto-xiang-kihe-tutexue-ndasohutoueakao-gu-xue</link>
         <dc:date>2025-03-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
