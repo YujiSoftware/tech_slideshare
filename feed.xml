@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>私の愛したLaravel 〜レールを超えたその先へ〜 (武田 憲太郎)</title>
+        <link>https://speakerdeck.com/kentaroutakeda/si-noai-sitalaravel-reruwochao-etasonoxian-he</link>
+        <dc:date>2025-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BCMathを高速化した一部始終をC言語でガチ目に解説する / BCMath performance improvement explanation (Saki Takamachi)</title>
+        <link>https://speakerdeck.com/sakitakamachi/bcmath-performance-improvement-explanation</link>
+        <dc:date>2025-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHPでお金を扱う時、終わりのない 謎の1円調査の旅にでなくて済む方法 (NAKKA-K)</title>
+        <link>https://speakerdeck.com/nakka/phpdeojin-woxi-ushi-zhong-warinonai-mi-no1yuan-diao-cha-nolu-nidenakuteji-mufang-fa</link>
+        <dc:date>2025-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHPer's Guide to Daemon Crafting Taming and Summoning (uzulla)</title>
+        <link>https://speakerdeck.com/uzulla/phper-s-guide-to-daemon-crafting-taming-and-summoning</link>
+        <dc:date>2025-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>php-fpm がリクエスト処理する仕組みを追う / Tracing-How-php-fpm-Handles-Requests (shin1x1)</title>
+        <link>https://speakerdeck.com/shin1x1/tracing-how-php-fpm-handles-requests</link>
+        <dc:date>2025-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[PHPerKaigi2025]PHP実行環境の歴史 PHP-FPMからFrankenPHPの誕生へ (_ma_me_)</title>
         <link>https://www.docswell.com/s/1313108/ZP2QQ1-2025-03-21-123847</link>
         <dc:date>2025-03-24T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>DMARCレポートの可視化ツールの作成と運用した結果 (yjszk)</title>
         <link>https://speakerdeck.com/yjszk/dmarcrepotonoke-shi-hua-turunozuo-cheng-toyun-yong-sitajie-guo</link>
         <dc:date>2025-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>令和最新版 メールの技術LT会 @ yabaibuki.dev #1 〜BIMIって・・・〜 (Kaoru)</title>
-        <link>https://speakerdeck.com/okaru/ling-he-zui-xin-ban-merunoji-shu-lthui-at-yabaibuki-dot-dev-number-1-bimitute</link>
-        <dc:date>2025-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DNSルックアップの回数制限でハマった話 (Ken Kato)</title>
-        <link>https://speakerdeck.com/kkato1/dnsrutukuatupunohui-shu-zhi-xian-dehamatutahua-73091dc2-6185-46e8-b9e2-3f413db036a3</link>
-        <dc:date>2025-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術的負債を正しく理解し、正しく付き合う #phperkaigi / PHPerKaigi 2025 (shogogg)</title>
-        <link>https://speakerdeck.com/shogogg/phperkaigi-2025</link>
-        <dc:date>2025-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非エンジニアにも伝えるメールセキュリティ / Email security for non-engineers (Y-KANOH)</title>
-        <link>https://speakerdeck.com/ykanoh/email-security-for-non-engineers</link>
-        <dc:date>2025-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア開発におけるインターフェイスという考え方 / PHPerKaigi 2025 (Ken’ichiro Oyama)</title>
-        <link>https://speakerdeck.com/k1low/phperkaigi-2025</link>
-        <dc:date>2025-03-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
