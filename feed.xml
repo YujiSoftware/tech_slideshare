@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セマンティックレイヤー入門 (Ikki Miyazaki)</title>
+        <link>https://speakerdeck.com/ikkimiyazaki/semanteitukureiyaru-men</link>
+        <dc:date>2025-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ベクトル検索システムの気持ち (monochromegane)</title>
+        <link>https://speakerdeck.com/monochromegane/inside-vector-search</link>
+        <dc:date>2025-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20250325_QATestTalk_InvolveForQuality (kotatsu)</title>
         <link>https://speakerdeck.com/kotatsu/20250325-qatesttalk-involveforquality-7d07ea1c-e8eb-41b2-b34d-8457e8a67bd8</link>
         <dc:date>2025-03-25T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>fukuoka.ts #3 社内でESLintの共通設定を配りたい2025年春版 (Hiroyuki ANAI)</title>
         <link>https://speakerdeck.com/pirosikick/fukuoka-dot-ts-number-3-she-nei-deeslintnogong-tong-she-ding-wopei-ritai2025nian-chun-ban</link>
-        <dc:date>2025-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Denoでフロントエンド開発 2025年春版 / Frontend Development with Deno (Spring 2025) (petamoriken / 森建)</title>
-        <link>https://speakerdeck.com/petamoriken/frontend-development-with-deno-spring-2025</link>
-        <dc:date>2025-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Javaの新しめの機能を知ったかぶれるようになる話 #kanjava (irof)</title>
-        <link>https://speakerdeck.com/irof/javanoxin-simenoji-neng-wozhi-tutakabureruyouninaruhua-number-kanjava</link>
         <dc:date>2025-03-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
