@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンドテストの育て方 (Yosuke Kurami)</title>
+        <link>https://speakerdeck.com/quramy/hurontoendotesutonoyu-tefang</link>
+        <dc:date>2025-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>過剰テスト中毒とエラーテスト欠乏症 - UIテスト二大疾病の根治療法 (akfm)</title>
+        <link>https://speakerdeck.com/akifumisato/guo-sheng-tesutozhong-du-toeratesutoqian-fa-zheng-uitesutoer-da-ji-bing-nogen-zhi-liao-fa</link>
+        <dc:date>2025-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データベースエンジニアの仕事を楽にする。PgAssistantの紹介 (nnaka2992)</title>
+        <link>https://speakerdeck.com/nnaka2992/tetahesuensinianoshi-shi-wole-nisuru-pgassistantnoshao-jie</link>
+        <dc:date>2025-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スケールアップ企業のQA組織のバリューを最大限に引き出すための取り組み (tarappo)</title>
+        <link>https://speakerdeck.com/tarappo/sukeruatupuqi-ye-noqazu-zhi-nobariyuwozui-da-xian-niyin-kichu-sutamenoqu-rizu-mi</link>
+        <dc:date>2025-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リスクが取りにくいシステム開発でのDevinとの付き合い方 (MonotaRO)</title>
         <link>https://speakerdeck.com/monotaro/risukugaqu-rinikuisisutemukai-fa-denodevintonofu-kihe-ifang</link>
         <dc:date>2025-03-26T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>PHPer's Guide to Daemon Crafting Taming and Summoning (uzulla)</title>
         <link>https://speakerdeck.com/uzulla/phper-s-guide-to-daemon-crafting-taming-and-summoning</link>
         <dc:date>2025-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>php-fpm がリクエスト処理する仕組みを追う / Tracing-How-php-fpm-Handles-Requests (shin1x1)</title>
-        <link>https://speakerdeck.com/shin1x1/tracing-how-php-fpm-handles-requests</link>
-        <dc:date>2025-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[PHPerKaigi2025]PHP実行環境の歴史 PHP-FPMからFrankenPHPの誕生へ (_ma_me_)</title>
-        <link>https://www.docswell.com/s/1313108/ZP2QQ1-2025-03-21-123847</link>
-        <dc:date>2025-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetesで実現できるPlatform Engineering の現在地 (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/kubernetesdeshi-xian-dekiruplatform-engineering-noxian-zai-di</link>
-        <dc:date>2025-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go の analysis パッケージで自作するリファクタリングツール (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
-        <link>https://speakerdeck.com/kworkdev/custom-refactoring-tool-go-analysis</link>
-        <dc:date>2025-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
