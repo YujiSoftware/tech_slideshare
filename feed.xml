@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜselectはselectではないのか (鹿)</title>
+        <link>https://speakerdeck.com/taiyow/nazeselecthaselectdehanainoka</link>
+        <dc:date>2025-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>goにおける コネクションプールの仕組み を軽く掘って見た (aroon)</title>
+        <link>https://speakerdeck.com/aronokuyama/goniokeru-konekusiyonpurunoshi-zu-mi-woqing-kujue-tutejian-ta</link>
+        <dc:date>2025-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20250326_生成AIによる_レビュー承認システムの実現.pdf (matsui-dmm)</title>
         <link>https://speakerdeck.com/takahiromatsui/20250326-sheng-cheng-ainiyoru-rehiyucheng-ren-sisutemunoshi-xian-v3</link>
         <dc:date>2025-03-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Go製のマイグレーションツールの git-schemalex の紹介と運用方法 (shinnosuke)</title>
         <link>https://speakerdeck.com/shinnosuke_kishida/gozhi-nomaiguresiyonturuno-git-schemalex-noshao-jie-toyun-yong-fang-fa</link>
-        <dc:date>2025-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>slogによる構造化ログの実装とCloudWatch Logs Insightsでの利用 (Ryuya Ishibashi)</title>
-        <link>https://speakerdeck.com/ryuyaishibashi/slogniyorugou-zao-hua-rogunoshi-zhuang-tocloudwatch-logs-insightsdenoli-yong</link>
-        <dc:date>2025-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI の活用における課題と現状、今後の期待 (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/ai-nohuo-yong-niokeruke-ti-toxian-zhuang-jin-hou-noqi-dai</link>
         <dc:date>2025-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
