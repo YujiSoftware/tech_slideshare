@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リスクが取りにくいシステム開発でのDevinとの付き合い方 (MonotaRO)</title>
+        <link>https://speakerdeck.com/monotaro/risukugaqu-rinikuisisutemukai-fa-denodevintonofu-kihe-ifang</link>
+        <dc:date>2025-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なぜselectはselectではないのか (鹿)</title>
         <link>https://speakerdeck.com/taiyow/nazeselecthaselectdehanainoka</link>
         <dc:date>2025-03-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Go の analysis パッケージで自作するリファクタリングツール (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
         <link>https://speakerdeck.com/kworkdev/custom-refactoring-tool-go-analysis</link>
-        <dc:date>2025-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go製のマイグレーションツールの git-schemalex の紹介と運用方法 (shinnosuke)</title>
-        <link>https://speakerdeck.com/shinnosuke_kishida/gozhi-nomaiguresiyonturuno-git-schemalex-noshao-jie-toyun-yong-fang-fa</link>
         <dc:date>2025-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
