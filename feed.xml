@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モンテカルロ木探索のパフォーマンスを予測する Kaggleコンペ解説 〜生成AIによる未知のゲーム生成〜 (Rist Inc.)</title>
+        <link>https://speakerdeck.com/rist/solution-um-game-playing-strength-of-mcts-variants</link>
+        <dc:date>2025-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vision Language Modelを活用した メルカリの類似画像レコメンドの性能改善 (Yuki Yada)</title>
+        <link>https://speakerdeck.com/yadayuki/vision-language-modelwohuo-yong-sita-merukarinolei-si-hua-xiang-rekomendonoxing-neng-gai-shan</link>
+        <dc:date>2025-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cline、めっちゃ便利、お金が飛ぶ💸 (iwamot)</title>
+        <link>https://speakerdeck.com/iwamot/cline-so-convenient-money-flies</link>
+        <dc:date>2025-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rubyの中身の予備知識_RubyKaigiの前に知り鯛！_公開用</title>
         <link>https://docs.google.com/presentation/d/1oFvP4W3Ox8uiGXsWa3ibyDga1cpLguVZhwCjpD46hFU/preview</link>
         <dc:date>2025-03-27T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>CircleCI Meetup</title>
         <link>https://docs.google.com/presentation/d/1ezjHpPOisAtzqcZBfkQOsxvc70ZvbfmCgzr5tOHOD-0/preview</link>
-        <dc:date>2025-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CircleCIとSchemaSpyを使ったMySQLドキュメントの自動生成 (MATSUURA, yosuke)</title>
-        <link>https://speakerdeck.com/bateleurx/circlecitoschemaspywoshi-tutamysqltokiyumentofalsezi-dong-sheng-cheng</link>
-        <dc:date>2025-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セマンティックレイヤー入門 (Ikki Miyazaki)</title>
-        <link>https://speakerdeck.com/ikkimiyazaki/semanteitukureiyaru-men</link>
-        <dc:date>2025-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ベクトル検索システムの気持ち (monochromegane)</title>
-        <link>https://speakerdeck.com/monochromegane/inside-vector-search</link>
         <dc:date>2025-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
