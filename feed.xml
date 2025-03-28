@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>目安箱の設置とワークさせるポイント (konifar)</title>
+        <link>https://speakerdeck.com/konifar/mu-an-xiang-noshe-zhi-towakusaserupointo</link>
+        <dc:date>2025-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンドテストの育て方 (Yosuke Kurami)</title>
         <link>https://speakerdeck.com/quramy/hurontoendotesutonoyu-tefang</link>
         <dc:date>2025-03-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>PHPでお金を扱う時、終わりのない 謎の1円調査の旅にでなくて済む方法 (NAKKA-K)</title>
         <link>https://speakerdeck.com/nakka/phpdeojin-woxi-ushi-zhong-warinonai-mi-no1yuan-diao-cha-nolu-nidenakuteji-mufang-fa</link>
-        <dc:date>2025-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPer's Guide to Daemon Crafting Taming and Summoning (uzulla)</title>
-        <link>https://speakerdeck.com/uzulla/phper-s-guide-to-daemon-crafting-taming-and-summoning</link>
         <dc:date>2025-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
