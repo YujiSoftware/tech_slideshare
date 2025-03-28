@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「どう扱うか」で設計するエラーハンドリング / noren_ts #1 (berlysia)</title>
+        <link>https://speakerdeck.com/berlysia/designing-error-handling-based-on-how-to-handle-it</link>
+        <dc:date>2025-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Coding Agent を使って Android アプリを作ってみる / Let's try using coding agent for Android app development (Yuki Anzai)</title>
         <link>https://speakerdeck.com/yanzm/lets-try-using-coding-agent-for-android-app-development</link>
         <dc:date>2025-03-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>私の愛したLaravel 〜レールを超えたその先へ〜 (武田 憲太郎)</title>
         <link>https://speakerdeck.com/kentaroutakeda/si-noai-sitalaravel-reruwochao-etasonoxian-he</link>
-        <dc:date>2025-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BCMathを高速化した一部始終をC言語でガチ目に解説する / BCMath performance improvement explanation (Saki Takamachi)</title>
-        <link>https://speakerdeck.com/sakitakamachi/bcmath-performance-improvement-explanation</link>
         <dc:date>2025-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
