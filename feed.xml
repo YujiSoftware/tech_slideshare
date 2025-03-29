@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React Server Componentは 何を解決し何を解決しないのか / What do React Server Components solve, and what do they not solve? (株式会社カミナシ)</title>
+        <link>https://speakerdeck.com/kaminashi/what-do-react-server-components-solve-and-what-do-they-not-solve</link>
+        <dc:date>2025-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モンテカルロ木探索のパフォーマンスを予測する Kaggleコンペ解説 〜生成AIによる未知のゲーム生成〜 (Rist Inc.)</title>
         <link>https://speakerdeck.com/rist/solution-um-game-playing-strength-of-mcts-variants</link>
         <dc:date>2025-03-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>いまさら聞けない生成AI入門: 「生成AIを高速キャッチアップ」 (Soh Ohara)</title>
         <link>https://speakerdeck.com/soh9834/imasarawen-kenaisheng-cheng-airu-men-sheng-cheng-aiwogao-su-kiyatutiatupu</link>
-        <dc:date>2025-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CircleCI Meetup</title>
-        <link>https://docs.google.com/presentation/d/1ezjHpPOisAtzqcZBfkQOsxvc70ZvbfmCgzr5tOHOD-0/preview</link>
         <dc:date>2025-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
