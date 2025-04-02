@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データ駆動のFinOpsを実現するための社内横断データ基盤 (kesompochy)</title>
+        <link>https://speakerdeck.com/kesompochy/detaqu-dong-nofinopswoshi-xian-surutamenoshe-nei-heng-duan-detaji-pan</link>
+        <dc:date>2025-04-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>徹底比較！HA Kubernetes ClusterにおけるControl Plane LoadBalancerの選択肢 (logica / Takuto Nagami)</title>
+        <link>https://speakerdeck.com/logica0419/ha-k8s-control-plane-loadbalancer</link>
+        <dc:date>2025-04-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>一橋大学講義資料2024</title>
+        <link>https://docs.google.com/presentation/d/13IDGY2kX3ry-lggl9Nn0m0RzmBwTmIqCWUR5-Pfa_bE/preview</link>
+        <dc:date>2025-04-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Copilot エージェント爆誕！作り方・活用アイデア大放出 (Ota Hirofumi,@hrfmjp)</title>
         <link>https://www.docswell.com/s/hrfmjp/Z82DW1-2025-04-02-221447</link>
         <dc:date>2025-04-01T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>最先端を追う前に、まず広めよう！ 〜AIツールの普及活動のすすめ〜 (syossan27)</title>
         <link>https://speakerdeck.com/syossan27/zui-xian-duan-wozhui-uqian-ni-mazuguang-meyou-aiturunopu-ji-huo-dong-nosusume</link>
         <dc:date>2025-03-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リアクティブシステムの変遷から理解するalien-signals / Learning alien-signals from the evolution of reactive systems (Okuto Oyama)</title>
-        <link>https://speakerdeck.com/yamanoku/learning-alien-signals-from-the-evolution-of-reactive-systems</link>
-        <dc:date>2025-03-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CMMI概要forアジャイル開発_BPStudy211_20250326_v1.0 (小林浩)</title>
-        <link>https://www.docswell.com/s/5421023947/56V8Q8-2025-03-26-210334</link>
-        <dc:date>2025-03-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントキャッチアップと論文リサーチ (os1ma)</title>
-        <link>https://speakerdeck.com/os1ma/aiezientokiyatutiatuputolun-wen-risati</link>
-        <dc:date>2025-03-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
