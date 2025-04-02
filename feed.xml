@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アプリケーション固有の「ロジックの脆弱性」を防ぐ開発者のためのセキュリティ観点 (GMO Flatt Security)</title>
+        <link>https://speakerdeck.com/flatt_security/apurikesiyongu-you-no-rozitukunocui-ruo-xing-wofang-gukai-fa-zhe-notamenosekiyuriteiguan-dian</link>
+        <dc:date>2025-04-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【AIエージェント開発】LLMアプリ開発の1stステップと論文キャッチアップ - 論文を活用したAIエージェント開発の始め方 (Masahiro Nishimi)</title>
         <link>https://speakerdeck.com/masahiro_nishimi/aiezientokai-fa-llmapurikai-fa-no1stsutetuputolun-wen-kiyatutiatupu-lun-wen-wohuo-yong-sitaaiezientokai-fa-noshi-mefang</link>
         <dc:date>2025-04-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>地質研究者が苦労しながら運用する情報公開システムの実例 (NaitoKazuki)</title>
         <link>https://speakerdeck.com/naito2000/di-zhi-yan-jiu-zhe-gaku-lao-sinagarayun-yong-suru-qing-bao-gong-kai-sisutemunoshi-li</link>
-        <dc:date>2025-03-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What lies beyond AWS All Certifications. (otsuka)</title>
-        <link>https://speakerdeck.com/zzzzico/what-lies-beyond-aws-all-certifications</link>
         <dc:date>2025-03-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
