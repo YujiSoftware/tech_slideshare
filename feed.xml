@@ -6,6 +6,76 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【re:Invent 2024 アプデ】 Prompt Routing の紹介 (Champ)</title>
+        <link>https://speakerdeck.com/champ/re-invent-2024-apude-prompt-routing-noshao-jie</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>re：Infrastructure_for the NextGen AI/ML and Beyond (ICHICHI)</title>
+        <link>https://speakerdeck.com/ichichi/ml-and-beyond</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>re:Invent を日本から眺めて気になったAI/MLアップデート (@mujyun_furu)</title>
+        <link>https://speakerdeck.com/mujyun/mlatupudeto</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RAGの性能を評価しよう (Koreharu)</title>
+        <link>https://speakerdeck.com/kurahara/ragnoxing-neng-woping-jia-siyou</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Create Inquiry via Bedrock / 生成 AI で問い合わせ品質は変わるのか？思いついてぱっと作ったものを供養してみる (kazzpapa3)</title>
+        <link>https://speakerdeck.com/kazzpapa3/sheng-cheng-ai-dewen-ihe-wasepin-zhi-habian-warunoka-si-ituitepatutozuo-tutamonowogong-yang-sitemiru</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Q data integration in AWS Glue 試してみた (@mujyun_furu)</title>
+        <link>https://speakerdeck.com/mujyun/amazon-q-data-integration-in-aws-glue-shi-sitemita</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Step FunctionsからはじめるBedrock @ JAWS-UG AI/ML (SimSta)</title>
+        <link>https://speakerdeck.com/shimagaji/ml</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon BedrockとOpenSearch Serviceでなんでも答えられる社内RAGを作成する!! (とすり)</title>
+        <link>https://speakerdeck.com/tosuri13/amazon-bedrocktoopensearch-servicedenandemoda-erarerushe-nei-ragwozuo-cheng-suru</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>セキュリティ検出結果をBedrockで読みやすくしてみた (mtsukada)</title>
+        <link>https://speakerdeck.com/licux/sekiyuriteijian-chu-jie-guo-wobedrockdedu-miyasukusitemita</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>図面中の風船番号の読み取りについて。Amazon RekognitionとClaude 3.5 Sonnetの画像認識の検証 (Hideyuki Nagata)</title>
+        <link>https://speakerdeck.com/hideg/tu-mian-zhong-nofeng-chuan-fan-hao-nodu-miqu-rinituite-amazon-rekognitiontoclaude-3-dot-5-sonnetnohua-xiang-ren-shi-nojian-zheng</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSの生成AI活用事例集GenUを使い倒す (komakichi)</title>
+        <link>https://speakerdeck.com/komakichi/awsnosheng-cheng-aihuo-yong-shi-li-ji-genuwoshi-idao-su</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agentは楽しいぞ (tubone(Yu Otsubo))</title>
+        <link>https://speakerdeck.com/tubone24/agenthale-siizo</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude3 on Bedrock with Converse API + Tool use でチャットアプリを作成してみた (Renya K.)</title>
+        <link>https://speakerdeck.com/ren8k/building-a-chat-app-using-claude3-on-bedrock-with-the-converse-api-plus-tool-use</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Anthropicキーノート（Bedrock Claude Night 2） (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/anthropickinoto-bedrock-claude-night-2</link>
+        <dc:date>2025-04-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データベースで見る『家族アルバム みてね』の変遷 / The Evolution of Family Album Through the Lens of Databases (kohbis)</title>
         <link>https://speakerdeck.com/kohbis/the-evolution-of-family-album-through-the-lens-of-databases</link>
         <dc:date>2025-04-03T15:00:00Z</dc:date>
@@ -34,75 +104,5 @@
         <title>一橋大学講義資料2024</title>
         <link>https://docs.google.com/presentation/d/13IDGY2kX3ry-lggl9Nn0m0RzmBwTmIqCWUR5-Pfa_bE/preview</link>
         <dc:date>2025-04-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Copilot エージェント爆誕！作り方・活用アイデア大放出 (Ota Hirofumi,@hrfmjp)</title>
-        <link>https://www.docswell.com/s/hrfmjp/Z82DW1-2025-04-02-221447</link>
-        <dc:date>2025-04-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UE5レンダリングフロー総おさらい(2024)  基礎編！[CEDEC+KYUSHU 2024] (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
-        <link>https://www.docswell.com/s/EpicGamesJapan/5QRL3V-ue5-renderingflow-2024-basic</link>
-        <dc:date>2025-04-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アプリケーション固有の「ロジックの脆弱性」を防ぐ開発者のためのセキュリティ観点 (GMO Flatt Security)</title>
-        <link>https://speakerdeck.com/flatt_security/apurikesiyongu-you-no-rozitukunocui-ruo-xing-wofang-gukai-fa-zhe-notamenosekiyuriteiguan-dian</link>
-        <dc:date>2025-04-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【AIエージェント開発】LLMアプリ開発の1stステップと論文キャッチアップ - 論文を活用したAIエージェント開発の始め方 (Masahiro Nishimi)</title>
-        <link>https://speakerdeck.com/masahiro_nishimi/aiezientokai-fa-llmapurikai-fa-no1stsutetuputolun-wen-kiyatutiatupu-lun-wen-wohuo-yong-sitaaiezientokai-fa-noshi-mefang</link>
-        <dc:date>2025-04-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人開発で生活するようになるまで (Yamada Keita)</title>
-        <link>https://speakerdeck.com/ymdkit/ge-ren-kai-fa-desheng-huo-suruyouninarumade</link>
-        <dc:date>2025-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIコーディングとゲームエンジン～今何が起きているのか、我々はどうするか (korinVR,@korinVR)</title>
-        <link>https://www.docswell.com/s/korinVR/K4VWE8-ai-coding-and-game-engines</link>
-        <dc:date>2025-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IAMのマニアックな話 2025​  ～40分バージョン ～​ (NRI Netcom)</title>
-        <link>https://speakerdeck.com/nrinetcom/iamnomaniatukunahua-2025-40fen-baziyon</link>
-        <dc:date>2025-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CDKで大量のパラメータストアを作りたい (Yasunobu Kotani (はくひめ))</title>
-        <link>https://speakerdeck.com/y_kotani/aws-cdkdeda-liang-noparametasutoawozuo-ritai</link>
-        <dc:date>2025-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CDK を活用した 大量 AWS アカウントへのプロビジョニング例 〜 SaaSus Platform の場合 〜 於 JAWS-UG CDK支部 #17 (YAGASAKI Akihiro)</title>
-        <link>https://speakerdeck.com/yaggy/aws-cdk-wohuo-yong-sita-da-liang-aws-akauntohenopurobiziyoninguli-saasus-platform-nochang-he-yu-jaws-ug-cdkzhi-bu-number-17</link>
-        <dc:date>2025-03-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIコーディングエージェント勉強会 (Kiminori Yokoi)</title>
-        <link>https://speakerdeck.com/nasuvitz/aikodeinguezientomian-qiang-hui</link>
-        <dc:date>2025-03-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDS for Db2: 2025年3月最新情報アップデート/20250327-RDSforDb2Update-dojo (Mayumi Hirano)</title>
-        <link>https://speakerdeck.com/mayumihirano/20250327-rdsfordb2update-dojo</link>
-        <dc:date>2025-03-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>問題解決に役立つ数理工学 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/math-engineering-umetani</link>
-        <dc:date>2025-03-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SQL Server ベクトル検索 (Oda Shinsuke)</title>
-        <link>https://speakerdeck.com/odashinsuke/sql-server-bekutorujian-suo</link>
-        <dc:date>2025-03-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Coding Experience Cpp vs Csharp - meetup app osaka@9 (Akiko Kawai)</title>
-        <link>https://speakerdeck.com/harukasao/coding-experience-cpp-vs-csharp-meetup-app-osaka-at-9</link>
-        <dc:date>2025-03-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
