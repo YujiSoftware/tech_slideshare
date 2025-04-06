@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Copilot入門～Microsoft50周年で発表された最新機能まで！どこまでAI駆動で開発できるのか (yuma(Maki),@yuma_prog)</title>
+        <link>https://www.docswell.com/s/yuma/K3GD9E-2025-04-05-aidd</link>
+        <dc:date>2025-04-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Restarting_SRE_Road_to_SRENext_.pdf (_awache)</title>
         <link>https://speakerdeck.com/_awache/restarting-sre-road-to-srenext-479902bd-0d24-431b-bf26-772ee2c50385</link>
         <dc:date>2025-04-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Agentは楽しいぞ (tubone(Yu Otsubo))</title>
         <link>https://speakerdeck.com/tubone24/agenthale-siizo</link>
-        <dc:date>2025-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude3 on Bedrock with Converse API + Tool use でチャットアプリを作成してみた (Renya K.)</title>
-        <link>https://speakerdeck.com/ren8k/building-a-chat-app-using-claude3-on-bedrock-with-the-converse-api-plus-tool-use</link>
         <dc:date>2025-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
