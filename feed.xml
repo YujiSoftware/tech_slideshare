@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCPに入門する/ Introduction to MCP (shuntaka)</title>
+        <link>https://speakerdeck.com/shuntaka/introduction-to-mcp</link>
+        <dc:date>2025-04-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>90 分で学ぶ P 対 NP 問題 (E869120)</title>
         <link>https://speakerdeck.com/e869120/p-vs-np-in-90-minutes</link>
         <dc:date>2025-04-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データ駆動のFinOpsを実現するための社内横断データ基盤 (kesompochy)</title>
         <link>https://speakerdeck.com/kesompochy/detaqu-dong-nofinopswoshi-xian-surutamenoshe-nei-heng-duan-detaji-pan</link>
-        <dc:date>2025-04-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>徹底比較！HA Kubernetes ClusterにおけるControl Plane LoadBalancerの選択肢 (logica / Takuto Nagami)</title>
-        <link>https://speakerdeck.com/logica0419/ha-k8s-control-plane-loadbalancer</link>
         <dc:date>2025-04-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
