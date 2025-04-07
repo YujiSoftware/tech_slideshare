@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amebaにおける Platform Engineeringの実践 (Kumo Ishikawa)</title>
+        <link>https://speakerdeck.com/kumorn5s/amebaniokeru-platform-engineeringnoshi-jian</link>
+        <dc:date>2025-04-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「それはhowなんよ〜」のガイドライン #orestudy (Hiromi Hishida)</title>
         <link>https://speakerdeck.com/77web/sorehahownanyo-nogaidorain-number-orestudy</link>
         <dc:date>2025-04-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>図面中の風船番号の読み取りについて。Amazon RekognitionとClaude 3.5 Sonnetの画像認識の検証 (Hideyuki Nagata)</title>
         <link>https://speakerdeck.com/hideg/tu-mian-zhong-nofeng-chuan-fan-hao-nodu-miqu-rinituite-amazon-rekognitiontoclaude-3-dot-5-sonnetnohua-xiang-ren-shi-nojian-zheng</link>
-        <dc:date>2025-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSの生成AI活用事例集GenUを使い倒す (komakichi)</title>
-        <link>https://speakerdeck.com/komakichi/awsnosheng-cheng-aihuo-yong-shi-li-ji-genuwoshi-idao-su</link>
         <dc:date>2025-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
