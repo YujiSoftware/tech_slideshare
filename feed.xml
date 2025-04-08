@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIコーディングワークフローの試行 〜AIエージェント×ワークフローでの自動化を目指して〜 (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/ai-coding-workflow</link>
+        <dc:date>2025-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>”知のインストール”戦略：テキスト資産をAIの文脈理解に活かす (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
         <link>https://speakerdeck.com/kworkdev/text-knowledge-install-ai-context</link>
         <dc:date>2025-04-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RAGの性能を評価しよう (Koreharu)</title>
         <link>https://speakerdeck.com/kurahara/ragnoxing-neng-woping-jia-siyou</link>
-        <dc:date>2025-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Create Inquiry via Bedrock / 生成 AI で問い合わせ品質は変わるのか？思いついてぱっと作ったものを供養してみる (kazzpapa3)</title>
-        <link>https://speakerdeck.com/kazzpapa3/sheng-cheng-ai-dewen-ihe-wasepin-zhi-habian-warunoka-si-ituitepatutozuo-tutamonowogong-yang-sitemiru</link>
         <dc:date>2025-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
