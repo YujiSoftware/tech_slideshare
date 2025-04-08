@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>UnityYAMLを紐解く！Unityを使わない自動化のすゝめ (DeNA_Tech,@DeNAxTech)</title>
+        <link>https://www.docswell.com/s/DeNA_Tech/5EX7QJ-2025-04-04-LT2</link>
+        <dc:date>2025-04-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIエージェントの地上戦 〜開発計画と運用実践 / 2025/04/08  Findy W&amp;Bミートアップ #19 (Shumpei Miyawaki)</title>
         <link>https://speakerdeck.com/smiyawaki0820/08-findy-w-and-bmitoatupu-number-19</link>
         <dc:date>2025-04-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Amazon BedrockとOpenSearch Serviceでなんでも答えられる社内RAGを作成する!! (とすり)</title>
         <link>https://speakerdeck.com/tosuri13/amazon-bedrocktoopensearch-servicedenandemoda-erarerushe-nei-ragwozuo-cheng-suru</link>
-        <dc:date>2025-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ検出結果をBedrockで読みやすくしてみた (mtsukada)</title>
-        <link>https://speakerdeck.com/licux/sekiyuriteijian-chu-jie-guo-wobedrockdedu-miyasukusitemita</link>
         <dc:date>2025-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
