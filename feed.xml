@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI Coding Agent Enablement (Yuku Kotani)</title>
+        <link>https://speakerdeck.com/yukukotani/ai-coding-agent-enablement</link>
+        <dc:date>2025-04-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュリティグループの”タイプ”を改めて考えてみる (モブエンジニア)</title>
         <link>https://speakerdeck.com/masakiokuda/sekiyuriteigurupuno-taipu-wogai-metekao-etemiru</link>
         <dc:date>2025-04-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Amazon Q data integration in AWS Glue 試してみた (@mujyun_furu)</title>
         <link>https://speakerdeck.com/mujyun/amazon-q-data-integration-in-aws-glue-shi-sitemita</link>
-        <dc:date>2025-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Step FunctionsからはじめるBedrock @ JAWS-UG AI/ML (SimSta)</title>
-        <link>https://speakerdeck.com/shimagaji/ml</link>
         <dc:date>2025-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
