@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vibe Codingをせずに Clineを使っている (watany)</title>
+        <link>https://speakerdeck.com/watany/cline-without-vibe-coding</link>
+        <dc:date>2025-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>これだけは知っておきたいクラス設計の基礎知識 version 2 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/software-design-class-versoin2</link>
         <dc:date>2025-04-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>re：Infrastructure_for the NextGen AI/ML and Beyond (ICHICHI)</title>
         <link>https://speakerdeck.com/ichichi/ml-and-beyond</link>
-        <dc:date>2025-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>re:Invent を日本から眺めて気になったAI/MLアップデート (@mujyun_furu)</title>
-        <link>https://speakerdeck.com/mujyun/mlatupudeto</link>
         <dc:date>2025-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
