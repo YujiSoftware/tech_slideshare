@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>どっちの API SHOW？SharePoint 開発における SharePoint REST API  Microsoft Graph API の違い / Which API show? Differences between Microsoft Graph API and SharePoint REST API (Takashi Shinohara)</title>
+        <link>https://speakerdeck.com/karamem0/which-api-show-differences-between-microsoft-graph-api-and-sharepoint-rest-api</link>
+        <dc:date>2025-04-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20250325_Logic Apps / Power Automate の SharePoint コネクタの裏側を知る 〜Graph APIで直接操作してみよう〜 (yutakaosada)</title>
+        <link>https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou</link>
+        <dc:date>2025-04-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>dbtとLightdash を社内へ浸透させるまでの取り組み / Integrate dbt and Lightdash into Ubie (okiyuki)</title>
         <link>https://speakerdeck.com/okiyuki99/integrate-dbt-and-lightdash-into-ubie</link>
         <dc:date>2025-04-09T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Road to SRE NEXT＠仙台 IVRyの組織の形とSLO運用の現状 (abnoumaru)</title>
         <link>https://speakerdeck.com/abnoumaru/ivrynozu-zhi-noxing-tosloyun-yong-noxian-zhuang</link>
-        <dc:date>2025-04-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCP世界への招待: AIエンジニアが創る次世代エージェント連携の世界 (Gunther Brunner)</title>
-        <link>https://speakerdeck.com/gunta/mcpshi-jie-henozhao-dai-aiensiniakachuang-ruci-shi-dai-esientolian-xi-noshi-jie</link>
-        <dc:date>2025-04-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>やさしいMCP入門 (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/yasasiimcpru-men</link>
         <dc:date>2025-04-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
