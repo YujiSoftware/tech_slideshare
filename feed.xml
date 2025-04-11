@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SLSA概要紹介 Supply-chain Levels for Software Artifacts (Linux Foundation Japan)</title>
+        <link>https://speakerdeck.com/lfj/overview-of-slsa-supply-chain-levels-for-software-artifacts</link>
+        <dc:date>2025-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事業をデータエンジニアリングする / data-engineering-for-business (pei0804)</title>
         <link>https://speakerdeck.com/pei0804/data-engineering-for-business</link>
         <dc:date>2025-04-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIエージェントの地上戦 〜開発計画と運用実践 / 2025/04/08  Findy W&amp;Bミートアップ #19 (Shumpei Miyawaki)</title>
         <link>https://speakerdeck.com/smiyawaki0820/08-findy-w-and-bmitoatupu-number-19</link>
-        <dc:date>2025-04-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amebaにおける Platform Engineeringの実践 (Kumo Ishikawa)</title>
-        <link>https://speakerdeck.com/kumorn5s/amebaniokeru-platform-engineeringnoshi-jian</link>
         <dc:date>2025-04-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
