@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>.mdc駆動ナレッジマネジメント/.mdc-driven knowledge management (Yoda Keisuke)</title>
+        <link>https://speakerdeck.com/yodakeisuke/dot-mdc-driven-knowledge-management</link>
+        <dc:date>2025-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SLSA概要紹介 Supply-chain Levels for Software Artifacts (Linux Foundation Japan)</title>
         <link>https://speakerdeck.com/lfj/overview-of-slsa-supply-chain-levels-for-software-artifacts</link>
         <dc:date>2025-04-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>UnityYAMLを紐解く！Unityを使わない自動化のすゝめ (DeNA_Tech,@DeNAxTech)</title>
         <link>https://www.docswell.com/s/DeNA_Tech/5EX7QJ-2025-04-04-LT2</link>
-        <dc:date>2025-04-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントの地上戦 〜開発計画と運用実践 / 2025/04/08  Findy W&amp;Bミートアップ #19 (Shumpei Miyawaki)</title>
-        <link>https://speakerdeck.com/smiyawaki0820/08-findy-w-and-bmitoatupu-number-19</link>
         <dc:date>2025-04-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
