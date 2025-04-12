@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Glue Studio Visual ETL実装時にハマったこと (KOKI TAMURA)</title>
+        <link>https://speakerdeck.com/kokitamura/glue-studio-visual-etlshi-zhuang-shi-nihamatutakoto</link>
+        <dc:date>2025-04-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Power AutomateでSharePointを操る～Part6～ (たな,@dreams_panda)</title>
+        <link>https://www.docswell.com/s/tanapandalove/ZYD64R-2025-04-12-214244</link>
+        <dc:date>2025-04-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS で実現する 安全な AI エージェントの作り方 〜 Bedrock Engineer の実装例を添えて 〜 / how-to-build-secure-ai-agents (geeawa)</title>
+        <link>https://speakerdeck.com/gawa/how-to-build-secure-ai-agents</link>
+        <dc:date>2025-04-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Webアプリを Lambdaで動かすまでに考えること / How to implement monolithic Lambda Web Application (kensh)</title>
+        <link>https://speakerdeck.com/_kensh/how-to-implement-monolithic-lambda-web-application</link>
+        <dc:date>2025-04-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>50人の組織でAIエージェントを使う文化を作るためには / How to Create a Culture of Using AI Agents in a 50-Person Organization (YuitoSato)</title>
         <link>https://speakerdeck.com/yuitosato/how-to-create-a-culture-of-using-ai-agents-in-a-50-person-organization</link>
         <dc:date>2025-04-11T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>これだけは知っておきたいクラス設計の基礎知識 version 2 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/software-design-class-versoin2</link>
         <dc:date>2025-04-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIコーディングワークフローの試行 〜AIエージェント×ワークフローでの自動化を目指して〜 (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/ai-coding-workflow</link>
-        <dc:date>2025-04-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>”知のインストール”戦略：テキスト資産をAIの文脈理解に活かす (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
-        <link>https://speakerdeck.com/kworkdev/text-knowledge-install-ai-context</link>
-        <dc:date>2025-04-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Coding Agent Enablement (Yuku Kotani)</title>
-        <link>https://speakerdeck.com/yukukotani/ai-coding-agent-enablement</link>
-        <dc:date>2025-04-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティグループの”タイプ”を改めて考えてみる (モブエンジニア)</title>
-        <link>https://speakerdeck.com/masakiokuda/sekiyuriteigurupuno-taipu-wogai-metekao-etemiru</link>
-        <dc:date>2025-04-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
