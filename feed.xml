@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>UnrealEngine5のCPU最適化テクニック (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
+        <link>https://www.docswell.com/s/EpicGamesJapan/ZN1982-2024-12-09-104909</link>
+        <dc:date>2025-04-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>.NETの上でお手製の言語を動かす技術 (taiseiue)</title>
         <link>https://speakerdeck.com/taiseiue/dot-netnoshang-teoshou-zhi-noyan-yu-wodong-kasuji-shu</link>
         <dc:date>2025-04-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>dbtとLightdash を社内へ浸透させるまでの取り組み / Integrate dbt and Lightdash into Ubie (okiyuki)</title>
         <link>https://speakerdeck.com/okiyuki99/integrate-dbt-and-lightdash-into-ubie</link>
-        <dc:date>2025-04-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI旅行記事生成PJから学んだ マルチエージェントの本質と可能性 -旅行スタートアップの生成ＡＩ開発ナレッジシェア- (Daisuke Miyata,@miyatti)</title>
-        <link>https://www.docswell.com/s/miyatti/KL1QYP-2024-11-23-122752</link>
         <dc:date>2025-04-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
