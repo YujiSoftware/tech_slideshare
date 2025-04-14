@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>だから僕は（クラス）設計をやめた (スタヰル,@stwile871)</title>
+        <link>https://www.docswell.com/s/stwile/KP2318-2025-04-11-breaking-up-with-class-design</link>
+        <dc:date>2025-04-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>定義ジャンプ入門</title>
+        <link>https://docs.google.com/presentation/d/1HkiYZNKf6YBBOPNsHcvuOq2IKp1fw0L40j_T7RhrKZE/preview</link>
+        <dc:date>2025-04-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「影響が少ない」を自分の目でみてみる (hideki kinjyo)</title>
+        <link>https://speakerdeck.com/o0h/phpcon-odawara-2025</link>
+        <dc:date>2025-04-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ユーザーライクなセマンティックレイヤーの命名を探求してみた (okodoon)</title>
         <link>https://speakerdeck.com/okodoon/yuzaraikunasemanteitukureiyanoming-ming-wotan-qiu-sitemita</link>
         <dc:date>2025-04-12T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>Playwrightで実現する品質保証の好循環な仕組み (木下 智弘,@kikkis_jp)</title>
         <link>https://www.docswell.com/s/kikkis/5XE33Y-2025-03-10-100629</link>
         <dc:date>2025-04-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Holoニュースとか(2025/03)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQ-SzvtjjrSCsQBZIuzKUuOnNBW2QcPi4NSzReJccnGRAMwNPqv49dMEuCPA0rH72mASv2o8IHn-N2F/pub</link>
-        <dc:date>2025-04-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VisionProで部屋の明るさを反映させるシェーダーを作った話 (segur)</title>
-        <link>https://speakerdeck.com/segur/visionprodebu-wu-noming-rusawofan-ying-saserusiedawozuo-tutahua</link>
-        <dc:date>2025-04-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vibe Codingをせずに Clineを使っている (watany)</title>
-        <link>https://speakerdeck.com/watany/cline-without-vibe-coding</link>
-        <dc:date>2025-04-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
