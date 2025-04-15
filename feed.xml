@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloud Monitoringで非同期処理のオブザーバビリティ向上 (kekke-n)</title>
+        <link>https://speakerdeck.com/kekke_n/cloud-monitoringdefei-tong-qi-chu-li-noobuzababiriteixiang-shang</link>
+        <dc:date>2025-04-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フロントエンドオブザーバビリティ on Google Cloud (Yunosuke Yamada)</title>
+        <link>https://speakerdeck.com/yunosukey/hurontoendoobuzababiritei-on-google-cloud</link>
+        <dc:date>2025-04-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CloudRun, Spanner に対する負荷試験の反省と オブザーバビリティによるアプローチ (Keigo Ibaraki)</title>
+        <link>https://speakerdeck.com/oyasumipants/cloudrun-spanner-nidui-surufu-he-shi-yan-nofan-sheng-to-obuzababiriteiniyoruapuroti</link>
+        <dc:date>2025-04-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>UnrealEngine5のCPU最適化テクニック (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
         <link>https://www.docswell.com/s/EpicGamesJapan/ZN1982-2024-12-09-104909</link>
         <dc:date>2025-04-14T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Lightdashの利活用状況 ー導入から2年経った現在地_20250409 (Hiroki Igeta)</title>
         <link>https://speakerdeck.com/hirokiigeta/lightdash-use-case-at-retty-in-20250409</link>
-        <dc:date>2025-04-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>どっちの API SHOW？SharePoint 開発における SharePoint REST API  Microsoft Graph API の違い / Which API show? Differences between Microsoft Graph API and SharePoint REST API (Takashi Shinohara)</title>
-        <link>https://speakerdeck.com/karamem0/which-api-show-differences-between-microsoft-graph-api-and-sharepoint-rest-api</link>
-        <dc:date>2025-04-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20250325_Logic Apps / Power Automate の SharePoint コネクタの裏側を知る 〜Graph APIで直接操作してみよう〜 (yutakaosada)</title>
-        <link>https://speakerdeck.com/yutakaosada/power-automate-no-sharepoint-konekutanoli-ce-wozhi-ru-graph-apidezhi-jie-cao-zuo-sitemiyou</link>
-        <dc:date>2025-04-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbtとLightdash を社内へ浸透させるまでの取り組み / Integrate dbt and Lightdash into Ubie (okiyuki)</title>
-        <link>https://speakerdeck.com/okiyuki99/integrate-dbt-and-lightdash-into-ubie</link>
         <dc:date>2025-04-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
