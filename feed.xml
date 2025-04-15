@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>はてなの開発20年史と DevOpsの歩み / DevOpsDays Tokyo 2025 Keynote (KASUYA, Daisuke)</title>
+        <link>https://speakerdeck.com/daiksy/devopsdays-tokyo-2025-keynote</link>
+        <dc:date>2025-04-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloud Monitoringで非同期処理のオブザーバビリティ向上 (kekke-n)</title>
         <link>https://speakerdeck.com/kekke_n/cloud-monitoringdefei-tong-qi-chu-li-noobuzababiriteixiang-shang</link>
         <dc:date>2025-04-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>こんなデータマートは嫌だ。どんな？ / waiwai-data-meetup-202504 (Shun Takagiwa)</title>
         <link>https://speakerdeck.com/shuntak/waiwai-data-meetup-202504</link>
-        <dc:date>2025-04-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Lightdashの利活用状況 ー導入から2年経った現在地_20250409 (Hiroki Igeta)</title>
-        <link>https://speakerdeck.com/hirokiigeta/lightdash-use-case-at-retty-in-20250409</link>
         <dc:date>2025-04-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
