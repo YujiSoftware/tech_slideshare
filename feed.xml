@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby's Line Breaks (yui-knk)</title>
+        <link>https://speakerdeck.com/yui_knk/rubys-line-breaks</link>
+        <dc:date>2025-04-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby Taught Me About Under the Hood (ima1zumi)</title>
         <link>https://speakerdeck.com/ima1zumi/ruby-taught-me-about-under-the-hood</link>
         <dc:date>2025-04-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>50人の組織でAIエージェントを使う文化を作るためには / How to Create a Culture of Using AI Agents in a 50-Person Organization (YuitoSato)</title>
         <link>https://speakerdeck.com/yuitosato/how-to-create-a-culture-of-using-ai-agents-in-a-50-person-organization</link>
         <dc:date>2025-04-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>.mdc駆動ナレッジマネジメント/.mdc-driven knowledge management (Yoda Keisuke)</title>
-        <link>https://speakerdeck.com/yodakeisuke/dot-mdc-driven-knowledge-management</link>
-        <dc:date>2025-04-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
