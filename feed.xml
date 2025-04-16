@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby Taught Me About Under the Hood (ima1zumi)</title>
+        <link>https://speakerdeck.com/ima1zumi/ruby-taught-me-about-under-the-hood</link>
+        <dc:date>2025-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Deoptimization: How YJIT Speeds Up Ruby by Slowing Down / RubyKaigi 2025 (Takashi Kokubun)</title>
         <link>https://speakerdeck.com/k0kubun/rubykaigi-2025</link>
         <dc:date>2025-04-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>.mdc駆動ナレッジマネジメント/.mdc-driven knowledge management (Yoda Keisuke)</title>
         <link>https://speakerdeck.com/yodakeisuke/dot-mdc-driven-knowledge-management</link>
-        <dc:date>2025-04-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SLSA概要紹介 Supply-chain Levels for Software Artifacts (Linux Foundation Japan)</title>
-        <link>https://speakerdeck.com/lfj/overview-of-slsa-supply-chain-levels-for-software-artifacts</link>
         <dc:date>2025-04-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
