@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Deoptimization: How YJIT Speeds Up Ruby by Slowing Down / RubyKaigi 2025 (Takashi Kokubun)</title>
+        <link>https://speakerdeck.com/k0kubun/rubykaigi-2025</link>
+        <dc:date>2025-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MCP入門と便利なクライアント活用術 〜CursorやDifyを例に〜 (solaoi)</title>
         <link>https://www.docswell.com/s/solaoi/KP23JX-2025-04-09-023625</link>
         <dc:date>2025-04-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SLSA概要紹介 Supply-chain Levels for Software Artifacts (Linux Foundation Japan)</title>
         <link>https://speakerdeck.com/lfj/overview-of-slsa-supply-chain-levels-for-software-artifacts</link>
-        <dc:date>2025-04-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業をデータエンジニアリングする / data-engineering-for-business (pei0804)</title>
-        <link>https://speakerdeck.com/pei0804/data-engineering-for-business</link>
         <dc:date>2025-04-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
