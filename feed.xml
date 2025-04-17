@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20250408 AI Agent workshop (Sakana AI)</title>
+        <link>https://speakerdeck.com/sakana_ai/20250408-ai-agent-workshop</link>
+        <dc:date>2025-04-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>State of Namespace (Satoshi Tagomori)</title>
         <link>https://speakerdeck.com/tagomoris/state-of-namespace</link>
         <dc:date>2025-04-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ユーザーライクなセマンティックレイヤーの命名を探求してみた (okodoon)</title>
         <link>https://speakerdeck.com/okodoon/yuzaraikunasemanteitukureiyanoming-ming-wotan-qiu-sitemita</link>
-        <dc:date>2025-04-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Glue Studio Visual ETL実装時にハマったこと (KOKI TAMURA)</title>
-        <link>https://speakerdeck.com/kokitamura/glue-studio-visual-etlshi-zhuang-shi-nihamatutakoto</link>
         <dc:date>2025-04-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
