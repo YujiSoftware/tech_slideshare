@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Holoニュースとか(2025/04)</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vTSNO-Lo5XXSp7eX-hUmsb54NwA5HMFN46c9wVMzYB3roc4K_GR2fPTykp6xiYsP79oMr-NxJTK2C0b/pub</link>
+        <dc:date>2025-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20250416_XRミーティング (1ft-seabass)</title>
+        <link>https://speakerdeck.com/1ftseabass/xr-meeting-20250416</link>
+        <dc:date>2025-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JJUGナイトセミナー ハイレベルSpring Security (tada,@suke_masa)</title>
+        <link>https://www.docswell.com/s/MasatoshiTada/K1R8JP-high-level-spring-security</link>
+        <dc:date>2025-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RuboCop: Modularity and AST Insights (Koichi ITO)</title>
+        <link>https://speakerdeck.com/koic/rubocop-modularity-and-ast-insights</link>
+        <dc:date>2025-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ずんだもんがお昼ご飯を食べられる時間を教えてくれるLINEbotを作った話 (げんげん)</title>
         <link>https://speakerdeck.com/gengen0719/zundamongaozhou-gofan-woshi-berarerushi-jian-wojiao-etekurerulinebotwozuo-tutahua</link>
         <dc:date>2025-04-16T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>Cloud Monitoringで非同期処理のオブザーバビリティ向上 (kekke-n)</title>
         <link>https://speakerdeck.com/kekke_n/cloud-monitoringdefei-tong-qi-chu-li-noobuzababiriteixiang-shang</link>
         <dc:date>2025-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドオブザーバビリティ on Google Cloud (Yunosuke Yamada)</title>
-        <link>https://speakerdeck.com/yunosukey/hurontoendoobuzababiritei-on-google-cloud</link>
-        <dc:date>2025-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CloudRun, Spanner に対する負荷試験の反省と オブザーバビリティによるアプローチ (Keigo Ibaraki)</title>
-        <link>https://speakerdeck.com/oyasumipants/cloudrun-spanner-nidui-surufu-he-shi-yan-nofan-sheng-to-obuzababiriteiniyoruapuroti</link>
-        <dc:date>2025-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UnrealEngine5のCPU最適化テクニック (エピック ゲームズ ジャパン,@UnrealEngineJP)</title>
-        <link>https://www.docswell.com/s/EpicGamesJapan/ZN1982-2024-12-09-104909</link>
-        <dc:date>2025-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>.NETの上でお手製の言語を動かす技術 (taiseiue)</title>
-        <link>https://speakerdeck.com/taiseiue/dot-netnoshang-teoshou-zhi-noyan-yu-wodong-kasuji-shu</link>
-        <dc:date>2025-04-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
