@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>State of Namespace (Satoshi Tagomori)</title>
+        <link>https://speakerdeck.com/tagomoris/state-of-namespace</link>
+        <dc:date>2025-04-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RubyKaigi 2025 - Performance Bugs and Low-level Ruby Observability APIs </title>
         <link>https://docs.google.com/presentation/d/1lDnxFkc4URsi0LP4w1M5IXv5A02AG_HUy3gW_SpEWOA/preview</link>
         <dc:date>2025-04-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Glue Studio Visual ETL実装時にハマったこと (KOKI TAMURA)</title>
         <link>https://speakerdeck.com/kokitamura/glue-studio-visual-etlshi-zhuang-shi-nihamatutakoto</link>
-        <dc:date>2025-04-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Power AutomateでSharePointを操る～Part6～ (たな,@dreams_panda)</title>
-        <link>https://www.docswell.com/s/tanapandalove/ZYD64R-2025-04-12-214244</link>
         <dc:date>2025-04-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
