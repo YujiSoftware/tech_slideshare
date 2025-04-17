@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RubyKaigi 2025 - Performance Bugs and Low-level Ruby Observability APIs </title>
+        <link>https://docs.google.com/presentation/d/1lDnxFkc4URsi0LP4w1M5IXv5A02AG_HUy3gW_SpEWOA/preview</link>
+        <dc:date>2025-04-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DETR手法の変遷と最新動向（CVPR2025） (TakatoYoshikawa)</title>
+        <link>https://speakerdeck.com/tenten0727/detrshou-fa-nobian-qian-tozui-xin-dong-xiang-cvpr2025</link>
+        <dc:date>2025-04-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Devinで模索する AIファースト開発〜ゼロベースから始めるDevOpsの進化〜 (Katsunori Kanda)</title>
+        <link>https://speakerdeck.com/potix2/ai_first_development_with_devin</link>
+        <dc:date>2025-04-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby's Line Breaks (yui-knk)</title>
         <link>https://speakerdeck.com/yui_knk/rubys-line-breaks</link>
         <dc:date>2025-04-16T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>Power AutomateでSharePointを操る～Part6～ (たな,@dreams_panda)</title>
         <link>https://www.docswell.com/s/tanapandalove/ZYD64R-2025-04-12-214244</link>
         <dc:date>2025-04-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS で実現する 安全な AI エージェントの作り方 〜 Bedrock Engineer の実装例を添えて 〜 / how-to-build-secure-ai-agents (geeawa)</title>
-        <link>https://speakerdeck.com/gawa/how-to-build-secure-ai-agents</link>
-        <dc:date>2025-04-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webアプリを Lambdaで動かすまでに考えること / How to implement monolithic Lambda Web Application (kensh)</title>
-        <link>https://speakerdeck.com/_kensh/how-to-implement-monolithic-lambda-web-application</link>
-        <dc:date>2025-04-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>50人の組織でAIエージェントを使う文化を作るためには / How to Create a Culture of Using AI Agents in a 50-Person Organization (YuitoSato)</title>
-        <link>https://speakerdeck.com/yuitosato/how-to-create-a-culture-of-using-ai-agents-in-a-50-person-organization</link>
-        <dc:date>2025-04-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
