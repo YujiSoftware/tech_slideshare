@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PicoRabbit: a Tiny Presentation Device Powered by Ruby (Harukasan)</title>
+        <link>https://speakerdeck.com/harukasan/picorabbit-a-tiny-presentation-device-powered-by-ruby</link>
+        <dc:date>2025-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cursor AgentによるパーソナルAIアシスタント育成入門―業務のプロンプト化・MCPの活用 (os1ma)</title>
         <link>https://speakerdeck.com/os1ma/cursor-agentniyorupasonaruaiasisutantoyu-cheng-ru-men-ye-wu-nopuronputohua-mcpnohuo-yong</link>
         <dc:date>2025-04-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Bedrockでのプロンプト管理戦略 (Shota Totsuka)</title>
         <link>https://speakerdeck.com/totsukash/bedrockdenopuronputoguan-li-zhan-lue</link>
-        <dc:date>2025-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はてなの開発20年史と DevOpsの歩み / DevOpsDays Tokyo 2025 Keynote (KASUYA, Daisuke)</title>
-        <link>https://speakerdeck.com/daiksy/devopsdays-tokyo-2025-keynote</link>
         <dc:date>2025-04-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
