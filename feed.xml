@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代の開発者評価について (Ayuusu)</title>
+        <link>https://speakerdeck.com/ayumuu/aishi-dai-nokai-fa-zhe-ping-jia-nituite</link>
+        <dc:date>2025-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Automatically generating types by running tests (Takumi Shotoku)</title>
         <link>https://speakerdeck.com/sinsoku/automatically-generating-types-by-running-tests</link>
         <dc:date>2025-04-17T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Deoptimization: How YJIT Speeds Up Ruby by Slowing Down / RubyKaigi 2025 (Takashi Kokubun)</title>
         <link>https://speakerdeck.com/k0kubun/rubykaigi-2025</link>
         <dc:date>2025-04-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCP入門と便利なクライアント活用術 〜CursorやDifyを例に〜 (solaoi)</title>
-        <link>https://www.docswell.com/s/solaoi/KP23JX-2025-04-09-023625</link>
-        <dc:date>2025-04-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
