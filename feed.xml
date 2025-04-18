@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>API for docs (Soutaro Matsumoto)</title>
+        <link>https://speakerdeck.com/soutaro/api-for-doc</link>
+        <dc:date>2025-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Porting PicoRuby to Another Microcontroller: ESP32 (Y_uuu)</title>
         <link>https://speakerdeck.com/yuuu/porting-picoruby-to-another-microcontroller-esp32</link>
         <dc:date>2025-04-17T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Ruby's Line Breaks (yui-knk)</title>
         <link>https://speakerdeck.com/yui_knk/rubys-line-breaks</link>
         <dc:date>2025-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby Taught Me About Under the Hood (ima1zumi)</title>
-        <link>https://speakerdeck.com/ima1zumi/ruby-taught-me-about-under-the-hood</link>
-        <dc:date>2025-04-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
