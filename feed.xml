@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Automatically generating types by running tests (Takumi Shotoku)</title>
+        <link>https://speakerdeck.com/sinsoku/automatically-generating-types-by-running-tests</link>
+        <dc:date>2025-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PicoRabbit: a Tiny Presentation Device Powered by Ruby (Harukasan)</title>
         <link>https://speakerdeck.com/harukasan/picorabbit-a-tiny-presentation-device-powered-by-ruby</link>
         <dc:date>2025-04-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>MCP入門と便利なクライアント活用術 〜CursorやDifyを例に〜 (solaoi)</title>
         <link>https://www.docswell.com/s/solaoi/KP23JX-2025-04-09-023625</link>
-        <dc:date>2025-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bedrockでのプロンプト管理戦略 (Shota Totsuka)</title>
-        <link>https://speakerdeck.com/totsukash/bedrockdenopuronputoguan-li-zhan-lue</link>
         <dc:date>2025-04-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
