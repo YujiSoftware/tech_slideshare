@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Porting PicoRuby to Another Microcontroller: ESP32 (Y_uuu)</title>
+        <link>https://speakerdeck.com/yuuu/porting-picoruby-to-another-microcontroller-esp32</link>
+        <dc:date>2025-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代の開発者評価について (Ayuusu)</title>
         <link>https://speakerdeck.com/ayumuu/aishi-dai-nokai-fa-zhe-ping-jia-nituite</link>
         <dc:date>2025-04-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Ruby Taught Me About Under the Hood (ima1zumi)</title>
         <link>https://speakerdeck.com/ima1zumi/ruby-taught-me-about-under-the-hood</link>
-        <dc:date>2025-04-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deoptimization: How YJIT Speeds Up Ruby by Slowing Down / RubyKaigi 2025 (Takashi Kokubun)</title>
-        <link>https://speakerdeck.com/k0kubun/rubykaigi-2025</link>
         <dc:date>2025-04-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
