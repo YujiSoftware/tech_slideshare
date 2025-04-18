@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCPを活用した検索システムの作り方/How to implement search systems with MCP  #catalks (quiver)</title>
+        <link>https://speakerdeck.com/quiver/how-to-implement-search-systems-with-mcp</link>
+        <dc:date>2025-04-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>API for docs (Soutaro Matsumoto)</title>
         <link>https://speakerdeck.com/soutaro/api-for-doc</link>
         <dc:date>2025-04-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Devinで模索する AIファースト開発〜ゼロベースから始めるDevOpsの進化〜 (Katsunori Kanda)</title>
         <link>https://speakerdeck.com/potix2/ai_first_development_with_devin</link>
-        <dc:date>2025-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby's Line Breaks (yui-knk)</title>
-        <link>https://speakerdeck.com/yui_knk/rubys-line-breaks</link>
         <dc:date>2025-04-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
