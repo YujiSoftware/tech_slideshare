@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS全冠芸人が見た世界 ～資格取得より大切なこと～ (モブエンジニア)</title>
+        <link>https://speakerdeck.com/masakiokuda/awsquan-guan-yun-ren-gajian-tashi-jie-zi-ge-qu-de-yorida-qie-nakoto</link>
+        <dc:date>2025-04-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Spring Bootで実装とインフラをこれでもかと分離するための試み (Shin Tanimoto)</title>
         <link>https://speakerdeck.com/shintanimoto/decoupling-implementation-from-infrastructure-with-spring-boot</link>
         <dc:date>2025-04-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RubyKaigi 2025 - Performance Bugs and Low-level Ruby Observability APIs </title>
         <link>https://docs.google.com/presentation/d/1lDnxFkc4URsi0LP4w1M5IXv5A02AG_HUy3gW_SpEWOA/preview</link>
-        <dc:date>2025-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DETR手法の変遷と最新動向（CVPR2025） (TakatoYoshikawa)</title>
-        <link>https://speakerdeck.com/tenten0727/detrshou-fa-nobian-qian-tozui-xin-dong-xiang-cvpr2025</link>
         <dc:date>2025-04-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
