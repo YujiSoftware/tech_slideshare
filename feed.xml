@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BI を組織に広める際に必要なこと～技術だけじゃ無理です～ (清水優吾,@yugoes1021)</title>
+        <link>https://www.docswell.com/s/yugoes1021/ZEXMED-2025-04-19-PBI-Yugo</link>
+        <dc:date>2025-04-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>バックオフィス向け toB SaaS バクラクにおけるレコメンド技術活用 / recommender-systems-in-layerx-bakuraku (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/recommender-systems-in-layerx-bakuraku</link>
         <dc:date>2025-04-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>シェアサイクルに関する論文の紹介 (keijipoon)</title>
         <link>https://speakerdeck.com/keijipoon/sieasaikuruniguan-surulun-wen-noshao-jie</link>
-        <dc:date>2025-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実データで見るシェアサイクルの経路検索 (val_r_s)</title>
-        <link>https://speakerdeck.com/val_r_s/shi-detadejian-rusieasaikurunojing-lu-jian-suo</link>
         <dc:date>2025-04-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
