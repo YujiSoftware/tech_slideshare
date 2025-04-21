@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCP Server as a Judge (mtsukada)</title>
+        <link>https://speakerdeck.com/licux/mcp-server-as-a-judge</link>
+        <dc:date>2025-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIとどう付き合っていくか2025春  #ssmjp (NAKAYAMA Masahiro,@nekoruri)</title>
         <link>https://www.docswell.com/s/nekoruri/Z4V7M1-2025-04-21-ssmjp-ai</link>
         <dc:date>2025-04-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>API for docs (Soutaro Matsumoto)</title>
         <link>https://speakerdeck.com/soutaro/api-for-doc</link>
-        <dc:date>2025-04-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Porting PicoRuby to Another Microcontroller: ESP32 (Y_uuu)</title>
-        <link>https://speakerdeck.com/yuuu/porting-picoruby-to-another-microcontroller-esp32</link>
         <dc:date>2025-04-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
