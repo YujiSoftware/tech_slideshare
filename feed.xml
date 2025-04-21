@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サーベイ入門2025｜苗村研勉強会2025 (矢作優知,@yuchi_yahagi)</title>
+        <link>https://www.docswell.com/s/yuchi/ZJ4VX1-2025-04-20-survey</link>
+        <dc:date>2025-04-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>学振特別研究員になるために～2026年度申請版 (大上雅史,@tonets)</title>
         <link>https://www.docswell.com/s/tonets/Z1R7D2-gakushin2026</link>
         <dc:date>2025-04-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Automatically generating types by running tests (Takumi Shotoku)</title>
         <link>https://speakerdeck.com/sinsoku/automatically-generating-types-by-running-tests</link>
-        <dc:date>2025-04-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PicoRabbit: a Tiny Presentation Device Powered by Ruby (Harukasan)</title>
-        <link>https://speakerdeck.com/harukasan/picorabbit-a-tiny-presentation-device-powered-by-ruby</link>
         <dc:date>2025-04-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
