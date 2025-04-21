@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS上でMCPを安全に使いたい ~Mastraを添えて~ (Har1101)</title>
+        <link>https://speakerdeck.com/har1101/awsshang-temcpwoan-quan-nishi-itai-mastrawotian-ete</link>
+        <dc:date>2025-04-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サーベイ入門2025｜苗村研勉強会2025 (矢作優知,@yuchi_yahagi)</title>
         <link>https://www.docswell.com/s/yuchi/ZJ4VX1-2025-04-20-survey</link>
         <dc:date>2025-04-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI時代の開発者評価について (Ayuusu)</title>
         <link>https://speakerdeck.com/ayumuu/aishi-dai-nokai-fa-zhe-ping-jia-nituite</link>
-        <dc:date>2025-04-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Automatically generating types by running tests (Takumi Shotoku)</title>
-        <link>https://speakerdeck.com/sinsoku/automatically-generating-types-by-running-tests</link>
         <dc:date>2025-04-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
