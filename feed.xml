@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The Implementations of Advanced LR Parser Algorithm (Junichi Kobayashi)</title>
+        <link>https://speakerdeck.com/junk0612/the-implementations-of-advanced-lr-parser-algorithm</link>
+        <dc:date>2025-04-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>On-the-fly Suggestions of Rewriting Method Deprecations (Masato Ohba)</title>
         <link>https://speakerdeck.com/ohbarye/on-the-fly-suggestions-of-rewriting-method-deprecations</link>
         <dc:date>2025-04-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>RuboCop: Modularity and AST Insights (Koichi ITO)</title>
         <link>https://speakerdeck.com/koic/rubocop-modularity-and-ast-insights</link>
         <dc:date>2025-04-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ずんだもんがお昼ご飯を食べられる時間を教えてくれるLINEbotを作った話 (げんげん)</title>
-        <link>https://speakerdeck.com/gengen0719/zundamongaozhou-gofan-woshi-berarerushi-jian-wojiao-etekurerulinebotwozuo-tutahua</link>
-        <dc:date>2025-04-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
