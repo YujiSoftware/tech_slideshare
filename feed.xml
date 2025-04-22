@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>kintoneエンジニアリングマネージャー業務紹介 (サイボウズ開発本部,@cybozuinsideout)</title>
+        <link>https://www.docswell.com/s/cybozu-tech/ZMX8X8-kintone-engineering-manager</link>
+        <dc:date>2025-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>進化するK8s運用：KarpenterによるCluster Autoscalerからの脱却、運用ノウハウ完全公開 (shibatch)</title>
+        <link>https://speakerdeck.com/shibatch/jin-hua-suruk8syun-yong-karpenterniyorucluster-autoscalerkaranotuo-que-yun-yong-nouhauwan-quan-gong-kai</link>
+        <dc:date>2025-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIコーディングの理想と現実 (Tomohisa Takaoka)</title>
+        <link>https://speakerdeck.com/tomohisa/aikodeingunoli-xiang-toxian-shi</link>
+        <dc:date>2025-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Javaアプリケーションモニタリングの基本 (irof)</title>
+        <link>https://speakerdeck.com/irof/an-introduction-to-monitoring-java-applications</link>
+        <dc:date>2025-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Goの組織でバックエンドTypeScriptを採用してどうだったか / How was adopting backend TypeScript in a Golang company (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/how-was-adopting-backend-typescript-in-a-golang-company</link>
         <dc:date>2025-04-21T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>第23回Ques_タイミーにおけるQAチームの在り方 / QA Team in Timee (kishiken)</title>
         <link>https://speakerdeck.com/takeyaqa/qa-team-in-timee</link>
         <dc:date>2025-04-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Implementations of Advanced LR Parser Algorithm (Junichi Kobayashi)</title>
-        <link>https://speakerdeck.com/junk0612/the-implementations-of-advanced-lr-parser-algorithm</link>
-        <dc:date>2025-04-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>On-the-fly Suggestions of Rewriting Method Deprecations (Masato Ohba)</title>
-        <link>https://speakerdeck.com/ohbarye/on-the-fly-suggestions-of-rewriting-method-deprecations</link>
-        <dc:date>2025-04-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現場で使える &amp;quot;AI x PM&amp;quot; 仕事術  - 生成AIで加速するC向けプロダクト開発 - (Daisuke Miyata,@miyatti)</title>
-        <link>https://www.docswell.com/s/miyatti/ZMX81X-2025-04-17-112322</link>
-        <dc:date>2025-04-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BI を組織に広める際に必要なこと～技術だけじゃ無理です～ (清水優吾,@yugoes1021)</title>
-        <link>https://www.docswell.com/s/yugoes1021/ZEXMED-2025-04-19-PBI-Yugo</link>
-        <dc:date>2025-04-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
