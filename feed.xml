@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[2025-03-25] コミュニケーションデータを扱う SaaS 企業が切り拓く、新たなビジネス機会 / 初のホリゾンタル SaaS 領域で思うデータ分析職の価値 (WADA Yusuke)</title>
+        <link>https://speakerdeck.com/wxyzzz/chu-nohorizontaru-saas-ling-yu-desi-udetafen-xi-zhi-nojia-zhi</link>
+        <dc:date>2025-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIとナレッジグラフと私 (daiiz,@daizplus)</title>
         <link>https://www.docswell.com/s/daiiz/5MX89N-2025-04-21-203001</link>
         <dc:date>2025-04-21T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Spring Bootで実装とインフラをこれでもかと分離するための試み (Shin Tanimoto)</title>
         <link>https://speakerdeck.com/shintanimoto/decoupling-implementation-from-infrastructure-with-spring-boot</link>
         <dc:date>2025-04-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCPを活用した検索システムの作り方/How to implement search systems with MCP  #catalks (quiver)</title>
-        <link>https://speakerdeck.com/quiver/how-to-implement-search-systems-with-mcp</link>
-        <dc:date>2025-04-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
