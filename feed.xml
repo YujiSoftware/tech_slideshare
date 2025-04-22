@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Running JavaScript within Ruby (Kengo Hamasaki)</title>
+        <link>https://speakerdeck.com/hmsk/running-javascript-within-ruby</link>
+        <dc:date>2025-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Postmanワークショップ - API基礎 - 20250422</title>
         <link>https://docs.google.com/presentation/d/1Azn0i7hhulIFz_rd89VW52bDvrARvX9jHJpL3fswPNE/preview</link>
         <dc:date>2025-04-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>バックオフィス向け toB SaaS バクラクにおけるレコメンド技術活用 / recommender-systems-in-layerx-bakuraku (Yuya Matsumura)</title>
         <link>https://speakerdeck.com/yuya4/recommender-systems-in-layerx-bakuraku</link>
-        <dc:date>2025-04-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Roblox であそぼ (qst_exe)</title>
-        <link>https://speakerdeck.com/qst_exe/roblox-deasobo</link>
         <dc:date>2025-04-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
