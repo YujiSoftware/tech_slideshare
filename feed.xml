@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Goの組織でバックエンドTypeScriptを採用してどうだったか / How was adopting backend TypeScript in a Golang company (株式会社カミナシ)</title>
+        <link>https://speakerdeck.com/kaminashi/how-was-adopting-backend-typescript-in-a-golang-company</link>
+        <dc:date>2025-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Running JavaScript within Ruby (Kengo Hamasaki)</title>
         <link>https://speakerdeck.com/hmsk/running-javascript-within-ruby</link>
         <dc:date>2025-04-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>BI を組織に広める際に必要なこと～技術だけじゃ無理です～ (清水優吾,@yugoes1021)</title>
         <link>https://www.docswell.com/s/yugoes1021/ZEXMED-2025-04-19-PBI-Yugo</link>
-        <dc:date>2025-04-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バックオフィス向け toB SaaS バクラクにおけるレコメンド技術活用 / recommender-systems-in-layerx-bakuraku (Yuya Matsumura)</title>
-        <link>https://speakerdeck.com/yuya4/recommender-systems-in-layerx-bakuraku</link>
         <dc:date>2025-04-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
