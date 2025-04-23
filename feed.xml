@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI前提のサービス運用について再考する (ryuichi1208)</title>
+        <link>https://speakerdeck.com/ryuichi1208/aiqian-ti-nosahisuyun-yong-nituitezai-kao-suru</link>
+        <dc:date>2025-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREからゼロイチプロダクト開発へ ー越境する打席の立ち方と期待への応え方ー / Product Engineering Night #8 (itkq)</title>
         <link>https://speakerdeck.com/itkq/product-engineering-night-number-8</link>
         <dc:date>2025-04-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>進化するK8s運用：KarpenterによるCluster Autoscalerからの脱却、運用ノウハウ完全公開 (shibatch)</title>
         <link>https://speakerdeck.com/shibatch/jin-hua-suruk8syun-yong-karpenterniyorucluster-autoscalerkaranotuo-que-yun-yong-nouhauwan-quan-gong-kai</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIコーディングの理想と現実 (Tomohisa Takaoka)</title>
-        <link>https://speakerdeck.com/tomohisa/aikodeingunoli-xiang-toxian-shi</link>
         <dc:date>2025-04-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
