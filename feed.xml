@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>がんばらないアクセシビリティ</title>
+        <link>https://docs.google.com/presentation/d/1ARkpEjP9Le6oG4DbV9OEZDFLnIrsnTTIv8mVpEQ3Vng/preview</link>
+        <dc:date>2025-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ここはMCPの夜明けまえ (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/kokohamcpnoye-ming-kemae</link>
+        <dc:date>2025-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バクラクの認証基盤の成長と現在地 / bakuraku-authn-platform (convto)</title>
+        <link>https://speakerdeck.com/convto/bakuraku-authn-platform</link>
+        <dc:date>2025-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIコーディングの最前線 〜活用のコツと課題〜 (PharmaX（旧YOJO Technologies）開発チーム)</title>
         <link>https://speakerdeck.com/pharma_x_tech/aikoteinkunozui-qian-xian-huo-yong-nokotutoke-ti</link>
         <dc:date>2025-04-22T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Goの組織でバックエンドTypeScriptを採用してどうだったか / How was adopting backend TypeScript in a Golang company (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/how-was-adopting-backend-typescript-in-a-golang-company</link>
-        <dc:date>2025-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Running JavaScript within Ruby (Kengo Hamasaki)</title>
-        <link>https://speakerdeck.com/hmsk/running-javascript-within-ruby</link>
-        <dc:date>2025-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ - API基礎 - 20250422</title>
-        <link>https://docs.google.com/presentation/d/1Azn0i7hhulIFz_rd89VW52bDvrARvX9jHJpL3fswPNE/preview</link>
-        <dc:date>2025-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大LLM時代にこの先生きのこるには-ITエンジニア編 (Kuu)</title>
-        <link>https://speakerdeck.com/fumiyakume/da-llmshi-dai-nikonoxian-sheng-kinokoruniha-itenziniabian</link>
         <dc:date>2025-04-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
