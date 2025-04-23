@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREからゼロイチプロダクト開発へ ー越境する打席の立ち方と期待への応え方ー / Product Engineering Night #8 (itkq)</title>
+        <link>https://speakerdeck.com/itkq/product-engineering-night-number-8</link>
+        <dc:date>2025-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NotebookLM + Agentspace を使った(開発)体験 (SatohJohn)</title>
+        <link>https://speakerdeck.com/satohjohn/notebooklm-plus-agentspace-woshi-tuta-kai-fa-ti-yan</link>
+        <dc:date>2025-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>がんばらないアクセシビリティ</title>
         <link>https://docs.google.com/presentation/d/1ARkpEjP9Le6oG4DbV9OEZDFLnIrsnTTIv8mVpEQ3Vng/preview</link>
         <dc:date>2025-04-22T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>AIコーディングの理想と現実 (Tomohisa Takaoka)</title>
         <link>https://speakerdeck.com/tomohisa/aikodeingunoli-xiang-toxian-shi</link>
         <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Javaアプリケーションモニタリングの基本 (irof)</title>
-        <link>https://speakerdeck.com/irof/an-introduction-to-monitoring-java-applications</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goの組織でバックエンドTypeScriptを採用してどうだったか / How was adopting backend TypeScript in a Golang company (株式会社カミナシ)</title>
-        <link>https://speakerdeck.com/kaminashi/how-was-adopting-backend-typescript-in-a-golang-company</link>
-        <dc:date>2025-04-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
