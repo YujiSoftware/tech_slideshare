@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>設計の本質：コード、システム、そして組織へ / The Essence of Design: To Code, Systems, and Organizations (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/the-essence-of-design-to-code-systems-and-organizations</link>
+        <dc:date>2025-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Terraform Stacks入門 #HashiTalks (msato)</title>
         <link>https://speakerdeck.com/msato/terraform-stacksru-men-number-hashitalks</link>
         <dc:date>2025-04-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>役職がなくても、組織をよくすることはできるかもしれない (ktnyt,@_ktnyt)</title>
         <link>https://www.docswell.com/s/nanogram/ZEXMVG-2025-04-22-185924</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>kintoneエンジニアリングマネージャー業務紹介 (サイボウズ開発本部,@cybozuinsideout)</title>
-        <link>https://www.docswell.com/s/cybozu-tech/ZMX8X8-kintone-engineering-manager</link>
         <dc:date>2025-04-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
