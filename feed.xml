@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>bolt.new in 実務（AI駆動開発勉強会） (Okazaki)</title>
+        <link>https://speakerdeck.com/okazakikohei/bolt-dot-new-in-shi-wu</link>
+        <dc:date>2025-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>研究テーマのデザインと研究遂行の方法論 (Hisashi Ishihara)</title>
         <link>https://speakerdeck.com/hisashiishihara/yan-jiu-temanodezaintoyan-jiu-sui-xing-nofang-fa-lun</link>
         <dc:date>2025-04-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プログラミングサークルの新歓を支える技術 (Walnuts)</title>
         <link>https://speakerdeck.com/walnuts1018/puroguramingusakurunoxin-huan-wozhi-eruji-shu</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenAPIに静的解析とフォーマッターを導入する (uutan1108)</title>
-        <link>https://speakerdeck.com/ohmori_yusuke/openapinijing-de-jie-xi-tohuomatutawodao-ru-suru</link>
         <dc:date>2025-04-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
