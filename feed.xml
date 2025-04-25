@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「理解」を重視したAI活用開発 (FastDOCTOR)</title>
+        <link>https://speakerdeck.com/fast_doctor/li-jie-wozhong-shi-sitaaihuo-yong-kai-fa</link>
+        <dc:date>2025-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIと共に乗り越える、 入社後２ヶ月の苦労と学習の軌跡 (Sai Kaneko)</title>
+        <link>https://speakerdeck.com/sai_kaneko/aitogong-nicheng-riyue-eru-ru-she-hou-2keyue-noku-lao-toxue-xi-nogui-ji</link>
+        <dc:date>2025-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIでめっちゃ便利になったけど、結局みんなで学ぶよねっていう話 (KAKEHASHI)</title>
+        <link>https://speakerdeck.com/kakehashi/we-learn-together</link>
+        <dc:date>2025-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>リリースから14年目！PHPと歩んだ「Chatwork」プロダクトのふりかえり (kubell)</title>
+        <link>https://speakerdeck.com/kubell_hr/250123-php-tanaka</link>
+        <dc:date>2025-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「Chatwork」における PHP 開発の取り組みの紹介 (kubell)</title>
+        <link>https://speakerdeck.com/kubell_hr/250123-php-hatanaka</link>
+        <dc:date>2025-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIエージェント for 予約フォーム (NearMeの技術発表資料です)</title>
         <link>https://speakerdeck.com/nearme_tech/ai-agent-for-reservation-form</link>
         <dc:date>2025-04-24T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>NotebookLM + Agentspace を使った(開発)体験 (SatohJohn)</title>
         <link>https://speakerdeck.com/satohjohn/notebooklm-plus-agentspace-woshi-tuta-kai-fa-ti-yan</link>
         <dc:date>2025-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>がんばらないアクセシビリティ</title>
-        <link>https://docs.google.com/presentation/d/1ARkpEjP9Le6oG4DbV9OEZDFLnIrsnTTIv8mVpEQ3Vng/preview</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ここはMCPの夜明けまえ (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/kokohamcpnoye-ming-kemae</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バクラクの認証基盤の成長と現在地 / bakuraku-authn-platform (convto)</title>
-        <link>https://speakerdeck.com/convto/bakuraku-authn-platform</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIコーディングの最前線 〜活用のコツと課題〜 (PharmaX（旧YOJO Technologies）開発チーム)</title>
-        <link>https://speakerdeck.com/pharma_x_tech/aikoteinkunozui-qian-xian-huo-yong-nokotutoke-ti</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VitestのIn-Source Testingが便利 (taro)</title>
-        <link>https://speakerdeck.com/taro28/vitestnoin-source-testinggabian-li</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
