@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIコーディングエージェントを 「使いこなす」ための実践知と現在地 in ログラス /  How to Use AI Coding Agent in Loglass (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/how-to-use-ai-coding-agent-in-loglass</link>
+        <dc:date>2025-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェント開発手法と業務導入のプラクティス (Yoshinori Kosaka)</title>
+        <link>https://speakerdeck.com/ykosaka/aiezientokai-fa-shou-fa-toye-wu-dao-ru-nopurakuteisu</link>
+        <dc:date>2025-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vibe Coding の話をしよう (schroneko)</title>
         <link>https://speakerdeck.com/schroneko/vibe-coding-nohua-wosiyou</link>
         <dc:date>2025-04-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>状態と共に暮らす：ステートフルへの挑戦 (ypresto)</title>
         <link>https://speakerdeck.com/ypresto/living-with-state</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>更新系と状態 (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/layerx-jotai</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>複雑なフォームの jotai 設計 / Designing jotai(state) for Complex Forms #layerx_frontend (Masayuki Izumi)</title>
-        <link>https://speakerdeck.com/izumin5210/designing-jotai-state-for-complex-forms-number-layerx-frontend</link>
         <dc:date>2025-04-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
