@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIエージェント for 予約フォーム (NearMeの技術発表資料です)</title>
+        <link>https://speakerdeck.com/nearme_tech/ai-agent-for-reservation-form</link>
+        <dc:date>2025-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バッチ処理を監視したいだけなんだが…  (yjszk)</title>
+        <link>https://speakerdeck.com/yjszk/batutichu-li-wojian-shi-sitaidakenandaga-dot-dot-dot</link>
+        <dc:date>2025-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIコーディングエージェントを 「使いこなす」ための実践知と現在地 in ログラス /  How to Use AI Coding Agent in Loglass (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/how-to-use-ai-coding-agent-in-loglass</link>
         <dc:date>2025-04-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>VitestのIn-Source Testingが便利 (taro)</title>
         <link>https://speakerdeck.com/taro28/vitestnoin-source-testinggabian-li</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIによるCloud Native基盤構築の可能性と実践的ガードレールの敷設について (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/sheng-cheng-ainiyorucloud-native-ji-pan-gou-zhu-noke-neng-xing-toshi-jian-de-gadorerunofu-she-nituite</link>
-        <dc:date>2025-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>状態と共に暮らす：ステートフルへの挑戦 (ypresto)</title>
-        <link>https://speakerdeck.com/ypresto/living-with-state</link>
         <dc:date>2025-04-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
