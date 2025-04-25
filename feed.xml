@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Write an interpreter in Ruby (Mario Arias)</title>
+        <link>https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby</link>
+        <dc:date>2025-04-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>一緒に働きたくなるプログラマの思想 #QiitaConference (mu_zaru)</title>
         <link>https://speakerdeck.com/mu_zaru/xu-nidong-kitakunarupuroguramanosi-xiang-number-qiitaconference</link>
         <dc:date>2025-04-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>日経電子版 for Android の技術的課題と取り組み(令和最新版)/android-20250423 (日本経済新聞社 エンジニア採用事務局)</title>
         <link>https://speakerdeck.com/nikkei_engineer_recruiting/android-20250423</link>
-        <dc:date>2025-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>bolt.new in 実務（AI駆動開発勉強会） (Okazaki)</title>
-        <link>https://speakerdeck.com/okazakikohei/bolt-dot-new-in-shi-wu</link>
         <dc:date>2025-04-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
