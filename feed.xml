@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>勝手に！深堀り！Cloud Run worker pools / Deep dive Cloud Run worker pools (iselegant)</title>
+        <link>https://speakerdeck.com/iselegant/deep-dive-cloud-run-worker-pools</link>
+        <dc:date>2025-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cursor/Devin全社導入の理想と現実 (Ryoichi Saito)</title>
         <link>https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi</link>
         <dc:date>2025-04-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Terraform Stacks入門 #HashiTalks (msato)</title>
         <link>https://speakerdeck.com/msato/terraform-stacksru-men-number-hashitalks</link>
-        <dc:date>2025-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI前提のサービス運用について再考する (ryuichi1208)</title>
-        <link>https://speakerdeck.com/ryuichi1208/aiqian-ti-nosahisuyun-yong-nituitezai-kao-suru</link>
         <dc:date>2025-04-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
