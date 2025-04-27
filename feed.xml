@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCPでLLMはどう進化する？ (からあげ,@karaage0703)</title>
+        <link>https://www.docswell.com/s/karaage0703/56V4PL-2025-04-25-104216</link>
+        <dc:date>2025-04-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>(ICLR2021) Score-Based Generative Modeling through Stochastic Differential Equations (Shumpei Takezaki)</title>
         <link>https://speakerdeck.com/shumpei777/iclr2021-score-based-generative-modeling-through-stochastic-differential-equations</link>
         <dc:date>2025-04-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>リリースから14年目！PHPと歩んだ「Chatwork」プロダクトのふりかえり (kubell)</title>
         <link>https://speakerdeck.com/kubell_hr/250123-php-tanaka</link>
-        <dc:date>2025-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「Chatwork」における PHP 開発の取り組みの紹介 (kubell)</title>
-        <link>https://speakerdeck.com/kubell_hr/250123-php-hatanaka</link>
         <dc:date>2025-04-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
