@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>(ICLR2021) Score-Based Generative Modeling through Stochastic Differential Equations (Shumpei Takezaki)</title>
+        <link>https://speakerdeck.com/shumpei777/iclr2021-score-based-generative-modeling-through-stochastic-differential-equations</link>
+        <dc:date>2025-04-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ビジネスとデザインとエンジニアリングを繋ぐために 一人のエンジニアは何ができるか / What can a single engineer do to connect business, design, and engineering? (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/what-can-a-single-engineer-do-to-connect-business-design-and-engineering</link>
         <dc:date>2025-04-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「Chatwork」における PHP 開発の取り組みの紹介 (kubell)</title>
         <link>https://speakerdeck.com/kubell_hr/250123-php-hatanaka</link>
-        <dc:date>2025-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェント for 予約フォーム (NearMeの技術発表資料です)</title>
-        <link>https://speakerdeck.com/nearme_tech/ai-agent-for-reservation-form</link>
         <dc:date>2025-04-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
