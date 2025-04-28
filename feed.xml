@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スタートアップ・フィット・ジャーニー Version 2 (Takaaki Umada / 馬田隆明)</title>
+        <link>https://speakerdeck.com/tumada/sutatoatupuhuitutoziyani-version-2</link>
+        <dc:date>2025-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>How to make the Groovebox (あそなす)</title>
         <link>https://speakerdeck.com/asonas/how-to-make-the-groovebox</link>
         <dc:date>2025-04-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>勝手に！深堀り！Cloud Run worker pools / Deep dive Cloud Run worker pools (iselegant)</title>
         <link>https://speakerdeck.com/iselegant/deep-dive-cloud-run-worker-pools</link>
-        <dc:date>2025-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cursor/Devin全社導入の理想と現実 (Ryoichi Saito)</title>
-        <link>https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi</link>
         <dc:date>2025-04-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
