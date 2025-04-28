@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20250408_個人開発者レベルの AIエディターで大切だと思う事</title>
+        <link>https://docs.google.com/presentation/d/1JxdqQ1laHvDZ-7yUhHkedVPLGdg9Hv0qEqFtyEliMCY/preview</link>
+        <dc:date>2025-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スタートアップ・フィット・ジャーニー Version 2 (Takaaki Umada / 馬田隆明)</title>
         <link>https://speakerdeck.com/tumada/sutatoatupuhuitutoziyani-version-2</link>
         <dc:date>2025-04-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>30代からでも遅くない！ 内製開発の世界に飛び込み、最前線で戦うLLMアプリ開発エンジニアになろう (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/30dai-karademochi-kunai-nei-zhi-kai-fa-noshi-jie-nifei-biip-mi-zui-qian-xian-dezhan-ullmapurikai-fa-enzinianinarou</link>
-        <dc:date>2025-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>勝手に！深堀り！Cloud Run worker pools / Deep dive Cloud Run worker pools (iselegant)</title>
-        <link>https://speakerdeck.com/iselegant/deep-dive-cloud-run-worker-pools</link>
         <dc:date>2025-04-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
