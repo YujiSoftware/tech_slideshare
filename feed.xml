@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>そのWAF、本当に効いてますか？ (LHazy)</title>
+        <link>https://speakerdeck.com/lhazy/sonowaf-ben-dang-nixiao-itemasuka</link>
+        <dc:date>2025-04-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Perl歴約10年のエンジニアがフルスタックTypeScriptに出会ってみた (papix)</title>
+        <link>https://speakerdeck.com/papix/perlli-yue-10nian-noenziniagahurusutatukutypescriptnichu-hui-tutemita</link>
+        <dc:date>2025-04-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>技術文章を書くための執筆技術と実践法（パラグラフライティング） (Hisashi Ishihara)</title>
         <link>https://speakerdeck.com/hisashiishihara/ji-shu-wen-zhang-woshu-kutamenozhi-bi-ji-shu-toshi-jian-fa-paragurahuraiteingu</link>
         <dc:date>2025-04-28T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Write an interpreter in Ruby (Mario Arias)</title>
         <link>https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby</link>
         <dc:date>2025-04-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一緒に働きたくなるプログラマの思想 #QiitaConference (mu_zaru)</title>
-        <link>https://speakerdeck.com/mu_zaru/xu-nidong-kitakunarupuroguramanosi-xiang-number-qiitaconference</link>
-        <dc:date>2025-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>提案のレベルを上げる #QiitaConference (konifar)</title>
-        <link>https://speakerdeck.com/konifar/ti-an-noreberuwoshang-geru-number-qiitaconference</link>
-        <dc:date>2025-04-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
