@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI Foundry Evaluation &amp; Control model-deployment (Yuji Masaoka | まっぴぃ)</title>
+        <link>https://speakerdeck.com/mappie_kochi/ai-foundry-evaluation-and-control-model-deployment</link>
+        <dc:date>2025-04-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>mallocの旅_glibc編.pdf (kosaki)</title>
+        <link>https://speakerdeck.com/kosaki/mallocnolu-glibcbian</link>
+        <dc:date>2025-04-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>10ヶ月かけてstyled-components v4からv5にアップデートした話 (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/10keyue-kaketestyled-components-v4karav5niatupudetositahua</link>
+        <dc:date>2025-04-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>そのWAF、本当に効いてますか？ (LHazy)</title>
         <link>https://speakerdeck.com/lhazy/sonowaf-ben-dang-nixiao-itemasuka</link>
         <dc:date>2025-04-28T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>about-tokyoapp.pdf (デジタルサービス局戦略部)</title>
         <link>https://speakerdeck.com/senryakuka/about-tokyoapp</link>
-        <dc:date>2025-04-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイルの誤解を解きたい！ (shimitaka（清水隆史）,@shimitaka1982)</title>
-        <link>https://www.docswell.com/s/shimitaka/5YDRR3-agile-gokai</link>
-        <dc:date>2025-04-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GPSマルチユニットと地図をkintoneで活用しよう！ - 地図との連携で可視化してみよう - (Yukihito Kataoka)</title>
-        <link>https://speakerdeck.com/yukataoka/gpsmarutiyunitutotodi-tu-wokintonedehuo-yong-siyou-di-tu-tonolian-xi-deke-shi-hua-sitemiyou</link>
-        <dc:date>2025-04-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Write an interpreter in Ruby (Mario Arias)</title>
-        <link>https://speakerdeck.com/marioariasc/write-an-interpreter-in-ruby</link>
         <dc:date>2025-04-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
