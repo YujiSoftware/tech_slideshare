@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>世界一わかりやすいClean Architecture - 技術レイヤー分割より大切なモノ (NAKAMURA Atsushi,@nuits_jp)</title>
+        <link>https://www.docswell.com/s/nuits_jp/5DNXE9-easiest-clean-architecture</link>
+        <dc:date>2025-04-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発 AI エージェント Bedrock Engineer 開発秘話 / bedrock-engineer-dev-stroy (geeawa)</title>
         <link>https://speakerdeck.com/gawa/bedrock-engineer-dev-stroy</link>
         <dc:date>2025-04-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>今日からはじめるプラットフォームエンジニアリング (Kazuto Kusama)</title>
         <link>https://speakerdeck.com/jacopen/jin-ri-karahazimerupuratutohuomuenziniaringu</link>
-        <dc:date>2025-04-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilot for Azureを使い倒したい (Kento.Yamada)</title>
-        <link>https://speakerdeck.com/ymd65536/github-copilot-for-azurewoshi-idao-sitai</link>
         <dc:date>2025-04-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
