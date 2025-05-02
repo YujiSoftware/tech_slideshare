@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RDDによる因果推論 (akki-)</title>
+        <link>https://speakerdeck.com/akidukin/rddniyoruyin-guo-tui-lun</link>
+        <dc:date>2025-05-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>転職直後のPMこそ誰よりも泥にまみれろ (Yuya Akiba)</title>
         <link>https://speakerdeck.com/yuyaki0618/zhuan-zhi-zhi-hou-nopmkososhui-yorimoni-nimamirero</link>
         <dc:date>2025-05-01T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>ビジネスとデザインとエンジニアリングを繋ぐために 一人のエンジニアは何ができるか / What can a single engineer do to connect business, design, and engineering? (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/what-can-a-single-engineer-do-to-connect-business-design-and-engineering</link>
         <dc:date>2025-04-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チーム再始動から6ヶ月でデプロイ数を9倍にするまでの取り組み (Shodai Suzuki)</title>
-        <link>https://speakerdeck.com/soarteclab/timuzai-shi-dong-kara6keyue-dedepuroishu-wo9bei-nisurumadenoqu-rizu-mi</link>
-        <dc:date>2025-04-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
