@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Historiaの紹介</title>
+        <link>https://docs.google.com/presentation/d/1TC-8HAcCnNTxZJt6co5tCioUXQPnLZrpGbNb306CJoo/preview</link>
+        <dc:date>2025-05-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RDDによる因果推論 (akki-)</title>
         <link>https://speakerdeck.com/akidukin/rddniyoruyin-guo-tui-lun</link>
         <dc:date>2025-05-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>(ICLR2021) Score-Based Generative Modeling through Stochastic Differential Equations (Shumpei Takezaki)</title>
         <link>https://speakerdeck.com/shumpei777/iclr2021-score-based-generative-modeling-through-stochastic-differential-equations</link>
-        <dc:date>2025-04-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ビジネスとデザインとエンジニアリングを繋ぐために 一人のエンジニアは何ができるか / What can a single engineer do to connect business, design, and engineering? (株式会社カミナシ)</title>
-        <link>https://speakerdeck.com/kaminashi/what-can-a-single-engineer-do-to-connect-business-design-and-engineering</link>
         <dc:date>2025-04-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
