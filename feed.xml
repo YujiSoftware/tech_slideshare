@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>note の Elasticsearch 更新系を支える技術 (chov(Kohei T))</title>
+        <link>https://speakerdeck.com/tchov/note-no-elasticsearch-geng-xin-xi-wozhi-eruji-shu</link>
+        <dc:date>2025-05-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Historiaの紹介</title>
         <link>https://docs.google.com/presentation/d/1TC-8HAcCnNTxZJt6co5tCioUXQPnLZrpGbNb306CJoo/preview</link>
         <dc:date>2025-05-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>MCPでLLMはどう進化する？ (からあげ,@karaage0703)</title>
         <link>https://www.docswell.com/s/karaage0703/56V4PL-2025-04-25-104216</link>
-        <dc:date>2025-04-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(ICLR2021) Score-Based Generative Modeling through Stochastic Differential Equations (Shumpei Takezaki)</title>
-        <link>https://speakerdeck.com/shumpei777/iclr2021-score-based-generative-modeling-through-stochastic-differential-equations</link>
         <dc:date>2025-04-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
