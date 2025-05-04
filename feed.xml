@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCPを理解する (Yudai Hayashi)</title>
+        <link>https://speakerdeck.com/yudai00/mcpwoli-jie-suru</link>
+        <dc:date>2025-05-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>note の Elasticsearch 更新系を支える技術 (chov(Kohei T))</title>
         <link>https://speakerdeck.com/tchov/note-no-elasticsearch-geng-xin-xi-wozhi-eruji-shu</link>
         <dc:date>2025-05-02T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>20250419_既定以外の環境で「選択されたメッセージに対して」トリガーと同様のことを実現する方法 (わたるふ,@wataruf01)</title>
         <link>https://www.docswell.com/s/wataruf01/K9VYW1-2025-04-19-205012</link>
         <dc:date>2025-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCPでLLMはどう進化する？ (からあげ,@karaage0703)</title>
-        <link>https://www.docswell.com/s/karaage0703/56V4PL-2025-04-25-104216</link>
-        <dc:date>2025-04-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
