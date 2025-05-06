@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Apache Iceberg Case Study in LY Corporation (LINEヤフーTech (LY Corporation Tech))</title>
+        <link>https://speakerdeck.com/lycorptech_jp/apache-iceberg-case-study-in-ly-corporation</link>
+        <dc:date>2025-05-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Iceberg Meetup Japan #1 : Iceberg and Databricks (Databricks Japan)</title>
+        <link>https://speakerdeck.com/databricksjapan/iceberg-meetup-japan-number-1-iceberg-and-databricks</link>
+        <dc:date>2025-05-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Apache Iceberg Meetup in Japan #1 - Iceberg V3 Spec (Tomohiro Tanaka)</title>
+        <link>https://speakerdeck.com/tomtanaka/apache-iceberg-meetup-in-japan-number-1-iceberg-v3-spec</link>
+        <dc:date>2025-05-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS はどんな生成 AI サービスを誰に提供しているのか ? (Takahiro Kubo)</title>
         <link>https://speakerdeck.com/icoxfog417/aws-mission-and-generative-ai-services-programs</link>
         <dc:date>2025-05-04T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>20250408_個人開発者レベルの AIエディターで大切だと思う事</title>
         <link>https://docs.google.com/presentation/d/1JxdqQ1laHvDZ-7yUhHkedVPLGdg9Hv0qEqFtyEliMCY/preview</link>
-        <dc:date>2025-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタートアップ・フィット・ジャーニー Version 2 (Takaaki Umada / 馬田隆明)</title>
-        <link>https://speakerdeck.com/tumada/sutatoatupuhuitutoziyani-version-2</link>
-        <dc:date>2025-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to make the Groovebox (あそなす)</title>
-        <link>https://speakerdeck.com/asonas/how-to-make-the-groovebox</link>
-        <dc:date>2025-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践Webフロントパフォーマンスチューニング (しーぴー)</title>
-        <link>https://speakerdeck.com/cp20/shi-jian-webhurontopahuomansutiyuningu</link>
         <dc:date>2025-04-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
