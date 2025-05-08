@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自動運転開発の実験管理とKagglerたちの実験管理術 (Kohei Iwamasa)</title>
+        <link>https://speakerdeck.com/koheiiwamasa/zi-dong-yun-zhuan-kai-fa-noshi-yan-guan-li-tokagglertatinoshi-yan-guan-li-shu</link>
+        <dc:date>2025-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AIと人間の協働による業務品質の確保 (Daisuke Kawamura)</title>
+        <link>https://speakerdeck.com/daisukekawamuratb/sheng-cheng-aitoren-jian-noxie-dong-niyoruye-wu-pin-zhi-noque-bao</link>
+        <dc:date>2025-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>言われたままつくるんじゃない！ BtoB業務システムのUIを"ユーザー中心"にするリアルな現場のデザインプロセス - NOT DESIGN SCHOOL 2025年4月16日 (Yoshiki Hayama,@storywriter)</title>
+        <link>https://www.slideshare.net/slideshow/btob-ui-not-design-school-2025-4-16/278532857</link>
+        <dc:date>2025-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ペアーズにおける評価ドリブンな AI Agent 開発のご紹介 (fukubaka0825)</title>
         <link>https://speakerdeck.com/fukubaka0825/heasuniokeruping-jia-torihunna-ai-agent-kai-fa-nokoshao-jie</link>
         <dc:date>2025-05-07T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>RDDによる因果推論 (akki-)</title>
         <link>https://speakerdeck.com/akidukin/rddniyoruyin-guo-tui-lun</link>
         <dc:date>2025-05-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>転職直後のPMこそ誰よりも泥にまみれろ (Yuya Akiba)</title>
-        <link>https://speakerdeck.com/yuyaki0618/zhuan-zhi-zhi-hou-nopmkososhui-yorimoni-nimamirero</link>
-        <dc:date>2025-05-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>世界一わかりやすいClean Architecture - 技術レイヤー分割より大切なモノ (NAKAMURA Atsushi,@nuits_jp)</title>
-        <link>https://www.docswell.com/s/nuits_jp/5DNXE9-easiest-clean-architecture</link>
-        <dc:date>2025-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発 AI エージェント Bedrock Engineer 開発秘話 / bedrock-engineer-dev-stroy (geeawa)</title>
-        <link>https://speakerdeck.com/gawa/bedrock-engineer-dev-stroy</link>
-        <dc:date>2025-04-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
