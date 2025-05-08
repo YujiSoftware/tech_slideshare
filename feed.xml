@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2025-04-25 GitHub Copilot Agent ライブデモ（スクリプト） (GOAMI Takaaki)</title>
+        <link>https://speakerdeck.com/goataka/2025-04-25-github-copilot-agent-raibudemo-sukuriputo</link>
+        <dc:date>2025-05-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Copilotを使いこなすためにエンジニアが鍛えるべきスキル (autotaker)</title>
+        <link>https://speakerdeck.com/autotaker/copilotwoshi-ikonasutamenienziniagaduan-erubekisukiru</link>
+        <dc:date>2025-05-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>議事録の書き方：ビジネス系本部共同研修2024 (Cybozu)</title>
         <link>https://speakerdeck.com/cybozu0808/yi-shi-lu-noshu-kifang-bizinesuxi-ben-bu-gong-tong-yan-xiu-2024</link>
         <dc:date>2025-05-07T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>mallocの旅_glibc編.pdf (kosaki)</title>
         <link>https://speakerdeck.com/kosaki/mallocnolu-glibcbian</link>
         <dc:date>2025-04-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10ヶ月かけてstyled-components v4からv5にアップデートした話 (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/10keyue-kaketestyled-components-v4karav5niatupudetositahua</link>
-        <dc:date>2025-04-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>そのWAF、本当に効いてますか？ (LHazy)</title>
-        <link>https://speakerdeck.com/lhazy/sonowaf-ben-dang-nixiao-itemasuka</link>
-        <dc:date>2025-04-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
