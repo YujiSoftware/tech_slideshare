@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Part2　GitHub Copilotってなんだろう (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/part2-github-copilottutenandarou</link>
+        <dc:date>2025-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自動運転開発の実験管理とKagglerたちの実験管理術 (Kohei Iwamasa)</title>
         <link>https://speakerdeck.com/koheiiwamasa/zi-dong-yun-zhuan-kai-fa-noshi-yan-guan-li-tokagglertatinoshi-yan-guan-li-shu</link>
         <dc:date>2025-05-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Historiaの紹介</title>
         <link>https://docs.google.com/presentation/d/1TC-8HAcCnNTxZJt6co5tCioUXQPnLZrpGbNb306CJoo/preview</link>
         <dc:date>2025-05-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDDによる因果推論 (akki-)</title>
-        <link>https://speakerdeck.com/akidukin/rddniyoruyin-guo-tui-lun</link>
-        <dc:date>2025-05-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
