@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>脅威モデリングってなに？ (Haya,@yo_hayasaka)</title>
+        <link>https://www.docswell.com/s/yohaya/ZG1P6Q-How-to-start-ThreatModeling</link>
+        <dc:date>2025-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Global Azure2025(GitHub Copilot ハンズオン) (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/global-azure2025-github-copilot-hanzuon</link>
         <dc:date>2025-05-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>MCPを理解する (Yudai Hayashi)</title>
         <link>https://speakerdeck.com/yudai00/mcpwoli-jie-suru</link>
         <dc:date>2025-05-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>note の Elasticsearch 更新系を支える技術 (chov(Kohei T))</title>
-        <link>https://speakerdeck.com/tchov/note-no-elasticsearch-geng-xin-xi-wozhi-eruji-shu</link>
-        <dc:date>2025-05-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
