@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>いちばんやさしいGit入門 (syobochim)</title>
+        <link>https://speakerdeck.com/syobochim/itibanyasasiigitru-men</link>
+        <dc:date>2025-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>脅威モデリングってなに？ (Haya,@yo_hayasaka)</title>
         <link>https://www.docswell.com/s/yohaya/ZG1P6Q-How-to-start-ThreatModeling</link>
         <dc:date>2025-05-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>人の移動を活用した電子ペーパー更新システムの開発 (Takafumi Akiba)</title>
         <link>https://speakerdeck.com/tarry/ren-noyi-dong-wohuo-yong-sitadian-zi-pepageng-xin-sisutemunokai-fa</link>
-        <dc:date>2025-05-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCPを理解する (Yudai Hayashi)</title>
-        <link>https://speakerdeck.com/yudai00/mcpwoli-jie-suru</link>
         <dc:date>2025-05-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
