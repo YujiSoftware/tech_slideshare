@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Part1　GitHubってなんだろう？その１ (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/part1-githubtutenandarou-sono1</link>
+        <dc:date>2025-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Part1 GitHubってなんだろう？その２ (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/part1-githubtutenandarou-sono2</link>
+        <dc:date>2025-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Road_to_SRE_NEXT_福岡.pdf (rsym1290)</title>
         <link>https://speakerdeck.com/rsym1290/road-to-sre-next-fu-gang</link>
         <dc:date>2025-05-09T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Apache Iceberg Meetup in Japan #1 - Iceberg V3 Spec (Tomohiro Tanaka)</title>
         <link>https://speakerdeck.com/tomtanaka/apache-iceberg-meetup-in-japan-number-1-iceberg-v3-spec</link>
         <dc:date>2025-05-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS はどんな生成 AI サービスを誰に提供しているのか ? (Takahiro Kubo)</title>
-        <link>https://speakerdeck.com/icoxfog417/aws-mission-and-generative-ai-services-programs</link>
-        <dc:date>2025-05-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Controlling “QuickCharge” with M5Stack / M5StackでUSB充電のQuickChargeを制御 (tomorrow56 a.k.a ThousanDIY)</title>
-        <link>https://speakerdeck.com/tomorrow56/m5stackdeusbchong-dian-noquickchargewozhi-yu</link>
-        <dc:date>2025-05-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
