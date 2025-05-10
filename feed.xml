@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>端折りまくって学ぶReactの内部 レンダー・コミット編 (calloc134)</title>
+        <link>https://speakerdeck.com/calloc134/duan-zhe-rimakututexue-bureactnonei-bu-rendakomitutobian</link>
+        <dc:date>2025-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>本当に必要なのは「QAという技術」だった！試行錯誤から生まれた、品質とデリバリーの両取りアプローチ / Turns Out, "QA as a Discipline" Was the Key! (ar_tama)</title>
         <link>https://speakerdeck.com/ar_tama/turns-out-qa-as-a-discipline-was-the-key</link>
         <dc:date>2025-05-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2025-04-30 GCPUG Tokyo AI Agent on Google Cloud Next</title>
         <link>https://docs.google.com/presentation/d/1u8whJ41hZix0jPcOwbO-KQ6ZvGyzKEIKy8WC__iNCTo/preview</link>
-        <dc:date>2025-05-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Apache Iceberg Case Study in LY Corporation (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/apache-iceberg-case-study-in-ly-corporation</link>
         <dc:date>2025-05-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
