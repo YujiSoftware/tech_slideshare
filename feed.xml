@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>本当に必要なのは「QAという技術」だった！試行錯誤から生まれた、品質とデリバリーの両取りアプローチ / Turns Out, "QA as a Discipline" Was the Key! (ar_tama)</title>
+        <link>https://speakerdeck.com/ar_tama/turns-out-qa-as-a-discipline-was-the-key</link>
+        <dc:date>2025-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クロスファンクショナルチームになるための壁崩しのお作法 #scrumniigata (asato,@at_946)</title>
         <link>https://www.docswell.com/s/at_946/KEXDQ6-2025-05-10-101709</link>
         <dc:date>2025-05-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Apache Iceberg Case Study in LY Corporation (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/apache-iceberg-case-study-in-ly-corporation</link>
-        <dc:date>2025-05-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Iceberg Meetup Japan #1 : Iceberg and Databricks (Databricks Japan)</title>
-        <link>https://speakerdeck.com/databricksjapan/iceberg-meetup-japan-number-1-iceberg-and-databricks</link>
         <dc:date>2025-05-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
