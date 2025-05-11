@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby で作る RISC-V CPU エミュレーター /  RISC-V CPU emulator made with Ruby (hachi (Hayao Kimura))</title>
+        <link>https://speakerdeck.com/hayaokimura/risc-v-cpu-emulator-made-with-ruby</link>
+        <dc:date>2025-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RustでOSを自作する本を書いて得られた知見</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vS5J7z30TTyAsz_8uXEhRyrmxWv-oP46JpU4hvj94fIedBovQeNZFUeBvw6j9xjM_GsHg4UpIegkPAr/pub</link>
         <dc:date>2025-05-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自動運転開発の実験管理とKagglerたちの実験管理術 (Kohei Iwamasa)</title>
         <link>https://speakerdeck.com/koheiiwamasa/zi-dong-yun-zhuan-kai-fa-noshi-yan-guan-li-tokagglertatinoshi-yan-guan-li-shu</link>
-        <dc:date>2025-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIと人間の協働による業務品質の確保 (Daisuke Kawamura)</title>
-        <link>https://speakerdeck.com/daisukekawamuratb/sheng-cheng-aitoren-jian-noxie-dong-niyoruye-wu-pin-zhi-noque-bao</link>
         <dc:date>2025-05-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
