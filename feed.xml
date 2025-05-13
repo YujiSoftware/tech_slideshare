@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title> Why Platform Engineering? - マルチプロダクト・少人数 SRE の壁を越える挑戦 - (株式会社ヌーラボ)</title>
+        <link>https://speakerdeck.com/nulabinc/why-platform-engineering-in-nulab</link>
+        <dc:date>2025-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データと事例で振り返るDevin導入の"リアル" / The Realities of Devin Reflected in Data and Case Studies (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/the-realities-of-devin-reflected-in-data-and-case-studies</link>
         <dc:date>2025-05-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロダクト組織と HRのコラボレーション / product team×hr_collaboration (tomoka_nagai)</title>
         <link>https://speakerdeck.com/tomoka_nagai/collaboration</link>
-        <dc:date>2025-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>時間がないなら、つくればいい 〜数十人規模のチームが自律性を発揮するために試しているいくつかのこと〜 (KAKEHASHI)</title>
-        <link>https://speakerdeck.com/kakehashi/time-management-and-team-autonomy</link>
         <dc:date>2025-05-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
