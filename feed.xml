@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cursorをﾁｮｯﾊﾟﾔインタビューライターにチューニングする方法 / how to tuning cursor for interview write (ShuzoN)</title>
+        <link>https://speakerdeck.com/shuzon/how-to-tuning-cursor-for-interview-write</link>
+        <dc:date>2025-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Next.jsと状態管理のプラクティス (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/next-dot-jstozhuang-tai-guan-li-nopurakuteisu</link>
         <dc:date>2025-05-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Ruby で作る RISC-V CPU エミュレーター /  RISC-V CPU emulator made with Ruby (hachi (Hayao Kimura))</title>
         <link>https://speakerdeck.com/hayaokimura/risc-v-cpu-emulator-made-with-ruby</link>
-        <dc:date>2025-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RustでOSを自作する本を書いて得られた知見</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vS5J7z30TTyAsz_8uXEhRyrmxWv-oP46JpU4hvj94fIedBovQeNZFUeBvw6j9xjM_GsHg4UpIegkPAr/pub</link>
         <dc:date>2025-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
