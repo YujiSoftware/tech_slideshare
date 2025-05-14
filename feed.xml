@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Next.jsと状態管理のプラクティス (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/next-dot-jstozhuang-tai-guan-li-nopurakuteisu</link>
+        <dc:date>2025-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>さくらのクラウド開発の裏側 (metakoma)</title>
         <link>https://speakerdeck.com/metakoma/20250514-inside-sacloud-development</link>
         <dc:date>2025-05-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RustでOSを自作する本を書いて得られた知見</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vS5J7z30TTyAsz_8uXEhRyrmxWv-oP46JpU4hvj94fIedBovQeNZFUeBvw6j9xjM_GsHg4UpIegkPAr/pub</link>
-        <dc:date>2025-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>kernelvm-brain-net (らすぴー)</title>
-        <link>https://speakerdeck.com/raspython3/kernelvm-brain-net-1a80ba10-2cf6-4f4b-802a-a7f0efa8005d</link>
         <dc:date>2025-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
