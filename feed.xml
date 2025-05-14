@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SaaS公式MCPサーバーをリリースして得た学び (ryo)</title>
+        <link>https://speakerdeck.com/kawamataryo/saasgong-shi-mcpsabaworirisusitede-taxue-bi</link>
+        <dc:date>2025-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cursorをﾁｮｯﾊﾟﾔインタビューライターにチューニングする方法 / how to tuning cursor for interview write (ShuzoN)</title>
         <link>https://speakerdeck.com/shuzon/how-to-tuning-cursor-for-interview-write</link>
         <dc:date>2025-05-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>問 1：以下のコンパイラを証明せよ（予告編） #kernelvm / Kernel VM Study Kansai 11th (y_taka_23)</title>
         <link>https://speakerdeck.com/ytaka23/kernel-vm-study-kansai-11th</link>
-        <dc:date>2025-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby で作る RISC-V CPU エミュレーター /  RISC-V CPU emulator made with Ruby (hachi (Hayao Kimura))</title>
-        <link>https://speakerdeck.com/hayaokimura/risc-v-cpu-emulator-made-with-ruby</link>
         <dc:date>2025-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
