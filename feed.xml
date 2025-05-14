@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>さくらのクラウド開発の裏側 (metakoma)</title>
+        <link>https://speakerdeck.com/metakoma/20250514-inside-sacloud-development</link>
+        <dc:date>2025-05-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[新卒向け研修資料] テスト文字列に「うんこ」と入れるな（2025年版） (Infiniteloop)</title>
         <link>https://speakerdeck.com/infiniteloop_inc/xin-zu-xiang-keyan-xiu-zi-liao-tesutowen-zi-lie-ni-unko-toru-reruna-2025nian-ban</link>
         <dc:date>2025-05-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>kernelvm-brain-net (らすぴー)</title>
         <link>https://speakerdeck.com/raspython3/kernelvm-brain-net-1a80ba10-2cf6-4f4b-802a-a7f0efa8005d</link>
-        <dc:date>2025-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LRパーサーはいいぞ (ydah)</title>
-        <link>https://speakerdeck.com/ydah/lrparser-is-good</link>
         <dc:date>2025-05-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
