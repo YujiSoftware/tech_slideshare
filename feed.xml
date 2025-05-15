@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby on Rails の楽しみ方 (morihirok)</title>
+        <link>https://speakerdeck.com/morihirok/ruby-on-rails-nole-simifang</link>
+        <dc:date>2025-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>激動の一年を通じて見えてきた「技術でリードする」ということ (ktr)</title>
+        <link>https://speakerdeck.com/ktr_0731/techlead-meetup-3ca6c2a3-b7df-4a7d-91ec-b0a9ba336833</link>
+        <dc:date>2025-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>事業と組織から目を逸らずに技術でリードする (ogugu)</title>
+        <link>https://speakerdeck.com/ogugu9/shi-ye-tozu-zhi-karamu-woyi-razuniji-shu-deridosuru</link>
+        <dc:date>2025-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Devinにファーストレビューをさせ、コードレビューを効率化するには / Using Devin to Make Code Reviews More Efficient (technuma)</title>
         <link>https://speakerdeck.com/technuma/using-devin-to-make-code-reviews-more-efficient</link>
         <dc:date>2025-05-14T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title> Why Platform Engineering? - マルチプロダクト・少人数 SRE の壁を越える挑戦 - (株式会社ヌーラボ)</title>
         <link>https://speakerdeck.com/nulabinc/why-platform-engineering-in-nulab</link>
-        <dc:date>2025-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データと事例で振り返るDevin導入の"リアル" / The Realities of Devin Reflected in Data and Case Studies (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/the-realities-of-devin-reflected-in-data-and-case-studies</link>
-        <dc:date>2025-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>catから始めるUI MCP</title>
-        <link>https://docs.google.com/presentation/d/1ztV31X4J5cpIJlIHYgaAaCkMPBPqSFl9cf0VB8R3XAc/preview</link>
-        <dc:date>2025-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>猫でもわかるS3 Tables【Apache Iceberg編】 (Hiroo Katoh)</title>
-        <link>https://speakerdeck.com/kentapapa/mao-demowakarus3-tables-apache-icebergbian</link>
         <dc:date>2025-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
