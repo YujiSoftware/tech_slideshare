@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Devinにファーストレビューをさせ、コードレビューを効率化するには / Using Devin to Make Code Reviews More Efficient (technuma)</title>
+        <link>https://speakerdeck.com/technuma/using-devin-to-make-code-reviews-more-efficient</link>
+        <dc:date>2025-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>計測による継続的なCI/CDの改善 (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/20250514</link>
+        <dc:date>2025-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vibe Coding Tools (Michael H. Oshita)</title>
         <link>https://speakerdeck.com/ijin/vibe-coding-tools</link>
         <dc:date>2025-05-14T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>猫でもわかるS3 Tables【Apache Iceberg編】 (Hiroo Katoh)</title>
         <link>https://speakerdeck.com/kentapapa/mao-demowakarus3-tables-apache-icebergbian</link>
         <dc:date>2025-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Storybookの情報をMCPサーバー化する (Shota Iwamatsu)</title>
-        <link>https://speakerdeck.com/shota_tech/storybooknoqing-bao-womcpsabahua-suru</link>
-        <dc:date>2025-05-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザインシステムと生成AIの相性について考える (sosukesuzuki)</title>
-        <link>https://speakerdeck.com/sosukesuzuki/dezainsisutemutosheng-cheng-ainoxiang-xing-nituitekao-eru</link>
-        <dc:date>2025-05-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
