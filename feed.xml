@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>使えるデータ基盤を作る技術選定の秘訣 / selecting-the-right-data-technology (pei0804)</title>
+        <link>https://speakerdeck.com/pei0804/selecting-the-right-data-technology</link>
+        <dc:date>2025-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby on Rails の楽しみ方 (morihirok)</title>
         <link>https://speakerdeck.com/morihirok/ruby-on-rails-nole-simifang</link>
         <dc:date>2025-05-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RubyKaigi NOC 近況 2025  (Sorah Fukumori)</title>
         <link>https://speakerdeck.com/sorah/rubykaigi2025wifi</link>
-        <dc:date>2025-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> Why Platform Engineering? - マルチプロダクト・少人数 SRE の壁を越える挑戦 - (株式会社ヌーラボ)</title>
-        <link>https://speakerdeck.com/nulabinc/why-platform-engineering-in-nulab</link>
         <dc:date>2025-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
