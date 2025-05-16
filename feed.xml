@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Women Tech Terrace 2024</title>
+        <link>https://docs.google.com/presentation/d/1DoEgiOhck5cJalJl6AlH8-o1YyjG2GGtVDje9nIHpqY/preview</link>
+        <dc:date>2025-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>やさしいITを目指すために (Yuri Ishitoya)</title>
+        <link>https://speakerdeck.com/ishity__/yasasiiitwomu-zhi-sutameni</link>
+        <dc:date>2025-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なんとなくわかるDocker・Kubernetes (aoi)</title>
+        <link>https://speakerdeck.com/aoi1/nantonakuwakarudockerkubernetes</link>
+        <dc:date>2025-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>パラレルワーカーという働き方 (tanaka-yui)</title>
+        <link>https://speakerdeck.com/tanakayui/parareruwakatoiudong-kifang</link>
+        <dc:date>2025-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>転職したらMCPサーバーだった件 (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/zhuan-zhi-sitaramcpsabadatutajian</link>
         <dc:date>2025-05-15T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>SaaS公式MCPサーバーをリリースして得た学び (ryo)</title>
         <link>https://speakerdeck.com/kawamataryo/saasgong-shi-mcpsabaworirisusitede-taxue-bi</link>
-        <dc:date>2025-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cursorをﾁｮｯﾊﾟﾔインタビューライターにチューニングする方法 / how to tuning cursor for interview write (ShuzoN)</title>
-        <link>https://speakerdeck.com/shuzon/how-to-tuning-cursor-for-interview-write</link>
-        <dc:date>2025-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.jsと状態管理のプラクティス (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/next-dot-jstozhuang-tai-guan-li-nopurakuteisu</link>
-        <dc:date>2025-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>さくらのクラウド開発の裏側 (metakoma)</title>
-        <link>https://speakerdeck.com/metakoma/20250514-inside-sacloud-development</link>
-        <dc:date>2025-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[新卒向け研修資料] テスト文字列に「うんこ」と入れるな（2025年版） (Infiniteloop)</title>
-        <link>https://speakerdeck.com/infiniteloop_inc/xin-zu-xiang-keyan-xiu-zi-liao-tesutowen-zi-lie-ni-unko-toru-reruna-2025nian-ban</link>
         <dc:date>2025-05-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
