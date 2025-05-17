@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AI時代のフルスタック開発 (Kenn Ejima)</title>
+        <link>https://speakerdeck.com/kenn/sheng-cheng-aishi-dai-nohurusutatukukai-fa</link>
+        <dc:date>2025-05-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マネージャーこそ真剣に考える 「情報量の差」を意識したオンボーディング (Suguru Ohki)</title>
         <link>https://speakerdeck.com/suguruooki/maneziyakosozhen-jian-nikao-eru-qing-bao-liang-nochai-woyi-shi-sitaonbodeingu</link>
         <dc:date>2025-05-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>計測による継続的なCI/CDの改善 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20250514</link>
-        <dc:date>2025-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vibe Coding Tools (Michael H. Oshita)</title>
-        <link>https://speakerdeck.com/ijin/vibe-coding-tools</link>
         <dc:date>2025-05-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
