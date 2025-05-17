@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インフラからSREへ (Issei Naruta)</title>
+        <link>https://speakerdeck.com/mirakui/inhurakarasrehe</link>
+        <dc:date>2025-05-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OSSとキャリア ～Denoとの出会いとその先～ (Yusuke Tanaka,@yusuktan)</title>
         <link>https://www.docswell.com/s/magurotuna/ZN1P4P-2025-05-17-maguro-dev</link>
         <dc:date>2025-05-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>テストコードにはテストの意図を込めよう(2025年版) #retechtalk / Put the intent of the test 2025 (nihonbuson)</title>
         <link>https://speakerdeck.com/nihonbuson/put-the-intent-of-the-test-2025</link>
-        <dc:date>2025-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>さくらのクラウド開発の裏側 (metakoma)</title>
-        <link>https://speakerdeck.com/metakoma/sakuranokuraudokai-fa-noli-ce</link>
         <dc:date>2025-05-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
