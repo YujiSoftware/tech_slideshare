@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人になにかを教えるときに考えていること（2025-05版 / VRC-LT #18） (sksat)</title>
+        <link>https://speakerdeck.com/sksat/vrc-lt-18-dag-sharing-feedback-loop</link>
+        <dc:date>2025-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AI時代のフルスタック開発 (Kenn Ejima)</title>
         <link>https://speakerdeck.com/kenn/sheng-cheng-aishi-dai-nohurusutatukukai-fa</link>
         <dc:date>2025-05-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Devinにファーストレビューをさせ、コードレビューを効率化するには / Using Devin to Make Code Reviews More Efficient (technuma)</title>
         <link>https://speakerdeck.com/technuma/using-devin-to-make-code-reviews-more-efficient</link>
-        <dc:date>2025-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>計測による継続的なCI/CDの改善 (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/20250514</link>
         <dc:date>2025-05-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
