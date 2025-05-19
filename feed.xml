@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>技術選定の審美眼（2025年版） / Understanding the Spiral of Technologies 2025 edition (Takuto Wada)</title>
+        <link>https://speakerdeck.com/twada/understanding-the-spiral-of-technologies-2025-edition</link>
+        <dc:date>2025-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloudflare Workersで進めるリモートMCP活用 (syumai)</title>
         <link>https://speakerdeck.com/syumai/cloudflare-workersdejin-merurimotomcphuo-yong</link>
         <dc:date>2025-05-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>使えるデータ基盤を作る技術選定の秘訣 / selecting-the-right-data-technology (pei0804)</title>
         <link>https://speakerdeck.com/pei0804/selecting-the-right-data-technology</link>
-        <dc:date>2025-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby on Rails の楽しみ方 (morihirok)</title>
-        <link>https://speakerdeck.com/morihirok/ruby-on-rails-nole-simifang</link>
         <dc:date>2025-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
