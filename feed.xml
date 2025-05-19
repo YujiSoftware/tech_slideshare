@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Node.js 🤝 TypeScript</title>
+        <link>https://docs.google.com/presentation/d/128j6TkIx9RvAvsukcqcKHf7mp6eU2MPTN94NZ__zYFI/preview</link>
+        <dc:date>2025-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>技術選定の審美眼（2025年版） / Understanding the Spiral of Technologies 2025 edition (Takuto Wada)</title>
         <link>https://speakerdeck.com/twada/understanding-the-spiral-of-technologies-2025-edition</link>
         <dc:date>2025-05-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Software Architecture in an AI-Driven World (AGAWA Koji)</title>
         <link>https://speakerdeck.com/atty303/software-architecture-in-an-ai-driven-world</link>
-        <dc:date>2025-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>使えるデータ基盤を作る技術選定の秘訣 / selecting-the-right-data-technology (pei0804)</title>
-        <link>https://speakerdeck.com/pei0804/selecting-the-right-data-technology</link>
         <dc:date>2025-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
