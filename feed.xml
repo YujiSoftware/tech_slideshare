@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LayerX における mastra の活用と課題 (LayerX)</title>
+        <link>https://speakerdeck.com/layerx/layerx-mastra-use-cases-and-challenges</link>
+        <dc:date>2025-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Node.js 🤝 TypeScript</title>
         <link>https://docs.google.com/presentation/d/128j6TkIx9RvAvsukcqcKHf7mp6eU2MPTN94NZ__zYFI/preview</link>
         <dc:date>2025-05-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データベースの技術選定を突き詰める ～複数事例から考える最適なデータベースの選び方～ (nnaka2992)</title>
         <link>https://speakerdeck.com/nnaka2992/detabesunoji-shu-xuan-ding-wotu-kijie-meru-fu-shu-shi-li-karakao-eruzui-shi-nadetabesunoxuan-bifang</link>
-        <dc:date>2025-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Software Architecture in an AI-Driven World (AGAWA Koji)</title>
-        <link>https://speakerdeck.com/atty303/software-architecture-in-an-ai-driven-world</link>
         <dc:date>2025-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
