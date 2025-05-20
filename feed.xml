@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>優秀な人材に ”辞退されない” 面接の技術 (Kazuki Onmori)</title>
+        <link>https://speakerdeck.com/onmori/you-xiu-naren-cai-ni-ci-tui-sarenai-mian-jie-noji-shu</link>
+        <dc:date>2025-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Azure AI Foundry Agent Serviceを使用してコードファースト アプリを構築する (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/azure-ai-agent-sabisuwoshi-yong-sitekodohuasuto-apuriwogou-zhu-suru</link>
         <dc:date>2025-05-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>なんとなくわかるDocker・Kubernetes (aoi)</title>
         <link>https://speakerdeck.com/aoi1/nantonakuwakarudockerkubernetes</link>
-        <dc:date>2025-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>パラレルワーカーという働き方 (tanaka-yui)</title>
-        <link>https://speakerdeck.com/tanakayui/parareruwakatoiudong-kifang</link>
         <dc:date>2025-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
