@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【DL輪読会】Flow Matching for Generative Modeling (Deep Learning JP)</title>
+        <link>https://www.slideshare.net/slideshow/flow-matching-for-generative-modeling/257908590</link>
+        <dc:date>2025-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>優秀な人材に ”辞退されない” 面接の技術 (Kazuki Onmori)</title>
         <link>https://speakerdeck.com/onmori/you-xiu-naren-cai-ni-ci-tui-sarenai-mian-jie-noji-shu</link>
         <dc:date>2025-05-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>やさしいITを目指すために (Yuri Ishitoya)</title>
         <link>https://speakerdeck.com/ishity__/yasasiiitwomu-zhi-sutameni</link>
-        <dc:date>2025-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なんとなくわかるDocker・Kubernetes (aoi)</title>
-        <link>https://speakerdeck.com/aoi1/nantonakuwakarudockerkubernetes</link>
         <dc:date>2025-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
