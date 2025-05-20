@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>KubeCon EU 2025 Recap - Kubernetes CRD Design for the Long Haul: Tips, Tricks, and Lessons Learned / Kubernetes Meetup Tokyo #70 / k8sjp70-crd-long-haul-recap (Shingo Omura)</title>
+        <link>https://speakerdeck.com/everpeace/k8sjp70-crd-long-haul-recap</link>
+        <dc:date>2025-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コーディングエージェントを作ってるけどうまくいかなかった話 ～あるいは二ヶ月本気でコーディングエージェントと向き合った話～ / Two Month Agent Struggle (erukiti)</title>
         <link>https://speakerdeck.com/erukiti/two-month-agent-struggle</link>
         <dc:date>2025-05-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ロードマップの本音と建前 (Yuya Akiba)</title>
         <link>https://speakerdeck.com/yuyaki0618/rodomatupunoben-yin-tojian-qian</link>
-        <dc:date>2025-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Women Tech Terrace 2024</title>
-        <link>https://docs.google.com/presentation/d/1DoEgiOhck5cJalJl6AlH8-o1YyjG2GGtVDje9nIHpqY/preview</link>
         <dc:date>2025-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
