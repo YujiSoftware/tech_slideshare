@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20240807_Vault_ハンズオンワークショップ</title>
+        <link>https://docs.google.com/presentation/d/1bAxFlvlkQcJz3DWladRwhVedYrXx6ZLOK1k3jvZWunw/preview</link>
+        <dc:date>2025-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>あなたの通信はどうやってAWSのリソースまで届くか (Shota Shiratori)</title>
         <link>https://speakerdeck.com/shotashiratori/anatanotong-xin-hadouyatuteawsnorisosumadejie-kuka</link>
         <dc:date>2025-05-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>マネージャーこそ真剣に考える 「情報量の差」を意識したオンボーディング (Suguru Ohki)</title>
         <link>https://speakerdeck.com/suguruooki/maneziyakosozhen-jian-nikao-eru-qing-bao-liang-nochai-woyi-shi-sitaonbodeingu</link>
-        <dc:date>2025-05-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インフラからSREへ (Issei Naruta)</title>
-        <link>https://speakerdeck.com/mirakui/inhurakarasrehe</link>
         <dc:date>2025-05-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
