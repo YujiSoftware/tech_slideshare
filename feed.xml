@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>型安全なDrag and Dropの設計を考える (yudppp)</title>
+        <link>https://speakerdeck.com/yudppp/designing-type-safe-drag-and-drop</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スキーマと型で拓く Full-Stack TypeScript / TSKaigi 2025 (Altech)</title>
         <link>https://speakerdeck.com/altech/tskaigi-2025</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Cursor × iOS開発 - 私はこうやってます 2025年5月版 (Shuichi Tsutsumi,@shu223)</title>
         <link>https://www.docswell.com/s/shu223/57RPG7-ios-cursor</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタートアップ創業期を支えるオブザーバビリティ基盤のこれまでとこれから/cnds2025 (Shota Iwami)</title>
-        <link>https://speakerdeck.com/biwashi/cnds2025</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
