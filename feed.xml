@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScriptとReactで、WAI-ARIAの属性を正しく利用する</title>
+        <link>https://docs.google.com/presentation/d/1rzznSwA7da7S_lU6qyAFuCN9IC1uDJe44PvDg-uqHjQ/preview</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI Coding Agents Enablement in TypeScript (Yuku Kotani)</title>
         <link>https://speakerdeck.com/yukukotani/ai-coding-agents-enablement-in-typescript</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コーディングエージェントを作ってるけどうまくいかなかった話 ～あるいは二ヶ月本気でコーディングエージェントと向き合った話～ / Two Month Agent Struggle (erukiti)</title>
         <link>https://speakerdeck.com/erukiti/two-month-agent-struggle</link>
-        <dc:date>2025-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【DL輪読会】Flow Matching for Generative Modeling (Deep Learning JP)</title>
-        <link>https://www.slideshare.net/slideshow/flow-matching-for-generative-modeling/257908590</link>
         <dc:date>2025-05-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
