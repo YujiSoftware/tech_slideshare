@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript エンジニアが Android 開発の世界に飛び込んだ話 (Yui Sakamoto)</title>
+        <link>https://speakerdeck.com/yuisakamoto/typescript-enziniaga-android-kai-fa-noshi-jie-nifei-biip-ndahua</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Serverlessだからこそコードと設計にはこだわろう (Ken'ichirou Kimura)</title>
         <link>https://speakerdeck.com/kenichirokimura/serverless-meetup-fukuoka-20250510</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>KTCにおける品質保証の取り組み (KintoTech_Dev)</title>
         <link>https://speakerdeck.com/kintotechdev/ktcniokerupin-zhi-bao-zheng-noqu-rizu-mi</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptで実践するクリーンアーキテクチャ ― WebからもCLIからも使えるアプリ設計 / CClean Architecture with Typescript Application (panda_program)</title>
-        <link>https://speakerdeck.com/panda_program/clean-architecture-with-typescript-application</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
