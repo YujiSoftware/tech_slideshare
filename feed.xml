@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>fast-checkとneverthrowのPBT+Result型で 堅牢なビジネスロジックを実現する (Globe-ing)</title>
+        <link>https://speakerdeck.com/globeingoctagon/fast-checktoneverthrownopbt-plus-resultxing-de-jian-lao-nabizinesurozitukuwoshi-xian-suru</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS LambdaをTypeScriptで動かして分かった、Node.jsのTypeScriptサポートの利点と課題 (Makky12)</title>
         <link>https://speakerdeck.com/smt7174/aws-lambdawotypescriptdedong-kasitefen-katuta-node-dot-jsnotypescriptsapotonoli-dian-toke-ti</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Pythonパッケージ管理 [uv] 完全入門 (MIKIO KUBO)</title>
         <link>https://speakerdeck.com/mickey_kubo/pythonpatukeziguan-li-uv-wan-quan-ru-men</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cline&amp;CursorによるAIコーディング徹底活用―Live Vibe Coding付き (PharmaX（旧YOJO Technologies）開発チーム)</title>
-        <link>https://speakerdeck.com/pharma_x_tech/cline-and-cursorniyoruaikodeinguche-di-huo-yong-live-vibe-codingfu-ki</link>
-        <dc:date>2025-05-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
