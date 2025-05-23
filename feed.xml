@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スキーマと型で拓く Full-Stack TypeScript / TSKaigi 2025 (Altech)</title>
+        <link>https://speakerdeck.com/altech/tskaigi-2025</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Bulletproof Design System with TypeScript (takanorip)</title>
+        <link>https://speakerdeck.com/takanorip/bulletproof-design-system-with-typescript</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>さくらのクラウドにおけるCloudNativeのいまとこれから (Satoshi Tagomori)</title>
         <link>https://speakerdeck.com/tagomoris/sakuranokuraudoniokerucloudnativenoimatokorekara</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>スタートアップ創業期を支えるオブザーバビリティ基盤のこれまでとこれから/cnds2025 (Shota Iwami)</title>
         <link>https://speakerdeck.com/biwashi/cnds2025</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMベースAIの基本 / basics of LLM based AI (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/basic-of-llm-base-ai</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>人間性を捧げる生成AI時代の技術選定 (yo4raw)</title>
-        <link>https://speakerdeck.com/yo4raw/ren-jian-xing-wo</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
