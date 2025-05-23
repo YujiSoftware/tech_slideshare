@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>さくらのクラウドにおけるCloudNativeのいまとこれから (Satoshi Tagomori)</title>
+        <link>https://speakerdeck.com/tagomoris/sakuranokuraudoniokerucloudnativenoimatokorekara</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>fast-checkとneverthrowのPBT+Result型で 堅牢なビジネスロジックを実現する (Globe-ing)</title>
         <link>https://speakerdeck.com/globeingoctagon/fast-checktoneverthrownopbt-plus-resultxing-de-jian-lao-nabizinesurozitukuwoshi-xian-suru</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>人間性を捧げる生成AI時代の技術選定 (yo4raw)</title>
         <link>https://speakerdeck.com/yo4raw/ren-jian-xing-wo</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonパッケージ管理 [uv] 完全入門 (MIKIO KUBO)</title>
-        <link>https://speakerdeck.com/mickey_kubo/pythonpatukeziguan-li-uv-wan-quan-ru-men</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
