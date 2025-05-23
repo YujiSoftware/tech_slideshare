@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScriptで実践するクリーンアーキテクチャ ― WebからもCLIからも使えるアプリ設計 / CClean Architecture with Typescript Application (panda_program)</title>
+        <link>https://speakerdeck.com/panda_program/clean-architecture-with-typescript-application</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Language Server と喋ろう – TSKaigi 2025 (pizzacat83)</title>
         <link>https://speakerdeck.com/pizzacat83/language-server-todie-rou-tskaigi-2025</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>1人PMでPMFまで走り切る (白柳明香里)</title>
         <link>https://speakerdeck.com/bambis13s_rom/1ren-pmdepmfmadezou-riqie-ru</link>
         <dc:date>2025-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KubeCon EU 2025 Recap - Kubernetes CRD Design for the Long Haul: Tips, Tricks, and Lessons Learned / Kubernetes Meetup Tokyo #70 / k8sjp70-crd-long-haul-recap (Shingo Omura)</title>
-        <link>https://speakerdeck.com/everpeace/k8sjp70-crd-long-haul-recap</link>
-        <dc:date>2025-05-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
