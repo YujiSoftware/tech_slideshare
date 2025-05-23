@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ウォンテッドリーの「ココロオドル」モバイル開発 / Wantedly's "kokoro odoru" mobile development (Masatoshi Kubode)</title>
+        <link>https://speakerdeck.com/kubode/wantedlys-kokoro-odoru-mobile-development</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>KANNA Android の技術的課題と取り組み (Yosuke Watanabe)</title>
+        <link>https://speakerdeck.com/watabee/kanna-android-noji-shu-de-ke-ti-toqu-rizu-mi</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【iOSエンジニア特集】 iOSアプリ開発の裏側 開発組織が向き合う課題とこれから - 株式会社カウシェ (Akifumi Fukaya)</title>
+        <link>https://speakerdeck.com/akifumifukaya/20250521-findy-ios-tech-event-kauche</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラシルリワードにおける iOSアプリ開発の取り組み (fumito nakazawa)</title>
+        <link>https://speakerdeck.com/funzin/kurasiruriwadoniokeru-iosapurikai-fa-noqu-rizu-mi</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TVer iOSチームの共通認識の作り方 - Findy Job LT iOSアプリ開発の裏側 開発組織が向き合う課題とこれから (TVer Inc.)</title>
+        <link>https://speakerdeck.com/techtver/tver-iostimunogong-tong-ren-shi-nozuo-rifang-findy-job-lt-iosapurikai-fa-noli-ce-kai-fa-zu-zhi-gaxiang-kihe-uke-ti-tokorekara</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>QA/SDETの現在と、これからの挑戦 (imtnd)</title>
+        <link>https://speakerdeck.com/imtnd/sdetnoxian-zai-to-korekaranotiao-zhan</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ニーリーQAのこれまでとこれから (Nealle)</title>
+        <link>https://speakerdeck.com/nealle/niriqanokoremadetokorekara</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>KTCにおける品質保証の取り組み (KintoTech_Dev)</title>
+        <link>https://speakerdeck.com/kintotechdev/ktcniokerupin-zhi-bao-zheng-noqu-rizu-mi</link>
+        <dc:date>2025-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScriptで実践するクリーンアーキテクチャ ― WebからもCLIからも使えるアプリ設計 / CClean Architecture with Typescript Application (panda_program)</title>
         <link>https://speakerdeck.com/panda_program/clean-architecture-with-typescript-application</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>The Definitive? Guide To Locally Organizing RubyKaigi (sylph01)</title>
         <link>https://speakerdeck.com/sylph01/the-definitive-guide-to-locally-organizing-rubykaigi</link>
         <dc:date>2025-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare を活用して変わったメルカリの開発体験 / How Cloudflare Changed Mercari's Development Experience (hatappi)</title>
-        <link>https://speakerdeck.com/hatappi/how-cloudflare-changed-mercaris-development-experience</link>
-        <dc:date>2025-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Use Cases at CADDi (minato128)</title>
-        <link>https://speakerdeck.com/minato128/cloudflare-use-cases-at-caddi</link>
-        <dc:date>2025-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア品質特性、意識してますか？AIの真の力を引き出す活用事例 / ai-and-software-quality (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/ai-and-software-quality</link>
-        <dc:date>2025-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20240807_Vault_ハンズオンワークショップ</title>
-        <link>https://docs.google.com/presentation/d/1bAxFlvlkQcJz3DWladRwhVedYrXx6ZLOK1k3jvZWunw/preview</link>
-        <dc:date>2025-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あなたの通信はどうやってAWSのリソースまで届くか (Shota Shiratori)</title>
-        <link>https://speakerdeck.com/shotashiratori/anatanotong-xin-hadouyatuteawsnorisosumadejie-kuka</link>
-        <dc:date>2025-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティグループとネットワークアクセスリストを併用して、上手に通信制御を行うためのベストプラクティス (Shota Shiratori)</title>
-        <link>https://speakerdeck.com/shotashiratori/sekiyuriteiguruputonetutowakuakusesurisutowobing-yong-site-shang-shou-nitong-xin-zhi-yu-woxing-utamenobesutopurakuteisu</link>
-        <dc:date>2025-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NW-JAWS ルートテーブルとエンドポイント入門 (Hibiki)</title>
-        <link>https://speakerdeck.com/hibikisuaga/nw-jaws-rutoteburutoendopointoru-men</link>
-        <dc:date>2025-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>1人PMでPMFまで走り切る (白柳明香里)</title>
-        <link>https://speakerdeck.com/bambis13s_rom/1ren-pmdepmfmadezou-riqie-ru</link>
-        <dc:date>2025-05-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
