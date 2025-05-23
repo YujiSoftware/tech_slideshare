@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Serverlessだからこそコードと設計にはこだわろう (Ken'ichirou Kimura)</title>
+        <link>https://speakerdeck.com/kenichirokimura/serverless-meetup-fukuoka-20250510</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SpringBootにおけるオブザーバビリティのなにか (irof)</title>
+        <link>https://speakerdeck.com/irof/spring-boot-observability-integration-patterns</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>静的解析で実現したいことから 逆算して学ぶ TypeScript Compiler (Kazushi Konosu)</title>
+        <link>https://speakerdeck.com/kazushisan/jing-de-jie-xi-deshi-xian-sitaikotokara-ni-suan-sitexue-bu-typescript-compiler</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発も運用もビジネス部門も！ クラウドで実現する「つらくない」統制とセキュリティ / Effortless Governance and Security Enabled by the Cloud (Hokuto Hoshi)</title>
         <link>https://speakerdeck.com/kanny/effortless-governance-and-security-enabled-by-the-cloud</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>TypeScriptで実践するクリーンアーキテクチャ ― WebからもCLIからも使えるアプリ設計 / CClean Architecture with Typescript Application (panda_program)</title>
         <link>https://speakerdeck.com/panda_program/clean-architecture-with-typescript-application</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Language Server と喋ろう – TSKaigi 2025 (pizzacat83)</title>
-        <link>https://speakerdeck.com/pizzacat83/language-server-todie-rou-tskaigi-2025</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptとReactで、WAI-ARIAの属性を正しく利用する</title>
-        <link>https://docs.google.com/presentation/d/1rzznSwA7da7S_lU6qyAFuCN9IC1uDJe44PvDg-uqHjQ/preview</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Coding Agents Enablement in TypeScript (Yuku Kotani)</title>
-        <link>https://speakerdeck.com/yukukotani/ai-coding-agents-enablement-in-typescript</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
