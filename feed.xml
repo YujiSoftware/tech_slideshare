@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript製IaCツールのAWS CDKが様々な言語で実装できる理由 ～他言語変換の仕組み～ / cdk-language-transformation (k.goto)</title>
+        <link>https://speakerdeck.com/gotok365/cdk-language-transformation</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScript Language Service Plugin で CSS Modules の開発体験を改善する (mizdra)</title>
         <link>https://speakerdeck.com/mizdra/css-modules-kit</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TypeScriptネイティブ移植観察レポート TSKaigi 2025 (berlysia)</title>
         <link>https://speakerdeck.com/berlysia/typescript-native-porting-observation-tskaigi-2025</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript エンジニアが Android 開発の世界に飛び込んだ話 (Yui Sakamoto)</title>
-        <link>https://speakerdeck.com/yuisakamoto/typescript-enziniaga-android-kai-fa-noshi-jie-nifei-biip-ndahua</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
