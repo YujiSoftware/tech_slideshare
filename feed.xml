@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript Language Service Plugin で CSS Modules の開発体験を改善する (mizdra)</title>
+        <link>https://speakerdeck.com/mizdra/typescript-language-service-plugin-de-css-modules-nokai-fa-ti-yan-wogai-shan-suru</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バランスを見極めよう！実装の意味を明示するための型定義 TSKaigi 2025 Day2 (5/24) (whatasoda)</title>
+        <link>https://speakerdeck.com/whatasoda/baransuwojian-ji-meyou-shi-zhuang-noyi-wei-woming-shi-surutamenoxing-ding-yi</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>複雑なフォームを継続的に開発していくための技術選定・設計・実装 #tskaigi / #tskaigi2025 (Masayuki Izumi)</title>
         <link>https://speakerdeck.com/izumin5210/number-tskaigi2025</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>【iOSエンジニア特集】 iOSアプリ開発の裏側 開発組織が向き合う課題とこれから - 株式会社カウシェ (Akifumi Fukaya)</title>
         <link>https://speakerdeck.com/akifumifukaya/20250521-findy-ios-tech-event-kauche</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラシルリワードにおける iOSアプリ開発の取り組み (fumito nakazawa)</title>
-        <link>https://speakerdeck.com/funzin/kurasiruriwadoniokeru-iosapurikai-fa-noqu-rizu-mi</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TVer iOSチームの共通認識の作り方 - Findy Job LT iOSアプリ開発の裏側 開発組織が向き合う課題とこれから (TVer Inc.)</title>
-        <link>https://speakerdeck.com/techtver/tver-iostimunogong-tong-ren-shi-nozuo-rifang-findy-job-lt-iosapurikai-fa-noli-ce-kai-fa-zu-zhi-gaxiang-kihe-uke-ti-tokorekara</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
