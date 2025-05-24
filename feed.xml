@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>複雑なフォームを継続的に開発していくための技術選定・設計・実装 #tskaigi / #tskaigi2025 (Masayuki Izumi)</title>
+        <link>https://speakerdeck.com/izumin5210/number-tskaigi2025</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScriptとVercel AI SDKで実現するLLMアプリケーション開発：フロントエンドからバックエンド、そしてChrome拡張まで (Kenta Kase,@Kesin11)</title>
         <link>https://www.docswell.com/s/Kesin11/ZQRWXY-2025-05-25-tskaigi2025-ai-sdk</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TVer iOSチームの共通認識の作り方 - Findy Job LT iOSアプリ開発の裏側 開発組織が向き合う課題とこれから (TVer Inc.)</title>
         <link>https://speakerdeck.com/techtver/tver-iostimunogong-tong-ren-shi-nozuo-rifang-findy-job-lt-iosapurikai-fa-noli-ce-kai-fa-zu-zhi-gaxiang-kihe-uke-ti-tokorekara</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QA/SDETの現在と、これからの挑戦 (imtnd)</title>
-        <link>https://speakerdeck.com/imtnd/sdetnoxian-zai-to-korekaranotiao-zhan</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
