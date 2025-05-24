@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ts-morphで、 人間も編集できるコード生成を実現しよう！ (yuta-ike)</title>
+        <link>https://www.docswell.com/s/4136989/K7RPN6-2025-05-24-135029</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Result 型、自前で書くか、ライブラリ使うか (majimaccho)</title>
+        <link>https://speakerdeck.com/majimaccho/result-xing-zi-qian-deshu-kuka-raiburarishi-uka</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>君だけのオリジナル async / await を作ろう / TSKaigi 2025 (Susisu)</title>
+        <link>https://speakerdeck.com/susisu/tskaigi-2025</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フロントエンドがTypeScriptなら、バックエンドはPHPでもいいじゃない/php-is-not-bad (Ryo Tomidokoro)</title>
+        <link>https://speakerdeck.com/hanhan1978/php-is-not-bad</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Web Streams APIの基本と実践、TypeScriptでの活用法 / TSKaigi 2025 Web Streams API (tasshi)</title>
         <link>https://speakerdeck.com/tasshi/tskaigi-2025-web-streams-api</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>スキーマと型で拓く Full-Stack TypeScript / TSKaigi 2025 (Altech)</title>
         <link>https://speakerdeck.com/altech/tskaigi-2025</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bulletproof Design System with TypeScript (takanorip)</title>
-        <link>https://speakerdeck.com/takanorip/bulletproof-design-system-with-typescript</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>さくらのクラウドにおけるCloudNativeのいまとこれから (Satoshi Tagomori)</title>
-        <link>https://speakerdeck.com/tagomoris/sakuranokuraudoniokerucloudnativenoimatokorekara</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>fast-checkとneverthrowのPBT+Result型で 堅牢なビジネスロジックを実現する (Globe-ing)</title>
-        <link>https://speakerdeck.com/globeingoctagon/fast-checktoneverthrownopbt-plus-resultxing-de-jian-lao-nabizinesurozitukuwoshi-xian-suru</link>
-        <dc:date>2025-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS LambdaをTypeScriptで動かして分かった、Node.jsのTypeScriptサポートの利点と課題 (Makky12)</title>
-        <link>https://speakerdeck.com/smt7174/aws-lambdawotypescriptdedong-kasitefen-katuta-node-dot-jsnotypescriptsapotonoli-dian-toke-ti</link>
         <dc:date>2025-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
