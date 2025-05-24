@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テスト設計チュートリアル ちびこん編 ’25 (k.i.)</title>
+        <link>https://speakerdeck.com/omn/2025-tescontutorial-chibicon</link>
+        <dc:date>2025-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PandaCSSでつくる 型で守られたスタイリング基盤 (DenDen)</title>
         <link>https://speakerdeck.com/dendaiman/pandacssdetukuru-xing-deshou-raretasutairinguji-pan</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SpringBootにおけるオブザーバビリティのなにか (irof)</title>
         <link>https://speakerdeck.com/irof/spring-boot-observability-integration-patterns</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>静的解析で実現したいことから 逆算して学ぶ TypeScript Compiler (Kazushi Konosu)</title>
-        <link>https://speakerdeck.com/kazushisan/jing-de-jie-xi-deshi-xian-sitaikotokara-ni-suan-sitexue-bu-typescript-compiler</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
