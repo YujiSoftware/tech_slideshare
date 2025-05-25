@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>在庫管理のための機械学習と最適化の融合 (MIKIO KUBO)</title>
+        <link>https://speakerdeck.com/mickey_kubo/zai-ku-guan-li-notamenoji-jie-xue-xi-tozui-shi-hua-norong-he</link>
+        <dc:date>2025-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアのための 法規制への取り組み方 #healthtechmeetup (Hiromi Hishida)</title>
+        <link>https://speakerdeck.com/77web/enzinianotameno-fa-gui-zhi-henoqu-rizu-mifang-number-healthtechmeetup</link>
+        <dc:date>2025-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScript ASTとJSDocで実現するコードの自動削除 / Auto remove code with TypeScript AST and JSDoc (スタンバイ)</title>
         <link>https://speakerdeck.com/stanby_inc/auto-remove-code-with-typescript-ast-and-jsdoc</link>
         <dc:date>2025-05-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>VueUseから学ぶ実践TypeScript #TSKaigi #TSKaigi2025 (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20250524-cloudsign-tskaigi2025</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>数理最適化と機械学習の融合 (MIKIO KUBO)</title>
-        <link>https://speakerdeck.com/mickey_kubo/shu-li-zui-shi-hua-toji-jie-xue-xi-norong-he</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript Language Service Plugin で CSS Modules の開発体験を改善する (mizdra)</title>
-        <link>https://speakerdeck.com/mizdra/typescript-language-service-plugin-de-css-modules-nokai-fa-ti-yan-wogai-shan-suru</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
