@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript だけを書いて Tauri でデスクトップアプリを作ろう / Tauri with only TypeScript (tris)</title>
+        <link>https://speakerdeck.com/tris5572/tauri-with-only-typescript</link>
+        <dc:date>2025-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>"良い"TypeScriptを書くためのマインドセット (Kei)</title>
         <link>https://speakerdeck.com/kei95/liang-i-typescriptwoshu-kutamenomaindosetuto</link>
         <dc:date>2025-05-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>バランスを見極めよう！実装の意味を明示するための型定義 TSKaigi 2025 Day2 (5/24) (whatasoda)</title>
         <link>https://speakerdeck.com/whatasoda/baransuwojian-ji-meyou-shi-zhuang-noyi-wei-woming-shi-surutamenoxing-ding-yi</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>複雑なフォームを継続的に開発していくための技術選定・設計・実装 #tskaigi / #tskaigi2025 (Masayuki Izumi)</title>
-        <link>https://speakerdeck.com/izumin5210/number-tskaigi2025</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
