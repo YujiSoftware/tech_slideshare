@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成検索エンジン最適化に関する研究の紹介 (Yu Nakano / 中野優)</title>
+        <link>https://speakerdeck.com/ynakano/irreadings2025spring-generative-engine-optimization</link>
+        <dc:date>2025-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Difyによる全社LLMプラットフォーム運用とv1アップデート (DeNA_Tech,@DeNAxTech)</title>
         <link>https://www.docswell.com/s/DeNA_Tech/KN161P-2025-05-20-dify-meetup-tokyo</link>
         <dc:date>2025-05-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Lookback TypeScript ESM support and what should we do now. (Saji)</title>
         <link>https://speakerdeck.com/sajikix/lookback-typescript-esm-support-and-what-should-we-do-now</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスト設計チュートリアル ちびこん編 ’25 (k.i.)</title>
-        <link>https://speakerdeck.com/omn/2025-tescontutorial-chibicon</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
