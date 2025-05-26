@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Clineプロンプト徹底解剖 (umeco)</title>
+        <link>https://speakerdeck.com/umeco/clinepuronputoche-di-jie-pou</link>
+        <dc:date>2025-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MCPを活用したアプリ自動開発 (Hyun)</title>
+        <link>https://speakerdeck.com/unhyunlee/mcpwohuo-yong-sitaapurizi-dong-kai-fa</link>
+        <dc:date>2025-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MCP Serverを使った効率的なインフラ開発 (ezqy)</title>
+        <link>https://speakerdeck.com/ezqy/mcp-serverwoshi-tutaxiao-lu-de-nainhurakai-fa</link>
+        <dc:date>2025-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DevDay2025-OracleDatabase-kernel-addressing-history (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/devday2025-oracledatabase-kernel-addressing-history</link>
         <dc:date>2025-05-25T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Result 型、自前で書くか、ライブラリ使うか (majimaccho)</title>
         <link>https://speakerdeck.com/majimaccho/result-xing-zi-qian-deshu-kuka-raiburarishi-uka</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>君だけのオリジナル async / await を作ろう / TSKaigi 2025 (Susisu)</title>
-        <link>https://speakerdeck.com/susisu/tskaigi-2025</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドがTypeScriptなら、バックエンドはPHPでもいいじゃない/php-is-not-bad (Ryo Tomidokoro)</title>
-        <link>https://speakerdeck.com/hanhan1978/php-is-not-bad</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web Streams APIの基本と実践、TypeScriptでの活用法 / TSKaigi 2025 Web Streams API (tasshi)</title>
-        <link>https://speakerdeck.com/tasshi/tskaigi-2025-web-streams-api</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
