@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Feature Flag 自動お掃除のための TypeScript プログラム変換 (azarashi)</title>
+        <link>https://speakerdeck.com/azrsh/feature-flag-dead-code-elimination</link>
+        <dc:date>2025-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Clineプロンプト徹底解剖 (umeco)</title>
         <link>https://speakerdeck.com/umeco/clinepuronputoche-di-jie-pou</link>
         <dc:date>2025-05-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ts-morphで、 人間も編集できるコード生成を実現しよう！ (yuta-ike)</title>
         <link>https://www.docswell.com/s/4136989/K7RPN6-2025-05-24-135029</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Result 型、自前で書くか、ライブラリ使うか (majimaccho)</title>
-        <link>https://speakerdeck.com/majimaccho/result-xing-zi-qian-deshu-kuka-raiburarishi-uka</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
