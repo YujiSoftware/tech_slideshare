@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DevDay2025-OracleDatabase-kernel-addressing-history (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/devday2025-oracledatabase-kernel-addressing-history</link>
+        <dc:date>2025-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>在庫管理のための機械学習と最適化の融合 (MIKIO KUBO)</title>
         <link>https://speakerdeck.com/mickey_kubo/zai-ku-guan-li-notamenoji-jie-xue-xi-tozui-shi-hua-norong-he</link>
         <dc:date>2025-05-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Web Streams APIの基本と実践、TypeScriptでの活用法 / TSKaigi 2025 Web Streams API (tasshi)</title>
         <link>https://speakerdeck.com/tasshi/tskaigi-2025-web-streams-api</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VueUseから学ぶ実践TypeScript #TSKaigi #TSKaigi2025 (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20250524-cloudsign-tskaigi2025</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
