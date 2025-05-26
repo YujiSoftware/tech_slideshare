@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テスト分析入門/Test Analysis Tutorial (Hiroki Iseri)</title>
+        <link>https://speakerdeck.com/goyoki/test-analysis-tutorial</link>
+        <dc:date>2025-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアテストのグローバルトレンド 2025 #scrumniigata / software-test global trend 2025 (kyonmm)</title>
         <link>https://speakerdeck.com/kyonmm/software-test-global-trend-2025</link>
         <dc:date>2025-05-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Type Challengesに新しい問題を追加して Type ChallengesのMaintainerになった話 (Kanon)</title>
         <link>https://speakerdeck.com/ysknsid25/type-challengesnixin-siiwen-ti-wozhui-jia-site-type-challengesnomaintainerninatutahua-0fd730df-ec2b-4445-bdc8-e4febe5127b7</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Plugin System in Rust based  JavaScript / TypeScript Linters (unvalley)</title>
-        <link>https://speakerdeck.com/unvalley/typescript-linters</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
