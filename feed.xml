@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>品質管理の歴史学 / Quality Management History (nihonbuson)</title>
+        <link>https://speakerdeck.com/nihonbuson/quality-management-history</link>
+        <dc:date>2025-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CloudTrailも、GuardDutyも、VPC Flow logsも… ログ多すぎ問題の整理術 (Hiroki Uchida)</title>
         <link>https://speakerdeck.com/nikuyoshi/2025-05-26-security-jaws-splunk-8d5fde3e-f058-44e2-a83c-8f946cb54b86</link>
         <dc:date>2025-05-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TypeScript製IaCツールのAWS CDKが様々な言語で実装できる理由 ～他言語変換の仕組み～ / cdk-language-transformation (k.goto)</title>
         <link>https://speakerdeck.com/gotok365/cdk-language-transformation</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript Language Service Plugin で CSS Modules の開発体験を改善する (mizdra)</title>
-        <link>https://speakerdeck.com/mizdra/css-modules-kit</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
