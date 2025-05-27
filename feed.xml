@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テストを実施する前に考えるべきテストの話 / Thinking About Testing Before You Test (nihonbuson)</title>
+        <link>https://speakerdeck.com/nihonbuson/thinking-about-testing-before-you-test</link>
+        <dc:date>2025-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>非同期処理でも分散トレーシングしたい！- OpenTelemetry × Pub/Sub - (Tomonori Hayashi)</title>
         <link>https://speakerdeck.com/phaya72/sub</link>
         <dc:date>2025-05-26T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>エンジニアのための 法規制への取り組み方 #healthtechmeetup (Hiromi Hishida)</title>
         <link>https://speakerdeck.com/77web/enzinianotameno-fa-gui-zhi-henoqu-rizu-mifang-number-healthtechmeetup</link>
         <dc:date>2025-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript ASTとJSDocで実現するコードの自動削除 / Auto remove code with TypeScript AST and JSDoc (スタンバイ)</title>
-        <link>https://speakerdeck.com/stanby_inc/auto-remove-code-with-typescript-ast-and-jsdoc</link>
-        <dc:date>2025-05-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
