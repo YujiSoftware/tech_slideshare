@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AI時代にフルスタックTypeScriptの夢を見る (matano,@matamatanot)</title>
+        <link>https://www.docswell.com/s/matamatanot/KDN824-tskaigi2025</link>
+        <dc:date>2025-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScript を活かしてデザインシステム MCP を作る / #tskaigi_after_night (Masayuki Izumi)</title>
+        <link>https://speakerdeck.com/izumin5210/number-tskaigi-after-night</link>
+        <dc:date>2025-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIにコードを生成するコードを作らせて、再現性を担保しよう！ / Let AI generate code to ensure reproducibility (Yusuke Yamada)</title>
+        <link>https://speakerdeck.com/yamachu/let-ai-generate-code-to-ensure-reproducibility</link>
+        <dc:date>2025-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>近似動的計画入門 (MIKIO KUBO)</title>
         <link>https://speakerdeck.com/mickey_kubo/jin-si-dong-de-ji-hua-fa</link>
         <dc:date>2025-05-26T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Clineプロンプト徹底解剖 (umeco)</title>
         <link>https://speakerdeck.com/umeco/clinepuronputoche-di-jie-pou</link>
-        <dc:date>2025-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCPを活用したアプリ自動開発 (Hyun)</title>
-        <link>https://speakerdeck.com/unhyunlee/mcpwohuo-yong-sitaapurizi-dong-kai-fa</link>
-        <dc:date>2025-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCP Serverを使った効率的なインフラ開発 (ezqy)</title>
-        <link>https://speakerdeck.com/ezqy/mcp-serverwoshi-tutaxiao-lu-de-nainhurakai-fa</link>
-        <dc:date>2025-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevDay2025-OracleDatabase-kernel-addressing-history (oracle4engineer)</title>
-        <link>https://speakerdeck.com/oracle4engineer/devday2025-oracledatabase-kernel-addressing-history</link>
         <dc:date>2025-05-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
