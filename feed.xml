@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CloudTrailも、GuardDutyも、VPC Flow logsも… ログ多すぎ問題の整理術 (Hiroki Uchida)</title>
+        <link>https://speakerdeck.com/nikuyoshi/2025-05-26-security-jaws-splunk-8d5fde3e-f058-44e2-a83c-8f946cb54b86</link>
+        <dc:date>2025-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成検索エンジン最適化に関する研究の紹介 (Yu Nakano / 中野優)</title>
         <link>https://speakerdeck.com/ynakano/irreadings2025spring-generative-engine-optimization</link>
         <dc:date>2025-05-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TypeScript Language Service Plugin で CSS Modules の開発体験を改善する (mizdra)</title>
         <link>https://speakerdeck.com/mizdra/css-modules-kit</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Lookback TypeScript ESM support and what should we do now. (Saji)</title>
-        <link>https://speakerdeck.com/sajikix/lookback-typescript-esm-support-and-what-should-we-do-now</link>
         <dc:date>2025-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
