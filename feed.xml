@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>近似動的計画入門 (MIKIO KUBO)</title>
+        <link>https://speakerdeck.com/mickey_kubo/jin-si-dong-de-ji-hua-fa</link>
+        <dc:date>2025-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>iOSアプリ開発もLLMで自動運転する (Yuya Hirayama)</title>
         <link>https://speakerdeck.com/hiragram/iosapurikai-fa-mollmdezi-dong-yun-zhuan-suru</link>
         <dc:date>2025-05-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DevDay2025-OracleDatabase-kernel-addressing-history (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/devday2025-oracledatabase-kernel-addressing-history</link>
-        <dc:date>2025-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>在庫管理のための機械学習と最適化の融合 (MIKIO KUBO)</title>
-        <link>https://speakerdeck.com/mickey_kubo/zai-ku-guan-li-notamenoji-jie-xue-xi-tozui-shi-hua-norong-he</link>
         <dc:date>2025-05-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
