@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>非同期処理でも分散トレーシングしたい！- OpenTelemetry × Pub/Sub - (Tomonori Hayashi)</title>
+        <link>https://speakerdeck.com/phaya72/sub</link>
+        <dc:date>2025-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Accelerating the Feedback Loop of OpenTelemetry Instrumentation with otel-tui (Y.Matsuda)</title>
+        <link>https://speakerdeck.com/ymtdzzz/accelerating-the-feedback-loop-of-opentelemetry-instrumentation-with-otel-tui</link>
+        <dc:date>2025-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Google Cloudの新しいトレースエンドポイントTelemetry APIについて調べてみた (kazz)</title>
+        <link>https://speakerdeck.com/kazz/google-cloudnoxin-siitoresuendopointo-telemetry-apinituitediao-betemita</link>
+        <dc:date>2025-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenTelemetry + LLM = OpenLLMetry!? (Yunosuke Yamada)</title>
+        <link>https://speakerdeck.com/yunosukey/opentelemetry-plus-llm-equals-openllmetry</link>
+        <dc:date>2025-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>品質管理の歴史学 / Quality Management History (nihonbuson)</title>
         <link>https://speakerdeck.com/nihonbuson/quality-management-history</link>
         <dc:date>2025-05-26T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>TypeScript ASTとJSDocで実現するコードの自動削除 / Auto remove code with TypeScript AST and JSDoc (スタンバイ)</title>
         <link>https://speakerdeck.com/stanby_inc/auto-remove-code-with-typescript-ast-and-jsdoc</link>
         <dc:date>2025-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript だけを書いて Tauri でデスクトップアプリを作ろう / Tauri with only TypeScript (tris)</title>
-        <link>https://speakerdeck.com/tris5572/tauri-with-only-typescript</link>
-        <dc:date>2025-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>"良い"TypeScriptを書くためのマインドセット (Kei)</title>
-        <link>https://speakerdeck.com/kei95/liang-i-typescriptwoshu-kutamenomaindosetuto</link>
-        <dc:date>2025-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>変化に強いテーブル設計の勘所 / Table design that is resistant to changes (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/table-design-that-is-resistant-to-changes</link>
-        <dc:date>2025-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript製IaCツールのAWS CDKが様々な言語で実装できる理由 ～他言語変換の仕組み～ / cdk-language-transformation (k.goto)</title>
-        <link>https://speakerdeck.com/gotok365/cdk-language-transformation</link>
-        <dc:date>2025-05-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
