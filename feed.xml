@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Large Language Model Agent: A Survey on Methodology, Applications and Challenges (Shunsuke KITADA)</title>
+        <link>https://speakerdeck.com/shunk031/large-language-model-agent-a-survey-on-methodology-applications-and-challenges</link>
+        <dc:date>2025-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Githubをはじめよう 初心者向け完全ガイド (MIKIO KUBO)</title>
         <link>https://speakerdeck.com/mickey_kubo/githubru-men</link>
         <dc:date>2025-05-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コードの寿命・データの寿命・互換性の寿命 - 明治大学 情報科学科 特別講義 2023-06-02</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vQf7dSmMDTBqQQgF-NcMqCssWv34BIVacK6_4xrMAIJnbqNXt65goIW0PhzfXIUSJf_SKgEmS5Ujqvo/pub</link>
-        <dc:date>2025-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Feature Flag 自動お掃除のための TypeScript プログラム変換 (azarashi)</title>
-        <link>https://speakerdeck.com/azrsh/feature-flag-dead-code-elimination</link>
         <dc:date>2025-05-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
