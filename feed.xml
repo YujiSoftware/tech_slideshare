@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Observable API — TC39</title>
+        <link>https://docs.google.com/presentation/d/1i5_zneksrU7i7ZHcl5EQRzUHGkmXRIQKd-bLfrPRNXY/preview</link>
+        <dc:date>2025-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIのための オンボーディングドキュメントを整備する - hirotea (hirotea)</title>
+        <link>https://speakerdeck.com/hirotea/ainotameno-onbodeingudokiyumentowozheng-bei-suru</link>
+        <dc:date>2025-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大事なのは、AIの精度だけじゃない！〜1円のズレも許されない経理領域とAI〜 (Jun Nemoto)</title>
         <link>https://speakerdeck.com/jun_nemoto/da-shi-nanoha-ainojing-du-takesiyanai-1yuan-nosuremoxu-sarenaijing-li-ling-yu-toai</link>
         <dc:date>2025-05-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>非同期処理でも分散トレーシングしたい！- OpenTelemetry × Pub/Sub - (Tomonori Hayashi)</title>
         <link>https://speakerdeck.com/phaya72/sub</link>
-        <dc:date>2025-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Accelerating the Feedback Loop of OpenTelemetry Instrumentation with otel-tui (Y.Matsuda)</title>
-        <link>https://speakerdeck.com/ymtdzzz/accelerating-the-feedback-loop-of-opentelemetry-instrumentation-with-otel-tui</link>
-        <dc:date>2025-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloudの新しいトレースエンドポイントTelemetry APIについて調べてみた (kazz)</title>
-        <link>https://speakerdeck.com/kazz/google-cloudnoxin-siitoresuendopointo-telemetry-apinituitediao-betemita</link>
         <dc:date>2025-05-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
