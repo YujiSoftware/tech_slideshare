@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Web系自社開発企業への就職 (komagata)</title>
+        <link>https://speakerdeck.com/komagata/webxi-zi-she-kai-fa-qi-ye-henojiu-zhi</link>
+        <dc:date>2025-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>わたしのRubyKaigi Effect (Katsuhiko Kageyama)</title>
+        <link>https://speakerdeck.com/kishima/watasinorubykaigi-effect</link>
+        <dc:date>2025-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Large Language Model Agent: A Survey on Methodology, Applications and Challenges (Shunsuke KITADA)</title>
         <link>https://speakerdeck.com/shunk031/large-language-model-agent-a-survey-on-methodology-applications-and-challenges</link>
         <dc:date>2025-05-27T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>テスト分析入門/Test Analysis Tutorial (Hiroki Iseri)</title>
         <link>https://speakerdeck.com/goyoki/test-analysis-tutorial</link>
-        <dc:date>2025-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアテストのグローバルトレンド 2025 #scrumniigata / software-test global trend 2025 (kyonmm)</title>
-        <link>https://speakerdeck.com/kyonmm/software-test-global-trend-2025</link>
-        <dc:date>2025-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードの寿命・データの寿命・互換性の寿命 - 明治大学 情報科学科 特別講義 2023-06-02</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vQf7dSmMDTBqQQgF-NcMqCssWv34BIVacK6_4xrMAIJnbqNXt65goIW0PhzfXIUSJf_SKgEmS5Ujqvo/pub</link>
         <dc:date>2025-05-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
