@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人とAIとの共創を夢見た2か月 #共創AIミートアップ / Co-Creation with Keito-chan (kondoyuko)</title>
+        <link>https://speakerdeck.com/kondoyuko/co-creation-with-keito-chan</link>
+        <dc:date>2025-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIに実況させる / AI Streamer (motemen)</title>
+        <link>https://speakerdeck.com/motemen/ai-streamer</link>
+        <dc:date>2025-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成的コミュニケーション創発の展望：大規模言語モデルは集合的な世界モデルか？ (Tadahiro Taniguchi)</title>
         <link>https://speakerdeck.com/tanichu/sheng-cheng-de-komiyunikesiyonchuang-fa-nozhan-wang-da-gui-mo-yan-yu-moderuhaji-he-de-nashi-jie-moderuka</link>
         <dc:date>2025-05-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>近似動的計画入門 (MIKIO KUBO)</title>
         <link>https://speakerdeck.com/mickey_kubo/jin-si-dong-de-ji-hua-fa</link>
-        <dc:date>2025-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iOSアプリ開発もLLMで自動運転する (Yuya Hirayama)</title>
-        <link>https://speakerdeck.com/hiragram/iosapurikai-fa-mollmdezi-dong-yun-zhuan-suru</link>
-        <dc:date>2025-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テストを実施する前に考えるべきテストの話 / Thinking About Testing Before You Test (nihonbuson)</title>
-        <link>https://speakerdeck.com/nihonbuson/thinking-about-testing-before-you-test</link>
         <dc:date>2025-05-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
