@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成的コミュニケーション創発の展望：大規模言語モデルは集合的な世界モデルか？ (Tadahiro Taniguchi)</title>
+        <link>https://speakerdeck.com/tanichu/sheng-cheng-de-komiyunikesiyonchuang-fa-nozhan-wang-da-gui-mo-yan-yu-moderuhaji-he-de-nashi-jie-moderuka</link>
+        <dc:date>2025-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Observable API — TC39</title>
         <link>https://docs.google.com/presentation/d/1i5_zneksrU7i7ZHcl5EQRzUHGkmXRIQKd-bLfrPRNXY/preview</link>
         <dc:date>2025-05-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>テストを実施する前に考えるべきテストの話 / Thinking About Testing Before You Test (nihonbuson)</title>
         <link>https://speakerdeck.com/nihonbuson/thinking-about-testing-before-you-test</link>
-        <dc:date>2025-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非同期処理でも分散トレーシングしたい！- OpenTelemetry × Pub/Sub - (Tomonori Hayashi)</title>
-        <link>https://speakerdeck.com/phaya72/sub</link>
         <dc:date>2025-05-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
