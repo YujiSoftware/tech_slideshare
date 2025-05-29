@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>iPadOSDC: Multiple Windows (Hiron)</title>
+        <link>https://speakerdeck.com/hironytic/ipadosdc-multiple-windows</link>
+        <dc:date>2025-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2つの同期 4つの状態 #pixiv_ios_arch (Kenji Tanaka)</title>
+        <link>https://www.slideshare.net/slideshow/2-4-pixiviosarch/128063773</link>
+        <dc:date>2025-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>How-AI-Changes-SEO_Pub</title>
         <link>https://docs.google.com/presentation/d/1kQiiSxx_cwEaFARWVDdwo2F7nA_fZckLu_ibvX4AIQE/preview</link>
         <dc:date>2025-05-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>OpenTelemetry + LLM = OpenLLMetry!? (Yunosuke Yamada)</title>
         <link>https://speakerdeck.com/yunosukey/opentelemetry-plus-llm-equals-openllmetry</link>
-        <dc:date>2025-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>品質管理の歴史学 / Quality Management History (nihonbuson)</title>
-        <link>https://speakerdeck.com/nihonbuson/quality-management-history</link>
-        <dc:date>2025-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CloudTrailも、GuardDutyも、VPC Flow logsも… ログ多すぎ問題の整理術 (Hiroki Uchida)</title>
-        <link>https://speakerdeck.com/nikuyoshi/2025-05-26-security-jaws-splunk-8d5fde3e-f058-44e2-a83c-8f946cb54b86</link>
         <dc:date>2025-05-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
