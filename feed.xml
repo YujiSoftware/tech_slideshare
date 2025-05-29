@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大事なのは、AIの精度だけじゃない！〜1円のズレも許されない経理領域とAI〜 (Jun Nemoto)</title>
+        <link>https://speakerdeck.com/jun_nemoto/da-shi-nanoha-ainojing-du-takesiyanai-1yuan-nosuremoxu-sarenaijing-li-ling-yu-toai</link>
+        <dc:date>2025-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>iPadOSDC: Multiple Windows (Hiron)</title>
         <link>https://speakerdeck.com/hironytic/ipadosdc-multiple-windows</link>
         <dc:date>2025-05-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Google Cloudの新しいトレースエンドポイントTelemetry APIについて調べてみた (kazz)</title>
         <link>https://speakerdeck.com/kazz/google-cloudnoxin-siitoresuendopointo-telemetry-apinituitediao-betemita</link>
-        <dc:date>2025-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenTelemetry + LLM = OpenLLMetry!? (Yunosuke Yamada)</title>
-        <link>https://speakerdeck.com/yunosukey/opentelemetry-plus-llm-equals-openllmetry</link>
         <dc:date>2025-05-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
