@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>KotlinでAndroid再入門 #jkug</title>
+        <link>https://docs.google.com/presentation/d/1-L5ccpU4XMuIK6P_rrnabTMUeDV4AqbMOsJV2BlPUYU/preview</link>
+        <dc:date>2025-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SSII2025 [SS2] 横浜DeNAベイスターズの躍進を支えたAIプロダクト (画像センシングシンポジウム)</title>
+        <link>https://speakerdeck.com/ssii/ssii2025-ss2</link>
+        <dc:date>2025-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組織の文化を変える、社内コミュニティの有用性と立ち上げ方 (Ryota Nakamura,@R_t_A_n_M)</title>
         <link>https://www.docswell.com/s/rinatamu/Z7RPMV-cmcmeetuposaka8</link>
         <dc:date>2025-05-29T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Githubをはじめよう 初心者向け完全ガイド (MIKIO KUBO)</title>
         <link>https://speakerdeck.com/mickey_kubo/githubru-men</link>
-        <dc:date>2025-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI時代にフルスタックTypeScriptの夢を見る (matano,@matamatanot)</title>
-        <link>https://www.docswell.com/s/matamatanot/KDN824-tskaigi2025</link>
-        <dc:date>2025-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript を活かしてデザインシステム MCP を作る / #tskaigi_after_night (Masayuki Izumi)</title>
-        <link>https://speakerdeck.com/izumin5210/number-tskaigi-after-night</link>
         <dc:date>2025-05-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
