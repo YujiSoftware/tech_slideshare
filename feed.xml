@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Datadog Network Monitoring を活用して NAT Gateway 課金を 80 % 削減した話 (Hayato Kawai)</title>
+        <link>https://speakerdeck.com/fohte/datadog-network-monitoring-wohuo-yong-site-nat-gateway-ke-jin-wo-80-percent-xue-jian-sitahua</link>
+        <dc:date>2025-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>人とAIとの共創を夢見た2か月 #共創AIミートアップ / Co-Creation with Keito-chan (kondoyuko)</title>
         <link>https://speakerdeck.com/kondoyuko/co-creation-with-keito-chan</link>
         <dc:date>2025-05-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AIにコードを生成するコードを作らせて、再現性を担保しよう！ / Let AI generate code to ensure reproducibility (Yusuke Yamada)</title>
         <link>https://speakerdeck.com/yamachu/let-ai-generate-code-to-ensure-reproducibility</link>
         <dc:date>2025-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>近似動的計画入門 (MIKIO KUBO)</title>
-        <link>https://speakerdeck.com/mickey_kubo/jin-si-dong-de-ji-hua-fa</link>
-        <dc:date>2025-05-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
