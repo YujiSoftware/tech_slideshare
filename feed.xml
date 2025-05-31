@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Rootless な環境における eBPF の活用 (Naoki MATSUMOTO)</title>
+        <link>https://speakerdeck.com/mt2naoki/rootless-nahuan-jing-niokeru-ebpf-nohuo-yong</link>
+        <dc:date>2025-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>カンファレンスのつくりかた / The Conference Code: What Makes It All Work (HASEGAWA Tomoki)</title>
+        <link>https://speakerdeck.com/tomzoh/the-conference-code-what-makes-it-all-work</link>
+        <dc:date>2025-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>鳴り止まないアラート対応の中で学んだ 監視改善の進め方 / team based monitoring improvement from alert (konchanSS)</title>
         <link>https://speakerdeck.com/konchanss/team-based-monitoring-improvement-from-alert</link>
         <dc:date>2025-05-30T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>FastMCPでMCPサーバー/クライアントを構築してみる (ttnyt8701)</title>
         <link>https://speakerdeck.com/ttnyt8701/kuraiantowogou-zhu-sitemiru</link>
-        <dc:date>2025-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>On-Call運用 Tips (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
-        <link>https://www.docswell.com/s/WN_Tech-PR/56VPD9-2025-05-28-134350</link>
-        <dc:date>2025-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web系自社開発企業への就職 (komagata)</title>
-        <link>https://speakerdeck.com/komagata/webxi-zi-she-kai-fa-qi-ye-henojiu-zhi</link>
         <dc:date>2025-05-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
