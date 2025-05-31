@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コードに語らせよう――自己ドキュメント化が内包する楽しさについて / Let the Code Speak (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/let-the-code-speak</link>
+        <dc:date>2025-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>KotlinでAndroid再入門 #jkug</title>
         <link>https://docs.google.com/presentation/d/1-L5ccpU4XMuIK6P_rrnabTMUeDV4AqbMOsJV2BlPUYU/preview</link>
         <dc:date>2025-05-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Large Language Model Agent: A Survey on Methodology, Applications and Challenges (Shunsuke KITADA)</title>
         <link>https://speakerdeck.com/shunk031/large-language-model-agent-a-survey-on-methodology-applications-and-challenges</link>
-        <dc:date>2025-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Githubをはじめよう 初心者向け完全ガイド (MIKIO KUBO)</title>
-        <link>https://speakerdeck.com/mickey_kubo/githubru-men</link>
         <dc:date>2025-05-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
