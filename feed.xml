@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>鳴り止まないアラート対応の中で学んだ 監視改善の進め方 / team based monitoring improvement from alert (konchanSS)</title>
+        <link>https://speakerdeck.com/konchanss/team-based-monitoring-improvement-from-alert</link>
+        <dc:date>2025-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Python型チェッカー ty を使ってみた話 (nogawanogawa)</title>
         <link>https://speakerdeck.com/nogawanogawa/pythonxing-tietuka-ty-woshi-tutemitahua</link>
         <dc:date>2025-05-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Web系自社開発企業への就職 (komagata)</title>
         <link>https://speakerdeck.com/komagata/webxi-zi-she-kai-fa-qi-ye-henojiu-zhi</link>
-        <dc:date>2025-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>わたしのRubyKaigi Effect (Katsuhiko Kageyama)</title>
-        <link>https://speakerdeck.com/kishima/watasinorubykaigi-effect</link>
         <dc:date>2025-05-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
