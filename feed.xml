@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Python型チェッカー ty を使ってみた話 (nogawanogawa)</title>
+        <link>https://speakerdeck.com/nogawanogawa/pythonxing-tietuka-ty-woshi-tutemitahua</link>
+        <dc:date>2025-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コードに語らせよう――自己ドキュメント化が内包する楽しさについて / Let the Code Speak (nrs)</title>
         <link>https://speakerdeck.com/nrslib/let-the-code-speak</link>
         <dc:date>2025-05-30T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>わたしのRubyKaigi Effect (Katsuhiko Kageyama)</title>
         <link>https://speakerdeck.com/kishima/watasinorubykaigi-effect</link>
         <dc:date>2025-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Large Language Model Agent: A Survey on Methodology, Applications and Challenges (Shunsuke KITADA)</title>
-        <link>https://speakerdeck.com/shunk031/large-language-model-agent-a-survey-on-methodology-applications-and-challenges</link>
-        <dc:date>2025-05-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
