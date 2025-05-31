@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Build Ruby from RubyKaigi 2025 (Yuto Urushima)</title>
+        <link>https://speakerdeck.com/alstrocrack/build-ruby-from-rubykaigi-2025</link>
+        <dc:date>2025-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RubyKaigiで得られる10の価値 〜Ruby話を聞くことだけが RubyKaigiじゃない〜 (tomohiko.kuzuba)</title>
+        <link>https://speakerdeck.com/tomohiko9090/rubykaigidede-rareru-10jia-zhi-rubyhua-wowen-kukotodakega-rubykaigiziyanai</link>
+        <dc:date>2025-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIとはじめるTypeProfへの貢献 (Masato Sugiyama)</title>
+        <link>https://speakerdeck.com/smasato/ai-typeprof-contribution</link>
+        <dc:date>2025-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>primeNumberでのRBS導入の現在 &amp;&amp; RBS::Traceでinline RBSを拡充してみた (Manami Nakamura)</title>
+        <link>https://speakerdeck.com/mnmandahalf/primenumberdenorbsdao-ru-noxian-zai-and-and-rbs-tracedeinline-rbswokuo-chong-sitemita</link>
+        <dc:date>2025-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>地方中小企業のエンジニアから大企業の執行役員になるまで #phpcon_niigata / road to executive (kyonmm)</title>
         <link>https://speakerdeck.com/kyonmm/road-to-executive</link>
         <dc:date>2025-05-30T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>AIのための オンボーディングドキュメントを整備する - hirotea (hirotea)</title>
         <link>https://speakerdeck.com/hirotea/ainotameno-onbodeingudokiyumentowozheng-bei-suru</link>
-        <dc:date>2025-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大事なのは、AIの精度だけじゃない！〜1円のズレも許されない経理領域とAI〜 (Jun Nemoto)</title>
-        <link>https://speakerdeck.com/jun_nemoto/da-shi-nanoha-ainojing-du-takesiyanai-1yuan-nosuremoxu-sarenaijing-li-ling-yu-toai</link>
-        <dc:date>2025-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iPadOSDC: Multiple Windows (Hiron)</title>
-        <link>https://speakerdeck.com/hironytic/ipadosdc-multiple-windows</link>
-        <dc:date>2025-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2つの同期 4つの状態 #pixiv_ios_arch (Kenji Tanaka)</title>
-        <link>https://www.slideshare.net/slideshow/2-4-pixiviosarch/128063773</link>
-        <dc:date>2025-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How-AI-Changes-SEO_Pub</title>
-        <link>https://docs.google.com/presentation/d/1kQiiSxx_cwEaFARWVDdwo2F7nA_fZckLu_ibvX4AIQE/preview</link>
         <dc:date>2025-05-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
