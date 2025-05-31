@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OUXT勉強会特別編：ROSを使ったロボット開発講座</title>
+        <link>https://docs.google.com/presentation/d/1hqpCtUOamYhNSfSQO96Y3BDvnuuSFcH2m_nYyh7ehFU/preview</link>
+        <dc:date>2025-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rootless な環境における eBPF の活用 (Naoki MATSUMOTO)</title>
         <link>https://speakerdeck.com/mt2naoki/rootless-nahuan-jing-niokeru-ebpf-nohuo-yong</link>
         <dc:date>2025-05-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SmartHRの複数のチームにおけるMCPサーバーの活用事例と課題 (Yuki Horikoshi)</title>
         <link>https://speakerdeck.com/yukisnow1823/smarthrnofu-shu-notimuniokerumcpsabanohuo-yong-shi-li-toke-ti</link>
-        <dc:date>2025-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FastMCPでMCPサーバー/クライアントを構築してみる (ttnyt8701)</title>
-        <link>https://speakerdeck.com/ttnyt8701/kuraiantowogou-zhu-sitemiru</link>
         <dc:date>2025-05-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
