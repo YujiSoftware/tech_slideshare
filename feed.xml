@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Dify講座 超入門 (Daisuke Miyata,@miyatti)</title>
+        <link>https://www.docswell.com/s/miyatti/ZDN8RW-2025-05-31-190034</link>
+        <dc:date>2025-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMを用いたメタデータベースレコメンド検証 (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/llmwoyong-itametadetabesurekomendojian-zheng</link>
         <dc:date>2025-05-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>人とAIとの共創を夢見た2か月 #共創AIミートアップ / Co-Creation with Keito-chan (kondoyuko)</title>
         <link>https://speakerdeck.com/kondoyuko/co-creation-with-keito-chan</link>
-        <dc:date>2025-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIに実況させる / AI Streamer (motemen)</title>
-        <link>https://speakerdeck.com/motemen/ai-streamer</link>
         <dc:date>2025-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
