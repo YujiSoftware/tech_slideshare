@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMを用いたメタデータベースレコメンド検証 (CyberAgent)</title>
+        <link>https://speakerdeck.com/cyberagentdevelopers/llmwoyong-itametadetabesurekomendojian-zheng</link>
+        <dc:date>2025-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2025年度人工知能学会全国大会チュートリアル講演「深層基盤モデルの数理」 (Taiji Suzuki)</title>
         <link>https://speakerdeck.com/taiji_suzuki/2025nian-du-ren-gong-zhi-neng-xue-hui-quan-guo-da-hui-tiyutoriarujiang-yan-shen-ceng-ji-pan-moderunoshu-li</link>
         <dc:date>2025-05-31T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AIに実況させる / AI Streamer (motemen)</title>
         <link>https://speakerdeck.com/motemen/ai-streamer</link>
         <dc:date>2025-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成的コミュニケーション創発の展望：大規模言語モデルは集合的な世界モデルか？ (Tadahiro Taniguchi)</title>
-        <link>https://speakerdeck.com/tanichu/sheng-cheng-de-komiyunikesiyonchuang-fa-nozhan-wang-da-gui-mo-yan-yu-moderuhaji-he-de-nashi-jie-moderuka</link>
-        <dc:date>2025-05-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
