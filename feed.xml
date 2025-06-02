@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今更聞けないHTML&amp;CSSの話 (実写版akira)</title>
+        <link>https://speakerdeck.com/akira1908jp/jin-geng-wen-kenaihtml-and-cssnohua</link>
+        <dc:date>2025-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Use Perl as Better Shell Script (karupanerura)</title>
+        <link>https://speakerdeck.com/karupanerura/use-perl-as-better-shell-script</link>
+        <dc:date>2025-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Perlで痩せる (Yuuki Shimizu)</title>
+        <link>https://speakerdeck.com/yuukis/perldeshou-seru</link>
+        <dc:date>2025-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアは捨てやすく作ろう/Let's make software easy to discard (Genki Sano)</title>
         <link>https://speakerdeck.com/sanogemaru/lets-make-software-easy-to-discard</link>
         <dc:date>2025-06-01T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Python型チェッカー ty を使ってみた話 (nogawanogawa)</title>
         <link>https://speakerdeck.com/nogawanogawa/pythonxing-tietuka-ty-woshi-tutemitahua</link>
-        <dc:date>2025-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードに語らせよう――自己ドキュメント化が内包する楽しさについて / Let the Code Speak (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/let-the-code-speak</link>
-        <dc:date>2025-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KotlinでAndroid再入門 #jkug</title>
-        <link>https://docs.google.com/presentation/d/1-L5ccpU4XMuIK6P_rrnabTMUeDV4AqbMOsJV2BlPUYU/preview</link>
-        <dc:date>2025-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SSII2025 [SS2] 横浜DeNAベイスターズの躍進を支えたAIプロダクト (画像センシングシンポジウム)</title>
-        <link>https://speakerdeck.com/ssii/ssii2025-ss2</link>
         <dc:date>2025-05-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
