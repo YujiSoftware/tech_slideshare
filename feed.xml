@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Jason's Machine Learning 101</title>
+        <link>https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview</link>
+        <dc:date>2025-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OTel meets Wasm: プラグイン機構としてのWebAssemblyから見る次世代のObservability (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/cnds2025-otel-meets-wasm</link>
         <dc:date>2025-06-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>OUXT勉強会特別編：ROSを使ったロボット開発講座</title>
         <link>https://docs.google.com/presentation/d/1hqpCtUOamYhNSfSQO96Y3BDvnuuSFcH2m_nYyh7ehFU/preview</link>
-        <dc:date>2025-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rootless な環境における eBPF の活用 (Naoki MATSUMOTO)</title>
-        <link>https://speakerdeck.com/mt2naoki/rootless-nahuan-jing-niokeru-ebpf-nohuo-yong</link>
         <dc:date>2025-05-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
