@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIオンボーディングとAIプロセスマイニング (Ryuya Nakamura)</title>
+        <link>https://speakerdeck.com/nrryuya/aionbodeingutoaipurosesumainingu</link>
+        <dc:date>2025-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Devinで実践する！AIエージェントと協働する開発組織の作り方 (Masahiro Nishimi)</title>
+        <link>https://speakerdeck.com/masahiro_nishimi/devindeshi-jian-suru-aiezientotoxie-dong-surukai-fa-zu-zhi-nozuo-rifang</link>
+        <dc:date>2025-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>技術書典18結果報告 (Mutz)</title>
         <link>https://speakerdeck.com/mutsumix/ji-shu-shu-dian-18jie-guo-bao-gao</link>
         <dc:date>2025-06-01T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>AIとはじめるTypeProfへの貢献 (Masato Sugiyama)</title>
         <link>https://speakerdeck.com/smasato/ai-typeprof-contribution</link>
         <dc:date>2025-05-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>primeNumberでのRBS導入の現在 &amp;&amp; RBS::Traceでinline RBSを拡充してみた (Manami Nakamura)</title>
-        <link>https://speakerdeck.com/mnmandahalf/primenumberdenorbsdao-ru-noxian-zai-and-and-rbs-tracedeinline-rbswokuo-chong-sitemita</link>
-        <dc:date>2025-05-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>地方中小企業のエンジニアから大企業の執行役員になるまで #phpcon_niigata / road to executive (kyonmm)</title>
-        <link>https://speakerdeck.com/kyonmm/road-to-executive</link>
-        <dc:date>2025-05-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
