@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JSPI for Phase 4</title>
+        <link>https://docs.google.com/presentation/d/1tRl7GHWPf9ixRHZUL9mFIcUdN8AIMQx4dmec1q-Vq0Y/preview</link>
+        <dc:date>2025-06-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>チュートリアル：モデルマージ (Rei Fujiyoshi)</title>
         <link>https://speakerdeck.com/rei0108/tiyutoriaru-moderumazi</link>
         <dc:date>2025-06-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>“ブロック”で作る、WordPress制作フロー変革のすすめ (Koots)</title>
         <link>https://speakerdeck.com/koots2021/burotuku-dezuo-ru-wordpresszhi-zuo-hurobian-ge-nosusume</link>
-        <dc:date>2025-05-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Parallel::Pipesの紹介 (Shoichi Kaji)</title>
-        <link>https://speakerdeck.com/skaji/parallel-pipesnoshao-jie</link>
         <dc:date>2025-05-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
