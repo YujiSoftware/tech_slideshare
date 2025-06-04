@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claude Code のすすめ (schroneko)</title>
+        <link>https://speakerdeck.com/schroneko/getting-started-with-claude-code</link>
+        <dc:date>2025-06-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>やさしいClaude Code入門 (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/yasasiiclaude-coderu-men</link>
+        <dc:date>2025-06-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SSII2025 [OS3-02] 広告における画像生成技術の実応用の現状 (画像センシングシンポジウム)</title>
         <link>https://speakerdeck.com/ssii/ssii2025-os3-02-shimoda</link>
         <dc:date>2025-06-03T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>2025年度人工知能学会全国大会チュートリアル講演「深層基盤モデルの数理」 (Taiji Suzuki)</title>
         <link>https://speakerdeck.com/taiji_suzuki/2025nian-du-ren-gong-zhi-neng-xue-hui-quan-guo-da-hui-tiyutoriarujiang-yan-shen-ceng-ji-pan-moderunoshu-li</link>
-        <dc:date>2025-05-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>潜在空間の幾何的構造_JSAI発表 (Ikumi Akatsuka)</title>
-        <link>https://speakerdeck.com/0xikkun/qian-zai-kong-jian-noji-he-de-gou-zao-jsaifa-biao</link>
-        <dc:date>2025-05-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Build Ruby from RubyKaigi 2025 (Yuto Urushima)</title>
-        <link>https://speakerdeck.com/alstrocrack/build-ruby-from-rubykaigi-2025</link>
         <dc:date>2025-05-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
