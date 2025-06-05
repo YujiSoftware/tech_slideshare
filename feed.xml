@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCP で繋ぐ Figma とデザインシステム〜LLM を使った UI 実装のリアル〜 (きむそん)</title>
+        <link>https://speakerdeck.com/kimuson/mcp-dexi-gu-figma-todezainsisutemu-llm-woshi-tuta-ui-shi-zhuang-noriaru</link>
+        <dc:date>2025-06-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Devin＆Cursor、それぞれの「本質」から導く最適ユースケース戦略 (empitsu)</title>
         <link>https://speakerdeck.com/empitsu/devin-and-cursor-sorezoreno-ben-zhi-karadao-kuzui-shi-yusukesuzhan-lue</link>
         <dc:date>2025-06-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Perlで痩せる (Yuuki Shimizu)</title>
         <link>https://speakerdeck.com/yuukis/perldeshou-seru</link>
-        <dc:date>2025-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアは捨てやすく作ろう/Let's make software easy to discard (Genki Sano)</title>
-        <link>https://speakerdeck.com/sanogemaru/lets-make-software-easy-to-discard</link>
         <dc:date>2025-06-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
