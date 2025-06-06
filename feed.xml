@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WordPress更新マニュアル例</title>
+        <link>https://docs.google.com/presentation/d/1cvEJf8AnHX93S2scOoteXJhi7qQw5YKdSKU7nNo2yq0/preview</link>
+        <dc:date>2025-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIコーディングエージェントClineとAWS MCP ServersでAWSを使ったシステムのレビューと機能追加してみた (Takuya Yamazaki)</title>
         <link>https://www.docswell.com/s/kkmtyyz/K4V1YN-2025-04-30-222734</link>
         <dc:date>2025-06-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>OTel meets Wasm: プラグイン機構としてのWebAssemblyから見る次世代のObservability (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/cnds2025-otel-meets-wasm</link>
-        <dc:date>2025-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ワンバイナリWebサービスのススメ (mackee)</title>
-        <link>https://speakerdeck.com/mackee/wanbainariwebsabisunosusume</link>
         <dc:date>2025-06-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
