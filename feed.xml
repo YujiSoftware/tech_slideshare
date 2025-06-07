@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Java 30周年記念! Javaの30年をふりかえる (Yuichi.Sakuraba)</title>
+        <link>https://speakerdeck.com/skrb/java-30zhou-nian-ji-nian-javano30nian-wohurikaeru</link>
+        <dc:date>2025-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cursor Meetup Tokyo ゲノミクスとCursor： 進化と制約のあいだ (Masaru Koido)</title>
+        <link>https://speakerdeck.com/koido/cursor-meetup-tokyo-genomikusutocursor-jin-hua-tozhi-yue-noaida</link>
+        <dc:date>2025-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>複数アプリケーションを育てていくための共通化戦略 (irof)</title>
         <link>https://speakerdeck.com/irof/glowing-multiple-applications-with-shared-strategy</link>
         <dc:date>2025-06-06T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>A2A(Agent2Agent )とは？  (ttnyt8701)</title>
         <link>https://speakerdeck.com/ttnyt8701/a2a-agent2agent-toha-ji-chu-gai-yao</link>
-        <dc:date>2025-06-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCP で繋ぐ Figma とデザインシステム〜LLM を使った UI 実装のリアル〜 (きむそん)</title>
-        <link>https://speakerdeck.com/kimuson/mcp-dexi-gu-figma-todezainsisutemu-llm-woshi-tuta-ui-shi-zhuang-noriaru</link>
-        <dc:date>2025-06-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Devin＆Cursor、それぞれの「本質」から導く最適ユースケース戦略 (empitsu)</title>
-        <link>https://speakerdeck.com/empitsu/devin-and-cursor-sorezoreno-ben-zhi-karadao-kuzui-shi-yusukesuzhan-lue</link>
         <dc:date>2025-06-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
