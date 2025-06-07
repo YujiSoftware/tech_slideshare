@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Java で学ぶ 代数的データ型 (Kanon)</title>
+        <link>https://speakerdeck.com/ysknsid25/java-dexue-bu-dai-shu-de-detaxing</link>
+        <dc:date>2025-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践Kafka Streams 〜イベント駆動型アーキテクチャを添えて〜 (Tomohiro Hashidate)</title>
         <link>https://speakerdeck.com/joker1007/shi-jian-kafka-streams-ibentoqu-dong-xing-akitekutiyawotian-ete</link>
         <dc:date>2025-06-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JSPI for Phase 4</title>
         <link>https://docs.google.com/presentation/d/1tRl7GHWPf9ixRHZUL9mFIcUdN8AIMQx4dmec1q-Vq0Y/preview</link>
-        <dc:date>2025-06-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チュートリアル：モデルマージ (Rei Fujiyoshi)</title>
-        <link>https://speakerdeck.com/rei0108/tiyutoriaru-moderumazi</link>
         <dc:date>2025-06-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
