@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>事業戦略を理解してソフトウェアを設計する (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/jjug_ccc_2025_spring</link>
+        <dc:date>2025-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cursor Meetup Tokyo (Shunta Komatsu)</title>
+        <link>https://speakerdeck.com/iamshunta/cursor-meetup-tokyo</link>
+        <dc:date>2025-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ユニットテスト基礎講座 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
         <link>https://www.docswell.com/s/tyonekubo/ZP21V1-unit-testing-basic</link>
         <dc:date>2025-06-06T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Claude Code のすすめ (schroneko)</title>
         <link>https://speakerdeck.com/schroneko/getting-started-with-claude-code</link>
-        <dc:date>2025-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>やさしいClaude Code入門 (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/yasasiiclaude-coderu-men</link>
-        <dc:date>2025-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SSII2025 [OS3-02] 広告における画像生成技術の実応用の現状 (画像センシングシンポジウム)</title>
-        <link>https://speakerdeck.com/ssii/ssii2025-os3-02-shimoda</link>
         <dc:date>2025-06-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
