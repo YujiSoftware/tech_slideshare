@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Passkeys for Java Developers (Yoshikazu Nojima)</title>
+        <link>https://speakerdeck.com/ynojima/passkeys-for-java-developers</link>
+        <dc:date>2025-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VPC Latticeってすごく便利！~でもお高いんでしょう…？~ (Hidetoshi Sakamoto,@e3CpwB5Gd444254)</title>
         <link>https://www.docswell.com/s/Hanabusashun/K828MQ-2025-06-07-130941</link>
         <dc:date>2025-06-06T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>[輪講] SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features (Naoki Kato)</title>
         <link>https://speakerdeck.com/nk35jk/lun-jiang-siglip-2-multilingual-vision-language-encoders-with-improved-semantic-understanding-localization-and-dense-features</link>
         <dc:date>2025-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Generative Models 2025 (Hiroshi Takahashi)</title>
-        <link>https://speakerdeck.com/takahashihiroshi/generative-models-2025</link>
-        <dc:date>2025-06-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
