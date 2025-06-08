@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenJDKエコシステムと開発中の機能を紹介  2025夏版 (Chihiro Ito)</title>
+        <link>https://speakerdeck.com/chiroito/java-future-2025-summer</link>
+        <dc:date>2025-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Passkeys for Java Developers (Yoshikazu Nojima)</title>
         <link>https://speakerdeck.com/ynojima/passkeys-for-java-developers</link>
         <dc:date>2025-06-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIコーディングエージェントClineとAWS MCP ServersでAWSを使ったシステムのレビューと機能追加してみた (Takuya Yamazaki)</title>
         <link>https://www.docswell.com/s/kkmtyyz/K4V1YN-2025-04-30-222734</link>
-        <dc:date>2025-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[輪講] SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features (Naoki Kato)</title>
-        <link>https://speakerdeck.com/nk35jk/lun-jiang-siglip-2-multilingual-vision-language-encoders-with-improved-semantic-understanding-localization-and-dense-features</link>
         <dc:date>2025-06-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
