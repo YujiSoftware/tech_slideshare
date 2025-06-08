@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロジェクトにおける政治について (nakamichi)</title>
+        <link>https://speakerdeck.com/ichimichi/puroziekutoniokeruzheng-zhi-nituite</link>
+        <dc:date>2025-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OpenJDKエコシステムと開発中の機能を紹介  2025夏版 (Chihiro Ito)</title>
         <link>https://speakerdeck.com/chiroito/java-future-2025-summer</link>
         <dc:date>2025-06-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>WordPress更新マニュアル例</title>
         <link>https://docs.google.com/presentation/d/1cvEJf8AnHX93S2scOoteXJhi7qQw5YKdSKU7nNo2yq0/preview</link>
-        <dc:date>2025-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIコーディングエージェントClineとAWS MCP ServersでAWSを使ったシステムのレビューと機能追加してみた (Takuya Yamazaki)</title>
-        <link>https://www.docswell.com/s/kkmtyyz/K4V1YN-2025-04-30-222734</link>
         <dc:date>2025-06-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
