@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Javaのルールをねじ曲げろ！禁断の操作とその代償から学ぶメタプログラミング入門 / A Guide to Metaprogramming: Lessons from Forbidden Techniques and Their Price (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/a-guide-to-metaprogramming-lessons-from-forbidden-techniques-and-their-price</link>
+        <dc:date>2025-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Spring gRPC で始める gRPC 入門 / Introduction to gRPC with Spring gRPC (mackey0225)</title>
         <link>https://speakerdeck.com/mackey0225/introduction-to-grpc-with-spring-grpc</link>
         <dc:date>2025-06-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>大手企業のAIツール導入の壁を越えて：サイバーエージェントのCursor活用戦略 (Gunther Brunner)</title>
         <link>https://speakerdeck.com/gunta/da-shou-qi-ye-noaiturudao-ru-nobi-woyue-ete-saibaezientonocursorhuo-yong-zhan-lue</link>
         <dc:date>2025-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cursorを"導入"だけじゃなく"活用"まで メルカリ2000人展開のリアル (Kuu)</title>
-        <link>https://speakerdeck.com/fumiyakume/cursorwo-dao-ru-dakeziyanaku-huo-yong-made-merukari2000ren-zhan-kai-noriaru</link>
-        <dc:date>2025-06-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
