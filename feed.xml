@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リーダーシップとマネジメントの違いとは？ (baroqueworksdev)</title>
+        <link>https://speakerdeck.com/baroqueworksdev/ridasituputomanezimentonowei-itoha</link>
+        <dc:date>2025-06-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kafka vs. Pulsar: Performance Evaluation by Petabyte-Scale Streaming Platform Providers (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/20250609a</link>
         <dc:date>2025-06-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Cursor Meetup Tokyo (Shunta Komatsu)</title>
         <link>https://speakerdeck.com/iamshunta/cursor-meetup-tokyo</link>
-        <dc:date>2025-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ユニットテスト基礎講座 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
-        <link>https://www.docswell.com/s/tyonekubo/ZP21V1-unit-testing-basic</link>
         <dc:date>2025-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
