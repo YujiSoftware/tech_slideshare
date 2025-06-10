@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kafka vs. Pulsar: Performance Evaluation by Petabyte-Scale Streaming Platform Providers (LINEヤフーTech (LY Corporation Tech))</title>
+        <link>https://speakerdeck.com/lycorptech_jp/20250609a</link>
+        <dc:date>2025-06-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最適決定木を用いた処方的価格最適化 (MIKIO KUBO)</title>
         <link>https://speakerdeck.com/mickey_kubo/zui-shi-jue-ding-mu-woyong-itachu-fang-de-jia-ge-zui-shi-hua</link>
         <dc:date>2025-06-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ユニットテスト基礎講座 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
         <link>https://www.docswell.com/s/tyonekubo/ZP21V1-unit-testing-basic</link>
-        <dc:date>2025-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PandasAI：生成AIがデータ分析業務にもたらすパラダイムシフト (negi111111)</title>
-        <link>https://speakerdeck.com/negi111111/pycon-kyusyu2024-dot-pptx-1</link>
         <dc:date>2025-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
