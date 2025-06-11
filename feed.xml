@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Agent開発フレームワークのOverviewとW&amp;B Weaveとのインテグレーション (W&amp;B Si)</title>
+        <link>https://speakerdeck.com/siyoo/agentkai-fa-huremuwakunooverviewtow-and-b-weavetonointeguresiyon</link>
+        <dc:date>2025-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>安心・効率的な医療現場の実現へ　～オンプレAI &amp; ノーコードワークフローで進める業務改革～ (W&amp;B Si)</title>
+        <link>https://speakerdeck.com/siyoo/an-xin-xiao-lu-de-nayi-liao-xian-chang-noshi-xian-he-onpureai-and-nokodowakuhurodejin-meruye-wu-gai-ge</link>
+        <dc:date>2025-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>HOW TO READ Prompt Engineering for LLM (牛本) (Yuki Hattori)</title>
+        <link>https://speakerdeck.com/yuhattor/how-to-read-prompt-engineering-for-llm-niu-ben</link>
+        <dc:date>2025-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScript LSP の今までとこれから (Yosuke Kurami)</title>
         <link>https://speakerdeck.com/quramy/typescript-lsp-nojin-madetokorekara</link>
         <dc:date>2025-06-10T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Cursor Meetup Tokyo ゲノミクスとCursor： 進化と制約のあいだ (Masaru Koido)</title>
         <link>https://speakerdeck.com/koido/cursor-meetup-tokyo-genomikusutocursor-jin-hua-tozhi-yue-noaida</link>
-        <dc:date>2025-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>複数アプリケーションを育てていくための共通化戦略 (irof)</title>
-        <link>https://speakerdeck.com/irof/glowing-multiple-applications-with-shared-strategy</link>
-        <dc:date>2025-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java で学ぶ 代数的データ型 (Kanon)</title>
-        <link>https://speakerdeck.com/ysknsid25/java-dexue-bu-dai-shu-de-detaxing</link>
-        <dc:date>2025-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践Kafka Streams 〜イベント駆動型アーキテクチャを添えて〜 (Tomohiro Hashidate)</title>
-        <link>https://speakerdeck.com/joker1007/shi-jian-kafka-streams-ibentoqu-dong-xing-akitekutiyawotian-ete</link>
         <dc:date>2025-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
