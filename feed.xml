@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript LSP の今までとこれから (Yosuke Kurami)</title>
+        <link>https://speakerdeck.com/quramy/typescript-lsp-nojin-madetokorekara</link>
+        <dc:date>2025-06-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Agent Development Kit によるエージェント開発入門 (Etsuji Nakai)</title>
         <link>https://speakerdeck.com/enakai00/agent-development-kit-niyoruezientokai-fa-ru-men</link>
         <dc:date>2025-06-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>実践Kafka Streams 〜イベント駆動型アーキテクチャを添えて〜 (Tomohiro Hashidate)</title>
         <link>https://speakerdeck.com/joker1007/shi-jian-kafka-streams-ibentoqu-dong-xing-akitekutiyawotian-ete</link>
-        <dc:date>2025-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VketCloud がめちゃよくわかる！？　Unity勉強会資料3</title>
-        <link>https://docs.google.com/presentation/d/1F05ZWKgw9esBwoUjxpOa-0tcTzdeV4QUYcKV_4mSIVY/preview</link>
         <dc:date>2025-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
