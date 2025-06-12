@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>やさしい認証認可 (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/yasasiiren-zheng-ren-ke</link>
+        <dc:date>2025-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Code活用において、メンタルモデルを変える必要がある / rethinking-claude-code-mental-models (erukiti)</title>
         <link>https://speakerdeck.com/erukiti/rethinking-claude-code-mental-models</link>
         <dc:date>2025-06-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>OpenJDKエコシステムと開発中の機能を紹介  2025夏版 (Chihiro Ito)</title>
         <link>https://speakerdeck.com/chiroito/java-future-2025-summer</link>
-        <dc:date>2025-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Passkeys for Java Developers (Yoshikazu Nojima)</title>
-        <link>https://speakerdeck.com/ynojima/passkeys-for-java-developers</link>
         <dc:date>2025-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
