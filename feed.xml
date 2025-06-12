@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claude Code活用において、メンタルモデルを変える必要がある / rethinking-claude-code-mental-models (erukiti)</title>
+        <link>https://speakerdeck.com/erukiti/rethinking-claude-code-mental-models</link>
+        <dc:date>2025-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バクラクのモノレポにおける AI Coding のための環境整備と {Roo,Claude} Code活用事例 / AI Coding in Bakuraku's Monorepo: Environment Setup &amp; Case Studies with {Roo, Claude} Code (upamune / Yu SERIZAWA)</title>
+        <link>https://speakerdeck.com/upamune/ai-coding-in-bakurakus-monorepo-environment-setup-and-case-studies-with-roo-claude-code</link>
+        <dc:date>2025-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIコーディング新時代を生き残るための試行錯誤 (Tomohisa Takaoka)</title>
         <link>https://speakerdeck.com/tomohisa/ai-coding-survival-guide</link>
         <dc:date>2025-06-11T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Passkeys for Java Developers (Yoshikazu Nojima)</title>
         <link>https://speakerdeck.com/ynojima/passkeys-for-java-developers</link>
         <dc:date>2025-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VPC Latticeってすごく便利！~でもお高いんでしょう…？~ (Hidetoshi Sakamoto,@e3CpwB5Gd444254)</title>
-        <link>https://www.docswell.com/s/Hanabusashun/K828MQ-2025-06-07-130941</link>
-        <dc:date>2025-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java 30周年記念! Javaの30年をふりかえる (Yuichi.Sakuraba)</title>
-        <link>https://speakerdeck.com/skrb/java-30zhou-nian-ji-nian-javano30nian-wohurikaeru</link>
-        <dc:date>2025-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
