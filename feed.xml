@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIコーディング新時代を生き残るための試行錯誤 (Tomohisa Takaoka)</title>
+        <link>https://speakerdeck.com/tomohisa/ai-coding-survival-guide</link>
+        <dc:date>2025-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Agent開発フレームワークのOverviewとW&amp;B Weaveとのインテグレーション (W&amp;B Si)</title>
         <link>https://speakerdeck.com/siyoo/agentkai-fa-huremuwakunooverviewtow-and-b-weavetonointeguresiyon</link>
         <dc:date>2025-06-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Java 30周年記念! Javaの30年をふりかえる (Yuichi.Sakuraba)</title>
         <link>https://speakerdeck.com/skrb/java-30zhou-nian-ji-nian-javano30nian-wohurikaeru</link>
-        <dc:date>2025-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cursor Meetup Tokyo ゲノミクスとCursor： 進化と制約のあいだ (Masaru Koido)</title>
-        <link>https://speakerdeck.com/koido/cursor-meetup-tokyo-genomikusutocursor-jin-hua-tozhi-yue-noaida</link>
         <dc:date>2025-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
