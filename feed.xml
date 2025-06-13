@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Text-to-SQLの評価データセットを作って最新LLMモデルの性能評価をしてみた (Gota)</title>
+        <link>https://speakerdeck.com/gotalab555/text-to-sqlnoping-jia-detasetutowozuo-tutezui-xin-llmmoderunoxing-neng-ping-jia-wositemita</link>
+        <dc:date>2025-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>やさしい認証認可 (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/yasasiiren-zheng-ren-ke</link>
         <dc:date>2025-06-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロジェクトにおける政治について (nakamichi)</title>
         <link>https://speakerdeck.com/ichimichi/puroziekutoniokeruzheng-zhi-nituite</link>
-        <dc:date>2025-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenJDKエコシステムと開発中の機能を紹介  2025夏版 (Chihiro Ito)</title>
-        <link>https://speakerdeck.com/chiroito/java-future-2025-summer</link>
         <dc:date>2025-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
