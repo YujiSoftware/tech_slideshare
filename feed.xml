@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>非エンジニア組織でデータ基盤を軌道に乗せた話 (らすく)</title>
+        <link>https://speakerdeck.com/lusk70/fei-enziniazu-zhi-dedetaji-pan-wogui-dao-nicheng-setahua</link>
+        <dc:date>2025-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>時系列データに対する解釈可能な   決定木クラスタリング (MIKIO KUBO)</title>
+        <link>https://speakerdeck.com/mickey_kubo/shi-xi-lie-detanidui-surujie-shi-ke-neng-na-jue-ding-mu-kurasutaringu</link>
+        <dc:date>2025-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事業フェーズとリーダーシップの変化 (baroqueworksdev)</title>
         <link>https://speakerdeck.com/baroqueworksdev/shi-ye-huezutoridasitupunobian-hua</link>
         <dc:date>2025-06-12T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Javaのルールをねじ曲げろ！禁断の操作とその代償から学ぶメタプログラミング入門 / A Guide to Metaprogramming: Lessons from Forbidden Techniques and Their Price (nrs)</title>
         <link>https://speakerdeck.com/nrslib/a-guide-to-metaprogramming-lessons-from-forbidden-techniques-and-their-price</link>
-        <dc:date>2025-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spring gRPC で始める gRPC 入門 / Introduction to gRPC with Spring gRPC (mackey0225)</title>
-        <link>https://speakerdeck.com/mackey0225/introduction-to-grpc-with-spring-grpc</link>
-        <dc:date>2025-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Feature Flag 開発を標準化し、加速させる OpenFeature を導入する (SatohJohn)</title>
-        <link>https://speakerdeck.com/satohjohn/feature-flag-kai-fa-wobiao-zhun-hua-si-jia-su-saseru-openfeature-wodao-ru-suru</link>
         <dc:date>2025-06-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
