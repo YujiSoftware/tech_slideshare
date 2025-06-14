@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>型システムを知りたい人のための型検査器作成入門 (Yusuke Endoh)</title>
+        <link>https://speakerdeck.com/mame/fp-matsuri-2025-bootstrapping-type-checker</link>
+        <dc:date>2025-06-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>広聴AI技術解説 ブロードリスニングを支える技術 (tokoroten,@tokoroten)</title>
         <link>https://www.docswell.com/s/tokoroten/ZL1M88-2025-06-14-014546</link>
         <dc:date>2025-06-13T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Kafka vs. Pulsar: Performance Evaluation by Petabyte-Scale Streaming Platform Providers (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/20250609a</link>
         <dc:date>2025-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最適決定木を用いた処方的価格最適化 (MIKIO KUBO)</title>
-        <link>https://speakerdeck.com/mickey_kubo/zui-shi-jue-ding-mu-woyong-itachu-fang-de-jia-ge-zui-shi-hua</link>
-        <dc:date>2025-06-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
