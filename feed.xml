@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マウス合宿発表</title>
+        <link>https://docs.google.com/presentation/d/1PJs1UVVW07__uVRf7GPQMeq8szBh9UVk/preview</link>
+        <dc:date>2025-06-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>型システムを知りたい人のための型検査器作成入門 (Yusuke Endoh)</title>
         <link>https://speakerdeck.com/mame/fp-matsuri-2025-bootstrapping-type-checker</link>
         <dc:date>2025-06-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>リーダーシップとマネジメントの違いとは？ (baroqueworksdev)</title>
         <link>https://speakerdeck.com/baroqueworksdev/ridasituputomanezimentonowei-itoha</link>
-        <dc:date>2025-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kafka vs. Pulsar: Performance Evaluation by Petabyte-Scale Streaming Platform Providers (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20250609a</link>
         <dc:date>2025-06-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
