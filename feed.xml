@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>関数型言語テイスティング: Haskell, Scala, Clojure, Elixirを比べて味わう関数型プログラミングの旨さ (Kent OHASHI,@lagenorhynque)</title>
+        <link>https://www.docswell.com/s/lagenorhynque/Z6VX6E-functional-language-tasting-haskell-scala-clojure-elixir</link>
+        <dc:date>2025-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIと共に進化する開発手法： 形式手法と関数型プログラミングの可能性 (Hiroshi Ito)</title>
+        <link>https://speakerdeck.com/itohiro73/fp-matsuri-2025-formal-verification-ad-fp-with-ai</link>
+        <dc:date>2025-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Effect の双対、Coeffect (ゆきくらげ)</title>
         <link>https://speakerdeck.com/yukikurage/effect-noshuang-dui-coeffect</link>
         <dc:date>2025-06-13T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Agent Development Kit によるエージェント開発入門 (Etsuji Nakai)</title>
         <link>https://speakerdeck.com/enakai00/agent-development-kit-niyoruezientokai-fa-ru-men</link>
         <dc:date>2025-06-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CSSの最新トレンド Ver.2025 (tonkotsuboy_com)</title>
-        <link>https://speakerdeck.com/tonkotsuboy_com/cssnozui-xin-torendo-ver-dot-2025</link>
-        <dc:date>2025-06-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メルカリにおけるデータアナリティクス AI エージェント「Socrates」と ADK 活用事例 (na0)</title>
-        <link>https://speakerdeck.com/na0/merukariniokerudetaanariteikusu-ai-eziento-socrates-to-adk-huo-yong-shi-li</link>
-        <dc:date>2025-06-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
