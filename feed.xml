@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Goで作るMCPサーバ - Build with AI 2025 EZO</title>
+        <link>https://docs.google.com/presentation/d/1b1xowGEmv7yyIm7HTzXnTqs5xJQfLgO5t6UEtO7nODY/preview</link>
+        <dc:date>2025-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>F# Design and Trade-offs: Functional Paradigm on .NET (INOMATA Kentaro)</title>
+        <link>https://speakerdeck.com/matarillo/f-number-design-and-trade-offs-functional-paradigms-on-net</link>
+        <dc:date>2025-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>関数型言語テイスティング: Haskell, Scala, Clojure, Elixirを比べて味わう関数型プログラミングの旨さ (Kent OHASHI,@lagenorhynque)</title>
         <link>https://www.docswell.com/s/lagenorhynque/Z6VX6E-functional-language-tasting-haskell-scala-clojure-elixir</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>HOW TO READ Prompt Engineering for LLM (牛本) (Yuki Hattori)</title>
         <link>https://speakerdeck.com/yuhattor/how-to-read-prompt-engineering-for-llm-niu-ben</link>
         <dc:date>2025-06-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript LSP の今までとこれから (Yosuke Kurami)</title>
-        <link>https://speakerdeck.com/quramy/typescript-lsp-nojin-madetokorekara</link>
-        <dc:date>2025-06-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agent Development Kit によるエージェント開発入門 (Etsuji Nakai)</title>
-        <link>https://speakerdeck.com/enakai00/agent-development-kit-niyoruezientokai-fa-ru-men</link>
-        <dc:date>2025-06-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
