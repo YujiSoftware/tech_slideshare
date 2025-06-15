@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GoのWebAssembly活用パターン紹介 (syumai)</title>
+        <link>https://speakerdeck.com/syumai/go-webassembly-usecase-introductions</link>
+        <dc:date>2025-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Haskell でアルゴリズムを抽象化する / 関数型言語で競技プログラミング (Naoya Ito)</title>
         <link>https://speakerdeck.com/naoya/guan-shu-xing-yan-yu-dejing-ji-puroguramingu</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIコーディング新時代を生き残るための試行錯誤 (Tomohisa Takaoka)</title>
         <link>https://speakerdeck.com/tomohisa/ai-coding-survival-guide</link>
-        <dc:date>2025-06-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agent開発フレームワークのOverviewとW&amp;B Weaveとのインテグレーション (W&amp;B Si)</title>
-        <link>https://speakerdeck.com/siyoo/agentkai-fa-huremuwakunooverviewtow-and-b-weavetonointeguresiyon</link>
         <dc:date>2025-06-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
