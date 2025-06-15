@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Haskell でアルゴリズムを抽象化する / 関数型言語で競技プログラミング (Naoya Ito)</title>
+        <link>https://speakerdeck.com/naoya/guan-shu-xing-yan-yu-dejing-ji-puroguramingu</link>
+        <dc:date>2025-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ドメインモデリングにおける抽象の役割、tagless-finalによるDSL構築、そして型安全な最適化 (Kenichi SUZUKI)</title>
         <link>https://speakerdeck.com/knih/reification-of-abstraction</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Agent開発フレームワークのOverviewとW&amp;B Weaveとのインテグレーション (W&amp;B Si)</title>
         <link>https://speakerdeck.com/siyoo/agentkai-fa-huremuwakunooverviewtow-and-b-weavetonointeguresiyon</link>
-        <dc:date>2025-06-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>安心・効率的な医療現場の実現へ　～オンプレAI &amp; ノーコードワークフローで進める業務改革～ (W&amp;B Si)</title>
-        <link>https://speakerdeck.com/siyoo/an-xin-xiao-lu-de-nayi-liao-xian-chang-noshi-xian-he-onpureai-and-nokodowakuhurodejin-meruye-wu-gai-ge</link>
         <dc:date>2025-06-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
