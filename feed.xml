@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RocqのProgram機構の紹介  〜型を活用した安全なプログラミング〜</title>
+        <link>https://docs.google.com/presentation/d/1bIy5II2doJwTUOFEM1oR4El7s-fV4fWHB21Zy-NdQts/preview</link>
+        <dc:date>2025-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS と定理証明 〜ポリシー言語 Cedar 開発の舞台裏〜 #fp_matsuri / FP Matsuri 2025 (y_taka_23)</title>
+        <link>https://speakerdeck.com/ytaka23/fp-matsuri-2025</link>
+        <dc:date>2025-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kotlinで学ぶ 代数的データ型 (Kanon)</title>
         <link>https://speakerdeck.com/ysknsid25/kotlindexue-bu-dai-shu-de-detaxing</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>事業フェーズとリーダーシップの変化 (baroqueworksdev)</title>
         <link>https://speakerdeck.com/baroqueworksdev/shi-ye-huezutoridasitupunobian-hua</link>
-        <dc:date>2025-06-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Text-to-SQLの評価データセットを作って最新LLMモデルの性能評価をしてみた (Gota)</title>
-        <link>https://speakerdeck.com/gotalab555/text-to-sqlnoping-jia-detasetutowozuo-tutezui-xin-llmmoderunoxing-neng-ping-jia-wositemita</link>
-        <dc:date>2025-06-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>やさしい認証認可 (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/yasasiiren-zheng-ren-ke</link>
         <dc:date>2025-06-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
