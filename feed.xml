@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenTelemetry Collector internals (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/opentelemetry-collector-internals</link>
+        <dc:date>2025-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ラムダ計算と抽象機械と非同期ランタイム</title>
         <link>https://docs.google.com/presentation/d/1_GATrCUwgo-ZABGYzuSIapUIzxs9CK7ZuQw1FVk9Ew4/preview</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Claude Code活用において、メンタルモデルを変える必要がある / rethinking-claude-code-mental-models (erukiti)</title>
         <link>https://speakerdeck.com/erukiti/rethinking-claude-code-mental-models</link>
-        <dc:date>2025-06-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バクラクのモノレポにおける AI Coding のための環境整備と {Roo,Claude} Code活用事例 / AI Coding in Bakuraku's Monorepo: Environment Setup &amp; Case Studies with {Roo, Claude} Code (upamune / Yu SERIZAWA)</title>
-        <link>https://speakerdeck.com/upamune/ai-coding-in-bakurakus-monorepo-environment-setup-and-case-studies-with-roo-claude-code</link>
         <dc:date>2025-06-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
