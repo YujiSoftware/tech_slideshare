@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニア採用から始まる技術広報と組織づくり/202506lt (Ichiro Nishiuma)</title>
+        <link>https://speakerdeck.com/nishiuma/202506lt</link>
+        <dc:date>2025-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>はじめて関数型言語の機能に触れるエンジニア向けの学び方/教え方 / how-to-learn-or-teach-for-fp-beginner (jsoizo)</title>
         <link>https://speakerdeck.com/jsoizo/how-to-learn-or-teach-for-fp-beginner</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>非エンジニア組織でデータ基盤を軌道に乗せた話 (らすく)</title>
         <link>https://speakerdeck.com/lusk70/fei-enziniazu-zhi-dedetaji-pan-wogui-dao-nicheng-setahua</link>
-        <dc:date>2025-06-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>時系列データに対する解釈可能な   決定木クラスタリング (MIKIO KUBO)</title>
-        <link>https://speakerdeck.com/mickey_kubo/shi-xi-lie-detanidui-surujie-shi-ke-neng-na-jue-ding-mu-kurasutaringu</link>
         <dc:date>2025-06-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
