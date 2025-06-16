@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Underground型システム (Shoichi Sasaki,@ajfAfg)</title>
+        <link>https://www.docswell.com/s/ajfAfg/5R217E-2025-06-15-180137</link>
+        <dc:date>2025-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>golang.tokyo31_Goを使ってみてホントのところ</title>
+        <link>https://docs.google.com/presentation/d/1pRB_MVjn87cZYCBmIFKPcczxVMzT3U8uFnYXNAupor4/preview</link>
+        <dc:date>2025-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>database/sqlの仕組みについて</title>
+        <link>https://docs.google.com/presentation/d/11jdcnZUm8pYfv6RijlvWEz8ZgK2tMfloIJyLAo-cMnI/preview</link>
+        <dc:date>2025-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FASTと向き合うことで見えた、大規模アジャイルの難しさと楽しさ (Kyosuke Awata)</title>
+        <link>https://speakerdeck.com/wooootack/fasttoxiang-kihe-ukotodejian-eta-da-gui-mo-aziyairunonan-sisatole-sisa</link>
+        <dc:date>2025-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>上長や社内ステークホルダーに対する解像度を上げて、より良い補完関係を築く方法 / How-to-increase-resolution-and-build-better-complementary-relationships-with-your-bosses-and-internal-stakeholders (MADOX)</title>
         <link>https://speakerdeck.com/madoxten/how-to-increase-resolution-and-build-better-complementary-relationships-with-your-bosses-and-internal-stakeholders</link>
         <dc:date>2025-06-15T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>AIと共に進化する開発手法： 形式手法と関数型プログラミングの可能性 (Hiroshi Ito)</title>
         <link>https://speakerdeck.com/itohiro73/fp-matsuri-2025-formal-verification-ad-fp-with-ai</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Effect の双対、Coeffect (ゆきくらげ)</title>
-        <link>https://speakerdeck.com/yukikurage/effect-noshuang-dui-coeffect</link>
-        <dc:date>2025-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マウス合宿発表</title>
-        <link>https://docs.google.com/presentation/d/1PJs1UVVW07__uVRf7GPQMeq8szBh9UVk/preview</link>
-        <dc:date>2025-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>型システムを知りたい人のための型検査器作成入門 (Yusuke Endoh)</title>
-        <link>https://speakerdeck.com/mame/fp-matsuri-2025-bootstrapping-type-checker</link>
-        <dc:date>2025-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>広聴AI技術解説 ブロードリスニングを支える技術 (tokoroten,@tokoroten)</title>
-        <link>https://www.docswell.com/s/tokoroten/ZL1M88-2025-06-14-014546</link>
-        <dc:date>2025-06-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
