@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FASTと向き合うことで見えた、大規模アジャイルの難しさと楽しさ / FAST Taught Me Large-Scale Agile Hardships and Fun (Kyosuke Awata)</title>
+        <link>https://speakerdeck.com/wooootack/fast-taught-me-large-scale-agile-hardships-and-fun</link>
+        <dc:date>2025-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Datadog RUM 本番導入までの道 (Shintaro Matsumoto)</title>
+        <link>https://speakerdeck.com/shinter61/datadog-rum-ben-fan-dao-ru-madenodao</link>
+        <dc:date>2025-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>型付きアクターモデルがもたらす分散シミュレーションの未来 (Takatomo Torigoe)</title>
         <link>https://speakerdeck.com/piyo7/the-future-of-distributed-simulation-with-the-typed-actor-model</link>
         <dc:date>2025-06-16T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Haskell でアルゴリズムを抽象化する / 関数型言語で競技プログラミング (Naoya Ito)</title>
         <link>https://speakerdeck.com/naoya/guan-shu-xing-yan-yu-dejing-ji-puroguramingu</link>
-        <dc:date>2025-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドメインモデリングにおける抽象の役割、tagless-finalによるDSL構築、そして型安全な最適化 (Kenichi SUZUKI)</title>
-        <link>https://speakerdeck.com/knih/reification-of-abstraction</link>
-        <dc:date>2025-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goで作るMCPサーバ - Build with AI 2025 EZO</title>
-        <link>https://docs.google.com/presentation/d/1b1xowGEmv7yyIm7HTzXnTqs5xJQfLgO5t6UEtO7nODY/preview</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
