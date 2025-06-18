@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ASP.NETアプリケーションのモダナイズ インフラ編 (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/asp-dot-netapurikesiyonnomodanaizu-inhurabian</link>
+        <dc:date>2025-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS全冠したので振りかえってみる (tajimon)</title>
         <link>https://speakerdeck.com/tajimon/awsquan-guan-sitanodezhen-rikaetutemiru</link>
         <dc:date>2025-06-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>OpenTelemetry Collector internals (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/opentelemetry-collector-internals</link>
-        <dc:date>2025-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ラムダ計算と抽象機械と非同期ランタイム</title>
-        <link>https://docs.google.com/presentation/d/1_GATrCUwgo-ZABGYzuSIapUIzxs9CK7ZuQw1FVk9Ew4/preview</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
