@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>本部長の代わりに提案書レビュー！ KDDI営業が毎日使うAIエージェント「A-BOSS」開発秘話 (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/ben-bu-chang-nodai-wariniti-an-shu-rebiyu-kddiying-ye-gamei-ri-shi-uaieziento-a-boss-kai-fa-mi-hua</link>
+        <dc:date>2025-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>これからのSQL開発 — dbt F✦SION engineの本質とその先の世界 (myshmeh)</title>
         <link>https://speakerdeck.com/myshmeh_/korekaranosqlkai-fa-dbt-fsion-enginenoben-zhi-tosonoxian-noshi-jie</link>
         <dc:date>2025-06-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RocqのProgram機構の紹介  〜型を活用した安全なプログラミング〜</title>
         <link>https://docs.google.com/presentation/d/1bIy5II2doJwTUOFEM1oR4El7s-fV4fWHB21Zy-NdQts/preview</link>
-        <dc:date>2025-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS と定理証明 〜ポリシー言語 Cedar 開発の舞台裏〜 #fp_matsuri / FP Matsuri 2025 (y_taka_23)</title>
-        <link>https://speakerdeck.com/ytaka23/fp-matsuri-2025</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
