@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS全冠したので振りかえってみる (tajimon)</title>
+        <link>https://speakerdeck.com/tajimon/awsquan-guan-sitanodezhen-rikaetutemiru</link>
+        <dc:date>2025-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ハッカー視点で学ぶサイバー攻撃と防御の基本 (Nomizo Nomizo)</title>
         <link>https://speakerdeck.com/nomizone/hatukashi-dian-dexue-busaibagong-ji-tofang-yu-noji-ben</link>
         <dc:date>2025-06-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ラムダ計算と抽象機械と非同期ランタイム</title>
         <link>https://docs.google.com/presentation/d/1_GATrCUwgo-ZABGYzuSIapUIzxs9CK7ZuQw1FVk9Ew4/preview</link>
-        <dc:date>2025-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoのWebAssembly活用パターン紹介 (syumai)</title>
-        <link>https://speakerdeck.com/syumai/go-webassembly-usecase-introductions</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
