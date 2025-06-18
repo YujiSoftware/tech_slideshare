@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>これからのSQL開発 — dbt F✦SION engineの本質とその先の世界 (myshmeh)</title>
+        <link>https://speakerdeck.com/myshmeh_/korekaranosqlkai-fa-dbt-fsion-enginenoben-zhi-tosonoxian-noshi-jie</link>
+        <dc:date>2025-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Code どこまでも/ Claude Code Everywhere (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/claude-everywhere</link>
         <dc:date>2025-06-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS と定理証明 〜ポリシー言語 Cedar 開発の舞台裏〜 #fp_matsuri / FP Matsuri 2025 (y_taka_23)</title>
         <link>https://speakerdeck.com/ytaka23/fp-matsuri-2025</link>
-        <dc:date>2025-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kotlinで学ぶ 代数的データ型 (Kanon)</title>
-        <link>https://speakerdeck.com/ysknsid25/kotlindexue-bu-dai-shu-de-detaxing</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
