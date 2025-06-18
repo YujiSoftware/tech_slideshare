@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claude Code どこまでも/ Claude Code Everywhere (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/claude-everywhere</link>
+        <dc:date>2025-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ASP.NETアプリケーションのモダナイズ インフラ編 (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/asp-dot-netapurikesiyonnomodanaizu-inhurabian</link>
         <dc:date>2025-06-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kotlinで学ぶ 代数的データ型 (Kanon)</title>
         <link>https://speakerdeck.com/ysknsid25/kotlindexue-bu-dai-shu-de-detaxing</link>
-        <dc:date>2025-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenTelemetry Collector internals (ymotongpoo)</title>
-        <link>https://speakerdeck.com/ymotongpoo/opentelemetry-collector-internals</link>
         <dc:date>2025-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
