@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title> Reactの内部構造を知っておく (React Tokyo #6 - @calloc134) (calloc134)</title>
+        <link>https://speakerdeck.com/calloc134/reactnonei-bu-gou-zao-wozhi-tuteoku-react-tokyo-number-6-at-calloc134</link>
+        <dc:date>2025-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Monorepo Error Management: Automated Runbooks and Team-Targeted Alert Distribution (Shota Iwami)</title>
         <link>https://speakerdeck.com/biwashi/datadog-dash-2025</link>
         <dc:date>2025-06-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>型付きアクターモデルがもたらす分散シミュレーションの未来 (Takatomo Torigoe)</title>
         <link>https://speakerdeck.com/piyo7/the-future-of-distributed-simulation-with-the-typed-actor-model</link>
-        <dc:date>2025-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>利用者目線で考える、MCPを安全に使うために (GMO Flatt Security)</title>
-        <link>https://speakerdeck.com/flatt_security/li-yong-zhe-mu-xian-tekao-eru-mcpwoan-quan-nishi-utameni</link>
         <dc:date>2025-06-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
