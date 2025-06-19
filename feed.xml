@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実開発で学んだ⽣成AI活⽤とプロダクト導⼊の壁 (imaimai)</title>
+        <link>https://speakerdeck.com/imaimai0/shi-kai-fa-dexue-nda-cheng-aihuo-topurodakutodao-nobi</link>
+        <dc:date>2025-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェントの継続的改善のためオブザーバビリティ (PharmaX（旧YOJO Technologies）開発チーム)</title>
+        <link>https://speakerdeck.com/pharma_x_tech/aiezientonoji-sok-de-gai-shan-notameobuzababiritei</link>
+        <dc:date>2025-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GoのGenericsによるslice操作との付き合い方 (syumai)</title>
         <link>https://speakerdeck.com/syumai/go-generics-slice-manipulation</link>
         <dc:date>2025-06-18T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Underground型システム (Shoichi Sasaki,@ajfAfg)</title>
         <link>https://www.docswell.com/s/ajfAfg/5R217E-2025-06-15-180137</link>
-        <dc:date>2025-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>golang.tokyo31_Goを使ってみてホントのところ</title>
-        <link>https://docs.google.com/presentation/d/1pRB_MVjn87cZYCBmIFKPcczxVMzT3U8uFnYXNAupor4/preview</link>
-        <dc:date>2025-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>database/sqlの仕組みについて</title>
-        <link>https://docs.google.com/presentation/d/11jdcnZUm8pYfv6RijlvWEz8ZgK2tMfloIJyLAo-cMnI/preview</link>
         <dc:date>2025-06-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
