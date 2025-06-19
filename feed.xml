@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GoのGenericsによるslice操作との付き合い方 (syumai)</title>
+        <link>https://speakerdeck.com/syumai/go-generics-slice-manipulation</link>
+        <dc:date>2025-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>世界のWebサービス</title>
         <link>https://docs.google.com/presentation/d/1uU4ZMuKosn-kEr7Y4wQjH4lc0kotg6a8FJj9aDeP9Ww/preview</link>
         <dc:date>2025-06-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>database/sqlの仕組みについて</title>
         <link>https://docs.google.com/presentation/d/11jdcnZUm8pYfv6RijlvWEz8ZgK2tMfloIJyLAo-cMnI/preview</link>
-        <dc:date>2025-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FASTと向き合うことで見えた、大規模アジャイルの難しさと楽しさ (Kyosuke Awata)</title>
-        <link>https://speakerdeck.com/wooootack/fasttoxiang-kihe-ukotodejian-eta-da-gui-mo-aziyairunonan-sisatole-sisa</link>
         <dc:date>2025-06-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
