@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Copilot Agentを普段使いしてわかった、バックエンド開発で使えるTips (ykagano)</title>
+        <link>https://speakerdeck.com/ykagano/copilot-agentwopu-duan-shi-isitewakatuta-batukuendokai-fa-deshi-erutips</link>
+        <dc:date>2025-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>UseCaseクラスを使って FatControllerやFatModelにしない (suzuki masayuki)</title>
+        <link>https://speakerdeck.com/suzukimar/usecasekurasuwoshi-tute-fatcontrolleryafatmodelnisinai</link>
+        <dc:date>2025-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コーディングチェックの自動化がしたい！ (imaimai17468)</title>
+        <link>https://speakerdeck.com/imaimai17468/kodeingutietukunozi-dong-hua-gasitai</link>
+        <dc:date>2025-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュリティ視点からみる生成AIアプリケーションとMCP ~ 脅威とリスク、認可・権限 ~ (GMO Flatt Security)</title>
         <link>https://speakerdeck.com/flatt_security/sekiyuriteishi-dian-karamirusheng-cheng-aiapurikesiyontomcp-xie-wei-torisuku-ren-ke-quan-xian</link>
         <dc:date>2025-06-19T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Developer Productivity 20年物語</title>
         <link>https://docs.google.com/presentation/d/1sKHO_7RwVCj2YvlbyhVog55S3a2dVYQS784LBU4WCRc/preview</link>
-        <dc:date>2025-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「規約、知識、オペレーション」から考える中規模以上の開発組織のCursorルールの 考え方・育て方 / Cursor Rules for Coding Styles, Domain Knowledges and Operations (YuitoSato)</title>
-        <link>https://speakerdeck.com/yuitosato/cursor-rules-for-coding-styles-domain-knowledges-and-operations</link>
-        <dc:date>2025-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Salesforce認定Developer Winter’15 リリース試験のポイントは ここだ! (Salesforce Developers Japan,@SalesforceDevJP)</title>
-        <link>https://www.slideshare.net/slideshow/salesforcedeveloper-winter15/42686333</link>
-        <dc:date>2025-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>業務アプリを安全に効率的に開発・運用するためのポイント (アシアル株式会社,@asialnews)</title>
-        <link>https://www.slideshare.net/AsialCorp/ss-36983849</link>
         <dc:date>2025-06-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
