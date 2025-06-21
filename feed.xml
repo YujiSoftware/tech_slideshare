@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Bedrockのプロンプト管理どうしてる？ (Har1101)</title>
+        <link>https://speakerdeck.com/har1101/bedrocknopuronputoguan-li-dousiteru</link>
+        <dc:date>2025-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rubyで作る論理回路シミュレータの設計の話 - Kashiwa.rb #12 (Koji NAKAMURA)</title>
         <link>https://speakerdeck.com/kozy4324/rubydezuo-rulun-li-hui-lu-simiyuretanoshe-ji-nohua-kashiwa-dot-rb-number-12</link>
         <dc:date>2025-06-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIエージェントの継続的改善のためオブザーバビリティ (PharmaX（旧YOJO Technologies）開発チーム)</title>
         <link>https://speakerdeck.com/pharma_x_tech/aiezientonoji-sok-de-gai-shan-notameobuzababiritei</link>
-        <dc:date>2025-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoのGenericsによるslice操作との付き合い方 (syumai)</title>
-        <link>https://speakerdeck.com/syumai/go-generics-slice-manipulation</link>
         <dc:date>2025-06-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
