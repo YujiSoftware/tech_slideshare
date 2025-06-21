@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>原則から考える保守しやすいComposable関数設計 (Mori Atsushi)</title>
+        <link>https://speakerdeck.com/moriatsushi/yuan-ze-karakao-erubao-shou-siyasuicomposableguan-shu-she-ji</link>
+        <dc:date>2025-06-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OSC 2025 Shimane</title>
         <link>https://docs.google.com/presentation/d/1sATpOg3A4gbj3NpmChZH5olHzmrIjKZWUeaNnQB8cYs/preview</link>
         <dc:date>2025-06-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Monorepo Error Management: Automated Runbooks and Team-Targeted Alert Distribution (Shota Iwami)</title>
         <link>https://speakerdeck.com/biwashi/datadog-dash-2025</link>
-        <dc:date>2025-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cline指示通りに動かない？ AI小説エージェントで学ぶ指示書の書き方と自動アップデートの仕組み (葦沢かもめ)</title>
-        <link>https://speakerdeck.com/kamomeashizawa/clinezhi-shi-tong-rinidong-kanai-aixiao-shuo-ezientodexue-buzhi-shi-shu-noshu-kifang-tozi-dong-atupudetonoshi-zu-mi</link>
         <dc:date>2025-06-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
