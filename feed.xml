@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OSC 2025 Shimane</title>
+        <link>https://docs.google.com/presentation/d/1sATpOg3A4gbj3NpmChZH5olHzmrIjKZWUeaNnQB8cYs/preview</link>
+        <dc:date>2025-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JSX - 歴史を振り返り、⾯⽩がって、エモくなろう (晴れ井戸)</title>
+        <link>https://speakerdeck.com/pal4de/jsx-li-shi-wozhen-rifan-ri-gatute-emokunarou</link>
+        <dc:date>2025-06-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Bedrockのプロンプト管理どうしてる？ (Har1101)</title>
         <link>https://speakerdeck.com/har1101/bedrocknopuronputoguan-li-dousiteru</link>
         <dc:date>2025-06-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Cline指示通りに動かない？ AI小説エージェントで学ぶ指示書の書き方と自動アップデートの仕組み (葦沢かもめ)</title>
         <link>https://speakerdeck.com/kamomeashizawa/clinezhi-shi-tong-rinidong-kanai-aixiao-shuo-ezientodexue-buzhi-shi-shu-noshu-kifang-tozi-dong-atupudetonoshi-zu-mi</link>
-        <dc:date>2025-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実開発で学んだ⽣成AI活⽤とプロダクト導⼊の壁 (imaimai)</title>
-        <link>https://speakerdeck.com/imaimai0/shi-kai-fa-dexue-nda-cheng-aihuo-topurodakutodao-nobi</link>
-        <dc:date>2025-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントの継続的改善のためオブザーバビリティ (PharmaX（旧YOJO Technologies）開発チーム)</title>
-        <link>https://speakerdeck.com/pharma_x_tech/aiezientonoji-sok-de-gai-shan-notameobuzababiritei</link>
         <dc:date>2025-06-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
