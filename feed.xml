@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データ品質及びプロファイリングの概念や技術 (Koki Matsumoto)</title>
+        <link>https://speakerdeck.com/kokimoto/tetapin-zhi-ji-hihurohuairinkunogai-nian-yaji-shu-28b070e5-7ce7-46bf-ad7d-c92f94925a81</link>
+        <dc:date>2025-06-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WACATE2022冬_状態遷移テスト (Ryo Kakugen)</title>
         <link>https://www.docswell.com/s/ryo328kgn/KLW6DZ-2022-12-28-112609</link>
         <dc:date>2025-06-21T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>新卒3年目の後悔 〜機械学習モデルジョブの運用を頑張った話〜 (camay)</title>
         <link>https://speakerdeck.com/kameitomohiro/xin-zu-3nian-mu-nohou-hui-ji-jie-xue-xi-moderuziyobunoyun-yong-wowan-zhang-tutahua</link>
         <dc:date>2025-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> Reactの内部構造を知っておく (React Tokyo #6 - @calloc134) (calloc134)</title>
-        <link>https://speakerdeck.com/calloc134/reactnonei-bu-gou-zao-wozhi-tuteoku-react-tokyo-number-6-at-calloc134</link>
-        <dc:date>2025-06-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
