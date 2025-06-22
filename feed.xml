@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WACATE2022冬_状態遷移テスト (Ryo Kakugen)</title>
+        <link>https://www.docswell.com/s/ryo328kgn/KLW6DZ-2022-12-28-112609</link>
+        <dc:date>2025-06-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>原則から考える保守しやすいComposable関数設計 (Mori Atsushi)</title>
         <link>https://speakerdeck.com/moriatsushi/yuan-ze-karakao-erubao-shou-siyasuicomposableguan-shu-she-ji</link>
         <dc:date>2025-06-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title> Reactの内部構造を知っておく (React Tokyo #6 - @calloc134) (calloc134)</title>
         <link>https://speakerdeck.com/calloc134/reactnonei-bu-gou-zao-wozhi-tuteoku-react-tokyo-number-6-at-calloc134</link>
-        <dc:date>2025-06-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Monorepo Error Management: Automated Runbooks and Team-Targeted Alert Distribution (Shota Iwami)</title>
-        <link>https://speakerdeck.com/biwashi/datadog-dash-2025</link>
         <dc:date>2025-06-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
