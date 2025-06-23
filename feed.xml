@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go1.25からのGOMAXPROCS (kuro)</title>
+        <link>https://speakerdeck.com/kuro_kurorrr/gomaxprocs-changes-from-go-1-dot-25</link>
+        <dc:date>2025-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MCPの基礎とUbieにおける活用事例 /ubie-mcp (Masayoshi Mizutani)</title>
         <link>https://speakerdeck.com/mizutani/ubie-mcp</link>
         <dc:date>2025-06-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Neovim で VS Code みたいにコーディングする (forcia_dev_pr)</title>
         <link>https://speakerdeck.com/forcia_dev_pr/neovim-de-vs-code-mitainikodeingusuru</link>
-        <dc:date>2025-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>白金鉱業Meetup_Vol.19_PoCはデモで語れ！顧客の本音とインサイトを引き出すソリューション構築​ (BrainPad)</title>
-        <link>https://speakerdeck.com/brainpadpr/bai-jin-kuang-ye-meetup-vol-dot-19-pochademodeyu-re-gu-ke-noben-yin-toinsaitowoyin-kichu-susoriyusiyongou-zhu</link>
         <dc:date>2025-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
