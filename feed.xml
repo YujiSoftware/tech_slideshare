@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GCP のサーバーレスを支える gVisor</title>
+        <link>https://docs.google.com/presentation/u/1/d/14AAOJFsf9bSkJPA0rSAwFcn5XIcoalntCsUN8pTGO00/preview</link>
+        <dc:date>2025-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>極力楽してKubernetes環境を構築したいwith AWS, terraform, EKS, Argo-CD</title>
+        <link>https://docs.google.com/presentation/d/1Jeo4kDPghiwjexzUPM5xz5NCjXnHBKiRjytkFEebCgI/preview</link>
+        <dc:date>2025-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>99.99% of Your Traces  Are (Probably) Trash (SRECon NA 2024).pdf (Paige Cruz,@paigerduty)</title>
         <link>https://www.slideshare.net/slideshow/9999-of-your-traces-are-probably-trash-srecon-na-2024pdf/266851087</link>
         <dc:date>2025-06-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Bedrockのプロンプト管理どうしてる？ (Har1101)</title>
         <link>https://speakerdeck.com/har1101/bedrocknopuronputoguan-li-dousiteru</link>
-        <dc:date>2025-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rubyで作る論理回路シミュレータの設計の話 - Kashiwa.rb #12 (Koji NAKAMURA)</title>
-        <link>https://speakerdeck.com/kozy4324/rubydezuo-rulun-li-hui-lu-simiyuretanoshe-ji-nohua-kashiwa-dot-rb-number-12</link>
-        <dc:date>2025-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WindowInsetsだってテストしたい (RyuNen344)</title>
-        <link>https://speakerdeck.com/ryunen344/windowinsetsdatutetesutositai</link>
         <dc:date>2025-06-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
