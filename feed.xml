@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ちょうどいい正規化の話</title>
+        <link>https://docs.google.com/presentation/d/1gol4Kh1GqrubxmKdG66R9uKNU0m_Y1F0_kMnk3M0q_Y/preview</link>
+        <dc:date>2025-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プログラミング言語Go完全入門</title>
+        <link>https://docs.google.com/presentation/u/0/d/1doIXbRLPsgBxYikO6G6OkxbL7L5blcxCYuV5Z7YMgNs/preview</link>
+        <dc:date>2025-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Serverless Meetup Osaka #5</title>
         <link>https://docs.google.com/presentation/d/13FcSNJomkQsh1Rh26FJ8rnbZQ7kL1iD5a4BptbibbBs/preview</link>
         <dc:date>2025-06-23T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>コーディングチェックの自動化がしたい！ (imaimai17468)</title>
         <link>https://speakerdeck.com/imaimai17468/kodeingutietukunozi-dong-hua-gasitai</link>
         <dc:date>2025-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ視点からみる生成AIアプリケーションとMCP ~ 脅威とリスク、認可・権限 ~ (GMO Flatt Security)</title>
-        <link>https://speakerdeck.com/flatt_security/sekiyuriteishi-dian-karamirusheng-cheng-aiapurikesiyontomcp-xie-wei-torisuku-ren-ke-quan-xian</link>
-        <dc:date>2025-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>"書く文化"を仕組みで育てる──フォルシアの技術ブログ継続戦略 (forcia_dev_pr)</title>
-        <link>https://speakerdeck.com/forcia_dev_pr/shu-kuwen-hua-woshi-zu-mideyu-teru-huorusianoji-shu-buroguji-sok-zhan-lue</link>
-        <dc:date>2025-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
