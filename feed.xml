@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コードの90%をAIが書く世界で何が待っているのか / What awaits us in a world where 90% of the code is written by AI (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/what-awaits-us-in-a-world-where-90-percent-of-the-code-is-written-by-ai</link>
+        <dc:date>2025-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GCP のサーバーレスを支える gVisor</title>
         <link>https://docs.google.com/presentation/u/1/d/14AAOJFsf9bSkJPA0rSAwFcn5XIcoalntCsUN8pTGO00/preview</link>
         <dc:date>2025-06-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JSX - 歴史を振り返り、⾯⽩がって、エモくなろう (晴れ井戸)</title>
         <link>https://speakerdeck.com/pal4de/jsx-li-shi-wozhen-rifan-ri-gatute-emokunarou</link>
-        <dc:date>2025-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bedrockのプロンプト管理どうしてる？ (Har1101)</title>
-        <link>https://speakerdeck.com/har1101/bedrocknopuronputoguan-li-dousiteru</link>
         <dc:date>2025-06-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
