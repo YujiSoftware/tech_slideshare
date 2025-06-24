@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>やはり俺のバイブコーディングは間違っている (akira_abe)</title>
+        <link>https://speakerdeck.com/akiraabe2025/yaharian-nobaibukodeinguhajian-wei-tuteiru</link>
+        <dc:date>2025-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>claude_code.pdf (Kentaro Matsumoto)</title>
+        <link>https://speakerdeck.com/matsu7874/claude-code</link>
+        <dc:date>2025-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術系イベントを求めて！_Setory (ItoJum)</title>
+        <link>https://speakerdeck.com/itojum/ji-shu-xi-ibentowoqiu-mete-setory</link>
+        <dc:date>2025-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OAuth/OpenID Connectで実現するMCPのセキュアなアクセス管理 (kura)</title>
+        <link>https://speakerdeck.com/kuralab/20250620-openid-technight-mcp-oauth</link>
+        <dc:date>2025-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI技術共有会2025-06-05_DeepResearchの理解と実践.pdf (Takuma Oda)</title>
+        <link>https://www.slideshare.net/slideshow/ai-2025-06-05_deepresearch-pdf/280692790</link>
+        <dc:date>2025-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コードの90%をAIが書く世界で何が待っているのか / What awaits us in a world where 90% of the code is written by AI (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/what-awaits-us-in-a-world-where-90-percent-of-the-code-is-written-by-ai</link>
         <dc:date>2025-06-23T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>2025/6/21 日本学術会議公開シンポジウム発表資料 (Keisuke Fujii)</title>
         <link>https://speakerdeck.com/keisuke198619/21-ri-ben-xue-shu-hui-yi-gong-kai-sinpoziumufa-biao-zi-liao</link>
         <dc:date>2025-06-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ品質及びプロファイリングの概念や技術 (Koki Matsumoto)</title>
-        <link>https://speakerdeck.com/kokimoto/tetapin-zhi-ji-hihurohuairinkunogai-nian-yaji-shu-28b070e5-7ce7-46bf-ad7d-c92f94925a81</link>
-        <dc:date>2025-06-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WACATE2022冬_状態遷移テスト (Ryo Kakugen)</title>
-        <link>https://www.docswell.com/s/ryo328kgn/KLW6DZ-2022-12-28-112609</link>
-        <dc:date>2025-06-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>原則から考える保守しやすいComposable関数設計 (Mori Atsushi)</title>
-        <link>https://speakerdeck.com/moriatsushi/yuan-ze-karakao-erubao-shou-siyasuicomposableguan-shu-she-ji</link>
-        <dc:date>2025-06-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OSC 2025 Shimane</title>
-        <link>https://docs.google.com/presentation/d/1sATpOg3A4gbj3NpmChZH5olHzmrIjKZWUeaNnQB8cYs/preview</link>
-        <dc:date>2025-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JSX - 歴史を振り返り、⾯⽩がって、エモくなろう (晴れ井戸)</title>
-        <link>https://speakerdeck.com/pal4de/jsx-li-shi-wozhen-rifan-ri-gatute-emokunarou</link>
-        <dc:date>2025-06-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
