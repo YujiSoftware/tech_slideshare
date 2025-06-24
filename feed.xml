@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Serverless Meetup Osaka #5</title>
+        <link>https://docs.google.com/presentation/d/13FcSNJomkQsh1Rh26FJ8rnbZQ7kL1iD5a4BptbibbBs/preview</link>
+        <dc:date>2025-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GraphRAGの仕組みまるわかり (とすり)</title>
         <link>https://speakerdeck.com/tosuri13/graphragnoshi-zu-mimaruwakari</link>
         <dc:date>2025-06-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>"書く文化"を仕組みで育てる──フォルシアの技術ブログ継続戦略 (forcia_dev_pr)</title>
         <link>https://speakerdeck.com/forcia_dev_pr/shu-kuwen-hua-woshi-zu-mideyu-teru-huorusianoji-shu-buroguji-sok-zhan-lue</link>
-        <dc:date>2025-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新しいおもちゃを見つけたい私がやっている情報収集 (forcia_dev_pr)</title>
-        <link>https://speakerdeck.com/forcia_dev_pr/xin-siiomotiyawojian-tuketaisi-gayatuteiruqing-bao-shou-ji</link>
         <dc:date>2025-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
