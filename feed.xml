@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIで実現するText-to-SQL入門 (satoshihirose)</title>
+        <link>https://speakerdeck.com/satoshihirose/sheng-cheng-aideshi-xian-surutext-to-sqlru-men</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Langsmith入門 トレーシングとプロンプト管理を試す (ttnyt8701)</title>
         <link>https://speakerdeck.com/ttnyt8701/langsmithru-men-toresingutopuronputoguan-li-woshi-su</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ユニークビジョンの Rust 活用事例</title>
         <link>https://speakerdeck.com/fill9120/yunikubiziyonno-rust-huo-yong-shi-li</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Management Workflow (Daisuke Sato)</title>
-        <link>https://speakerdeck.com/dskst/management-workflow</link>
         <dc:date>2025-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
