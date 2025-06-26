@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>標準技術と独自システムで作る「つらくない」SaaS アカウント管理 / Effortless SaaS Account Management with Standard Technologies &amp; Custom Systems (Yuya Takeyama)</title>
+        <link>https://speakerdeck.com/yuyatakeyama/effortless-saas-account-management-with-standard-technologies-and-custom-systems</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今ならAmazon ECSのサービス間通信をどう選ぶか / Selection of ECS Interservice Communication 2025 (Tetsuya Kikuchi)</title>
+        <link>https://speakerdeck.com/tkikuc/selection-of-ecs-interservice-communication-2025</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Code Actionを使ったコード品質改善の取り組み (Katsunori Kanda)</title>
         <link>https://speakerdeck.com/potix2/improve-code-quality-metrics-with-claude-code-action</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>State of Open Source Web Mapping Libraries (Yasunori Kirimoto)</title>
         <link>https://speakerdeck.com/dayjournal/state-of-open-source-web-mapping-libraries</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MapLibre GL JSでAmazonが出してるTerrainタイルを使ってみよう (Taro Matsuzawa aka. btm,@smellman)</title>
-        <link>https://www.docswell.com/s/smellman/5YWQR3-maplibre-meetup-japan-2023-11-09</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2023-11-09 MapLibre Meetup #01 / Martin Tile Server</title>
-        <link>https://docs.google.com/presentation/d/1BKaVgIV1jO2rudI0UJHccs8RVLGotQpYdlWj1iVROMQ/preview</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
