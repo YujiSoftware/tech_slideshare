@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>怖くない！ はじめてのClaude Code (しば田)</title>
+        <link>https://speakerdeck.com/ks0318/bu-kunai-hazimetenoclaude-code</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Is Xcode slowly dying out in 2025? (上ちょ / uetyo)</title>
         <link>https://speakerdeck.com/uetyo/is-xcode-slowly-dying-out-in-2025</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>GitHub Actionsで始めるお手軽ベクトルタイル配信 (nao)</title>
         <link>https://speakerdeck.com/naogify/github-actionsdeshi-meruoshou-qing-bekutorutairupei-xin</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon ECS &amp; AWS Fargate 運用アーキテクチャ2025 / Amazon ECS and AWS Fargate Ops Architecture 2025 (iselegant)</title>
-        <link>https://speakerdeck.com/iselegant/amazon-ecs-and-aws-fargate-ops-architecture-2025</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
