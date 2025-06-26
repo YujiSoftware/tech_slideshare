@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DenoとJSRで実現する最速MCPサーバー開発記 / Building MCP Servers at Lightning Speed with Deno and JSR (Okuto Oyama)</title>
+        <link>https://speakerdeck.com/yamanoku/building-mcp-servers-at-lightning-speed-with-deno-and-jsr</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>25分で解説する「最小権限の原則」を実現するための AWS「ポリシー」大全 / 20250625-aws-summit-aws-policy (opelab)</title>
         <link>https://speakerdeck.com/opelab/20250625-aws-summit-aws-policy</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>100日自由研究 アナログスーパー店員の自作アプリが社内導入! (おきなか(がいこつ&amp;のこるん))</title>
         <link>https://speakerdeck.com/okinaka/100ri-zi-you-yan-jiu-anarogusupadian-yuan-nozi-zuo-apurigashe-nei-dao-ru</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>作ったものをアートにする方法。作ったUIcreator、売ってみました。 (発明家OGURI)</title>
-        <link>https://speakerdeck.com/hatumeika/zuo-tutamonowoatonisurufang-fa-zuo-tutauicreator-mai-tutemimasita</link>
         <dc:date>2025-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
