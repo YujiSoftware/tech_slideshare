@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Integrating MapLibre GL JS with deck.gl: A Review (alt9800)</title>
+        <link>https://speakerdeck.com/alt9800/integrating-maplibre-gl-js-with-deck-dot-gl-a-review</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2024-11-08 Maputnikの多言語対応・GitHubで円滑なコミュニケーションをしましょう</title>
+        <link>https://docs.google.com/presentation/d/1bpFfU1xkCP1NsDGzGzxrrPV_OILrWtOA6WKAY-93nNQ/preview</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20241108_MapLibre_Meetup.pptx</title>
+        <link>https://docs.google.com/presentation/d/1J-VKKKBVGNgTopTyotYQASZvRv-mytjx/preview</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2024-11-08 MapLibre Meetup Japan #03 @Tokyo / MapLibre VSCode ExtensionでVSCodeを地図スタイルエディタに</title>
+        <link>https://docs.google.com/presentation/d/1amwpggjtWYxcm1jxmQ6JXuDiSJ-amcEJWZlCZMhBCeo/preview</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>mmj001 (Haruki Inoue)</title>
+        <link>https://speakerdeck.com/kyotonagoya/mmj001</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>State of Open Source Web Mapping Libraries (Yasunori Kirimoto)</title>
+        <link>https://speakerdeck.com/dayjournal/state-of-open-source-web-mapping-libraries</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MapLibre GL JSでAmazonが出してるTerrainタイルを使ってみよう (Taro Matsuzawa aka. btm,@smellman)</title>
+        <link>https://www.docswell.com/s/smellman/5YWQR3-maplibre-meetup-japan-2023-11-09</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2023-11-09 MapLibre Meetup #01 / Martin Tile Server</title>
+        <link>https://docs.google.com/presentation/d/1BKaVgIV1jO2rudI0UJHccs8RVLGotQpYdlWj1iVROMQ/preview</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20231109_MapLibre_Meetup_LT.pptx</title>
+        <link>https://docs.google.com/presentation/d/1aTZFqfBLijQLE2BlKS_XKm4b1xG5mh4A/preview</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Actionsで始めるお手軽ベクトルタイル配信 (nao)</title>
+        <link>https://speakerdeck.com/naogify/github-actionsdeshi-meruoshou-qing-bekutorutairupei-xin</link>
+        <dc:date>2025-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon ECS &amp; AWS Fargate 運用アーキテクチャ2025 / Amazon ECS and AWS Fargate Ops Architecture 2025 (iselegant)</title>
         <link>https://speakerdeck.com/iselegant/amazon-ecs-and-aws-fargate-ops-architecture-2025</link>
         <dc:date>2025-06-24T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>ブラウザ上でファンタジー・SF的な映像表現に挑んでみる / エンジニアの自由研究発表会vol.7 (you（@youtoy）)</title>
         <link>https://speakerdeck.com/you/enzinianozi-you-yan-jiu-fa-biao-hui-vol-dot-7</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドミノ倒し.pdf (kido)</title>
-        <link>https://speakerdeck.com/9wick/tominodao-si</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>親子で夏休みの自由研究.pdf (airpocketsoundman)</title>
-        <link>https://www.slideshare.net/slideshow/pdf-252795553/252795553</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UXデザインの海外最新「UXトレンドレポート2022」を読んで、考える (Yoshiki Hayama,@storywriter)</title>
-        <link>https://www.slideshare.net/slideshow/uxux2022/253113783</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームで取り組んだWebフロントエンドのアップデート (Tomoya Fujita)</title>
-        <link>https://speakerdeck.com/tomoyaf/timudequ-rizu-ndawebhurontoendonoatupudeto</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIで加速するAWS運用効率化 〜IAM Identity Center IssueOpsとセキュリティ基準自動作成〜 (Takayuki Ishikawa,@14tter)</title>
-        <link>https://www.docswell.com/s/14kw/KG138M-ai-accelerates-aws-operational-efficiency</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PCをキーボード/マウスから解放、操作をシンプルにする。量産化・製品化への道。 (発明家OGURI)</title>
-        <link>https://speakerdeck.com/hatumeika/mausukarajie-fang-cao-zuo-wosinpurunisuru-liang-chan-hua-zhi-pin-hua-hefalsedao</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINEアプリでIoTやってみた / エンジニアの自由研究発表会vol.6 (you（@youtoy）)</title>
-        <link>https://speakerdeck.com/you/enziniafalsezi-you-yan-jiu-fa-biao-hui-vol-dot-6</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>より早い段階からのテスト (yujin3i,@yujin3i)</title>
-        <link>https://www.docswell.com/s/yujin3i/KEJX1Z-2022-05-24-214516</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>25分で解説する「最小権限の原則」を実現するための AWS「ポリシー」大全 (opelab)</title>
-        <link>https://speakerdeck.com/opelab/25fen-dejie-shuo-suru-zui-xiao-quan-xian-noyuan-ze-woshi-xian-surutameno-aws-porisi-da-quan</link>
-        <dc:date>2025-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>監視のこれまでとこれから/sakura monitoring seminar 2025 (FUJIWARA Shunichiro)</title>
-        <link>https://speakerdeck.com/fujiwara3/sakura-monitoring-seminar-2025</link>
         <dc:date>2025-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
