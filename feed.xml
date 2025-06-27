@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI駆動開発パターン～3つの使い方とVibe Codingの勘所～ (solaoi)</title>
+        <link>https://www.docswell.com/s/solaoi/KJ9E91-2025-06-27-020552</link>
+        <dc:date>2025-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GoogleのAI Agent (Shu Kobuchi)</title>
         <link>https://speakerdeck.com/shukob/googlenoai-agent</link>
         <dc:date>2025-06-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>25分で解説する「最小権限の原則」を実現するための AWS「ポリシー」大全 / 20250625-aws-summit-aws-policy (opelab)</title>
         <link>https://speakerdeck.com/opelab/20250625-aws-summit-aws-policy</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Integrating MapLibre GL JS with deck.gl: A Review (alt9800)</title>
-        <link>https://speakerdeck.com/alt9800/integrating-maplibre-gl-js-with-deck-dot-gl-a-review</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
