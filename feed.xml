@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GoogleのAI Agent (Shu Kobuchi)</title>
+        <link>https://speakerdeck.com/shukob/googlenoai-agent</link>
+        <dc:date>2025-06-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CRE を立ち上げるにあたって 考えたこと・やったこと (a-know / Daisuke Inoue,@a_know)</title>
+        <link>https://www.docswell.com/s/a-know/5PMRP8-how-to-build-cre</link>
+        <dc:date>2025-06-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクトエンジニアリング組織への歩み、その現在地 / Our journey to becoming a product engineering organization (hiro-torii)</title>
         <link>https://speakerdeck.com/hiro_torii/our-journey-to-becoming-a-product-engineering-organization</link>
         <dc:date>2025-06-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Integrating MapLibre GL JS with deck.gl: A Review (alt9800)</title>
         <link>https://speakerdeck.com/alt9800/integrating-maplibre-gl-js-with-deck-dot-gl-a-review</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2024-11-08 Maputnikの多言語対応・GitHubで円滑なコミュニケーションをしましょう</title>
-        <link>https://docs.google.com/presentation/d/1bpFfU1xkCP1NsDGzGzxrrPV_OILrWtOA6WKAY-93nNQ/preview</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20241108_MapLibre_Meetup.pptx</title>
-        <link>https://docs.google.com/presentation/d/1J-VKKKBVGNgTopTyotYQASZvRv-mytjx/preview</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
