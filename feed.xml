@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>低レイヤを知りたいPHPerのためのCコンパイラ作成入門 完全版 / Building a C Compiler for PHPers Who Want to Dive into Low-Level Programming - Expanded (HASEGAWA Tomoki)</title>
+        <link>https://speakerdeck.com/tomzoh/building-a-c-compiler-for-phpers-who-want-to-dive-into-low-level-programming-expanded</link>
+        <dc:date>2025-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Distributed Inference Serving - vLLM, LMCache, NIXL and llm-d (Mikiya Michishita)</title>
         <link>https://speakerdeck.com/aztecher/distributed-inference-serving-vllm-lmcache-nixl-and-llm-d</link>
         <dc:date>2025-06-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Is Xcode slowly dying out in 2025? (上ちょ / uetyo)</title>
         <link>https://speakerdeck.com/uetyo/is-xcode-slowly-dying-out-in-2025</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIのAIによるAIのための出力評価と改善 (たまねぎ)</title>
-        <link>https://speakerdeck.com/chocoyama/ainoainiyoruainotamenochu-li-ping-jia-togai-shan</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
