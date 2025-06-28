@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Distributed Inference Serving - vLLM, LMCache, NIXL and llm-d (Mikiya Michishita)</title>
+        <link>https://speakerdeck.com/aztecher/distributed-inference-serving-vllm-lmcache-nixl-and-llm-d</link>
+        <dc:date>2025-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>影響力タイプ診断（EM編） / EMOasis-08-link-and-motivation (リンクアンドモチベーション)</title>
         <link>https://speakerdeck.com/lmi/emoasis-08-link-and-motivation</link>
         <dc:date>2025-06-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIのAIによるAIのための出力評価と改善 (たまねぎ)</title>
         <link>https://speakerdeck.com/chocoyama/ainoainiyoruainotamenochu-li-ping-jia-togai-shan</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェント最前線！ Amazon Bedrock、Amazon Q、そしてMCPを使いこなそう (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/aiezientozui-qian-xian-amazon-bedrock-amazon-q-sositemcpwoshi-ikonasou</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
