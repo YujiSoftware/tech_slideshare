@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>解析の定理証明実践＠Lean 4 (H Segawa)</title>
+        <link>https://speakerdeck.com/dec9ue/jie-xi-noding-li-zheng-ming-shi-jian-at-lean-4</link>
+        <dc:date>2025-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title> AI活用におけるエンジニアの責務と チームへの浸透戦略 / Responsibilities of engineers in using AI and strategies for penetration into the team (nambu)</title>
         <link>https://speakerdeck.com/gonambu/responsibilities-of-engineers-in-using-ai-and-strategies-for-penetration-into-the-team</link>
         <dc:date>2025-06-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS CDK 実践的アプローチ N選 / aws-cdk-practical-approaches (k.goto)</title>
         <link>https://speakerdeck.com/gotok365/aws-cdk-practical-approaches</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>An introduction to monitoring and alerting with timeseries at scale, with Prometheus (Linux.conf.au 2016)</title>
-        <link>https://docs.google.com/presentation/d/1NziwSTwuz91fqsFhXeOGwyhFUoT6ght1irA_0ABLPU0/preview</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
