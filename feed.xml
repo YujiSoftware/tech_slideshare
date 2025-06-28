@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Lean4による汎化誤差評価の形式化 (Kei Tsukamoto)</title>
+        <link>https://speakerdeck.com/milano0017/lean4niyorufan-hua-wu-chai-ping-jia-noxing-shi-hua</link>
+        <dc:date>2025-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>XP, Testing and ninja testing (seki at druby.org)</title>
         <link>https://speakerdeck.com/m_seki/xp-testing-and-ninja-testing</link>
         <dc:date>2025-06-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Langsmith入門 トレーシングとプロンプト管理を試す (ttnyt8701)</title>
         <link>https://speakerdeck.com/ttnyt8701/langsmithru-men-toresingutopuronputoguan-li-woshi-su</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DenoとJSRで実現する最速MCPサーバー開発記 / Building MCP Servers at Lightning Speed with Deno and JSR (Okuto Oyama)</title>
-        <link>https://speakerdeck.com/yamanoku/building-mcp-servers-at-lightning-speed-with-deno-and-jsr</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
