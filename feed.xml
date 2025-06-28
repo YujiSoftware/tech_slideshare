@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Railsアプリケーションと パフォーマンスチューニング ー 秒間5万リクエストの モバイルオーダーシステムを支える事例 ー Rubyセミナー 大阪 (Hayato OKUMOTO)</title>
+        <link>https://speakerdeck.com/falcon8823/railsapurikesiyonto-pahuomansutiyuningu-miao-jian-5mo-rikuesutono-mobairuodasisutemuwozhi-erushi-li-rubysemina-da-ban</link>
+        <dc:date>2025-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Lean4による汎化誤差評価の形式化 (Kei Tsukamoto)</title>
         <link>https://speakerdeck.com/milano0017/lean4niyorufan-hua-wu-chai-ping-jia-noxing-shi-hua</link>
         <dc:date>2025-06-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成AIで実現するText-to-SQL入門 (satoshihirose)</title>
         <link>https://speakerdeck.com/satoshihirose/sheng-cheng-aideshi-xian-surutext-to-sqlru-men</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Langsmith入門 トレーシングとプロンプト管理を試す (ttnyt8701)</title>
-        <link>https://speakerdeck.com/ttnyt8701/langsmithru-men-toresingutopuronputoguan-li-woshi-su</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
