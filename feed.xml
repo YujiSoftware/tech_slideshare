@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>設計やレビューに悩んでいるPHPerに贈る、クリーンなオブジェクト設計の指針たち (panda_program)</title>
+        <link>https://speakerdeck.com/panda_program/how-to-write-clean-objects</link>
+        <dc:date>2025-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[2025-06-04] なんでもCopilot #32 Microsoft 365 Copilot 関連の従量課金制プランでできること(2020年5月版) (Sasami (ささみ),@sasami_axis)</title>
         <link>https://www.docswell.com/s/sasami_axis_2470/KP2D81-2025-06-04-205051</link>
         <dc:date>2025-06-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>今ならAmazon ECSのサービス間通信をどう選ぶか / Selection of ECS Interservice Communication 2025 (Tetsuya Kikuchi)</title>
         <link>https://speakerdeck.com/tkikuc/selection-of-ecs-interservice-communication-2025</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Code Actionを使ったコード品質改善の取り組み (Katsunori Kanda)</title>
-        <link>https://speakerdeck.com/potix2/improve-code-quality-metrics-with-claude-code-action</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
