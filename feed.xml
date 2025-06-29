@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>地方に住むエンジニアの残酷な現実とキャリア論 (nakamichi)</title>
+        <link>https://speakerdeck.com/ichimichi/di-fang-nizhu-muenziniano-can-ku-naxian-shi-tokiyarialun</link>
+        <dc:date>2025-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>設計やレビューに悩んでいるPHPerに贈る、クリーンなオブジェクト設計の指針たち (panda_program)</title>
         <link>https://speakerdeck.com/panda_program/how-to-write-clean-objects</link>
         <dc:date>2025-06-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>標準技術と独自システムで作る「つらくない」SaaS アカウント管理 / Effortless SaaS Account Management with Standard Technologies &amp; Custom Systems (Yuya Takeyama)</title>
         <link>https://speakerdeck.com/yuyatakeyama/effortless-saas-account-management-with-standard-technologies-and-custom-systems</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今ならAmazon ECSのサービス間通信をどう選ぶか / Selection of ECS Interservice Communication 2025 (Tetsuya Kikuchi)</title>
-        <link>https://speakerdeck.com/tkikuc/selection-of-ecs-interservice-communication-2025</link>
         <dc:date>2025-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
