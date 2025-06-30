@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Deep Dive into ~/.claude/projects (Yuya Hirayama)</title>
+        <link>https://speakerdeck.com/hiragram/projects</link>
+        <dc:date>2025-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ベタートラップと夏 (mosa)</title>
         <link>https://speakerdeck.com/mosa_siru/hetatoratuhutoxia</link>
         <dc:date>2025-06-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>XP, Testing and ninja testing (seki at druby.org)</title>
         <link>https://speakerdeck.com/m_seki/xp-testing-and-ninja-testing</link>
-        <dc:date>2025-06-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI駆動開発パターン～3つの使い方とVibe Codingの勘所～ (solaoi)</title>
-        <link>https://www.docswell.com/s/solaoi/KJ9E91-2025-06-27-020552</link>
         <dc:date>2025-06-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
