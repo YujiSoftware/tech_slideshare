@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>『自分のデータだけ見せたい！』を叶える──Laravel × Casbin で複雑権限をスッキリ解きほぐす 25 分 (AkitoTsukahara)</title>
+        <link>https://speakerdeck.com/akitotsukahara/zi-fen-nodetadakejian-setai-woxie-eru-laravel-x-casbin-defu-za-quan-xian-wosutukirijie-kihogusu-25-fen</link>
+        <dc:date>2025-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHP開発者のためのSOLID原則再入門 #phpcon / PHP Conference Japan 2025 (shogogg)</title>
+        <link>https://speakerdeck.com/shogogg/php-conference-japan-2025</link>
+        <dc:date>2025-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ちいさくPHPUnitをつくり、仕組みと拡張ポイントを探る (asumikam)</title>
+        <link>https://speakerdeck.com/asumikam/minimum-phpunit-and-design-pattern</link>
+        <dc:date>2025-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なぜ適用するか、移行して理解するClean Architecture 〜構造を超えて設計を継承する〜 / Why Apply, Migrate and Understand Clean Architecture - Inherit Design Beyond Structure (shiro seike)</title>
         <link>https://speakerdeck.com/seike460/why-apply-migrate-and-understand-clean-architecture-inherit-design-beyond-structure</link>
         <dc:date>2025-06-29T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>GoogleのAI Agent (Shu Kobuchi)</title>
         <link>https://speakerdeck.com/shukob/googlenoai-agent</link>
-        <dc:date>2025-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CRE を立ち上げるにあたって 考えたこと・やったこと (a-know / Daisuke Inoue,@a_know)</title>
-        <link>https://www.docswell.com/s/a-know/5PMRP8-how-to-build-cre</link>
-        <dc:date>2025-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトエンジニアリング組織への歩み、その現在地 / Our journey to becoming a product engineering organization (hiro-torii)</title>
-        <link>https://speakerdeck.com/hiro_torii/our-journey-to-becoming-a-product-engineering-organization</link>
-        <dc:date>2025-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「とりあえず作る」がすべてを加速させる (Taiga Mikami)</title>
-        <link>https://speakerdeck.com/taigamikami/toriaezuzuo-ru-gasubetewojia-su-saseru</link>
         <dc:date>2025-06-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
