@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ベタートラップと夏 (mosa)</title>
+        <link>https://speakerdeck.com/mosa_siru/hetatoratuhutoxia</link>
+        <dc:date>2025-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>『自分のデータだけ見せたい！』を叶える──Laravel × Casbin で複雑権限をスッキリ解きほぐす 25 分 (AkitoTsukahara)</title>
         <link>https://speakerdeck.com/akitotsukahara/zi-fen-nodetadakejian-setai-woxie-eru-laravel-x-casbin-defu-za-quan-xian-wosutukirijie-kihogusu-25-fen</link>
         <dc:date>2025-06-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AI駆動開発パターン～3つの使い方とVibe Codingの勘所～ (solaoi)</title>
         <link>https://www.docswell.com/s/solaoi/KJ9E91-2025-06-27-020552</link>
         <dc:date>2025-06-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoogleのAI Agent (Shu Kobuchi)</title>
-        <link>https://speakerdeck.com/shukob/googlenoai-agent</link>
-        <dc:date>2025-06-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
