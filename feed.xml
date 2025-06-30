@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜ適用するか、移行して理解するClean Architecture 〜構造を超えて設計を継承する〜 / Why Apply, Migrate and Understand Clean Architecture - Inherit Design Beyond Structure (shiro seike)</title>
+        <link>https://speakerdeck.com/seike460/why-apply-migrate-and-understand-clean-architecture-inherit-design-beyond-structure</link>
+        <dc:date>2025-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Result型で“失敗”を型にするPHPコードの書き方 (Takuma Kajikawa)</title>
+        <link>https://speakerdeck.com/kajitack/result-type-in-php</link>
+        <dc:date>2025-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>地方に住むエンジニアの残酷な現実とキャリア論 (nakamichi)</title>
         <link>https://speakerdeck.com/ichimichi/di-fang-nizhu-muenziniano-can-ku-naxian-shi-tokiyarialun</link>
         <dc:date>2025-06-28T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>「とりあえず作る」がすべてを加速させる (Taiga Mikami)</title>
         <link>https://speakerdeck.com/taigamikami/toriaezuzuo-ru-gasubetewojia-su-saseru</link>
         <dc:date>2025-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『Obsidianで&amp;quot;育てる&amp;quot;最強ノート術』の著者が語る生成AI × Obsidian の可能性 (増井敏克,@masuipeo)</title>
-        <link>https://www.docswell.com/s/masuipeo/ZGLQ39-2025-06-25</link>
-        <dc:date>2025-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>標準技術と独自システムで作る「つらくない」SaaS アカウント管理 / Effortless SaaS Account Management with Standard Technologies &amp; Custom Systems (Yuya Takeyama)</title>
-        <link>https://speakerdeck.com/yuyatakeyama/effortless-saas-account-management-with-standard-technologies-and-custom-systems</link>
-        <dc:date>2025-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
