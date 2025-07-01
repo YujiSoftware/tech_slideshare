@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>EmacsでJavaを書く話</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vTNlccnuRo9bRP9_SGLariJxb95GyOmxI6UxAQpxkHxvQM_psqvsMzv5JOosikbGc1lOSe5qCUOfIZH/pub</link>
+        <dc:date>2025-06-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Deep Dive into ~/.claude/projects (Yuya Hirayama)</title>
         <link>https://speakerdeck.com/hiragram/projects</link>
         <dc:date>2025-06-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Lean4による汎化誤差評価の形式化 (Kei Tsukamoto)</title>
         <link>https://speakerdeck.com/milano0017/lean4niyorufan-hua-wu-chai-ping-jia-noxing-shi-hua</link>
-        <dc:date>2025-06-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>XP, Testing and ninja testing (seki at druby.org)</title>
-        <link>https://speakerdeck.com/m_seki/xp-testing-and-ninja-testing</link>
         <dc:date>2025-06-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
