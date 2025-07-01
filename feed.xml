@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon S3標準/ S3 Tables/S3 Express One Zoneを使ったログ分析 (ShigeruOda)</title>
+        <link>https://speakerdeck.com/shigeruoda/s3-express-one-zonewoshi-tutarogufen-xi</link>
+        <dc:date>2025-07-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>rubygem開発で鍛える設計力 (Tomohiro Hashidate)</title>
         <link>https://speakerdeck.com/joker1007/rubygemkai-fa-deduan-erushe-ji-li</link>
         <dc:date>2025-06-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Distributed Inference Serving - vLLM, LMCache, NIXL and llm-d (Mikiya Michishita)</title>
         <link>https://speakerdeck.com/aztecher/distributed-inference-serving-vllm-lmcache-nixl-and-llm-d</link>
-        <dc:date>2025-06-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>影響力タイプ診断（EM編） / EMOasis-08-link-and-motivation (リンクアンドモチベーション)</title>
-        <link>https://speakerdeck.com/lmi/emoasis-08-link-and-motivation</link>
         <dc:date>2025-06-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
