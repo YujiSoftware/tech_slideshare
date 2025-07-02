@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>怖くない！はじめてのClaude Code (Shinya Masadome（東京AI祭）)</title>
+        <link>https://speakerdeck.com/shinya337/bu-kunai-hazimetenoclaude-code</link>
+        <dc:date>2025-07-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「Cursor/Devin全社導入の理想と現実」のその後 (Ryoichi Saito)</title>
+        <link>https://speakerdeck.com/saitoryc/devinquan-she-dao-ru-noli-xiang-toxian-shi-nosonohou</link>
+        <dc:date>2025-07-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Geminiとv0による高速プロトタイピング (Shinya Masadome（東京AI祭）)</title>
+        <link>https://speakerdeck.com/shinya337/geminitov0niyorugao-su-purototaipingu</link>
+        <dc:date>2025-07-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI駆動開発によってエンジニアの担当領域はどのように変わっていくのか (エブリー)</title>
+        <link>https://speakerdeck.com/everypr/aiqu-dong-kai-fa-niyotuteenzinianodan-dang-ling-yu-hadonoyounibian-watuteikunoka</link>
+        <dc:date>2025-07-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AI開発案件におけるClineの業務活用事例とTips (Shinya Masadome（東京AI祭）)</title>
+        <link>https://speakerdeck.com/shinya337/sheng-cheng-aikai-fa-an-jian-niokeruclinenoye-wu-huo-yong-shi-li-totips</link>
+        <dc:date>2025-07-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2025-06-26 GitHub CopilotとAI駆動開発：実践と導入のリアル (河内崇)</title>
+        <link>https://speakerdeck.com/fl_kawachi/2025-06-26-github-copilottoaiqu-dong-kai-fa-shi-jian-todao-ru-noriaru</link>
+        <dc:date>2025-07-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアのキャリアと成長の軌跡</title>
         <link>https://docs.google.com/presentation/d/1GkcB0SPzj3gWaNXiGF49F_r-r-IhnHw6og6mJZWe_Cs/preview</link>
         <dc:date>2025-07-01T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>Result型で“失敗”を型にするPHPコードの書き方 (Takuma Kajikawa)</title>
         <link>https://speakerdeck.com/kajitack/result-type-in-php</link>
         <dc:date>2025-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>地方に住むエンジニアの残酷な現実とキャリア論 (nakamichi)</title>
-        <link>https://speakerdeck.com/ichimichi/di-fang-nizhu-muenziniano-can-ku-naxian-shi-tokiyarialun</link>
-        <dc:date>2025-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>設計やレビューに悩んでいるPHPerに贈る、クリーンなオブジェクト設計の指針たち (panda_program)</title>
-        <link>https://speakerdeck.com/panda_program/how-to-write-clean-objects</link>
-        <dc:date>2025-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[2025-06-04] なんでもCopilot #32 Microsoft 365 Copilot 関連の従量課金制プランでできること(2020年5月版) (Sasami (ささみ),@sasami_axis)</title>
-        <link>https://www.docswell.com/s/sasami_axis_2470/KP2D81-2025-06-04-205051</link>
-        <dc:date>2025-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rubyを使った10年の個人開発でやってきたこと (Koji Shimba)</title>
-        <link>https://speakerdeck.com/shimbaco/rubywoshi-tuta10nian-noge-ren-kai-fa-teyatutekitakoto</link>
-        <dc:date>2025-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CMS管理画面のアクセシビリティ (Rikiya Ihara / magi)</title>
-        <link>https://speakerdeck.com/magi1125/cmsguan-li-hua-mian-noakusesibiritei</link>
-        <dc:date>2025-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>低レイヤを知りたいPHPerのためのCコンパイラ作成入門 完全版 / Building a C Compiler for PHPers Who Want to Dive into Low-Level Programming - Expanded (HASEGAWA Tomoki)</title>
-        <link>https://speakerdeck.com/tomzoh/building-a-c-compiler-for-phpers-who-want-to-dive-into-low-level-programming-expanded</link>
-        <dc:date>2025-06-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
