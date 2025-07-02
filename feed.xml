@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モノタロウのAI駆動開発 Cline編 ～ Clineを200⼈で試してみた件 (MonotaRO)</title>
+        <link>https://speakerdeck.com/monotaro/monotarounoaiqu-dong-kai-fa-clinebian-clinewo200-deshi-sitemitajian</link>
+        <dc:date>2025-07-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>怖くない！はじめてのClaude Code (Shinya Masadome（東京AI祭）)</title>
         <link>https://speakerdeck.com/shinya337/bu-kunai-hazimetenoclaude-code</link>
         <dc:date>2025-07-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>なぜ適用するか、移行して理解するClean Architecture 〜構造を超えて設計を継承する〜 / Why Apply, Migrate and Understand Clean Architecture - Inherit Design Beyond Structure (shiro seike)</title>
         <link>https://speakerdeck.com/seike460/why-apply-migrate-and-understand-clean-architecture-inherit-design-beyond-structure</link>
-        <dc:date>2025-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Result型で“失敗”を型にするPHPコードの書き方 (Takuma Kajikawa)</title>
-        <link>https://speakerdeck.com/kajitack/result-type-in-php</link>
         <dc:date>2025-06-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
