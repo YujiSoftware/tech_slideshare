@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アウトカムファーストな専門技術組織の構築と運用のための取り組み / Efforts to Build and Operate an Outcome-First Technical Expertise Organization (LINEヤフーTech (LY Corporation Tech))</title>
+        <link>https://speakerdeck.com/lycorptech_jp/efforts-to-build-and-operate-an-outcome-first-technical-expertise-organization</link>
+        <dc:date>2025-07-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モノタロウのAI駆動開発 Cline編 ～ Clineを200⼈で試してみた件 (MonotaRO)</title>
         <link>https://speakerdeck.com/monotaro/monotarounoaiqu-dong-kai-fa-clinebian-clinewo200-deshi-sitemitajian</link>
         <dc:date>2025-07-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ちいさくPHPUnitをつくり、仕組みと拡張ポイントを探る (asumikam)</title>
         <link>https://speakerdeck.com/asumikam/minimum-phpunit-and-design-pattern</link>
-        <dc:date>2025-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ適用するか、移行して理解するClean Architecture 〜構造を超えて設計を継承する〜 / Why Apply, Migrate and Understand Clean Architecture - Inherit Design Beyond Structure (shiro seike)</title>
-        <link>https://speakerdeck.com/seike460/why-apply-migrate-and-understand-clean-architecture-inherit-design-beyond-structure</link>
         <dc:date>2025-06-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
