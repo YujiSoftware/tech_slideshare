@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ruby.wasmで多人数リアルタイム通信ゲームを作ろう (lni_T)</title>
+        <link>https://speakerdeck.com/lnit/kansairubykaigi08-wasm-websocket</link>
+        <dc:date>2025-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>mrubyと micro-ROSが繋ぐロボットの世界 (Katsuhiko Kageyama)</title>
+        <link>https://speakerdeck.com/kishima/mrubyto-micro-rosgaxi-gurobotutonoshi-jie</link>
+        <dc:date>2025-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VS Code Web &amp; GitHub Codespaces でローカル環境を持たずに開発しよう 2021/11/29 #BPStudy (Takayuki Shimizukawa,@shimizukawa)</title>
         <link>https://www.slideshare.net/slideshow/github-codespaces-20211129-bpstudy/250747131</link>
         <dc:date>2025-07-02T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ベタートラップと夏 (mosa)</title>
         <link>https://speakerdeck.com/mosa_siru/hetatoratuhutoxia</link>
-        <dc:date>2025-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『自分のデータだけ見せたい！』を叶える──Laravel × Casbin で複雑権限をスッキリ解きほぐす 25 分 (AkitoTsukahara)</title>
-        <link>https://speakerdeck.com/akitotsukahara/zi-fen-nodetadakejian-setai-woxie-eru-laravel-x-casbin-defu-za-quan-xian-wosutukirijie-kihogusu-25-fen</link>
-        <dc:date>2025-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP開発者のためのSOLID原則再入門 #phpcon / PHP Conference Japan 2025 (shogogg)</title>
-        <link>https://speakerdeck.com/shogogg/php-conference-japan-2025</link>
         <dc:date>2025-06-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
