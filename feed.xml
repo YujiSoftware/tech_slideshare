@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オルタナUX | AIで高速化するのもいいけど品質も大事なんじゃない？というお話 (なつ)</title>
+        <link>https://speakerdeck.com/iflection/orutanaux-aidegao-su-hua-surunomoiikedopin-zhi-moda-shi-nanziyanai-toiuohua</link>
+        <dc:date>2025-07-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIエージェントが変える開発組織のEnabling #開発生産性con_findy (LayerX)</title>
         <link>https://speakerdeck.com/layerx/ai-agents-enabling-dev-organizations</link>
         <dc:date>2025-07-03T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>EmacsでJavaを書く話</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vTNlccnuRo9bRP9_SGLariJxb95GyOmxI6UxAQpxkHxvQM_psqvsMzv5JOosikbGc1lOSe5qCUOfIZH/pub</link>
         <dc:date>2025-06-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deep Dive into ~/.claude/projects (Yuya Hirayama)</title>
-        <link>https://speakerdeck.com/hiragram/projects</link>
-        <dc:date>2025-06-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
