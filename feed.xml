@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCPがひらく地理空間情報解析の可能性 (ぴっかりん)</title>
+        <link>https://speakerdeck.com/ra0kley/mcpgahirakudi-li-kong-jian-qing-bao-jie-xi-noke-neng-xing</link>
+        <dc:date>2025-07-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>初学者でも今すぐできる、Claude Codeの生産性を10倍上げるTips (Oikon)</title>
         <link>https://speakerdeck.com/s4yuba/chu-xue-zhe-demojin-sugudekiru-claude-codenosheng-chan-xing-wo10bei-shang-gerutips</link>
         <dc:date>2025-07-04T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AIエージェントが変える開発組織のEnabling #開発生産性con_findy (LayerX)</title>
         <link>https://speakerdeck.com/layerx/ai-agents-enabling-dev-organizations</link>
         <dc:date>2025-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ruby.wasmで多人数リアルタイム通信ゲームを作ろう (lni_T)</title>
-        <link>https://speakerdeck.com/lnit/kansairubykaigi08-wasm-websocket</link>
-        <dc:date>2025-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
