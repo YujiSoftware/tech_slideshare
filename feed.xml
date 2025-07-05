@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>初学者でも今すぐできる、Claude Codeの生産性を10倍上げるTips (Oikon)</title>
+        <link>https://speakerdeck.com/s4yuba/chu-xue-zhe-demojin-sugudekiru-claude-codenosheng-chan-xing-wo10bei-shang-gerutips</link>
+        <dc:date>2025-07-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code の Context Engineering (schroneko)</title>
+        <link>https://speakerdeck.com/schroneko/context-engineering</link>
+        <dc:date>2025-07-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IAMのマニアックな話 2025を執筆して、​ 見えてきたAWSアカウント管理の現在 (NRI Netcom)</title>
         <link>https://speakerdeck.com/nrinetcom/iamnomaniatukunahua-2025wozhi-bi-site-jian-etekitaawsakauntoguan-li-noxian-zai</link>
         <dc:date>2025-07-04T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ruby.wasmで多人数リアルタイム通信ゲームを作ろう (lni_T)</title>
         <link>https://speakerdeck.com/lnit/kansairubykaigi08-wasm-websocket</link>
-        <dc:date>2025-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>mrubyと micro-ROSが繋ぐロボットの世界 (Katsuhiko Kageyama)</title>
-        <link>https://speakerdeck.com/kishima/mrubyto-micro-rosgaxi-gurobotutonoshi-jie</link>
-        <dc:date>2025-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VS Code Web &amp; GitHub Codespaces でローカル環境を持たずに開発しよう 2021/11/29 #BPStudy (Takayuki Shimizukawa,@shimizukawa)</title>
-        <link>https://www.slideshare.net/slideshow/github-codespaces-20211129-bpstudy/250747131</link>
         <dc:date>2025-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
