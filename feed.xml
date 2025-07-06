@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代のソフトウェア開発を考える（2025/07版） / Agentic Software Engineering Findy 2025-07 Edition (Takuto Wada)</title>
+        <link>https://speakerdeck.com/twada/agentic-software-engineering-findy-2025-07-edition</link>
+        <dc:date>2025-07-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ClaudeCodeでChromeの拡張やDiscordのbotを作るのがオススメ (カレーちゃん,@currypurin)</title>
         <link>https://www.docswell.com/s/currypurin/Z67Y97-2025-07-05-232024</link>
         <dc:date>2025-07-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロダクトエンジニア一年生のしくじり 〜フリーランスがプロダクトエンジニアになるまで〜 (takuma.n)</title>
         <link>https://speakerdeck.com/takumamiyazawa/purodakutoenzinia-nian-sheng-nosikuziri-huriransugapurodakutoenzinianinarumade</link>
-        <dc:date>2025-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>不確実性の高い仮説を 迅速に検証するための開発プロセス (みきてぃ / きたはら (mkitahara))</title>
-        <link>https://speakerdeck.com/mkitahara01985/bu-que-shi-xing-nogao-ijia-shuo-wo-xun-su-nijian-zheng-surutamenokai-fa-purosesu</link>
         <dc:date>2025-07-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
