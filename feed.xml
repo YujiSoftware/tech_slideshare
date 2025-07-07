@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM アプリケーションのためのクラウドセキュリティ - CSPM の実装ポイント- (KINTOテクノロジーズ Osaka Tech Lab)</title>
+        <link>https://speakerdeck.com/osakatechlab/llm-apurikesiyonnotamenokuraudosekiyuritei-cspm-noshi-zhuang-pointo</link>
+        <dc:date>2025-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サイバーエージェントにおけるクラウドセキュリティエンジニアの仕事 (Ryosuke Hanatsuka)</title>
+        <link>https://speakerdeck.com/hnts/saibaezientoniokerukuraudosekiyuriteienzinianoshi-shi</link>
+        <dc:date>2025-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS診断200件の分析から見る頻出指摘と対策 (odagiri)</title>
+        <link>https://speakerdeck.com/shoodagiri/awszhen-duan-200jian-nofen-xi-karajian-rupin-chu-zhi-zhai-todui-ce</link>
+        <dc:date>2025-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ezboard.aiの開発について (盛川英典)</title>
         <link>https://speakerdeck.com/morimorijap/ezboard-dot-ainokai-fa-nituite</link>
         <dc:date>2025-07-06T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Claude Code の Context Engineering (schroneko)</title>
         <link>https://speakerdeck.com/schroneko/context-engineering</link>
-        <dc:date>2025-07-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IAMのマニアックな話 2025を執筆して、​ 見えてきたAWSアカウント管理の現在 (NRI Netcom)</title>
-        <link>https://speakerdeck.com/nrinetcom/iamnomaniatukunahua-2025wozhi-bi-site-jian-etekitaawsakauntoguan-li-noxian-zai</link>
-        <dc:date>2025-07-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20250704_教育事業におけるアジャイルなデータ基盤構築 (Uchide Hiroki(ucchi-))</title>
-        <link>https://speakerdeck.com/hanon52_/20250704-jiao-yu-shi-ye-niokeruaziyairunadetaji-pan-gou-zhu</link>
-        <dc:date>2025-07-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI専用のリンターを作る #yumemi_patch (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20250704-cloudsign-aitool</link>
         <dc:date>2025-07-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
