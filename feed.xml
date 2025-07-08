@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DBのスキルで生き残る技術 - AI時代におけるテーブル設計の勘所 (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/survival-db-skill</link>
+        <dc:date>2025-07-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code に プロジェクト管理やらせたみた (佐藤圭吾)</title>
+        <link>https://speakerdeck.com/unson/claude-code-ni-puroziekutoguan-li-yarasetamita</link>
+        <dc:date>2025-07-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code + Container Use と Cursor で作る ローカル並列開発環境のススメ / ccc local dev (Yuichi Maekawa)</title>
+        <link>https://speakerdeck.com/kaelaela/ccc-local-dev</link>
+        <dc:date>2025-07-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>テストから始めるAgentic Coding 〜Claude Codeと共に行うTDD〜 / Agentic Coding starts with testing (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/agentic-coding-starts-with-testing</link>
         <dc:date>2025-07-07T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>Why Contact a Live Person at American Airlines™?  (dexter jackson)</title>
         <link>https://speakerdeck.com/dexterjack/why-contact-a-live-person-at-american-airlines</link>
         <dc:date>2025-07-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20250707-AI活用の個人差を埋めるチームづくり (shnjtk)</title>
-        <link>https://speakerdeck.com/shnjtk/20250707-aihuo-yong-noge-ren-chai-womai-merutimudukuri</link>
-        <dc:date>2025-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【新卒研修資料】効果検証_因果推論 / Effect verification Causal inference (BrainPad)</title>
-        <link>https://speakerdeck.com/brainpadpr/effect-verification-causal-inference</link>
-        <dc:date>2025-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QuickBooks Customer Support [[intuit}} – Call 1-888-470-1194 call Now! (qbpayroll)</title>
-        <link>https://speakerdeck.com/mickel12/quickbooks-customer-support-intuit-call-1-888-470-1194-call-now</link>
-        <dc:date>2025-07-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
