@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Git/GitHub を使う上で知っておくと嬉しいかも Tips【サイボウズ新人研修2025】 (Cybozu)</title>
+        <link>https://speakerdeck.com/cybozuinsideout/git-github-tips</link>
+        <dc:date>2025-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Docker入門【サイボウズ新人研修2025】 (Cybozu)</title>
+        <link>https://speakerdeck.com/cybozuinsideout/introduction-to-docker</link>
+        <dc:date>2025-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代の『ドメイン駆動設計をはじめよう』 (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/forkwell_library_fl_100</link>
+        <dc:date>2025-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代の『改訂新版 良いコード／悪いコードで学ぶ設計入門』 / ai-good-code-bad-code (MinoDriven)</title>
         <link>https://speakerdeck.com/minodriven/ai-good-code-bad-code</link>
         <dc:date>2025-07-09T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>開発生産性を測る前にやるべきこと - 組織改善の実践 / Before Measuring Dev Productivity (株式会社カオナビ)</title>
         <link>https://speakerdeck.com/kaonavi/before-measuring-dev-productivity</link>
-        <dc:date>2025-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゼロからはじめる採用広報 (Yuta Horii)</title>
-        <link>https://speakerdeck.com/yutadayo/zero-start-recruiting-pr</link>
-        <dc:date>2025-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hack Claude Code with Claude Code (Akihiro Okuno)</title>
-        <link>https://speakerdeck.com/choplin/hack-claude-code-with-claude-code</link>
-        <dc:date>2025-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DBのスキルで生き残る技術 - AI時代におけるテーブル設計の勘所 (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/survival-db-skill</link>
         <dc:date>2025-07-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
