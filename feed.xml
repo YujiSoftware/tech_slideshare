@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Helpfeelがアクセシビリティにどのように取り組み始めて、どこまで来れたのか/Helpfeel Accessibility 2025-07 (pastak)</title>
+        <link>https://speakerdeck.com/pastak/helpfeel-accessibility-2025-07</link>
+        <dc:date>2025-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Microsoft 365 Copilot とタイパ思考 (Ota Hirofumi,@hrfmjp)</title>
         <link>https://www.docswell.com/s/hrfmjp/K12QL2-2025-07-09-180929</link>
         <dc:date>2025-07-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Claude Code + Container Use と Cursor で作る ローカル並列開発環境のススメ / ccc local dev (Yuichi Maekawa)</title>
         <link>https://speakerdeck.com/kaelaela/ccc-local-dev</link>
         <dc:date>2025-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テストから始めるAgentic Coding 〜Claude Codeと共に行うTDD〜 / Agentic Coding starts with testing (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/agentic-coding-starts-with-testing</link>
-        <dc:date>2025-07-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
