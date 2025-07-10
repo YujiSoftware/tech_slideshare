@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代の『改訂新版 良いコード／悪いコードで学ぶ設計入門』 / ai-good-code-bad-code (MinoDriven)</title>
+        <link>https://speakerdeck.com/minodriven/ai-good-code-bad-code</link>
+        <dc:date>2025-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>音学シンポジウム2025「ニューラルボコーダ概説：生成モデルと実用性の観点から」 (NU_I_TODALAB)</title>
+        <link>https://www.slideshare.net/slideshow/2025-d48b/280648291</link>
+        <dc:date>2025-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Helpfeelがアクセシビリティにどのように取り組み始めて、どこまで来れたのか/Helpfeel Accessibility 2025-07 (pastak)</title>
         <link>https://speakerdeck.com/pastak/helpfeel-accessibility-2025-07</link>
         <dc:date>2025-07-09T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>DBのスキルで生き残る技術 - AI時代におけるテーブル設計の勘所 (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/survival-db-skill</link>
-        <dc:date>2025-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Code に プロジェクト管理やらせたみた (佐藤圭吾)</title>
-        <link>https://speakerdeck.com/unson/claude-code-ni-puroziekutoguan-li-yarasetamita</link>
-        <dc:date>2025-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Code + Container Use と Cursor で作る ローカル並列開発環境のススメ / ccc local dev (Yuichi Maekawa)</title>
-        <link>https://speakerdeck.com/kaelaela/ccc-local-dev</link>
         <dc:date>2025-07-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
