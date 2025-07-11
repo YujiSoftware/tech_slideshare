@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SRE不在の開発チームが障害対応と 向き合った100日間 /  100 days dealing with issues without SREs (katsukamaru)</title>
+        <link>https://speakerdeck.com/shin1988/100-days-dealing-with-issues-without-sres</link>
+        <dc:date>2025-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>とあるSREの博士「過程」 / A Certain SRE’s Ph.D. Journey  (Yuuki Tsubouchi (yuuk1))</title>
         <link>https://speakerdeck.com/yuukit/a-certain-sres-ph-dot-d-journey</link>
         <dc:date>2025-07-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Microsoft 365 Copilot とタイパ思考 (Ota Hirofumi,@hrfmjp)</title>
         <link>https://www.docswell.com/s/hrfmjp/K12QL2-2025-07-09-180929</link>
-        <dc:date>2025-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sansanのデータプロダクトマネジメントのアプローチ (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/20250709</link>
         <dc:date>2025-07-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
