@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>とあるSREの博士「過程」 / A Certain SRE’s Ph.D. Journey  (Yuuki Tsubouchi (yuuk1))</title>
+        <link>https://speakerdeck.com/yuukit/a-certain-sres-ph-dot-d-journey</link>
+        <dc:date>2025-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>60以上のプロダクトを持つ組織における開発者体験向上への取り組み - チームAPIとBackstageで構築する組織の可視化基盤 - / sre next 2025 Efforts to Improve Developer Experience in an Organization with Over 60 Products (VTRyo)</title>
+        <link>https://speakerdeck.com/vtryo/sre-next-2025-efforts-to-improve-developer-experience-in-an-organization-with-over-60-products</link>
+        <dc:date>2025-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[関西Kaggler会2025#2LT] 初学者+MLエンジニア対象！ モダンなPythonの書き方 (Kohei Iwamasa)</title>
         <link>https://speakerdeck.com/koheiiwamasa/guan-xi-kagglerhui-2025-number-2lt-chu-xue-zhe-plus-mlenziniadui-xiang-modannapythonnoshu-kifang</link>
         <dc:date>2025-07-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Sansanのデータプロダクトマネジメントのアプローチ (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20250709</link>
-        <dc:date>2025-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIツール開発ワークショップ（Dify）【サイボウズ新人研修2025】 (Cybozu)</title>
-        <link>https://speakerdeck.com/cybozuinsideout/ai-tool-development-workshop-dify</link>
-        <dc:date>2025-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームのテスト力を総合的に鍛えて品質、スピード、レジリエンスを共立させる/Testing approach that improves quality, speed, and resilience (Hiroki Iseri)</title>
-        <link>https://speakerdeck.com/goyoki/testing-approach-that-improves-quality-speed-and-resilience</link>
         <dc:date>2025-07-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
