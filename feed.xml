@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DuckDBを使ってみたら分析プロジェクトが動き出した (Yusuke Fukuda)</title>
+        <link>https://speakerdeck.com/tonegawa07/duckdbwoshi-tutemitarafen-xi-puroziekutogadong-kichu-sita</link>
+        <dc:date>2025-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>〜基礎から発展まで〜 BigQuery×Looker Studio のクエリコスト削減方法！ (CUEBiC Inc.)</title>
+        <link>https://speakerdeck.com/cuebic9bic/ji-chu-karafa-zhan-made-bigqueryxlooker-studio-nokuerikosutoxue-jian-fang-fa</link>
+        <dc:date>2025-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>One Big Tableのススメ / mybest-data-one-big-table-recommendation (Haruto Morota)</title>
+        <link>https://speakerdeck.com/hrtmrt/mybest-data-one-big-table-recommendation</link>
+        <dc:date>2025-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データバリデーションによるFeature Storeデータ品質の担保 (Yudai Hayashi)</title>
+        <link>https://speakerdeck.com/yudai00/detabaridesiyonniyorufeature-storedetapin-zhi-nodan-bao</link>
+        <dc:date>2025-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BASE Engineer Talk#3 〜ここでしか聞けない！？新規プロダクト開発のリアルに迫る〜  Pay ID開発現場のリアルな話をちょこっとお届け！ (Reina Okabe)</title>
         <link>https://www.docswell.com/s/rerenote/5M1148-2023-04-13-174109</link>
         <dc:date>2025-07-10T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>GitHub Copilot活用【サイボウズ新人研修2025】 (Cybozu)</title>
         <link>https://speakerdeck.com/cybozuinsideout/github-copilot-utilization</link>
-        <dc:date>2025-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モバイル【サイボウズ新人研修2025】 (Cybozu)</title>
-        <link>https://speakerdeck.com/cybozuinsideout/mobile-2025</link>
-        <dc:date>2025-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIともっと楽するE2Eテスト (Yohei Maeda)</title>
-        <link>https://speakerdeck.com/myohei/aitomotutole-surue2etesuto</link>
-        <dc:date>2025-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fast &amp; Reliable QuickBooks Desktop Support for Stress-Free Accounting (herrydi)</title>
-        <link>https://speakerdeck.com/herry982/fast-and-reliable-quickbooks-desktop-support-for-stress-free-accounting</link>
-        <dc:date>2025-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームで開発し事業を加速するための"良い"設計の考え方 @ サポーターズCoLab 2025-07-08 (Agata Naomichi)</title>
-        <link>https://speakerdeck.com/agatan/effective-design-principles-for-accelerating-business-with-your-team</link>
         <dc:date>2025-07-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
