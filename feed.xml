@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ameba CI/CD: Terraform and Argo CD Improvements (Kumo Ishikawa)</title>
+        <link>https://speakerdeck.com/kumorn5s/cd-terraform-and-argo-cd-improvements</link>
+        <dc:date>2025-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MCPを使ってイベントソーシングのAIコーディングを効率化する / Streamlining Event Sourcing AI Coding with MCP (Tomohisa Takaoka)</title>
         <link>https://speakerdeck.com/tomohisa/streamlining-event-sourcing-ai-coding-with-mcp</link>
         <dc:date>2025-07-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AI時代の『ドメイン駆動設計をはじめよう』 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/forkwell_library_fl_100</link>
         <dc:date>2025-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代の『改訂新版 良いコード／悪いコードで学ぶ設計入門』 / ai-good-code-bad-code (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/ai-good-code-bad-code</link>
-        <dc:date>2025-07-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
