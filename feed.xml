@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>150サービス連携を3人で運用する現場から - 創業４ヶ月目におけるオブザーバビリティの実践 (Hiroto Gamo)</title>
+        <link>https://speakerdeck.com/gamonges_dresscode/150sabisulian-xi-wo3ren-deyun-yong-suruxian-chang-kara-chuang-ye-4keyue-mu-niokeruobuzababiriteinoshi-jian</link>
+        <dc:date>2025-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ameba CI/CD: Terraform and Argo CD Improvements (Kumo Ishikawa)</title>
         <link>https://speakerdeck.com/kumorn5s/cd-terraform-and-argo-cd-improvements</link>
         <dc:date>2025-07-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Docker入門【サイボウズ新人研修2025】 (Cybozu)</title>
         <link>https://speakerdeck.com/cybozuinsideout/introduction-to-docker</link>
-        <dc:date>2025-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代の『ドメイン駆動設計をはじめよう』 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/forkwell_library_fl_100</link>
         <dc:date>2025-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
