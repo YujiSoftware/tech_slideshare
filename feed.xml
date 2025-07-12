@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM時代だからこその検索の重要性と応用 (mzntaka0)</title>
+        <link>https://speakerdeck.com/mzntaka0/llmshi-dai-dakarakosonojian-suo-nozhong-yao-xing-toying-yong</link>
+        <dc:date>2025-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[SRE NEXT] ARR150億円_エンジニア140名_27チーム_17プロダクトから始めるSLO.pdf (sato-s)</title>
+        <link>https://speakerdeck.com/satos/sre-next-arr150yi-yuan-ensinia140ming-27timu-17hurotakutokarashi-meruslo</link>
+        <dc:date>2025-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェントが書くのなら直接CloudFormationを書かせればいいじゃないですか何故AWS CDKを使う必要があるのさ (watany)</title>
+        <link>https://speakerdeck.com/watany/do-we-need-cdk2</link>
+        <dc:date>2025-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2025年のウェブプラットフォーム（Google I/O Extended Tokyo 2025 | 2025-07-05）</title>
         <link>https://docs.google.com/presentation/d/1EAjVMFTavBWRDrvawBbncVXfWgQhoDcc47cBBDSuoWY/preview</link>
         <dc:date>2025-07-11T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>QuickBooks Payroll®️ USA Support Number: Complete Guide (Nick Smith)</title>
         <link>https://speakerdeck.com/qbpayroll1/quickbooks-payroll-r-usa-support-number-complete-guide</link>
-        <dc:date>2025-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DuckDBを使ってみたら分析プロジェクトが動き出した (Yusuke Fukuda)</title>
-        <link>https://speakerdeck.com/tonegawa07/duckdbwoshi-tutemitarafen-xi-puroziekutogadong-kichu-sita</link>
-        <dc:date>2025-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>〜基礎から発展まで〜 BigQuery×Looker Studio のクエリコスト削減方法！ (CUEBiC Inc.)</title>
-        <link>https://speakerdeck.com/cuebic9bic/ji-chu-karafa-zhan-made-bigqueryxlooker-studio-nokuerikosutoxue-jian-fang-fa</link>
-        <dc:date>2025-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>One Big Tableのススメ / mybest-data-one-big-table-recommendation (Haruto Morota)</title>
-        <link>https://speakerdeck.com/hrtmrt/mybest-data-one-big-table-recommendation</link>
         <dc:date>2025-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
