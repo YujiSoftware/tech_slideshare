@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2025年のウェブプラットフォーム（Google I/O Extended Tokyo 2025 | 2025-07-05）</title>
+        <link>https://docs.google.com/presentation/d/1EAjVMFTavBWRDrvawBbncVXfWgQhoDcc47cBBDSuoWY/preview</link>
+        <dc:date>2025-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenTelemetryセマンティック規約の恩恵とMackerel APMにおける活用例 / SRE NEXT 2025 (mackerelio)</title>
+        <link>https://speakerdeck.com/mackerelio/sre-next-2025</link>
+        <dc:date>2025-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サイバーエージェントグループのSRE10年の歩みとAI時代の生存戦略 (shotaTsuge)</title>
         <link>https://speakerdeck.com/shotatsuge/a-decade-of-sre-at-cyberagent-group-and-survival-strategies-in-the-ai-era</link>
         <dc:date>2025-07-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>One Big Tableのススメ / mybest-data-one-big-table-recommendation (Haruto Morota)</title>
         <link>https://speakerdeck.com/hrtmrt/mybest-data-one-big-table-recommendation</link>
-        <dc:date>2025-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データバリデーションによるFeature Storeデータ品質の担保 (Yudai Hayashi)</title>
-        <link>https://speakerdeck.com/yudai00/detabaridesiyonniyorufeature-storedetapin-zhi-nodan-bao</link>
-        <dc:date>2025-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BASE Engineer Talk#3 〜ここでしか聞けない！？新規プロダクト開発のリアルに迫る〜  Pay ID開発現場のリアルな話をちょこっとお届け！ (Reina Okabe)</title>
-        <link>https://www.docswell.com/s/rerenote/5M1148-2023-04-13-174109</link>
         <dc:date>2025-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
