@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>〜『世界中の家族のこころのインフラ』を目指して”次の10年”へ〜 SREが導いたグローバルサービスの信頼性向上戦略とその舞台裏 / Towards the Next Decade: Enhancing Global Service Reliability (kohbis)</title>
+        <link>https://speakerdeck.com/kohbis/towards-the-next-decade-enhancing-global-service-reliability-through-sre</link>
+        <dc:date>2025-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREのためのeBPF活用ステップアップガイド (Sohei Iwahori)</title>
         <link>https://speakerdeck.com/egmc/srenotamenoebpfhuo-yong-sutetupuatupugaido</link>
         <dc:date>2025-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>60以上のプロダクトを持つ組織における開発者体験向上への取り組み - チームAPIとBackstageで構築する組織の可視化基盤 - / sre next 2025 Efforts to Improve Developer Experience in an Organization with Over 60 Products (VTRyo)</title>
         <link>https://speakerdeck.com/vtryo/sre-next-2025-efforts-to-improve-developer-experience-in-an-organization-with-over-60-products</link>
-        <dc:date>2025-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[関西Kaggler会2025#2LT] 初学者+MLエンジニア対象！ モダンなPythonの書き方 (Kohei Iwamasa)</title>
-        <link>https://speakerdeck.com/koheiiwamasa/guan-xi-kagglerhui-2025-number-2lt-chu-xue-zhe-plus-mlenziniadui-xiang-modannapythonnoshu-kifang</link>
         <dc:date>2025-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
