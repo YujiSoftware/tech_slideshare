@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREのためのeBPF活用ステップアップガイド (Sohei Iwahori)</title>
+        <link>https://speakerdeck.com/egmc/srenotamenoebpfhuo-yong-sutetupuatupugaido</link>
+        <dc:date>2025-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SRE へのサポートケースをAIに管理させる方法 (Takashi IIGUNI)</title>
         <link>https://speakerdeck.com/guni1192/sre-henosapotokesuwoainiguan-li-saserufang-fa</link>
         <dc:date>2025-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[関西Kaggler会2025#2LT] 初学者+MLエンジニア対象！ モダンなPythonの書き方 (Kohei Iwamasa)</title>
         <link>https://speakerdeck.com/koheiiwamasa/guan-xi-kagglerhui-2025-number-2lt-chu-xue-zhe-plus-mlenziniadui-xiang-modannapythonnoshu-kifang</link>
-        <dc:date>2025-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI エージェントと考え直すデータ基盤 (na0)</title>
-        <link>https://speakerdeck.com/na0/ai-ezientotokao-ezhi-sudetaji-pan</link>
         <dc:date>2025-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
