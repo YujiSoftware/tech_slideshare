@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Gemini CLI入門 (カレーちゃん,@currypurin)</title>
+        <link>https://www.docswell.com/s/currypurin/533QR1-2025-07-13-225715</link>
+        <dc:date>2025-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>〜『世界中の家族のこころのインフラ』を目指して”次の10年”へ〜 SREが導いたグローバルサービスの信頼性向上戦略とその舞台裏 / Towards the Next Decade: Enhancing Global Service Reliability (kohbis)</title>
         <link>https://speakerdeck.com/kohbis/towards-the-next-decade-enhancing-global-service-reliability-through-sre</link>
         <dc:date>2025-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>とあるSREの博士「過程」 / A Certain SRE’s Ph.D. Journey  (Yuuki Tsubouchi (yuuk1))</title>
         <link>https://speakerdeck.com/yuukit/a-certain-sres-ph-dot-d-journey</link>
-        <dc:date>2025-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>60以上のプロダクトを持つ組織における開発者体験向上への取り組み - チームAPIとBackstageで構築する組織の可視化基盤 - / sre next 2025 Efforts to Improve Developer Experience in an Organization with Over 60 Products (VTRyo)</title>
-        <link>https://speakerdeck.com/vtryo/sre-next-2025-efforts-to-improve-developer-experience-in-an-organization-with-over-60-products</link>
         <dc:date>2025-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
