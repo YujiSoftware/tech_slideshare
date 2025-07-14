@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アクセスピークを制するオートスケール再設計: 障害を乗り越えKEDAで実現したリソース管理の最適化 (M-Yamashita)</title>
+        <link>https://speakerdeck.com/myamashii/akusesupikuwozhi-suruotosukeruzai-she-ji-zhang-hai-wocheng-riyue-ekedadeshi-xian-sitarisosuguan-li-nozui-shi-hua</link>
+        <dc:date>2025-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Gemini CLIのハンズオン資料を作った時に気づいたこと (中村薫,@kaorun55)</title>
         <link>https://www.docswell.com/s/kaorun55/581EJP-2025-07-13-221021</link>
         <dc:date>2025-07-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Ameba CI/CD: Terraform and Argo CD Improvements (Kumo Ishikawa)</title>
         <link>https://speakerdeck.com/kumorn5s/cd-terraform-and-argo-cd-improvements</link>
-        <dc:date>2025-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCPを使ってイベントソーシングのAIコーディングを効率化する / Streamlining Event Sourcing AI Coding with MCP (Tomohisa Takaoka)</title>
-        <link>https://speakerdeck.com/tomohisa/streamlining-event-sourcing-ai-coding-with-mcp</link>
         <dc:date>2025-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
