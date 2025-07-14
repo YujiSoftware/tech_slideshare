@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コンテンツマーケティングの戦略設計（2025年版） (Yasuki Ichishima)</title>
+        <link>https://speakerdeck.com/makitani/kontentumaketeingunozhan-lue-she-ji-2025nian-ban</link>
+        <dc:date>2025-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScriptでDXを上げろ！ Hono編 (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/typescriptdedxwoshang-gero-honobian</link>
+        <dc:date>2025-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20250708オープンエンドな探索と知識発見 (Sakana AI)</title>
         <link>https://speakerdeck.com/sakana_ai/20250708opunendonatan-suo-tozhi-shi-fa-jian</link>
         <dc:date>2025-07-13T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>フロントエンドのパフォーマンスチューニング (kouki.miura)</title>
         <link>https://speakerdeck.com/koukimiura/hurontoendonopahuomansutiyuningu</link>
-        <dc:date>2025-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM時代だからこその検索の重要性と応用 (mzntaka0)</title>
-        <link>https://speakerdeck.com/mzntaka0/llmshi-dai-dakarakosonojian-suo-nozhong-yao-xing-toying-yong</link>
-        <dc:date>2025-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[SRE NEXT] ARR150億円_エンジニア140名_27チーム_17プロダクトから始めるSLO.pdf (sato-s)</title>
-        <link>https://speakerdeck.com/satos/sre-next-arr150yi-yuan-ensinia140ming-27timu-17hurotakutokarashi-meruslo</link>
         <dc:date>2025-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
