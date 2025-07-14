@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20250708オープンエンドな探索と知識発見 (Sakana AI)</title>
+        <link>https://speakerdeck.com/sakana_ai/20250708opunendonatan-suo-tozhi-shi-fa-jian</link>
+        <dc:date>2025-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AIからエージェントAIへの移行の課題と展望 (高橋浩,@httakaha)</title>
         <link>https://www.docswell.com/s/5451263343/KV6J3P-2025-07-09-162035</link>
         <dc:date>2025-07-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[SRE NEXT] ARR150億円_エンジニア140名_27チーム_17プロダクトから始めるSLO.pdf (sato-s)</title>
         <link>https://speakerdeck.com/satos/sre-next-arr150yi-yuan-ensinia140ming-27timu-17hurotakutokarashi-meruslo</link>
-        <dc:date>2025-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントが書くのなら直接CloudFormationを書かせればいいじゃないですか何故AWS CDKを使う必要があるのさ (watany)</title>
-        <link>https://speakerdeck.com/watany/do-we-need-cdk2</link>
         <dc:date>2025-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
