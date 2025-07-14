@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新入社員のオンボーディングの中には AIエージェントのオンボーディングにも繋がるところがあった話</title>
+        <link>https://docs.google.com/presentation/d/1VVexA-_DIlSU3ueXEbRXDV7ccIG7-wf_vyiV9XubSSY/preview</link>
+        <dc:date>2025-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スキルだけでは満たせない、 “組織全体に”なじむオンボーディング/Onboarding that fits “throughout the organization” and cannot be satisfied by skills alone (株式会社ビットキー / Bitkey Inc.)</title>
+        <link>https://speakerdeck.com/bitkey/onboarding-that-fits-throughout-the-organization-and-cannot-be-satisfied-by-skills-alone</link>
+        <dc:date>2025-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術スタックだけじゃない、業務ドメイン知識のオンボーディングも同じくらいの量が必要な話 (ニフティ株式会社)</title>
+        <link>https://speakerdeck.com/niftycorp/20250226-d-plus-tokyo-11-ashikawa</link>
+        <dc:date>2025-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フルリモートでオンボードし続ける環境作り (tkkz1009)</title>
+        <link>https://speakerdeck.com/tkkz1009/hururimotodeonbodosisok-keruhuan-jing-zuo-ri</link>
+        <dc:date>2025-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オフィスビルを監視しよう：フィジカル×デジタルにまたがるSLI/SLO設計と運用の難しさ / Monitoring Office Buildings: The Challenge of Physical-Digital SLI/SLO Design &amp; Operation (株式会社ビットキー / Bitkey Inc.)</title>
+        <link>https://speakerdeck.com/bitkey/slo-design-and-operation</link>
+        <dc:date>2025-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アクセスピークを制するオートスケール再設計: 障害を乗り越えKEDAで実現したリソース管理の最適化 (M-Yamashita)</title>
         <link>https://speakerdeck.com/myamashii/akusesupikuwozhi-suruotosukeruzai-she-ji-zhang-hai-wocheng-riyue-ekedadeshi-xian-sitarisosuguan-li-nozui-shi-hua</link>
         <dc:date>2025-07-13T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>OpenTelemetryセマンティック規約の恩恵とMackerel APMにおける活用例 / SRE NEXT 2025 (mackerelio)</title>
         <link>https://speakerdeck.com/mackerelio/sre-next-2025</link>
-        <dc:date>2025-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイバーエージェントグループのSRE10年の歩みとAI時代の生存戦略 (shotaTsuge)</title>
-        <link>https://speakerdeck.com/shotatsuge/a-decade-of-sre-at-cyberagent-group-and-survival-strategies-in-the-ai-era</link>
-        <dc:date>2025-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フルリモートで社内にどうやって自分の居場所を作るのか？ (Satoshi Kaneyasu)</title>
-        <link>https://speakerdeck.com/satoshi256kbyte/hururimototeshe-nei-nitouyatutezi-fen-noju-chang-suo-wozuo-runoka</link>
-        <dc:date>2025-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>きっとあなたの知らないGitHubで使えるGitHub Copilotの機能 (Kenta Kase,@Kesin11)</title>
-        <link>https://www.docswell.com/s/Kesin11/5GGJYL-2025-07-11-github-copilot-on-github</link>
-        <dc:date>2025-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>150サービス連携を3人で運用する現場から - 創業４ヶ月目におけるオブザーバビリティの実践 (Hiroto Gamo)</title>
-        <link>https://speakerdeck.com/gamonges_dresscode/150sabisulian-xi-wo3ren-deyun-yong-suruxian-chang-kara-chuang-ye-4keyue-mu-niokeruobuzababiriteinoshi-jian</link>
-        <dc:date>2025-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ameba CI/CD: Terraform and Argo CD Improvements (Kumo Ishikawa)</title>
-        <link>https://speakerdeck.com/kumorn5s/cd-terraform-and-argo-cd-improvements</link>
         <dc:date>2025-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
