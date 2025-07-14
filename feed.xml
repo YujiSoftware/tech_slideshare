@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアのためのアウトプット講座 〜知識をシェアするはじめの一歩〜【サイボウズ新人研修2025】 (Cybozu)</title>
+        <link>https://speakerdeck.com/cybozuinsideout/output-lecture-for-engineers</link>
+        <dc:date>2025-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新入社員のオンボーディングの中には AIエージェントのオンボーディングにも繋がるところがあった話</title>
         <link>https://docs.google.com/presentation/d/1VVexA-_DIlSU3ueXEbRXDV7ccIG7-wf_vyiV9XubSSY/preview</link>
         <dc:date>2025-07-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2025年のウェブプラットフォーム（Google I/O Extended Tokyo 2025 | 2025-07-05）</title>
         <link>https://docs.google.com/presentation/d/1EAjVMFTavBWRDrvawBbncVXfWgQhoDcc47cBBDSuoWY/preview</link>
-        <dc:date>2025-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenTelemetryセマンティック規約の恩恵とMackerel APMにおける活用例 / SRE NEXT 2025 (mackerelio)</title>
-        <link>https://speakerdeck.com/mackerelio/sre-next-2025</link>
         <dc:date>2025-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
