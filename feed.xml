@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Azure無料サービスだけでアプリ構築する 2025 (御成門プログラマー(Tomotaka Suzuki),@onarimonprogram)</title>
+        <link>https://www.docswell.com/s/onarimon-program/K4V1RL-2025-05-10-142426</link>
+        <dc:date>2025-07-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「批評」を習慣にするための仕組みと場のデザイン/uxdesign202507 (日本経済新聞社 エンジニア採用事務局)</title>
+        <link>https://speakerdeck.com/nikkei_engineer_recruiting/uxdesign202507</link>
+        <dc:date>2025-07-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>点群処理Backbone Networkと点群の事前学習/表現学習 (Naoya Chiba)</title>
         <link>https://speakerdeck.com/nnchiba/biao-xian-xue-xi</link>
         <dc:date>2025-07-14T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Gemini CLI入門 (カレーちゃん,@currypurin)</title>
         <link>https://www.docswell.com/s/currypurin/533QR1-2025-07-13-225715</link>
         <dc:date>2025-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>〜『世界中の家族のこころのインフラ』を目指して”次の10年”へ〜 SREが導いたグローバルサービスの信頼性向上戦略とその舞台裏 / Towards the Next Decade: Enhancing Global Service Reliability (kohbis)</title>
-        <link>https://speakerdeck.com/kohbis/towards-the-next-decade-enhancing-global-service-reliability-through-sre</link>
-        <dc:date>2025-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREのためのeBPF活用ステップアップガイド (Sohei Iwahori)</title>
-        <link>https://speakerdeck.com/egmc/srenotamenoebpfhuo-yong-sutetupuatupugaido</link>
-        <dc:date>2025-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
