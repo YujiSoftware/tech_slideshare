@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>型で語るカタ (irof)</title>
+        <link>https://speakerdeck.com/irof/katakatakata</link>
+        <dc:date>2025-07-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>顧客の画像データをテラバイト単位で配信する 画像サーバを WebP にした際に起こった課題と その対応策  ～継続的な取り組みを添えて～ (Takuya TAKAHASHI)</title>
         <link>https://speakerdeck.com/takutakahashi/gu-ke-nohua-xiang-detawoterabaitodan-wei-depei-xin-suru-hua-xiang-sabawo-webp-nisitaji-niqi-kotutake-ti-to-sonodui-ying-ce-ji-sok-de-naqu-rizu-miwotian-ete</link>
         <dc:date>2025-07-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>対話型音声AIアプリケーションの信頼性向上の取り組み (株式会社IVRy（社員登壇資料）)</title>
         <link>https://speakerdeck.com/ivry_presentationmaterials/dui-hua-xing-yin-sheng-aiapurikesiyonnoxin-lai-xing-xiang-shang-noqu-rizu-mi</link>
-        <dc:date>2025-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Gemini CLIxClaude Code MCPで便利に使おう (からあげ,@karaage0703)</title>
-        <link>https://www.docswell.com/s/karaage0703/KYER3L-2025-07-13-212147</link>
         <dc:date>2025-07-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
