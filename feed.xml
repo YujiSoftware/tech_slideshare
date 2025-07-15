@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>点群処理Backbone Networkと点群の事前学習/表現学習 (Naoya Chiba)</title>
+        <link>https://speakerdeck.com/nnchiba/biao-xian-xue-xi</link>
+        <dc:date>2025-07-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>75 Ways to call to Live Agent at United™ Airlines USA™: Step-by-Step Guide (johncena)</title>
         <link>https://speakerdeck.com/americanliveagent/75-ways-to-call-to-live-agent-at-united-airlines-usa-step-by-step-guide</link>
         <dc:date>2025-07-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SREのためのeBPF活用ステップアップガイド (Sohei Iwahori)</title>
         <link>https://speakerdeck.com/egmc/srenotamenoebpfhuo-yong-sutetupuatupugaido</link>
-        <dc:date>2025-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SRE へのサポートケースをAIに管理させる方法 (Takashi IIGUNI)</title>
-        <link>https://speakerdeck.com/guni1192/sre-henosapotokesuwoainiguan-li-saserufang-fa</link>
         <dc:date>2025-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
