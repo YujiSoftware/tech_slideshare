@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM拡張解体新書/llm-extension-deep-dive (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/llm-extension-deep-dive</link>
+        <dc:date>2025-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>仕組みから学ぶGitハンズオン (MATSUOKA Takashi,@matsujirushi12)</title>
         <link>https://www.docswell.com/s/matsujirushi/Z4ERWD-2025-07-12-134448</link>
         <dc:date>2025-07-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20250708オープンエンドな探索と知識発見 (Sakana AI)</title>
         <link>https://speakerdeck.com/sakana_ai/20250708opunendonatan-suo-tozhi-shi-fa-jian</link>
-        <dc:date>2025-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIからエージェントAIへの移行の課題と展望 (高橋浩,@httakaha)</title>
-        <link>https://www.docswell.com/s/5451263343/KV6J3P-2025-07-09-162035</link>
         <dc:date>2025-07-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
