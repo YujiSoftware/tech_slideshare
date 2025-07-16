@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>How to integrate AI into engineer recruitment / AIをエンジニア採用にどのように馴染ませていくか (Songmu)</title>
+        <link>https://speakerdeck.com/songmu/how-to-integrate-ai-into-engineer-recruitment</link>
+        <dc:date>2025-07-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI Agent による実装のベストプラクティス - AI Coding Agent の効果証明と組織展開 (Kiminori Yokoi)</title>
         <link>https://speakerdeck.com/nasuvitz/ai-agent-niyorushi-zhuang-nobesutopurakuteisu-ai-coding-agent-noxiao-guo-zheng-ming-tozu-zhi-zhan-kai</link>
         <dc:date>2025-07-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アクセスピークを制するオートスケール再設計: 障害を乗り越えKEDAで実現したリソース管理の最適化 (M-Yamashita)</title>
         <link>https://speakerdeck.com/myamashii/akusesupikuwozhi-suruotosukeruzai-she-ji-zhang-hai-wocheng-riyue-ekedadeshi-xian-sitarisosuguan-li-nozui-shi-hua</link>
-        <dc:date>2025-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Gemini CLIのハンズオン資料を作った時に気づいたこと (中村薫,@kaorun55)</title>
-        <link>https://www.docswell.com/s/kaorun55/581EJP-2025-07-13-221021</link>
         <dc:date>2025-07-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
