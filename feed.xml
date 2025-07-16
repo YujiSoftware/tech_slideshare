@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>仕組みから学ぶGitハンズオン (MATSUOKA Takashi,@matsujirushi12)</title>
+        <link>https://www.docswell.com/s/matsujirushi/Z4ERWD-2025-07-12-134448</link>
+        <dc:date>2025-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code と Gemini CLI で登壇資料を作ってみた (schroneko)</title>
+        <link>https://speakerdeck.com/schroneko/vibe-sliding</link>
+        <dc:date>2025-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code メモリ管理と効率的な開発手法 (papa_developer)</title>
+        <link>https://speakerdeck.com/developerhost/claude-code-memoriguan-li-toxiao-lu-de-nakai-fa-shou-fa</link>
+        <dc:date>2025-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>全部AI、全員Cursor、ドキュメント駆動開発 〜DevinやGeminiも添えて〜 (Masaya Hayashi)</title>
         <link>https://speakerdeck.com/rinchsan/quan-bu-ai-quan-yuan-cursor-dokiyumentoqu-dong-kai-fa-devinyageminimotian-ete</link>
         <dc:date>2025-07-15T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>生成AIからエージェントAIへの移行の課題と展望 (高橋浩,@httakaha)</title>
         <link>https://www.docswell.com/s/5451263343/KV6J3P-2025-07-09-162035</link>
-        <dc:date>2025-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアのためのアウトプット講座 〜知識をシェアするはじめの一歩〜【サイボウズ新人研修2025】 (Cybozu)</title>
-        <link>https://speakerdeck.com/cybozuinsideout/output-lecture-for-engineers</link>
-        <dc:date>2025-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新入社員のオンボーディングの中には AIエージェントのオンボーディングにも繋がるところがあった話</title>
-        <link>https://docs.google.com/presentation/d/1VVexA-_DIlSU3ueXEbRXDV7ccIG7-wf_vyiV9XubSSY/preview</link>
-        <dc:date>2025-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スキルだけでは満たせない、 “組織全体に”なじむオンボーディング/Onboarding that fits “throughout the organization” and cannot be satisfied by skills alone (株式会社ビットキー / Bitkey Inc.)</title>
-        <link>https://speakerdeck.com/bitkey/onboarding-that-fits-throughout-the-organization-and-cannot-be-satisfied-by-skills-alone</link>
         <dc:date>2025-07-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
