@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI Agent による実装のベストプラクティス - AI Coding Agent の効果証明と組織展開 (Kiminori Yokoi)</title>
+        <link>https://speakerdeck.com/nasuvitz/ai-agent-niyorushi-zhuang-nobesutopurakuteisu-ai-coding-agent-noxiao-guo-zheng-ming-tozu-zhi-zhan-kai</link>
+        <dc:date>2025-07-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Rethinking Incident Response: Context-Aware AI in Practice (rrreeeyyy)</title>
         <link>https://speakerdeck.com/rrreeeyyy/rethinking-incident-response-context-aware-ai-in-practice</link>
         <dc:date>2025-07-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Gemini CLIのハンズオン資料を作った時に気づいたこと (中村薫,@kaorun55)</title>
         <link>https://www.docswell.com/s/kaorun55/581EJP-2025-07-13-221021</link>
-        <dc:date>2025-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>面倒な作業はAIにおまかせ。Flutter開発をスマートに効率化 (Rui)</title>
-        <link>https://speakerdeck.com/ruideengineer/mian-dao-nazuo-ye-haainiomakase-flutterkai-fa-wosumatonixiao-lu-hua</link>
         <dc:date>2025-07-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
