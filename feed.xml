@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロンプトインジェクション2.0 : 進化する防御機構とその回避手法 (yuasa)</title>
+        <link>https://speakerdeck.com/melonattacker/puronputoinziekusiyon2-dot-0-jin-hua-surufang-yu-ji-gou-tosonohui-bi-shou-fa</link>
+        <dc:date>2025-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PHPでやってみよう！テストだけじゃない、デシジョンテーブル（決定表）実装の勘所 (katzumi,@katzchum)</title>
         <link>https://www.docswell.com/s/katzumi/KLQL3Q-decision-table-implementation-tips</link>
         <dc:date>2025-07-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェア設計とAI技術の活用 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/devsumi-summer-2025-software-design-and-ai-technology</link>
-        <dc:date>2025-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Summit Japan 2024と2025の比較／はじめてのKiro、今あなたは岐路に立つ (Satoshi Kaneyasu)</title>
-        <link>https://speakerdeck.com/satoshi256kbyte/aws-summit-japan-2024to2025nobi-jiao-slash-hasimetenokiro-kirotesheng-kiro</link>
         <dc:date>2025-07-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
