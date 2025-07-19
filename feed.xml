@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHPでやってみよう！テストだけじゃない、デシジョンテーブル（決定表）実装の勘所 (katzumi,@katzchum)</title>
+        <link>https://www.docswell.com/s/katzumi/KLQL3Q-decision-table-implementation-tips</link>
+        <dc:date>2025-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>現場で使える！思考のプロトタイピングツールとしての Dify活用術 with Cursor (Daisuke Miyata,@miyatti)</title>
+        <link>https://www.docswell.com/s/miyatti/ZYMDVR-2025-07-19-135132</link>
+        <dc:date>2025-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>構文解析器入門 (ydah)</title>
         <link>https://speakerdeck.com/ydah/parser-basics-40766b3a-6e56-4b5e-bbb0-b77c09806158</link>
         <dc:date>2025-07-18T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>AWS Summit Japan 2024と2025の比較／はじめてのKiro、今あなたは岐路に立つ (Satoshi Kaneyasu)</title>
         <link>https://speakerdeck.com/satoshi256kbyte/aws-summit-japan-2024to2025nobi-jiao-slash-hasimetenokiro-kirotesheng-kiro</link>
         <dc:date>2025-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeを使って不確実性と戦う / claude-code-fights-uncertainty  (erukiti)</title>
-        <link>https://speakerdeck.com/erukiti/claude-code-fights-uncertainty</link>
-        <dc:date>2025-07-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>{𝐅𝓐𝒬-𝐇𝗘𝘓𝙿} - How to ReSolve Common QuickBooks Payroll™ Support for {{U.S}} Users (podib)</title>
-        <link>https://speakerdeck.com/podib17/how-to-resolve-common-quickbooks-payroll-support-for-u-dot-s-users</link>
-        <dc:date>2025-07-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
