@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Bliki (ja), and the Cathedral, and the Bazaar (Koichi ITO)</title>
+        <link>https://speakerdeck.com/koic/bliki-ja-and-the-cathedral-and-the-bazaar</link>
+        <dc:date>2025-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>(HackFes)米国国防総省のDevSecOpsライフサイクルをAWSのセキュリティサービスとOSSで実現 (Shun Yoshie)</title>
         <link>https://speakerdeck.com/syoshie/hackfes-mi-guo-guo-fang-zong-sheng-nodevsecopsraihusaikuruwoawsnosekiyuriteisabisutoossdeshi-xian</link>
         <dc:date>2025-07-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【hsjoihs】オートマトンと形式言語理論：理論と実践の橋渡し part 2〔正規表現編〕【Nextbeat Tech Bar】</title>
         <link>https://docs.google.com/presentation/d/16BrdXIiYkVUPlwiiEuZEcHri7Nkp7Q0NG7V7sMRuIPA/preview</link>
-        <dc:date>2025-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代のエンジニア育成課題を『モデリング』と『生成AI』でなんとかする (おだかとしゆき)</title>
-        <link>https://speakerdeck.com/jgeem/aishi-dai-noenziniayu-cheng-ke-ti-wo-moderingu-to-sheng-cheng-ai-denantokasuru</link>
         <dc:date>2025-07-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
