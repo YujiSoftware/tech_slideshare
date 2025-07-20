@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>カレーちゃんさんのAI道場_obsidian初学者勉強会_座禅いぬ (zazen_inu)</title>
+        <link>https://speakerdeck.com/zazen_inu/karetiyansannoaidao-chang-obsidianchu-xue-zhe-mian-qiang-hui-zuo-shan-inu</link>
+        <dc:date>2025-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ObsidianxClaude Code情報管理術 (からあげ,@karaage0703)</title>
+        <link>https://www.docswell.com/s/karaage0703/KV463J-2025-07-20-220731</link>
+        <dc:date>2025-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ObsidianをLLM時代のナレッジベースに！  クリッピング→Markdown→CLI連携の実践 (Reiki Hattori)</title>
+        <link>https://speakerdeck.com/srvhat09/obsidianwollmshi-dai-nonaretuzibesuni-kuritupingu-markdown-clilian-xi-noshi-jian</link>
+        <dc:date>2025-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MCP とマネージド PaaS で実現する大規模 AI アプリケーションの高速開発 (Nahoko Ushirokawa)</title>
         <link>https://speakerdeck.com/nahokoxxx/mcp-tomanezido-paas-deshi-xian-suruda-gui-mo-ai-apurikesiyonnogao-su-kai-fa</link>
         <dc:date>2025-07-19T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>React は次の10年を生き残れるか：3つのトレンドから考える (Yuka O’oka)</title>
         <link>https://speakerdeck.com/oukayuka/react-haci-no10nian-wosheng-kican-reruka-3tunotorendokarakao-eru</link>
-        <dc:date>2025-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Ready API ─ AI時代に求められるAPI設計とは？/ AI-Ready API - Designing MCP and APIs in the AI Era (Yoichi Kawasaki)</title>
-        <link>https://speakerdeck.com/yokawasa/ai-ready-api-designing-mcp-and-apis-in-the-ai-era</link>
-        <dc:date>2025-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SQLアンチパターン第2版 データベースプログラミングで陥りがちな失敗とその対策 / Intro to SQL Antipatterns 2nd (Takuto Wada)</title>
-        <link>https://speakerdeck.com/twada/intro-to-sql-antipatterns-2nd</link>
-        <dc:date>2025-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vibe Codingの幻想を超えて-生成AIを現場で使えるようにするまでの泥臭い話.ai (Kuu)</title>
-        <link>https://speakerdeck.com/fumiyakume/vibe-codingnohuan-xiang-wochao-ete-sheng-cheng-aiwoxian-chang-teshi-eruyounisurumatenoni-chou-ihua-dot-ai</link>
         <dc:date>2025-07-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
