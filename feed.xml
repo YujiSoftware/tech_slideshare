@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Obsidian入門 x オススメのプラグインの紹介 (カレーちゃん,@currypurin)</title>
+        <link>https://www.docswell.com/s/currypurin/5D22MW-2025-07-21-065749</link>
+        <dc:date>2025-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Shadow DOM &amp; Security - Exploring the boundary between light and shadow (Masato Kinugawa)</title>
         <link>https://speakerdeck.com/masatokinugawa/shadow-dom-and-security-exploring-the-boundary-between-light-and-shadow</link>
         <dc:date>2025-07-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>本当にわかりやすいAIエージェント入門 (segavvy)</title>
         <link>https://speakerdeck.com/segavvy/ben-dang-niwakariyasuiaiezientoru-men</link>
         <dc:date>2025-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バイブコーディング超えてバイブデプロイ〜CloudflareMCPで実現する、未来のアプリケーションデリバリー〜 (azukiazusa)</title>
-        <link>https://speakerdeck.com/azukiazusa1/baibukodeinguchao-etebaibudepuroi-cloudflaremcpdeshi-xian-suru-wei-lai-noapurikesiyonderibari</link>
-        <dc:date>2025-07-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
