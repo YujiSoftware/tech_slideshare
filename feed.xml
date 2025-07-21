@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Shadow DOM &amp; Security - Exploring the boundary between light and shadow (Masato Kinugawa)</title>
+        <link>https://speakerdeck.com/masatokinugawa/shadow-dom-and-security-exploring-the-boundary-between-light-and-shadow</link>
+        <dc:date>2025-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>カレーちゃんさんのAI道場_obsidian初学者勉強会_座禅いぬ (zazen_inu)</title>
         <link>https://speakerdeck.com/zazen_inu/karetiyansannoaidao-chang-obsidianchu-xue-zhe-mian-qiang-hui-zuo-shan-inu</link>
         <dc:date>2025-07-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>バイブコーディング超えてバイブデプロイ〜CloudflareMCPで実現する、未来のアプリケーションデリバリー〜 (azukiazusa)</title>
         <link>https://speakerdeck.com/azukiazusa1/baibukodeinguchao-etebaibudepuroi-cloudflaremcpdeshi-xian-suru-wei-lai-noapurikesiyonderibari</link>
-        <dc:date>2025-07-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React は次の10年を生き残れるか：3つのトレンドから考える (Yuka O’oka)</title>
-        <link>https://speakerdeck.com/oukayuka/react-haci-no10nian-wosheng-kican-reruka-3tunotorendokarakao-eru</link>
         <dc:date>2025-07-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
