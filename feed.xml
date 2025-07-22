@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践！ AIエージェント導入記  (森本タカヒロ)</title>
+        <link>https://speakerdeck.com/1mono2prod/shi-jian-aiezientodao-ru-ji</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エージェントに記憶を与える -コンテキスト管理の設計と実践 (autotaker)</title>
+        <link>https://speakerdeck.com/autotaker/ezientoniji-yi-woyu-eru-kontekisutoguan-li-noshe-ji-toshi-jian</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OTel 公式ドキュメント翻訳 PJ から始めるコミュニティ活動/Community activities starting with the OTel official document translation project (Msksgm)</title>
+        <link>https://speakerdeck.com/msksgm/community-activities-starting-with-the-otel-official-document-translation-project</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>M365アカウント侵害時の初動対応 (LHazy)</title>
+        <link>https://speakerdeck.com/lhazy/m365akauntoqin-hai-shi-nochu-dong-dui-ying</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GeminiCLIの基礎と、色々な自動化を紹介 (カレーちゃん,@currypurin)</title>
         <link>https://www.docswell.com/s/currypurin/ZW4RPP-2025-07-22-193309</link>
         <dc:date>2025-07-21T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>PHPでやってみよう！テストだけじゃない、デシジョンテーブル（決定表）実装の勘所 (katzumi,@katzchum)</title>
         <link>https://www.docswell.com/s/katzumi/KLQL3Q-decision-table-implementation-tips</link>
-        <dc:date>2025-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現場で使える！思考のプロトタイピングツールとしての Dify活用術 with Cursor (Daisuke Miyata,@miyatti)</title>
-        <link>https://www.docswell.com/s/miyatti/ZYMDVR-2025-07-19-135132</link>
-        <dc:date>2025-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>構文解析器入門 (ydah)</title>
-        <link>https://speakerdeck.com/ydah/parser-basics-40766b3a-6e56-4b5e-bbb0-b77c09806158</link>
-        <dc:date>2025-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>低レイヤソフトウェア技術者が YouTuberとして食っていこうとした話 (Satoru Takeuchi)</title>
-        <link>https://speakerdeck.com/sat/di-reiyasohutoueaji-shu-zhe-ga-youtubertositeshi-tuteikoutositahua</link>
-        <dc:date>2025-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Data Engineering Study#30 LT資料 (tetsuroito)</title>
-        <link>https://speakerdeck.com/tetsuroito/data-engineering-study-number-30-ltzi-liao</link>
         <dc:date>2025-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
