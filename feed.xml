@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHPカンファレンス関西2025　基調講演 (SUGIMOTO Kei)</title>
+        <link>https://speakerdeck.com/sugimotokei/phpkanhuarensuguan-xi-2025-ji-diao-jiang-yan</link>
+        <dc:date>2025-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Obsidian入門 x オススメのプラグインの紹介 (カレーちゃん,@currypurin)</title>
         <link>https://www.docswell.com/s/currypurin/5D22MW-2025-07-21-065749</link>
         <dc:date>2025-07-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「現場で活躍するAIエージェント」を実現するチームと開発プロセス (takuya kikuchi)</title>
         <link>https://speakerdeck.com/tkikuchi1002/20250718-algomatic-aoai-dev-day</link>
-        <dc:date>2025-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>本当にわかりやすいAIエージェント入門 (segavvy)</title>
-        <link>https://speakerdeck.com/segavvy/ben-dang-niwakariyasuiaiezientoru-men</link>
         <dc:date>2025-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
