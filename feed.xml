@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アクセシビリティとの出会いと 最近の改善事例について</title>
+        <link>https://docs.google.com/presentation/d/1Gj0WU7F7sVjab3WLtsu-vcSE2MgCELUSDjkIO5JbIE8/preview</link>
+        <dc:date>2025-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>axe-dev-tooltipを作ったので御覧ください</title>
+        <link>https://docs.google.com/presentation/d/12QNk4jnaLZS8bvJmvxMQ-NH1O9EQ7hnhcST-D6SbKAg/preview</link>
+        <dc:date>2025-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スプリントレビューを効果的にするために (Miho Nagase)</title>
+        <link>https://speakerdeck.com/miholovesq/how-to-make-sprint-review-effective</link>
+        <dc:date>2025-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PHPカンファレンス関西2025　基調講演 (SUGIMOTO Kei)</title>
         <link>https://speakerdeck.com/sugimotokei/phpkanhuarensuguan-xi-2025-ji-diao-jiang-yan</link>
         <dc:date>2025-07-21T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>AWS Well-Architected から考えるオブザーバビリティの勘所 / Considering the Essentials of Observability from AWS Well-Architected (SMS tech)</title>
         <link>https://speakerdeck.com/sms_tech/considering-the-essentials-of-observability-from-aws-well-architected</link>
-        <dc:date>2025-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オーディオ処理入門 ボイスチェンジャーを作ろう (hotwatermorning)</title>
-        <link>https://speakerdeck.com/hotwatermorning/oteiochu-li-ru-men-hoisutiensiyawozuo-rou</link>
-        <dc:date>2025-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>P2P通信の標準化 WebRTCを知ろう (Akira Takahashi)</title>
-        <link>https://speakerdeck.com/faithandbrave/p2ptong-xin-nobiao-zhun-hua-webrtcwozhi-rou</link>
-        <dc:date>2025-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「現場で活躍するAIエージェント」を実現するチームと開発プロセス (takuya kikuchi)</title>
-        <link>https://speakerdeck.com/tkikuchi1002/20250718-algomatic-aoai-dev-day</link>
         <dc:date>2025-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
