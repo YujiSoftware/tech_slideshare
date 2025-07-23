@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIを使っていい感じにE2Eテストを書けるようになるまで / Trying to Write Good E2E Tests with AI (Akihiro Yokota)</title>
+        <link>https://speakerdeck.com/katawara/trying-to-write-good-e2e-tests-with-ai</link>
+        <dc:date>2025-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIのメモリー (watany)</title>
+        <link>https://speakerdeck.com/watany/ai-no-me-mo-ri</link>
+        <dc:date>2025-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>どこまで違う？！PHP実行環境パフォーマンス対決 - mod_php vs php-fpm vs Swoole vs FrankenPHP (_ma_me_)</title>
         <link>https://www.docswell.com/s/1313108/ZGGREJ-2025-07-17-000927</link>
         <dc:date>2025-07-22T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>GeminiCLIの基礎と、色々な自動化を紹介 (カレーちゃん,@currypurin)</title>
         <link>https://www.docswell.com/s/currypurin/ZW4RPP-2025-07-22-193309</link>
-        <dc:date>2025-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データエンジニアリング 4年前と変わったこと、 4年前と変わらないこと (Sotaro Tanaka)</title>
-        <link>https://speakerdeck.com/tanakarian/20250718-des30-sotaron</link>
-        <dc:date>2025-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アクセシビリティとの出会いと 最近の改善事例について</title>
-        <link>https://docs.google.com/presentation/d/1Gj0WU7F7sVjab3WLtsu-vcSE2MgCELUSDjkIO5JbIE8/preview</link>
         <dc:date>2025-07-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
