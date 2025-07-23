@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>linear MCP × GitHub copilot × devin  (funabiki27)</title>
+        <link>https://speakerdeck.com/funabiki27/linear-mcp-x-github-copilot</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>砂場ではしゃぐGemini CLI (k-kinomoto)</title>
+        <link>https://speakerdeck.com/kinomoto/sha-chang-dehasiyagugemini-cli</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コーディングエージェント概観(2025/07) (Itsuki)</title>
+        <link>https://speakerdeck.com/itsuki_t88/07</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI駆動開発_やってみてわかった見落としがちな罠.pdf (Miyu)</title>
+        <link>https://speakerdeck.com/2snmy/aiqu-dong-kai-fa-yatutemitewakatutajian-luo-tosigatinamin</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Codeで始める新時代の開発 (yuuuuuuuuu54)</title>
+        <link>https://speakerdeck.com/yuuuuuuuuu54/claude-codefa-biao</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI駆動なデザイン開発 〜Figma Make でまるっとつくるか、 HTML でシンプルにつくるか〜 (Tomoya AZUMA)</title>
+        <link>https://speakerdeck.com/t_east/aiqu-dong-nadezainkai-fa-figma-make-demarututotukuruka-html-desinpurunitukuruka</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>複数のGemini CLIが同時開発する狂気 - Jujutsuが実現するAIエージェント協調の新世界 (Gunther Brunner)</title>
+        <link>https://speakerdeck.com/gunta/fu-shu-nogemini-cligatong-shi-kai-fa-surukuang-qi-jujutsugashi-xian-suruaiezientoxie-diao-noxin-shi-jie</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜあなたのオブザーバビリティ導入は頓挫するのか (ryotaro kobayashi)</title>
+        <link>https://speakerdeck.com/ryota_hnk/nazeanatanoobuzababiriteidao-ru-hadun-cuo-surunoka</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インシデントレスポンス完全に理解した (nknskn)</title>
         <link>https://speakerdeck.com/nknskn/insidentoresuponsuwan-quan-nili-jie-sita</link>
         <dc:date>2025-07-22T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>Obsidian入門 x オススメのプラグインの紹介 (カレーちゃん,@currypurin)</title>
         <link>https://www.docswell.com/s/currypurin/5D22MW-2025-07-21-065749</link>
         <dc:date>2025-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Shadow DOM &amp; Security - Exploring the boundary between light and shadow (Masato Kinugawa)</title>
-        <link>https://speakerdeck.com/masatokinugawa/shadow-dom-and-security-exploring-the-boundary-between-light-and-shadow</link>
-        <dc:date>2025-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カレーちゃんさんのAI道場_obsidian初学者勉強会_座禅いぬ (zazen_inu)</title>
-        <link>https://speakerdeck.com/zazen_inu/karetiyansannoaidao-chang-obsidianchu-xue-zhe-mian-qiang-hui-zuo-shan-inu</link>
-        <dc:date>2025-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ObsidianxClaude Code情報管理術 (からあげ,@karaage0703)</title>
-        <link>https://www.docswell.com/s/karaage0703/KV463J-2025-07-20-220731</link>
-        <dc:date>2025-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ObsidianをLLM時代のナレッジベースに！  クリッピング→Markdown→CLI連携の実践 (Reiki Hattori)</title>
-        <link>https://speakerdeck.com/srvhat09/obsidianwollmshi-dai-nonaretuzibesuni-kuritupingu-markdown-clilian-xi-noshi-jian</link>
-        <dc:date>2025-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCP とマネージド PaaS で実現する大規模 AI アプリケーションの高速開発 (Nahoko Ushirokawa)</title>
-        <link>https://speakerdeck.com/nahokoxxx/mcp-tomanezido-paas-deshi-xian-suruda-gui-mo-ai-apurikesiyonnogao-su-kai-fa</link>
-        <dc:date>2025-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bliki (ja), and the Cathedral, and the Bazaar (Koichi ITO)</title>
-        <link>https://speakerdeck.com/koic/bliki-ja-and-the-cathedral-and-the-bazaar</link>
-        <dc:date>2025-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(HackFes)米国国防総省のDevSecOpsライフサイクルをAWSのセキュリティサービスとOSSで実現 (Shun Yoshie)</title>
-        <link>https://speakerdeck.com/syoshie/hackfes-mi-guo-guo-fang-zong-sheng-nodevsecopsraihusaikuruwoawsnosekiyuriteisabisutoossdeshi-xian</link>
-        <dc:date>2025-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロンプトインジェクション2.0 : 進化する防御機構とその回避手法 (yuasa)</title>
-        <link>https://speakerdeck.com/melonattacker/puronputoinziekusiyon2-dot-0-jin-hua-surufang-yu-ji-gou-tosonohui-bi-shou-fa</link>
-        <dc:date>2025-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
