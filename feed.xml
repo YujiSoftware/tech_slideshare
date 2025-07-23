@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インシデントレスポンス完全に理解した (nknskn)</title>
+        <link>https://speakerdeck.com/nknskn/insidentoresuponsuwan-quan-nili-jie-sita</link>
+        <dc:date>2025-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践！ AIエージェント導入記  (森本タカヒロ)</title>
         <link>https://speakerdeck.com/1mono2prod/shi-jian-aiezientodao-ru-ji</link>
         <dc:date>2025-07-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロンプトインジェクション2.0 : 進化する防御機構とその回避手法 (yuasa)</title>
         <link>https://speakerdeck.com/melonattacker/puronputoinziekusiyon2-dot-0-jin-hua-surufang-yu-ji-gou-tosonohui-bi-shou-fa</link>
-        <dc:date>2025-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPでやってみよう！テストだけじゃない、デシジョンテーブル（決定表）実装の勘所 (katzumi,@katzchum)</title>
-        <link>https://www.docswell.com/s/katzumi/KLQL3Q-decision-table-implementation-tips</link>
         <dc:date>2025-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
