@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>1Password 導入セミナー (Jxck)</title>
+        <link>https://www.docswell.com/s/jxck/KE89J6-passkey-via-1password</link>
+        <dc:date>2025-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Railsの限界を超えろ！「家族アルバム みてね」の画像・動画の大規模アップロードを支えるアーキテクチャの変遷 (Ojima Hikaru)</title>
         <link>https://speakerdeck.com/ojima_h/railsnoxian-jie-wochao-ero-jia-zu-arubamu-mitene-nohua-xiang-dong-hua-noda-gui-mo-atupurodowozhi-eruakitekutiyanobian-qian</link>
         <dc:date>2025-07-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI駆動開発_やってみてわかった見落としがちな罠.pdf (Miyu)</title>
         <link>https://speakerdeck.com/2snmy/aiqu-dong-kai-fa-yatutemitewakatutajian-luo-tosigatinamin</link>
-        <dc:date>2025-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeで始める新時代の開発 (yuuuuuuuuu54)</title>
-        <link>https://speakerdeck.com/yuuuuuuuuu54/claude-codefa-biao</link>
         <dc:date>2025-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
