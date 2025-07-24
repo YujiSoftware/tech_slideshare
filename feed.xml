@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCPに潜むセキュリティリスクを考えてみる (Milix-M)</title>
+        <link>https://speakerdeck.com/milix_m/mcpniqian-musekiyuriteirisukuwokao-etemiru</link>
+        <dc:date>2025-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI工学特論: MLOps・継続的評価 (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/aigong-xue-te-lun-mlopsji-sok-de-ping-jia</link>
         <dc:date>2025-07-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI駆動なデザイン開発 〜Figma Make でまるっとつくるか、 HTML でシンプルにつくるか〜 (Tomoya AZUMA)</title>
         <link>https://speakerdeck.com/t_east/aiqu-dong-nadezainkai-fa-figma-make-demarututotukuruka-html-desinpurunitukuruka</link>
-        <dc:date>2025-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>複数のGemini CLIが同時開発する狂気 - Jujutsuが実現するAIエージェント協調の新世界 (Gunther Brunner)</title>
-        <link>https://speakerdeck.com/gunta/fu-shu-nogemini-cligatong-shi-kai-fa-surukuang-qi-jujutsugashi-xian-suruaiezientoxie-diao-noxin-shi-jie</link>
         <dc:date>2025-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
