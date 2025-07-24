@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CloudBruteによる外部からのS3バケットの探索・公開の発見について / 20250605 Kumiko Henmi (SHIFT EVOLVE)</title>
+        <link>https://speakerdeck.com/shift_evolve/20250605-kumiko-henmi</link>
+        <dc:date>2025-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon CloudWatchのメトリクスインターバルについて / Metrics interval matters (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/metrics-interval-matters</link>
+        <dc:date>2025-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIを使っていい感じにE2Eテストを書けるようになるまで / Trying to Write Good E2E Tests with AI (Akihiro Yokota)</title>
         <link>https://speakerdeck.com/katawara/trying-to-write-good-e2e-tests-with-ai</link>
         <dc:date>2025-07-23T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>OTel 公式ドキュメント翻訳 PJ から始めるコミュニティ活動/Community activities starting with the OTel official document translation project (Msksgm)</title>
         <link>https://speakerdeck.com/msksgm/community-activities-starting-with-the-otel-official-document-translation-project</link>
         <dc:date>2025-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>M365アカウント侵害時の初動対応 (LHazy)</title>
-        <link>https://speakerdeck.com/lhazy/m365akauntoqin-hai-shi-nochu-dong-dui-ying</link>
-        <dc:date>2025-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GeminiCLIの基礎と、色々な自動化を紹介 (カレーちゃん,@currypurin)</title>
-        <link>https://www.docswell.com/s/currypurin/ZW4RPP-2025-07-22-193309</link>
-        <dc:date>2025-07-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
