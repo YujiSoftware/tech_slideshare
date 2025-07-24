@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCPで実現できる、Webサービス利用体験について (syumai)</title>
+        <link>https://speakerdeck.com/syumai/web-service-as-mcp-server</link>
+        <dc:date>2025-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成 AI を活用した 障害対応初動の改善 (Mitsuaki Tsugo)</title>
         <link>https://speakerdeck.com/mitsuaki96/sheng-cheng-ai-wohuo-yong-sita-zhang-hai-dui-ying-chu-dong-nogai-shan</link>
         <dc:date>2025-07-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>実践！ AIエージェント導入記  (森本タカヒロ)</title>
         <link>https://speakerdeck.com/1mono2prod/shi-jian-aiezientodao-ru-ji</link>
-        <dc:date>2025-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エージェントに記憶を与える -コンテキスト管理の設計と実践 (autotaker)</title>
-        <link>https://speakerdeck.com/autotaker/ezientoniji-yi-woyu-eru-kontekisutoguan-li-noshe-ji-toshi-jian</link>
         <dc:date>2025-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
