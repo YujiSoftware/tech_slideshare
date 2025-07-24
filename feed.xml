@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成 AI を活用した 障害対応初動の改善 (Mitsuaki Tsugo)</title>
+        <link>https://speakerdeck.com/mitsuaki96/sheng-cheng-ai-wohuo-yong-sita-zhang-hai-dui-ying-chu-dong-nogai-shan</link>
+        <dc:date>2025-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CloudBruteによる外部からのS3バケットの探索・公開の発見について / 20250605 Kumiko Henmi (SHIFT EVOLVE)</title>
         <link>https://speakerdeck.com/shift_evolve/20250605-kumiko-henmi</link>
         <dc:date>2025-07-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エージェントに記憶を与える -コンテキスト管理の設計と実践 (autotaker)</title>
         <link>https://speakerdeck.com/autotaker/ezientoniji-yi-woyu-eru-kontekisutoguan-li-noshe-ji-toshi-jian</link>
-        <dc:date>2025-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OTel 公式ドキュメント翻訳 PJ から始めるコミュニティ活動/Community activities starting with the OTel official document translation project (Msksgm)</title>
-        <link>https://speakerdeck.com/msksgm/community-activities-starting-with-the-otel-official-document-translation-project</link>
         <dc:date>2025-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
