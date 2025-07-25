@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>memorizing-crypto.pdf (H Koba)</title>
+        <link>https://speakerdeck.com/kobae964/memorizing-crypto</link>
+        <dc:date>2025-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>誰のための設計(design)？ (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
+        <link>https://www.docswell.com/s/tyonekubo/58MQP2-2025-07-25-sekkeinight</link>
+        <dc:date>2025-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI エンジニアの立場からみた、AI コーディング時代の開発の品質向上の取り組みと妄想 (Soh Ohara)</title>
+        <link>https://speakerdeck.com/soh9834/ai-enzinianoli-chang-karamita-ai-kodeingushi-dai-nokai-fa-nopin-zhi-xiang-shang-noqu-rizu-mitowang-xiang</link>
+        <dc:date>2025-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ecspressoの設計思想に至る道 / sekkeinight2025 (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/sekkeinight2025</link>
         <dc:date>2025-07-24T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>AIを使っていい感じにE2Eテストを書けるようになるまで / Trying to Write Good E2E Tests with AI (Akihiro Yokota)</title>
         <link>https://speakerdeck.com/katawara/trying-to-write-good-e2e-tests-with-ai</link>
         <dc:date>2025-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIのメモリー (watany)</title>
-        <link>https://speakerdeck.com/watany/ai-no-me-mo-ri</link>
-        <dc:date>2025-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>どこまで違う？！PHP実行環境パフォーマンス対決 - mod_php vs php-fpm vs Swoole vs FrankenPHP (_ma_me_)</title>
-        <link>https://www.docswell.com/s/1313108/ZGGREJ-2025-07-17-000927</link>
-        <dc:date>2025-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenTelemetry の Log を使いこなそう (Shota Iwami)</title>
-        <link>https://speakerdeck.com/biwashi/lets-master-opentelemetry-logs</link>
-        <dc:date>2025-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
