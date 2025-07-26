@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Laravel Eloquentで複数レコードが削除された話 (Rei)</title>
+        <link>https://speakerdeck.com/sonor04ls/laravel-eloquentdefu-shu-rekodogaxue-chu-saretahua</link>
+        <dc:date>2025-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>memorizing-crypto.pdf (H Koba)</title>
         <link>https://speakerdeck.com/kobae964/memorizing-crypto</link>
         <dc:date>2025-07-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Amazon CloudWatchのメトリクスインターバルについて / Metrics interval matters (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/metrics-interval-matters</link>
-        <dc:date>2025-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIを使っていい感じにE2Eテストを書けるようになるまで / Trying to Write Good E2E Tests with AI (Akihiro Yokota)</title>
-        <link>https://speakerdeck.com/katawara/trying-to-write-good-e2e-tests-with-ai</link>
         <dc:date>2025-07-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
