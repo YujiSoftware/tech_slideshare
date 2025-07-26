@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>運用して初めてわかったDevinのセキュリティ課題 - Devin Meetup Tokyo 2025 (Hi120ki)</title>
+        <link>https://speakerdeck.com/hi120ki/devin-ai-security</link>
+        <dc:date>2025-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScript 上達の道 (Kanon)</title>
+        <link>https://speakerdeck.com/ysknsid25/typescript-shang-da-nodao</link>
+        <dc:date>2025-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>少人数でも回る！ DevinとPlaybookで支える運用改善 (ishikawa-pro)</title>
         <link>https://speakerdeck.com/ishikawa_pro/shao-ren-shu-demohui-ru-devintoplaybookdezhi-eruyun-yong-gai-shan</link>
         <dc:date>2025-07-25T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>1Password 導入セミナー (Jxck)</title>
         <link>https://www.docswell.com/s/jxck/KE89J6-passkey-via-1password</link>
-        <dc:date>2025-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Railsの限界を超えろ！「家族アルバム みてね」の画像・動画の大規模アップロードを支えるアーキテクチャの変遷 (Ojima Hikaru)</title>
-        <link>https://speakerdeck.com/ojima_h/railsnoxian-jie-wochao-ero-jia-zu-arubamu-mitene-nohua-xiang-dong-hua-noda-gui-mo-atupurodowozhi-eruakitekutiyanobian-qian</link>
-        <dc:date>2025-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCPに潜むセキュリティリスクを考えてみる (Milix-M)</title>
-        <link>https://speakerdeck.com/milix_m/mcpniqian-musekiyuriteirisukuwokao-etemiru</link>
         <dc:date>2025-07-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
