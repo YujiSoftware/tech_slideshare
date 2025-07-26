@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Self-hostedに移行しました。CIが最大55%速くなり、月額300万円削減！ (dangminhduc)</title>
+        <link>https://speakerdeck.com/dangminhduc/github-self-hostedniyi-xing-simasita-cigazui-da-55-percent-su-kunari-yue-e-300mo-yuan-xue-jian</link>
+        <dc:date>2025-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ML Pipelineの開発と運用を OpenTelemetryで繋ぐ @ OpenTelemetry Meetup 2025-07 (Yoshimura Naoya)</title>
         <link>https://speakerdeck.com/getty708/ml-pipelinenokai-fa-toyun-yong-wo-opentelemetrydexi-gu-at-opentelemetry-meetup-2025-07</link>
         <dc:date>2025-07-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>freeeのアクセシビリティの現在地 / freee's Current Position on Accessibility (ymrl)</title>
         <link>https://speakerdeck.com/ymrl/freees-current-position-on-accessibility</link>
-        <dc:date>2025-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCPで実現できる、Webサービス利用体験について (syumai)</title>
-        <link>https://speakerdeck.com/syumai/web-service-as-mcp-server</link>
         <dc:date>2025-07-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
