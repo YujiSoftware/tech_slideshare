@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「手を動かした者だけが世界を変える」ソフトウェア開発だけではない開発者人生 (Yasuhiro Onishi)</title>
+        <link>https://speakerdeck.com/onishi/shou-wodong-kasitazhe-dakegashi-jie-wobian-eru-sohutoueakai-fa-dakedehanaikai-fa-zhe-ren-sheng</link>
+        <dc:date>2025-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Laravel Eloquentで複数レコードが削除された話 (Rei)</title>
         <link>https://speakerdeck.com/sonor04ls/laravel-eloquentdefu-shu-rekodogaxue-chu-saretahua</link>
         <dc:date>2025-07-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CloudBruteによる外部からのS3バケットの探索・公開の発見について / 20250605 Kumiko Henmi (SHIFT EVOLVE)</title>
         <link>https://speakerdeck.com/shift_evolve/20250605-kumiko-henmi</link>
-        <dc:date>2025-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon CloudWatchのメトリクスインターバルについて / Metrics interval matters (ymotongpoo)</title>
-        <link>https://speakerdeck.com/ymotongpoo/metrics-interval-matters</link>
         <dc:date>2025-07-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
