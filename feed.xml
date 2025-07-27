@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>marimoの紹介 ~ Pythonノートブックツール ~ (カレーちゃん,@currypurin)</title>
+        <link>https://www.docswell.com/s/currypurin/KV4WDQ-2025-07-27-223618</link>
+        <dc:date>2025-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>可変性を制する設計: 構造と振る舞いから考える概念モデリングとその実装 (Akira Suenami)</title>
         <link>https://speakerdeck.com/a_suenami/ke-bian-xing-wozhi-surushe-ji-gou-zao-tozhen-ruwu-ikarakao-erugai-nian-moderingutosonoshi-zhuang</link>
         <dc:date>2025-07-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>転職したらAWS MCPサーバーだった件 (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/zhuan-zhi-sitaraaws-mcpsabadatutajian</link>
-        <dc:date>2025-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ADKを活用して事業部横断の企業検索エージェントを作成した話 (Keisuke Tagashira)</title>
-        <link>https://speakerdeck.com/ktagashira/adkwohuo-yong-siteshi-ye-bu-heng-duan-noqi-ye-jian-suo-ezientowozuo-cheng-sitahua</link>
         <dc:date>2025-07-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
