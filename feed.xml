@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIエージェントを支える設計 (takuya kikuchi)</title>
+        <link>https://speakerdeck.com/tkikuchi1002/20250725-sekkei-night-ai-agent</link>
+        <dc:date>2025-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go製CLIツールをnpmで配布するには (syumai)</title>
+        <link>https://speakerdeck.com/syumai/how-to-publish-go-cli-tool-to-npm</link>
+        <dc:date>2025-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モバイルゲームで自動テストが効果を発揮するまで ~自動テストを「運用」するまでの組織のアプローチ~ (QualiArts)</title>
         <link>https://speakerdeck.com/qualiarts/mobairugemudezi-dong-tesutogaxiao-guo-wofa-hui-surumade-zi-dong-tesutowo-yun-yong-surumadenozu-zhi-noapuroti</link>
         <dc:date>2025-07-27T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>誰のための設計(design)？ (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
         <link>https://www.docswell.com/s/tyonekubo/58MQP2-2025-07-25-sekkeinight</link>
         <dc:date>2025-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI エンジニアの立場からみた、AI コーディング時代の開発の品質向上の取り組みと妄想 (Soh Ohara)</title>
-        <link>https://speakerdeck.com/soh9834/ai-enzinianoli-chang-karamita-ai-kodeingushi-dai-nokai-fa-nopin-zhi-xiang-shang-noqu-rizu-mitowang-xiang</link>
-        <dc:date>2025-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ecspressoの設計思想に至る道 / sekkeinight2025 (FUJIWARA Shunichiro)</title>
-        <link>https://speakerdeck.com/fujiwara3/sekkeinight2025</link>
-        <dc:date>2025-07-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
