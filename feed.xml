@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>それ CLI フレームワークがなくてもできるよ / Building CLI Tools Without Frameworks (Kuniwak)</title>
+        <link>https://speakerdeck.com/orgachem/building-cli-tools-without-frameworks</link>
+        <dc:date>2025-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>alecthomas/kong はいいぞ (FUJIWARA Shunichiro)</title>
+        <link>https://speakerdeck.com/fujiwara3/kong-haiizo</link>
+        <dc:date>2025-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIエージェントを支える設計 (takuya kikuchi)</title>
         <link>https://speakerdeck.com/tkikuchi1002/20250725-sekkei-night-ai-agent</link>
         <dc:date>2025-07-27T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Laravel Eloquentで複数レコードが削除された話 (Rei)</title>
         <link>https://speakerdeck.com/sonor04ls/laravel-eloquentdefu-shu-rekodogaxue-chu-saretahua</link>
-        <dc:date>2025-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>memorizing-crypto.pdf (H Koba)</title>
-        <link>https://speakerdeck.com/kobae964/memorizing-crypto</link>
-        <dc:date>2025-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>誰のための設計(design)？ (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
-        <link>https://www.docswell.com/s/tyonekubo/58MQP2-2025-07-25-sekkeinight</link>
         <dc:date>2025-07-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
