@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模イベントを支える  ABEMA の アーキテクチャ 変遷 2025 (Katsutoshi Nagaoka)</title>
+        <link>https://speakerdeck.com/nagapad/da-gui-mo-ibentowozhi-eru-abema-no-akitekutiya-bian-qian-2025</link>
+        <dc:date>2025-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2025/2/13 パスキー開発者の集い パスキーをわかりやすくするためにやったこと (gebo suzuki)</title>
         <link>https://www.slideshare.net/slideshow/2025-2-13/275634868</link>
         <dc:date>2025-07-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ML Pipelineの開発と運用を OpenTelemetryで繋ぐ @ OpenTelemetry Meetup 2025-07 (Yoshimura Naoya)</title>
         <link>https://speakerdeck.com/getty708/ml-pipelinenokai-fa-toyun-yong-wo-opentelemetrydexi-gu-at-opentelemetry-meetup-2025-07</link>
-        <dc:date>2025-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>手動からの解放！！Strands Agents で実現する総合テスト自動化 (井手亮太)</title>
-        <link>https://speakerdeck.com/ideaws/shou-dong-karanojie-fang-strands-agents-deshi-xian-suruzong-he-tesutozi-dong-hua</link>
         <dc:date>2025-07-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
