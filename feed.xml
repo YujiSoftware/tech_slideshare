@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データエンジニアがクラシルでやりたいことの現在地 (harry)</title>
+        <link>https://speakerdeck.com/gappy50/detaenziniagakurasirudeyaritaikotonoxian-zai-di</link>
+        <dc:date>2025-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLMは麻雀を知らなすぎるから俺が教育してやる (po3rin)</title>
+        <link>https://speakerdeck.com/po3rin/llmhama-que-wozhi-ranasukirukaraan-kajiao-yu-siteyaru</link>
+        <dc:date>2025-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大規模イベントを支える  ABEMA の アーキテクチャ 変遷 2025 (Katsutoshi Nagaoka)</title>
         <link>https://speakerdeck.com/nagapad/da-gui-mo-ibentowozhi-eru-abema-no-akitekutiya-bian-qian-2025</link>
         <dc:date>2025-07-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>「AI駆動開発」のボトルネック『言語化』を効率化するには (Tomohiro Tani)</title>
         <link>https://speakerdeck.com/taniiicom/aiqu-dong-kai-fa-nobotorunetuku-yan-yu-hua-woxiao-lu-hua-suruniha</link>
-        <dc:date>2025-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Self-hostedに移行しました。CIが最大55%速くなり、月額300万円削減！ (dangminhduc)</title>
-        <link>https://speakerdeck.com/dangminhduc/github-self-hostedniyi-xing-simasita-cigazui-da-55-percent-su-kunari-yue-e-300mo-yuan-xue-jian</link>
-        <dc:date>2025-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ML Pipelineの開発と運用を OpenTelemetryで繋ぐ @ OpenTelemetry Meetup 2025-07 (Yoshimura Naoya)</title>
-        <link>https://speakerdeck.com/getty708/ml-pipelinenokai-fa-toyun-yong-wo-opentelemetrydexi-gu-at-opentelemetry-meetup-2025-07</link>
         <dc:date>2025-07-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
