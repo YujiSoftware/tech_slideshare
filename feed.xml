@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React 使いじゃなくても知っておきたい教養としての React (Yuka O’oka)</title>
+        <link>https://speakerdeck.com/oukayuka/react-shi-iziyanakutemozhi-tuteokitaijiao-yang-tositeno-react</link>
+        <dc:date>2025-07-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MIRU2025 チュートリアル講演「ロボット基盤モデルの最前線」 (Kento Kawaharazuka)</title>
         <link>https://speakerdeck.com/haraduka/miru2025-tiyutoriarujiang-yan-robotutoji-pan-moderunozui-qian-xian</link>
         <dc:date>2025-07-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>少人数でも回る！ DevinとPlaybookで支える運用改善 (ishikawa-pro)</title>
         <link>https://speakerdeck.com/ishikawa_pro/shao-ren-shu-demohui-ru-devintoplaybookdezhi-eruyun-yong-gai-shan</link>
-        <dc:date>2025-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代の知識創造 ─GeminiとSECIモデルで読み解く “暗黙知”と創造の境界線 (Yukinaga OISHI)</title>
-        <link>https://speakerdeck.com/nyagasan/aishi-dai-nozhi-shi-chuang-zao-geminitosecimoderudedu-mijie-ku-an-mo-zhi-tochuang-zao-nojing-jie-xian</link>
         <dc:date>2025-07-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
