@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インフラエンジニア・SREを経てCTOになるために必要だったこと (Yuki Ando,@integrated1453)</title>
+        <link>https://www.docswell.com/s/integrated1453/ZR6LDW-infra-sre-cto</link>
+        <dc:date>2025-07-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React 使いじゃなくても知っておきたい教養としての React (Yuka O’oka)</title>
         <link>https://speakerdeck.com/oukayuka/react-shi-iziyanakutemozhi-tuteokitaijiao-yang-tositeno-react</link>
         <dc:date>2025-07-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TypeScript 上達の道 (Kanon)</title>
         <link>https://speakerdeck.com/ysknsid25/typescript-shang-da-nodao</link>
-        <dc:date>2025-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>少人数でも回る！ DevinとPlaybookで支える運用改善 (ishikawa-pro)</title>
-        <link>https://speakerdeck.com/ishikawa_pro/shao-ren-shu-demohui-ru-devintoplaybookdezhi-eruyun-yong-gai-shan</link>
         <dc:date>2025-07-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
