@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREって何？ 現場で学んだサイト信頼性の第一歩 (syossan27)</title>
+        <link>https://speakerdeck.com/syossan27/sretutehe-xian-chang-dexue-ndasaitoxin-lai-xing-nodi-bu</link>
+        <dc:date>2025-07-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LIXIL基幹システム刷新に立ち向かう技術的アプローチについて (karacoro / からころ)</title>
         <link>https://speakerdeck.com/tsukuha/lixilji-gan-sisutemushua-xin-nili-tixiang-kauji-shu-de-apurotinituite</link>
         <dc:date>2025-07-30T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>マルチテナントSaaSでのRLS導入に際し、並列でDevinを動かし高い品質のコードをパワフルにプロダクションへ反映させた事例 (IkedaNoritaka)</title>
         <link>https://speakerdeck.com/noritakaikeda/marutitenantosaasdenorlsdao-ru-niji-si-bing-lie-dedevinwodong-kasigao-ipin-zhi-nokodowopawahurunipurodakusiyonhefan-ying-sasetashi-li</link>
         <dc:date>2025-07-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>運用して初めてわかったDevinのセキュリティ課題 - Devin Meetup Tokyo 2025 (Hi120ki)</title>
-        <link>https://speakerdeck.com/hi120ki/devin-ai-security</link>
-        <dc:date>2025-07-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
