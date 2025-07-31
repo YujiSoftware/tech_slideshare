@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LIXIL基幹システム刷新に立ち向かう技術的アプローチについて (karacoro / からころ)</title>
+        <link>https://speakerdeck.com/tsukuha/lixilji-gan-sisutemushua-xin-nili-tixiang-kauji-shu-de-apurotinituite</link>
+        <dc:date>2025-07-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インフラエンジニア・SREを経てCTOになるために必要だったこと (Yuki Ando,@integrated1453)</title>
         <link>https://www.docswell.com/s/integrated1453/ZR6LDW-infra-sre-cto</link>
         <dc:date>2025-07-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>運用して初めてわかったDevinのセキュリティ課題 - Devin Meetup Tokyo 2025 (Hi120ki)</title>
         <link>https://speakerdeck.com/hi120ki/devin-ai-security</link>
-        <dc:date>2025-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript 上達の道 (Kanon)</title>
-        <link>https://speakerdeck.com/ysknsid25/typescript-shang-da-nodao</link>
         <dc:date>2025-07-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
