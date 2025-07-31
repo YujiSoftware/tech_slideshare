@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>脆弱性は誰のせい? PHP、MySQL、Joomla! の責任やいかに (徳丸 浩,@ockeghem)</title>
+        <link>https://www.docswell.com/s/ockeghem/KN9J7K-joomla-cve-2015-8562</link>
+        <dc:date>2025-07-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREって何？ 現場で学んだサイト信頼性の第一歩 (syossan27)</title>
         <link>https://speakerdeck.com/syossan27/sretutehe-xian-chang-dexue-ndasaitoxin-lai-xing-nodi-bu</link>
         <dc:date>2025-07-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>育てたDevinは自立するのか？ (hirosi1900day)</title>
         <link>https://speakerdeck.com/hirosi1900day/yu-tetadevinhazi-li-surunoka</link>
-        <dc:date>2025-07-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マルチテナントSaaSでのRLS導入に際し、並列でDevinを動かし高い品質のコードをパワフルにプロダクションへ反映させた事例 (IkedaNoritaka)</title>
-        <link>https://speakerdeck.com/noritakaikeda/marutitenantosaasdenorlsdao-ru-niji-si-bing-lie-dedevinwodong-kasigao-ipin-zhi-nokodowopawahurunipurodakusiyonhefan-ying-sasetashi-li</link>
         <dc:date>2025-07-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
