@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Lambda Web Adapter使ってNext.jsのアプリをホストしてみた！ / Tried hosting Next.js app with Lambda Web Adapter (Hiroshi TANABE)</title>
+        <link>https://speakerdeck.com/htnabe/tried-hosting-next-dot-js-app-with-lambda-web-adapter</link>
+        <dc:date>2025-07-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>苦しんで向き合うLLM時代の開発 (hashiba daiki)</title>
         <link>https://speakerdeck.com/hashibadaiki/ku-sindexiang-kihe-ullmshi-dai-nokai-fa</link>
         <dc:date>2025-07-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Google I/O Extended 2025 in Osaka</title>
         <link>https://docs.google.com/presentation/d/1zZB1eTcmU4BMMVcnQ0HWbRSXtdWP_tNh9ISukrwcuhw/preview</link>
-        <dc:date>2025-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>marimoの紹介 ~ Pythonノートブックツール ~ (カレーちゃん,@currypurin)</title>
-        <link>https://www.docswell.com/s/currypurin/KV4WDQ-2025-07-27-223618</link>
         <dc:date>2025-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
