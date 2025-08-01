@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>苦しんで向き合うLLM時代の開発 (hashiba daiki)</title>
+        <link>https://speakerdeck.com/hashibadaiki/ku-sindexiang-kihe-ullmshi-dai-nokai-fa</link>
+        <dc:date>2025-07-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>人事組織で経験したチーム崩壊 ～崩壊から得た教訓～ (モブエンジニア（Masaki Okuda）)</title>
         <link>https://speakerdeck.com/masakiokuda/ren-shi-zu-zhi-dejing-yan-sitatimubeng-huai-beng-huai-karade-tajiao-xun</link>
         <dc:date>2025-07-31T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>marimoの紹介 ~ Pythonノートブックツール ~ (カレーちゃん,@currypurin)</title>
         <link>https://www.docswell.com/s/currypurin/KV4WDQ-2025-07-27-223618</link>
         <dc:date>2025-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>可変性を制する設計: 構造と振る舞いから考える概念モデリングとその実装 (Akira Suenami)</title>
-        <link>https://speakerdeck.com/a_suenami/ke-bian-xing-wozhi-surushe-ji-gou-zao-tozhen-ruwu-ikarakao-erugai-nian-moderingutosonoshi-zhuang</link>
-        <dc:date>2025-07-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
