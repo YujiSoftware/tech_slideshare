@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Perlアプリケーションで トレースを実装するまでの 工夫と苦労話 (masayoshi)</title>
+        <link>https://speakerdeck.com/masayoshi/perlapurikesiyonde-toresuwoshi-zhuang-surumadeno-gong-fu-toku-lao-hua</link>
+        <dc:date>2025-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2025新卒研修・HTML/CSS #弁護士ドットコム (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20250405-bengo4com-htmlcss</link>
         <dc:date>2025-07-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Go製CLIツールをnpmで配布するには (syumai)</title>
         <link>https://speakerdeck.com/syumai/how-to-publish-go-cli-tool-to-npm</link>
-        <dc:date>2025-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モバイルゲームで自動テストが効果を発揮するまで ~自動テストを「運用」するまでの組織のアプローチ~ (QualiArts)</title>
-        <link>https://speakerdeck.com/qualiarts/mobairugemudezi-dong-tesutogaxiao-guo-wofa-hui-surumade-zi-dong-tesutowo-yun-yong-surumadenozu-zhi-noapuroti</link>
         <dc:date>2025-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
