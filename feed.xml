@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Projectsを自動化するGitHub CLIテクニック / Automate GitHub Projects with GitHub CLI (tasshi)</title>
+        <link>https://speakerdeck.com/tasshi/automate-github-projects-with-github-cli</link>
+        <dc:date>2025-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【データ分析コンペ×生成AI】妙だな…をLLMに気付かせる (tonic)</title>
         <link>https://speakerdeck.com/tonic/detafen-xi-konpexsheng-cheng-ai-miao-dana-dot-dot-dot-wollmniqi-fu-kaseru</link>
         <dc:date>2025-08-01T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>大規模イベントを支える  ABEMA の アーキテクチャ 変遷 2025 (Katsutoshi Nagaoka)</title>
         <link>https://speakerdeck.com/nagapad/da-gui-mo-ibentowozhi-eru-abema-no-akitekutiya-bian-qian-2025</link>
         <dc:date>2025-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025/2/13 パスキー開発者の集い パスキーをわかりやすくするためにやったこと (gebo suzuki)</title>
-        <link>https://www.slideshare.net/slideshow/2025-2-13/275634868</link>
-        <dc:date>2025-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
