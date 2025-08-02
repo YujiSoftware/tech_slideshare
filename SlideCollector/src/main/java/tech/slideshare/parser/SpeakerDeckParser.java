@@ -14,7 +14,7 @@ import java.net.URISyntaxException;
 import java.util.Optional;
 
 public class SpeakerDeckParser implements Parser {
-    
+
     private static final Logger logger = LoggerFactory.getLogger(SpeakerDeckParser.class);
 
     public Optional<Slide> parse(String link) {
@@ -55,7 +55,7 @@ public class SpeakerDeckParser implements Parser {
 
             return Optional.of(new Slide(title, link, author, null, description, image));
         } catch (HttpStatusException e) {
-            logger.warn(String.format("Can't get SpeakerDeck document. [url=%s, statusCode=%d]", e.getUrl(), e.getStatusCode()), e);
+            logger.warn("Can't get SpeakerDeck document. [url={}, statusCode={}]", e.getUrl(), e.getStatusCode(), e);
             return Optional.empty();
         } catch (IOException e) {
             logger.warn("Can't get SpeakerDeck document.", e);
