@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>風が吹けばWHOISが使えなくなる～なぜWHOIS・RDAPはサーバー証明書のメール認証に使えなくなったのか～ (Yasuhiro Orange Morishita / 森下泰宏)</title>
+        <link>https://speakerdeck.com/orangemorishita/feng-gachui-kebawhoisgashi-enakunaru-nazewhoisrdaphasabazheng-ming-shu-nomeruren-zheng-nishi-enakunatutanoka</link>
+        <dc:date>2025-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Perlアプリケーションで トレースを実装するまでの 工夫と苦労話 (masayoshi)</title>
         <link>https://speakerdeck.com/masayoshi/perlapurikesiyonde-toresuwoshi-zhuang-surumadeno-gong-fu-toku-lao-hua</link>
         <dc:date>2025-08-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIエージェントを支える設計 (takuya kikuchi)</title>
         <link>https://speakerdeck.com/tkikuchi1002/20250725-sekkei-night-ai-agent</link>
-        <dc:date>2025-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go製CLIツールをnpmで配布するには (syumai)</title>
-        <link>https://speakerdeck.com/syumai/how-to-publish-go-cli-tool-to-npm</link>
         <dc:date>2025-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
