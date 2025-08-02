@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GMOペパボのデータ基盤とデータ活用の現在地 / Current State of GMO Pepabo's Data Infrastructure and Data Utilization (Hiroka Zaitsu)</title>
+        <link>https://speakerdeck.com/zaimy/current-state-of-gmo-pepabos-data-infrastructure-and-data-utilization</link>
+        <dc:date>2025-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Projectsを自動化するGitHub CLIテクニック / Automate GitHub Projects with GitHub CLI (tasshi)</title>
         <link>https://speakerdeck.com/tasshi/automate-github-projects-with-github-cli</link>
         <dc:date>2025-08-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLMは麻雀を知らなすぎるから俺が教育してやる (po3rin)</title>
         <link>https://speakerdeck.com/po3rin/llmhama-que-wozhi-ranasukirukaraan-kajiao-yu-siteyaru</link>
-        <dc:date>2025-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模イベントを支える  ABEMA の アーキテクチャ 変遷 2025 (Katsutoshi Nagaoka)</title>
-        <link>https://speakerdeck.com/nagapad/da-gui-mo-ibentowozhi-eru-abema-no-akitekutiya-bian-qian-2025</link>
         <dc:date>2025-07-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
