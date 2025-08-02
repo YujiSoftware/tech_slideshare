@@ -12,6 +12,7 @@ import tech.slideshare.collector.Slide;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;
+import java.util.List;
 import java.util.Optional;
 
 public class SlideShareParser implements Parser {
@@ -20,6 +21,15 @@ public class SlideShareParser implements Parser {
 
     public static final String USER_AGENT
             = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0";
+
+    private static final List<String> spamWords = List.of(
+            "film",
+            "Film",
+            "-var4-",
+            "4KTUBE-HD",
+            "{{!VAR4}",
+            "1877-546-7370"
+    );
 
     public Optional<Slide> parse(String link) {
         try {
@@ -79,7 +89,7 @@ public class SlideShareParser implements Parser {
 
             // 1ページしかないものは、スパムと判定して除外
             long pageCount = Integer.parseInt(slideshow.totalSlides);
-            if (pageCount <= 1) {
+            if (pageCount <= 5) {
                 logger.debug("TotalSlides = 1: {}", link);
                 return Optional.empty();
             }
@@ -91,9 +101,11 @@ public class SlideShareParser implements Parser {
             String image = doc.select("meta[property~=og:image]").attr("content");
 
             // スパム対策として、特定のキーワードを含むタイトルのものは除外
-            if (title.contains("film") || title.contains("Film") || title.contains("-var4-") || title.contains("4KTUBE-HD") || title.contains("{{!VAR4}")) {
-                logger.debug("May be spam: {}, {}", title, link);
-                return Optional.empty();
+            for (String word : spamWords) {
+                if (title.contains(word)) {
+                    logger.debug("May be spam: {}, {}", title, link);
+                    return Optional.empty();
+                }
             }
 
             return Optional.of(new Slide(title, link, author, twitter, description, image));

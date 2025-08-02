@@ -58,8 +58,12 @@ public class SlideShareParserTest {
             "https://www.slideshare.net/imoneyjon/4ktubehd-ben-is-back-stream-german-ben-is-back-stream-122889509",
             // タイトルに {{!VAR4} を含む
             "https://www.slideshare.net/desirait1988ixx1/sehen-complete-stream-deutsch-hd-aquaman-2018-siegen-cinestar-kinoprogramm-und-var4-123099787",
+            // タイトルに電話番号（1877-546-7370）を含む
+            "https://www.slideshare.net/slideshow/delta-airlines-customer-service-150366024/150366024",
             // 1ページしかない
             "https://www.slideshare.net/ebookreviewpro/the-role-of-knowledge-in-human-life",
+            // 5ページしかない
+            "https://www.slideshare.net/slideshow/norwegian-airlines-booking-reservations-number/238419693",
     })
     public void スパムを除外(String link) {
         Optional<Slide> actual = parser.parse(link);
