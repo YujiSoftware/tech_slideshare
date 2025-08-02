@@ -41,6 +41,13 @@ public class SpeakerDeckParser implements Parser {
                 return Optional.empty();
             }
 
+            // 4ページ以下は、スパムと判定して除外
+            long pageCount = doc.getElementsByClass("slide-transcript").size();
+            if (pageCount <= 4) {
+                logger.debug("TotalSlides = {}: {}", pageCount, link);
+                return Optional.empty();
+            }
+
             String title = doc.select("meta[property~=og:title]").attr("content");
             String author = getAuthor(link);
             String description = doc.select("meta[property~=og:description]").attr("content");

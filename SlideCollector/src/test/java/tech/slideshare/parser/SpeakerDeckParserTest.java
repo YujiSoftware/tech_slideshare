@@ -53,4 +53,14 @@ public class SpeakerDeckParserTest {
         Slide slide = actual.get();
         assertEquals("https://speakerdeck.com/yasaichi/architecture-decision-for-the-next-10-years-at-pixta", slide.getLink());
     }
+
+    @ParameterizedTest
+    @ValueSource(strings = {
+            // 4ページしかない
+            "https://speakerdeck.com/nicefev4/live-help-r-quickbooks-enterprise-24-hour-customer-service",
+    })
+    public void スパムを除外(String link) {
+        Optional<Slide> actual = parser.parse(link);
+        assertTrue(actual.isEmpty());
+    }
 }
