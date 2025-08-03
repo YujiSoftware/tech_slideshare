@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人に寄り添うAIエージェントとアーキテクチャ #BetAIDay (LayerX)</title>
+        <link>https://speakerdeck.com/layerx/empathetic-ai-agent-architecture</link>
+        <dc:date>2025-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Terraform やるなら公式スタイルガイドを読もう 〜重要項目 10選〜 (hiyanger)</title>
         <link>https://speakerdeck.com/hiyanger/terraform-yarunarasutairugaidowodu-mou-zhong-yao-xiang-mu-10xuan</link>
         <dc:date>2025-08-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>インフラエンジニア・SREを経てCTOになるために必要だったこと (Yuki Ando,@integrated1453)</title>
         <link>https://www.docswell.com/s/integrated1453/ZR6LDW-infra-sre-cto</link>
-        <dc:date>2025-07-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React 使いじゃなくても知っておきたい教養としての React (Yuka O’oka)</title>
-        <link>https://speakerdeck.com/oukayuka/react-shi-iziyanakutemozhi-tuteokitaijiao-yang-tositeno-react</link>
         <dc:date>2025-07-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
