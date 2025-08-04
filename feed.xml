@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Google Cloud で学ぶデータエンジニアリング入門 2025年版 #GoogleCloudNext / 20250805 (風音屋 (Kazaneya))</title>
+        <link>https://speakerdeck.com/kazaneya/20250805</link>
+        <dc:date>2025-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>文系学部卒ソフトウェアエンジニアが Georgia Techコンピューターサイエンス修士課程で直面したもの / What a Liberal Arts Graduate Software Engineer Faced in Georgia Tech's Computer Science Master's Program (Toshinori Sugita)</title>
         <link>https://speakerdeck.com/toshi0607/what-a-liberal-arts-graduate-software-engineer-faced-in-georgia-techs-computer-science-masters-program</link>
         <dc:date>2025-08-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>脆弱性は誰のせい? PHP、MySQL、Joomla! の責任やいかに (徳丸 浩,@ockeghem)</title>
         <link>https://www.docswell.com/s/ockeghem/KN9J7K-joomla-cve-2015-8562</link>
-        <dc:date>2025-07-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREって何？ 現場で学んだサイト信頼性の第一歩 (syossan27)</title>
-        <link>https://speakerdeck.com/syossan27/sretutehe-xian-chang-dexue-ndasaitoxin-lai-xing-nodi-bu</link>
         <dc:date>2025-07-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
