@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CEDEC 2025 『ゲームにおけるリアルタイム通信への QUIC導入事例の紹介』 (SEGADevTech)</title>
+        <link>https://speakerdeck.com/segadevtech/cedec-2025-gemuniokeruriarutaimutong-xin-heno-quicdao-ru-shi-li-noshao-jie</link>
+        <dc:date>2025-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScriptのmoduleオプションを改めて整理する (おおいし)</title>
         <link>https://speakerdeck.com/bicstone/typescript-module-option</link>
         <dc:date>2025-08-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>苦しんで向き合うLLM時代の開発 (hashiba daiki)</title>
         <link>https://speakerdeck.com/hashibadaiki/ku-sindexiang-kihe-ullmshi-dai-nokai-fa</link>
-        <dc:date>2025-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>人事組織で経験したチーム崩壊 ～崩壊から得た教訓～ (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/ren-shi-zu-zhi-dejing-yan-sitatimubeng-huai-beng-huai-karade-tajiao-xun</link>
         <dc:date>2025-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
