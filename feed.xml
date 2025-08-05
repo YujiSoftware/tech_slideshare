@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScriptのmoduleオプションを改めて整理する (おおいし)</title>
+        <link>https://speakerdeck.com/bicstone/typescript-module-option</link>
+        <dc:date>2025-08-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Google Cloud で学ぶデータエンジニアリング入門 2025年版 #GoogleCloudNext / 20250805 (風音屋 (Kazaneya))</title>
         <link>https://speakerdeck.com/kazaneya/20250805</link>
         <dc:date>2025-08-03T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>人事組織で経験したチーム崩壊 ～崩壊から得た教訓～ (モブエンジニア（Masaki Okuda）)</title>
         <link>https://speakerdeck.com/masakiokuda/ren-shi-zu-zhi-dejing-yan-sitatimubeng-huai-beng-huai-karade-tajiao-xun</link>
         <dc:date>2025-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脆弱性は誰のせい? PHP、MySQL、Joomla! の責任やいかに (徳丸 浩,@ockeghem)</title>
-        <link>https://www.docswell.com/s/ockeghem/KN9J7K-joomla-cve-2015-8562</link>
-        <dc:date>2025-07-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
