@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Platform Engineering on Kubernetes (update) - CNAI - Japan Feb '25 (Salaboy)</title>
+        <link>https://speakerdeck.com/salaboy/platform-engineering-on-kubernetes-update-cnai-japan-feb-25</link>
+        <dc:date>2025-08-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Actions Runner Controllerを利用したPlatform Engineering (Junya Taniai)</title>
+        <link>https://speakerdeck.com/jnytnai0613/actions-runner-controllerwoli-yong-sitaplatform-engineering</link>
+        <dc:date>2025-08-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【新卒研修資料】数理最適化 / Mathematical Optimization (BrainPad)</title>
+        <link>https://speakerdeck.com/brainpadpr/mathematical-optimization</link>
+        <dc:date>2025-08-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MCP認可の現在地と自律型エージェント対応に向けた課題 / MCP Authorization Today and Challenges to Support Autonomous Agents (Yoichi Kawasaki)</title>
         <link>https://speakerdeck.com/yokawasa/mcp-authorization-today-and-challenges-to-support-autonomous-agents</link>
         <dc:date>2025-08-05T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>大規模FlutterプロジェクトのCI実行時間を約8割削減した話 (teamLab)</title>
         <link>https://speakerdeck.com/teamlab/flutter-ci-execution-time-improvement</link>
         <dc:date>2025-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>風が吹けばWHOISが使えなくなる～なぜWHOIS・RDAPはサーバー証明書のメール認証に使えなくなったのか～ (Yasuhiro Orange Morishita / 森下泰宏)</title>
-        <link>https://speakerdeck.com/orangemorishita/feng-gachui-kebawhoisgashi-enakunaru-nazewhoisrdaphasabazheng-ming-shu-nomeruren-zheng-nishi-enakunatutanoka</link>
-        <dc:date>2025-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Perlアプリケーションで トレースを実装するまでの 工夫と苦労話 (masayoshi)</title>
-        <link>https://speakerdeck.com/masayoshi/perlapurikesiyonde-toresuwoshi-zhuang-surumadeno-gong-fu-toku-lao-hua</link>
-        <dc:date>2025-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025新卒研修・HTML/CSS #弁護士ドットコム (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20250405-bengo4com-htmlcss</link>
-        <dc:date>2025-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
