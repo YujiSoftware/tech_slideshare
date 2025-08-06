@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIを「便利なツール」から「真のチームメイト」へ (guchey)</title>
+        <link>https://speakerdeck.com/guchey/aiwo-bian-li-naturu-kara-zhen-notimumeito-he</link>
+        <dc:date>2025-08-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Platform Engineering on Kubernetes (update) - CNAI - Japan Feb '25 (Salaboy)</title>
         <link>https://speakerdeck.com/salaboy/platform-engineering-on-kubernetes-update-cnai-japan-feb-25</link>
         <dc:date>2025-08-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Bet "Bet AI" - Accelerating Our AI Journey #BetAIDay (LayerX)</title>
         <link>https://speakerdeck.com/layerx/bet-bet-ai-accelerating-our-ai-journey</link>
-        <dc:date>2025-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模FlutterプロジェクトのCI実行時間を約8割削減した話 (teamLab)</title>
-        <link>https://speakerdeck.com/teamlab/flutter-ci-execution-time-improvement</link>
         <dc:date>2025-08-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
