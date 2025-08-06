@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCP認可の現在地と自律型エージェント対応に向けた課題 / MCP Authorization Today and Challenges to Support Autonomous Agents (Yoichi Kawasaki)</title>
+        <link>https://speakerdeck.com/yokawasa/mcp-authorization-today-and-challenges-to-support-autonomous-agents</link>
+        <dc:date>2025-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Codeから我々が学ぶべきこと (Oikon)</title>
         <link>https://speakerdeck.com/s4yuba/claude-codekarawo-gaxue-bubekikoto</link>
         <dc:date>2025-08-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2025新卒研修・HTML/CSS #弁護士ドットコム (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20250405-bengo4com-htmlcss</link>
-        <dc:date>2025-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Lambda Web Adapter使ってNext.jsのアプリをホストしてみた！ / Tried hosting Next.js app with Lambda Web Adapter (Hiroshi TANABE)</title>
-        <link>https://speakerdeck.com/htnabe/tried-hosting-next-dot-js-app-with-lambda-web-adapter</link>
         <dc:date>2025-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
