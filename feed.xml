@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claude Codeは仕様駆動の夢を見ない (Gota)</title>
+        <link>https://speakerdeck.com/gotalab555/claude-codehashi-yang-qu-dong-nomeng-wojian-nai</link>
+        <dc:date>2025-08-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Codeをdotfiles管理しよう！ / Let's Manage Claude Code with Dotfiles! (shuntaka)</title>
+        <link>https://speakerdeck.com/shuntaka/lets-manage-claude-code-with-dotfiles</link>
+        <dc:date>2025-08-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Scale out your Claude Code ~⁨⁩自社専用Agentで10xする開発プロセス~ (Yuku Kotani)</title>
         <link>https://speakerdeck.com/yukukotani/scale-out-your-claude-code</link>
         <dc:date>2025-08-07T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>TypeScriptのmoduleオプションを改めて整理する (おおいし)</title>
         <link>https://speakerdeck.com/bicstone/typescript-module-option</link>
         <dc:date>2025-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Cloud で学ぶデータエンジニアリング入門 2025年版 #GoogleCloudNext / 20250805 (風音屋 (Kazaneya))</title>
-        <link>https://speakerdeck.com/kazaneya/20250805</link>
-        <dc:date>2025-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>文系学部卒ソフトウェアエンジニアが Georgia Techコンピューターサイエンス修士課程で直面したもの / What a Liberal Arts Graduate Software Engineer Faced in Georgia Tech's Computer Science Master's Program (Toshinori Sugita)</title>
-        <link>https://speakerdeck.com/toshi0607/what-a-liberal-arts-graduate-software-engineer-faced-in-georgia-techs-computer-science-masters-program</link>
-        <dc:date>2025-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
