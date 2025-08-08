@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Flutter を始めよう！ - Flutter の開発現場から (Kihara, Takuya)</title>
+        <link>https://speakerdeck.com/tacck/flutter-woshi-meyou-flutter-nokai-fa-xian-chang-kara</link>
+        <dc:date>2025-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>この1週間でオープンソースとプロプライエタリの関係で思ったこと (Masahiro Uegaki)</title>
+        <link>https://speakerdeck.com/ichigats/kono1zhou-jian-deopunsosutopuropuraietarinoguan-xi-desi-tutakoto</link>
+        <dc:date>2025-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>電気通信事業法の「通信の秘密」～条文の読み方・解釈を中心に～ (関原秀行)</title>
+        <link>https://speakerdeck.com/sekihara/dian-qi-tong-xin-shi-ye-fa-no-tong-xin-nomi-mi-tiao-wen-nodu-mifang-jie-shi-wozhong-xin-ni</link>
+        <dc:date>2025-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2025_7_25_吉祥寺_設計ナイト_ADR運用におけるデータ利活用の考え方.pptx (ssuserfcafd1)</title>
         <link>https://www.slideshare.net/slideshow/2025_7_25_-_-_adr-pptx/281999615</link>
         <dc:date>2025-08-06T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Rubyの国のPerlMonger (AnaTofuZ)</title>
         <link>https://speakerdeck.com/anatofuz/rubynoguo-noperlmonger</link>
-        <dc:date>2025-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GMOペパボのデータ基盤とデータ活用の現在地 / Current State of GMO Pepabo's Data Infrastructure and Data Utilization (Hiroka Zaitsu)</title>
-        <link>https://speakerdeck.com/zaimy/current-state-of-gmo-pepabos-data-infrastructure-and-data-utilization</link>
-        <dc:date>2025-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Projectsを自動化するGitHub CLIテクニック / Automate GitHub Projects with GitHub CLI (tasshi)</title>
-        <link>https://speakerdeck.com/tasshi/automate-github-projects-with-github-cli</link>
-        <dc:date>2025-08-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【データ分析コンペ×生成AI】妙だな…をLLMに気付かせる (tonic)</title>
-        <link>https://speakerdeck.com/tonic/detafen-xi-konpexsheng-cheng-ai-miao-dana-dot-dot-dot-wollmniqi-fu-kaseru</link>
         <dc:date>2025-08-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
