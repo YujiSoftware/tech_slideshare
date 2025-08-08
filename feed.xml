@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Scale out your Claude Code ~⁨⁩自社専用Agentで10xする開発プロセス~ (Yuku Kotani)</title>
+        <link>https://speakerdeck.com/yukukotani/scale-out-your-claude-code</link>
+        <dc:date>2025-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクトで利用するMCPのガードレール (Syoitu Den,@HedgehogPython)</title>
         <link>https://www.docswell.com/s/harinezumi/5QXNE3-2025-08-07-170240</link>
         <dc:date>2025-08-07T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>文系学部卒ソフトウェアエンジニアが Georgia Techコンピューターサイエンス修士課程で直面したもの / What a Liberal Arts Graduate Software Engineer Faced in Georgia Tech's Computer Science Master's Program (Toshinori Sugita)</title>
         <link>https://speakerdeck.com/toshi0607/what-a-liberal-arts-graduate-software-engineer-faced-in-georgia-techs-computer-science-masters-program</link>
         <dc:date>2025-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Game Boy Emulator作成で学んだ Golangのメモリライフタイム (あつまるくん)</title>
-        <link>https://speakerdeck.com/atsumarukun/game-boy-emulatorzuo-cheng-dexue-nda-golangnomemoriraihutaimu</link>
-        <dc:date>2025-08-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
