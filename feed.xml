@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>With Devin -AIの自律とメンバーの自立 (こたにん)</title>
+        <link>https://speakerdeck.com/kotanin0/with-devin-ainozi-lu-tomenhanozi-li</link>
+        <dc:date>2025-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>令和最新版手のひらコンピュータ (KOBA789)</title>
         <link>https://speakerdeck.com/koba789/kernelvm-tokyo-18-reiwa-linux</link>
         <dc:date>2025-08-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Platform Engineering on Kubernetes (update) - CNAI - Japan Feb '25 (Salaboy)</title>
         <link>https://speakerdeck.com/salaboy/platform-engineering-on-kubernetes-update-cnai-japan-feb-25</link>
-        <dc:date>2025-08-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Actions Runner Controllerを利用したPlatform Engineering (Junya Taniai)</title>
-        <link>https://speakerdeck.com/jnytnai0613/actions-runner-controllerwoli-yong-sitaplatform-engineering</link>
         <dc:date>2025-08-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
