@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>令和最新版手のひらコンピュータ (KOBA789)</title>
+        <link>https://speakerdeck.com/koba789/kernelvm-tokyo-18-reiwa-linux</link>
+        <dc:date>2025-08-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>いかにして命令の入れ替わりについて心配するのをやめ、メモリモデルを 愛するようになったか（改） (Takaya Saeki)</title>
         <link>https://speakerdeck.com/nullpo_head/ikanisiteming-ling-noru-reti-warinituitexin-pei-surunowoyame-memorimoderuwo-ai-suruyouninatutaka-gai</link>
         <dc:date>2025-08-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Actions Runner Controllerを利用したPlatform Engineering (Junya Taniai)</title>
         <link>https://speakerdeck.com/jnytnai0613/actions-runner-controllerwoli-yong-sitaplatform-engineering</link>
-        <dc:date>2025-08-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【新卒研修資料】数理最適化 / Mathematical Optimization (BrainPad)</title>
-        <link>https://speakerdeck.com/brainpadpr/mathematical-optimization</link>
         <dc:date>2025-08-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
