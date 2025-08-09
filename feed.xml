@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Enablingについに成功した話(公開版) (sasaki)</title>
+        <link>https://www.docswell.com/s/kei-s16/ZQXNL3-2025-08-08-200726</link>
+        <dc:date>2025-08-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>o11yツールを乗り換えた話 (tak0x00)</title>
+        <link>https://speakerdeck.com/tak0x00/o11yturuwocheng-rihuan-etahua</link>
+        <dc:date>2025-08-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agent Development Kitで作るマルチエージェントアプリケーション（AIAgent勉強会） (Yunosuke Yamada)</title>
+        <link>https://speakerdeck.com/yunosukey/agent-development-kitdezuo-rumarutiezientoapurikesiyon-aiagentmian-qiang-hui</link>
+        <dc:date>2025-08-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Codeは仕様駆動の夢を見ない (Gota)</title>
         <link>https://speakerdeck.com/gotalab555/claude-codehashi-yang-qu-dong-nomeng-wojian-nai</link>
         <dc:date>2025-08-08T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>MCP認可の現在地と自律型エージェント対応に向けた課題 / MCP Authorization Today and Challenges to Support Autonomous Agents (Yoichi Kawasaki)</title>
         <link>https://speakerdeck.com/yokawasa/mcp-authorization-today-and-challenges-to-support-autonomous-agents</link>
         <dc:date>2025-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeから我々が学ぶべきこと (Oikon)</title>
-        <link>https://speakerdeck.com/s4yuba/claude-codekarawo-gaxue-bubekikoto</link>
-        <dc:date>2025-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CEDEC 2025 『ゲームにおけるリアルタイム通信への QUIC導入事例の紹介』 (SEGADevTech)</title>
-        <link>https://speakerdeck.com/segadevtech/cedec-2025-gemuniokeruriarutaimutong-xin-heno-quicdao-ru-shi-li-noshao-jie</link>
-        <dc:date>2025-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptのmoduleオプションを改めて整理する (おおいし)</title>
-        <link>https://speakerdeck.com/bicstone/typescript-module-option</link>
-        <dc:date>2025-08-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
