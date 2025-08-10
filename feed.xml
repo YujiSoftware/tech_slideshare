@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ワープロって実は計算機で (Chiharu Shirasaka)</title>
+        <link>https://speakerdeck.com/pepepper/wapurotuteshi-haji-suan-ji-de</link>
+        <dc:date>2025-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>With Devin -AIの自律とメンバーの自立 (こたにん)</title>
         <link>https://speakerdeck.com/kotanin0/with-devin-ainozi-lu-tomenhanozi-li</link>
         <dc:date>2025-08-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIを「便利なツール」から「真のチームメイト」へ (guchey)</title>
         <link>https://speakerdeck.com/guchey/aiwo-bian-li-naturu-kara-zhen-notimumeito-he</link>
-        <dc:date>2025-08-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Platform Engineering on Kubernetes (update) - CNAI - Japan Feb '25 (Salaboy)</title>
-        <link>https://speakerdeck.com/salaboy/platform-engineering-on-kubernetes-update-cnai-japan-feb-25</link>
         <dc:date>2025-08-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
