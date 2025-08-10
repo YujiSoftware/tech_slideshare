@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Infer入門 (r1ru)</title>
+        <link>https://speakerdeck.com/riru/inferru-men</link>
+        <dc:date>2025-08-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自作OSでDOOMを動かしてみた (Zakki)</title>
         <link>https://speakerdeck.com/zakki0925224/zi-zuo-osdedoomwodong-kasitemita</link>
         <dc:date>2025-08-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2025_7_25_吉祥寺_設計ナイト_ADR運用におけるデータ利活用の考え方.pptx (ssuserfcafd1)</title>
         <link>https://www.slideshare.net/slideshow/2025_7_25_-_-_adr-pptx/281999615</link>
-        <dc:date>2025-08-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Bedrockを用いた新着募集のモデレーション半自動化への取り組み (nogawanogawa)</title>
-        <link>https://speakerdeck.com/nogawanogawa/amazon-bedrockwoyong-itaxin-zhao-mu-ji-nomoderesiyonban-zi-dong-hua-henoqu-rizu-mi</link>
         <dc:date>2025-08-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
