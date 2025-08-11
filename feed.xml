@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM 機能を支える Langfuse / ClickHouse のサーバレス化 (yuu26)</title>
+        <link>https://speakerdeck.com/yuu26/20250808-yurusre</link>
+        <dc:date>2025-08-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>一人でAIプロダクトを作るための工夫 〜技術選定・開発プロセス編〜 / I want AI to work harder (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/i-want-ai-to-work-harder</link>
         <dc:date>2025-08-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Tableau API連携の罠!?脱スプシを夢見たはずが、逆に依存を深めた話 (CUEBiC Inc.)</title>
         <link>https://speakerdeck.com/cuebic9bic/tableau-apilian-xi-nomin-tuo-supusiwomeng-jian-tahazuga-ni-niyi-cun-woshen-metahua</link>
-        <dc:date>2025-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>人と生成AIの協調意思決定/Co‑decision making by people and generative AI (moriyuya)</title>
-        <link>https://speakerdeck.com/moriyuya/co-decision-making-by-people-and-generative-ai</link>
         <dc:date>2025-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
