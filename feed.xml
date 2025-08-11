@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI駆動開発、 猫からシーサーへ進化中。 現場での実践と未来 (Ikko Eltociear Ashimine)</title>
+        <link>https://speakerdeck.com/eltociear/aiqu-dong-kai-fa-mao-karasisahejin-hua-zhong-xian-chang-denoshi-jian-towei-lai</link>
+        <dc:date>2025-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Introduction to Claude Code Action (Shingo Tamaki)</title>
+        <link>https://speakerdeck.com/tamaki/introduction-to-claude-code-action</link>
+        <dc:date>2025-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLM 機能を支える Langfuse / ClickHouse のサーバレス化 (yuu26)</title>
         <link>https://speakerdeck.com/yuu26/20250808-yurusre</link>
         <dc:date>2025-08-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>プロダクトで利用するMCPのガードレール (Syoitu Den,@HedgehogPython)</title>
         <link>https://www.docswell.com/s/harinezumi/5QXNE3-2025-08-07-170240</link>
-        <dc:date>2025-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIで変わるPdMの役割──思考する力が武器になる (Itsuki Kakitani)</title>
-        <link>https://speakerdeck.com/itsukikacky/2025-08-06-aidebian-warupdmnoyi-ge-si-kao-suruli-gawu-qi-ninaru</link>
-        <dc:date>2025-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tableau API連携の罠!?脱スプシを夢見たはずが、逆に依存を深めた話 (CUEBiC Inc.)</title>
-        <link>https://speakerdeck.com/cuebic9bic/tableau-apilian-xi-nomin-tuo-supusiwomeng-jian-tahazuga-ni-niyi-cun-woshen-metahua</link>
         <dc:date>2025-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
