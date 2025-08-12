@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェア開発とマネジメント/Software Development and Management (Daisuke Sato)</title>
+        <link>https://speakerdeck.com/dskst/software-development-and-management</link>
+        <dc:date>2025-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>家族の思い出を形にする 〜 １秒動画の生成を支えるインフラアーキテクチャ (Ojima Hikaru)</title>
         <link>https://speakerdeck.com/ojima_h/jia-zu-nosi-ichu-woxing-nisuru-1miao-dong-hua-nosheng-cheng-wozhi-eruinhuraakitekutiya</link>
         <dc:date>2025-08-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Claude Codeをdotfiles管理しよう！ / Let's Manage Claude Code with Dotfiles! (shuntaka)</title>
         <link>https://speakerdeck.com/shuntaka/lets-manage-claude-code-with-dotfiles</link>
         <dc:date>2025-08-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Scale out your Claude Code ~⁨⁩自社専用Agentで10xする開発プロセス~ (Yuku Kotani)</title>
-        <link>https://speakerdeck.com/yukukotani/scale-out-your-claude-code</link>
-        <dc:date>2025-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
