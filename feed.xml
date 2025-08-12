@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>家族の思い出を形にする 〜 １秒動画の生成を支えるインフラアーキテクチャ (Ojima Hikaru)</title>
+        <link>https://speakerdeck.com/ojima_h/jia-zu-nosi-ichu-woxing-nisuru-1miao-dong-hua-nosheng-cheng-wozhi-eruinhuraakitekutiya</link>
+        <dc:date>2025-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI駆動開発、 猫からシーサーへ進化中。 現場での実践と未来 (Ikko Eltociear Ashimine)</title>
         <link>https://speakerdeck.com/eltociear/aiqu-dong-kai-fa-mao-karasisahejin-hua-zhong-xian-chang-denoshi-jian-towei-lai</link>
         <dc:date>2025-08-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Scale out your Claude Code ~⁨⁩自社専用Agentで10xする開発プロセス~ (Yuku Kotani)</title>
         <link>https://speakerdeck.com/yukukotani/scale-out-your-claude-code</link>
-        <dc:date>2025-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトで利用するMCPのガードレール (Syoitu Den,@HedgehogPython)</title>
-        <link>https://www.docswell.com/s/harinezumi/5QXNE3-2025-08-07-170240</link>
         <dc:date>2025-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
