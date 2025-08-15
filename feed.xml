@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代にプロダクトマネジメントは必要だけどプロダクトマネージャーは役割として必要なのだろうか？ / Product Management in the Age of AI (Rakus_Dev)</title>
+        <link>https://speakerdeck.com/rakus_dev/product-management-in-the-age-of-ai</link>
+        <dc:date>2025-08-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発だけじゃない！SREとして支えるエンジニアリング (Mai Aisaka)</title>
+        <link>https://speakerdeck.com/mist_dev/kai-fa-dakeziyanai-sretositezhi-eruenziniaringu</link>
+        <dc:date>2025-08-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>設計・開発・テストにおけるセキュリティの実践と考え方を知ろう (a_zara_n,@a_zara_n)</title>
+        <link>https://www.docswell.com/s/a-zara-n/KPGX74-2025-08-14-143959</link>
+        <dc:date>2025-08-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>結局QUICで通信は速くなるの？ (kota-yata)</title>
+        <link>https://speakerdeck.com/kota_yata/jie-ju-quicdetong-xin-hasu-kunaruno</link>
+        <dc:date>2025-08-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>はじめての転職講座/The Guide of First Career Change (Hiromu Shioya)</title>
+        <link>https://speakerdeck.com/kwappa/the-guide-of-first-career-change</link>
+        <dc:date>2025-08-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>画像ディープラーニングコンペの基本 (Jun Koda)</title>
         <link>https://speakerdeck.com/junkoda/hua-xiang-deipuraningukonpenoji-ben</link>
         <dc:date>2025-08-13T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>Infer入門 (r1ru)</title>
         <link>https://speakerdeck.com/riru/inferru-men</link>
         <dc:date>2025-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自作OSでDOOMを動かしてみた (Zakki)</title>
-        <link>https://speakerdeck.com/zakki0925224/zi-zuo-osdedoomwodong-kasitemita</link>
-        <dc:date>2025-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ワープロって実は計算機で (Chiharu Shirasaka)</title>
-        <link>https://speakerdeck.com/pepepper/wapurotuteshi-haji-suan-ji-de</link>
-        <dc:date>2025-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>With Devin -AIの自律とメンバーの自立 (こたにん)</title>
-        <link>https://speakerdeck.com/kotanin0/with-devin-ainozi-lu-tomenhanozi-li</link>
-        <dc:date>2025-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>令和最新版手のひらコンピュータ (KOBA789)</title>
-        <link>https://speakerdeck.com/koba789/kernelvm-tokyo-18-reiwa-linux</link>
-        <dc:date>2025-08-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いかにして命令の入れ替わりについて心配するのをやめ、メモリモデルを 愛するようになったか（改） (Takaya Saeki)</title>
-        <link>https://speakerdeck.com/nullpo_head/ikanisiteming-ling-noru-reti-warinituitexin-pei-surunowoyame-memorimoderuwo-ai-suruyouninatutaka-gai</link>
-        <dc:date>2025-08-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
