@@ -15,17 +15,25 @@ application {
      */
 }
 
-tasks.register('deploy', Exec) {
+tasks.register("deploy") {
     group "distribution"
-    dependsOn 'jar'
-    workingDir 'build/libs'
+    dependsOn tasks.assemble
 
-    commandLine "rsync", "--backup-dir", "/tmp", "--suffix", ".${System.currentTimeMillis()}", jar.archiveFile.get(), "pi:tech_slideshare/SlideTwitter/lib/"
+    doLast {
+        def tarFile = tasks.distTar.archiveFile.get().asFile
+        if (!tarFile.exists()) {
+            throw new GradleException("Tar file not found: $tarFile")
+        }
 
-    standardOutput = new ByteArrayOutputStream()
+        def remoteUser = "pi"
+        def remoteHost = "pi"
+        def remotePath = "~/tech_slideshare/SlideTwitter/"
 
-    ext.output = {
-        return standardOutput.toString()
+        println "Uploading ${tarFile.name} to ${remoteUser}@${remoteHost}:${remotePath}"
+        exec {
+            commandLine "ssh", "${remoteUser}@${remoteHost}", "tar -xvf - -C ${remotePath}"
+            standardInput = new FileInputStream(tarFile)
+        }
     }
 }
 
