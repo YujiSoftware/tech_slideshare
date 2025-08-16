@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>非開発者のためのGitHub入門&amp;amp;ハンズオン (yuma(Maki),@yuma_prog)</title>
+        <link>https://www.docswell.com/s/yuma/ZLVNPG-2025-08-15-vibebeginners</link>
+        <dc:date>2025-08-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ゲームの物理 (Fadis)</title>
         <link>https://speakerdeck.com/fadis/gemunowu-li</link>
         <dc:date>2025-08-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLM 機能を支える Langfuse / ClickHouse のサーバレス化 (yuu26)</title>
         <link>https://speakerdeck.com/yuu26/20250808-yurusre</link>
-        <dc:date>2025-08-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一人でAIプロダクトを作るための工夫 〜技術選定・開発プロセス編〜 / I want AI to work harder (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/i-want-ai-to-work-harder</link>
         <dc:date>2025-08-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
