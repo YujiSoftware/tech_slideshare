@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュリティ・キャンプ2025 全国大会 【専門】Bクラス　共通シナリオ + 講義概要紹介 (ふじたーな,@tanafuji_sec)</title>
+        <link>https://www.docswell.com/s/tanafuji-sec/KEYWDG-2025-seccamp-b</link>
+        <dc:date>2025-08-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>seccamp2025_LT_デコンパイラ研究最前線 (KikyoNanakusa)</title>
         <link>https://speakerdeck.com/kikyonanakusa/seccamp2025-lt-dekonpairayan-jiu-zui-qian-xian</link>
         <dc:date>2025-08-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>マイコンでもRustのtestがしたい その２/KernelVM Tokyo 18 (Toshifumi NISHINAGA)</title>
         <link>https://speakerdeck.com/tnishinaga/kernelvm-tokyo-18</link>
         <dc:date>2025-08-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>物語を動かす行動"量" (konifar)</title>
-        <link>https://speakerdeck.com/konifar/wu-yu-wodong-kasuxing-dong-liang</link>
-        <dc:date>2025-08-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
