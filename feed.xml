@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>k1LoW/deck の紹介とチュートリアル (Masayuki Matsuki)</title>
+        <link>https://www.docswell.com/s/Songmu/K137GV-about-deck</link>
+        <dc:date>2025-08-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュリティ・キャンプ2025 全国大会 【専門】Bクラス　共通シナリオ + 講義概要紹介 (ふじたーな,@tanafuji_sec)</title>
         <link>https://www.docswell.com/s/tanafuji-sec/KEYWDG-2025-seccamp-b</link>
         <dc:date>2025-08-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS Summit Japan 2025 個人的参加レポート (midnight480)</title>
         <link>https://speakerdeck.com/midnight480/aws-summit-japan-2025-ge-ren-de-can-jia-repoto</link>
-        <dc:date>2025-08-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マイコンでもRustのtestがしたい その２/KernelVM Tokyo 18 (Toshifumi NISHINAGA)</title>
-        <link>https://speakerdeck.com/tnishinaga/kernelvm-tokyo-18</link>
         <dc:date>2025-08-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
