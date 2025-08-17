@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>クラウド・AWSと初めましてするセミナー_～ゼロから学ぶクラウドとAWS～ (ToyoStar)</title>
+        <link>https://speakerdeck.com/toyostar/kuraudoawstochu-memasitesurusemina-zerokaraxue-bukuraudotoaws</link>
+        <dc:date>2025-08-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「分散システムのためのデザインパターン」 を紹介したい (Yusuke Tanaka,@yusuktan)</title>
         <link>https://www.docswell.com/s/magurotuna/K6EL2W-2025-08-16-kofu-asterisk-1</link>
         <dc:date>2025-08-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI駆動開発、 猫からシーサーへ進化中。 現場での実践と未来 (Ikko Eltociear Ashimine)</title>
         <link>https://speakerdeck.com/eltociear/aiqu-dong-kai-fa-mao-karasisahejin-hua-zhong-xian-chang-denoshi-jian-towei-lai</link>
-        <dc:date>2025-08-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduction to Claude Code Action (Shingo Tamaki)</title>
-        <link>https://speakerdeck.com/tamaki/introduction-to-claude-code-action</link>
         <dc:date>2025-08-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
