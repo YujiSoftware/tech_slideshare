@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「分散システムのためのデザインパターン」 を紹介したい (Yusuke Tanaka,@yusuktan)</title>
+        <link>https://www.docswell.com/s/magurotuna/K6EL2W-2025-08-16-kofu-asterisk-1</link>
+        <dc:date>2025-08-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>非開発者のためのGitHub入門&amp;amp;ハンズオン (yuma(Maki),@yuma_prog)</title>
         <link>https://www.docswell.com/s/yuma/ZLVNPG-2025-08-15-vibebeginners</link>
         <dc:date>2025-08-16T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Introduction to Claude Code Action (Shingo Tamaki)</title>
         <link>https://speakerdeck.com/tamaki/introduction-to-claude-code-action</link>
         <dc:date>2025-08-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM 機能を支える Langfuse / ClickHouse のサーバレス化 (yuu26)</title>
-        <link>https://speakerdeck.com/yuu26/20250808-yurusre</link>
-        <dc:date>2025-08-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
