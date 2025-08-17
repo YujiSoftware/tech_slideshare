@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon S3 Vectorsは大規模ベクトル検索を低コスト化するサーバーレスなベクトルデータベースだ #jawsugsaga / S3 Vectors As A Serverless Vector Database (quiver)</title>
+        <link>https://speakerdeck.com/quiver/s3-vectors-as-a-serverless-vector-database</link>
+        <dc:date>2025-08-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>EDRバイパス入門 (Masahiro Kawada)</title>
         <link>https://www.docswell.com/s/kawakatz/ZJQNPV-2025-08-16-095244</link>
         <dc:date>2025-08-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェア開発とマネジメント/Software Development and Management (Daisuke Sato)</title>
         <link>https://speakerdeck.com/dskst/software-development-and-management</link>
-        <dc:date>2025-08-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>家族の思い出を形にする 〜 １秒動画の生成を支えるインフラアーキテクチャ (Ojima Hikaru)</title>
-        <link>https://speakerdeck.com/ojima_h/jia-zu-nosi-ichu-woxing-nisuru-1miao-dong-hua-nosheng-cheng-wozhi-eruinhuraakitekutiya</link>
         <dc:date>2025-08-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
