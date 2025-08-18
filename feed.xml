@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>白金鉱業Meetup_経験値ゼロから始める A_B テスト布教活動と意思決定に活かしやすいA_Bテスト設計の一案 / brainpad-meetup-20240919 (Taro Masuda)</title>
+        <link>https://speakerdeck.com/taro_masuda/brainpad-meetup-20240919</link>
+        <dc:date>2025-08-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>白金鉱業Meetup Vol.15 効果検証の怖い話_tomokazuABE_20240919 (BrainPad)</title>
+        <link>https://speakerdeck.com/brainpadpr/bai-jin-kuang-ye-meetup-vol-dot-15-xiao-guo-jian-zheng-nobu-ihua-tomokazuabe-20240919</link>
+        <dc:date>2025-08-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>白金鉱業Meetup Vol.15 DMLによる条件付処置効果の推定_sotaroIZUMI_20240919 (BrainPad)</title>
+        <link>https://speakerdeck.com/brainpadpr/bai-jin-kuang-ye-meetup-vol-dot-15-dmlniyorutiao-jian-fu-chu-zhi-xiao-guo-notui-ding-sotaroizumi-20240919</link>
+        <dc:date>2025-08-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon S3 Vectorsは大規模ベクトル検索を低コスト化するサーバーレスなベクトルデータベースだ #jawsugsaga / S3 Vectors As A Serverless Vector Database (quiver)</title>
         <link>https://speakerdeck.com/quiver/s3-vectors-as-a-serverless-vector-database</link>
         <dc:date>2025-08-17T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>生成AIによるソフトウェア開発の収束地点 - Hack Fes 2025 (vaaaaanquish)</title>
         <link>https://speakerdeck.com/vaaaaanquish/sheng-cheng-ainiyorusohutoueakai-fa-noshou-shu-di-dian-hack-fes-2025</link>
         <dc:date>2025-08-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトエンジニアとスクラム (hotpepsi)</title>
-        <link>https://speakerdeck.com/hotpepsi/product-engineer-and-scrum</link>
-        <dc:date>2025-08-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードと政治 (Yutaka Kamei)</title>
-        <link>https://speakerdeck.com/yykamei/kodotozheng-zhi</link>
-        <dc:date>2025-08-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア開発とマネジメント/Software Development and Management (Daisuke Sato)</title>
-        <link>https://speakerdeck.com/dskst/software-development-and-management</link>
-        <dc:date>2025-08-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
