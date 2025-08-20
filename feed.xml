@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SRE新規立ち上げ！ Hubbleインフラのこれまでと展望 (Katsuya Fujii)</title>
+        <link>https://speakerdeck.com/katsuya0515/srexin-gui-li-tishang-ge-hubbleinhuranokoremadetozhan-wang</link>
+        <dc:date>2025-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>dipにおけるSRE変革の軌跡 (ディップ株式会社)</title>
+        <link>https://speakerdeck.com/dip_tech/2025-07-31_findy-job-lt_dip-sre</link>
+        <dc:date>2025-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title> AIは変更差分からユニットテスト_結合テスト_システムテストでテストすべきことが出せるのか？ (Matsu)</title>
+        <link>https://speakerdeck.com/mineo_matsuya/aihabian-geng-chai-fen-karayunitutotesuto-jie-he-tesuto-sisutemutesutodetesutosubekikotogachu-serunoka</link>
+        <dc:date>2025-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>セキュリティ・キャンプ 2025 全国大会 特別講義 T1「海外のセキュリティコミュニティに飛び込む：その第一歩から最前線まで」 (Asuka Nakajima)</title>
+        <link>https://speakerdeck.com/asuna_jp/sekiyuriteikiyanpu-2025-quan-guo-da-hui-te-bie-jiang-yi-t1-hai-wai-nosekiyuriteikomiyuniteinifei-biip-mu-sonodi-bu-karazui-qian-xian-made</link>
+        <dc:date>2025-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Langfuseと歩む生成AI活用推進 (matsukada)</title>
         <link>https://speakerdeck.com/licux/langfusetobu-musheng-cheng-aihuo-yong-tui-jin</link>
         <dc:date>2025-08-19T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>k1LoW/deck の紹介とチュートリアル (Masayuki Matsuki)</title>
         <link>https://www.docswell.com/s/Songmu/K137GV-about-deck</link>
         <dc:date>2025-08-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ・キャンプ2025 全国大会 【専門】Bクラス　共通シナリオ + 講義概要紹介 (ふじたーな,@tanafuji_sec)</title>
-        <link>https://www.docswell.com/s/tanafuji-sec/KEYWDG-2025-seccamp-b</link>
-        <dc:date>2025-08-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>seccamp2025_LT_デコンパイラ研究最前線 (KikyoNanakusa)</title>
-        <link>https://speakerdeck.com/kikyonanakusa/seccamp2025-lt-dekonpairayan-jiu-zui-qian-xian</link>
-        <dc:date>2025-08-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代にプロダクトマネジメントは必要だけどプロダクトマネージャーは役割として必要なのだろうか？ / Product Management in the Age of AI (Rakus_Dev)</title>
-        <link>https://speakerdeck.com/rakus_dev/product-management-in-the-age-of-ai</link>
-        <dc:date>2025-08-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発だけじゃない！SREとして支えるエンジニアリング (Mai Aisaka)</title>
-        <link>https://speakerdeck.com/mist_dev/kai-fa-dakeziyanai-sretositezhi-eruenziniaringu</link>
-        <dc:date>2025-08-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
