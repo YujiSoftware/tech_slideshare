@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>全自動コードレビューの夢 〜実際に活用されるAIコードレビューの実現に向けて〜 (shibutani)</title>
+        <link>https://speakerdeck.com/shibukazu/quan-zi-dong-kodorebiyunomeng-shi-ji-nihuo-yong-sareruaikodorebiyunoshi-xian-nixiang-kete</link>
+        <dc:date>2025-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DockerからECSへ 〜 AWSの海に出る前に知っておきたいこと 〜 (Itaru Ota)</title>
+        <link>https://speakerdeck.com/ota1022/dockerkaraecshe-awsnohai-nichu-ruqian-nizhi-tuteokitaikoto</link>
+        <dc:date>2025-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サイボウズフロントエンドの横断活動から考える AI時代にできること (mugi / Hajime Mugishima)</title>
         <link>https://speakerdeck.com/mugi_uno/ai-zenbu-yare</link>
         <dc:date>2025-08-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>dipにおけるSRE変革の軌跡 (ディップ株式会社)</title>
         <link>https://speakerdeck.com/dip_tech/2025-07-31_findy-job-lt_dip-sre</link>
-        <dc:date>2025-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> AIは変更差分からユニットテスト_結合テスト_システムテストでテストすべきことが出せるのか？ (Matsu)</title>
-        <link>https://speakerdeck.com/mineo_matsuya/aihabian-geng-chai-fen-karayunitutotesuto-jie-he-tesuto-sisutemutesutodetesutosubekikotogachu-serunoka</link>
-        <dc:date>2025-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ・キャンプ 2025 全国大会 特別講義 T1「海外のセキュリティコミュニティに飛び込む：その第一歩から最前線まで」 (Asuka Nakajima)</title>
-        <link>https://speakerdeck.com/asuna_jp/sekiyuriteikiyanpu-2025-quan-guo-da-hui-te-bie-jiang-yi-t1-hai-wai-nosekiyuriteikomiyuniteinifei-biip-mu-sonodi-bu-karazui-qian-xian-made</link>
         <dc:date>2025-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
