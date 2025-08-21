@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Flutter研修【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_flutter</link>
+        <dc:date>2025-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ソフトウェアアーキテクチャ研修【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_software_architecture</link>
+        <dc:date>2025-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テスト・設計研修【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_test_and_system_design</link>
+        <dc:date>2025-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データベース研修 分析向けSQL入門【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_db_sql_for_analysis</link>
+        <dc:date>2025-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Writing with AI【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_writing_with_ai</link>
+        <dc:date>2025-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI研修【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_ai</link>
+        <dc:date>2025-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データベース研修 DB基礎【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_db_basic</link>
         <dc:date>2025-08-20T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>エンジニア × マーケティングテクノロジー が必要な理由 (LIFULL Co., Ltd.)</title>
         <link>https://www.slideshare.net/slideshow/ss-248305368/248305368</link>
         <dc:date>2025-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践 マーケティングテクノロジーエンジニア (LIFULL Co., Ltd.)</title>
-        <link>https://www.slideshare.net/slideshow/ss-248305375/248305375</link>
-        <dc:date>2025-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>白金鉱業Meetup_経験値ゼロから始める A_B テスト布教活動と意思決定に活かしやすいA_Bテスト設計の一案 / brainpad-meetup-20240919 (Taro Masuda)</title>
-        <link>https://speakerdeck.com/taro_masuda/brainpad-meetup-20240919</link>
-        <dc:date>2025-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>白金鉱業Meetup Vol.15 効果検証の怖い話_tomokazuABE_20240919 (BrainPad)</title>
-        <link>https://speakerdeck.com/brainpadpr/bai-jin-kuang-ye-meetup-vol-dot-15-xiao-guo-jian-zheng-nobu-ihua-tomokazuabe-20240919</link>
-        <dc:date>2025-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>白金鉱業Meetup Vol.15 DMLによる条件付処置効果の推定_sotaroIZUMI_20240919 (BrainPad)</title>
-        <link>https://speakerdeck.com/brainpadpr/bai-jin-kuang-ye-meetup-vol-dot-15-dmlniyorutiao-jian-fu-chu-zhi-xiao-guo-notui-ding-sotaroizumi-20240919</link>
-        <dc:date>2025-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon S3 Vectorsは大規模ベクトル検索を低コスト化するサーバーレスなベクトルデータベースだ #jawsugsaga / S3 Vectors As A Serverless Vector Database (quiver)</title>
-        <link>https://speakerdeck.com/quiver/s3-vectors-as-a-serverless-vector-database</link>
-        <dc:date>2025-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EDRバイパス入門 (Masahiro Kawada)</title>
-        <link>https://www.docswell.com/s/kawakatz/ZJQNPV-2025-08-16-095244</link>
-        <dc:date>2025-08-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
