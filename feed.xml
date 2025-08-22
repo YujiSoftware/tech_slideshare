@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュリティ研修【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_security_day1</link>
+        <dc:date>2025-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>全自動コードレビューの夢 〜実際に活用されるAIコードレビューの実現に向けて〜 (shibutani)</title>
         <link>https://speakerdeck.com/shibukazu/quan-zi-dong-kodorebiyunomeng-shi-ji-nihuo-yong-sareruaikodorebiyunoshi-xian-nixiang-kete</link>
         <dc:date>2025-08-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SRE新規立ち上げ！ Hubbleインフラのこれまでと展望 (Katsuya Fujii)</title>
         <link>https://speakerdeck.com/katsuya0515/srexin-gui-li-tishang-ge-hubbleinhuranokoremadetozhan-wang</link>
-        <dc:date>2025-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dipにおけるSRE変革の軌跡 (ディップ株式会社)</title>
-        <link>https://speakerdeck.com/dip_tech/2025-07-31_findy-job-lt_dip-sre</link>
         <dc:date>2025-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
