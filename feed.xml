@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cursorをエンジニアがプログラミング以外で活用する (kuu(Fumiya Kume),@fumiya_kume)</title>
+        <link>https://www.docswell.com/s/fumiya-kume/KQX48J-CursorMeetupOsaka</link>
+        <dc:date>2025-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon Bedrock AgentCore でプロモーション用動画生成エージェントを開発する (Kiminori Yokoi)</title>
         <link>https://speakerdeck.com/nasuvitz/amazon-bedrock-agentcore-depuromosiyonyong-dong-hua-sheng-cheng-ezientowokai-fa-suru</link>
         <dc:date>2025-08-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データベース研修 分析向けSQL入門【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_db_sql_for_analysis</link>
-        <dc:date>2025-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Writing with AI【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_writing_with_ai</link>
         <dc:date>2025-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
