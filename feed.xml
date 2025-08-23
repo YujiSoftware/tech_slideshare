@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>『ふりかえる力』を育み、メンバーの自走力を高める 1 on 1 / 1-on-1 sessions to foster self-reflection (tbpgr)</title>
+        <link>https://speakerdeck.com/tbpgr/1-on-1-sessions-to-foster-self-reflection</link>
+        <dc:date>2025-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>EMの仕事＝余白のデザイン！ / EM-Oasis-9-LMI (リンクアンドモチベーション)</title>
+        <link>https://speakerdeck.com/lmi/em-oasis-9-lmi</link>
+        <dc:date>2025-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Git 研修 Basic【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_git_basic</link>
         <dc:date>2025-08-22T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AI研修【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_ai</link>
-        <dc:date>2025-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データベース研修 DB基礎【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_db_basic</link>
-        <dc:date>2025-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QA・ソフトウェアテスト研修【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_qa_and_testing</link>
         <dc:date>2025-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
