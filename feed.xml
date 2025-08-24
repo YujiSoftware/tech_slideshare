@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【第4回】関東Kaggler会「The Correct Way to Use the Validation Score」 (takaito)</title>
+        <link>https://speakerdeck.com/takaito/di-4hui-guan-dong-kagglerhui-the-correct-way-to-use-the-validation-score</link>
+        <dc:date>2025-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon S3 Vectors とハイブリット検索を実現してみる (ryu-ki)</title>
         <link>https://speakerdeck.com/ryuki0947/implemented-hybrid-search-using-amazon-s3-vectors</link>
         <dc:date>2025-08-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ソフトウェアアーキテクチャ研修【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_software_architecture</link>
-        <dc:date>2025-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスト・設計研修【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_test_and_system_design</link>
         <dc:date>2025-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
