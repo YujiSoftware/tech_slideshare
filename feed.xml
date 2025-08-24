@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Goの野暮ったさとどう付き合うか (Masayuki Matsuki)</title>
+        <link>https://www.docswell.com/s/Songmu/K6E6GM-How-to-get-along-well-with-Go</link>
+        <dc:date>2025-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Backboneとしてのtimm2025 (yu4u)</title>
         <link>https://speakerdeck.com/yu4u/backbonetositenotimm2025</link>
         <dc:date>2025-08-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>UbieのAIパートナーを支えるコンテキストエンジニアリング実践 (Ryo Okubo)</title>
         <link>https://speakerdeck.com/syucream/ubienoaipatonawozhi-erukontekisutoenziniaringushi-jian</link>
-        <dc:date>2025-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Flutter研修【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_flutter</link>
         <dc:date>2025-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
