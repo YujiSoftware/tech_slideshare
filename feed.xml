@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Backboneとしてのtimm2025 (yu4u)</title>
+        <link>https://speakerdeck.com/yu4u/backbonetositenotimm2025</link>
+        <dc:date>2025-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【第4回】関東Kaggler会「The Correct Way to Use the Validation Score」 (takaito)</title>
         <link>https://speakerdeck.com/takaito/di-4hui-guan-dong-kagglerhui-the-correct-way-to-use-the-validation-score</link>
         <dc:date>2025-08-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Flutter研修【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_flutter</link>
-        <dc:date>2025-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアアーキテクチャ研修【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_software_architecture</link>
         <dc:date>2025-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
