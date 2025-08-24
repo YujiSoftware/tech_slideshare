@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kaggleに役立つ高速化・並列化テクニック (Yu Yamaguchi)</title>
+        <link>https://speakerdeck.com/yuyamaguchi/kaggleniyi-li-tugao-su-hua-bing-lie-hua-tekunituku</link>
+        <dc:date>2025-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>KaggleはAIに解けるか？ MLE-Benchのいま (2025/08/23; 第4回 関東Kaggler会) (Takuya Akiba)</title>
         <link>https://speakerdeck.com/iwiwi/23-di-4hui-guan-dong-kagglerhui</link>
         <dc:date>2025-08-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2025新卒研修・Webアプリケーションセキュリティ #弁護士ドットコム (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20250408-bengo4com-webappsec</link>
-        <dc:date>2025-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ活用研修 データマネジメント編【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_data_management</link>
         <dc:date>2025-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
