@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CV勉強会@関東DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery (Yuta Kikuchi)</title>
+        <link>https://speakerdeck.com/yutakikuchi_sd/cvmian-qiang-hui-at-guan-dong-dronesplat-3d-gaussian-splatting-for-robust-3d-reconstruction-from-in-the-wild-drone-imagery</link>
+        <dc:date>2025-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kaggleに役立つ高速化・並列化テクニック (Yu Yamaguchi)</title>
         <link>https://speakerdeck.com/yuyamaguchi/kaggleniyi-li-tugao-su-hua-bing-lie-hua-tekunituku</link>
         <dc:date>2025-08-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サイボウズフロントエンドの横断活動から考える AI時代にできること (mugi / Hajime Mugishima)</title>
         <link>https://speakerdeck.com/mugi_uno/ai-zenbu-yare</link>
-        <dc:date>2025-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025新卒研修・Webアプリケーションセキュリティ #弁護士ドットコム (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20250408-bengo4com-webappsec</link>
         <dc:date>2025-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
