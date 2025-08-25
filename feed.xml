@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMを活用してソースコードから目的の情報をRAGする (kuu(Fumiya Kume),@fumiya_kume)</title>
+        <link>https://www.docswell.com/s/fumiya-kume/ZQX41J-2025-08-25-191624</link>
+        <dc:date>2025-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モノタロウでCursorを導入してみた理想と現実、それと未来 (MonotaRO)</title>
         <link>https://speakerdeck.com/monotaro/monotaroudecursorwodao-ru-sitemitali-xiang-toxian-shi-soretowei-lai</link>
         <dc:date>2025-08-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Git 研修 Basic【MIXI 25新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2025_new_grad_training_git_basic</link>
-        <dc:date>2025-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>会社にデータエンジニアがいることでできるようになること (10xinc)</title>
-        <link>https://speakerdeck.com/10xinc/hui-she-nidetaenziniagairukotodedekiruyouninarukoto</link>
         <dc:date>2025-08-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
