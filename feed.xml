@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ESLintプラグインを使用してCDKのセオリーを適用する (Ren Yamanashi)</title>
+        <link>https://speakerdeck.com/yamanashi_ren01/eslintpuraguinwoshi-yong-sitecdknoseoriwoshi-yong-suru</link>
+        <dc:date>2025-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CDK で簡単に静的サイトホスティングをする (daikw)</title>
+        <link>https://speakerdeck.com/daikw/cdk-dejian-dan-nijing-de-saitohosuteinguwosuru</link>
+        <dc:date>2025-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CV勉強会@関東DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery (Yuta Kikuchi)</title>
         <link>https://speakerdeck.com/yutakikuchi_sd/cvmian-qiang-hui-at-guan-dong-dronesplat-3d-gaussian-splatting-for-robust-3d-reconstruction-from-in-the-wild-drone-imagery</link>
         <dc:date>2025-08-24T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>全自動コードレビューの夢 〜実際に活用されるAIコードレビューの実現に向けて〜 (shibutani)</title>
         <link>https://speakerdeck.com/shibukazu/quan-zi-dong-kodorebiyunomeng-shi-ji-nihuo-yong-sareruaikodorebiyunoshi-xian-nixiang-kete</link>
         <dc:date>2025-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DockerからECSへ 〜 AWSの海に出る前に知っておきたいこと 〜 (Itaru Ota)</title>
-        <link>https://speakerdeck.com/ota1022/dockerkaraecshe-awsnohai-nichu-ruqian-nizhi-tuteokitaikoto</link>
-        <dc:date>2025-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイボウズフロントエンドの横断活動から考える AI時代にできること (mugi / Hajime Mugishima)</title>
-        <link>https://speakerdeck.com/mugi_uno/ai-zenbu-yare</link>
-        <dc:date>2025-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
