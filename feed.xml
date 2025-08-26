@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ZOZOTOWNフロントエンドにおけるディレクトリの分割戦略 (ZOZO Developers)</title>
+        <link>https://speakerdeck.com/zozotech/zozotown-frontend-directory-design</link>
+        <dc:date>2025-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RAID6 を楔形文字で組んで現代人を怖がらせましょう（実装編） (mimifuwacc)</title>
         <link>https://speakerdeck.com/mimifuwa/raid6-woxie-xing-wen-zi-dezu-nde-xian-dai-ren-wobu-garasemasiyou-shi-zhuang-bian</link>
         <dc:date>2025-08-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【第4回】関東Kaggler会「The Correct Way to Use the Validation Score」 (takaito)</title>
         <link>https://speakerdeck.com/takaito/di-4hui-guan-dong-kagglerhui-the-correct-way-to-use-the-validation-score</link>
-        <dc:date>2025-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon S3 Vectors とハイブリット検索を実現してみる (ryu-ki)</title>
-        <link>https://speakerdeck.com/ryuki0947/implemented-hybrid-search-using-amazon-s3-vectors</link>
         <dc:date>2025-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
