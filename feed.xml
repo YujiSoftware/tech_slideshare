@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RAID6 を楔形文字で組んで現代人を怖がらせましょう（実装編） (mimifuwacc)</title>
+        <link>https://speakerdeck.com/mimifuwa/raid6-woxie-xing-wen-zi-dezu-nde-xian-dai-ren-wobu-garasemasiyou-shi-zhuang-bian</link>
+        <dc:date>2025-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モダンな現場と従来型の組織——そこに生じる "不整合" を解消してこそチームがパフォーマンスを発揮できる / Team-oriented Organization Design 20250825 (mtx2s)</title>
         <link>https://speakerdeck.com/mtx2s/team-oriented-organization-design-20250825</link>
         <dc:date>2025-08-25T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Amazon S3 Vectors とハイブリット検索を実現してみる (ryu-ki)</title>
         <link>https://speakerdeck.com/ryuki0947/implemented-hybrid-search-using-amazon-s3-vectors</link>
         <dc:date>2025-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cursorをエンジニアがプログラミング以外で活用する (kuu(Fumiya Kume),@fumiya_kume)</title>
-        <link>https://www.docswell.com/s/fumiya-kume/KQX48J-CursorMeetupOsaka</link>
-        <dc:date>2025-08-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
