@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>知られざるprops命名の慣習 アクション編 (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/zhi-rarezarupropsming-ming-noguan-xi-akusiyonbian</link>
+        <dc:date>2025-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Next.js Internal MCP</title>
         <link>https://docs.google.com/presentation/d/1jnXvenA8TRa9BiyL1tg-oqoCQrjCtYM0W8JUYy-uHag/preview</link>
         <dc:date>2025-08-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CDK で簡単に静的サイトホスティングをする (daikw)</title>
         <link>https://speakerdeck.com/daikw/cdk-dejian-dan-nijing-de-saitohosuteinguwosuru</link>
-        <dc:date>2025-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CV勉強会@関東DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery (Yuta Kikuchi)</title>
-        <link>https://speakerdeck.com/yutakikuchi_sd/cvmian-qiang-hui-at-guan-dong-dronesplat-3d-gaussian-splatting-for-robust-3d-reconstruction-from-in-the-wild-drone-imagery</link>
         <dc:date>2025-08-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
