@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人と組織に偏重したEMへのアンチテーゼ──なぜ、EMに設計力が必要なのか/An antithesis to the overemphasis of people and organizations in EM (Daisuke Sato)</title>
+        <link>https://speakerdeck.com/dskst/an-antithesis-to-the-overemphasis-of-people-and-organizations-in-em</link>
+        <dc:date>2025-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MCPで実現するAIエージェント駆動のNext.jsアプリデバッグ手法 (NakamuraTakumi)</title>
         <link>https://speakerdeck.com/nyatinte/mcpdeshi-xian-suruaiezientoqu-dong-nonext-dot-jsapuridebatugushou-fa</link>
         <dc:date>2025-08-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Claude Codeで実装以外の開発フロー、どこまで自動化できるか？失敗と成功 (ndaDayo.Sugawawa)</title>
         <link>https://speakerdeck.com/ndadayo/claude-codedeshi-zhuang-yi-wai-nokai-fa-huro-dokomadezi-dong-hua-dekiruka-shi-bai-tocheng-gong</link>
-        <dc:date>2025-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>レガシープロジェクトで最大限AIの恩恵を受けられるようClaude Codeを利用する (tk1351)</title>
-        <link>https://speakerdeck.com/tk1351/regasipuroziekutodezui-da-xian-ainoen-hui-woshou-kerareruyouclaude-codewoli-yong-suru</link>
         <dc:date>2025-08-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
