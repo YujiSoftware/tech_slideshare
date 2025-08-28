@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCPで実現するAIエージェント駆動のNext.jsアプリデバッグ手法 (NakamuraTakumi)</title>
+        <link>https://speakerdeck.com/nyatinte/mcpdeshi-xian-suruaiezientoqu-dong-nonext-dot-jsapuridebatugushou-fa</link>
+        <dc:date>2025-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIが実現するプロダクトオーナーと開発者の架け橋 (おおいし)</title>
         <link>https://speakerdeck.com/bicstone/ai-for-agile-teams</link>
         <dc:date>2025-08-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>レガシープロジェクトで最大限AIの恩恵を受けられるようClaude Codeを利用する (tk1351)</title>
         <link>https://speakerdeck.com/tk1351/regasipuroziekutodezui-da-xian-ainoen-hui-woshou-kerareruyouclaude-codewoli-yong-suru</link>
-        <dc:date>2025-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第4回 関東Kaggler会 [Training LLMs with Limited VRAM] (tascj)</title>
-        <link>https://speakerdeck.com/tascj/di-4hui-guan-dong-kagglerhui-training-llms-with-limited-vram</link>
         <dc:date>2025-08-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
