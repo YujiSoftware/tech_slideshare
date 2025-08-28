@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>🔨 小さなビルドシステムを作る (Mutsuha Asada)</title>
+        <link>https://speakerdeck.com/momeemt/xiao-sanabirudosisutemuwozuo-ru</link>
+        <dc:date>2025-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>つくって納得、つかって実感！ 大規模言語モデルことはじめ (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/tukututena-de-tukatuteshi-gan-da-gui-mo-yan-yu-moderukotohazime</link>
         <dc:date>2025-08-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIアプリケーション開発のためのW&amp;Bプロダクトアップデート (W&amp;B Si)</title>
         <link>https://speakerdeck.com/siyoo/aiapurikesiyonkai-fa-notamenow-and-bpurodakutoatupudeto</link>
-        <dc:date>2025-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CDK を使用してAmazon RDS と仲良くするための tips N 選  (mazyu36 | Yuki Matsuda)</title>
-        <link>https://speakerdeck.com/mazyu36/aws-cdk-rds-tips</link>
         <dc:date>2025-08-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
