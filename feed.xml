@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIが実現するプロダクトオーナーと開発者の架け橋 (おおいし)</title>
+        <link>https://speakerdeck.com/bicstone/ai-for-agile-teams</link>
+        <dc:date>2025-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発チーム・開発組織の設計改善スキルの向上 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/kai-fa-timukai-fa-zu-zhi-noshe-ji-gai-shan-sukirunoxiang-shang</link>
         <dc:date>2025-08-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>第4回 関東Kaggler会 [Training LLMs with Limited VRAM] (tascj)</title>
         <link>https://speakerdeck.com/tascj/di-4hui-guan-dong-kagglerhui-training-llms-with-limited-vram</link>
-        <dc:date>2025-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ESLintプラグインを使用してCDKのセオリーを適用する (Ren Yamanashi)</title>
-        <link>https://speakerdeck.com/yamanashi_ren01/eslintpuraguinwoshi-yong-sitecdknoseoriwoshi-yong-suru</link>
         <dc:date>2025-08-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
