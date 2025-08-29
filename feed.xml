@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Figma + Storybook + PlaywrightのMCPを使ったフロントエンド開発 (Yuji Yamaguchi)</title>
+        <link>https://speakerdeck.com/yug1224/2025-08-29</link>
+        <dc:date>2025-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScript入門 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/typescript-2025</link>
+        <dc:date>2025-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RDoc meets YARD (Masafumi Okura)</title>
         <link>https://speakerdeck.com/okuramasafumi/rdoc-meets-yard</link>
         <dc:date>2025-08-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>知られざるprops命名の慣習 アクション編 (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/zhi-rarezarupropsming-ming-noguan-xi-akusiyonbian</link>
-        <dc:date>2025-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.js Internal MCP</title>
-        <link>https://docs.google.com/presentation/d/1jnXvenA8TRa9BiyL1tg-oqoCQrjCtYM0W8JUYy-uHag/preview</link>
-        <dc:date>2025-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.js と Coding Agent で開発しやすい設計を目指した実践と振り返り (Hiroto Yuba,@yuba_4)</title>
-        <link>https://www.docswell.com/s/yuba/ZQX49M-2025-08-27-144235</link>
         <dc:date>2025-08-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
