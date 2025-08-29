@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RDoc meets YARD (Masafumi Okura)</title>
+        <link>https://speakerdeck.com/okuramasafumi/rdoc-meets-yard</link>
+        <dc:date>2025-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SAE J1939シミュレーション環境構築 (okzkey)</title>
         <link>https://speakerdeck.com/daikiokazaki/sae-j1939simiyuresiyonhuan-jing-gou-zhu</link>
         <dc:date>2025-08-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Next.js と Coding Agent で開発しやすい設計を目指した実践と振り返り (Hiroto Yuba,@yuba_4)</title>
         <link>https://www.docswell.com/s/yuba/ZQX49M-2025-08-27-144235</link>
-        <dc:date>2025-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.js開発におけるAIの参画 ~メイン開発と両立する「言語化」と「改善」の工夫~</title>
-        <link>https://docs.google.com/presentation/d/1nR68gT7qIZ6-Ox62LS--W_KnVQt5xXXXjTOIXvoU0ZQ/preview</link>
         <dc:date>2025-08-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
