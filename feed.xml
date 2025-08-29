@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go で言うところのアレは TypeScript で言うとコレ / Kyoto.なんか #7 (Susisu)</title>
+        <link>https://speakerdeck.com/susisu/kyoto-dot-nanka-number-7</link>
+        <dc:date>2025-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>言語モデルの地図：確率分布と 情報幾何による類似性の可視化 (Hidetoshi Shimodaira)</title>
+        <link>https://speakerdeck.com/shimosan/yan-yu-moderunodi-tu-que-lu-fen-bu-to-qing-bao-ji-he-niyorulei-si-xing-noke-shi-hua</link>
+        <dc:date>2025-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Terraform ProviderとしてAWSCC Providerも使っていこうぜ！ (Yuuuuuuu)</title>
         <link>https://speakerdeck.com/yuuuuuuu168/terraform-providertositeawscc-providermoshi-tuteikouze</link>
         <dc:date>2025-08-28T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>アーキテクチャを設計するといふこと 2025年版 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
         <link>https://www.docswell.com/s/tyonekubo/ZX63WR-architecting-2025</link>
         <dc:date>2025-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ZOZOTOWNフロントエンドにおけるディレクトリの分割戦略 (ZOZO Developers)</title>
-        <link>https://speakerdeck.com/zozotech/zozotown-frontend-directory-design</link>
-        <dc:date>2025-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RAID6 を楔形文字で組んで現代人を怖がらせましょう（実装編） (mimifuwacc)</title>
-        <link>https://speakerdeck.com/mimifuwa/raid6-woxie-xing-wen-zi-dezu-nde-xian-dai-ren-wobu-garasemasiyou-shi-zhuang-bian</link>
-        <dc:date>2025-08-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
