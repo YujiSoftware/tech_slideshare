@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>250830 IaCの選定~AWS SAMのLambdaをECSに乗り換えたときの備忘録~ (Takumi Abe)</title>
+        <link>https://speakerdeck.com/east_takumi/250830-iacnoxuan-ding-aws-samnolambdawoecsnicheng-rihuan-etatokinobei-wang-lu-047d625c-6b19-4d61-bf63-33dcd936c709</link>
+        <dc:date>2025-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Python超入門データ分析編-PyLadiesCaravan広島2nd- (kanan)</title>
         <link>https://speakerdeck.com/kanan/pythonchao-ru-men-detafen-xi-bian-pyladiescaravanguang-dao-2nd</link>
         <dc:date>2025-08-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>人と組織に偏重したEMへのアンチテーゼ──なぜ、EMに設計力が必要なのか/An antithesis to the overemphasis of people and organizations in EM (Daisuke Sato)</title>
         <link>https://speakerdeck.com/dskst/an-antithesis-to-the-overemphasis-of-people-and-organizations-in-em</link>
-        <dc:date>2025-08-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCPで実現するAIエージェント駆動のNext.jsアプリデバッグ手法 (NakamuraTakumi)</title>
-        <link>https://speakerdeck.com/nyatinte/mcpdeshi-xian-suruaiezientoqu-dong-nonext-dot-jsapuridebatugushou-fa</link>
         <dc:date>2025-08-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
