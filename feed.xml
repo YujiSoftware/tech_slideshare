@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Node.js 🤝 TypeScript</title>
+        <link>https://docs.google.com/presentation/u/0/d/128j6TkIx9RvAvsukcqcKHf7mp6eU2MPTN94NZ__zYFI/preview</link>
+        <dc:date>2025-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>退屈なことはDevinにやらせよう〜〜Devin APIを使ったVisual Regression Testの自動追加〜 (ryo)</title>
+        <link>https://speakerdeck.com/kawamataryo/tui-qu-nakotohadevinniyaraseyou-devin-apiwoshi-tutavisual-regression-testnozi-dong-zhui-jia</link>
+        <dc:date>2025-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Figma + Storybook + PlaywrightのMCPを使ったフロントエンド開発 (Yuji Yamaguchi)</title>
         <link>https://speakerdeck.com/yug1224/2025-08-29</link>
         <dc:date>2025-08-29T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>AIが実現するプロダクトオーナーと開発者の架け橋 (おおいし)</title>
         <link>https://speakerdeck.com/bicstone/ai-for-agile-teams</link>
         <dc:date>2025-08-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発チーム・開発組織の設計改善スキルの向上 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/kai-fa-timukai-fa-zu-zhi-noshe-ji-gai-shan-sukirunoxiang-shang</link>
-        <dc:date>2025-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>知られざるprops命名の慣習 アクション編 (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/zhi-rarezarupropsming-ming-noguan-xi-akusiyonbian</link>
-        <dc:date>2025-08-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
