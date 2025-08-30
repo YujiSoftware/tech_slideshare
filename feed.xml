@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Python超入門データ分析編-PyLadiesCaravan広島2nd- (kanan)</title>
+        <link>https://speakerdeck.com/kanan/pythonchao-ru-men-detafen-xi-bian-pyladiescaravanguang-dao-2nd</link>
+        <dc:date>2025-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Node.js 🤝 TypeScript</title>
         <link>https://docs.google.com/presentation/u/0/d/128j6TkIx9RvAvsukcqcKHf7mp6eU2MPTN94NZ__zYFI/preview</link>
         <dc:date>2025-08-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>MCPで実現するAIエージェント駆動のNext.jsアプリデバッグ手法 (NakamuraTakumi)</title>
         <link>https://speakerdeck.com/nyatinte/mcpdeshi-xian-suruaiezientoqu-dong-nonext-dot-jsapuridebatugushou-fa</link>
-        <dc:date>2025-08-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIが実現するプロダクトオーナーと開発者の架け橋 (おおいし)</title>
-        <link>https://speakerdeck.com/bicstone/ai-for-agile-teams</link>
         <dc:date>2025-08-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
