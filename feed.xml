@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践アプリケーション設計 ③ドメイン駆動設計 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/shi-jian-apurikesiyonshe-ji-tomeinqu-dong-she-ji</link>
+        <dc:date>2025-08-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践アプリケーション設計 ②トランザクションスクリプトへの対応 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/shi-jian-apurikesiyonshe-ji-toranzakusiyonsukuriputohenodui-ying</link>
         <dc:date>2025-08-30T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Spice up your notifications/try!Swift25 (noppefoxwolf)</title>
         <link>https://speakerdeck.com/noppefoxwolf/try-swift25</link>
         <dc:date>2025-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>🔨 小さなビルドシステムを作る (Mutsuha Asada)</title>
-        <link>https://speakerdeck.com/momeemt/xiao-sanabirudosisutemuwozuo-ru</link>
-        <dc:date>2025-08-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
