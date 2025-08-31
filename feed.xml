@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Continuous Simplicial Neural Networks (horiem)</title>
+        <link>https://speakerdeck.com/yellowshippo/continuous-simplicial-neural-networks</link>
+        <dc:date>2025-08-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最近のSpring Bootの 便利機能を復習！</title>
+        <link>https://docs.google.com/presentation/d/1DvHGeJnXRMvgSsu6J3DF8DcxaelVCe6UjZWQ7zjc1wc/preview</link>
+        <dc:date>2025-08-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モダンフロントエンド 開発研修 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/modanhurontoendo-kai-fa-yan-xiu</link>
         <dc:date>2025-08-30T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Go で言うところのアレは TypeScript で言うとコレ / Kyoto.なんか #7 (Susisu)</title>
         <link>https://speakerdeck.com/susisu/kyoto-dot-nanka-number-7</link>
-        <dc:date>2025-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>言語モデルの地図：確率分布と 情報幾何による類似性の可視化 (Hidetoshi Shimodaira)</title>
-        <link>https://speakerdeck.com/shimosan/yan-yu-moderunodi-tu-que-lu-fen-bu-to-qing-bao-ji-he-niyorulei-si-xing-noke-shi-hua</link>
-        <dc:date>2025-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Terraform ProviderとしてAWSCC Providerも使っていこうぜ！ (Yuuuuuuu)</title>
-        <link>https://speakerdeck.com/yuuuuuuu168/terraform-providertositeawscc-providermoshi-tuteikouze</link>
         <dc:date>2025-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
