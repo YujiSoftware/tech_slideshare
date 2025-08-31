@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モダンフロントエンド 開発研修 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/modanhurontoendo-kai-fa-yan-xiu</link>
+        <dc:date>2025-08-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践アプリケーション設計 ③ドメイン駆動設計 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/shi-jian-apurikesiyonshe-ji-tomeinqu-dong-she-ji</link>
         <dc:date>2025-08-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Terraform ProviderとしてAWSCC Providerも使っていこうぜ！ (Yuuuuuuu)</title>
         <link>https://speakerdeck.com/yuuuuuuu168/terraform-providertositeawscc-providermoshi-tuteikouze</link>
-        <dc:date>2025-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Spice up your notifications/try!Swift25 (noppefoxwolf)</title>
-        <link>https://speakerdeck.com/noppefoxwolf/try-swift25</link>
         <dc:date>2025-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
