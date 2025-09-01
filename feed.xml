@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>パッケージ設計の黒魔術/Kyoto.go#63 (kadota kyohei)</title>
+        <link>https://speakerdeck.com/lufia/kyoto-dot-go-number-63</link>
+        <dc:date>2025-08-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Continuous Simplicial Neural Networks (horiem)</title>
         <link>https://speakerdeck.com/yellowshippo/continuous-simplicial-neural-networks</link>
         <dc:date>2025-08-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>cartagaitai #1 RF問の対策をした話 - OFDM (bata_24)</title>
         <link>https://speakerdeck.com/bata_24/cartagaitai-number-1-rfwen-nodui-ce-wositahua-ofdm</link>
-        <dc:date>2025-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go で言うところのアレは TypeScript で言うとコレ / Kyoto.なんか #7 (Susisu)</title>
-        <link>https://speakerdeck.com/susisu/kyoto-dot-nanka-number-7</link>
         <dc:date>2025-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
