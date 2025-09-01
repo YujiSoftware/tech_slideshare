@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モバイルアプリ研修 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/mobairuapuriyan-xiu</link>
+        <dc:date>2025-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実践データベース設計 ①データベース設計概論 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/shi-jian-detabesushe-ji-detabesushe-ji-gai-lun</link>
+        <dc:date>2025-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実践アプリケーション設計 ①データモデルとドメインモデル (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/shi-jian-apurikesiyonshe-ji-detamoderutodomeinmoderu</link>
+        <dc:date>2025-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ドキュメント化が必要な広報作業に、AIを取り入れる (keigo)</title>
         <link>https://speakerdeck.com/kspace/dokiyumentohua-gabi-yao-naguang-bao-zuo-ye-ni-aiwoqu-riru-reru</link>
         <dc:date>2025-08-31T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Node.js 🤝 TypeScript</title>
         <link>https://docs.google.com/presentation/u/0/d/128j6TkIx9RvAvsukcqcKHf7mp6eU2MPTN94NZ__zYFI/preview</link>
-        <dc:date>2025-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>退屈なことはDevinにやらせよう〜〜Devin APIを使ったVisual Regression Testの自動追加〜 (ryo)</title>
-        <link>https://speakerdeck.com/kawamataryo/tui-qu-nakotohadevinniyaraseyou-devin-apiwoshi-tutavisual-regression-testnozi-dong-zhui-jia</link>
-        <dc:date>2025-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Figma + Storybook + PlaywrightのMCPを使ったフロントエンド開発 (Yuji Yamaguchi)</title>
-        <link>https://speakerdeck.com/yug1224/2025-08-29</link>
-        <dc:date>2025-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript入門 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/typescript-2025</link>
         <dc:date>2025-08-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
