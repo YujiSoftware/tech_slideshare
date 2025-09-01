@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ドキュメント化が必要な広報作業に、AIを取り入れる (keigo)</title>
+        <link>https://speakerdeck.com/kspace/dokiyumentohua-gabi-yao-naguang-bao-zuo-ye-ni-aiwoqu-riru-reru</link>
+        <dc:date>2025-08-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20250901_LT_爆速AI_CerebrasでリアルタイムSVG生成 (NobuakiOshiro)</title>
         <link>https://speakerdeck.com/doradora09/20250901-lt-bao-su-ai-cerebrasteriarutaimusvgsheng-cheng</link>
         <dc:date>2025-08-31T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>TypeScript入門 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/typescript-2025</link>
         <dc:date>2025-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDoc meets YARD (Masafumi Okura)</title>
-        <link>https://speakerdeck.com/okuramasafumi/rdoc-meets-yard</link>
-        <dc:date>2025-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
