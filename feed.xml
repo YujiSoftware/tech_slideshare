@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>技術書を効果的に内面化する実践技法 (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/ji-shu-shu-woxiao-guo-de-ninei-mian-hua-surushi-jian-ji-fa</link>
+        <dc:date>2025-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>攻撃と防御で実践するプロダクトセキュリティ演習～導入パート～ (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/gong-ji-tofang-yu-deshi-jian-surupurodakutosekiyuriteiyan-xi-dao-ru-pato</link>
         <dc:date>2025-09-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>250830 IaCの選定~AWS SAMのLambdaをECSに乗り換えたときの備忘録~ (Takumi Abe)</title>
         <link>https://speakerdeck.com/east_takumi/250830-iacnoxuan-ding-aws-samnolambdawoecsnicheng-rihuan-etatokinobei-wang-lu-047d625c-6b19-4d61-bf63-33dcd936c709</link>
-        <dc:date>2025-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Python超入門データ分析編-PyLadiesCaravan広島2nd- (kanan)</title>
-        <link>https://speakerdeck.com/kanan/pythonchao-ru-men-detafen-xi-bian-pyladiescaravanguang-dao-2nd</link>
         <dc:date>2025-08-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
