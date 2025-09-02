@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Grafana Meetup Japan Vol. 6 (Taisei Ito)</title>
+        <link>https://speakerdeck.com/kaedemalu/grafana-meetup-japan-vol-6</link>
+        <dc:date>2025-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Grafana MCPサーバーによるAIエージェント経由でのGrafanaダッシュボード動的生成 (濱田孝治)</title>
+        <link>https://speakerdeck.com/hamadakoji/grafana-mcpsabaniyoruaiezientojing-you-denografanadatusiyubododong-de-sheng-cheng</link>
+        <dc:date>2025-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【Grafana Meetup Japan #6】Grafanaをリバプロ配下で動かすときにやること ~ Grafana Liveってなんだ ~ (よしたけ)</title>
+        <link>https://speakerdeck.com/yoshitake945/grafana-meetup-japan-number-6-grafanaworibapuropei-xia-dedong-kasutokiniyarukoto-grafana-livetutenanda</link>
+        <dc:date>2025-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>簡単！だけどしんどいVPC Service Controlsですぐに出来るセキュリティ対策</title>
         <link>https://docs.google.com/presentation/d/17GHLDH1FaWSLW5qLKqM7RB3wNWjv9_D9NOW6SvfgmB8/preview</link>
         <dc:date>2025-09-01T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>実践アプリケーション設計 ②トランザクションスクリプトへの対応 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/shi-jian-apurikesiyonshe-ji-toranzakusiyonsukuriputohenodui-ying</link>
-        <dc:date>2025-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア エンジニアとしての 姿勢と心構え (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/sohutouea-enziniatositeno-zi-shi-toxin-gou-e-6f04dc20-276c-4b18-8ebe-9ad9be625993</link>
-        <dc:date>2025-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業価値と Engineering (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/shi-ye-jia-zhi-to-engineering-deb2ed04-e776-464d-b36d-0a6c6a1685d5</link>
-        <dc:date>2025-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>制約理論（ToC）入門 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/zhi-yue-li-lun-toc-ru-men-cab08154-b4c8-4723-9e80-fb02be445d9b</link>
         <dc:date>2025-08-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
