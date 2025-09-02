@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>簡単！だけどしんどいVPC Service Controlsですぐに出来るセキュリティ対策</title>
+        <link>https://docs.google.com/presentation/d/17GHLDH1FaWSLW5qLKqM7RB3wNWjv9_D9NOW6SvfgmB8/preview</link>
+        <dc:date>2025-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OSS開発者という働き方 (ANDPAD inc)</title>
         <link>https://speakerdeck.com/andpad/a-day-of-oss-developer</link>
         <dc:date>2025-09-01T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>制約理論（ToC）入門 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/zhi-yue-li-lun-toc-ru-men-cab08154-b4c8-4723-9e80-fb02be445d9b</link>
         <dc:date>2025-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Namespace and Its Future (Satoshi Tagomori)</title>
-        <link>https://speakerdeck.com/tagomoris/namespace-and-its-future</link>
-        <dc:date>2025-08-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
