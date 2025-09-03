@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kiroは設計が七割 (kuu(Fumiya Kume),@fumiya_kume)</title>
+        <link>https://www.docswell.com/s/fumiya-kume/K37YYV-2025-09-03-193742</link>
+        <dc:date>2025-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Grafanaスタックをフル活用したオブザーバビリティ基盤の紹介 (GO Inc. dev)</title>
+        <link>https://speakerdeck.com/mot_techtalk/grafanasutatukuwohuruhuo-yong-sitaobuzababiriteiji-pan-noshao-jie</link>
+        <dc:date>2025-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PagerDuty FANBOOK Vol.2を書きませんか？ / Shall we write PagerDuty FANBOOK Vol.2? (morihaya)</title>
         <link>https://speakerdeck.com/morihaya/shall-we-write-pagerduty-fanbook-vol-dot-2</link>
         <dc:date>2025-09-02T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>20250901_LT_爆速AI_CerebrasでリアルタイムSVG生成 (NobuakiOshiro)</title>
         <link>https://speakerdeck.com/doradora09/20250901-lt-bao-su-ai-cerebrasteriarutaimusvgsheng-cheng</link>
-        <dc:date>2025-08-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ビジネスデザインメソッド「匠Method」を深く理解する/Gain a deeper understanding of the business design method "Takumi Method" (匠Method User Group)</title>
-        <link>https://speakerdeck.com/takumi_method_ug/gain-a-deeper-understanding-of-the-business-design-method-takumi-method</link>
-        <dc:date>2025-08-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Improving my own Ruby thereafter (monochrome)</title>
-        <link>https://speakerdeck.com/sisshiki1969/improving-my-own-ruby-thereafter</link>
         <dc:date>2025-08-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
