@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【WHI Link Light】マルチテナントなAIエージェントを作ってみた / Let's Build Multi-tenant AI Agent (WHIsaiyo)</title>
+        <link>https://speakerdeck.com/whisaiyo/lets-build-multi-tenant-ai-agent</link>
+        <dc:date>2025-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【WHI Link Light】Bedrock AgentCore Memory で メモリオン vs メモリオフ / Bedrock AgentCore Memory on vs off (WHIsaiyo)</title>
+        <link>https://speakerdeck.com/whisaiyo/bedrock-agentcore-memory-on-vs-off</link>
+        <dc:date>2025-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【WHI Link Light】AIエージェント運用の課題を一気に解決！ Amazon Bedrock AgentCore 入門 / Solve AI Agent Ops Challenges with Amazon Bedrock AgentCore (WHIsaiyo)</title>
+        <link>https://speakerdeck.com/whisaiyo/solve-ai-agent-ops-challenges-with-amazon-bedrock-agentcore</link>
+        <dc:date>2025-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Grafana Meetup Japan Vol. 6 (Taisei Ito)</title>
         <link>https://speakerdeck.com/kaedemalu/grafana-meetup-japan-vol-6</link>
         <dc:date>2025-09-02T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>最近のSpring Bootの 便利機能を復習！</title>
         <link>https://docs.google.com/presentation/d/1DvHGeJnXRMvgSsu6J3DF8DcxaelVCe6UjZWQ7zjc1wc/preview</link>
         <dc:date>2025-08-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モダンフロントエンド 開発研修 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/modanhurontoendo-kai-fa-yan-xiu</link>
-        <dc:date>2025-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践アプリケーション設計 ③ドメイン駆動設計 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/shi-jian-apurikesiyonshe-ji-tomeinqu-dong-she-ji</link>
-        <dc:date>2025-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践アプリケーション設計 ②トランザクションスクリプトへの対応 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/shi-jian-apurikesiyonshe-ji-toranzakusiyonsukuriputohenodui-ying</link>
-        <dc:date>2025-08-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
