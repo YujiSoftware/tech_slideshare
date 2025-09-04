@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AI時代のデータ基盤 (shibuiwilliam)</title>
+        <link>https://speakerdeck.com/shibuiwilliam/sheng-cheng-aishi-dai-nodetaji-pan</link>
+        <dc:date>2025-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>快適なエンジニアリングライフ実現するための ワークもとい会社ハック / Work Hacks for a More Comfortable Engineering Life (NTT docomo Business)</title>
         <link>https://speakerdeck.com/nttcom/work-hacks-for-a-more-comfortable-engineering-life</link>
         <dc:date>2025-09-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>実践データベース設計 ①データベース設計概論 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/shi-jian-detabesushe-ji-detabesushe-ji-gai-lun</link>
-        <dc:date>2025-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践アプリケーション設計 ①データモデルとドメインモデル (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/shi-jian-apurikesiyonshe-ji-detamoderutodomeinmoderu</link>
         <dc:date>2025-09-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
