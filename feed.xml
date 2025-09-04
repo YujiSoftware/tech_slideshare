@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>快適なエンジニアリングライフ実現するための ワークもとい会社ハック / Work Hacks for a More Comfortable Engineering Life (NTT docomo Business)</title>
+        <link>https://speakerdeck.com/nttcom/work-hacks-for-a-more-comfortable-engineering-life</link>
+        <dc:date>2025-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSで実現した大規模日本語VLM学習用データセット "MOMIJI" 構築パイプライン/buiding-momiji (開発室Graph)</title>
         <link>https://speakerdeck.com/studio_graph/buiding-momiji</link>
         <dc:date>2025-09-03T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>実践アプリケーション設計 ①データモデルとドメインモデル (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/shi-jian-apurikesiyonshe-ji-detamoderutodomeinmoderu</link>
         <dc:date>2025-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドキュメント化が必要な広報作業に、AIを取り入れる (keigo)</title>
-        <link>https://speakerdeck.com/kspace/dokiyumentohua-gabi-yao-naguang-bao-zuo-ye-ni-aiwoqu-riru-reru</link>
-        <dc:date>2025-08-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
