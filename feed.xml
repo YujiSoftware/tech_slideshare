@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>事業価値と Engineering (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/engineering-2025</link>
+        <dc:date>2025-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>時間軸から考えるTerraformを使う理由と留意点 (Ryoma Fujiwara)</title>
+        <link>https://speakerdeck.com/fufuhu/shi-jian-zhou-karakao-eruterraformwoshi-uli-you-toliu-yi-dian</link>
+        <dc:date>2025-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>速いWebフレームワークを作る (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/su-iwebhuremuwakuwozuo-ru</link>
         <dc:date>2025-09-03T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>OSS開発者という働き方 (ANDPAD inc)</title>
         <link>https://speakerdeck.com/andpad/a-day-of-oss-developer</link>
-        <dc:date>2025-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術書を効果的に内面化する実践技法 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/ji-shu-shu-woxiao-guo-de-ninei-mian-hua-surushi-jian-ji-fa</link>
-        <dc:date>2025-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>攻撃と防御で実践するプロダクトセキュリティ演習～導入パート～ (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/gong-ji-tofang-yu-deshi-jian-surupurodakutosekiyuriteiyan-xi-dao-ru-pato</link>
         <dc:date>2025-09-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
