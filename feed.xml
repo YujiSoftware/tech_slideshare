@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>速いWebフレームワークを作る (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/su-iwebhuremuwakuwozuo-ru</link>
+        <dc:date>2025-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MCPで変わる Amebaデザインシステム「Spindle」の開発 (Ameba Spindle)</title>
+        <link>https://speakerdeck.com/spindle/how-mcp-is-transforming-the-development-of-amebas-design-system-spindle</link>
+        <dc:date>2025-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AI時代のデータ基盤 (shibuiwilliam)</title>
         <link>https://speakerdeck.com/shibuiwilliam/sheng-cheng-aishi-dai-nodetaji-pan</link>
         <dc:date>2025-09-03T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>攻撃と防御で実践するプロダクトセキュリティ演習～導入パート～ (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/gong-ji-tofang-yu-deshi-jian-surupurodakutosekiyuriteiyan-xi-dao-ru-pato</link>
-        <dc:date>2025-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モバイルアプリ研修 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/mobairuapuriyan-xiu</link>
-        <dc:date>2025-09-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践データベース設計 ①データベース設計概論 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/shi-jian-detabesushe-ji-detabesushe-ji-gai-lun</link>
         <dc:date>2025-09-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
