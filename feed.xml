@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCPでVibe Working。そして、結局はContext Eng（略）/ Working with Vibe on MCP And Context Eng (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/working-with-vibe-on-mcp-and-context-eng</link>
+        <dc:date>2025-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MCPの認証と認可 - MCP Meetup Tokyo 2025 (Hi120ki)</title>
         <link>https://speakerdeck.com/hi120ki/mcp-authorization</link>
         <dc:date>2025-09-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【WHI Link Light】マルチテナントなAIエージェントを作ってみた / Let's Build Multi-tenant AI Agent (WHIsaiyo)</title>
         <link>https://speakerdeck.com/whisaiyo/lets-build-multi-tenant-ai-agent</link>
-        <dc:date>2025-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【WHI Link Light】Bedrock AgentCore Memory で メモリオン vs メモリオフ / Bedrock AgentCore Memory on vs off (WHIsaiyo)</title>
-        <link>https://speakerdeck.com/whisaiyo/bedrock-agentcore-memory-on-vs-off</link>
         <dc:date>2025-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
