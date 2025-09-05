@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kiroと学ぶコンテキストエンジニアリング (Oikon)</title>
+        <link>https://speakerdeck.com/oikon48/kirotoxue-bukontekisutoenziniaringu</link>
+        <dc:date>2025-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI エージェントとはそもそも何か？ - 技術背景から Amazon Bedrock AgentCore での実装まで- / AI Agent Unicorn Day 2025 (Yoshitaka Haribara)</title>
+        <link>https://speakerdeck.com/hariby/ai-agent-unicorn-day-2025</link>
+        <dc:date>2025-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>go test -json そして testing.T.Attr / Kyoto.go #63 (utagawa kiki)</title>
         <link>https://speakerdeck.com/utgwkk/kyoto-dot-go-number-63</link>
         <dc:date>2025-09-04T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Grafanaスタックをフル活用したオブザーバビリティ基盤の紹介 (GO Inc. dev)</title>
         <link>https://speakerdeck.com/mot_techtalk/grafanasutatukuwohuruhuo-yong-sitaobuzababiriteiji-pan-noshao-jie</link>
         <dc:date>2025-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PagerDuty FANBOOK Vol.2を書きませんか？ / Shall we write PagerDuty FANBOOK Vol.2? (morihaya)</title>
-        <link>https://speakerdeck.com/morihaya/shall-we-write-pagerduty-fanbook-vol-dot-2</link>
-        <dc:date>2025-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バクラクのデータ基盤の現在地 / bakuraku-data-platform-202509 (Civitaspo)</title>
-        <link>https://speakerdeck.com/civitaspo/bakuraku-data-platform-202509</link>
-        <dc:date>2025-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
