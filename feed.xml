@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>数式表現学習の現在地と工学への道筋 / Current Status of Mathematical Representation Learning and its Application to Engineering (Shota Kato)</title>
+        <link>https://speakerdeck.com/stktu/current-status-of-mathematical-representation-learning-and-its-application-to-engineering</link>
+        <dc:date>2025-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Introducing ReActionView: A new ActionView-compatible ERB Engine @ Rails World 2025, Amsterdam (Marco Roth)</title>
+        <link>https://speakerdeck.com/marcoroth/introducing-reactionview-a-new-actionview-compatible-erb-engine-at-rails-world-2025-amsterdam</link>
+        <dc:date>2025-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kiroと学ぶコンテキストエンジニアリング (Oikon)</title>
         <link>https://speakerdeck.com/oikon48/kirotoxue-bukontekisutoenziniaringu</link>
         <dc:date>2025-09-05T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AWSで実現した大規模日本語VLM学習用データセット "MOMIJI" 構築パイプライン/buiding-momiji (開発室Graph)</title>
         <link>https://speakerdeck.com/studio_graph/buiding-momiji</link>
-        <dc:date>2025-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kiroは設計が七割 (kuu(Fumiya Kume),@fumiya_kume)</title>
-        <link>https://www.docswell.com/s/fumiya-kume/K37YYV-2025-09-03-193742</link>
-        <dc:date>2025-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Grafanaスタックをフル活用したオブザーバビリティ基盤の紹介 (GO Inc. dev)</title>
-        <link>https://speakerdeck.com/mot_techtalk/grafanasutatukuwohuruhuo-yong-sitaobuzababiriteiji-pan-noshao-jie</link>
         <dc:date>2025-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
