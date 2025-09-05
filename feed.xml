@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>allow_retry と Arel.sql / allow_retry and Arel.sql (Shintani Teppei)</title>
+        <link>https://speakerdeck.com/euglena1215/allow-retry-and-arel-dot-sql</link>
+        <dc:date>2025-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIを活用し、今後に備えるための技術知識 / Basic Knowledge to Utilize AI (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/basic-knowledge-to-utilize-ai</link>
         <dc:date>2025-09-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【WHI Link Light】AIエージェント運用の課題を一気に解決！ Amazon Bedrock AgentCore 入門 / Solve AI Agent Ops Challenges with Amazon Bedrock AgentCore (WHIsaiyo)</title>
         <link>https://speakerdeck.com/whisaiyo/solve-ai-agent-ops-challenges-with-amazon-bedrock-agentcore</link>
-        <dc:date>2025-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Grafana Meetup Japan Vol. 6 (Taisei Ito)</title>
-        <link>https://speakerdeck.com/kaedemalu/grafana-meetup-japan-vol-6</link>
         <dc:date>2025-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
