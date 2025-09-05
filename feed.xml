@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【初心者向け】ローカルLLMの色々な動かし方まとめ (Aratako)</title>
+        <link>https://speakerdeck.com/aratako/chu-xin-zhe-xiang-ke-rokarullmnose-nadong-kasifang-matome</link>
+        <dc:date>2025-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>数式表現学習の現在地と工学への道筋 / Current Status of Mathematical Representation Learning and its Application to Engineering (Shota Kato)</title>
         <link>https://speakerdeck.com/stktu/current-status-of-mathematical-representation-learning-and-its-application-to-engineering</link>
         <dc:date>2025-09-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>快適なエンジニアリングライフ実現するための ワークもとい会社ハック / Work Hacks for a More Comfortable Engineering Life (NTT docomo Business)</title>
         <link>https://speakerdeck.com/nttcom/work-hacks-for-a-more-comfortable-engineering-life</link>
-        <dc:date>2025-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSで実現した大規模日本語VLM学習用データセット "MOMIJI" 構築パイプライン/buiding-momiji (開発室Graph)</title>
-        <link>https://speakerdeck.com/studio_graph/buiding-momiji</link>
         <dc:date>2025-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
