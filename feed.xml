@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜSaaSがMCPサーバーをサービス提供するのか？ (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/20250905</link>
+        <dc:date>2025-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MCPでVibe Working。そして、結局はContext Eng（略）/ Working with Vibe on MCP And Context Eng (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/working-with-vibe-on-mcp-and-context-eng</link>
         <dc:date>2025-09-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Amazon EKS はどのように 1 クラスタ 10 万ノードに対応したのか / Under the Hood EKS Ultra Scale Cluster (riita10069)</title>
         <link>https://speakerdeck.com/riita10069/under-the-hood-eks-ultra-scale-cluster</link>
-        <dc:date>2025-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【WHI Link Light】マルチテナントなAIエージェントを作ってみた / Let's Build Multi-tenant AI Agent (WHIsaiyo)</title>
-        <link>https://speakerdeck.com/whisaiyo/lets-build-multi-tenant-ai-agent</link>
         <dc:date>2025-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
