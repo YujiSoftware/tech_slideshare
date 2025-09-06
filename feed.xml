@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データアナリストからアナリティクスエンジニアになった話 (hatsu)</title>
+        <link>https://speakerdeck.com/hiyokko_data/tetaanarisutokaraanariteikusuensinianinatutahua</link>
+        <dc:date>2025-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CloudflareのChat Agent Starter Kitで簡単！AIチャットボット構築 (syumai)</title>
         <link>https://speakerdeck.com/syumai/introduction-to-cloudflare-ai-chat-agent-starter-kit</link>
         <dc:date>2025-09-05T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>時間軸から考えるTerraformを使う理由と留意点 (Ryoma Fujiwara)</title>
         <link>https://speakerdeck.com/fufuhu/shi-jian-zhou-karakao-eruterraformwoshi-uli-you-toliu-yi-dian</link>
         <dc:date>2025-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>速いWebフレームワークを作る (Yusuke Wada)</title>
-        <link>https://speakerdeck.com/yusukebe/su-iwebhuremuwakuwozuo-ru</link>
-        <dc:date>2025-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
