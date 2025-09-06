@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>定義のない仕事 / Undefined Work (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/undefined-work</link>
+        <dc:date>2025-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大「個人開発サービス」時代に僕たちはどう生きるか (Sotaro Karasawa)</title>
         <link>https://speakerdeck.com/sotarok/da-ge-ren-kai-fa-sabisu-shi-dai-nipu-tatihadousheng-kiruka</link>
         <dc:date>2025-09-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>なぜSaaSがMCPサーバーをサービス提供するのか？ (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20250905</link>
-        <dc:date>2025-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCPでVibe Working。そして、結局はContext Eng（略）/ Working with Vibe on MCP And Context Eng (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/working-with-vibe-on-mcp-and-context-eng</link>
         <dc:date>2025-09-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
