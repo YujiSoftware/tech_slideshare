@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大「個人開発サービス」時代に僕たちはどう生きるか (Sotaro Karasawa)</title>
+        <link>https://speakerdeck.com/sotarok/da-ge-ren-kai-fa-sabisu-shi-dai-nipu-tatihadousheng-kiruka</link>
+        <dc:date>2025-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2025 年のコーディングエージェントの現在地とエンジニアの仕事の変化について (azukiazusa)</title>
+        <link>https://speakerdeck.com/azukiazusa1/2025-nian-nokodeinguezientonoxian-zai-di-toenzinianoshi-shi-nobian-hua-nituite</link>
+        <dc:date>2025-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代のUIはどこへ行く？ (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/aishi-dai-nouihadokohexing-ku</link>
         <dc:date>2025-09-05T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>MCPでVibe Working。そして、結局はContext Eng（略）/ Working with Vibe on MCP And Context Eng (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/working-with-vibe-on-mcp-and-context-eng</link>
-        <dc:date>2025-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCPの認証と認可 - MCP Meetup Tokyo 2025 (Hi120ki)</title>
-        <link>https://speakerdeck.com/hi120ki/mcp-authorization</link>
-        <dc:date>2025-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>allow_retry と Arel.sql / allow_retry and Arel.sql (Shintani Teppei)</title>
-        <link>https://speakerdeck.com/euglena1215/allow-retry-and-arel-dot-sql</link>
         <dc:date>2025-09-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
