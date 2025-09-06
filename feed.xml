@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今！ソフトウェアエンジニアがハードウェアに手を出すには (mackee)</title>
+        <link>https://speakerdeck.com/mackee/jin-sohutoueaenziniagahadoueanishou-wochu-suniha</link>
+        <dc:date>2025-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>定義のない仕事 / Undefined Work (nrs)</title>
         <link>https://speakerdeck.com/nrslib/undefined-work</link>
         <dc:date>2025-09-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>go test -json そして testing.T.Attr / Kyoto.go #63 (utagawa kiki)</title>
         <link>https://speakerdeck.com/utgwkk/kyoto-dot-go-number-63</link>
-        <dc:date>2025-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜSaaSがMCPサーバーをサービス提供するのか？ (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/20250905</link>
         <dc:date>2025-09-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
