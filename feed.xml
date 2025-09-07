@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ProxyによるWindow間RPC機構の構築 (syumai)</title>
+        <link>https://speakerdeck.com/syumai/window-rpc-using-proxy</link>
+        <dc:date>2025-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組織が大きく変わろうとするとき、自分はどうありたいかを考えている (uutan1108)</title>
         <link>https://speakerdeck.com/ohmori_yusuke/zu-zhi-gada-kikubian-waroutosurutoki-zi-fen-hadouaritaikawokao-eteiru</link>
         <dc:date>2025-09-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kiroと学ぶコンテキストエンジニアリング (Oikon)</title>
         <link>https://speakerdeck.com/oikon48/kirotoxue-bukontekisutoenziniaringu</link>
-        <dc:date>2025-09-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI エージェントとはそもそも何か？ - 技術背景から Amazon Bedrock AgentCore での実装まで- / AI Agent Unicorn Day 2025 (Yoshitaka Haribara)</title>
-        <link>https://speakerdeck.com/hariby/ai-agent-unicorn-day-2025</link>
         <dc:date>2025-09-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
