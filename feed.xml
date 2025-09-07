@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜスクラムはこうなったのか？歴史が教えてくれたこと/Shall we explore the roots of Scrum (Genki Sano)</title>
+        <link>https://speakerdeck.com/sanogemaru/shall-we-explore-the-roots-of-scrum</link>
+        <dc:date>2025-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ProxyによるWindow間RPC機構の構築 (syumai)</title>
         <link>https://speakerdeck.com/syumai/window-rpc-using-proxy</link>
         <dc:date>2025-09-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Introducing ReActionView: A new ActionView-compatible ERB Engine @ Rails World 2025, Amsterdam (Marco Roth)</title>
         <link>https://speakerdeck.com/marcoroth/introducing-reactionview-a-new-actionview-compatible-erb-engine-at-rails-world-2025-amsterdam</link>
-        <dc:date>2025-09-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kiroと学ぶコンテキストエンジニアリング (Oikon)</title>
-        <link>https://speakerdeck.com/oikon48/kirotoxue-bukontekisutoenziniaringu</link>
         <dc:date>2025-09-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
