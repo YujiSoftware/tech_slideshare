@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PRDの正しい使い方 ～AI時代にも効く思考・対話・成長ツールとして～ (PERSOL CAREER Dev | techtekt)</title>
+        <link>https://speakerdeck.com/techtekt/prd-how-to</link>
+        <dc:date>2025-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ReactNative のアップグレード作業が （意外に）楽しかった話 (NearMeの技術発表資料です)</title>
         <link>https://speakerdeck.com/nearme_tech/react-native-upgrade-with-claude-code</link>
         <dc:date>2025-09-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データアナリストからアナリティクスエンジニアになった話 (hatsu)</title>
         <link>https://speakerdeck.com/hiyokko_data/tetaanarisutokaraanariteikusuensinianinatutahua</link>
-        <dc:date>2025-09-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CloudflareのChat Agent Starter Kitで簡単！AIチャットボット構築 (syumai)</title>
-        <link>https://speakerdeck.com/syumai/introduction-to-cloudflare-ai-chat-agent-starter-kit</link>
         <dc:date>2025-09-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
