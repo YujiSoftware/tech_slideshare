@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>おこがましくオーナーシップを持つ (Masayuki Matsuki)</title>
+        <link>https://www.docswell.com/s/Songmu/KN9QWL-take-ownership</link>
+        <dc:date>2025-09-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSを利用する上で知っておきたい名前解決のはなし（10分版） (nagisa_53)</title>
         <link>https://speakerdeck.com/nagisa53/awswoli-yong-surushang-dezhi-tuteokitaiming-qian-jie-jue-nohanasi-10fen-ban</link>
         <dc:date>2025-09-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>なぜスクラムはこうなったのか？歴史が教えてくれたこと/Shall we explore the roots of Scrum (Genki Sano)</title>
         <link>https://speakerdeck.com/sanogemaru/shall-we-explore-the-roots-of-scrum</link>
-        <dc:date>2025-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ProxyによるWindow間RPC機構の構築 (syumai)</title>
-        <link>https://speakerdeck.com/syumai/window-rpc-using-proxy</link>
         <dc:date>2025-09-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
