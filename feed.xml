@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIと私たちの学習の変化を考える - Claude Codeの学習モードを例に (azukiazusa)</title>
+        <link>https://speakerdeck.com/azukiazusa1/aitosi-tatinoxue-xi-nobian-hua-wokao-eru-claude-codenoxue-xi-modowoli-ni</link>
+        <dc:date>2025-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Webアプリケーションにオブザーバビリティを実装するRust入門ガイド (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/webapurikesiyonniobuzababiriteiwoshi-zhuang-sururustru-men-gaido</link>
         <dc:date>2025-09-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>成功に役立つ行動経済学のインサイト (Masaya Mori (森正弥) / CAIO (Chief AI Officer))</title>
         <link>https://speakerdeck.com/masayamoriofficial/cheng-gong-niyi-li-tuxing-dong-jing-ji-xue-noinsaito</link>
-        <dc:date>2025-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社内データを活用した推薦タスク向け基盤モデル開発 (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/building-a-foundation-model-for-recommendation-tasks-with-internal-data</link>
         <dc:date>2025-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
