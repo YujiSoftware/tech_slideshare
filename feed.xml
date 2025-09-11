@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>dbt開発 with Claude Codeのためのガードレール設計 (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/dbtkai-fa-with-claude-codenotamenogadorerushe-ji</link>
+        <dc:date>2025-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RustでOSを書くときの利点と欠点</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vRUPBJNUCOU5a0mSCrh0op9nC3sWzzyCDyAdnO4cFBJJAFbYdC_I8vhhmA1HqzqJtVVlJZ6n4W4CnoJ/pub</link>
         <dc:date>2025-09-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>1から理解するWeb Push (Minoru Takeuchi)</title>
         <link>https://speakerdeck.com/dora1998/1karali-jie-suruweb-push</link>
         <dc:date>2025-09-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>地方でエンジニアコミュニティを成功させる秘訣 - 大吉祥寺.pm 2025 (hirotaka kono,@hk_it7)</title>
-        <link>https://www.docswell.com/s/hk_it7/Z446WL-community-toukatsu-dev</link>
-        <dc:date>2025-09-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
