@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CDK CLIで使ってたあの機能、CDK Toolkit Libraryではどうやるの？ (Makky12)</title>
+        <link>https://speakerdeck.com/smt7174/cdk-clideshi-tutetaanoji-neng-cdk-toolkit-librarydehadouyaruno</link>
+        <dc:date>2025-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>輸入実行関税率表をMCPサーバー化してみた (Qlitre)</title>
+        <link>https://speakerdeck.com/qlitre/shu-ru-shi-xing-guan-shui-lu-biao-womcpsabahua-sitemita</link>
+        <dc:date>2025-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「全員プロダクトマネージャー」を実現する、Cursorによる仕様検討の自動運転 (Michiru Kato)</title>
         <link>https://speakerdeck.com/applism118/quan-yuan-purodakutomaneziya-woshi-xian-suru-cursorniyorushi-yang-jian-tao-nozi-dong-yun-zhuan</link>
         <dc:date>2025-09-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>おこがましくオーナーシップを持つ (Masayuki Matsuki)</title>
         <link>https://www.docswell.com/s/Songmu/KN9QWL-take-ownership</link>
-        <dc:date>2025-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSを利用する上で知っておきたい名前解決のはなし（10分版） (nagisa_53)</title>
-        <link>https://speakerdeck.com/nagisa53/awswoli-yong-surushang-dezhi-tuteokitaiming-qian-jie-jue-nohanasi-10fen-ban</link>
-        <dc:date>2025-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tool Catalog Agent for Bedrock AgentCore Gateway (matsukada)</title>
-        <link>https://speakerdeck.com/licux/tool-catalog-agent-for-bedrock-agentcore-gateway</link>
         <dc:date>2025-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
