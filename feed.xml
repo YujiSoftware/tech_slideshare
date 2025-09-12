@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Db2 LUW 12.1でベクトル検索をしてみよう - Part2: SQL編/20250910_db2vector_part2_sql (Mayumi Hirano)</title>
+        <link>https://speakerdeck.com/mayumihirano/20250910-db2vector-part2-sql</link>
+        <dc:date>2025-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Android 16 × Jetpack Composeで縦書きテキストエディタを作ろう / Vertical Text Editor with Compose on Android 16 (cc4966)</title>
         <link>https://speakerdeck.com/cc4966/vertical-text-editor-with-compose-on-android-16</link>
         <dc:date>2025-09-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>国際論文を出そう！ICRA / IROS / RA-L への論文投稿の心構えとノウハウ / RSJ2025 Luncheon Seminar (koide3)</title>
         <link>https://speakerdeck.com/koide3/rsj2025-luncheon-seminar</link>
         <dc:date>2025-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>構造化・自動化・ガードレール - Vibe Coding実践記 - (ふくすけ)</title>
-        <link>https://speakerdeck.com/tonegawa07/gou-zao-hua-zi-dong-hua-gadoreru-vibe-codingshi-jian-ji</link>
-        <dc:date>2025-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
