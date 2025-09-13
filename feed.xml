@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【DL輪読会】Gaussian Splatting SLAM (Deep Learning JP,@DL_Hacks)</title>
+        <link>https://www.docswell.com/s/DeepLearning2023/K8GP6Q-2024-03-01-114521</link>
+        <dc:date>2025-09-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CDK CLIで使ってたあの機能、CDK Toolkit Libraryではどうやるの？ (Makky12)</title>
         <link>https://speakerdeck.com/smt7174/cdk-clideshi-tutetaanoji-neng-cdk-toolkit-librarydehadouyaruno</link>
         <dc:date>2025-09-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>カジュアルコントリビュータと学ぶRustコンパイラ (Yuki Toyoda)</title>
         <link>https://speakerdeck.com/helloyuk13/kaziyuarukontoribiyutatoxue-burustkonpaira</link>
-        <dc:date>2025-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>おこがましくオーナーシップを持つ (Masayuki Matsuki)</title>
-        <link>https://www.docswell.com/s/Songmu/KN9QWL-take-ownership</link>
         <dc:date>2025-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
