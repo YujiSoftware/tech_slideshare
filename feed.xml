@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FrontendConference Hokkaido 2025 / &lt;UserCard data={クソデカ複雑Object} /&gt;問題を考える</title>
+        <link>https://docs.google.com/presentation/d/1C_nZ2IEh9tlT9Mc5qKdsp-40qklzM0yc3t0qCpMUQEs/preview</link>
+        <dc:date>2025-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【DL輪読会】Gaussian Splatting SLAM (Deep Learning JP,@DL_Hacks)</title>
         <link>https://www.docswell.com/s/DeepLearning2023/K8GP6Q-2024-03-01-114521</link>
         <dc:date>2025-09-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RustでOSを書くときの利点と欠点</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vRUPBJNUCOU5a0mSCrh0op9nC3sWzzyCDyAdnO4cFBJJAFbYdC_I8vhhmA1HqzqJtVVlJZ6n4W4CnoJ/pub</link>
-        <dc:date>2025-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カジュアルコントリビュータと学ぶRustコンパイラ (Yuki Toyoda)</title>
-        <link>https://speakerdeck.com/helloyuk13/kaziyuarukontoribiyutatoxue-burustkonpaira</link>
         <dc:date>2025-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
