@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>衛星の軌道をWeb地図上に表示する (Takahiro Miyoshi)</title>
+        <link>https://speakerdeck.com/sankichi92/foss4g-lt-002</link>
+        <dc:date>2025-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CityGMLとFBXの連携で地理空間のエンタメ化 (ShoYoneda)</title>
+        <link>https://speakerdeck.com/soh_mitian/citygmltofbxfalselian-xi-dedi-li-kong-jian-falseentamehua</link>
+        <dc:date>2025-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GoでマルチプラットフォームなOSSを開発する時の注意点 (Masayuki Matsuki)</title>
         <link>https://www.docswell.com/s/Songmu/KN989V-Tips-for-multi-platform-OSS-in-Go</link>
         <dc:date>2025-09-15T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>実践AIガバナンス (Asei Sugiyama)</title>
         <link>https://speakerdeck.com/asei/shi-jian-aigabanansu</link>
-        <dc:date>2025-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>相互コミュニケーションの難しさ (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/xiang-hu-komiyunikesiyonnonan-sisa</link>
-        <dc:date>2025-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IPA&amp;AWSダブル全冠が明かす、人生を変えた勉強法のすべて (iwamot)</title>
-        <link>https://speakerdeck.com/iwamot/13-study-hacks-to-break-through</link>
         <dc:date>2025-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
