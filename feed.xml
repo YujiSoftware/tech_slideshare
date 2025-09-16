@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GoでマルチプラットフォームなOSSを開発する時の注意点 (Masayuki Matsuki)</title>
+        <link>https://www.docswell.com/s/Songmu/KN989V-Tips-for-multi-platform-OSS-in-Go</link>
+        <dc:date>2025-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代に問い直すユニットテストの価値 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
         <link>https://www.docswell.com/s/tyonekubo/K44MXJ-value-of-unittesting</link>
         <dc:date>2025-09-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>IPA&amp;AWSダブル全冠が明かす、人生を変えた勉強法のすべて (iwamot)</title>
         <link>https://speakerdeck.com/iwamot/13-study-hacks-to-break-through</link>
-        <dc:date>2025-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現場で役立つAPIデザイン (草薙昭彦)</title>
-        <link>https://speakerdeck.com/nagix/xian-chang-deyi-li-tuapidezain-d1b9e936-f4c8-4871-b201-8602af352f19</link>
         <dc:date>2025-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
