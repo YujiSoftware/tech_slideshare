@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIエージェントで90秒の広告動画を制作！台本・音声・映像・編集をつなぐAWS最新アーキテクチャの実践 (Kiminori Yokoi)</title>
+        <link>https://speakerdeck.com/nasuvitz/aiezientode90miao-noguang-gao-dong-hua-wozhi-zuo-tai-ben-yin-sheng-ying-xiang-bian-ji-wotunaguawszui-xin-akitekutiyanoshi-jian</link>
+        <dc:date>2025-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>衛星の軌道をWeb地図上に表示する (Takahiro Miyoshi)</title>
         <link>https://speakerdeck.com/sankichi92/foss4g-lt-002</link>
         <dc:date>2025-09-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>人工衛星のファームウェアをRustで書く理由 (KOBA789)</title>
         <link>https://speakerdeck.com/koba789/why-rust-for-satellite</link>
-        <dc:date>2025-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践AIガバナンス (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/shi-jian-aigabanansu</link>
         <dc:date>2025-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
