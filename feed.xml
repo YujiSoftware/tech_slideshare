@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データ分析エージェント Socrates の育て方 (na0)</title>
+        <link>https://speakerdeck.com/na0/detafen-xi-eziento-socrates-noyu-tefang</link>
+        <dc:date>2025-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>より安全で効率的な Go コードへ： Protocol Buffers Opaque API の導入 (shoyan)</title>
         <link>https://speakerdeck.com/shwatanap/yorian-quan-dexiao-lu-de-na-go-kodohe-protocol-buffers-opaque-api-nodao-ru</link>
         <dc:date>2025-09-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サラリーマンの小遣いで作るtoCサービス - Cloudflare Workersでスケールする開発戦略 (shinaps)</title>
         <link>https://speakerdeck.com/shinaps/sararimannoxiao-qian-idezuo-rutocsabisu-cloudflare-workersdesukerusurukai-fa-zhan-lue</link>
-        <dc:date>2025-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIと私たちの学習の変化を考える - Claude Codeの学習モードを例に (azukiazusa)</title>
-        <link>https://speakerdeck.com/azukiazusa1/aitosi-tatinoxue-xi-nobian-hua-wokao-eru-claude-codenoxue-xi-modowoli-ni</link>
         <dc:date>2025-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
