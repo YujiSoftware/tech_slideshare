@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モバイルアプリ開発のためのDesign Doc実践ガイド (Mori Atsushi)</title>
+        <link>https://speakerdeck.com/moriatsushi/mobairuapurikai-fa-notamenodesign-docshi-jian-gaido</link>
+        <dc:date>2025-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>デブサミ関西 - 変わる世界と技術者の選択 </title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vRDyshG6w2MkyubwDBQw1Q8Icb_3yeEEDc7YjVvKKTGjboJ7S9URZXSwhY8YGa28XrvlDAWPjkjTJsF/pub</link>
         <dc:date>2025-09-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「全員プロダクトマネージャー」を実現する、Cursorによる仕様検討の自動運転 (Michiru Kato)</title>
         <link>https://speakerdeck.com/applism118/quan-yuan-purodakutomaneziya-woshi-xian-suru-cursorniyorushi-yang-jian-tao-nozi-dong-yun-zhuan</link>
-        <dc:date>2025-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Db2 LUW 12.1でベクトル検索をしてみよう - Part2: SQL編/20250910_db2vector_part2_sql (Mayumi Hirano)</title>
-        <link>https://speakerdeck.com/mayumihirano/20250910-db2vector-part2-sql</link>
         <dc:date>2025-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
