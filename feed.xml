@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Reactをクライアントで使わない (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/reactwokuraiantodeshi-wanai</link>
+        <dc:date>2025-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スタートアップこそ全員で Platform Engineering スピードと持続性を両立する文化の作り方 (KaoruTsuda)</title>
         <link>https://speakerdeck.com/anizozina/sutatoatupukosoquan-yuan-de-platform-engineering-supidotochi-sok-xing-woliang-li-suruwen-hua-nozuo-rifang</link>
         <dc:date>2025-09-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AIエージェントで90秒の広告動画を制作！台本・音声・映像・編集をつなぐAWS最新アーキテクチャの実践 (Kiminori Yokoi)</title>
         <link>https://speakerdeck.com/nasuvitz/aiezientode90miao-noguang-gao-dong-hua-wozhi-zuo-tai-ben-yin-sheng-ying-xiang-bian-ji-wotunaguawszui-xin-akitekutiyanoshi-jian</link>
         <dc:date>2025-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>衛星の軌道をWeb地図上に表示する (Takahiro Miyoshi)</title>
-        <link>https://speakerdeck.com/sankichi92/foss4g-lt-002</link>
-        <dc:date>2025-09-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
