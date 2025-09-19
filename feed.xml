@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>sqlcとLLMによる型安全なSQL生成 (進捗ゼミ)</title>
+        <link>https://speakerdeck.com/progresscicada/sqlctollmniyoruxing-an-quan-nasqlsheng-cheng</link>
+        <dc:date>2025-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AIで生産性向上 (Takafumi Omuro)</title>
+        <link>https://speakerdeck.com/tomuro/sheng-cheng-aitesheng-chan-xing-xiang-shang</link>
+        <dc:date>2025-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIがコード書きすぎ問題にはAIで立ち向かえ (jyoshise)</title>
         <link>https://speakerdeck.com/jyoshise/aigakodoshu-kisugiwen-ti-nihaaideli-tixiang-kae</link>
         <dc:date>2025-09-18T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>GoでマルチプラットフォームなOSSを開発する時の注意点 (Masayuki Matsuki)</title>
         <link>https://www.docswell.com/s/Songmu/KN989V-Tips-for-multi-platform-OSS-in-Go</link>
         <dc:date>2025-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代に問い直すユニットテストの価値 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
-        <link>https://www.docswell.com/s/tyonekubo/K44MXJ-value-of-unittesting</link>
-        <dc:date>2025-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今だからこそ入門する Server-Sent Events (SSE) (NearMeの技術発表資料です)</title>
-        <link>https://speakerdeck.com/nearme_tech/sse-intro</link>
-        <dc:date>2025-09-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
