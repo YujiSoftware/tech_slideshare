@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claude Code でアプリ開発をオートパイロットにするためのTips集 Zennの場合 / Claude Code Tips in Zenn (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/wadayusuke/claude-code-tips-in-zenn</link>
+        <dc:date>2025-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>sqlcとLLMによる型安全なSQL生成 (進捗ゼミ)</title>
         <link>https://speakerdeck.com/progresscicada/sqlctollmniyoruxing-an-quan-nasqlsheng-cheng</link>
         <dc:date>2025-09-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CityGMLとFBXの連携で地理空間のエンタメ化 (ShoYoneda)</title>
         <link>https://speakerdeck.com/soh_mitian/citygmltofbxfalselian-xi-dedi-li-kong-jian-falseentamehua</link>
-        <dc:date>2025-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoでマルチプラットフォームなOSSを開発する時の注意点 (Masayuki Matsuki)</title>
-        <link>https://www.docswell.com/s/Songmu/KN989V-Tips-for-multi-platform-OSS-in-Go</link>
         <dc:date>2025-09-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
