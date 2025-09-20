@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIを活用したレシート読み取り機能の開発から得られた実践知 / AI Receipt Scan Practice (rockname)</title>
+        <link>https://speakerdeck.com/rockname/ai-receipt-scan-practice</link>
+        <dc:date>2025-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Reactをクライアントで使わない (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/reactwokuraiantodeshi-wanai</link>
         <dc:date>2025-09-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>はじめてのOSS開発からみえたGo言語の強み (shibutani)</title>
         <link>https://speakerdeck.com/shibukazu/hazimetenoosskai-fa-karamietagoyan-yu-noqiang-mi</link>
-        <dc:date>2025-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントで90秒の広告動画を制作！台本・音声・映像・編集をつなぐAWS最新アーキテクチャの実践 (Kiminori Yokoi)</title>
-        <link>https://speakerdeck.com/nasuvitz/aiezientode90miao-noguang-gao-dong-hua-wozhi-zuo-tai-ben-yin-sheng-ying-xiang-bian-ji-wotunaguawszui-xin-akitekutiyanoshi-jian</link>
         <dc:date>2025-09-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
