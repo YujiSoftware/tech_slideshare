@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>slog.Handlerのよくある実装ミス (H.Saki)</title>
+        <link>https://speakerdeck.com/sakiengineer/slog-dot-handlernoyokuarushi-zhuang-misu</link>
+        <dc:date>2025-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIで 浮いた時間で 何をする？ #プロヒス2025 (konifar)</title>
+        <link>https://speakerdeck.com/konifar/aide-fu-itashi-jian-de-he-wosuru</link>
+        <dc:date>2025-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>麻雀点数計算問題生成タスクから学ぶ Single Agentの限界と Agentic Workflowの底力 (po3rin)</title>
+        <link>https://speakerdeck.com/po3rin/ma-que-dian-shu-ji-suan-wen-ti-sheng-cheng-tasukukaraxue-bu-single-agentnoxian-jie-to-agentic-workflownodi-li</link>
+        <dc:date>2025-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20250920_ServerlessDays (Takuya Yonezawa)</title>
+        <link>https://speakerdeck.com/takuyay0ne/20250920-serverlessdays</link>
+        <dc:date>2025-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>認知負荷理論で挑むPlatform Engineering：サイボウズにおけるKubernetesプラットフォームの拡大に向けて (Akihiro Ikezoe,@zoetro)</title>
         <link>https://www.docswell.com/s/zoetro/ZG2VJ9-2025-09-18-142816</link>
         <dc:date>2025-09-19T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>AIがコード書きすぎ問題にはAIで立ち向かえ (jyoshise)</title>
         <link>https://speakerdeck.com/jyoshise/aigakodoshu-kisugiwen-ti-nihaaideli-tixiang-kae</link>
         <dc:date>2025-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PEK2025: Multi-Tenancy Design in Ameba (Kumo Ishikawa)</title>
-        <link>https://speakerdeck.com/kumorn5s/pek2025-multi-tenancy-design-in-ameba</link>
-        <dc:date>2025-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハイブリッドAIOps・AI Agent戦略：SaaS AI時代のプラットフォームエンジニアリング生存戦略 (ktykogm)</title>
-        <link>https://speakerdeck.com/0gm/haiburitudoaiopsai-agentzhan-lue-saas-aishi-dai-nopuratutohuomuenziniaringusheng-cun-zhan-lue</link>
-        <dc:date>2025-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メルカリIBISの紹介 (ktykogm)</title>
-        <link>https://speakerdeck.com/0gm/merukariibisnoshao-jie</link>
-        <dc:date>2025-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Platformに“ちょうどいい”責務ってどこ？ 関心の熱さにあわせて考える、責務分担のプラクティス (estie | エスティ)</title>
-        <link>https://speakerdeck.com/estie/platformni-tiyoudoii-ze-wu-tutedoko-guan-xin-nore-saniawasetekao-eru-ze-wu-fen-dan-nopurakuteisu-ae5a95df-f5df-4632-94bd-17c9cb41672a</link>
-        <dc:date>2025-09-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
