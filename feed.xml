@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンド開発に役立つクライアントプログラム共通のノウハウ / Universal client-side programming best practices for frontend development (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/universal-client-side-programming-best-practices-for-frontend-development</link>
+        <dc:date>2025-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>世界の人気アプリ100個を分析して見えたペイウォール設計の心得 (Akihiro Kokubo)</title>
         <link>https://speakerdeck.com/akihiro_kokubo/key-insights-on-paywall-design</link>
         <dc:date>2025-09-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Reactをクライアントで使わない (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/reactwokuraiantodeshi-wanai</link>
         <dc:date>2025-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スタートアップこそ全員で Platform Engineering スピードと持続性を両立する文化の作り方 (KaoruTsuda)</title>
-        <link>https://speakerdeck.com/anizozina/sutatoatupukosoquan-yuan-de-platform-engineering-supidotochi-sok-xing-woliang-li-suruwen-hua-nozuo-rifang</link>
-        <dc:date>2025-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
