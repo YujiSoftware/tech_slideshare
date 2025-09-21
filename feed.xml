@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>半自動E2Eで手っ取り早くリグレッションテストを効率化しよう (Ryuta Kibe)</title>
+        <link>https://speakerdeck.com/beryu/ban-zi-dong-e2edeshou-tuqu-rizao-kuriguretusiyontesutowoxiao-lu-hua-siyou</link>
+        <dc:date>2025-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>パフォーマンスチューニングで Web 技術を深掘り直す (Shunsuke Mano)</title>
+        <link>https://speakerdeck.com/progfay/pahuomansutiyuningude-web-ji-shu-woshen-jue-rizhi-su</link>
+        <dc:date>2025-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CSS Linter の現在地 2025年のベストプラクティスを探る (mattsuu)</title>
         <link>https://speakerdeck.com/ryo_manba/css-linter-noxian-zai-di-2025nian-nobesutopurakuteisuwotan-ru</link>
         <dc:date>2025-09-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Claude Code でアプリ開発をオートパイロットにするためのTips集 Zennの場合 / Claude Code Tips in Zenn (Yusuke Wada)</title>
         <link>https://speakerdeck.com/wadayusuke/claude-code-tips-in-zenn</link>
-        <dc:date>2025-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>sqlcとLLMによる型安全なSQL生成 (進捗ゼミ)</title>
-        <link>https://speakerdeck.com/progresscicada/sqlctollmniyoruxing-an-quan-nasqlsheng-cheng</link>
-        <dc:date>2025-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIで生産性向上 (Takafumi Omuro)</title>
-        <link>https://speakerdeck.com/tomuro/sheng-cheng-aitesheng-chan-xing-xiang-shang</link>
         <dc:date>2025-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
