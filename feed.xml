@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践AIチャットボットUI実装入門 (syumai)</title>
+        <link>https://speakerdeck.com/syumai/practical-ai-chat-bot-ui-implementation</link>
+        <dc:date>2025-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンド開発に役立つクライアントプログラム共通のノウハウ / Universal client-side programming best practices for frontend development (nrs)</title>
         <link>https://speakerdeck.com/nrslib/universal-client-side-programming-best-practices-for-frontend-development</link>
         <dc:date>2025-09-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIを活用したレシート読み取り機能の開発から得られた実践知 / AI Receipt Scan Practice (rockname)</title>
         <link>https://speakerdeck.com/rockname/ai-receipt-scan-practice</link>
-        <dc:date>2025-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Reactをクライアントで使わない (Yusuke Wada)</title>
-        <link>https://speakerdeck.com/yusukebe/reactwokuraiantodeshi-wanai</link>
         <dc:date>2025-09-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
