@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Web技術を最大限活用してRAW画像を現像する / Developing RAW Images on the Web (TOMIKAWA Sotaro)</title>
+        <link>https://speakerdeck.com/ssssota/developing-raw-images-on-the-web</link>
+        <dc:date>2025-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CDN Edge Computing上で動くOIDC認証Proxyのススメ (Atsushi Harada)</title>
         <link>https://speakerdeck.com/haradaa9/cdn-edge-computingshang-tedong-kuoidcren-zheng-proxynosusume</link>
         <dc:date>2025-09-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>slog.Handlerのよくある実装ミス (H.Saki)</title>
         <link>https://speakerdeck.com/sakiengineer/slog-dot-handlernoyokuarushi-zhuang-misu</link>
-        <dc:date>2025-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIで 浮いた時間で 何をする？ #プロヒス2025 (konifar)</title>
-        <link>https://speakerdeck.com/konifar/aide-fu-itashi-jian-de-he-wosuru</link>
         <dc:date>2025-09-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
