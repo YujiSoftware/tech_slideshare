@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>爆速でプロダクトをリリースしようと思ったらマイクロフロントエンドを選んでいた (KAKEHASHI)</title>
+        <link>https://speakerdeck.com/kakehashi/shipping-fast-with-micro-frontends</link>
+        <dc:date>2025-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>そのJavaScript、V8が泣いてます。V8の気持ちを理解して書くパフォーマンス最適化 (Riya Amemiya)</title>
+        <link>https://speakerdeck.com/riyaamemiya/sonojavascript-v8gaqi-itemasu-v8noqi-chi-tiwoli-jie-siteshu-kupahuomansuzui-shi-hua</link>
+        <dc:date>2025-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>意外と難しいGraphQLのスカラー型 (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/yi-wai-tonan-siigraphqlnosukaraxing</link>
+        <dc:date>2025-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最新のAI コードレビューを導入してみたら意外とスムーズだった話 (zabeth129)</title>
         <link>https://speakerdeck.com/zabeth129/zui-xin-noai-kodorebiyuwodao-ru-sitemitarayi-wai-tosumuzudatutahua</link>
         <dc:date>2025-09-21T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>実践AIチャットボットUI実装入門 (syumai)</title>
         <link>https://speakerdeck.com/syumai/practical-ai-chat-bot-ui-implementation</link>
-        <dc:date>2025-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンド開発に役立つクライアントプログラム共通のノウハウ / Universal client-side programming best practices for frontend development (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/universal-client-side-programming-best-practices-for-frontend-development</link>
-        <dc:date>2025-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>世界の人気アプリ100個を分析して見えたペイウォール設計の心得 (Akihiro Kokubo)</title>
-        <link>https://speakerdeck.com/akihiro_kokubo/key-insights-on-paywall-design</link>
-        <dc:date>2025-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>半自動E2Eで手っ取り早くリグレッションテストを効率化しよう (Ryuta Kibe)</title>
-        <link>https://speakerdeck.com/beryu/ban-zi-dong-e2edeshou-tuqu-rizao-kuriguretusiyontesutowoxiao-lu-hua-siyou</link>
         <dc:date>2025-09-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
