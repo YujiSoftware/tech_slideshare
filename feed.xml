@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CDN Edge Computing上で動くOIDC認証Proxyのススメ (Atsushi Harada)</title>
+        <link>https://speakerdeck.com/haradaa9/cdn-edge-computingshang-tedong-kuoidcren-zheng-proxynosusume</link>
+        <dc:date>2025-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「完璧を目指さない」サーバーレス進化論 〜CDKで育てる変化に強いアーキテクチャ〜 (Yusuke Shimizu)</title>
+        <link>https://speakerdeck.com/yusukeshimizu/wan-bi-womu-zhi-sanai-sabaresujin-hua-lun-cdkdeyu-terubian-hua-niqiang-iakitekutiya</link>
+        <dc:date>2025-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェントがアプリケーション開発の未来を変える (草薙昭彦)</title>
+        <link>https://speakerdeck.com/nagix/aiezientogaapurikesiyonkai-fa-nowei-lai-wobian-eru</link>
+        <dc:date>2025-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>3,000時間/月の業務削減を実現する     Dify × TiDB Cloud StarterによるAI   基盤の裏側 (hiroyuki.nishi)</title>
+        <link>https://speakerdeck.com/hiroyukinishi/yue-noye-wu-xue-jian-woshi-xian-suru-dify-x-tidb-cloud-starterniyoruai-ji-pan-noli-ce</link>
+        <dc:date>2025-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>議事録の要点整理を自動化！ サーバレス Bot 構築術 (ikechi)</title>
+        <link>https://speakerdeck.com/penpeen/yi-shi-lu-noyao-dian-zheng-li-wozi-dong-hua-sabaresu-bot-gou-zhu-shu</link>
+        <dc:date>2025-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure Serverless × AI Agent × MCP アーキテクチャ最前線 / Azure Serverless Agent Architecture (miyake)</title>
+        <link>https://speakerdeck.com/miyake/azure-serverless-agent-architecture</link>
+        <dc:date>2025-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Apache Icebergを体験しよう (2025.9.21) (Akira Shimosako)</title>
+        <link>https://speakerdeck.com/simosako/apache-icebergwoti-yan-siyou-20250921</link>
+        <dc:date>2025-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LangfuseとClickHouse で進化するLLMOps (Yuto Toya)</title>
+        <link>https://speakerdeck.com/toyayuto/langfusetoclickhouse-dejin-hua-surullmops</link>
+        <dc:date>2025-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Yahoo!知恵袋におけるFeature Flag活用〜安全で柔軟なリリースを目指して〜 (Koki Tsumura)</title>
         <link>https://speakerdeck.com/l1lhu1hu1/yahoo-zhi-hui-dai-niokerufeature-flaghuo-yong-an-quan-derou-ruan-naririsuwomu-zhi-site</link>
         <dc:date>2025-09-21T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>AIで 浮いた時間で 何をする？ #プロヒス2025 (konifar)</title>
         <link>https://speakerdeck.com/konifar/aide-fu-itashi-jian-de-he-wosuru</link>
         <dc:date>2025-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>麻雀点数計算問題生成タスクから学ぶ Single Agentの限界と Agentic Workflowの底力 (po3rin)</title>
-        <link>https://speakerdeck.com/po3rin/ma-que-dian-shu-ji-suan-wen-ti-sheng-cheng-tasukukaraxue-bu-single-agentnoxian-jie-to-agentic-workflownodi-li</link>
-        <dc:date>2025-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20250920_ServerlessDays (Takuya Yonezawa)</title>
-        <link>https://speakerdeck.com/takuyay0ne/20250920-serverlessdays</link>
-        <dc:date>2025-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>認知負荷理論で挑むPlatform Engineering：サイボウズにおけるKubernetesプラットフォームの拡大に向けて (Akihiro Ikezoe,@zoetro)</title>
-        <link>https://www.docswell.com/s/zoetro/ZG2VJ9-2025-09-18-142816</link>
-        <dc:date>2025-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kaggle過去コンペ上位解法をAIエージェントでレポートする (Kyohei Uto)</title>
-        <link>https://speakerdeck.com/kuto5046/kaggleguo-qu-konpeshang-wei-jie-fa-woaiezientoderepotosuru</link>
-        <dc:date>2025-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーレスのまわりの技術2025 #serverlessjp (NAKAYAMA Masahiro,@nekoruri)</title>
-        <link>https://www.docswell.com/s/nekoruri/KVMYYL-serverlessdays-2025</link>
-        <dc:date>2025-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ServerlessDays 2025 Tokyo: AIに秘密を漏らさない！」RAG時代のアクセス制御：ReBACで実現するデータ保護 (Daizen Ikehara,@neri78)</title>
-        <link>https://www.docswell.com/s/Neri78/ZX6DNP-2025-09-20-ServerlessDays2025Tokyo</link>
-        <dc:date>2025-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025年版 サーバーレス Web アプリケーションの作り方 (Hayato Watanabe)</title>
-        <link>https://speakerdeck.com/hayatow/2025nian-ban-sabaresu-web-apurikesiyonnozuo-rifang</link>
-        <dc:date>2025-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bedrock AgentCoreで解き放て！ Strands Agentsで構築するマルチエージェントの実装Tips (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/bedrock-agentcoredejie-kifang-te-strands-agentsdegou-zhu-surumarutiezientonoshi-zhuang-tips</link>
-        <dc:date>2025-09-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
