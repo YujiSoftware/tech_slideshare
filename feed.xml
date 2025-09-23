@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2025-09-21_フロントエンドカンファレンス東京 (yuta-ike)</title>
+        <link>https://www.docswell.com/s/4136989/ZM62R8-2025-09-21-fec-tokyo</link>
+        <dc:date>2025-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2025-09-21_フロントエンドカンファレンス東京（ショートVer） (yuta-ike)</title>
+        <link>https://www.docswell.com/s/4136989/5EYV7D-2025-09-21-fec-tokyo-short</link>
+        <dc:date>2025-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>情シスになりたかったけどなれなかった話と情シスになったけど慣れなかった話（挫折から学ぶLT大会登壇資料） (おゆ,@oyu3m)</title>
+        <link>https://www.docswell.com/s/oyu3m/5X6DJ7-2025-09-23-154728</link>
+        <dc:date>2025-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SSG の限界を破る、再ビルド不要なサイト (れやか)</title>
+        <link>https://speakerdeck.com/reyalka/ssg-noxian-jie-wopo-ru-zai-birudobu-yao-nasaito</link>
+        <dc:date>2025-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLMとPlaywright/reg-suitを活用した jQueryリファクタリングの実際 (kinocoboy)</title>
+        <link>https://speakerdeck.com/kinocoboy2/reg-suitwohuo-yong-sita-jqueryrihuakutaringunoshi-ji</link>
+        <dc:date>2025-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>reading-flow プロパティから見る アクセシビリティ的懸念点 (kohei.ayamoto)</title>
+        <link>https://speakerdeck.com/ayamotokohei/reading-flow-puropateikarajian-ru-akusesibiriteide-xuan-nian-dian</link>
+        <dc:date>2025-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ブラウザストレージを活用した、複数アプリをまたぐ永続化とリアクティブな同期 (永田哲平)</title>
         <link>https://speakerdeck.com/teppei0717/burauzasutoreziwohuo-yong-sita-fu-shu-apuriwomataguyong-sok-hua-toriakuteibunatong-qi</link>
         <dc:date>2025-09-22T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>Azure Serverless × AI Agent × MCP アーキテクチャ最前線 / Azure Serverless Agent Architecture (miyake)</title>
         <link>https://speakerdeck.com/miyake/azure-serverless-agent-architecture</link>
         <dc:date>2025-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Apache Icebergを体験しよう (2025.9.21) (Akira Shimosako)</title>
-        <link>https://speakerdeck.com/simosako/apache-icebergwoti-yan-siyou-20250921</link>
-        <dc:date>2025-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LangfuseとClickHouse で進化するLLMOps (Yuto Toya)</title>
-        <link>https://speakerdeck.com/toyayuto/langfusetoclickhouse-dejin-hua-surullmops</link>
-        <dc:date>2025-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Yahoo!知恵袋におけるFeature Flag活用〜安全で柔軟なリリースを目指して〜 (Koki Tsumura)</title>
-        <link>https://speakerdeck.com/l1lhu1hu1/yahoo-zhi-hui-dai-niokerufeature-flaghuo-yong-an-quan-derou-ruan-naririsuwomu-zhi-site</link>
-        <dc:date>2025-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>&amp;quot;フロントエンドの技術&amp;quot;を移行する技術 (Toshihisa Tomatsu)</title>
-        <link>https://www.docswell.com/s/toshi_toma/Z44R7Y-frontend-migrations</link>
-        <dc:date>2025-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Playwrightはどのようにクロスブラウザをサポートしているのか (nus3)</title>
-        <link>https://speakerdeck.com/yotahada3/playwright-cross-browser-support</link>
-        <dc:date>2025-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>日本語縦書きWebの現在地 2025 - フロントエンドカンファレンス東京 (berlysia)</title>
-        <link>https://speakerdeck.com/berlysia/japanese-vertical-writing-on-the-web-the-state-of-play-in-2025-a19f0026-9473-4863-b75d-35eae77c7e01</link>
-        <dc:date>2025-09-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
