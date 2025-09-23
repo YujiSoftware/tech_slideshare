@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ブラウザストレージを活用した、複数アプリをまたぐ永続化とリアクティブな同期 (永田哲平)</title>
+        <link>https://speakerdeck.com/teppei0717/burauzasutoreziwohuo-yong-sita-fu-shu-apuriwomataguyong-sok-hua-toriakuteibunatong-qi</link>
+        <dc:date>2025-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>爆速でプロダクトをリリースしようと思ったらマイクロフロントエンドを選んでいた (KAKEHASHI)</title>
         <link>https://speakerdeck.com/kakehashi/shipping-fast-with-micro-frontends</link>
         <dc:date>2025-09-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>日本語縦書きWebの現在地 2025 - フロントエンドカンファレンス東京 (berlysia)</title>
         <link>https://speakerdeck.com/berlysia/japanese-vertical-writing-on-the-web-the-state-of-play-in-2025-a19f0026-9473-4863-b75d-35eae77c7e01</link>
-        <dc:date>2025-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践AIチャットボットUI実装入門 (syumai)</title>
-        <link>https://speakerdeck.com/syumai/practical-ai-chat-bot-ui-implementation</link>
         <dc:date>2025-09-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
