@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CTFのためのKubernetes入門 (Kyohei Mizumoto)</title>
+        <link>https://speakerdeck.com/kyohmizu/ctfnotamenokubernetesru-men</link>
+        <dc:date>2025-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMを浸透させるための泥臭い話 (oprst)</title>
         <link>https://speakerdeck.com/oprstchn/llmwojin-tou-saserutamenoni-chou-ihua</link>
         <dc:date>2025-09-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>3,000時間/月の業務削減を実現する     Dify × TiDB Cloud StarterによるAI   基盤の裏側 (hiroyuki.nishi)</title>
         <link>https://speakerdeck.com/hiroyukinishi/yue-noye-wu-xue-jian-woshi-xian-suru-dify-x-tidb-cloud-starterniyoruai-ji-pan-noli-ce</link>
-        <dc:date>2025-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>議事録の要点整理を自動化！ サーバレス Bot 構築術 (ikechi)</title>
-        <link>https://speakerdeck.com/penpeen/yi-shi-lu-noyao-dian-zheng-li-wozi-dong-hua-sabaresu-bot-gou-zhu-shu</link>
         <dc:date>2025-09-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
