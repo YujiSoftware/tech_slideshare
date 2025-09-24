@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMを浸透させるための泥臭い話 (oprst)</title>
+        <link>https://speakerdeck.com/oprstchn/llmwojin-tou-saserutamenoni-chou-ihua</link>
+        <dc:date>2025-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2025-09-21_フロントエンドカンファレンス東京 (yuta-ike)</title>
         <link>https://www.docswell.com/s/4136989/ZM62R8-2025-09-21-fec-tokyo</link>
         <dc:date>2025-09-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>議事録の要点整理を自動化！ サーバレス Bot 構築術 (ikechi)</title>
         <link>https://speakerdeck.com/penpeen/yi-shi-lu-noyao-dian-zheng-li-wozi-dong-hua-sabaresu-bot-gou-zhu-shu</link>
-        <dc:date>2025-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Serverless × AI Agent × MCP アーキテクチャ最前線 / Azure Serverless Agent Architecture (miyake)</title>
-        <link>https://speakerdeck.com/miyake/azure-serverless-agent-architecture</link>
         <dc:date>2025-09-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
