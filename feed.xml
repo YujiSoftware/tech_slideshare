@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ふつうのAI駆動iOS開発 (Shuichi Tsutsumi,@shu223)</title>
+        <link>https://www.docswell.com/s/shu223/5M63LG-ios-with-ai</link>
+        <dc:date>2025-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Refinementsのメソッド定義を4000倍速くした話 (alpaca-tc)</title>
         <link>https://speakerdeck.com/alpacatc/refinementsnomesotudoding-yi-wo4000bei-su-kusitahua</link>
         <dc:date>2025-09-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>カスタムUIを作る覚悟 / The determination to create a custom UI (matsuji)</title>
         <link>https://speakerdeck.com/matsuji/the-determination-to-create-a-custom-ui</link>
-        <dc:date>2025-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web技術を最大限活用してRAW画像を現像する / Developing RAW Images on the Web (TOMIKAWA Sotaro)</title>
-        <link>https://speakerdeck.com/ssssota/developing-raw-images-on-the-web</link>
         <dc:date>2025-09-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
