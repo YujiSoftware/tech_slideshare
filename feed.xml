@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアとして高みを目指す、 利益を生み出す設計の考え方 / design-for-profit (MinoDriven)</title>
+        <link>https://speakerdeck.com/minodriven/design-for-profit</link>
+        <dc:date>2025-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>15 分で学ぶ Cloud Run のユースケースと代表的なアーキテクチャパターン (GoogleCloudPlatformJapan)</title>
         <link>https://speakerdeck.com/googlecloudjapan/15-fen-dexue-bu-cloud-run-noyusukesutodai-biao-de-naakitekutiyapatan</link>
         <dc:date>2025-09-24T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>意外と難しいGraphQLのスカラー型 (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/yi-wai-tonan-siigraphqlnosukaraxing</link>
         <dc:date>2025-09-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最新のAI コードレビューを導入してみたら意外とスムーズだった話 (zabeth129)</title>
-        <link>https://speakerdeck.com/zabeth129/zui-xin-noai-kodorebiyuwodao-ru-sitemitarayi-wai-tosumuzudatutahua</link>
-        <dc:date>2025-09-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
