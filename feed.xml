@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>✨敗北解法コレクション✨〜Expertだった頃に足りなかった知識と技術〜 (nanachi)</title>
+        <link>https://speakerdeck.com/nanachi/bai-bei-jie-fa-korekusiyon-expertdatutaqing-nizu-rinakatutazhi-shi-toji-shu</link>
+        <dc:date>2025-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>data vaultを用いたマルチプロダクトのためのデータ基盤開発 (tenajima)</title>
         <link>https://speakerdeck.com/tenajima/data-vaultwoyong-itamarutipurodakutonotamenodetaji-pan-kai-fa</link>
         <dc:date>2025-09-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CDN Edge Computing上で動くOIDC認証Proxyのススメ (Atsushi Harada)</title>
         <link>https://speakerdeck.com/haradaa9/cdn-edge-computingshang-tedong-kuoidcren-zheng-proxynosusume</link>
-        <dc:date>2025-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「完璧を目指さない」サーバーレス進化論 〜CDKで育てる変化に強いアーキテクチャ〜 (Yusuke Shimizu)</title>
-        <link>https://speakerdeck.com/yusukeshimizu/wan-bi-womu-zhi-sanai-sabaresujin-hua-lun-cdkdeyu-terubian-hua-niqiang-iakitekutiya</link>
         <dc:date>2025-09-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
