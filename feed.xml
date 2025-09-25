@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>15 分で学ぶ Cloud Run のユースケースと代表的なアーキテクチャパターン (GoogleCloudPlatformJapan)</title>
+        <link>https://speakerdeck.com/googlecloudjapan/15-fen-dexue-bu-cloud-run-noyusukesutodai-biao-de-naakitekutiyapatan</link>
+        <dc:date>2025-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ZennとCloud Runの歩み - プロダクト開発に全集中できる相棒になるまで (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/wadayusuke/zenntocloud-runnobu-mi-purodakutokai-fa-niquan-ji-zhong-dekiruxiang-bang-ninarumade</link>
+        <dc:date>2025-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ふつうのAI駆動iOS開発 (Shuichi Tsutsumi,@shu223)</title>
         <link>https://www.docswell.com/s/shu223/5M63LG-ios-with-ai</link>
         <dc:date>2025-09-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>最新のAI コードレビューを導入してみたら意外とスムーズだった話 (zabeth129)</title>
         <link>https://speakerdeck.com/zabeth129/zui-xin-noai-kodorebiyuwodao-ru-sitemitarayi-wai-tosumuzudatutahua</link>
-        <dc:date>2025-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>武器になるアクセシビリティ 〜ウェブ制作会社編〜</title>
-        <link>https://docs.google.com/presentation/d/1CjLGCxrQ0T0PfdgJOOqPAzVLJOqYe8IRuiJVg-xb8jA/preview</link>
-        <dc:date>2025-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カスタムUIを作る覚悟 / The determination to create a custom UI (matsuji)</title>
-        <link>https://speakerdeck.com/matsuji/the-determination-to-create-a-custom-ui</link>
         <dc:date>2025-09-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
