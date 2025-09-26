@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自己評価力を武器とする (Masayuki Matsuki)</title>
+        <link>https://www.docswell.com/s/Songmu/5PGQV4-self-evaluation-skills</link>
+        <dc:date>2025-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアとして高みを目指す、 利益を生み出す設計の考え方 / design-for-profit (MinoDriven)</title>
         <link>https://speakerdeck.com/minodriven/design-for-profit</link>
         <dc:date>2025-09-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>そのJavaScript、V8が泣いてます。V8の気持ちを理解して書くパフォーマンス最適化 (Riya Amemiya)</title>
         <link>https://speakerdeck.com/riyaamemiya/sonojavascript-v8gaqi-itemasu-v8noqi-chi-tiwoli-jie-siteshu-kupahuomansuzui-shi-hua</link>
-        <dc:date>2025-09-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>意外と難しいGraphQLのスカラー型 (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/yi-wai-tonan-siigraphqlnosukaraxing</link>
         <dc:date>2025-09-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
