@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Remote sensing × Multi-modal meta survey (SatAI.challenge)</title>
+        <link>https://speakerdeck.com/satai/remote-sensing-x-multi-modal-meta-survey</link>
+        <dc:date>2025-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIインフラを考える (Masayuki Kobayashi)</title>
         <link>https://speakerdeck.com/markunet/aiinhurawokao-eru</link>
         <dc:date>2025-09-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLMとPlaywright/reg-suitを活用した jQueryリファクタリングの実際 (kinocoboy)</title>
         <link>https://speakerdeck.com/kinocoboy2/reg-suitwohuo-yong-sita-jqueryrihuakutaringunoshi-ji</link>
-        <dc:date>2025-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>reading-flow プロパティから見る アクセシビリティ的懸念点 (kohei.ayamoto)</title>
-        <link>https://speakerdeck.com/ayamotokohei/reading-flow-puropateikarajian-ru-akusesibiriteide-xuan-nian-dian</link>
         <dc:date>2025-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
