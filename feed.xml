@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIインフラを考える (Masayuki Kobayashi)</title>
+        <link>https://speakerdeck.com/markunet/aiinhurawokao-eru</link>
+        <dc:date>2025-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>5年間のFintech × Rails実践に学ぶ - 基本に忠実な運用で築く高信頼性システム / 5 Years Fintech Rails Retrospective (Masato Ohba)</title>
         <link>https://speakerdeck.com/ohbarye/5-years-fintech-rails-retrospective</link>
         <dc:date>2025-09-25T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>reading-flow プロパティから見る アクセシビリティ的懸念点 (kohei.ayamoto)</title>
         <link>https://speakerdeck.com/ayamotokohei/reading-flow-puropateikarajian-ru-akusesibiriteide-xuan-nian-dian</link>
         <dc:date>2025-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ブラウザストレージを活用した、複数アプリをまたぐ永続化とリアクティブな同期 (永田哲平)</title>
-        <link>https://speakerdeck.com/teppei0717/burauzasutoreziwohuo-yong-sita-fu-shu-apuriwomataguyong-sok-hua-toriakuteibunatong-qi</link>
-        <dc:date>2025-09-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
