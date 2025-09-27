@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>高度なUI/UXこそHotwireで作ろう Kaigi on Rails 2025 (Naofumi Kagami)</title>
+        <link>https://speakerdeck.com/naofumi/uxkosohotwiredezuo-rou-kaigi-on-rails-2025</link>
+        <dc:date>2025-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Go で WebAssembly を利用した 実用的なプラグインシステムの構築方法 (Masaaki Goshima)</title>
         <link>https://speakerdeck.com/goccy/go-de-webassembly-woli-yong-sita-shi-yong-de-napuraguinsisutemunogou-zhu-fang-fa</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>kaigi_on_rails_2025_設計.pdf (Yasuko Ohba)</title>
         <link>https://speakerdeck.com/nay3/kaigi-on-rails-2025-she-ji</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Remote sensing × Multi-modal meta survey (SatAI.challenge)</title>
-        <link>https://speakerdeck.com/satai/remote-sensing-x-multi-modal-meta-survey</link>
-        <dc:date>2025-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
