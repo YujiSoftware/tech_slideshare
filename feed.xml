@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今日から始めるpprof / Pprof workshop for beginners (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/pprof-workshop-for-beginners</link>
+        <dc:date>2025-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Railsアプリから何を切り出す？機能分離の判断基準　Kaigi on Rails 2025 (yumu)</title>
         <link>https://speakerdeck.com/yumu/railsapurikarahe-woqie-richu-su-ji-neng-fen-li-nopan-duan-ji-zhun-kaigi-on-rails-2025</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIスパコン「さくらONE」のLLM学習ベンチマークによる性能評価 / SAKURAONE LLM Training Benchmarking (Yuuki Tsubouchi (yuuk1))</title>
         <link>https://speakerdeck.com/yuukit/sakuraone-llm-training-benchmarking</link>
-        <dc:date>2025-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自己評価力を武器とする (Masayuki Matsuki)</title>
-        <link>https://www.docswell.com/s/Songmu/5PGQV4-self-evaluation-skills</link>
         <dc:date>2025-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
