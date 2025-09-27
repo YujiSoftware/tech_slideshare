@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>"複雑なデータ処理 × 静的サイト" を両立させる、楽をするRails運用 / A low-effort Rails workflow that combines “Complex Data Processing × Static Sites” (hogelog)</title>
+        <link>https://speakerdeck.com/hogelog/a-low-effort-rails-workflow-that-combines-complex-data-processing-x-static-sites</link>
+        <dc:date>2025-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>避けられないI/O待ちに対処する: Rails アプリにおけるSSEとasync gemの活用 / Tackling Inevitable I/O Latency in Rails Apps with SSE and the async gem (moznion)</title>
         <link>https://speakerdeck.com/moznion/o-latency-in-rails-apps-with-sse-and-the-async-gem</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ZennとCloud Runの歩み - プロダクト開発に全集中できる相棒になるまで (Yusuke Wada)</title>
         <link>https://speakerdeck.com/wadayusuke/zenntocloud-runnobu-mi-purodakutokai-fa-niquan-ji-zhong-dekiruxiang-bang-ninarumade</link>
-        <dc:date>2025-09-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ふつうのAI駆動iOS開発 (Shuichi Tsutsumi,@shu223)</title>
-        <link>https://www.docswell.com/s/shu223/5M63LG-ios-with-ai</link>
         <dc:date>2025-09-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
