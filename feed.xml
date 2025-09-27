@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今改めてServiceクラスについて考える 〜あるRails開発者の10年〜 (Tomohiro Hashidate)</title>
+        <link>https://speakerdeck.com/joker1007/jin-gai-meteservicekurasunituitekao-eru-arurailskai-fa-zhe-no10nian</link>
+        <dc:date>2025-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2重リクエスト完全攻略HANDBOOK / Double Request Handbook (ShoheiMitani)</title>
+        <link>https://speakerdeck.com/shoheimitani/double-request-handbook</link>
+        <dc:date>2025-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Sidekiq その前に：Webアプリケーションにおける非同期ジョブ設計原則 (morihirok)</title>
+        <link>https://speakerdeck.com/morihirok/sidekiq-sonoqian-ni-webapurikesiyonniokerufei-tong-qi-ziyobushe-ji-yuan-ze</link>
+        <dc:date>2025-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIを導⼊しても、 開発⽣産性は"爆増"していない なぜ？ (kinosuke01)</title>
         <link>https://speakerdeck.com/kinosuke01/aiwodao-sitemo-kai-fa-chan-xing-ha-bao-zeng-siteinai-naze</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>CTFのためのKubernetes入門 (Kyohei Mizumoto)</title>
         <link>https://speakerdeck.com/kyohmizu/ctfnotamenokubernetesru-men</link>
-        <dc:date>2025-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMを浸透させるための泥臭い話 (oprst)</title>
-        <link>https://speakerdeck.com/oprstchn/llmwojin-tou-saserutamenoni-chou-ihua</link>
-        <dc:date>2025-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025-09-21_フロントエンドカンファレンス東京 (yuta-ike)</title>
-        <link>https://www.docswell.com/s/4136989/ZM62R8-2025-09-21-fec-tokyo</link>
-        <dc:date>2025-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025-09-21_フロントエンドカンファレンス東京（ショートVer） (yuta-ike)</title>
-        <link>https://www.docswell.com/s/4136989/5EYV7D-2025-09-21-fec-tokyo-short</link>
         <dc:date>2025-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
