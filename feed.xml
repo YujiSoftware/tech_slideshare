@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WebアプリケーションのUI構築で気を付けてるポイント (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/webapurikesiyonnouigou-zhu-deqi-wofu-keterupointo</link>
+        <dc:date>2025-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Windows で省エネ (Murachi Akira)</title>
+        <link>https://speakerdeck.com/murachiakira/energy-saving-on-windows</link>
+        <dc:date>2025-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Railsアプリケーション開発者のためのブックガイド (Masayoshi Takahashi)</title>
         <link>https://speakerdeck.com/takahashim/a-guide-to-japanese-books-for-rails-application-developers</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>✨敗北解法コレクション✨〜Expertだった頃に足りなかった知識と技術〜 (nanachi)</title>
         <link>https://speakerdeck.com/nanachi/bai-bei-jie-fa-korekusiyon-expertdatutaqing-nizu-rinakatutazhi-shi-toji-shu</link>
-        <dc:date>2025-09-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>data vaultを用いたマルチプロダクトのためのデータ基盤開発 (tenajima)</title>
-        <link>https://speakerdeck.com/tenajima/data-vaultwoyong-itamarutipurodakutonotamenodetaji-pan-kai-fa</link>
-        <dc:date>2025-09-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Can AI Take Over Frontend QA? - Navigating the Paradigm Shift: A Developer's Mindset for the Future - #layerx_frontend (teyamagu)</title>
-        <link>https://speakerdeck.com/teyamagu/can-ai-take-over-frontend-qa</link>
         <dc:date>2025-09-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
