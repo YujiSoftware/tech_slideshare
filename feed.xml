@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>encoding/json/v2で何が変わるか (glassmonenkey)</title>
+        <link>https://speakerdeck.com/nagano/v2dehe-gabian-waruka</link>
+        <dc:date>2025-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>階層構造を表現するデータ構造とリファクタリング 〜1年で10倍成長したプロダクトの変化と課題〜 (yuhi)</title>
+        <link>https://speakerdeck.com/yuhisatoxxx/jie-ceng-gou-zao-wobiao-xian-surudetagou-zao-torihuakutaringu-1nian-de10bei-cheng-chang-sitapurodakutonobian-hua-toke-ti</link>
+        <dc:date>2025-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>高度なUI/UXこそHotwireで作ろう Kaigi on Rails 2025 (Naofumi Kagami)</title>
         <link>https://speakerdeck.com/naofumi/uxkosohotwiredezuo-rou-kaigi-on-rails-2025</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AIを導⼊しても、 開発⽣産性は"爆増"していない なぜ？ (kinosuke01)</title>
         <link>https://speakerdeck.com/kinosuke01/aiwodao-sitemo-kai-fa-chan-xing-ha-bao-zeng-siteinai-naze</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dynamic! (MOROHASHI Kyosuke)</title>
-        <link>https://speakerdeck.com/moro/dynamic</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>kaigi_on_rails_2025_設計.pdf (Yasuko Ohba)</title>
-        <link>https://speakerdeck.com/nay3/kaigi-on-rails-2025-she-ji</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
