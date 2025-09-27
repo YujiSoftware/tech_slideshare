@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go で WebAssembly を利用した 実用的なプラグインシステムの構築方法 (Masaaki Goshima)</title>
+        <link>https://speakerdeck.com/goccy/go-de-webassembly-woli-yong-sita-shi-yong-de-napuraguinsisutemunogou-zhu-fang-fa</link>
+        <dc:date>2025-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2分台で1500examples完走！爆速CIを支える環境構築術 - Kaigi on Rails 2025 (Hayato OKUMOTO)</title>
+        <link>https://speakerdeck.com/falcon8823/2fen-tai-de1500exampleswan-zou-bao-su-ciwozhi-eruhuan-jing-gou-zhu-shu-kaigi-on-rails-2025</link>
+        <dc:date>2025-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>全てGoで作るP2P対戦ゲーム入門 (ponyo877)</title>
+        <link>https://speakerdeck.com/ponyo877/quan-tegodezuo-rup2pdui-zhan-gemuru-men</link>
+        <dc:date>2025-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>今日から始めるpprof / Pprof workshop for beginners (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/pprof-workshop-for-beginners</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Remote sensing × Multi-modal meta survey (SatAI.challenge)</title>
         <link>https://speakerdeck.com/satai/remote-sensing-x-multi-modal-meta-survey</link>
-        <dc:date>2025-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIインフラを考える (Masayuki Kobayashi)</title>
-        <link>https://speakerdeck.com/markunet/aiinhurawokao-eru</link>
-        <dc:date>2025-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>5年間のFintech × Rails実践に学ぶ - 基本に忠実な運用で築く高信頼性システム / 5 Years Fintech Rails Retrospective (Masato Ohba)</title>
-        <link>https://speakerdeck.com/ohbarye/5-years-fintech-rails-retrospective</link>
-        <dc:date>2025-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIスパコン「さくらONE」のLLM学習ベンチマークによる性能評価 / SAKURAONE LLM Training Benchmarking (Yuuki Tsubouchi (yuuk1))</title>
-        <link>https://speakerdeck.com/yuukit/sakuraone-llm-training-benchmarking</link>
         <dc:date>2025-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
