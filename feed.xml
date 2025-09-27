@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>rails g authenticationから学ぶRails8.0時代の認証 (Shinichi Maeshima)</title>
+        <link>https://speakerdeck.com/willnet/rails-g-authenticationkaraxue-hurails8-dot-0shi-dai-noren-zheng</link>
+        <dc:date>2025-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>encoding/json/v2で何が変わるか (glassmonenkey)</title>
         <link>https://speakerdeck.com/nagano/v2dehe-gabian-waruka</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Sidekiq その前に：Webアプリケーションにおける非同期ジョブ設計原則 (morihirok)</title>
         <link>https://speakerdeck.com/morihirok/sidekiq-sonoqian-ni-webapurikesiyonniokerufei-tong-qi-ziyobushe-ji-yuan-ze</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIを導⼊しても、 開発⽣産性は"爆増"していない なぜ？ (kinosuke01)</title>
-        <link>https://speakerdeck.com/kinosuke01/aiwodao-sitemo-kai-fa-chan-xing-ha-bao-zeng-siteinai-naze</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
