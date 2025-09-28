@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kubernetes のスケーラビリティを左右するデータストアの話 (Honahuku)</title>
+        <link>https://speakerdeck.com/honahuku/distributed-meeting-18</link>
+        <dc:date>2025-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>C# 14 / .NET 10 の新機能 (RC 1 時点) (neno)</title>
         <link>https://speakerdeck.com/nenonaninu/net-10-noxin-ji-neng-rc-1-shi-dian</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>"複雑なデータ処理 × 静的サイト" を両立させる、楽をするRails運用 / A low-effort Rails workflow that combines “Complex Data Processing × Static Sites” (hogelog)</title>
         <link>https://speakerdeck.com/hogelog/a-low-effort-rails-workflow-that-combines-complex-data-processing-x-static-sites</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>避けられないI/O待ちに対処する: Rails アプリにおけるSSEとasync gemの活用 / Tackling Inevitable I/O Latency in Rails Apps with SSE and the async gem (moznion)</title>
-        <link>https://speakerdeck.com/moznion/o-latency-in-rails-apps-with-sse-and-the-async-gem</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
