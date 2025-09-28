@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コード生成なしでモック処理を実現！  ovenchkin-dm/mockio,go-dynoで学ぶメタプログラミング (karamaru)</title>
+        <link>https://speakerdeck.com/karamaru/mockio-go-dynodexue-bumetapuroguramingu</link>
+        <dc:date>2025-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kubernetes のスケーラビリティを左右するデータストアの話 (Honahuku)</title>
         <link>https://speakerdeck.com/honahuku/distributed-meeting-18</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>そのpreloadは必要？見過ごされたpreloadが技術的負債として爆発した日 (mugi)</title>
         <link>https://speakerdeck.com/mugitti9/preload-memory-crash-fbece3e8-4fd7-48d8-abc0-6df528a05a2b</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>"複雑なデータ処理 × 静的サイト" を両立させる、楽をするRails運用 / A low-effort Rails workflow that combines “Complex Data Processing × Static Sites” (hogelog)</title>
-        <link>https://speakerdeck.com/hogelog/a-low-effort-rails-workflow-that-combines-complex-data-processing-x-static-sites</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
