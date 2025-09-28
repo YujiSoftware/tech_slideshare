@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜGoのジェネリクスはこの形なのか？ Featherweight Goが明かす設計の核心 (Ryotaro)</title>
+        <link>https://speakerdeck.com/ryotaros/nazegonozienerikusuhakonoxing-nanoka-featherweight-gogaming-kasushe-ji-nohe-xin</link>
+        <dc:date>2025-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Goのビルドシステムの変遷 / The history of Go's build system (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/the-history-of-gos-build-system</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GraphQL×Railsアプリのデータベース負荷分散 - 月間3,000万人利用サービスを無停止で (Koya Masuda)</title>
         <link>https://speakerdeck.com/koxya/graphqlxrailsapurinodetabesufu-he-fen-san-yue-jian-3000mo-ren-li-yong-sabisuwowu-ting-zhi-de-f33e3449-ce80-45ec-9d3b-cb0e426a4f0f</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebアプリケーションのUI構築で気を付けてるポイント (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/webapurikesiyonnouigou-zhu-deqi-wofu-keterupointo</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
