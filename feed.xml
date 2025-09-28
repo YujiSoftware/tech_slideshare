@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go Conference 2025: Goで体感するMultipath TCP ― Go 1.24 時代の MPTCP Listener を理解する (Takeru Hayasaka)</title>
+        <link>https://speakerdeck.com/takehaya/go-conference-2025-godeti-gan-surumultipath-tcp-go-1-dot-24-shi-dai-no-mptcp-listener-woli-jie-suru</link>
+        <dc:date>2025-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Copilot Studioについて (MiyakeMito)</title>
         <link>https://speakerdeck.com/miyakemito/copilot-studionituite</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Windows で省エネ (Murachi Akira)</title>
         <link>https://speakerdeck.com/murachiakira/energy-saving-on-windows</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Railsアプリケーション開発者のためのブックガイド (Masayoshi Takahashi)</title>
-        <link>https://speakerdeck.com/takahashim/a-guide-to-japanese-books-for-rails-application-developers</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
