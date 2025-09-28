@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>入門 FormObject / An Introduction to FormObject #kaigionrails (Shu OGAWARA)</title>
+        <link>https://speakerdeck.com/expajp/an-introduction-to-formobject</link>
+        <dc:date>2025-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>小規模から中規模へ 構造化ログからはじめる信頼性の担保 (kakudooo)</title>
         <link>https://speakerdeck.com/kakudou3/xiao-gui-mo-karazhong-gui-mo-he-gou-zao-hua-rogukarahazimeruxin-lai-xing-nodan-bao</link>
         <dc:date>2025-09-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Railsアプリから何を切り出す？機能分離の判断基準　Kaigi on Rails 2025 (yumu)</title>
         <link>https://speakerdeck.com/yumu/railsapurikarahe-woqie-richu-su-ji-neng-fen-li-nopan-duan-ji-zhun-kaigi-on-rails-2025</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「技術負債にならない・間違えない」 権限管理の設計と実装 (naro143)</title>
-        <link>https://speakerdeck.com/naro143/ji-shu-fu-zhai-ninaranaijian-wei-enai-quan-xian-guan-li-noshe-ji-toshi-zhuang</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
