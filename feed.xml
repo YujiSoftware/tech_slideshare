@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>C# 14 / .NET 10 の新機能 (RC 1 時点) (neno)</title>
+        <link>https://speakerdeck.com/nenonaninu/net-10-noxin-ji-neng-rc-1-shi-dian</link>
+        <dc:date>2025-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なぜGoのジェネリクスはこの形なのか？ Featherweight Goが明かす設計の核心 (Ryotaro)</title>
         <link>https://speakerdeck.com/ryotaros/nazegonozienerikusuhakonoxing-nanoka-featherweight-gogaming-kasushe-ji-nohe-xin</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>避けられないI/O待ちに対処する: Rails アプリにおけるSSEとasync gemの活用 / Tackling Inevitable I/O Latency in Rails Apps with SSE and the async gem (moznion)</title>
         <link>https://speakerdeck.com/moznion/o-latency-in-rails-apps-with-sse-and-the-async-gem</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GraphQL×Railsアプリのデータベース負荷分散 - 月間3,000万人利用サービスを無停止で (Koya Masuda)</title>
-        <link>https://speakerdeck.com/koxya/graphqlxrailsapurinodetabesufu-he-fen-san-yue-jian-3000mo-ren-li-yong-sabisuwowu-ting-zhi-de-f33e3449-ce80-45ec-9d3b-cb0e426a4f0f</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
