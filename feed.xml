@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Geospatialの世界最前線を探る [2025年版] (Yasunori Kirimoto)</title>
+        <link>https://speakerdeck.com/dayjournal/geospatialnoshi-jie-zui-qian-xian-wotan-ru-2025nian-ban</link>
+        <dc:date>2025-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>rails g authenticationから学ぶRails8.0時代の認証 (Shinichi Maeshima)</title>
         <link>https://speakerdeck.com/willnet/rails-g-authenticationkaraxue-hurails8-dot-0shi-dai-noren-zheng</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2重リクエスト完全攻略HANDBOOK / Double Request Handbook (ShoheiMitani)</title>
         <link>https://speakerdeck.com/shoheimitani/double-request-handbook</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sidekiq その前に：Webアプリケーションにおける非同期ジョブ設計原則 (morihirok)</title>
-        <link>https://speakerdeck.com/morihirok/sidekiq-sonoqian-ni-webapurikesiyonniokerufei-tong-qi-ziyobushe-ji-yuan-ze</link>
         <dc:date>2025-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
