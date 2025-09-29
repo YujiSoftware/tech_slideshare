@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モックライブラリアプローチ比較 (karamaru)</title>
+        <link>https://speakerdeck.com/karamaru/motukuraiburariapurotibi-jiao</link>
+        <dc:date>2025-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>非同期処理実行基盤 Delayed脱出 → Solid Queue完全移行への旅路。 (Shohei Kobayashi)</title>
         <link>https://speakerdeck.com/srockstyle/fei-tong-qi-chu-li-shi-xing-ji-pan-delayedtuo-chu-solid-queuewan-quan-yi-xing-henolu-lu</link>
         <dc:date>2025-09-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Copilot Studioについて (MiyakeMito)</title>
         <link>https://speakerdeck.com/miyakemito/copilot-studionituite</link>
-        <dc:date>2025-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>deep dive into testing/synctest (Daiki Kubo)</title>
-        <link>https://speakerdeck.com/daikieng/synctest</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
