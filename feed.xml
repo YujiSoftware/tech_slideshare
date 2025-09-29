@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VPC Lattice vs VPC Endpoint ～異なる VPC のプライベートリソースにアクセスには？～ (Kubo)</title>
+        <link>https://speakerdeck.com/kubomasataka/vpc-lattice-vs-vpc-endpoint-yi-naru-vpc-nopuraibetorisosuniakusesuniha</link>
+        <dc:date>2025-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NWサービスとconfファイルで通信の確認をしていく話 〜地道な学び〜 (佐藤零朗)</title>
+        <link>https://speakerdeck.com/sato_reo/nwsabisutoconfhuairudetong-xin-noque-ren-wositeikuhua-di-dao-naxue-bi</link>
+        <dc:date>2025-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バズる！アウトプット (Ryotaro Harada)</title>
+        <link>https://speakerdeck.com/alchemy1115/hasuru-autohututo</link>
+        <dc:date>2025-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kiroと一緒に登壇資料を作る (Siromi)</title>
+        <link>https://speakerdeck.com/siromi/kiroto-xu-nideng-tan-zi-liao-wozuo-ru</link>
+        <dc:date>2025-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2025.09.27LT資料.pdf (Tsukasa)</title>
+        <link>https://speakerdeck.com/tks_21/2025-dot-09-dot-27ltzi-liao</link>
+        <dc:date>2025-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オープンミラーリングで広がる Fabric ミラーリングの可能性 CData Sync を使った Salesforce の ミラーリング を実演 (大竹礼二（REIJI OTAKE）)</title>
         <link>https://speakerdeck.com/reireireijinjin6/opunmiraringudeguang-garu-fabric-miraringunoke-neng-xing-cdata-sync-woshi-tuta-salesforce-no-miraringu-woshi-yan</link>
         <dc:date>2025-09-28T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>階層構造を表現するデータ構造とリファクタリング 〜1年で10倍成長したプロダクトの変化と課題〜 (yuhi)</title>
         <link>https://speakerdeck.com/yuhisatoxxx/jie-ceng-gou-zao-wobiao-xian-surudetagou-zao-torihuakutaringu-1nian-de10bei-cheng-chang-sitapurodakutonobian-hua-toke-ti</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>高度なUI/UXこそHotwireで作ろう Kaigi on Rails 2025 (Naofumi Kagami)</title>
-        <link>https://speakerdeck.com/naofumi/uxkosohotwiredezuo-rou-kaigi-on-rails-2025</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go で WebAssembly を利用した 実用的なプラグインシステムの構築方法 (Masaaki Goshima)</title>
-        <link>https://speakerdeck.com/goccy/go-de-webassembly-woli-yong-sita-shi-yong-de-napuraguinsisutemunogou-zhu-fang-fa</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2分台で1500examples完走！爆速CIを支える環境構築術 - Kaigi on Rails 2025 (Hayato OKUMOTO)</title>
-        <link>https://speakerdeck.com/falcon8823/2fen-tai-de1500exampleswan-zou-bao-su-ciwozhi-eruhuan-jing-gou-zhu-shu-kaigi-on-rails-2025</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>全てGoで作るP2P対戦ゲーム入門 (ponyo877)</title>
-        <link>https://speakerdeck.com/ponyo877/quan-tegodezuo-rup2pdui-zhan-gemuru-men</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今日から始めるpprof / Pprof workshop for beginners (ymotongpoo)</title>
-        <link>https://speakerdeck.com/ymotongpoo/pprof-workshop-for-beginners</link>
-        <dc:date>2025-09-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
