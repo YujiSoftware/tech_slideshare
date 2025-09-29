@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>openSUSE.Asia Summit 2024 (Fuminobu TAKEYAMA)</title>
+        <link>https://speakerdeck.com/ftake/opensuse-dot-asia-summit-2024</link>
+        <dc:date>2025-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon_Q_CLIで超簡単にゲームが作れた.pdf (まあり)</title>
         <link>https://speakerdeck.com/eureka04ls/amazon-q-clitechao-jian-dan-nikemukazuo-reta</link>
         <dc:date>2025-09-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>rails g authenticationから学ぶRails8.0時代の認証 (Shinichi Maeshima)</title>
         <link>https://speakerdeck.com/willnet/rails-g-authenticationkaraxue-hurails8-dot-0shi-dai-noren-zheng</link>
-        <dc:date>2025-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>encoding/json/v2で何が変わるか (glassmonenkey)</title>
-        <link>https://speakerdeck.com/nagano/v2dehe-gabian-waruka</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
