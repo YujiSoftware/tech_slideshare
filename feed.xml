@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【新卒研修資料】LLM・生成AI研修 / Large Language Model・Generative AI  (BrainPad)</title>
+        <link>https://speakerdeck.com/brainpadpr/large-language-modelgenerative-ai</link>
+        <dc:date>2025-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>それでも私はContextに値を詰めたい | Go Conference 2025 / go conference 2025 fill context (Yoichiro Shimizu)</title>
         <link>https://speakerdeck.com/budougumi0617/go-conference-2025-fill-context</link>
         <dc:date>2025-09-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>なぜGoのジェネリクスはこの形なのか？ Featherweight Goが明かす設計の核心 (Ryotaro)</title>
         <link>https://speakerdeck.com/ryotaros/nazegonozienerikusuhakonoxing-nanoka-featherweight-gogaming-kasushe-ji-nohe-xin</link>
-        <dc:date>2025-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goのビルドシステムの変遷 / The history of Go's build system (ymotongpoo)</title>
-        <link>https://speakerdeck.com/ymotongpoo/the-history-of-gos-build-system</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
