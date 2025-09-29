@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon_Q_CLIで超簡単にゲームが作れた.pdf (まあり)</title>
+        <link>https://speakerdeck.com/eureka04ls/amazon-q-clitechao-jian-dan-nikemukazuo-reta</link>
+        <dc:date>2025-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VPC Lattice vs VPC Endpoint ～異なる VPC のプライベートリソースにアクセスには？～ (Kubo)</title>
         <link>https://speakerdeck.com/kubomasataka/vpc-lattice-vs-vpc-endpoint-yi-naru-vpc-nopuraibetorisosuniakusesuniha</link>
         <dc:date>2025-09-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>encoding/json/v2で何が変わるか (glassmonenkey)</title>
         <link>https://speakerdeck.com/nagano/v2dehe-gabian-waruka</link>
-        <dc:date>2025-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>階層構造を表現するデータ構造とリファクタリング 〜1年で10倍成長したプロダクトの変化と課題〜 (yuhi)</title>
-        <link>https://speakerdeck.com/yuhisatoxxx/jie-ceng-gou-zao-wobiao-xian-surudetagou-zao-torihuakutaringu-1nian-de10bei-cheng-chang-sitapurodakutonobian-hua-toke-ti</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
