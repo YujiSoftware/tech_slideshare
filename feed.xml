@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>非同期処理実行基盤 Delayed脱出 → Solid Queue完全移行への旅路。 (Shohei Kobayashi)</title>
+        <link>https://speakerdeck.com/srockstyle/fei-tong-qi-chu-li-shi-xing-ji-pan-delayedtuo-chu-solid-queuewan-quan-yi-xing-henolu-lu</link>
+        <dc:date>2025-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>もう並列実行は怖くない ~コネクション枯渇解消のための実践的アプローチ~ (katakyo)</title>
+        <link>https://speakerdeck.com/katakyo/moubing-lie-shi-xing-habu-kunai-konekusiyonku-ke-jie-xiao-notamenoshi-jian-de-ahuroti</link>
+        <dc:date>2025-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>openSUSE.Asia Summit 2024 (Fuminobu TAKEYAMA)</title>
         <link>https://speakerdeck.com/ftake/opensuse-dot-asia-summit-2024</link>
         <dc:date>2025-09-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>deep dive into testing/synctest (Daiki Kubo)</title>
         <link>https://speakerdeck.com/daikieng/synctest</link>
-        <dc:date>2025-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Geospatialの世界最前線を探る [2025年版] (Yasunori Kirimoto)</title>
-        <link>https://speakerdeck.com/dayjournal/geospatialnoshi-jie-zui-qian-xian-wotan-ru-2025nian-ban</link>
-        <dc:date>2025-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>rails g authenticationから学ぶRails8.0時代の認証 (Shinichi Maeshima)</title>
-        <link>https://speakerdeck.com/willnet/rails-g-authenticationkaraxue-hurails8-dot-0shi-dai-noren-zheng</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
