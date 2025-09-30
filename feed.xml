@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SciPy Conferenceから学ぶ、科学とPythonをつなぐコミュニティの作り方〜オープンサイエンスを支えるスプリント文化とコラボレーションの実践〜</title>
+        <link>https://docs.google.com/presentation/d/1jQvVNAF-7upEO9srkkI6ZD0kXjPjMD0hcr5oMf95UPc/preview</link>
+        <dc:date>2025-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VCC 2025 Write-up (bata_24)</title>
         <link>https://speakerdeck.com/bata_24/vcc-2025-write-up</link>
         <dc:date>2025-09-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>小規模から中規模へ 構造化ログからはじめる信頼性の担保 (kakudooo)</title>
         <link>https://speakerdeck.com/kakudou3/xiao-gui-mo-karazhong-gui-mo-he-gou-zao-hua-rogukarahazimeruxin-lai-xing-nodan-bao</link>
         <dc:date>2025-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コード生成なしでモック処理を実現！  ovenchkin-dm/mockio,go-dynoで学ぶメタプログラミング (karamaru)</title>
-        <link>https://speakerdeck.com/karamaru/mockio-go-dynodexue-bumetapuroguramingu</link>
-        <dc:date>2025-09-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
