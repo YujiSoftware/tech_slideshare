@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PyCon JP 2025 Python開発環境の整え方ライブデモ</title>
+        <link>https://docs.google.com/presentation/d/16hBhrfSc4V5ng6LIS28uI9RJdbscRuLHUzF2QOJ2I7o/preview</link>
+        <dc:date>2025-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Streamlit は社内ツールだけじゃない！PoC の速さで実現する'商用品質'の分析 SaaS アーキテクチャ (𝕂')</title>
+        <link>https://speakerdeck.com/kdash/streamlit-hashe-nei-turudakeziyanai-poc-nosu-sadeshi-xian-surushang-yong-pin-zhi-nofen-xi-saas-akitekutiya</link>
+        <dc:date>2025-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pythonによる契約プログラミング入門 / PyCon JP 2025 (7pairs)</title>
+        <link>https://speakerdeck.com/7pairs/pycon-jp-2025</link>
+        <dc:date>2025-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SciPy Conferenceから学ぶ、科学とPythonをつなぐコミュニティの作り方〜オープンサイエンスを支えるスプリント文化とコラボレーションの実践〜</title>
         <link>https://docs.google.com/presentation/d/1jQvVNAF-7upEO9srkkI6ZD0kXjPjMD0hcr5oMf95UPc/preview</link>
         <dc:date>2025-09-29T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>2025.09.27LT資料.pdf (Tsukasa)</title>
         <link>https://speakerdeck.com/tks_21/2025-dot-09-dot-27ltzi-liao</link>
-        <dc:date>2025-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オープンミラーリングで広がる Fabric ミラーリングの可能性 CData Sync を使った Salesforce の ミラーリング を実演 (大竹礼二（REIJI OTAKE）)</title>
-        <link>https://speakerdeck.com/reireireijinjin6/opunmiraringudeguang-garu-fabric-miraringunoke-neng-xing-cdata-sync-woshi-tuta-salesforce-no-miraringu-woshi-yan</link>
-        <dc:date>2025-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入門 FormObject / An Introduction to FormObject #kaigionrails (Shu OGAWARA)</title>
-        <link>https://speakerdeck.com/expajp/an-introduction-to-formobject</link>
-        <dc:date>2025-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>小規模から中規模へ 構造化ログからはじめる信頼性の担保 (kakudooo)</title>
-        <link>https://speakerdeck.com/kakudou3/xiao-gui-mo-karazhong-gui-mo-he-gou-zao-hua-rogukarahazimeruxin-lai-xing-nodan-bao</link>
         <dc:date>2025-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
