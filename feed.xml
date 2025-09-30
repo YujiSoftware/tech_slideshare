@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VCC 2025 Write-up (bata_24)</title>
+        <link>https://speakerdeck.com/bata_24/vcc-2025-write-up</link>
+        <dc:date>2025-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMアプリケーション開発におけるセキュリティリスクと対策 / LLM Application Security (GMO Flatt Security)</title>
         <link>https://speakerdeck.com/flatt_security/llm-application-security</link>
         <dc:date>2025-09-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コード生成なしでモック処理を実現！  ovenchkin-dm/mockio,go-dynoで学ぶメタプログラミング (karamaru)</title>
         <link>https://speakerdeck.com/karamaru/mockio-go-dynodexue-bumetapuroguramingu</link>
-        <dc:date>2025-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes のスケーラビリティを左右するデータストアの話 (Honahuku)</title>
-        <link>https://speakerdeck.com/honahuku/distributed-meeting-18</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
