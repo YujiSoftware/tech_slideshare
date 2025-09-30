@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMアプリケーション開発におけるセキュリティリスクと対策 / LLM Application Security (GMO Flatt Security)</title>
+        <link>https://speakerdeck.com/flatt_security/llm-application-security</link>
+        <dc:date>2025-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>IBMの若手有志データサイエンスコミュニティdsn (knst)</title>
         <link>https://speakerdeck.com/knst0219/ibmfalseruo-shou-you-zhi-detasaiensukomiyuniteidsn</link>
         <dc:date>2025-09-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kubernetes のスケーラビリティを左右するデータストアの話 (Honahuku)</title>
         <link>https://speakerdeck.com/honahuku/distributed-meeting-18</link>
-        <dc:date>2025-09-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C# 14 / .NET 10 の新機能 (RC 1 時点) (neno)</title>
-        <link>https://speakerdeck.com/nenonaninu/net-10-noxin-ji-neng-rc-1-shi-dian</link>
         <dc:date>2025-09-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
