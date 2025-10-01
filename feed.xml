@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Codex CLIの機能とSandboxを理解する (raku,@rakutek)</title>
+        <link>https://www.docswell.com/s/rakutek/KJQYQM-2025-09-codex</link>
+        <dc:date>2025-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>5分でわかるMastraの魅力 (Syoitu Den,@HedgehogPython)</title>
         <link>https://www.docswell.com/s/harinezumi/Z6ED9M-2025-10-01-130855</link>
         <dc:date>2025-09-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>非同期処理実行基盤 Delayed脱出 → Solid Queue完全移行への旅路。 (Shohei Kobayashi)</title>
         <link>https://speakerdeck.com/srockstyle/fei-tong-qi-chu-li-shi-xing-ji-pan-delayedtuo-chu-solid-queuewan-quan-yi-xing-henolu-lu</link>
-        <dc:date>2025-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>もう並列実行は怖くない ~コネクション枯渇解消のための実践的アプローチ~ (katakyo)</title>
-        <link>https://speakerdeck.com/katakyo/moubing-lie-shi-xing-habu-kunai-konekusiyonku-ke-jie-xiao-notamenoshi-jian-de-ahuroti</link>
         <dc:date>2025-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
