@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Web フロントエンドエンジニアに開かれる AI Agent プロダクト開発 - Vercel AI SDK を観察して AI Agent と仲良くなろう！ #FEC余熱NIGHT (Masayuki Izumi)</title>
+        <link>https://speakerdeck.com/izumin5210/fec-yonetsu-night-2025</link>
+        <dc:date>2025-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>バイブコーディングと継続的デプロイメント (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/baibukodeingutoji-sok-de-depuroimento</link>
         <dc:date>2025-09-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>VPC Lattice vs VPC Endpoint ～異なる VPC のプライベートリソースにアクセスには？～ (Kubo)</title>
         <link>https://speakerdeck.com/kubomasataka/vpc-lattice-vs-vpc-endpoint-yi-naru-vpc-nopuraibetorisosuniakusesuniha</link>
-        <dc:date>2025-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NWサービスとconfファイルで通信の確認をしていく話 〜地道な学び〜 (佐藤零朗)</title>
-        <link>https://speakerdeck.com/sato_reo/nwsabisutoconfhuairudetong-xin-noque-ren-wositeikuhua-di-dao-naxue-bi</link>
         <dc:date>2025-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
