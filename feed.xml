@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>5分でわかるMastraの魅力 (Syoitu Den,@HedgehogPython)</title>
+        <link>https://www.docswell.com/s/harinezumi/Z6ED9M-2025-10-01-130855</link>
+        <dc:date>2025-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Green Tea Garbage Collector の今 (zchee)</title>
         <link>https://speakerdeck.com/zchee/the-current-status-of-green-tea-gc</link>
         <dc:date>2025-09-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>もう並列実行は怖くない ~コネクション枯渇解消のための実践的アプローチ~ (katakyo)</title>
         <link>https://speakerdeck.com/katakyo/moubing-lie-shi-xing-habu-kunai-konekusiyonku-ke-jie-xiao-notamenoshi-jian-de-ahuroti</link>
-        <dc:date>2025-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>openSUSE.Asia Summit 2024 (Fuminobu TAKEYAMA)</title>
-        <link>https://speakerdeck.com/ftake/opensuse-dot-asia-summit-2024</link>
         <dc:date>2025-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
