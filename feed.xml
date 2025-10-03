@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DevOps/MLOpsに学ぶエージェントの可観測性 (Yunosuke Yamada)</title>
+        <link>https://speakerdeck.com/yunosukey/mlopsnixue-buezientonoke-guan-ce-xing</link>
+        <dc:date>2025-10-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cancelling async Rust - RustConf 2025</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vTMc4EdHRf6ulz-xaAhZFGZwxJ7jPQgYWczT6pEIvwfXILV4ZEgMdLuoRh70bgh9SP7mxblEnyXuZD0/pub</link>
         <dc:date>2025-10-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Pythonによる契約プログラミング入門 / PyCon JP 2025 (7pairs)</title>
         <link>https://speakerdeck.com/7pairs/pycon-jp-2025</link>
-        <dc:date>2025-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SciPy Conferenceから学ぶ、科学とPythonをつなぐコミュニティの作り方〜オープンサイエンスを支えるスプリント文化とコラボレーションの実践〜</title>
-        <link>https://docs.google.com/presentation/d/1jQvVNAF-7upEO9srkkI6ZD0kXjPjMD0hcr5oMf95UPc/preview</link>
         <dc:date>2025-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
