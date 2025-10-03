@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenAI gpt-oss ファインチューニング入門 (kmotohas)</title>
+        <link>https://speakerdeck.com/kmotohas/openai-gpt-oss-huaintiyuninguru-men</link>
+        <dc:date>2025-10-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DevOps/MLOpsに学ぶエージェントの可観測性 (Yunosuke Yamada)</title>
         <link>https://speakerdeck.com/yunosukey/mlopsnixue-buezientonoke-guan-ce-xing</link>
         <dc:date>2025-10-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Streamlit は社内ツールだけじゃない！PoC の速さで実現する'商用品質'の分析 SaaS アーキテクチャ (𝕂')</title>
         <link>https://speakerdeck.com/kdash/streamlit-hashe-nei-turudakeziyanai-poc-nosu-sadeshi-xian-surushang-yong-pin-zhi-nofen-xi-saas-akitekutiya</link>
-        <dc:date>2025-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonによる契約プログラミング入門 / PyCon JP 2025 (7pairs)</title>
-        <link>https://speakerdeck.com/7pairs/pycon-jp-2025</link>
         <dc:date>2025-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
