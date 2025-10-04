@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIとの付き合い方 / Generative AI and us (kaityo256)</title>
+        <link>https://speakerdeck.com/kaityo256/generative-ai-and-us</link>
+        <dc:date>2025-10-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OpenAI gpt-oss ファインチューニング入門 (kmotohas)</title>
         <link>https://speakerdeck.com/kmotohas/openai-gpt-oss-huaintiyuninguru-men</link>
         <dc:date>2025-10-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>PyCon JP 2025 Python開発環境の整え方ライブデモ</title>
         <link>https://docs.google.com/presentation/d/16hBhrfSc4V5ng6LIS28uI9RJdbscRuLHUzF2QOJ2I7o/preview</link>
-        <dc:date>2025-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Streamlit は社内ツールだけじゃない！PoC の速さで実現する'商用品質'の分析 SaaS アーキテクチャ (𝕂')</title>
-        <link>https://speakerdeck.com/kdash/streamlit-hashe-nei-turudakeziyanai-poc-nosu-sadeshi-xian-surushang-yong-pin-zhi-nofen-xi-saas-akitekutiya</link>
         <dc:date>2025-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
