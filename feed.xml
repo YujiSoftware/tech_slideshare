@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>mypyの10年、pyrightの5年 tyの挑戦   - 型チェッカー進化論 -  (misato maeda)</title>
+        <link>https://speakerdeck.com/byfarsmall/mypyno10nian-pyrightno5nian-tynotiao-zhan-xing-tietukajin-hua-lun</link>
+        <dc:date>2025-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「AI駆動PO」を考えてみる - 作る速さから価値のスループットへ：検査・適応で未来を開発  / AI-driven product owner. scrummat2025 (yosuke nagai)</title>
         <link>https://speakerdeck.com/yosuke_nagai/ai-driven-product-owner-scrummat2025</link>
         <dc:date>2025-10-04T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>サプライチェーン攻撃に学ぶModuleの仕組みと セキュリティ対策  (kuro)</title>
         <link>https://speakerdeck.com/kuro_kurorrr/understanding-module-through-the-lens-of-supply-chain-attacks</link>
         <dc:date>2025-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Codex CLIの機能とSandboxを理解する (raku,@rakutek)</title>
-        <link>https://www.docswell.com/s/rakutek/KJQYQM-2025-09-codex</link>
-        <dc:date>2025-09-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
