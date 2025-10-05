@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Web Components で実現する Hotwire とフロントエンドフレームワークの橋渡し / Bridging with Web Components (Daichi KUDO)</title>
+        <link>https://speakerdeck.com/da1chi/bridging-with-web-components</link>
+        <dc:date>2025-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代だからこそ考える、僕らが本当につくりたいスクラムチーム / A Scrum Team we really want to create in this AI era (TAKAKING22)</title>
         <link>https://speakerdeck.com/takaking22/a-scrum-team-we-really-want-to-create-in-this-ai-era</link>
         <dc:date>2025-10-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Vue にまつわる3つのよくある誤解と、私がVueを選ぶ4つの理由 (ytr0903)</title>
         <link>https://speakerdeck.com/ytr0903/vue-nimatuwaru3tunoyokuaruwu-jie-to-si-gavuewoxuan-bu4tunoli-you</link>
-        <dc:date>2025-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Why React!?? Next.jsそしてReactを改めてイチから選ぶ (ypresto)</title>
-        <link>https://speakerdeck.com/ypresto/why-react-choose-nextjs-and-react-scratch</link>
         <dc:date>2025-09-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
