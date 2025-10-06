@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクト作りにおける「機能を削除する」というマイナスアプローチの重要性 / The Importance of the "Remove Features" Approach in Product Development (LINEヤフーTech (LY Corporation Tech))</title>
+        <link>https://speakerdeck.com/lycorptech_jp/the-importance-of-the-remove-features-approach-in-product-development</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>XP, Testing and ninja testing ZOZ5 (seki at druby.org)</title>
         <link>https://speakerdeck.com/m_seki/z5</link>
         <dc:date>2025-10-05T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>DevOps/MLOpsに学ぶエージェントの可観測性 (Yunosuke Yamada)</title>
         <link>https://speakerdeck.com/yunosukey/mlopsnixue-buezientonoke-guan-ce-xing</link>
         <dc:date>2025-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cancelling async Rust - RustConf 2025</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTMc4EdHRf6ulz-xaAhZFGZwxJ7jPQgYWczT6pEIvwfXILV4ZEgMdLuoRh70bgh9SP7mxblEnyXuZD0/pub</link>
-        <dc:date>2025-10-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
