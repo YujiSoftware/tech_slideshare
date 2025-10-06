@@ -6,6 +6,76 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践：AWS Security Hub &amp; Amazon GuardDuty ~私有マルチアカウント環境の統制を最適化する~ (Kubo)</title>
+        <link>https://speakerdeck.com/kubomasataka/shi-jian-aws-security-hub-and-amazon-guardduty-si-you-marutiakauntohuan-jing-notong-zhi-wozui-shi-hua-suru</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>振り返りTransit Gateway ～VPCをいい感じでつなげるために～ (モブエンジニア（Masaki Okuda）)</title>
+        <link>https://speakerdeck.com/masakiokuda/zhen-rifan-ritransit-gateway-vpcwoiigan-zidetunagerutameni</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSとゼロから始めるデジタル名刺生活～S3+CloudFront 編～ (ryu-ki)</title>
+        <link>https://speakerdeck.com/ryuki0947/starting-digital-business-card-life-from-zero-with-aws-the-s3-and-cloudfront-edition</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラウド食堂#2_AWSネタでLT会_はじめに (daiki.handa)</title>
+        <link>https://speakerdeck.com/handy/kuraudoshi-tang-number-2-awsnetadelthui-hazimeni</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>専属の観光ガイドさんを雇いたい (chimi)</title>
+        <link>https://speakerdeck.com/sayos/zhuan-shu-noguan-guang-gaidosanwogu-itai</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>3/26 クラウド食堂LT #2 GenU案件を通して学んだ教訓 登壇資料 (y-mae)</title>
+        <link>https://speakerdeck.com/ymae/26-kuraudoshi-tang-lt-number-2-genuan-jian-wotong-sitexue-ndajiao-xun-deng-tan-zi-liao</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSエンジニアがSAPのデータ抽出してみた (Mayumi Hirano)</title>
+        <link>https://speakerdeck.com/mayumi_hirano/awsenziniagasapnodetachou-chu-sitemita</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>知識ゼロでAWS_Media_Services触ってみた (Masahiro Nakazawa)</title>
+        <link>https://speakerdeck.com/mnakazawa/zhi-shi-zerodeaws-media-serviceshong-tutemita</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新卒エンジニアがAWS認定資格を全冠して得られたもの (hirataikue)</title>
+        <link>https://speakerdeck.com/hirataikue/xin-zu-enziniagaawsren-ding-zi-ge-woquan-guan-sitede-raretamono</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS re:Postで毎日回答してたらポイント数世界一になった話 (Kobayashi-Riku)</title>
+        <link>https://speakerdeck.com/rikukobayashi/aws-re-postdemei-ri-hui-da-sitetarapointoshu-shi-jie-ninatutahua</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【クラウド食堂】SAP on AWSの話 (s.kawamura)</title>
+        <link>https://speakerdeck.com/shinyakawamura/kuraudoshi-tang-sap-on-awsnohua</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラウド食堂とは？ (hiyanger)</title>
+        <link>https://speakerdeck.com/hiyanger/cloud-shokudo</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Android 15以上でPDFのテキスト検索を爆速開発！ (tonionagauzzi)</title>
+        <link>https://speakerdeck.com/tonionagauzzi/android-15yi-shang-depdfnotekisutojian-suo-wobao-su-kai-fa</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pythonスレッドとは結局何なのか？ CPython実装から見るNoGIL時代の変化 (curekoshimizu)</title>
+        <link>https://speakerdeck.com/curekoshimizu/pythonsuretudotohajie-ju-he-nanoka-cpythonshi-zhuang-karajian-runogilshi-dai-nobian-hua</link>
+        <dc:date>2025-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクト作りにおける「機能を削除する」というマイナスアプローチの重要性 / The Importance of the "Remove Features" Approach in Product Development (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/the-importance-of-the-remove-features-approach-in-product-development</link>
         <dc:date>2025-10-05T15:00:00Z</dc:date>
@@ -34,75 +104,5 @@
         <title>[みん強第5回]_kubellのデータ基盤開発の最新状況とAIの活用の実践について (K.Mitsuhashi)</title>
         <link>https://speakerdeck.com/kaz3284/minqiang-di-5hui-kubellnodetaji-pan-kai-fa-nozui-xin-zhuang-kuang-toainohuo-yong-noshi-jian-nituite</link>
         <dc:date>2025-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CoRL2025速報 (robotpaper.challenge)</title>
-        <link>https://speakerdeck.com/rpc/corl2025su-bao</link>
-        <dc:date>2025-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI×社会課題ハッカソン2冠で見えた AI時代にエンジニアが伸びるための姿勢 (wabi)</title>
-        <link>https://speakerdeck.com/wabi_1318/sheng-cheng-aixshe-hui-ke-ti-hatukason2guan-tejian-eta-aishi-dai-niensiniakashen-hirutamenozi-shi</link>
-        <dc:date>2025-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>mypyの10年、pyrightの5年 tyの挑戦   - 型チェッカー進化論 -  (misato maeda)</title>
-        <link>https://speakerdeck.com/byfarsmall/mypyno10nian-pyrightno5nian-tynotiao-zhan-xing-tietukajin-hua-lun</link>
-        <dc:date>2025-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「AI駆動PO」を考えてみる - 作る速さから価値のスループットへ：検査・適応で未来を開発  / AI-driven product owner. scrummat2025 (yosuke nagai)</title>
-        <link>https://speakerdeck.com/yosuke_nagai/ai-driven-product-owner-scrummat2025</link>
-        <dc:date>2025-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あつまれ_POの森_プロダクトオーナー初心者のためのやさしいQ_Aセッション.pdf (nolick1219)</title>
-        <link>https://speakerdeck.com/nolick1219/atumare-ponosen-hurotakutoonachu-xin-zhe-notamenoyasasiiq-asetusiyon</link>
-        <dc:date>2025-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Obsidian×AIの活用について (松濤Vimmer)</title>
-        <link>https://speakerdeck.com/onikun94/obsidianxainohuo-yong-nituite</link>
-        <dc:date>2025-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エージェントの継続的改善のためのメトリクス再考 (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/ezientonoji-sok-de-gai-shan-notamenometorikusuzai-kao</link>
-        <dc:date>2025-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>後進育成のしくじり〜任せるスキルとリーダーシップの両立〜  (mtskhs)</title>
-        <link>https://speakerdeck.com/matsu0228/hou-jin-yu-cheng-nosikusiri-ren-serusukirutoritasituhunoliang-li</link>
-        <dc:date>2025-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>XP祭り2025「指標は目標になると機能しなくなる」のか？XPでもそうなのか？ (akinori sakata)</title>
-        <link>https://speakerdeck.com/akinorisakata001/xpji-ri2025-zhi-biao-hamu-biao-ninarutoji-neng-sinakunaru-noka-xpdemosounanoka</link>
-        <dc:date>2025-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web Components で実現する Hotwire とフロントエンドフレームワークの橋渡し / Bridging with Web Components (Daichi KUDO)</title>
-        <link>https://speakerdeck.com/da1chi/bridging-with-web-components</link>
-        <dc:date>2025-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代だからこそ考える、僕らが本当につくりたいスクラムチーム / A Scrum Team we really want to create in this AI era (TAKAKING22)</title>
-        <link>https://speakerdeck.com/takaking22/a-scrum-team-we-really-want-to-create-in-this-ai-era</link>
-        <dc:date>2025-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIとの付き合い方 / Generative AI and us (kaityo256)</title>
-        <link>https://speakerdeck.com/kaityo256/generative-ai-and-us</link>
-        <dc:date>2025-10-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenAI gpt-oss ファインチューニング入門 (kmotohas)</title>
-        <link>https://speakerdeck.com/kmotohas/openai-gpt-oss-huaintiyuninguru-men</link>
-        <dc:date>2025-10-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevOps/MLOpsに学ぶエージェントの可観測性 (Yunosuke Yamada)</title>
-        <link>https://speakerdeck.com/yunosukey/mlopsnixue-buezientonoke-guan-ce-xing</link>
-        <dc:date>2025-10-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
