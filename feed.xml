@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Technical Writing Meetup vol.39 (SORACOM)</title>
+        <link>https://speakerdeck.com/soracom/ai-friendly-documents</link>
+        <dc:date>2025-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI Coding Meetup #3 - 導入セッション / ai-coding-meetup-3 (Masayuki Izumi)</title>
         <link>https://speakerdeck.com/izumin5210/ai-coding-meetup-3</link>
         <dc:date>2025-10-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【クラウド食堂】SAP on AWSの話 (s.kawamura)</title>
         <link>https://speakerdeck.com/shinyakawamura/kuraudoshi-tang-sap-on-awsnohua</link>
-        <dc:date>2025-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウド食堂とは？ (hiyanger)</title>
-        <link>https://speakerdeck.com/hiyanger/cloud-shokudo</link>
         <dc:date>2025-10-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
