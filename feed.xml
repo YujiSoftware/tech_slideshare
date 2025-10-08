@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>綺麗なデータマートをつくろう_データ整備を前向きに考える会 / Let's create clean data mart (BrainPad)</title>
+        <link>https://speakerdeck.com/brainpadpr/lets-create-clean-data-mart</link>
+        <dc:date>2025-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>やる気のマネジメント (Toshiyuki Ohtomo,@toshiotm)</title>
         <link>https://www.docswell.com/s/toshiotm/ZJQN3X-2025-08-20-173347</link>
         <dc:date>2025-10-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>実践：AWS Security Hub &amp; Amazon GuardDuty ~私有マルチアカウント環境の統制を最適化する~ (Kubo)</title>
         <link>https://speakerdeck.com/kubomasataka/shi-jian-aws-security-hub-and-amazon-guardduty-si-you-marutiakauntohuan-jing-notong-zhi-wozui-shi-hua-suru</link>
-        <dc:date>2025-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>振り返りTransit Gateway ～VPCをいい感じでつなげるために～ (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/zhen-rifan-ritransit-gateway-vpcwoiigan-zidetunagerutameni</link>
         <dc:date>2025-10-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
