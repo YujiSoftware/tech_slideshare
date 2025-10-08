@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GDGoC Osaka 分散技術勉強会 2025/09/13 metallb</title>
+        <link>https://docs.google.com/presentation/d/1y0s4mZXP1LbxVr4NqLsB52QGbf2SlqwWURQt9iSQH5w/preview</link>
+        <dc:date>2025-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetesで分散処理をやってみる-Kafkaを添えて- (Ogata Katsuya)</title>
+        <link>https://speakerdeck.com/ogatakatsuya/kubernetesdefen-san-chu-li-woyatutemiru-kafkawotian-ete</link>
+        <dc:date>2025-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>延1万件の個人情報漏洩を発見したエンジニアにきく 知らないと危険バイブコーディングとセキュリティ</title>
+        <link>https://docs.google.com/presentation/d/13LrIX7eXqEA1IE5gFj6VlMRrsq3UXqxy-5OGcmNZz_0/preview</link>
+        <dc:date>2025-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>綺麗なデータマートをつくろう_データ整備を前向きに考える会 / Let's create clean data mart (BrainPad)</title>
         <link>https://speakerdeck.com/brainpadpr/lets-create-clean-data-mart</link>
         <dc:date>2025-10-07T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>新卒QAエンジニア向けテスト分析演習[外部公開用] (tonchan)</title>
         <link>https://speakerdeck.com/qatonchan/xin-zu-qaenziniaxiang-ketesutofen-xi-yan-xi-wai-bu-gong-kai-yong</link>
         <dc:date>2025-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜあの開発者はDevRelに伴走し続けるのか / Why Does That Developer Keep Running Alongside DevRel? (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/why-does-that-developer-keep-running-alongside-devrel</link>
-        <dc:date>2025-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>詳しくない分野でのVibe Codingで困ったことと学び/vibe-coding-in-unfamiliar-area (shibayu36)</title>
-        <link>https://speakerdeck.com/shibayu36/vibe-coding-in-unfamiliar-area</link>
-        <dc:date>2025-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践：AWS Security Hub &amp; Amazon GuardDuty ~私有マルチアカウント環境の統制を最適化する~ (Kubo)</title>
-        <link>https://speakerdeck.com/kubomasataka/shi-jian-aws-security-hub-and-amazon-guardduty-si-you-marutiakauntohuan-jing-notong-zhi-wozui-shi-hua-suru</link>
-        <dc:date>2025-10-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
