@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>やる気のマネジメント (Toshiyuki Ohtomo,@toshiotm)</title>
+        <link>https://www.docswell.com/s/toshiotm/ZJQN3X-2025-08-20-173347</link>
+        <dc:date>2025-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクトエンジニアへのご招待 (株式会社グラファー)</title>
         <link>https://speakerdeck.com/graffer/purodakutoenziniahenogozhao-dai</link>
         <dc:date>2025-10-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>振り返りTransit Gateway ～VPCをいい感じでつなげるために～ (モブエンジニア（Masaki Okuda）)</title>
         <link>https://speakerdeck.com/masakiokuda/zhen-rifan-ritransit-gateway-vpcwoiigan-zidetunagerutameni</link>
-        <dc:date>2025-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSとゼロから始めるデジタル名刺生活～S3+CloudFront 編～ (ryu-ki)</title>
-        <link>https://speakerdeck.com/ryuki0947/starting-digital-business-card-life-from-zero-with-aws-the-s3-and-cloudfront-edition</link>
         <dc:date>2025-10-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
