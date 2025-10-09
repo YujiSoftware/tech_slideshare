@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>kintone開発組織のDevOpsへの移り変わりと実践 (Shin'ya Ueoka)</title>
+        <link>https://speakerdeck.com/ueokande/jjug-ccc-2025-spring</link>
+        <dc:date>2025-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GDGoC Osaka 分散技術勉強会 2025/09/13 metallb</title>
         <link>https://docs.google.com/presentation/d/1y0s4mZXP1LbxVr4NqLsB52QGbf2SlqwWURQt9iSQH5w/preview</link>
         <dc:date>2025-10-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>品質の民主化 〜QAがいなくてもQAできるチームを目指して〜 (Masami Yajiri)</title>
         <link>https://speakerdeck.com/masamiyajiri/pin-zhi-nomin-zhu-hua-qagainakutemoqadekirutimuwomu-zhi-site</link>
-        <dc:date>2025-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新卒QAエンジニア向けテスト分析演習[外部公開用] (tonchan)</title>
-        <link>https://speakerdeck.com/qatonchan/xin-zu-qaenziniaxiang-ketesutofen-xi-yan-xi-wai-bu-gong-kai-yong</link>
         <dc:date>2025-10-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
