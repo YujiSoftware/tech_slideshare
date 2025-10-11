@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIツールでどこまでデザインを忠実に実装できるのか (Oikon)</title>
+        <link>https://speakerdeck.com/oikon48/aiturudedokomadedezainwozhong-shi-nishi-zhuang-dekirunoka</link>
+        <dc:date>2025-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SOC2取得の全体像 (shonansurvivors)</title>
         <link>https://speakerdeck.com/shonansurvivors/overview-of-soc2-achievement</link>
         <dc:date>2025-10-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>やる気のマネジメント (Toshiyuki Ohtomo,@toshiotm)</title>
         <link>https://www.docswell.com/s/toshiotm/ZJQN3X-2025-08-20-173347</link>
-        <dc:date>2025-10-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトエンジニアへのご招待 (株式会社グラファー)</title>
-        <link>https://speakerdeck.com/graffer/purodakutoenziniahenogozhao-dai</link>
         <dc:date>2025-10-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
