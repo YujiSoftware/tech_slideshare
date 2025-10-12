@@ -31,7 +31,7 @@ tasks.register("deploy") {
 
         println "Uploading ${tarFile.name} to ${remoteUser}@${remoteHost}:${remotePath}"
         exec {
-            commandLine "ssh", "${remoteUser}@${remoteHost}", "tar -xvf - -C ${remotePath}"
+            commandLine "ssh", "${remoteUser}@${remoteHost}", "tar -xvf - -C ${remotePath} --strip=1"
             standardInput = new FileInputStream(tarFile)
         }
     }
