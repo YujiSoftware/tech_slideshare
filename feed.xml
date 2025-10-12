@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>大規模サーバーレスAPIの堅牢性・信頼性設計 〜AWSのベストプラクティスから始まる現実的制約との向き合い方〜 (mai miya)</title>
+        <link>https://speakerdeck.com/maimyyym/large-scale-reliable-serverless-api-aws-practices</link>
+        <dc:date>2025-10-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オープンソースソフトウェアへの解像度🔬 (うたもく)</title>
         <link>https://speakerdeck.com/utam0k/opunsosusohutoueahenojie-xiang-du</link>
         <dc:date>2025-10-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kubernetesで分散処理をやってみる-Kafkaを添えて- (Ogata Katsuya)</title>
         <link>https://speakerdeck.com/ogatakatsuya/kubernetesdefen-san-chu-li-woyatutemiru-kafkawotian-ete</link>
-        <dc:date>2025-10-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>延1万件の個人情報漏洩を発見したエンジニアにきく 知らないと危険バイブコーディングとセキュリティ</title>
-        <link>https://docs.google.com/presentation/d/13LrIX7eXqEA1IE5gFj6VlMRrsq3UXqxy-5OGcmNZz_0/preview</link>
         <dc:date>2025-10-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
