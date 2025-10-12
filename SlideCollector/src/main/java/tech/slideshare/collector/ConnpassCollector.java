@@ -3,6 +3,7 @@ package tech.slideshare.collector;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.slf4j.Logger;
@@ -14,6 +15,7 @@ import tech.slideshare.parser.*;
 
 import java.io.IOException;
 import java.io.UncheckedIOException;
+import java.net.HttpURLConnection;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -53,7 +55,17 @@ public class ConnpassCollector implements SlideCollector {
         List<Slide> list = new ArrayList<>();
 
         String presentation = url + "/presentation/";
-        Document doc = Jsoup.connect(presentation).get();
+        Document doc;
+        try {
+            doc = Jsoup.connect(presentation).get();
+        } catch (HttpStatusException e) {
+            // なぜかたまに削除されたページが含まれていることがある。その場合、無視する。
+            if (e.getStatusCode() == HttpURLConnection.HTTP_NOT_FOUND) {
+                logger.warn(e.toString());
+                return list;
+            }
+            throw e;
+        }
 
         // SlideShare
         doc.getElementsByTag("div").select("[data-obj]")
