@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TinyGo でも GraphQL を動かしたい！</title>
+        <link>https://docs.google.com/presentation/d/1dFw3XIImpGvtz1dywpIDixxnlCRx6Zr9_-_IkzX2GFs/preview</link>
+        <dc:date>2025-10-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Copilotでバックエンドのバイブコーディングを極めた話 (yuma(Maki),@yuma_prog)</title>
         <link>https://www.docswell.com/s/yuma/ZPG78E-2025-10-12-tbs</link>
         <dc:date>2025-10-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>kintone開発組織のDevOpsへの移り変わりと実践 (Shin'ya Ueoka)</title>
         <link>https://speakerdeck.com/ueokande/jjug-ccc-2025-spring</link>
-        <dc:date>2025-10-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GDGoC Osaka 分散技術勉強会 2025/09/13 metallb</title>
-        <link>https://docs.google.com/presentation/d/1y0s4mZXP1LbxVr4NqLsB52QGbf2SlqwWURQt9iSQH5w/preview</link>
         <dc:date>2025-10-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
