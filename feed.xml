@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Coding While Drunk (Kentaro Kuribayashi)</title>
+        <link>https://speakerdeck.com/kentaro/coding-while-drunk</link>
+        <dc:date>2025-10-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>これがLambdaレス時代のChatOpsだ！実例で学ぶAmazon Q Developerカスタムアクション活用法 (iwamot)</title>
         <link>https://speakerdeck.com/iwamot/aws-lambda-less-chatops</link>
         <dc:date>2025-10-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIネイティブコードエディタ Cursor インストール完全ガイド</title>
         <link>https://docs.google.com/presentation/d/1cncmWhz84QF8Z8R_JmU3d2dZg5FtCxj4kbgoR0C8i3E/preview</link>
-        <dc:date>2025-10-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Adminaで実現するISMS/SOC2運用の効率化 〜 アカウント管理編 〜 (shonansurvivors)</title>
-        <link>https://speakerdeck.com/shonansurvivors/isms-soc2-with-admina</link>
         <dc:date>2025-10-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
