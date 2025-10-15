@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コンテキストエンジニアリング入門〜AI Coding Agent作りで学ぶ文脈設計〜 (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
+        <link>https://speakerdeck.com/kworkdev/intro-to-context-engineering</link>
+        <dc:date>2025-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>徐々に増えているSwiftUI Anchor関連API (tokizo)</title>
         <link>https://speakerdeck.com/tokizuoh/swiftui-anchor-api</link>
         <dc:date>2025-10-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Bedrockの利用料を削減！Novaで実現するプロンプトルーティング.pdf (kawabata)</title>
         <link>https://speakerdeck.com/kawabata908/tsunagari-tech-lt-20250326</link>
-        <dc:date>2025-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[つながりテック #2 AWSトークで締めくくる年度末LT大会]Amazon Q Developerとこれからの運用を考える (sh_fk2)</title>
-        <link>https://speakerdeck.com/sh_fk2/tunagaritetuku-number-2-awstokudedi-mekukurunian-du-mo-ltda-hui-amazon-q-developertokorekaranoyun-yong-wokao-eru</link>
         <dc:date>2025-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
