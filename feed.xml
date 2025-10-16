@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TinyGoで実装する！ 俺の最強ステアリングコントローラー</title>
+        <link>https://docs.google.com/presentation/d/1d3eNAZZykInxIaxjxQt5f0zW3kM6wYrT-v23qo1wXO8/preview</link>
+        <dc:date>2025-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TinyGo &amp; TinyGo Keeb &amp; …</title>
+        <link>https://docs.google.com/presentation/d/11-TDgra3NH-n2KYYAgSYV87ANywnY1lcGacZvMSIjGc/preview</link>
+        <dc:date>2025-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TinyGo のこれまでとこれから</title>
+        <link>https://docs.google.com/presentation/d/1qRpjWj65W4L0yOQJ9M7EC5A-lh_7MGoa5NUlQE77VFo/preview</link>
+        <dc:date>2025-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>組込みだけじゃない！TinyGo で始める無料クラウド開発入門 (Kotaro Otaka)</title>
+        <link>https://speakerdeck.com/otakakot/not-just-embedded-systems-get-started-with-free-cloud-development-using-tinygo-at-conf</link>
+        <dc:date>2025-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goカードゲームを 作ってみた！ (Senoue)</title>
+        <link>https://speakerdeck.com/senoue/gokadogemuwo-zuo-tutemita</link>
+        <dc:date>2025-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Wasmのエコシステムを使った ツール作成方法 (asuka)</title>
+        <link>https://speakerdeck.com/askua/wasmnoekosisutemuwoshi-tuta-turuzuo-cheng-fang-fa</link>
+        <dc:date>2025-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BigQuery でできること、人間がやるべきこと (na0)</title>
+        <link>https://speakerdeck.com/na0/bigquery-dedekirukoto-ren-jian-gayarubekikoto</link>
+        <dc:date>2025-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コンテキストエンジニアリング入門〜AI Coding Agent作りで学ぶ文脈設計〜 (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
         <link>https://speakerdeck.com/kworkdev/intro-to-context-engineering</link>
         <dc:date>2025-10-15T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>GitHub Copilotでバックエンドのバイブコーディングを極めた話 (yuma(Maki),@yuma_prog)</title>
         <link>https://www.docswell.com/s/yuma/ZPG78E-2025-10-12-tbs</link>
         <dc:date>2025-10-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模サーバーレスAPIの堅牢性・信頼性設計 〜AWSのベストプラクティスから始まる現実的制約との向き合い方〜 (mai miya)</title>
-        <link>https://speakerdeck.com/maimyyym/large-scale-reliable-serverless-api-aws-practices</link>
-        <dc:date>2025-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オープンソースソフトウェアへの解像度🔬 (うたもく)</title>
-        <link>https://speakerdeck.com/utam0k/opunsosusohutoueahenojie-xiang-du</link>
-        <dc:date>2025-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術的負債の会計学 - PHPカンファレンス広島2025 (akatsuka)</title>
-        <link>https://speakerdeck.com/akinoriakatsuka/ji-shu-de-fu-zhai-nojing-ji-xue-phpkanhuarensuguang-dao-2025</link>
-        <dc:date>2025-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIツールでどこまでデザインを忠実に実装できるのか (Oikon)</title>
-        <link>https://speakerdeck.com/oikon48/aiturudedokomadedezainwozhong-shi-nishi-zhuang-dekirunoka</link>
-        <dc:date>2025-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SOC2取得の全体像 (shonansurvivors)</title>
-        <link>https://speakerdeck.com/shonansurvivors/overview-of-soc2-achievement</link>
-        <dc:date>2025-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人的 2025年1Q Amazon Bedrockニュース  (tsujikawa)</title>
-        <link>https://speakerdeck.com/tsujikawa/ge-ren-de-2025nian-1q-amazon-bedrockniyusu</link>
-        <dc:date>2025-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bedrockの利用料を削減！Novaで実現するプロンプトルーティング.pdf (kawabata)</title>
-        <link>https://speakerdeck.com/kawabata908/tsunagari-tech-lt-20250326</link>
-        <dc:date>2025-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
