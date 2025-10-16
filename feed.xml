@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サイバーエージェント流クラウドコスト削減施策「みんなで金塊堀太郎」 (Kurochan)</title>
+        <link>https://speakerdeck.com/kurochan/cyberagent-kinkai-horitarou</link>
+        <dc:date>2025-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TinyGoで実装する！ 俺の最強ステアリングコントローラー</title>
         <link>https://docs.google.com/presentation/d/1d3eNAZZykInxIaxjxQt5f0zW3kM6wYrT-v23qo1wXO8/preview</link>
         <dc:date>2025-10-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TinyGo でも GraphQL を動かしたい！</title>
         <link>https://docs.google.com/presentation/d/1dFw3XIImpGvtz1dywpIDixxnlCRx6Zr9_-_IkzX2GFs/preview</link>
-        <dc:date>2025-10-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilotでバックエンドのバイブコーディングを極めた話 (yuma(Maki),@yuma_prog)</title>
-        <link>https://www.docswell.com/s/yuma/ZPG78E-2025-10-12-tbs</link>
         <dc:date>2025-10-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
