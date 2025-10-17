@@ -6,6 +6,71 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SONiC Workshop Japan 2025 - Survey Result (SONiC Users Group Japan)</title>
+        <link>https://speakerdeck.com/sonic/sonic-workshop-japan-2025-survey-result</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SONiCソースコードについて生成AIに聞いてみた (SONiC Users Group Japan)</title>
+        <link>https://speakerdeck.com/sonic/sonicsosukodonituitesheng-cheng-ainiwen-itemita</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Broadcom SONiCでEVPNマルチホーミング環境を構築してみた (SONiC Users Group Japan)</title>
+        <link>https://speakerdeck.com/sonic/broadcom-sonicdeevpnmarutihominguhuan-jing-wogou-zhu-sitemita</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2年かけてSONiCコミュニティにマージされた話 (SONiC Users Group Japan)</title>
+        <link>https://speakerdeck.com/sonic/2nian-kaketesonickomiyuniteinimazisaretahua</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SONiCでマルチテナントサービスを1年間運用してみた (SONiC Users Group Japan)</title>
+        <link>https://speakerdeck.com/sonic/sonicdemarutitenantosabisuwo1nian-jian-yun-yong-sitemita</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【SoftBank】 SONiC で 800G AEC ケーブルを検証してみた (Chao Cheng, Chang)</title>
+        <link>https://speakerdeck.com/werty75708/softbank-sonic-de-800g-aec-keburuwojian-zheng-sitemita</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スイッチのBMC、つかってますか？ (SONiC Users Group Japan)</title>
+        <link>https://speakerdeck.com/sonic/suitutinobmc-tukatutemasuka</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PythonツールであるpygnmiをSONiCのgNMIに対して使ってみた (SONiC Users Group Japan)</title>
+        <link>https://speakerdeck.com/sonic/pythonturudearupygnmiwosonicnognminidui-siteshi-tutemita</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SONiCにて使用されているSAIの実際 (SONiC Users Group Japan)</title>
+        <link>https://speakerdeck.com/sonic/sonicniteshi-yong-sareteirusainoshi-ji</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SONiCで構築・運用する生成AI向けパブリッククラウドネットワーク (SONiC Users Group Japan)</title>
+        <link>https://speakerdeck.com/sonic/sonicdegou-zhu-yun-yong-surusheng-cheng-aixiang-kepaburitukukuraudonetutowaku</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ホワイトボックス&amp; SONiC アーキテクチャ（全体像） - SONiC Workshop Japan 2025 (ebiken)</title>
+        <link>https://speakerdeck.com/ebiken/sonic-workshop-jp-2025-ebiken</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20251016_Rails News ～Rails 8.1の足音を聴く～ (Masato Mori)</title>
+        <link>https://speakerdeck.com/morimorihoge/20251016-rails-news-rails-8-dot-1nozu-yin-woting-ku</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Codeを駆使した初めてのiOSアプリ開発 ~ゼロから3週間でグローバルハッカソンで入賞するまで~ (Oikon)</title>
+        <link>https://speakerdeck.com/oikon48/claude-codewoqu-shi-sitachu-metenoiosapurikai-fa-zerokara3zhou-jian-degurobaruhatukasonderu-shang-surumade</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>量子コンピュータのシミュレーション (gyu-don,@beef_and_rice)</title>
         <link>https://www.docswell.com/s/gyu-don/K447N6-2025-10-17-192918</link>
         <dc:date>2025-10-16T15:00:00Z</dc:date>
@@ -39,70 +104,5 @@
         <title>組込みだけじゃない！TinyGo で始める無料クラウド開発入門 (Kotaro Otaka)</title>
         <link>https://speakerdeck.com/otakakot/not-just-embedded-systems-get-started-with-free-cloud-development-using-tinygo-at-conf</link>
         <dc:date>2025-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goカードゲームを 作ってみた！ (Senoue)</title>
-        <link>https://speakerdeck.com/senoue/gokadogemuwo-zuo-tutemita</link>
-        <dc:date>2025-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Wasmのエコシステムを使った ツール作成方法 (asuka)</title>
-        <link>https://speakerdeck.com/askua/wasmnoekosisutemuwoshi-tuta-turuzuo-cheng-fang-fa</link>
-        <dc:date>2025-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BigQuery でできること、人間がやるべきこと (na0)</title>
-        <link>https://speakerdeck.com/na0/bigquery-dedekirukoto-ren-jian-gayarubekikoto</link>
-        <dc:date>2025-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテキストエンジニアリング入門〜AI Coding Agent作りで学ぶ文脈設計〜 (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
-        <link>https://speakerdeck.com/kworkdev/intro-to-context-engineering</link>
-        <dc:date>2025-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>徐々に増えているSwiftUI Anchor関連API (tokizo)</title>
-        <link>https://speakerdeck.com/tokizuoh/swiftui-anchor-api</link>
-        <dc:date>2025-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Codexとも仲良く。CodeRabbit CLIの紹介 (Atsushi Nakatsugawa)</title>
-        <link>https://speakerdeck.com/moongift/codextomozhong-liang-ku-coderabbit-clinoshao-jie</link>
-        <dc:date>2025-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ALL CODE BASE ARE BELONG TO STUDY (uzulla)</title>
-        <link>https://speakerdeck.com/uzulla/all-code-base-are-belong-to-study</link>
-        <dc:date>2025-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社内AIハッカソンでAmazon Bedrock AgentCore 使ってみた (xthixsl_ml)</title>
-        <link>https://speakerdeck.com/xthixsl_ml/she-nei-aihatukasondeamazon-bedrock-agentcore-shi-tutemita</link>
-        <dc:date>2025-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードレビューでの Codex 活用法 (kinopee)</title>
-        <link>https://speakerdeck.com/kinopeee/kodorebiyudeno-codex-huo-yong-fa</link>
-        <dc:date>2025-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜAWSを活かしきれないのか？技術と組織への処方箋 (NRI Netcom)</title>
-        <link>https://speakerdeck.com/nrinetcom/nazeawswohuo-kasikirenainoka-ji-shu-tozu-zhi-henochu-fang-jian</link>
-        <dc:date>2025-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Coding While Drunk (Kentaro Kuribayashi)</title>
-        <link>https://speakerdeck.com/kentaro/coding-while-drunk</link>
-        <dc:date>2025-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これがLambdaレス時代のChatOpsだ！実例で学ぶAmazon Q Developerカスタムアクション活用法 (iwamot)</title>
-        <link>https://speakerdeck.com/iwamot/aws-lambda-less-chatops</link>
-        <dc:date>2025-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スマホから Youtube Shortsを見られないようにする (lemolatoon)</title>
-        <link>https://speakerdeck.com/lemolatoon/sumahokara-youtube-shortswojian-rarenaiyounisuru</link>
-        <dc:date>2025-10-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
