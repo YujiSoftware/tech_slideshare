@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SpecKitでどこまでできる？ コストはどれくらい？ (Tech Leverages)</title>
+        <link>https://speakerdeck.com/leveragestech/speckitdedokomadedekiru-kosutohadorekurai</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Nix と NixOS を使って 趣味 K8s クラスタを運用する (Ushitora Anqou)</title>
         <link>https://www.docswell.com/s/ushitora-anqou/Z4473L-2025-10-11-141944</link>
         <dc:date>2025-10-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TinyGoで実装する！ 俺の最強ステアリングコントローラー</title>
         <link>https://docs.google.com/presentation/d/1d3eNAZZykInxIaxjxQt5f0zW3kM6wYrT-v23qo1wXO8/preview</link>
-        <dc:date>2025-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TinyGo &amp; TinyGo Keeb &amp; …</title>
-        <link>https://docs.google.com/presentation/d/11-TDgra3NH-n2KYYAgSYV87ANywnY1lcGacZvMSIjGc/preview</link>
         <dc:date>2025-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
