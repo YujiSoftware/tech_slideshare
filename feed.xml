@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プラグイン開発で学習するUnrealEngine C++（実践編） (荻野雄季,@YuukiOgino)</title>
+        <link>https://www.docswell.com/s/YuukiOgino/574MN1-cppmix16-UE5Plugin</link>
+        <dc:date>2025-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Introduce Hono CLI (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/introduce-hono-cli</link>
+        <dc:date>2025-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Code Subagents 再入門 ~cc-sddの実装で学んだこと~ (Gota)</title>
         <link>https://speakerdeck.com/gotalab555/claude-code-subagents-zai-ru-men-cc-sddnoshi-zhuang-dexue-ndakoto</link>
         <dc:date>2025-10-17T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Claude Codeを駆使した初めてのiOSアプリ開発 ~ゼロから3週間でグローバルハッカソンで入賞するまで~ (Oikon)</title>
         <link>https://speakerdeck.com/oikon48/claude-codewoqu-shi-sitachu-metenoiosapurikai-fa-zerokara3zhou-jian-degurobaruhatukasonderu-shang-surumade</link>
         <dc:date>2025-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>量子コンピュータのシミュレーション (gyu-don,@beef_and_rice)</title>
-        <link>https://www.docswell.com/s/gyu-don/K447N6-2025-10-17-192918</link>
-        <dc:date>2025-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今この時代に技術とどう向き合うべきか (gree_tech)</title>
-        <link>https://speakerdeck.com/gree_tech/jin-konoshi-dai-niji-shu-todouxiang-kihe-ubekika</link>
-        <dc:date>2025-10-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
