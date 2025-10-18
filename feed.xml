@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Nix と NixOS を使って 趣味 K8s クラスタを運用する (Ushitora Anqou)</title>
+        <link>https://www.docswell.com/s/ushitora-anqou/Z4473L-2025-10-11-141944</link>
+        <dc:date>2025-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成 AI 時代に職業はどのように変わり、どう対処すべきか ? (Takahiro Kubo)</title>
         <link>https://speakerdeck.com/icoxfog417/career-design-in-generative-ai-era</link>
         <dc:date>2025-10-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TinyGo &amp; TinyGo Keeb &amp; …</title>
         <link>https://docs.google.com/presentation/d/11-TDgra3NH-n2KYYAgSYV87ANywnY1lcGacZvMSIjGc/preview</link>
-        <dc:date>2025-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TinyGo のこれまでとこれから</title>
-        <link>https://docs.google.com/presentation/d/1qRpjWj65W4L0yOQJ9M7EC5A-lh_7MGoa5NUlQE77VFo/preview</link>
         <dc:date>2025-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
