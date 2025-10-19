@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Snowflake Openflow さわってみた (Yuki Ishikawa)</title>
+        <link>https://speakerdeck.com/hoto17296/snowflake-openflow-sawatutemita</link>
+        <dc:date>2025-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プラグイン開発で学習するUnrealEngine C++（実践編） (荻野雄季,@YuukiOgino)</title>
         <link>https://www.docswell.com/s/YuukiOgino/574MN1-cppmix16-UE5Plugin</link>
         <dc:date>2025-10-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20251016_Rails News ～Rails 8.1の足音を聴く～ (Masato Mori)</title>
         <link>https://speakerdeck.com/morimorihoge/20251016-rails-news-rails-8-dot-1nozu-yin-woting-ku</link>
-        <dc:date>2025-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeを駆使した初めてのiOSアプリ開発 ~ゼロから3週間でグローバルハッカソンで入賞するまで~ (Oikon)</title>
-        <link>https://speakerdeck.com/oikon48/claude-codewoqu-shi-sitachu-metenoiosapurikai-fa-zerokara3zhou-jian-degurobaruhatukasonderu-shang-surumade</link>
         <dc:date>2025-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
