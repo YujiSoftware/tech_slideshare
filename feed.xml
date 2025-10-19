@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「JAWS-UG高知」のご紹介 (Yukihito Kataoka)</title>
+        <link>https://speakerdeck.com/yukataoka/jaws-uggao-zhi-nogoshao-jie</link>
+        <dc:date>2025-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Wasmの気になる最新情報 (asuka)</title>
+        <link>https://speakerdeck.com/askua/wasmnoqi-ninaruzui-xin-qing-bao</link>
+        <dc:date>2025-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RDS の負荷が高い場合に AWS で取りうる具体策 N 連発/a-series-of-specific-countermeasures-available-on-aws-when-rds-is-under-high-load (emi)</title>
+        <link>https://speakerdeck.com/emiki/a-series-of-specific-countermeasures-available-on-aws-when-rds-is-under-high-load</link>
+        <dc:date>2025-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践Claude Code：20の失敗から学ぶAIペアプログラミング (武田隆志)</title>
         <link>https://speakerdeck.com/takedatakashi/shi-jian-claude-code-20noshi-bai-karaxue-buaipeapuroguramingu</link>
         <dc:date>2025-10-18T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>PythonツールであるpygnmiをSONiCのgNMIに対して使ってみた (SONiC Users Group Japan)</title>
         <link>https://speakerdeck.com/sonic/pythonturudearupygnmiwosonicnognminidui-siteshi-tutemita</link>
-        <dc:date>2025-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SONiCにて使用されているSAIの実際 (SONiC Users Group Japan)</title>
-        <link>https://speakerdeck.com/sonic/sonicniteshi-yong-sareteirusainoshi-ji</link>
-        <dc:date>2025-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SONiCで構築・運用する生成AI向けパブリッククラウドネットワーク (SONiC Users Group Japan)</title>
-        <link>https://speakerdeck.com/sonic/sonicdegou-zhu-yun-yong-surusheng-cheng-aixiang-kepaburitukukuraudonetutowaku</link>
-        <dc:date>2025-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ホワイトボックス&amp; SONiC アーキテクチャ（全体像） - SONiC Workshop Japan 2025 (ebiken)</title>
-        <link>https://speakerdeck.com/ebiken/sonic-workshop-jp-2025-ebiken</link>
         <dc:date>2025-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
