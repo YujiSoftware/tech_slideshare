@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンド開発のためのブラウザ組み込みAI入門 (Masashi Hirano)</title>
+        <link>https://speakerdeck.com/masashi/browser-built-in-ai-for-frontend</link>
+        <dc:date>2025-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React19.2のuseEffectEventを追う (マグロ隊長kinTV)</title>
         <link>https://speakerdeck.com/maguroalternative/react19-dot-2nouseeffecteventwozhui-u</link>
         <dc:date>2025-10-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SONiC Workshop Japan 2025 - Survey Result (SONiC Users Group Japan)</title>
         <link>https://speakerdeck.com/sonic/sonic-workshop-japan-2025-survey-result</link>
-        <dc:date>2025-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SONiCソースコードについて生成AIに聞いてみた (SONiC Users Group Japan)</title>
-        <link>https://speakerdeck.com/sonic/sonicsosukodonituitesheng-cheng-ainiwen-itemita</link>
         <dc:date>2025-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
