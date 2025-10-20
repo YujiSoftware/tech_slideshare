@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>HonoとJSXを使って管理画面をサクッと型安全に作ろう (morimorikochan)</title>
+        <link>https://speakerdeck.com/diggymo/hono-jsx-admin-panel</link>
+        <dc:date>2025-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データ分析のためのClaude Code ~marimoを使おう~ (Gota)</title>
         <link>https://speakerdeck.com/gotalab555/detafen-xi-notamenoclaude-code-marimowoshi-ou</link>
         <dc:date>2025-10-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Broadcom SONiCでEVPNマルチホーミング環境を構築してみた (SONiC Users Group Japan)</title>
         <link>https://speakerdeck.com/sonic/broadcom-sonicdeevpnmarutihominguhuan-jing-wogou-zhu-sitemita</link>
-        <dc:date>2025-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2年かけてSONiCコミュニティにマージされた話 (SONiC Users Group Japan)</title>
-        <link>https://speakerdeck.com/sonic/2nian-kaketesonickomiyuniteinimazisaretahua</link>
         <dc:date>2025-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
