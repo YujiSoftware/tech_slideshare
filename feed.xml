@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Zephyr(RTOS)にEdge AIを組み込んでみた話 (misoji engineer)</title>
+        <link>https://speakerdeck.com/iotengineer22/zephyr-rtos-niedge-aiwozu-miip-ndemitahua</link>
+        <dc:date>2025-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OSSJ CFP提出反省会 (soburi)</title>
+        <link>https://speakerdeck.com/tokitahiroshi/ossj-cfpti-chu-fan-sheng-hui</link>
+        <dc:date>2025-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ZephyrでWASMを動かして起きる色々なこと (soburi)</title>
+        <link>https://speakerdeck.com/tokitahiroshi/zephyrdewasmwodong-kasiteqi-kiruse-nakoto</link>
+        <dc:date>2025-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「JAWS-UG高知」のご紹介 (Yukihito Kataoka)</title>
         <link>https://speakerdeck.com/yukataoka/jaws-uggao-zhi-nogoshao-jie</link>
         <dc:date>2025-10-19T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>SONiCでマルチテナントサービスを1年間運用してみた (SONiC Users Group Japan)</title>
         <link>https://speakerdeck.com/sonic/sonicdemarutitenantosabisuwo1nian-jian-yun-yong-sitemita</link>
-        <dc:date>2025-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【SoftBank】 SONiC で 800G AEC ケーブルを検証してみた (Chao Cheng, Chang)</title>
-        <link>https://speakerdeck.com/werty75708/softbank-sonic-de-800g-aec-keburuwojian-zheng-sitemita</link>
-        <dc:date>2025-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スイッチのBMC、つかってますか？ (SONiC Users Group Japan)</title>
-        <link>https://speakerdeck.com/sonic/suitutinobmc-tukatutemasuka</link>
-        <dc:date>2025-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PythonツールであるpygnmiをSONiCのgNMIに対して使ってみた (SONiC Users Group Japan)</title>
-        <link>https://speakerdeck.com/sonic/pythonturudearupygnmiwosonicnognminidui-siteshi-tutemita</link>
         <dc:date>2025-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
