@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>やさしいClaude Skills入門 (Syoitu Den,@HedgehogPython)</title>
+        <link>https://www.docswell.com/s/harinezumi/5M683X-2025-10-21-003933</link>
+        <dc:date>2025-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンド開発のためのブラウザ組み込みAI入門 (Masashi Hirano)</title>
         <link>https://speakerdeck.com/masashi/browser-built-in-ai-for-frontend</link>
         <dc:date>2025-10-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成 AI 時代に職業はどのように変わり、どう対処すべきか ? (Takahiro Kubo)</title>
         <link>https://speakerdeck.com/icoxfog417/career-design-in-generative-ai-era</link>
-        <dc:date>2025-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SONiC Workshop Japan 2025 - Survey Result (SONiC Users Group Japan)</title>
-        <link>https://speakerdeck.com/sonic/sonic-workshop-japan-2025-survey-result</link>
         <dc:date>2025-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
