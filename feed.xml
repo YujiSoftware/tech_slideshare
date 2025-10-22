@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>みんなのAWS CDK事情大公開スペシャル#3_登壇スライド_0916 (Shoji Masuda)</title>
+        <link>https://speakerdeck.com/shj1619/minnanoaws-cdkshi-qing-da-gong-kai-supesiyaru-number-3-deng-tan-suraido-0916</link>
+        <dc:date>2025-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>0から作らない、CDKのはじめかた (穴田竜大)</title>
+        <link>https://speakerdeck.com/ryudai/0karazuo-ranai-cdknohazimekata</link>
+        <dc:date>2025-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS CDKでリソースを作成する際の 判断フロー (Shoma Kobayashi)</title>
+        <link>https://speakerdeck.com/shomakobayashi/aws-cdkderisosuwozuo-cheng-suruji-no-pan-duan-huro</link>
+        <dc:date>2025-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事業開発におけるDify活用事例 (KentaroFujii)</title>
         <link>https://speakerdeck.com/kentarofujii/shi-ye-kai-fa-niokerudifyhuo-yong-shi-li-a1d53ff9-bedc-485a-b594-12de6b7f7496</link>
         <dc:date>2025-10-21T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>プラグイン開発で学習するUnrealEngine C++（実践編） (荻野雄季,@YuukiOgino)</title>
         <link>https://www.docswell.com/s/YuukiOgino/574MN1-cppmix16-UE5Plugin</link>
         <dc:date>2025-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Introduce Hono CLI (Yusuke Wada)</title>
-        <link>https://speakerdeck.com/yusukebe/introduce-hono-cli</link>
-        <dc:date>2025-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Code Subagents 再入門 ~cc-sddの実装で学んだこと~ (Gota)</title>
-        <link>https://speakerdeck.com/gotalab555/claude-code-subagents-zai-ru-men-cc-sddnoshi-zhuang-dexue-ndakoto</link>
-        <dc:date>2025-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソースを読むプロセスの例 (Satoru Takeuchi)</title>
-        <link>https://speakerdeck.com/sat/sosuwodu-mupurosesunoli</link>
-        <dc:date>2025-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
