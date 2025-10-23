@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[20250614] 進化型コーディングエージェント AlphaEvolve (Build with AI 2025 EZO)</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSvzDxWe1HQZwJL5uJAOUunPHftjq-vhfaj0azlYBuwiSg8tyV0JPAqP1zyFW7JLrGKNhz5DRh0mxEK/pub</link>
+        <dc:date>2025-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>土壇場でEdge-to-Edge対応する方法</title>
+        <link>https://docs.google.com/presentation/d/1c5WneVUbgrYPkTAlTbhg-4VhF2ZKsi6MEAGvqe3bEug/preview</link>
+        <dc:date>2025-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>uvを使ったPython環境構築-人工知能応用特論Ⅰ (Koki Yamada,@KokiYamada6)</title>
         <link>https://www.docswell.com/s/2625216247/Z2Q3YV-2025-10-22-170737</link>
         <dc:date>2025-10-22T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>RDS の負荷が高い場合に AWS で取りうる具体策 N 連発/a-series-of-specific-countermeasures-available-on-aws-when-rds-is-under-high-load (emi)</title>
         <link>https://speakerdeck.com/emiki/a-series-of-specific-countermeasures-available-on-aws-when-rds-is-under-high-load</link>
         <dc:date>2025-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践Claude Code：20の失敗から学ぶAIペアプログラミング (武田隆志)</title>
-        <link>https://speakerdeck.com/takedatakashi/shi-jian-claude-code-20noshi-bai-karaxue-buaipeapuroguramingu</link>
-        <dc:date>2025-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Snowflake Openflow さわってみた (Yuki Ishikawa)</title>
-        <link>https://speakerdeck.com/hoto17296/snowflake-openflow-sawatutemita</link>
-        <dc:date>2025-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
