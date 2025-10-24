@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>webpack依存からの脱却！快適フロントエンド開発をViteで実現する #vuefes (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20251025-cloudsign-vuefesjapan2025</link>
+        <dc:date>2025-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>もう外には出ない。より快適なフルリモート環境を目指して (もっち)</title>
         <link>https://speakerdeck.com/mottyzzz/mouwai-nihachu-nai-yorikuai-shi-nahururimotohuan-jing-womu-zhi-site</link>
         <dc:date>2025-10-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データ分析のためのClaude Code ~marimoを使おう~ (Gota)</title>
         <link>https://speakerdeck.com/gotalab555/detafen-xi-notamenoclaude-code-marimowoshi-ou</link>
-        <dc:date>2025-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Zephyr(RTOS)にEdge AIを組み込んでみた話 (misoji engineer)</title>
-        <link>https://speakerdeck.com/iotengineer22/zephyr-rtos-niedge-aiwozu-miip-ndemitahua</link>
         <dc:date>2025-10-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
