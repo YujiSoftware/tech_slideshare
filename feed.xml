@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>もう外には出ない。より快適なフルリモート環境を目指して (もっち)</title>
+        <link>https://speakerdeck.com/mottyzzz/mouwai-nihachu-nai-yorikuai-shi-nahururimotohuan-jing-womu-zhi-site</link>
+        <dc:date>2025-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モテるデスク環境 (mozumasu)</title>
+        <link>https://speakerdeck.com/mozumasu/moterudesukuhuan-jing</link>
+        <dc:date>2025-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コンパウンド組織のCRE #cre_meetup (LayerX)</title>
         <link>https://speakerdeck.com/layerx/cre-in-compound-organization</link>
         <dc:date>2025-10-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Zephyr(RTOS)にEdge AIを組み込んでみた話 (misoji engineer)</title>
         <link>https://speakerdeck.com/iotengineer22/zephyr-rtos-niedge-aiwozu-miip-ndemitahua</link>
-        <dc:date>2025-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OSSJ CFP提出反省会 (soburi)</title>
-        <link>https://speakerdeck.com/tokitahiroshi/ossj-cfpti-chu-fan-sheng-hui</link>
-        <dc:date>2025-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ZephyrでWASMを動かして起きる色々なこと (soburi)</title>
-        <link>https://speakerdeck.com/tokitahiroshi/zephyrdewasmwodong-kasiteqi-kiruse-nakoto</link>
         <dc:date>2025-10-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
