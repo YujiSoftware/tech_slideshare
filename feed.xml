@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Gemini と NotebookLM を組み合わせて  目標設定の負荷を軽減する方法 / Goal setting with gemini and notebooklm (tbpgr)</title>
+        <link>https://speakerdeck.com/tbpgr/goal-setting-with-gemini-and-notebooklm</link>
+        <dc:date>2025-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Git・GitHubの実践 - 人工知能応用特論Ⅰ 第2回 (Koki Yamada,@KokiYamada6)</title>
         <link>https://www.docswell.com/s/2625216247/KJQVWN-tuat_ais_mlds2</link>
         <dc:date>2025-10-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>フロントエンド開発のためのブラウザ組み込みAI入門 (Masashi Hirano)</title>
         <link>https://speakerdeck.com/masashi/browser-built-in-ai-for-frontend</link>
         <dc:date>2025-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React19.2のuseEffectEventを追う (マグロ隊長kinTV)</title>
-        <link>https://speakerdeck.com/maguroalternative/react19-dot-2nouseeffecteventwozhui-u</link>
-        <dc:date>2025-10-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
