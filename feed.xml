@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VueとAIは相性悪い？そんなの都市伝説です / vuefes2025-link-and-motivation (リンクアンドモチベーション)</title>
+        <link>https://speakerdeck.com/lmi/vuefes2025-link-and-motivation</link>
+        <dc:date>2025-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>個人でデジタル庁の デザインシステムをVue.jsで 作っている話 (にしはら)</title>
+        <link>https://speakerdeck.com/nishiharatsubasa/ge-ren-dedezitaruting-no-dezainsisutemuwovue-dot-jsde-zuo-tuteiruhua</link>
+        <dc:date>2025-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>知覚とデザイン (Rinchoku)</title>
+        <link>https://speakerdeck.com/rinchoku/zhi-jue-todezain</link>
+        <dc:date>2025-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React Nativeならぬ"Vue Native"が実現するかも？_新世代マルチプラットフォーム開発フレームワークのLynxとLynxのVue.js対応を追ってみよう_Vue Lynx (Yuto Nagai(Future))</title>
+        <link>https://speakerdeck.com/yut0naga1_fa/react-nativenaranu-vue-native-gashi-xian-surukamo-xin-shi-dai-marutipuratutohuomukai-fa-huremuwakunolynxtolynxnovue-dot-jsdui-ying-wozhui-tutemiyou-vue-lynx</link>
+        <dc:date>2025-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title> AI駆動で進める依存ライブラリ更新 ─ Vue プロジェクトの品質向上と開発スピード改善の実践録 (sayn0)</title>
+        <link>https://speakerdeck.com/sayn0/aiqu-dong-dejin-meruyi-cun-raiburarigeng-xin-vue-puroziekutonopin-zhi-xiang-shang-tokai-fa-supidogai-shan-noshi-jian-lu</link>
+        <dc:date>2025-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Nuxt 4 の Singleton Data Fetching Layer で 何が変わるのか (Naoki Haba)</title>
+        <link>https://speakerdeck.com/naokihaba/nuxt-4-no-singleton-data-fetching-layer-de-he-gabian-warunoka</link>
+        <dc:date>2025-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アウトプットから始めるOSSコントリビューション 〜eslint-plugin-vueの場合〜 #vuefes (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20251025-cloudsign-vuefesjapan2025-lt</link>
         <dc:date>2025-10-24T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>だいたい分かった気になる 『SREの知識地図』 / introduction-to-sre-knowledge-map-book (katsuhisa_)</title>
         <link>https://speakerdeck.com/katsuhisa91/introduction-to-sre-knowledge-map-book</link>
         <dc:date>2025-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[20250614] 進化型コーディングエージェント AlphaEvolve (Build with AI 2025 EZO)</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSvzDxWe1HQZwJL5uJAOUunPHftjq-vhfaj0azlYBuwiSg8tyV0JPAqP1zyFW7JLrGKNhz5DRh0mxEK/pub</link>
-        <dc:date>2025-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>土壇場でEdge-to-Edge対応する方法</title>
-        <link>https://docs.google.com/presentation/d/1c5WneVUbgrYPkTAlTbhg-4VhF2ZKsi6MEAGvqe3bEug/preview</link>
-        <dc:date>2025-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>uvを使ったPython環境構築-人工知能応用特論Ⅰ (Koki Yamada,@KokiYamada6)</title>
-        <link>https://www.docswell.com/s/2625216247/Z2Q3YV-2025-10-22-170737</link>
-        <dc:date>2025-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>みんなのAWS CDK事情大公開スペシャル#3_登壇スライド_0916 (Shoji Masuda)</title>
-        <link>https://speakerdeck.com/shj1619/minnanoaws-cdkshi-qing-da-gong-kai-supesiyaru-number-3-deng-tan-suraido-0916</link>
-        <dc:date>2025-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>0から作らない、CDKのはじめかた (穴田竜大)</title>
-        <link>https://speakerdeck.com/ryudai/0karazuo-ranai-cdknohazimekata</link>
-        <dc:date>2025-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CDKでリソースを作成する際の 判断フロー (Shoma Kobayashi)</title>
-        <link>https://speakerdeck.com/shomakobayashi/aws-cdkderisosuwozuo-cheng-suruji-no-pan-duan-huro</link>
-        <dc:date>2025-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
