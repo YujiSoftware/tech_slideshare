@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vueのバリデーション、結局どれを選べばいい？ ― 自作バリデーションの限界と、脱却までの道のり ― / Which Vue Validation Library Should We Really Use? The Limits of Self-Made Validation and How I Finally Moved On (ねぎなす)</title>
+        <link>https://speakerdeck.com/neginasu/which-vue-validation-library-should-we-really-use-the-limits-of-self-made-validation-and-how-i-finally-moved-on</link>
+        <dc:date>2025-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>alien-signals と自作 OSS で実現する フレームワーク非依存な ロジック共通化の探求 / Exploring Framework-Agnostic Logic Sharing with alien-signals and Custom OSS (aose)</title>
+        <link>https://speakerdeck.com/aoseyuu/exploring-framework-agnostic-logic-sharing-with-alien-signals-and-custom-oss</link>
+        <dc:date>2025-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VueとAIは相性悪い？そんなの都市伝説です / vuefes2025-link-and-motivation (リンクアンドモチベーション)</title>
         <link>https://speakerdeck.com/lmi/vuefes2025-link-and-motivation</link>
         <dc:date>2025-10-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>コンパウンド組織のCRE #cre_meetup (LayerX)</title>
         <link>https://speakerdeck.com/layerx/cre-in-compound-organization</link>
-        <dc:date>2025-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TransformerからMCPまで（現代AIを理解するための羅針盤） (MIKIO KUBO)</title>
-        <link>https://speakerdeck.com/mickey_kubo/transformerkaramcpmade-xian-dai-aiwoli-jie-surutamenoluo-zhen-pan</link>
-        <dc:date>2025-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>だいたい分かった気になる 『SREの知識地図』 / introduction-to-sre-knowledge-map-book (katsuhisa_)</title>
-        <link>https://speakerdeck.com/katsuhisa91/introduction-to-sre-knowledge-map-book</link>
         <dc:date>2025-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
