@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なんでRustの環境構築してないのにRust製のツールが動くの？ / Why Do Rust-Based Tools Run Without a Rust Environment? (TOMIKAWA Sotaro)</title>
+        <link>https://speakerdeck.com/ssssota/why-do-rust-based-tools-run-without-a-rust-environment</link>
+        <dc:date>2025-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発組織の戦略的な役割と 設計スキル向上の効果 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/kai-fa-zu-zhi-nozhan-lue-de-nayi-ge-to-she-ji-sukiruxiang-shang-noxiao-guo</link>
         <dc:date>2025-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>事業開発におけるDify活用事例 (KentaroFujii)</title>
         <link>https://speakerdeck.com/kentarofujii/shi-ye-kai-fa-niokerudifyhuo-yong-shi-li-a1d53ff9-bedc-485a-b594-12de6b7f7496</link>
-        <dc:date>2025-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>251021登壇資料_Biz_Dify_Meetup_ノンエンジニアでもここまでできるDify実践_展開版_.pdf (しんちゃん)</title>
-        <link>https://speakerdeck.com/shim_surprise/251021deng-tan-zi-liao-biz-dify-meetup-nonensiniatemokokomatetekirudifyshi-jian-zhan-kai-ban</link>
         <dc:date>2025-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
