@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アウトプットから始めるOSSコントリビューション 〜eslint-plugin-vueの場合〜 #vuefes (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20251025-cloudsign-vuefesjapan2025-lt</link>
+        <dc:date>2025-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なんでRustの環境構築してないのにRust製のツールが動くの？ / Why Do Rust-Based Tools Run Without a Rust Environment? (TOMIKAWA Sotaro)</title>
         <link>https://speakerdeck.com/ssssota/why-do-rust-based-tools-run-without-a-rust-environment</link>
         <dc:date>2025-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS CDKでリソースを作成する際の 判断フロー (Shoma Kobayashi)</title>
         <link>https://speakerdeck.com/shomakobayashi/aws-cdkderisosuwozuo-cheng-suruji-no-pan-duan-huro</link>
-        <dc:date>2025-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業開発におけるDify活用事例 (KentaroFujii)</title>
-        <link>https://speakerdeck.com/kentarofujii/shi-ye-kai-fa-niokerudifyhuo-yong-shi-li-a1d53ff9-bedc-485a-b594-12de6b7f7496</link>
         <dc:date>2025-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
