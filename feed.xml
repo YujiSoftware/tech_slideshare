@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenAI RealTime API WebRTCモード  - シグナリングとDataChannelの使い道 - (mganeko)</title>
+        <link>https://speakerdeck.com/mganeko/openai-realtime-api-webrtc-modo-sigunaringutodatachannelnoshi-idao</link>
+        <dc:date>2025-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>P2P ではじめる WebRTC のつまづきどころ (tnoho)</title>
+        <link>https://speakerdeck.com/tnoho/p2p-dehazimeru-webrtc-notumadukidokoro</link>
+        <dc:date>2025-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>まだ間に合う！ 2025年のhono/ssg事情 (watany)</title>
         <link>https://speakerdeck.com/watany/ssg-in-2025</link>
         <dc:date>2025-10-25T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AI時代、“平均値”ではいられない (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/aishi-dai-ping-jun-zhi-dehairarenai</link>
-        <dc:date>2025-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>webpack依存からの脱却！快適フロントエンド開発をViteで実現する #vuefes (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20251025-cloudsign-vuefesjapan2025</link>
-        <dc:date>2025-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>もう外には出ない。より快適なフルリモート環境を目指して (もっち)</title>
-        <link>https://speakerdeck.com/mottyzzz/mouwai-nihachu-nai-yorikuai-shi-nahururimotohuan-jing-womu-zhi-site</link>
         <dc:date>2025-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
