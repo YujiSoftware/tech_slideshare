@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>kintone Style Book (kintone)</title>
+        <link>https://speakerdeck.com/kintone/kintone-style-book</link>
+        <dc:date>2025-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vueのバリデーション、結局どれを選べばいい？ ― 自作バリデーションの限界と、脱却までの道のり ― / Which Vue Validation Library Should We Really Use? The Limits of Self-Made Validation and How I Finally Moved On (ねぎなす)</title>
         <link>https://speakerdeck.com/neginasu/which-vue-validation-library-should-we-really-use-the-limits-of-self-made-validation-and-how-i-finally-moved-on</link>
         <dc:date>2025-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>モテるデスク環境 (mozumasu)</title>
         <link>https://speakerdeck.com/mozumasu/moterudesukuhuan-jing</link>
-        <dc:date>2025-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンパウンド組織のCRE #cre_meetup (LayerX)</title>
-        <link>https://speakerdeck.com/layerx/cre-in-compound-organization</link>
         <dc:date>2025-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
