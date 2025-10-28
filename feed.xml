@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>macOSランナーにVNCできるまで (DeNA_Tech,@DeNAxTech)</title>
+        <link>https://www.docswell.com/s/DeNA_Tech/K37QVL-macOS_VNC</link>
+        <dc:date>2025-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>迷わないUI設計 (bannzai)</title>
         <link>https://www.docswell.com/s/bannzai/5PG762-2025-10-27-112926</link>
         <dc:date>2025-10-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アウトプットから始めるOSSコントリビューション 〜eslint-plugin-vueの場合〜 #vuefes (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20251025-cloudsign-vuefesjapan2025-lt</link>
-        <dc:date>2025-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なんでRustの環境構築してないのにRust製のツールが動くの？ / Why Do Rust-Based Tools Run Without a Rust Environment? (TOMIKAWA Sotaro)</title>
-        <link>https://speakerdeck.com/ssssota/why-do-rust-based-tools-run-without-a-rust-environment</link>
         <dc:date>2025-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
