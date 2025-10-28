@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自己評価力を武器とする 増補改訂版 (Masayuki Matsuki)</title>
+        <link>https://www.docswell.com/s/Songmu/ZN9347-self-evaluation-skills-v2</link>
+        <dc:date>2025-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>“SRE” から “CRE” を考える (a-know / Daisuke Inoue,@a_know)</title>
         <link>https://www.docswell.com/s/a-know/ZN93YD-from-sre-to-cre</link>
         <dc:date>2025-10-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title> AI駆動で進める依存ライブラリ更新 ─ Vue プロジェクトの品質向上と開発スピード改善の実践録 (sayn0)</title>
         <link>https://speakerdeck.com/sayn0/aiqu-dong-dejin-meruyi-cun-raiburarigeng-xin-vue-puroziekutonopin-zhi-xiang-shang-tokai-fa-supidogai-shan-noshi-jian-lu</link>
-        <dc:date>2025-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Nuxt 4 の Singleton Data Fetching Layer で 何が変わるのか (Naoki Haba)</title>
-        <link>https://speakerdeck.com/naokihaba/nuxt-4-no-singleton-data-fetching-layer-de-he-gabian-warunoka</link>
         <dc:date>2025-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
