@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>“SRE” から “CRE” を考える (a-know / Daisuke Inoue,@a_know)</title>
+        <link>https://www.docswell.com/s/a-know/ZN93YD-from-sre-to-cre</link>
+        <dc:date>2025-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>macOSランナーにVNCできるまで (DeNA_Tech,@DeNAxTech)</title>
         <link>https://www.docswell.com/s/DeNA_Tech/K37QVL-macOS_VNC</link>
         <dc:date>2025-10-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Nuxt 4 の Singleton Data Fetching Layer で 何が変わるのか (Naoki Haba)</title>
         <link>https://speakerdeck.com/naokihaba/nuxt-4-no-singleton-data-fetching-layer-de-he-gabian-warunoka</link>
-        <dc:date>2025-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アウトプットから始めるOSSコントリビューション 〜eslint-plugin-vueの場合〜 #vuefes (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20251025-cloudsign-vuefesjapan2025-lt</link>
         <dc:date>2025-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
