@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>入門プロセスインジェクション (Asuka Nakajima)</title>
+        <link>https://speakerdeck.com/asuna_jp/ru-men-purosesuinziekusiyon</link>
+        <dc:date>2025-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIスパコン「さくらONE」の オブザーバビリティ / Observability for AI Supercomputer SAKURAONE (Yuuki Tsubouchi (yuuk1))</title>
         <link>https://speakerdeck.com/yuukit/observability-for-ai-supercomputer-sakuraone</link>
         <dc:date>2025-10-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>個人でデジタル庁の デザインシステムをVue.jsで 作っている話 (にしはら)</title>
         <link>https://speakerdeck.com/nishiharatsubasa/ge-ren-dedezitaruting-no-dezainsisutemuwovue-dot-jsde-zuo-tuteiruhua</link>
-        <dc:date>2025-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>知覚とデザイン (Rinchoku)</title>
-        <link>https://speakerdeck.com/rinchoku/zhi-jue-todezain</link>
         <dc:date>2025-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
