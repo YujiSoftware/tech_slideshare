@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>dbtとAIエージェントを組み合わせて見えたデータ調査の新しい形 (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/dbttoaiezientowozu-mihe-wasetejian-etadetadiao-cha-noxin-siixing</link>
+        <dc:date>2025-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>可観測性は開発環境から、開発環境にもオブザーバビリティ導入のススメ (LayerX)</title>
+        <link>https://speakerdeck.com/layerx/dev-environment-observability-guide</link>
+        <dc:date>2025-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>入門プロセスインジェクション (Asuka Nakajima)</title>
         <link>https://speakerdeck.com/asuna_jp/ru-men-purosesuinziekusiyon</link>
         <dc:date>2025-10-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>alien-signals と自作 OSS で実現する フレームワーク非依存な ロジック共通化の探求 / Exploring Framework-Agnostic Logic Sharing with alien-signals and Custom OSS (aose)</title>
         <link>https://speakerdeck.com/aoseyuu/exploring-framework-agnostic-logic-sharing-with-alien-signals-and-custom-oss</link>
-        <dc:date>2025-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VueとAIは相性悪い？そんなの都市伝説です / vuefes2025-link-and-motivation (リンクアンドモチベーション)</title>
-        <link>https://speakerdeck.com/lmi/vuefes2025-link-and-motivation</link>
-        <dc:date>2025-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人でデジタル庁の デザインシステムをVue.jsで 作っている話 (にしはら)</title>
-        <link>https://speakerdeck.com/nishiharatsubasa/ge-ren-dedezitaruting-no-dezainsisutemuwovue-dot-jsde-zuo-tuteiruhua</link>
         <dc:date>2025-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
