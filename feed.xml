@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIスパコン「さくらONE」の オブザーバビリティ / Observability for AI Supercomputer SAKURAONE (Yuuki Tsubouchi (yuuk1))</title>
+        <link>https://speakerdeck.com/yuukit/observability-for-ai-supercomputer-sakuraone</link>
+        <dc:date>2025-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>macos-github-actions-runner (Tomoya Kawaguchi)</title>
         <link>https://speakerdeck.com/yamoyamoto/macos-github-actions-runner</link>
         <dc:date>2025-10-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>知覚とデザイン (Rinchoku)</title>
         <link>https://speakerdeck.com/rinchoku/zhi-jue-todezain</link>
-        <dc:date>2025-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Nativeならぬ"Vue Native"が実現するかも？_新世代マルチプラットフォーム開発フレームワークのLynxとLynxのVue.js対応を追ってみよう_Vue Lynx (Yuto Nagai(Future))</title>
-        <link>https://speakerdeck.com/yut0naga1_fa/react-nativenaranu-vue-native-gashi-xian-surukamo-xin-shi-dai-marutipuratutohuomukai-fa-huremuwakunolynxtolynxnovue-dot-jsdui-ying-wozhui-tutemiyou-vue-lynx</link>
         <dc:date>2025-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
