@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Beyond Scrum AIの力で開発プロセスを変革し続けるチーム (yuukiyo)</title>
+        <link>https://speakerdeck.com/yuukiyo/beyond-scrum-ai-driven-team-transformation</link>
+        <dc:date>2025-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>仕様駆動開発を実現する上流工程におけるAIエージェント活用 (sergicalsix)</title>
         <link>https://speakerdeck.com/sergicalsix/shi-yang-qu-dong-kai-fa-woshi-xian-surushang-liu-gong-cheng-niokeruaiesientohuo-yong</link>
         <dc:date>2025-10-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Ktor + Google Cloud Tasks/PubSub におけるOTel Messaging計装の実践 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20250722</link>
-        <dc:date>2025-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Observability for the system understanding and curious by developers (maru)</title>
-        <link>https://speakerdeck.com/maruloop/observability-for-the-system-understanding-and-curious-by-developers</link>
         <dc:date>2025-10-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
