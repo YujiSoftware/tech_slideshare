@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>反省から紐解くオブザーバビリティとして本当に必要だったテレメトリ (Mitsuaki Tsugo)</title>
+        <link>https://speakerdeck.com/mitsuaki96/fan-sheng-karaniu-jie-kuohusahahiriteitositeben-dang-nibi-yao-tatutateremetori</link>
+        <dc:date>2025-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Temporal Knowledge Graphで作る！ 時間変化するナレッジを扱うAI Agentの世界 (po3rin)</title>
+        <link>https://speakerdeck.com/po3rin/temporal-knowledge-graphdezuo-ru-shi-jian-bian-hua-surunaretuziwoxi-uai-agentnoshi-jie</link>
+        <dc:date>2025-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>組織全員で向き合うAI Readyなデータ利活用 (harry)</title>
         <link>https://speakerdeck.com/gappy50/zu-zhi-quan-yuan-dexiang-kihe-uai-readynadetali-huo-yong</link>
         <dc:date>2025-10-30T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>macos-github-actions-runner (Tomoya Kawaguchi)</title>
         <link>https://speakerdeck.com/yamoyamoto/macos-github-actions-runner</link>
         <dc:date>2025-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自己評価力を武器とする 増補改訂版 (Masayuki Matsuki)</title>
-        <link>https://www.docswell.com/s/Songmu/ZN9347-self-evaluation-skills-v2</link>
-        <dc:date>2025-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>“SRE” から “CRE” を考える (a-know / Daisuke Inoue,@a_know)</title>
-        <link>https://www.docswell.com/s/a-know/ZN93YD-from-sre-to-cre</link>
-        <dc:date>2025-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
