@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>分析系依頼裁きマシンからの脱却 〜その工数減らします〜 (けんじゅ)</title>
+        <link>https://speakerdeck.com/kenzie_11/fen-xi-xi-yi-lai-cai-kimasinkaranotuo-que-sonogong-shu-jian-rasimasu</link>
+        <dc:date>2025-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>型作り&amp;出口戦略による成果創出〜分析組織立ち上げ半年間の取り組み〜_データ現場のリアルな知恵と工夫@20250529 (fuki)</title>
+        <link>https://speakerdeck.com/fuki9216/xing-zuo-ri-and-chu-kou-zhan-lue-niyorucheng-guo-chuang-chu-fen-xi-zu-zhi-li-tishang-geban-nian-jian-noqu-rizu-mi</link>
+        <dc:date>2025-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>マーケティングコンサルに所属するデータアナリストのリアル (fuki)</title>
+        <link>https://speakerdeck.com/fuki9216/maketeingukonsarunisuo-shu-surudetaanarisutonoriaru</link>
+        <dc:date>2025-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Beyond Scrum AIの力で開発プロセスを変革し続けるチーム (yuukiyo)</title>
         <link>https://speakerdeck.com/yuukiyo/beyond-scrum-ai-driven-team-transformation</link>
         <dc:date>2025-10-30T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>迷わないUI設計 (bannzai)</title>
         <link>https://www.docswell.com/s/bannzai/5PG762-2025-10-27-112926</link>
         <dc:date>2025-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントによる業務効率化への飽くなき挑戦 -AWS上の実開発事例から学んだ効果、現実そしてギャップ- (Kiminori Yokoi)</title>
-        <link>https://speakerdeck.com/nasuvitz/aiezientoniyoruye-wu-xiao-lu-hua-henobao-kunakitiao-zhan-awsshang-noshi-kai-fa-shi-li-karaxue-ndaxiao-guo-xian-shi-sositegiyatupu</link>
-        <dc:date>2025-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20251027_findyさん_音声エージェントLT (Almondoイベント担当)</title>
-        <link>https://speakerdeck.com/almondo_event/20251027-findysan-multi-agent</link>
-        <dc:date>2025-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ktor + Google Cloud Tasks/PubSub におけるOTel Messaging計装の実践 (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/20250722</link>
-        <dc:date>2025-10-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
