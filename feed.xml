@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CLIPでマルチモーダル画像検索 →とても良い (Motoi Washida)</title>
+        <link>https://speakerdeck.com/wm3/clipdemarutimodaruhua-xiang-jian-suo-totemoliang-i</link>
+        <dc:date>2025-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>反省から紐解くオブザーバビリティとして本当に必要だったテレメトリ (Mitsuaki Tsugo)</title>
         <link>https://speakerdeck.com/mitsuaki96/fan-sheng-karaniu-jie-kuohusahahiriteitositeben-dang-nibi-yao-tatutateremetori</link>
         <dc:date>2025-10-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIスパコン「さくらONE」の オブザーバビリティ / Observability for AI Supercomputer SAKURAONE (Yuuki Tsubouchi (yuuk1))</title>
         <link>https://speakerdeck.com/yuukit/observability-for-ai-supercomputer-sakuraone</link>
-        <dc:date>2025-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>macos-github-actions-runner (Tomoya Kawaguchi)</title>
-        <link>https://speakerdeck.com/yamoyamoto/macos-github-actions-runner</link>
         <dc:date>2025-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
