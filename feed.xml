@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織全員で向き合うAI Readyなデータ利活用 (harry)</title>
+        <link>https://speakerdeck.com/gappy50/zu-zhi-quan-yuan-dexiang-kihe-uai-readynadetali-huo-yong</link>
+        <dc:date>2025-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OpenProvence - クエリに関連しない文章削除モデル日本語版の作成と公開 (Yuichi Tateno)</title>
         <link>https://speakerdeck.com/hotchpotch/openprovence-kueriniguan-lian-sinaiwen-zhang-xue-chu-moderuri-ben-yu-ban-nozuo-cheng-togong-kai</link>
         <dc:date>2025-10-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>“SRE” から “CRE” を考える (a-know / Daisuke Inoue,@a_know)</title>
         <link>https://www.docswell.com/s/a-know/ZN93YD-from-sre-to-cre</link>
-        <dc:date>2025-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>macOSランナーにVNCできるまで (DeNA_Tech,@DeNAxTech)</title>
-        <link>https://www.docswell.com/s/DeNA_Tech/K37QVL-macOS_VNC</link>
         <dc:date>2025-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
