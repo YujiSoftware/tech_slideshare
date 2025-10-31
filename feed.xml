@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SRE は管理職に向いている (Ryo Yoshii)</title>
+        <link>https://speakerdeck.com/yoshiiryo1/sre-haguan-li-zhi-nixiang-iteiru</link>
+        <dc:date>2025-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>戦えるAIエージェントの作り方 (Takuya Akiba)</title>
         <link>https://speakerdeck.com/iwiwi/zhan-eruaiezientonozuo-rifang</link>
         <dc:date>2025-10-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>可観測性は開発環境から、開発環境にもオブザーバビリティ導入のススメ (LayerX)</title>
         <link>https://speakerdeck.com/layerx/dev-environment-observability-guide</link>
-        <dc:date>2025-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入門プロセスインジェクション (Asuka Nakajima)</title>
-        <link>https://speakerdeck.com/asuna_jp/ru-men-purosesuinziekusiyon</link>
         <dc:date>2025-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
