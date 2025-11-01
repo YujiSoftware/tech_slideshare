@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Local Env as a Code with Nix (Shunsuke Tsuchiya)</title>
+        <link>https://speakerdeck.com/shunsock/local-env-as-a-code-with-nix</link>
+        <dc:date>2025-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LIFF CLIとngrokを使ったLIFF/LINEミニアプリのお手軽実機確認 (morimorikochan)</title>
         <link>https://speakerdeck.com/diggymo/lineminiapurinooshou-qing-shi-ji-que-ren</link>
         <dc:date>2025-10-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>設計原則と普遍的な判断軸 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
         <link>https://www.docswell.com/s/tyonekubo/ZQXJG3-design-principles</link>
-        <dc:date>2025-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbtとAIエージェントを組み合わせて見えたデータ調査の新しい形 (10xinc)</title>
-        <link>https://speakerdeck.com/10xinc/dbttoaiezientowozu-mihe-wasetejian-etadetadiao-cha-noxin-siixing</link>
         <dc:date>2025-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
