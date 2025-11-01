@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LIFF CLIとngrokを使ったLIFF/LINEミニアプリのお手軽実機確認 (morimorikochan)</title>
+        <link>https://speakerdeck.com/diggymo/lineminiapurinooshou-qing-shi-ji-que-ren</link>
+        <dc:date>2025-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SRE は管理職に向いている (Ryo Yoshii)</title>
         <link>https://speakerdeck.com/yoshiiryo1/sre-haguan-li-zhi-nixiang-iteiru</link>
         <dc:date>2025-10-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>dbtとAIエージェントを組み合わせて見えたデータ調査の新しい形 (10xinc)</title>
         <link>https://speakerdeck.com/10xinc/dbttoaiezientowozu-mihe-wasetejian-etadetadiao-cha-noxin-siixing</link>
-        <dc:date>2025-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>可観測性は開発環境から、開発環境にもオブザーバビリティ導入のススメ (LayerX)</title>
-        <link>https://speakerdeck.com/layerx/dev-environment-observability-guide</link>
         <dc:date>2025-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
