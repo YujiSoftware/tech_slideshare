@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIがコードを書いてくれるなら、新米エンジニアは何をする？ / komekaigi2025 (Yukiya Nakagawa)</title>
+        <link>https://speakerdeck.com/nkzn/komekaigi2025</link>
+        <dc:date>2025-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Local Env as a Code with Nix (Shunsuke Tsuchiya)</title>
         <link>https://speakerdeck.com/shunsock/local-env-as-a-code-with-nix</link>
         <dc:date>2025-10-31T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>オブザーバビリティと育てた ID管理・認証認可基盤の歩み / The Journey of an ID Management, Authentication, and Authorization Platform Nurtured with Observability (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/the-journey-of-an-id-management-authentication-and-authorization-platform-nurtured-with-observability</link>
         <dc:date>2025-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>設計原則と普遍的な判断軸 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
-        <link>https://www.docswell.com/s/tyonekubo/ZQXJG3-design-principles</link>
-        <dc:date>2025-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
