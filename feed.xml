@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マンガビューワ「GigaViewer」をGoでリプレイスしようとしている話 (momochi)</title>
+        <link>https://www.docswell.com/s/momochi29/5X6717-2025-10-31-hatena-go</link>
+        <dc:date>2025-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIがコードを書いてくれるなら、新米エンジニアは何をする？ / komekaigi2025 (Yukiya Nakagawa)</title>
         <link>https://speakerdeck.com/nkzn/komekaigi2025</link>
         <dc:date>2025-10-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIの個性を理解し、指揮する (shoota)</title>
         <link>https://speakerdeck.com/shoota/ai-characteristic</link>
-        <dc:date>2025-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オブザーバビリティと育てた ID管理・認証認可基盤の歩み / The Journey of an ID Management, Authentication, and Authorization Platform Nurtured with Observability (株式会社カミナシ)</title>
-        <link>https://speakerdeck.com/kaminashi/the-journey-of-an-id-management-authentication-and-authorization-platform-nurtured-with-observability</link>
         <dc:date>2025-10-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
