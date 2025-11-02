@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>設計に疎いエンジニアでも始めやすいアーキテクチャドキュメント (Tomonori Hayashi)</title>
+        <link>https://speakerdeck.com/phaya72/she-ji-nishu-ienziniademoshi-meyasuiakitekutiyadokiyumento</link>
+        <dc:date>2025-11-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マンガビューワ「GigaViewer」をGoでリプレイスしようとしている話 (momochi)</title>
         <link>https://www.docswell.com/s/momochi29/5X6717-2025-10-31-hatena-go</link>
         <dc:date>2025-11-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ドメイン駆動設計のエッセンス (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/domeinqu-dong-she-ji-noetusensu</link>
-        <dc:date>2025-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIの個性を理解し、指揮する (shoota)</title>
-        <link>https://speakerdeck.com/shoota/ai-characteristic</link>
         <dc:date>2025-10-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
