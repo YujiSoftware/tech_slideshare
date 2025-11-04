@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代のコードレビューでの品質保証 (nakampany)</title>
+        <link>https://speakerdeck.com/nakampany/aishi-dai-nokodorebiyudenopin-zhi-bao-zheng</link>
+        <dc:date>2025-11-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Copilotを使いこなせ！/mastering_github_copilot! (Kota Kageyama)</title>
+        <link>https://speakerdeck.com/kotakageyama/mastering-github-copilot</link>
+        <dc:date>2025-11-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テストコードからPRの質をあげる / megurolt-32-link-and-motiation (リンクアンドモチベーション)</title>
+        <link>https://speakerdeck.com/lmi/megurolt-32-link-and-motiation</link>
+        <dc:date>2025-11-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Gemini Code Assist を使用して GitHub コードをレビューしてみた (TanmayB)</title>
+        <link>https://speakerdeck.com/happygoluckycodeeditor/gemini-code-assist-woshi-yong-site-github-kodoworebiyusitemita</link>
+        <dc:date>2025-11-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Codeを使ったAIレビューがチームに定着した話 (Akinori Matsumoto)</title>
+        <link>https://speakerdeck.com/akinoringo/claude-codewoshi-tutaairebiyugatimuniding-zhao-sitahua</link>
+        <dc:date>2025-11-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>次世代のメールプロトコルの斜め読み (HIRANO Yoshitaka)</title>
         <link>https://speakerdeck.com/hirachan/ci-shi-dai-nomerupurotokorunoxie-medu-mi</link>
         <dc:date>2025-11-03T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>戦えるAIエージェントの作り方 (Takuya Akiba)</title>
         <link>https://speakerdeck.com/iwiwi/zhan-eruaiezientonozuo-rifang</link>
-        <dc:date>2025-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CLIPでマルチモーダル画像検索 →とても良い (Motoi Washida)</title>
-        <link>https://speakerdeck.com/wm3/clipdemarutimodaruhua-xiang-jian-suo-totemoliang-i</link>
-        <dc:date>2025-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>反省から紐解くオブザーバビリティとして本当に必要だったテレメトリ (Mitsuaki Tsugo)</title>
-        <link>https://speakerdeck.com/mitsuaki96/fan-sheng-karaniu-jie-kuohusahahiriteitositeben-dang-nibi-yao-tatutateremetori</link>
-        <dc:date>2025-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Temporal Knowledge Graphで作る！ 時間変化するナレッジを扱うAI Agentの世界 (po3rin)</title>
-        <link>https://speakerdeck.com/po3rin/temporal-knowledge-graphdezuo-ru-shi-jian-bian-hua-surunaretuziwoxi-uai-agentnoshi-jie</link>
-        <dc:date>2025-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組織全員で向き合うAI Readyなデータ利活用 (harry)</title>
-        <link>https://speakerdeck.com/gappy50/zu-zhi-quan-yuan-dexiang-kihe-uai-readynadetali-huo-yong</link>
-        <dc:date>2025-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenProvence - クエリに関連しない文章削除モデル日本語版の作成と公開 (Yuichi Tateno)</title>
-        <link>https://speakerdeck.com/hotchpotch/openprovence-kueriniguan-lian-sinaiwen-zhang-xue-chu-moderuri-ben-yu-ban-nozuo-cheng-togong-kai</link>
         <dc:date>2025-10-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
