@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>触れるけど壊れないWordPressの作り方 (Masahiko Kawai)</title>
+        <link>https://speakerdeck.com/masakawai/hong-rerukedohuai-renaiwordpressnozuo-rifang</link>
+        <dc:date>2025-11-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Observability — Extending Into Incident Response (Narimichi Takamura)</title>
         <link>https://speakerdeck.com/nari_ex/observability-extending-into-incident-response</link>
         <dc:date>2025-11-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>分析系依頼裁きマシンからの脱却 〜その工数減らします〜 (けんじゅ)</title>
         <link>https://speakerdeck.com/kenzie_11/fen-xi-xi-yi-lai-cai-kimasinkaranotuo-que-sonogong-shu-jian-rasimasu</link>
-        <dc:date>2025-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>型作り&amp;出口戦略による成果創出〜分析組織立ち上げ半年間の取り組み〜_データ現場のリアルな知恵と工夫@20250529 (fuki)</title>
-        <link>https://speakerdeck.com/fuki9216/xing-zuo-ri-and-chu-kou-zhan-lue-niyorucheng-guo-chuang-chu-fen-xi-zu-zhi-li-tishang-geban-nian-jian-noqu-rizu-mi</link>
         <dc:date>2025-10-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
