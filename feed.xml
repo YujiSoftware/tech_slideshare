@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RgGenが出力するRTLのダイエットをした話</title>
+        <link>https://docs.google.com/presentation/d/19CjQdTD4_kvvSGfwqWimoepzQTpq34psJ3sCeYxYxOI/preview</link>
+        <dc:date>2025-11-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代のコードレビューでの品質保証 (nakampany)</title>
         <link>https://speakerdeck.com/nakampany/aishi-dai-nokodorebiyudenopin-zhi-bao-zheng</link>
         <dc:date>2025-11-03T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>SRE は管理職に向いている (Ryo Yoshii)</title>
         <link>https://speakerdeck.com/yoshiiryo1/sre-haguan-li-zhi-nixiang-iteiru</link>
         <dc:date>2025-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>戦えるAIエージェントの作り方 (Takuya Akiba)</title>
-        <link>https://speakerdeck.com/iwiwi/zhan-eruaiezientonozuo-rifang</link>
-        <dc:date>2025-10-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
