@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCP ✖️ Apps SDKを触ってみた (hisuzuya)</title>
+        <link>https://speakerdeck.com/hisuzuya/mcp-apps-sdkwohong-tutemita</link>
+        <dc:date>2025-11-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>多野優介 (多野優介)</title>
+        <link>https://speakerdeck.com/tanoyusuke/duo-ye-you-jie</link>
+        <dc:date>2025-11-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI駆動開発 設計書から実装へ (Taipy(タイピー))</title>
+        <link>https://speakerdeck.com/taipy/aiqu-dong-kai-fa-she-ji-shu-karashi-zhuang-he</link>
+        <dc:date>2025-11-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェント就活入門 - MCPが履歴書になる未来 (Ikko Eltociear Ashimine)</title>
+        <link>https://speakerdeck.com/eltociear/aiezientojiu-huo-ru-men-mcpgalu-li-shu-ninaruwei-lai</link>
+        <dc:date>2025-11-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サブドメインテイクオーバー事例紹介と対策について (mikiT)</title>
         <link>https://speakerdeck.com/mikit/sabudomeinteikuobashi-li-shao-jie-todui-ce-nituite</link>
         <dc:date>2025-11-04T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>設計に疎いエンジニアでも始めやすいアーキテクチャドキュメント (Tomonori Hayashi)</title>
         <link>https://speakerdeck.com/phaya72/she-ji-nishu-ienziniademoshi-meyasuiakitekutiyadokiyumento</link>
         <dc:date>2025-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マンガビューワ「GigaViewer」をGoでリプレイスしようとしている話 (momochi)</title>
-        <link>https://www.docswell.com/s/momochi29/5X6717-2025-10-31-hatena-go</link>
-        <dc:date>2025-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIがコードを書いてくれるなら、新米エンジニアは何をする？ / komekaigi2025 (Yukiya Nakagawa)</title>
-        <link>https://speakerdeck.com/nkzn/komekaigi2025</link>
-        <dc:date>2025-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Local Env as a Code with Nix (Shunsuke Tsuchiya)</title>
-        <link>https://speakerdeck.com/shunsock/local-env-as-a-code-with-nix</link>
-        <dc:date>2025-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LIFF CLIとngrokを使ったLIFF/LINEミニアプリのお手軽実機確認 (morimorikochan)</title>
-        <link>https://speakerdeck.com/diggymo/lineminiapurinooshou-qing-shi-ji-que-ren</link>
-        <dc:date>2025-10-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
