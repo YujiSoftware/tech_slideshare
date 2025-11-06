@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Actionsで多環境の運用管理を簡単にする (Kohei Kojima)</title>
+        <link>https://speakerdeck.com/k_kojima_yumemi/github-actionsdeduo-huan-jing-noyun-yong-guan-li-wojian-dan-nisuru</link>
+        <dc:date>2025-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AI×個人情報保護法 ― 改正動向から読み解く実務の行方 (SEKO_Shuhei)</title>
         <link>https://speakerdeck.com/seko_shuhei/sheng-cheng-aixge-ren-qing-bao-bao-hu-fa-gai-zheng-dong-xiang-karadu-mijie-kushi-wu-noxing-fang</link>
         <dc:date>2025-11-05T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Copilot Code Reviewを試してみた (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
         <link>https://www.docswell.com/s/WN_Tech-PR/KX6VM7-2025-10-30-192723</link>
         <dc:date>2025-11-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft 365 SharePoint 勉強会 No1 (HIRANO Ai | Microsoft MVP 👉 ❤️ SharePoint,@ai_yamasaki)</title>
-        <link>https://www.docswell.com/s/ai_yamasaki/537V8P-2025-11-01-135827</link>
-        <dc:date>2025-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
