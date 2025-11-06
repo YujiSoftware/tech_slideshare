@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>re:Inventに参加後の目標 (sempo)</title>
+        <link>https://speakerdeck.com/sempo/re-inventnican-jia-hou-nomu-biao</link>
+        <dc:date>2025-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[トレノケ雲の会 mod.13] 3回目のre:Inventで気づいたこと -CloudOperationsを添えて- (sh_fk2)</title>
+        <link>https://speakerdeck.com/sh_fk2/torenokeyun-nohui-mod-dot-13-3hui-mu-nore-inventteqi-tuitakoto-cloudoperationswotian-ete</link>
+        <dc:date>2025-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Actionsで多環境の運用管理を簡単にする (Kohei Kojima)</title>
         <link>https://speakerdeck.com/k_kojima_yumemi/github-actionsdeduo-huan-jing-noyun-yong-guan-li-wojian-dan-nisuru</link>
         <dc:date>2025-11-05T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>触れるけど壊れないWordPressの作り方 (Masahiko Kawai)</title>
         <link>https://speakerdeck.com/masakawai/hong-rerukedohuai-renaiwordpressnozuo-rifang</link>
         <dc:date>2025-11-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Observability — Extending Into Incident Response (Narimichi Takamura)</title>
-        <link>https://speakerdeck.com/nari_ex/observability-extending-into-incident-response</link>
-        <dc:date>2025-11-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Copilot Code Reviewを試してみた (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
-        <link>https://www.docswell.com/s/WN_Tech-PR/KX6VM7-2025-10-30-192723</link>
-        <dc:date>2025-11-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
