@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>どうなる Remix 3 (Hisateru Tanaka)</title>
+        <link>https://speakerdeck.com/tanakahisateru/tounaru-remix-3</link>
+        <dc:date>2025-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>メタプログラミングRuby読書会の活用 (Shinichi Maeshima)</title>
         <link>https://speakerdeck.com/willnet/metapuroguramingurubydu-shu-hui-nohuo-yong</link>
         <dc:date>2025-11-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>多野優介 (多野優介)</title>
         <link>https://speakerdeck.com/tanoyusuke/duo-ye-you-jie</link>
-        <dc:date>2025-11-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI駆動開発 設計書から実装へ (Taipy(タイピー))</title>
-        <link>https://speakerdeck.com/taipy/aiqu-dong-kai-fa-she-ji-shu-karashi-zhuang-he</link>
         <dc:date>2025-11-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
