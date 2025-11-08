@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発者が知っておきたい複雑さの正体/where-the-complexity-comes-from (Ryo Tomidokoro)</title>
+        <link>https://speakerdeck.com/hanhan1978/where-the-complexity-comes-from</link>
+        <dc:date>2025-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>初心者歓迎！業務でも使えるAWSネットワークの全体像をつかもう × Amazon Q体験 (ToyoStar)</title>
         <link>https://speakerdeck.com/toyostar/chu-xin-zhe-huan-ying-ye-wu-demoshi-eruawsnetutowakunoquan-ti-xiang-wotukamou-x-amazon-qti-yan</link>
         <dc:date>2025-11-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[トレノケ雲の会 mod.13] 3回目のre:Inventで気づいたこと -CloudOperationsを添えて- (sh_fk2)</title>
         <link>https://speakerdeck.com/sh_fk2/torenokeyun-nohui-mod-dot-13-3hui-mu-nore-inventteqi-tuitakoto-cloudoperationswotian-ete</link>
-        <dc:date>2025-11-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Actionsで多環境の運用管理を簡単にする (Kohei Kojima)</title>
-        <link>https://speakerdeck.com/k_kojima_yumemi/github-actionsdeduo-huan-jing-noyun-yong-guan-li-wojian-dan-nisuru</link>
         <dc:date>2025-11-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
