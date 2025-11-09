@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>品質は設計でつくり込む / design in quality (technuma)</title>
+        <link>https://speakerdeck.com/technuma/design-in-quality</link>
+        <dc:date>2025-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CI/CDに続く概念？GitHub Universeでも注目のContinuous AIを紹介 (yuma(Maki),@yuma_prog)</title>
         <link>https://www.docswell.com/s/yuma/K37VJ8-2025-11-07-ghcpmeetup</link>
         <dc:date>2025-11-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ピープルウエア x スタートアップ (operandoOS)</title>
         <link>https://speakerdeck.com/operando/pipuruuea-x-sutatoatupu</link>
-        <dc:date>2025-11-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI 時代のドキュメント管理術 (松濤Vimmer)</title>
-        <link>https://speakerdeck.com/onikun94/ai-shi-dai-nodokiyumentoguan-li-shu</link>
         <dc:date>2025-11-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
