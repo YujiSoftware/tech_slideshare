@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>例外処理を理解して、設計段階からエラーを見つけやすく、起こりにくく (Takuma Kajikawa)</title>
+        <link>https://speakerdeck.com/kajitack/understanding-exceptions-in-php</link>
+        <dc:date>2025-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>品質は設計でつくり込む / design in quality (technuma)</title>
         <link>https://speakerdeck.com/technuma/design-in-quality</link>
         <dc:date>2025-11-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Snowflakeとdbtで加速する 「TVCMデータで価値を生む組織」への進化論 /  Evolving TVCM Data Value in TELECY with Snowflake and dbt (CARTA Engineering)</title>
         <link>https://speakerdeck.com/carta_engineering/evolving-tvcm-data-value-in-telecy-with-snowflake-and-dbt</link>
         <dc:date>2025-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ピープルウエア x スタートアップ (operandoOS)</title>
-        <link>https://speakerdeck.com/operando/pipuruuea-x-sutatoatupu</link>
-        <dc:date>2025-11-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
