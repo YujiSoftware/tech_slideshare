@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今日から使える AWS Step Functions 小技集 / AWS Step Functions Tips (Masanori Yamaguchi)</title>
+        <link>https://speakerdeck.com/kinunori/aws-step-functions-tips</link>
+        <dc:date>2025-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI 時代だからこそ学ぶべき PHP の基礎 (memory)</title>
+        <link>https://speakerdeck.com/m3m0r7/must-to-learn-php-standards-in-ai-era</link>
+        <dc:date>2025-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Pythonで構築する全国市町村ナレッジグラフ: GraphRAGを用いた意味的地域検索への応用 (negi111111)</title>
         <link>https://speakerdeck.com/negi111111/pythondegou-zhu-suruquan-guo-shi-ting-cun-naretuzigurahu-graphragwoyong-itayi-wei-de-di-yu-jian-suo-henoying-yong</link>
         <dc:date>2025-11-08T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>現地参加経験者が日本から眺めた re:Invent (@mujyun_furu)</title>
         <link>https://speakerdeck.com/mujyun/xian-di-can-jia-jing-yan-zhe-gari-ben-karatiao-meta-re-invent</link>
-        <dc:date>2025-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20251106 Offers DeepDive 知識を民主化！あらゆる業務のスピードと品質を 改善するためのドキュメント自動更新・活用術 (Masashi Yokota)</title>
-        <link>https://speakerdeck.com/masashiyokota/20251106-offers-deepdive-zhi-shi-womin-zhu-hua-arayuruye-wu-nosupidotopin-zhi-wo-gai-shan-surutamenodokiyumentozi-dong-geng-xin-huo-yong-shu</link>
-        <dc:date>2025-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Data Engineering Guide 2025 #data_summit_findy by @Kazaneya_PR / 20251106 (風音屋 (Kazaneya))</title>
-        <link>https://speakerdeck.com/kazaneya/20251106</link>
         <dc:date>2025-11-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
