@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織もソフトウェアも難しく考えない、もっとシンプルな考え方で設計する #phpconfuk (hideki kinjyo)</title>
+        <link>https://speakerdeck.com/o0h/phpconfuk-2025</link>
+        <dc:date>2025-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>例外処理を理解して、設計段階からエラーを見つけやすく、起こりにくく (Takuma Kajikawa)</title>
         <link>https://speakerdeck.com/kajitack/understanding-exceptions-in-php</link>
         <dc:date>2025-11-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>VS Codeを活用した開発 (Gitの各種操作・デバッグ) -人工知能応用特論Ⅰ 第5回 (Koki Yamada,@KokiYamada6)</title>
         <link>https://www.docswell.com/s/2625216247/ZX6764-2025-11-06-190151</link>
-        <dc:date>2025-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Snowflakeとdbtで加速する 「TVCMデータで価値を生む組織」への進化論 /  Evolving TVCM Data Value in TELECY with Snowflake and dbt (CARTA Engineering)</title>
-        <link>https://speakerdeck.com/carta_engineering/evolving-tvcm-data-value-in-telecy-with-snowflake-and-dbt</link>
         <dc:date>2025-11-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
