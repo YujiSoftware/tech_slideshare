@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>柏.rb - 連絡事項 (Koji NAKAMURA)</title>
+        <link>https://speakerdeck.com/kozy4324/bo-rb-lian-luo-shi-xiang</link>
+        <dc:date>2025-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ActiveRecord使いが知るべき世界：Kaigi on Rails 2025 (hirotaka kono,@hk_it7)</title>
         <link>https://www.docswell.com/s/hk_it7/ZWMNJR-orm-kaigi-on-rails</link>
         <dc:date>2025-11-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>開発者が知っておきたい複雑さの正体/where-the-complexity-comes-from (Ryo Tomidokoro)</title>
         <link>https://speakerdeck.com/hanhan1978/where-the-complexity-comes-from</link>
-        <dc:date>2025-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初心者歓迎！業務でも使えるAWSネットワークの全体像をつかもう × Amazon Q体験 (ToyoStar)</title>
-        <link>https://speakerdeck.com/toyostar/chu-xin-zhe-huan-ying-ye-wu-demoshi-eruawsnetutowakunoquan-ti-xiang-wotukamou-x-amazon-qti-yan</link>
         <dc:date>2025-11-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
