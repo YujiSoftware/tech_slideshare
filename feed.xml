@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>はてなサマーインターンシップ2025 フロントエンド 講義資料 (Hatena)</title>
+        <link>https://speakerdeck.com/hatena/internship-2025-frontend</link>
+        <dc:date>2025-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PHPでResult型を なるべく使いやすい形で実装する (higaki)</title>
         <link>https://speakerdeck.com/higaki_program/phpderesultxing-wo-narubekushi-iyasuixing-deshi-zhuang-suru</link>
         <dc:date>2025-11-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>組織もソフトウェアも難しく考えない、もっとシンプルな考え方で設計する #phpconfuk (hideki kinjyo)</title>
         <link>https://speakerdeck.com/o0h/phpconfuk-2025</link>
-        <dc:date>2025-11-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>例外処理を理解して、設計段階からエラーを見つけやすく、起こりにくく (Takuma Kajikawa)</title>
-        <link>https://speakerdeck.com/kajitack/understanding-exceptions-in-php</link>
         <dc:date>2025-11-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
