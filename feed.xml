@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Atomic Design から bulletproof-react へ – 構成リアーキテクト – (yusakamoto)</title>
+        <link>https://speakerdeck.com/yusakamoto/atomic-design-kara-bulletproof-react-he-gou-cheng-riakitekuto</link>
+        <dc:date>2025-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模アプリケーションをリアーキテクトした際の知見 (Ryuji Kokubu)</title>
+        <link>https://speakerdeck.com/ryujicre8ive/da-gui-mo-apurikesiyonworiakitekutositaji-nozhi-jian</link>
+        <dc:date>2025-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データとコンポーネントの複雑さを整理整頓する (Reo Ishiyama)</title>
+        <link>https://speakerdeck.com/reo777/detatokonponentonofu-za-sawozheng-li-zheng-dun-suru</link>
+        <dc:date>2025-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>研修で学んだリクエスト毎に ページのレンダー方法を変える小技 (一ノ瀬裕斗)</title>
+        <link>https://speakerdeck.com/yuto_ichinose/yan-xiu-dexue-ndarikuesutomei-ni-pezinorendafang-fa-wobian-eruxiao-ji</link>
+        <dc:date>2025-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScriptで型レベルJSONパーサー (kato-takeshi1)</title>
+        <link>https://speakerdeck.com/katotakeshi/typescriptdexing-reberujsonpasa</link>
+        <dc:date>2025-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Marpで学ぶCSS/HTML (Tkoya)</title>
+        <link>https://speakerdeck.com/ayanoyuki/html</link>
+        <dc:date>2025-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>品質保証の取り組みを広げる仕組みづくり〜スキルの移譲と自律を支える実践知〜 (tarappo)</title>
         <link>https://speakerdeck.com/tarappo/pin-zhi-bao-zheng-noqu-rizu-miwoguang-gerushi-zu-midukuri-sukirunoyi-rang-tozi-lu-wozhi-erushi-jian-zhi</link>
         <dc:date>2025-11-09T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>Copilotの精度を上げる！カスタムプロンプト入門.pdf (Izumu KUSUNOKI)</title>
         <link>https://speakerdeck.com/ismk/copilotnojing-du-woshang-keru-kasutamupuronputoru-men</link>
         <dc:date>2025-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ミニ四駆を買って改造してたら サンフランシスコの OpenAI DevDayに 参加できた話</title>
-        <link>https://docs.google.com/presentation/d/1b9DA7SkHBqP-dNsUnE04rb-BDhmD1XUCdXwOM1I720Y/preview</link>
-        <dc:date>2025-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>予防に勝る防御なし（2025年版） - 堅牢なコードを導く様々な設計のヒント / Growing Reliable Code PHP Conference Fukuoka 2025 (Takuto Wada)</title>
-        <link>https://speakerdeck.com/twada/growing-reliable-code-php-conference-fukuoka-2025</link>
-        <dc:date>2025-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>作る、試す、正す。　〜アジャイルなモノづくりのための全体戦略〜（超概要） (市谷聡啓,@papanda)</title>
-        <link>https://www.docswell.com/s/papanda/5G2YGN-tsukuru-tamesu-tadasu</link>
-        <dc:date>2025-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>どうなる Remix 3 (Hisateru Tanaka)</title>
-        <link>https://speakerdeck.com/tanakahisateru/tounaru-remix-3</link>
-        <dc:date>2025-11-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メタプログラミングRuby読書会の活用 (Shinichi Maeshima)</title>
-        <link>https://speakerdeck.com/willnet/metapuroguramingurubydu-shu-hui-nohuo-yong</link>
-        <dc:date>2025-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIはプロダクト開発をどう変えたか？〜 3つの役割から見る「変化」と「未来」〜 / How AI Transformed Product Development: A Look at "Change" and "Future" via Three Roles (iwashi)</title>
-        <link>https://speakerdeck.com/iwashi86/how-ai-transformed-product-development-a-look-at-change-and-future-via-three-roles</link>
-        <dc:date>2025-11-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
