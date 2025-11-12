@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CodexでもAgent Skillsを使いたい (Gota)</title>
+        <link>https://speakerdeck.com/gotalab555/codexdemoagent-skillswoshi-itai</link>
+        <dc:date>2025-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIエージェントメモリの話 (Syoitu Den,@HedgehogPython)</title>
         <link>https://www.docswell.com/s/harinezumi/KJQPRX-2025-11-12-083604</link>
         <dc:date>2025-11-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>品質保証の取り組みを広げる仕組みづくり〜スキルの移譲と自律を支える実践知〜 (tarappo)</title>
         <link>https://speakerdeck.com/tarappo/pin-zhi-bao-zheng-noqu-rizu-miwoguang-gerushi-zu-midukuri-sukirunoyi-rang-tozi-lu-wozhi-erushi-jian-zhi</link>
-        <dc:date>2025-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今日から使える AWS Step Functions 小技集 / AWS Step Functions Tips (Masanori Yamaguchi)</title>
-        <link>https://speakerdeck.com/kinunori/aws-step-functions-tips</link>
         <dc:date>2025-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
