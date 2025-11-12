@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIエージェントメモリの話 (Syoitu Den,@HedgehogPython)</title>
+        <link>https://www.docswell.com/s/harinezumi/KJQPRX-2025-11-12-083604</link>
+        <dc:date>2025-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OSSで50の競合と戦うためにやったこと (yamadashy / やまだし)</title>
         <link>https://speakerdeck.com/yamadashy/fighting-50-oss-competitors-what-we-did</link>
         <dc:date>2025-11-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>今日から使える AWS Step Functions 小技集 / AWS Step Functions Tips (Masanori Yamaguchi)</title>
         <link>https://speakerdeck.com/kinunori/aws-step-functions-tips</link>
-        <dc:date>2025-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI 時代だからこそ学ぶべき PHP の基礎 (memory)</title>
-        <link>https://speakerdeck.com/m3m0r7/must-to-learn-php-standards-in-ai-era</link>
         <dc:date>2025-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
