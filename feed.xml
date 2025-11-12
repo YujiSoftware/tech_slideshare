@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vibe-Coding で作ったアプリを 文化祭で運用した話 / The story of running an app I built with Vibe-Coding at a school festival (Ogata Katsuya)</title>
+        <link>https://speakerdeck.com/ogatakatsuya/the-story-of-running-an-app-i-built-with-vibe-coding-at-a-school-festival</link>
+        <dc:date>2025-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Private APIの呼び出し方 (Kishikawa Katsumi)</title>
+        <link>https://speakerdeck.com/kishikawakatsumi/private-apinohu-bichu-sifang</link>
+        <dc:date>2025-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CodexでもAgent Skillsを使いたい (Gota)</title>
         <link>https://speakerdeck.com/gotalab555/codexdemoagent-skillswoshi-itai</link>
         <dc:date>2025-11-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>TypeScriptで型レベルJSONパーサー (kato-takeshi1)</title>
         <link>https://speakerdeck.com/katotakeshi/typescriptdexing-reberujsonpasa</link>
-        <dc:date>2025-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Marpで学ぶCSS/HTML (Tkoya)</title>
-        <link>https://speakerdeck.com/ayanoyuki/html</link>
-        <dc:date>2025-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>品質保証の取り組みを広げる仕組みづくり〜スキルの移譲と自律を支える実践知〜 (tarappo)</title>
-        <link>https://speakerdeck.com/tarappo/pin-zhi-bao-zheng-noqu-rizu-miwoguang-gerushi-zu-midukuri-sukirunoyi-rang-tozi-lu-wozhi-erushi-jian-zhi</link>
         <dc:date>2025-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
