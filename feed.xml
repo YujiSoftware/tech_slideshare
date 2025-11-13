@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIを駆使して新しい技術を効率的に理解する方法 (nogu)</title>
+        <link>https://speakerdeck.com/nogu66/aiwoqu-shi-sitexin-siiji-shu-woxiao-lu-de-nili-jie-surufang-fa</link>
+        <dc:date>2025-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>us-east-1 の障害が 起きると なぜ ソワソワするのか (Kazuki Miura)</title>
         <link>https://speakerdeck.com/miu_crescent/us-east-1-nozhang-hai-ga-qi-kiruto-naze-sowasowasurunoka</link>
         <dc:date>2025-11-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Atomic Design から bulletproof-react へ – 構成リアーキテクト – (yusakamoto)</title>
         <link>https://speakerdeck.com/yusakamoto/atomic-design-kara-bulletproof-react-he-gou-cheng-riakitekuto</link>
-        <dc:date>2025-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模アプリケーションをリアーキテクトした際の知見 (Ryuji Kokubu)</title>
-        <link>https://speakerdeck.com/ryujicre8ive/da-gui-mo-apurikesiyonworiakitekutositaji-nozhi-jian</link>
         <dc:date>2025-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
