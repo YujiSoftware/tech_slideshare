@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI活用をPoCで終わらせないためのアンチパターン (kubell)</title>
+        <link>https://speakerdeck.com/kubell_hr/251113-fujii</link>
+        <dc:date>2025-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIを駆使して新しい技術を効率的に理解する方法 (nogu)</title>
         <link>https://speakerdeck.com/nogu66/aiwoqu-shi-sitexin-siiji-shu-woxiao-lu-de-nili-jie-surufang-fa</link>
         <dc:date>2025-11-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>これからアウトプットする人たちへ - アウトプットを支える技術 / that support output (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/that-support-output</link>
-        <dc:date>2025-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Atomic Design から bulletproof-react へ – 構成リアーキテクト – (yusakamoto)</title>
-        <link>https://speakerdeck.com/yusakamoto/atomic-design-kara-bulletproof-react-he-gou-cheng-riakitekuto</link>
         <dc:date>2025-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
