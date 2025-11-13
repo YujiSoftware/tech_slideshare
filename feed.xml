@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2025_10_22_交流座談会 (Seki Ryoma)</title>
+        <link>https://speakerdeck.com/rymsk21/2025-10-22-jiao-liu-zuo-tan-hui</link>
+        <dc:date>2025-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vibe-Coding で作ったアプリを 文化祭で運用した話 / The story of running an app I built with Vibe-Coding at a school festival (Ogata Katsuya)</title>
         <link>https://speakerdeck.com/ogatakatsuya/the-story-of-running-an-app-i-built-with-vibe-coding-at-a-school-festival</link>
         <dc:date>2025-11-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>研修で学んだリクエスト毎に ページのレンダー方法を変える小技 (一ノ瀬裕斗)</title>
         <link>https://speakerdeck.com/yuto_ichinose/yan-xiu-dexue-ndarikuesutomei-ni-pezinorendafang-fa-wobian-eruxiao-ji</link>
-        <dc:date>2025-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptで型レベルJSONパーサー (kato-takeshi1)</title>
-        <link>https://speakerdeck.com/katotakeshi/typescriptdexing-reberujsonpasa</link>
         <dc:date>2025-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
