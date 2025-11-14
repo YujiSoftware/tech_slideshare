@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュリティを 「ふつう」にやっていく 技術、体制、文化の追求 /  YAPC::Fukuoka 2025 (Hiroya Ito)</title>
+        <link>https://speakerdeck.com/hiboma/yapc-fukuoka-2025</link>
+        <dc:date>2025-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Azure 1年生が C# 大統一なウェブサービスを半年でリリースしたお話 (Tetsuya Mori,@monry)</title>
         <link>https://www.docswell.com/s/monry/5LVP6Q-2025-11-13-TokyoJazugNight</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>読みやすいPythonコードの書き方 (Ruff・命名規則・型ヒント) - 人工知能応用特論Ⅰ 第6回 (Koki Yamada,@KokiYamada6)</title>
         <link>https://www.docswell.com/s/2625216247/52Q6J9-2025-11-11-194450</link>
-        <dc:date>2025-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025_10_22_交流座談会 (Seki Ryoma)</title>
-        <link>https://speakerdeck.com/rymsk21/2025-10-22-jiao-liu-zuo-tan-hui</link>
         <dc:date>2025-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
