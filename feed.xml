@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>解法を図解する技術 (Kyohei Uto)</title>
+        <link>https://www.docswell.com/s/kuto1963222/ZX6772-2025-11-14-170808</link>
+        <dc:date>2025-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クレジットカードの不正を防止する技術 (Yuta Horii)</title>
         <link>https://speakerdeck.com/yutadayo/technology-for-prevent-credit-card-fraud</link>
         <dc:date>2025-11-13T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Private APIの呼び出し方 (Kishikawa Katsumi)</title>
         <link>https://speakerdeck.com/kishikawakatsumi/private-apinohu-bichu-sifang</link>
         <dc:date>2025-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CodexでもAgent Skillsを使いたい (Gota)</title>
-        <link>https://speakerdeck.com/gotalab555/codexdemoagent-skillswoshi-itai</link>
-        <dc:date>2025-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
