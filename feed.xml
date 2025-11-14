@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>k1LoW/deckを急激に(100倍以上)高速化する方法 (Masayuki Matsuki)</title>
+        <link>https://www.docswell.com/s/Songmu/KDWX49-how-to-speed-up-the-deck</link>
+        <dc:date>2025-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[2025-11-06] ベイズ最適化の基礎とデザイン支援への応用（CVIMチュートリアル） (Yuki Koyama)</title>
         <link>https://speakerdeck.com/yuki_koyama/2025-11-06-bayesian-optimization-tutorial</link>
         <dc:date>2025-11-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SwiftUI と Shader を活用した楽しいオンボーディング起動画面の作成 (Megabits_mzq)</title>
         <link>https://speakerdeck.com/megabitsenmzq/swiftui-to-shader-wohuo-yong-sitale-siionbodeinguqi-dong-hua-mian-nozuo-cheng</link>
-        <dc:date>2025-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ebisu mobile #11 - Predictive Backに対応する (Tomoki Yamashita)</title>
-        <link>https://speakerdeck.com/tomorrowkey/ebisu-mobile-number-11-predictive-backnidui-ying-suru</link>
         <dc:date>2025-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
