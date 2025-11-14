@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>幕間CMを支える技術 (pastak)</title>
+        <link>https://speakerdeck.com/pastak/mu-jian-cmwozhi-eruji-shu</link>
+        <dc:date>2025-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロジェクトの空気を読んで開発してくれるPerlのAIツールがほしい (Kenta Kobayashi)</title>
+        <link>https://speakerdeck.com/kfly8/puroziekutonokong-qi-wodu-ndekai-fa-sitekureruperlnoaiturugahosii</link>
+        <dc:date>2025-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュリティを 「ふつう」にやっていく 技術、体制、文化の追求 /  YAPC::Fukuoka 2025 (Hiroya Ito)</title>
         <link>https://speakerdeck.com/hiboma/yapc-fukuoka-2025</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>AIを駆使して新しい技術を効率的に理解する方法 (nogu)</title>
         <link>https://speakerdeck.com/nogu66/aiwoqu-shi-sitexin-siiji-shu-woxiao-lu-de-nili-jie-surufang-fa</link>
         <dc:date>2025-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>us-east-1 の障害が 起きると なぜ ソワソワするのか (Kazuki Miura)</title>
-        <link>https://speakerdeck.com/miu_crescent/us-east-1-nozhang-hai-ga-qi-kiruto-naze-sowasowasurunoka</link>
-        <dc:date>2025-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>読みやすいPythonコードの書き方 (Ruff・命名規則・型ヒント) - 人工知能応用特論Ⅰ 第6回 (Koki Yamada,@KokiYamada6)</title>
-        <link>https://www.docswell.com/s/2625216247/52Q6J9-2025-11-11-194450</link>
-        <dc:date>2025-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
