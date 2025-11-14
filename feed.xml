@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>一人で大規模OSSに立ち向かうには (sosukesuzuki)</title>
+        <link>https://speakerdeck.com/sosukesuzuki/ren-deda-gui-mo-ossnili-tixiang-kauniha</link>
+        <dc:date>2025-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>k1LoW/deckを急激に(100倍以上)高速化する方法 (Masayuki Matsuki)</title>
         <link>https://www.docswell.com/s/Songmu/KDWX49-how-to-speed-up-the-deck</link>
         <dc:date>2025-11-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Function Body Macros で、SwiftUI の View に Accessibility Identifier を自動付与する/Function Body Macros: Autogenerate accessibility identifiers for SwiftUI Views (Yuki Miida)</title>
         <link>https://speakerdeck.com/miichan/function-body-macros-autogenerate-accessibility-identifiers-for-swiftui-views</link>
-        <dc:date>2025-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SwiftUI と Shader を活用した楽しいオンボーディング起動画面の作成 (Megabits_mzq)</title>
-        <link>https://speakerdeck.com/megabitsenmzq/swiftui-to-shader-wohuo-yong-sitale-siionbodeinguqi-dong-hua-mian-nozuo-cheng</link>
         <dc:date>2025-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
