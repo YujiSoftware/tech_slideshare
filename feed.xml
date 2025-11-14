@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「データ無い！ 腹立つ！ 推論する！」から 「データ無い！ 腹立つ！ データを作る」へ チームでデータを作り、育てられるようにするまで / How can we create, use, and maintain data ourselves? (moznion)</title>
+        <link>https://speakerdeck.com/moznion/how-can-we-create-use-and-maintain-data-ourselves</link>
+        <dc:date>2025-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜThrottleではなくDebounceだったのか？ 700並列リクエストと戦うサーバーサイド実装のすべて (Yoshiori SHOJI)</title>
+        <link>https://speakerdeck.com/yoshiori/nazethrottledehanakudebouncedatutanoka-700bing-lie-rikuesutotozhan-usabasaidoshi-zhuang-nosubete</link>
+        <dc:date>2025-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SREのためのテレメトリー技術の探究 / Telemetry for SRE (Yuuki Tsubouchi (yuuk1))</title>
+        <link>https://speakerdeck.com/yuukit/telemetry-for-sre</link>
+        <dc:date>2025-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>一人で大規模OSSに立ち向かうには (sosukesuzuki)</title>
         <link>https://speakerdeck.com/sosukesuzuki/ren-deda-gui-mo-ossnili-tixiang-kauniha</link>
         <dc:date>2025-11-13T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>TechBowl流ドメインモデリング_2025_02_28 (中村広樹)</title>
         <link>https://speakerdeck.com/hiroki_nakamura/techbowlliu-domeinmoderingu-2025-02-28</link>
-        <dc:date>2025-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はてなサマーインターンシップ2025 フロントエンド 講義資料 (Hatena)</title>
-        <link>https://speakerdeck.com/hatena/internship-2025-frontend</link>
-        <dc:date>2025-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPでResult型を なるべく使いやすい形で実装する (higaki)</title>
-        <link>https://speakerdeck.com/higaki_program/phpderesultxing-wo-narubekushi-iyasuixing-deshi-zhuang-suru</link>
-        <dc:date>2025-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Function Body Macros で、SwiftUI の View に Accessibility Identifier を自動付与する/Function Body Macros: Autogenerate accessibility identifiers for SwiftUI Views (Yuki Miida)</title>
-        <link>https://speakerdeck.com/miichan/function-body-macros-autogenerate-accessibility-identifiers-for-swiftui-views</link>
         <dc:date>2025-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
