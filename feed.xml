@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIの弱点、やっぱりプログラミングは人間が(も)勉強しよう / YAPC AI and Programming (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/yapc-ai-and-programming</link>
+        <dc:date>2025-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon ECS デプロイツール ecspresso の開発を支える「正しい抽象化」の探求 / YAPC::Fukuoka 2025 (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/yapc-fukuoka-2025</link>
         <dc:date>2025-11-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIエージェントメモリの話 (Syoitu Den,@HedgehogPython)</title>
         <link>https://www.docswell.com/s/harinezumi/KJQPRX-2025-11-12-083604</link>
-        <dc:date>2025-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OSSで50の競合と戦うためにやったこと (yamadashy / やまだし)</title>
-        <link>https://speakerdeck.com/yamadashy/fighting-50-oss-competitors-what-we-did</link>
         <dc:date>2025-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
