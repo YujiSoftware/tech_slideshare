@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>チーム開発の “地ならし" (konifar)</title>
+        <link>https://speakerdeck.com/konifar/timukai-fa-no-di-narasi</link>
+        <dc:date>2025-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>探求の技術 (azukiazusa)</title>
         <link>https://speakerdeck.com/azukiazusa1/tan-qiu-noji-shu</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Amazon ECS デプロイツール ecspresso の開発を支える「正しい抽象化」の探求 / YAPC::Fukuoka 2025 (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/yapc-fukuoka-2025</link>
-        <dc:date>2025-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ強調表示できず ** が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題 (hkws)</title>
-        <link>https://speakerdeck.com/kwahiro/nazeqiang-diao-biao-shi-dekizu-star-star-gabiao-shi-sarerunoka-perldeshi-matutamarkdownnoli-shi-tori-ben-yu-wen-shu-niokeruke-ti</link>
         <dc:date>2025-11-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
