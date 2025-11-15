@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>awaitをやめたReact? (t6adev)</title>
+        <link>https://speakerdeck.com/t6adev/awaitwoyametareact</link>
+        <dc:date>2025-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Redux → Recoil → Zustand → useSyncExternalStore： 状態管理の10年とReact本来の姿 (ZOZO Developers)</title>
+        <link>https://speakerdeck.com/zozotech/redux-recoil-zustand-usesyncexternalstore-10years-of-react-state-management</link>
+        <dc:date>2025-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>仕様がそのままテストになる！Javaで始める振る舞い駆動開発 (uutan1108)</title>
         <link>https://speakerdeck.com/ohmori_yusuke/shi-yang-gasonomamatesutoninaru-javadeshi-meruzhen-ruwu-iqu-dong-kai-fa</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>セキュリティを 「ふつう」にやっていく 技術、体制、文化の追求 /  YAPC::Fukuoka 2025 (Hiroya Ito)</title>
         <link>https://speakerdeck.com/hiboma/yapc-fukuoka-2025</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure 1年生が C# 大統一なウェブサービスを半年でリリースしたお話 (Tetsuya Mori,@monry)</title>
-        <link>https://www.docswell.com/s/monry/5LVP6Q-2025-11-13-TokyoJazugNight</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agentに至る道 〜なぜLLMは自動でコードを書けるようになったのか〜 (mackee)</title>
-        <link>https://speakerdeck.com/mackee/agentnizhi-rudao-nazellmhazi-dong-dekodowoshu-keruyouninatutanoka</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
