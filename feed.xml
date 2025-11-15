@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>仕様がそのままテストになる！Javaで始める振る舞い駆動開発 (uutan1108)</title>
+        <link>https://speakerdeck.com/ohmori_yusuke/shi-yang-gasonomamatesutoninaru-javadeshi-meruzhen-ruwu-iqu-dong-kai-fa</link>
+        <dc:date>2025-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェア開発現代史: 55％が変化に備えていない現実 ─ AI支援型開発時代のReboot Japan #agilejapan (Hiroyuki TAKAHASHI)</title>
         <link>https://speakerdeck.com/takabow/sohutoueakai-fa-xian-dai-shi-55-percent-gabian-hua-nibei-eteinaixian-shi-aizhi-yuan-xing-kai-fa-shi-dai-noreboot-japan-number-agilejapan</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Agentに至る道 〜なぜLLMは自動でコードを書けるようになったのか〜 (mackee)</title>
         <link>https://speakerdeck.com/mackee/agentnizhi-rudao-nazellmhazi-dong-dekodowoshu-keruyouninatutanoka</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>解法を図解する技術 (Kyohei Uto)</title>
-        <link>https://www.docswell.com/s/kuto1963222/ZX6772-2025-11-14-170808</link>
-        <dc:date>2025-11-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
