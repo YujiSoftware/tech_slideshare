@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>探求の技術 (azukiazusa)</title>
+        <link>https://speakerdeck.com/azukiazusa1/tan-qiu-noji-shu</link>
+        <dc:date>2025-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アジャイルジャパン2025]あなたのアジャイルがうまくいかない10の理由～&amp;quot;Reboot&amp;quot;のための処方箋～ (Shigeki Morizane,@samuraiRed)</title>
         <link>https://www.docswell.com/s/samuraiRed/5WMQYG-2025-11-13-205802</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>なぜ強調表示できず ** が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題 (hkws)</title>
         <link>https://speakerdeck.com/kwahiro/nazeqiang-diao-biao-shi-dekizu-star-star-gabiao-shi-sarerunoka-perldeshi-matutamarkdownnoli-shi-tori-ben-yu-wen-shu-niokeruke-ti</link>
-        <dc:date>2025-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「データ無い！ 腹立つ！ 推論する！」から 「データ無い！ 腹立つ！ データを作る」へ チームでデータを作り、育てられるようにするまで / How can we create, use, and maintain data ourselves? (moznion)</title>
-        <link>https://speakerdeck.com/moznion/how-can-we-create-use-and-maintain-data-ourselves</link>
         <dc:date>2025-11-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
