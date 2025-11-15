@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>旧から新へ: 大規模ウェブクローラの Perl から Go への移行 / YAPC::Fukuoka 2025 (motemen)</title>
+        <link>https://speakerdeck.com/motemen/yapc-fukuoka-2025</link>
+        <dc:date>2025-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OSS開発者の憂鬱 (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/osskai-fa-zhe-noyou-yu</link>
+        <dc:date>2025-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>手を動かしながら学ぶデータモデリング - 論理設計から物理設計まで / Data modeling (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/data-modeling</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>k1LoW/deckを急激に(100倍以上)高速化する方法 (Masayuki Matsuki)</title>
         <link>https://www.docswell.com/s/Songmu/KDWX49-how-to-speed-up-the-deck</link>
-        <dc:date>2025-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[2025-11-06] ベイズ最適化の基礎とデザイン支援への応用（CVIMチュートリアル） (Yuki Koyama)</title>
-        <link>https://speakerdeck.com/yuki_koyama/2025-11-06-bayesian-optimization-tutorial</link>
-        <dc:date>2025-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜインフラコードのモジュール化は難しいのか - アプリケーションコードとの本質的な違いから考える (Gosuke Miyashita)</title>
-        <link>https://speakerdeck.com/mizzy/yapc-fukuoka-2025</link>
         <dc:date>2025-11-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
