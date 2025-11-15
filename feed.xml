@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Codexを使い倒して気づいた、Claude Codeの本当の強みと使いこなし術 (スナガク)</title>
+        <link>https://speakerdeck.com/sunagaku/codexwoshi-idao-siteqi-tuita-claude-codenoben-dang-noqiang-mitoshi-ikonasishu</link>
+        <dc:date>2025-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>旧から新へ: 大規模ウェブクローラの Perl から Go への移行 / YAPC::Fukuoka 2025 (motemen)</title>
         <link>https://speakerdeck.com/motemen/yapc-fukuoka-2025</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>一人で大規模OSSに立ち向かうには (sosukesuzuki)</title>
         <link>https://speakerdeck.com/sosukesuzuki/ren-deda-gui-mo-ossnili-tixiang-kauniha</link>
-        <dc:date>2025-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>k1LoW/deckを急激に(100倍以上)高速化する方法 (Masayuki Matsuki)</title>
-        <link>https://www.docswell.com/s/Songmu/KDWX49-how-to-speed-up-the-deck</link>
         <dc:date>2025-11-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
