@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>『HOWはWHY WHATで判断せよ』 〜『ドメイン駆動設計をはじめよう』の読了報告と、本質への探求〜 (HideyukiKitao)</title>
+        <link>https://speakerdeck.com/panda728/howhawhy-whatdepan-duan-seyo-domeinqu-dong-she-ji-wohazimeyou-nodu-liao-bao-gao-to-ben-zhi-henotan-qiu</link>
+        <dc:date>2025-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Web エンジニアが JavaScript で AI Agent を作る / JSConf JP 2025 sponsor session (Masayuki Izumi)</title>
         <link>https://speakerdeck.com/izumin5210/jsconf-jp-2025-sponsor-session</link>
         <dc:date>2025-11-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Codexを使い倒して気づいた、Claude Codeの本当の強みと使いこなし術 (スナガク)</title>
         <link>https://speakerdeck.com/sunagaku/codexwoshi-idao-siteqi-tuita-claude-codenoben-dang-noqiang-mitoshi-ikonasishu</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>旧から新へ: 大規模ウェブクローラの Perl から Go への移行 / YAPC::Fukuoka 2025 (motemen)</title>
-        <link>https://speakerdeck.com/motemen/yapc-fukuoka-2025</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
