@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践AI駆動開発～プロンプトエンジニアからAIアーキテクトへ～</title>
+        <link>https://docs.google.com/presentation/d/1mUr8I2OvzOPnkHANHkAs6XyFNTtpWUoyq-0wbzYtxKc/preview</link>
+        <dc:date>2025-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>機密情報の漏洩を防げ！ Webフロントエンド開発で意識すべき漏洩パターンとその対策 (mizdra)</title>
         <link>https://speakerdeck.com/mizdra/web-frontend-secret-leak</link>
         <dc:date>2025-11-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>手を動かしながら学ぶデータモデリング - 論理設計から物理設計まで / Data modeling (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/data-modeling</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「バイブス静的解析」でレガシーコードを分析・改善しよう (hitode909)</title>
-        <link>https://speakerdeck.com/hitode909/baibusujing-de-jie-xi-deregasikodowofen-xi-gai-shan-siyou</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
