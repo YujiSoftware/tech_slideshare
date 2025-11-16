@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JavaScriptにおけるasync/await呼び出しのスタックトレースの困難と実装 (sosukesuzuki)</title>
+        <link>https://speakerdeck.com/sosukesuzuki/awaithu-bichu-sinosutatukutoresunokun-nan-toshi-zhuang</link>
+        <dc:date>2025-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ステートレスなLLMでステートフルなAI agentを作る - YAPC::Fukuoka 2025 (FUJI Goro)</title>
+        <link>https://speakerdeck.com/gfx/sutetoresunallmdesutetohurunaai-agentwozuo-ru-yapc-fukuoka-2025</link>
+        <dc:date>2025-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>初心者がAWSに手を出してみた結果 (uchiyama886)</title>
         <link>https://speakerdeck.com/uchiyama886/chu-xin-zhe-gaawsnishou-wochu-sitemitajie-guo</link>
         <dc:date>2025-11-15T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>探求の技術 (azukiazusa)</title>
         <link>https://speakerdeck.com/azukiazusa1/tan-qiu-noji-shu</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アジャイルジャパン2025]あなたのアジャイルがうまくいかない10の理由～&amp;quot;Reboot&amp;quot;のための処方箋～ (Shigeki Morizane,@samuraiRed)</title>
-        <link>https://www.docswell.com/s/samuraiRed/5WMQYG-2025-11-13-205802</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ghqのひみつ (Masayuki Matsuki)</title>
-        <link>https://www.docswell.com/s/Songmu/K2Q6P4-the-secret-of-ghq</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
