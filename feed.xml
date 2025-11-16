@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>機密情報の漏洩を防げ！ Webフロントエンド開発で意識すべき漏洩パターンとその対策 (mizdra)</title>
+        <link>https://speakerdeck.com/mizdra/web-frontend-secret-leak</link>
+        <dc:date>2025-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rubyist入門: The Way to The Timeless Way of Programming (Koji SHIMADA)</title>
+        <link>https://speakerdeck.com/snoozer05/the-way-to-the-timeless-way-of-programming</link>
+        <dc:date>2025-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アーキテクチャと考える迷子にならない開発者テスト (irof)</title>
+        <link>https://speakerdeck.com/irof/architecture-and-developer-testing</link>
+        <dc:date>2025-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ある編集者のこれまでとこれから —— 開発者コミュニティと歩んだ四半世紀 (稲尾尚徳)</title>
         <link>https://speakerdeck.com/inao/yapc-fukuoka-2025</link>
         <dc:date>2025-11-15T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>「バイブス静的解析」でレガシーコードを分析・改善しよう (hitode909)</title>
         <link>https://speakerdeck.com/hitode909/baibusujing-de-jie-xi-deregasikodowofen-xi-gai-shan-siyou</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025年秋のPerl (Kenichi Ishigaki)</title>
-        <link>https://speakerdeck.com/charsbar/2025nian-qiu-noperl</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>幕間CMを支える技術 (pastak)</title>
-        <link>https://speakerdeck.com/pastak/mu-jian-cmwozhi-eruji-shu</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロジェクトの空気を読んで開発してくれるPerlのAIツールがほしい (Kenta Kobayashi)</title>
-        <link>https://speakerdeck.com/kfly8/puroziekutonokong-qi-wodu-ndekai-fa-sitekureruperlnoaiturugahosii</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
