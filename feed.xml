@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Promise.tryで実現する新しいエラーハンドリング New error handling with Promise try (おおいし)</title>
+        <link>https://speakerdeck.com/bicstone/new-error-handling-with-promise-try</link>
+        <dc:date>2025-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模プロダクトで実践するAI活用の仕組みづくり (daiki)</title>
+        <link>https://speakerdeck.com/k1tikurisu/implementing-ai-in-large-scale-products</link>
+        <dc:date>2025-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Webフロントエンドエンジニアが Railsの世界を覗いてみた👀 (NishimuraWataru,@_n13u_)</title>
         <link>https://www.docswell.com/s/_n13u_/KYVJ47-2025-11-15-194731</link>
         <dc:date>2025-11-16T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>[IBIS 2025] 深層基盤モデルのための強化学習 驚きから理論にもとづく納得へ (Akifumi Wachi)</title>
         <link>https://speakerdeck.com/akifumi_wachi/ibis-2025-shen-ceng-ji-pan-moderunotamenoqiang-hua-xue-xi-jing-kikarali-lun-nimotodukuna-de-he</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>乱雑なコードの整理から学ぶ設計の初歩 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/luan-za-nakodonozheng-li-karaxue-bushe-ji-nochu-bu</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チーム開発の “地ならし" (konifar)</title>
-        <link>https://speakerdeck.com/konifar/timukai-fa-no-di-narasi</link>
         <dc:date>2025-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
