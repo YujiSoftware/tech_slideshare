@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Module Harmony (petamoriken / 森建)</title>
+        <link>https://speakerdeck.com/petamoriken/module-harmony</link>
+        <dc:date>2025-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Databricks Free Editionで始めるMLflow (Takaaki Yayoi)</title>
         <link>https://speakerdeck.com/taka_aki/databricks-free-edition-deshi-merumlflow</link>
         <dc:date>2025-11-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ある編集者のこれまでとこれから —— 開発者コミュニティと歩んだ四半世紀 (稲尾尚徳)</title>
         <link>https://speakerdeck.com/inao/yapc-fukuoka-2025</link>
-        <dc:date>2025-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>awaitをやめたReact? (t6adev)</title>
-        <link>https://speakerdeck.com/t6adev/awaitwoyametareact</link>
         <dc:date>2025-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
