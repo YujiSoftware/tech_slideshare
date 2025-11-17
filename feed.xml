@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREの原則から辿る n1 の実践知と現在地 (Ryohei Kumagai)</title>
+        <link>https://speakerdeck.com/9ma3r/sre-principles</link>
+        <dc:date>2025-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SREとソフトウェア開発者の合同チームはどのようにS3のコストを削減したか？ (Masahiro Yoshizawa)</title>
+        <link>https://speakerdeck.com/muziyoshiz/tamachi-sre-1</link>
+        <dc:date>2025-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIエージェントによるエンタープライズ向けスライド検索！ (shibuiwilliam)</title>
         <link>https://speakerdeck.com/shibuiwilliam/aiezientoniyoruentapuraizuxiang-kesuraidojian-suo</link>
         <dc:date>2025-11-16T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Redux → Recoil → Zustand → useSyncExternalStore： 状態管理の10年とReact本来の姿 (ZOZO Developers)</title>
         <link>https://speakerdeck.com/zozotech/redux-recoil-zustand-usesyncexternalstore-10years-of-react-state-management</link>
         <dc:date>2025-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仕様がそのままテストになる！Javaで始める振る舞い駆動開発 (uutan1108)</title>
-        <link>https://speakerdeck.com/ohmori_yusuke/shi-yang-gasonomamatesutoninaru-javadeshi-meruzhen-ruwu-iqu-dong-kai-fa</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア開発現代史: 55％が変化に備えていない現実 ─ AI支援型開発時代のReboot Japan #agilejapan (Hiroyuki TAKAHASHI)</title>
-        <link>https://speakerdeck.com/takabow/sohutoueakai-fa-xian-dai-shi-55-percent-gabian-hua-nibei-eteinaixian-shi-aizhi-yuan-xing-kai-fa-shi-dai-noreboot-japan-number-agilejapan</link>
-        <dc:date>2025-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
