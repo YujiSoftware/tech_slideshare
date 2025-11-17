@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Databricks Free Editionで始めるMLflow (Takaaki Yayoi)</title>
+        <link>https://speakerdeck.com/taka_aki/databricks-free-edition-deshi-merumlflow</link>
+        <dc:date>2025-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREの原則から辿る n1 の実践知と現在地 (Ryohei Kumagai)</title>
         <link>https://speakerdeck.com/9ma3r/sre-principles</link>
         <dc:date>2025-11-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>awaitをやめたReact? (t6adev)</title>
         <link>https://speakerdeck.com/t6adev/awaitwoyametareact</link>
-        <dc:date>2025-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Redux → Recoil → Zustand → useSyncExternalStore： 状態管理の10年とReact本来の姿 (ZOZO Developers)</title>
-        <link>https://speakerdeck.com/zozotech/redux-recoil-zustand-usesyncexternalstore-10years-of-react-state-management</link>
         <dc:date>2025-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
