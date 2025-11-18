@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TVerのWeb内製化 - 開発スピードと品質を両立させるまでの道のり (TVer Inc.)</title>
+        <link>https://speakerdeck.com/techtver/tvernowebnei-zhi-hua-kai-fa-supidotopin-zhi-woliang-li-saserumadenodao-nori</link>
+        <dc:date>2025-11-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>『生成AIによるソフトウェア開発』（鷲崎弘宜, 鵜林尚靖, 中川尊雄, 増田航太, 徳本晋, 近藤将成, 石川冬樹, 竹之内啓太, 小川秀人, スマートエスイーセミナー, 2025年11月） (Hironori Washizaki)</title>
         <link>https://www.slideshare.net/slideshow/ai-2025-11/284148987</link>
         <dc:date>2025-11-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>機密情報の漏洩を防げ！ Webフロントエンド開発で意識すべき漏洩パターンとその対策 (mizdra)</title>
         <link>https://speakerdeck.com/mizdra/web-frontend-secret-leak</link>
-        <dc:date>2025-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rubyist入門: The Way to The Timeless Way of Programming (Koji SHIMADA)</title>
-        <link>https://speakerdeck.com/snoozer05/the-way-to-the-timeless-way-of-programming</link>
         <dc:date>2025-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
