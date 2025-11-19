@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>仕様駆動開発の理想と現実、そして向き合い方 (Gota)</title>
+        <link>https://speakerdeck.com/gotalab555/shi-yang-qu-dong-kai-fa-noli-xiang-toxian-shi-sositexiang-kihe-ifang</link>
+        <dc:date>2025-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIでテストプロセスを自動化しよう251113.pdf (K_SAK)</title>
         <link>https://speakerdeck.com/sakatakazunori/aidetesutopurosesuwozi-dong-hua-siyou251113</link>
         <dc:date>2025-11-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ステートレスなLLMでステートフルなAI agentを作る - YAPC::Fukuoka 2025 (FUJI Goro)</title>
         <link>https://speakerdeck.com/gfx/sutetoresunallmdesutetohurunaai-agentwozuo-ru-yapc-fukuoka-2025</link>
-        <dc:date>2025-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初心者がAWSに手を出してみた結果 (uchiyama886)</title>
-        <link>https://speakerdeck.com/uchiyama886/chu-xin-zhe-gaawsnishou-wochu-sitemitajie-guo</link>
         <dc:date>2025-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
