@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claude Code 10連ガチャ (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/claude-code-10lian-gatiya</link>
+        <dc:date>2025-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>成果を「デザイン」する技術広報 ~ デザイン思考でブース運営の型をつくる ~ (earlgrayMK)</title>
         <link>https://speakerdeck.com/mikimhk/cheng-guo-wo-dezain-suruji-shu-guang-bao-dezainsi-kao-debusuyun-ying-noxing-wotukuru</link>
         <dc:date>2025-11-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIエージェントによるエンタープライズ向けスライド検索！ (shibuiwilliam)</title>
         <link>https://speakerdeck.com/shibuiwilliam/aiezientoniyoruentapuraizuxiang-kesuraidojian-suo</link>
-        <dc:date>2025-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Promise.tryで実現する新しいエラーハンドリング New error handling with Promise try (おおいし)</title>
-        <link>https://speakerdeck.com/bicstone/new-error-handling-with-promise-try</link>
         <dc:date>2025-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
