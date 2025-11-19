@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Flutterチームから作る組織の越境文化 (ファインディ株式会社（イベント資料アップ用）)</title>
+        <link>https://speakerdeck.com/findy_eventslides/fluttertimukarazuo-ruzu-zhi-noyue-jing-wen-hua</link>
+        <dc:date>2025-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>少人数チームにおける複数アプリの継続的デリバリー＿Yoshihiro Tanaka (UPSIDER, Inc. Tech&amp;Product div.)</title>
+        <link>https://speakerdeck.com/upsider_tech/shao-ren-shu-timuniokerufu-shu-apurinoji-sok-de-deribari-yoshihiro-tanaka</link>
+        <dc:date>2025-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>What's the recommended Flutter architecture (AAkira)</title>
+        <link>https://speakerdeck.com/aakira/whats-the-recommended-flutter-architecture</link>
+        <dc:date>2025-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>仕様駆動開発の理想と現実、そして向き合い方 (Gota)</title>
         <link>https://speakerdeck.com/gotalab555/shi-yang-qu-dong-kai-fa-noli-xiang-toxian-shi-sositexiang-kihe-ifang</link>
         <dc:date>2025-11-18T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>大規模プロダクトで実践するAI活用の仕組みづくり (daiki)</title>
         <link>https://speakerdeck.com/k1tikurisu/implementing-ai-in-large-scale-products</link>
         <dc:date>2025-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webフロントエンドエンジニアが Railsの世界を覗いてみた👀 (NishimuraWataru,@_n13u_)</title>
-        <link>https://www.docswell.com/s/_n13u_/KYVJ47-2025-11-15-194731</link>
-        <dc:date>2025-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JavaScriptにおけるasync/await呼び出しのスタックトレースの困難と実装 (sosukesuzuki)</title>
-        <link>https://speakerdeck.com/sosukesuzuki/awaithu-bichu-sinosutatukutoresunokun-nan-toshi-zhuang</link>
-        <dc:date>2025-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ステートレスなLLMでステートフルなAI agentを作る - YAPC::Fukuoka 2025 (FUJI Goro)</title>
-        <link>https://speakerdeck.com/gfx/sutetoresunallmdesutetohurunaai-agentwozuo-ru-yapc-fukuoka-2025</link>
-        <dc:date>2025-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
