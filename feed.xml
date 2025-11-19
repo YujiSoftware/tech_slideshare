@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ABEMAのCM配信を支えるスケーラブルな分散カウンタの実装 (Honoka Toda)</title>
+        <link>https://speakerdeck.com/hono0130/cloud-native-days-winter-2025-distributed-counter</link>
+        <dc:date>2025-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Code 10連ガチャ (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/claude-code-10lian-gatiya</link>
         <dc:date>2025-11-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SREとソフトウェア開発者の合同チームはどのようにS3のコストを削減したか？ (Masahiro Yoshizawa)</title>
         <link>https://speakerdeck.com/muziyoshiz/tamachi-sre-1</link>
-        <dc:date>2025-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントによるエンタープライズ向けスライド検索！ (shibuiwilliam)</title>
-        <link>https://speakerdeck.com/shibuiwilliam/aiezientoniyoruentapuraizuxiang-kesuraidojian-suo</link>
         <dc:date>2025-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
