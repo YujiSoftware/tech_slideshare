@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI × クラウドで シイタケの収穫時期を判定してみた (Lamaglama39)</title>
+        <link>https://speakerdeck.com/lamaglama39/ai-x-kuraudode-siitakenoshou-huo-shi-qi-wopan-ding-sitemita</link>
+        <dc:date>2025-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CloudNative Days Winter 2025: 一週間で作る低レイヤコンテナランタイム (ternbusty)</title>
+        <link>https://speakerdeck.com/ternbusty/cloudnative-days-winter-2025-zhou-jian-dezuo-rudi-reiyakontenarantaimu</link>
+        <dc:date>2025-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>個人から巡るAI疲れと組織としてできること - AI疲れをふっとばせ。エンジニアのAI疲れ治療法 ショートセッション - (kichion)</title>
+        <link>https://speakerdeck.com/kikuchikakeru/ge-ren-karaxun-ruaipi-retozu-zhi-tositedekirukoto-aipi-rewohututobase-enzinianoaipi-rezhi-liao-fa-siyotosetusiyon</link>
+        <dc:date>2025-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>関数の挙動書き換える (takato fukui)</title>
+        <link>https://speakerdeck.com/takatofukui/guan-shu-noju-dong-shu-kihuan-eru</link>
+        <dc:date>2025-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>つくって壊して直して学ぶ Database on Kubernetes (CloudNative Days Summer 2025 発表資料) (NTT DATA Technology &amp; Innovation)</title>
+        <link>https://www.slideshare.net/slideshow/database-on-kubernetes-postgresql-cnds2025-nttdata/279494353</link>
+        <dc:date>2025-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ABEMAのCM配信を支えるスケーラブルな分散カウンタの実装 (Honoka Toda)</title>
         <link>https://speakerdeck.com/hono0130/cloud-native-days-winter-2025-distributed-counter</link>
         <dc:date>2025-11-18T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>『生成AIによるソフトウェア開発』（鷲崎弘宜, 鵜林尚靖, 中川尊雄, 増田航太, 徳本晋, 近藤将成, 石川冬樹, 竹之内啓太, 小川秀人, スマートエスイーセミナー, 2025年11月） (Hironori Washizaki)</title>
         <link>https://www.slideshare.net/slideshow/ai-2025-11/284148987</link>
         <dc:date>2025-11-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>やり方は一つだけじゃない、正解だけを目指さず寄り道やその先まで自分流に楽しむ趣味プログラミングの探求  2025-11-15 YAPC::Fukuoka (すぎゃーん)</title>
-        <link>https://speakerdeck.com/sugyan/yarifang-ha-tudakeziyanai-zheng-jie-dakewomu-zhi-sazuji-ridao-yasonoxian-madezi-fen-liu-nile-simuqu-wei-puroguramingunotan-qiu-2025-11-15-yapc-fukuoka</link>
-        <dc:date>2025-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Module Harmony (petamoriken / 森建)</title>
-        <link>https://speakerdeck.com/petamoriken/module-harmony</link>
-        <dc:date>2025-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Databricks Free Editionで始めるMLflow (Takaaki Yayoi)</title>
-        <link>https://speakerdeck.com/taka_aki/databricks-free-edition-deshi-merumlflow</link>
-        <dc:date>2025-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREの原則から辿る n1 の実践知と現在地 (Ryohei Kumagai)</title>
-        <link>https://speakerdeck.com/9ma3r/sre-principles</link>
-        <dc:date>2025-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREとソフトウェア開発者の合同チームはどのようにS3のコストを削減したか？ (Masahiro Yoshizawa)</title>
-        <link>https://speakerdeck.com/muziyoshiz/tamachi-sre-1</link>
-        <dc:date>2025-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
