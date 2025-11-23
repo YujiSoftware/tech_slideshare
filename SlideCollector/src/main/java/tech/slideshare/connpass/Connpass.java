@@ -12,6 +12,7 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
+import java.time.Duration;
 import java.time.Instant;
 import java.time.ZonedDateTime;
 import java.util.ArrayList;
@@ -134,6 +135,10 @@ public record Connpass(
                 }
                 events.add(event);
             }
+
+            // Connpass API は、1秒間に1リクエストまでの制限 (スロットリング) がある。
+            // そのため、余裕を見込んで間隔を開けてリクエストする。
+            Thread.sleep(Duration.ofSeconds(3).toMillis());
         }
 
         logger.debug("Collected count: {}", events.size());
