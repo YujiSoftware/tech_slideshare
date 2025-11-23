@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Building AI Agents with TypeScript #TSKaigiHokuriku (izumin5210)</title>
+        <link>https://speakerdeck.com/izumin5210/building-ai-agents-with-typescript</link>
+        <dc:date>2025-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20251122_LT_スマホ版軽量ローカルLLMで人物名マスク (NobuakiOshiro)</title>
         <link>https://speakerdeck.com/doradora09/20251122-lt-sumahoban-qing-liang-rokarullmteren-wu-ming-masuku</link>
         <dc:date>2025-11-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ECS組み込みのBlue/Greenデプロイを動かしてELB側の動きを観察してみる (矢儀丈博)</title>
         <link>https://speakerdeck.com/yuki_ink/greendepuroiwodong-kasiteelbce-nodong-kiwoguan-cha-sitemiru</link>
-        <dc:date>2025-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>不確実性に備える ABEMA の信頼性設計とオブザーバビリティ基盤 (Katsutoshi Nagaoka)</title>
-        <link>https://speakerdeck.com/nagapad/bu-que-shi-xing-nibei-eru-abema-noxin-lai-xing-she-ji-toobuzababiriteiji-pan</link>
         <dc:date>2025-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
