@@ -2,11 +2,11 @@ application {
     mainClass = 'tech.slideshare.crawler.Main'
 }
 
-tasks.register("deploy") {
+tasks.register("deploy", Exec) {
     group "distribution"
     dependsOn tasks.assemble
 
-    doLast {
+    doFirst {
         def tarFile = tasks.distTar.archiveFile.get().asFile
         if (!tarFile.exists()) {
             throw new GradleException("Tar file not found: $tarFile")
@@ -17,10 +17,9 @@ tasks.register("deploy") {
         def remotePath = "~/tech_slideshare/SlideCrawler/"
 
         println "Uploading ${tarFile.name} to ${remoteUser}@${remoteHost}:${remotePath}"
-        exec {
-            commandLine "ssh", "${remoteUser}@${remoteHost}", "tar -xvf - -C ${remotePath} --strip=1"
-            standardInput = new FileInputStream(tarFile)
-        }
+
+        standardInput = new FileInputStream(tarFile)
+        commandLine = ["ssh", "${remoteUser}@${remoteHost}", "tar -xvf - -C ${remotePath} --strip=1"]
     }
 }
 
@@ -43,5 +42,7 @@ dependencies {
     // https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox
     implementation group: 'org.apache.pdfbox', name: 'pdfbox', version: '3.0.0'
 
-    testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter', version: '5.7.0'
+    testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter', version: '5.14.1'
+
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }
