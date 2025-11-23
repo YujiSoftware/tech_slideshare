@@ -95,7 +95,7 @@ public class Main {
         System.exit(exitCode);
     }
 
-    private static void collect(Connection con) throws SQLException, JAXBException, IOException {
+    private static void collect(Connection con) throws SQLException, JAXBException, IOException, InterruptedException {
         SlideDao slideDao = new SlideDao(con);
         TweetQueueDao tweetQueueDao = new TweetQueueDao(con);
 

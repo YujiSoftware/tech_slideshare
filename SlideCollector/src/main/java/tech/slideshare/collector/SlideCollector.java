@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.List;
 
 public interface SlideCollector {
-    List<Slide> collect() throws JAXBException, IOException;
+    List<Slide> collect() throws JAXBException, IOException, InterruptedException;
 
     String name();
 }

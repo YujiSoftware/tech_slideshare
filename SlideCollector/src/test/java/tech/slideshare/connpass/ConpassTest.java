@@ -3,7 +3,7 @@ package tech.slideshare.connpass;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
-import java.net.URL;
+import java.net.URI;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 
@@ -14,10 +14,9 @@ public class ConpassTest {
     private static final ZoneId UTC = ZoneId.of("UTC");
 
     @Test
-    public void mapper() throws IOException {
-        URL url = new URL("https://connpass.com/api/v1/event/?event_id=364");
-
-        Connpass connpass = Connpass.mapper.readValue(url, Connpass.class);
+    public void mapper() throws IOException, InterruptedException {
+        URI uri = URI.create("https://connpass.com/api/v2/events/?event_id=364");
+        Connpass connpass = Connpass.get(uri);
 
         assertEquals(1, connpass.resultsReturned());
         assertEquals(1, connpass.resultsAvailable());
@@ -46,9 +45,9 @@ public class ConpassTest {
         assertEquals(0, event.waiting());
         assertEquals(ZonedDateTime.of(2014, 6, 30, 1, 6, 19, 0, UTC), event.updatedAt());
 
-        Connpass.Event.Series series = event.series();
-        assertEquals(1, series.id());
-        assertEquals("BPStudy", series.title());
-        assertEquals("https://bpstudy.connpass.com/", series.url());
+        Connpass.Event.Group group = event.group();
+        assertEquals(1, group.id());
+        assertEquals("BPStudy", group.title());
+        assertEquals("https://bpstudy.connpass.com/", group.url());
     }
 }

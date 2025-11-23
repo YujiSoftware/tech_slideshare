@@ -1,15 +1,17 @@
 package tech.slideshare.connpass;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import tech.slideshare.collector.ConnpassCollector;
 
 import java.io.IOException;
-import java.net.URL;
+import java.io.InputStream;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
 import java.time.Instant;
 import java.time.ZonedDateTime;
 import java.util.ArrayList;
@@ -44,7 +46,7 @@ public record Connpass(
      * @param limit            定員
      * @param eventType        イベント参加タイプ
      * @param openStatus       イベントの開催状態(preopen: 開催前, open: 開催中, close: 終了, cancelled: 中止)
-     * @param series           グループ
+     * @param group            グループ
      * @param address          開催場所
      * @param place            開催会場
      * @param lat              開催会場の緯度
@@ -56,7 +58,6 @@ public record Connpass(
      * @param waiting          補欠者数
      * @param updatedAt        更新日時 (ISO-8601形式)
      */
-    @JsonIgnoreProperties({"event_id", "event_url"})
     public record Event(
             @JsonProperty("id") int id,
             @JsonProperty("title") String title,
@@ -70,7 +71,7 @@ public record Connpass(
             @JsonProperty("limit") long limit,
             @JsonProperty("event_type") String eventType,
             @JsonProperty("open_status") String openStatus,
-            @JsonProperty("series") Series series,
+            @JsonProperty("group") Group group,
             @JsonProperty("address") String address,
             @JsonProperty("place") String place,
             @JsonProperty("lat") double lat,
@@ -90,7 +91,7 @@ public record Connpass(
          * @param title     グループタイトル
          * @param url       グループのconnpass.com 上のURL
          */
-        public record Series(
+        public record Group(
                 @JsonProperty("id") int id,
                 @JsonProperty("subdomain") String subdomain,
                 @JsonProperty("title") String title,
@@ -99,21 +100,33 @@ public record Connpass(
         }
     }
 
-    private static final Logger logger = LoggerFactory.getLogger(ConnpassCollector.class);
+    private static final Logger logger = LoggerFactory.getLogger(Connpass.class);
 
-    static final ObjectMapper mapper = new ObjectMapper().registerModule(new JavaTimeModule());
+    private static final ObjectMapper mapper = new ObjectMapper().registerModule(new JavaTimeModule());
 
-    public static List<Event> getEvents(Instant instant) throws IOException {
+    private static final HttpClient client = HttpClient.newHttpClient();
+
+    static Connpass get(URI uri) throws IOException, InterruptedException {
+        var request = HttpRequest.newBuilder()
+                .uri(uri)
+                .header("X-API-Key", System.getenv("CONNPASS_API_KEY"))
+                .build();
+
+        HttpResponse<InputStream> response = client.send(request, HttpResponse.BodyHandlers.ofInputStream());
+        return mapper.readValue(response.body(), Connpass.class);
+    }
+
+    public static List<Event> getEvents(Instant instant) throws IOException, InterruptedException {
         int count = 100;
         int loop = 10;
         List<Event> events = new ArrayList<>(count * loop);
 
         OUTER:
         for (int i = 0; i < loop; i++) {
-            URL url = new URL("https://connpass.com/api/v1/event/?count=" + count + "&start=" + (i * count));
-            logger.debug("Request: {}", url);
+            URI uri = URI.create("https://connpass.com/api/v2/events/?count=" + count + "&start=" + (i * count));
+            logger.debug("Request: {}", uri);
 
-            Connpass connpass = mapper.readValue(url, Connpass.class);
+            Connpass connpass = get(uri);
 
             for (Event event : connpass.events()) {
                 if (event.updatedAt().toInstant().isBefore(instant)) {
@@ -127,5 +140,4 @@ public record Connpass(
 
         return events;
     }
-
 }

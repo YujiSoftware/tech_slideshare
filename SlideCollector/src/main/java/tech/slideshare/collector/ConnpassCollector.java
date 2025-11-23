@@ -35,7 +35,7 @@ public class ConnpassCollector implements SlideCollector {
     private final Parser speakerDeckParser = new SpeakerDeckParser();
 
     @Override
-    public List<Slide> collect() throws IOException {
+    public List<Slide> collect() throws IOException, InterruptedException {
         Cache cache = new TempFileCache(Connpass.class.getSimpleName());
 
         List<Slide> list = new ArrayList<>();
