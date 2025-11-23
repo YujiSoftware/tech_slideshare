@@ -38,12 +38,24 @@ public class GoogleSlideParserTest {
             "https://docs.google.com/presentation/u/0/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/edit",
             "https://docs.google.com/presentation/u/0/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/edit?usp=embed_googleplus",
             "https://docs.google.com/presentation/u/0/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/edit#slide=id.p",
-            "https://docs.google.com/presentation/u/0/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/mobilepresent",
     })
     public void 正規化(String link) {
         Optional<Slide> actual = parser.parse(link);
         assertTrue(actual.isPresent());
 
+        Slide slide = actual.get();
+        assertEquals("https://docs.google.com/presentation/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/preview", slide.getLink());
+    }
+
+    @ParameterizedTest
+    @ValueSource(strings = {
+            "https://docs.google.com/presentation/u/0/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/mobilepresent",
+    })
+    public void 正規化_mobilepresent(String link) {
+        Optional<Slide> actual = parser.parse(link);
+        assertTrue(actual.isPresent());
+
+        // なぜか /mobilepresent のときだけ embedURL が異なる
         Slide slide = actual.get();
         assertEquals("https://docs.google.com/presentation/u/0/d/1ROqjuCrr39OirOaz3XlvDhKjwmUkzR9zf_i9JMaBIPQ/preview", slide.getLink());
     }
