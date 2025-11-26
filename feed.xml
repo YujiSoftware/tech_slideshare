@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIと共に進化するモノタロウ - AI駆動開発 Conference Autumn 2025 (MonotaRO)</title>
+        <link>https://speakerdeck.com/monotaro/monotaro-ai-conference-autumn-2025</link>
+        <dc:date>2025-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>30分でDoctrineの仕組みと使い方を完全にマスターする / phpconkagawa 2025 Doctrine (Takashi Kanemoto)</title>
         <link>https://speakerdeck.com/ttskch/phpconkagawa-2025-doctrine</link>
         <dc:date>2025-11-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20251122_第１回ローカルLLMなんでも勉強会_オープニングトーク (NobuakiOshiro)</title>
         <link>https://speakerdeck.com/doradora09/20251122-di-1hui-rokarullmnantemomian-qiang-hui-ohuninkutoku</link>
-        <dc:date>2025-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pandocでmd→pptx便利すぎワロタwww (meow)</title>
-        <link>https://speakerdeck.com/meow_noisy/md2pptx-with-pandoc</link>
         <dc:date>2025-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
