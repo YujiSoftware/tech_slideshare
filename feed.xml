@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>力学系から見た現代的な機械学習 (Han Bao)</title>
+        <link>https://speakerdeck.com/hanbao/li-xue-xi-karajian-taxian-dai-de-naji-jie-xue-xi</link>
+        <dc:date>2025-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なあ兄弟、 余白の意味を考えてから UI実装してくれ！ (Ryomm)</title>
         <link>https://speakerdeck.com/ktcryomm/naaxiong-di-yu-bai-noyi-wei-wokao-etekara-uishi-zhuang-sitekure</link>
         <dc:date>2025-11-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>業務アプリを安全に効率的に開発・運用するためのポイント (アシアル株式会社,@asialnews)</title>
         <link>https://www.slideshare.net/slideshow/ss-36983849/36983849</link>
-        <dc:date>2025-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Building AI Agents with TypeScript #TSKaigiHokuriku (izumin5210)</title>
-        <link>https://speakerdeck.com/izumin5210/building-ai-agents-with-typescript</link>
         <dc:date>2025-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
