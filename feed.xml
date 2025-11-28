@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>衝突（コンフリクト）のマネジメント (Toshiyuki Ohtomo,@toshiotm)</title>
+        <link>https://www.docswell.com/s/toshiotm/ZDW84N-2025-11-28-173237</link>
+        <dc:date>2025-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>懇親会で「ぼっち」になってしまうのは、あなたのせいではありません。 #ぼっち対策会議 (Kaito UDAGAWA,@Kaitou1192)</title>
         <link>https://www.docswell.com/s/Kaitou/574P6W-2025-11-27-163932</link>
         <dc:date>2025-11-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>レガシーシステム刷新における TypeSpec スキーマ駆動開発のすゝめ (karacoro / からころ)</title>
         <link>https://speakerdeck.com/tsukuha/regasisisutemushua-xin-niokeru-typespec-sukimaqu-dong-kai-fa-nosu-me</link>
-        <dc:date>2025-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Full-Stack TSでのマルチプロダクト基盤開発 / TSKaigi Hokuriku 2025 (Shodai Suzuki)</title>
-        <link>https://speakerdeck.com/soarteclab/tskaigi-hokuriku-2025</link>
         <dc:date>2025-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
