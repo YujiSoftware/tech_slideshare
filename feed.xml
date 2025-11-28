@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>複数人でのCLI/Infrastructure as Codeの暮らしを良くする (Shoma Okamoto)</title>
+        <link>https://speakerdeck.com/shmokmt/infrastructure-as-codenomu-rasiwoliang-kusuru</link>
+        <dc:date>2025-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>衝突（コンフリクト）のマネジメント (Toshiyuki Ohtomo,@toshiotm)</title>
         <link>https://www.docswell.com/s/toshiotm/ZDW84N-2025-11-28-173237</link>
         <dc:date>2025-11-27T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AWS re:Invent 2025 で頻出の 生成 AI サービスをおさらい (komakichi)</title>
         <link>https://speakerdeck.com/komakichi/aws-re-invent-2025-depin-chu-no-sheng-cheng-ai-sabisuwoosarai</link>
         <dc:date>2025-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>レガシーシステム刷新における TypeSpec スキーマ駆動開発のすゝめ (karacoro / からころ)</title>
-        <link>https://speakerdeck.com/tsukuha/regasisisutemushua-xin-niokeru-typespec-sukimaqu-dong-kai-fa-nosu-me</link>
-        <dc:date>2025-11-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
