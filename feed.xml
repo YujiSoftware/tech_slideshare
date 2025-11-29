@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>段階的に進める、 挫折しない自宅サーバ入門 (yut)</title>
+        <link>https://speakerdeck.com/yu_kod/duan-jie-de-nijin-meru-cuo-zhe-sinaizi-zhai-sabaru-men</link>
+        <dc:date>2025-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ZOZOにおけるAI活用の現在 ~モバイルアプリ開発でのAI活用状況と事例~ (ZOZO Developers)</title>
+        <link>https://speakerdeck.com/zozotech/ai-at-zozo-mobile-app-development</link>
+        <dc:date>2025-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>複数人でのCLI/Infrastructure as Codeの暮らしを良くする (Shoma Okamoto)</title>
         <link>https://speakerdeck.com/shmokmt/infrastructure-as-codenomu-rasiwoliang-kusuru</link>
         <dc:date>2025-11-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>「なんか好き」を設計する  情緒的価値をPMの武器にする3つのポイント (inagaki)</title>
         <link>https://speakerdeck.com/inagakikay/nankahao-ki-woshe-ji-suru-qing-xu-de-jia-zhi-wopmnowu-qi-nisuru3tunopointo</link>
-        <dc:date>2025-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScriptで設計する 堅牢さとUXを両立した非同期ワークフローの実現 (Matsumoto Moeka)</title>
-        <link>https://speakerdeck.com/moeka__c/typescriptdeshe-ji-suru-jian-lao-satouxwoliang-li-sitafei-tong-qi-wakuhuronoshi-xian</link>
-        <dc:date>2025-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS re:Invent 2025 で頻出の 生成 AI サービスをおさらい (komakichi)</title>
-        <link>https://speakerdeck.com/komakichi/aws-re-invent-2025-depin-chu-no-sheng-cheng-ai-sabisuwoosarai</link>
         <dc:date>2025-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
