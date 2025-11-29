@@ -8,6 +8,7 @@ import java.time.ZoneId;
 import java.time.ZonedDateTime;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNull;
 
 public class ConpassTest {
 
@@ -32,7 +33,7 @@ public class ConpassTest {
         assertEquals("bpstudy", event.hashTag());
         assertEquals(ZonedDateTime.of(2012, 4, 17, 9, 30, 0, 0, UTC), event.startedAt());
         assertEquals(ZonedDateTime.of(2012, 4, 17, 11, 30, 0, 0, UTC), event.endedAt());
-        assertEquals(0, event.limit());
+        assertNull(event.limit());
         assertEquals("participation", event.eventType());
         assertEquals("東京都港区北青山2-8-44", event.address());
         assertEquals("先端技術館＠TEPIA", event.place());
