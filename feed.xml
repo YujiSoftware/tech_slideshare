@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>機能的凝集とコロケーション - 保守性の高い React Router v7 コンポーネント設計戦略 (溝口浩二,@techtalkjp)</title>
+        <link>https://www.docswell.com/s/8723156/ZLVYN9-2025-11-26-202902</link>
+        <dc:date>2025-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>段階的に進める、 挫折しない自宅サーバ入門 (yut)</title>
         <link>https://speakerdeck.com/yu_kod/duan-jie-de-nijin-meru-cuo-zhe-sinaizi-zhai-sabaru-men</link>
         <dc:date>2025-11-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TypeScript×CASLでつくるSaaSの認可 / Authz with CASL (Jumpei Sakatsu)</title>
         <link>https://speakerdeck.com/saka2jp/authz-with-casl</link>
-        <dc:date>2025-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「なんか好き」を設計する  情緒的価値をPMの武器にする3つのポイント (inagaki)</title>
-        <link>https://speakerdeck.com/inagakikay/nankahao-ki-woshe-ji-suru-qing-xu-de-jia-zhi-wopmnowu-qi-nisuru3tunopointo</link>
         <dc:date>2025-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
