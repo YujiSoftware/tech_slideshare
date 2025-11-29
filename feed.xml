@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>S3 VectorsとStrands Agentsを利用したAgentic RAGシステムの構築 (とすり)</title>
+        <link>https://speakerdeck.com/tosuri13/s3-vectorstostrands-agentswoli-yong-sitaagentic-ragsisutemunogou-zhu</link>
+        <dc:date>2025-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>事業部のプロジェクト進行と開発チームの改善の “時間軸" のすり合わせ (konifar)</title>
+        <link>https://speakerdeck.com/konifar/shi-ye-bu-nopuroziekutojin-xing-tokai-fa-timunogai-shan-no-shi-jian-zhou-nosurihe-wase</link>
+        <dc:date>2025-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>機能的凝集とコロケーション - 保守性の高い React Router v7 コンポーネント設計戦略 (溝口浩二,@techtalkjp)</title>
         <link>https://www.docswell.com/s/8723156/ZLVYN9-2025-11-26-202902</link>
         <dc:date>2025-11-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AI開発の定着を推進するために揃えるべき前提 (Suguru Ohki)</title>
         <link>https://speakerdeck.com/suguruooki/aikai-fa-noding-zhao-wotui-jin-surutamenijian-erubekiqian-ti</link>
-        <dc:date>2025-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>福岡大学 公開NTPサービス アップデート (Fuminori -Tany- Tanizaki(谷崎文義))</title>
-        <link>https://speakerdeck.com/tanyorg/fu-gang-da-xue-gong-kai-ntpsabisu-atupudeto</link>
-        <dc:date>2025-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript×CASLでつくるSaaSの認可 / Authz with CASL (Jumpei Sakatsu)</title>
-        <link>https://speakerdeck.com/saka2jp/authz-with-casl</link>
         <dc:date>2025-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
