@@ -1,10 +1,9 @@
 package tech.slideshare.connpass;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import tools.jackson.databind.ObjectMapper;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -103,7 +102,7 @@ public record Connpass(
 
     private static final Logger logger = LoggerFactory.getLogger(Connpass.class);
 
-    private static final ObjectMapper mapper = new ObjectMapper().registerModule(new JavaTimeModule());
+    private static final ObjectMapper mapper = new ObjectMapper();
 
     private static final HttpClient client = HttpClient.newHttpClient();
 

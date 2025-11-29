@@ -42,11 +42,8 @@ dependencies {
     // https://mvnrepository.com/artifact/com.sun.xml.bind/jaxb-impl
     runtimeOnly group: 'com.sun.xml.bind', name: 'jaxb-impl', version: '3.0.0'
 
-    // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
-    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.14.0'
-
-    // https://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310
-    implementation group: 'com.fasterxml.jackson.datatype', name: 'jackson-datatype-jsr310', version: '2.14.0'
+    // https://mvnrepository.com/artifact/tools.jackson.core/jackson-databind
+    implementation group: 'tools.jackson.core', name: 'jackson-databind', version: '3.0.2'
 
     testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter', version: '5.14.1'
 

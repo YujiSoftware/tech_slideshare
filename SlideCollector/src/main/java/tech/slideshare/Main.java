@@ -1,6 +1,5 @@
 package tech.slideshare;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;
 import jakarta.xml.bind.Marshaller;
@@ -19,6 +18,7 @@ import tech.slideshare.rss.Channel;
 import tech.slideshare.rss.HatenaBookmark;
 import tech.slideshare.rss.Item;
 import tech.slideshare.rss.Rss;
+import tools.jackson.databind.ObjectMapper;
 
 import java.io.IOException;
 import java.io.Writer;

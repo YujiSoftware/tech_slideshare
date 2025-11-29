@@ -1,8 +1,6 @@
 package tech.slideshare.collector;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -12,9 +10,9 @@ import tech.slideshare.cache.Cache;
 import tech.slideshare.cache.TempFileCache;
 import tech.slideshare.connpass.Connpass;
 import tech.slideshare.parser.*;
+import tools.jackson.databind.ObjectMapper;
 
 import java.io.IOException;
-import java.io.UncheckedIOException;
 import java.net.HttpURLConnection;
 import java.util.ArrayList;
 import java.util.List;
@@ -121,11 +119,7 @@ public class ConnpassCollector implements SlideCollector {
             @JsonProperty("extra_data") Map<String, String> extraData
     ) {
         private static Data readValue(String json) {
-            try {
-                return MAPPER.readValue(json, Data.class);
-            } catch (JsonProcessingException ex) {
-                throw new UncheckedIOException(ex);
-            }
+            return MAPPER.readValue(json, Data.class);
         }
     }
 }
