@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI 時代のデータ戦略 (na0)</title>
+        <link>https://speakerdeck.com/na0/ai-shi-dai-nodetazhan-lue</link>
+        <dc:date>2025-11-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>.NET 10 のパフォーマンス改善 (neno)</title>
         <link>https://speakerdeck.com/nenonaninu/dot-net-10-nopahuomansugai-shan</link>
         <dc:date>2025-11-28T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>経営から紐解くデータマネジメント (Jun Ernesto Okumura)</title>
         <link>https://speakerdeck.com/pacocat/jing-ying-karaniu-jie-kudetamanezimento</link>
         <dc:date>2025-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIと共に進化するモノタロウ - AI駆動開発 Conference Autumn 2025 (MonotaRO)</title>
-        <link>https://speakerdeck.com/monotaro/monotaro-ai-conference-autumn-2025</link>
-        <dc:date>2025-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
