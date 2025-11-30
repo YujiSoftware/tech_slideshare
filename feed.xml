@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DevFest Tokyo 2025: AIエージェントの頭の中</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vTBkxVp3uLlq_zWiJn1ActikSZ4m9tz2h9Rm2_z6ewuE2--XGoIB14IoOcrWjPnmjYRDeIPTrFr4fPu/pub</link>
+        <dc:date>2025-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソースマップはどのように元コードへの参照を保持するか (yuta-ike)</title>
         <link>https://www.docswell.com/s/4136989/574PP1-fec_kansai_long</link>
         <dc:date>2025-11-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ZOZOにおけるAI活用の現在 ~モバイルアプリ開発でのAI活用状況と事例~ (ZOZO Developers)</title>
         <link>https://speakerdeck.com/zozotech/ai-at-zozo-mobile-app-development</link>
-        <dc:date>2025-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>複数人でのCLI/Infrastructure as Codeの暮らしを良くする (Shoma Okamoto)</title>
-        <link>https://speakerdeck.com/shmokmt/infrastructure-as-codenomu-rasiwoliang-kusuru</link>
         <dc:date>2025-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
