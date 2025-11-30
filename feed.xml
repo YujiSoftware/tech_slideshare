@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ECMAScript仕様の最新動向: プロセスの変化と仕様のトレンド (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/ecmascriptshi-yang-nozui-xin-dong-xiang-purosesunobian-hua-toshi-yang-notorendo</link>
+        <dc:date>2025-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>タグ付きユニオン型を便利に使うテクニックとその注意点 (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/tagufu-kiyunionxing-wobian-li-nishi-utekunitukutosonozhu-yi-dian</link>
+        <dc:date>2025-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TypeScriptがブラウザで実行されるまでの流れを5分で伝えたい (ジン / Jin)</title>
         <link>https://speakerdeck.com/jina293/typescriptgaburauzadeshi-xing-sarerumadenoliu-rewo5fen-dechuan-etai</link>
         <dc:date>2025-11-30T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>S3 VectorsとStrands Agentsを利用したAgentic RAGシステムの構築 (とすり)</title>
         <link>https://speakerdeck.com/tosuri13/s3-vectorstostrands-agentswoli-yong-sitaagentic-ragsisutemunogou-zhu</link>
-        <dc:date>2025-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業部のプロジェクト進行と開発チームの改善の “時間軸" のすり合わせ (konifar)</title>
-        <link>https://speakerdeck.com/konifar/shi-ye-bu-nopuroziekutojin-xing-tokai-fa-timunogai-shan-no-shi-jian-zhou-nosurihe-wase</link>
-        <dc:date>2025-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機能的凝集とコロケーション - 保守性の高い React Router v7 コンポーネント設計戦略 (溝口浩二,@techtalkjp)</title>
-        <link>https://www.docswell.com/s/8723156/ZLVYN9-2025-11-26-202902</link>
         <dc:date>2025-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
