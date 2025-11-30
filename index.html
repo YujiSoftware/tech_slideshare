@@ -55,6 +55,32 @@
     <div id="app">
       <items v-bind:items="json.items" v-bind:ads="ads"></items>
     </div>
+
+    <p class="text-center mt-3">
+      <a href="https://yuji.software/">運営者</a> / 
+      <a href="#privacy-policy" data-bs-toggle="modal" data-bs-target="#privacy-policy">プライバシーポリシー</a>
+    </p>
+    <div id="privacy-policy" class="modal fade" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-4">プライバシーポリシー</h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <h2 class="fs-5">アクセス解析ツールについて</h2>
+            <p>当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を使用しています。</p>
+            <p>このGoogleアナリティクスはデータの収集のためにCookieを使用しています。このデータは匿名で収集されており、個人を特定するものではありません。</p>
+            <p>この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。この規約に関しての詳細は<a href="https://marketingplatform.google.com/about/analytics/terms/jp/" target="_blank" rel="noopener">Googleアナリティクスサービス利用規約</a>のページや<a href="https://policies.google.com/technologies/ads?hl=ja" target="_blank" rel="noopener noreferrer" title="">Googleポリシーと規約ページ</a>をご覧ください。</p>
+            <h2 class="fs-5">Amazonの広告配信について</h2>
+            <p>Amazonのアソシエイトとして、「勉強会スライドbot」は適格販売により収入を得ています。</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary" data-bs-dismiss="modal">閉じる</button>
+          </div>
+        </div>
+      </div>
+    </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
     <script>
 Vue.component('item', {
