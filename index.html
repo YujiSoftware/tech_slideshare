@@ -53,9 +53,7 @@
     </p>
     
     <div id="app">
-      <div class="row row-cols-auto row-cols-md-3 g-3">
-        <item v-for="item in json.items" v-bind:item="item"></item>
-      </div>
+      <items v-bind:items="json.items" v-bind:ads="ads"></items>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
     <script>
@@ -72,11 +70,90 @@ Vue.component('item', {
   </div>
 </div>`
 });
+Vue.component('advertisement', {
+    props: ['item'],
+    computed: {
+      image() {
+        return `https://images-na.ssl-images-amazon.com/images/P/${this.item.asin}.09.LZZZZZZZ`;
+      },
+      link() {
+        return `https://www.amazon.co.jp/dp/${this.item.asin}/ref=nosim?tag=tech_slideshare-22`;
+      }
+    },
+    template: `
+<div class="col">
+  <div class="card h-100" style="position: relative;">
+    <a :href="link"><img :src="image" class="card-img-top" style="height: 200px; object-fit: contain" loading="lazy"></a>
+    
+    <div class="position-absolute top-0 end-0 p-2" style="width: fit-content;">
+      <p class="card-text" style="height: fit-content;">広告</p>
+    </div>
+
+    <div class="card-body">
+      <a :href="link"><h5 class="card-title">{{ item.title }}</h5></a>
+      <p class="card-text"><small class="text-body-secondary">{{ item.author }}</small></p>
+    </div>
+  </div>
+</div>`
+});
+Vue.component('items', {
+    props: ['items', 'ads'],
+    template: `
+<div class="row row-cols-auto row-cols-md-3 g-3">
+  <template v-for="(item, index) in items">
+    <advertisement :item="ads[Math.floor(Math.random() * ads.length)]" v-if="index == 2"></advertisement>
+    <item :item="item"></item>
+  </template>
+</div>`
+});
 
 var app = new Vue({
     el: '#app',
     data: {
         json: [],
+        ads: [
+          { asin: "B0FV5N2SSF", title: "［改訂新版］SQL実践入門──高速でわかりやすいクエリの書き方 WEB+DB PRESS plus", author: "ミック" },
+          { asin: "B0D8N3YMF9", title: "7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性", author: "野溝 のみぞう" },
+          { asin: "B0CW1KZ5N3", title: "ソフトウェア開発現場の「失敗」集めてみた。 42の失敗事例で学ぶチーム開発のうまい進めかた", author: "出石 聡史" },
+          { asin: "B0F4W99P34", title: "エンジニア育成現場の「失敗」集めてみた。【Kindle限定固定型】 42の失敗事例で学ぶマネジメントのうまい進めかた", author: "出石 聡史" },
+          { asin: "B0BG3YF6ZY", title: "Vue 3 フロントエンド開発の教科書 ", author: "WINGSプロジェクト 齊藤新三, 山田 祥寛" },
+          { asin: "B099922DML", title: "Effective Java 第3版", author:"ジョシュア・ブロック, 柴田芳樹" },
+          { asin: "B09VK3FTDM", title: "プロになるJava―仕事で必要なプログラミングの知識がゼロから身につく最高の指南書", author: "きしだ なおき, 山本 裕介, 杉山 貴章" },
+          { asin: "B0DXJKDSDT", title: "改訂3版　パーフェクトJava", author: "井上 誠一郎, 景井 教天, 櫻庭 祐一, きしだ なおき" },
+          { asin: "B0CZKKMPRZ", title: "改訂新版　Spring Framework超入門　やさしくわかるWebアプリ開発", author: "樹下 雅章" },
+          { asin: "B0BT1CNF1C", title: "改訂3版JavaScript本格入門　～モダンスタイルによる基礎から現場での応用まで", author: "山田 祥寛" },
+          { asin: "4814401094", title: "Effective TypeScript 第2版 ―型システムの力を最大限に引き出す83項目", author: "Dan Vanderkam, 今村 謙士" },
+          { asin: "4908686203", title: "型システムのしくみ TypeScriptで実装しながら学ぶ型とプログラミング言語", author: "遠藤侑介" },
+          { asin: "B0FPV1XSSZ", title: "改訂新版 Go言語プログラミングエッセンス", author: "mattn" },
+          { asin: "B073GSDBGT", title: "現場で役立つシステム設計の原則 〜変更を楽で安全にするオブジェクト指向の実践技法", author: "増田 亨" },
+          { asin: "B0DPW38VVV", title: "改訂新版　良いコード／悪いコードで学ぶ設計入門 ―保守しやすい　成長し続けるコードの書き方", author: "仙塲 大也" },
+          { asin: "B0BWR1T5QK", title: "動かして学ぶ！Rust入門", author: "mebiusbox" },
+          { asin: "B0CVLF45NS", title: "Flutter実践開発 ── iPhone／Android両対応アプリ開発のテクニック WEB+DB PRESS plus", author: "渡部 陽太" },
+          { asin: "B09Y527YPV", title: "プロを目指す人のためのTypeScript入門　安全なコードの書き方から高度な型の使い方まで", author: "鈴木 僚太" },
+          { asin: "B0D8HWTC7Y", title: "Python Django本格入門", author: "樹下 雅章" },
+          { asin: "B0FG233G7G", title: "Pythonプログラミング＆データサイエンスライブラリ活用入門", author: "河西 朝雄" },
+          { asin: "B0G13D2JS4", title: "Claude CodeによるAI駆動開発入門", author: "平川 知秀" },
+          { asin: "B0FWBTVP6Q", title: "MCP入門――生成AIアプリ本格開発", author: "小野 哲" },
+          { asin: "B0FHGNM99M", title: "データ可視化 完全入門　～すぐに使えてずっと役立つグラフデザインの理論とテクニック", author: "高比良 健太郎" },
+          { asin: "B0FV1YZQCV", title: "まるごと学べる 異常検知の実践知", author: "中村 謙太" },
+          { asin: "B0F1QT7JL1", title: "ゼロからわかるDifyの教科書 ～生成AI×ノーコードでかんたん業務効率化", author: "にゃんた" },
+          { asin: "B0CW1MKJ5W", title: "生成AIアプリ開発大全――Difyの探求と実践活用", author: "小野 哲" },
+          { asin: "B0DD6N9CL3", title: "大規模言語モデル入門Ⅱ〜生成型LLMの実装と評価", author: "山田 育矢, 鈴木 正敏, 西川 荘介, 藤井 一喜, 山田 康輔, 李 凌寒" },
+          { asin: "B0CJRDFJZB", title: "ChatGPT/LangChainによるチャットシステム構築［実践］入門", author: "吉田 真吾, 大嶋 勇樹" },
+          { asin: "B0BQQNWJHQ", title: "図解即戦力　AIのしくみと活用がこれ1冊でしっかりわかる教科書", author: "高橋 海渡, 立川 裕之, 小西 功記, 小林 寛子, 石井 大輔" },
+          { asin: "B0FL15D46Z", title: "改訂新版　電子工作入門以前", author: "後閑 哲也" },
+          { asin: "B0FBG4GM9M", title: "ソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプローチ", author: "井芹 洋輝" },
+          { asin: "B0D6QSM9KB", title: "Web API設計実践入門──API仕様ファーストによるテスト駆動開発 Web＋DB PRESS plusシリーズ", author: "柴田 芳樹" },
+          { asin: "B0DJQ4P69R", title: "エンジニアチームの生産性の高め方 〜開発効率を向上させて、人を育てる仕組みを作る", author: "田中 洋一郎, 石川 宗寿, 若狹 建, 田中 優之, 小澤 正幸, 川中 真耶, 三木 康暉" },
+          { asin: "B0G4C9HCRC", title: "オンボーディングの教科書──エンジニアをチームに迎え入れる", author: "興梠 敬典, LAPRAS株式会社" },
+          { asin: "B0FM7QPW78", title: "技術広報の教科書──人事・広報・エンジニアが兼務から始める", author: "河又 涼" },
+          { asin: "B0DK4YGYBL", title: "LangChainとLangGraphによるRAG・AIエージェント［実践］入門 エンジニア選書", author: "西見 公宏, 吉田 真吾, 大嶋 勇樹" },
+          { asin: "B0D9PT5FVJ", title: "動かして学ぶ！Next.js/React開発入門", author: "三好 アキ" },
+          { asin: "B0G36N9LR9", title: "LangChainによるAIエージェント開発講座【リフロー型】", author: "神田 良輝" },
+          { asin: "B0G2PR2GQZ", title: "ChatGPTはどのように動いているのか？【Kindle限定固定型】", author: "中西 崇文" },
+          { asin: "B0FSHN6Q8K", title: "実務で役立つ ログの教科書 基礎知識から収集方法・分析手法・トラブルシューティング・パフォーマンス最適化・機械学習での活用まで", author: "増井 敏克" },
+          { asin: "B0FHZSW3H5", title: "優れたエンジニアがコミュニティの中でしていること【リフロー型】", author: "黒須 義一, 酒井 真弓, 宮本 佳歩" },
+        ]
     },
     created: function() {
         fetch("./feed.json", {cache: "reload"})
