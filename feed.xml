@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソースマップはどのように元コードへの参照を保持するか (yuta-ike)</title>
+        <link>https://www.docswell.com/s/4136989/574PP1-fec_kansai_long</link>
+        <dc:date>2025-11-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>useEffectってなんで非推奨みたいなこと言われてるの？ (マグロ隊長kinTV)</title>
         <link>https://speakerdeck.com/maguroalternative/useeffecttutenandefei-tui-jiang-mitainakotoyan-wareteruno</link>
         <dc:date>2025-11-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>複数人でのCLI/Infrastructure as Codeの暮らしを良くする (Shoma Okamoto)</title>
         <link>https://speakerdeck.com/shmokmt/infrastructure-as-codenomu-rasiwoliang-kusuru</link>
         <dc:date>2025-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>衝突（コンフリクト）のマネジメント (Toshiyuki Ohtomo,@toshiotm)</title>
-        <link>https://www.docswell.com/s/toshiotm/ZDW84N-2025-11-28-173237</link>
-        <dc:date>2025-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
