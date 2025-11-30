@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScriptがブラウザで実行されるまでの流れを5分で伝えたい (ジン / Jin)</title>
+        <link>https://speakerdeck.com/jina293/typescriptgaburauzadeshi-xing-sarerumadenoliu-rewo5fen-dechuan-etai</link>
+        <dc:date>2025-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>これだけで丸わかり！LangChain v1.0 アップデートまとめ (os1ma)</title>
+        <link>https://speakerdeck.com/os1ma/koredakedewan-wakari-langchain-v1-dot-0-atupudetomatome</link>
+        <dc:date>2025-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DevFest Tokyo 2025: AIエージェントの頭の中</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vTBkxVp3uLlq_zWiJn1ActikSZ4m9tz2h9Rm2_z6ewuE2--XGoIB14IoOcrWjPnmjYRDeIPTrFr4fPu/pub</link>
         <dc:date>2025-11-29T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>機能的凝集とコロケーション - 保守性の高い React Router v7 コンポーネント設計戦略 (溝口浩二,@techtalkjp)</title>
         <link>https://www.docswell.com/s/8723156/ZLVYN9-2025-11-26-202902</link>
-        <dc:date>2025-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>段階的に進める、 挫折しない自宅サーバ入門 (yut)</title>
-        <link>https://speakerdeck.com/yu_kod/duan-jie-de-nijin-meru-cuo-zhe-sinaizi-zhai-sabaru-men</link>
-        <dc:date>2025-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ZOZOにおけるAI活用の現在 ~モバイルアプリ開発でのAI活用状況と事例~ (ZOZO Developers)</title>
-        <link>https://speakerdeck.com/zozotech/ai-at-zozo-mobile-app-development</link>
         <dc:date>2025-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
