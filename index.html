@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>勉強会スライドbot</title>
     <link rel="alternate" type="application/rss+xml" href="https://yuji.software/tech_slideshare/feed.xml" title="RSS2.0" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
     <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
 
@@ -32,32 +32,43 @@
     </script>
 
     <style>
-        body {
-            max-width: 500px !important;
+        .card-body h5 {
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          -webkit-line-clamp: 3;
+          overflow: hidden;
+        }
+        .card-body p.card-text {
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
         }
     </style>
   </head>
-  <body class="container">
-    <h1 class="text-center mt-3"><img class="me-2" src="logo.png" width="48px" height="48px">勉強会スライドbot</h1>
+  <body class="container my-3">
+    <h1 class="text-center"><img class="me-2" src="logo.png" width="48px" height="48px">勉強会スライドbot</h1>
     <p class="text-center fs-3">
         <a href="https://twitter.com/tech_slideshare/"><i class="bi bi-twitter me-1"></i></a>
         <a href="https://yuji.software/tech_slideshare/feed.xml" style="color: #f26522"><i class="bi bi-rss-fill me-1"></i></a>
     </p>
     
     <div id="app">
+      <div class="row row-cols-auto row-cols-md-3 g-3">
         <item v-for="item in json.items" v-bind:item="item"></item>
       </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
     <script>
 Vue.component('item', {
     props: ['item'],
     template: `
-<div class="card mb-3">
+<div class="col">
+  <div class="card h-100">
     <a :href="item.link"><img :src="item.image" class="card-img-top" loading="lazy"></a>
-  <div class="card-body">
-    <h5 class="card-title"><a :href="item.link">{{ item.title }}</a></h5>
-    <p class="card-text">{{ item.description }}</p>
-    <p class="card-text"><small class="text-muted">{{ item.author }}</small></p>
+    <div class="card-body">
+      <a :href="item.link"><h5 class="card-title">{{ item.title }}</h5></a>
+      <p class="card-text"><small class="text-body-secondary">{{ item.author }}</small></p>
+    </div>
   </div>
 </div>`
 });
