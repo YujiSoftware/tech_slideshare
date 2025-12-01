@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claude Code 超入門 バイブコーディングでつくる自分用ニュースまとめ (星影,@unsoluble_sugar)</title>
+        <link>https://www.docswell.com/s/unsoluble_sugar/KWM7R1-2025-11-24-161918</link>
+        <dc:date>2025-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Docker Desktop で Docker を始めよう (Masahito Zembutsu)</title>
         <link>https://speakerdeck.com/zembutsu/getting-started-with-docker-a-complete-guide-to-docker-desktop</link>
         <dc:date>2025-11-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>脆弱性っぽい挙動を見つけたときの倫理的な行動とは？ (はせがわようすけ,@hasegawayosuke)</title>
         <link>https://www.docswell.com/s/hasegawa/KEY3D7-matcha139</link>
-        <dc:date>2025-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI 時代のデータ戦略 (na0)</title>
-        <link>https://speakerdeck.com/na0/ai-shi-dai-nodetazhan-lue</link>
         <dc:date>2025-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
