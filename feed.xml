@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>デザインシステムでA11y品質が担保できなかった「3つの理由」</title>
+        <link>https://docs.google.com/presentation/d/1hEoFqfJfDWL-Xv2h9uLEVWky_XNwewoGHY0J2VVNAlw/preview</link>
+        <dc:date>2025-11-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ECMAScript仕様の最新動向: プロセスの変化と仕様のトレンド (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/ecmascriptshi-yang-nozui-xin-dong-xiang-purosesunobian-hua-toshi-yang-notorendo</link>
         <dc:date>2025-11-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>翻訳・対話・越境で強いチームワークを作ろう！ / Building Strong Teamwork through Interpretation, Dialogue, and Border-Crossing (ar_tama)</title>
         <link>https://speakerdeck.com/ar_tama/building-strong-teamwork-through-interpretation-dialogue-and-border-crossing</link>
-        <dc:date>2025-11-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>S3 VectorsとStrands Agentsを利用したAgentic RAGシステムの構築 (とすり)</title>
-        <link>https://speakerdeck.com/tosuri13/s3-vectorstostrands-agentswoli-yong-sitaagentic-ragsisutemunogou-zhu</link>
         <dc:date>2025-11-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
