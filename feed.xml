@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代に必要なデータプラットフォームの要件とは by @Kazaneya_PR / 20251107 (風音屋 (Kazaneya))</title>
+        <link>https://speakerdeck.com/kazaneya/20251107</link>
+        <dc:date>2025-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>tparseでgo testの出力を見やすくする (utagawa kiki)</title>
         <link>https://speakerdeck.com/utgwkk/tparsedego-testnochu-li-wojian-yasukusuru</link>
         <dc:date>2025-12-02T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>これだけで丸わかり！LangChain v1.0 アップデートまとめ (os1ma)</title>
         <link>https://speakerdeck.com/os1ma/koredakedewan-wakari-langchain-v1-dot-0-atupudetomatome</link>
         <dc:date>2025-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevFest Tokyo 2025: AIエージェントの頭の中</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vTBkxVp3uLlq_zWiJn1ActikSZ4m9tz2h9Rm2_z6ewuE2--XGoIB14IoOcrWjPnmjYRDeIPTrFr4fPu/pub</link>
-        <dc:date>2025-11-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
