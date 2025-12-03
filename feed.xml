@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>シナリオベースAPIテストで広げる品質担保 - go testとscenarigoの使い分け</title>
+        <link>https://docs.google.com/presentation/d/1ddMcu198XiMMoV7BVe58QQtjlm1zg2SdDYrl4bYv2EU/preview</link>
+        <dc:date>2025-12-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Bakuraku Engineering Team Deck (LayerX)</title>
         <link>https://speakerdeck.com/layerx/bakuraku-engineering-team-deck</link>
         <dc:date>2025-12-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>堅牢なフロントエンドテスト基盤を構築するために行った取り組み (Shogo Fukami)</title>
         <link>https://speakerdeck.com/shogo4131/jian-lao-nahurontoendotesutoji-pan-wogou-zhu-surutamenixing-tutaqu-rizu-mi</link>
-        <dc:date>2025-11-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>俺流レスポンシブコーディング 2025 (TAK)</title>
-        <link>https://speakerdeck.com/tak_dcxi/an-liu-resuponsibukodeingu-2025</link>
         <dc:date>2025-11-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
