@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIエンジニアリングのご紹介 / Introduction to AI Engineering (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/introduction-to-ai-engineering</link>
+        <dc:date>2025-12-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>freeeにおけるファンクションを超えた一気通貫でのAI活用 (jaxx2104)</title>
         <link>https://speakerdeck.com/jaxx2104/freeeniokeruhuankusiyonwochao-eta-qi-tong-guan-denoaihuo-yong</link>
         <dc:date>2025-12-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>デザインシステムでA11y品質が担保できなかった「3つの理由」</title>
         <link>https://docs.google.com/presentation/d/1hEoFqfJfDWL-Xv2h9uLEVWky_XNwewoGHY0J2VVNAlw/preview</link>
-        <dc:date>2025-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ECMAScript仕様の最新動向: プロセスの変化と仕様のトレンド (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/ecmascriptshi-yang-nozui-xin-dong-xiang-purosesunobian-hua-toshi-yang-notorendo</link>
         <dc:date>2025-11-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
