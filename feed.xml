@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AI・AIエージェント時代、データサイエンティストは何をする人なのか？そして、今学生であるあなたは何を学ぶべきか？ (kuri8ive)</title>
+        <link>https://speakerdeck.com/kuri8ive/what-is-a-data-scientist-in-the-gen-ai-era-and-what-to-study-as-a-student</link>
+        <dc:date>2025-12-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>"主観で終わらせない"定性データ活用 ― プロダクトディスカバリーを加速させるインサイトマネジメント / Utilizing qualitative data that "doesn't end with subjectivity" - Insight management that accelerates product discovery (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/utilizing-qualitative-data-that-doesnt-end-with-subjectivity-insight-management-that-accelerates-product-discovery</link>
         <dc:date>2025-12-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Claude Code 超入門 バイブコーディングでつくる自分用ニュースまとめ (星影,@unsoluble_sugar)</title>
         <link>https://www.docswell.com/s/unsoluble_sugar/KWM7R1-2025-11-24-161918</link>
-        <dc:date>2025-11-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Docker Desktop で Docker を始めよう (Masahito Zembutsu)</title>
-        <link>https://speakerdeck.com/zembutsu/getting-started-with-docker-a-complete-guide-to-docker-desktop</link>
         <dc:date>2025-11-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
