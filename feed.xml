@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発に寄りそう自動テストの実現 (Hiroki Iseri)</title>
+        <link>https://speakerdeck.com/goyoki/automated-testing-integrated-with-development</link>
+        <dc:date>2025-12-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>日本Rubyの会の構造と実行とあと何か / hokurikurk01 (Masayoshi Takahashi)</title>
         <link>https://speakerdeck.com/takahashim/hokurikurk01</link>
         <dc:date>2025-12-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Bakuraku Engineering Team Deck (LayerX)</title>
         <link>https://speakerdeck.com/layerx/bakuraku-engineering-team-deck</link>
-        <dc:date>2025-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>細粒度リアクティブステートのスコープとライフサイクル (ONDA, Takashi)</title>
-        <link>https://speakerdeck.com/takonda/fec-kansai-2025</link>
         <dc:date>2025-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
