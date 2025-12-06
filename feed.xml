@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>たかが特別な時間の終わり / It's Only the End of Special Time (watany)</title>
+        <link>https://speakerdeck.com/watany/its-only-the-end-of-special-time</link>
+        <dc:date>2025-12-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>eBPFとwaruiBPF (Satoru Takeuchi)</title>
         <link>https://speakerdeck.com/sat/ebpftowaruibpf</link>
         <dc:date>2025-12-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>testdata ディレクトリを活用しよう！ (uji)</title>
         <link>https://speakerdeck.com/uji/testdata-deirekutoriwohuo-yong-siyou</link>
-        <dc:date>2025-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RAGシステムの評価の課題 と Langfuseを活用したアプローチ (Kamon Nobuchika)</title>
-        <link>https://www.docswell.com/s/Kamonspecial/5RERW4-2025-11-26-211018</link>
         <dc:date>2025-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
