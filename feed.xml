@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>eBPFとwaruiBPF (Satoru Takeuchi)</title>
+        <link>https://speakerdeck.com/sat/ebpftowaruibpf</link>
+        <dc:date>2025-12-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>査読の仕組みと論文投稿上の対策 (伊藤貴之)</title>
         <link>https://www.docswell.com/s/4431039276/KWMDX4-2025-12-05-114802</link>
         <dc:date>2025-12-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>RAGシステムの評価の課題 と Langfuseを活用したアプローチ (Kamon Nobuchika)</title>
         <link>https://www.docswell.com/s/Kamonspecial/5RERW4-2025-11-26-211018</link>
-        <dc:date>2025-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シナリオベースAPIテストで広げる品質担保 - go testとscenarigoの使い分け</title>
-        <link>https://docs.google.com/presentation/d/1ddMcu198XiMMoV7BVe58QQtjlm1zg2SdDYrl4bYv2EU/preview</link>
         <dc:date>2025-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
