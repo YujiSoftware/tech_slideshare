@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>おい、テックブログを書け (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/oi-tetukuburoguwoshu-ke</link>
+        <dc:date>2025-12-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>安いGPUレンタルサービスについて (Aratako)</title>
         <link>https://speakerdeck.com/aratako/an-igpurentarusabisunituite</link>
         <dc:date>2025-12-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>セキュリティAIエージェントの現在と未来 / PSS #2 Takumi Session (GMO Flatt Security)</title>
         <link>https://speakerdeck.com/flatt_security/pss-number-2-takumi-session</link>
-        <dc:date>2025-12-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シンプルを極める。アンチパターンなDB設計の本質 (Facilo Inc.)</title>
-        <link>https://speakerdeck.com/facilo_inc/sinpuruwoji-meru-antipatannadbshe-ji-noben-zhi</link>
         <dc:date>2025-12-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
