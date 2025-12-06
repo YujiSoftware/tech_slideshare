@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>査読の仕組みと論文投稿上の対策 (伊藤貴之)</title>
+        <link>https://www.docswell.com/s/4431039276/KWMDX4-2025-12-05-114802</link>
+        <dc:date>2025-12-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発に寄りそう自動テストの実現 (Hiroki Iseri)</title>
         <link>https://speakerdeck.com/goyoki/automated-testing-integrated-with-development</link>
         <dc:date>2025-12-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>シナリオベースAPIテストで広げる品質担保 - go testとscenarigoの使い分け</title>
         <link>https://docs.google.com/presentation/d/1ddMcu198XiMMoV7BVe58QQtjlm1zg2SdDYrl4bYv2EU/preview</link>
-        <dc:date>2025-12-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bakuraku Engineering Team Deck (LayerX)</title>
-        <link>https://speakerdeck.com/layerx/bakuraku-engineering-team-deck</link>
         <dc:date>2025-12-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
