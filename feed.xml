@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>非CUDAの悲哀 〜Claude Code と挑んだ image to 3D “Hunyuan3D”を EVO-X2(Ryzen AI Max+395)で動作させるチャレンジ〜 (hawky the miscellaneous)</title>
+        <link>https://speakerdeck.com/hawkymisc/fei-cudanobei-ai-claude-code-totiao-nda-image-to-3d-hunyuan3d-wo-evo-x2-ryzen-ai-max-plus-395-dedong-zuo-saserutiyarenzi</link>
+        <dc:date>2025-12-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Microsoft 365 SharePoint 勉強会 No2: OneDrive の基礎をばっちり把握しよう (HIRANO Ai | Microsoft MVP 👉 ❤️ SharePoint,@ai_yamasaki)</title>
         <link>https://www.docswell.com/s/ai_yamasaki/KLVD9G-2025-12-09-190701</link>
         <dc:date>2025-12-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>日本Rubyの会の構造と実行とあと何か / hokurikurk01 (Masayoshi Takahashi)</title>
         <link>https://speakerdeck.com/takahashim/hokurikurk01</link>
-        <dc:date>2025-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>おい、テックブログを書け (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/oi-tetukuburoguwoshu-ke</link>
         <dc:date>2025-12-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
