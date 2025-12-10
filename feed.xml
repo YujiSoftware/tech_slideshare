@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMで複雑な検索条件アセットから脱却する！！ 生成的検索インタフェースの設計論 (po3rin)</title>
+        <link>https://speakerdeck.com/po3rin/llmdefu-za-najian-suo-tiao-jian-asetutokaratuo-que-suru-sheng-cheng-de-jian-suo-intahuesunoshe-ji-lun</link>
+        <dc:date>2025-12-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>絶対に失敗しない。toB領域プロダクトのGTM戦略フレーム Share ver. (kubotaku)</title>
         <link>https://speakerdeck.com/kubotaku/jue-dui-nishi-bai-sinai-tobling-yu-purodakutonogtmzhan-lue-huremu-share-ver</link>
         <dc:date>2025-12-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>M365勉強会_SharePointのCopilotを理解を理解_20251203 (おゆ,@oyu3m)</title>
         <link>https://www.docswell.com/s/oyu3m/ZVMDVL-2025-12-04-141947</link>
         <dc:date>2025-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>tsgolintはいかにしてtypescript-goの非公開APIを呼び出しているのか (syumai)</title>
-        <link>https://speakerdeck.com/syumai/how-tsgolint-exposes-typescript-gos-private-apis</link>
-        <dc:date>2025-12-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
