@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>絶対に失敗しない。toB領域プロダクトのGTM戦略フレーム Share ver. (kubotaku)</title>
+        <link>https://speakerdeck.com/kubotaku/jue-dui-nishi-bai-sinai-tobling-yu-purodakutonogtmzhan-lue-huremu-share-ver</link>
+        <dc:date>2025-12-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MultiModal RAGにおけるKnowledge Graphの活用 (takatori)</title>
         <link>https://speakerdeck.com/takatorisatoshi/multimodal-ragniokeruknowledge-graphnohuo-yong</link>
         <dc:date>2025-12-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>tsgolintはいかにしてtypescript-goの非公開APIを呼び出しているのか (syumai)</title>
         <link>https://speakerdeck.com/syumai/how-tsgolint-exposes-typescript-gos-private-apis</link>
-        <dc:date>2025-12-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI・AIエージェント時代、データサイエンティストは何をする人なのか？そして、今学生であるあなたは何を学ぶべきか？ (kuri8ive)</title>
-        <link>https://speakerdeck.com/kuri8ive/what-is-a-data-scientist-in-the-gen-ai-era-and-what-to-study-as-a-student</link>
         <dc:date>2025-12-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
