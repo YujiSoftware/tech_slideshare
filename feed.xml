@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最近のLinux普段づかいWaylandデスクトップ元年 (Takuma Nakajima)</title>
+        <link>https://speakerdeck.com/penguin2716/the-recent-first-year-of-wayland-desktops-for-daily-linux-users-in-2025</link>
+        <dc:date>2025-12-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMで複雑な検索条件アセットから脱却する！！ 生成的検索インタフェースの設計論 (po3rin)</title>
         <link>https://speakerdeck.com/po3rin/llmdefu-za-najian-suo-tiao-jian-asetutokaratuo-que-suru-sheng-cheng-de-jian-suo-intahuesunoshe-ji-lun</link>
         <dc:date>2025-12-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SQL Agentによるタップルのデータ利活用促進 (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/sql-agentniyorutatupurunodetali-huo-yong-cu-jin</link>
-        <dc:date>2025-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>M365勉強会_SharePointのCopilotを理解を理解_20251203 (おゆ,@oyu3m)</title>
-        <link>https://www.docswell.com/s/oyu3m/ZVMDVL-2025-12-04-141947</link>
         <dc:date>2025-12-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
