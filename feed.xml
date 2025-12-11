@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20251209_WAKECareer_生成AIを活用した設計・開発プロセス (syobochim)</title>
+        <link>https://speakerdeck.com/syobochim/20251209-wakecareer-design-dev-with-ai</link>
+        <dc:date>2025-12-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>非CUDAの悲哀 〜Claude Code と挑んだ image to 3D “Hunyuan3D”を EVO-X2(Ryzen AI Max+395)で動作させるチャレンジ〜 (hawky the miscellaneous)</title>
         <link>https://speakerdeck.com/hawkymisc/fei-cudanobei-ai-claude-code-totiao-nda-image-to-3d-hunyuan3d-wo-evo-x2-ryzen-ai-max-plus-395-dedong-zuo-saserutiyarenzi</link>
         <dc:date>2025-12-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>開発に寄りそう自動テストの実現 (Hiroki Iseri)</title>
         <link>https://speakerdeck.com/goyoki/automated-testing-integrated-with-development</link>
-        <dc:date>2025-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>日本Rubyの会の構造と実行とあと何か / hokurikurk01 (Masayoshi Takahashi)</title>
-        <link>https://speakerdeck.com/takahashim/hokurikurk01</link>
         <dc:date>2025-12-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
