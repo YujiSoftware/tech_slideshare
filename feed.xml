@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMに現在のUIを理解させつつUIを実装させる (kuu(Fumiya Kume),@fumiya_kume)</title>
+        <link>https://www.docswell.com/s/fumiya-kume/KVMD2Q-2025-12-11-195653</link>
+        <dc:date>2025-12-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LT_コンテキスト活用術.pdf (まつにぃ)</title>
+        <link>https://speakerdeck.com/yukaikunimatsu/lt-kontekisutohuo-yong-shu</link>
+        <dc:date>2025-12-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Context is King？  〜Verifiability時代とコンテキスト設計 / Beyond "Context is King" (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/beyond-context-is-king</link>
+        <dc:date>2025-12-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CVE-2025-55182の原理を詳細に解説！ (kurenaif)</title>
         <link>https://speakerdeck.com/kurenaif/cve-2025-55182noyuan-li-woxiang-xi-nijie-shuo</link>
         <dc:date>2025-12-10T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Playwrightのソースコードに見る、自動テストを自動で書く技術 (Yusuke Iwaki)</title>
         <link>https://speakerdeck.com/yusukeiwaki/playwrightnososukodonijian-ru-zi-dong-tesutowozi-dong-deshu-kuji-shu</link>
-        <dc:date>2025-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>たかが特別な時間の終わり / It's Only the End of Special Time (watany)</title>
-        <link>https://speakerdeck.com/watany/its-only-the-end-of-special-time</link>
-        <dc:date>2025-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>eBPFとwaruiBPF (Satoru Takeuchi)</title>
-        <link>https://speakerdeck.com/sat/ebpftowaruibpf</link>
-        <dc:date>2025-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>査読の仕組みと論文投稿上の対策 (伊藤貴之)</title>
-        <link>https://www.docswell.com/s/4431039276/KWMDX4-2025-12-05-114802</link>
         <dc:date>2025-12-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
