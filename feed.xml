@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIの誤りが許されない業務システムにおいて“信頼されるAI” を目指す / building-trusted-ai-systems (Yuya Matsumura)</title>
+        <link>https://speakerdeck.com/yuya4/building-trusted-ai-systems</link>
+        <dc:date>2025-12-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMに現在のUIを理解させつつUIを実装させる (kuu(Fumiya Kume),@fumiya_kume)</title>
         <link>https://www.docswell.com/s/fumiya-kume/KVMD2Q-2025-12-11-195653</link>
         <dc:date>2025-12-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Microsoft 365 Copilotの現在地と今後 (Kaz Asada | しがない情シス)</title>
         <link>https://speakerdeck.com/kasada/microsoft-365-copilotnoxian-zai-di-tojin-hou</link>
-        <dc:date>2025-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Playwrightのソースコードに見る、自動テストを自動で書く技術 (Yusuke Iwaki)</title>
-        <link>https://speakerdeck.com/yusukeiwaki/playwrightnososukodonijian-ru-zi-dong-tesutowozi-dong-deshu-kuji-shu</link>
         <dc:date>2025-12-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
