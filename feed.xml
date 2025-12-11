@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CVE-2025-55182の原理を詳細に解説！ (kurenaif)</title>
+        <link>https://speakerdeck.com/kurenaif/cve-2025-55182noyuan-li-woxiang-xi-nijie-shuo</link>
+        <dc:date>2025-12-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20251209_WAKECareer_生成AIを活用した設計・開発プロセス (syobochim)</title>
         <link>https://speakerdeck.com/syobochim/20251209-wakecareer-design-dev-with-ai</link>
         <dc:date>2025-12-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>査読の仕組みと論文投稿上の対策 (伊藤貴之)</title>
         <link>https://www.docswell.com/s/4431039276/KWMDX4-2025-12-05-114802</link>
-        <dc:date>2025-12-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発に寄りそう自動テストの実現 (Hiroki Iseri)</title>
-        <link>https://speakerdeck.com/goyoki/automated-testing-integrated-with-development</link>
         <dc:date>2025-12-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
