@@ -47,7 +47,7 @@ public class SpeakerDeckCrawler implements Crawler {
             return Collections.emptyList();
         }
 
-        String link = elements.get(0).attr("href");
+        String link = elements.getFirst().attr("href");
         Optional<Path> pdf = PDFDownloader.download(link);
         if (pdf.isEmpty()) {
             return Collections.emptyList();

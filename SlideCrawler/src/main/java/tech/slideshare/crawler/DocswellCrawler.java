@@ -40,7 +40,7 @@ public class DocswellCrawler implements Crawler {
         }
 
         List<String> contents = new ArrayList<>();
-        Element element = header.get(0).nextElementSibling();
+        Element element = header.getFirst().nextElementSibling();
         while (element != null && element.tagName().equals("div")) {
             Elements p = element.getElementsByTag("p");
             String text = p.stream()

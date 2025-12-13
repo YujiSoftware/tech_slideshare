@@ -24,7 +24,7 @@ public class ConnpassTest {
         assertEquals(1, response.resultsReturned());
 
         assertEquals(1, response.events().size());
-        Connpass.Events.Event event = response.events().get(0);
+        Connpass.Events.Event event = response.events().getFirst();
         assertEquals(364, event.id());
         assertEquals("BPStudy#56", event.title());
         assertEquals("株式会社ビープラウドが主催するWeb系技術討論の会", event.catchText());

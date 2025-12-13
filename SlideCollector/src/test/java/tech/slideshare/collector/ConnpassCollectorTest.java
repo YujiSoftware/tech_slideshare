@@ -27,7 +27,7 @@ class ConnpassCollectorTest {
         List<Slide> actual = collector.collectSlide(new NullCache(), 238601);
         assertEquals(1, actual.size());
 
-        Slide slide = actual.get(0);
+        Slide slide = actual.getFirst();
         assertSlide(expected, slide);
     }
 
@@ -45,7 +45,7 @@ class ConnpassCollectorTest {
         List<Slide> actual = collector.collectSlide(new NullCache(), 263117);
         assertEquals(1, actual.size());
 
-        Slide slide = actual.get(0);
+        Slide slide = actual.getFirst();
         assertSlide(expected, slide);
     }
 
@@ -82,7 +82,7 @@ class ConnpassCollectorTest {
         List<Slide> actual = collector.collectSlide(new NullCache(), 257292);
         assertEquals(1, actual.size());
 
-        Slide slide = actual.get(0);
+        Slide slide = actual.getFirst();
         assertSlide(expected, slide);
     }
 }

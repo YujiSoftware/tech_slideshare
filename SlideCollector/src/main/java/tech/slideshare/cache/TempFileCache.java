@@ -27,7 +27,7 @@ public class TempFileCache implements Cache {
 
         if (Files.exists(this.file)) {
             List<String> list = Files.readAllLines(this.file);
-            this.updatedAt = Instant.parse(list.get(0));
+            this.updatedAt = Instant.parse(list.getFirst());
             this.cache = new HashSet<>(list.subList(1, list.size()));
         } else {
             this.updatedAt = Instant.now();
