@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS CLIの新しい認証情報設定方法aws loginコマンドの実態 (wkm2)</title>
+        <link>https://speakerdeck.com/wkm2/aws-clinoxin-siiren-zheng-qing-bao-she-ding-fang-fa-aws-loginkomandonoshi-tai</link>
+        <dc:date>2025-12-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AIを利用するだけでなく、投資できる組織へ (pospome)</title>
         <link>https://speakerdeck.com/pospome/sheng-cheng-aiwoli-yong-surudakedenaku-tou-zi-dekiruzu-zhi-he</link>
         <dc:date>2025-12-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>語られた戦略を 語れる戦略へー共通言語を作るPdMの試み / making-strategy-shareable (コドモン開発チーム)</title>
         <link>https://speakerdeck.com/codmoninc/making-strategy-shareable</link>
         <dc:date>2025-12-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>詳解 MCP Go SDK / MCP Go SDK (ktr)</title>
-        <link>https://speakerdeck.com/ktr_0731/mcp-go-sdk</link>
-        <dc:date>2025-12-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
