@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>文字列の並び順 / Unicode Collation (とみたまさひろ)</title>
+        <link>https://speakerdeck.com/tmtms/unicode-collation</link>
+        <dc:date>2025-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Haskell を武器にして挑む競技プログラミング ─ 操作的思考から意味モデル思考へ (Naoya Ito)</title>
+        <link>https://speakerdeck.com/naoya/this-is-functional-competitive-programming-with-haskell</link>
+        <dc:date>2025-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20251213_JSON_Dictionaryを活用してPower_Automateフロー作成をちょっとスマートにするお話 (わたるふ,@wataruf01)</title>
         <link>https://www.docswell.com/s/wataruf01/5WMD6P-2025-12-13-205030</link>
         <dc:date>2025-12-12T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Power of Kiro : あなたの㌔はパワステ搭載ですか？ (r3_yamauchi)</title>
         <link>https://speakerdeck.com/r3_yamauchi/power-of-kiro-20251213</link>
-        <dc:date>2025-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UnityのUI何で作る？ (中野洋輔,@naninuneno_y)</title>
-        <link>https://www.docswell.com/s/naninunenoy/5M6DR6-2025-12-12-210556</link>
-        <dc:date>2025-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LT登壇を続けたらポッドキャストに呼ばれた話 (yamatai12)</title>
-        <link>https://speakerdeck.com/yamatai1212/ltdeng-tan-wosok-ketarapotudokiyasutonihu-baretahua</link>
         <dc:date>2025-12-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
