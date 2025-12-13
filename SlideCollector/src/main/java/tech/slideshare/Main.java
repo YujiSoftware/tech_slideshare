@@ -30,6 +30,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.time.Instant;
 import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
 
@@ -39,47 +40,61 @@ public class Main {
 
     private static final int JSON_ITEMS = 50;
 
-    private static final SlideCollector[] SLIDE_COLLECTOR_LIST =
-            new SlideCollector[]{
-                    new HatenaBookmarkCollector(
-                            "SlideShare",
-                            new SlideShareParser(),
-                            new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss")
-                    ),
-                    new HatenaBookmarkCollector(
-                            "SpeakerDeck",
-                            new SpeakerDeckParser(),
-                            new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss")
-                    ),
-                    new HatenaBookmarkCollector(
-                            "Googleスライド",
-                            new GoogleSlideParser(),
-                            new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=docs.google.com/presentation&mode=rss")
-                    ),
-                    new HatenaBookmarkCollector(
-                            "Backpaper0",
-                            new Backpaper0Parser(),
-                            new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fbackpaper0.github.io%2Fghosts%2F&mode=rss")
-                    ),
-                    new HatenaBookmarkCollector(
-                            "Docswell",
-                            new DocswellParser(),
-                            new HatenaBookmark("https://b.hatena.ne.jp/site/www.docswell.com/?mode=rss")
-                    ),
-                    new ConnpassCollector()
-            };
+    private enum Target {
+        HATENA(
+                List.of(
+                        new HatenaBookmarkCollector(
+                                "SlideShare",
+                                new SlideShareParser(),
+                                new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fwww.slideshare.net%2F&mode=rss")
+                        ),
+                        new HatenaBookmarkCollector(
+                                "SpeakerDeck",
+                                new SpeakerDeckParser(),
+                                new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fspeakerdeck.com%2F&mode=rss")
+                        ),
+                        new HatenaBookmarkCollector(
+                                "Googleスライド",
+                                new GoogleSlideParser(),
+                                new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=docs.google.com/presentation&mode=rss")
+                        ),
+                        new HatenaBookmarkCollector(
+                                "Backpaper0",
+                                new Backpaper0Parser(),
+                                new HatenaBookmark("https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fbackpaper0.github.io%2Fghosts%2F&mode=rss")
+                        ),
+                        new HatenaBookmarkCollector(
+                                "Docswell",
+                                new DocswellParser(),
+                                new HatenaBookmark("https://b.hatena.ne.jp/site/www.docswell.com/?mode=rss")
+                        )
+                )
+        ),
+        CONNPASS(
+                List.of(
+                        new ConnpassCollector()
+                )
+        );
+
+        final List<SlideCollector> collectors;
+
+        Target(List<SlideCollector> collectors) {
+            this.collectors = collectors;
+        }
+    }
 
     public static void main(String[] args) {
         String user = args[0];
         String password = args[1];
+        Target target = Target.valueOf(args[2]);
 
-        logger.info("Start {}", Main.class);
+        logger.info("Start {}, target: {}", Main.class, target.name());
 
         int exitCode = 0;
         try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password)) {
             con.setAutoCommit(false);
 
-            collect(con);
+            collect(con, target);
 
             Rss rss = createRSS(con);
             publishRss(rss);
@@ -95,11 +110,11 @@ public class Main {
         System.exit(exitCode);
     }
 
-    private static void collect(Connection con) throws SQLException, JAXBException, IOException, InterruptedException {
+    private static void collect(Connection con, Target target) throws SQLException, JAXBException, IOException, InterruptedException {
         SlideDao slideDao = new SlideDao(con);
         TweetQueueDao tweetQueueDao = new TweetQueueDao(con);
 
-        for (SlideCollector collector : SLIDE_COLLECTOR_LIST) {
+        for (SlideCollector collector : target.collectors) {
             logger.info("Start: {}", collector.name());
 
             for (Slide s : collector.collect()) {
