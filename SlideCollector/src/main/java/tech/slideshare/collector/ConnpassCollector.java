@@ -11,6 +11,7 @@ import tech.slideshare.parser.*;
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URI;
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -31,11 +32,15 @@ public class ConnpassCollector implements SlideCollector {
         Cache cache = new TempFileCache(Connpass.class.getSimpleName());
 
         List<Slide> list = new ArrayList<>();
-        for (Connpass.Events.Event event : Connpass.Events.get(cache.updatedAt())) {
-            List<Slide> found = collectSlide(cache, event.id());
-            list.addAll(found);
+        LocalDate date = LocalDate.now();
+        for (int i = 0; i < 7; i++) {
+            for (Connpass.Events.Event event : Connpass.Events.get(date)) {
+                List<Slide> found = collectSlide(cache, event.id());
+                list.addAll(found);
 
-            logger.debug("Event id: {}, found: {}", event.id(), found.size());
+                logger.debug("Event id: {}, found: {}", event.id(), found.size());
+            }
+            date.minusDays(1);
         }
 
         cache.flush();

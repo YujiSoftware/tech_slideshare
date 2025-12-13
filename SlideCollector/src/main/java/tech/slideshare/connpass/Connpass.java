@@ -13,8 +13,9 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.time.Duration;
-import java.time.Instant;
+import java.time.LocalDate;
 import java.time.ZonedDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -119,25 +120,23 @@ public class Connpass {
         }
 
         private static final Logger logger = LoggerFactory.getLogger(Events.class);
+        private static final DateTimeFormatter ymdFormatter = DateTimeFormatter.ofPattern("uuuuMMdd");
 
-        public static List<Event> get(Instant instant) throws IOException, InterruptedException {
+        public static List<Event> get(LocalDate date) throws IOException, InterruptedException {
             int count = 100;
-            int loop = 10;
-            List<Event> events = new ArrayList<>(count * loop);
+            int returned = 0;
+            int available = Integer.MAX_VALUE;
+            String ymd = ymdFormatter.format(date);
+            List<Event> events = new ArrayList<>();
 
-            OUTER:
-            for (int i = 0; i < loop; i++) {
-                URI uri = URI.create("https://connpass.com/api/v2/events/?count=" + count + "&start=" + (i * count));
+            while (returned < available) {
+                URI uri = URI.create("https://connpass.com/api/v2/events/?count=" + count + "&start=" + (returned + 1) + "&ymd=" + ymd);
                 logger.debug("Request: {}", uri);
 
                 Events response = Connpass.get(uri, Events.class);
-
-                for (Event event : response.events()) {
-                    if (event.updatedAt().toInstant().isBefore(instant)) {
-                        break OUTER;
-                    }
-                    events.add(event);
-                }
+                available = response.resultsAvailable();
+                returned += response.resultsReturned();
+                events.addAll(response.events());
 
                 // Connpass API は、1秒間に1リクエストまでの制限 (スロットリング) がある。
                 // そのため、余裕を見込んで間隔を開けてリクエストする。
