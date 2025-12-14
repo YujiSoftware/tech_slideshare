@@ -125,7 +125,7 @@ public class Main {
 
                     logger.debug("Enqueue: {}, {}", s.getTitle(), s.getLink());
 
-                    int slideId = slideDao.insert(s.getTitle(), s.getLink(), s.getAuthor(), s.getTwitter(), s.getDescription(), s.getImage());
+                    int slideId = slideDao.insert(s.getTitle(), s.getLink(), s.getAuthor(), s.getTwitter(), s.getHashTag(), s.getDescription(), s.getImage());
                     tweetQueueDao.insert(slideId);
 
                     con.commit();

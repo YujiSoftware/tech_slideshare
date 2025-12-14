@@ -12,6 +12,7 @@ public class Assertions {
         assertEquals(expected.getLink(), actual.getLink());
         assertEquals(expected.getAuthor(), actual.getAuthor());
         assertEquals(expected.getTwitter(), actual.getTwitter());
+        assertEquals(expected.getHashTag(), actual.getHashTag());
         assertEquals(expected.getDescription(), actual.getDescription());
 
         // maybe null

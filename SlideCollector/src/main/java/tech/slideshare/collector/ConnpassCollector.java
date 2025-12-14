@@ -35,7 +35,12 @@ public class ConnpassCollector implements SlideCollector {
         LocalDate date = LocalDate.now();
         for (int i = 0; i < 7; i++) {
             for (Connpass.Events.Event event : Connpass.Events.get(date)) {
-                List<Slide> found = collectSlide(cache, event.id());
+                String hashTag = event.hashTag();
+                if (hashTag != null && hashTag.isEmpty()) {
+                    hashTag = null;
+                }
+
+                List<Slide> found = collectSlide(cache, event.id(), hashTag);
                 list.addAll(found);
 
                 logger.debug("Event id: {}, found: {}", event.id(), found.size());
@@ -48,7 +53,7 @@ public class ConnpassCollector implements SlideCollector {
         return list;
     }
 
-    protected List<Slide> collectSlide(Cache cache, int eventId) throws IOException, InterruptedException {
+    protected List<Slide> collectSlide(Cache cache, int eventId, String hashTag) throws IOException, InterruptedException {
         List<Slide> list = new ArrayList<>();
         List<Connpass.Presentations.Presentation> presentations;
 
@@ -72,13 +77,23 @@ public class ConnpassCollector implements SlideCollector {
                 continue;
             }
 
-            switch (URI.create(url).getHost()) {
-                case "www.slideshare.net" -> slideShareParser.parse(url).ifPresent(list::add);
-                case "speakerdeck.com" -> speakerDeckParser.parse(url).ifPresent(list::add);
-                case "docs.google.com" -> googleSlideParser.parse(url).ifPresent(list::add);
-                case "www.docswell.com" -> docswellParser.parse(url).ifPresent(list::add);
-                default -> logger.warn("Unsupported slide service: {}", url);
+            Parser parser = switch (URI.create(url).getHost()) {
+                case "www.slideshare.net" -> slideShareParser;
+                case "speakerdeck.com" -> speakerDeckParser;
+                case "docs.google.com" -> googleSlideParser;
+                case "www.docswell.com" -> docswellParser;
+                default -> null;
+            };
+
+            if (parser == null) {
+                logger.warn("Unsupported slide parser: {}", url);
+                continue;
             }
+
+            parser.parse(url).ifPresent(s -> {
+                s.setHashTag(hashTag);
+                list.add(s);
+            });
         }
 
         return list;

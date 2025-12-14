@@ -8,6 +8,7 @@ import com.twitter.clientlib.model.TweetCreateRequest
 import com.twitter.clientlib.model.TweetCreateResponse
 import org.slf4j.LoggerFactory
 import tech.slideshare.twitter.database.SlideDao
+import tech.slideshare.twitter.database.SlideDto
 import java.sql.DriverManager
 import kotlin.system.exitProcess
 
@@ -60,31 +61,9 @@ object Main {
 
             SlideDao(con).dequeue()?.let {
                 try {
-                    // タイトルにスパムURLが付与されている可能性があるため、
-                    // ドットの後に不可視文字を入れてリンクにならないようにする。
-                    var title: String = it.title.replace("\\.".toRegex(), "\\.$ZERO_WIDTH_SPACE")
+                    val tweet: String = makeTweet(it)
 
-                    val authors = mutableListOf<String>()
-                    if (it.author != null) {
-                        authors += it.author
-                    }
-                    if (it.twitter != null) {
-                        authors += "@${ZERO_WIDTH_SPACE}${it.twitter}"
-                    }
-                    if (authors.size > 0) {
-                        val author = " (" + authors.joinToString() + ")"
-
-                        // Twitter の文字数上限 140 文字で、URL が 23 文字分を使うので、
-                        // 残り 117 文字まで使える
-                        if (title.length > 117 - author.length) {
-                            title = title.substring(0, 117 - author.length - 1)
-                            title += "…"
-                        }
-
-                        title += author
-                    }
-
-                    val request = TweetCreateRequest().text(title + "\r\n" + it.url)
+                    val request = TweetCreateRequest().text(tweet)
                     val result: TweetCreateResponse = api.tweets().createTweet(request).execute()
                     if (result.errors != null) {
                         throw ApiException(result.toJson())
@@ -98,5 +77,41 @@ object Main {
                 }
             }
         }
+    }
+
+    fun makeTweet(dto: SlideDto): String {
+        // タイトルにスパムURLが付与されている可能性があるため、
+        // ドットの後に不可視文字を入れてリンクにならないようにする。
+        var title: String = dto.title.replace("\\.".toRegex(), "\\.$ZERO_WIDTH_SPACE")
+
+        val authors = mutableListOf<String>()
+        if (dto.author != null) {
+            authors += dto.author
+        }
+        if (dto.twitter != null) {
+            authors += "@${ZERO_WIDTH_SPACE}${dto.twitter}"
+        }
+        var author = ""
+        if (authors.isNotEmpty()) {
+            author = " (" + authors.joinToString() + ")"
+        }
+
+        var hashTag = ""
+        if (dto.hashTag != null) {
+            hashTag = " #${dto.hashTag}"
+        }
+
+        if (author.isNotEmpty() || hashTag.isNotEmpty()) {
+            // Twitter の文字数上限 140 文字で、URL が 23 文字分を使うので、
+            // 残り 117 文字まで使える
+            if (title.length > 117 - author.length - hashTag.length) {
+                title = title.substring(0, 117 - author.length - hashTag.length - 1)
+                title += "…"
+            }
+
+            title += author + hashTag
+        }
+
+        return title + "\r\n" + dto.url
     }
 }

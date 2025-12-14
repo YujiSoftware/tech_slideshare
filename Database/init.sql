@@ -7,6 +7,7 @@ CREATE TABLE slide (
   url varchar(768) NOT NULL,
   author text DEFAULT NULL,
   twitter varchar(15) DEFAULT NULL,
+  hash_tag text DEFAULT NULL,
   description text DEFAULT NULL,
   image varchar(2048) DEFAULT NULL,
   crawled_flag tinyint(1) NOT NULL DEFAULT 0,

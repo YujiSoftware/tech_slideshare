@@ -15,6 +15,8 @@ public class SlideDto {
 
     public String twitter;
 
+    public String hashTag;
+
     public String description;
 
     public String image;

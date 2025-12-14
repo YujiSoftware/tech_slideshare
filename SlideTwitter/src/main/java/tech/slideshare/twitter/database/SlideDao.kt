@@ -12,6 +12,7 @@ class SlideDao(con: Connection) : AbstractDao(con) {
                 "  , s.date " +
                 "  , s.author " +
                 "  , s.twitter " +
+                "  , s.hash_tag " +
                 "FROM " +
                 "  slide s " +
                 "  INNER JOIN tweet_queue tq " +
@@ -30,6 +31,7 @@ class SlideDao(con: Connection) : AbstractDao(con) {
                         it.getDate("date"),
                         it.getString("author"),
                         it.getString("twitter"),
+                        it.getString("hash_tag"),
                     )
 
                     TweetQueueDao(con).delete(dto.slideId)

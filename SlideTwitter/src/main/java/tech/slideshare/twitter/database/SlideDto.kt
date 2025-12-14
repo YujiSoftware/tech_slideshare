@@ -8,5 +8,6 @@ data class SlideDto(
     val url: String,
     val date: Date,
     val author: String?,
-    val twitter: String?
+    val twitter: String?,
+    val hashTag: String?,
 )

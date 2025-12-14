@@ -24,7 +24,7 @@ class ConnpassCollectorTest {
                 "https://cdn.slidesharecdn.com/ss_thumbnails/220217rpa-220225024130-thumbnail.jpg?width=640&height=640&fit=bounds"
         );
 
-        List<Slide> actual = collector.collectSlide(new NullCache(), 238601);
+        List<Slide> actual = collector.collectSlide(new NullCache(), 238601, null);
         assertEquals(1, actual.size());
 
         Slide slide = actual.getFirst();
@@ -42,7 +42,7 @@ class ConnpassCollectorTest {
                 "https://files.speakerdeck.com/presentations/028e6aea8e734be4ba04c4938d328c93/slide_0.jpg?23136989"
         );
 
-        List<Slide> actual = collector.collectSlide(new NullCache(), 263117);
+        List<Slide> actual = collector.collectSlide(new NullCache(), 263117, null);
         assertEquals(1, actual.size());
 
         Slide slide = actual.getFirst();
@@ -60,7 +60,7 @@ class ConnpassCollectorTest {
                 "https://lh7-us.googleusercontent.com/docs/AHkbwyI4Nt0eC-KbwhyPlkpjYT3P6T8eT1fDi4s22T2Wy8iWZKzQVH-Zk2OMWys1x0xQr4XrxP-dnHsnpE0WLoETUxVzOoQS_QOYEa2_Ws9DuWRd_gh9BSs=w1200-h630-p"
         );
 
-        List<Slide> actual = collector.collectSlide(new NullCache(), 238403);
+        List<Slide> actual = collector.collectSlide(new NullCache(), 238403, null);
         assertEquals(3, actual.size());
 
         Slide slide = actual.stream().filter(s -> s.getLink().contains("docs.google.com")).findFirst().orElseThrow();
@@ -78,8 +78,9 @@ class ConnpassCollectorTest {
                 "「Power Automate for desktop 教室 vol.1」(RPACommunity主催)の登壇資料です。\r\n(2022年8月17日オンライン開催)",
                 "https://bcdn.docswell.com/page/LE1V3MK27G.jpg?width=480"
         );
+        expected.setHashTag("RPALT");
 
-        List<Slide> actual = collector.collectSlide(new NullCache(), 257292);
+        List<Slide> actual = collector.collectSlide(new NullCache(), 257292, "RPALT");
         assertEquals(1, actual.size());
 
         Slide slide = actual.getFirst();

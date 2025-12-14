@@ -10,6 +10,8 @@ public class Slide {
 
     private final String image;
 
+    private String hashTag;
+
     public Slide(String title, String link, String author, String twitter, String description, String image) {
         this.title = title.replaceAll("\\p{Cntrl}", " ");
         this.link = link;
@@ -41,6 +43,14 @@ public class Slide {
 
     public String getImage() {
         return image;
+    }
+
+    public String getHashTag() {
+        return hashTag;
+    }
+
+    public void setHashTag(String hashTag) {
+        this.hashTag = hashTag;
     }
 
     @Override
