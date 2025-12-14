@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>秋の3大カンファレンス探検記 (Itsuki)</title>
+        <link>https://speakerdeck.com/itsuki_t88/qiu-no3da-kanhuarensutan-jian-ji</link>
+        <dc:date>2025-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>251214_モバイル完結LLMはどこまで戦えるか ローカルLLMとRAGの実現可能性を探る</title>
+        <link>https://docs.google.com/presentation/d/13rJ-9iEmdDsEXu-Wwwhbtl-nMupTNtwrEGKcQHavFiQ/preview</link>
+        <dc:date>2025-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SPMによる マルチモジュール構成について</title>
+        <link>https://docs.google.com/presentation/d/1VGG_MjSqjHRW9zmBADSth1dIMKbLwFPeG0pGH1M8pb8/preview</link>
+        <dc:date>2025-12-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>東大１年生にJulia教えてみた (Yusuke Matsui)</title>
         <link>https://speakerdeck.com/matsui_528/dong-da-1nian-sheng-nijuliajiao-etemita</link>
         <dc:date>2025-12-13T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>餃子コミュニティの活性化/TechGYOZA (Ichiro Nishiuma)</title>
         <link>https://speakerdeck.com/nishiuma/techgyoza</link>
-        <dc:date>2025-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>関西DB勉強会 20251213 (bohnen,@bohnen)</title>
-        <link>https://www.docswell.com/s/bohnen/5VMDN2-2025-12-13-160406</link>
-        <dc:date>2025-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonデータ分析コトハジメin静岡 (kanan)</title>
-        <link>https://speakerdeck.com/kanan/pythondetafen-xi-kotohazimeinjing-gang</link>
-        <dc:date>2025-12-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初学者でも怖くない！自分で作ったWEBサービスのデータを分析</title>
-        <link>https://docs.google.com/presentation/d/136A2zlRkD-a92rFZjxyzp7gSNmWngfJNxbQ2_0Rhj2A/preview</link>
         <dc:date>2025-12-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
