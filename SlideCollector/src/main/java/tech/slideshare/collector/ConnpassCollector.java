@@ -70,9 +70,6 @@ public class ConnpassCollector implements SlideCollector {
 
         for (Connpass.Presentations.Presentation presentation : presentations) {
             String url = presentation.url();
-            if (presentation.presentationType() != Connpass.Presentations.PresentationType.SLIDE) {
-                continue;
-            }
             if (!cache.add(url)) {
                 continue;
             }
@@ -86,7 +83,10 @@ public class ConnpassCollector implements SlideCollector {
             };
 
             if (parser == null) {
-                logger.warn("Unsupported slide parser: {}", url);
+                // 把握していないスライド共有サービスの場合、今後の対応のためにログを出力する
+                if (presentation.presentationType() == Connpass.Presentations.PresentationType.SLIDE) {
+                    logger.warn("Unsupported slide parser: {}", url);
+                }
                 continue;
             }
 
