@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>mairuでつくるクレデンシャルレス開発環境 / Credential-less development environment using Mailru (Issei Naruta)</title>
+        <link>https://speakerdeck.com/mirakui/credential-less-development-environment-using-mailru</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロンプトやエージェントを自動的に作る方法 (shibuiwilliam)</title>
+        <link>https://speakerdeck.com/shibuiwilliam/puronputoyaezientowozi-dong-de-nizuo-rufang-fa</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI Agent Dojo ＃4: watsonx Orchestrate ADK体験 (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/ai-agent-dojo04</link>
         <dc:date>2025-12-16T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>チーリンについて (ぐっち)</title>
         <link>https://speakerdeck.com/hirotomotaguchi/tirinnituite</link>
-        <dc:date>2025-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>週4社員しながら個人開発にベットする / Betting on Personal Projects While Working a Four-Day Week (kohii)</title>
-        <link>https://speakerdeck.com/kohii00/betting-on-personal-projects-while-working-a-four-day-week</link>
-        <dc:date>2025-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>文字列の並び順 / Unicode Collation (とみたまさひろ)</title>
-        <link>https://speakerdeck.com/tmtms/unicode-collation</link>
         <dc:date>2025-12-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
