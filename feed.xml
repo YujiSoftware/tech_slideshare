@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI Agent Dojo ＃4: watsonx Orchestrate ADK体験 (Akira Onishi (IBM))</title>
+        <link>https://speakerdeck.com/oniak3ibm/ai-agent-dojo04</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20251217第31回オープンエッジデバイス研究会</title>
+        <link>https://docs.google.com/presentation/d/1zPcXQX1FltJBBnzRJvowq-2JV5wZkoqRbhiXZGltG9k/preview</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>接客歴・営業歴の方が長いエンジニアから見たre:Invent2025 (Yuuki Yamashita)</title>
         <link>https://speakerdeck.com/yama3133/jie-ke-li-ying-ye-li-nofang-gachang-ienziniakarajian-tare-invent2025</link>
         <dc:date>2025-12-15T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>文字列の並び順 / Unicode Collation (とみたまさひろ)</title>
         <link>https://speakerdeck.com/tmtms/unicode-collation</link>
         <dc:date>2025-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Haskell を武器にして挑む競技プログラミング ─ 操作的思考から意味モデル思考へ (Naoya Ito)</title>
-        <link>https://speakerdeck.com/naoya/this-is-functional-competitive-programming-with-haskell</link>
-        <dc:date>2025-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20251213_JSON_Dictionaryを活用してPower_Automateフロー作成をちょっとスマートにするお話 (わたるふ,@wataruf01)</title>
-        <link>https://www.docswell.com/s/wataruf01/5WMD6P-2025-12-13-205030</link>
-        <dc:date>2025-12-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
