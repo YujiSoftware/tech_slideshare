@@ -6,6 +6,66 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ForgeVision AWS re:Invent 2025 re:Cap (otanikohei)</title>
+        <link>https://speakerdeck.com/otanikohei2023/forgevision-aws-re-invent-2025-re-cap</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Introduction to gRPC Interceptors (andoshin11)</title>
+        <link>https://speakerdeck.com/andoshin11/introduce-grpc-interceptors</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ひとりNavigation API Advent Calendarの紹介 / Mita.ts #9 (Okuto Oyama)</title>
+        <link>https://speakerdeck.com/yamanoku/solo-navigation-api-advent-calendar</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanワークショップ: API テスト自動化 - 20251217</title>
+        <link>https://docs.google.com/presentation/d/1Mu_mUVUWJSDmPWXb6I72n0ZcRx6pE_Oul9ocv7usD7I/preview</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IAMユーザーゼロの運用は果たして可能なのか (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/iamyuzazeronoyun-yong-haguo-tasiteke-neng-nanoka</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIの長期記憶と短期記憶の違いについてAgentCoreを例に深掘ってみた (やくも)</title>
+        <link>https://speakerdeck.com/yakumo/ainochang-qi-ji-yi-toduan-qi-ji-yi-nowei-inituiteagentcorewoli-nishen-jue-tutemita</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第31回オープンエッジデバイス研究会 (Rumika Chiba)</title>
+        <link>https://speakerdeck.com/rumika685/di-31hui-opunetuzidebaisuyan-jiu-hui</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Denoのセキュリティに関する仕組みの紹介 (toranoana.deno #23) (uki00a)</title>
+        <link>https://speakerdeck.com/uki00a/denonosekiyuriteiniguan-surushi-zu-minoshao-jie-toranoana-dot-deno-number-23</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ruby で gRPC を使おう / ruby-grpc (nakaryo)</title>
+        <link>https://speakerdeck.com/ryotanakaya/ruby-grpc</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自宅でもできる！！ VCF9　x ONTAP Select NVMe over TCPと 小話 (shomayama0221)</title>
+        <link>https://www.slideshare.net/slideshow/vcf9-x-ontap-select-nvme-over-tcp/284687402</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【2025/12/17 の アプデ版】AI Coding の次は何を目指すべき？組織で整備していくべき AI インフラ_1217 (tetsuro_b)</title>
+        <link>https://speakerdeck.com/tetsuro_b/17-no-apudeban-ai-coding-noci-hahe-womu-zhi-suheki-zu-zhi-tezheng-bei-siteikuheki-ai-inhura-1217</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>XR Kaigi 2025に新潟から出展した話 (fubuky35,@fubuki35)</title>
+        <link>https://www.docswell.com/s/fubuky35/59M3EW-2025-12-17-213725</link>
+        <dc:date>2025-12-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSを使う上で最低限知っておきたいセキュリティ研修を社内で実施した話 ~みんなでやるセキュリティ~ (maimyyym)</title>
         <link>https://speakerdeck.com/maimyyym/done-new-engineer-training-aws-security</link>
         <dc:date>2025-12-16T15:00:00Z</dc:date>
@@ -44,65 +104,5 @@
         <title>なめらかな"品質保証"と、その敵〜開発者が知っておくべきQAの本質とAI活用テスト設計〜 (Yuki, Takada)</title>
         <link>https://speakerdeck.com/tkd_yuki/namerakana-pin-zhi-bao-zheng-to-sonodi-kai-fa-zhe-gazhi-tuteokubekiqanoben-zhi-toaihuo-yong-tesutoshe-ji</link>
         <dc:date>2025-12-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Snowflakeでデータ基盤を もう一度作り直すなら / rebuilding-data-platform-with-snowflake (pei0804)</title>
-        <link>https://speakerdeck.com/pei0804/rebuilding-data-platform-with-snowflake</link>
-        <dc:date>2025-12-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>企業価値に繋がるAI事業の創り方 (estie | エスティ)</title>
-        <link>https://speakerdeck.com/estie/qi-ye-jia-zhi-nixi-garuaishi-ye-nochuang-rifang</link>
-        <dc:date>2025-12-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『業務設計の教科書』の概要 (Shunsuke Takeuchi)</title>
-        <link>https://speakerdeck.com/shunsuke_takeuchi/business-design-handbook</link>
-        <dc:date>2025-12-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実はマルチモーダルだった。ブラウザの組み込みAI🧠でWebの未来を感じてみよう #jsfes #gemini  (n0bisuke)</title>
-        <link>https://speakerdeck.com/n0bisuke2/burauzanozu-miip-miai-dewebnowei-lai-wogan-zitemiyou-number-jsfes</link>
-        <dc:date>2025-12-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20251215_archjapan_tokyo_LT.pptx</title>
-        <link>https://docs.google.com/presentation/d/1MvIi5ycp2yXKzV5bT76rKyYkhW2TW-gb/preview</link>
-        <dc:date>2025-12-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTで論⽂は読めるのか (Spatial AI Network)</title>
-        <link>https://speakerdeck.com/spatial_ai_network/chatgpt-paper-reading</link>
-        <dc:date>2025-12-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>秋の3大カンファレンス探検記 (Itsuki)</title>
-        <link>https://speakerdeck.com/itsuki_t88/qiu-no3da-kanhuarensutan-jian-ji</link>
-        <dc:date>2025-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>251214_モバイル完結LLMはどこまで戦えるか ローカルLLMとRAGの実現可能性を探る</title>
-        <link>https://docs.google.com/presentation/d/13rJ-9iEmdDsEXu-Wwwhbtl-nMupTNtwrEGKcQHavFiQ/preview</link>
-        <dc:date>2025-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SPMによる マルチモジュール構成について</title>
-        <link>https://docs.google.com/presentation/d/1VGG_MjSqjHRW9zmBADSth1dIMKbLwFPeG0pGH1M8pb8/preview</link>
-        <dc:date>2025-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>東大１年生にJulia教えてみた (Yusuke Matsui)</title>
-        <link>https://speakerdeck.com/matsui_528/dong-da-1nian-sheng-nijuliajiao-etemita</link>
-        <dc:date>2025-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアリングをやめたくないので問い続ける (estie | エスティ)</title>
-        <link>https://speakerdeck.com/estie/enziniaringuwoyametakunainodewen-isok-keru</link>
-        <dc:date>2025-12-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WordPress は終わったのか ～今のWordPress の制作手法ってなにがあんねん？～ / Is WordPress Over? How We Build with WordPress Today (tbshiki)</title>
-        <link>https://speakerdeck.com/tbshiki/is-wordpress-over-how-we-build-with-wordpress-today</link>
-        <dc:date>2025-12-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
