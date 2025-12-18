@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マイクロサービスへの5年間 ぶっちゃけ何をしてどうなったか (Tomohiro Hashidate)</title>
+        <link>https://speakerdeck.com/joker1007/maikurosabisuheno5nian-jian-bututiyakehe-wositedounatutaka</link>
+        <dc:date>2025-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20251218_AIを活用した開発生産性向上の全社的な取り組みの進め方について / How to proceed with company-wide initiatives to improve development productivity using AI (yayoi_dd)</title>
         <link>https://speakerdeck.com/yayoi_dd/how-to-proceed-with-company-wide-initiatives-to-improve-development-productivity-using-ai</link>
         <dc:date>2025-12-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Ruby で gRPC を使おう / ruby-grpc (nakaryo)</title>
         <link>https://speakerdeck.com/ryotanakaya/ruby-grpc</link>
-        <dc:date>2025-12-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自宅でもできる！！ VCF9　x ONTAP Select NVMe over TCPと 小話 (shomayama0221)</title>
-        <link>https://www.slideshare.net/slideshow/vcf9-x-ontap-select-nvme-over-tcp/284687402</link>
         <dc:date>2025-12-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
