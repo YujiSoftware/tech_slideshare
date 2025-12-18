@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20251218_AIを活用した開発生産性向上の全社的な取り組みの進め方について / How to proceed with company-wide initiatives to improve development productivity using AI (yayoi_dd)</title>
+        <link>https://speakerdeck.com/yayoi_dd/how-to-proceed-with-company-wide-initiatives-to-improve-development-productivity-using-ai</link>
+        <dc:date>2025-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2025-12-18_AI駆動開発推進プロジェクト運営について / AIDD-Promotion project management (yayoi_dd)</title>
+        <link>https://speakerdeck.com/yayoi_dd/aidd-promotion-project-management</link>
+        <dc:date>2025-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NIKKEI Tech Talk #41: セキュア・バイ・デザインからクラウド管理を考える (Ryosuke Sekido)</title>
+        <link>https://speakerdeck.com/sekido/20251218-nikkei-tech-talk-secure-by-design</link>
+        <dc:date>2025-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS運用を効率化する！AWS Organizationsを軸にした一元管理の実践/nikkei-tech-talk-202512 (日本経済新聞社 エンジニア採用事務局)</title>
+        <link>https://speakerdeck.com/nikkei_engineer_recruiting/nikkei-tech-talk-202512</link>
+        <dc:date>2025-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>yuru sre 14 (maru)</title>
+        <link>https://speakerdeck.com/maruloop/yuru-sre-14</link>
+        <dc:date>2025-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>初めてのミニアプリリリース (Koki Miura,@k_miura_io)</title>
+        <link>https://www.docswell.com/s/k_miura_io/ZX681R-2025-12-18-210856</link>
+        <dc:date>2025-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREはサイバネティクスの夢をみるか？ / Do SREs Dream of Cybernetics? (Yuuki Tsubouchi (yuuk1))</title>
         <link>https://speakerdeck.com/yuukit/do-sres-dream-of-cybernetics</link>
         <dc:date>2025-12-17T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>自宅でもできる！！ VCF9　x ONTAP Select NVMe over TCPと 小話 (shomayama0221)</title>
         <link>https://www.slideshare.net/slideshow/vcf9-x-ontap-select-nvme-over-tcp/284687402</link>
-        <dc:date>2025-12-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【2025/12/17 の アプデ版】AI Coding の次は何を目指すべき？組織で整備していくべき AI インフラ_1217 (tetsuro_b)</title>
-        <link>https://speakerdeck.com/tetsuro_b/17-no-apudeban-ai-coding-noci-hahe-womu-zhi-suheki-zu-zhi-tezheng-bei-siteikuheki-ai-inhura-1217</link>
-        <dc:date>2025-12-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>XR Kaigi 2025に新潟から出展した話 (fubuky35,@fubuki35)</title>
-        <link>https://www.docswell.com/s/fubuky35/59M3EW-2025-12-17-213725</link>
-        <dc:date>2025-12-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSを使う上で最低限知っておきたいセキュリティ研修を社内で実施した話 ~みんなでやるセキュリティ~ (maimyyym)</title>
-        <link>https://speakerdeck.com/maimyyym/done-new-engineer-training-aws-security</link>
-        <dc:date>2025-12-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>mairuでつくるクレデンシャルレス開発環境 / Credential-less development environment using Mailru (Issei Naruta)</title>
-        <link>https://speakerdeck.com/mirakui/credential-less-development-environment-using-mailru</link>
-        <dc:date>2025-12-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロンプトやエージェントを自動的に作る方法 (shibuiwilliam)</title>
-        <link>https://speakerdeck.com/shibuiwilliam/puronputoyaezientowozi-dong-de-nizuo-rufang-fa</link>
-        <dc:date>2025-12-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Agent Dojo ＃4: watsonx Orchestrate ADK体験 (Akira Onishi (IBM))</title>
-        <link>https://speakerdeck.com/oniak3ibm/ai-agent-dojo04</link>
         <dc:date>2025-12-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
