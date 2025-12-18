@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>祝到来！オンコパ2.0の世界 (Kaz Asada | しがない情シス)</title>
+        <link>https://speakerdeck.com/kasada/zhu-dao-lai-onkopa2-dot-0noshi-jie</link>
+        <dc:date>2025-12-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>マイクロサービスへの5年間 ぶっちゃけ何をしてどうなったか (Tomohiro Hashidate)</title>
         <link>https://speakerdeck.com/joker1007/maikurosabisuheno5nian-jian-bututiyakehe-wositedounatutaka</link>
         <dc:date>2025-12-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Denoのセキュリティに関する仕組みの紹介 (toranoana.deno #23) (uki00a)</title>
         <link>https://speakerdeck.com/uki00a/denonosekiyuriteiniguan-surushi-zu-minoshao-jie-toranoana-dot-deno-number-23</link>
-        <dc:date>2025-12-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby で gRPC を使おう / ruby-grpc (nakaryo)</title>
-        <link>https://speakerdeck.com/ryotanakaya/ruby-grpc</link>
         <dc:date>2025-12-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
