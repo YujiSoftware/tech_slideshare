@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Durable Task Extension for Microsoft Agent Framework はいいぞ (Kazuki)</title>
+        <link>https://speakerdeck.com/okazuki/durable-task-extension-for-microsoft-agent-framework-haiizo</link>
+        <dc:date>2025-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>.NET Conf 2025 の興味のあるセッ ションを復習した / dotnet conf 2025 quick recap for backend engineer (Tomohisa Takaoka)</title>
+        <link>https://speakerdeck.com/tomohisa/dotnet-conf-2025-quick-recap-for-backend-engineer</link>
+        <dc:date>2025-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Strands AgentsとNova 2 SonicでS2Sを実践してみた (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/strands-agentstonova-2-sonicdes2swoshi-jian-sitemita</link>
+        <dc:date>2025-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フレームワークを活用したAIエージェントの評価 ～AIエージェントを育てるために～ (matsukada)</title>
+        <link>https://speakerdeck.com/licux/huremuwakuwohuo-yong-sitaaiezientonoping-jia-aiezientowoyu-terutameni</link>
+        <dc:date>2025-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>re:Inventから予想するAlexa+スキル開発 (Hideyuki Nagata)</title>
+        <link>https://speakerdeck.com/hideg/re-inventkarayu-xiang-surualexa-plus-sukirukai-fa</link>
+        <dc:date>2025-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2025年GraphQLでの出来事</title>
+        <link>https://docs.google.com/presentation/d/1a8OBuD7pnG0oeorcTCSWiN4-aOVuCCqVodCxmndD9Vs/preview</link>
+        <dc:date>2025-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ユーザースクリプトでUIコンポーネントを非表示にするなど (meow)</title>
+        <link>https://speakerdeck.com/meow_noisy/hide-ui-components-with-userscript</link>
+        <dc:date>2025-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ライブラリを公開してメンテナンスした一年 (asuka)</title>
+        <link>https://speakerdeck.com/askua/raiburariwogong-kai-sitementenansusita-nian</link>
+        <dc:date>2025-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Entity Framework Core におけるIN句クエリ最適化について (tkym)</title>
+        <link>https://speakerdeck.com/htkym/entity-framework-core-niokeruinju-kuerizui-shi-hua-nituite</link>
+        <dc:date>2025-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>日本Rubyの会: これまでとこれから (Koji SHIMADA)</title>
         <link>https://speakerdeck.com/snoozer05/ruby-no-kai-activity-report-2025</link>
         <dc:date>2025-12-19T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>The State of AI Agent Security：2025年の総括と2026年の宿題 (Yutaka Hiroyama)</title>
         <link>https://speakerdeck.com/pict3/the-state-of-ai-agent-security-2025nian-nozong-gua-to2026nian-nosu-ti</link>
         <dc:date>2025-12-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20251219 OpenIDファウンデーション・ジャパン紹介 / OpenID Foundation Japan Intro (OpenID Foundation Japan)</title>
-        <link>https://speakerdeck.com/oidfj/openid-foundation-japan-intro</link>
-        <dc:date>2025-12-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ活用 3.0 with Socrates (na0)</title>
-        <link>https://speakerdeck.com/na0/detahuo-yong-3-dot-0-with-socrates</link>
-        <dc:date>2025-12-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>祝到来！オンコパ2.0の世界 (Kaz Asada | しがない情シス)</title>
-        <link>https://speakerdeck.com/kasada/zhu-dao-lai-onkopa2-dot-0noshi-jie</link>
-        <dc:date>2025-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マイクロサービスへの5年間 ぶっちゃけ何をしてどうなったか (Tomohiro Hashidate)</title>
-        <link>https://speakerdeck.com/joker1007/maikurosabisuheno5nian-jian-bututiyakehe-wositedounatutaka</link>
-        <dc:date>2025-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20251218_AIを活用した開発生産性向上の全社的な取り組みの進め方について / How to proceed with company-wide initiatives to improve development productivity using AI (yayoi_dd)</title>
-        <link>https://speakerdeck.com/yayoi_dd/how-to-proceed-with-company-wide-initiatives-to-improve-development-productivity-using-ai</link>
-        <dc:date>2025-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025-12-18_AI駆動開発推進プロジェクト運営について / AIDD-Promotion project management (yayoi_dd)</title>
-        <link>https://speakerdeck.com/yayoi_dd/aidd-promotion-project-management</link>
-        <dc:date>2025-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NIKKEI Tech Talk #41: セキュア・バイ・デザインからクラウド管理を考える (Ryosuke Sekido)</title>
-        <link>https://speakerdeck.com/sekido/20251218-nikkei-tech-talk-secure-by-design</link>
-        <dc:date>2025-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS運用を効率化する！AWS Organizationsを軸にした一元管理の実践/nikkei-tech-talk-202512 (日本経済新聞社 エンジニア採用事務局)</title>
-        <link>https://speakerdeck.com/nikkei_engineer_recruiting/nikkei-tech-talk-202512</link>
-        <dc:date>2025-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>yuru sre 14 (maru)</title>
-        <link>https://speakerdeck.com/maruloop/yuru-sre-14</link>
-        <dc:date>2025-12-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
