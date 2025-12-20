@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>日本Rubyの会: これまでとこれから (Koji SHIMADA)</title>
+        <link>https://speakerdeck.com/snoozer05/ruby-no-kai-activity-report-2025</link>
+        <dc:date>2025-12-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>品質のための共通認識 (KAKEHASHI)</title>
         <link>https://speakerdeck.com/kakehashi/quality-alignment</link>
         <dc:date>2025-12-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>yuru sre 14 (maru)</title>
         <link>https://speakerdeck.com/maruloop/yuru-sre-14</link>
-        <dc:date>2025-12-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初めてのミニアプリリリース (Koki Miura,@k_miura_io)</title>
-        <link>https://www.docswell.com/s/k_miura_io/ZX681R-2025-12-18-210856</link>
         <dc:date>2025-12-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
