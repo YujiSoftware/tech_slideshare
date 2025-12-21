@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon Bedrock Knowledge Bases × メタデータ活用で実現する検証可能な RAG 設計 (Tomoaki)</title>
+        <link>https://speakerdeck.com/tomoaki25/amazon-bedrock-knowledge-bases-x-metadetahuo-yong-deshi-xian-surujian-zheng-ke-neng-na-rag-she-ji</link>
+        <dc:date>2025-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Aurora Serverless からAurora Serverless v2への課題と知見を論文から読み解く/Understanding the challenges and insights of moving from Aurora Serverless to Aurora Serverless v2 from a paper (bootjp / ぶーと)</title>
+        <link>https://speakerdeck.com/bootjp/understanding-the-challenges-and-insights-of-moving-from-aurora-serverless-to-aurora-serverless-v2-from-a-paper</link>
+        <dc:date>2025-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【U/day Tokyo 2025】Cygames流 最新スマートフォンゲームの技術設計 〜『Shadowverse: Worlds Beyond』におけるアーキテクチャ再設計の挑戦～ (Cygames)</title>
         <link>https://speakerdeck.com/cygames/cygames_202512_udaytokyo2025</link>
         <dc:date>2025-12-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>品質のための共通認識 (KAKEHASHI)</title>
         <link>https://speakerdeck.com/kakehashi/quality-alignment</link>
-        <dc:date>2025-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Unboxing Ruby Box (Satoshi Tagomori)</title>
-        <link>https://speakerdeck.com/tagomoris/unboxing-ruby-box</link>
-        <dc:date>2025-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゲームプログラマーのためのVisual Studio C^LM^LMプロジェクト設定入門 (M. K.,@ryutorion)</title>
-        <link>https://www.docswell.com/s/m-k/KX68YR-2025-12-19-203109</link>
         <dc:date>2025-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
