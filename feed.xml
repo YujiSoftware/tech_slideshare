@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI駆動開発の実践とその未来 (Ikko Eltociear Ashimine)</title>
+        <link>https://speakerdeck.com/eltociear/aiqu-dong-kai-fa-noshi-jian-tosonowei-lai</link>
+        <dc:date>2025-12-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自分では一文字も書かないアウトリーチを目指して</title>
         <link>https://docs.google.com/presentation/d/1MRinWpnLqINniZNpGrEI-4MnyF8sIt0UuKh9IZH5-Sc/preview</link>
         <dc:date>2025-12-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Strands AgentsとNova 2 SonicでS2Sを実践してみた (Yuuki Yamashita)</title>
         <link>https://speakerdeck.com/yama3133/strands-agentstonova-2-sonicdes2swoshi-jian-sitemita</link>
-        <dc:date>2025-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フレームワークを活用したAIエージェントの評価 ～AIエージェントを育てるために～ (matsukada)</title>
-        <link>https://speakerdeck.com/licux/huremuwakuwohuo-yong-sitaaiezientonoping-jia-aiezientowoyu-terutameni</link>
         <dc:date>2025-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
