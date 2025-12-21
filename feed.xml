@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI との良い付き合い方を僕らは誰も知らない (Asei Sugiyama)</title>
+        <link>https://speakerdeck.com/asei/ai-tonoliang-ifu-kihe-ifang-wopu-rahashui-mozhi-ranai</link>
+        <dc:date>2025-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2025-12-21 「ふりかえり」でAIコーディングを改善する (学生AI Coder Meetup in 京都)</title>
+        <link>https://docs.google.com/presentation/d/1H0YMNdcW1r94nWzzMsLDh9uUvnpJtt3DJVcUPO8UyC8/preview</link>
+        <dc:date>2025-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コーディングエージェントで加速させるスキマエンジニアリング (tomoki-miso)</title>
+        <link>https://speakerdeck.com/tomokimiso/kodeinguezientodejia-su-saserusukimaenziniaringu</link>
+        <dc:date>2025-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>高級VibeCodingでぶん殴り開発 2025.12.21</title>
+        <link>https://docs.google.com/presentation/d/1jP04ASBfkjjuoaYIokWaMzGcG4wsMIoPti0tHIpforw/preview</link>
+        <dc:date>2025-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vibe codingでおすすめの言語と開発手法</title>
+        <link>https://docs.google.com/presentation/d/1xdByPnx6s0PzJXClhTaaCg1jSGRsgWsGKT1eWifajLs/preview</link>
+        <dc:date>2025-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Googleの新AIエディタを使ってみた (eita)</title>
+        <link>https://speakerdeck.com/ironmax123/googlenoxin-aiedeitawoshi-tutemita-52217b95-8fec-49fc-9219-91c555d03e40</link>
+        <dc:date>2025-12-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon Bedrock Knowledge Bases × メタデータ活用で実現する検証可能な RAG 設計 (Tomoaki)</title>
         <link>https://speakerdeck.com/tomoaki25/amazon-bedrock-knowledge-bases-x-metadetahuo-yong-deshi-xian-surujian-zheng-ke-neng-na-rag-she-ji</link>
         <dc:date>2025-12-20T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>re:Inventから予想するAlexa+スキル開発 (Hideyuki Nagata)</title>
         <link>https://speakerdeck.com/hideg/re-inventkarayu-xiang-surualexa-plus-sukirukai-fa</link>
-        <dc:date>2025-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025年GraphQLでの出来事</title>
-        <link>https://docs.google.com/presentation/d/1a8OBuD7pnG0oeorcTCSWiN4-aOVuCCqVodCxmndD9Vs/preview</link>
-        <dc:date>2025-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ユーザースクリプトでUIコンポーネントを非表示にするなど (meow)</title>
-        <link>https://speakerdeck.com/meow_noisy/hide-ui-components-with-userscript</link>
-        <dc:date>2025-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ライブラリを公開してメンテナンスした一年 (asuka)</title>
-        <link>https://speakerdeck.com/askua/raiburariwogong-kai-sitementenansusita-nian</link>
-        <dc:date>2025-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Entity Framework Core におけるIN句クエリ最適化について (tkym)</title>
-        <link>https://speakerdeck.com/htkym/entity-framework-core-niokeruinju-kuerizui-shi-hua-nituite</link>
-        <dc:date>2025-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>日本Rubyの会: これまでとこれから (Koji SHIMADA)</title>
-        <link>https://speakerdeck.com/snoozer05/ruby-no-kai-activity-report-2025</link>
-        <dc:date>2025-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>品質のための共通認識 (KAKEHASHI)</title>
-        <link>https://speakerdeck.com/kakehashi/quality-alignment</link>
         <dc:date>2025-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
