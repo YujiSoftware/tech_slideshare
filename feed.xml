@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Pythonではじめるオープンデータ分析〜書籍の紹介と書籍で紹介しきれなかった事例の紹介〜 (Ryo YOSHI)</title>
+        <link>https://speakerdeck.com/welliving/pythondehazimeruopundetafen-xi-shu-ji-noshao-jie-toshu-ji-deshao-jie-sikirenakatutashi-li-noshao-jie</link>
+        <dc:date>2025-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>初めてのDatabricks AI/BI Genie (Takaaki Yayoi)</title>
         <link>https://speakerdeck.com/taka_aki/bi-genie</link>
         <dc:date>2025-12-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Amazon Bedrock Knowledge Bases × メタデータ活用で実現する検証可能な RAG 設計 (Tomoaki)</title>
         <link>https://speakerdeck.com/tomoaki25/amazon-bedrock-knowledge-bases-x-metadetahuo-yong-deshi-xian-surujian-zheng-ke-neng-na-rag-she-ji</link>
-        <dc:date>2025-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Aurora Serverless からAurora Serverless v2への課題と知見を論文から読み解く/Understanding the challenges and insights of moving from Aurora Serverless to Aurora Serverless v2 from a paper (bootjp / ぶーと)</title>
-        <link>https://speakerdeck.com/bootjp/understanding-the-challenges-and-insights-of-moving-from-aurora-serverless-to-aurora-serverless-v2-from-a-paper</link>
         <dc:date>2025-12-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
