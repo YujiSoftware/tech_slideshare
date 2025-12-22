@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モダンデータスタックの理想と現実の間で～1.3億人Vポイントデータ基盤の現在地とこれから～ (タロウ)</title>
+        <link>https://speakerdeck.com/taromatsui_cccmkhd/aoen-tech-hub-22-modandatastack</link>
+        <dc:date>2025-12-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSに革命を起こすかもしれない新サービス・アップデートについてのお話 (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/awsnige-ming-woqi-kosukamosirenaixin-sabisuatupudetonituitenoohua</link>
+        <dc:date>2025-12-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>作って学ぶ！Kiro Powers (Shota Kawasaki)</title>
+        <link>https://speakerdeck.com/kawaaaas/zuo-tutexue-hu-kiro-powers</link>
+        <dc:date>2025-12-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラスメソッドのReact事情大公開スペシャル #7 フロントエンドを書けない私が Vercel v0とvibecodingでなんとかやり切った話 (田中 聖也)</title>
+        <link>https://speakerdeck.com/tanakaseiya/kurasumesotudonoreactshi-qing-da-gong-kai-supesiyaru-number-7-hurontoendowoshu-kenaisi-ga-vercel-v0tovibecodingdenantokayariqie-tutahua</link>
+        <dc:date>2025-12-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>誰でも量子の世界へ！Qiskit Advocateと新資格試験の紹介 (Daiki Murata)</title>
+        <link>https://speakerdeck.com/daimurat/shui-demoliang-zi-noshi-jie-he-qiskit-advocatetoxin-zi-ge-shi-yan-noshao-jie</link>
+        <dc:date>2025-12-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSの新機能をフル活用した「re:Inventエージェント」開発秘話 (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/awsnoxin-ji-neng-wohuruhuo-yong-sita-re-inventeziento-kai-fa-mi-hua</link>
+        <dc:date>2025-12-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>M&amp;Aで拡大し続けるGENDAのデータ活用を促すためのDatabricks権限管理 / AEON TECH HUB #22 (GENDA)</title>
+        <link>https://speakerdeck.com/genda/aeon-tech-hub-22-mawatari</link>
+        <dc:date>2025-12-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「もしもデータ基盤開発で『強くてニューゲーム』ができたなら今の僕はどんなデータ基盤を作っただろう」 (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/building-the-ideal-data-infrastructure-what-id-do-differently-with-a-new-game-plus-start</link>
+        <dc:date>2025-12-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Agent Skillsがハーネスの垣根を超える日 (Gota)</title>
         <link>https://speakerdeck.com/gotalab555/agent-skillsgahanesunoyuan-gen-wochao-eruri</link>
         <dc:date>2025-12-21T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>【U/day Tokyo 2025】Cygames流 最新スマートフォンゲームの技術設計 〜『Shadowverse: Worlds Beyond』におけるアーキテクチャ再設計の挑戦～ (Cygames)</title>
         <link>https://speakerdeck.com/cygames/cygames_202512_udaytokyo2025</link>
         <dc:date>2025-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI 駆動開発ライフサイクル(AI-DLC):ソフトウェアエンジニアリングの再構築 / AI-DLC Introduction  (kanamsasa)</title>
-        <link>https://speakerdeck.com/kanamasa/ai-dlc-introduction</link>
-        <dc:date>2025-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilotにも追加されたAgent Skillsとは (yuma(Maki),@yuma_prog)</title>
-        <link>https://www.docswell.com/s/yuma/5RE1Q3-2025-12-20-dotnetlab</link>
-        <dc:date>2025-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Python札幌 LT資料 (t3tra)</title>
-        <link>https://speakerdeck.com/t3tra/pythonzha-huang-ltzi-liao</link>
-        <dc:date>2025-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025年の振り返りと2026年の展望 (Hiroshi TANABE)</title>
-        <link>https://speakerdeck.com/htnabe/2025nian-nozhen-rifan-rito2026nian-nozhan-wang</link>
-        <dc:date>2025-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>旭川セキュリティシンポジウム2025に参加してみた</title>
-        <link>https://docs.google.com/presentation/d/1H9X2VzysUMja2aRXWLujccmOgRc59z6QZ3Y0wjQILVM/preview</link>
-        <dc:date>2025-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Strands Agents × インタリーブ思考 で変わるAIエージェント設計 / Strands Agents x Interleaved Thinking AI Agents (Takanori Suzuki)</title>
-        <link>https://speakerdeck.com/takanorig/ai-builders-day-strandsagents-interleavedthinking</link>
-        <dc:date>2025-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Durable Task Extension for Microsoft Agent Framework はいいぞ (Kazuki)</title>
-        <link>https://speakerdeck.com/okazuki/durable-task-extension-for-microsoft-agent-framework-haiizo</link>
-        <dc:date>2025-12-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>.NET Conf 2025 の興味のあるセッ ションを復習した / dotnet conf 2025 quick recap for backend engineer (Tomohisa Takaoka)</title>
-        <link>https://speakerdeck.com/tomohisa/dotnet-conf-2025-quick-recap-for-backend-engineer</link>
-        <dc:date>2025-12-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
