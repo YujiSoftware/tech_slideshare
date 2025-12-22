@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>普段使ってるClaude Skillsの紹介(by Notebooklm) (Higuchi kokoro)</title>
+        <link>https://speakerdeck.com/zerebom/pu-duan-shi-tuteruclaude-skillsnoshao-jie-by-notebooklm</link>
+        <dc:date>2025-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Pythonではじめるオープンデータ分析〜書籍の紹介と書籍で紹介しきれなかった事例の紹介〜 (Ryo YOSHI)</title>
         <link>https://speakerdeck.com/welliving/pythondehazimeruopundetafen-xi-shu-ji-noshao-jie-toshu-ji-deshao-jie-sikirenakatutashi-li-noshao-jie</link>
         <dc:date>2025-12-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Googleの新AIエディタを使ってみた (eita)</title>
         <link>https://speakerdeck.com/ironmax123/googlenoxin-aiedeitawoshi-tutemita-52217b95-8fec-49fc-9219-91c555d03e40</link>
-        <dc:date>2025-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Bedrock Knowledge Bases × メタデータ活用で実現する検証可能な RAG 設計 (Tomoaki)</title>
-        <link>https://speakerdeck.com/tomoaki25/amazon-bedrock-knowledge-bases-x-metadetahuo-yong-deshi-xian-surujian-zheng-ke-neng-na-rag-she-ji</link>
         <dc:date>2025-12-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
