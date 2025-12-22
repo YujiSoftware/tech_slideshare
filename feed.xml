@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>初めてのDatabricks AI/BI Genie (Takaaki Yayoi)</title>
+        <link>https://speakerdeck.com/taka_aki/bi-genie</link>
+        <dc:date>2025-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モダンデータスタックの理想と現実の間で～1.3億人Vポイントデータ基盤の現在地とこれから～ (タロウ)</title>
         <link>https://speakerdeck.com/taromatsui_cccmkhd/aoen-tech-hub-22-modandatastack</link>
         <dc:date>2025-12-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Aurora Serverless からAurora Serverless v2への課題と知見を論文から読み解く/Understanding the challenges and insights of moving from Aurora Serverless to Aurora Serverless v2 from a paper (bootjp / ぶーと)</title>
         <link>https://speakerdeck.com/bootjp/understanding-the-challenges-and-insights-of-moving-from-aurora-serverless-to-aurora-serverless-v2-from-a-paper</link>
-        <dc:date>2025-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【U/day Tokyo 2025】Cygames流 最新スマートフォンゲームの技術設計 〜『Shadowverse: Worlds Beyond』におけるアーキテクチャ再設計の挑戦～ (Cygames)</title>
-        <link>https://speakerdeck.com/cygames/cygames_202512_udaytokyo2025</link>
         <dc:date>2025-12-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
