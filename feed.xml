@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ZJIT: The Ruby 4 JIT Compiler / Ruby Release 30th Anniversary Party (Takashi Kokubun)</title>
+        <link>https://speakerdeck.com/k0kubun/ruby-release-30th-anniversary-party</link>
+        <dc:date>2025-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>普段使ってるClaude Skillsの紹介(by Notebooklm) (Higuchi kokoro)</title>
         <link>https://speakerdeck.com/zerebom/pu-duan-shi-tuteruclaude-skillsnoshao-jie-by-notebooklm</link>
         <dc:date>2025-12-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Vibe codingでおすすめの言語と開発手法</title>
         <link>https://docs.google.com/presentation/d/1xdByPnx6s0PzJXClhTaaCg1jSGRsgWsGKT1eWifajLs/preview</link>
-        <dc:date>2025-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Googleの新AIエディタを使ってみた (eita)</title>
-        <link>https://speakerdeck.com/ironmax123/googlenoxin-aiedeitawoshi-tutemita-52217b95-8fec-49fc-9219-91c555d03e40</link>
         <dc:date>2025-12-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
