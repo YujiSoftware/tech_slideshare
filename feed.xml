@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Gradle Build Scriptの第0歩: 仕組みから書き方を理解する (Udomomo,@Udomomo)</title>
+        <link>https://www.docswell.com/s/Udomomo/ZDWRW6-2025-12-23-201201</link>
+        <dc:date>2025-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メルカリのリーダビリティチームが取り組む、AI時代のスケーラブルな品質文化 (osari.k)</title>
+        <link>https://speakerdeck.com/cloverrose/merukarinoridabiriteitimugaqu-rizu-mu-aishi-dai-nosukeraburunapin-zhi-wen-hua</link>
+        <dc:date>2025-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>0→1 フロントエンド開発 Tips🚀 (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20251223-cloudsign-levtechmeetup-0-1-fe</link>
+        <dc:date>2025-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Spinner 軸ズレ現象を調べたらレンダリング深淵に飲まれた (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20251223-cloudsign-levtechmeetup-spinner</link>
+        <dc:date>2025-12-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Codeにテストで楽をさせない技術 (びーぐる)</title>
         <link>https://speakerdeck.com/beagle_dog_inu/claude-codenitesutodele-wosasenaiji-shu</link>
         <dc:date>2025-12-22T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>AI駆動開発の実践とその未来 (Ikko Eltociear Ashimine)</title>
         <link>https://speakerdeck.com/eltociear/aiqu-dong-kai-fa-noshi-jian-tosonowei-lai</link>
         <dc:date>2025-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自分では一文字も書かないアウトリーチを目指して</title>
-        <link>https://docs.google.com/presentation/d/1MRinWpnLqINniZNpGrEI-4MnyF8sIt0UuKh9IZH5-Sc/preview</link>
-        <dc:date>2025-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI との良い付き合い方を僕らは誰も知らない (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/ai-tonoliang-ifu-kihe-ifang-wopu-rahashui-mozhi-ranai</link>
-        <dc:date>2025-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025-12-21 「ふりかえり」でAIコーディングを改善する (学生AI Coder Meetup in 京都)</title>
-        <link>https://docs.google.com/presentation/d/1H0YMNdcW1r94nWzzMsLDh9uUvnpJtt3DJVcUPO8UyC8/preview</link>
-        <dc:date>2025-12-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コーディングエージェントで加速させるスキマエンジニアリング (tomoki-miso)</title>
-        <link>https://speakerdeck.com/tomokimiso/kodeinguezientodejia-su-saserusukimaenziniaringu</link>
-        <dc:date>2025-12-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
