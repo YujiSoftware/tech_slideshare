@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ECS_EKS以外の選択肢_ROSA入門_.pdf (モブエンジニア（Masaki Okuda）)</title>
+        <link>https://speakerdeck.com/masakiokuda/ecs-eksyi-wai-noxuan-ze-zhi-rosaru-men</link>
+        <dc:date>2025-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コールドスタンバイ構成でCDは可能か (平目)</title>
+        <link>https://speakerdeck.com/hiramax/korudosutanbaigou-cheng-decdhake-neng-ka</link>
+        <dc:date>2025-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テストセンター受験、オンライン受験、どっちなんだい？ (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/tesutosentashou-yan-onrainshou-yan-dotutinandai</link>
+        <dc:date>2025-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Redshift認可、アップデートでどう変わった？ (daiki.handa)</title>
+        <link>https://speakerdeck.com/handy/redshiftren-ke-atupudetodedoubian-watuta</link>
+        <dc:date>2025-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>kiroを用いたspec開発 (Hiroto)</title>
+        <link>https://speakerdeck.com/hiro_eng_/kirowoyong-itaspeckai-fa</link>
+        <dc:date>2025-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2025年ふりかえり (asuka)</title>
+        <link>https://speakerdeck.com/askua/2025nian-hurikaeri</link>
+        <dc:date>2025-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サクソバンクAPIと歩んだ440日の死闘 (のーひこ)</title>
+        <link>https://www.docswell.com/s/nohikomiso/KX68QM-2025-12-26-203647</link>
+        <dc:date>2025-12-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[AtCoder Conference 2025] LLMを使った業務AHCの上⼿な解き⽅ (terry-u16)</title>
         <link>https://speakerdeck.com/terryu16/atcoder-conference-2025-llmwoshi-tutaye-wu-ahcnoshang-najie-ki</link>
         <dc:date>2025-12-25T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>Pythonではじめるオープンデータ分析〜書籍の紹介と書籍で紹介しきれなかった事例の紹介〜 (Ryo YOSHI)</title>
         <link>https://speakerdeck.com/welliving/pythondehazimeruopundetafen-xi-shu-ji-noshao-jie-toshu-ji-deshao-jie-sikirenakatutashi-li-noshao-jie</link>
         <dc:date>2025-12-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初めてのDatabricks AI/BI Genie (Takaaki Yayoi)</title>
-        <link>https://speakerdeck.com/taka_aki/bi-genie</link>
-        <dc:date>2025-12-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モダンデータスタックの理想と現実の間で～1.3億人Vポイントデータ基盤の現在地とこれから～ (タロウ)</title>
-        <link>https://speakerdeck.com/taromatsui_cccmkhd/aoen-tech-hub-22-modandatastack</link>
-        <dc:date>2025-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSに革命を起こすかもしれない新サービス・アップデートについてのお話 (Yuuki Yamashita)</title>
-        <link>https://speakerdeck.com/yama3133/awsnige-ming-woqi-kosukamosirenaixin-sabisuatupudetonituitenoohua</link>
-        <dc:date>2025-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>作って学ぶ！Kiro Powers (Shota Kawasaki)</title>
-        <link>https://speakerdeck.com/kawaaaas/zuo-tutexue-hu-kiro-powers</link>
-        <dc:date>2025-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラスメソッドのReact事情大公開スペシャル #7 フロントエンドを書けない私が Vercel v0とvibecodingでなんとかやり切った話 (田中 聖也)</title>
-        <link>https://speakerdeck.com/tanakaseiya/kurasumesotudonoreactshi-qing-da-gong-kai-supesiyaru-number-7-hurontoendowoshu-kenaisi-ga-vercel-v0tovibecodingdenantokayariqie-tutahua</link>
-        <dc:date>2025-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>誰でも量子の世界へ！Qiskit Advocateと新資格試験の紹介 (Daiki Murata)</title>
-        <link>https://speakerdeck.com/daimurat/shui-demoliang-zi-noshi-jie-he-qiskit-advocatetoxin-zi-ge-shi-yan-noshao-jie</link>
-        <dc:date>2025-12-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSの新機能をフル活用した「re:Inventエージェント」開発秘話 (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/awsnoxin-ji-neng-wohuruhuo-yong-sita-re-inventeziento-kai-fa-mi-hua</link>
-        <dc:date>2025-12-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
