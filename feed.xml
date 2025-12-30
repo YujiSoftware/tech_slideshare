@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>シニアソフトウェアエンジニアになるためには (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
+        <link>https://speakerdeck.com/kworkdev/to_be_a_senior_software_engineer</link>
+        <dc:date>2025-12-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>3D Gaussian Splatting VS フォトグラメトリ (ホロラボ,@HoloLabInc)</title>
         <link>https://www.docswell.com/s/HoloLab/ZX6VVN-holoconf25_b2</link>
         <dc:date>2025-12-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>kiroを用いたspec開発 (Hiroto)</title>
         <link>https://speakerdeck.com/hiro_eng_/kirowoyong-itaspeckai-fa</link>
-        <dc:date>2025-12-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025年ふりかえり (asuka)</title>
-        <link>https://speakerdeck.com/askua/2025nian-hurikaeri</link>
         <dc:date>2025-12-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
