@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>202510YAPC Fukuoka</title>
+        <link>https://docs.google.com/presentation/d/1uyFikG_6xJzpkTaH1pv4fNsk8A34CdSHqoQWWdKgSWU/preview</link>
+        <dc:date>2025-12-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2025年 Amazon Bedrock AgentCoreまとめ (Yudai Jinno)</title>
         <link>https://speakerdeck.com/yuu551/2025nian-amazon-bedrock-agentcorematome</link>
         <dc:date>2025-12-30T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>松尾研LLM講座2025 応用編Day3「軽量化」 講義資料 (Aratako)</title>
         <link>https://speakerdeck.com/aratako/song-wei-yan-llmjiang-zuo-2025-day3-qing-liang-hua-jiang-yi-zi-liao</link>
         <dc:date>2025-12-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ECS_EKS以外の選択肢_ROSA入門_.pdf (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/ecs-eksyi-wai-noxuan-ze-zhi-rosaru-men</link>
-        <dc:date>2025-12-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
