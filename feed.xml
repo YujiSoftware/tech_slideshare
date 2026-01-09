@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ForgeVision AWS re:Invent 2025 re:Cap KANSAI (otanikohei)</title>
+        <link>https://speakerdeck.com/otanikohei2023/forgevision-aws-re-invent-2025-re-cap-kansai</link>
+        <dc:date>2026-01-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>型安全で非依存な軽量AIエージェントフレームワーク、Tankstack AI (daitasu)</title>
+        <link>https://speakerdeck.com/daitasu/xing-an-quan-defei-yi-cun-naqing-liang-aiezientohuremuwaku-tankstack-ai</link>
+        <dc:date>2026-01-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代のアジャイルチームを目指して ー スクラムというコンフォートゾーンからの脱却 ー / Toward Agile Teams in the Age of AI (TAKAKING22)</title>
         <link>https://speakerdeck.com/takaking22/toward-agile-teams-in-the-age-of-ai</link>
         <dc:date>2026-01-08T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>S3を正しく理解するための内部構造の読解 (NRI Netcom)</title>
         <link>https://speakerdeck.com/nrinetcom/s3wozheng-sikuli-jie-surutamenonei-bu-gou-zao-nodu-jie</link>
         <dc:date>2025-12-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIで オリジナルゲッダン動画を作る 〜実装編〜 (Terisuke)</title>
-        <link>https://speakerdeck.com/terisuke/aide-orizinarugetudandong-hua-wozuo-ru-shi-zhuang-bian</link>
-        <dc:date>2025-12-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20251230_RPALT_かーでぃの存在感</title>
-        <link>https://docs.google.com/presentation/d/1KVWX9VktTi0fGUvBhcJh5fCNOrK67OGzmOtSQTcXEdg/preview</link>
-        <dc:date>2025-12-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
