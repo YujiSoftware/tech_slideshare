@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>歴史から学ぶ、Goのメモリ管理基礎 (Takuto Nagami)</title>
+        <link>https://speakerdeck.com/logica0419/fundamentals-of-memory-management-in-go-jp</link>
+        <dc:date>2026-01-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ForgeVision AWS re:Invent 2025 re:Cap KANSAI (otanikohei)</title>
         <link>https://speakerdeck.com/otanikohei2023/forgevision-aws-re-invent-2025-re-cap-kansai</link>
         <dc:date>2026-01-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2025年 Amazon Bedrock AgentCoreまとめ (Yudai Jinno)</title>
         <link>https://speakerdeck.com/yuu551/2025nian-amazon-bedrock-agentcorematome</link>
-        <dc:date>2025-12-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>S3を正しく理解するための内部構造の読解 (NRI Netcom)</title>
-        <link>https://speakerdeck.com/nrinetcom/s3wozheng-sikuli-jie-surutamenonei-bu-gou-zao-nodu-jie</link>
         <dc:date>2025-12-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
