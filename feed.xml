@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260109_Cloud Architectures Resilient to Attacks and Failures - Building Cyber and System Resilience through Visibility and Validation (Typhon 666,@Typhon666_death)</title>
+        <link>https://www.slideshare.net/slideshow/20260109_cloud-architectures-resilient-to-attacks-and-failures-building-cyber-and-system-resilience-through-visibility-and-validation/285106816</link>
+        <dc:date>2026-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>歴史から学ぶ、Goのメモリ管理基礎 (Takuto Nagami)</title>
         <link>https://speakerdeck.com/logica0419/fundamentals-of-memory-management-in-go-jp</link>
         <dc:date>2026-01-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>202510YAPC Fukuoka</title>
         <link>https://docs.google.com/presentation/d/1uyFikG_6xJzpkTaH1pv4fNsk8A34CdSHqoQWWdKgSWU/preview</link>
         <dc:date>2025-12-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025年 Amazon Bedrock AgentCoreまとめ (Yudai Jinno)</title>
-        <link>https://speakerdeck.com/yuu551/2025nian-amazon-bedrock-agentcorematome</link>
-        <dc:date>2025-12-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
