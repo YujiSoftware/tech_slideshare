@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>純粋なイミュータブルモデルを設計してからイベントソーシングと組み合わせるDeciderの実践方法の紹介 /Introducing Decider Pattern with Event Sourcing (Tomohisa Takaoka)</title>
+        <link>https://speakerdeck.com/tomohisa/introducing-decider-pattern-with-event-sourcing</link>
+        <dc:date>2026-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Serendie Design Systemを使ってWebアプリケーションを開発してみた (世良泰明)</title>
+        <link>https://speakerdeck.com/y_sera15/serendie-design-systemwoshi-tutewebapurikesiyonwokai-fa-sitemita</link>
+        <dc:date>2026-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20250110_ChatGPT部2026年の抱負 (NobuakiOshiro)</title>
+        <link>https://speakerdeck.com/doradora09/20250110-chatgptbu-2026nian-nobao-fu</link>
+        <dc:date>2026-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React 19でつくる「気持ちいいUI」- 楽観的UIのすすめ (Hiroshi Morishige)</title>
         <link>https://speakerdeck.com/himorishige/react-19detukuru-qi-chi-tiiiui-le-guan-de-uinosusume</link>
         <dc:date>2026-01-09T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>I tried making a solo advent calendar! (otsuka)</title>
         <link>https://speakerdeck.com/zzzzico/i-tried-making-a-solo-advent-calendar</link>
         <dc:date>2026-01-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025年 山梨の技術コミュニティを振り返る (Yuuki Shimizu)</title>
-        <link>https://speakerdeck.com/yuukis/2025nian-shan-li-noji-shu-komiyuniteiwozhen-rifan-ru</link>
-        <dc:date>2026-01-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LT会 IAC 資料 (きく)</title>
-        <link>https://www.docswell.com/s/5318057513/52QD36-2026-01-03-094622</link>
-        <dc:date>2026-01-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Snowflake Intelligenceにはこうやって立ち向かう！クラシルが考えるAI Readyなデータ基盤と活用のためのDataOps (harry)</title>
-        <link>https://speakerdeck.com/gappy50/snowflake-intelligenceniha-kouyatuteli-tixiang-kau-kurasirugakao-eruai-readynadetaji-pan-to-huo-yong-notamenodataops</link>
-        <dc:date>2026-01-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
