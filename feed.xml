@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React 19でつくる「気持ちいいUI」- 楽観的UIのすすめ (Hiroshi Morishige)</title>
+        <link>https://speakerdeck.com/himorishige/react-19detukuru-qi-chi-tiiiui-le-guan-de-uinosusume</link>
+        <dc:date>2026-01-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>形式手法特論：コンパイラの「正しさ」は証明できるか？ #burikaigi / BuriKaigi 2026 (y_taka_23)</title>
         <link>https://speakerdeck.com/ytaka23/burikaigi-2026</link>
         <dc:date>2026-01-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Snowflake Intelligenceにはこうやって立ち向かう！クラシルが考えるAI Readyなデータ基盤と活用のためのDataOps (harry)</title>
         <link>https://speakerdeck.com/gappy50/snowflake-intelligenceniha-kouyatuteli-tixiang-kau-kurasirugakao-eruai-readynadetaji-pan-to-huo-yong-notamenodataops</link>
         <dc:date>2026-01-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>まだ間に合う！ Agentic AI on AWSの現在地をやさしく一挙おさらい (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/madajian-nihe-u-agentic-ai-on-awsnoxian-zai-di-woyasasiku-ju-osarai</link>
-        <dc:date>2026-01-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
