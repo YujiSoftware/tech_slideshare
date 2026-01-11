@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>それ、本当に安全？ ファイルアップロードで見落としがちなセキュリティリスクと対策 (ikechi)</title>
+        <link>https://speakerdeck.com/penpeen/sore-ben-dang-nian-quan-huairuatupurododejian-luo-tosigatinasekiyuriteirisukutodui-ce</link>
+        <dc:date>2026-01-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>例外処理とどう使い分ける？Result型を使ったエラー設計 #burikaigi (Takuma Kajikawa)</title>
         <link>https://speakerdeck.com/kajitack/exception-or-result-type</link>
         <dc:date>2026-01-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>祝！ GROOVE X Advent Calendar 2025 完走！ (Kentaro Iizuka)</title>
         <link>https://speakerdeck.com/iizukak/zhu-groove-x-advent-calendar-2025-wan-zou</link>
-        <dc:date>2026-01-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アドカレ初完走！ 企画側としてやったこと@QiitaBash_20260107 (shilo)</title>
-        <link>https://speakerdeck.com/shilo113/adokarechu-wan-zou-qi-hua-ce-tositeyatutakoto-at-qiitabash-20260107</link>
         <dc:date>2026-01-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
