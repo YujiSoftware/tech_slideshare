@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Enum、お前は一体何者だ？ (hirotaka kono,@hk_it7)</title>
+        <link>https://www.docswell.com/s/hk_it7/KLVM77-enum-burikaigi</link>
+        <dc:date>2026-01-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIによるイベントストーミング図からのコード生成 / AI-powered code generation from Event Storming diagrams (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/ai-powered-code-generation-from-event-storming-diagrams</link>
+        <dc:date>2026-01-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>それ、本当に安全？ ファイルアップロードで見落としがちなセキュリティリスクと対策 (ikechi)</title>
         <link>https://speakerdeck.com/penpeen/sore-ben-dang-nian-quan-huairuatupurododejian-luo-tosigatinasekiyuriteirisukutodui-ce</link>
         <dc:date>2026-01-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>20260107_年末年始チャレンジしたことLT会 (shu,@shu_scotch)</title>
         <link>https://www.docswell.com/s/shu/5EY22N-2026-01-07-012142</link>
-        <dc:date>2026-01-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PoCが成功したので基盤開発をやっている話:LLMによるローカルレビュー</title>
-        <link>https://docs.google.com/presentation/d/1u77YtuXM9xLRiqjUTrUgok3XAMzh2aNqdvMPEUjVqoQ/preview</link>
-        <dc:date>2026-01-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>祝！ GROOVE X Advent Calendar 2025 完走！ (Kentaro Iizuka)</title>
-        <link>https://speakerdeck.com/iizukak/zhu-groove-x-advent-calendar-2025-wan-zou</link>
         <dc:date>2026-01-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
