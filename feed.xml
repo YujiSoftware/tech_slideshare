@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>例外処理とどう使い分ける？Result型を使ったエラー設計 #burikaigi (Takuma Kajikawa)</title>
+        <link>https://speakerdeck.com/kajitack/exception-or-result-type</link>
+        <dc:date>2026-01-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>純粋なイミュータブルモデルを設計してからイベントソーシングと組み合わせるDeciderの実践方法の紹介 /Introducing Decider Pattern with Event Sourcing (Tomohisa Takaoka)</title>
         <link>https://speakerdeck.com/tomohisa/introducing-decider-pattern-with-event-sourcing</link>
         <dc:date>2026-01-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>アドカレ初完走！ 企画側としてやったこと@QiitaBash_20260107 (shilo)</title>
         <link>https://speakerdeck.com/shilo113/adokarechu-wan-zou-qi-hua-ce-tositeyatutakoto-at-qiitabash-20260107</link>
-        <dc:date>2026-01-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>I tried making a solo advent calendar! (otsuka)</title>
-        <link>https://speakerdeck.com/zzzzico/i-tried-making-a-solo-advent-calendar</link>
         <dc:date>2026-01-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
