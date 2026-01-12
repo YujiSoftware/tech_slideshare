@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Stailerにおけるコトを残すデータ設計とイベント駆動アーキテクチャ (ryota0624)</title>
+        <link>https://speakerdeck.com/ryota0624/stailerniokerukotowocan-sudetashe-ji-toibentoqu-dong-akitekutiya</link>
+        <dc:date>2026-01-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>まずはドメインに向き合って、それからCQRSで実装する (memetics10)</title>
+        <link>https://speakerdeck.com/memetics10/mazuhadomeinnixiang-kihe-tute-sorekaracqrsdeshi-zhuang-suru</link>
+        <dc:date>2026-01-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PythonでTello動かす (Koki Miura,@k_miura_io)</title>
         <link>https://www.docswell.com/s/k_miura_io/ZPGN9Q-2026-01-12-142927</link>
         <dc:date>2026-01-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>型安全で非依存な軽量AIエージェントフレームワーク、Tankstack AI (daitasu)</title>
         <link>https://speakerdeck.com/daitasu/xing-an-quan-defei-yi-cun-naqing-liang-aiezientohuremuwaku-tankstack-ai</link>
-        <dc:date>2026-01-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代のアジャイルチームを目指して ー スクラムというコンフォートゾーンからの脱却 ー / Toward Agile Teams in the Age of AI (TAKAKING22)</title>
-        <link>https://speakerdeck.com/takaking22/toward-agile-teams-in-the-age-of-ai</link>
-        <dc:date>2026-01-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025年のWebフロントエンドのふりかえりと2026年 (sakito,@__sakito__)</title>
-        <link>https://www.docswell.com/s/sakito/ZEY2P7-burikaigi2026</link>
         <dc:date>2026-01-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
