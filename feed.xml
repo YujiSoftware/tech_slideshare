@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Postmanオンラインワークショップ - APIコラボレーション - 20260113</title>
+        <link>https://docs.google.com/presentation/d/1mfVXgPqxmdicetIAP_pdeEGA_aUEYc1ZhFnYM-OR-Sc/preview</link>
+        <dc:date>2026-01-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ファインディにおけるフロントエンド技術選定の歴史 (puku0x)</title>
+        <link>https://speakerdeck.com/puku0x/huaindeiniokeruhurontoendoji-shu-xuan-ding-noli-shi-f2398604-2f88-4930-a0e8-8bc3b6a5f5d5</link>
+        <dc:date>2026-01-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>16年目のピクシブ百科事典を支える最新の技術基盤 / The Modern Tech Stack Powering Pixiv Encyclopedia in its 16th Year (ahu)</title>
+        <link>https://speakerdeck.com/ahuglajbclajep/the-modern-tech-stack-powering-pixiv-encyclopedia-in-its-16th-year</link>
+        <dc:date>2026-01-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サラリーマンソフトウェアエンジニアのキャリア (YuheiNakasaka)</title>
         <link>https://speakerdeck.com/yuheinakasaka/sararimansohutoueaenzinianokiyaria</link>
         <dc:date>2026-01-12T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>React 19でつくる「気持ちいいUI」- 楽観的UIのすすめ (Hiroshi Morishige)</title>
         <link>https://speakerdeck.com/himorishige/react-19detukuru-qi-chi-tiiiui-le-guan-de-uinosusume</link>
         <dc:date>2026-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>形式手法特論：コンパイラの「正しさ」は証明できるか？ #burikaigi / BuriKaigi 2026 (y_taka_23)</title>
-        <link>https://speakerdeck.com/ytaka23/burikaigi-2026</link>
-        <dc:date>2026-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260109_Cloud Architectures Resilient to Attacks and Failures - Building Cyber and System Resilience through Visibility and Validation (Typhon 666,@Typhon666_death)</title>
-        <link>https://www.slideshare.net/slideshow/20260109_cloud-architectures-resilient-to-attacks-and-failures-building-cyber-and-system-resilience-through-visibility-and-validation/285106816</link>
-        <dc:date>2026-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>歴史から学ぶ、Goのメモリ管理基礎 (Takuto Nagami)</title>
-        <link>https://speakerdeck.com/logica0419/fundamentals-of-memory-management-in-go-jp</link>
-        <dc:date>2026-01-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
