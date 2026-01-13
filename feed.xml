@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サラリーマンソフトウェアエンジニアのキャリア (YuheiNakasaka)</title>
+        <link>https://speakerdeck.com/yuheinakasaka/sararimansohutoueaenzinianokiyaria</link>
+        <dc:date>2026-01-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMを用いた遺伝的アルゴリズムによる、進化的プロンプト探索 (tokoroten,@tokoroten)</title>
         <link>https://www.docswell.com/s/tokoroten/KLV4L8-2026-01-12-140522</link>
         <dc:date>2026-01-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>歴史から学ぶ、Goのメモリ管理基礎 (Takuto Nagami)</title>
         <link>https://speakerdeck.com/logica0419/fundamentals-of-memory-management-in-go-jp</link>
-        <dc:date>2026-01-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ForgeVision AWS re:Invent 2025 re:Cap KANSAI (otanikohei)</title>
-        <link>https://speakerdeck.com/otanikohei2023/forgevision-aws-re-invent-2025-re-cap-kansai</link>
         <dc:date>2026-01-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
