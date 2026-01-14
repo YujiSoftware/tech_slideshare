@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インターン生でもAuth0で 認証基盤刷新が出来るのか (takumi)</title>
+        <link>https://speakerdeck.com/taku271/intansheng-demoauth0de-ren-zheng-ji-pan-shua-xin-gachu-lai-runoka</link>
+        <dc:date>2026-01-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AgentCore BrowserとClaude Codeスキルを活用した 『初手AI』を実現する業務自動化AIエージェント基盤 (Hirokatsu Endo)</title>
         <link>https://speakerdeck.com/ruzia/agentcore-browsertoclaude-codesukiruwohuo-yong-sita-chu-shou-ai-woshi-xian-suruye-wu-zi-dong-hua-aiezientoji-pan</link>
         <dc:date>2026-01-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Enum、お前は一体何者だ？ (hirotaka kono,@hk_it7)</title>
         <link>https://www.docswell.com/s/hk_it7/KLVM77-enum-burikaigi</link>
-        <dc:date>2026-01-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIによるイベントストーミング図からのコード生成 / AI-powered code generation from Event Storming diagrams (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/ai-powered-code-generation-from-event-storming-diagrams</link>
         <dc:date>2026-01-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
