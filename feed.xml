@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>多変量解析_04_予備的な分析と信頼性・妥当性 (Kyosuke Bunji)</title>
+        <link>https://www.docswell.com/s/BunjiRo/57V33N-%E5%A4%9A%E5%A4%89%E9%87%8F%E8%A7%A3%E6%9E%90_04_%E4%BA%88%E5%82%99%E7%9A%84%E3%81%AA%E5%88%86%E6%9E%90%E3%81%A8%E4%BF%A1%E9%A0%BC%E6%80%A7%E3%83%BB%E5%A6%A5%E5%BD%93%E6%80%A7</link>
+        <dc:date>2026-01-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>多変量解析_06_因子分析 (Kyosuke Bunji)</title>
+        <link>https://www.docswell.com/s/BunjiRo/K4QRRL-%E5%A4%9A%E5%A4%89%E9%87%8F%E8%A7%A3%E6%9E%90_06_%E5%9B%A0%E5%AD%90%E5%88%86%E6%9E%90</link>
+        <dc:date>2026-01-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>多変量解析_07_構造方程式モデリング (Kyosuke Bunji)</title>
+        <link>https://www.docswell.com/s/BunjiRo/ZM1229-%E5%A4%9A%E5%A4%89%E9%87%8F%E8%A7%A3%E6%9E%90_07_%E6%A7%8B%E9%80%A0%E6%96%B9%E7%A8%8B%E5%BC%8F%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0</link>
+        <dc:date>2026-01-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンド開発の勘所  -複数事業を経験して見えた判断軸の違い- (Yoichiro Kubo)</title>
         <link>https://speakerdeck.com/heimusu/hurontoendokai-fa-nokan-suo-fu-shu-shi-ye-wojing-yan-sitejian-etapan-duan-zhou-nowei-i</link>
         <dc:date>2026-01-13T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>それ、本当に安全？ ファイルアップロードで見落としがちなセキュリティリスクと対策 (ikechi)</title>
         <link>https://speakerdeck.com/penpeen/sore-ben-dang-nian-quan-huairuatupurododejian-luo-tosigatinasekiyuriteirisukutodui-ce</link>
         <dc:date>2026-01-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>例外処理とどう使い分ける？Result型を使ったエラー設計 #burikaigi (Takuma Kajikawa)</title>
-        <link>https://speakerdeck.com/kajitack/exception-or-result-type</link>
-        <dc:date>2026-01-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>純粋なイミュータブルモデルを設計してからイベントソーシングと組み合わせるDeciderの実践方法の紹介 /Introducing Decider Pattern with Event Sourcing (Tomohisa Takaoka)</title>
-        <link>https://speakerdeck.com/tomohisa/introducing-decider-pattern-with-event-sourcing</link>
-        <dc:date>2026-01-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Serendie Design Systemを使ってWebアプリケーションを開発してみた (世良泰明)</title>
-        <link>https://speakerdeck.com/y_sera15/serendie-design-systemwoshi-tutewebapurikesiyonwokai-fa-sitemita</link>
-        <dc:date>2026-01-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
