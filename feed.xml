@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AgentCore BrowserとClaude Codeスキルを活用した 『初手AI』を実現する業務自動化AIエージェント基盤 (Hirokatsu Endo)</title>
+        <link>https://speakerdeck.com/ruzia/agentcore-browsertoclaude-codesukiruwohuo-yong-sita-chu-shou-ai-woshi-xian-suruye-wu-zi-dong-hua-aiezientoji-pan</link>
+        <dc:date>2026-01-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>多変量解析_04_予備的な分析と信頼性・妥当性 (Kyosuke Bunji)</title>
         <link>https://www.docswell.com/s/BunjiRo/57V33N-%E5%A4%9A%E5%A4%89%E9%87%8F%E8%A7%A3%E6%9E%90_04_%E4%BA%88%E5%82%99%E7%9A%84%E3%81%AA%E5%88%86%E6%9E%90%E3%81%A8%E4%BF%A1%E9%A0%BC%E6%80%A7%E3%83%BB%E5%A6%A5%E5%BD%93%E6%80%A7</link>
         <dc:date>2026-01-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIによるイベントストーミング図からのコード生成 / AI-powered code generation from Event Storming diagrams (nrs)</title>
         <link>https://speakerdeck.com/nrslib/ai-powered-code-generation-from-event-storming-diagrams</link>
-        <dc:date>2026-01-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>それ、本当に安全？ ファイルアップロードで見落としがちなセキュリティリスクと対策 (ikechi)</title>
-        <link>https://speakerdeck.com/penpeen/sore-ben-dang-nian-quan-huairuatupurododejian-luo-tosigatinasekiyuriteirisukutodui-ce</link>
         <dc:date>2026-01-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
