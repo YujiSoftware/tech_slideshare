@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>標準関数 array_column の魅力と活用法 (_ma_me_)</title>
+        <link>https://www.docswell.com/s/1313108/5REV3R-2026-01-11-140833</link>
+        <dc:date>2026-01-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHPでCQRS+ES入門 (Akinori Takigawa)</title>
+        <link>https://speakerdeck.com/akinoriakatsuka/phpdecqrs-plus-esru-men</link>
+        <dc:date>2026-01-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インターン生でもAuth0で 認証基盤刷新が出来るのか (takumi)</title>
         <link>https://speakerdeck.com/taku271/intansheng-demoauth0de-ren-zheng-ji-pan-shua-xin-gachu-lai-runoka</link>
         <dc:date>2026-01-13T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>チームで安全にClaude Codeを利用するためのプラクティス / team-claude-code-practices (tomoki10)</title>
         <link>https://speakerdeck.com/tomoki10/team-claude-code-practices</link>
         <dc:date>2026-01-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スクラムマスターが スクラムチームに入って取り組む5つのこと - スクラムガイドには書いてないけど入った当初から取り組んでおきたい大切なこと - (scrummasudar)</title>
-        <link>https://speakerdeck.com/scrummasudar/sukuramumasutaga-sukuramutimuniru-tutequ-rizu-mu5tunokoto-sukuramugaidonihashu-itenaikedoru-tutadang-chu-karaqu-rizu-ndeokitaida-qie-nakoto</link>
-        <dc:date>2026-01-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Enum、お前は一体何者だ？ (hirotaka kono,@hk_it7)</title>
-        <link>https://www.docswell.com/s/hk_it7/KLVM77-enum-burikaigi</link>
-        <dc:date>2026-01-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
