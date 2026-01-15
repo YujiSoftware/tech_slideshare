@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>困ったCSVファイルの話 (もっち)</title>
+        <link>https://speakerdeck.com/mottyzzz/kun-tutacsvhuairunohua</link>
+        <dc:date>2026-01-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>好きなdotfiles発表ドラゴン (松本桜梨（mozumasu）,@mozumasu)</title>
+        <link>https://www.docswell.com/s/mozumasu/5DWPG4-dotfiles-dragon</link>
+        <dc:date>2026-01-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアによる、エンジニアのための、エンジニアのデザインレビューエージェントスキル</title>
+        <link>https://docs.google.com/presentation/d/1HIkRitO7JKyM9G14kcgOYd2DNplMyXOpVsERE7IrbDw/preview</link>
+        <dc:date>2026-01-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>標準関数 array_column の魅力と活用法 (_ma_me_)</title>
         <link>https://www.docswell.com/s/1313108/5REV3R-2026-01-11-140833</link>
         <dc:date>2026-01-14T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>PythonでTello動かす (Koki Miura,@k_miura_io)</title>
         <link>https://www.docswell.com/s/k_miura_io/ZPGN9Q-2026-01-12-142927</link>
-        <dc:date>2026-01-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BigQuery Python UDFで電話番号正規化にチャレンジ (leonard475192)</title>
-        <link>https://speakerdeck.com/leonard475192/bigquery-python-udfshi-jian-tou-ru-dian-hua-fan-hao-zheng-gui-hua-nitiyarenzi</link>
-        <dc:date>2026-01-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>First-Principles-of-Scrum (Kenji Hiranabe)</title>
-        <link>https://speakerdeck.com/hiranabe/first-principles-of-scrum</link>
-        <dc:date>2026-01-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームで安全にClaude Codeを利用するためのプラクティス / team-claude-code-practices (tomoki10)</title>
-        <link>https://speakerdeck.com/tomoki10/team-claude-code-practices</link>
         <dc:date>2026-01-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
