@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI Agent の開発と運用を支える Durable Execution #AgentsInProd (izumin5210)</title>
+        <link>https://speakerdeck.com/izumin5210/ai-agents-in-production-1</link>
+        <dc:date>2026-01-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agentic AI in 30min (ymicky06)</title>
+        <link>https://speakerdeck.com/ymicky06/agentic-ai-in-30min</link>
+        <dc:date>2026-01-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>困ったCSVファイルの話 (もっち)</title>
         <link>https://speakerdeck.com/mottyzzz/kun-tutacsvhuairunohua</link>
         <dc:date>2026-01-14T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Stailerにおけるコトを残すデータ設計とイベント駆動アーキテクチャ (ryota0624)</title>
         <link>https://speakerdeck.com/ryota0624/stailerniokerukotowocan-sudetashe-ji-toibentoqu-dong-akitekutiya</link>
-        <dc:date>2026-01-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>まずはドメインに向き合って、それからCQRSで実装する (memetics10)</title>
-        <link>https://speakerdeck.com/memetics10/mazuhadomeinnixiang-kihe-tute-sorekaracqrsdeshi-zhuang-suru</link>
-        <dc:date>2026-01-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PythonでTello動かす (Koki Miura,@k_miura_io)</title>
-        <link>https://www.docswell.com/s/k_miura_io/ZPGN9Q-2026-01-12-142927</link>
         <dc:date>2026-01-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
