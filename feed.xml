@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発スピードが上がっても、リリースは速くならない！？受け入れ基準のレビューが追いつかない！QAがGeminiで分身！受け入れ基準レビューを自動化して開発スピードに追いつくぞ！/Faster development, but slower releases? QA uses Gemini to automate acceptance criteria reviews. (naco)</title>
+        <link>https://speakerdeck.com/naco/faster-development-but-slower-releases-qa-uses-gemini-to-automate-acceptance-criteria-reviews</link>
+        <dc:date>2026-01-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なるべく楽してバックエンドに型をつけたい！(楽とは言ってない) (HIBIKI CUBE)</title>
         <link>https://speakerdeck.com/hibiki_cube/narubekule-sitebatukuendonixing-wotuketai-le-tohayan-tutenai</link>
         <dc:date>2026-01-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>データ横丁・新年LT大会：ご発表者、ご参加者へのご案内 (データ横丁)</title>
         <link>https://speakerdeck.com/datayokocho/detaheng-ding-xin-nian-ltda-hui-gofa-biao-zhe-gocan-jia-zhe-henogoan-nei</link>
         <dc:date>2026-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanオンラインワークショップ - APIコラボレーション - 20260113</title>
-        <link>https://docs.google.com/presentation/d/1mfVXgPqxmdicetIAP_pdeEGA_aUEYc1ZhFnYM-OR-Sc/preview</link>
-        <dc:date>2026-01-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
