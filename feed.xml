@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Security Hub と出会ってから 1年半が過ぎました (rch850)</title>
+        <link>https://speakerdeck.com/rch850/security-hub-tochu-hui-tutekara-1nian-ban-gaguo-gimasita</link>
+        <dc:date>2026-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>弊社のAWS事情、大公開！ (takumi)</title>
+        <link>https://speakerdeck.com/taku271/bi-she-noawsshi-qing-da-gong-kai</link>
+        <dc:date>2026-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>yidev第30回 (Daisuke Tsukada)</title>
+        <link>https://speakerdeck.com/dsgarage/ydevdi-30hui</link>
+        <dc:date>2026-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SwiftDataを覗き見る (akidon0000)</title>
+        <link>https://speakerdeck.com/akidon0000/lets-see-swiftdata</link>
+        <dc:date>2026-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHP_CakePHP_で開発された国産CMSのbaserCMSのお話.pdf (UEGAKI Masahiro)</title>
+        <link>https://speakerdeck.com/uegaki_masahiro/php-cakephp-dekai-fa-saretaguo-chan-cmsnobasercmsnoohua</link>
+        <dc:date>2026-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実務で使えるAI駆動開発 Woman's Base #4 (akane_matsumura)</title>
+        <link>https://speakerdeck.com/akanem/womens-base-4-20260117</link>
+        <dc:date>2026-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラウドセキュリティの進化 — AWSの20年を振り返る (kei4eva4)</title>
+        <link>https://speakerdeck.com/kei4eva4/kuraudosekiyuriteinojin-hua-awsno20nian-wozhen-rifan-ru</link>
+        <dc:date>2026-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI BASE #3.5 GraphRAG &amp; BookRAG  (t2hnd)</title>
+        <link>https://speakerdeck.com/t2hnd/ai-base-number-3-dot-5-graphrag-and-bookrag</link>
+        <dc:date>2026-01-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>パフォーマンスチューニングのために普段からできること/Performance Tuning: Daily Practices (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/performance-tuning-daily-practices</link>
         <dc:date>2026-01-16T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>エンジニアによる、エンジニアのための、エンジニアのデザインレビューエージェントスキル</title>
         <link>https://docs.google.com/presentation/d/1HIkRitO7JKyM9G14kcgOYd2DNplMyXOpVsERE7IrbDw/preview</link>
         <dc:date>2026-01-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>標準関数 array_column の魅力と活用法 (_ma_me_)</title>
-        <link>https://www.docswell.com/s/1313108/5REV3R-2026-01-11-140833</link>
-        <dc:date>2026-01-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPでCQRS+ES入門 (Akinori Takigawa)</title>
-        <link>https://speakerdeck.com/akinoriakatsuka/phpdecqrs-plus-esru-men</link>
-        <dc:date>2026-01-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インターン生でもAuth0で 認証基盤刷新が出来るのか (takumi)</title>
-        <link>https://speakerdeck.com/taku271/intansheng-demoauth0de-ren-zheng-ji-pan-shua-xin-gachu-lai-runoka</link>
-        <dc:date>2026-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AgentCore BrowserとClaude Codeスキルを活用した 『初手AI』を実現する業務自動化AIエージェント基盤 (Hirokatsu Endo)</title>
-        <link>https://speakerdeck.com/ruzia/agentcore-browsertoclaude-codesukiruwohuo-yong-sita-chu-shou-ai-woshi-xian-suruye-wu-zi-dong-hua-aiezientoji-pan</link>
-        <dc:date>2026-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>多変量解析_04_予備的な分析と信頼性・妥当性 (Kyosuke Bunji)</title>
-        <link>https://www.docswell.com/s/BunjiRo/57V33N-%E5%A4%9A%E5%A4%89%E9%87%8F%E8%A7%A3%E6%9E%90_04_%E4%BA%88%E5%82%99%E7%9A%84%E3%81%AA%E5%88%86%E6%9E%90%E3%81%A8%E4%BF%A1%E9%A0%BC%E6%80%A7%E3%83%BB%E5%A6%A5%E5%BD%93%E6%80%A7</link>
-        <dc:date>2026-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>多変量解析_06_因子分析 (Kyosuke Bunji)</title>
-        <link>https://www.docswell.com/s/BunjiRo/K4QRRL-%E5%A4%9A%E5%A4%89%E9%87%8F%E8%A7%A3%E6%9E%90_06_%E5%9B%A0%E5%AD%90%E5%88%86%E6%9E%90</link>
-        <dc:date>2026-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>多変量解析_07_構造方程式モデリング (Kyosuke Bunji)</title>
-        <link>https://www.docswell.com/s/BunjiRo/ZM1229-%E5%A4%9A%E5%A4%89%E9%87%8F%E8%A7%A3%E6%9E%90_07_%E6%A7%8B%E9%80%A0%E6%96%B9%E7%A8%8B%E5%BC%8F%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0</link>
-        <dc:date>2026-01-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンド開発の勘所  -複数事業を経験して見えた判断軸の違い- (Yoichiro Kubo)</title>
-        <link>https://speakerdeck.com/heimusu/hurontoendokai-fa-nokan-suo-fu-shu-shi-ye-wojing-yan-sitejian-etapan-duan-zhou-nowei-i</link>
-        <dc:date>2026-01-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
