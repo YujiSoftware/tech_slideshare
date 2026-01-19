@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代もSEOを頑張っている話 (しらはま)</title>
+        <link>https://speakerdeck.com/shirahama_x/the-story-of-continuing-seo-efforts-in-the-ai-era</link>
+        <dc:date>2026-01-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI Agent Agentic Workflow の可観測性 / Observability of AI  Agent Agentic Workflow (yuzujoe)</title>
         <link>https://speakerdeck.com/yuzujoe/observability-of-ai-agent-agentic-workflow</link>
         <dc:date>2026-01-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>困ったCSVファイルの話 (もっち)</title>
         <link>https://speakerdeck.com/mottyzzz/kun-tutacsvhuairunohua</link>
-        <dc:date>2026-01-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>好きなdotfiles発表ドラゴン (松本桜梨（mozumasu）,@mozumasu)</title>
-        <link>https://www.docswell.com/s/mozumasu/5DWPG4-dotfiles-dragon</link>
         <dc:date>2026-01-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
