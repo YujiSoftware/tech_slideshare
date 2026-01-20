@@ -6,6 +6,61 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュリティ運用の可能性を感じた AWS Well-Architected Security Assessment Tool MCP Server をご紹介します (平木佳介)</title>
+        <link>https://speakerdeck.com/khiraki/sekiyuriteiyun-yong-noke-neng-xing-wogan-zita-aws-well-architected-security-assessment-tool-mcp-server-wogoshao-jie-simasu</link>
+        <dc:date>2026-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260120 Amazon VPC のパブリックサブネットを無くしたい！ (Masaru Ogura)</title>
+        <link>https://speakerdeck.com/masaruogura/20260120-amazon-vpc-nopaburitukusabunetutowowu-kusitai</link>
+        <dc:date>2026-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JAWS-UG朝会 #77 (i-owo-owo-i)</title>
+        <link>https://speakerdeck.com/1ow0wo1/jaws-ugzhao-hui-number-77</link>
+        <dc:date>2026-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Toranomon Tech Hub 第6回 - AWS Systems Manager Patch Managerの コンプライアンスレポートをBacklogWikiにしてみた  (Hiroki Ohtake)</title>
+        <link>https://speakerdeck.com/otake0609x/toranomon-tech-hub-di-6hui-aws-systems-manager-patch-managerno-konpuraiansurepotowobacklogwikinisitemita</link>
+        <dc:date>2026-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>初心者を卒業したい！ CDKをちゃんと理解するためにAspectsを覗いてみる (Shota Kawasaki)</title>
+        <link>https://speakerdeck.com/kawaaaas/chu-xin-zhe-wozu-ye-sitai-cdkwotiyantoli-jie-surutameniaspectswosi-itemiru</link>
+        <dc:date>2026-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【northernforce#54】AIの歴史と仕組みから学ぶAIエージェント入門 (Yoshi)</title>
+        <link>https://speakerdeck.com/yoshi17/northernforce-number-54-ainoli-shi-toshi-zu-mikaraxue-buaiezientoru-men</link>
+        <dc:date>2026-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【付録】AI関連の重要用語集 (Yoshi)</title>
+        <link>https://speakerdeck.com/yoshi17/fu-lu-aiguan-lian-nozhong-yao-yong-yu-ji</link>
+        <dc:date>2026-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【northernforce#54】SalesforceにおけるAgentforceの位置づけ・事例紹介 (YutoSato)</title>
+        <link>https://speakerdeck.com/yutosatou_kit/northernforce-number-54-salesforceniokeruagentforcenowei-zhi-dukeshi-li-shao-jie</link>
+        <dc:date>2026-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>組織で育むオブザーバビリティ (ryotaro kobayashi)</title>
+        <link>https://speakerdeck.com/ryota_hnk/zu-zhi-deyu-muobuzababiritei</link>
+        <dc:date>2026-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>持続可能な開発のためのミニマリズム (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/20260120</link>
+        <dc:date>2026-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>広島宇宙開発勉強会 第0回 (hamada)</title>
+        <link>https://www.docswell.com/s/hamada-hiroshima/5QX6EN-2026-01-19-221802</link>
+        <dc:date>2026-01-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>3DGS完全に理解した (NAGASAKA Masayuki,@tasklong)</title>
         <link>https://www.docswell.com/s/masanaga/Z4489W-2026-01-19-224429</link>
         <dc:date>2026-01-19T15:00:00Z</dc:date>
@@ -49,60 +104,5 @@
         <title>弊社のAWS事情、大公開！ (takumi)</title>
         <link>https://speakerdeck.com/taku271/bi-she-noawsshi-qing-da-gong-kai</link>
         <dc:date>2026-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>yidev第30回 (Daisuke Tsukada)</title>
-        <link>https://speakerdeck.com/dsgarage/ydevdi-30hui</link>
-        <dc:date>2026-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SwiftDataを覗き見る (akidon0000)</title>
-        <link>https://speakerdeck.com/akidon0000/lets-see-swiftdata</link>
-        <dc:date>2026-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP_CakePHP_で開発された国産CMSのbaserCMSのお話.pdf (UEGAKI Masahiro)</title>
-        <link>https://speakerdeck.com/uegaki_masahiro/php-cakephp-dekai-fa-saretaguo-chan-cmsnobasercmsnoohua</link>
-        <dc:date>2026-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実務で使えるAI駆動開発 Woman's Base #4 (akane_matsumura)</title>
-        <link>https://speakerdeck.com/akanem/womens-base-4-20260117</link>
-        <dc:date>2026-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウドセキュリティの進化 — AWSの20年を振り返る (kei4eva4)</title>
-        <link>https://speakerdeck.com/kei4eva4/kuraudosekiyuriteinojin-hua-awsno20nian-wozhen-rifan-ru</link>
-        <dc:date>2026-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI BASE #3.5 GraphRAG &amp; BookRAG  (t2hnd)</title>
-        <link>https://speakerdeck.com/t2hnd/ai-base-number-3-dot-5-graphrag-and-bookrag</link>
-        <dc:date>2026-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>パフォーマンスチューニングのために普段からできること/Performance Tuning: Daily Practices (FUJIWARA Shunichiro)</title>
-        <link>https://speakerdeck.com/fujiwara3/performance-tuning-daily-practices</link>
-        <dc:date>2026-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発スピードが上がっても、リリースは速くならない！？受け入れ基準のレビューが追いつかない！QAがGeminiで分身！受け入れ基準レビューを自動化して開発スピードに追いつくぞ！/Faster development, but slower releases? QA uses Gemini to automate acceptance criteria reviews. (naco)</title>
-        <link>https://speakerdeck.com/naco/faster-development-but-slower-releases-qa-uses-gemini-to-automate-acceptance-criteria-reviews</link>
-        <dc:date>2026-01-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なるべく楽してバックエンドに型をつけたい！(楽とは言ってない) (HIBIKI CUBE)</title>
-        <link>https://speakerdeck.com/hibiki_cube/narubekule-sitebatukuendonixing-wotuketai-le-tohayan-tutenai</link>
-        <dc:date>2026-01-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Windowsアプリを作りたい！SvelteKitで作りたい...</title>
-        <link>https://docs.google.com/presentation/d/1l8xIYElLSjwRW6ox4DyGPf09UJ66BWBea9yJ5KNRuSE/preview</link>
-        <dc:date>2026-01-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コントリビューターによるDenoのすゝめ / Deno Recommendations by a Contributor (petamoriken / 森建)</title>
-        <link>https://speakerdeck.com/petamoriken/deno-recommendations-by-a-contributor</link>
-        <dc:date>2026-01-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
