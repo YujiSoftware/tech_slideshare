@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>QAフローを最適化し、品質水準を満たしながらリリースまでの期間を最短化する #RSGT2026 (shibayu36)</title>
+        <link>https://speakerdeck.com/shibayu36/optimize-qa-workflow</link>
+        <dc:date>2026-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title> 暗黙的な process.env から脱却しよう (3846masa)</title>
         <link>https://speakerdeck.com/3846masa/avoid-using-the-implicit-process-env</link>
         <dc:date>2026-01-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ビジュアルプログラミングIoTLT vol.22 (1ft-seabass)</title>
         <link>https://speakerdeck.com/1ftseabass/2026-01-19-viotlt-vol22</link>
-        <dc:date>2026-01-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代もSEOを頑張っている話 (しらはま)</title>
-        <link>https://speakerdeck.com/shirahama_x/the-story-of-continuing-seo-efforts-in-the-ai-era</link>
         <dc:date>2026-01-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
