@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title> 暗黙的な process.env から脱却しよう (3846masa)</title>
+        <link>https://speakerdeck.com/3846masa/avoid-using-the-implicit-process-env</link>
+        <dc:date>2026-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>余白を設計しフロントエンド開発を 加速させる (karacoro / からころ)</title>
+        <link>https://speakerdeck.com/tsukuha/yu-bai-woshe-ji-sihurontoendokai-fa-wo-jia-su-saseru</link>
+        <dc:date>2026-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260121第32回オープンエッジデバイス研究会</title>
         <link>https://docs.google.com/presentation/d/1JW5OnqVMZCfAf8eFwlUFDrWF3TTogU_YFU-WCvn04jE/preview</link>
         <dc:date>2026-01-20T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>AI時代もSEOを頑張っている話 (しらはま)</title>
         <link>https://speakerdeck.com/shirahama_x/the-story-of-continuing-seo-efforts-in-the-ai-era</link>
         <dc:date>2026-01-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Agent Agentic Workflow の可観測性 / Observability of AI  Agent Agentic Workflow (yuzujoe)</title>
-        <link>https://speakerdeck.com/yuzujoe/observability-of-ai-agent-agentic-workflow</link>
-        <dc:date>2026-01-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Security Hub と出会ってから 1年半が過ぎました (rch850)</title>
-        <link>https://speakerdeck.com/rch850/security-hub-tochu-hui-tutekara-1nian-ban-gaguo-gimasita</link>
-        <dc:date>2026-01-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
