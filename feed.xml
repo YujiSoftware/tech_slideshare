@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260121第32回オープンエッジデバイス研究会</title>
+        <link>https://docs.google.com/presentation/d/1JW5OnqVMZCfAf8eFwlUFDrWF3TTogU_YFU-WCvn04jE/preview</link>
+        <dc:date>2026-01-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュリティ運用の可能性を感じた AWS Well-Architected Security Assessment Tool MCP Server をご紹介します (平木佳介)</title>
         <link>https://speakerdeck.com/khiraki/sekiyuriteiyun-yong-noke-neng-xing-wogan-zita-aws-well-architected-security-assessment-tool-mcp-server-wogoshao-jie-simasu</link>
         <dc:date>2026-01-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Security Hub と出会ってから 1年半が過ぎました (rch850)</title>
         <link>https://speakerdeck.com/rch850/security-hub-tochu-hui-tutekara-1nian-ban-gaguo-gimasita</link>
-        <dc:date>2026-01-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>弊社のAWS事情、大公開！ (takumi)</title>
-        <link>https://speakerdeck.com/taku271/bi-she-noawsshi-qing-da-gong-kai</link>
         <dc:date>2026-01-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
