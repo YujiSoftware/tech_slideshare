@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>そのAIレビュー、レビューしてますか？ / Are you reviewing those AI reviews? (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/are-you-reviewing-those-ai-reviews</link>
+        <dc:date>2026-01-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CodeRabbit CLI + Claude Codeの連携について (Oikon)</title>
+        <link>https://speakerdeck.com/oikon48/coderabbit-cli-plus-claude-codenolian-xi-nituite</link>
+        <dc:date>2026-01-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>知っているふりをしないためのMCPサーバー入門 - Oracle AI Jam Session #32 - (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/mcp-oracle-ai-jam-session-number-32</link>
         <dc:date>2026-01-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>【northernforce#54】AIの歴史と仕組みから学ぶAIエージェント入門 (Yoshi)</title>
         <link>https://speakerdeck.com/yoshi17/northernforce-number-54-ainoli-shi-toshi-zu-mikaraxue-buaiezientoru-men</link>
-        <dc:date>2026-01-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【付録】AI関連の重要用語集 (Yoshi)</title>
-        <link>https://speakerdeck.com/yoshi17/fu-lu-aiguan-lian-nozhong-yao-yong-yu-ji</link>
-        <dc:date>2026-01-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【northernforce#54】SalesforceにおけるAgentforceの位置づけ・事例紹介 (YutoSato)</title>
-        <link>https://speakerdeck.com/yutosatou_kit/northernforce-number-54-salesforceniokeruagentforcenowei-zhi-dukeshi-li-shao-jie</link>
         <dc:date>2026-01-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
