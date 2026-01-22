@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>多様性を、感情負債を生まない構造で実装する (Satoshi Okami,@satoshi_okami)</title>
+        <link>https://www.docswell.com/s/after12am/5M6MG8-designing-diversity-without-emotional-debt</link>
+        <dc:date>2026-01-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI によるインシデント初動調査の自動化を行う AI インシデントコマンダーを作った話 (azukiazusa)</title>
         <link>https://speakerdeck.com/azukiazusa1/ai-niyoruinsidentochu-dong-diao-cha-nozi-dong-hua-woxing-u-ai-insidentokomandawozuo-tutahua</link>
         <dc:date>2026-01-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Toranomon Tech Hub 第6回 - AWS Systems Manager Patch Managerの コンプライアンスレポートをBacklogWikiにしてみた  (Hiroki Ohtake)</title>
         <link>https://speakerdeck.com/otake0609x/toranomon-tech-hub-di-6hui-aws-systems-manager-patch-managerno-konpuraiansurepotowobacklogwikinisitemita</link>
-        <dc:date>2026-01-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初心者を卒業したい！ CDKをちゃんと理解するためにAspectsを覗いてみる (Shota Kawasaki)</title>
-        <link>https://speakerdeck.com/kawaaaas/chu-xin-zhe-wozu-ye-sitai-cdkwotiyantoli-jie-surutameniaspectswosi-itemiru</link>
         <dc:date>2026-01-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
