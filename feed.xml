@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BiDiってなんだ？ (Tomoki Yamashita)</title>
+        <link>https://speakerdeck.com/tomorrowkey/biditutenanda</link>
+        <dc:date>2026-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Riverpod3.xで実現する実践的UI実装 (Fumiya Sakai)</title>
+        <link>https://speakerdeck.com/fumiyasac0921/riverpod3-dot-xdeshi-xian-surushi-jian-de-uishi-zhuang</link>
+        <dc:date>2026-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LiDARSemi#5</title>
+        <link>https://docs.google.com/presentation/d/1h-bD9hrftQ0QbHajO_Ke0oiDSsT-B9M2KmZk3oRWZ_g/preview</link>
+        <dc:date>2026-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>社内読書チャネル発 おすすめ本をゆるく紹介 (アールスリーインスティテュート,@gusukuSupport)</title>
+        <link>https://www.docswell.com/s/r3it/58WJEL-2026-01-23-195220</link>
+        <dc:date>2026-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェントを使いこなす即興開発と指示出しの極意 (SakaguchiKou)</title>
+        <link>https://speakerdeck.com/sakaguchikou/aiezientowoshi-ikonasuji-xing-kai-fa-tozhi-shi-chu-sinoji-yi</link>
+        <dc:date>2026-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TrainLCD v10リリース記念 TrainLCDを支える技術 (Tsubasa SEKIGUCHI)</title>
+        <link>https://speakerdeck.com/tinykitten/react-tokyo-13-tk</link>
+        <dc:date>2026-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>流行れ！ AI Tuber！ (matsudai)</title>
+        <link>https://speakerdeck.com/matsudai/liu-xing-re-ai-tuber</link>
+        <dc:date>2026-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Google Cloudでの動画解析と検索のサービス紹介と比較 (Shu Kobuchi)</title>
+        <link>https://speakerdeck.com/shukob/google-clouddenodong-hua-jie-xi-tojian-suo-nosabisushao-jie-tobi-jiao</link>
+        <dc:date>2026-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ROSシミュレータ開発.pptx</title>
+        <link>https://docs.google.com/presentation/d/10cgCjAEZoM54I2WYWG2ElWb-TR8pQ16N/preview</link>
+        <dc:date>2026-01-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Agentic Coding Workshops-20260121 (watany)</title>
         <link>https://speakerdeck.com/watany/agentic-coding-workshops-20260121</link>
         <dc:date>2026-01-22T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>Claude CodeとGitHub Copilotどっちが優秀？ (gacchi)</title>
         <link>https://speakerdeck.com/gacchi/claude-codetogithub-copilotdotutigayou-xiu</link>
         <dc:date>2026-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>とにかく楽して登壇資料を作る/EasyPresentationSlides (thirdlf03)</title>
-        <link>https://speakerdeck.com/thirdlf03/easypresentationslides</link>
-        <dc:date>2026-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ロバストに繋ぐ、WindowsアプリのAIコーディング - 質を上げる工夫色々 (須藤圭太)</title>
-        <link>https://www.docswell.com/s/suusanex/KG28MM-2026-01-21-192728</link>
-        <dc:date>2026-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIAgentを駆使してSREが貢献する開発体験の向上 (Ryo Yoshii)</title>
-        <link>https://speakerdeck.com/yoshiiryo1/aiagentwoqu-shi-sitesregagong-xian-surukai-fa-ti-yan-noxiang-shang</link>
-        <dc:date>2026-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「全員プロダクト開発エンジニア」体制を支えるAIの活用 (Takumi IINO)</title>
-        <link>https://speakerdeck.com/troter/quan-yuan-purodakutokai-fa-enzinia-ti-zhi-wozhi-eruainohuo-yong</link>
-        <dc:date>2026-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QAフローを最適化し、品質水準を満たしながらリリースまでの期間を最短化する #RSGT2026 (shibayu36)</title>
-        <link>https://speakerdeck.com/shibayu36/optimize-qa-workflow</link>
-        <dc:date>2026-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> 暗黙的な process.env から脱却しよう (3846masa)</title>
-        <link>https://speakerdeck.com/3846masa/avoid-using-the-implicit-process-env</link>
-        <dc:date>2026-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>余白を設計しフロントエンド開発を 加速させる (karacoro / からころ)</title>
-        <link>https://speakerdeck.com/tsukuha/yu-bai-woshe-ji-sihurontoendokai-fa-wo-jia-su-saseru</link>
-        <dc:date>2026-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260121第32回オープンエッジデバイス研究会</title>
-        <link>https://docs.google.com/presentation/d/1JW5OnqVMZCfAf8eFwlUFDrWF3TTogU_YFU-WCvn04jE/preview</link>
-        <dc:date>2026-01-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ運用の可能性を感じた AWS Well-Architected Security Assessment Tool MCP Server をご紹介します (平木佳介)</title>
-        <link>https://speakerdeck.com/khiraki/sekiyuriteiyun-yong-noke-neng-xing-wogan-zita-aws-well-architected-security-assessment-tool-mcp-server-wogoshao-jie-simasu</link>
-        <dc:date>2026-01-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
