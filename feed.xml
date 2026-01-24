@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人はいかにして 確率的な挙動を 受け入れていくのか (vaaaaanquish)</title>
+        <link>https://speakerdeck.com/vaaaaanquish/ren-haikanisite-que-lu-de-naju-dong-wo-shou-keru-reteikunoka</link>
+        <dc:date>2026-01-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Oxlintはいいぞ (Yuji Yamaguchi)</title>
         <link>https://speakerdeck.com/yug1224/2026-01-23</link>
         <dc:date>2026-01-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>そのAIレビュー、レビューしてますか？ / Are you reviewing those AI reviews? (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/are-you-reviewing-those-ai-reviews</link>
-        <dc:date>2026-01-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CodeRabbit CLI + Claude Codeの連携について (Oikon)</title>
-        <link>https://speakerdeck.com/oikon48/coderabbit-cli-plus-claude-codenolian-xi-nituite</link>
         <dc:date>2026-01-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
