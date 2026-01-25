@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PowerPoint資料作成について (Hiro (もふHiro),@mofumofu_dance)</title>
+        <link>https://www.docswell.com/s/mofumofu_dance/ZJQ7VV-2026-01-24-081941</link>
+        <dc:date>2026-01-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OSSとなったswift-buildで Xcodeのビルドを差し替えられるため 自分でXcodeを直せる時代になっている ダイアモンド問題編 (yimajo)</title>
         <link>https://speakerdeck.com/yimajo/osstonatutaswift-buildde-xcodenobirudowochai-siti-erarerutame-zi-fen-dexcodewozhi-serushi-dai-ninatuteiru-daiamondowen-ti-bian</link>
         <dc:date>2026-01-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>多様性を、感情負債を生まない構造で実装する (Satoshi Okami,@satoshi_okami)</title>
         <link>https://www.docswell.com/s/after12am/5M6MG8-designing-diversity-without-emotional-debt</link>
-        <dc:date>2026-01-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI によるインシデント初動調査の自動化を行う AI インシデントコマンダーを作った話 (azukiazusa)</title>
-        <link>https://speakerdeck.com/azukiazusa1/ai-niyoruinsidentochu-dong-diao-cha-nozi-dong-hua-woxing-u-ai-insidentokomandawozuo-tutahua</link>
         <dc:date>2026-01-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
