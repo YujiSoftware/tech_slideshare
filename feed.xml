@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260126_RancherJP</title>
+        <link>https://docs.google.com/presentation/d/1PFbsHnWvWdDKWD89go8SPdar493sp8FVPxLx9Py4cVg/preview</link>
+        <dc:date>2026-01-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rancher製品 アップデート + Rancher活用例 (takushi)</title>
+        <link>https://speakerdeck.com/takuhsi/rancherzhi-pin-atupudeto-plus-rancherhuo-yong-li</link>
+        <dc:date>2026-01-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>人間のインシデント対応はもう過去？“調査”を加速するAWS DevOps Agent (Syoitu Den,@HedgehogPython)</title>
+        <link>https://www.docswell.com/s/harinezumi/K74W2D-2026-01-26-122658</link>
+        <dc:date>2026-01-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure SRE Agent x PagerDutyによる近未来インシデント対応への期待 / The Future of Incident Response: Azure SRE Agent x PagerDuty (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/the-future-of-incident-response-azure-sre-agent-x-pagerduty</link>
+        <dc:date>2026-01-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI開発の落とし穴 〜馬には乗ってみよAIには添うてみよ〜 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20260123-2</link>
         <dc:date>2026-01-25T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>書籍執筆での生成AIの活用 (Satoru Takeuchi)</title>
         <link>https://speakerdeck.com/sat/shu-ji-zhi-bi-denosheng-cheng-ainohuo-yong</link>
         <dc:date>2026-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026年01月24日_タイムアタック手順書（該当ﾍﾟｰｼﾞ付） (SIN)</title>
-        <link>https://www.docswell.com/s/sin_docswell/5N9D97-2025-12-08-130412</link>
-        <dc:date>2026-01-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BiDiってなんだ？ (Tomoki Yamashita)</title>
-        <link>https://speakerdeck.com/tomorrowkey/biditutenanda</link>
-        <dc:date>2026-01-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Riverpod3.xで実現する実践的UI実装 (Fumiya Sakai)</title>
-        <link>https://speakerdeck.com/fumiyasac0921/riverpod3-dot-xdeshi-xian-surushi-jian-de-uishi-zhuang</link>
-        <dc:date>2026-01-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LiDARSemi#5</title>
-        <link>https://docs.google.com/presentation/d/1h-bD9hrftQ0QbHajO_Ke0oiDSsT-B9M2KmZk3oRWZ_g/preview</link>
-        <dc:date>2026-01-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
