@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2026年はチャンキングを極める！ (shibuiwilliam)</title>
+        <link>https://speakerdeck.com/shibuiwilliam/2026nian-hatiyankinguwoji-meru</link>
+        <dc:date>2026-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS CDK用のCI/CD構築 ~大規模案件における実装時の工夫3選~ (渡洸貴)</title>
         <link>https://speakerdeck.com/wtrkk/cdgou-zhu-da-gui-mo-an-jian-niokerushi-zhuang-shi-nogong-fu-3xuan</link>
         <dc:date>2026-01-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Azure SRE Agent x PagerDutyによる近未来インシデント対応への期待 / The Future of Incident Response: Azure SRE Agent x PagerDuty (AEON)</title>
         <link>https://speakerdeck.com/aeonpeople/the-future-of-incident-response-azure-sre-agent-x-pagerduty</link>
-        <dc:date>2026-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI開発の落とし穴 〜馬には乗ってみよAIには添うてみよ〜 (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/20260123-2</link>
         <dc:date>2026-01-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
