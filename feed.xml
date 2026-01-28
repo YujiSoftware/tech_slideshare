@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS CDK用のCI/CD構築 ~大規模案件における実装時の工夫3選~ (渡洸貴)</title>
+        <link>https://speakerdeck.com/wtrkk/cdgou-zhu-da-gui-mo-an-jian-niokerushi-zhuang-shi-nogong-fu-3xuan</link>
+        <dc:date>2026-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>iOSアプリ開発のPathway (USAMI Kosuke,@usamik26)</title>
+        <link>https://www.docswell.com/s/usami-k/KDWPYR-ios-pathways</link>
+        <dc:date>2026-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure×サーバーレスでエレガントなエージェントワークフローが構築できることを君たちはまだ知らない (yuma(Maki),@yuma_prog)</title>
+        <link>https://www.docswell.com/s/yuma/K2QR99-2026-01-28-aiagentbuilders</link>
+        <dc:date>2026-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>作っているライブラリをいい加減正式リリースさせる！</title>
+        <link>https://docs.google.com/presentation/d/1yCoiEu9fUY5ElC0EJ_YRU063As_hA-Uuc-9gIfnQH4w/preview</link>
+        <dc:date>2026-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MySQLのJSON機能の活用術 (mikoma)</title>
+        <link>https://speakerdeck.com/ikomachi226/mysqlnojsonji-neng-nohuo-yong-shu</link>
+        <dc:date>2026-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Not 2 L8 JKでもわかるMaterial 3 (bigbackboom)</title>
+        <link>https://speakerdeck.com/bigbackboom/not-2-l8-jktemowakarumaterial-3-1</link>
+        <dc:date>2026-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title> GCASアップデート（202510-202601） (高橋広和)</title>
+        <link>https://speakerdeck.com/techniczna/gcasatupudeto-202510-202601</link>
+        <dc:date>2026-01-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>メルカリのAI活用を支えるAIセキュリティ (さうす)</title>
         <link>https://speakerdeck.com/s3h/mercari-ai-security-conference</link>
         <dc:date>2026-01-27T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>AI開発の落とし穴 〜馬には乗ってみよAIには添うてみよ〜 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20260123-2</link>
         <dc:date>2026-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREの仕事を自動化する際にやっておきたい5つのポイント (Kazuto Kusama)</title>
-        <link>https://speakerdeck.com/jacopen/srenoshi-shi-wozi-dong-hua-suruji-niyatuteokitai5tunopointo</link>
-        <dc:date>2026-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドキュメントからはじめる未来のソフトウェア (PKSHA Technology)</title>
-        <link>https://speakerdeck.com/pkshadeck/dokiyumentokarahazimeruwei-lai-nosohutouea</link>
-        <dc:date>2026-01-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>気ままに勉強会#131で紹介したプラグイン「User Security Manager」を応用したセキュリティロール管理 (Kohhey,@koh_of_yama)</title>
-        <link>https://www.docswell.com/s/Kohhey/Z6EQPW-2026-01-25-171000</link>
-        <dc:date>2026-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新しい環境を作成するときに気を付けたいこと (たな,@dreams_panda)</title>
-        <link>https://www.docswell.com/s/tanapandalove/Z13D6V-2026-01-25-172441</link>
-        <dc:date>2026-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>君の役は。～System Customizer編～ (Junichi Kodama,@KodamaJn)</title>
-        <link>https://www.docswell.com/s/KodamaJn/5PGND4-2026-01-25-214344</link>
-        <dc:date>2026-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>learnwithjohnbest氏の物理学的ファクトチェック術を学ぶ (meow)</title>
-        <link>https://speakerdeck.com/meow_noisy/learn-factcheck-with-learnwithjohnbest</link>
-        <dc:date>2026-01-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第1回 プロジェクトマネージャ試験勉強会 (Quatrex,@Quatrex)</title>
-        <link>https://www.docswell.com/s/Quatrex/ZVMLWQ-2026-01-25</link>
-        <dc:date>2026-01-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
