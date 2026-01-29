@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>システムのアラート調査をサポートするAI Agentの紹介/Introduction to an AI Agent for System Alert Investigation (SadayoshiTada)</title>
+        <link>https://speakerdeck.com/taddy_919/introduction-to-an-ai-agent-for-system-alert-investigation</link>
+        <dc:date>2026-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MCPサーバーによるFabric開発の効率化 (Hyodo Katsuki)</title>
         <link>https://www.docswell.com/s/6140290960/ZN94RE-2026-01-29-183446</link>
         <dc:date>2026-01-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>iOSアプリ開発のPathway (USAMI Kosuke,@usamik26)</title>
         <link>https://www.docswell.com/s/usami-k/KDWPYR-ios-pathways</link>
-        <dc:date>2026-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure×サーバーレスでエレガントなエージェントワークフローが構築できることを君たちはまだ知らない (yuma(Maki),@yuma_prog)</title>
-        <link>https://www.docswell.com/s/yuma/K2QR99-2026-01-28-aiagentbuilders</link>
         <dc:date>2026-01-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
