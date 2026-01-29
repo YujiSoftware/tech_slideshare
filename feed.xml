@@ -6,6 +6,66 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCPサーバーによるFabric開発の効率化 (Hyodo Katsuki)</title>
+        <link>https://www.docswell.com/s/6140290960/ZN94RE-2026-01-29-183446</link>
+        <dc:date>2026-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Databricks ABAC と Azure Databricks ミラー化カタログでの OneLake セキュリティ (Satoshi ENOMOTO)</title>
+        <link>https://www.docswell.com/s/satoshi_enomoto/K6EWVM-2026-01-29-184600</link>
+        <dc:date>2026-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Stately (mu7889yoon / Yuta Nakamura)</title>
+        <link>https://speakerdeck.com/mu7889yoon/stately</link>
+        <dc:date>2026-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GenAIge_cafe__4_1年前のAI_覚えてますか_.pdf (ayane)</title>
+        <link>https://speakerdeck.com/blueb/genaige-cafe-4-1nian-qian-noai-jue-etemasuka</link>
+        <dc:date>2026-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Deno・Bunの標準機能やElysiaJSを使ったWebSocketサーバー実装 / ラーメン屋を貸し切ってLT会! IoTLT 2026新年会 (you（@youtoy）)</title>
+        <link>https://speakerdeck.com/you/iotlt-20260129</link>
+        <dc:date>2026-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜ今、コスト最適化（倹約）が必要なのか？ ～AWSでのコスト最適化の進め方「目的編」～ (Hayato Tan)</title>
+        <link>https://speakerdeck.com/htan/nazejin-kosutozui-shi-hua-jian-yue-gabi-yao-nanoka-awsdenokosutozui-shi-hua-nojin-mefang-mu-de-bian</link>
+        <dc:date>2026-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2601_通勤時間でマンガ作り (ずっきー)</title>
+        <link>https://www.docswell.com/s/6868570760/K37R68-2026-01-28-204556</link>
+        <dc:date>2026-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>入社1ヶ月でデータパイプライン講座を作った話 (Yuta Ozaki)</title>
+        <link>https://speakerdeck.com/waiwai2111/ru-she-1keyue-tetetahaihurainjiang-zuo-wozuo-tutahua</link>
+        <dc:date>2026-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pub/Sub で実装するワーカープールパターン - BigQuery リバースETLジョブの並行数制御- (TVer Inc.)</title>
+        <link>https://speakerdeck.com/techtver/implementing-a-worker-pool-to-limit-concurrency-for-bigquery-reverse-etl-jobs-using-pubsub</link>
+        <dc:date>2026-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>つらいよ！個人開発 (もっくま,@mot0aki)</title>
+        <link>https://www.docswell.com/s/mot0aki/K74QV8-developmentistough</link>
+        <dc:date>2026-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Property-Based Testing with test.check and clojure.spec: ClojureでPBTに(再)入門しよう (Kent OHASHI,@lagenorhynque)</title>
+        <link>https://www.docswell.com/s/lagenorhynque/ZX6L1X-property-based-testing-with-test-check-and-clojure-spec</link>
+        <dc:date>2026-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Oracle Database Technology Night 96 kernel addressing memory history (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/oracle-database-technology-night-96-kernel-addressing-memory-history</link>
+        <dc:date>2026-01-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「AIでできますか?」から「Agentを作ってみました」へ ~「理論上わかる」と「やってみる」の隔たりを埋める方法 (Michiru Kato)</title>
         <link>https://speakerdeck.com/applism118/aitetekimasuka-kara-agentwozuo-tutemimasita-he-li-lun-shang-wakaru-to-yatutemiru-noge-tariwomai-merufang-fa</link>
         <dc:date>2026-01-28T15:00:00Z</dc:date>
@@ -44,65 +104,5 @@
         <title>Azure×サーバーレスでエレガントなエージェントワークフローが構築できることを君たちはまだ知らない (yuma(Maki),@yuma_prog)</title>
         <link>https://www.docswell.com/s/yuma/K2QR99-2026-01-28-aiagentbuilders</link>
         <dc:date>2026-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>作っているライブラリをいい加減正式リリースさせる！</title>
-        <link>https://docs.google.com/presentation/d/1yCoiEu9fUY5ElC0EJ_YRU063As_hA-Uuc-9gIfnQH4w/preview</link>
-        <dc:date>2026-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MySQLのJSON機能の活用術 (mikoma)</title>
-        <link>https://speakerdeck.com/ikomachi226/mysqlnojsonji-neng-nohuo-yong-shu</link>
-        <dc:date>2026-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Not 2 L8 JKでもわかるMaterial 3 (bigbackboom)</title>
-        <link>https://speakerdeck.com/bigbackboom/not-2-l8-jktemowakarumaterial-3-1</link>
-        <dc:date>2026-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> GCASアップデート（202510-202601） (高橋広和)</title>
-        <link>https://speakerdeck.com/techniczna/gcasatupudeto-202510-202601</link>
-        <dc:date>2026-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メルカリのAI活用を支えるAIセキュリティ (さうす)</title>
-        <link>https://speakerdeck.com/s3h/mercari-ai-security-conference</link>
-        <dc:date>2026-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ - API基礎 - 20260127</title>
-        <link>https://docs.google.com/presentation/d/1r0ntKE0XGlSrTcWi6JXaTWlBJkEmR3XHWAMmaqt7AI8/preview</link>
-        <dc:date>2026-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RDRAで価値を可視化する (神崎)</title>
-        <link>https://speakerdeck.com/kanzaki/rdradejia-zhi-woke-shi-hua-suru</link>
-        <dc:date>2026-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SMTP完全に理解した ✉️ (yamatai12)</title>
-        <link>https://speakerdeck.com/yamatai1212/smtpwan-quan-nili-jie-sita</link>
-        <dc:date>2026-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニア達の「完全に理解した」Talk　#73 (akihiko.KIgure,@ic_lifewood)</title>
-        <link>https://www.docswell.com/s/ic_lifewood/KN9W4G-2026-01-27-191628</link>
-        <dc:date>2026-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIとともに歩む情報セキュリティ / Information Security with AI (Hokuto Hoshi)</title>
-        <link>https://speakerdeck.com/kanny/information-security-with-ai</link>
-        <dc:date>2026-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゼロから始めたFindy初のモバイルアプリ開発 (Takahiro Kato)</title>
-        <link>https://speakerdeck.com/grandbig/kai-fa-menbagayu-ru-findy-conference-noli-ce-tokorekara-zerokarashi-metafindychu-nomobairuapurikai-fa</link>
-        <dc:date>2026-01-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代にあわせたQA組織戦略 (Masami Yajiri)</title>
-        <link>https://speakerdeck.com/masamiyajiri/aishi-dai-niawasetaqazu-zhi-zhan-lue</link>
-        <dc:date>2026-01-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
