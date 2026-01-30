@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>変化するコーディングエージェントとの現実的な付き合い方 〜Cursor安定択説と、ツールに依存しない「資産」〜 (empitsu)</title>
+        <link>https://speakerdeck.com/empitsu/bian-hua-surukodeinguezientotonoxian-shi-de-nafu-kihe-ifang-cursoran-ding-ze-shuo-to-turuniyi-cun-sinai-zi-chan</link>
+        <dc:date>2026-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今 Claude Code を選ぶべき理由 拡張性 × CLI × 最新エコシステム (スナガク)</title>
+        <link>https://speakerdeck.com/sunagaku/jin-claude-code-woxuan-huhekili-you-kuo-zhang-xing-x-cli-x-zui-xin-ekosisutemu</link>
+        <dc:date>2026-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Astroで作ったブログをカスタマイズする (DE TEIU (DE-TEIU))</title>
+        <link>https://www.docswell.com/s/8895128/59MJVW-2026-01-29-233450</link>
+        <dc:date>2026-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLMの出力を構造化したい (北村)</title>
+        <link>https://speakerdeck.com/shu_kita/llmnochu-li-wogou-zao-hua-sitai</link>
+        <dc:date>2026-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>今から始めるClaude Code超入門 (448jp | OKI Yoshiya)</title>
         <link>https://speakerdeck.com/448jp/jin-karashi-meruclaude-codechao-ru-men</link>
         <dc:date>2026-01-29T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>toCプロダクトにおけるAI機能開発のしくじりと学び / ai-product-failures-and-learnings (rince)</title>
         <link>https://speakerdeck.com/rince/ai-product-failures-and-learnings</link>
         <dc:date>2026-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>やるべきときにMLをやる AIエージェント開発 (Yusuke Fukasawa)</title>
-        <link>https://speakerdeck.com/fufufukakaka/yarubekitokinimlwoyaru-aiezientokai-fa</link>
-        <dc:date>2026-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260129_Microsoft Data Analytics Day_初心者でもわかる数理最適化の話 (mshdtksk)</title>
-        <link>https://www.docswell.com/s/3324212129/KEYRMG-2026-01-24-122616</link>
-        <dc:date>2026-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026年はチャンキングを極める！ (shibuiwilliam)</title>
-        <link>https://speakerdeck.com/shibuiwilliam/2026nian-hatiyankinguwoji-meru</link>
-        <dc:date>2026-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CDK用のCI/CD構築 ~大規模案件における実装時の工夫3選~ (渡洸貴)</title>
-        <link>https://speakerdeck.com/wtrkk/cdgou-zhu-da-gui-mo-an-jian-niokerushi-zhuang-shi-nogong-fu-3xuan</link>
-        <dc:date>2026-01-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
