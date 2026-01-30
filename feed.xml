@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ZOZOにおけるAI活用の現在 ~開発組織全体での取り組みと試行錯誤~ (ZOZO Developers)</title>
+        <link>https://speakerdeck.com/zozotech/ai-adoption-in-zozo-engineering</link>
+        <dc:date>2026-01-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>変化するコーディングエージェントとの現実的な付き合い方 〜Cursor安定択説と、ツールに依存しない「資産」〜 (empitsu)</title>
         <link>https://speakerdeck.com/empitsu/bian-hua-surukodeinguezientotonoxian-shi-de-nafu-kihe-ifang-cursoran-ding-ze-shuo-to-turuniyi-cun-sinai-zi-chan</link>
         <dc:date>2026-01-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「AIでできますか?」から「Agentを作ってみました」へ ~「理論上わかる」と「やってみる」の隔たりを埋める方法 (Michiru Kato)</title>
         <link>https://speakerdeck.com/applism118/aitetekimasuka-kara-agentwozuo-tutemimasita-he-li-lun-shang-wakaru-to-yatutemiru-noge-tariwomai-merufang-fa</link>
-        <dc:date>2026-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>toCプロダクトにおけるAI機能開発のしくじりと学び / ai-product-failures-and-learnings (rince)</title>
-        <link>https://speakerdeck.com/rince/ai-product-failures-and-learnings</link>
         <dc:date>2026-01-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
