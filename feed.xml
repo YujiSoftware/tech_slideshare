@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今から始めるClaude Code超入門 (448jp | OKI Yoshiya)</title>
+        <link>https://speakerdeck.com/448jp/jin-karashi-meruclaude-codechao-ru-men</link>
+        <dc:date>2026-01-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>システムのアラート調査をサポートするAI Agentの紹介/Introduction to an AI Agent for System Alert Investigation (SadayoshiTada)</title>
         <link>https://speakerdeck.com/taddy_919/introduction-to-an-ai-agent-for-system-alert-investigation</link>
         <dc:date>2026-01-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS CDK用のCI/CD構築 ~大規模案件における実装時の工夫3選~ (渡洸貴)</title>
         <link>https://speakerdeck.com/wtrkk/cdgou-zhu-da-gui-mo-an-jian-niokerushi-zhuang-shi-nogong-fu-3xuan</link>
-        <dc:date>2026-01-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iOSアプリ開発のPathway (USAMI Kosuke,@usamik26)</title>
-        <link>https://www.docswell.com/s/usami-k/KDWPYR-ios-pathways</link>
         <dc:date>2026-01-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
