@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREのプラクティスを用いた3領域同時 マネジメントへの挑戦 〜SRE・情シス・セキュリティを統合した チーム運営術〜 (coconala_engineer)</title>
+        <link>https://speakerdeck.com/coconala_engineer/srenopurakuteisuwoyong-ita3ling-yu-tong-shi-manezimentohenotiao-zhan-sreqing-sisusekiyuriteiwotong-he-sita-timuyun-ying-shu</link>
+        <dc:date>2026-01-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>どの言語でも生きる関数型のエッセンスを「プログラミングの基礎」から学ぼう (Yusuke Tanaka,@yusuktan)</title>
         <link>https://www.docswell.com/s/magurotuna/K8W7VQ-2026-01-30-learn-essense-from-basics-of-programming</link>
         <dc:date>2026-01-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Property-Based Testing with test.check and clojure.spec: ClojureでPBTに(再)入門しよう (Kent OHASHI,@lagenorhynque)</title>
         <link>https://www.docswell.com/s/lagenorhynque/ZX6L1X-property-based-testing-with-test-check-and-clojure-spec</link>
-        <dc:date>2026-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Oracle Database Technology Night 96 kernel addressing memory history (oracle4engineer)</title>
-        <link>https://speakerdeck.com/oracle4engineer/oracle-database-technology-night-96-kernel-addressing-memory-history</link>
         <dc:date>2026-01-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
