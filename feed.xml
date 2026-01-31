@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>チームを巻き込みエラーと向き合う技術 (maru)</title>
+        <link>https://speakerdeck.com/maruloop/talk-for-error-handling-with-swe-and-sre</link>
+        <dc:date>2026-01-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREのプラクティスを用いた3領域同時 マネジメントへの挑戦 〜SRE・情シス・セキュリティを統合した チーム運営術〜 (coconala_engineer)</title>
         <link>https://speakerdeck.com/coconala_engineer/srenopurakuteisuwoyong-ita3ling-yu-tong-shi-manezimentohenotiao-zhan-sreqing-sisusekiyuriteiwotong-he-sita-timuyun-ying-shu</link>
         <dc:date>2026-01-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>つらいよ！個人開発 (もっくま,@mot0aki)</title>
         <link>https://www.docswell.com/s/mot0aki/K74QV8-developmentistough</link>
-        <dc:date>2026-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Property-Based Testing with test.check and clojure.spec: ClojureでPBTに(再)入門しよう (Kent OHASHI,@lagenorhynque)</title>
-        <link>https://www.docswell.com/s/lagenorhynque/ZX6L1X-property-based-testing-with-test-check-and-clojure-spec</link>
         <dc:date>2026-01-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
