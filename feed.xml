@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>どの言語でも生きる関数型のエッセンスを「プログラミングの基礎」から学ぼう (Yusuke Tanaka,@yusuktan)</title>
+        <link>https://www.docswell.com/s/magurotuna/K8W7VQ-2026-01-30-learn-essense-from-basics-of-programming</link>
+        <dc:date>2026-01-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ZOZOにおけるAI活用の現在 ~開発組織全体での取り組みと試行錯誤~ (ZOZO Developers)</title>
         <link>https://speakerdeck.com/zozotech/ai-adoption-in-zozo-engineering</link>
         <dc:date>2026-01-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Oracle Database Technology Night 96 kernel addressing memory history (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/oracle-database-technology-night-96-kernel-addressing-memory-history</link>
-        <dc:date>2026-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「AIでできますか?」から「Agentを作ってみました」へ ~「理論上わかる」と「やってみる」の隔たりを埋める方法 (Michiru Kato)</title>
-        <link>https://speakerdeck.com/applism118/aitetekimasuka-kara-agentwozuo-tutemimasita-he-li-lun-shang-wakaru-to-yatutemiru-noge-tariwomai-merufang-fa</link>
         <dc:date>2026-01-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
