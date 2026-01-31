@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>クレジットカード決済基盤を支えるSRE - 厳格な監査とSRE運用の両立 (SRE Kaigi 2026) (capytan)</title>
+        <link>https://speakerdeck.com/capytan/kurezitutokadojue-ji-ji-pan-wozhi-erusre-yan-ge-najian-cha-tosreyun-yong-noliang-li-sre-kaigi-2026-d099bc0e-9ba2-4d2b-81ac-7b3c152649a1</link>
+        <dc:date>2026-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SREとプロダクトエンジニアは なぜ、分断されてしまうのか/Why are sre team and product teams so disconnected? (ワンキャリアTech)</title>
+        <link>https://speakerdeck.com/onecareer_tech/why-are-sre-team-and-product-teams-so-disconnected</link>
+        <dc:date>2026-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AI時代にこそ求められるSRE / SRE for Gen AI era (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/sre-for-gen-ai-era</link>
+        <dc:date>2026-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AlmaLinux + KVM + Cockpit で始めるお手軽仮想化基盤 ～ 開発環境などでの利用を想定して ～ (koedoyoshida)</title>
+        <link>https://speakerdeck.com/koedoyoshida/almalinux-plus-kvm-plus-cockpit-deshi-meruoshou-qing-jia-xiang-hua-ji-pan-kai-fa-huan-jing-nadodenoli-yong-woxiang-ding-site</link>
+        <dc:date>2026-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>小さく始めるBCP ― 多プロダクト環境で始める最初の一歩 (kekke-n)</title>
+        <link>https://speakerdeck.com/kekke_n/xiao-sakushi-merubcp-duo-hurotakutohuan-jing-teshi-meruzui-chu-no-bu</link>
+        <dc:date>2026-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS DevOps Agent  検証で見えた可能性と限界 / AWS DevOps Agent (Masanori Yamaguchi)</title>
         <link>https://speakerdeck.com/kinunori/aws-devops-agent</link>
         <dc:date>2026-01-30T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>IaaS/SaaS管理における SREの実践 - SRE Kaigi 2026 (Shun)</title>
         <link>https://speakerdeck.com/bbqallstars/saasguan-li-niokeru-srenoshi-jian-sre-kaigi-2026</link>
         <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームを巻き込みエラーと向き合う技術 (maru)</title>
-        <link>https://speakerdeck.com/maruloop/talk-for-error-handling-with-swe-and-sre</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREのプラクティスを用いた3領域同時 マネジメントへの挑戦 〜SRE・情シス・セキュリティを統合した チーム運営術〜 (coconala_engineer)</title>
-        <link>https://speakerdeck.com/coconala_engineer/srenopurakuteisuwoyong-ita3ling-yu-tong-shi-manezimentohenotiao-zhan-sreqing-sisusekiyuriteiwotong-he-sita-timuyun-ying-shu</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>どの言語でも生きる関数型のエッセンスを「プログラミングの基礎」から学ぼう (Yusuke Tanaka,@yusuktan)</title>
-        <link>https://www.docswell.com/s/magurotuna/K8W7VQ-2026-01-30-learn-essense-from-basics-of-programming</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ZOZOにおけるAI活用の現在 ~開発組織全体での取り組みと試行錯誤~ (ZOZO Developers)</title>
-        <link>https://speakerdeck.com/zozotech/ai-adoption-in-zozo-engineering</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>変化するコーディングエージェントとの現実的な付き合い方 〜Cursor安定択説と、ツールに依存しない「資産」〜 (empitsu)</title>
-        <link>https://speakerdeck.com/empitsu/bian-hua-surukodeinguezientotonoxian-shi-de-nafu-kihe-ifang-cursoran-ding-ze-shuo-to-turuniyi-cun-sinai-zi-chan</link>
-        <dc:date>2026-01-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
