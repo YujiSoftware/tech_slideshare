@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>IaaS/SaaS管理における SREの実践 - SRE Kaigi 2026 (Shun)</title>
+        <link>https://speakerdeck.com/bbqallstars/saasguan-li-niokeru-srenoshi-jian-sre-kaigi-2026</link>
+        <dc:date>2026-01-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>チームを巻き込みエラーと向き合う技術 (maru)</title>
         <link>https://speakerdeck.com/maruloop/talk-for-error-handling-with-swe-and-sre</link>
         <dc:date>2026-01-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Pub/Sub で実装するワーカープールパターン - BigQuery リバースETLジョブの並行数制御- (TVer Inc.)</title>
         <link>https://speakerdeck.com/techtver/implementing-a-worker-pool-to-limit-concurrency-for-bigquery-reverse-etl-jobs-using-pubsub</link>
-        <dc:date>2026-01-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>つらいよ！個人開発 (もっくま,@mot0aki)</title>
-        <link>https://www.docswell.com/s/mot0aki/K74QV8-developmentistough</link>
         <dc:date>2026-01-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
