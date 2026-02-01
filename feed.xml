@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CDK対応したAWS DevOps Agentを試そう_20260201 (モブエンジニア（Masaki Okuda）)</title>
+        <link>https://speakerdeck.com/masakiokuda/cdkdui-ying-sitaaws-devops-agentwoshi-sou-20260201</link>
+        <dc:date>2026-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>~Everything as Codeを諦めない~ 後からCDK (mu7889yoon / Yuta Nakamura)</title>
+        <link>https://speakerdeck.com/mu7889yoon/everything-as-codewodi-menai-hou-karacdk</link>
+        <dc:date>2026-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜconsole.logはTokenになるのか？もうハマらないためにTokenをちゃんと理解する (Shota Kawasaki)</title>
+        <link>https://speakerdeck.com/kawaaaas/nazeconsole-dot-loghatokenninarunoka-mouhamaranaitamenitokenwotiyantoli-jie-suru</link>
+        <dc:date>2026-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>iOS26 オーディオ録音新機能 - iOS26 AVInputPickerInteraction (notoroid)</title>
+        <link>https://speakerdeck.com/notoroid/ios26-odeiolu-yin-xin-ji-neng-ios26-avinputpickerinteraction</link>
+        <dc:date>2026-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜPostgreSQLのGROUP BY句にエイリアスが使えるのか？ (yamatai12)</title>
+        <link>https://speakerdeck.com/yamatai1212/nazepostgresqlnogroup-byju-nieiriasugashi-erunoka</link>
+        <dc:date>2026-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[1] Power BI Deep Dive [2026-02] (Ohata Masatoshi)</title>
+        <link>https://speakerdeck.com/ohata_ds/1-power-bi-deep-dive-2026-02</link>
+        <dc:date>2026-01-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NetBSD+Raspberry Piで 本物のPSGを鳴らすデモを OSC駆動の７日間で作った話 / OSC2026Osaka (Izumi Tsutsui)</title>
         <link>https://speakerdeck.com/tsutsui/osc2026osaka</link>
         <dc:date>2026-01-31T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>生成AIと教育・多様性.pptx</title>
         <link>https://docs.google.com/presentation/d/114iukoFBoJiWQPZ0YjFku_aSwSYHEfzS/preview</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「ひらくウェブ」がめっちゃ便利っていう話</title>
-        <link>https://docs.google.com/presentation/d/1NTk3YAo_V2XQp-mkI1Xl3SAAOY1pYuhY3BQj0wR4FMw/preview</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>誰でも使えるデザインとは？ といったタイトルで 勉強会を実施した話 (ME_)</title>
-        <link>https://speakerdeck.com/tks_/shui-demoshi-erudezaintoha-toitutataitorude-mian-qiang-hui-woshi-shi-sitahua</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代のインターン研修再設計 コーディング力から課題創出・業務遂行力へ (熊懐葵)</title>
-        <link>https://speakerdeck.com/aoikumadaki/aishi-dai-nointanyan-xiu-zai-she-ji-kodeinguli-karake-ti-chuang-chu-ye-wu-sui-xing-li-he</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仕様書駆動AI開発の実践： Issue→Skill→PRテンプレで 再現性を作る (西岡 賢一郎 (Kenichiro Nishioka))</title>
-        <link>https://speakerdeck.com/knishioka/shi-yang-shu-qu-dong-aikai-fa-noshi-jian-issue-skill-prtenpurede-zai-xian-xing-wozuo-ru</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2025年版 最終報告 全日本PHPersコミュニティ名鑑</title>
-        <link>https://docs.google.com/presentation/d/1ltYi7ZAct8TTFCDjAi0izusGXBkuzb_SwShgITF01nc/preview</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FinTech SREのAWSサービス活用/Leveraging AWS Services in FinTech SRE (maaaato)</title>
-        <link>https://speakerdeck.com/maaaato/leveraging-aws-services-in-fintech-sre</link>
         <dc:date>2026-01-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
