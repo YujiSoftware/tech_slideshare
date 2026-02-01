@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【SRE Kaigi 2026】認知負荷を最小化するオブザーバビリティとSLOの導入 ―4名SREが200名のコードエンジニアを支援 (HIGUCHI.Takashi)</title>
+        <link>https://speakerdeck.com/higuchi_takashi/sre-kaigi-2026-ren-zhi-fu-he-wozui-xiao-hua-suruobuzababiriteitoslonodao-ru-4ming-srega200ming-nokodoenziniawozhi-yuan</link>
+        <dc:date>2026-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SREじゃなかった僕らがenablingを通じて「SRE実践者」になるまでのリアル / SRE Kaigi 2026 (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/sre-kaigi-2026</link>
+        <dc:date>2026-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【ベテランCTOからのメッセージ】AIとか組織とかキャリアとか気になることはあるけどさ、個人の技術力から目を背けないでやっていきましょうよ (Toshiaki Baba)</title>
+        <link>https://speakerdeck.com/netmarkjp/beteranctokaranometusezi-aitokazu-zhi-tokakiyariatokaqi-ninarukotohaarukedosa-ge-ren-noji-shu-li-karamu-wobei-kenaideyatuteikimasiyouyo</link>
+        <dc:date>2026-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CDK対応したAWS DevOps Agentを試そう_20260201 (モブエンジニア（Masaki Okuda）)</title>
         <link>https://speakerdeck.com/masakiokuda/cdkdui-ying-sitaaws-devops-agentwoshi-sou-20260201</link>
         <dc:date>2026-01-31T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Frontier Agents (Kiro autonomous agent / AWS Security Agent / AWS DevOps Agent) の紹介 (msysh)</title>
         <link>https://speakerdeck.com/msysh/aws-devops-agent-noshao-jie</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初参加・初ボランティアとして予習したJAWS DAYS (inori)</title>
-        <link>https://speakerdeck.com/inorinori/chu-can-jia-chu-boranteiatositeyu-xi-sitajaws-days</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026年第1回openEHR研究会 (Shinji KOBAYASHI,@skoba)</title>
-        <link>https://www.docswell.com/s/skoba/Z6EW7M-2026-01-31-162217</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIと教育・多様性.pptx</title>
-        <link>https://docs.google.com/presentation/d/114iukoFBoJiWQPZ0YjFku_aSwSYHEfzS/preview</link>
         <dc:date>2026-01-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
