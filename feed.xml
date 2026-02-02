@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>制約が導く迷わない設計 〜 信頼性と運用性を両立するマイナンバー管理システムの実践 〜 (ないとー)</title>
+        <link>https://speakerdeck.com/bwkw/zhi-yue-gadao-kumi-wanaishe-ji-xin-lai-xing-toyun-yong-xing-woliang-li-surumainanbaguan-li-sisutemunoshi-jian</link>
+        <dc:date>2026-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>15年続くIoTサービスの SREエンジニアが挑む 分散トレーシング導入 (Melonps)</title>
         <link>https://speakerdeck.com/melonps/15nian-sok-kuiotsabisuno-sreenziniagatiao-mu-fen-san-toresingudao-ru</link>
         <dc:date>2026-02-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Google AI Ultrafで実現する「AIファースト」な動画制作フロー (山口真)</title>
         <link>https://speakerdeck.com/shinroh/google-ai-ultrafdeshi-xian-suru-aihuasuto-nadong-hua-zhi-zuo-huro</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GSIが複数キー対応したことで、俺達はいったい何が嬉しいのか？ (Makky12)</title>
-        <link>https://speakerdeck.com/smt7174/gsigafu-shu-kidui-ying-sitakotode-an-da-haitutaihe-gaxi-siinoka</link>
         <dc:date>2026-01-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
