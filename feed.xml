@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Databricks Free Editionで始めるLakeflow SDP (Takaaki Yayoi)</title>
+        <link>https://speakerdeck.com/taka_aki/databricks-free-editiondeshi-merulakeflow-sdp</link>
+        <dc:date>2026-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コスト削減から「セキュリティと利便性」を担うプラットフォームへ (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20260131-1</link>
         <dc:date>2026-02-01T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>小さく始めるBCP ― 多プロダクト環境で始める最初の一歩 (kekke-n)</title>
         <link>https://speakerdeck.com/kekke_n/xiao-sakushi-merubcp-duo-hurotakutohuan-jing-teshi-meruzui-chu-no-bu</link>
         <dc:date>2026-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS DevOps Agent  検証で見えた可能性と限界 / AWS DevOps Agent (Masanori Yamaguchi)</title>
-        <link>https://speakerdeck.com/kinunori/aws-devops-agent</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
