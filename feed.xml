@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React Hooksに潜む罠 (icchy)</title>
+        <link>https://speakerdeck.com/icchy/react-hooks-pitfalls</link>
+        <dc:date>2026-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【SRE Kaigi 2026】認知負荷を最小化するオブザーバビリティとSLOの導入 ―4名SREが200名のコードエンジニアを支援 (HIGUCHI.Takashi)</title>
         <link>https://speakerdeck.com/higuchi_takashi/sre-kaigi-2026-ren-zhi-fu-he-wozui-xiao-hua-suruobuzababiriteitoslonodao-ru-4ming-srega200ming-nokodoenziniawozhi-yuan</link>
         <dc:date>2026-02-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Strands AgentsのTypeScript版がリリースされたのでAmplifyでデプロイしてみた (Koki Miura,@k_miura_io)</title>
         <link>https://www.docswell.com/s/k_miura_io/5N94LE-2026-01-31-154518</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Frontier Agents (Kiro autonomous agent / AWS Security Agent / AWS DevOps Agent) の紹介 (msysh)</title>
-        <link>https://speakerdeck.com/msysh/aws-devops-agent-noshao-jie</link>
         <dc:date>2026-01-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
