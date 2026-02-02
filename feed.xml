@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>予期せぬコストの急増を障害のように扱う――「コスト版ポストモーテム」の導入とその後の改善 (Masahiro Yoshizawa)</title>
+        <link>https://speakerdeck.com/muziyoshiz/sre-kaigi-2026</link>
+        <dc:date>2026-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Databricks Free Editionで始めるLakeflow SDP (Takaaki Yayoi)</title>
         <link>https://speakerdeck.com/taka_aki/databricks-free-editiondeshi-merulakeflow-sdp</link>
         <dc:date>2026-02-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AlmaLinux + KVM + Cockpit で始めるお手軽仮想化基盤 ～ 開発環境などでの利用を想定して ～ (koedoyoshida)</title>
         <link>https://speakerdeck.com/koedoyoshida/almalinux-plus-kvm-plus-cockpit-deshi-meruoshou-qing-jia-xiang-hua-ji-pan-kai-fa-huan-jing-nadodenoli-yong-woxiang-ding-site</link>
-        <dc:date>2026-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>小さく始めるBCP ― 多プロダクト環境で始める最初の一歩 (kekke-n)</title>
-        <link>https://speakerdeck.com/kekke_n/xiao-sakushi-merubcp-duo-hurotakutohuan-jing-teshi-meruzui-chu-no-bu</link>
         <dc:date>2026-01-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
