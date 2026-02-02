@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>15年続くIoTサービスの SREエンジニアが挑む 分散トレーシング導入 (Melonps)</title>
+        <link>https://speakerdeck.com/melonps/15nian-sok-kuiotsabisuno-sreenziniagatiao-mu-fen-san-toresingudao-ru</link>
+        <dc:date>2026-02-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React Hooksに潜む罠 (icchy)</title>
         <link>https://speakerdeck.com/icchy/react-hooks-pitfalls</link>
         <dc:date>2026-02-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GSIが複数キー対応したことで、俺達はいったい何が嬉しいのか？ (Makky12)</title>
         <link>https://speakerdeck.com/smt7174/gsigafu-shu-kidui-ying-sitakotode-an-da-haitutaihe-gaxi-siinoka</link>
-        <dc:date>2026-01-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Strands AgentsのTypeScript版がリリースされたのでAmplifyでデプロイしてみた (Koki Miura,@k_miura_io)</title>
-        <link>https://www.docswell.com/s/k_miura_io/5N94LE-2026-01-31-154518</link>
         <dc:date>2026-01-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
