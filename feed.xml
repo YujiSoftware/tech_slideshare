@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代のキャリアプラン「技術の引力」からの脱出と「問い」へのいざない / tech-gravity (MinoDriven)</title>
+        <link>https://speakerdeck.com/minodriven/tech-gravity</link>
+        <dc:date>2026-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREKaigi2026_ゼロからはじめるSRE一人運用から複数プロダクト_SREチーム立ち上げまでの軌跡.pdf (ybalexdp)</title>
         <link>https://speakerdeck.com/ybalexdp/srekaigi2026-serokarahasimerusre-ren-yun-yong-karafu-shu-hurotakuto-sretimuli-tishang-kematenogui-ji</link>
         <dc:date>2026-02-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>クレジットカード決済基盤を支えるSRE - 厳格な監査とSRE運用の両立 (SRE Kaigi 2026) (capytan)</title>
         <link>https://speakerdeck.com/capytan/kurezitutokadojue-ji-ji-pan-wozhi-erusre-yan-ge-najian-cha-tosreyun-yong-noliang-li-sre-kaigi-2026-d099bc0e-9ba2-4d2b-81ac-7b3c152649a1</link>
-        <dc:date>2026-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREとプロダクトエンジニアは なぜ、分断されてしまうのか/Why are sre team and product teams so disconnected? (ワンキャリアTech)</title>
-        <link>https://speakerdeck.com/onecareer_tech/why-are-sre-team-and-product-teams-so-disconnected</link>
         <dc:date>2026-01-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
