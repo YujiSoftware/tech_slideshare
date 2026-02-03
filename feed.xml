@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Embedded SREの終わりを設計する　「なんとなく」から計画的な自立支援へ (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/20260131-2</link>
+        <dc:date>2026-02-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>予期せぬコストの急増を障害のように扱う――「コスト版ポストモーテム」の導入とその後の改善 (Masahiro Yoshizawa)</title>
         <link>https://speakerdeck.com/muziyoshiz/sre-kaigi-2026</link>
         <dc:date>2026-02-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成AI時代にこそ求められるSRE / SRE for Gen AI era (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/sre-for-gen-ai-era</link>
-        <dc:date>2026-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AlmaLinux + KVM + Cockpit で始めるお手軽仮想化基盤 ～ 開発環境などでの利用を想定して ～ (koedoyoshida)</title>
-        <link>https://speakerdeck.com/koedoyoshida/almalinux-plus-kvm-plus-cockpit-deshi-meruoshou-qing-jia-xiang-hua-ji-pan-kai-fa-huan-jing-nadodenoli-yong-woxiang-ding-site</link>
         <dc:date>2026-01-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
