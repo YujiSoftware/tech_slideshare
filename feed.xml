@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロダクト成長を支える開発基盤とスケールに伴う課題 (yuu26)</title>
+        <link>https://speakerdeck.com/yuu26/20260203-product-scale-tech</link>
+        <dc:date>2026-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>外部キー制約の知っておいて欲しいこと - RDBMSを正しく使うために必要なこと / FOREIGN KEY Night (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/foreign-key-night</link>
         <dc:date>2026-02-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[1] Power BI Deep Dive [2026-02] (Ohata Masatoshi)</title>
         <link>https://speakerdeck.com/ohata_ds/1-power-bi-deep-dive-2026-02</link>
-        <dc:date>2026-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NetBSD+Raspberry Piで 本物のPSGを鳴らすデモを OSC駆動の７日間で作った話 / OSC2026Osaka (Izumi Tsutsui)</title>
-        <link>https://speakerdeck.com/tsutsui/osc2026osaka</link>
         <dc:date>2026-01-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
