@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Applied AI Engineering とは (hawky the miscellaneous)</title>
+        <link>https://speakerdeck.com/hawkymisc/applied-ai-engineering-toha</link>
+        <dc:date>2026-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code と進める少人数モブプログラミング (da-yoshi-k)</title>
+        <link>https://speakerdeck.com/dayoshik/claude-code-tojin-merushao-ren-shu-mobupuroguramingu</link>
+        <dc:date>2026-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS DevOps Agent製品化するためのLLMOps (Syoitu Den,@HedgehogPython)</title>
+        <link>https://www.docswell.com/s/harinezumi/ZVMG9E-2026-02-04-194559</link>
+        <dc:date>2026-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>クラウド運用とAIエージェント (Kento Yamada,@ymd65536)</title>
+        <link>https://www.docswell.com/s/ymd65536/Z13P48-2026-02-04</link>
+        <dc:date>2026-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>イベントソーシングとSnowflake IDパターン (Masayuki Matsuki,@songmu)</title>
         <link>https://www.docswell.com/s/Songmu/Z6EW98-snowflake-id</link>
         <dc:date>2026-02-03T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>【ベテランCTOからのメッセージ】AIとか組織とかキャリアとか気になることはあるけどさ、個人の技術力から目を背けないでやっていきましょうよ (Toshiaki Baba)</title>
         <link>https://speakerdeck.com/netmarkjp/beteranctokaranometusezi-aitokazu-zhi-tokakiyariatokaqi-ninarukotohaarukedosa-ge-ren-noji-shu-li-karamu-wobei-kenaideyatuteikimasiyouyo</link>
         <dc:date>2026-02-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDK対応したAWS DevOps Agentを試そう_20260201 (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/cdkdui-ying-sitaaws-devops-agentwoshi-sou-20260201</link>
-        <dc:date>2026-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>~Everything as Codeを諦めない~ 後からCDK (mu7889yoon / Yuta Nakamura)</title>
-        <link>https://speakerdeck.com/mu7889yoon/everything-as-codewodi-menai-hou-karacdk</link>
-        <dc:date>2026-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜconsole.logはTokenになるのか？もうハマらないためにTokenをちゃんと理解する (Shota Kawasaki)</title>
-        <link>https://speakerdeck.com/kawaaaas/nazeconsole-dot-loghatokenninarunoka-mouhamaranaitamenitokenwotiyantoli-jie-suru</link>
-        <dc:date>2026-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iOS26 オーディオ録音新機能 - iOS26 AVInputPickerInteraction (notoroid)</title>
-        <link>https://speakerdeck.com/notoroid/ios26-odeiolu-yin-xin-ji-neng-ios26-avinputpickerinteraction</link>
-        <dc:date>2026-01-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
