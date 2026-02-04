@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データの整合性を保ちたいだけなんだ (ShoheiMitani)</title>
+        <link>https://speakerdeck.com/shoheimitani/foreign-key-checks</link>
+        <dc:date>2026-02-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なぜあなたのAIエージェントは誰にも使われないのか？-AIエージェント × サービスデザイン- (都村　美帆)</title>
         <link>https://speakerdeck.com/abokadotyann/25-jie-he-ji-mi</link>
         <dc:date>2026-02-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【SRE Kaigi 2026】認知負荷を最小化するオブザーバビリティとSLOの導入 ―4名SREが200名のコードエンジニアを支援 (HIGUCHI.Takashi)</title>
         <link>https://speakerdeck.com/higuchi_takashi/sre-kaigi-2026-ren-zhi-fu-he-wozui-xiao-hua-suruobuzababiriteitoslonodao-ru-4ming-srega200ming-nokodoenziniawozhi-yuan</link>
-        <dc:date>2026-02-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREじゃなかった僕らがenablingを通じて「SRE実践者」になるまでのリアル / SRE Kaigi 2026 (AEON)</title>
-        <link>https://speakerdeck.com/aeonpeople/sre-kaigi-2026</link>
         <dc:date>2026-02-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
