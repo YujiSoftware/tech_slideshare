@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>イベントソーシングとSnowflake IDパターン (Masayuki Matsuki,@songmu)</title>
+        <link>https://www.docswell.com/s/Songmu/Z6EW98-snowflake-id</link>
+        <dc:date>2026-02-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>機械学習プロジェクトにおける実験管理 (Koki Yamada,@KokiYamada6)</title>
         <link>https://www.docswell.com/s/2625216247/ZQXY9J-2026-02-02-185832</link>
         <dc:date>2026-02-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>iOS26 オーディオ録音新機能 - iOS26 AVInputPickerInteraction (notoroid)</title>
         <link>https://speakerdeck.com/notoroid/ios26-odeiolu-yin-xin-ji-neng-ios26-avinputpickerinteraction</link>
-        <dc:date>2026-01-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜPostgreSQLのGROUP BY句にエイリアスが使えるのか？ (yamatai12)</title>
-        <link>https://speakerdeck.com/yamatai1212/nazepostgresqlnogroup-byju-nieiriasugashi-erunoka</link>
         <dc:date>2026-01-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
