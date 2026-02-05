@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIによる高速開発をどう制御するか？ ガードレール設置で開発速度と品質を両立させたチームの事例 (tonkotsuboy_com)</title>
+        <link>https://speakerdeck.com/tonkotsuboy_com/ainiyorugao-su-kai-fa-wodouzhi-yu-suruka-gadorerushe-zhi-dekai-fa-su-du-topin-zhi-woliang-li-sasetatimunoshi-li-e0ffdab6-45d1-4b04-af2b-8e42e8ddcec4</link>
+        <dc:date>2026-02-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon Bedrockを活用したRAGの品質管理パイプライン構築 (とすり)</title>
         <link>https://speakerdeck.com/tosuri13/amazon-bedrockwohuo-yong-sitaragnopin-zhi-guan-li-haihuraingou-zhu</link>
         <dc:date>2026-02-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>15年続くIoTサービスの SREエンジニアが挑む 分散トレーシング導入 (Melonps)</title>
         <link>https://speakerdeck.com/melonps/15nian-sok-kuiotsabisuno-sreenziniagatiao-mu-fen-san-toresingudao-ru</link>
-        <dc:date>2026-02-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Hooksに潜む罠 (icchy)</title>
-        <link>https://speakerdeck.com/icchy/react-hooks-pitfalls</link>
         <dc:date>2026-02-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
