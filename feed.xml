@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Bookathon執筆環境構築＆チームでの執筆手順ドキュメント</title>
+        <link>https://docs.google.com/document/d/1ajC-ImrEub7yFjtegw1jLgzhznUdb_2WxOqtMaFwTXI/preview</link>
+        <dc:date>2026-02-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロポーザルに込める段取り八分 (ShoheiMitani)</title>
         <link>https://speakerdeck.com/shoheimitani/well-begun-is-half-done</link>
         <dc:date>2026-02-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SREKaigi2026_ゼロからはじめるSRE一人運用から複数プロダクト_SREチーム立ち上げまでの軌跡.pdf (ybalexdp)</title>
         <link>https://speakerdeck.com/ybalexdp/srekaigi2026-serokarahasimerusre-ren-yun-yong-karafu-shu-hurotakuto-sretimuli-tishang-kematenogui-ji</link>
-        <dc:date>2026-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Embedded SREの終わりを設計する　「なんとなく」から計画的な自立支援へ (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/20260131-2</link>
         <dc:date>2026-02-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
