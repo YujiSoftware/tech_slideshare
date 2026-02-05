@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プロポーザルに込める段取り八分 (ShoheiMitani)</title>
+        <link>https://speakerdeck.com/shoheimitani/well-begun-is-half-done</link>
+        <dc:date>2026-02-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェントのキホンから学ぶ「エージェンティックコーディング」実践入門 (Masahiro Nishimi)</title>
+        <link>https://speakerdeck.com/masahiro_nishimi/aiezientonokihonkaraxue-bu-ezienteitukukodeingu-shi-jian-ru-men</link>
+        <dc:date>2026-02-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby版 JSXのRuxが気になる (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20260205</link>
         <dc:date>2026-02-04T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Embedded SREの終わりを設計する　「なんとなく」から計画的な自立支援へ (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20260131-2</link>
-        <dc:date>2026-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>予期せぬコストの急増を障害のように扱う――「コスト版ポストモーテム」の導入とその後の改善 (Masahiro Yoshizawa)</title>
-        <link>https://speakerdeck.com/muziyoshiz/sre-kaigi-2026</link>
-        <dc:date>2026-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Databricks Free Editionで始めるLakeflow SDP (Takaaki Yayoi)</title>
-        <link>https://speakerdeck.com/taka_aki/databricks-free-editiondeshi-merulakeflow-sdp</link>
         <dc:date>2026-02-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
