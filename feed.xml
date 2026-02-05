@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon Bedrockを活用したRAGの品質管理パイプライン構築 (とすり)</title>
+        <link>https://speakerdeck.com/tosuri13/amazon-bedrockwohuo-yong-sitaragnopin-zhi-guan-li-haihuraingou-zhu</link>
+        <dc:date>2026-02-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データの整合性を保ちたいだけなんだ (ShoheiMitani)</title>
         <link>https://speakerdeck.com/shoheimitani/foreign-key-checks</link>
         <dc:date>2026-02-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>React Hooksに潜む罠 (icchy)</title>
         <link>https://speakerdeck.com/icchy/react-hooks-pitfalls</link>
-        <dc:date>2026-02-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【SRE Kaigi 2026】認知負荷を最小化するオブザーバビリティとSLOの導入 ―4名SREが200名のコードエンジニアを支援 (HIGUCHI.Takashi)</title>
-        <link>https://speakerdeck.com/higuchi_takashi/sre-kaigi-2026-ren-zhi-fu-he-wozui-xiao-hua-suruobuzababiriteitoslonodao-ru-4ming-srega200ming-nokodoenziniawozhi-yuan</link>
         <dc:date>2026-02-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
