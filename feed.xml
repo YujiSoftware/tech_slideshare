@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby版 JSXのRuxが気になる (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/20260205</link>
+        <dc:date>2026-02-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanオンラインワークショップ - Postman入門 - 20260205</title>
+        <link>https://docs.google.com/presentation/d/1x0JPhJqCFgWN8f8JSY7BFK7XlgDwCoc8Vsvp93mH8M8/preview</link>
+        <dc:date>2026-02-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コードを書くように登壇資料を作る (Masayuki Matsuki,@songmu)</title>
         <link>https://www.docswell.com/s/Songmu/KVMGXE-slide-as-code</link>
         <dc:date>2026-02-04T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Databricks Free Editionで始めるLakeflow SDP (Takaaki Yayoi)</title>
         <link>https://speakerdeck.com/taka_aki/databricks-free-editiondeshi-merulakeflow-sdp</link>
         <dc:date>2026-02-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コスト削減から「セキュリティと利便性」を担うプラットフォームへ (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/20260131-1</link>
-        <dc:date>2026-02-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>制約が導く迷わない設計 〜 信頼性と運用性を両立するマイナンバー管理システムの実践 〜 (ないとー)</title>
-        <link>https://speakerdeck.com/bwkw/zhi-yue-gadao-kumi-wanaishe-ji-xin-lai-xing-toyun-yong-xing-woliang-li-surumainanbaguan-li-sisutemunoshi-jian</link>
-        <dc:date>2026-02-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
