@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テストアーキテクチャ設計で実現する高品質で高スピードな開発の実践 / Test Architecture Design in Practice (ropQa)</title>
+        <link>https://speakerdeck.com/ropqa/test-architecture-design-in-practice</link>
+        <dc:date>2026-02-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>登壇資料を作る時に意識していること  #登壇資料_findy (konifar)</title>
         <link>https://speakerdeck.com/konifar/deng-tan-zi-liao-wozuo-rushi-niyi-shi-siteirukoto</link>
         <dc:date>2026-02-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロダクト成長を支える開発基盤とスケールに伴う課題 (yuu26)</title>
         <link>https://speakerdeck.com/yuu26/20260203-product-scale-tech</link>
-        <dc:date>2026-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>外部キー制約の知っておいて欲しいこと - RDBMSを正しく使うために必要なこと / FOREIGN KEY Night (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/foreign-key-night</link>
         <dc:date>2026-02-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
