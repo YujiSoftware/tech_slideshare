@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>unity初心者講習会 (henohenon)</title>
+        <link>https://speakerdeck.com/henohenon/unitychu-xin-zhe-jiang-xi-hui</link>
+        <dc:date>2026-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AIを活用した音声文字起こしシステムの2つの構築パターンについて (Kazuki Miura)</title>
+        <link>https://speakerdeck.com/miu_crescent/sheng-cheng-aiwohuo-yong-sitayin-sheng-wen-zi-qi-kosisisutemuno2tunogou-zhu-hatannituite</link>
+        <dc:date>2026-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260207_jawsug_tochigi_6_closingtalk_beajouneyman (Journeyman,@beajourneyman)</title>
+        <link>https://www.docswell.com/s/8916250/K44268-20260207_jawsug_tochigi_6_closingtalk_beajouneyman</link>
+        <dc:date>2026-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS Network Firewall Proxyを触ってみた (nagisa_53)</title>
+        <link>https://speakerdeck.com/nagisa53/aws-network-firewall-proxywohong-tutemita</link>
+        <dc:date>2026-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Quick Suite概論 機能概要ならびに使用例 (ニシ サダオミ)</title>
+        <link>https://www.docswell.com/s/4997286788/ZM6J3J-2026-02-07-150052</link>
+        <dc:date>2026-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Q Developer（≠ cli）を使おう (okshin_yk)</title>
+        <link>https://speakerdeck.com/okshin/amazon-q-developer-cli-woshi-ou</link>
+        <dc:date>2026-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>A2A においてエージェント同士はどのようにやりとりしているのか (ryu-ki)</title>
+        <link>https://speakerdeck.com/ryuki0947/in-a2a-how-do-agents-communicate-with-each-other</link>
+        <dc:date>2026-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発環境を“完全消滅”させた日〜私が犯した超大事故失敗談〜 (jimajimagit)</title>
+        <link>https://speakerdeck.com/jimajimagit/kai-fa-huan-jing-wo-wan-quan-xiao-mie-sasetari-si-gafan-sitachao-da-shi-gu-shi-bai-tan</link>
+        <dc:date>2026-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MCP入門～基礎から応用までをマスター～ (Hiroya Akita)</title>
+        <link>https://www.docswell.com/s/5549418384/537RYV-2026-02-07-110829</link>
+        <dc:date>2026-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェントを開発しよう！-AgentCore活用の勘所- (YukiOgawa)</title>
+        <link>https://speakerdeck.com/yukiogawa/aiezientowokai-fa-siyou-agentcorehuo-yong-nokan-suo</link>
+        <dc:date>2026-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Oxlint JS plugins (kazupon)</title>
         <link>https://speakerdeck.com/kazupon/oxlint-js-plugins</link>
         <dc:date>2026-02-06T15:00:00Z</dc:date>
@@ -54,55 +104,5 @@
         <title>Postmanオンラインワークショップ - Postman入門 - 20260205</title>
         <link>https://docs.google.com/presentation/d/1x0JPhJqCFgWN8f8JSY7BFK7XlgDwCoc8Vsvp93mH8M8/preview</link>
         <dc:date>2026-02-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードを書くように登壇資料を作る (Masayuki Matsuki,@songmu)</title>
-        <link>https://www.docswell.com/s/Songmu/KVMGXE-slide-as-code</link>
-        <dc:date>2026-02-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIによる高速開発をどう制御するか？ ガードレール設置で開発速度と品質を両立させたチームの事例 (tonkotsuboy_com)</title>
-        <link>https://speakerdeck.com/tonkotsuboy_com/ainiyorugao-su-kai-fa-wodouzhi-yu-suruka-gadorerushe-zhi-dekai-fa-su-du-topin-zhi-woliang-li-sasetatimunoshi-li-e0ffdab6-45d1-4b04-af2b-8e42e8ddcec4</link>
-        <dc:date>2026-02-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Bedrockを活用したRAGの品質管理パイプライン構築 (とすり)</title>
-        <link>https://speakerdeck.com/tosuri13/amazon-bedrockwohuo-yong-sitaragnopin-zhi-guan-li-haihuraingou-zhu</link>
-        <dc:date>2026-02-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データの整合性を保ちたいだけなんだ (ShoheiMitani)</title>
-        <link>https://speakerdeck.com/shoheimitani/foreign-key-checks</link>
-        <dc:date>2026-02-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜあなたのAIエージェントは誰にも使われないのか？-AIエージェント × サービスデザイン- (都村　美帆)</title>
-        <link>https://speakerdeck.com/abokadotyann/25-jie-he-ji-mi</link>
-        <dc:date>2026-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Applied AI Engineering とは (hawky the miscellaneous)</title>
-        <link>https://speakerdeck.com/hawkymisc/applied-ai-engineering-toha</link>
-        <dc:date>2026-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Code と進める少人数モブプログラミング (da-yoshi-k)</title>
-        <link>https://speakerdeck.com/dayoshik/claude-code-tojin-merushao-ren-shu-mobupuroguramingu</link>
-        <dc:date>2026-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS DevOps Agent製品化するためのLLMOps (Syoitu Den,@HedgehogPython)</title>
-        <link>https://www.docswell.com/s/harinezumi/ZVMG9E-2026-02-04-194559</link>
-        <dc:date>2026-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウド運用とAIエージェント (Kento Yamada,@ymd65536)</title>
-        <link>https://www.docswell.com/s/ymd65536/Z13P48-2026-02-04</link>
-        <dc:date>2026-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>イベントソーシングとSnowflake IDパターン (Masayuki Matsuki,@songmu)</title>
-        <link>https://www.docswell.com/s/Songmu/Z6EW98-snowflake-id</link>
-        <dc:date>2026-02-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
