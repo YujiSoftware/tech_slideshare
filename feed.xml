@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Oxlint JS plugins (kazupon)</title>
+        <link>https://speakerdeck.com/kazupon/oxlint-js-plugins</link>
+        <dc:date>2026-02-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TinyGoをWebブラウザで動かすための方法+アルファ_20260201 (モブエンジニア（Masaki Okuda）)</title>
         <link>https://speakerdeck.com/masakiokuda/tinygowowebburauzadedong-kasutamenofang-fa-plus-aruhua-20260201</link>
         <dc:date>2026-02-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>イベントソーシングとSnowflake IDパターン (Masayuki Matsuki,@songmu)</title>
         <link>https://www.docswell.com/s/Songmu/Z6EW98-snowflake-id</link>
-        <dc:date>2026-02-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習プロジェクトにおける実験管理 (Koki Yamada,@KokiYamada6)</title>
-        <link>https://www.docswell.com/s/2625216247/ZQXY9J-2026-02-02-185832</link>
         <dc:date>2026-02-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
