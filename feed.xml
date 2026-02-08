@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>30万人の同時アクセスに耐えたい！新サービスの盤石なリリースを支える負荷試験 / SRE Kaigi 2026 (GENDA)</title>
+        <link>https://speakerdeck.com/genda/sre-kaigi-2026-kimura</link>
+        <dc:date>2026-02-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIスライドデザインを生成する仕組みを社内共有する (太田賢一)</title>
         <link>https://speakerdeck.com/kenichiota0711/aisuraitotesainwosheng-cheng-surushi-zu-miwoshe-nei-gong-you-suru</link>
         <dc:date>2026-02-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIエージェントのキホンから学ぶ「エージェンティックコーディング」実践入門 (Masahiro Nishimi)</title>
         <link>https://speakerdeck.com/masahiro_nishimi/aiezientonokihonkaraxue-bu-ezienteitukukodeingu-shi-jian-ru-men</link>
-        <dc:date>2026-02-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby版 JSXのRuxが気になる (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/20260205</link>
         <dc:date>2026-02-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
