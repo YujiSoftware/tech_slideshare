@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コンテナセキュリティの最新事情 ~ 2026年版 ~ (Kyohei Mizumoto)</title>
+        <link>https://speakerdeck.com/kyohmizu/kontenasekiyuriteinozui-xin-shi-qing-2026nian-ban</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Head of Engineeringが現場で回した生産性向上施策 2025→2026 (gessy0129)</title>
         <link>https://speakerdeck.com/gessy0129/head-of-engineeringgaxian-chang-dehui-sitasheng-chan-xing-xiang-shang-shi-ce-2025-2026</link>
         <dc:date>2026-02-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Amazon Q Developer（≠ cli）を使おう (okshin_yk)</title>
         <link>https://speakerdeck.com/okshin/amazon-q-developer-cli-woshi-ou</link>
-        <dc:date>2026-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>A2A においてエージェント同士はどのようにやりとりしているのか (ryu-ki)</title>
-        <link>https://speakerdeck.com/ryuki0947/in-a2a-how-do-agents-communicate-with-each-other</link>
         <dc:date>2026-02-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
