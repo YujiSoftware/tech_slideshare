@@ -6,6 +6,91 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プレビュー版のDevOpsエージェントを現段階で触ってみた (motsu)</title>
+        <link>https://speakerdeck.com/ad_motsu/purebiyuban-nodevopsezientowoxian-duan-jie-dehong-tutemita</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Athena利用時のAWS Glue Crawler活用入門 (高根沢健太,@AWS_Nezawa)</title>
+        <link>https://www.docswell.com/s/takanezawa_kenta/KYVYWD-2026-02-13-102202</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Startup Angular #11.LT (akihiko.KIgure,@ic_lifewood)</title>
+        <link>https://www.docswell.com/s/ic_lifewood/5747VW-2026-02-13-183623</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI Code Generation Results.pptx</title>
+        <link>https://docs.google.com/presentation/d/1MhzIHgzwy4Uy7oRT_sTrB12Eb9GKNmoX/preview</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>#42_10.OWASPTop10_2025:An Overview and How Security Risks Have Evolved Since 2021 (OWASP Nagoya)</title>
+        <link>https://www.slideshare.net/slideshow/42_10-owasptop10_2025-an-overview-and-how-security-risks-have-evolved-since-2021/286044785</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>運用___AI_はじめの一歩__まずは小さく_でも確実に_.pdf (hayashi)</title>
+        <link>https://speakerdeck.com/hayashimasaya/yun-yong-ai-hazimeno-bu-mazuhaxiao-saku-demoque-shi-ni</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【Kiro】すぐ使えるTips、全部教えます！ (もっくま,@mot0aki)</title>
+        <link>https://www.docswell.com/s/mot0aki/KJQ2L3-kiro-all</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>イベントの整合性をどう保つか - Sekiban.DCBのアプローチ (Takashi Kawae)</title>
+        <link>https://speakerdeck.com/tkawae/ibentonozheng-he-xing-wodoubao-tuka-sekiban-dot-dcbnoapuroti</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Sekibanのコアを5言語で動かす ― イベントソーシング×WASMでやってみた | Running Sekiban's Core in 5 Languages — Event Sourcing × WASM (Tomohisa Takaoka)</title>
+        <link>https://speakerdeck.com/tomohisa/running-sekibans-core-in-5-languages-event-sourcing-x-wasm</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ECS障害を例に学ぶ、インシデント対応に備えた AIエージェントの育て方 /  How to develop AI agents for incident response with ECS outage (iselegant)</title>
+        <link>https://speakerdeck.com/iselegant/how-to-develop-ai-agents-for-incident-response-with-ecs-outage</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AgentCore RuntimeのCDKデプロイにdeploy-time-buildを使ってみよう @ JAWS-UG Sapporo (SimSta)</title>
+        <link>https://speakerdeck.com/shimagaji/20260213-jawsugsapporo</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS DevOps Agent x ECS on Fargate検証 / AWS DevOps Agent x ECS on Fargate (Masanori Yamaguchi)</title>
+        <link>https://speakerdeck.com/kinunori/aws-devops-agent-x-ecs-on-fargate</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JPUG勉強会 OSSデータベースの内部構造を理解しよう (Atsushi Ogawa)</title>
+        <link>https://speakerdeck.com/oga5/jpugmian-qiang-hui-ossdetabesunonei-bu-gou-zao-woli-jie-siyou</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>vmug 2026/02/13 VCF9 を何度も組み直す 「逸般の誤家庭勢」の最短距離 (Kazuhiro Sota)</title>
+        <link>https://www.slideshare.net/slideshow/vmug-2026-02-13-vcf9/286041721</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260213_【🔰未経験者向け】生成AIで始める！爆速アプリ開発体験 (okad)</title>
+        <link>https://speakerdeck.com/ryotam/20260213-wei-jing-yan-zhe-xiang-ke-sheng-cheng-aiteshi-meru-bao-su-ahurikai-fa-ti-yan</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ローカルLLMでクラウドアプリもAI使い放題_NVIDIA DGX Spark × Azure ハイブリッド構成 (Masahiko Ebisuda)</title>
+        <link>https://speakerdeck.com/ebibibi/rokarullmdekuraudoapurimoaishi-ifang-ti-nvidia-dgx-spark-x-azure-haiburitudogou-cheng</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS Security Agent触ってみた (濱口莉生)</title>
+        <link>https://speakerdeck.com/hamaguchi323/aws-security-agenthong-tutemita</link>
+        <dc:date>2026-02-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コンテナセキュリティの最新事情 ~ 2026年版 ~ (Kyohei Mizumoto)</title>
         <link>https://speakerdeck.com/kyohmizu/kontenasekiyuriteinozui-xin-shi-qing-2026nian-ban</link>
         <dc:date>2026-02-12T15:00:00Z</dc:date>
@@ -19,90 +104,5 @@
         <title>SchooでVue.js/Nuxtを技術選定している理由 (Okuto Oyama)</title>
         <link>https://speakerdeck.com/yamanoku/why-choose-vue-nuxt</link>
         <dc:date>2026-02-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンド専任がいないチームのNext.js移行と、その後/Renewal to Next.js for a team without a dedicated front-end developer, and what happened next (SMS tech)</title>
-        <link>https://speakerdeck.com/sms_tech/renewal-to-next-dot-js-for-a-team-without-a-dedicated-front-end-developer-and-what-happened-next</link>
-        <dc:date>2026-02-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カイポケコネクトのフロントエンドコミュニティとGraphQLスタックの更新/advancing-the-graphql-stack-update-in-the-frontend-community (SMS tech)</title>
-        <link>https://speakerdeck.com/sms_tech/advancing-the-graphql-stack-update-in-the-frontend-community</link>
-        <dc:date>2026-02-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Probably the Last Expo 54 Update (React Native Meetup #24) (Kouta Imanaka,@pside)</title>
-        <link>https://www.docswell.com/s/keima/ZVMQ74-react-native-meetup-24</link>
-        <dc:date>2026-02-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIと余白 〜開発スピードが向上した今、何に向き合う？〜 (KAKEHASHI)</title>
-        <link>https://speakerdeck.com/kakehashi/generative-ai-and-margin</link>
-        <dc:date>2026-02-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIと新時代を切り拓く。これからのSREとメルカリIBISの挑戦 (ktykogm)</title>
-        <link>https://speakerdeck.com/0gm/aitoxin-shi-dai-woqie-rituo-ku-korekaranosretomerukariibisnotiao-zhan</link>
-        <dc:date>2026-02-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Git &amp; GitHub 研修 (Yuki Hattori)</title>
-        <link>https://speakerdeck.com/yuhattor/git-and-github-yan-xiu</link>
-        <dc:date>2026-02-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>登壇駆動学習のすすめ — CfPのネタの見つけ方と書くときに意識していること (おおいし)</title>
-        <link>https://speakerdeck.com/bicstone/speaking-driven-development</link>
-        <dc:date>2026-02-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS-UG クラウド女子会×初心者支部 コラボ会 ～子連れ参加ウェルカム勉強会！ (ShigeruOda)</title>
-        <link>https://speakerdeck.com/shigeruoda/jaws-ug-kuraudonu-zi-hui-xchu-xin-zhe-zhi-bu-korabohui-zi-lian-recan-jia-uerukamumian-qiang-hui</link>
-        <dc:date>2026-02-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>世界モデルにおける分布外データ対応の方法論 (Hidehisa Arai)</title>
-        <link>https://speakerdeck.com/koukyo1994/shi-jie-moderuniokerufen-bu-wai-detadui-ying-nofang-fa-lun</link>
-        <dc:date>2026-02-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>30万人の同時アクセスに耐えたい！新サービスの盤石なリリースを支える負荷試験 / SRE Kaigi 2026 (GENDA)</title>
-        <link>https://speakerdeck.com/genda/sre-kaigi-2026-kimura</link>
-        <dc:date>2026-02-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIスライドデザインを生成する仕組みを社内共有する (太田賢一)</title>
-        <link>https://speakerdeck.com/kenichiota0711/aisuraitotesainwosheng-cheng-surushi-zu-miwoshe-nei-gong-you-suru</link>
-        <dc:date>2026-02-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>unity初心者講習会 (henohenon)</title>
-        <link>https://speakerdeck.com/henohenon/unitychu-xin-zhe-jiang-xi-hui</link>
-        <dc:date>2026-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIを活用した音声文字起こしシステムの2つの構築パターンについて (Kazuki Miura)</title>
-        <link>https://speakerdeck.com/miu_crescent/sheng-cheng-aiwohuo-yong-sitayin-sheng-wen-zi-qi-kosisisutemuno2tunogou-zhu-hatannituite</link>
-        <dc:date>2026-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260207_jawsug_tochigi_6_closingtalk_beajouneyman (Journeyman,@beajourneyman)</title>
-        <link>https://www.docswell.com/s/8916250/K44268-20260207_jawsug_tochigi_6_closingtalk_beajouneyman</link>
-        <dc:date>2026-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Network Firewall Proxyを触ってみた (nagisa_53)</title>
-        <link>https://speakerdeck.com/nagisa53/aws-network-firewall-proxywohong-tutemita</link>
-        <dc:date>2026-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Quick Suite概論 機能概要ならびに使用例 (ニシ サダオミ)</title>
-        <link>https://www.docswell.com/s/4997286788/ZM6J3J-2026-02-07-150052</link>
-        <dc:date>2026-02-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Q Developer（≠ cli）を使おう (okshin_yk)</title>
-        <link>https://speakerdeck.com/okshin/amazon-q-developer-cli-woshi-ou</link>
-        <dc:date>2026-02-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
