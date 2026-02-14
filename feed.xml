@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今こそ学びたいKubernetesネットワーク ～CNIが繋ぐNWとプラットフォームの「フラッと」な対話 (Takuto Nagami)</title>
+        <link>https://speakerdeck.com/logica0419/kubernetes-network-janog57</link>
+        <dc:date>2026-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIが実装する時代、人間は仕様と検証を設計する (Gota)</title>
         <link>https://speakerdeck.com/gotalab555/aigashi-zhuang-surushi-dai-ren-jian-hashi-yang-tojian-zheng-woshe-ji-suru</link>
         <dc:date>2026-02-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS Security Agent触ってみた (濱口莉生)</title>
         <link>https://speakerdeck.com/hamaguchi323/aws-security-agenthong-tutemita</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテナセキュリティの最新事情 ~ 2026年版 ~ (Kyohei Mizumoto)</title>
-        <link>https://speakerdeck.com/kyohmizu/kontenasekiyuriteinozui-xin-shi-qing-2026nian-ban</link>
         <dc:date>2026-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
