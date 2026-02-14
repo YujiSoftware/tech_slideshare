@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>文章を検索する仕組み (segavvy)</title>
+        <link>https://speakerdeck.com/segavvy/wen-zhang-wojian-suo-surushi-zu-mi</link>
+        <dc:date>2026-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>今こそ学びたいKubernetesネットワーク ～CNIが繋ぐNWとプラットフォームの「フラッと」な対話 (Takuto Nagami)</title>
         <link>https://speakerdeck.com/logica0419/kubernetes-network-janog57</link>
         <dc:date>2026-02-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ローカルLLMでクラウドアプリもAI使い放題_NVIDIA DGX Spark × Azure ハイブリッド構成 (Masahiko Ebisuda)</title>
         <link>https://speakerdeck.com/ebibibi/rokarullmdekuraudoapurimoaishi-ifang-ti-nvidia-dgx-spark-x-azure-haiburitudogou-cheng</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Security Agent触ってみた (濱口莉生)</title>
-        <link>https://speakerdeck.com/hamaguchi323/aws-security-agenthong-tutemita</link>
         <dc:date>2026-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
