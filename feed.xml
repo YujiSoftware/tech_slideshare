@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS Transformを使ってCOBOLプログラムのモダナイズに挑戦 (k-kun)</title>
+        <link>https://speakerdeck.com/duelist2020jp/aws-transformwoshi-tutecobolpuroguramunomodanaizunitiao-zhan</link>
+        <dc:date>2026-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Codeでプレゼンテーションを作成する (Taro Matsuzawa aka. btm,@smellman)</title>
+        <link>https://www.docswell.com/s/smellman/K37PGJ-2026-02-14-koedolug-claude-code-presentation</link>
+        <dc:date>2026-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JAWS-UG 山梨 第10回 勉強会  Community Update (awsj communty program manager - Shigeru Numaguchi)</title>
+        <link>https://speakerdeck.com/awsjcpm/jaws-ug-shan-li-di-10hui-mian-qiang-hui-community-update</link>
+        <dc:date>2026-02-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>文章を検索する仕組み (segavvy)</title>
         <link>https://speakerdeck.com/segavvy/wen-zhang-wojian-suo-surushi-zu-mi</link>
         <dc:date>2026-02-13T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>JPUG勉強会 OSSデータベースの内部構造を理解しよう (Atsushi Ogawa)</title>
         <link>https://speakerdeck.com/oga5/jpugmian-qiang-hui-ossdetabesunonei-bu-gou-zao-woli-jie-siyou</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>vmug 2026/02/13 VCF9 を何度も組み直す 「逸般の誤家庭勢」の最短距離 (Kazuhiro Sota)</title>
-        <link>https://www.slideshare.net/slideshow/vmug-2026-02-13-vcf9/286041721</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260213_【🔰未経験者向け】生成AIで始める！爆速アプリ開発体験 (okad)</title>
-        <link>https://speakerdeck.com/ryotam/20260213-wei-jing-yan-zhe-xiang-ke-sheng-cheng-aiteshi-meru-bao-su-ahurikai-fa-ti-yan</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ローカルLLMでクラウドアプリもAI使い放題_NVIDIA DGX Spark × Azure ハイブリッド構成 (Masahiko Ebisuda)</title>
-        <link>https://speakerdeck.com/ebibibi/rokarullmdekuraudoapurimoaishi-ifang-ti-nvidia-dgx-spark-x-azure-haiburitudogou-cheng</link>
         <dc:date>2026-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
