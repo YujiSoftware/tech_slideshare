@@ -88,9 +88,9 @@ Vue.component('item', {
     template: `
 <div class="col">
   <div class="card h-100">
-    <a :href="item.link"><img :src="item.image" class="card-img-top" loading="lazy"></a>
+    <a :href="item.link" target="_blank"><img :src="item.image" class="card-img-top" loading="lazy"></a>
     <div class="card-body">
-      <a :href="item.link"><h5 class="card-title">{{ item.title }}</h5></a>
+      <a :href="item.link" target="_blank"><h5 class="card-title">{{ item.title }}</h5></a>
       <p class="card-text"><small class="text-body-secondary">{{ item.author }}</small></p>
     </div>
   </div>
@@ -109,7 +109,7 @@ Vue.component('advertisement', {
     template: `
 <div class="col">
   <div class="card h-100" style="position: relative;">
-    <a :href="link"><img :src="image" class="card-img-top" style="height: 235px; object-fit: contain" loading="lazy"></a>
+    <a :href="link" target="_blank"><img :src="image" class="card-img-top" style="height: 235px; object-fit: contain" loading="lazy"></a>
     
     <div class="position-absolute top-0 start-0 p-2" style="width: fit-content;" v-if="sale">
       <img src="sale.png" class="card-img-top" width="100px" height="100px">
@@ -119,7 +119,7 @@ Vue.component('advertisement', {
     </div>
 
     <div class="card-body">
-      <a :href="link"><h5 class="card-title">{{ item.title }}<template v-if="sale">（{{sale.toLocaleDateString()}}までセール中）</template></h5></a>
+      <a :href="link" target="_blank"><h5 class="card-title">{{ item.title }}<template v-if="sale">（{{sale.toLocaleDateString()}}までセール中）</template></h5></a>
       <p class="card-text"><small class="text-body-secondary">{{ item.author }}</small></p>
     </div>
   </div>
