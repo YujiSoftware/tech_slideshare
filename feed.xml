@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ECSネイティブのBlue/Green デプロイを攻略しよう ~CodeDeployとの違いから、デプロイフロー実装まで~ (井手亮太)</title>
+        <link>https://speakerdeck.com/ideaws/green-depuroiwogong-lue-siyou-codedeploytonowei-ikara-depuroihuroshi-zhuang-made</link>
+        <dc:date>2026-02-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS Transformを使ってCOBOLプログラムのモダナイズに挑戦 (k-kun)</title>
         <link>https://speakerdeck.com/duelist2020jp/aws-transformwoshi-tutecobolpuroguramunomodanaizunitiao-zhan</link>
         <dc:date>2026-02-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS DevOps Agent x ECS on Fargate検証 / AWS DevOps Agent x ECS on Fargate (Masanori Yamaguchi)</title>
         <link>https://speakerdeck.com/kinunori/aws-devops-agent-x-ecs-on-fargate</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JPUG勉強会 OSSデータベースの内部構造を理解しよう (Atsushi Ogawa)</title>
-        <link>https://speakerdeck.com/oga5/jpugmian-qiang-hui-ossdetabesunonei-bu-gou-zao-woli-jie-siyou</link>
         <dc:date>2026-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
