@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ebiten 2017-11-05</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSSbSxPObBZcJHjvUpAt-HEJVLaux2FQBpJbvbxInJgmEhxSn-lVxTVxUMmUNQwtJtC8w6_HkhuW2hk/pub</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIプロダクトの品質をどう守る？ (matsu802)</title>
+        <link>https://speakerdeck.com/matsu802/aipurodakutonopin-zhi-wodoushou-ru</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Agent Payments Protocol（AP2）の解説 (Kento Yamada,@ymd65536)</title>
         <link>https://www.docswell.com/s/ymd65536/K747J1-2026-02-16</link>
         <dc:date>2026-02-15T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Startup Angular #11.LT (akihiko.KIgure,@ic_lifewood)</title>
         <link>https://www.docswell.com/s/ic_lifewood/5747VW-2026-02-13-183623</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Code Generation Results.pptx</title>
-        <link>https://docs.google.com/presentation/d/1MhzIHgzwy4Uy7oRT_sTrB12Eb9GKNmoX/preview</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>#42_10.OWASPTop10_2025:An Overview and How Security Risks Have Evolved Since 2021 (OWASP Nagoya)</title>
-        <link>https://www.slideshare.net/slideshow/42_10-owasptop10_2025-an-overview-and-how-security-risks-have-evolved-since-2021/286044785</link>
         <dc:date>2026-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
