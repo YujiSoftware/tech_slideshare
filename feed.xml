@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CopilotKit + AG-UIを学ぶ (NearMeの技術発表資料です)</title>
+        <link>https://speakerdeck.com/nearme_tech/copilotkit-ag-ui-tutorial</link>
+        <dc:date>2026-02-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>30分でわかる「ネットワーク図の描き方入門」/infraengbooks56 (m.hagiwara)</title>
         <link>https://speakerdeck.com/corestate55/infraengbooks56</link>
         <dc:date>2026-02-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ECS障害を例に学ぶ、インシデント対応に備えた AIエージェントの育て方 /  How to develop AI agents for incident response with ECS outage (iselegant)</title>
         <link>https://speakerdeck.com/iselegant/how-to-develop-ai-agents-for-incident-response-with-ecs-outage</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AgentCore RuntimeのCDKデプロイにdeploy-time-buildを使ってみよう @ JAWS-UG Sapporo (SimSta)</title>
-        <link>https://speakerdeck.com/shimagaji/20260213-jawsugsapporo</link>
         <dc:date>2026-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
