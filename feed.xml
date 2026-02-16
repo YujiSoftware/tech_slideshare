@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マクロからミクロへMMMとアップリフトモデルによる広告効果測定 (The Japan DataScientist Society)</title>
+        <link>https://speakerdeck.com/datascientistsociety/20250730_seminar</link>
+        <dc:date>2026-02-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>あなたはユーザーではない #PdENight (Takuma Kajikawa)</title>
         <link>https://speakerdeck.com/kajitack/you-are-not-user-pdenight</link>
         <dc:date>2026-02-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>イベントの整合性をどう保つか - Sekiban.DCBのアプローチ (Takashi Kawae)</title>
         <link>https://speakerdeck.com/tkawae/ibentonozheng-he-xing-wodoubao-tuka-sekiban-dot-dcbnoapuroti</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Sekibanのコアを5言語で動かす ― イベントソーシング×WASMでやってみた | Running Sekiban's Core in 5 Languages — Event Sourcing × WASM (Tomohisa Takaoka)</title>
-        <link>https://speakerdeck.com/tomohisa/running-sekibans-core-in-5-languages-event-sourcing-x-wasm</link>
         <dc:date>2026-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
