@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>衛星画像即時マッピングサービスの実現に向けて (Yuji Kobayashi)</title>
+        <link>https://speakerdeck.com/lehupa/realtime-ai-service-of-satellite-imagery</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ebiten 2017-11-05</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vSSbSxPObBZcJHjvUpAt-HEJVLaux2FQBpJbvbxInJgmEhxSn-lVxTVxUMmUNQwtJtC8w6_HkhuW2hk/pub</link>
         <dc:date>2026-02-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Amazon Athena利用時のAWS Glue Crawler活用入門 (高根沢健太,@AWS_Nezawa)</title>
         <link>https://www.docswell.com/s/takanezawa_kenta/KYVYWD-2026-02-13-102202</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Startup Angular #11.LT (akihiko.KIgure,@ic_lifewood)</title>
-        <link>https://www.docswell.com/s/ic_lifewood/5747VW-2026-02-13-183623</link>
         <dc:date>2026-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
