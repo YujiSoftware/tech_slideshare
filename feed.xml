@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PJのドキュメントを全部Git管理にしたら、一番喜んだのはAIだった (oga_aiichiro)</title>
+        <link>https://speakerdeck.com/nanaism/pjnodokiyumentowoquan-bu-gitguan-li-nisitara-fan-xi-ndanohaaidatuta</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Bedrock AgentCore でマルチAIエージェントに入門する (もっくま,@mot0aki)</title>
+        <link>https://www.docswell.com/s/mot0aki/5DWYWN-janken-agentcore</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanオンラインワークショップ - API認証 - 20260217</title>
+        <link>https://docs.google.com/presentation/d/1JstvFo4uTJS0rrGm8vAvHwrZlyLSN4RTn1Lb7F4-yc8/preview</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260217_AWSサクッとLT大会#1 (shu,@shu_scotch)</title>
+        <link>https://www.docswell.com/s/shu/ZX6M6Y-2026-02-17-185129</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon_Bedrock_Knowledge_Basesを用いたAuth0調査の自動化.pdf (t.t)</title>
+        <link>https://speakerdeck.com/t5u8a5a/amazon-bedrock-knowledge-baseswoyong-itaauth0diao-cha-nozi-dong-hua</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>カンファレンスのCFPを  試しに書いてみよう！ / JavaDo32 (Hiroto YAMAKAWA)</title>
+        <link>https://speakerdeck.com/gishi_yama/javado32</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ご飯食べながらエージェントが開発できる。そう、Agentic Engineeringならね。 (yoko / Naoki Yokomachi)</title>
+        <link>https://speakerdeck.com/yokomachi/how-to-agentic-engineering</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>成果物は「作品」 、PMは「キュレーター」〜プロジェクトのフェーズに合わせてコン テキ スト管理しよう〜 (shinya)</title>
+        <link>https://speakerdeck.com/es0612/cheng-guo-wu-ha-zuo-pin-pmha-kiyureta-puroziekutonohuezunihe-wasetekon-teki-sutoguan-li-siyou</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>口からMVP。仕様？あとでいい。まず声で動かす（KAG AI Week Day2） (makishy)</title>
+        <link>https://speakerdeck.com/makishy/kou-karamvp-shi-yang-atodeii-mazusheng-dedong-kasu-kag-ai-week-day2</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Generative UI を試そう！A2-UIでAIエージェントにダッシュボードを作らせてみた (Kamoshika)</title>
+        <link>https://speakerdeck.com/kamoshika/generative-ui-a2-ui-dashboard</link>
+        <dc:date>2026-02-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>衛星画像即時マッピングサービスの実現に向けて (Yuji Kobayashi)</title>
         <link>https://speakerdeck.com/lehupa/realtime-ai-service-of-satellite-imagery</link>
         <dc:date>2026-02-16T15:00:00Z</dc:date>
@@ -54,55 +104,5 @@
         <title>30分でわかる「ネットワーク図の描き方入門」/infraengbooks56 (m.hagiwara)</title>
         <link>https://speakerdeck.com/corestate55/infraengbooks56</link>
         <dc:date>2026-02-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ECSネイティブのBlue/Green デプロイを攻略しよう ~CodeDeployとの違いから、デプロイフロー実装まで~ (井手亮太)</title>
-        <link>https://speakerdeck.com/ideaws/green-depuroiwogong-lue-siyou-codedeploytonowei-ikara-depuroihuroshi-zhuang-made</link>
-        <dc:date>2026-02-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Transformを使ってCOBOLプログラムのモダナイズに挑戦 (k-kun)</title>
-        <link>https://speakerdeck.com/duelist2020jp/aws-transformwoshi-tutecobolpuroguramunomodanaizunitiao-zhan</link>
-        <dc:date>2026-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeでプレゼンテーションを作成する (Taro Matsuzawa aka. btm,@smellman)</title>
-        <link>https://www.docswell.com/s/smellman/K37PGJ-2026-02-14-koedolug-claude-code-presentation</link>
-        <dc:date>2026-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS-UG 山梨 第10回 勉強会  Community Update (awsj communty program manager - Shigeru Numaguchi)</title>
-        <link>https://speakerdeck.com/awsjcpm/jaws-ug-shan-li-di-10hui-mian-qiang-hui-community-update</link>
-        <dc:date>2026-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>文章を検索する仕組み (segavvy)</title>
-        <link>https://speakerdeck.com/segavvy/wen-zhang-wojian-suo-surushi-zu-mi</link>
-        <dc:date>2026-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今こそ学びたいKubernetesネットワーク ～CNIが繋ぐNWとプラットフォームの「フラッと」な対話 (Takuto Nagami)</title>
-        <link>https://speakerdeck.com/logica0419/kubernetes-network-janog57</link>
-        <dc:date>2026-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIが実装する時代、人間は仕様と検証を設計する (Gota)</title>
-        <link>https://speakerdeck.com/gotalab555/aigashi-zhuang-surushi-dai-ren-jian-hashi-yang-tojian-zheng-woshe-ji-suru</link>
-        <dc:date>2026-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>pool.ntp.orgに ⾃宅サーバーで 参加してみたら... (Fuminori -Tany- Tanizaki(谷崎文義))</title>
-        <link>https://speakerdeck.com/tanyorg/pool-dot-ntp-dot-orgni-zhai-sabade-can-jia-sitemitara-dot-dot-dot</link>
-        <dc:date>2026-02-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プレビュー版のDevOpsエージェントを現段階で触ってみた (motsu)</title>
-        <link>https://speakerdeck.com/ad_motsu/purebiyuban-nodevopsezientowoxian-duan-jie-dehong-tutemita</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Athena利用時のAWS Glue Crawler活用入門 (高根沢健太,@AWS_Nezawa)</title>
-        <link>https://www.docswell.com/s/takanezawa_kenta/KYVYWD-2026-02-13-102202</link>
-        <dc:date>2026-02-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
