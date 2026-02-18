@@ -6,6 +6,71 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>A2UI×AgentCore×A2Aで実現するマルチエージェントUIアーキテクチャ (matsukada)</title>
+        <link>https://speakerdeck.com/licux/a2uixagentcorexa2adeshi-xian-surumarutiezientouiakitekutiya</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>I tried making an AI manzai comedy act with "boke" and "tsukkomi" using Strands Agents (otsuka)</title>
+        <link>https://speakerdeck.com/zzzzico/i-tried-making-an-ai-manzai-comedy-act-with-boke-and-tsukkomi-using-strands-agents</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Three-Legged OAuth in AgentCore Gateway (iganin)</title>
+        <link>https://speakerdeck.com/hironobuiga/20260218-agentcore-gateway-3lo</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agent Skills 入門 (puku0x)</title>
+        <link>https://speakerdeck.com/puku0x/agent-skills-ru-men</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【Claude Code】Plugins作成から始まったファインディの開発フロー改革 (starfish719)</title>
+        <link>https://speakerdeck.com/starfish719/claude-code-pluginszuo-cheng-karashi-matutahuaindeinokai-fa-hurogai-ge</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIソフトウェアエンジニア「Devin」 会社全体での活用事例</title>
+        <link>https://docs.google.com/presentation/d/1fV78jeo2RIlgawuydykSQzpZJRgEL3_KYtpESHZJ_vo/preview</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>遠回りでも止まらない私の冗長化設計 (inori)</title>
+        <link>https://speakerdeck.com/inorinori/yuan-hui-ridemozhi-maranaisi-norong-chang-hua-she-ji</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>私のキャリアブレイク (かゆぴー)</title>
+        <link>https://www.docswell.com/s/kayup/5747N7-2026-02-18-215123</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>教育現場のプロンプトエンジニアリング問題を 解決するAIエージェントを作成してみた (小畠良俊)</title>
+        <link>https://speakerdeck.com/ryoshun/jiao-yu-xian-chang-nopuronputoenziniaringuwen-ti-wo-jie-jue-suruaiezientowozuo-cheng-sitemita</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>分報で簡単に疑問を解消できるようになった話 (氏家)</title>
+        <link>https://www.docswell.com/s/6266269817/KJQ2EG-2026-02-18-215853</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260121第33回オープンエッジデバイス研究会</title>
+        <link>https://docs.google.com/presentation/d/1PG9Gr6RB2CJVCxVZGnqMVuOlPSPohTLi3WgkbmAsXf4/preview</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>手戻りゼロ？ Spec Driven Developmentとは@KAG AI week (Tomoki Hirai)</title>
+        <link>https://speakerdeck.com/tmhirai/shou-li-rizero-spec-driven-developmenttoha-at-kag-ai-week</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go1.26 go fixをプロダクトに適用して困ったこと (Hiroki Kurasawa)</title>
+        <link>https://speakerdeck.com/kurakura0916/go1-dot-26-go-fixwopurodakutonishi-yong-sitekun-tutakoto</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React 19時代のコンポーネント設計ベストプラクティス (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/react-19shi-dai-nokonponentoshe-ji-besutopurakuteisu</link>
         <dc:date>2026-02-17T15:00:00Z</dc:date>
@@ -39,70 +104,5 @@
         <title>Amazon_Bedrock_Knowledge_Basesを用いたAuth0調査の自動化.pdf (t.t)</title>
         <link>https://speakerdeck.com/t5u8a5a/amazon-bedrock-knowledge-baseswoyong-itaauth0diao-cha-nozi-dong-hua</link>
         <dc:date>2026-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カンファレンスのCFPを  試しに書いてみよう！ / JavaDo32 (Hiroto YAMAKAWA)</title>
-        <link>https://speakerdeck.com/gishi_yama/javado32</link>
-        <dc:date>2026-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ご飯食べながらエージェントが開発できる。そう、Agentic Engineeringならね。 (yoko / Naoki Yokomachi)</title>
-        <link>https://speakerdeck.com/yokomachi/how-to-agentic-engineering</link>
-        <dc:date>2026-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>成果物は「作品」 、PMは「キュレーター」〜プロジェクトのフェーズに合わせてコン テキ スト管理しよう〜 (shinya)</title>
-        <link>https://speakerdeck.com/es0612/cheng-guo-wu-ha-zuo-pin-pmha-kiyureta-puroziekutonohuezunihe-wasetekon-teki-sutoguan-li-siyou</link>
-        <dc:date>2026-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>口からMVP。仕様？あとでいい。まず声で動かす（KAG AI Week Day2） (makishy)</title>
-        <link>https://speakerdeck.com/makishy/kou-karamvp-shi-yang-atodeii-mazusheng-dedong-kasu-kag-ai-week-day2</link>
-        <dc:date>2026-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Generative UI を試そう！A2-UIでAIエージェントにダッシュボードを作らせてみた (Kamoshika)</title>
-        <link>https://speakerdeck.com/kamoshika/generative-ui-a2-ui-dashboard</link>
-        <dc:date>2026-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>衛星画像即時マッピングサービスの実現に向けて (Yuji Kobayashi)</title>
-        <link>https://speakerdeck.com/lehupa/realtime-ai-service-of-satellite-imagery</link>
-        <dc:date>2026-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ebiten 2017-11-05</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSSbSxPObBZcJHjvUpAt-HEJVLaux2FQBpJbvbxInJgmEhxSn-lVxTVxUMmUNQwtJtC8w6_HkhuW2hk/pub</link>
-        <dc:date>2026-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIプロダクトの品質をどう守る？ (matsu802)</title>
-        <link>https://speakerdeck.com/matsu802/aipurodakutonopin-zhi-wodoushou-ru</link>
-        <dc:date>2026-02-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agent Payments Protocol（AP2）の解説 (Kento Yamada,@ymd65536)</title>
-        <link>https://www.docswell.com/s/ymd65536/K747J1-2026-02-16</link>
-        <dc:date>2026-02-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新規事業開発でのAWS活用 (amixedcolor)</title>
-        <link>https://speakerdeck.com/amixedcolor/xin-gui-shi-ye-kai-fa-denoawshuo-yong</link>
-        <dc:date>2026-02-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260216_Education-JAWS #7 Jr.Championsコラボ会登壇資料 (takuto-0623)</title>
-        <link>https://speakerdeck.com/takuto0623/20260216-education-jaws-number-7-jr-dot-championskorabohui-deng-tan-zi-liao</link>
-        <dc:date>2026-02-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マクロからミクロへMMMとアップリフトモデルによる広告効果測定 (The Japan DataScientist Society)</title>
-        <link>https://speakerdeck.com/datascientistsociety/20250730_seminar</link>
-        <dc:date>2026-02-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あなたはユーザーではない #PdENight (Takuma Kajikawa)</title>
-        <link>https://speakerdeck.com/kajitack/you-are-not-user-pdenight</link>
-        <dc:date>2026-02-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
