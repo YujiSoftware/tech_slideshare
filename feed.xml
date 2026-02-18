@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>React 19時代のコンポーネント設計ベストプラクティス (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/react-19shi-dai-nokonponentoshe-ji-besutopurakuteisu</link>
+        <dc:date>2026-02-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なぜAIは チーム開発を 速くしないのか (Go Tanaka)</title>
         <link>https://speakerdeck.com/tan_go238/nazeaiha-timukai-fa-wo-su-kusinainoka</link>
         <dc:date>2026-02-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>あなたはユーザーではない #PdENight (Takuma Kajikawa)</title>
         <link>https://speakerdeck.com/kajitack/you-are-not-user-pdenight</link>
-        <dc:date>2026-02-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CopilotKit + AG-UIを学ぶ (NearMeの技術発表資料です)</title>
-        <link>https://speakerdeck.com/nearme_tech/copilotkit-ag-ui-tutorial</link>
         <dc:date>2026-02-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
