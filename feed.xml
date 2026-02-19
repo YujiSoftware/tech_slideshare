@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>使って学ぼう MCP (と GitHub Codespaces) (Yuta Matsumura)</title>
+        <link>https://speakerdeck.com/tsubakimoto_s/shi-tutexue-bou-mcp-to-github-codespaces</link>
+        <dc:date>2026-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>30分でわかるアーキテクチャモダナイゼーション (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/30fen-dewakaruakitekutiyamodanaizesiyon</link>
+        <dc:date>2026-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AIとPythonで ラズパイカーを動かそう！ 〜GradioとLangChainで作るプロトタイプ〜 (komo_fr)</title>
+        <link>https://speakerdeck.com/komofr/stapy120-llm-pico-car</link>
+        <dc:date>2026-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>stapy-120-lt</title>
+        <link>https://docs.google.com/presentation/d/1wRDa34-w1JivGAmypNjcqx2TAuZSEGqApYKX2qCoZsU/preview</link>
+        <dc:date>2026-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術書を出版するまでの1161時間50分38秒 (Kakeami)</title>
+        <link>https://speakerdeck.com/kakeami/ji-shu-shu-wochu-ban-surumateno1161shi-jian-50fen-38miao</link>
+        <dc:date>2026-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AITuberKit+Bedrock AgentCoreで作る 3Dキャラクターエージェント (yoko / Naoki Yokomachi)</title>
+        <link>https://speakerdeck.com/yokomachi/aituberkit-bedrock-agentcore</link>
+        <dc:date>2026-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2602_好きな物語をマンガにしてみた (ずっきー)</title>
+        <link>https://www.docswell.com/s/6868570760/KQXGEY-2026-02-19-223051</link>
+        <dc:date>2026-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>公共交通キャンパーの生態 (山本一将｜焚き火を愛するエンジニア,@kyamamoto9120)</title>
+        <link>https://www.docswell.com/s/kyamamoto9120/KPGVLQ-2026-02-19-193000</link>
+        <dc:date>2026-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今更考える「単一責任原則」 /  Thinking about the Single Responsibility Principle (philomagi)</title>
+        <link>https://speakerdeck.com/tooppoo/thinking-about-the-single-responsibility-principle</link>
+        <dc:date>2026-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSが推進する AI駆動開発ライフサイクル入門  〜 AI駆動開発時代に必要な人材とは 〜 / introduction_to_aidlc_and_skills (Atsushi Fukui)</title>
         <link>https://speakerdeck.com/fatsushi/introduction-to-aidlc-and-skills</link>
         <dc:date>2026-02-18T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>【Claude Code】Plugins作成から始まったファインディの開発フロー改革 (starfish719)</title>
         <link>https://speakerdeck.com/starfish719/claude-code-pluginszuo-cheng-karashi-matutahuaindeinokai-fa-hurogai-ge</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIソフトウェアエンジニア「Devin」 会社全体での活用事例</title>
-        <link>https://docs.google.com/presentation/d/1fV78jeo2RIlgawuydykSQzpZJRgEL3_KYtpESHZJ_vo/preview</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>遠回りでも止まらない私の冗長化設計 (inori)</title>
-        <link>https://speakerdeck.com/inorinori/yuan-hui-ridemozhi-maranaisi-norong-chang-hua-she-ji</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>私のキャリアブレイク (かゆぴー)</title>
-        <link>https://www.docswell.com/s/kayup/5747N7-2026-02-18-215123</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>教育現場のプロンプトエンジニアリング問題を 解決するAIエージェントを作成してみた (小畠良俊)</title>
-        <link>https://speakerdeck.com/ryoshun/jiao-yu-xian-chang-nopuronputoenziniaringuwen-ti-wo-jie-jue-suruaiezientowozuo-cheng-sitemita</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>分報で簡単に疑問を解消できるようになった話 (氏家)</title>
-        <link>https://www.docswell.com/s/6266269817/KJQ2EG-2026-02-18-215853</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260121第33回オープンエッジデバイス研究会</title>
-        <link>https://docs.google.com/presentation/d/1PG9Gr6RB2CJVCxVZGnqMVuOlPSPohTLi3WgkbmAsXf4/preview</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>手戻りゼロ？ Spec Driven Developmentとは@KAG AI week (Tomoki Hirai)</title>
-        <link>https://speakerdeck.com/tmhirai/shou-li-rizero-spec-driven-developmenttoha-at-kag-ai-week</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go1.26 go fixをプロダクトに適用して困ったこと (Hiroki Kurasawa)</title>
-        <link>https://speakerdeck.com/kurakura0916/go1-dot-26-go-fixwopurodakutonishi-yong-sitekun-tutakoto</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React 19時代のコンポーネント設計ベストプラクティス (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/react-19shi-dai-nokonponentoshe-ji-besutopurakuteisu</link>
         <dc:date>2026-02-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
