@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>EKSで実践する オブザーバビリティの現在地 (HonMarkHunt)</title>
+        <link>https://speakerdeck.com/honmarkhunt/eksdeshi-jian-suru-obuzababiriteinoxian-zai-di</link>
+        <dc:date>2026-02-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>使って学ぼう MCP (と GitHub Codespaces) (Yuta Matsumura)</title>
         <link>https://speakerdeck.com/tsubakimoto_s/shi-tutexue-bou-mcp-to-github-codespaces</link>
         <dc:date>2026-02-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Agent Skills 入門 (puku0x)</title>
         <link>https://speakerdeck.com/puku0x/agent-skills-ru-men</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【Claude Code】Plugins作成から始まったファインディの開発フロー改革 (starfish719)</title>
-        <link>https://speakerdeck.com/starfish719/claude-code-pluginszuo-cheng-karashi-matutahuaindeinokai-fa-hurogai-ge</link>
         <dc:date>2026-02-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
