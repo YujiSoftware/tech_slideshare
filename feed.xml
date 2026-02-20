@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>デベロッパーに“変化の作り手”としての期待を寄せられない組織は早晩滅びる (市谷聡啓,@papanda)</title>
+        <link>https://www.docswell.com/s/papanda/Z6E31E-developers-as-change-makers</link>
+        <dc:date>2026-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Copilot CLI 現状確認会議(2026年2月のすがた) (Toru Makabe)</title>
         <link>https://speakerdeck.com/torumakabe/github-copilot-cli-xian-zhuang-que-ren-hui-yi-2026nian-2yue-nosugata</link>
         <dc:date>2026-02-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成AIとPythonで ラズパイカーを動かそう！ 〜GradioとLangChainで作るプロトタイプ〜 (komo_fr)</title>
         <link>https://speakerdeck.com/komofr/stapy120-llm-pico-car</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>stapy-120-lt</title>
-        <link>https://docs.google.com/presentation/d/1wRDa34-w1JivGAmypNjcqx2TAuZSEGqApYKX2qCoZsU/preview</link>
         <dc:date>2026-02-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
