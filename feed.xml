@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIで 浮いた時間で 何をする？ 2026春 #devsumi (konifar)</title>
+        <link>https://speakerdeck.com/konifar/aide-fu-itashi-jian-de-he-wosuru-2026chun-number-devsumi</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Railsの気持ちを考えながらコントローラとビューを整頓する/tidying-rails-controllers-and-views-as-rails-think (MOROHASHI Kyosuke)</title>
         <link>https://speakerdeck.com/moro/tidying-rails-controllers-and-views-as-rails-think-6c5d9462-289d-45e0-b5d6-bef482f2b344</link>
         <dc:date>2026-02-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>A2UI×AgentCore×A2Aで実現するマルチエージェントUIアーキテクチャ (matsukada)</title>
         <link>https://speakerdeck.com/licux/a2uixagentcorexa2adeshi-xian-surumarutiezientouiakitekutiya</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>I tried making an AI manzai comedy act with "boke" and "tsukkomi" using Strands Agents (otsuka)</title>
-        <link>https://speakerdeck.com/zzzzico/i-tried-making-an-ai-manzai-comedy-act-with-boke-and-tsukkomi-using-strands-agents</link>
         <dc:date>2026-02-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
