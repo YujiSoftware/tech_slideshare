@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Railsの気持ちを考えながらコントローラとビューを整頓する/tidying-rails-controllers-and-views-as-rails-think (MOROHASHI Kyosuke)</title>
+        <link>https://speakerdeck.com/moro/tidying-rails-controllers-and-views-as-rails-think-6c5d9462-289d-45e0-b5d6-bef482f2b344</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI駆動開発とRAGプロダクトへの挑戦の軌跡 - 弁護士ドットコムでの学びから - (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20260219-developers-summit-2026</link>
         <dc:date>2026-02-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>I tried making an AI manzai comedy act with "boke" and "tsukkomi" using Strands Agents (otsuka)</title>
         <link>https://speakerdeck.com/zzzzico/i-tried-making-an-ai-manzai-comedy-act-with-boke-and-tsukkomi-using-strands-agents</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Three-Legged OAuth in AgentCore Gateway (iganin)</title>
-        <link>https://speakerdeck.com/hironobuiga/20260218-agentcore-gateway-3lo</link>
         <dc:date>2026-02-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
