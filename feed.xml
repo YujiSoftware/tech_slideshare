@@ -6,6 +6,61 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ECS Express Modeって結局どうなの？ (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/ecs-express-modetutejie-ju-dounano</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIで「ふとした疑問」を即座に検証する 〜定量で圧倒するN1理解〜 (KAKEHASHI)</title>
+        <link>https://speakerdeck.com/kakehashi/instantly-testing-fleeting-questions-with-ai</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>その"インサイト"、本当に意味ありますか？  〜Think N1な深いインサイトの見つけ方〜 (inagaki)</title>
+        <link>https://speakerdeck.com/inagakikay/sono-insaito-ben-dang-niyi-wei-arimasuka-think-n1nashen-iinsaitonojian-tukefang</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「なんとなく」の顧客理解から脱却する  ──顧客の解像度を武器にするインサイトマネジメント (田島佳穂)</title>
+        <link>https://speakerdeck.com/tajima_kaho/nantonaku-nogu-ke-li-jie-karatuo-que-suru-gu-ke-nojie-xiang-du-wowu-qi-nisuruinsaitomanezimento</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2026年は Rust 置き換えが流行る！ / 20260220-niigata-5min-tech (girigiribauer)</title>
+        <link>https://speakerdeck.com/girigiribauer/20260220-niigata-5min-tech</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Re: AIがコードを書いてくれるなら、新米エンジニアは何をする？ (akshimo)</title>
+        <link>https://speakerdeck.com/shimomura/re-aigakodowoshu-itekurerunara-xin-mi-enziniahahe-wosuru</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エージェント開発初心者の僕が エージェントを作った話と今後やりたいこと (ta-hasunuma)</title>
+        <link>https://speakerdeck.com/thasu0123/ezientokai-fa-chu-xin-zhe-nopu-ga-ezientowozuo-tutahua-tojin-hou-yaritaikoto</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>受け入れテスト駆動開発(ATDD)×AI駆動開発 AI時代のATDDの取り組み方を考える (Takasaki Kazunari)</title>
+        <link>https://speakerdeck.com/kztakasaki/shou-keru-retesutoqu-dong-kai-fa-atdd-xaiqu-dong-kai-fa-aishi-dai-noatddnoqu-rizu-mifang-wokao-eru</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Specだけじゃない便利なKiroのやつ (NaoyaYamamoto)</title>
+        <link>https://speakerdeck.com/naonana777/specdakeziyanaibian-li-nakironoyatu</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>~cc-sddがかわいく見えてくる!?~ cc-sddの中身を見て、Planモードとの使い分けを考えてみた (飯田嘉一郎)</title>
+        <link>https://speakerdeck.com/kaaaichi/cc-sddgakawaikujian-etekuru-cc-sddnozhong-shen-wojian-te-planmodotonoshi-ifen-kewokao-etemita</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSで作るエンタープライズ向けAIエージェント (alichan)</title>
+        <link>https://www.docswell.com/s/alichan-69/KVMQ8J-2026-02-20-201602</link>
+        <dc:date>2026-02-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIで 浮いた時間で 何をする？ 2026春 #devsumi (konifar)</title>
         <link>https://speakerdeck.com/konifar/aide-fu-itashi-jian-de-he-wosuru-2026chun-number-devsumi</link>
         <dc:date>2026-02-19T15:00:00Z</dc:date>
@@ -49,60 +104,5 @@
         <title>技術書を出版するまでの1161時間50分38秒 (Kakeami)</title>
         <link>https://speakerdeck.com/kakeami/ji-shu-shu-wochu-ban-surumateno1161shi-jian-50fen-38miao</link>
         <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AITuberKit+Bedrock AgentCoreで作る 3Dキャラクターエージェント (yoko / Naoki Yokomachi)</title>
-        <link>https://speakerdeck.com/yokomachi/aituberkit-bedrock-agentcore</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2602_好きな物語をマンガにしてみた (ずっきー)</title>
-        <link>https://www.docswell.com/s/6868570760/KQXGEY-2026-02-19-223051</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>公共交通キャンパーの生態 (山本一将｜焚き火を愛するエンジニア,@kyamamoto9120)</title>
-        <link>https://www.docswell.com/s/kyamamoto9120/KPGVLQ-2026-02-19-193000</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今更考える「単一責任原則」 /  Thinking about the Single Responsibility Principle (philomagi)</title>
-        <link>https://speakerdeck.com/tooppoo/thinking-about-the-single-responsibility-principle</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSが推進する AI駆動開発ライフサイクル入門  〜 AI駆動開発時代に必要な人材とは 〜 / introduction_to_aidlc_and_skills (Atsushi Fukui)</title>
-        <link>https://speakerdeck.com/fatsushi/introduction-to-aidlc-and-skills</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIの研究活用_AILab2025研修 (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/research-and-application-of-generative-ai</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チーム開発の基礎_研究を事業につなげるために (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/fundamentals-of-team-development</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CyberAgent AI Lab研修 / Social Implementation Anti-Patterns in AI Lab (chck)</title>
-        <link>https://speakerdeck.com/chck/social-implementation-anti-patterns-in-ai-lab</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI活用のコスパを最大化する方法 (Ochtum)</title>
-        <link>https://speakerdeck.com/ochtum/aihuo-yong-nokosupawozui-da-hua-surufang-fa</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ブログの作成に音声AIツールを使って音声入力しようとした話 (Makky12)</title>
-        <link>https://speakerdeck.com/smt7174/burogunozuo-cheng-niyin-sheng-aituruwoshi-tuteyin-sheng-ru-li-siyoutositahua</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>A2UI×AgentCore×A2Aで実現するマルチエージェントUIアーキテクチャ (matsukada)</title>
-        <link>https://speakerdeck.com/licux/a2uixagentcorexa2adeshi-xian-surumarutiezientouiakitekutiya</link>
-        <dc:date>2026-02-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
