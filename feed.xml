@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>KAGAIWeek_仕様駆動開発で開発スピードが爆速になった！その結果生まれたバックログ管理の課題と対策 (piyonakajima)</title>
+        <link>https://speakerdeck.com/piyonakajima/sdd-problem-try</link>
+        <dc:date>2026-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>文字コードの話 (Masaki Hara)</title>
         <link>https://speakerdeck.com/qnighy/encoding</link>
         <dc:date>2026-02-20T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AI駆動開発とRAGプロダクトへの挑戦の軌跡 - 弁護士ドットコムでの学びから - (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20260219-developers-summit-2026</link>
         <dc:date>2026-02-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EKSで実践する オブザーバビリティの現在地 (HonMarkHunt)</title>
-        <link>https://speakerdeck.com/honmarkhunt/eksdeshi-jian-suru-obuzababiriteinoxian-zai-di</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
