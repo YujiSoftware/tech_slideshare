@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>意志を実装するアーキテクチャモダナイゼーション (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/yi-zhi-woshi-zhuang-suruakitekutiyamodanaizesiyon</link>
+        <dc:date>2026-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>デベロッパーに“変化の作り手”としての期待を寄せられない組織は早晩滅びる (市谷聡啓,@papanda)</title>
         <link>https://www.docswell.com/s/papanda/Z6E31E-developers-as-change-makers</link>
         <dc:date>2026-02-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>30分でわかるアーキテクチャモダナイゼーション (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/30fen-dewakaruakitekutiyamodanaizesiyon</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIとPythonで ラズパイカーを動かそう！ 〜GradioとLangChainで作るプロトタイプ〜 (komo_fr)</title>
-        <link>https://speakerdeck.com/komofr/stapy120-llm-pico-car</link>
         <dc:date>2026-02-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
