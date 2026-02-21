@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go パッケージのサプライチェーン攻撃を防ぐ CI を作ってみた #sendaigo (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20260221-cloudsign-go-concerence-mini-2026-in-sendai</link>
+        <dc:date>2026-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>意志を実装するアーキテクチャモダナイゼーション (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/yi-zhi-woshi-zhuang-suruakitekutiyamodanaizesiyon</link>
         <dc:date>2026-02-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>使って学ぼう MCP (と GitHub Codespaces) (Yuta Matsumura)</title>
         <link>https://speakerdeck.com/tsubakimoto_s/shi-tutexue-bou-mcp-to-github-codespaces</link>
-        <dc:date>2026-02-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>30分でわかるアーキテクチャモダナイゼーション (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/30fen-dewakaruakitekutiyamodanaizesiyon</link>
         <dc:date>2026-02-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
