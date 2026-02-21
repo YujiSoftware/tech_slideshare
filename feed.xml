@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インシデント対応入門 (gr1m0h)</title>
+        <link>https://speakerdeck.com/grimoh/insidentodui-ying-ru-men</link>
+        <dc:date>2026-02-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代のGo開発2026 爆速開発のためのガードレール (Ryo Mimura,@r4mimu)</title>
         <link>https://www.docswell.com/s/r4mimu/ZQXGNY-2026-02-21-102435</link>
         <dc:date>2026-02-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIで 浮いた時間で 何をする？ 2026春 #devsumi (konifar)</title>
         <link>https://speakerdeck.com/konifar/aide-fu-itashi-jian-de-he-wosuru-2026chun-number-devsumi</link>
-        <dc:date>2026-02-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Railsの気持ちを考えながらコントローラとビューを整頓する/tidying-rails-controllers-and-views-as-rails-think (MOROHASHI Kyosuke)</title>
-        <link>https://speakerdeck.com/moro/tidying-rails-controllers-and-views-as-rails-think-6c5d9462-289d-45e0-b5d6-bef482f2b344</link>
         <dc:date>2026-02-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
