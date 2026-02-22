@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Agent Skills Workshop - AIへの頼み方を仕組み化する (Gota)</title>
+        <link>https://speakerdeck.com/gotalab555/agent-skills-workshop-aihenolai-mifang-woshi-zu-mihua-suru</link>
+        <dc:date>2026-02-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Goで実現する堅牢なアーキテクチャ：DDD、gRPC-connect、そしてAI協調開発の実践 (fujidomoe)</title>
         <link>https://speakerdeck.com/fujidomoe/godeshi-xian-surujian-lao-naakitekutiya-ddd-grpc-connect-sositeaixie-diao-kai-fa-noshi-jian</link>
         <dc:date>2026-02-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2026年は Rust 置き換えが流行る！ / 20260220-niigata-5min-tech (girigiribauer)</title>
         <link>https://speakerdeck.com/girigiribauer/20260220-niigata-5min-tech</link>
-        <dc:date>2026-02-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Re: AIがコードを書いてくれるなら、新米エンジニアは何をする？ (akshimo)</title>
-        <link>https://speakerdeck.com/shimomura/re-aigakodowoshu-itekurerunara-xin-mi-enziniahahe-wosuru</link>
         <dc:date>2026-02-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
