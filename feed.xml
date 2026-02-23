@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【第1回】僕の考えた最強のバイブコーディング (Quatrex,@Quatrex)</title>
+        <link>https://www.docswell.com/s/Quatrex/ZM6428-2026-02-23</link>
+        <dc:date>2026-02-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>文系でもわかるセキュリティの話 (はせがわようすけ,@hasegawayosuke)</title>
         <link>https://www.docswell.com/s/hasegawa/K747R1-owasp-kansai</link>
         <dc:date>2026-02-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>文字コードの話 (Masaki Hara)</title>
         <link>https://speakerdeck.com/qnighy/encoding</link>
-        <dc:date>2026-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go パッケージのサプライチェーン攻撃を防ぐ CI を作ってみた #sendaigo (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20260221-cloudsign-go-concerence-mini-2026-in-sendai</link>
         <dc:date>2026-02-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
