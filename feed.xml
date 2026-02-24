@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コードレビューはCLAUDE.md/skillsに書け。同じ指摘を繰り返すな。 (Shota Totsuka)</title>
+        <link>https://speakerdeck.com/totsukash/skillsnishu-ke-tong-zizhi-zhai-wozao-rifan-suna</link>
+        <dc:date>2026-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>失敗できる意思決定とソフトウェアとの正しい歩き方_-_変化と向き合う選択肢/ Designing for Reversible Decisions (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/designing-for-reversible-decisions</link>
         <dc:date>2026-02-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI時代のGo開発2026 爆速開発のためのガードレール (Ryo Mimura,@r4mimu)</title>
         <link>https://www.docswell.com/s/r4mimu/ZQXGNY-2026-02-21-102435</link>
-        <dc:date>2026-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KAGAIWeek_仕様駆動開発で開発スピードが爆速になった！その結果生まれたバックログ管理の課題と対策 (piyonakajima)</title>
-        <link>https://speakerdeck.com/piyonakajima/sdd-problem-try</link>
         <dc:date>2026-02-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
