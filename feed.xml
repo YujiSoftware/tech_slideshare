@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NW構成図の自動描画は何が難しいのか?/netdevnight3 (m.hagiwara)</title>
+        <link>https://speakerdeck.com/corestate55/netdevnight3</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft Fabric のワークスペースと容量の設計原則 (Ryoma Nagata)</title>
+        <link>https://speakerdeck.com/ryomaru0825/microsoft-fabric-nowakusupesutorong-liang-noshe-ji-yuan-ze</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>使用状況メトリックの長期保存 (Hyodo Katsuki)</title>
+        <link>https://www.docswell.com/s/6140290960/5REL4E-2026-02-25-022604</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby × 車 ～ 愛車のデータを取得せよ！ ～ (matsudai)</title>
         <link>https://speakerdeck.com/matsudai/ruby-x-che-ai-che-nodetawoqu-de-seyo</link>
         <dc:date>2026-02-23T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>nilとは何か 〜interfaceの構造とnil!=nilから理解する〜 / Understanding nil in Go Interface Representation and Why nil != nil (kuro)</title>
         <link>https://speakerdeck.com/kuro_kurorrr/understanding-nil-in-go-interface-representation-and-why-nil-equals-nil</link>
         <dc:date>2026-02-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自作ロボに搭乗して 操縦してみた２</title>
-        <link>https://docs.google.com/presentation/d/1zgL-_cwzicnkmrrqpFIW75FZrlCrODk2zhIBQPCbsdk/preview</link>
-        <dc:date>2026-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>論文検索を日本語でできるアプリを作ってみた (sai-lens)</title>
-        <link>https://speakerdeck.com/sailen2/lun-wen-jian-suo-wori-ben-yu-dedekiruapuriwozuo-tutemita</link>
-        <dc:date>2026-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260222_neko_IoTLT_vol11_kitazaki_v1.pdf (Ayachika Kitazaki)</title>
-        <link>https://www.slideshare.net/slideshow/20260222_neko_iotlt_vol11_kitazaki_v1-pdf/286165535</link>
-        <dc:date>2026-02-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
