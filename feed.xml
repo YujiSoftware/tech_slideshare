@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>社内ワークショップで終わらせない 業務改善AIエージェント開発 (LINEヤフーTech (LY Corporation Tech))</title>
+        <link>https://speakerdeck.com/lycorptech_jp/ai-standup-agent</link>
+        <dc:date>2026-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェントで変わる開発プロセス ― レビューボトルネックからの脱却 (LINEヤフーTech (LY Corporation Tech))</title>
+        <link>https://speakerdeck.com/lycorptech_jp/escape-review-bottleneck</link>
+        <dc:date>2026-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2026-02-24 月末 Tech Lunch Online #10 Cloud Runのデプロイの課題から考えるアプリとインフラの境界線 (SUZUKI Masashi)</title>
+        <link>https://speakerdeck.com/masasuzu/2026-02-24-yue-mo-tech-lunch-online-number-10-cloud-runnodepuroinoke-ti-karakao-eruapuritoinhuranojing-jie-xian</link>
+        <dc:date>2026-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS CDK の目玉新機能「Mixins」とは / cdk-mixins (k.goto)</title>
+        <link>https://speakerdeck.com/gotok365/cdk-mixins</link>
+        <dc:date>2026-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>元パティシエの逸般の誤家庭サーバ (エンジニアと錯覚した竹ちゃん)</title>
+        <link>https://speakerdeck.com/takenoko729/yuan-pateisienoyi-ban-nowu-jia-ting-saba</link>
+        <dc:date>2026-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft Fabric のデータベース: 概要 (MDPJP Databases Deep Dive Series #2) (Yuji Masaoka | まっぴぃ)</title>
+        <link>https://speakerdeck.com/mappie_kochi/microsoft-fabric-nodetabesu-gai-yao-mdpjp-databases-deep-dive-series-number-2</link>
+        <dc:date>2026-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「役割と組織の越境：開発者がPOを体験して得た学びと営業部門への内製スケールの実践」 (ダイキン工業 アジャイル内製センター)</title>
+        <link>https://www.docswell.com/s/daikin-aic/5WMJY4-2026-02-24-124158</link>
+        <dc:date>2026-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術キャッチアップ効率化を実現する記事推薦システムの構築 (Yudai Hayashi)</title>
+        <link>https://speakerdeck.com/yudai00/ji-shu-kiyatutiatupuxiao-lu-hua-woshi-xian-suruji-shi-tui-jian-sisutemunogou-zhu</link>
+        <dc:date>2026-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PostgreSQLだと外部参照キーにデフォルトでインデックスが貼られていない (yamatai12)</title>
+        <link>https://speakerdeck.com/yamatai1212/postgresqldatowai-bu-can-zhao-kinidehuorutodeindetukusugatie-rareteinai</link>
+        <dc:date>2026-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>わかった気になる_TCP_BBR.pdf (d-mastui)</title>
+        <link>https://speakerdeck.com/dmatsui/wakatutaqi-ninaru-tcp-bbr</link>
+        <dc:date>2026-02-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コードレビューはCLAUDE.md/skillsに書け。同じ指摘を繰り返すな。 (Shota Totsuka)</title>
         <link>https://speakerdeck.com/totsukash/skillsnishu-ke-tong-zizhi-zhai-wozao-rifan-suna</link>
         <dc:date>2026-02-23T15:00:00Z</dc:date>
@@ -54,55 +104,5 @@
         <title>2026_02_22 ねこIoTLT 猫の鳴き声音声合成_公開用 (まつした)</title>
         <link>https://www.docswell.com/s/yskmjp/5DWYVG-2026-02-22-120752</link>
         <dc:date>2026-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バニラVisaギフトカードを棄てるのは結構大変 (meow)</title>
-        <link>https://speakerdeck.com/meow_noisy/disposing-of-vvgift-is-a-pain</link>
-        <dc:date>2026-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agent Skills Workshop - AIへの頼み方を仕組み化する (Gota)</title>
-        <link>https://speakerdeck.com/gotalab555/agent-skills-workshop-aihenolai-mifang-woshi-zu-mihua-suru</link>
-        <dc:date>2026-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goで実現する堅牢なアーキテクチャ：DDD、gRPC-connect、そしてAI協調開発の実践 (fujidomoe)</title>
-        <link>https://speakerdeck.com/fujidomoe/godeshi-xian-surujian-lao-naakitekutiya-ddd-grpc-connect-sositeaixie-diao-kai-fa-noshi-jian</link>
-        <dc:date>2026-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>vol11_ねこIoTLT_お遊びVibeCoding (1027kg)</title>
-        <link>https://speakerdeck.com/1027kg/vol11-nekoiotlt-oyou-bivibecoding</link>
-        <dc:date>2026-02-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ジオフェンシングで通知をしよう (▢い芸人,@_katsumi)</title>
-        <link>https://www.docswell.com/s/mobilebiz/58W469-kintone-cafe-2026-02-21</link>
-        <dc:date>2026-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インシデント対応 (akira345)</title>
-        <link>https://speakerdeck.com/akira345/insidentodui-ying</link>
-        <dc:date>2026-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ローコード開発の現実と私が意識していること (Kohhey,@koh_of_yama)</title>
-        <link>https://www.docswell.com/s/Kohhey/5EY6JE-2026-02-21-151051</link>
-        <dc:date>2026-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ローカルでLLMを使ってみよう (kosmosebi)</title>
-        <link>https://speakerdeck.com/kosmosebi/rokarudellmwo-shi-tutemiyou</link>
-        <dc:date>2026-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インシデント対応入門 (gr1m0h)</title>
-        <link>https://speakerdeck.com/grimoh/insidentodui-ying-ru-men</link>
-        <dc:date>2026-02-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代のGo開発2026 爆速開発のためのガードレール (Ryo Mimura,@r4mimu)</title>
-        <link>https://www.docswell.com/s/r4mimu/ZQXGNY-2026-02-21-102435</link>
-        <dc:date>2026-02-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
