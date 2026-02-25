@@ -6,6 +6,86 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI駆動開発の本音 〜Claude Code並列開発で見えたエンジニアの新しい役割〜 (hisuzuya)</title>
+        <link>https://speakerdeck.com/hisuzuya/aiqu-dong-kai-fa-noben-yin-claude-codebing-lie-kai-fa-dejian-etaenzinianoxin-siiyi-ge</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI Coding Agentの地殻変動 ～ ai-coding.info の定点観測 ～ (kotauchisunsun)</title>
+        <link>https://speakerdeck.com/kotauchisunsun/ai-coding-agentnodi-que-bian-dong-ai-coding-dot-info-noding-dian-guan-ce</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Snowflakeデータ基盤で挑むAI活用 〜4年間のDataOpsの基礎をもとに〜 (K.Mitsuhashi)</title>
+        <link>https://speakerdeck.com/kaz3284/snowflakedetaji-pan-detiao-muaihuo-yong-4nian-jian-nodataopsnoji-chu-womotoni</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Snowflake Night #2 LT (タロウ)</title>
+        <link>https://speakerdeck.com/taromatsui_cccmkhd/snowflake-night-number-2-lt</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260127CryptoAssetsとお金</title>
+        <link>https://docs.google.com/presentation/d/1i3MRtsPtfFzgxJopl0QI6-faSGNEsEGUaqAHZhhy8QM/preview</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>摩擦を減らす！Claude Codeとの対話設計 (山本一将｜焚き火を愛するエンジニア,@kyamamoto9120)</title>
+        <link>https://www.docswell.com/s/kyamamoto9120/K747M6-2026-02-25-120000</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Codeと駆け抜ける  情報収集と実践録 (sontixyou)</title>
+        <link>https://speakerdeck.com/sontixyou/claude-codetoqu-keba-keru-qing-bao-shou-ji-toshi-jian-lu</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Codeはレガシー移行でどこまで使えるのか？ (ak2ie)</title>
+        <link>https://speakerdeck.com/ak2ie/claude-codeharegasiyi-xing-dedokomadeshi-erunoka</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Codeをオーケストレーションして自動でレビューFBループを回して洗い物をしてる話 / Orchestrating Claude Code to automatically run a review feedback loop—so I can focus on doing the dishes. (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/orchestrating-claude-code-to-automatically-run-a-review-feedback-loop-so-i-can-focus-on-doing-the-dishes</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模実装を Claude Code に任せるには 〜 Plan + Tasksで精度を上げる4つのコツ 〜 (スナガク)</title>
+        <link>https://speakerdeck.com/sunagaku/da-gui-mo-shi-zhuang-wo-claude-code-niren-seruniha-plan-plus-taskstejing-du-woshang-keru4tunokotu</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TerraformをClaude Codeで書く技術 (mozumasu,@mozumasu)</title>
+        <link>https://www.docswell.com/s/mozumasu/KEY6MD-2026-02-25-claude-code-terraform</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Purviewで権限のカタログ化をしてみたかった~データ製品アクセスポリシーとは？~ (Ryusei Iida)</title>
+        <link>https://speakerdeck.com/ryuseiiida/purviewdequan-xian-nokataroguhua-wositemitakatuta-detazhi-pin-akusesuporisitoha</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2026-02 Microsoft Data Analytics Day (Ohata Masatoshi)</title>
+        <link>https://speakerdeck.com/ohata_bi/2026-02-microsoft-data-analytics-day</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI情報アップデート:  Claude Coworkとは？ そして、OpenClawとは？ (skume)</title>
+        <link>https://speakerdeck.com/skume/aiqing-bao-atupudeto-claude-coworktoha-sosite-openclawtoha</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>マイグレーションガイドに書いてないRiverpod 3移行話 (AOKI Taiju)</title>
+        <link>https://speakerdeck.com/taiju59/maiguresiyongaidonishu-itenairiverpod-3yi-xing-hua</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>社内でAWS BuilderCards体験会を立ち上げ、得られた気づき / 20260225 Masaki Okuda (SHIFT EVOLVE)</title>
+        <link>https://speakerdeck.com/shift_evolve/20260225-masaki-okuda</link>
+        <dc:date>2026-02-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>三菱UFJ銀行におけるエンタープライズAI駆動開発のリアル / Enterprise AI_Driven Development at MUFG Bank: The Real Story (三菱UFJインフォメーションテクノロジー株式会社)</title>
         <link>https://speakerdeck.com/muit/enterprise-ai-driven-development-at-mufg-bank-the-real-story</link>
         <dc:date>2026-02-24T15:00:00Z</dc:date>
@@ -24,85 +104,5 @@
         <title>NW構成図の自動描画は何が難しいのか?/netdevnight3 (m.hagiwara)</title>
         <link>https://speakerdeck.com/corestate55/netdevnight3</link>
         <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Fabric のワークスペースと容量の設計原則 (Ryoma Nagata)</title>
-        <link>https://speakerdeck.com/ryomaru0825/microsoft-fabric-nowakusupesutorong-liang-noshe-ji-yuan-ze</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>使用状況メトリックの長期保存 (Hyodo Katsuki)</title>
-        <link>https://www.docswell.com/s/6140290960/5REL4E-2026-02-25-022604</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby × 車 ～ 愛車のデータを取得せよ！ ～ (matsudai)</title>
-        <link>https://speakerdeck.com/matsudai/ruby-x-che-ai-che-nodetawoqu-de-seyo</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Make Illegal States Unrepresentable (ONDA, Takashi)</title>
-        <link>https://speakerdeck.com/takonda/make-illegal-states-unrepresentable</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社内ワークショップで終わらせない 業務改善AIエージェント開発 (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/ai-standup-agent</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントで変わる開発プロセス ― レビューボトルネックからの脱却 (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/escape-review-bottleneck</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026-02-24 月末 Tech Lunch Online #10 Cloud Runのデプロイの課題から考えるアプリとインフラの境界線 (SUZUKI Masashi)</title>
-        <link>https://speakerdeck.com/masasuzu/2026-02-24-yue-mo-tech-lunch-online-number-10-cloud-runnodepuroinoke-ti-karakao-eruapuritoinhuranojing-jie-xian</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CDK の目玉新機能「Mixins」とは / cdk-mixins (k.goto)</title>
-        <link>https://speakerdeck.com/gotok365/cdk-mixins</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>元パティシエの逸般の誤家庭サーバ (エンジニアと錯覚した竹ちゃん)</title>
-        <link>https://speakerdeck.com/takenoko729/yuan-pateisienoyi-ban-nowu-jia-ting-saba</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Fabric のデータベース: 概要 (MDPJP Databases Deep Dive Series #2) (Yuji Masaoka | まっぴぃ)</title>
-        <link>https://speakerdeck.com/mappie_kochi/microsoft-fabric-nodetabesu-gai-yao-mdpjp-databases-deep-dive-series-number-2</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「役割と組織の越境：開発者がPOを体験して得た学びと営業部門への内製スケールの実践」 (ダイキン工業 アジャイル内製センター)</title>
-        <link>https://www.docswell.com/s/daikin-aic/5WMJY4-2026-02-24-124158</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術キャッチアップ効率化を実現する記事推薦システムの構築 (Yudai Hayashi)</title>
-        <link>https://speakerdeck.com/yudai00/ji-shu-kiyatutiatupuxiao-lu-hua-woshi-xian-suruji-shi-tui-jian-sisutemunogou-zhu</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQLだと外部参照キーにデフォルトでインデックスが貼られていない (yamatai12)</title>
-        <link>https://speakerdeck.com/yamatai1212/postgresqldatowai-bu-can-zhao-kinidehuorutodeindetukusugatie-rareteinai</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>わかった気になる_TCP_BBR.pdf (d-mastui)</title>
-        <link>https://speakerdeck.com/dmatsui/wakatutaqi-ninaru-tcp-bbr</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードレビューはCLAUDE.md/skillsに書け。同じ指摘を繰り返すな。 (Shota Totsuka)</title>
-        <link>https://speakerdeck.com/totsukash/skillsnishu-ke-tong-zizhi-zhai-wozao-rifan-suna</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>失敗できる意思決定とソフトウェアとの正しい歩き方_-_変化と向き合う選択肢/ Designing for Reversible Decisions (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/designing-for-reversible-decisions</link>
-        <dc:date>2026-02-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
