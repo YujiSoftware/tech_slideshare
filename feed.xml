@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜAIは組織を速くしないのか 令和の腑分け (su8 / denchu)</title>
+        <link>https://speakerdeck.com/sugino/nazeaihazu-zhi-wosu-kusinainoka-ling-he-nofu-fen-ke</link>
+        <dc:date>2026-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIは実装を速くする__でも_理解は速くならない_-_Google_スライド.pdf (Hisakey)</title>
         <link>https://speakerdeck.com/tomitahisaki/aihashi-zhuang-wosu-kusuru-temo-li-jie-hasu-kunaranai-google-suraito</link>
         <dc:date>2026-02-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI Coding Agentの地殻変動 ～ ai-coding.info の定点観測 ～ (kotauchisunsun)</title>
         <link>https://speakerdeck.com/kotauchisunsun/ai-coding-agentnodi-que-bian-dong-ai-coding-dot-info-noding-dian-guan-ce</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Snowflakeデータ基盤で挑むAI活用 〜4年間のDataOpsの基礎をもとに〜 (K.Mitsuhashi)</title>
-        <link>https://speakerdeck.com/kaz3284/snowflakedetaji-pan-detiao-muaihuo-yong-4nian-jian-nodataopsnoji-chu-womotoni</link>
         <dc:date>2026-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
