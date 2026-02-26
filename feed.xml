@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>技術選定の不確実性に向き合うための アーキテクト思考 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
+        <link>https://www.docswell.com/s/tyonekubo/KEY638-2026-02-26</link>
+        <dc:date>2026-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メタプログラミングで実現する「コードを仕様にする」仕組み/nikkei-tech-talk43 (日本経済新聞社 エンジニア採用事務局)</title>
+        <link>https://speakerdeck.com/nikkei_engineer_recruiting/nikkei-tech-talk43</link>
+        <dc:date>2026-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>使用状況メトリックの長期保存 (Hyodo Katsuki)</title>
+        <link>https://www.docswell.com/s/6140290960/Z8W4P7-2026-02-26-191030</link>
+        <dc:date>2026-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WBCの解説は生成AIにやらせよう - 生成AIで野球解説者AI Agentを実現する / Baseball Commentator AI Agent for Gemini (Shinichi Nakagawa)</title>
+        <link>https://speakerdeck.com/shinyorke/baseball-commentator-ai-agent-for-gemini</link>
+        <dc:date>2026-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OutReacch Meepup＃８</title>
+        <link>https://docs.google.com/presentation/d/11fjI3eS6H7Y0WoRFyqCGr56LeTdazMDsSqkeskMNTp4/preview</link>
+        <dc:date>2026-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[ExaDB] データベースサーバーGuest VM OS更新時における追加rpm管理のシンプル化 (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/exadb-additional-software-package-management</link>
+        <dc:date>2026-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Exadata Fleet Update (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/exadata-fleet-update</link>
+        <dc:date>2026-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術検証結果の整理と解析をAIに任せよう！ (Keisuke Ikeda)</title>
+        <link>https://speakerdeck.com/keisukeikeda/ji-shu-jian-zheng-jie-guo-nozheng-li-tojie-xi-woainiren-seyou</link>
+        <dc:date>2026-02-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアアーキテクトのための意思決定術:  Create Decision Readiness—The Real Skill Behind Architectural Decision (Koji SHIMADA)</title>
         <link>https://speakerdeck.com/snoozer05/create-decision-readiness-the-real-skill-behind-architectural-decision</link>
         <dc:date>2026-02-25T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>Snowflake Night #2 LT (タロウ)</title>
         <link>https://speakerdeck.com/taromatsui_cccmkhd/snowflake-night-number-2-lt</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260127CryptoAssetsとお金</title>
-        <link>https://docs.google.com/presentation/d/1i3MRtsPtfFzgxJopl0QI6-faSGNEsEGUaqAHZhhy8QM/preview</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>摩擦を減らす！Claude Codeとの対話設計 (山本一将｜焚き火を愛するエンジニア,@kyamamoto9120)</title>
-        <link>https://www.docswell.com/s/kyamamoto9120/K747M6-2026-02-25-120000</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeと駆け抜ける  情報収集と実践録 (sontixyou)</title>
-        <link>https://speakerdeck.com/sontixyou/claude-codetoqu-keba-keru-qing-bao-shou-ji-toshi-jian-lu</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeはレガシー移行でどこまで使えるのか？ (ak2ie)</title>
-        <link>https://speakerdeck.com/ak2ie/claude-codeharegasiyi-xing-dedokomadeshi-erunoka</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeをオーケストレーションして自動でレビューFBループを回して洗い物をしてる話 / Orchestrating Claude Code to automatically run a review feedback loop—so I can focus on doing the dishes. (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/orchestrating-claude-code-to-automatically-run-a-review-feedback-loop-so-i-can-focus-on-doing-the-dishes</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模実装を Claude Code に任せるには 〜 Plan + Tasksで精度を上げる4つのコツ 〜 (スナガク)</title>
-        <link>https://speakerdeck.com/sunagaku/da-gui-mo-shi-zhuang-wo-claude-code-niren-seruniha-plan-plus-taskstejing-du-woshang-keru4tunokotu</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TerraformをClaude Codeで書く技術 (mozumasu,@mozumasu)</title>
-        <link>https://www.docswell.com/s/mozumasu/KEY6MD-2026-02-25-claude-code-terraform</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Purviewで権限のカタログ化をしてみたかった~データ製品アクセスポリシーとは？~ (Ryusei Iida)</title>
-        <link>https://speakerdeck.com/ryuseiiida/purviewdequan-xian-nokataroguhua-wositemitakatuta-detazhi-pin-akusesuporisitoha</link>
         <dc:date>2026-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
