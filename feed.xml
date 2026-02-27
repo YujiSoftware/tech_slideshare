@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Webアクセシビリティ技術と実装の実際 (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/webakusesibiriteiji-shu-toshi-zhuang-noshi-ji</link>
+        <dc:date>2026-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Neo4j でベクトル検索を行ってみよう</title>
+        <link>https://docs.google.com/presentation/d/1KY3VWlBcZs0Oy5buBpxSq0_3rt0OwO-gMszNRxTbQPo/preview</link>
+        <dc:date>2026-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>事前準備</title>
+        <link>https://docs.google.com/document/d/1GqQJe51lBWAfDefmv2Lsz0hNZSKD17j6TNDvJBIKRak/preview</link>
+        <dc:date>2026-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Cowork Plugins を読む - Skills駆動型業務エージェント設計の実像と構造 (西岡 賢一郎 (Kenichiro Nishioka))</title>
+        <link>https://speakerdeck.com/knishioka/claude-cowork-plugins-wodu-mu-skillsqu-dong-xing-ye-wu-ezientoshe-ji-noshi-xiang-togou-zao</link>
+        <dc:date>2026-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>社内規程RAGの精度を73.3% → 100%に改善した話 (oharu121)</title>
         <link>https://speakerdeck.com/oharu121/she-nei-gui-cheng-ragnojing-du-wo73-dot-3-percent-100-percent-nigai-shan-sitahua</link>
         <dc:date>2026-02-26T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>メタプログラミングで実現する「コードを仕様にする」仕組み/nikkei-tech-talk43 (日本経済新聞社 エンジニア採用事務局)</title>
         <link>https://speakerdeck.com/nikkei_engineer_recruiting/nikkei-tech-talk43</link>
-        <dc:date>2026-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>使用状況メトリックの長期保存 (Hyodo Katsuki)</title>
-        <link>https://www.docswell.com/s/6140290960/Z8W4P7-2026-02-26-191030</link>
-        <dc:date>2026-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WBCの解説は生成AIにやらせよう - 生成AIで野球解説者AI Agentを実現する / Baseball Commentator AI Agent for Gemini (Shinichi Nakagawa)</title>
-        <link>https://speakerdeck.com/shinyorke/baseball-commentator-ai-agent-for-gemini</link>
-        <dc:date>2026-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OutReacch Meepup＃８</title>
-        <link>https://docs.google.com/presentation/d/11fjI3eS6H7Y0WoRFyqCGr56LeTdazMDsSqkeskMNTp4/preview</link>
-        <dc:date>2026-02-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[ExaDB] データベースサーバーGuest VM OS更新時における追加rpm管理のシンプル化 (oracle4engineer)</title>
-        <link>https://speakerdeck.com/oracle4engineer/exadb-additional-software-package-management</link>
         <dc:date>2026-02-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
