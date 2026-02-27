@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby x Terminal (Akira Matsuda)</title>
+        <link>https://speakerdeck.com/a_matsuda/ruby-x-terminal</link>
+        <dc:date>2026-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2026年2月版 GitHub Copilotでバックエンドのバイブコーディングを極めた話 (yuma(Maki),@yuma_prog)</title>
         <link>https://www.docswell.com/s/yuma/57472V-2026-02-26-wakecareer</link>
         <dc:date>2026-02-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>大規模な組織におけるAI Agent活用の促進と課題 (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/20260218c</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI駆動開発の本音 〜Claude Code並列開発で見えたエンジニアの新しい役割〜 (hisuzuya)</title>
-        <link>https://speakerdeck.com/hisuzuya/aiqu-dong-kai-fa-noben-yin-claude-codebing-lie-kai-fa-dejian-etaenzinianoxin-siiyi-ge</link>
         <dc:date>2026-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
