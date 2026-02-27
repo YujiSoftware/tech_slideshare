@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>タイムマシンのつくりかた (Nomizo Nomizo)</title>
+        <link>https://speakerdeck.com/nomizone/taimumasinnotukurikata</link>
+        <dc:date>2026-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby x Terminal (Akira Matsuda)</title>
         <link>https://speakerdeck.com/a_matsuda/ruby-x-terminal</link>
         <dc:date>2026-02-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LINEアプリ開発のための Claude Code活用基盤の構築 (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/20260218e</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模な組織におけるAI Agent活用の促進と課題 (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20260218c</link>
         <dc:date>2026-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
