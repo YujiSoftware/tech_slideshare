@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Web系OLTPにおけるデータストア技術選定の私感的史観 (Masayuki Matsuki,@songmu)</title>
+        <link>https://www.docswell.com/s/Songmu/ZJQ2M4-my-datastore-selection-history</link>
+        <dc:date>2026-02-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>タイムマシンのつくりかた (Nomizo Nomizo)</title>
         <link>https://speakerdeck.com/nomizone/taimumasinnotukurikata</link>
         <dc:date>2026-02-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>米国のサイバーセキュリティタイムラインと見る Goの暗号パッケージの進化 (tom twinkle)</title>
         <link>https://speakerdeck.com/tomtwinkle/mi-guo-nosaibasekiyuriteitaimuraintojian-ru-gonoan-hao-patukezinojin-hua</link>
-        <dc:date>2026-02-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINEアプリ開発のための Claude Code活用基盤の構築 (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20260218e</link>
         <dc:date>2026-02-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
