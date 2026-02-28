@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>チームメンバー迷わないIaC設計 (hayama)</title>
+        <link>https://speakerdeck.com/hayama17/timumenbami-wanaiiacshe-ji</link>
+        <dc:date>2026-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>高凝集と疎結合、純粋なドメイン層。AIの力を最大限引き出す設計思想と、それを破らせない仕組み（10分バージョン） (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/designing-for-ai-high-cohesion-loose-coupling-and-pure-domains-and-how-to-keep-them-that-way-10-min-talk</link>
         <dc:date>2026-02-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>なぜAIは組織を速くしないのか 令和の腑分け (su8 / denchu)</title>
         <link>https://speakerdeck.com/sugino/nazeaihazu-zhi-wosu-kusinainoka-ling-he-nofu-fen-ke</link>
-        <dc:date>2026-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIは実装を速くする__でも_理解は速くならない_-_Google_スライド.pdf (Hisakey)</title>
-        <link>https://speakerdeck.com/tomitahisaki/aihashi-zhuang-wosu-kusuru-temo-li-jie-hasu-kunaranai-google-suraito</link>
         <dc:date>2026-02-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
