@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>高凝集と疎結合、純粋なドメイン層。AIの力を最大限引き出す設計思想と、それを破らせない仕組み（10分バージョン） (株式会社カミナシ)</title>
+        <link>https://speakerdeck.com/kaminashi/designing-for-ai-high-cohesion-loose-coupling-and-pure-domains-and-how-to-keep-them-that-way-10-min-talk</link>
+        <dc:date>2026-02-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Unicodeどうしてる？ PHPから見たUnicode対応と他言語での対応についてのお伺い (てきめん tekimen)</title>
         <link>https://speakerdeck.com/youkidearitai/unicodedousiteru-phpkarajian-taunicodedui-ying-tota-yan-yu-denodui-ying-nituitenoosi-i</link>
         <dc:date>2026-02-27T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AIは実装を速くする__でも_理解は速くならない_-_Google_スライド.pdf (Hisakey)</title>
         <link>https://speakerdeck.com/tomitahisaki/aihashi-zhuang-wosu-kusuru-temo-li-jie-hasu-kunaranai-google-suraito</link>
         <dc:date>2026-02-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術選定の不確実性に向き合うための アーキテクト思考 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
-        <link>https://www.docswell.com/s/tyonekubo/KEY638-2026-02-26</link>
-        <dc:date>2026-02-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
