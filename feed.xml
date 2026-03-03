@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「だいたい動く」では足りない ―  データの人がプロダクト開発に入るとき (ysdyt,@yutatatatata)</title>
+        <link>https://www.docswell.com/s/ysdyt/KE14NG-seiseiai-vol1</link>
+        <dc:date>2026-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[開発チームで取り組むE2Eテスト自動化]E2Eテスト自動化 FAKEな想定、REALな運用 (Yuki Okauchi)</title>
         <link>https://www.slideshare.net/slideshow/e2e-e2e-fake-real/286318477</link>
         <dc:date>2026-03-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【SLO】"多様な期待値" と向き合ってみた (kaita)</title>
         <link>https://speakerdeck.com/z63d/slo-duo-yang-naqi-dai-zhi-toxiang-kihe-tutemita</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バクラクのSREにおけるAgentic AIへの挑戦/Our Journey with Agentic AI (SadayoshiTada)</title>
-        <link>https://speakerdeck.com/taddy_919/our-journey-with-agentic-ai</link>
         <dc:date>2026-02-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
