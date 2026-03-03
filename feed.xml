@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>StrandsとNeptuneを使ってナレッジグラフを構築する (やくも)</title>
+        <link>https://speakerdeck.com/yakumo/strandstoneptunewoshi-tutenaretuzigurahuwogou-zhu-suru</link>
+        <dc:date>2026-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OSINT入門-CTF for GIRLS_SECCON14電脳会議 (Nomizo Nomizo)</title>
         <link>https://speakerdeck.com/nomizone/osintru-men-ctf-for-girls-seccon14dian-noy-hui-yi</link>
         <dc:date>2026-03-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>クライアントワークでSREをするということ。あるいは事業会社におけるSREと同じこと・違うこと (nnaka2992)</title>
         <link>https://speakerdeck.com/nnaka2992/kuraiantowakudesrewosurutoiukoto-aruihashi-ye-hui-she-niokerusretotong-zikotowei-ukoto</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンプレとGoogle Cloudを安全に繋ぐための、セキュア通信の勘所 (Yuta Ozaki)</title>
-        <link>https://speakerdeck.com/waiwai2111/onpuretogoogle-cloudwoan-quan-nixi-gutameno-sekiyuatong-xin-nokan-suo</link>
         <dc:date>2026-02-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
