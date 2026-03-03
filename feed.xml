@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[開発チームで取り組むE2Eテスト自動化]E2Eテスト自動化 FAKEな想定、REALな運用 (Yuki Okauchi)</title>
+        <link>https://www.slideshare.net/slideshow/e2e-e2e-fake-real/286318477</link>
+        <dc:date>2026-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自動テストが巻き起こした開発プロセス・チームの変化 / Impact of Automated Testing on Development Cycles and Team Dynamics (コドモン開発チーム)</title>
+        <link>https://speakerdeck.com/codmoninc/impact-of-automated-testing-on-development-cycles-and-team-dynamics</link>
+        <dc:date>2026-03-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIの “それっぽいニーズ” は使えるのか？ UXデザイナーが教える「ユーザー心理」に近づける方法 | デジタルマーケターズサミット 2026 Winter 2026年2月4日 (Yoshiki Hayama)</title>
         <link>https://www.slideshare.net/slideshow/ai-ux-2026-winter-2026-2-4/286034004</link>
         <dc:date>2026-03-02T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>バクラクのSREにおけるAgentic AIへの挑戦/Our Journey with Agentic AI (SadayoshiTada)</title>
         <link>https://speakerdeck.com/taddy_919/our-journey-with-agentic-ai</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ヘルシーSRE (Hiroki Takatsuka)</title>
-        <link>https://speakerdeck.com/tk3fftk/herusisre</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>男（監査）はつらいよ - Policy as CodeからAIエージェントへ (Kengo Suzuki)</title>
-        <link>https://speakerdeck.com/ken5scal/nan-jian-cha-haturaiyo-policy-as-codekaraaiezientohe</link>
         <dc:date>2026-02-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
