@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GNSS-LTE-Mを用いた オンライン車両防犯システム</title>
+        <link>https://docs.google.com/presentation/d/1yU04c9lYhYXRqZSE1kpvQufsULZPSfhKguUNSG-u8YI/preview</link>
+        <dc:date>2026-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLM性能改善の実践知 - Kaggleでの学びを現場に活かす思考法 (書籍紹介資料) (takaito)</title>
+        <link>https://speakerdeck.com/takaito/llmxing-neng-gai-shan-noshi-jian-zhi-kaggledenoxue-biwoxian-chang-nihuo-kasusi-kao-fa-shu-ji-shao-jie-zi-liao</link>
+        <dc:date>2026-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLM性能改善の実践知  Kaggleでの学びを現場に活かす思考法 (sin chir0)</title>
+        <link>https://speakerdeck.com/sinchir0/llmxing-neng-gai-shan-noshi-jian-zhi-kaggledenoxue-biwoxian-chang-nihuo-kasusi-kao-fa</link>
+        <dc:date>2026-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>技術的負債の泥沼から組織を救う3つの転換点 (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/ji-shu-de-fu-zhai-noni-zhao-karazu-zhi-wojiu-u3tunozhuan-huan-dian</link>
         <dc:date>2026-03-03T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Windows ネットワークを再確認する (Murachi Akira)</title>
         <link>https://speakerdeck.com/murachiakira/windows-network-structure</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>.NET ユーザーにやさしい GitHub Copilot の使い方 (Kazuki)</title>
-        <link>https://speakerdeck.com/okazuki/dot-net-yuzaniyasasii-github-copilot-noshi-ifang</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SourceGeneratorのマーカー属性問題について (tkym)</title>
-        <link>https://speakerdeck.com/htkym/sourcegeneratornomakashu-xing-wen-ti-nituite</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonデータ分析コトハジメinFukuoka (kanan)</title>
-        <link>https://speakerdeck.com/kanan/pythondetafen-xi-kotohazimeinfukuoka</link>
         <dc:date>2026-02-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
