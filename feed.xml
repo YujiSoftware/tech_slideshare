@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>トップマネジメントとコンピテンシーから考えるエンジニアリングマネジメント (Toru Yamaguchi a.k.a zigorou)</title>
+        <link>https://speakerdeck.com/zigorou/totupumanezimentotokonpitensikarakao-eruenziniaringumanezimento</link>
+        <dc:date>2026-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「事業目線」の正体 〜3つのフェーズのCTO経験から見えてきた、EMが持つべき視点 @ EMConf JP 2026 (Sotaro Karasawa)</title>
+        <link>https://speakerdeck.com/sotarok/shi-ye-mu-xian-nozheng-ti-3tunohuezunoctojing-yan-karajian-etekita-emgachi-tubekishi-dian-at-emconf-jp-2026</link>
+        <dc:date>2026-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes環境周りの責任範囲をいい機会なので考える / Taking the Opportunity to Clarify Kubernetes Responsibilities (kohbis)</title>
+        <link>https://speakerdeck.com/kohbis/taking-the-opportunity-to-clarify-kubernetes-responsibilities</link>
+        <dc:date>2026-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GNSS-LTE-Mを用いた オンライン車両防犯システム</title>
         <link>https://docs.google.com/presentation/d/1yU04c9lYhYXRqZSE1kpvQufsULZPSfhKguUNSG-u8YI/preview</link>
         <dc:date>2026-03-03T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>SQLQL とは何だったのか Fukuoka Rubyist Kaigi 05 Keynote (yancya )</title>
         <link>https://www.slideshare.net/slideshow/sqlql-fukuoka-rubyist-kaigi-05-keynote-8cae/286275857</link>
         <dc:date>2026-02-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Academy x 富山高専 x JAWS UG 富山 (平賀博司)</title>
-        <link>https://speakerdeck.com/hiragahh/aws-academy-x-fu-shan-gao-zhuan-x-jaws-ug-fu-shan</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rで始めるML・LLM活用入門 (wakama1994)</title>
-        <link>https://speakerdeck.com/wakamatsu_takumu/sapporo-dot-r-13-rteshi-meruml-llmhuo-yong-ru-men</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Windows ネットワークを再確認する (Murachi Akira)</title>
-        <link>https://speakerdeck.com/murachiakira/windows-network-structure</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
