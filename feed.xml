@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マルチロールEMが実践する「組織のレジリエンス」を高めるための組織構造と人材配置戦略 (coconala_engineer)</title>
+        <link>https://speakerdeck.com/coconala_engineer/marutiroruemgashi-jian-suru-zu-zhi-noreziriensu-wogao-merutamenozu-zhi-gou-zao-toren-cai-pei-zhi-zhan-lue</link>
+        <dc:date>2026-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>類似画像検索モデルの開発ノウハウ (LINEヤフーTech (LY Corporation Tech))</title>
+        <link>https://speakerdeck.com/lycorptech_jp/20260304b</link>
+        <dc:date>2026-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>特定領域から複数領域へ、そのとき何を求められるのか？縦と横、2つの影響力：統合型を目指す大規模な開発組織での実践 (keitatomozawa)</title>
+        <link>https://speakerdeck.com/keitatomozawa/te-ding-ling-yu-karafu-shu-ling-yu-he-sonotokihe-woqiu-merarerunoka-zong-toheng-2tunoying-xiang-li-tong-he-xing-womu-zhi-suda-gui-mo-nakai-fa-zu-zhi-denoshi-jian</link>
+        <dc:date>2026-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>組織・文化・技術の壁に挫折したEMが アーキテクトとして「構造化思考」を手に 再び保守開発組織の変革に取り組む (おだかとしゆき)</title>
+        <link>https://speakerdeck.com/jgeem/ex-architect-em-driving-organizational-change</link>
+        <dc:date>2026-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「ストレッチゾーンに挑戦し続ける」ことって難しくないですか？ メンバーの持続的成長を支えるEMの環境設計 (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/20260304-1</link>
+        <dc:date>2026-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>守る「だけ」の優しいEMを抜けて、 事業とチームを両方見る視点を身につけた話 (Mitsui)</title>
+        <link>https://speakerdeck.com/maroon8021/shou-ru-dake-noyou-siiemwoba-kete-shi-ye-totimuwoliang-fang-jian-rushi-dian-woshen-nituketahua</link>
+        <dc:date>2026-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DX Improvement at Scale (ntk1000)</title>
+        <link>https://speakerdeck.com/ntk1000/dx-improvement-at-scale</link>
+        <dc:date>2026-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>トップマネジメントとコンピテンシーから考えるエンジニアリングマネジメント (Toru Yamaguchi a.k.a zigorou)</title>
         <link>https://speakerdeck.com/zigorou/totupumanezimentotokonpitensikarakao-eruenziniaringumanezimento</link>
         <dc:date>2026-03-03T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>[開発チームで取り組むE2Eテスト自動化]E2Eテスト自動化 FAKEな想定、REALな運用 (Yuki Okauchi)</title>
         <link>https://www.slideshare.net/slideshow/e2e-e2e-fake-real/286318477</link>
         <dc:date>2026-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自動テストが巻き起こした開発プロセス・チームの変化 / Impact of Automated Testing on Development Cycles and Team Dynamics (コドモン開発チーム)</title>
-        <link>https://speakerdeck.com/codmoninc/impact-of-automated-testing-on-development-cycles-and-team-dynamics</link>
-        <dc:date>2026-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIの “それっぽいニーズ” は使えるのか？ UXデザイナーが教える「ユーザー心理」に近づける方法 | デジタルマーケターズサミット 2026 Winter 2026年2月4日 (Yoshiki Hayama)</title>
-        <link>https://www.slideshare.net/slideshow/ai-ux-2026-winter-2026-2-4/286034004</link>
-        <dc:date>2026-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>StrandsとNeptuneを使ってナレッジグラフを構築する (やくも)</title>
-        <link>https://speakerdeck.com/yakumo/strandstoneptunewoshi-tutenaretuzigurahuwogou-zhu-suru</link>
-        <dc:date>2026-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OSINT入門-CTF for GIRLS_SECCON14電脳会議 (Nomizo Nomizo)</title>
-        <link>https://speakerdeck.com/nomizone/osintru-men-ctf-for-girls-seccon14dian-noy-hui-yi</link>
-        <dc:date>2026-03-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LINE Messengerの次世代ストレージ選定 (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20260226a</link>
-        <dc:date>2026-03-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevinとClaude Code、SREの現場で使い倒してみた件 (karia/Y.Hisamatsu)</title>
-        <link>https://speakerdeck.com/karia/devintoclaude-code-srenoxian-chang-deshi-idao-sitemitajian</link>
-        <dc:date>2026-02-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SQLQL とは何だったのか Fukuoka Rubyist Kaigi 05 Keynote (yancya )</title>
-        <link>https://www.slideshare.net/slideshow/sqlql-fukuoka-rubyist-kaigi-05-keynote-8cae/286275857</link>
-        <dc:date>2026-02-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
