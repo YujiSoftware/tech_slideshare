@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20230823 Findy 安定運用Night - 信頼性を高めてシステムを安定運用する話</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vSyRTxd7WtSaI-09Ksq5syq471Xt1UxNrPiv3CE_Yg9ijBqlIi-KYbwn1UUSiNUdV5Orcv5el6y-0yW/pub</link>
+        <dc:date>2026-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「だいたい動く」では足りない ―  データの人がプロダクト開発に入るとき (ysdyt,@yutatatatata)</title>
         <link>https://www.docswell.com/s/ysdyt/KE14NG-seiseiai-vol1</link>
         <dc:date>2026-03-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>maplibre-gl-layers - 地図に移動体たくさん表示したい (Kouji Matsui)</title>
         <link>https://speakerdeck.com/kekyo/maplibre-gl-layers-di-tu-niyi-dong-ti-takusanbiao-shi-sitai</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【SLO】"多様な期待値" と向き合ってみた (kaita)</title>
-        <link>https://speakerdeck.com/z63d/slo-duo-yang-naqi-dai-zhi-toxiang-kihe-tutemita</link>
         <dc:date>2026-02-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
