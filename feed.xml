@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マネージャー版 "提案のレベル" を上げる (konifar)</title>
+        <link>https://speakerdeck.com/konifar/maneziyaban-ti-an-noreberu-woshang-geru</link>
+        <dc:date>2026-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スーパーマンに頼らない"分権型組織"で作る強い開発チーム (ShoheiMitani)</title>
+        <link>https://speakerdeck.com/shoheimitani/committee-system</link>
+        <dc:date>2026-03-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>要求定義・仕様記述・設計・検証の手引き - 理論から学ぶ明確で統一された成果物定義 (Kuniwak)</title>
         <link>https://speakerdeck.com/orgachem/guidelines-for-requirements-definition-specification-writing-design-and-verification</link>
         <dc:date>2026-03-03T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AWS SES VDMで 将来の配信事故を防げた話 (moyashi)</title>
         <link>https://speakerdeck.com/moyashi/aws-ses-vdmde-jiang-lai-nopei-xin-shi-gu-wofang-getahua</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260228_JAWS-UG_SaGA_Kiro-CLI (midnight480)</title>
-        <link>https://speakerdeck.com/midnight480/20260228-jaws-ug-saga-kiro-cli</link>
-        <dc:date>2026-02-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>nuget-server - あなたが必要だったNuGetサーバー (Kouji Matsui)</title>
-        <link>https://speakerdeck.com/kekyo/nuget-server-anatagabi-yao-datutanugetsaba</link>
         <dc:date>2026-02-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
