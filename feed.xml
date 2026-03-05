@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260305_【白金鉱業】分析者が地理情報を武器にするための軽量なアドホック分析環境 (Yuya Kaneta)</title>
+        <link>https://speakerdeck.com/yucho147/20260305-bai-jin-kuang-ye-fen-xi-zhe-gadi-li-qing-bao-wowu-qi-nisurutamenoqing-liang-naadohotukufen-xi-huan-jing</link>
+        <dc:date>2026-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>白金鉱業Meetup_Vol.22_Orbital Senseを支える衛星画像のマルチモーダルエンベディングと地理空間のあいまい検索技術 (BrainPad)</title>
+        <link>https://speakerdeck.com/brainpadpr/multimodal-embedding-of-satellite-images-and-geospatial-fuzzy-search-technology-supporting-orbital-sense</link>
+        <dc:date>2026-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rails アプリの docker build を 倍速にした話 (Masayuki Mizuno)</title>
+        <link>https://speakerdeck.com/fetburner/rails-apurino-docker-build-wo-bei-su-nisitahua</link>
+        <dc:date>2026-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>どんと来い、データベース信頼性エンジニアリング / Introduction to DBRE (nnaka2992)</title>
+        <link>https://speakerdeck.com/nnaka2992/introduction-to-dbre</link>
+        <dc:date>2026-03-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>EMからICへ、二周目人材としてAI全振りのプロダクト開発で見つけた武器 (Yuji Yamaguchi)</title>
         <link>https://speakerdeck.com/yug1224/2026-03-04</link>
         <dc:date>2026-03-04T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>マネージャー版 "提案のレベル" を上げる (konifar)</title>
         <link>https://speakerdeck.com/konifar/maneziyaban-ti-an-noreberu-woshang-geru</link>
-        <dc:date>2026-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スーパーマンに頼らない"分権型組織"で作る強い開発チーム (ShoheiMitani)</title>
-        <link>https://speakerdeck.com/shoheimitani/committee-system</link>
-        <dc:date>2026-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>要求定義・仕様記述・設計・検証の手引き - 理論から学ぶ明確で統一された成果物定義 (Kuniwak)</title>
-        <link>https://speakerdeck.com/orgachem/guidelines-for-requirements-definition-specification-writing-design-and-verification</link>
-        <dc:date>2026-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20230823 Findy 安定運用Night - 信頼性を高めてシステムを安定運用する話</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vSyRTxd7WtSaI-09Ksq5syq471Xt1UxNrPiv3CE_Yg9ijBqlIi-KYbwn1UUSiNUdV5Orcv5el6y-0yW/pub</link>
-        <dc:date>2026-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「だいたい動く」では足りない ―  データの人がプロダクト開発に入るとき (ysdyt,@yutatatatata)</title>
-        <link>https://www.docswell.com/s/ysdyt/KE14NG-seiseiai-vol1</link>
         <dc:date>2026-03-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
