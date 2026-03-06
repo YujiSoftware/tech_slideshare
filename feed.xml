@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenClawで回す組織運営 (Kazuto Kusama)</title>
+        <link>https://speakerdeck.com/jacopen/openclawtehui-suzu-zhi-yun-ying</link>
+        <dc:date>2026-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>iOSエンジニアが挑んだReact Native習得の裏側 (Takahiro Kato)</title>
         <link>https://speakerdeck.com/grandbig/iosenziniagatiao-ndareact-nativexi-de-noli-ce</link>
         <dc:date>2026-03-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「事業目線」の正体 〜3つのフェーズのCTO経験から見えてきた、EMが持つべき視点 @ EMConf JP 2026 (Sotaro Karasawa)</title>
         <link>https://speakerdeck.com/sotarok/shi-ye-mu-xian-nozheng-ti-3tunohuezunoctojing-yan-karajian-etekita-emgachi-tubekishi-dian-at-emconf-jp-2026</link>
-        <dc:date>2026-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes環境周りの責任範囲をいい機会なので考える / Taking the Opportunity to Clarify Kubernetes Responsibilities (kohbis)</title>
-        <link>https://speakerdeck.com/kohbis/taking-the-opportunity-to-clarify-kubernetes-responsibilities</link>
         <dc:date>2026-03-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
