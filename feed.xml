@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>iOSエンジニアが挑んだReact Native習得の裏側 (Takahiro Kato)</title>
+        <link>https://speakerdeck.com/grandbig/iosenziniagatiao-ndareact-nativexi-de-noli-ce</link>
+        <dc:date>2026-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>シークレットを暗号化してgit管理したいときに使えるSOPS, ageの紹介 (Masanori Tani,@uta8a)</title>
         <link>https://www.docswell.com/s/uta8a/ZX6MQN-2026-02-26-sops-age</link>
         <dc:date>2026-03-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kubernetes環境周りの責任範囲をいい機会なので考える / Taking the Opportunity to Clarify Kubernetes Responsibilities (kohbis)</title>
         <link>https://speakerdeck.com/kohbis/taking-the-opportunity-to-clarify-kubernetes-responsibilities</link>
-        <dc:date>2026-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GNSS-LTE-Mを用いた オンライン車両防犯システム</title>
-        <link>https://docs.google.com/presentation/d/1yU04c9lYhYXRqZSE1kpvQufsULZPSfhKguUNSG-u8YI/preview</link>
         <dc:date>2026-03-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
