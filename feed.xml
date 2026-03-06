@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>令和の虎にボコボコにしてもらう事業計画 (もっくま,@mot0aki)</title>
+        <link>https://www.docswell.com/s/mot0aki/K1QV3E-bokoboko-tiger</link>
+        <dc:date>2026-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Codeが爆速進化してプラグイン追従がつらいので半自動化した話 ver.2 (ryu)</title>
+        <link>https://speakerdeck.com/rfdnxbro/claude-codekabao-su-jin-hua-sitehurakuinzhui-cong-katurainoteban-zi-dong-hua-sitahua-ver-dot-2</link>
+        <dc:date>2026-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RailsのValidatesをSwift Macrosで再現してみた (Takuma Shimizu)</title>
+        <link>https://speakerdeck.com/hokuron/railsnovalidateswoswift-macrosdezai-xian-sitemita</link>
+        <dc:date>2026-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Codex の「自走力」を高める (yorifuji)</title>
+        <link>https://speakerdeck.com/yorifuji/codex-no-zi-zou-li-wogao-meru</link>
+        <dc:date>2026-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Codexに役割を持たせる 他のAIエージェントと組み合わせる実務Tips (o8n)</title>
+        <link>https://speakerdeck.com/o8n/codexniyi-ge-wochi-taseru-ta-noaiezientotozu-mihe-waserushi-wu-tips</link>
+        <dc:date>2026-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IBM Bobを使って、PostgreSQLのToDoアプリをDb2へ変換してみよう/202603_Dojo_Bob (Mayumi Hirano)</title>
+        <link>https://speakerdeck.com/mayumihirano/202603-dojo-bob</link>
+        <dc:date>2026-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Shifting from MCP to Skills / ベストプラクティスの変遷を辿る (Okuto Oyama)</title>
+        <link>https://speakerdeck.com/yamanoku/shifting-from-mcp-to-skills</link>
+        <dc:date>2026-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Codeの進化と各機能の活かし方 (Oikon)</title>
+        <link>https://speakerdeck.com/oikon48/claude-codenojin-hua-toge-ji-neng-nohuo-kasifang</link>
+        <dc:date>2026-03-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OpenClawで回す組織運営 (Kazuto Kusama)</title>
         <link>https://speakerdeck.com/jacopen/openclawtehui-suzu-zhi-yun-ying</link>
         <dc:date>2026-03-05T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>マルチロールEMが実践する「組織のレジリエンス」を高めるための組織構造と人材配置戦略 (coconala_engineer)</title>
         <link>https://speakerdeck.com/coconala_engineer/marutiroruemgashi-jian-suru-zu-zhi-noreziriensu-wogao-merutamenozu-zhi-gou-zao-toren-cai-pei-zhi-zhan-lue</link>
         <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>類似画像検索モデルの開発ノウハウ (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20260304b</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>特定領域から複数領域へ、そのとき何を求められるのか？縦と横、2つの影響力：統合型を目指す大規模な開発組織での実践 (keitatomozawa)</title>
-        <link>https://speakerdeck.com/keitatomozawa/te-ding-ling-yu-karafu-shu-ling-yu-he-sonotokihe-woqiu-merarerunoka-zong-toheng-2tunoying-xiang-li-tong-he-xing-womu-zhi-suda-gui-mo-nakai-fa-zu-zhi-denoshi-jian</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>組織・文化・技術の壁に挫折したEMが アーキテクトとして「構造化思考」を手に 再び保守開発組織の変革に取り組む (おだかとしゆき)</title>
-        <link>https://speakerdeck.com/jgeem/ex-architect-em-driving-organizational-change</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「ストレッチゾーンに挑戦し続ける」ことって難しくないですか？ メンバーの持続的成長を支えるEMの環境設計 (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/20260304-1</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>守る「だけ」の優しいEMを抜けて、 事業とチームを両方見る視点を身につけた話 (Mitsui)</title>
-        <link>https://speakerdeck.com/maroon8021/shou-ru-dake-noyou-siiemwoba-kete-shi-ye-totimuwoliang-fang-jian-rushi-dian-woshen-nituketahua</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DX Improvement at Scale (ntk1000)</title>
-        <link>https://speakerdeck.com/ntk1000/dx-improvement-at-scale</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>トップマネジメントとコンピテンシーから考えるエンジニアリングマネジメント (Toru Yamaguchi a.k.a zigorou)</title>
-        <link>https://speakerdeck.com/zigorou/totupumanezimentotokonpitensikarakao-eruenziniaringumanezimento</link>
-        <dc:date>2026-03-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「事業目線」の正体 〜3つのフェーズのCTO経験から見えてきた、EMが持つべき視点 @ EMConf JP 2026 (Sotaro Karasawa)</title>
-        <link>https://speakerdeck.com/sotarok/shi-ye-mu-xian-nozheng-ti-3tunohuezunoctojing-yan-karajian-etekita-emgachi-tubekishi-dian-at-emconf-jp-2026</link>
-        <dc:date>2026-03-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
