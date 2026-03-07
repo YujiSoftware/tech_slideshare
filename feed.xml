@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS×クラウドネイティブソフトウェア設計 / AWS x Cloud-Native Software Design (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/aws-x-cloud-native-software-design</link>
+        <dc:date>2026-03-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JAWS Days 2026 楽しく学ぼう！ 認証認可 入門/20260307-jaws-days-novice-lane-auth (opelab)</title>
         <link>https://speakerdeck.com/opelab/20260307-jaws-days-novice-lane-auth</link>
         <dc:date>2026-03-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>iOSエンジニアが挑んだReact Native習得の裏側 (Takahiro Kato)</title>
         <link>https://speakerdeck.com/grandbig/iosenziniagatiao-ndareact-nativexi-de-noli-ce</link>
-        <dc:date>2026-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>シークレットを暗号化してgit管理したいときに使えるSOPS, ageの紹介 (Masanori Tani,@uta8a)</title>
-        <link>https://www.docswell.com/s/uta8a/ZX6MQN-2026-02-26-sops-age</link>
         <dc:date>2026-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
