@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>us-east-1 に障害が起きた時に、 ap-northeast-1 にどんな影響があるか 説明できるようになろう！ (Kazuki Miura)</title>
+        <link>https://speakerdeck.com/miu_crescent/us-east-1-nizhang-hai-gaqi-kitashi-ni-ap-northeast-1-nidonnaying-xiang-gaaruka-shuo-ming-dekiruyouninarou</link>
+        <dc:date>2026-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AI時代の開発と運用 / Dev and Ops in Gen AI era (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/dev-and-ops-in-gen-ai-era</link>
         <dc:date>2026-03-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Rails アプリの docker build を 倍速にした話 (Masayuki Mizuno)</title>
         <link>https://speakerdeck.com/fetburner/rails-apurino-docker-build-wo-bei-su-nisitahua</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>どんと来い、データベース信頼性エンジニアリング / Introduction to DBRE (nnaka2992)</title>
-        <link>https://speakerdeck.com/nnaka2992/introduction-to-dbre</link>
         <dc:date>2026-03-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
