@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JAWS Days 2026 楽しく学ぼう！ 認証認可 入門/20260307-jaws-days-novice-lane-auth (opelab)</title>
+        <link>https://speakerdeck.com/opelab/20260307-jaws-days-novice-lane-auth</link>
+        <dc:date>2026-03-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>初心者向け勉強会 #8 DevOpsとCI/CDの基本</title>
         <link>https://docs.google.com/presentation/d/1VzTH0lwKfka7Bkf7ynrPHsX7oUo_cZK-btjrkTNDQAQ/preview</link>
         <dc:date>2026-03-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>シークレットを暗号化してgit管理したいときに使えるSOPS, ageの紹介 (Masanori Tani,@uta8a)</title>
         <link>https://www.docswell.com/s/uta8a/ZX6MQN-2026-02-26-sops-age</link>
-        <dc:date>2026-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>製造業ドメインにおける LLMプロダクト構築： 複雑な文脈へのアプローチ ([email protected])</title>
-        <link>https://speakerdeck.com/caddi_eng/zhi-zao-ye-domeinniokeru-llmpurodakutogou-zhu-fu-za-nawen-mo-henoapuroti</link>
         <dc:date>2026-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
