@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>初心者向け勉強会 #8 DevOpsとCI/CDの基本</title>
+        <link>https://docs.google.com/presentation/d/1VzTH0lwKfka7Bkf7ynrPHsX7oUo_cZK-btjrkTNDQAQ/preview</link>
+        <dc:date>2026-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代の開発でも開発前の段取りの整理と振り返りを徹底したい 🧠 (yamatai12)</title>
+        <link>https://speakerdeck.com/yamatai1212/aishi-dai-nokai-fa-demokai-fa-qian-noduan-qu-rinozheng-li-tozhen-rifan-riwoche-di-sitai</link>
+        <dc:date>2026-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Laravel入門：最小構成で理解するMVC (kouki.miura)</title>
+        <link>https://speakerdeck.com/koukimiura/laravelru-men-zui-xiao-gou-cheng-deli-jie-surumvc</link>
+        <dc:date>2026-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ワープロとインターネット -おい、令和にもなってワープロを使おう!- 東海道らぐ版 (MAI SHINANO)</title>
+        <link>https://speakerdeck.com/shinanomai/wapurotointanetuto-oi-ling-he-nimonatutewapurowoshi-ou-dong-hai-dao-raguban</link>
+        <dc:date>2026-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Office Scriptsの活用について (まさやん)</title>
+        <link>https://www.docswell.com/s/8181214906/KWRELG-2026-03-07-175032</link>
+        <dc:date>2026-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>us-east-1 に障害が起きた時に、 ap-northeast-1 にどんな影響があるか 説明できるようになろう！ (Kazuki Miura)</title>
         <link>https://speakerdeck.com/miu_crescent/us-east-1-nizhang-hai-gaqi-kitashi-ni-ap-northeast-1-nidonnaying-xiang-gaaruka-shuo-ming-dekiruyouninarou</link>
         <dc:date>2026-03-06T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>製造業ドメインにおける LLMプロダクト構築： 複雑な文脈へのアプローチ ([email protected])</title>
         <link>https://speakerdeck.com/caddi_eng/zhi-zao-ye-domeinniokeru-llmpurodakutogou-zhu-fu-za-nawen-mo-henoapuroti</link>
         <dc:date>2026-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIの利用とセキュリティ /gen-ai-and-security (Masayoshi Mizutani)</title>
-        <link>https://speakerdeck.com/mizutani/gen-ai-and-security</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>言語知能と空間知能を兼ね備えたAI  − 文章中の人物の移動軌跡を地図上に再現するAIについて −  (Hiroki Ouchi)</title>
-        <link>https://speakerdeck.com/hiroki13/yan-yu-zhi-neng-tokong-jian-zhi-neng-wojian-nebei-etaai-wen-zhang-zhong-noren-wu-noyi-dong-gui-ji-wodi-tu-shang-nizai-xian-suruainituite</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260305_【白金鉱業】分析者が地理情報を武器にするための軽量なアドホック分析環境 (Yuya Kaneta)</title>
-        <link>https://speakerdeck.com/yucho147/20260305-bai-jin-kuang-ye-fen-xi-zhe-gadi-li-qing-bao-wowu-qi-nisurutamenoqing-liang-naadohotukufen-xi-huan-jing</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>白金鉱業Meetup_Vol.22_Orbital Senseを支える衛星画像のマルチモーダルエンベディングと地理空間のあいまい検索技術 (BrainPad)</title>
-        <link>https://speakerdeck.com/brainpadpr/multimodal-embedding-of-satellite-images-and-geospatial-fuzzy-search-technology-supporting-orbital-sense</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rails アプリの docker build を 倍速にした話 (Masayuki Mizuno)</title>
-        <link>https://speakerdeck.com/fetburner/rails-apurino-docker-build-wo-bei-su-nisitahua</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
