@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AI時代の開発と運用 / Dev and Ops in Gen AI era (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/dev-and-ops-in-gen-ai-era</link>
+        <dc:date>2026-03-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>推論基盤のパフォーマンス検証と最適化戦略 (Mikiya Michishita)</title>
         <link>https://speakerdeck.com/aztecher/tui-lun-ji-pan-nopahuomansujian-zheng-tozui-shi-hua-zhan-lue</link>
         <dc:date>2026-03-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>どんと来い、データベース信頼性エンジニアリング / Introduction to DBRE (nnaka2992)</title>
         <link>https://speakerdeck.com/nnaka2992/introduction-to-dbre</link>
-        <dc:date>2026-03-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EMからICへ、二周目人材としてAI全振りのプロダクト開発で見つけた武器 (Yuji Yamaguchi)</title>
-        <link>https://speakerdeck.com/yug1224/2026-03-04</link>
         <dc:date>2026-03-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
