@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kaggleの経験が実務にどう活きているか / kaggle_findy (Sansan R&amp;D)</title>
+        <link>https://speakerdeck.com/sansan_randd/kaggle-findy</link>
+        <dc:date>2026-03-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Datadog の RBAC のすべて (株式会社ヌーラボ)</title>
         <link>https://speakerdeck.com/nulabinc/allabout-datadog-rbac</link>
         <dc:date>2026-03-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Shifting from MCP to Skills / ベストプラクティスの変遷を辿る (Okuto Oyama)</title>
         <link>https://speakerdeck.com/yamanoku/shifting-from-mcp-to-skills</link>
-        <dc:date>2026-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeの進化と各機能の活かし方 (Oikon)</title>
-        <link>https://speakerdeck.com/oikon48/claude-codenojin-hua-toge-ji-neng-nohuo-kasifang</link>
         <dc:date>2026-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
