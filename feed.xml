@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【初心者向け勉強会#9】MLOpsの基本 ~構築から運用まで~ / MLOps Basics: From Development to Operations (Ogata Katsuya)</title>
+        <link>https://speakerdeck.com/ogatakatsuya/mlops-basics-from-development-to-operations</link>
+        <dc:date>2026-03-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AlmaLinuxとAI活用の実践ガイド：オープンソース環境でのLLM導入とGPU活用 (Toru Miyahara)</title>
+        <link>https://www.slideshare.net/slideshow/almalinux-ai-llm-gpu/286396940</link>
+        <dc:date>2026-03-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AlmaLinuxとVirtualBoxを活用した実践的オープンソースとAI導入ガイド (Toru Miyahara)</title>
+        <link>https://www.slideshare.net/slideshow/almalinux-virtualbox-ai/286396942</link>
+        <dc:date>2026-03-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>無償のLinux標準教科書シリーズを使って学ぶ 最新Linux技術とエンジニア育成法 (Toru Miyahara)</title>
+        <link>https://www.slideshare.net/slideshow/linux-linux-cfc3/286396945</link>
+        <dc:date>2026-03-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kaggleの経験が実務にどう活きているか / kaggle_findy (Sansan R&amp;D)</title>
         <link>https://speakerdeck.com/sansan_randd/kaggle-findy</link>
         <dc:date>2026-03-07T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>RailsのValidatesをSwift Macrosで再現してみた (Takuma Shimizu)</title>
         <link>https://speakerdeck.com/hokuron/railsnovalidateswoswift-macrosdezai-xian-sitemita</link>
-        <dc:date>2026-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Codex の「自走力」を高める (yorifuji)</title>
-        <link>https://speakerdeck.com/yorifuji/codex-no-zi-zou-li-wogao-meru</link>
-        <dc:date>2026-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Codexに役割を持たせる 他のAIエージェントと組み合わせる実務Tips (o8n)</title>
-        <link>https://speakerdeck.com/o8n/codexniyi-ge-wochi-taseru-ta-noaiezientotozu-mihe-waserushi-wu-tips</link>
-        <dc:date>2026-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IBM Bobを使って、PostgreSQLのToDoアプリをDb2へ変換してみよう/202603_Dojo_Bob (Mayumi Hirano)</title>
-        <link>https://speakerdeck.com/mayumihirano/202603-dojo-bob</link>
-        <dc:date>2026-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Shifting from MCP to Skills / ベストプラクティスの変遷を辿る (Okuto Oyama)</title>
-        <link>https://speakerdeck.com/yamanoku/shifting-from-mcp-to-skills</link>
         <dc:date>2026-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
