@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIエージェント時代に備える AWS Organizations とアカウント設計 (Hajime KOSHIRO)</title>
+        <link>https://speakerdeck.com/kossykinto/ai-agent-era-aws-organizations-and-account-design</link>
+        <dc:date>2026-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代を生き抜くセキュリティエンジニアの条件 (Sen Ueno,@sen_u)</title>
         <link>https://www.docswell.com/s/sen/5PR8XG-P3NFEST2026Spring</link>
         <dc:date>2026-03-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成AI時代の開発と運用 / Dev and Ops in Gen AI era (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/dev-and-ops-in-gen-ai-era</link>
-        <dc:date>2026-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>推論基盤のパフォーマンス検証と最適化戦略 (Mikiya Michishita)</title>
-        <link>https://speakerdeck.com/aztecher/tui-lun-ji-pan-nopahuomansujian-zheng-tozui-shi-hua-zhan-lue</link>
         <dc:date>2026-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
