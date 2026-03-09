@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS DevOps Agent vs SRE俺 / AWS DevOps Agent vs me, the SRE (SMS tech)</title>
+        <link>https://speakerdeck.com/sms_tech/aws-devops-agent-vs-me-the-sre</link>
+        <dc:date>2026-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モブプログラミング再入門 ー 基本から見直す、AI時代のチーム開発の選択肢 ー / A Re-introduction of Mob Programming (TAKAKING22)</title>
         <link>https://speakerdeck.com/takaking22/a-re-introduction-of-mob-programming</link>
         <dc:date>2026-03-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>令和の虎にボコボコにしてもらう事業計画 (もっくま,@mot0aki)</title>
         <link>https://www.docswell.com/s/mot0aki/K1QV3E-bokoboko-tiger</link>
-        <dc:date>2026-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeが爆速進化してプラグイン追従がつらいので半自動化した話 ver.2 (ryu)</title>
-        <link>https://speakerdeck.com/rfdnxbro/claude-codekabao-su-jin-hua-sitehurakuinzhui-cong-katurainoteban-zi-dong-hua-sitahua-ver-dot-2</link>
         <dc:date>2026-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
