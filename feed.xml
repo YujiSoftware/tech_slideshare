@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>モブプログラミング再入門 ー 基本から見直す、AI時代のチーム開発の選択肢 ー / A Re-introduction of Mob Programming (TAKAKING22)</title>
+        <link>https://speakerdeck.com/takaking22/a-re-introduction-of-mob-programming</link>
+        <dc:date>2026-03-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【初心者向け勉強会#9】MLOpsの基本 ~構築から運用まで~ / MLOps Basics: From Development to Operations (Ogata Katsuya)</title>
         <link>https://speakerdeck.com/ogatakatsuya/mlops-basics-from-development-to-operations</link>
         <dc:date>2026-03-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Claude Codeが爆速進化してプラグイン追従がつらいので半自動化した話 ver.2 (ryu)</title>
         <link>https://speakerdeck.com/rfdnxbro/claude-codekabao-su-jin-hua-sitehurakuinzhui-cong-katurainoteban-zi-dong-hua-sitahua-ver-dot-2</link>
-        <dc:date>2026-03-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RailsのValidatesをSwift Macrosで再現してみた (Takuma Shimizu)</title>
-        <link>https://speakerdeck.com/hokuron/railsnovalidateswoswift-macrosdezai-xian-sitemita</link>
         <dc:date>2026-03-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
