@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>非情報系研究者へ送る Transformer入門 (Ryo Ishiyama)</title>
+        <link>https://speakerdeck.com/rishiyama/fei-qing-bao-xi-yan-jiu-zhe-hesong-ru-transformerru-men</link>
+        <dc:date>2026-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI拡張開発と組織の再考</title>
         <link>https://docs.google.com/presentation/d/1F-VCwKWbUyzw4qPGfkKkDT_NFMcL5LPT5z7yyuffXr0/preview</link>
         <dc:date>2026-03-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Office Scriptsの活用について (まさやん)</title>
         <link>https://www.docswell.com/s/8181214906/KWRELG-2026-03-07-175032</link>
-        <dc:date>2026-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>us-east-1 に障害が起きた時に、 ap-northeast-1 にどんな影響があるか 説明できるようになろう！ (Kazuki Miura)</title>
-        <link>https://speakerdeck.com/miu_crescent/us-east-1-nizhang-hai-gaqi-kitashi-ni-ap-northeast-1-nidonnaying-xiang-gaaruka-shuo-ming-dekiruyouninarou</link>
         <dc:date>2026-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
