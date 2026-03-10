@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>How to stabilize UI tests using XCTest (Akio Itaya)</title>
+        <link>https://speakerdeck.com/akkeylab/how-to-stabilize-ui-tests-using-xctest</link>
+        <dc:date>2026-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>スクリプトの先へ！AIエージェントと組み合わせる モバイルE2Eテスト (Ryo WATANABE)</title>
+        <link>https://speakerdeck.com/error96num/sukuriputonoxian-he-aiezientotozu-mihe-waseru-mobairue2etesuto</link>
+        <dc:date>2026-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ハードウェア連携が必要なプロダクトにおける自動テストの書き方 (Tomoki Yamashita)</title>
+        <link>https://speakerdeck.com/tomorrowkey/hadouealian-xi-gabi-yao-napurodakutoniokeruzi-dong-tesutonoshu-kifang</link>
+        <dc:date>2026-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OTP を自動で入力する裏技 (Megabits_mzq)</title>
+        <link>https://speakerdeck.com/megabitsenmzq/otp-wozi-dong-deru-li-suruli-ji</link>
+        <dc:date>2026-03-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>非情報系研究者へ送る Transformer入門 (Ryo Ishiyama)</title>
         <link>https://speakerdeck.com/rishiyama/fei-qing-bao-xi-yan-jiu-zhe-hesong-ru-transformerru-men</link>
         <dc:date>2026-03-09T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>初心者向け勉強会 #8 DevOpsとCI/CDの基本</title>
         <link>https://docs.google.com/presentation/d/1VzTH0lwKfka7Bkf7ynrPHsX7oUo_cZK-btjrkTNDQAQ/preview</link>
-        <dc:date>2026-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代の開発でも開発前の段取りの整理と振り返りを徹底したい 🧠 (yamatai12)</title>
-        <link>https://speakerdeck.com/yamatai1212/aishi-dai-nokai-fa-demokai-fa-qian-noduan-qu-rinozheng-li-tozhen-rifan-riwoche-di-sitai</link>
-        <dc:date>2026-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Laravel入門：最小構成で理解するMVC (kouki.miura)</title>
-        <link>https://speakerdeck.com/koukimiura/laravelru-men-zui-xiao-gou-cheng-deli-jie-surumvc</link>
-        <dc:date>2026-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ワープロとインターネット -おい、令和にもなってワープロを使おう!- 東海道らぐ版 (MAI SHINANO)</title>
-        <link>https://speakerdeck.com/shinanomai/wapurotointanetuto-oi-ling-he-nimonatutewapurowoshi-ou-dong-hai-dao-raguban</link>
-        <dc:date>2026-03-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Office Scriptsの活用について (まさやん)</title>
-        <link>https://www.docswell.com/s/8181214906/KWRELG-2026-03-07-175032</link>
         <dc:date>2026-03-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
