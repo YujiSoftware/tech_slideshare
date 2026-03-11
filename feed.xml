@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby and LLM Ecosystem 2nd (Koichi ITO)</title>
+        <link>https://speakerdeck.com/koic/ruby-and-llm-ecosystem-2nd</link>
+        <dc:date>2026-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>メルカリのセキュアなDevin管理の自動化 - Devin / Windsurf Meetup Tokyo (Hi120ki)</title>
         <link>https://speakerdeck.com/hi120ki/secure-devin-management</link>
         <dc:date>2026-03-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ClaudeCodeでマーケターの課題を解決する (太田賢一)</title>
         <link>https://speakerdeck.com/kenichiota0711/claudecodedemaketanoke-ti-wojie-jue-suru</link>
-        <dc:date>2026-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS×クラウドネイティブソフトウェア設計 / AWS x Cloud-Native Software Design (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/aws-x-cloud-native-software-design</link>
         <dc:date>2026-03-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
