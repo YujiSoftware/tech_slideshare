@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Learn as a Pair (bigbackboom)</title>
+        <link>https://speakerdeck.com/bigbackboom/learn-as-a-pair</link>
+        <dc:date>2026-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2026-03-11 JAWS-UG 茨城 #12 改めてALBを便利に使う (SUZUKI Masashi)</title>
+        <link>https://speakerdeck.com/masasuzu/2026-03-11-jaws-ug-ci-cheng-number-12-gai-metealbwobian-li-nishi-u</link>
+        <dc:date>2026-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>僕、S3 　シンプルって名前だけど全然シンプルじゃありません　よろしくお願いします (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/pu-s3-sinpurututeming-qian-dakedoquan-ran-sinpuruziyaarimasen-yorosikuoyuan-isimasu</link>
+        <dc:date>2026-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>S3 Vectorsのじゃない使い方 (raiha,@raiha_tec)</title>
+        <link>https://www.docswell.com/s/raiha/KY8NL7-s3-vectors-beyond-rag</link>
+        <dc:date>2026-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260311_[toranoana.deno#24]DenoでAIエージェント作ってみた (とらのあなラボ,@toranoana_lab)</title>
+        <link>https://www.docswell.com/s/toranoana_lab/ZVJ7NE-2026-03-11-195752</link>
+        <dc:date>2026-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Deno Deploy で沼った話 toranoana.deno #24 (hirotaka kono,@hk_it7)</title>
+        <link>https://www.docswell.com/s/hk_it7/5WREYJ-deno-deploy-error</link>
+        <dc:date>2026-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260311 技術SWG活動報告（デジタルアイデンティティ人材育成推進WG Ph2 活動報告会） (OpenID Foundation Japan)</title>
+        <link>https://speakerdeck.com/oidfj/20260311-eduwg-tech-slides</link>
+        <dc:date>2026-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260311 ビジネスSWG活動報告（デジタルアイデンティティ人材育成推進WG Ph2 活動報告会） (OpenID Foundation Japan)</title>
+        <link>https://speakerdeck.com/oidfj/20260311-eduwg-biz-slides</link>
+        <dc:date>2026-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agent Skillsを 正しく活用する (daichi)</title>
+        <link>https://speakerdeck.com/daikin555/agent-skillswo-zheng-sikuhuo-yong-suru</link>
+        <dc:date>2026-03-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby and LLM Ecosystem 2nd (Koichi ITO)</title>
         <link>https://speakerdeck.com/koic/ruby-and-llm-ecosystem-2nd</link>
         <dc:date>2026-03-10T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>AI時代を生き抜くセキュリティエンジニアの条件 (Sen Ueno,@sen_u)</title>
         <link>https://www.docswell.com/s/sen/5PR8XG-P3NFEST2026Spring</link>
         <dc:date>2026-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS DevOps Agent vs SRE俺 / AWS DevOps Agent vs me, the SRE (SMS tech)</title>
-        <link>https://speakerdeck.com/sms_tech/aws-devops-agent-vs-me-the-sre</link>
-        <dc:date>2026-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モブプログラミング再入門 ー 基本から見直す、AI時代のチーム開発の選択肢 ー / A Re-introduction of Mob Programming (TAKAKING22)</title>
-        <link>https://speakerdeck.com/takaking22/a-re-introduction-of-mob-programming</link>
-        <dc:date>2026-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【初心者向け勉強会#9】MLOpsの基本 ~構築から運用まで~ / MLOps Basics: From Development to Operations (Ogata Katsuya)</title>
-        <link>https://speakerdeck.com/ogatakatsuya/mlops-basics-from-development-to-operations</link>
-        <dc:date>2026-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AlmaLinuxとAI活用の実践ガイド：オープンソース環境でのLLM導入とGPU活用 (Toru Miyahara)</title>
-        <link>https://www.slideshare.net/slideshow/almalinux-ai-llm-gpu/286396940</link>
-        <dc:date>2026-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AlmaLinuxとVirtualBoxを活用した実践的オープンソースとAI導入ガイド (Toru Miyahara)</title>
-        <link>https://www.slideshare.net/slideshow/almalinux-virtualbox-ai/286396942</link>
-        <dc:date>2026-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>無償のLinux標準教科書シリーズを使って学ぶ 最新Linux技術とエンジニア育成法 (Toru Miyahara)</title>
-        <link>https://www.slideshare.net/slideshow/linux-linux-cfc3/286396945</link>
-        <dc:date>2026-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kaggleの経験が実務にどう活きているか / kaggle_findy (Sansan R&amp;D)</title>
-        <link>https://speakerdeck.com/sansan_randd/kaggle-findy</link>
-        <dc:date>2026-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Datadog の RBAC のすべて (株式会社ヌーラボ)</title>
-        <link>https://speakerdeck.com/nulabinc/allabout-datadog-rbac</link>
-        <dc:date>2026-03-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ClaudeCodeでマーケターの課題を解決する (太田賢一)</title>
-        <link>https://speakerdeck.com/kenichiota0711/claudecodedemaketanoke-ti-wojie-jue-suru</link>
-        <dc:date>2026-03-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
