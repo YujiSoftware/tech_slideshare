@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2026年度 言語処理学会 最優秀論文賞 招待講演 「大規模言語モデルに推論を教えるための人工論理推論コーパスを用いたアプローチ」 (もりし)</title>
+        <link>https://speakerdeck.com/morishtr/2026nian-du-yan-yu-chu-li-xue-hui-zui-you-xiu-lun-wen-shang-zhao-dai-jiang-yan-da-gui-mo-yan-yu-moderunitui-lun-wojiao-erutamenoren-gong-lun-li-tui-lun-kopasuwoyong-itaapuroti</link>
+        <dc:date>2026-03-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ロボットのための工場に灯りは要らない (watany)</title>
         <link>https://speakerdeck.com/watany/dark-factory-for-agent</link>
         <dc:date>2026-03-11T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AI拡張開発と組織の再考</title>
         <link>https://docs.google.com/presentation/d/1F-VCwKWbUyzw4qPGfkKkDT_NFMcL5LPT5z7yyuffXr0/preview</link>
         <dc:date>2026-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェント時代に備える AWS Organizations とアカウント設計 (Hajime KOSHIRO)</title>
-        <link>https://speakerdeck.com/kossykinto/ai-agent-era-aws-organizations-and-account-design</link>
-        <dc:date>2026-03-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
