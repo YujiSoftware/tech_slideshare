@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ロボットのための工場に灯りは要らない (watany)</title>
+        <link>https://speakerdeck.com/watany/dark-factory-for-agent</link>
+        <dc:date>2026-03-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Learn as a Pair (bigbackboom)</title>
         <link>https://speakerdeck.com/bigbackboom/learn-as-a-pair</link>
         <dc:date>2026-03-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIエージェント時代に備える AWS Organizations とアカウント設計 (Hajime KOSHIRO)</title>
         <link>https://speakerdeck.com/kossykinto/ai-agent-era-aws-organizations-and-account-design</link>
-        <dc:date>2026-03-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代を生き抜くセキュリティエンジニアの条件 (Sen Ueno,@sen_u)</title>
-        <link>https://www.docswell.com/s/sen/5PR8XG-P3NFEST2026Spring</link>
         <dc:date>2026-03-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
