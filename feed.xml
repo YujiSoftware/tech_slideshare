@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claude Codeログ基盤の構築 (giginet)</title>
+        <link>https://speakerdeck.com/giginet/claude-code-logging</link>
+        <dc:date>2026-03-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Code のコード品質がばらつくので AI に品質保証させる仕組みを作った話 / A story about building a mechanism to have AI ensure quality, because the code quality from Claude Code was inconsistent (nrs)</title>
         <link>https://speakerdeck.com/nrslib/a-story-about-building-a-mechanism-to-have-ai-ensure-quality-because-the-code-quality-from-claude-code-was-inconsistent</link>
         <dc:date>2026-03-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>OTP を自動で入力する裏技 (Megabits_mzq)</title>
         <link>https://speakerdeck.com/megabitsenmzq/otp-wozi-dong-deru-li-suruli-ji</link>
-        <dc:date>2026-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非情報系研究者へ送る Transformer入門 (Ryo Ishiyama)</title>
-        <link>https://speakerdeck.com/rishiyama/fei-qing-bao-xi-yan-jiu-zhe-hesong-ru-transformerru-men</link>
         <dc:date>2026-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
