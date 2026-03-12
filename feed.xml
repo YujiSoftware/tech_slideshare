@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>楽しく学ぼう！ネットワーク入門 (Shota Shiratori)</title>
+        <link>https://speakerdeck.com/shotashiratori/le-sikuxue-bou-netutowakuru-men</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ポーリング処理廃止によるイベント駆動アーキテクチャへの移行 (Seitaro Fujigaki)</title>
         <link>https://speakerdeck.com/seitarof/poringuchu-li-fei-zhi-niyoruibentoqu-dong-akitekutiyahenoyi-xing</link>
         <dc:date>2026-03-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>How to stabilize UI tests using XCTest (Akio Itaya)</title>
         <link>https://speakerdeck.com/akkeylab/how-to-stabilize-ui-tests-using-xctest</link>
-        <dc:date>2026-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スクリプトの先へ！AIエージェントと組み合わせる モバイルE2Eテスト (Ryo WATANABE)</title>
-        <link>https://speakerdeck.com/error96num/sukuriputonoxian-he-aiezientotozu-mihe-waseru-mobairue2etesuto</link>
         <dc:date>2026-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
