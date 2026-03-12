@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ポーリング処理廃止によるイベント駆動アーキテクチャへの移行 (Seitaro Fujigaki)</title>
+        <link>https://speakerdeck.com/seitarof/poringuchu-li-fei-zhi-niyoruibentoqu-dong-akitekutiyahenoyi-xing</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code 2026年 最新アップデート (Oikon)</title>
+        <link>https://speakerdeck.com/oikon48/claude-code-0312</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Codeログ基盤の構築 (giginet)</title>
         <link>https://speakerdeck.com/giginet/claude-code-logging</link>
         <dc:date>2026-03-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>スクリプトの先へ！AIエージェントと組み合わせる モバイルE2Eテスト (Ryo WATANABE)</title>
         <link>https://speakerdeck.com/error96num/sukuriputonoxian-he-aiezientotozu-mihe-waseru-mobairue2etesuto</link>
-        <dc:date>2026-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハードウェア連携が必要なプロダクトにおける自動テストの書き方 (Tomoki Yamashita)</title>
-        <link>https://speakerdeck.com/tomorrowkey/hadouealian-xi-gabi-yao-napurodakutoniokeruzi-dong-tesutonoshu-kifang</link>
-        <dc:date>2026-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OTP を自動で入力する裏技 (Megabits_mzq)</title>
-        <link>https://speakerdeck.com/megabitsenmzq/otp-wozi-dong-deru-li-suruli-ji</link>
         <dc:date>2026-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
