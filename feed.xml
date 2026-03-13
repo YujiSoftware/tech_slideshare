@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>NewSQL_ ストレージ分離と分散合意を用いたスケーラブルアーキテクチャ (hacomono Inc.)</title>
+        <link>https://speakerdeck.com/hacomono/newsql-scalable-architecture-with-storage-disaggregation-and-distributed-consensus</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2026年のAIエージェント構築はどうなる？ (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/2026nian-noaiezientogou-zhu-hadounaru</link>
         <dc:date>2026-03-12T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Ruby and LLM Ecosystem 2nd (Koichi ITO)</title>
         <link>https://speakerdeck.com/koic/ruby-and-llm-ecosystem-2nd</link>
         <dc:date>2026-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メルカリのセキュアなDevin管理の自動化 - Devin / Windsurf Meetup Tokyo (Hi120ki)</title>
-        <link>https://speakerdeck.com/hi120ki/secure-devin-management</link>
-        <dc:date>2026-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
