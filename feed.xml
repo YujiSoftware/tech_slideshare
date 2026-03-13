@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>明日から使える！研究効率化ツール入門 (Yusuke Matsui)</title>
+        <link>https://speakerdeck.com/matsui_528/ming-ri-karashi-eru-yan-jiu-xiao-lu-hua-tururu-men</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>楽しく学ぼう！ネットワーク入門 (Shota Shiratori)</title>
         <link>https://speakerdeck.com/shotashiratori/le-sikuxue-bou-netutowakuru-men</link>
         <dc:date>2026-03-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>決済サービスを支えるElastic Cloud - Elastic Cloudの導入と推進、決済サービスのObservability (suzukij)</title>
         <link>https://speakerdeck.com/suzukij/jue-ji-sabisuwozhi-eruelastic-cloud-elastic-cloudnodao-ru-totui-jin-jue-ji-sabisunoobservability</link>
-        <dc:date>2026-03-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to stabilize UI tests using XCTest (Akio Itaya)</title>
-        <link>https://speakerdeck.com/akkeylab/how-to-stabilize-ui-tests-using-xctest</link>
         <dc:date>2026-03-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
