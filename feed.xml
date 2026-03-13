@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>個人的によく知らなかった AgentCore Memoryの機能を中心に深掘りしてみた (Yudai Jinno)</title>
+        <link>https://speakerdeck.com/yuu551/ge-ren-de-niyokuzhi-ranakatuta-agentcore-memorynoji-neng-wozhong-xin-nishen-jue-risitemita</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>猫でもわかるKiro CLI(AI 駆動開発への道編) (Hiroo Katoh)</title>
+        <link>https://speakerdeck.com/kentapapa/mao-demowakarukiro-cli-ai-qu-dong-kai-fa-henodao-bian</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Lambda Web AdapterでLambdaをWEBフレームワーク利用する (arakawsh)</title>
+        <link>https://speakerdeck.com/sahou909/lambda-web-adapterdelambdawowebhuremuwakuli-yong-suru</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DenoとdaxでCpp_CMakeプロジェクトの開発を支援する話_CppMIX17 (Tatsuya Shiozawa)</title>
+        <link>https://www.docswell.com/s/5942872680/KL3XD3-2026-03-13-150147</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2025-03-13 モダンOBSプラグイン開発</title>
+        <link>https://docs.google.com/presentation/d/1K5p66GlxSsEHsca05fhRUemiAZjkOUBMnyzG00NEKqE/preview</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React Tokyo フェス 2026 の裏側 (iWonder118)</title>
+        <link>https://speakerdeck.com/iwonder118/react-tokyo-huesu-2026-noli-ce</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SREがミッションに集中するための道標  (Junya Taniai)</title>
+        <link>https://speakerdeck.com/jnytnai0613/sregamitusiyonniji-zhong-surutamenodao-biao</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft “Adaptive Cloud” Update 2026年3月版 (osamut)</title>
+        <link>https://speakerdeck.com/sdosamut/microsoft-adaptive-cloud-update-2026nian-3yue-ban</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代の「本当の」ハイブリッドクラウド — エージェントが実現した、あの頃の夢 (Masahiko Ebisuda)</title>
+        <link>https://speakerdeck.com/ebibibi/aishi-dai-no-ben-dang-no-haiburitudokuraudo-ezientogashi-xian-sita-anoqing-nomeng</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>reli-sendaiphp-20260313 (sji)</title>
+        <link>https://speakerdeck.com/sji/reli-sendaiphp-20260313</link>
+        <dc:date>2026-03-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NewSQL_ ストレージ分離と分散合意を用いたスケーラブルアーキテクチャ (hacomono Inc.)</title>
         <link>https://speakerdeck.com/hacomono/newsql-scalable-architecture-with-storage-disaggregation-and-distributed-consensus</link>
         <dc:date>2026-03-12T15:00:00Z</dc:date>
@@ -54,55 +104,5 @@
         <title>ロボットのための工場に灯りは要らない (watany)</title>
         <link>https://speakerdeck.com/watany/dark-factory-for-agent</link>
         <dc:date>2026-03-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Learn as a Pair (bigbackboom)</title>
-        <link>https://speakerdeck.com/bigbackboom/learn-as-a-pair</link>
-        <dc:date>2026-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026-03-11 JAWS-UG 茨城 #12 改めてALBを便利に使う (SUZUKI Masashi)</title>
-        <link>https://speakerdeck.com/masasuzu/2026-03-11-jaws-ug-ci-cheng-number-12-gai-metealbwobian-li-nishi-u</link>
-        <dc:date>2026-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>僕、S3 　シンプルって名前だけど全然シンプルじゃありません　よろしくお願いします (Yuuki Yamashita)</title>
-        <link>https://speakerdeck.com/yama3133/pu-s3-sinpurututeming-qian-dakedoquan-ran-sinpuruziyaarimasen-yorosikuoyuan-isimasu</link>
-        <dc:date>2026-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>S3 Vectorsのじゃない使い方 (raiha,@raiha_tec)</title>
-        <link>https://www.docswell.com/s/raiha/KY8NL7-s3-vectors-beyond-rag</link>
-        <dc:date>2026-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260311_[toranoana.deno#24]DenoでAIエージェント作ってみた (とらのあなラボ,@toranoana_lab)</title>
-        <link>https://www.docswell.com/s/toranoana_lab/ZVJ7NE-2026-03-11-195752</link>
-        <dc:date>2026-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deno Deploy で沼った話 toranoana.deno #24 (hirotaka kono,@hk_it7)</title>
-        <link>https://www.docswell.com/s/hk_it7/5WREYJ-deno-deploy-error</link>
-        <dc:date>2026-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260311 技術SWG活動報告（デジタルアイデンティティ人材育成推進WG Ph2 活動報告会） (OpenID Foundation Japan)</title>
-        <link>https://speakerdeck.com/oidfj/20260311-eduwg-tech-slides</link>
-        <dc:date>2026-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260311 ビジネスSWG活動報告（デジタルアイデンティティ人材育成推進WG Ph2 活動報告会） (OpenID Foundation Japan)</title>
-        <link>https://speakerdeck.com/oidfj/20260311-eduwg-biz-slides</link>
-        <dc:date>2026-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agent Skillsを 正しく活用する (daichi)</title>
-        <link>https://speakerdeck.com/daikin555/agent-skillswo-zheng-sikuhuo-yong-suru</link>
-        <dc:date>2026-03-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby and LLM Ecosystem 2nd (Koichi ITO)</title>
-        <link>https://speakerdeck.com/koic/ruby-and-llm-ecosystem-2nd</link>
-        <dc:date>2026-03-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
