@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Goの型安全性で実現する複数プロダクトの権限管理 (ishikawa-pro)</title>
+        <link>https://speakerdeck.com/ishikawa_pro/gonoxing-an-quan-xing-deshi-xian-surufu-shu-purodakutonoquan-xian-guan-li</link>
+        <dc:date>2026-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Azure Portalのアクセシビリティを探ってみた (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/azure-portalnoakusesibiriteiwotan-tutemita</link>
         <dc:date>2026-03-13T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Claude Code 2026年 最新アップデート (Oikon)</title>
         <link>https://speakerdeck.com/oikon48/claude-code-0312</link>
         <dc:date>2026-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeログ基盤の構築 (giginet)</title>
-        <link>https://speakerdeck.com/giginet/claude-code-logging</link>
-        <dc:date>2026-03-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
