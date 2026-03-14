@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Geminiをパートナーに神社DXシステムを個人開発した話（いなめぐDX 開発振り返り） (T. Fujiba)</title>
+        <link>https://speakerdeck.com/fujiba/geminiwopatonanishen-she-dxsisutemuwoge-ren-kai-fa-sitahua-inamegudx-kai-fa-zhen-rifan-ri</link>
+        <dc:date>2026-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TinyTroupeで人狼ゲームやってみた！ (ueponx)</title>
+        <link>https://speakerdeck.com/ueponx/tinytroupederen-lang-gemuyatutemita</link>
+        <dc:date>2026-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>元パティシエの誤自宅環境をご紹介 (エンジニアと錯覚した竹ちゃん)</title>
+        <link>https://speakerdeck.com/takenoko729/yuan-pateisienowu-zi-zhai-huan-jing-wogoshao-jie</link>
+        <dc:date>2026-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>.NETでIoT開発のアップデート - Linuxと低価格ハードで実現する新しい選択肢 - (MATSUOKA Takashi,@matsujirushi12)</title>
+        <link>https://www.docswell.com/s/matsujirushi/ZE1426-2026-03-14-211704</link>
+        <dc:date>2026-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>現場の勇者の 成り上がり（本番用）-20260314-99999999999#2 (sanTatematsu)</title>
+        <link>https://www.slideshare.net/slideshow/20260314-99999999999-2/286505900</link>
+        <dc:date>2026-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>写真に埋め込まれた音声データを救出せよ (R SATO)</title>
+        <link>https://speakerdeck.com/rsato/recover-audio-data-embedded-in-photographs</link>
+        <dc:date>2026-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260314_LT_ディープリサーチによるシナリオ予測.pdf (NobuakiOshiro)</title>
+        <link>https://speakerdeck.com/doradora09/20260314-lt-teihurisatiniyorusinarioyu-ce</link>
+        <dc:date>2026-03-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Goの型安全性で実現する複数プロダクトの権限管理 (ishikawa-pro)</title>
         <link>https://speakerdeck.com/ishikawa_pro/gonoxing-an-quan-xing-deshi-xian-surufu-shu-purodakutonoquan-xian-guan-li</link>
         <dc:date>2026-03-13T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>AI時代の「本当の」ハイブリッドクラウド — エージェントが実現した、あの頃の夢 (Masahiko Ebisuda)</title>
         <link>https://speakerdeck.com/ebibibi/aishi-dai-no-ben-dang-no-haiburitudokuraudo-ezientogashi-xian-sita-anoqing-nomeng</link>
-        <dc:date>2026-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>reli-sendaiphp-20260313 (sji)</title>
-        <link>https://speakerdeck.com/sji/reli-sendaiphp-20260313</link>
-        <dc:date>2026-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NewSQL_ ストレージ分離と分散合意を用いたスケーラブルアーキテクチャ (hacomono Inc.)</title>
-        <link>https://speakerdeck.com/hacomono/newsql-scalable-architecture-with-storage-disaggregation-and-distributed-consensus</link>
-        <dc:date>2026-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026年のAIエージェント構築はどうなる？ (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/2026nian-noaiezientogou-zhu-hadounaru</link>
-        <dc:date>2026-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>明日から使える！研究効率化ツール入門 (Yusuke Matsui)</title>
-        <link>https://speakerdeck.com/matsui_528/ming-ri-karashi-eru-yan-jiu-xiao-lu-hua-tururu-men</link>
-        <dc:date>2026-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>楽しく学ぼう！ネットワーク入門 (Shota Shiratori)</title>
-        <link>https://speakerdeck.com/shotashiratori/le-sikuxue-bou-netutowakuru-men</link>
-        <dc:date>2026-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ポーリング処理廃止によるイベント駆動アーキテクチャへの移行 (Seitaro Fujigaki)</title>
-        <link>https://speakerdeck.com/seitarof/poringuchu-li-fei-zhi-niyoruibentoqu-dong-akitekutiyahenoyi-xing</link>
-        <dc:date>2026-03-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Code 2026年 最新アップデート (Oikon)</title>
-        <link>https://speakerdeck.com/oikon48/claude-code-0312</link>
         <dc:date>2026-03-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
