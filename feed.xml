@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プラットフォームエンジニアリングはAI時代の開発者をどう救うのか (Kazuto Kusama)</title>
+        <link>https://speakerdeck.com/jacopen/puratutohuomuenziniaringuhaaishi-dai-nokai-fa-zhe-wodoujiu-unoka</link>
+        <dc:date>2026-03-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Postmanワークショップ: API テスト自動化 - 20260317</title>
         <link>https://docs.google.com/presentation/d/1xCYS1s640dswhi1iNPRjRgdKnkCXvEhxLZOKRrqmz8o/preview</link>
         <dc:date>2026-03-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Goの型安全性で実現する複数プロダクトの権限管理 (ishikawa-pro)</title>
         <link>https://speakerdeck.com/ishikawa_pro/gonoxing-an-quan-xing-deshi-xian-surufu-shu-purodakutonoquan-xian-guan-li</link>
-        <dc:date>2026-03-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Portalのアクセシビリティを探ってみた (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/azure-portalnoakusesibiriteiwotan-tutemita</link>
         <dc:date>2026-03-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
