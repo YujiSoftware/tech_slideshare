@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コーディングエージェントのポータビリティについて (schroneko)</title>
+        <link>https://speakerdeck.com/schroneko/coding-agent-portability</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>仕様駆動開発で見るCodexの強み (びーぐる)</title>
+        <link>https://speakerdeck.com/beagle_dog_inu/shi-yang-qu-dong-kai-fa-dejian-rucodexnoqiang-mi</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>進化するBits AI SREと私と組織 (株式会社ヌーラボ)</title>
+        <link>https://speakerdeck.com/nulabinc/the-evolution-of-bits-ai-sre-jp</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WebアクセシビリティをCI/CDで担保する ― axe DevTools × Playwright C#実践ガイド (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/cddedan-bao-suru-axe-devtools-x-playwright-c-number-shi-jian-gaido</link>
         <dc:date>2026-03-19T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>ペアプロ未経験・未知のスキル領域・フルリモートからでも挑戦できる？ 40代転職者の実態 / pair-programming-remote-career-change (コドモン開発チーム)</title>
         <link>https://speakerdeck.com/codmoninc/pair-programming-remote-career-change</link>
-        <dc:date>2026-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>多様な働き方を支えるチーム開発カルチャーと 今後の展望 / Team Development Culture Supporting Diverse Workstyles and Future Outlook (コドモン開発チーム)</title>
-        <link>https://speakerdeck.com/codmoninc/team-development-culture-supporting-diverse-workstyles-and-future-outlook</link>
-        <dc:date>2026-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LineのAI Botをチューニングしたら 応答精度が爆上がりしたので自慢したい！ (金子陽一(Yoichi Kaneko))</title>
-        <link>https://speakerdeck.com/yoichikaneko/linenoai-botwotiyuningusitara-ying-da-jing-du-gabao-shang-garisitanodezi-man-sitai</link>
-        <dc:date>2026-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>多分この説明が一番正確だと思います (AZマッピング編) (きせのん)</title>
-        <link>https://speakerdeck.com/xery/duo-fen-konoshuo-ming-ga-fan-zheng-que-datosi-imasu-azmatupingubian</link>
         <dc:date>2026-03-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
