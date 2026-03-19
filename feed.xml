@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AI時代のドキュメント基盤 (NAKAMURA Atsushi,@nuits_jp)</title>
+        <link>https://www.docswell.com/s/nuits_jp/ZN7R12-genai-doc-infrastructure</link>
+        <dc:date>2026-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ターミナルオタクが最初に知りたいCodex情報 (mozumasu,@mozumasu)</title>
+        <link>https://www.docswell.com/s/mozumasu/ZJWL93-2026-03-19-codex-meetup-tokyo-1</link>
+        <dc:date>2026-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>visionOS 開発向けの MCP / Skills をつくり続けることで XR の探究と学習を最大化 (kazuhiro hara)</title>
+        <link>https://speakerdeck.com/karad/skills-wotukurisok-kerukotode-xr-notan-jiu-toxue-xi-wozui-da-hua</link>
+        <dc:date>2026-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>脱 雰囲気実装！  AgentCoreを良い感じに WEBアプリケーションに組み込むために (Takuya Yonezawa)</title>
+        <link>https://speakerdeck.com/takuyay0ne/tuo-fen-wei-qi-shi-zhuang-agentcorewoliang-igan-zini-webapurikesiyonnizu-miip-mutameni</link>
+        <dc:date>2026-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goのerror型がシンプルであることの恩恵について理解する (yamatai12)</title>
+        <link>https://speakerdeck.com/yamatai1212/gonoerrorxing-gasinpurudearukotonoen-hui-nituiteli-jie-suru</link>
+        <dc:date>2026-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JaSST Hokkaidoのすゝめ #jassthokkaido #WaAgileTesting (Makky)</title>
+        <link>https://speakerdeck.com/makky_tyuyan/jasst-hokkaidonosu-me-number-jassthokkaido-number-waagiletesting</link>
+        <dc:date>2026-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Escape from Excel方眼紙  ～マークダウンで繋ぐ、人とAIの架け橋～ /nikkei-tech-talk44 (日本経済新聞社 エンジニア採用事務局)</title>
+        <link>https://speakerdeck.com/nikkei_engineer_recruiting/nikkei-tech-talk44</link>
+        <dc:date>2026-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ローカルLLMでAIエージェントは作れるか？ (Koki Miura,@k_miura_io)</title>
+        <link>https://www.docswell.com/s/k_miura_io/KE1NLN-2026-03-19-202151</link>
+        <dc:date>2026-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>既存アプリの延命も，最新技術での新規開発も：WebSphereの最新情報 (Ryoto Katagiri)</title>
+        <link>https://speakerdeck.com/ktgrryt/ji-cun-apurinoyan-ming-mo-zui-xin-ji-shu-denoxin-gui-kai-fa-mo-webspherenozui-xin-qing-bao</link>
+        <dc:date>2026-03-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Codex の最新アップデートを全部キャッチアップする (kuu(Fumiya Kume),@fumiya_kume)</title>
         <link>https://www.docswell.com/s/fumiya-kume/Z4NQYD-2026-03-19-195137</link>
         <dc:date>2026-03-18T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>20260317第34回オープンエッジデバイス研究会</title>
         <link>https://docs.google.com/presentation/d/11RkB6DSV9UHJJVNjr3pKmP5z-op4PcHnP8Hyd2cWwc0/preview</link>
         <dc:date>2026-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>クラウド食堂で実施した初LTから1年あれからどうなった！？ (阿部健太郎)</title>
-        <link>https://www.docswell.com/s/6073979229/Z1QJJG-2026-03-18-193302</link>
-        <dc:date>2026-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026年もソフトウェアサプライチェーンのリスクに立ち向かうために / Product Security Square #3  (GMO Flatt Security)</title>
-        <link>https://speakerdeck.com/flatt_security/defending-software-supply-chain-risks-for-2026</link>
-        <dc:date>2026-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript 7.0の現在地と備え方 (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/typescript-7-dot-0noxian-zai-di-tobei-efang</link>
-        <dc:date>2026-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>研究室のコーディングガイドライン (GitHubの運用・コードレビュー) (Koki Yamada,@KokiYamada6)</title>
-        <link>https://www.docswell.com/s/2625216247/K7NY7N-2026-03-17-130857</link>
-        <dc:date>2026-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Databricksアシスタントが自分で考えて動く時代に! エージェントモード体験もくもく会 (Takaaki Yayoi)</title>
-        <link>https://speakerdeck.com/taka_aki/databricksasisutantogazi-fen-dekao-etedong-kushi-dai-ni-ezientomodoti-yan-mokumokuhui</link>
-        <dc:date>2026-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS CDK「読めるけど書けない」を脱却するファーストステップ (Makky12)</title>
-        <link>https://speakerdeck.com/smt7174/aws-cdk-du-merukedoshu-kenai-wotuo-que-suruhuasutosutetupu</link>
-        <dc:date>2026-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プラットフォームエンジニアリングはAI時代の開発者をどう救うのか (Kazuto Kusama)</title>
-        <link>https://speakerdeck.com/jacopen/puratutohuomuenziniaringuhaaishi-dai-nokai-fa-zhe-wodoujiu-unoka</link>
-        <dc:date>2026-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ: API テスト自動化 - 20260317</title>
-        <link>https://docs.google.com/presentation/d/1xCYS1s640dswhi1iNPRjRgdKnkCXvEhxLZOKRrqmz8o/preview</link>
-        <dc:date>2026-03-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エージェント構築の基本手順のおさらい_土田 (土田真有)</title>
-        <link>https://www.docswell.com/s/Tsuchida/5274LM-2026-03-17-204713</link>
-        <dc:date>2026-03-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
