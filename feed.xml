@@ -6,6 +6,61 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RoslynAnalyzerをつかってみよう (tkym)</title>
+        <link>https://speakerdeck.com/htkym/roslynanalyzerwotukatutemiyou</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Copilot 宇宙へ　〜生成AIで「専門データの壁」を壊す方法〜 (なかしょ)</title>
+        <link>https://speakerdeck.com/nakasho/copilot-yu-zhou-he-sheng-cheng-aide-zhuan-men-detanobi-wohuai-sufang-fa</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>A Casual Introduction to RISC-V (Masanori Ogino)</title>
+        <link>https://speakerdeck.com/omasanori/a-casual-introduction-to-risc-v</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>the 8088 Single Board Computer with AMD 8088 bought at junk shop in 1989 (たけおか しょうぞう)</title>
+        <link>https://www.slideshare.net/slideshow/tht-8088-single-board-computer-with-amd-8088-bought-at-junk-shop-in-1989/286593537</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「ぽこ あ ポケモン」における 論理回路の構築手法</title>
+        <link>https://docs.google.com/presentation/d/1iLxCEeK2eXtHULGGLBfiu1RvwHx2FPItnaDJiUDVYvA/preview</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Linux Kernelの1文字のミスで 権限昇格ができた話 (rona)</title>
+        <link>https://speakerdeck.com/rqda/linux-kernelno1wen-zi-nomisude-quan-xian-sheng-ge-gadekitahua</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Raspberry Pi 5の起動プロセスについて (hotaru)</title>
+        <link>https://speakerdeck.com/hotaru_jp/raspberry-pi-5noqi-dong-purosesunituite</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title> 安いハードウェアでVulkan (Fadis)</title>
+        <link>https://speakerdeck.com/fadis/an-ihatoueatevulkan</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BitVisorSummit14</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vTYVNmXODnSnrLPhZ6KKcDbGqtVCn_jXNC2B4G3SD2DhaeOUrOQaidjJYnUgUWpIzqQpCGkBU14PB4h/pub</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Copilot CLI の 個人的な好きなところ (Kazuki)</title>
+        <link>https://speakerdeck.com/okazuki/github-copilot-cli-no-ge-ren-de-nahao-kinatokoro</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Windows ファイル共有(SMB)を再確認する (Murachi Akira)</title>
+        <link>https://speakerdeck.com/murachiakira/windows-network-structure-65ae2965-7641-4212-9fc7-4d7c0ed65689</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>形式手法特論：SMT ソルバで解く認可ポリシの静的解析 #kernelvm / Kernel VM Study Tsukuba No3 (y_taka_23)</title>
         <link>https://speakerdeck.com/ytaka23/kernel-vm-study-tsukuba-no3</link>
         <dc:date>2026-03-19T15:00:00Z</dc:date>
@@ -48,61 +103,6 @@
     <item>
         <title>コンテキスト・ハーネスエンジニアリングの現在 (Hirosato Gamo)</title>
         <link>https://speakerdeck.com/hirosatogamo/kontekisutohanesuenziniaringunoxian-zai</link>
-        <dc:date>2026-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI時代のドキュメント基盤 (NAKAMURA Atsushi,@nuits_jp)</title>
-        <link>https://www.docswell.com/s/nuits_jp/ZN7R12-genai-doc-infrastructure</link>
-        <dc:date>2026-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ターミナルオタクが最初に知りたいCodex情報 (mozumasu,@mozumasu)</title>
-        <link>https://www.docswell.com/s/mozumasu/ZJWL93-2026-03-19-codex-meetup-tokyo-1</link>
-        <dc:date>2026-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>visionOS 開発向けの MCP / Skills をつくり続けることで XR の探究と学習を最大化 (kazuhiro hara)</title>
-        <link>https://speakerdeck.com/karad/skills-wotukurisok-kerukotode-xr-notan-jiu-toxue-xi-wozui-da-hua</link>
-        <dc:date>2026-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脱 雰囲気実装！  AgentCoreを良い感じに WEBアプリケーションに組み込むために (Takuya Yonezawa)</title>
-        <link>https://speakerdeck.com/takuyay0ne/tuo-fen-wei-qi-shi-zhuang-agentcorewoliang-igan-zini-webapurikesiyonnizu-miip-mutameni</link>
-        <dc:date>2026-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goのerror型がシンプルであることの恩恵について理解する (yamatai12)</title>
-        <link>https://speakerdeck.com/yamatai1212/gonoerrorxing-gasinpurudearukotonoen-hui-nituiteli-jie-suru</link>
-        <dc:date>2026-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JaSST Hokkaidoのすゝめ #jassthokkaido #WaAgileTesting (Makky)</title>
-        <link>https://speakerdeck.com/makky_tyuyan/jasst-hokkaidonosu-me-number-jassthokkaido-number-waagiletesting</link>
-        <dc:date>2026-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Escape from Excel方眼紙  ～マークダウンで繋ぐ、人とAIの架け橋～ /nikkei-tech-talk44 (日本経済新聞社 エンジニア採用事務局)</title>
-        <link>https://speakerdeck.com/nikkei_engineer_recruiting/nikkei-tech-talk44</link>
-        <dc:date>2026-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ローカルLLMでAIエージェントは作れるか？ (Koki Miura,@k_miura_io)</title>
-        <link>https://www.docswell.com/s/k_miura_io/KE1NLN-2026-03-19-202151</link>
-        <dc:date>2026-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>既存アプリの延命も，最新技術での新規開発も：WebSphereの最新情報 (Ryoto Katagiri)</title>
-        <link>https://speakerdeck.com/ktgrryt/ji-cun-apurinoyan-ming-mo-zui-xin-ji-shu-denoxin-gui-kai-fa-mo-webspherenozui-xin-qing-bao</link>
-        <dc:date>2026-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Codex の最新アップデートを全部キャッチアップする (kuu(Fumiya Kume),@fumiya_kume)</title>
-        <link>https://www.docswell.com/s/fumiya-kume/Z4NQYD-2026-03-19-195137</link>
-        <dc:date>2026-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dataモードでのデザインパターン/Design Pattern for Data Router/Loader/Action (Hiroshi TANABE)</title>
-        <link>https://speakerdeck.com/htnabe/action</link>
         <dc:date>2026-03-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
