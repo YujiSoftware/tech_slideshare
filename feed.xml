@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Copilotを使い倒す！柔軟なAI駆動開発の最前線 (Haruki Kondo)</title>
+        <link>https://speakerdeck.com/mashharuki/github-copilotwoshi-idao-su-rou-ruan-naaiqu-dong-kai-fa-nozui-qian-xian</link>
+        <dc:date>2026-03-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RoslynAnalyzerをつかってみよう (tkym)</title>
         <link>https://speakerdeck.com/htkym/roslynanalyzerwotukatutemiyou</link>
         <dc:date>2026-03-19T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AI活用のコスパを最大化する方法 (Ochtum)</title>
         <link>https://speakerdeck.com/ochtum/aihuo-yong-nokosupawozui-da-hua-surufang-fa-1e025d1d-c424-4303-872f-3b10985a562a</link>
         <dc:date>2026-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテキスト・ハーネスエンジニアリングの現在 (Hirosato Gamo)</title>
-        <link>https://speakerdeck.com/hirosatogamo/kontekisutohanesuenziniaringunoxian-zai</link>
-        <dc:date>2026-03-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
