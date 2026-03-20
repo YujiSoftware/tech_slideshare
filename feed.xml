@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>形式手法特論：SMT ソルバで解く認可ポリシの静的解析 #kernelvm / Kernel VM Study Tsukuba No3 (y_taka_23)</title>
+        <link>https://speakerdeck.com/ytaka23/kernel-vm-study-tsukuba-no3</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>仕様漏れ実装漏れをなくすトレーサビリティAI基盤のご紹介 (Kuniwak)</title>
+        <link>https://speakerdeck.com/orgachem/introduction-to-a-traceability-ai-platform</link>
+        <dc:date>2026-03-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub CopilotユーザーでもCodexできる！ GitHubが掲げるAgent HQを堪能しよう (yuma(Maki),@yuma_prog)</title>
         <link>https://www.docswell.com/s/yuma/KY8WED-2026-03-19-codexmeetup</link>
         <dc:date>2026-03-19T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Dataモードでのデザインパターン/Design Pattern for Data Router/Loader/Action (Hiroshi TANABE)</title>
         <link>https://speakerdeck.com/htnabe/action</link>
         <dc:date>2026-03-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【クラウド食堂 #7 ~1周年をふりかえってみよう会~】改めて考える Bedrock Agentsの使い道 (kei1-dev)</title>
-        <link>https://speakerdeck.com/kei1dev/kuraudoshi-tang-number-7-1zhou-nian-wohurikaetutemiyouhui-gai-metekao-eru-bedrock-agentsnoshi-idao</link>
-        <dc:date>2026-03-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フルリモートのその先へ〜パパね、いつも家にいるけどちゃんとこうして働いてるよ〜 / Beyond Full Remote (コドモン開発チーム)</title>
-        <link>https://speakerdeck.com/codmoninc/beyond-full-remote</link>
-        <dc:date>2026-03-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
