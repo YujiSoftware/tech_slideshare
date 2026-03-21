@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260321_エンベディングってなに？RAGってなに？エンベディングの説明とGemini Embedding 2 の紹介 (tsho)</title>
+        <link>https://speakerdeck.com/tsho/20260321-enbedeingututenani-ragtutenani-enbedeingunoshuo-ming-togemini-embedding-2-noshao-jie</link>
+        <dc:date>2026-03-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アイデアソン 2026年3月</title>
+        <link>https://docs.google.com/presentation/d/13-_KIe65dgEFNC6QyZ1hFViW87ItOuMXqGqRn9RZEX0/preview</link>
+        <dc:date>2026-03-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自作OSでLinuxコンテナを動かす (n4mlz)</title>
         <link>https://speakerdeck.com/n4mlz/zi-zuo-osdelinuxkontenawodong-kasu</link>
         <dc:date>2026-03-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>仕様駆動開発で見るCodexの強み (びーぐる)</title>
         <link>https://speakerdeck.com/beagle_dog_inu/shi-yang-qu-dong-kai-fa-dejian-rucodexnoqiang-mi</link>
-        <dc:date>2026-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>進化するBits AI SREと私と組織 (株式会社ヌーラボ)</title>
-        <link>https://speakerdeck.com/nulabinc/the-evolution-of-bits-ai-sre-jp</link>
-        <dc:date>2026-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebアクセシビリティをCI/CDで担保する ― axe DevTools × Playwright C#実践ガイド (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/cddedan-bao-suru-axe-devtools-x-playwright-c-number-shi-jian-gaido</link>
         <dc:date>2026-03-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
