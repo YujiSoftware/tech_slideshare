@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「お金で解決」が全てではない！大規模WebアプリのCI高速化 #phperkaigi (すてにゃん)</title>
+        <link>https://speakerdeck.com/stefafafan/gha-ci-performance-tuning</link>
+        <dc:date>2026-03-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「接続」—パフォーマンスチューニングの最後の一手 〜点と点を結ぶ、その一瞬のために〜 (武田 憲太郎)</title>
         <link>https://speakerdeck.com/kentaroutakeda/jie-sok-pahuomansutiyuningunozui-hou-no-shou-dian-todian-wojie-bu-sono-shun-notameni</link>
         <dc:date>2026-03-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>仕様漏れ実装漏れをなくすトレーサビリティAI基盤のご紹介 (Kuniwak)</title>
         <link>https://speakerdeck.com/orgachem/introduction-to-a-traceability-ai-platform</link>
-        <dc:date>2026-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub CopilotユーザーでもCodexできる！ GitHubが掲げるAgent HQを堪能しよう (yuma(Maki),@yuma_prog)</title>
-        <link>https://www.docswell.com/s/yuma/KY8WED-2026-03-19-codexmeetup</link>
         <dc:date>2026-03-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
