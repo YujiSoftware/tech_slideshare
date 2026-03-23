@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>経営学とエンジニアリング、その共通点と活用法 / Commonalities Between Management Science and Engineering, and How to Leverage Them (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/commonalities-between-business-and-engineering-and-how-to-leverage-them</link>
+        <dc:date>2026-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>スケールアップ企業でQA組織が機能し続けるための組織設計と仕組み〜ボトムアップとトップダウンを両輪としたアプローチ〜  (tarappo)</title>
         <link>https://speakerdeck.com/tarappo/sukeruatupuqi-ye-deqazu-zhi-gaji-neng-sisok-kerutamenozu-zhi-she-ji-toshi-zu-mi-botomuatuputototupudaunwoliang-lun-tositaapuroti</link>
         <dc:date>2026-03-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「ぽこ あ ポケモン」における 論理回路の構築手法</title>
         <link>https://docs.google.com/presentation/d/1iLxCEeK2eXtHULGGLBfiu1RvwHx2FPItnaDJiUDVYvA/preview</link>
-        <dc:date>2026-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Linux Kernelの1文字のミスで 権限昇格ができた話 (rona)</title>
-        <link>https://speakerdeck.com/rqda/linux-kernelno1wen-zi-nomisude-quan-xian-sheng-ge-gadekitahua</link>
         <dc:date>2026-03-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
