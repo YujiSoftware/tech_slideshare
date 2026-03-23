@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Laravelで学ぶOAuthとOpenID Connectの基礎と実装 (Koji Yoshida)</title>
+        <link>https://speakerdeck.com/kyoshidaxx/laraveldexue-buoauthtoopenid-connectnoji-chu-toshi-zhuang</link>
+        <dc:date>2026-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>メッセージングを利用して時間的結合を分離しよう #phperkaigi (Takuma Kajikawa)</title>
         <link>https://speakerdeck.com/kajitack/messaging-temporal-coupling</link>
         <dc:date>2026-03-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>A Casual Introduction to RISC-V (Masanori Ogino)</title>
         <link>https://speakerdeck.com/omasanori/a-casual-introduction-to-risc-v</link>
-        <dc:date>2026-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>the 8088 Single Board Computer with AMD 8088 bought at junk shop in 1989 (たけおか しょうぞう)</title>
-        <link>https://www.slideshare.net/slideshow/tht-8088-single-board-computer-with-amd-8088-bought-at-junk-shop-in-1989/286593537</link>
         <dc:date>2026-03-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
