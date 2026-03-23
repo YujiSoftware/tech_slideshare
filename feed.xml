@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Navigation APIと見るSvelteKitのWeb標準志向 / Navigation API SvelteKit Web Standards (Okuto Oyama)</title>
+        <link>https://speakerdeck.com/yamanoku/navigation-api-sveltekit-web-standards</link>
+        <dc:date>2026-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LINEヤフーにおけるAIOpsの現在地 (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/20260319a</link>
         <dc:date>2026-03-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「接続」—パフォーマンスチューニングの最後の一手 〜点と点を結ぶ、その一瞬のために〜 (武田 憲太郎)</title>
         <link>https://speakerdeck.com/kentaroutakeda/jie-sok-pahuomansutiyuningunozui-hou-no-shou-dian-todian-wojie-bu-sono-shun-notameni</link>
-        <dc:date>2026-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メモリが足らない2026 (KOBA789)</title>
-        <link>https://speakerdeck.com/koba789/memorigazu-ranai2026</link>
         <dc:date>2026-03-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
