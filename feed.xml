@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Copilot CLI で Azure Portal to Bicep (Yuta Matsumura)</title>
+        <link>https://speakerdeck.com/tsubakimoto_s/github-copilot-cli-de-azure-portal-to-bicep</link>
+        <dc:date>2026-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AgentCoreとLINEを使った飲食店おすすめアプリを作ってみた (やくも)</title>
+        <link>https://speakerdeck.com/yakumo/agentcoretolinewoshi-tutayin-shi-dian-osusumeapuriwozuo-tutemita</link>
+        <dc:date>2026-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FastMCP OAuth Proxy  with Cognito (iganin)</title>
+        <link>https://speakerdeck.com/hironobuiga/20260323-fastmcp-oauth-proxy-with-cognito</link>
+        <dc:date>2026-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WinActor_バージョンアップや環境変化への注意点 (たまい)</title>
+        <link>https://speakerdeck.com/tamai_63/winactor-baziyonatupuyahuan-jing-bian-hua-henozhu-yi-dian</link>
+        <dc:date>2026-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Laravelで学ぶOAuthとOpenID Connectの基礎と実装 (Koji Yoshida)</title>
         <link>https://speakerdeck.com/kyoshidaxx/laraveldexue-buoauthtoopenid-connectnoji-chu-toshi-zhuang</link>
         <dc:date>2026-03-22T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>自作OSでLinuxコンテナを動かす (n4mlz)</title>
         <link>https://speakerdeck.com/n4mlz/zi-zuo-osdelinuxkontenawodong-kasu</link>
         <dc:date>2026-03-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilotを使い倒す！柔軟なAI駆動開発の最前線 (Haruki Kondo)</title>
-        <link>https://speakerdeck.com/mashharuki/github-copilotwoshi-idao-su-rou-ruan-naaiqu-dong-kai-fa-nozui-qian-xian</link>
-        <dc:date>2026-03-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RoslynAnalyzerをつかってみよう (tkym)</title>
-        <link>https://speakerdeck.com/htkym/roslynanalyzerwotukatutemiyou</link>
-        <dc:date>2026-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Copilot 宇宙へ　〜生成AIで「専門データの壁」を壊す方法〜 (なかしょ)</title>
-        <link>https://speakerdeck.com/nakasho/copilot-yu-zhou-he-sheng-cheng-aide-zhuan-men-detanobi-wohuai-sufang-fa</link>
-        <dc:date>2026-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>A Casual Introduction to RISC-V (Masanori Ogino)</title>
-        <link>https://speakerdeck.com/omasanori/a-casual-introduction-to-risc-v</link>
-        <dc:date>2026-03-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
