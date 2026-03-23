@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>スケールアップ企業でQA組織が機能し続けるための組織設計と仕組み〜ボトムアップとトップダウンを両輪としたアプローチ〜  (tarappo)</title>
+        <link>https://speakerdeck.com/tarappo/sukeruatupuqi-ye-deqazu-zhi-gaji-neng-sisok-kerutamenozu-zhi-she-ji-toshi-zu-mi-botomuatuputototupudaunwoliang-lun-tositaapuroti</link>
+        <dc:date>2026-03-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI推進における「勝手に広がる仕組み」の」作り方 (能登拓弥)</title>
         <link>https://speakerdeck.com/notty/aitui-jin-niokeru-sheng-shou-niguang-garushi-zu-mi-no-zuo-rifang</link>
         <dc:date>2026-03-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Linux Kernelの1文字のミスで 権限昇格ができた話 (rona)</title>
         <link>https://speakerdeck.com/rqda/linux-kernelno1wen-zi-nomisude-quan-xian-sheng-ge-gadekitahua</link>
-        <dc:date>2026-03-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Raspberry Pi 5の起動プロセスについて (hotaru)</title>
-        <link>https://speakerdeck.com/hotaru_jp/raspberry-pi-5noqi-dong-purosesunituite</link>
         <dc:date>2026-03-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
