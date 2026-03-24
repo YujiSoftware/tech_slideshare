@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PostgreSQL 18のNOT ENFORCEDな制約とDEFERRABLEの関係 (Yasuo Honda)</title>
+        <link>https://speakerdeck.com/yahonda/postgresql-18nonot-enforcednazhi-yue-todeferrablenoguan-xi</link>
+        <dc:date>2026-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>カーネルバイパスによる通信高速化の基本 / iijlab seminar 2026-03-24 (yasukata)</title>
+        <link>https://speakerdeck.com/yasukata/iijlab-seminar-2026-03-24</link>
+        <dc:date>2026-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Next.jsは なぜ開発しやすいのか</title>
+        <link>https://docs.google.com/presentation/d/1tm8_Eh3607_bFhfrdq4ijDOYMOfh5kgKK-AgsX-YJi8/preview</link>
+        <dc:date>2026-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DDD×仕様駆動で回す高品質開発のプロセス設計 (Koichiro Matsuoka)</title>
         <link>https://speakerdeck.com/littlehands/dddxshi-yang-qu-dong-dehui-sugao-pin-zhi-kai-fa-nopurosesushe-ji</link>
         <dc:date>2026-03-23T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>AIは信号が読めないなんて、 誰が言った？ Coding Agent meets Analyzers (Mitsukuni Sato)</title>
         <link>https://www.slideshare.net/slideshow/ai-coding-agent-meets-analyzers/286616421</link>
-        <dc:date>2026-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>イベントで大活躍する電子ペーパー名札を作る（その２） 〜 M5PaperとM5PaperS3 〜 / IoTLT @ JLCPCB オープンハードカンファレンス (you（@youtoy）)</title>
-        <link>https://speakerdeck.com/you/iotlt-20260322</link>
-        <dc:date>2026-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[相談]ランディングページ作成、AIをどう活用してます？ (しみず ゆうき,@yuuki_maxio)</title>
-        <link>https://www.docswell.com/s/yuukis/ZN7R7L-20260322</link>
-        <dc:date>2026-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「お金で解決」が全てではない！大規模WebアプリのCI高速化 #phperkaigi (すてにゃん)</title>
-        <link>https://speakerdeck.com/stefafafan/gha-ci-performance-tuning</link>
         <dc:date>2026-03-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
