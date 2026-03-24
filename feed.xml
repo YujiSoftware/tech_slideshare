@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Codex CLIのSubagentsによる並列API実装 / Parallel API Implementation with Codex CLI Subagents (冨澤宝斗)</title>
+        <link>https://speakerdeck.com/takatty/parallel-api-implementation-with-codex-cli-subagents</link>
+        <dc:date>2026-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代のSaaSとETL (Shu Suzuki)</title>
         <link>https://speakerdeck.com/shoe116/aishi-dai-nosaastoetl</link>
         <dc:date>2026-03-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>メッセージングを利用して時間的結合を分離しよう #phperkaigi (Takuma Kajikawa)</title>
         <link>https://speakerdeck.com/kajitack/messaging-temporal-coupling</link>
-        <dc:date>2026-03-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>経営学とエンジニアリング、その共通点と活用法 / Commonalities Between Management Science and Engineering, and How to Leverage Them (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/commonalities-between-business-and-engineering-and-how-to-leverage-them</link>
         <dc:date>2026-03-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
