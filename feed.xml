@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DDD×仕様駆動で回す高品質開発のプロセス設計 (Koichiro Matsuoka)</title>
+        <link>https://speakerdeck.com/littlehands/dddxshi-yang-qu-dong-dehui-sugao-pin-zhi-kai-fa-nopurosesushe-ji</link>
+        <dc:date>2026-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Navigation APIと見るSvelteKitのWeb標準志向 / Navigation API SvelteKit Web Standards (Okuto Oyama)</title>
         <link>https://speakerdeck.com/yamanoku/navigation-api-sveltekit-web-standards</link>
         <dc:date>2026-03-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「お金で解決」が全てではない！大規模WebアプリのCI高速化 #phperkaigi (すてにゃん)</title>
         <link>https://speakerdeck.com/stefafafan/gha-ci-performance-tuning</link>
-        <dc:date>2026-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「接続」—パフォーマンスチューニングの最後の一手 〜点と点を結ぶ、その一瞬のために〜 (武田 憲太郎)</title>
-        <link>https://speakerdeck.com/kentaroutakeda/jie-sok-pahuomansutiyuningunozui-hou-no-shou-dian-todian-wojie-bu-sono-shun-notameni</link>
         <dc:date>2026-03-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
