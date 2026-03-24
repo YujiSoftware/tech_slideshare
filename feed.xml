@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「コードレビューに効く「読みやすさ」の処方箋」Findyでのオンライン講演 #コードレビュー_findy (Shuji Morisaki)</title>
+        <link>https://speakerdeck.com/smorisaki/20260324-findykodorebiyunixiao-kuchu-fang-jian</link>
+        <dc:date>2026-03-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PostgreSQL 18のNOT ENFORCEDな制約とDEFERRABLEの関係 (Yasuo Honda)</title>
         <link>https://speakerdeck.com/yahonda/postgresql-18nonot-enforcednazhi-yue-todeferrablenoguan-xi</link>
         <dc:date>2026-03-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スカウター生活はじめました！PythonとiOS SDKを使ったGUIDE01アプリの紹介とデモ (Ayachika Kitazaki)</title>
         <link>https://www.slideshare.net/slideshow/python-ios-sdk-guide01/286615348</link>
-        <dc:date>2026-03-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIは信号が読めないなんて、 誰が言った？ Coding Agent meets Analyzers (Mitsukuni Sato)</title>
-        <link>https://www.slideshare.net/slideshow/ai-coding-agent-meets-analyzers/286616421</link>
         <dc:date>2026-03-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
