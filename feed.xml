@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「このサービスほしいですか？」って聞いてませんか？正しいユーザーインタビューの聞き方をプロが実演！ | ユニーリサーチアカデミー 2026年3月18日 (Yoshiki Hayama)</title>
+        <link>https://www.slideshare.net/slideshow/2026-3-18/286609189</link>
+        <dc:date>2026-03-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Codex CLIのSubagentsによる並列API実装 / Parallel API Implementation with Codex CLI Subagents (冨澤宝斗)</title>
         <link>https://speakerdeck.com/takatty/parallel-api-implementation-with-codex-cli-subagents</link>
         <dc:date>2026-03-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Laravelで学ぶOAuthとOpenID Connectの基礎と実装 (Koji Yoshida)</title>
         <link>https://speakerdeck.com/kyoshidaxx/laraveldexue-buoauthtoopenid-connectnoji-chu-toshi-zhuang</link>
-        <dc:date>2026-03-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メッセージングを利用して時間的結合を分離しよう #phperkaigi (Takuma Kajikawa)</title>
-        <link>https://speakerdeck.com/kajitack/messaging-temporal-coupling</link>
         <dc:date>2026-03-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
