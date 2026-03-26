@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>パフォーマンスクリティカルな領域へのRust活用戦略 (Yuki Toyoda)</title>
+        <link>https://speakerdeck.com/helloyuk13/pahuomansukuriteikarunaling-yu-henorusthuo-yong-zhan-lue</link>
+        <dc:date>2026-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLMに何を任せ、何を任せないか (an)</title>
         <link>https://speakerdeck.com/cap120/llmnihe-woren-se-he-woren-senaika</link>
         <dc:date>2026-03-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI時代のSaaSとETL (Shu Suzuki)</title>
         <link>https://speakerdeck.com/shoe116/aishi-dai-nosaastoetl</link>
-        <dc:date>2026-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SaaSに宿る21g (Yamakan)</title>
-        <link>https://speakerdeck.com/kanyamaguc/saasnisu-ru21g</link>
         <dc:date>2026-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
