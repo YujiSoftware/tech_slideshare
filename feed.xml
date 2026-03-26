@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インフラ屋の執念：物理PC15台を経てJ-Quants API v2で挑む 2026.03.26 (のーひこ,@nohikomiso)</title>
+        <link>https://www.docswell.com/s/nohikomiso/ZGNX4J-2026-03-26-211044</link>
+        <dc:date>2026-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コーディングエージェントとの付き合い方 (Nabe)</title>
+        <link>https://speakerdeck.com/nabe847/kodeinguezientotonofu-kihe-ifang</link>
+        <dc:date>2026-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実践ハーネスエンジニアリング #MOSHTech (Takuma Kajikawa)</title>
+        <link>https://speakerdeck.com/kajitack/implementing-herness-engineering</link>
+        <dc:date>2026-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>設計と制作 意図を形に表す / Design and Making: Intent Made Form (usagimaru)</title>
+        <link>https://speakerdeck.com/usagimaru/design-and-making-intent-made-form</link>
+        <dc:date>2026-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>つくり方を変えていく | change-how-we-build (mottox2)</title>
+        <link>https://speakerdeck.com/mottox2/change-how-we-build</link>
+        <dc:date>2026-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Qはアマコネで頑張っています〜 Amazon Q in Connectについて〜 (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/amazon-qhaamakonedewan-zhang-tuteimasu-amazon-q-in-connectnituite</link>
+        <dc:date>2026-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CloudFrontのHost Header転送設定でパケットの中身はどう変わるのか？ (nagisa_53)</title>
+        <link>https://speakerdeck.com/nagisa53/cloudfrontnohost-headerzhuan-song-she-ding-depaketutonozhong-shen-hadoubian-warunoka</link>
+        <dc:date>2026-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Conversation is the New Dashboard： 属人性を排除する第4世代BIツールの勢力図 (ShoMaekawa/ウィル)</title>
         <link>https://speakerdeck.com/shomaekawa/conversation-is-the-new-dashboard-shu-ren-xing-wopai-chu-surudi-4shi-dai-biturunoshi-li-tu</link>
         <dc:date>2026-03-25T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>SSoT（Single Source of Truth）で「壊して再生」する設計 (かわうそ)</title>
         <link>https://speakerdeck.com/kawauso/ssot-single-source-of-truth-de-huai-sitezai-sheng-surushe-ji</link>
         <dc:date>2026-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今年もTECHSCOREブログを書き続けます！ (平奥真一（ひらおくしんいち）)</title>
-        <link>https://speakerdeck.com/hiraoku101/jin-nian-motechscoreburoguwoshu-kisok-kemasu</link>
-        <dc:date>2026-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「コードレビューに効く「読みやすさ」の処方箋」Findyでのオンライン講演 #コードレビュー_findy (Shuji Morisaki)</title>
-        <link>https://speakerdeck.com/smorisaki/20260324-findykodorebiyunixiao-kuchu-fang-jian</link>
-        <dc:date>2026-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQL 18のNOT ENFORCEDな制約とDEFERRABLEの関係 (Yasuo Honda)</title>
-        <link>https://speakerdeck.com/yahonda/postgresql-18nonot-enforcednazhi-yue-todeferrablenoguan-xi</link>
-        <dc:date>2026-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カーネルバイパスによる通信高速化の基本 / iijlab seminar 2026-03-24 (yasukata)</title>
-        <link>https://speakerdeck.com/yasukata/iijlab-seminar-2026-03-24</link>
-        <dc:date>2026-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Next.jsは なぜ開発しやすいのか</title>
-        <link>https://docs.google.com/presentation/d/1tm8_Eh3607_bFhfrdq4ijDOYMOfh5kgKK-AgsX-YJi8/preview</link>
-        <dc:date>2026-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DDD×仕様駆動で回す高品質開発のプロセス設計 (Koichiro Matsuoka)</title>
-        <link>https://speakerdeck.com/littlehands/dddxshi-yang-qu-dong-dehui-sugao-pin-zhi-kai-fa-nopurosesushe-ji</link>
-        <dc:date>2026-03-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Navigation APIと見るSvelteKitのWeb標準志向 / Navigation API SvelteKit Web Standards (Okuto Oyama)</title>
-        <link>https://speakerdeck.com/yamanoku/navigation-api-sveltekit-web-standards</link>
-        <dc:date>2026-03-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
