@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMに何を任せ、何を任せないか (an)</title>
+        <link>https://speakerdeck.com/cap120/llmnihe-woren-se-he-woren-senaika</link>
+        <dc:date>2026-03-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>インフラ屋の執念：物理PC15台を経てJ-Quants API v2で挑む 2026.03.26 (のーひこ,@nohikomiso)</title>
         <link>https://www.docswell.com/s/nohikomiso/ZGNX4J-2026-03-26-211044</link>
         <dc:date>2026-03-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SaaSに宿る21g (Yamakan)</title>
         <link>https://speakerdeck.com/kanyamaguc/saasnisu-ru21g</link>
-        <dc:date>2026-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SSoT（Single Source of Truth）で「壊して再生」する設計 (かわうそ)</title>
-        <link>https://speakerdeck.com/kawauso/ssot-single-source-of-truth-de-huai-sitezai-sheng-surushe-ji</link>
         <dc:date>2026-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
