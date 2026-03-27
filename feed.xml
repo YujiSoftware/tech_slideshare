@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ghosttyの凄さを 技術的に深ぼってく (kuu(Fumiya Kume),@fumiya_kume)</title>
+        <link>https://www.docswell.com/s/fumiya-kume/K2746V-2026-03-27-205311</link>
+        <dc:date>2026-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モジュラモノリス導入から4年間の総括：アーキテクチャと組織の相互作用について /  Architecture and Organizational Interaction (Satoshi Kawashima)</title>
+        <link>https://speakerdeck.com/nazonohito51/architecture-and-organizational-interaction</link>
+        <dc:date>2026-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>VSCode中心だった自分がターミナル沼に入門した話 (Genki Sano)</title>
         <link>https://speakerdeck.com/sanogemaru/from-vscode-to-the-terminal-rabbit-hole</link>
         <dc:date>2026-03-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>つくり方を変えていく | change-how-we-build (mottox2)</title>
         <link>https://speakerdeck.com/mottox2/change-how-we-build</link>
-        <dc:date>2026-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Qはアマコネで頑張っています〜 Amazon Q in Connectについて〜 (Yuuki Yamashita)</title>
-        <link>https://speakerdeck.com/yama3133/amazon-qhaamakonedewan-zhang-tuteimasu-amazon-q-in-connectnituite</link>
-        <dc:date>2026-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CloudFrontのHost Header転送設定でパケットの中身はどう変わるのか？ (nagisa_53)</title>
-        <link>https://speakerdeck.com/nagisa53/cloudfrontnohost-headerzhuan-song-she-ding-depaketutonozhong-shen-hadoubian-warunoka</link>
         <dc:date>2026-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
