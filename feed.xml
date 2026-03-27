@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>VSCode中心だった自分がターミナル沼に入門した話 (Genki Sano)</title>
+        <link>https://speakerdeck.com/sanogemaru/from-vscode-to-the-terminal-rabbit-hole</link>
+        <dc:date>2026-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今こそ押さえておきたい アマゾンウェブサービス（AWS）の データベースの基礎 おもクラ #6版 (Satoshi Kaneyasu)</title>
+        <link>https://speakerdeck.com/satoshi256kbyte/jin-kosoya-saeteokitai-amazonuebusabisu-aws-no-detabesunoji-chu-omokura-number-6ban</link>
+        <dc:date>2026-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サービス影響を出さずにWafCharmを導入する (gr1m0h)</title>
+        <link>https://speakerdeck.com/grimoh/sabisuying-xiang-wochu-sazuniwafcharmwodao-ru-suru</link>
+        <dc:date>2026-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LM Linkで(非力な！)ノートPCでローカルLLM (瀬尾佳隆)</title>
+        <link>https://speakerdeck.com/seosoft/lm-linkde-fei-li-na-notopcderokarullm</link>
+        <dc:date>2026-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サントピアの新VRアトラクションがすごすぎた話 (fubuky35,@fubuki35)</title>
+        <link>https://www.docswell.com/s/fubuky35/ZL3LP8-2026-03-27-182755</link>
+        <dc:date>2026-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第6回【未経験者向け】AI時代の生存戦略！未経験から「創れる人」になるアプリ開発体験 (okad)</title>
+        <link>https://speakerdeck.com/ryotam/di-6hui-wei-jing-yan-zhe-xiang-ke-aishi-dai-nosheng-cun-zhan-lue-wei-jing-yan-kara-chuang-reruren-ninaruapurikai-fa-ti-yan</link>
+        <dc:date>2026-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure Storage Account FW のトラブルシューティング (Yohei Iwasaki,@I_BOY_1204)</title>
+        <link>https://www.docswell.com/s/iboy/5Q28PY-yonaaz13</link>
+        <dc:date>2026-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モテるターミナル WezTermの機能に迫る (mozumasu,@mozumasu)</title>
+        <link>https://www.docswell.com/s/mozumasu/5PR9PQ-2026-03-27-190503</link>
+        <dc:date>2026-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Zephyr、Wio BG770Aで動くのか試してみた (MATSUOKA Takashi,@matsujirushi12)</title>
+        <link>https://www.docswell.com/s/matsujirushi/Z7NVM7-2026-03-27-165014</link>
+        <dc:date>2026-03-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Aratako_ローカルAI LT資料</title>
         <link>https://docs.google.com/presentation/d/1NL4kB2grITPRAtFkcnmX5UxzaJpRJM41KjzUv_AbAZY/preview</link>
         <dc:date>2026-03-26T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>CloudFrontのHost Header転送設定でパケットの中身はどう変わるのか？ (nagisa_53)</title>
         <link>https://speakerdeck.com/nagisa53/cloudfrontnohost-headerzhuan-song-she-ding-depaketutonozhong-shen-hadoubian-warunoka</link>
         <dc:date>2026-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Conversation is the New Dashboard： 属人性を排除する第4世代BIツールの勢力図 (ShoMaekawa/ウィル)</title>
-        <link>https://speakerdeck.com/shomaekawa/conversation-is-the-new-dashboard-shu-ren-xing-wopai-chu-surudi-4shi-dai-biturunoshi-li-tu</link>
-        <dc:date>2026-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>品質を経営にどう語るか #jassttokyo / Communicating the Strategic Value of Quality to Executive Leadership (kyonmm)</title>
-        <link>https://speakerdeck.com/kyonmm/communicating-the-strategic-value-of-quality-to-executive-leadership</link>
-        <dc:date>2026-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KagglerがMixSeekを触ってみた (Morim)</title>
-        <link>https://speakerdeck.com/morim/kagglerga</link>
-        <dc:date>2026-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ニッチじゃなくなってきた自作LSIの応用先を考えてみた_YuukiUmeta_20260325_ブレスト追記済み</title>
-        <link>https://docs.google.com/presentation/d/1Di-nr-K1Oovnu6dyP8l2W2dlbAPJ99yNv-RsEAp3bCw/preview</link>
-        <dc:date>2026-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアとデザイナーで考えるUI/UX LT会 - 分かる必要すらないデザイン</title>
-        <link>https://docs.google.com/presentation/d/1KsYT9r8yKf_vUrONRRV6LsKIm8nvmLfGxzIY-VyWI1A/preview</link>
-        <dc:date>2026-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Xcode 26.3で変わるiOSアプリ開発とAIエージェント (USAMI Kosuke,@usamik26)</title>
-        <link>https://www.docswell.com/s/usami-k/5MQ132-xcode-ai-agent-ios</link>
-        <dc:date>2026-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026.3.25_LT資料.pdf (Tsukasa)</title>
-        <link>https://speakerdeck.com/tks_21/2026-dot-3-25-ltzi-liao</link>
-        <dc:date>2026-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脳が溶けた話 / Melted Brain (Keisuke69)</title>
-        <link>https://speakerdeck.com/keisuke69/melted-brain</link>
-        <dc:date>2026-03-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「このサービスほしいですか？」って聞いてませんか？正しいユーザーインタビューの聞き方をプロが実演！ | ユニーリサーチアカデミー 2026年3月18日 (Yoshiki Hayama)</title>
-        <link>https://www.slideshare.net/slideshow/2026-3-18/286609189</link>
-        <dc:date>2026-03-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
