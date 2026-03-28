@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>やさしいとこから始めるGitHubリポジトリのセキュリティ (Yuta Matsumura)</title>
+        <link>https://speakerdeck.com/tsubakimoto_s/yasasiitokokarashi-merugithubripozitorinosekiyuritei</link>
+        <dc:date>2026-03-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2026年3月28日進行案です。 (SIN)</title>
         <link>https://www.docswell.com/s/sin_docswell/5E14P6-2026-03-17-053734</link>
         <dc:date>2026-03-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コーディングエージェントとの付き合い方 (Nabe)</title>
         <link>https://speakerdeck.com/nabe847/kodeinguezientotonofu-kihe-ifang</link>
-        <dc:date>2026-03-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践ハーネスエンジニアリング #MOSHTech (Takuma Kajikawa)</title>
-        <link>https://speakerdeck.com/kajitack/implementing-herness-engineering</link>
         <dc:date>2026-03-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
