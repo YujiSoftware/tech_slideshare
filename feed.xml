@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>すこやかなサービス運営のための PWG (Performance Working Group) (Takafumi ONAKA)</title>
+        <link>https://speakerdeck.com/onk/2024-08-10-performance-working-group</link>
+        <dc:date>2026-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>おれのAgentic Coding 2026/03 (TsukasaSekiguchi)</title>
         <link>https://speakerdeck.com/tsukasagr/03</link>
         <dc:date>2026-03-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>モジュラモノリス導入から4年間の総括：アーキテクチャと組織の相互作用について /  Architecture and Organizational Interaction (Satoshi Kawashima)</title>
         <link>https://speakerdeck.com/nazonohito51/architecture-and-organizational-interaction</link>
-        <dc:date>2026-03-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VSCode中心だった自分がターミナル沼に入門した話 (Genki Sano)</title>
-        <link>https://speakerdeck.com/sanogemaru/from-vscode-to-the-terminal-rabbit-hole</link>
         <dc:date>2026-03-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
