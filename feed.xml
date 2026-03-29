@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>決済システム超初心者が Stripe に入門している話 (SAW)</title>
+        <link>https://speakerdeck.com/azuki/jue-ji-sisutemuchao-chu-xin-zhe-ga-stripe-niru-men-siteiruhua</link>
+        <dc:date>2026-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Gemini CLIを使っているんですけど、みんなClaude Code の話ばかりしてうらやましい</title>
+        <link>https://docs.google.com/presentation/d/1KUOOwrvPN6ERNJQBh7lov0A-LUx7k_Y0tVX5XM43VjU/preview</link>
+        <dc:date>2026-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第3回 プロジェクトマネージャ勉強会 (Quatrex,@Quatrex)</title>
+        <link>https://www.docswell.com/s/Quatrex/KL3LML-2026-03-29</link>
+        <dc:date>2026-03-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>すこやかなサービス運営のための PWG (Performance Working Group) (Takafumi ONAKA)</title>
         <link>https://speakerdeck.com/onk/2024-08-10-performance-working-group</link>
         <dc:date>2026-03-28T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>2026年3月28日進行案です。 (SIN)</title>
         <link>https://www.docswell.com/s/sin_docswell/5E14P6-2026-03-17-053734</link>
         <dc:date>2026-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>複製不可能なSSH鍵運用のススメ (matsuu,@matsuu)</title>
-        <link>https://www.docswell.com/s/matsuu/ZJWLMG-secure-ssh-key-management-guide</link>
-        <dc:date>2026-03-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ghosttyの凄さを 技術的に深ぼってく (kuu(Fumiya Kume),@fumiya_kume)</title>
-        <link>https://www.docswell.com/s/fumiya-kume/K2746V-2026-03-27-205311</link>
-        <dc:date>2026-03-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モジュラモノリス導入から4年間の総括：アーキテクチャと組織の相互作用について /  Architecture and Organizational Interaction (Satoshi Kawashima)</title>
-        <link>https://speakerdeck.com/nazonohito51/architecture-and-organizational-interaction</link>
-        <dc:date>2026-03-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
