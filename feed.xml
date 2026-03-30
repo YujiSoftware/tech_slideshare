@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Actions侵害 — 相次ぐ事例を振り返り、次なる脅威に備える (GMO Flatt Security)</title>
+        <link>https://speakerdeck.com/flatt_security/github-actionsqin-hai-xiang-ci-gushi-li-wozhen-rifan-ri-ci-naruxie-wei-nibei-eru</link>
+        <dc:date>2026-03-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>『何もしていない』と思われがちなスクラムマスターの仕事を言語化する (610)</title>
         <link>https://speakerdeck.com/610_mto/he-mositeinai-tosi-warekatinasukuramumasutanoshi-shi-woyan-yu-hua-suru</link>
         <dc:date>2026-03-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>2026-03-28 Slack × GitHub × Claude で作る Chat Bot Agent 改善サイクル@AI実装勉強会第57回 (Naka Masato)</title>
         <link>https://speakerdeck.com/nakamasato/2026-03-28-slack-x-github-x-claude-dezuo-ru-chat-bot-agent-gai-shan-saikuru-at-aishi-zhuang-mian-qiang-hui-di-57hui</link>
-        <dc:date>2026-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>やさしいとこから始めるGitHubリポジトリのセキュリティ (Yuta Matsumura)</title>
-        <link>https://speakerdeck.com/tsubakimoto_s/yasasiitokokarashi-merugithubripozitorinosekiyuritei</link>
         <dc:date>2026-03-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
