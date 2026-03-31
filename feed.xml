@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Azure Databricks の Onelake カタログ フェデレーション (Satoshi ENOMOTO)</title>
+        <link>https://www.docswell.com/s/satoshi_enomoto/K6NYWX-2026-03-31-191253</link>
+        <dc:date>2026-03-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>パワポ作るマンをMCP Apps化してみた (iwamot)</title>
+        <link>https://speakerdeck.com/iwamot/marp-agent-mcp-apps</link>
+        <dc:date>2026-03-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI Ready時代に知っておきたいFabricのSharePointショートカット (大竹礼二（REIJI OTAKE）)</title>
+        <link>https://speakerdeck.com/reireireijinjin6/ai-readyshi-dai-nizhi-tuteokitaifabricnosharepointsiyotokatuto</link>
+        <dc:date>2026-03-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft Fabricで考える非構造データのAI活用 (Ryoma Nagata)</title>
+        <link>https://speakerdeck.com/ryomaru0825/microsoft-fabricdekao-erufei-gou-zao-detanoaihuo-yong</link>
+        <dc:date>2026-03-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアテスト 最初の一歩 〜テスト設計技法をワークで体験しながら学ぶ〜 #JaSSTTokyo / SoftwareTestingFirstStep (nihonbuson)</title>
         <link>https://speakerdeck.com/nihonbuson/softwaretestingfirststep</link>
         <dc:date>2026-03-30T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>JAWS DAYS 2026でAIの「もやっと」感が解消された話 (Makky12)</title>
         <link>https://speakerdeck.com/smt7174/jaws-days-2026deaino-moyatuto-gan-gajie-xiao-saretahua</link>
-        <dc:date>2026-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>わたしとEC2の出会い〜なぜ組込エンジニアがクラウドを使うのか〜 (HiromuUemura)</title>
-        <link>https://speakerdeck.com/ubyhiromu58/watasitoec2nochu-hui-i-nazezu-ip-enziniagakuraudowoshi-unoka</link>
-        <dc:date>2026-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>スケーリングを封じられたEC2を救いたい (いのうえ)</title>
-        <link>https://speakerdeck.com/senseofunity129/sukerinkuwofeng-siraretaec2wojiu-itai</link>
-        <dc:date>2026-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>良い塩梅を実現する、AWSネットワーク3分クッキング (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/liang-iyan-mei-woshi-xian-suru-awsnetutowaku3fen-kutukingu</link>
-        <dc:date>2026-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これぞ現代のRPA?!ローカルLLMで動かすAIエージェント (Koki Miura,@k_miura_io)</title>
-        <link>https://www.docswell.com/s/k_miura_io/KJWLDG-2026-03-28-185036</link>
         <dc:date>2026-03-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
