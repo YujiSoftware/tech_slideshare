@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>不確実性と戦いながら見積もりを作成するプロセス/mitsumori-process (hiro@miraito)</title>
+        <link>https://speakerdeck.com/hirodragon112/mitsumori-process-55ba59fd-0709-48f8-a879-5da29e8b8e30</link>
+        <dc:date>2026-04-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ターミナルに引きこもる極意 (mozumasu,@mozumasu)</title>
+        <link>https://www.docswell.com/s/mozumasu/ZN71M7-2026-04-02-dotfiles</link>
+        <dc:date>2026-04-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>一度始めたらやめられない開発効率向上術 / Findy あなたのdotfilesを教えて！ (Takashi Kokubun)</title>
         <link>https://speakerdeck.com/k0kubun/findy-dotfiles-event</link>
         <dc:date>2026-04-01T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>おれのAgentic Coding 2026/03 (TsukasaSekiguchi)</title>
         <link>https://speakerdeck.com/tsukasagr/03</link>
-        <dc:date>2026-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> GitHub Advanced Security × Defender for Cloudで開発とSecOpsのサイロを超える: コードとクラウドをつなぐ、開発プラットフォームのセキュリティ (yuriemori)</title>
-        <link>https://speakerdeck.com/yuriemori/github-advanced-security-x-defender-for-clouddekai-fa-tosecopsnosairowochao-eru-kodotokuraudowotunagu-kai-fa-puratutohuomunosekiyuritei</link>
-        <dc:date>2026-03-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What's difference GitHub Advanced Security for Azure DevOps? (KAMEGAWA Kazushi)</title>
-        <link>https://speakerdeck.com/kkamegawa/whats-difference-github-advanced-security-for-azure-devops</link>
         <dc:date>2026-03-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
