@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Postman Launchpad EP.10 - v12で強化！コレクションランナー &amp; CLI</title>
+        <link>https://docs.google.com/presentation/d/1g1Yof9KBcjYGVKUaXIrxFPk6FFMx7pm5uebEIGbmJf8/preview</link>
+        <dc:date>2026-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SmTでRaspberry Pi Picoを動かす (matsudai)</title>
+        <link>https://speakerdeck.com/matsudai/smtderaspberry-pi-picowodong-kasu</link>
+        <dc:date>2026-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claudeを飼い慣らす環境づくり (くらっち)</title>
+        <link>https://speakerdeck.com/kuracchi_enj1/claudewosi-iguan-rasuhuan-jing-dukuri</link>
+        <dc:date>2026-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>チームで育てるAI自走環境_20260409 (Taiga Fukuda)</title>
+        <link>https://speakerdeck.com/fuktig/timudeyu-teruaizi-zou-huan-jing-20260409</link>
+        <dc:date>2026-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TanStack Start エコシステムの現在地 / TanStack Start Ecosystem 2026 (Takahiro Ikeuchi)</title>
+        <link>https://speakerdeck.com/iktakahiro/tanstack-start-ecosystem-2026</link>
+        <dc:date>2026-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Comparison of Next.js and TanStack Start (Yuki Terashima,@y_temp4)</title>
+        <link>https://www.docswell.com/s/yt4/5272W1-comparison-of-next-js-and-tanstack-start</link>
+        <dc:date>2026-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260409_Claude Code Skills実践！ - 業務を効率化する活用事例_Claude Code Skills 概要を徹底理解 (Yoshida Masanori)</title>
+        <link>https://speakerdeck.com/myoshida2/20260409-claude-code-skillsshi-jian-ye-wu-woxiao-lu-hua-suruhuo-yong-shi-li-claude-code-skills-gai-yao-woche-di-li-jie</link>
+        <dc:date>2026-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>機能・非機能の学びを一つに!Agent Skillsで月間レポート作成始めてみた / Unifying Bug &amp; Infra Insights — Building Monthly Quality Reports with Agent Skills (bun)</title>
+        <link>https://speakerdeck.com/bun913/unifying-bug-and-infra-insights-building-monthly-quality-reports-with-agent-skills</link>
+        <dc:date>2026-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ZOZOTOWNリプレイスでのSkills導入までの流れとこれから.pptx.pdf (ZOZO Developers)</title>
+        <link>https://speakerdeck.com/zozotech/zozotown-replace-with-agent-skills</link>
+        <dc:date>2026-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SkillがSkillを生む：QA観点出しを自動化した (sontixyou)</title>
+        <link>https://speakerdeck.com/sontixyou/skillgaskillwosheng-mu-qaguan-dian-chu-siwozi-dong-hua-sita</link>
+        <dc:date>2026-04-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「決め方」の渡し方 / How to hand over the "decision-making process" (Pauli)</title>
         <link>https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process</link>
         <dc:date>2026-04-08T15:00:00Z</dc:date>
@@ -54,55 +104,5 @@
         <title>New_features_in_Xcode26.3_to_Xcode26.4.pdf (notoroid)</title>
         <link>https://speakerdeck.com/notoroid/new-features-in-xcode26-dot-3-to-xcode26-dot-4</link>
         <dc:date>2026-04-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初期MacとQuickDrawで振り返るApple50年 (高橋政明)</title>
-        <link>https://speakerdeck.com/masaakittakahashi/chu-qi-mactoquickdrawdezhen-rifan-ruapple50nian</link>
-        <dc:date>2026-04-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCPで自動化するiOSアプリの開発・検証・分析 (Takahiro Suzuki,@sussan0416)</title>
-        <link>https://www.docswell.com/s/sussan0416/57NREV-mcp-ios</link>
-        <dc:date>2026-04-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Babylon.js を使って試した色々な内容 / Various things I tried using Babylon.js / Babylon.js 勉強会 vol.5 (you（@youtoy）)</title>
-        <link>https://speakerdeck.com/you/babylonjs-vol5</link>
-        <dc:date>2026-04-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS re-Invent 2025の少し振り返り ＋ DevOps AgentとBacklogを連携させてみた (Satoshi Kaneyasu)</title>
-        <link>https://speakerdeck.com/satoshi256kbyte/aws-re-invent-2025nozhen-rifan-ri-plus-devops-agenttobacklogwolian-xi-sasetemita</link>
-        <dc:date>2026-04-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSさんから1400万円請求された件 (tsumita)</title>
-        <link>https://speakerdeck.com/tsumita/awssankara1400mo-yuan-qing-qiu-saretajian</link>
-        <dc:date>2026-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WS HackforPlayを はじめよう！</title>
-        <link>https://docs.google.com/presentation/d/11G8QhWrPPS2WRUQBsjiDGOtU_5fqTmPgnOJRNYENfpk/preview</link>
-        <dc:date>2026-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メニュー（カメレース） </title>
-        <link>https://docs.google.com/document/d/1w9-VSYEL7xRArCeWhSuhmEYteRLG7xGtZDcFSrXlgho/preview</link>
-        <dc:date>2026-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『自分なんかが…』を超える。 プロポーザル提出までの心理的ハードルの外し方 / proposal-output (DPon)</title>
-        <link>https://speakerdeck.com/dznbk/proposal-output</link>
-        <dc:date>2026-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>登壇を続けていたら地域コミュニティを作るようになった話/outputconf2026 (Ryusei Ohkura)</title>
-        <link>https://speakerdeck.com/3l4l5/outputconf2026</link>
-        <dc:date>2026-04-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「できない」のアウトプット 同人誌『精神を壊してからの』シリーズ出版を 通して得られたこと (comi)</title>
-        <link>https://speakerdeck.com/comi190327/dekinai-noautopututo-tong-ren-zhi-jing-shen-wohuai-sitekarano-sirizuchu-ban-wo-tong-sitede-raretakoto</link>
-        <dc:date>2026-04-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
