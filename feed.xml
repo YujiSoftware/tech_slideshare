@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>チームやリポジトリ間の情報の断絶を Skill で補う ~ BFF 情報取得 Skill による実例 ~ (takanakahiko)</title>
+        <link>https://www.docswell.com/s/takanakahiko/Z3JGY8-2026-04-10-195224</link>
+        <dc:date>2026-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ソフトウェアアーキテクチャの基礎7-8章</title>
+        <link>https://docs.google.com/presentation/d/1m9pf1oRl4E3CTYpCbeONT4cJTGoXldj1mqv1Zy3R48E/preview</link>
+        <dc:date>2026-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アーキテクチャモダナイゼーションとは何か (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/akitekutiyamodanaizesiyontohahe-ka</link>
+        <dc:date>2026-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ADOTで始めるサーバレスアーキテクチャのオブザーバビリティ (Ryotaro Harada)</title>
         <link>https://speakerdeck.com/alchemy1115/adotdeshi-merusabaresuakitekutiyanoobuzababiritei</link>
         <dc:date>2026-04-09T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>「決め方」の渡し方 / How to hand over the "decision-making process" (Pauli)</title>
         <link>https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process</link>
         <dc:date>2026-04-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>解剖"React Native" (hacusk)</title>
-        <link>https://speakerdeck.com/hacusk/jie-pou-react-native</link>
-        <dc:date>2026-04-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VueエンジニアがReactを触って感じた_設計の違い (kouki.miura)</title>
-        <link>https://speakerdeck.com/koukimiura/vueenziniagareactwohong-tutegan-zita-she-ji-nowei-i</link>
-        <dc:date>2026-04-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>I ran an automated simulation of fake news spread using OpenClaw. (otsuka)</title>
-        <link>https://speakerdeck.com/zzzzico/i-ran-an-automated-simulation-of-fake-news-spread-using-openclaw</link>
-        <dc:date>2026-04-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
