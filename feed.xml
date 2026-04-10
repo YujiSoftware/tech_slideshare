@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ADOTで始めるサーバレスアーキテクチャのオブザーバビリティ (Ryotaro Harada)</title>
+        <link>https://speakerdeck.com/alchemy1115/adotdeshi-merusabaresuakitekutiyanoobuzababiritei</link>
+        <dc:date>2026-04-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>同一ファイルを探す_20260410 (Y T)</title>
+        <link>https://www.docswell.com/s/YT1000/54NV6J-2026-04-10-221126</link>
+        <dc:date>2026-04-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Power Automate for desktopにおけるショートカットの活用方法 (きぬあさ,@kinuasa)</title>
+        <link>https://www.docswell.com/s/kinuasa/5JW4RX-20260410-RPALT</link>
+        <dc:date>2026-04-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>春の種まき、始めました 〜小さな取り組みをご紹介します〜 (めばしい / ツクリンク,@aiuhehe)</title>
+        <link>https://www.docswell.com/s/mebashi/KPR2X1-2026-04-10-162515</link>
+        <dc:date>2026-04-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260410 AI時代にこそ改めて基礎を学ぶ (あっきー,@kuronekopunk)</title>
+        <link>https://www.docswell.com/s/kuronekopunk/5Y8D79-2026-04-10-113036</link>
+        <dc:date>2026-04-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIが自走できるかは_設計_で決まる___重要なのは_良いコードを残し_悪いコードを入れさせない_こと__.pdf (スナガク)</title>
         <link>https://speakerdeck.com/sunagaku/aikazi-zou-tekirukaha-she-ji-tejue-maru-zhong-yao-nanoha-liang-ikotowocan-si-e-ikotoworu-resasenai-koto</link>
         <dc:date>2026-04-09T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>I ran an automated simulation of fake news spread using OpenClaw. (otsuka)</title>
         <link>https://speakerdeck.com/zzzzico/i-ran-an-automated-simulation-of-fake-news-spread-using-openclaw</link>
         <dc:date>2026-04-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>推し活エージェント (ゆんたん)</title>
-        <link>https://speakerdeck.com/yuntan_t/tui-sihuo-eziento</link>
-        <dc:date>2026-04-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>axios, LiteLLM...不使用だったのでOK、ではない。「次に備える」ソフトウェアサプライチェーン侵害への対策 (GMO Flatt Security)</title>
-        <link>https://speakerdeck.com/flatt_security/axios-litellm-dot-dot-dot-bu-shi-yong-datutanodeok-dehanai-ci-nibei-eru-sohutoueasapuraitienqin-hai-henodui-ce</link>
-        <dc:date>2026-04-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>制約を設計する - 非決定性との境界線 / Designing constraints (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/designing-constraints</link>
-        <dc:date>2026-04-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDLE_CyberSecurity_勉強会#6_オープニング＆クロージング (yuichi shiota)</title>
-        <link>https://www.docswell.com/s/shiota/KL31X6-2026-04-02-173912</link>
-        <dc:date>2026-04-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>国産生成AI PLaMoを支える事後学習と推論最適化 (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/20260406_plamo_3_beta_posttrain_and_inference_opt</link>
-        <dc:date>2026-04-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
