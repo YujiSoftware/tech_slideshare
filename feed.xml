@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>全社員のClaude Code・Coworkの利用状況をOpenTelemetryとGrafanaで可視化した話 (raku)</title>
+        <link>https://speakerdeck.com/rakutek/quan-she-yuan-noclaude-codecoworknoli-yong-zhuang-kuang-woopentelemetrytografanadeke-shi-hua-sitahua</link>
+        <dc:date>2026-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kubernetes上でAgentを動かすための最新動向と押さえるべき概念まとめ (Sota Makino)</title>
         <link>https://speakerdeck.com/sotamaki0421/kubernetesshang-deagentwodong-kasutamenozui-xin-dong-xiang-toya-saerubekigai-nian-matome</link>
         <dc:date>2026-04-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20260409_Claude Code Skills実践！ - 業務を効率化する活用事例_Claude Code Skills 概要を徹底理解 (Yoshida Masanori)</title>
         <link>https://speakerdeck.com/myoshida2/20260409-claude-code-skillsshi-jian-ye-wu-woxiao-lu-hua-suruhuo-yong-shi-li-claude-code-skills-gai-yao-woche-di-li-jie</link>
-        <dc:date>2026-04-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機能・非機能の学びを一つに!Agent Skillsで月間レポート作成始めてみた / Unifying Bug &amp; Infra Insights — Building Monthly Quality Reports with Agent Skills (bun)</title>
-        <link>https://speakerdeck.com/bun913/unifying-bug-and-infra-insights-building-monthly-quality-reports-with-agent-skills</link>
         <dc:date>2026-04-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
