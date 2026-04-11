@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kubernetes上でAgentを動かすための最新動向と押さえるべき概念まとめ (Sota Makino)</title>
+        <link>https://speakerdeck.com/sotamaki0421/kubernetesshang-deagentwodong-kasutamenozui-xin-dong-xiang-toya-saerubekigai-nian-matome</link>
+        <dc:date>2026-04-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>メルカリのClaude Codeセキュリティ設定の組織配布戦略 - Claude Code Meetup Japan #4 (Hi120ki)</title>
         <link>https://speakerdeck.com/hi120ki/claude-code-organization-settings</link>
         <dc:date>2026-04-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>機能・非機能の学びを一つに!Agent Skillsで月間レポート作成始めてみた / Unifying Bug &amp; Infra Insights — Building Monthly Quality Reports with Agent Skills (bun)</title>
         <link>https://speakerdeck.com/bun913/unifying-bug-and-infra-insights-building-monthly-quality-reports-with-agent-skills</link>
-        <dc:date>2026-04-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ZOZOTOWNリプレイスでのSkills導入までの流れとこれから.pptx.pdf (ZOZO Developers)</title>
-        <link>https://speakerdeck.com/zozotech/zozotown-replace-with-agent-skills</link>
         <dc:date>2026-04-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
