@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2025-04-13 Discordでリモートポケカしてたら、なぜかDOを25分間動かせるようになった話</title>
+        <link>https://docs.google.com/presentation/d/1AJ7LLx4RDnGj5gwzJk_p7WKptFUHI6pcAw8CTYxlf8M/preview</link>
+        <dc:date>2026-04-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ログ基盤・プラグイン・ダッシュボード、全部整えた。でも最後は人だった。 (Masaki Kubota)</title>
         <link>https://speakerdeck.com/makikub/roguji-pan-puraguindatusiyubodo-quan-bu-zheng-eta-demozui-hou-haren-datuta</link>
         <dc:date>2026-04-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>仕様通り動くの先へ。Claude Codeで「使える」を検証する (Gota)</title>
         <link>https://speakerdeck.com/gotalab555/shi-yang-tong-ridong-kunoxian-he-claude-codede-shi-eru-wojian-zheng-suru</link>
-        <dc:date>2026-04-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チームやリポジトリ間の情報の断絶を Skill で補う ~ BFF 情報取得 Skill による実例 ~ (takanakahiko)</title>
-        <link>https://www.docswell.com/s/takanakahiko/Z3JGY8-2026-04-10-195224</link>
         <dc:date>2026-04-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
