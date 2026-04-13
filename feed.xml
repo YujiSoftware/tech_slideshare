@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ログ基盤・プラグイン・ダッシュボード、全部整えた。でも最後は人だった。 (Masaki Kubota)</title>
+        <link>https://speakerdeck.com/makikub/roguji-pan-puraguindatusiyubodo-quan-bu-zheng-eta-demozui-hou-haren-datuta</link>
+        <dc:date>2026-04-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>結局OpenClawとClaude Codeどっちを使ったらいいの？に自分なりの結論を出した (Masaru Furuya)</title>
         <link>https://speakerdeck.com/mfuruya/20260410-openclawmian-qiang-hui-ltsuraito</link>
         <dc:date>2026-04-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>チームやリポジトリ間の情報の断絶を Skill で補う ~ BFF 情報取得 Skill による実例 ~ (takanakahiko)</title>
         <link>https://www.docswell.com/s/takanakahiko/Z3JGY8-2026-04-10-195224</link>
-        <dc:date>2026-04-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアアーキテクチャの基礎7-8章</title>
-        <link>https://docs.google.com/presentation/d/1m9pf1oRl4E3CTYpCbeONT4cJTGoXldj1mqv1Zy3R48E/preview</link>
         <dc:date>2026-04-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
