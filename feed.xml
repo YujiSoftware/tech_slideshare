@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>システムは「動く」だけでは 足りない - 非機能要件・分散システム・トレードオフの基礎 (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/sisutemuha-dong-ku-dakedeha-zu-rinai-fei-ji-neng-yao-jian-fen-san-sisutemutoredoohunoji-chu</link>
+        <dc:date>2026-04-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2025-04-13 Discordでリモートポケカしてたら、なぜかDOを25分間動かせるようになった話</title>
         <link>https://docs.google.com/presentation/d/1AJ7LLx4RDnGj5gwzJk_p7WKptFUHI6pcAw8CTYxlf8M/preview</link>
         <dc:date>2026-04-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>メルカリのClaude Codeセキュリティ設定の組織配布戦略 - Claude Code Meetup Japan #4 (Hi120ki)</title>
         <link>https://speakerdeck.com/hi120ki/claude-code-organization-settings</link>
-        <dc:date>2026-04-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仕様通り動くの先へ。Claude Codeで「使える」を検証する (Gota)</title>
-        <link>https://speakerdeck.com/gotalab555/shi-yang-tong-ridong-kunoxian-he-claude-codede-shi-eru-wojian-zheng-suru</link>
         <dc:date>2026-04-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
