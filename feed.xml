@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>煩雑なSkills管理をSoC（関心の分離）により解決する――関心を分離し、プロンプトを部品として育てるためのOSSを作った話 / Solving Complex Skills Management Through SoC (Separation of Concerns) (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/solving-complex-skills-management-through-soc-separation-of-concerns</link>
+        <dc:date>2026-04-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>システムは「動く」だけでは 足りない - 非機能要件・分散システム・トレードオフの基礎 (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/sisutemuha-dong-ku-dakedeha-zu-rinai-fei-ji-neng-yao-jian-fen-san-sisutemutoredoohunoji-chu</link>
         <dc:date>2026-04-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Kubernetes上でAgentを動かすための最新動向と押さえるべき概念まとめ (Sota Makino)</title>
         <link>https://speakerdeck.com/sotamaki0421/kubernetesshang-deagentwodong-kasutamenozui-xin-dong-xiang-toya-saerubekigai-nian-matome</link>
-        <dc:date>2026-04-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メルカリのClaude Codeセキュリティ設定の組織配布戦略 - Claude Code Meetup Japan #4 (Hi120ki)</title>
-        <link>https://speakerdeck.com/hi120ki/claude-code-organization-settings</link>
         <dc:date>2026-04-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
