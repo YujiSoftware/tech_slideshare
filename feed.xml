@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ご注文の差分はこちらですか？ 〜 AWS CDK のいろいろな差分検出と安全なデプロイ (Kenji Kono)</title>
+        <link>https://speakerdeck.com/konokenj/cdk-snapshot-diff-drift</link>
+        <dc:date>2026-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2026年度新卒技術研修 サイバーエージェントのデータベース 活用事例とパフォーマンス調査入門 (CyberAgent)</title>
         <link>https://speakerdeck.com/cyberagentdevelopers/introduction-to-database-use-cases-and-performance-investigations</link>
         <dc:date>2026-04-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>新規サービス開発におけるReact Nativeのリアル〜技術選定の裏側と実践的OSS活用〜 (Takahiro Kato)</title>
         <link>https://speakerdeck.com/grandbig/xin-gui-sahisukai-fa-niokerureact-nativenoriaru-ji-shu-xuan-ding-noli-ce-toshi-jian-de-osshuo-yong</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>hibiki 2026.04 LT</title>
-        <link>https://docs.google.com/presentation/d/1yARjsypdStWcq_RlIa2CCFUJxtkMH8zirTu4WCLzs5I/preview</link>
         <dc:date>2026-04-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
