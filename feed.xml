@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>第3木曜LT会 #28 (Tsubasa SEKIGUCHI)</title>
+        <link>https://speakerdeck.com/tinykitten/di-3mu-yao-lthui-number-28</link>
+        <dc:date>2026-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fiberとは何か？PHPが“非同期言語”になった瞬間 (kouki.miura)</title>
+        <link>https://speakerdeck.com/koukimiura/fibertohahe-ka-phpga-fei-tong-qi-yan-yu-ninatutashun-jian</link>
+        <dc:date>2026-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CursorとClaudeCodeとCodexとOpenCodeを実際に比較してみた (Terisuke)</title>
+        <link>https://speakerdeck.com/terisuke/cursortoclaudecodetocodextoopencodewoshi-ji-nibi-jiao-sitemita</link>
+        <dc:date>2026-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モブ社員がモブエンジニアを名乗って得られたこと_20260413 (モブエンジニア（Masaki Okuda）)</title>
+        <link>https://speakerdeck.com/masakiokuda/mobushe-yuan-gamobuenziniawoming-cheng-tutede-raretakoto-20260413</link>
+        <dc:date>2026-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260416_事務→エンジニアの転換～小さな効率化がキャリアを変えた話～ (Sakura Yurimiya,@yurimiyasakura)</title>
+        <link>https://www.docswell.com/s/yurimiya/ZGN13P-2026-04-16-CareerLT</link>
+        <dc:date>2026-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>30代、何を"諦める"か (Ryotaro Harada)</title>
+        <link>https://speakerdeck.com/alchemy1115/30dai-he-wo-di-meru-ka</link>
+        <dc:date>2026-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアがエンジニアとして 生きていくために考えていること (Yuuuuuuu)</title>
+        <link>https://speakerdeck.com/yuuuuuuu168/enziniagaenziniatosite-sheng-kiteikutamenikao-eteirukoto</link>
+        <dc:date>2026-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>転職のしくじりを語りたい (Koki Miura,@k_miura_io)</title>
+        <link>https://www.docswell.com/s/k_miura_io/K6NVX8-2026-04-16-195329</link>
+        <dc:date>2026-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今日から仕事で使うGodot Engine</title>
+        <link>https://docs.google.com/presentation/d/1PuMcHiRoEUBiS7-DYWD882BNLVRE-07fPWBixBMif1U/preview</link>
+        <dc:date>2026-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Copilotを極める会 - 開発者のための活用術 (ファインディ株式会社（イベント資料アップ用）)</title>
         <link>https://speakerdeck.com/findy_eventslides/github-copilotwoji-meruhui-kai-fa-zhe-notamenohuo-yong-shu</link>
         <dc:date>2026-04-15T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>音楽プログラミング言語mimium 理論と実装の詳細 (Tomoya Matsuura)</title>
         <link>https://speakerdeck.com/tomoyanonymous/yin-le-puroguraminguyan-yu-mimium-li-lun-toshi-zhuang-noxiang-xi</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260415_Music Tech Meetup</title>
-        <link>https://docs.google.com/presentation/d/1in-DKoaQNWB3ZusBngoTvHzbEh3evAn_tiXU9lKJ87o/preview</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeのスケジュール機能を使いこなす (Shogo Araki)</title>
-        <link>https://speakerdeck.com/gawingowin/claude-codenosukesiyuruji-neng-woshi-ikonasu</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeをカスタムして自分だけのClaude Codeを作ろう (Terisuke)</title>
-        <link>https://speakerdeck.com/terisuke/claude-codewokasutamusitezi-fen-dakenoclaude-codewozuo-rou</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Harness Engineering.pptx</title>
-        <link>https://docs.google.com/presentation/d/1wbHAchctmJr5hEJdhEDIiJ48QSFweYUM/preview</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JOAI2026 講評 (pao)</title>
-        <link>https://speakerdeck.com/go5paopao/joai2026-jiang-ping</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第2回日本人工知能オリンピック講評会 &amp; 日本代表解法紹介 (Akito Okamoto)</title>
-        <link>https://speakerdeck.com/ftps/joai2026review</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260416第35回オープンエッジデバイス研究会</title>
-        <link>https://docs.google.com/presentation/d/193PCVzq1ZZo-5XvcYb4X3U33R1lG39T7ZCqkMXWSBbM/preview</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アイデアソン開催報告_第35回OEDC</title>
-        <link>https://docs.google.com/presentation/d/1STYVxmff3zG0yeTRjGG2tyz9ptgqu25_5jJreB_-20E/preview</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>見えない開発現場を、 見える投資に変える (Norio Oikawa)</title>
-        <link>https://speakerdeck.com/rojoudotcom/jian-enaikai-fa-xian-chang-wo-jian-erutou-zi-nibian-eru</link>
         <dc:date>2026-04-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
