@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Copilotを極める会 - 開発者のための活用術 (ファインディ株式会社（イベント資料アップ用）)</title>
+        <link>https://speakerdeck.com/findy_eventslides/github-copilotwoji-meruhui-kai-fa-zhe-notamenohuo-yong-shu</link>
+        <dc:date>2026-04-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ご注文の差分はこちらですか？ 〜 AWS CDK のいろいろな差分検出と安全なデプロイ (Kenji Kono)</title>
         <link>https://speakerdeck.com/konokenj/cdk-snapshot-diff-drift</link>
         <dc:date>2026-04-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>見えない開発現場を、 見える投資に変える (Norio Oikawa)</title>
         <link>https://speakerdeck.com/rojoudotcom/jian-enaikai-fa-xian-chang-wo-jian-erutou-zi-nibian-eru</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新規サービス開発におけるReact Nativeのリアル〜技術選定の裏側と実践的OSS活用〜 (Takahiro Kato)</title>
-        <link>https://speakerdeck.com/grandbig/xin-gui-sahisukai-fa-niokerureact-nativenoriaru-ji-shu-xuan-ding-noli-ce-toshi-jian-de-osshuo-yong</link>
         <dc:date>2026-04-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
