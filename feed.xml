@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Azure Lifecycle with Copilot CLI (Toru Makabe)</title>
+        <link>https://speakerdeck.com/torumakabe/azure-lifecycle-with-copilot-cli</link>
+        <dc:date>2026-04-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「開発生産性」ではなく「事業生産性」こそが本質~ ROICで紐解く、開発の「稼ぐ力」の最大化 ~  (ワンキャリアTech)</title>
         <link>https://speakerdeck.com/onecareer_tech/kai-fa-sheng-chan-xing-dehanaku-shi-ye-sheng-chan-xing-kosogaben-zhi-roicdeniu-jie-ku-kai-fa-no-jia-guli-nozui-da-hua</link>
         <dc:date>2026-04-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CDKでさまざまなエージェントを構築してみた (くらっち)</title>
         <link>https://speakerdeck.com/kuracchi_enj1/cdkdesamazamanaezientowogou-zhu-sitemita</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026_04_15_量子計算をパズルとして解く (HideakiTakechi)</title>
-        <link>https://speakerdeck.com/hideakitakechi/2026-04-15-liang-zi-ji-suan-wopazurutositejie-ku</link>
         <dc:date>2026-04-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
