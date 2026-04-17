@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>"SQLは書けません"から始まる データドリブン (kubell)</title>
+        <link>https://speakerdeck.com/kubell_hr/260416-goda</link>
+        <dc:date>2026-04-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Azure Lifecycle with Copilot CLI (Toru Makabe)</title>
         <link>https://speakerdeck.com/torumakabe/azure-lifecycle-with-copilot-cli</link>
         <dc:date>2026-04-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIエージェントを構築して感じた、AI時代のCDKとの向き合い方 (Makky12)</title>
         <link>https://speakerdeck.com/smt7174/aiezientowogou-zhu-sitegan-zita-aishi-dai-nocdktonoxiang-kihe-ifang</link>
-        <dc:date>2026-04-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDKでさまざまなエージェントを構築してみた (くらっち)</title>
-        <link>https://speakerdeck.com/kuracchi_enj1/cdkdesamazamanaezientowogou-zhu-sitemita</link>
         <dc:date>2026-04-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
