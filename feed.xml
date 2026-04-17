@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Azure PortalなどにみるWebアクセシビリティ (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/azure-portalnadonimiruwebakusesibiritei</link>
+        <dc:date>2026-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>具象構文木とRed Green Tree (nuskey,@nuskey8)</title>
         <link>https://www.docswell.com/s/nuskey/Z6NVW8-cst-and-red-green-tree</link>
         <dc:date>2026-04-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Fiberとは何か？PHPが“非同期言語”になった瞬間 (kouki.miura)</title>
         <link>https://speakerdeck.com/koukimiura/fibertohahe-ka-phpga-fei-tong-qi-yan-yu-ninatutashun-jian</link>
-        <dc:date>2026-04-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CursorとClaudeCodeとCodexとOpenCodeを実際に比較してみた (Terisuke)</title>
-        <link>https://speakerdeck.com/terisuke/cursortoclaudecodetocodextoopencodewoshi-ji-nibi-jiao-sitemita</link>
         <dc:date>2026-04-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
