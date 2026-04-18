@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WorkIQ × GitHub Copilot ～エンジニアが使うならこれだ！～ (Hiroki Nomura,@Shrkm1204)</title>
+        <link>https://www.docswell.com/s/shirokuma/K27MLG-2026-04-18-ghcopilot-workiq</link>
+        <dc:date>2026-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェントの評価、上から見るか？下から見るか？ (Kento Yamada,@ymd65536)</title>
+        <link>https://www.docswell.com/s/ymd65536/53JM6M-2026-04-18</link>
+        <dc:date>2026-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>#jawsugyokohama 100 LT11, "My AWS Journey 2011-2026 - kwntravel" (Shinichiro Kawano)</title>
+        <link>https://speakerdeck.com/shinichirokawano/number-jawsugyokohama-100-lt11-my-aws-journey-2011-2026-kwntravel</link>
+        <dc:date>2026-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure Speech で音声対応してみよう (kosmosebi)</title>
+        <link>https://speakerdeck.com/kosmosebi/azure-speech-deyin-sheng-dui-ying-sitemiyou</link>
+        <dc:date>2026-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VS Codeで広がるAzure活用の最前線 PSC 三宅 (三宅有三)</title>
+        <link>https://www.docswell.com/s/8398996189/5E1E4Q-2026-04-18-153047</link>
+        <dc:date>2026-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アクセシビリティについて始めたこと、始めたいこと</title>
+        <link>https://docs.google.com/presentation/d/1G0L1cYbybdWjavByVph3FPcWntyv68khCLw1R6_BJ5A/preview</link>
+        <dc:date>2026-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Inspector概論 (Masedati)</title>
+        <link>https://speakerdeck.com/masedati/amazon-inspectorgai-lun</link>
+        <dc:date>2026-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft 365 を触って学ぶ！環境“まるごと”お持ち帰りハンズオン (Shuji Noguchi)</title>
+        <link>https://www.docswell.com/s/carol0226/ZX2EMR-m365-takeout-fukuoka</link>
+        <dc:date>2026-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SECKUN-NEXT20260418 (Hiroshi Koide,@hirosk)</title>
+        <link>https://www.docswell.com/s/hirosk/KWRWJJ-2026-04-18-112549</link>
+        <dc:date>2026-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260418_GlobalAzure2026_AzureFabric と数理最適化の現在地 (Masahide TAKASUKA,@mshdtksk)</title>
+        <link>https://www.docswell.com/s/3324212129/KDMNN8-2026-04-04-231831</link>
+        <dc:date>2026-04-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2026年、知っておくべき最新 サーバレスTips10選/serverless-10-tips (Serverless Operations)</title>
         <link>https://speakerdeck.com/slsops/serverless-10-tips</link>
         <dc:date>2026-04-17T15:00:00Z</dc:date>
@@ -54,55 +104,5 @@
         <title>UIの境界線をデザインする | React Tokyo #15 メイントーク (SASAPIYO)</title>
         <link>https://speakerdeck.com/sasagar/uinojing-jie-xian-wodezainsuru-react-tokyo-number-15-meintoku</link>
         <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初心者でもコードゴルフに挑戦! (Arishow)</title>
-        <link>https://speakerdeck.com/shotaarima/chu-xin-zhe-demokodogoruhunitiao-zhan</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>安全なコンテナイメージを作るための新しい業界標準: Docker Hardened Images (根本 征(Tadashi Nemoto))</title>
-        <link>https://www.docswell.com/s/tadashi0713/KR82N3-docker-3shake-webinar</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260417_第7回【未経験者向け】AI時代の生存戦略！未経験から「創れる人」になるアプリ開発体験 (浦﨑)</title>
-        <link>https://speakerdeck.com/urasaki/20260417-di-7hui-wei-jing-yan-zhe-xiang-ke-aishi-dai-nosheng-cun-zhan-lue-wei-jing-yan-kara-chuang-reruren-ninaruapurikai-fa-ti-yan</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>60分で学ぶ最新Webフロントエンド (mizdra)</title>
-        <link>https://speakerdeck.com/mizdra/geek-camp-2026-frontend</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>"SQLは書けません"から始まる データドリブン (kubell)</title>
-        <link>https://speakerdeck.com/kubell_hr/260416-goda</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Lifecycle with Copilot CLI (Toru Makabe)</title>
-        <link>https://speakerdeck.com/torumakabe/azure-lifecycle-with-copilot-cli</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「開発生産性」ではなく「事業生産性」こそが本質~ ROICで紐解く、開発の「稼ぐ力」の最大化 ~  (ワンキャリアTech)</title>
-        <link>https://speakerdeck.com/onecareer_tech/kai-fa-sheng-chan-xing-dehanaku-shi-ye-sheng-chan-xing-kosogaben-zhi-roicdeniu-jie-ku-kai-fa-no-jia-guli-nozui-da-hua</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM Compute Infrastructure Overview (KARAKURI Inc.)</title>
-        <link>https://speakerdeck.com/karakurist/llm-compute-infrastructure-overview</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDK Deployのための ”反響定位” (watany)</title>
-        <link>https://speakerdeck.com/watany/echolocation-for-cdk-deploy</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第3木曜LT会 #28 (Tsubasa SEKIGUCHI)</title>
-        <link>https://speakerdeck.com/tinykitten/di-3mu-yao-lthui-number-28</link>
-        <dc:date>2026-04-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
