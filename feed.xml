@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ぼくがかんがえたさいきょうのあうとぷっと (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/bokugakangaetasaikiyounoautopututo</link>
+        <dc:date>2026-04-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>認証統合から始めるフロントエンドの機能単位開発 — マイクロサービス思想の適用 (kouki.miura)</title>
+        <link>https://speakerdeck.com/koukimiura/ren-zheng-tong-he-karashi-meruhurontoendonoji-neng-dan-wei-kai-fa-maikurosabisusi-xiang-noshi-yong</link>
+        <dc:date>2026-04-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AIには手足がたりない (Rj.CHIBA)</title>
+        <link>https://speakerdeck.com/rjchiba/sheng-cheng-ainihashou-zu-gatarinai</link>
+        <dc:date>2026-04-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fabric ショートカット Deep Dive - コストの仕組とリアルを知る - (大竹礼二（REIJI OTAKE）)</title>
+        <link>https://speakerdeck.com/reireireijinjin6/fabric-siyotokatuto-deep-dive-kosutonoshi-zu-toriaruwozhi-ru</link>
+        <dc:date>2026-04-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fabric と Databricks連携入門 OneLakeカタログフェデレーション × Azure Databricks ミラー化カタログ (Satoshi ENOMOTO)</title>
+        <link>https://www.docswell.com/s/satoshi_enomoto/K6NGJ4-2026-04-20-194513</link>
+        <dc:date>2026-04-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>俺の考える最強のCopilot活用術 for 営業マン～M365 Copilotがもたらす新しい営業スタイル～ (ニシ サダオミ,@sadabon444)</title>
+        <link>https://www.docswell.com/s/4997286788/ZN7LV2-2026-04-20-193641</link>
+        <dc:date>2026-04-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIエージェントの権限管理 1: MCPサーバー・ ツールの Fine grained access control 編 (Renya Kujirada)</title>
         <link>https://speakerdeck.com/ren8k/aws-mcp-access-control-for-ai-agents</link>
         <dc:date>2026-04-19T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>20260418_GlobalAzure2026_AzureFabric と数理最適化の現在地 (Masahide TAKASUKA,@mshdtksk)</title>
         <link>https://www.docswell.com/s/3324212129/KDMNN8-2026-04-04-231831</link>
         <dc:date>2026-04-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026年、知っておくべき最新 サーバレスTips10選/serverless-10-tips (Serverless Operations)</title>
-        <link>https://speakerdeck.com/slsops/serverless-10-tips</link>
-        <dc:date>2026-04-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure PortalなどにみるWebアクセシビリティ (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/azure-portalnadonimiruwebakusesibiritei</link>
-        <dc:date>2026-04-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>具象構文木とRed Green Tree (nuskey,@nuskey8)</title>
-        <link>https://www.docswell.com/s/nuskey/Z6NVW8-cst-and-red-green-tree</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Brainf*ckをターゲットとしたコンパイラの開発 (muginoda)</title>
-        <link>https://www.docswell.com/s/muginoda/ZVJ1GE-2026-04-17-195612</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リンカを作ってみた (hotaru)</title>
-        <link>https://speakerdeck.com/hotaru_jp/rinkawozuo-tutemita</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Terilog(仮称): 三進拡張Verilogを作ってみた (きっちー,@rikeden_net)</title>
-        <link>https://www.docswell.com/s/4857820990/5GN1RP-2026-04-17-201914</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
