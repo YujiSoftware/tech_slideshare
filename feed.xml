@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIエージェントの権限管理 1: MCPサーバー・ ツールの Fine grained access control 編 (Renya Kujirada)</title>
+        <link>https://speakerdeck.com/ren8k/aws-mcp-access-control-for-ai-agents</link>
+        <dc:date>2026-04-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>kenhou: 2 Months of NixOS</title>
         <link>https://docs.google.com/presentation/d/1c_9RDjUCSvlz6c-cQ9-pKb_bKSfr90Zv17rlufOb3Zs/preview</link>
         <dc:date>2026-04-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Terilog(仮称): 三進拡張Verilogを作ってみた (きっちー,@rikeden_net)</title>
         <link>https://www.docswell.com/s/4857820990/5GN1RP-2026-04-17-201914</link>
-        <dc:date>2026-04-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JEDAI in Osaka 2026イントロ (Takaaki Yayoi)</title>
-        <link>https://speakerdeck.com/taka_aki/jedai-in-osaka-2026intoro</link>
         <dc:date>2026-04-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
