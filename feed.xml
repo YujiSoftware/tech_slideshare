@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS DevOps Agentはチームメイトになれるのか？/ Can AWS DevOps Agent become a teammate (Masanori Yamaguchi)</title>
+        <link>https://speakerdeck.com/kinunori/can-aws-devops-agent-become-a-teammate</link>
+        <dc:date>2026-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI-DLC Deep Dive (yuukiyo)</title>
+        <link>https://speakerdeck.com/yuukiyo/ai-dlc-deep-dive</link>
+        <dc:date>2026-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>その LLM 制御、本当に信頼できますか？ / Can We Reliably Control LLMs? (Shunsuke KITADA)</title>
         <link>https://speakerdeck.com/shunk031/can-we-reliably-control-llms</link>
         <dc:date>2026-04-20T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>AIエージェントの権限管理 1: MCPサーバー・ ツールの Fine grained access control 編 (Renya Kujirada)</title>
         <link>https://speakerdeck.com/ren8k/aws-mcp-access-control-for-ai-agents</link>
         <dc:date>2026-04-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>kenhou: 2 Months of NixOS</title>
-        <link>https://docs.google.com/presentation/d/1c_9RDjUCSvlz6c-cQ9-pKb_bKSfr90Zv17rlufOb3Zs/preview</link>
-        <dc:date>2026-04-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最近の技術系の話題で気になったもの色々（IoT系以外も） / IoTLT 花見予定会（たぶんBBQ） @都立潮風公園バーベキュー広場 (you（@youtoy）)</title>
-        <link>https://speakerdeck.com/you/iotlt-20260419</link>
-        <dc:date>2026-04-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
