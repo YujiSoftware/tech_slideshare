@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践ハーネスエンジニアリング：TAKTで実現するAIエージェント制御 / Practical Harness Engineering: AI Agent Control Enabled by TAKT (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/practical-harness-engineering-ai-agent-control-enabled-by-takt</link>
+        <dc:date>2026-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ハーネスエンジニアリングにどう向き合うか 〜ルールファイルを超えて開発プロセスを設計する〜 / How to approach harness engineering (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/how-to-approach-harness-engineering</link>
+        <dc:date>2026-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ハーネスエンジニアリングの概要と設計思想 (sergicalsix)</title>
+        <link>https://speakerdeck.com/sergicalsix/hanesuenziniaringunogai-yao-toshe-ji-si-xiang</link>
+        <dc:date>2026-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS DevOps Agentはチームメイトになれるのか？/ Can AWS DevOps Agent become a teammate (Masanori Yamaguchi)</title>
         <link>https://speakerdeck.com/kinunori/can-aws-devops-agent-become-a-teammate</link>
         <dc:date>2026-04-21T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Fabric ショートカット Deep Dive - コストの仕組とリアルを知る - (大竹礼二（REIJI OTAKE）)</title>
         <link>https://speakerdeck.com/reireireijinjin6/fabric-siyotokatuto-deep-dive-kosutonoshi-zu-toriaruwozhi-ru</link>
-        <dc:date>2026-04-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fabric と Databricks連携入門 OneLakeカタログフェデレーション × Azure Databricks ミラー化カタログ (Satoshi ENOMOTO)</title>
-        <link>https://www.docswell.com/s/satoshi_enomoto/K6NGJ4-2026-04-20-194513</link>
-        <dc:date>2026-04-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>俺の考える最強のCopilot活用術 for 営業マン～M365 Copilotがもたらす新しい営業スタイル～ (ニシ サダオミ,@sadabon444)</title>
-        <link>https://www.docswell.com/s/4997286788/ZN7LV2-2026-04-20-193641</link>
-        <dc:date>2026-04-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントの権限管理 1: MCPサーバー・ ツールの Fine grained access control 編 (Renya Kujirada)</title>
-        <link>https://speakerdeck.com/ren8k/aws-mcp-access-control-for-ai-agents</link>
         <dc:date>2026-04-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
