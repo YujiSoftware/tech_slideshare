@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最新の脅威動向から考える、コンテナサプライチェーンのリスクと対策 (Kyohei Mizumoto)</title>
+        <link>https://speakerdeck.com/kyohmizu/zui-xin-noxie-wei-dong-xiang-karakao-eru-kontenasapuraitiennorisukutodui-ce</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Do Ruby::Box dream of Modular Monolith? (Tomohiro Hashidate)</title>
         <link>https://speakerdeck.com/joker1007/do-ruby-box-dream-of-modular-monolith</link>
         <dc:date>2026-04-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>その LLM 制御、本当に信頼できますか？ / Can We Reliably Control LLMs? (Shunsuke KITADA)</title>
         <link>https://speakerdeck.com/shunk031/can-we-reliably-control-llms</link>
-        <dc:date>2026-04-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanオンラインワークショップ - API設計入門 - 20260421</title>
-        <link>https://docs.google.com/presentation/d/1nybFwzY6mrfZRGdk8igzr86JcL8ulfntdgQ6TJ65nZ4/preview</link>
         <dc:date>2026-04-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
