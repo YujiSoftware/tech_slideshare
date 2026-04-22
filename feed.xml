@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>目的ファーストのハーネス設計 ~ハーネスの変更容易性を高めるための優先順位~ (Gota)</title>
+        <link>https://speakerdeck.com/gotalab555/mu-de-huasutonohanesushe-ji-hanesunobian-geng-rong-yi-xing-wogao-merutamenoyou-xian-shun-wei</link>
+        <dc:date>2026-04-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践ハーネスエンジニアリング：TAKTで実現するAIエージェント制御 / Practical Harness Engineering: AI Agent Control Enabled by TAKT (nrs)</title>
         <link>https://speakerdeck.com/nrslib/practical-harness-engineering-ai-agent-control-enabled-by-takt</link>
         <dc:date>2026-04-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成AIには手足がたりない (Rj.CHIBA)</title>
         <link>https://speakerdeck.com/rjchiba/sheng-cheng-ainihashou-zu-gatarinai</link>
-        <dc:date>2026-04-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fabric ショートカット Deep Dive - コストの仕組とリアルを知る - (大竹礼二（REIJI OTAKE）)</title>
-        <link>https://speakerdeck.com/reireireijinjin6/fabric-siyotokatuto-deep-dive-kosutonoshi-zu-toriaruwozhi-ru</link>
         <dc:date>2026-04-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
