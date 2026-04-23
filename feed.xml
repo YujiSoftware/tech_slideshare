@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM時代の検索アーキテクチャと技術的意思決定 (shibuiwilliam)</title>
+        <link>https://speakerdeck.com/shibuiwilliam/llmshi-dai-nojian-suo-akitekutiyatoji-shu-de-yi-si-jue-ding</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>デザインとフロントエンドの境界が融ける Claude Code × Figma (littlebusters)</title>
         <link>https://speakerdeck.com/littlebusters/claude-code-seminar-where-design-and-frontend-blur-claude-code-x-figma</link>
         <dc:date>2026-04-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS DevOps Agentはチームメイトになれるのか？/ Can AWS DevOps Agent become a teammate (Masanori Yamaguchi)</title>
         <link>https://speakerdeck.com/kinunori/can-aws-devops-agent-become-a-teammate</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI-DLC Deep Dive (yuukiyo)</title>
-        <link>https://speakerdeck.com/yuukiyo/ai-dlc-deep-dive</link>
         <dc:date>2026-04-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
