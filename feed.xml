@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>基盤を育てる 外部SaaS連携の運用 (Hiroto Gamo)</title>
+        <link>https://speakerdeck.com/gamonges_dresscode/ji-pan-woyu-teru-wai-bu-saaslian-xi-noyun-yong</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>t *testing.T は どこからやってくるの？ (Kotaro Otaka)</title>
         <link>https://speakerdeck.com/otakakot/where-does-tsting-t-come-from</link>
         <dc:date>2026-04-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ハーネスエンジニアリングにどう向き合うか 〜ルールファイルを超えて開発プロセスを設計する〜 / How to approach harness engineering (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/how-to-approach-harness-engineering</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハーネスエンジニアリングの概要と設計思想 (sergicalsix)</title>
-        <link>https://speakerdeck.com/sergicalsix/hanesuenziniaringunogai-yao-toshe-ji-si-xiang</link>
         <dc:date>2026-04-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
