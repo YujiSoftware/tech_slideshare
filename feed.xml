@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260423_執筆の工夫と裏側 技術書の企画から刊行まで / From the planning to the publication of technical book (nash_efp)</title>
+        <link>https://speakerdeck.com/nash_efp/from-the-planning-to-the-publication-of-technical-books-at-bai-jin-kuang-ye-meetup-vol-23</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>白金鉱業meetup発表資料 (tetsuroito)</title>
+        <link>https://speakerdeck.com/tetsuroito/bai-jin-kuang-ye-meetupfa-biao-zi-liao</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RPC導入_失敗の理由 (Kaito.K)</title>
+        <link>https://speakerdeck.com/sc30gsw/rpcdao-ru-shi-bai-noli-you</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>tRPCの概要と少しだけパフォーマンス (Keigo Ebihara)</title>
+        <link>https://speakerdeck.com/misoton665/trpcnogai-yao-toshao-sidakepahuomansu</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実用！Hono RPC2026 (yodaka)</title>
+        <link>https://speakerdeck.com/yodaka/shi-yong-hono-rpc2026</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新しく入った人が困らない現場をつくる: 学習コスト改善の試み (gecko655)</title>
+        <link>https://speakerdeck.com/gecko655/xin-sikuru-tutaren-gakun-ranaixian-chang-wotukuru-xue-xi-kosutogai-shan-noshi-mi</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模テーブルと高トラフィック環境で 終わらないオンラインDDLと戦った1年間 (HonMarkHunt)</title>
+        <link>https://speakerdeck.com/honmarkhunt/da-gui-mo-teburutogao-torahuitukuhuan-jing-de-zhong-waranaionrainddltozhan-tuta1nian-jian</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>はじめての MagicPod生成AI機能 機能紹介から活用方法まで (MagicPod)</title>
+        <link>https://speakerdeck.com/magicpod/magicpod-ai-introduction</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>物理学者は司法書士に AIの影響を説明できるか？</title>
+        <link>https://docs.google.com/presentation/d/1k-7YvPBIy3bRJMf1P9YjwwqxFLrK4X1sAxc0RxWnHtE/preview</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>図面資産×AI 眠れる資産を起こす挑戦 (青野正寛)</title>
+        <link>https://speakerdeck.com/aonomasahiro/tu-mian-zi-chan-xai-mian-reruzi-chan-woqi-kosutiao-zhan</link>
+        <dc:date>2026-04-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>基盤を育てる 外部SaaS連携の運用 (Hiroto Gamo)</title>
         <link>https://speakerdeck.com/gamonges_dresscode/ji-pan-woyu-teru-wai-bu-saaslian-xi-noyun-yong</link>
         <dc:date>2026-04-22T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>マルチエージェントの現在地を整理してみた (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/multi-agent</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代における技術的負債への取り組み (Tadashi Shigeoka)</title>
-        <link>https://speakerdeck.com/codenote/tackling-technical-debt-in-the-ai-era</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「責任あるAIエージェント」こそ自社で開発しよう！ (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/ze-ren-aruaieziento-kosozi-she-dekai-fa-siyou</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BlenderをCodexで動かす (ufoo68)</title>
-        <link>https://speakerdeck.com/ufoo68/blenderwocodexdedong-kasu</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>レビューしきれない？それは「全て人力でのレビュー」だからではないでしょうか (amixedcolor)</title>
-        <link>https://speakerdeck.com/amixedcolor/rebiyusikirenai-soreha-quan-teren-li-denorebiyu-dakaradehanaidesiyouka</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260422_中東情勢・物流週次モニタリング (NobuakiOshiro)</title>
-        <link>https://speakerdeck.com/doradora09/20260422-zhong-dong-qing-shi-wu-liu-zhou-ci-monitarinku-4cb1b961-e5a0-4c39-acb7-26c891bcc500</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Journey of Box Building (Satoshi Tagomori)</title>
-        <link>https://speakerdeck.com/tagomoris/the-journey-of-box-building</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代における具体と抽象の往復  - 日常にチャンスがある / Moving Between the Concrete (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/moving-between-the-concrete</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>目的ファーストのハーネス設計 ~ハーネスの変更容易性を高めるための優先順位~ (Gota)</title>
-        <link>https://speakerdeck.com/gotalab555/mu-de-huasutonohanesushe-ji-hanesunobian-geng-rong-yi-xing-wogao-merutamenoyou-xian-shun-wei</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践ハーネスエンジニアリング：TAKTで実現するAIエージェント制御 / Practical Harness Engineering: AI Agent Control Enabled by TAKT (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/practical-harness-engineering-ai-agent-control-enabled-by-takt</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハーネスエンジニアリングにどう向き合うか 〜ルールファイルを超えて開発プロセスを設計する〜 / How to approach harness engineering (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/how-to-approach-harness-engineering</link>
         <dc:date>2026-04-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
