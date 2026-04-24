@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Conducting electronic sounds with PicoRuby (on Rails) (Ryo Ishigaki)</title>
+        <link>https://speakerdeck.com/risgk/conducting-electronic-sounds-with-picoruby-on-rails</link>
+        <dc:date>2026-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Route 53 Global Resolver で高額課金発生！ (otanikohei)</title>
         <link>https://speakerdeck.com/otanikohei2023/route-53-global-resolver-tegao-e-ke-jin-fa-sheng</link>
         <dc:date>2026-04-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>tRPCの概要と少しだけパフォーマンス (Keigo Ebihara)</title>
         <link>https://speakerdeck.com/misoton665/trpcnogai-yao-toshao-sidakepahuomansu</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実用！Hono RPC2026 (yodaka)</title>
-        <link>https://speakerdeck.com/yodaka/shi-yong-hono-rpc2026</link>
         <dc:date>2026-04-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
