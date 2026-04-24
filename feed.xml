@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREに優しいTerraform構成 modulesとstateの組み方 (hiyanger)</title>
+        <link>https://speakerdeck.com/hiyanger/sreniyou-siiterraformgou-cheng-modulestostatenozu-mifang</link>
+        <dc:date>2026-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>mruby on C#: From VM Implementation to Game Scripting (RubyKaigi 2026) (hadashiA)</title>
         <link>https://speakerdeck.com/hadashia/mruby-on-c-number-from-vm-implementation-to-game-scripting</link>
         <dc:date>2026-04-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>デザインとフロントエンドの境界が融ける Claude Code × Figma (littlebusters)</title>
         <link>https://speakerdeck.com/littlebusters/claude-code-seminar-where-design-and-frontend-blur-claude-code-x-figma</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最新の脅威動向から考える、コンテナサプライチェーンのリスクと対策 (Kyohei Mizumoto)</title>
-        <link>https://speakerdeck.com/kyohmizu/zui-xin-noxie-wei-dong-xiang-karakao-eru-kontenasapuraitiennorisukutodui-ce</link>
         <dc:date>2026-04-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
