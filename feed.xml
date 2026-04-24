@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Route 53 Global Resolver で高額課金発生！ (otanikohei)</title>
+        <link>https://speakerdeck.com/otanikohei2023/route-53-global-resolver-tegao-e-ke-jin-fa-sheng</link>
+        <dc:date>2026-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ソフトウェア設計の結合バランス #phperkaigi (Takuma Kajikawa)</title>
+        <link>https://speakerdeck.com/kajitack/balancing-coupling-in-software-design-review</link>
+        <dc:date>2026-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SiLA2 環境での AIコーディング例</title>
+        <link>https://docs.google.com/presentation/d/1BgWFvUUr9YrOW248vEsyI713XlxyRJtK7ayYBjvtwC4/preview</link>
+        <dc:date>2026-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHPer、Cloudflare に引っ越す (Suguru Ohki)</title>
+        <link>https://speakerdeck.com/suguruooki/phper-cloudflare-niyin-tuyue-su</link>
+        <dc:date>2026-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>🪝 便利な Property Hooks を 使ってみよう 🪝 (SAW)</title>
+        <link>https://speakerdeck.com/azuki/bian-li-na-property-hooks-wo-shi-tutemiyou</link>
+        <dc:date>2026-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AIを使って生成AIBotを作っていた件 (アールスリーインスティテュート,@gusukuSupport)</title>
+        <link>https://www.docswell.com/s/r3it/ZVJPY4-2026-04-24-195325</link>
+        <dc:date>2026-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIベース静的検査器の偽陽性率を抑える工夫3選 (Kuniwak)</title>
+        <link>https://speakerdeck.com/orgachem/ai-based-static-analyzer-development-insights</link>
+        <dc:date>2026-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GoにおけるMutation Testingの実践チャレンジ (DeNA_Tech,@DeNAxTech)</title>
+        <link>https://www.docswell.com/s/DeNA_Tech/5MQ1G2-2026-03-23-132421</link>
+        <dc:date>2026-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Terraform言語の静的解析 / static analysis of Terraform language (Kazuma Watanabe)</title>
+        <link>https://speakerdeck.com/wata727/static-analysis-of-terraform-language</link>
+        <dc:date>2026-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREに優しいTerraform構成 modulesとstateの組み方 (hiyanger)</title>
         <link>https://speakerdeck.com/hiyanger/sreniyou-siiterraformgou-cheng-modulestostatenozu-mifang</link>
         <dc:date>2026-04-23T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>実用！Hono RPC2026 (yodaka)</title>
         <link>https://speakerdeck.com/yodaka/shi-yong-hono-rpc2026</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新しく入った人が困らない現場をつくる: 学習コスト改善の試み (gecko655)</title>
-        <link>https://speakerdeck.com/gecko655/xin-sikuru-tutaren-gakun-ranaixian-chang-wotukuru-xue-xi-kosutogai-shan-noshi-mi</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模テーブルと高トラフィック環境で 終わらないオンラインDDLと戦った1年間 (HonMarkHunt)</title>
-        <link>https://speakerdeck.com/honmarkhunt/da-gui-mo-teburutogao-torahuitukuhuan-jing-de-zhong-waranaionrainddltozhan-tuta1nian-jian</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はじめての MagicPod生成AI機能 機能紹介から活用方法まで (MagicPod)</title>
-        <link>https://speakerdeck.com/magicpod/magicpod-ai-introduction</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>物理学者は司法書士に AIの影響を説明できるか？</title>
-        <link>https://docs.google.com/presentation/d/1k-7YvPBIy3bRJMf1P9YjwwqxFLrK4X1sAxc0RxWnHtE/preview</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>図面資産×AI 眠れる資産を起こす挑戦 (青野正寛)</title>
-        <link>https://speakerdeck.com/aonomasahiro/tu-mian-zi-chan-xai-mian-reruzi-chan-woqi-kosutiao-zhan</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>基盤を育てる 外部SaaS連携の運用 (Hiroto Gamo)</title>
-        <link>https://speakerdeck.com/gamonges_dresscode/ji-pan-woyu-teru-wai-bu-saaslian-xi-noyun-yong</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>t *testing.T は どこからやってくるの？ (Kotaro Otaka)</title>
-        <link>https://speakerdeck.com/otakakot/where-does-tsting-t-come-from</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM時代の検索アーキテクチャと技術的意思決定 (shibuiwilliam)</title>
-        <link>https://speakerdeck.com/shibuiwilliam/llmshi-dai-nojian-suo-akitekutiyatoji-shu-de-yi-si-jue-ding</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザインとフロントエンドの境界が融ける Claude Code × Figma (littlebusters)</title>
-        <link>https://speakerdeck.com/littlebusters/claude-code-seminar-where-design-and-frontend-blur-claude-code-x-figma</link>
         <dc:date>2026-04-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
