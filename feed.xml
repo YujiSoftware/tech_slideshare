@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>mruby on C#: From VM Implementation to Game Scripting (RubyKaigi 2026) (hadashiA)</title>
+        <link>https://speakerdeck.com/hadashia/mruby-on-c-number-from-vm-implementation-to-game-scripting</link>
+        <dc:date>2026-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Programming with a DJ Controller — not vibe coding (seki at druby.org)</title>
         <link>https://speakerdeck.com/m_seki/programming-with-a-dj-controller-not-vibe-coding</link>
         <dc:date>2026-04-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>最新の脅威動向から考える、コンテナサプライチェーンのリスクと対策 (Kyohei Mizumoto)</title>
         <link>https://speakerdeck.com/kyohmizu/zui-xin-noxie-wei-dong-xiang-karakao-eru-kontenasapuraitiennorisukutodui-ce</link>
         <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Do Ruby::Box dream of Modular Monolith? (Tomohiro Hashidate)</title>
-        <link>https://speakerdeck.com/joker1007/do-ruby-box-dream-of-modular-monolith</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
