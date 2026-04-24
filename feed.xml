@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Programming with a DJ Controller — not vibe coding (seki at druby.org)</title>
+        <link>https://speakerdeck.com/m_seki/programming-with-a-dj-controller-not-vibe-coding</link>
+        <dc:date>2026-04-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>The Less-Told Story of Socket Timeouts (Misaki Shioi(塩井美咲/しおい))</title>
         <link>https://speakerdeck.com/coe401_/the-less-told-story-of-socket-timeouts</link>
         <dc:date>2026-04-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Do Ruby::Box dream of Modular Monolith? (Tomohiro Hashidate)</title>
         <link>https://speakerdeck.com/joker1007/do-ruby-box-dream-of-modular-monolith</link>
-        <dc:date>2026-04-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rapid Start: Faster Internet Connections, with Ruby's Help (kazuho)</title>
-        <link>https://speakerdeck.com/kazuho/faster-internet-connections-with-rubys-help</link>
         <dc:date>2026-04-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
