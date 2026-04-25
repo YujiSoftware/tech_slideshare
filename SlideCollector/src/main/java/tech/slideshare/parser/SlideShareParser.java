@@ -51,27 +51,6 @@ public class SlideShareParser implements Parser {
                 throw e;
             }
 
-            // URL を正規化
-            Optional<String> canonical = doc.getElementsByTag("link")
-                    .stream()
-                    .filter(e -> e.attr("rel").equals("canonical"))
-                    .findFirst()
-                    .map(e -> e.attr("href"));
-            if (canonical.isPresent() && !link.equals(canonical.get())) {
-                link = canonical.get();
-                doc = Jsoup.connect(link).userAgent(USER_AGENT).get();
-            }
-
-            // スライドページかどうかの判定
-            boolean isPresentation = doc.getElementsByTag("meta")
-                    .stream()
-                    .filter(e -> e.attr("name").equals("twitter:card"))
-                    .anyMatch(e -> e.attr("content").equals("player"));
-            if (!isPresentation) {
-                logger.debug("Not presentation page: {}", link);
-                return Optional.empty();
-            }
-
             Element json = doc.getElementById("__NEXT_DATA__");
             if (json == null) {
                 logger.debug("__NEXT_DATA__ not found: {}", link);
@@ -81,6 +60,24 @@ public class SlideShareParser implements Parser {
             ObjectMapper mapper = new ObjectMapper();
             NextData nextData = mapper.readValue(json.html(), NextData.class);
             NextData.Props.PageProps.Slideshow slideshow = nextData.props.pageProps.slideshow;
+
+            // スライドページかどうかの判定
+            if (slideshow == null) {
+                logger.debug("Not presentation page: {}", link);
+                return Optional.empty();
+            }
+
+            // プライベートかどうかの判定
+            if (slideshow.isPrivate) {
+                logger.debug("Private page: {}", link);
+                return Optional.empty();
+            }
+
+            // URL を正規化
+            if (!link.equals(slideshow.canonicalUrl)) {
+                link = slideshow.canonicalUrl;
+                doc = Jsoup.connect(link).userAgent(USER_AGENT).get();
+            }
 
             if (!slideshow.isViewable) {
                 logger.debug("Not viewable: {}", link);
