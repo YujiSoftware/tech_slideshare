@@ -117,7 +117,7 @@ public class SlideShareParser implements Parser {
 
     private static String getTwitter(String username) {
         try {
-            String url = "https://www.slideshare.net/" + username;
+            String url = "https://www.slideshare.net/" + username + "?tab=about";
 
             return Jsoup.connect(url).userAgent(USER_AGENT).get()
                     .select("a[aria-label='Twitter']")
