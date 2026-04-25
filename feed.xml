@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vtuberになろう (Keita Nakata)</title>
+        <link>https://speakerdeck.com/tyukei/vtuberninarou</link>
+        <dc:date>2026-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ShareTrace 内部処理の調査 (meow)</title>
+        <link>https://speakerdeck.com/meow_noisy/st</link>
+        <dc:date>2026-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>祝！！System.CommandLine GA！！ (KM5075)</title>
+        <link>https://speakerdeck.com/km5075/zhu-system-dot-commandline-ga</link>
+        <dc:date>2026-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Copilot SDKによるマルチコーディングエージェントシステムの開発 (Kento Yamada,@ymd65536)</title>
+        <link>https://www.docswell.com/s/ymd65536/ZJW913-2026-04-25</link>
+        <dc:date>2026-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHubCopilotCLIをはじめよう.pdf (tkym)</title>
+        <link>https://speakerdeck.com/htkym/githubcopilotcliwohazimeyou</link>
+        <dc:date>2026-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メタバースで地域.rbやってみた！ (ItoJum)</title>
+        <link>https://speakerdeck.com/itojum/metabasudedi-yu-dot-rbyatutemita</link>
+        <dc:date>2026-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RubyからSwiftの関数を呼ぶ - 呼び方と注意点 (Takahiro Suzuki,@sussan0416)</title>
+        <link>https://www.docswell.com/s/sussan0416/K7NG3W-2026-04-25-Tram-LT</link>
+        <dc:date>2026-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>J-Quants公式パーカーを勝ち取った「49歳・社会不適合者」の生存戦略 (のーひこ,@nohikomiso)</title>
+        <link>https://www.docswell.com/s/nohikomiso/KE1E7N-2026-04-25-161139</link>
+        <dc:date>2026-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Figma デザインを自動マークアップさせた記録と肌感 / 20260425-nagaoka-tech-junction-1 (girigiribauer)</title>
+        <link>https://speakerdeck.com/girigiribauer/20260425-nagaoka-tech-junction-1</link>
+        <dc:date>2026-04-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Conducting electronic sounds with PicoRuby (on Rails) (Ryo Ishigaki)</title>
         <link>https://speakerdeck.com/risgk/conducting-electronic-sounds-with-picoruby-on-rails</link>
         <dc:date>2026-04-24T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>SREに優しいTerraform構成 modulesとstateの組み方 (hiyanger)</title>
         <link>https://speakerdeck.com/hiyanger/sreniyou-siiterraformgou-cheng-modulestostatenozu-mifang</link>
         <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>mruby on C#: From VM Implementation to Game Scripting (RubyKaigi 2026) (hadashiA)</title>
-        <link>https://speakerdeck.com/hadashia/mruby-on-c-number-from-vm-implementation-to-game-scripting</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Programming with a DJ Controller — not vibe coding (seki at druby.org)</title>
-        <link>https://speakerdeck.com/m_seki/programming-with-a-dj-controller-not-vibe-coding</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Less-Told Story of Socket Timeouts (Misaki Shioi(塩井美咲/しおい))</title>
-        <link>https://speakerdeck.com/coe401_/the-less-told-story-of-socket-timeouts</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Agent Registry の基礎・概要を理解する/aws-agent-registry-intro (Renya Kujirada)</title>
-        <link>https://speakerdeck.com/ren8k/aws-agent-registry-intro</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Laravel13のリクエスト強化対策 アップデート Sec-Fetch-Site の導入で何が変わるのか (_ma_me_)</title>
-        <link>https://www.docswell.com/s/1313108/ZR8Q33-2026-04-18-113610</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260423_執筆の工夫と裏側 技術書の企画から刊行まで / From the planning to the publication of technical book (nash_efp)</title>
-        <link>https://speakerdeck.com/nash_efp/from-the-planning-to-the-publication-of-technical-books-at-bai-jin-kuang-ye-meetup-vol-23</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>白金鉱業meetup発表資料 (tetsuroito)</title>
-        <link>https://speakerdeck.com/tetsuroito/bai-jin-kuang-ye-meetupfa-biao-zi-liao</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RPC導入_失敗の理由 (Kaito.K)</title>
-        <link>https://speakerdeck.com/sc30gsw/rpcdao-ru-shi-bai-noli-you</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>tRPCの概要と少しだけパフォーマンス (Keigo Ebihara)</title>
-        <link>https://speakerdeck.com/misoton665/trpcnogai-yao-toshao-sidakepahuomansu</link>
-        <dc:date>2026-04-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
