@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ITパスポート 基本情報技術者試験 応用情報技術者試験 ゆるっと持ち寄り勉強会 (Quatrex,@Quatrex)</title>
+        <link>https://www.docswell.com/s/Quatrex/KL3G27-2026-04-26</link>
+        <dc:date>2026-04-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vtuberになろう (Keita Nakata)</title>
         <link>https://speakerdeck.com/tyukei/vtuberninarou</link>
         <dc:date>2026-04-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Terraform言語の静的解析 / static analysis of Terraform language (Kazuma Watanabe)</title>
         <link>https://speakerdeck.com/wata727/static-analysis-of-terraform-language</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREに優しいTerraform構成 modulesとstateの組み方 (hiyanger)</title>
-        <link>https://speakerdeck.com/hiyanger/sreniyou-siiterraformgou-cheng-modulestostatenozu-mifang</link>
         <dc:date>2026-04-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
