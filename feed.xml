@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Can M5Stack work Open Claw? (Koki Miura,@k_miura_io)</title>
+        <link>https://www.docswell.com/s/k_miura_io/ZE1E37-2026-04-27-175841</link>
+        <dc:date>2026-04-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260427 M5_Nagoya.pdf M5Stack 2026 UIFlow!! UIFlow!! (ShigekiInatama)</title>
+        <link>https://www.slideshare.net/slideshow/20260427-m5_nagoya-pdf-m5stack-2026-uiflow-uiflow/287221332</link>
+        <dc:date>2026-04-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ITパスポート 基本情報技術者試験 応用情報技術者試験 ゆるっと持ち寄り勉強会 (Quatrex,@Quatrex)</title>
         <link>https://www.docswell.com/s/Quatrex/KL3G27-2026-04-26</link>
         <dc:date>2026-04-25T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AIベース静的検査器の偽陽性率を抑える工夫3選 (Kuniwak)</title>
         <link>https://speakerdeck.com/orgachem/ai-based-static-analyzer-development-insights</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoにおけるMutation Testingの実践チャレンジ (DeNA_Tech,@DeNAxTech)</title>
-        <link>https://www.docswell.com/s/DeNA_Tech/5MQ1G2-2026-03-23-132421</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Terraform言語の静的解析 / static analysis of Terraform language (Kazuma Watanabe)</title>
-        <link>https://speakerdeck.com/wata727/static-analysis-of-terraform-language</link>
         <dc:date>2026-04-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
