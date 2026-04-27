@@ -6,6 +6,76 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Smalruby: Visualizing Ruby with Bidirectional Transpilation — RubyKaigi 2026</title>
+        <link>https://docs.google.com/presentation/d/1EWFcFLN122gNJj4mfRUGUqPDELqaLW17juMSv7OvhKk/preview</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>もっとモダンな環境で組み込みをしたい</title>
+        <link>https://docs.google.com/presentation/d/1cBIIT_ScjWvbsmSlwWbX2g8VWH3ioHpBXnkSgh3Sv7g/preview</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Ruby on NES - how to make a smallest ruby ever</title>
+        <link>https://docs.google.com/presentation/d/1DTOqszcy1E6XSZylldlPWpCz6wqdPkNrmSF-Ct8bU54/preview</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Live-Coding Generative VJ in Ruby (public)</title>
+        <link>https://docs.google.com/presentation/d/1bOZmi6yNrLPLaZuP92UA9Ej2OoYfzEMFNgv4OmOch_s/preview</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Liberating Ruby's Parser from Lexer Hacks (ydah)</title>
+        <link>https://speakerdeck.com/ydah/liberating-rubys-parser-from-lexer-hacks</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メッセージキュー型の非同期処理から Temporal 移行へ (shibutani)</title>
+        <link>https://speakerdeck.com/shibukazu/metusezikiyuxing-nofei-tong-qi-chu-li-kara-temporal-yi-xing-he</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code を安全に使おう勉強会 / Claude Code Security Basics (MasahiroKawahara)</title>
+        <link>https://speakerdeck.com/masahirokawahara/claude-code-security-basics</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PicoRuby for IoT: Connecting to the Cloud with MQTT (Y_uuu)</title>
+        <link>https://speakerdeck.com/yuuu/picoruby-for-iot-connecting-to-the-cloud-with-mqtt</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ハーネスエンジニアリングとは？ (kinopee)</title>
+        <link>https://speakerdeck.com/kinopeee/hanesuenziniaringutoha</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIが書いたコードを信じられない問題 〜レビュー負荷を下げるために変えたこと〜 / The AI Code Trust Gap: Reducing the Review Burden (株式会社ビットキー / Bitkey Inc.)</title>
+        <link>https://speakerdeck.com/bitkey/the-ai-code-trust-gap-reducing-the-review-burden</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ハーネスエンジニアリングをやりすぎた話 ~そのハーネスは解体された~ (Gota)</title>
+        <link>https://speakerdeck.com/gotalab555/hanesuenziniaringuwoyarisugitahua-sonohanesuhajie-ti-sareta</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AI頼みでワークスロップを起こさない  ドキュメントライティング＆レビュー術 (Naohiro Nakata)</title>
+        <link>https://speakerdeck.com/naohiro_nakata/sheng-cheng-ailai-midewakusurotupuwoqi-kosanai-dokiyumentoraiteingu-and-rebiyushu</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Lightning-Fast Method Calls with Ruby 4.1 ZJIT / RubyKaigi 2026 (Takashi Kokubun)</title>
+        <link>https://speakerdeck.com/k0kubun/rubykaigi-2026</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>勾配ブースティングと決定木の話 / gradient boosting and decision trees (kaityo256)</title>
+        <link>https://speakerdeck.com/kaityo256/gradient-boosting-and-decision-trees</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Can M5Stack work Open Claw? (Koki Miura,@k_miura_io)</title>
         <link>https://www.docswell.com/s/k_miura_io/ZE1E37-2026-04-27-175841</link>
         <dc:date>2026-04-26T15:00:00Z</dc:date>
@@ -34,75 +104,5 @@
         <title>祝！！System.CommandLine GA！！ (KM5075)</title>
         <link>https://speakerdeck.com/km5075/zhu-system-dot-commandline-ga</link>
         <dc:date>2026-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilot SDKによるマルチコーディングエージェントシステムの開発 (Kento Yamada,@ymd65536)</title>
-        <link>https://www.docswell.com/s/ymd65536/ZJW913-2026-04-25</link>
-        <dc:date>2026-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHubCopilotCLIをはじめよう.pdf (tkym)</title>
-        <link>https://speakerdeck.com/htkym/githubcopilotcliwohazimeyou</link>
-        <dc:date>2026-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メタバースで地域.rbやってみた！ (ItoJum)</title>
-        <link>https://speakerdeck.com/itojum/metabasudedi-yu-dot-rbyatutemita</link>
-        <dc:date>2026-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RubyからSwiftの関数を呼ぶ - 呼び方と注意点 (Takahiro Suzuki,@sussan0416)</title>
-        <link>https://www.docswell.com/s/sussan0416/K7NG3W-2026-04-25-Tram-LT</link>
-        <dc:date>2026-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>J-Quants公式パーカーを勝ち取った「49歳・社会不適合者」の生存戦略 (のーひこ,@nohikomiso)</title>
-        <link>https://www.docswell.com/s/nohikomiso/KE1E7N-2026-04-25-161139</link>
-        <dc:date>2026-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Figma デザインを自動マークアップさせた記録と肌感 / 20260425-nagaoka-tech-junction-1 (girigiribauer)</title>
-        <link>https://speakerdeck.com/girigiribauer/20260425-nagaoka-tech-junction-1</link>
-        <dc:date>2026-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Conducting electronic sounds with PicoRuby (on Rails) (Ryo Ishigaki)</title>
-        <link>https://speakerdeck.com/risgk/conducting-electronic-sounds-with-picoruby-on-rails</link>
-        <dc:date>2026-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Route 53 Global Resolver で高額課金発生！ (otanikohei)</title>
-        <link>https://speakerdeck.com/otanikohei2023/route-53-global-resolver-tegao-e-ke-jin-fa-sheng</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア設計の結合バランス #phperkaigi (Takuma Kajikawa)</title>
-        <link>https://speakerdeck.com/kajitack/balancing-coupling-in-software-design-review</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SiLA2 環境での AIコーディング例</title>
-        <link>https://docs.google.com/presentation/d/1BgWFvUUr9YrOW248vEsyI713XlxyRJtK7ayYBjvtwC4/preview</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPer、Cloudflare に引っ越す (Suguru Ohki)</title>
-        <link>https://speakerdeck.com/suguruooki/phper-cloudflare-niyin-tuyue-su</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>🪝 便利な Property Hooks を 使ってみよう 🪝 (SAW)</title>
-        <link>https://speakerdeck.com/azuki/bian-li-na-property-hooks-wo-shi-tutemiyou</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIを使って生成AIBotを作っていた件 (アールスリーインスティテュート,@gusukuSupport)</title>
-        <link>https://www.docswell.com/s/r3it/ZVJPY4-2026-04-24-195325</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIベース静的検査器の偽陽性率を抑える工夫3選 (Kuniwak)</title>
-        <link>https://speakerdeck.com/orgachem/ai-based-static-analyzer-development-insights</link>
-        <dc:date>2026-04-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
