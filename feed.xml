@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>地図が指し示す場所を、機械に検索させてみる (OPTiM)</title>
+        <link>https://speakerdeck.com/optim/20260428-searchtechjp-shibata</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>UI生成の鍵は要件整理 -デザインプロセスのエッセンスを プロンプト作成に取り入れよう- (都村　美帆)</title>
+        <link>https://speakerdeck.com/abokadotyann/uisheng-cheng-nojian-hayao-jian-zheng-li-dezainpurosesunoetusensuwo-puronputozuo-cheng-niqu-riru-reyou</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>独断と偏見で試してみる、 シングル or マルチエージェント どっちがいいの？ (ShichijoYuhi)</title>
+        <link>https://speakerdeck.com/shichijoyuhi/du-duan-topian-jian-deshi-sitemiru-singuru-or-marutieziento-dotutigaiino</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS Transform CustomでIaCコードを自由自在に変換しよう (k-kun)</title>
+        <link>https://speakerdeck.com/duelist2020jp/aws-transform-customdeiackodowozi-you-zi-zai-nibian-huan-siyou</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニア達の「完全に理解した」Talk　#76 (akihiko.KIgure,@ic_lifewood)</title>
+        <link>https://www.docswell.com/s/ic_lifewood/KWRX2X-2026-04-28-182011</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIにブラウザ操作をやらせたい！クレデンシャルはどうする？ (y.takahashi)</title>
+        <link>https://www.docswell.com/s/eai04191/53JMXJ-ai-and-service-credentials</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fabric MCPの紹介と使い分け (Ryoma Nagata)</title>
+        <link>https://speakerdeck.com/ryomaru0825/fabric-mcpnoshao-jie-toshi-ifen-ke</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新アイテム「Plan」とは　業務でのユースケース解説 (Hyodo Katsuki)</title>
+        <link>https://www.docswell.com/s/6140290960/57NGX1-2026-04-28-192848</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>国内外の生成AIセキュリティの最新動向 &amp; AIガードレール製品「chakoshi」のご紹介 / Latest Trends in Generative AI Security (Domestic &amp; International) &amp; Introduction to AI Guardrail Product "chakoshi" (NTT docomo Business)</title>
         <link>https://speakerdeck.com/nttcom/latest-trends-in-generative-ai-security-domestic-and-international-and-introduction-to-ai-guardrail-product-chakoshi</link>
         <dc:date>2026-04-27T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>ハーネスエンジニアリングとは？ (kinopee)</title>
         <link>https://speakerdeck.com/kinopeee/hanesuenziniaringutoha</link>
         <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIが書いたコードを信じられない問題 〜レビュー負荷を下げるために変えたこと〜 / The AI Code Trust Gap: Reducing the Review Burden (株式会社ビットキー / Bitkey Inc.)</title>
-        <link>https://speakerdeck.com/bitkey/the-ai-code-trust-gap-reducing-the-review-burden</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハーネスエンジニアリングをやりすぎた話 ~そのハーネスは解体された~ (Gota)</title>
-        <link>https://speakerdeck.com/gotalab555/hanesuenziniaringuwoyarisugitahua-sonohanesuhajie-ti-sareta</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI頼みでワークスロップを起こさない  ドキュメントライティング＆レビュー術 (Naohiro Nakata)</title>
-        <link>https://speakerdeck.com/naohiro_nakata/sheng-cheng-ailai-midewakusurotupuwoqi-kosanai-dokiyumentoraiteingu-and-rebiyushu</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Lightning-Fast Method Calls with Ruby 4.1 ZJIT / RubyKaigi 2026 (Takashi Kokubun)</title>
-        <link>https://speakerdeck.com/k0kubun/rubykaigi-2026</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>勾配ブースティングと決定木の話 / gradient boosting and decision trees (kaityo256)</title>
-        <link>https://speakerdeck.com/kaityo256/gradient-boosting-and-decision-trees</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Can M5Stack work Open Claw? (Koki Miura,@k_miura_io)</title>
-        <link>https://www.docswell.com/s/k_miura_io/ZE1E37-2026-04-27-175841</link>
-        <dc:date>2026-04-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260427 M5_Nagoya.pdf M5Stack 2026 UIFlow!! UIFlow!! (ShigekiInatama)</title>
-        <link>https://www.slideshare.net/slideshow/20260427-m5_nagoya-pdf-m5stack-2026-uiflow-uiflow/287221332</link>
-        <dc:date>2026-04-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ITパスポート 基本情報技術者試験 応用情報技術者試験 ゆるっと持ち寄り勉強会 (Quatrex,@Quatrex)</title>
-        <link>https://www.docswell.com/s/Quatrex/KL3G27-2026-04-26</link>
-        <dc:date>2026-04-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
