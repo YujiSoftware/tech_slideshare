@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Bitwarden ソフトウェアサプライチェーン攻撃 詳細解説 (GMO Flatt Security)</title>
+        <link>https://speakerdeck.com/flatt_security/bitwarden-202604</link>
+        <dc:date>2026-04-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Smalruby: Visualizing Ruby with Bidirectional Transpilation — RubyKaigi 2026</title>
         <link>https://docs.google.com/presentation/d/1EWFcFLN122gNJj4mfRUGUqPDELqaLW17juMSv7OvhKk/preview</link>
         <dc:date>2026-04-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ShareTrace 内部処理の調査 (meow)</title>
         <link>https://speakerdeck.com/meow_noisy/st</link>
-        <dc:date>2026-04-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>祝！！System.CommandLine GA！！ (KM5075)</title>
-        <link>https://speakerdeck.com/km5075/zhu-system-dot-commandline-ga</link>
         <dc:date>2026-04-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
