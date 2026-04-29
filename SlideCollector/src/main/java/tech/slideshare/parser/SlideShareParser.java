@@ -87,7 +87,7 @@ public class SlideShareParser implements Parser {
             // 1ページしかないものは、スパムと判定して除外
             long pageCount = Integer.parseInt(slideshow.totalSlides);
             if (pageCount <= 5) {
-                logger.debug("TotalSlides = 1: {}", link);
+                logger.debug("Page count = {}: {}", pageCount, link);
                 return Optional.empty();
             }
 
