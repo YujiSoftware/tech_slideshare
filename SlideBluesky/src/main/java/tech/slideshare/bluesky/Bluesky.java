@@ -95,8 +95,11 @@ public class Bluesky implements Closeable {
         requestBody.addProperty("collection", "app.bsky.feed.post");
         requestBody.add("record", makeRecord(text, url));
 
+        String json = gson.toJson(requestBody);
+        logger.debug("Sending: {}", json);
+
         post.setEntity(new StringEntity(
-                gson.toJson(requestBody),
+                json,
                 ContentType.APPLICATION_JSON
         ));
 
@@ -195,8 +198,6 @@ public class Bluesky implements Closeable {
         }
 
         external.add("external", externalObj);
-
-        System.out.println(external);
 
         return external;
     }
