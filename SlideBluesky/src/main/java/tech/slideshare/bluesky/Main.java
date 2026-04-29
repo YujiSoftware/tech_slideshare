@@ -60,6 +60,21 @@ public class Main {
             hashTag = " #" + dto.getHashTag();
         }
 
-        return dto.getTitle() + author + hashTag;
+        String text = dto.getTitle();
+        if (!author.isEmpty() || !hashTag.isEmpty()) {
+            // 上限を超える場合、タイトルを省略する
+            int remain = MAX_CHARACTER - length(author, hashTag, dto.getUrl(), "\n");
+            if (length(text) > remain) {
+                text = text.substring(0, remain - 1) + "…";
+            }
+
+            text += author + hashTag;
+        }
+
+        return text;
+    }
+
+    private static int length(String... strings) {
+        return Arrays.stream(strings).mapToInt(s -> s.codePointCount(0, s.length())).sum();
     }
 }
