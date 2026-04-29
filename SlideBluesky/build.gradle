@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+}
+
+group = 'tech.slideshare'
+version = '1.0-SNAPSHOT'
+
+application {
+    mainClass = 'tech.slideshare.bluesky.Main'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // HTTP Client for Bluesky API
+    implementation 'org.apache.httpcomponents.client5:httpclient5:5.2.1'
+    implementation 'com.google.code.gson:gson:2.10.1'
+    
+    // HTML parsing for OGP
+    implementation 'org.jsoup:jsoup:1.17.1'
+    
+    // Logging
+    implementation 'org.slf4j:slf4j-api:2.0.9'
+    implementation 'org.slf4j:slf4j-simple:2.0.9'
+
+    testImplementation platform('org.junit:junit-bom:6.0.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+test {
+    useJUnitPlatform()
+}

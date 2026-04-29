@@ -2,3 +2,5 @@ rootProject.name = 'TechSlideshare'
 include 'SlideCollector', 'SlideTwitter'
 include 'SlideCrawler'
 
+
+include 'SlideBluesky'
