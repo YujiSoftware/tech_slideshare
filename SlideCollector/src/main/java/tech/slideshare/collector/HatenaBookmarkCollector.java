@@ -1,6 +1,8 @@
 package tech.slideshare.collector;
 
 import jakarta.xml.bind.JAXBException;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import tech.slideshare.cache.Cache;
 import tech.slideshare.cache.TempFileCache;
 import tech.slideshare.parser.Parser;
@@ -10,6 +12,8 @@ import java.io.IOException;
 import java.util.List;
 
 public class HatenaBookmarkCollector implements SlideCollector {
+
+    private static final Logger logger = LoggerFactory.getLogger(HatenaBookmarkCollector.class);
 
     private final String name;
 
@@ -38,6 +42,7 @@ public class HatenaBookmarkCollector implements SlideCollector {
         return bookmark.get()
                 .stream()
                 .filter(i -> cache.add(i.link))
+                .peek(i -> logger.debug("Collect: {}", i.link))
                 .flatMap(i -> parser.parse(i.link).stream())
                 .toList();
     }
