@@ -9,6 +9,27 @@ application {
     mainClass = 'tech.slideshare.bluesky.Main'
 }
 
+tasks.register("deploy", Exec) {
+    group "distribution"
+    dependsOn tasks.assemble
+
+    doFirst {
+        def tarFile = tasks.distTar.archiveFile.get().asFile
+        if (!tarFile.exists()) {
+            throw new GradleException("Tar file not found: $tarFile")
+        }
+
+        def remoteUser = "pi"
+        def remoteHost = "pi"
+        def remotePath = "~/tech_slideshare/SlideBluesky/"
+
+        println "Uploading ${tarFile.name} to ${remoteUser}@${remoteHost}:${remotePath}"
+
+        standardInput = new FileInputStream(tarFile)
+        commandLine = ["ssh", "${remoteUser}@${remoteHost}", "tar -xvf - -C ${remotePath} --strip=1"]
+    }
+}
+
 repositories {
     mavenCentral()
 }
@@ -23,7 +44,7 @@ dependencies {
 
     // HTML parsing for OGP
     implementation 'org.jsoup:jsoup:1.17.1'
-    
+
     // Logging
     implementation 'org.slf4j:slf4j-api:2.0.9'
     implementation "ch.qos.logback:logback-classic:1.5.32"
