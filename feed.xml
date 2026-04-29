@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアリングとデザインをつなぐ共通言語への投資と取り組み (sakito,@__sakito__)</title>
+        <link>https://www.docswell.com/s/sakito/Z8NVXW-design-and-engineer</link>
+        <dc:date>2026-04-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260429_CloudNative_Pre.pdf____________ (Ayachika Kitazaki)</title>
         <link>https://www.slideshare.net/slideshow/20260429_cloudnative_pre-pdf____________/287236069</link>
         <dc:date>2026-04-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Live-Coding Generative VJ in Ruby (public)</title>
         <link>https://docs.google.com/presentation/d/1bOZmi6yNrLPLaZuP92UA9Ej2OoYfzEMFNgv4OmOch_s/preview</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Liberating Ruby's Parser from Lexer Hacks (ydah)</title>
-        <link>https://speakerdeck.com/ydah/liberating-rubys-parser-from-lexer-hacks</link>
         <dc:date>2026-04-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
