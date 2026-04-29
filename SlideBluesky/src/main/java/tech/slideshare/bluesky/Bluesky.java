@@ -164,11 +164,7 @@ public class Bluesky implements Closeable {
         JsonObject externalObj = new JsonObject();
         externalObj.addProperty("uri", ogpInfo.url());
         externalObj.addProperty("title", ogpInfo.title());
-
-        // 説明文がある場合のみ追加
-        if (ogpInfo.description() != null && !ogpInfo.description().isEmpty()) {
-            externalObj.addProperty("description", ogpInfo.description());
-        }
+        externalObj.addProperty("description", ogpInfo.description());
 
         if (ogpInfo.imageUrl() != null && !ogpInfo.imageUrl().isEmpty()) {
             HttpGet getImage = new HttpGet(ogpInfo.imageUrl());

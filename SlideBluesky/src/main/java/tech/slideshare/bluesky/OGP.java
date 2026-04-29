@@ -90,6 +90,9 @@ public class OGP {
         if (description == null || description.isEmpty()) {
             description = ogp.get("twitter:description");
         }
+        if (description == null || description.isEmpty()) {
+            description = ""; // 最終フォールバック
+        }
 
         // 画像URLを取得
         String imageUrl = ogp.get("og:image");
