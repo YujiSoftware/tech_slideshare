@@ -3,10 +3,12 @@ package tech.slideshare.bluesky;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
+import org.apache.hc.client5.http.classic.methods.HttpGet;
 import org.apache.hc.client5.http.classic.methods.HttpPost;
 import org.apache.hc.client5.http.impl.classic.CloseableHttpClient;
 import org.apache.hc.client5.http.impl.classic.HttpClients;
 import org.apache.hc.core5.http.ContentType;
+import org.apache.hc.core5.http.io.entity.ByteArrayEntity;
 import org.apache.hc.core5.http.io.entity.EntityUtils;
 import org.apache.hc.core5.http.io.entity.StringEntity;
 import org.slf4j.Logger;
@@ -155,7 +157,7 @@ public class Bluesky implements Closeable {
      * @param ogpInfo OGP情報
      * @return external embedオブジェクト、作成できない場合はnull
      */
-    private JsonObject createExternalEmbed(OGP.OGPInfo ogpInfo) {
+    private JsonObject createExternalEmbed(OGP.OGPInfo ogpInfo) throws IOException {
         JsonObject external = new JsonObject();
         external.addProperty("$type", "app.bsky.embed.external");
 
@@ -168,7 +170,37 @@ public class Bluesky implements Closeable {
             externalObj.addProperty("description", ogpInfo.description());
         }
 
+        if (ogpInfo.imageUrl() != null && !ogpInfo.imageUrl().isEmpty()) {
+            HttpGet getImage = new HttpGet(ogpInfo.imageUrl());
+            httpClient.execute(getImage, response -> {
+                if (response.getCode() != 200) {
+                    logger.warn("Failed to fetch OGP image: {} (status code: {})", ogpInfo.imageUrl(), response.getCode());
+                    return null;
+                }
+
+                String contentType = response.getHeader("content-type").getValue();
+
+                byte[] image = EntityUtils.toByteArray(response.getEntity());
+                HttpPost post = new HttpPost(BLUESKY_API_URL + "/com.atproto.repo.uploadBlob");
+                post.setHeader("Authorization", "Bearer " + this.accessToken);
+                post.setEntity(new ByteArrayEntity(image, ContentType.parse(contentType)));
+                JsonObject thumb = httpClient.execute(post, response1 -> {
+                    if (response1.getCode() != 200) {
+                        throw new IOException("Failed to upload image to Bluesky: " + response1.getCode());
+                    }
+
+                    String body = EntityUtils.toString(response1.getEntity(), StandardCharsets.UTF_8);
+                    return gson.fromJson(body, JsonObject.class).getAsJsonObject("blob");
+                });
+                externalObj.add("thumb", thumb);
+
+                return null;
+            });
+        }
+
         external.add("external", externalObj);
+
+        System.out.println(external);
 
         return external;
     }
