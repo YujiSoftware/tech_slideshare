@@ -2,43 +2,53 @@ package tech.slideshare.bluesky;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import tech.slideshare.bluesky.database.SlideDao;
 import tech.slideshare.bluesky.database.SlideDto;
 
 import java.net.URI;
+import java.sql.Connection;
+import java.sql.DriverManager;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 import static java.util.Objects.requireNonNull;
 
 public class Main {
     private static final Logger logger = LoggerFactory.getLogger(Main.class);
+    public static final int MAX_CHARACTER = 300;
 
     public static void main(String[] args) {
-        // var user = args[0];
-        // var password = args[1];
+        String user = args[0];
+        String password = args[1];
 
         String username = requireNonNull(System.getenv("BSKY_USERNAME"));
         String appPassword = requireNonNull(System.getenv("BSKY_APP_PASSWORD"));
-        String postText = "Test";
 
-//        try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password)) {
-//            con.setAutoCommit(false);
-//            SlideDao slideDao = new SlideDao(con);
-//            slideDao.dequeue().ifPresent(slide -> {
-//
-//            });
-//        } catch (SQLException ex) {
-//            throw new RuntimeException(ex);
-//        }
+        logger.info("Start {}", Main.class.getName());
+        int exitCode = 0;
 
-        try (Bluesky bluesky = new Bluesky(username, appPassword)) {
-            URI postedUrl = bluesky.createPost(postText, "https://speakerdeck.com/loglassjoe/20260428-product-management-summit-loglass-joehirose");
+        try (Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/tech_slideshare", user, password)) {
+            con.setAutoCommit(false);
 
-            logger.info("Post created: {}", postedUrl);
+            SlideDao slideDao = new SlideDao(con);
+            SlideDto slide = slideDao.dequeue();
+            if (slide != null) {
+                try (Bluesky bluesky = new Bluesky(username, appPassword)) {
+                    URI postedUrl = bluesky.createPost(makeText(slide), slide.getUrl());
+
+                    logger.info("Post created. [id: {}, url: {}]", slide.getSlideId(), postedUrl);
+                }
+            }
+
+            con.commit();
         } catch (Exception e) {
             logger.error("Failed to create post", e);
-            System.exit(1);
+            exitCode = 1;
         }
+
+        logger.info("End {}", Main.class.getName());
+        System.exit(exitCode);
     }
 
     static String makeText(SlideDto dto) {
