@@ -16,7 +16,6 @@ import static java.util.Objects.requireNonNull;
 
 public class Main {
     private static final Logger logger = LoggerFactory.getLogger(Main.class);
-    public static final int MAX_CHARACTER = 300;
 
     public static void main(String[] args) {
         String user = args[0];
@@ -35,7 +34,7 @@ public class Main {
             SlideDto slide = slideDao.dequeue();
             if (slide != null) {
                 try (Bluesky bluesky = new Bluesky(username, appPassword)) {
-                    URI postedUrl = bluesky.createPost(makeText(slide), slide.getUrl());
+                    URI postedUrl = bluesky.createRecord(makeText(slide), slide.getUrl());
 
                     logger.info("Post created. [id: {}, url: {}]", slide.getSlideId(), postedUrl);
                 }
@@ -73,7 +72,7 @@ public class Main {
         String text = dto.getTitle();
         if (!author.isEmpty() || !hashTag.isEmpty()) {
             // 上限を超える場合、タイトルを省略する
-            int remain = MAX_CHARACTER - length(author, hashTag, dto.getUrl(), "\n");
+            int remain = Bluesky.MAX_CHARACTERS - length(author, hashTag, dto.getUrl(), "\n");
             if (length(text) > remain) {
                 text = text.substring(0, remain - 1) + "…";
             }

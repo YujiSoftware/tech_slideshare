@@ -8,6 +8,7 @@ import org.apache.hc.client5.http.classic.methods.HttpPost;
 import org.apache.hc.client5.http.impl.classic.CloseableHttpClient;
 import org.apache.hc.client5.http.impl.classic.HttpClients;
 import org.apache.hc.core5.http.ContentType;
+import org.apache.hc.core5.http.HttpEntity;
 import org.apache.hc.core5.http.io.entity.ByteArrayEntity;
 import org.apache.hc.core5.http.io.entity.EntityUtils;
 import org.apache.hc.core5.http.io.entity.StringEntity;
@@ -75,6 +76,28 @@ public class Bluesky implements Closeable {
     }
 
     /**
+     * 認証付きPOSTリクエストを実行し、JsonObjectレスポンスを取得
+     *
+     * @param endpoint エンドポイント（/com.atproto.xxx形式）
+     * @param entity   リクエストエンティティ
+     * @return レスポンスボディの JsonObject
+     */
+    private JsonObject post(String endpoint, HttpEntity entity) throws IOException {
+        HttpPost post = new HttpPost(BLUESKY_API_URL + endpoint);
+        post.setHeader("Authorization", "Bearer " + this.accessToken);
+        post.setEntity(entity);
+
+        return httpClient.execute(post, response -> {
+            String body = EntityUtils.toString(response.getEntity(), StandardCharsets.UTF_8);
+            if (response.getCode() != 200) {
+                throw new IOException("POST failed. Endpoint: " + endpoint + ", Status code: " + response.getCode() + ", body: " + body);
+            }
+
+            return gson.fromJson(body, JsonObject.class);
+        });
+    }
+
+    /**
      * Blueskyにポストを作成
      * 認証済みユーザーのポストを作成し、ポストのURIを出力します。
      * テキスト内のURLを自動的にリンクに変換し、OGP情報を取得してembedを追加します。
@@ -83,12 +106,7 @@ public class Bluesky implements Closeable {
      * @param url  埋め込みたいURL（null可）
      * @return ポストの URL
      */
-    public URI createPost(String text, String url) throws IOException {
-        HttpPost post = new HttpPost(BLUESKY_API_URL + "/com.atproto.repo.createRecord");
-
-        // 認証ヘッダーを追加
-        post.setHeader("Authorization", "Bearer " + this.accessToken);
-
+    public URI createRecord(String text, String url) throws IOException {
         // リクエストボディを作成
         JsonObject requestBody = new JsonObject();
         requestBody.addProperty("repo", this.did);
@@ -98,21 +116,19 @@ public class Bluesky implements Closeable {
         String json = gson.toJson(requestBody);
         logger.debug("Sending: {}", json);
 
-        post.setEntity(new StringEntity(
-                json,
-                ContentType.APPLICATION_JSON
-        ));
+        JsonObject responseBody = post(
+                "/com.atproto.repo.createRecord",
+                new StringEntity(json, ContentType.APPLICATION_JSON)
+        );
+        return URI.create(responseBody.get("uri").getAsString());
+    }
 
-        // ResponseHandlerを使用してレスポンスを処理
-        return httpClient.execute(post, response -> {
-            String body = EntityUtils.toString(response.getEntity(), StandardCharsets.UTF_8);
-            if (response.getCode() != 200) {
-                throw new IOException("Status code: " + response.getCode() + ", body: " + body);
-            }
-
-            JsonObject responseBody = gson.fromJson(body, JsonObject.class);
-            return URI.create(responseBody.get("uri").getAsString());
-        });
+    private JsonObject uploadBlob(byte[] image, String contentType) throws IOException {
+        JsonObject responseBody = post(
+                "/com.atproto.repo.uploadBlob",
+                new ByteArrayEntity(image, ContentType.parse(contentType))
+        );
+        return responseBody.getAsJsonObject("blob");
     }
 
     private JsonObject makeRecord(String text, String url) throws IOException {
@@ -180,17 +196,7 @@ public class Bluesky implements Closeable {
                 String contentType = response.getHeader("content-type").getValue();
 
                 byte[] image = EntityUtils.toByteArray(response.getEntity());
-                HttpPost post = new HttpPost(BLUESKY_API_URL + "/com.atproto.repo.uploadBlob");
-                post.setHeader("Authorization", "Bearer " + this.accessToken);
-                post.setEntity(new ByteArrayEntity(image, ContentType.parse(contentType)));
-                JsonObject thumb = httpClient.execute(post, response1 -> {
-                    if (response1.getCode() != 200) {
-                        throw new IOException("Failed to upload image to Bluesky: " + response1.getCode());
-                    }
-
-                    String body = EntityUtils.toString(response1.getEntity(), StandardCharsets.UTF_8);
-                    return gson.fromJson(body, JsonObject.class).getAsJsonObject("blob");
-                });
+                JsonObject thumb = uploadBlob(image, contentType);
                 externalObj.add("thumb", thumb);
 
                 return null;
