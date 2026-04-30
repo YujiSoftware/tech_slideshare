@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アーティファクト管理で サプライチェーン攻撃を回避！！ (Shigeki Shoji)</title>
+        <link>https://speakerdeck.com/takesection/ateihuakutoguan-li-de-sapuraitiengong-ji-wohui-bi</link>
+        <dc:date>2026-04-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>決定論 vs 確率論：Gemini 3 FlashとTF-IDFを組み合わせた「法規判定エンジン」の構築 (Shu Kobuchi)</title>
+        <link>https://speakerdeck.com/shukob/jue-ding-lun-vs-que-lu-lun-gemini-3-flashtotf-idfwozu-mihe-waseta-fa-gui-pan-ding-enzin-nogou-zhu</link>
+        <dc:date>2026-04-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メモを取るだけだったMTGがAIによってプロジェクト知識の共有拠点になった (今津快斗)</title>
+        <link>https://speakerdeck.com/kaitimadu/memowoqu-rudakedatutamtggaainiyotutepuroziekutozhi-shi-nogong-you-ju-dian-ninatuta</link>
+        <dc:date>2026-04-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ハーネスエンジニアリング入門 (西岡 賢一郎 (Kenichiro Nishioka))</title>
+        <link>https://speakerdeck.com/knishioka/hanesuenziniaringuru-men</link>
+        <dc:date>2026-04-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260430 YonaYona Entra ID Night |  Entra ID の QR コード認証って何ですか？ (Olivia)</title>
+        <link>https://speakerdeck.com/olivia_0707/20260430-yonayona-entra-id-night-entra-id-no-qr-kodoren-zheng-tutehe-desuka</link>
+        <dc:date>2026-04-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>検索設計から 推論設計への重心移動と Recall-First Retrieval (po3rin)</title>
         <link>https://speakerdeck.com/po3rin/jian-suo-she-ji-kara-tui-lun-she-ji-henozhong-xin-yi-dong-to-recall-first-retrieval</link>
         <dc:date>2026-04-29T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>AWS Transform CustomでIaCコードを自由自在に変換しよう (k-kun)</title>
         <link>https://speakerdeck.com/duelist2020jp/aws-transform-customdeiackodowozi-you-zi-zai-nibian-huan-siyou</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニア達の「完全に理解した」Talk　#76 (akihiko.KIgure,@ic_lifewood)</title>
-        <link>https://www.docswell.com/s/ic_lifewood/KWRX2X-2026-04-28-182011</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIにブラウザ操作をやらせたい！クレデンシャルはどうする？ (y.takahashi)</title>
-        <link>https://www.docswell.com/s/eai04191/53JMXJ-ai-and-service-credentials</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fabric MCPの紹介と使い分け (Ryoma Nagata)</title>
-        <link>https://speakerdeck.com/ryomaru0825/fabric-mcpnoshao-jie-toshi-ifen-ke</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新アイテム「Plan」とは　業務でのユースケース解説 (Hyodo Katsuki)</title>
-        <link>https://www.docswell.com/s/6140290960/57NGX1-2026-04-28-192848</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>国内外の生成AIセキュリティの最新動向 &amp; AIガードレール製品「chakoshi」のご紹介 / Latest Trends in Generative AI Security (Domestic &amp; International) &amp; Introduction to AI Guardrail Product "chakoshi" (NTT docomo Business)</title>
-        <link>https://speakerdeck.com/nttcom/latest-trends-in-generative-ai-security-domestic-and-international-and-introduction-to-ai-guardrail-product-chakoshi</link>
         <dc:date>2026-04-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
