@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ハーネスエンジニアリング入門 (hatyibei)</title>
+        <link>https://speakerdeck.com/hatyibei/hanesuenziniaringuru-men</link>
+        <dc:date>2026-04-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アーティファクト管理で サプライチェーン攻撃を回避！！ (Shigeki Shoji)</title>
         <link>https://speakerdeck.com/takesection/ateihuakutoguan-li-de-sapuraitiengong-ji-wohui-bi</link>
         <dc:date>2026-04-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>独断と偏見で試してみる、 シングル or マルチエージェント どっちがいいの？ (ShichijoYuhi)</title>
         <link>https://speakerdeck.com/shichijoyuhi/du-duan-topian-jian-deshi-sitemiru-singuru-or-marutieziento-dotutigaiino</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Transform CustomでIaCコードを自由自在に変換しよう (k-kun)</title>
-        <link>https://speakerdeck.com/duelist2020jp/aws-transform-customdeiackodowozi-you-zi-zai-nibian-huan-siyou</link>
         <dc:date>2026-04-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
