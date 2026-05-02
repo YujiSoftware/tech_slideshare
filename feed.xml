@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM の Attention 機構まとめ — 数式・計算量・メモリ (プワー)</title>
+        <link>https://speakerdeck.com/puwaer/llm-no-attention-ji-gou-matome-shu-shi-ji-suan-liang-memori</link>
+        <dc:date>2026-05-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>本番環境でPHPコードに触れずに「使われていないコード」を調べるにはどうしたらよいか？ (Sohei Iwahori)</title>
+        <link>https://speakerdeck.com/egmc/ben-fan-huan-jing-dephpkodonihong-rezuni-shi-wareteinaikodo-wodiao-berunihadousitarayoika</link>
+        <dc:date>2026-05-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>運転動画を検索可能にする〜Cosmos-Embed1とDatabricks Vector Searchで〜/cosmos-embed1-databricks-vector-search (開発室Graph)</title>
         <link>https://speakerdeck.com/studio_graph/cosmos-embed1-databricks-vector-search</link>
         <dc:date>2026-05-01T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>知の自転車 〜Claude Code〜 Claude CodeとChatGPTの比較と、Claude Codeを活用方法の紹介 (幸雄 村上,@m_yukio)</title>
         <link>https://www.slideshare.net/slideshow/claude-code-claude-code-chatgpt-claude-code/287205719</link>
         <dc:date>2026-04-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>地図が指し示す場所を、機械に検索させてみる (OPTiM)</title>
-        <link>https://speakerdeck.com/optim/20260428-searchtechjp-shibata</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>UI生成の鍵は要件整理 -デザインプロセスのエッセンスを プロンプト作成に取り入れよう- (都村　美帆)</title>
-        <link>https://speakerdeck.com/abokadotyann/uisheng-cheng-nojian-hayao-jian-zheng-li-dezainpurosesunoetusensuwo-puronputozuo-cheng-niqu-riru-reyou</link>
-        <dc:date>2026-04-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
