@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エラー処理の温故知新 / history of error handling technic (nakaryo)</title>
+        <link>https://speakerdeck.com/ryotanakaya/history-of-error-handling-technic</link>
+        <dc:date>2026-05-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLM の Attention 機構まとめ — 数式・計算量・メモリ (プワー)</title>
         <link>https://speakerdeck.com/puwaer/llm-no-attention-ji-gou-matome-shu-shi-ji-suan-liang-memori</link>
         <dc:date>2026-05-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>初心者AI体験 Code for OYAMA (びし,@bishi_eava)</title>
         <link>https://www.docswell.com/s/bishi/ZGNLY8-2026-04-26-114351</link>
-        <dc:date>2026-04-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>知の自転車 〜Claude Code〜 Claude CodeとChatGPTの比較と、Claude Codeを活用方法の紹介 (幸雄 村上,@m_yukio)</title>
-        <link>https://www.slideshare.net/slideshow/claude-code-claude-code-chatgpt-claude-code/287205719</link>
         <dc:date>2026-04-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
