@@ -33,7 +33,8 @@ public class Main {
             SlideDao slideDao = new SlideDao(con);
             SlideDto slide = slideDao.dequeue();
             if (slide != null) {
-                try (Bluesky bluesky = new Bluesky(username, appPassword)) {
+                try (BlueskyClient client = new BlueskyClient(username, appPassword)) {
+                    Bluesky bluesky = new Bluesky(client);
                     URI postedUrl = bluesky.createRecord(makeText(slide), slide.getUrl());
 
                     logger.info("Post created. [id: {}, url: {}]", slide.getSlideId(), postedUrl);
