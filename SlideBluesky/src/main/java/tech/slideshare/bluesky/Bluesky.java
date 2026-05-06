@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.net.URI;
-import java.time.Instant;
+import java.time.Clock;
 
 public class Bluesky {
     private static final Logger logger = LoggerFactory.getLogger(Bluesky.class);
@@ -26,9 +26,16 @@ public class Bluesky {
     private final Gson gson = new Gson();
 
     private final BlueskyClient client;
+    private final Clock clock;
 
     public Bluesky(BlueskyClient client) {
         this.client = client;
+        this.clock = Clock.systemUTC();
+    }
+
+    Bluesky(BlueskyClient client, Clock clock) {
+        this.client = client;
+        this.clock = clock;
     }
 
     /**
@@ -65,12 +72,12 @@ public class Bluesky {
         return responseBody.getAsJsonObject("blob");
     }
 
-    private JsonObject makeRecord(String text, String url) throws IOException {
+    JsonObject makeRecord(String text, String url) throws IOException {
         // Links, mentions, and rich text
         // https://docs.bsky.app/docs/advanced-guides/post-richtext
         JsonObject record = new JsonObject();
         record.addProperty("text", text + "\n" + url);
-        record.addProperty("createdAt", Instant.now().toString());
+        record.addProperty("createdAt", clock.instant().toString());
 
         // Facetsを作成（URLリンク）
         int textLength = UTF8.length(text);
