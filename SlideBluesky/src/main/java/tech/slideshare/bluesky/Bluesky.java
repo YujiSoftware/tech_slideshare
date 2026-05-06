@@ -1,7 +1,6 @@
 package tech.slideshare.bluesky;
 
 import com.google.gson.Gson;
-import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import org.apache.hc.client5.http.classic.methods.HttpGet;
 import org.apache.hc.client5.http.impl.classic.CloseableHttpClient;
@@ -12,6 +11,8 @@ import org.apache.hc.core5.http.io.entity.EntityUtils;
 import org.apache.hc.core5.http.io.entity.StringEntity;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import tech.slideshare.bluesky.utils.JsonArrayBuilder;
+import tech.slideshare.bluesky.utils.JsonObjectBuilder;
 
 import java.io.IOException;
 import java.net.URI;
@@ -49,10 +50,11 @@ public class Bluesky {
      */
     public URI createRecord(String text, String url) throws IOException {
         // リクエストボディを作成
-        JsonObject requestBody = new JsonObject();
-        requestBody.addProperty("repo", client.getDid());
-        requestBody.addProperty("collection", "app.bsky.feed.post");
-        requestBody.add("record", makeRecord(text, url));
+        JsonObject requestBody = new JsonObjectBuilder()
+                .add("repo", client.getDid())
+                .add("collection", "app.bsky.feed.post")
+                .add("record", makeRecord(text, url))
+                .build();
 
         String json = gson.toJson(requestBody);
         logger.debug("Sending: {}", json);
@@ -73,42 +75,40 @@ public class Bluesky {
     }
 
     JsonObject makeRecord(String text, String url) throws IOException {
-        // Links, mentions, and rich text
-        // https://docs.bsky.app/docs/advanced-guides/post-richtext
-        JsonObject record = new JsonObject();
-        record.addProperty("text", text + "\n" + url);
-        record.addProperty("createdAt", clock.instant().toString());
+        OGP.OGPInfo ogpInfo = OGP.extract(url);
+        JsonObject embed = createExternalEmbed(ogpInfo);
 
         // Facetsを作成（URLリンク）
         int textLength = UTF8.length(text);
         int crlfLength = 1;
         int urlLength = UTF8.length(url);
 
-        JsonObject index = new JsonObject();
-        index.addProperty("byteStart", textLength + crlfLength);
-        index.addProperty("byteEnd", textLength + crlfLength + urlLength);
-
-        JsonObject feature = new JsonObject();
-        feature.addProperty("$type", "app.bsky.richtext.facet#link");
-        feature.addProperty("uri", url);
-
-        JsonArray features = new JsonArray();
-        features.add(feature);
-
-        JsonObject facet = new JsonObject();
-        facet.add("index", index);
-        facet.add("features", features);
-
-        JsonArray facets = new JsonArray();
-        facets.add(facet);
-
-        record.add("facets", facets);
-
-        OGP.OGPInfo ogpInfo = OGP.extract(url);
-        JsonObject embed = createExternalEmbed(ogpInfo);
-        record.add("embed", embed);
-
-        return record;
+        // Links, mentions, and rich text
+        // https://docs.bsky.app/docs/advanced-guides/post-richtext
+        return new JsonObjectBuilder()
+                .add("text", text + "\n" + url)
+                .add("createdAt", clock.instant().toString())
+                .add("facets", new JsonArrayBuilder()
+                        .add(new JsonObjectBuilder()
+                                .add("index", new JsonObjectBuilder()
+                                        .add("byteStart", textLength + crlfLength)
+                                        .add("byteEnd", textLength + crlfLength + urlLength)
+                                        .build()
+                                )
+                                .add("features", new JsonArrayBuilder()
+                                        .add(new JsonObjectBuilder()
+                                                .add("$type", "app.bsky.richtext.facet#link")
+                                                .add("uri", url)
+                                                .build()
+                                        )
+                                        .build()
+                                )
+                                .build()
+                        )
+                        .build()
+                )
+                .add("embed", embed)
+                .build();
     }
 
     /**
@@ -118,13 +118,11 @@ public class Bluesky {
      * @return external embedオブジェクト、作成できない場合はnull
      */
     private JsonObject createExternalEmbed(OGP.OGPInfo ogpInfo) throws IOException {
-        JsonObject external = new JsonObject();
-        external.addProperty("$type", "app.bsky.embed.external");
-
-        JsonObject externalObj = new JsonObject();
-        externalObj.addProperty("uri", ogpInfo.url());
-        externalObj.addProperty("title", ogpInfo.title());
-        externalObj.addProperty("description", ogpInfo.description());
+        JsonObject externalObj = new JsonObjectBuilder()
+                .add("uri", ogpInfo.url())
+                .add("title", ogpInfo.title())
+                .add("description", ogpInfo.description())
+                .build();
 
         if (ogpInfo.imageUrl() != null && !ogpInfo.imageUrl().isEmpty()) {
             HttpGet getImage = new HttpGet(ogpInfo.imageUrl());
@@ -143,9 +141,9 @@ public class Bluesky {
                 return null;
             });
         }
-
-        external.add("external", externalObj);
-
-        return external;
+        return new JsonObjectBuilder()
+                .add("$type", "app.bsky.embed.external")
+                .add("external", externalObj)
+                .build();
     }
 }
