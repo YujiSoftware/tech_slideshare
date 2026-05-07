@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Slackに作業ログを雑に書いてもらったら結構良かった話 (crashRT)</title>
+        <link>https://www.docswell.com/s/crashRT/K278WR-banban3</link>
+        <dc:date>2026-05-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>爆速でwifiを構築するために (koukichi)</title>
+        <link>https://www.docswell.com/s/Drkoukichi/ZN7JG7-2026-05-07-200350</link>
+        <dc:date>2026-05-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JANOG57でのネットワークトポロジー動的生成の試み (Akitoshi Saeki,@konoe_akitoshi)</title>
+        <link>https://www.docswell.com/s/konoe_akitoshi/K6N719-2026-05-07-202252</link>
+        <dc:date>2026-05-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>WebAssembly を読み込むベストプラクティス 2026年春版 / Best Practices for Loading WebAssembly (Spring 2026) (petamoriken / 森建)</title>
+        <link>https://speakerdeck.com/petamoriken/best-practices-for-loading-webassembly-spring-2026</link>
+        <dc:date>2026-05-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260507_今週の中東情勢・物流統合レポート_NOBDATA (NobuakiOshiro)</title>
+        <link>https://speakerdeck.com/doradora09/20260507-jin-zhou-nozhong-dong-qing-shi-wu-liu-tong-he-rehoto-nobdata</link>
+        <dc:date>2026-05-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260507_中東有事後のグローバル資源需給_AI調査 (NobuakiOshiro)</title>
+        <link>https://speakerdeck.com/doradora09/20260507-zhong-dong-you-shi-hou-nokuroharuzi-yuan-xu-gei-aidiao-cha</link>
+        <dc:date>2026-05-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>多角的な視点から見たAGI (Terisuke)</title>
+        <link>https://speakerdeck.com/terisuke/duo-jiao-de-nashi-dian-karajian-taagi</link>
+        <dc:date>2026-05-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JPNIC の NOC 支援プログラム (alt,@jj1lfc)</title>
         <link>https://www.docswell.com/s/jj1lfc/K7NEE6-2026-05-02-221709</link>
         <dc:date>2026-05-06T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>運転動画を検索可能にする〜Cosmos-Embed1とDatabricks Vector Searchで〜/cosmos-embed1-databricks-vector-search (開発室Graph)</title>
         <link>https://speakerdeck.com/studio_graph/cosmos-embed1-databricks-vector-search</link>
         <dc:date>2026-05-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハーネスエンジニアリング入門 (hatyibei)</title>
-        <link>https://speakerdeck.com/hatyibei/hanesuenziniaringuru-men</link>
-        <dc:date>2026-04-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アーティファクト管理で サプライチェーン攻撃を回避！！ (Shigeki Shoji)</title>
-        <link>https://speakerdeck.com/takesection/ateihuakutoguan-li-de-sapuraitiengong-ji-wohui-bi</link>
-        <dc:date>2026-04-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>決定論 vs 確率論：Gemini 3 FlashとTF-IDFを組み合わせた「法規判定エンジン」の構築 (Shu Kobuchi)</title>
-        <link>https://speakerdeck.com/shukob/jue-ding-lun-vs-que-lu-lun-gemini-3-flashtotf-idfwozu-mihe-waseta-fa-gui-pan-ding-enzin-nogou-zhu</link>
-        <dc:date>2026-04-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>メモを取るだけだったMTGがAIによってプロジェクト知識の共有拠点になった (今津快斗)</title>
-        <link>https://speakerdeck.com/kaitimadu/memowoqu-rudakedatutamtggaainiyotutepuroziekutozhi-shi-nogong-you-ju-dian-ninatuta</link>
-        <dc:date>2026-04-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハーネスエンジニアリング入門 (西岡 賢一郎 (Kenichiro Nishioka))</title>
-        <link>https://speakerdeck.com/knishioka/hanesuenziniaringuru-men</link>
-        <dc:date>2026-04-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260430 YonaYona Entra ID Night |  Entra ID の QR コード認証って何ですか？ (Olivia)</title>
-        <link>https://speakerdeck.com/olivia_0707/20260430-yonayona-entra-id-night-entra-id-no-qr-kodoren-zheng-tutehe-desuka</link>
-        <dc:date>2026-04-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>検索設計から 推論設計への重心移動と Recall-First Retrieval (po3rin)</title>
-        <link>https://speakerdeck.com/po3rin/jian-suo-she-ji-kara-tui-lun-she-ji-henozhong-xin-yi-dong-to-recall-first-retrieval</link>
-        <dc:date>2026-04-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
