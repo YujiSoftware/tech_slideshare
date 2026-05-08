@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIはソフトウェア開発の革命か、ソフトウェア工学の宿題再提出なのか -ソフトウェア品質特性の追加提案- (kyonmm)</title>
+        <link>https://speakerdeck.com/kyonmm/is-genai-swe-homework</link>
+        <dc:date>2026-05-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Slackに作業ログを雑に書いてもらったら結構良かった話 (crashRT)</title>
         <link>https://www.docswell.com/s/crashRT/K278WR-banban3</link>
         <dc:date>2026-05-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>本番環境でPHPコードに触れずに「使われていないコード」を調べるにはどうしたらよいか？ (Sohei Iwahori)</title>
         <link>https://speakerdeck.com/egmc/ben-fan-huan-jing-dephpkodonihong-rezuni-shi-wareteinaikodo-wodiao-berunihadousitarayoika</link>
-        <dc:date>2026-05-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>運転動画を検索可能にする〜Cosmos-Embed1とDatabricks Vector Searchで〜/cosmos-embed1-databricks-vector-search (開発室Graph)</title>
-        <link>https://speakerdeck.com/studio_graph/cosmos-embed1-databricks-vector-search</link>
         <dc:date>2026-05-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
