@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SPAにしないReact移行 (murasuke)</title>
+        <link>https://www.docswell.com/s/4962106/ZX2W34-2026-05-09-153830</link>
+        <dc:date>2026-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソースコードで比較する React / Vue / Svelte の セキュリティ設計思想 / security design philosophy react vue svelte (コドモン開発チーム)</title>
         <link>https://speakerdeck.com/codmoninc/security-design-philosophy-react-vue-svelte</link>
         <dc:date>2026-05-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>SoftMatcha 2: 1兆語規模コーパスの超高速かつ柔らかい検索 (Masataka YONEDA)</title>
         <link>https://speakerdeck.com/e869120_sub/softmatcha-2-1zhao-yu-gui-mo-kopasunochao-gao-su-katurou-rakaijian-suo</link>
         <dc:date>2026-05-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Product Management Summit 2026　リチェルカ登壇資料『PdMを廃止しました。』 (株式会社リチェルカ)</title>
-        <link>https://speakerdeck.com/recerqainc/product-management-summit-2026-ritierukadeng-tan-zi-liao-pdmwofei-zhi-simasita</link>
-        <dc:date>2026-05-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
