@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ブラウザの投機的読み込みと投機ルールAPIを理解し、Webサービスのパフォーマンスを最適化する (did0es)</title>
+        <link>https://speakerdeck.com/shuta13/burauzanotou-ji-de-du-miip-mitotou-ji-ruruapiwoli-jie-si-websabisunopahuomansuwozui-shi-hua-suru</link>
+        <dc:date>2026-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SPAにしないReact移行 (murasuke)</title>
         <link>https://www.docswell.com/s/4962106/ZX2W34-2026-05-09-153830</link>
         <dc:date>2026-05-08T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Microsoft Agent Hackathonのテーマに沿ってもくもくしてみる会</title>
         <link>https://docs.google.com/presentation/d/1m3Q5LOq5wGj3AEzyQqkqifbpW6YZmil5VZAcm1wgTZs/preview</link>
         <dc:date>2026-05-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SoftMatcha 2: 1兆語規模コーパスの超高速かつ柔らかい検索 (Masataka YONEDA)</title>
-        <link>https://speakerdeck.com/e869120_sub/softmatcha-2-1zhao-yu-gui-mo-kopasunochao-gao-su-katurou-rakaijian-suo</link>
-        <dc:date>2026-05-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
