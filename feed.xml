@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自動テストだけで リリース判断できるチームへ - 鍵はテストの量ではなくリリース判断基準の再設計にあった / Redesigning Release Criteria for Lightweight Releases (えわ)</title>
+        <link>https://speakerdeck.com/ewa/redesigning-release-criteria-for-lightweight-releases</link>
+        <dc:date>2026-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AIはソフトウェア開発の革命か、ソフトウェア工学の宿題再提出なのか -ソフトウェア品質特性の追加提案- (kyonmm)</title>
         <link>https://speakerdeck.com/kyonmm/is-genai-swe-homework</link>
         <dc:date>2026-05-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLM の Attention 機構まとめ — 数式・計算量・メモリ (プワー)</title>
         <link>https://speakerdeck.com/puwaer/llm-no-attention-ji-gou-matome-shu-shi-ji-suan-liang-memori</link>
-        <dc:date>2026-05-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>本番環境でPHPコードに触れずに「使われていないコード」を調べるにはどうしたらよいか？ (Sohei Iwahori)</title>
-        <link>https://speakerdeck.com/egmc/ben-fan-huan-jing-dephpkodonihong-rezuni-shi-wareteinaikodo-wodiao-berunihadousitarayoika</link>
         <dc:date>2026-05-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
