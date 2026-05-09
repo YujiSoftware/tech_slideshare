@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソースコードで比較する React / Vue / Svelte の セキュリティ設計思想 / security design philosophy react vue svelte (コドモン開発チーム)</title>
+        <link>https://speakerdeck.com/codmoninc/security-design-philosophy-react-vue-svelte</link>
+        <dc:date>2026-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サービスの信頼性を高めるため、形骸化した「プロダクションミーティング」を立て直すまでの取り組み (すてにゃん)</title>
+        <link>https://speakerdeck.com/stefafafan/reorganizing-production-meeting</link>
+        <dc:date>2026-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>書き換えて学ぶTemporal #fukts (Hiroyuki ANAI)</title>
         <link>https://speakerdeck.com/pirosikick/shu-kihuan-etexue-butemporal-number-fukts</link>
         <dc:date>2026-05-08T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Product Management Summit 2026　リチェルカ登壇資料『PdMを廃止しました。』 (株式会社リチェルカ)</title>
         <link>https://speakerdeck.com/recerqainc/product-management-summit-2026-ritierukadeng-tan-zi-liao-pdmwofei-zhi-simasita</link>
         <dc:date>2026-05-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第4回 プロジェクトマネージャ試験勉強会 (Quatrex,@Quatrex)</title>
-        <link>https://www.docswell.com/s/Quatrex/ZY8E14-2026-05-02</link>
-        <dc:date>2026-05-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>秦野アジャイル #1 (髙橋直規（幡ヶ谷亭直吉）)</title>
-        <link>https://speakerdeck.com/hiliteeternal/qin-ye-aziyairu-number-1</link>
-        <dc:date>2026-05-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
