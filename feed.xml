@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンドの相手が変わった - AIが加わったWebの新しいインターフェース設計 (azukiazusa)</title>
+        <link>https://speakerdeck.com/azukiazusa1/hurontoendonoxiang-shou-gabian-watuta-aigajia-watutawebnoxin-siiintahuesushe-ji</link>
+        <dc:date>2026-05-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自動テストだけで リリース判断できるチームへ - 鍵はテストの量ではなくリリース判断基準の再設計にあった / Redesigning Release Criteria for Lightweight Releases (えわ)</title>
         <link>https://speakerdeck.com/ewa/redesigning-release-criteria-for-lightweight-releases</link>
         <dc:date>2026-05-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エラー処理の温故知新 / history of error handling technic (nakaryo)</title>
         <link>https://speakerdeck.com/ryotanakaya/history-of-error-handling-technic</link>
-        <dc:date>2026-05-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM の Attention 機構まとめ — 数式・計算量・メモリ (プワー)</title>
-        <link>https://speakerdeck.com/puwaer/llm-no-attention-ji-gou-matome-shu-shi-ji-suan-liang-memori</link>
         <dc:date>2026-05-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
