@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>足踏みを恐れない地域の技術コミュニティづくり (tomio2480,@tomio2480)</title>
+        <link>https://www.docswell.com/s/tomio2480/ZPR4J4-phpconkagawa-2026</link>
+        <dc:date>2026-05-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>見た目は同じなのに検索でヒットしない：ファイルアップロード実装の落とし穴と設計を考える (wabi)</title>
         <link>https://speakerdeck.com/wabi_1318/jian-tamu-hatong-zinanonijian-suo-dehitutosinai-huairuatupurodoshi-zhuang-noluo-tosixue-toshe-ji-wokao-eru</link>
         <dc:date>2026-05-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JANOG57でのネットワークトポロジー動的生成の試み (Akitoshi Saeki,@konoe_akitoshi)</title>
         <link>https://www.docswell.com/s/konoe_akitoshi/K6N719-2026-05-07-202252</link>
-        <dc:date>2026-05-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebAssembly を読み込むベストプラクティス 2026年春版 / Best Practices for Loading WebAssembly (Spring 2026) (petamoriken / 森建)</title>
-        <link>https://speakerdeck.com/petamoriken/best-practices-for-loading-webassembly-spring-2026</link>
         <dc:date>2026-05-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
