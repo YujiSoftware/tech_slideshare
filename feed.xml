@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>How We Practice Exploratory Testing in Iterative Development( #scrumniigata ) / 反復開発の中で、探索的テストをどう実施しているか (teyamagu)</title>
+        <link>https://speakerdeck.com/teyamagu/how-we-practice-exploratory-testing-in-iterative-development</link>
+        <dc:date>2026-05-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>QAエンジニアはどうやって プロダクト議論の場に入れるのか？ (Sammy(MoritaMasami))</title>
         <link>https://speakerdeck.com/moritamasami/qaenziniahadouyatute-purodakutoyi-lun-nochang-niru-rerunoka</link>
         <dc:date>2026-05-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>自動テストだけで リリース判断できるチームへ - 鍵はテストの量ではなくリリース判断基準の再設計にあった / Redesigning Release Criteria for Lightweight Releases (えわ)</title>
         <link>https://speakerdeck.com/ewa/redesigning-release-criteria-for-lightweight-releases</link>
         <dc:date>2026-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIはソフトウェア開発の革命か、ソフトウェア工学の宿題再提出なのか -ソフトウェア品質特性の追加提案- (kyonmm)</title>
-        <link>https://speakerdeck.com/kyonmm/is-genai-swe-homework</link>
-        <dc:date>2026-05-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
