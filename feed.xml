@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>My daily life on Ruby (Akira Matsuda)</title>
+        <link>https://speakerdeck.com/a_matsuda/my-daily-life-on-ruby</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>kittyで作るmulti agentsな開発環境 (ryugen04)</title>
         <link>https://speakerdeck.com/ryugen04/kittytezuo-rumulti-agentsnakai-fa-huan-jing</link>
         <dc:date>2026-05-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20260509_ぼちぼちアプリ版Codex_and_CLI入門 (NobuakiOshiro)</title>
         <link>https://speakerdeck.com/doradora09/20260509-hotihotiahuriban-codex-and-cliru-men</link>
-        <dc:date>2026-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ブラウザの投機的読み込みと投機ルールAPIを理解し、Webサービスのパフォーマンスを最適化する (did0es)</title>
-        <link>https://speakerdeck.com/shuta13/burauzanotou-ji-de-du-miip-mitotou-ji-ruruapiwoli-jie-si-websabisunopahuomansuwozui-shi-hua-suru</link>
         <dc:date>2026-05-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
