@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>kittyで作るmulti agentsな開発環境 (ryugen04)</title>
+        <link>https://speakerdeck.com/ryugen04/kittytezuo-rumulti-agentsnakai-fa-huan-jing</link>
+        <dc:date>2026-05-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゲームから学ぶUX設計 / UX Design Inspired from Games (Daichi KUDO)</title>
+        <link>https://speakerdeck.com/da1chi/ux-design-inspired-from-games-e33dda5a-6cbf-4d1e-9959-25517a8cb977</link>
+        <dc:date>2026-05-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanオンラインワークショップ - MCP入門 - 20260512</title>
+        <link>https://docs.google.com/presentation/d/1J9oQms_1BB023kpBJvSZTACnQFv-pxbHKWQw6XMFnX0/preview</link>
+        <dc:date>2026-05-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事業を伸ばすユーザー理解戦略「インサイトマネジメント」について (Centou)</title>
         <link>https://speakerdeck.com/centou/shi-ye-woshen-basuyuzali-jie-zhan-lue-insaitomanezimento-nituite</link>
         <dc:date>2026-05-11T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>ブラウザの投機的読み込みと投機ルールAPIを理解し、Webサービスのパフォーマンスを最適化する (did0es)</title>
         <link>https://speakerdeck.com/shuta13/burauzanotou-ji-de-du-miip-mitotou-ji-ruruapiwoli-jie-si-websabisunopahuomansuwozui-shi-hua-suru</link>
-        <dc:date>2026-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SPAにしないReact移行 (murasuke)</title>
-        <link>https://www.docswell.com/s/4962106/ZX2W34-2026-05-09-153830</link>
-        <dc:date>2026-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソースコードで比較する React / Vue / Svelte の セキュリティ設計思想 / security design philosophy react vue svelte (コドモン開発チーム)</title>
-        <link>https://speakerdeck.com/codmoninc/security-design-philosophy-react-vue-svelte</link>
-        <dc:date>2026-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サービスの信頼性を高めるため、形骸化した「プロダクションミーティング」を立て直すまでの取り組み (すてにゃん)</title>
-        <link>https://speakerdeck.com/stefafafan/reorganizing-production-meeting</link>
         <dc:date>2026-05-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
