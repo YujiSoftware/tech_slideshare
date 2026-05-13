@@ -6,6 +6,66 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Agent Skills の危険性とその対処方法 (NAKAMURA Atsushi,@nuits_jp)</title>
+        <link>https://www.docswell.com/s/nuits_jp/5PR434-2026-05-13-060805</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agent Skills を社内で育てる仕組み作り (jackchuka)</title>
+        <link>https://speakerdeck.com/jackchuka/agent-skills-woshe-nei-deyu-terushi-zu-mizuo-ri</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>過去のレビュー知見をSkillsで資産化した話 (PKSHA Technology（パークシャテクノロジー）)</title>
+        <link>https://speakerdeck.com/pkshadeck/guo-qu-norehiyuzhi-jian-woskillstezi-chan-hua-sitahua</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>when storing skills in S3 file (watany)</title>
+        <link>https://speakerdeck.com/watany/when-storing-skills-in-s3-file</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code Skillsでタスク抽出・分解を自動化して開発効率を上げた話 (mytysoldier)</title>
+        <link>https://speakerdeck.com/mytysoldier/claude-code-skillsdetasukuchou-chu-fen-jie-wozi-dong-hua-sitekai-fa-xiao-lu-woshang-getahua</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>毎日の作業を Claude Code 経由にしたら、 ノウハウがコードになった (Hajime KOSHIRO)</title>
+        <link>https://speakerdeck.com/kossykinto/turning-daily-work-into-code-with-claude-code-skills</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Skills間の連携も関数のようにしたら快適だった話 (TakashiAsanuma)</title>
+        <link>https://speakerdeck.com/takashiasanuma/skillsjian-nolian-xi-moguan-shu-noyounisitarakuai-shi-tatutahua</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260513_分報とCopilotは相性が良さそうだったので試してみた話 (yankee)</title>
+        <link>https://www.docswell.com/s/yankee/ZJWXYV-2026-05-13-nancopa</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ゴミ捨てLINE通知SaaSを作ろうとしたら気づいたらCron SaaS作ってた話 (tanahiro2010)</title>
+        <link>https://speakerdeck.com/tanahiro2010/gomishe-telinetong-zhi-saaswozuo-routositaraqi-duitaracron-saaszuo-tutetahua</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AgentCore Optimizationを始めよう！ (matsukada)</title>
+        <link>https://speakerdeck.com/licux/agentcore-optimizationwoshi-meyou</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260512_イラン情勢_物流アップデート (NobuakiOshiro)</title>
+        <link>https://speakerdeck.com/doradora09/20260512-iranqing-shi-wu-liu-atuhuteto</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agent Skillsで実現する記憶領域の運用とその後 (yamadashy / やまだし)</title>
+        <link>https://speakerdeck.com/yamadashy/running-a-memory-space-with-agent-skills-and-what-came-after</link>
+        <dc:date>2026-05-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Figma × Claude Codeで「デザインの保守」を誰でもできるようにするには？ というチャレンジをしてみた 2026-04-16 融ける職能 (あんど,@ampersand_xyz)</title>
         <link>https://www.docswell.com/s/ampersand_xyz/57NRWJ-2026-04-16-232230</link>
         <dc:date>2026-05-12T15:00:00Z</dc:date>
@@ -44,65 +104,5 @@
         <title>製造業 R&amp;D の情シスが CBs になって感じたこと &amp; AWS WorkSpaces Secure BrowserでPoC前夜に難を逃れた話 (tsunojun)</title>
         <link>https://speakerdeck.com/tsunojun/zhi-zao-ye-r-and-d-noqing-sisuga-cbs-ninatutegan-zitakoto-and-aws-workspaces-secure-browserdepocqian-ye-ninan-wotao-retahua</link>
         <dc:date>2026-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postman Launchpad EP.11 - 実演 Claude Code x Postman</title>
-        <link>https://docs.google.com/presentation/d/1VC1ZbngoIO-nlEihgqSsnYQcZ1aOHVnHa4VCs_xyF_k/preview</link>
-        <dc:date>2026-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How We Practice Exploratory Testing in Iterative Development( #scrumniigata ) / 反復開発の中で、探索的テストをどう実施しているか (teyamagu)</title>
-        <link>https://speakerdeck.com/teyamagu/how-we-practice-exploratory-testing-in-iterative-development</link>
-        <dc:date>2026-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QAエンジニアはどうやって プロダクト議論の場に入れるのか？ (Sammy(MoritaMasami))</title>
-        <link>https://speakerdeck.com/moritamasami/qaenziniahadouyatute-purodakutoyi-lun-nochang-niru-rerunoka</link>
-        <dc:date>2026-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代に越境し、 組織を変えるQAスキルの正体 / QA Skills for Transforming an Organization (miisan)</title>
-        <link>https://speakerdeck.com/mii3king/qa-skills-for-transforming-an-organization</link>
-        <dc:date>2026-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIと乗り切った1,500ページ超のヘルプサイト基盤刷新とさらにその先の話 (mugi / Hajime Mugishima)</title>
-        <link>https://speakerdeck.com/mugi_uno/help-site-renewal-with-ai</link>
-        <dc:date>2026-05-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>足踏みを恐れない地域の技術コミュニティづくり (tomio2480,@tomio2480)</title>
-        <link>https://www.docswell.com/s/tomio2480/ZPR4J4-phpconkagawa-2026</link>
-        <dc:date>2026-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>見た目は同じなのに検索でヒットしない：ファイルアップロード実装の落とし穴と設計を考える (wabi)</title>
-        <link>https://speakerdeck.com/wabi_1318/jian-tamu-hatong-zinanonijian-suo-dehitutosinai-huairuatupurodoshi-zhuang-noluo-tosixue-toshe-ji-wokao-eru</link>
-        <dc:date>2026-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大学職員のための生成AI最前線 ：最前線を、AIガバナンスとして読み直すためのTips (gmoriki | 森木銀河)</title>
-        <link>https://speakerdeck.com/gmoriki/da-xue-zhi-yuan-notamenosheng-cheng-aizui-qian-xian-zui-qian-xian-wo-aigabanansutositedu-mizhi-sutamenotips</link>
-        <dc:date>2026-05-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リセットCSSを1行消したらアクセシビリティが向上した話 (pvcresin)</title>
-        <link>https://speakerdeck.com/pvcresin/risetutocsswo1xing-xiao-sitaraakusesibiriteigaxiang-shang-sitahua</link>
-        <dc:date>2026-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>知ってた？JavaScriptの"正しさ"を検証するテストが5万以上もあること(Test262) (Riya Amemiya)</title>
-        <link>https://speakerdeck.com/riyaamemiya/zhi-tuteta-javascriptno-zheng-sisa-wojian-zheng-surutesutoga5mo-yi-shang-moarukoto-test262</link>
-        <dc:date>2026-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>司会スライド  のコピー のコピー のコピー のコピー</title>
-        <link>https://docs.google.com/presentation/d/1FhHGz-JJg6Ihxzx1tqL8X-87vuvHWeU7MCUR46bAHcE/preview</link>
-        <dc:date>2026-05-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CachyOS使ってみた (yukio)</title>
-        <link>https://speakerdeck.com/yukio0113/cachyosshi-tutemita</link>
-        <dc:date>2026-05-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
