@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践ハーネスエンジニアリング：ステアリングループを実例から読み解く / Practical Harness Engineering: Understanding Steering Loops Through Real-World Examples (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/practical-harness-engineering-understanding-steering-loops-through-real-world-examples</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「OSSがあるなら自作するな」は AI時代も正しいか ── Build vs Adopt の新しい判断基準 (Kumo Ishikawa)</title>
+        <link>https://speakerdeck.com/kumorn5s/oss-build-vs-adopt</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>鹿野さんに聞く！CSSの最新トレンド Ver.2026 (tonkotsuboy_com)</title>
+        <link>https://speakerdeck.com/tonkotsuboy_com/lu-ye-sanniwen-ku-cssnozui-xin-torendo-ver-dot-2026</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>みんなの考えた最強のデータ基盤アーキテクチャ'26前期〜前夜祭〜ルーキーズ_資料_遠藤な (Naoya Endo)</title>
         <link>https://speakerdeck.com/endonanana/minnanokao-etazui-qiang-nodetaji-pan-akitekutiya26qian-qi-qian-ye-ji-rukizu-zi-liao-yuan-teng-na</link>
         <dc:date>2026-05-13T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>毎日の作業を Claude Code 経由にしたら、 ノウハウがコードになった (Hajime KOSHIRO)</title>
         <link>https://speakerdeck.com/kossykinto/turning-daily-work-into-code-with-claude-code-skills</link>
-        <dc:date>2026-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Skills間の連携も関数のようにしたら快適だった話 (TakashiAsanuma)</title>
-        <link>https://speakerdeck.com/takashiasanuma/skillsjian-nolian-xi-moguan-shu-noyounisitarakuai-shi-tatutahua</link>
-        <dc:date>2026-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260513_分報とCopilotは相性が良さそうだったので試してみた話 (yankee)</title>
-        <link>https://www.docswell.com/s/yankee/ZJWXYV-2026-05-13-nancopa</link>
-        <dc:date>2026-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゴミ捨てLINE通知SaaSを作ろうとしたら気づいたらCron SaaS作ってた話 (tanahiro2010)</title>
-        <link>https://speakerdeck.com/tanahiro2010/gomishe-telinetong-zhi-saaswozuo-routositaraqi-duitaracron-saaszuo-tutetahua</link>
         <dc:date>2026-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
