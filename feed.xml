@@ -6,6 +6,61 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>いつの間にかデータエンジニア以外の業務も増えていたけど、意外と経験が役に立ってる (ZOZO Developers)</title>
+        <link>https://speakerdeck.com/zozotech/next-step-of-dataengineers-career</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Miyazaki.go 勉強会 #4 (Radish)</title>
+        <link>https://speakerdeck.com/radish/miyazaki-dot-go-mian-qiang-hui-number-4</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIとお買い物してみた (Terisuke)</title>
+        <link>https://speakerdeck.com/terisuke/aitoomai-iwu-sitemita</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>マンション備え付けのネットワークとLTE回線を組み合わせた ネットワークの安定化の考案 (harutiro)</title>
+        <link>https://speakerdeck.com/harutiro/mansiyonbei-efu-kenonetutowakutoltehui-xian-wozu-mihe-waseta-netutowakunoan-ding-hua-nokao-an</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プログラミング言語において文字列を複数行にわたって だらだらと記載するアレ (sapi_kawahara)</title>
+        <link>https://speakerdeck.com/sapi_kawahara/puroguraminguyan-yu-nioitewen-zi-lie-wofu-shu-xing-niwatatute-daradaratoji-zai-suruare</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>freeeで運用しているAIQAについて (tonchan)</title>
+        <link>https://speakerdeck.com/qatonchan/freeedeyun-yong-siteiruaiqanituite</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PdM・Eng・QAで進めるAI駆動開発の現在地/aidd-with-pdm-eng-qa (butatamasoba / Shota Kusaba / 草場翔太)</title>
+        <link>https://speakerdeck.com/shota_kusaba/aidd-with-pdm-eng-qa</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ワイワイローカルLLM会！活用アイデアを作ってみよう編 presented by はんなりプログラミング</title>
+        <link>https://docs.google.com/document/d/1isekkjLI0r_XPpwE3uDshoymhL4LeBLfi0wV9jbZoAI/preview</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アンケート結果 MLの振る舞い (Ken Sasaki,@sasakipochi)</title>
+        <link>https://www.docswell.com/s/sasakipochi/K4NEPJ-2026-05-15-154933</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Swift Sequence の便利 API 再発見 (treastrain / Tanaka Ryoga)</title>
+        <link>https://speakerdeck.com/treastrain/rediscovering-useful-swift-sequence-apis</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代に、 データアナリストがデータエンジニアに異動して (jackojacko_)</title>
+        <link>https://speakerdeck.com/jackojacko_/aishi-dai-ni-detaanarisutogadetaenzinianiyi-dong-site</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260513_Snowflake Cortex Agent で実現する対話型 HR 分析 (ponponmikan)</title>
         <link>https://speakerdeck.com/ponponmikankan/20260513-snowflake-cortex-agent-deshi-xian-surudui-hua-xing-hr-fen-xi</link>
         <dc:date>2026-05-14T15:00:00Z</dc:date>
@@ -49,60 +104,5 @@
         <title>ぼくの人生がGreenになった日 (TDD野郎)</title>
         <link>https://speakerdeck.com/letsdotdd/bokunoren-sheng-gagreenninatutari</link>
         <dc:date>2026-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代に成果を上げる、真の「経営者の条件」 (manato kato,@manato_kato)</title>
-        <link>https://www.docswell.com/s/kathmandu777/KWRV6R-2026-05-14-hello-lt-world-2026</link>
-        <dc:date>2026-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>涅槃へGO！〜わたしの世界は、全てわたしの認識でできている〜 ("doiko" chiaki_yamaguchi)</title>
-        <link>https://speakerdeck.com/doiko123/nie-pan-hego-watasinoshi-jie-ha-quan-tewatasinoren-shi-dedekiteiru</link>
-        <dc:date>2026-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『今日から使える認知行動療法』でみつけた もっと人生をたのしむヒント (みきてぃ / きたはら (mkitahara))</title>
-        <link>https://speakerdeck.com/mkitahara01985/jin-ri-karashi-eruren-zhi-xing-dong-liao-fa-demituketa-motutoren-sheng-wotanosimuhinto</link>
-        <dc:date>2026-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「愛するということ」がAI時代のマネジメントの教科書だった件 (Yuki)</title>
-        <link>https://speakerdeck.com/yukiusa7991/ai-surutoiukoto-kaaishi-dai-nomanesimentonojiao-ke-shu-tatutajian</link>
-        <dc:date>2026-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Realtime APIを使って 全自動コールセンターを作ってみた@2026 (Terisuke)</title>
-        <link>https://speakerdeck.com/terisuke/realtime-apiwoshi-tute-quan-zi-dong-korusentawozuo-tutemita-at-2026</link>
-        <dc:date>2026-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロポーザルを書く技術とアンチパターン/proposal-writing-and-antipatterns (moriyuya)</title>
-        <link>https://speakerdeck.com/moriyuya/proposal-writing-and-antipatterns</link>
-        <dc:date>2026-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアがAIで副業をする場合の入り口と仕事について調べてみた (Ochtum)</title>
-        <link>https://speakerdeck.com/ochtum/enziniagaaidefu-ye-wosuruchang-he-noru-rikou-toshi-shi-nituitediao-betemita</link>
-        <dc:date>2026-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260514_LT会 (hermit255)</title>
-        <link>https://www.docswell.com/s/4895778789/ZPR474-2026-05-14-031922</link>
-        <dc:date>2026-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agent Skills の危険性とその対処方法 (NAKAMURA Atsushi,@nuits_jp)</title>
-        <link>https://www.docswell.com/s/nuits_jp/5PR434-2026-05-13-060805</link>
-        <dc:date>2026-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agent Skills を社内で育てる仕組み作り (jackchuka)</title>
-        <link>https://speakerdeck.com/jackchuka/agent-skills-woshe-nei-deyu-terushi-zu-mizuo-ri</link>
-        <dc:date>2026-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>過去のレビュー知見をSkillsで資産化した話 (PKSHA Technology（パークシャテクノロジー）)</title>
-        <link>https://speakerdeck.com/pkshadeck/guo-qu-norehiyuzhi-jian-woskillstezi-chan-hua-sitahua</link>
-        <dc:date>2026-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
