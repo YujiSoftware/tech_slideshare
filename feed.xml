@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Copilot３兄弟との付き合い方 (Yuya,@yuyanz_)</title>
+        <link>https://www.docswell.com/s/yuyanz/5Q2MQ7-2026-05-13-202146</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クラウドネイティブ DB はいかにして制約を 克服したか？ 〜進化歴史から紐解く、スケーラブルアーキテクチャ設計指針〜 (hacomono Inc.)</title>
         <link>https://speakerdeck.com/hacomono/how-cloud-native-databases-overcame-their-constraints</link>
         <dc:date>2026-05-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>when storing skills in S3 file (watany)</title>
         <link>https://speakerdeck.com/watany/when-storing-skills-in-s3-file</link>
-        <dc:date>2026-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Code Skillsでタスク抽出・分解を自動化して開発効率を上げた話 (mytysoldier)</title>
-        <link>https://speakerdeck.com/mytysoldier/claude-code-skillsdetasukuchou-chu-fen-jie-wozi-dong-hua-sitekai-fa-xiao-lu-woshang-getahua</link>
         <dc:date>2026-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
