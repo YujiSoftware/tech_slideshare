@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>少人数SREで信頼性を配るためのセルフサービスとガードレール設計 (Ryo Nakamine)</title>
+        <link>https://speakerdeck.com/rnakamine/shao-ren-shu-sretexin-lai-xing-wopei-rutamenoseruhusahisutokatorerushe-ji</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>"うちにはまだ早い"は本当？ ─ 小さく始めるPlatform Engineering入門 (Haruka Sakihara)</title>
+        <link>https://speakerdeck.com/harukasakihara/utinihamadazao-i-haben-dang-xiao-sakushi-meruplatform-engineeringru-men</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>一人SREが歩んだPlatform Engineeringスモールスタート実践録 ~ クラウドネイティブ会議版 ~ (syossan27)</title>
+        <link>https://speakerdeck.com/syossan27/ren-sregabu-ndaplatform-engineeringsumorusutatoshi-jian-lu-kuraudoneiteibuhui-yi-ban</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「QA＝テスト」「シフトレフト＝スクラムイベントの参加者の一員」の呪縛を解く。アジャイルな開発を止めないために、10Xで挑んだ「右側のしわ寄せ」解消記 #scrumniigata (nihonbuson)</title>
+        <link>https://speakerdeck.com/nihonbuson/quality-assurance-big-picture-vol2</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AI時代に信頼性をどう保ち続けるか - Policy as Code の実践 (akitok)</title>
         <link>https://speakerdeck.com/akitok_/sustainable-reliability-with-policy-as-code</link>
         <dc:date>2026-05-14T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>実践ハーネスエンジニアリング：ステアリングループを実例から読み解く / Practical Harness Engineering: Understanding Steering Loops Through Real-World Examples (nrs)</title>
         <link>https://speakerdeck.com/nrslib/practical-harness-engineering-understanding-steering-loops-through-real-world-examples</link>
         <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「OSSがあるなら自作するな」は AI時代も正しいか ── Build vs Adopt の新しい判断基準 (Kumo Ishikawa)</title>
-        <link>https://speakerdeck.com/kumorn5s/oss-build-vs-adopt</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>鹿野さんに聞く！CSSの最新トレンド Ver.2026 (tonkotsuboy_com)</title>
-        <link>https://speakerdeck.com/tonkotsuboy_com/lu-ye-sanniwen-ku-cssnozui-xin-torendo-ver-dot-2026</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>みんなの考えた最強のデータ基盤アーキテクチャ'26前期〜前夜祭〜ルーキーズ_資料_遠藤な (Naoya Endo)</title>
-        <link>https://speakerdeck.com/endonanana/minnanokao-etazui-qiang-nodetaji-pan-akitekutiya26qian-qi-qian-ye-ji-rukizu-zi-liao-yuan-teng-na</link>
-        <dc:date>2026-05-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>答えがすぐ出る時代に、なぜまだ考えるのか (S.Masui)</title>
-        <link>https://speakerdeck.com/smasui0302/da-egasuguchu-rushi-dai-ni-nazemadakao-erunoka</link>
-        <dc:date>2026-05-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
