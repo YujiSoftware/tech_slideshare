@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260513_Snowflake Cortex Agent で実現する対話型 HR 分析 (ponponmikan)</title>
+        <link>https://speakerdeck.com/ponponmikankan/20260513-snowflake-cortex-agent-deshi-xian-surudui-hua-xing-hr-fen-xi</link>
+        <dc:date>2026-05-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Copilot３兄弟との付き合い方 (Yuya,@yuyanz_)</title>
         <link>https://www.docswell.com/s/yuyanz/5Q2MQ7-2026-05-13-202146</link>
         <dc:date>2026-05-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>過去のレビュー知見をSkillsで資産化した話 (PKSHA Technology（パークシャテクノロジー）)</title>
         <link>https://speakerdeck.com/pkshadeck/guo-qu-norehiyuzhi-jian-woskillstezi-chan-hua-sitahua</link>
-        <dc:date>2026-05-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>when storing skills in S3 file (watany)</title>
-        <link>https://speakerdeck.com/watany/when-storing-skills-in-s3-file</link>
         <dc:date>2026-05-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
