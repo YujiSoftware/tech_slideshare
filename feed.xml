@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>多摩.dev #2.5 (髙橋直規（幡ヶ谷亭直吉）)</title>
+        <link>https://speakerdeck.com/hiliteeternal/duo-mo-dot-dev-number-2-dot-5</link>
+        <dc:date>2026-05-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260516_SecJAWS_Days (Takuya Yonezawa)</title>
         <link>https://speakerdeck.com/takuyay0ne/20260516-secjaws-days</link>
         <dc:date>2026-05-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>継続的な負荷検証を目指して (Kazuhiko Yamashita)</title>
         <link>https://speakerdeck.com/pyama86/ji-sok-de-nafu-he-jian-zheng-womu-zhi-site</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>少人数SREで信頼性を配るためのセルフサービスとガードレール設計 (Ryo Nakamine)</title>
-        <link>https://speakerdeck.com/rnakamine/shao-ren-shu-sretexin-lai-xing-wopei-rutamenoseruhusahisutokatorerushe-ji</link>
         <dc:date>2026-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
