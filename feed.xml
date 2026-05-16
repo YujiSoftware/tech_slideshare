@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Copilot App がとってもいいよという話 (yuma(Maki),@yuma_prog)</title>
+        <link>https://www.docswell.com/s/yuma/K9NW3Y-2026-05-16-jat</link>
+        <dc:date>2026-05-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「背中を見て育て」からの卒業 〜専門技術としてのテスト設計を軸に、品質保証のバトンを繋ぐ〜 (nihonbuson)</title>
+        <link>https://speakerdeck.com/nihonbuson/scaling-qa-organization</link>
+        <dc:date>2026-05-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>セキュリティ対策、何からはじめる？ CloudNative環境の脅威モデリングと リスク評価実践入門 #cloudnativekaigi (varu3)</title>
+        <link>https://speakerdeck.com/varu3/cloudnativekaigi2026-threat-modeling-3c0b5cc0-0325-4086-8b67-dffc23cbba07</link>
+        <dc:date>2026-05-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SLI/SLO、「完全に理解した」から「チョットデキル」へ (maru)</title>
+        <link>https://speakerdeck.com/maruloop/slo</link>
+        <dc:date>2026-05-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>多摩.dev #2.5 (髙橋直規（幡ヶ谷亭直吉）)</title>
         <link>https://speakerdeck.com/hiliteeternal/duo-mo-dot-dev-number-2-dot-5</link>
         <dc:date>2026-05-16T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>Copilotの監査ログはどこまでみれるのか (ponponmikan)</title>
         <link>https://speakerdeck.com/ponponmikankan/copilotnojian-cha-roguhadokomademirerunoka</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Purviewの「機密情報の種類」 はいいぞ！ (Kaeru Nakai,@KaeruNakai)</title>
-        <link>https://www.docswell.com/s/KaeruNakai/ZVJ6D2-2026-05-16-144646</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ポスト量子暗号の概要とAWSの取り組み-公開用 (秋山直輝)</title>
-        <link>https://www.docswell.com/s/5400400/ZE1LG1-2026-05-16-131006</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260516_Purview Quick Win☆_「まずはここから」のアイデア (momoka hori)</title>
-        <link>https://www.docswell.com/s/h4ppyr41nyd4y/ZY8EX9-2026-05-16-140221</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>継続的な負荷検証を目指して (Kazuhiko Yamashita)</title>
-        <link>https://speakerdeck.com/pyama86/ji-sok-de-nafu-he-jian-zheng-womu-zhi-site</link>
         <dc:date>2026-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
