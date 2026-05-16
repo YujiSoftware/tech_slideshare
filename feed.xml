@@ -6,6 +6,71 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>10サービス以上のメール到達率改善を地道に継続的に進めている話 / Continue to improve email delivery rates across multiple services (Takashi Yamaguchi)</title>
+        <link>https://speakerdeck.com/yamaguchitk333/continue-to-improve-email-delivery-rates-across-multiple-services</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>全社統制を維持しながら現場負担をどう減らすか〜プラットフォームチームとセキュリティチームで進めたSecurity Hub活用によるAWS統制の見直し〜/secjaws-security-hub-custom-insights (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
+        <link>https://speakerdeck.com/mhrtech/secjaws-security-hub-custom-insights</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code / Codex / Kiro に AWS 権限を 渡すとき、何を設計すべきか (Kazuki Adachi)</title>
+        <link>https://speakerdeck.com/k_adachi_01/kiro-ni-aws-quan-xian-wo-du-sutoki-he-woshe-ji-subekika</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260517 Security-JAWS 10年史 ~あの頃、僕らは何してた?~ (Typhon 666,@Typhon666_death)</title>
+        <link>https://www.slideshare.net/slideshow/20260517-security-jaws-10/287540789</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>限界NASの構築🍆 (ゆうカリ🌿,@Eucalyptus_0403)</title>
+        <link>https://www.docswell.com/s/Eucalyptus_0403/KDMG1R-GNAS_construction</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>okarev-pluspim (hinshi,@hinshiba)</title>
+        <link>https://www.docswell.com/s/hinshiba/5R8GDN-2026-05-16-171745</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>高校のChromebookでも自由なネット環境を！ (らすぴー)</title>
+        <link>https://speakerdeck.com/raspython3/gao-xiao-nochromebookdemozi-you-nanetutohuan-jing-wo</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GT7ダッシュボードアプリを作ってみた話.pptx (むる,@vehicle_kouta)</title>
+        <link>https://www.docswell.com/s/mulgsx/5MQLE6-2026-05-16-194713</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Purview Endpoint DLP 動かしてみた (kozakigh)</title>
+        <link>https://speakerdeck.com/kozakigh/purview-endpoint-dlp-dong-kasitemita</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Purview 勉強会報告 Microsoft Purview 入門しようとしてみた (masakichi)</title>
+        <link>https://speakerdeck.com/masakichixo/purview-mian-qiang-hui-bao-gao-microsoft-purview-ru-men-siyoutositemita</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Copilotの監査ログはどこまでみれるのか (ponponmikan)</title>
+        <link>https://speakerdeck.com/ponponmikankan/copilotnojian-cha-roguhadokomademirerunoka</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft Purviewの「機密情報の種類」 はいいぞ！ (Kaeru Nakai,@KaeruNakai)</title>
+        <link>https://www.docswell.com/s/KaeruNakai/ZVJ6D2-2026-05-16-144646</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ポスト量子暗号の概要とAWSの取り組み-公開用 (秋山直輝)</title>
+        <link>https://www.docswell.com/s/5400400/ZE1LG1-2026-05-16-131006</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260516_Purview Quick Win☆_「まずはここから」のアイデア (momoka hori)</title>
         <link>https://www.docswell.com/s/h4ppyr41nyd4y/ZY8EX9-2026-05-16-140221</link>
         <dc:date>2026-05-15T15:00:00Z</dc:date>
@@ -38,71 +103,6 @@
     <item>
         <title>生成AI時代に信頼性をどう保ち続けるか - Policy as Code の実践 (akitok)</title>
         <link>https://speakerdeck.com/akitok_/sustainable-reliability-with-policy-as-code</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いつの間にかデータエンジニア以外の業務も増えていたけど、意外と経験が役に立ってる (ZOZO Developers)</title>
-        <link>https://speakerdeck.com/zozotech/next-step-of-dataengineers-career</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Miyazaki.go 勉強会 #4 (Radish)</title>
-        <link>https://speakerdeck.com/radish/miyazaki-dot-go-mian-qiang-hui-number-4</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIとお買い物してみた (Terisuke)</title>
-        <link>https://speakerdeck.com/terisuke/aitoomai-iwu-sitemita</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>マンション備え付けのネットワークとLTE回線を組み合わせた ネットワークの安定化の考案 (harutiro)</title>
-        <link>https://speakerdeck.com/harutiro/mansiyonbei-efu-kenonetutowakutoltehui-xian-wozu-mihe-waseta-netutowakunoan-ding-hua-nokao-an</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プログラミング言語において文字列を複数行にわたって だらだらと記載するアレ (sapi_kawahara)</title>
-        <link>https://speakerdeck.com/sapi_kawahara/puroguraminguyan-yu-nioitewen-zi-lie-wofu-shu-xing-niwatatute-daradaratoji-zai-suruare</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>freeeで運用しているAIQAについて (tonchan)</title>
-        <link>https://speakerdeck.com/qatonchan/freeedeyun-yong-siteiruaiqanituite</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PdM・Eng・QAで進めるAI駆動開発の現在地/aidd-with-pdm-eng-qa (butatamasoba / Shota Kusaba / 草場翔太)</title>
-        <link>https://speakerdeck.com/shota_kusaba/aidd-with-pdm-eng-qa</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ワイワイローカルLLM会！活用アイデアを作ってみよう編 presented by はんなりプログラミング</title>
-        <link>https://docs.google.com/document/d/1isekkjLI0r_XPpwE3uDshoymhL4LeBLfi0wV9jbZoAI/preview</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アンケート結果 MLの振る舞い (Ken Sasaki,@sasakipochi)</title>
-        <link>https://www.docswell.com/s/sasakipochi/K4NEPJ-2026-05-15-154933</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Swift Sequence の便利 API 再発見 (treastrain / Tanaka Ryoga)</title>
-        <link>https://speakerdeck.com/treastrain/rediscovering-useful-swift-sequence-apis</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代に、 データアナリストがデータエンジニアに異動して (jackojacko_)</title>
-        <link>https://speakerdeck.com/jackojacko_/aishi-dai-ni-detaanarisutogadetaenzinianiyi-dong-site</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260513_Snowflake Cortex Agent で実現する対話型 HR 分析 (ponponmikan)</title>
-        <link>https://speakerdeck.com/ponponmikankan/20260513-snowflake-cortex-agent-deshi-xian-surudui-hua-xing-hr-fen-xi</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Copilot３兄弟との付き合い方 (Yuya,@yuyanz_)</title>
-        <link>https://www.docswell.com/s/yuyanz/5Q2MQ7-2026-05-13-202146</link>
         <dc:date>2026-05-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
