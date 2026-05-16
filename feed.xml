@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260516_SecJAWS_Days (Takuya Yonezawa)</title>
+        <link>https://speakerdeck.com/takuyay0ne/20260516-secjaws-days</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サンプリングは「作る」のか「使う」のか？ 分散トレースのコストと運用を両立する実践的戦略 / Why you need the tail sampling and why you don't want it (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/why-you-need-the-tail-sampling-and-why-you-dont-want-it</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オンコール経験者だから刺さった、 ユーザー視点のアラート (Uechi Shingo)</title>
+        <link>https://speakerdeck.com/uechishingo/onkorujing-yan-zhe-dakaraci-satuta-yuzashi-dian-noarato</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>古今東西SRE (Kaoru)</title>
+        <link>https://speakerdeck.com/okaru/gu-jin-dong-xi-sre</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>10サービス以上のメール到達率改善を地道に継続的に進めている話 / Continue to improve email delivery rates across multiple services (Takashi Yamaguchi)</title>
         <link>https://speakerdeck.com/yamaguchitk333/continue-to-improve-email-delivery-rates-across-multiple-services</link>
         <dc:date>2026-05-15T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>少人数SREで信頼性を配るためのセルフサービスとガードレール設計 (Ryo Nakamine)</title>
         <link>https://speakerdeck.com/rnakamine/shao-ren-shu-sretexin-lai-xing-wopei-rutamenoseruhusahisutokatorerushe-ji</link>
         <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>"うちにはまだ早い"は本当？ ─ 小さく始めるPlatform Engineering入門 (Haruka Sakihara)</title>
-        <link>https://speakerdeck.com/harukasakihara/utinihamadazao-i-haben-dang-xiao-sakushi-meruplatform-engineeringru-men</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一人SREが歩んだPlatform Engineeringスモールスタート実践録 ~ クラウドネイティブ会議版 ~ (syossan27)</title>
-        <link>https://speakerdeck.com/syossan27/ren-sregabu-ndaplatform-engineeringsumorusutatoshi-jian-lu-kuraudoneiteibuhui-yi-ban</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「QA＝テスト」「シフトレフト＝スクラムイベントの参加者の一員」の呪縛を解く。アジャイルな開発を止めないために、10Xで挑んだ「右側のしわ寄せ」解消記 #scrumniigata (nihonbuson)</title>
-        <link>https://speakerdeck.com/nihonbuson/quality-assurance-big-picture-vol2</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI時代に信頼性をどう保ち続けるか - Policy as Code の実践 (akitok)</title>
-        <link>https://speakerdeck.com/akitok_/sustainable-reliability-with-policy-as-code</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
