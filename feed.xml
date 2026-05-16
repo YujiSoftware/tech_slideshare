@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>継続的な負荷検証を目指して (Kazuhiko Yamashita)</title>
+        <link>https://speakerdeck.com/pyama86/ji-sok-de-nafu-he-jian-zheng-womu-zhi-site</link>
+        <dc:date>2026-05-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>少人数SREで信頼性を配るためのセルフサービスとガードレール設計 (Ryo Nakamine)</title>
         <link>https://speakerdeck.com/rnakamine/shao-ren-shu-sretexin-lai-xing-wopei-rutamenoseruhusahisutokatorerushe-ji</link>
         <dc:date>2026-05-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>クラウドネイティブ DB はいかにして制約を 克服したか？ 〜進化歴史から紐解く、スケーラブルアーキテクチャ設計指針〜 (hacomono Inc.)</title>
         <link>https://speakerdeck.com/hacomono/how-cloud-native-databases-overcame-their-constraints</link>
-        <dc:date>2026-05-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践ハーネスエンジニアリング：ステアリングループを実例から読み解く / Practical Harness Engineering: Understanding Steering Loops Through Real-World Examples (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/practical-harness-engineering-understanding-steering-loops-through-real-world-examples</link>
         <dc:date>2026-05-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
