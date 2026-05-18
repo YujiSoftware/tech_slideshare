@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GNN 入門から最前線まで (SALT2)</title>
+        <link>https://speakerdeck.com/salt2/gnn-ru-men-karazui-qian-xian-made</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LT準備のToilを削減 〜決定論×確率論のスライド生成CLI〜 (Shu Kobuchi)</title>
         <link>https://speakerdeck.com/shukob/ltzhun-bei-notoilwoxue-jian-jue-ding-lun-xque-lu-lun-nosuraidosheng-cheng-cli</link>
         <dc:date>2026-05-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>全社統制を維持しながら現場負担をどう減らすか〜プラットフォームチームとセキュリティチームで進めたSecurity Hub活用によるAWS統制の見直し〜/secjaws-security-hub-custom-insights (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
         <link>https://speakerdeck.com/mhrtech/secjaws-security-hub-custom-insights</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Code / Codex / Kiro に AWS 権限を 渡すとき、何を設計すべきか (Kazuki Adachi)</title>
-        <link>https://speakerdeck.com/k_adachi_01/kiro-ni-aws-quan-xian-wo-du-sutoki-he-woshe-ji-subekika</link>
         <dc:date>2026-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
