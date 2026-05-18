@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LT準備のToilを削減 〜決定論×確率論のスライド生成CLI〜 (Shu Kobuchi)</title>
+        <link>https://speakerdeck.com/shukob/ltzhun-bei-notoilwoxue-jian-jue-ding-lun-xque-lu-lun-nosuraidosheng-cheng-cli</link>
+        <dc:date>2026-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Flutter初心者が生成AIで大規模アプリ開発をキャッチアップした工夫 〜元ネイティブエンジニアが実践した、技術転換の高速道路〜 / Flutter with LLM: A Former Native Engineer's Fast Track to Large-Scale Apps (株式会社ビットキー / Bitkey Inc.)</title>
+        <link>https://speakerdeck.com/bitkey/flutter-with-llm-a-former-native-engineers-fast-track-to-large-scale-apps</link>
+        <dc:date>2026-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代でも変わらないもの、変えたもの (Yasuharu.S,@sakay_y)</title>
+        <link>https://www.docswell.com/s/sakay_y/Z4NE8G-2026-05-18-112134</link>
+        <dc:date>2026-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>障害対応のRunbookは作った、でも本当に動くの？ AWS FIS で EKS の AZ 障害を再現してみた (Hiroki Takatsuka)</title>
+        <link>https://speakerdeck.com/tk3fftk/zhang-hai-dui-ying-norunbookhazuo-tuta-demoben-dang-nidong-kuno-aws-fis-de-eks-no-az-zhang-hai-wozai-xian-sitemita</link>
+        <dc:date>2026-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260514-宇宙開発勉強会第二回 (hamada)</title>
+        <link>https://www.docswell.com/s/hamada-hiroshima/KJWXMX-2026-05-15-151425</link>
+        <dc:date>2026-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>~ 秘伝のタレ化した『神スプシ』と戦う ~ 関数型パラダイムで壊れない仕組みへ (ほりしょー)</title>
+        <link>https://speakerdeck.com/h0r15h0/mi-chuan-notarehua-sita-shen-supusi-tozhan-u-guan-shu-xing-paradaimudehuai-renaishi-zu-mihe</link>
+        <dc:date>2026-05-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[4] Power BI Deep Dive [2026-05] (Ohata Masatoshi)</title>
         <link>https://speakerdeck.com/ohata_bi/4-power-bi-deep-dive-2026-05</link>
         <dc:date>2026-05-16T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>Claude Code / Codex / Kiro に AWS 権限を 渡すとき、何を設計すべきか (Kazuki Adachi)</title>
         <link>https://speakerdeck.com/k_adachi_01/kiro-ni-aws-quan-xian-wo-du-sutoki-he-woshe-ji-subekika</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260517 Security-JAWS 10年史 ~あの頃、僕らは何してた?~ (Typhon 666,@Typhon666_death)</title>
-        <link>https://www.slideshare.net/slideshow/20260517-security-jaws-10/287540789</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>限界NASの構築🍆 (ゆうカリ🌿,@Eucalyptus_0403)</title>
-        <link>https://www.docswell.com/s/Eucalyptus_0403/KDMG1R-GNAS_construction</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>okarev-pluspim (hinshi,@hinshiba)</title>
-        <link>https://www.docswell.com/s/hinshiba/5R8GDN-2026-05-16-171745</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>高校のChromebookでも自由なネット環境を！ (らすぴー)</title>
-        <link>https://speakerdeck.com/raspython3/gao-xiao-nochromebookdemozi-you-nanetutohuan-jing-wo</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GT7ダッシュボードアプリを作ってみた話.pptx (むる,@vehicle_kouta)</title>
-        <link>https://www.docswell.com/s/mulgsx/5MQLE6-2026-05-16-194713</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Purview Endpoint DLP 動かしてみた (kozakigh)</title>
-        <link>https://speakerdeck.com/kozakigh/purview-endpoint-dlp-dong-kasitemita</link>
         <dc:date>2026-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
