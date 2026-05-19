@@ -6,6 +6,66 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIが自走し続けるかは プロンプトの 進化 で決まる ― 重要なのは【モデルとともに、使い方も進化させ続ける】こと ― - (スナガク)</title>
+        <link>https://speakerdeck.com/sunagaku/aikazi-zou-sisok-kerukaha-huronhutono-jin-hua-tejue-maru-zhong-yao-nanoha-moterutotomoni-shi-ifang-mojin-hua-sasesok-keru-koto</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Skillは並べた。動かなかった。契約で繋いだ。— 65個のSkillから、自走する開発サイクルへ (じゅん)</title>
+        <link>https://speakerdeck.com/junholee/skillhabing-beta-dong-kanakatuta-qi-yue-dexi-ida-65ge-noskillkara-zi-zou-surukai-fa-saikuruhe</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Copilot 訴訟で学ぶ、コードと著作権の基礎 (SALT2)</title>
+        <link>https://speakerdeck.com/salt2/github-copilot-su-song-dexue-bu-kodotozhu-zuo-quan-noji-chu</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIにレビューを任せる仕組みと見えてきた次の課題 (uo)</title>
+        <link>https://speakerdeck.com/uo/ainirebiyuworen-serushi-zu-mitojian-etekitaci-noke-ti</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI全盛の今だからこそ、あえてもう一度振り返るAPIの基礎 (Makky12)</title>
+        <link>https://speakerdeck.com/smt7174/aiquan-sheng-nojin-dakarakoso-aetemou-du-zhen-rifan-ruapinoji-chu</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今改めて考えるストリーミングレスポンス (Koki Miura,@k_miura_io)</title>
+        <link>https://www.docswell.com/s/k_miura_io/KR8GLW-2026-05-19-194616</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260514_northernforce#58_Agentforce_ハンズオン_倉 (daichi kura)</title>
+        <link>https://www.docswell.com/s/6498434/ZDMGY9-2026-05-19-174454</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agentforce_ AIによるカスタマーサポートの変革 (Yoshi)</title>
+        <link>https://speakerdeck.com/yoshi17/agentforce-ainiyorukasutamasapotonobian-ge</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>事前設定（ExperienceCloudの設定、テストデータ作成） (Yoshi)</title>
+        <link>https://speakerdeck.com/yoshi17/shi-qian-she-ding-experiencecloudnoshe-ding-tesutodetazuo-cheng</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>個人最適から組織最適へ — 仕組みで進めるAI推進 (ふくだ（fukuda ryu）)</title>
+        <link>https://speakerdeck.com/rfdnxbro/ge-ren-zui-shi-karazu-zhi-zui-shi-he-shi-zu-mitejin-meruaitui-jin</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「AIが読むから書く」が、 チームの言語化スイッチを押した 〜AI開発ワークフローが、チームに起こした変化〜 (Masaru Furuya)</title>
+        <link>https://speakerdeck.com/mfuruya/aigadu-mukarashu-ku-ga-timunoyan-yu-hua-suitutiwoya-sita-aikai-fa-wakuhuroga-timuniqi-kositabian-hua</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>"スキルファースト"で作る、AIの自走環境 (subroh_0508)</title>
+        <link>https://speakerdeck.com/subroh0508/sukiruhuasuto-dezuo-ru-ainozi-zou-huan-jing</link>
+        <dc:date>2026-05-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GNN 入門から最前線まで (SALT2)</title>
         <link>https://speakerdeck.com/salt2/gnn-ru-men-karazui-qian-xian-made</link>
         <dc:date>2026-05-18T15:00:00Z</dc:date>
@@ -44,65 +104,5 @@
         <title>[4] Power BI Deep Dive [2026-05] (Ohata Masatoshi)</title>
         <link>https://speakerdeck.com/ohata_bi/4-power-bi-deep-dive-2026-05</link>
         <dc:date>2026-05-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バイブコーディングでエンジニア向けマッチングサイトを作り始めた話　Jin Adachi (JIN)</title>
-        <link>https://speakerdeck.com/jin15/baibukodeingudeenziniaxiang-kematutingusaitowozuo-rishi-metahua-jin-adachi</link>
-        <dc:date>2026-05-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilot App がとってもいいよという話 (yuma(Maki),@yuma_prog)</title>
-        <link>https://www.docswell.com/s/yuma/K9NW3Y-2026-05-16-jat</link>
-        <dc:date>2026-05-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「背中を見て育て」からの卒業 〜専門技術としてのテスト設計を軸に、品質保証のバトンを繋ぐ〜 (nihonbuson)</title>
-        <link>https://speakerdeck.com/nihonbuson/scaling-qa-organization</link>
-        <dc:date>2026-05-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ対策、何からはじめる？ CloudNative環境の脅威モデリングと リスク評価実践入門 #cloudnativekaigi (varu3)</title>
-        <link>https://speakerdeck.com/varu3/cloudnativekaigi2026-threat-modeling-3c0b5cc0-0325-4086-8b67-dffc23cbba07</link>
-        <dc:date>2026-05-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SLI/SLO、「完全に理解した」から「チョットデキル」へ (maru)</title>
-        <link>https://speakerdeck.com/maruloop/slo</link>
-        <dc:date>2026-05-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>多摩.dev #2.5 (髙橋直規（幡ヶ谷亭直吉）)</title>
-        <link>https://speakerdeck.com/hiliteeternal/duo-mo-dot-dev-number-2-dot-5</link>
-        <dc:date>2026-05-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260516_SecJAWS_Days (Takuya Yonezawa)</title>
-        <link>https://speakerdeck.com/takuyay0ne/20260516-secjaws-days</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サンプリングは「作る」のか「使う」のか？ 分散トレースのコストと運用を両立する実践的戦略 / Why you need the tail sampling and why you don't want it (ymotongpoo)</title>
-        <link>https://speakerdeck.com/ymotongpoo/why-you-need-the-tail-sampling-and-why-you-dont-want-it</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンコール経験者だから刺さった、 ユーザー視点のアラート (Uechi Shingo)</title>
-        <link>https://speakerdeck.com/uechishingo/onkorujing-yan-zhe-dakaraci-satuta-yuzashi-dian-noarato</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>古今東西SRE (Kaoru)</title>
-        <link>https://speakerdeck.com/okaru/gu-jin-dong-xi-sre</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10サービス以上のメール到達率改善を地道に継続的に進めている話 / Continue to improve email delivery rates across multiple services (Takashi Yamaguchi)</title>
-        <link>https://speakerdeck.com/yamaguchitk333/continue-to-improve-email-delivery-rates-across-multiple-services</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>全社統制を維持しながら現場負担をどう減らすか〜プラットフォームチームとセキュリティチームで進めたSecurity Hub活用によるAWS統制の見直し〜/secjaws-security-hub-custom-insights (みずほリサーチ&amp;テクノロジーズ株式会社 先端技術研究部)</title>
-        <link>https://speakerdeck.com/mhrtech/secjaws-security-hub-custom-insights</link>
-        <dc:date>2026-05-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
