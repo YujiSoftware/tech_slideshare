@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claude CodeからNano Bananaによる 画像生成チャレンジ！ (金子陽一(Yoichi Kaneko))</title>
+        <link>https://speakerdeck.com/yoichikaneko/claude-codekaranano-banananiyoru-hua-xiang-sheng-cheng-tiyarenzi</link>
+        <dc:date>2026-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DatabricksにおけるIcebergとDelta Lakeの現在と未来 / The Present and Future of Iceberg and Delta Lake in Databricks (Databricks Japan)</title>
+        <link>https://speakerdeck.com/databricksjapan/the-present-and-future-of-iceberg-and-delta-lake-in-databricks-61ec4e19-601d-4200-9387-31dcc1b92db6</link>
+        <dc:date>2026-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Gitがない時代 インターネットがない時代の 開発話 (sapi_kawahara)</title>
+        <link>https://speakerdeck.com/sapi_kawahara/gitganaishi-dai-intanetutoganaishi-dai-no-kai-fa-hua</link>
+        <dc:date>2026-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Codex使ってみた！</title>
+        <link>https://docs.google.com/presentation/d/1ztOMOhGMQu_rbmFtI97MjP3eibKLF5DwVS-dNh-HOVQ/preview</link>
+        <dc:date>2026-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React Compiler導入の効果と運用の工夫 (KAKEHASHI)</title>
+        <link>https://speakerdeck.com/kakehashi/react-compiler-impact-and-best-practices</link>
+        <dc:date>2026-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>React Compiler導入から21ヶ月、いま始めるならこうやる (Tatsuya Asami)</title>
+        <link>https://speakerdeck.com/astatsuya/react-compilerdao-ru-kara21keyue-imashi-merunarakouyaru</link>
+        <dc:date>2026-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AI時代のエンジニア育成について考えてみた (Daisuke Akagawa (Akasan))</title>
+        <link>https://speakerdeck.com/akasan/sheng-cheng-aishi-dai-noensiniayu-cheng-nituitekao-etemita</link>
+        <dc:date>2026-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Geake Platformのご紹介 (vana4)</title>
+        <link>https://speakerdeck.com/vana4/geake-platformnokoshao-jie</link>
+        <dc:date>2026-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fabric監査機能の概要 (Hyodo Katsuki)</title>
+        <link>https://www.docswell.com/s/6140290960/ZN7VME-2026-05-20-192449</link>
+        <dc:date>2026-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260515 ログイン機能だけではないアカウント管理を全体で考える～サービス設計者向け～ (OpenID Foundation Japan)</title>
         <link>https://speakerdeck.com/oidfj/20260515-tg40wg-shirosec-02-02-for-developer</link>
         <dc:date>2026-05-19T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>今改めて考えるストリーミングレスポンス (Koki Miura,@k_miura_io)</title>
         <link>https://www.docswell.com/s/k_miura_io/KR8GLW-2026-05-19-194616</link>
         <dc:date>2026-05-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260514_northernforce#58_Agentforce_ハンズオン_倉 (daichi kura)</title>
-        <link>https://www.docswell.com/s/6498434/ZDMGY9-2026-05-19-174454</link>
-        <dc:date>2026-05-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agentforce_ AIによるカスタマーサポートの変革 (Yoshi)</title>
-        <link>https://speakerdeck.com/yoshi17/agentforce-ainiyorukasutamasapotonobian-ge</link>
-        <dc:date>2026-05-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事前設定（ExperienceCloudの設定、テストデータ作成） (Yoshi)</title>
-        <link>https://speakerdeck.com/yoshi17/shi-qian-she-ding-experiencecloudnoshe-ding-tesutodetazuo-cheng</link>
-        <dc:date>2026-05-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人最適から組織最適へ — 仕組みで進めるAI推進 (ふくだ（fukuda ryu）)</title>
-        <link>https://speakerdeck.com/rfdnxbro/ge-ren-zui-shi-karazu-zhi-zui-shi-he-shi-zu-mitejin-meruaitui-jin</link>
-        <dc:date>2026-05-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「AIが読むから書く」が、 チームの言語化スイッチを押した 〜AI開発ワークフローが、チームに起こした変化〜 (Masaru Furuya)</title>
-        <link>https://speakerdeck.com/mfuruya/aigadu-mukarashu-ku-ga-timunoyan-yu-hua-suitutiwoya-sita-aikai-fa-wakuhuroga-timuniqi-kositabian-hua</link>
-        <dc:date>2026-05-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>"スキルファースト"で作る、AIの自走環境 (subroh_0508)</title>
-        <link>https://speakerdeck.com/subroh0508/sukiruhuasuto-dezuo-ru-ainozi-zou-huan-jing</link>
-        <dc:date>2026-05-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GNN 入門から最前線まで (SALT2)</title>
-        <link>https://speakerdeck.com/salt2/gnn-ru-men-karazui-qian-xian-made</link>
-        <dc:date>2026-05-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LT準備のToilを削減 〜決定論×確率論のスライド生成CLI〜 (Shu Kobuchi)</title>
-        <link>https://speakerdeck.com/shukob/ltzhun-bei-notoilwoxue-jian-jue-ding-lun-xque-lu-lun-nosuraidosheng-cheng-cli</link>
-        <dc:date>2026-05-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Flutter初心者が生成AIで大規模アプリ開発をキャッチアップした工夫 〜元ネイティブエンジニアが実践した、技術転換の高速道路〜 / Flutter with LLM: A Former Native Engineer's Fast Track to Large-Scale Apps (株式会社ビットキー / Bitkey Inc.)</title>
-        <link>https://speakerdeck.com/bitkey/flutter-with-llm-a-former-native-engineers-fast-track-to-large-scale-apps</link>
-        <dc:date>2026-05-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
