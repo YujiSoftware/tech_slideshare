@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ログ理解が変わると、開発の質が変わる (増井敏克,@masuipeo)</title>
+        <link>https://www.docswell.com/s/masuipeo/KJWX3M-2026-05-19-090000</link>
+        <dc:date>2026-05-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>入門 再発防止策 (ryuichi1208)</title>
         <link>https://speakerdeck.com/ryuichi1208/ru-men-zai-fa-fang-zhi-ce</link>
         <dc:date>2026-05-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI時代でも変わらないもの、変えたもの (Yasuharu.S,@sakay_y)</title>
         <link>https://www.docswell.com/s/sakay_y/Z4NE8G-2026-05-18-112134</link>
-        <dc:date>2026-05-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>障害対応のRunbookは作った、でも本当に動くの？ AWS FIS で EKS の AZ 障害を再現してみた (Hiroki Takatsuka)</title>
-        <link>https://speakerdeck.com/tk3fftk/zhang-hai-dui-ying-norunbookhazuo-tuta-demoben-dang-nidong-kuno-aws-fis-de-eks-no-az-zhang-hai-wozai-xian-sitemita</link>
         <dc:date>2026-05-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
