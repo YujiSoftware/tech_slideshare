@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Git を GUI で 使う話 (tsuda.a)</title>
+        <link>https://speakerdeck.com/tsudaahr/git-wo-gui-de-shi-uhua</link>
+        <dc:date>2026-05-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Redmine次期バージョン7.0の注目新機能解説 — UI/UX強化と連携強化を中心に (MAEDA Go)</title>
         <link>https://speakerdeck.com/vividtone/upcoming-redmine-7-dot-0-new-features</link>
         <dc:date>2026-05-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIにレビューを任せる仕組みと見えてきた次の課題 (uo)</title>
         <link>https://speakerdeck.com/uo/ainirebiyuworen-serushi-zu-mitojian-etekitaci-noke-ti</link>
-        <dc:date>2026-05-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI全盛の今だからこそ、あえてもう一度振り返るAPIの基礎 (Makky12)</title>
-        <link>https://speakerdeck.com/smt7174/aiquan-sheng-nojin-dakarakoso-aetemou-du-zhen-rifan-ruapinoji-chu</link>
         <dc:date>2026-05-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
