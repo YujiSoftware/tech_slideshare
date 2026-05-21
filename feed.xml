@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最新技術を"今は選ばない"という技術選定 (Tech Leverages)</title>
+        <link>https://speakerdeck.com/leveragestech/zui-xin-ji-shu-wo-jin-haxuan-banai-toiuji-shu-xuan-ding</link>
+        <dc:date>2026-05-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Au(100) 5x20表面再構成 (matelier)</title>
+        <link>https://www.docswell.com/s/matelier/K7NJRJ-2026-05-21-190625</link>
+        <dc:date>2026-05-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AIに振り回されない 〜確率論と決定論の使い分け〜 (Shu Kobuchi)</title>
+        <link>https://speakerdeck.com/shukob/sheng-cheng-ainizhen-rihui-sarenai-que-lu-lun-tojue-ding-lun-noshi-ifen-ke</link>
+        <dc:date>2026-05-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>26-05-21_初めてのPython勉強会 (まさやん)</title>
+        <link>https://www.docswell.com/s/8181214906/K3JEGM-2026-05-21-183307</link>
+        <dc:date>2026-05-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Copilot CLI で考える複数エージェント設計 (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/github-copilot-cli-dekao-erufu-shu-ezientoshe-ji</link>
+        <dc:date>2026-05-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成 AI 時代のアプリ公開基盤 - Azure Static Web Apps × SwallowKit で整える実用構成 (Takumasa Hirabayashi,@himarin269)</title>
+        <link>https://www.docswell.com/s/himanago/Z4NJVN-swallowkit</link>
+        <dc:date>2026-05-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft Defender Update summary 202604 (Kentaro Higashi)</title>
+        <link>https://www.slideshare.net/slideshow/microsoft-defender-update-summary-202604/287649726</link>
+        <dc:date>2026-05-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Designで 文学リライトエージェントの UI案を作らせてみた (komo_fr)</title>
+        <link>https://speakerdeck.com/komofr/cdle-hiroshima-202605</link>
+        <dc:date>2026-05-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Pythonでベイズモデリング (Soogie)</title>
+        <link>https://speakerdeck.com/soogie/pythondebeizumoderingu</link>
+        <dc:date>2026-05-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Harness Engineering and Al Agent (Kazuki Inamura)</title>
         <link>https://speakerdeck.com/kzinmr/harness-engineering-and-al-agent</link>
         <dc:date>2026-05-20T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>生成AI時代のエンジニア育成について考えてみた (Daisuke Akagawa (Akasan))</title>
         <link>https://speakerdeck.com/akasan/sheng-cheng-aishi-dai-noensiniayu-cheng-nituitekao-etemita</link>
         <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Geake Platformのご紹介 (vana4)</title>
-        <link>https://speakerdeck.com/vana4/geake-platformnokoshao-jie</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fabric監査機能の概要 (Hyodo Katsuki)</title>
-        <link>https://www.docswell.com/s/6140290960/ZN7VME-2026-05-20-192449</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260515 ログイン機能だけではないアカウント管理を全体で考える～サービス設計者向け～ (OpenID Foundation Japan)</title>
-        <link>https://speakerdeck.com/oidfj/20260515-tg40wg-shirosec-02-02-for-developer</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ログ理解が変わると、開発の質が変わる (増井敏克,@masuipeo)</title>
-        <link>https://www.docswell.com/s/masuipeo/KJWX3M-2026-05-19-090000</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入門 再発防止策 (ryuichi1208)</title>
-        <link>https://speakerdeck.com/ryuichi1208/ru-men-zai-fa-fang-zhi-ce</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データの由来はどこまで見れる？-FabricとPurviewのリネージ機能使い分け- (Ryusei Iida)</title>
-        <link>https://speakerdeck.com/ryuseiiida/detanoyou-lai-hadokomadejian-reru-fabrictopurviewnorineziji-neng-shi-ifen-ke</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude CodeとChatGPTを活用した安全で効率的なエンジニアリングワークフロー管理 (幸雄 村上,@m_yukio)</title>
-        <link>https://www.slideshare.net/slideshow/claude-code-chatgpt/287551080</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIが自走し続けるかは プロンプトの 進化 で決まる ― 重要なのは【モデルとともに、使い方も進化させ続ける】こと ― - (スナガク)</title>
-        <link>https://speakerdeck.com/sunagaku/aikazi-zou-sisok-kerukaha-huronhutono-jin-hua-tejue-maru-zhong-yao-nanoha-moterutotomoni-shi-ifang-mojin-hua-sasesok-keru-koto</link>
-        <dc:date>2026-05-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Skillは並べた。動かなかった。契約で繋いだ。— 65個のSkillから、自走する開発サイクルへ (じゅん)</title>
-        <link>https://speakerdeck.com/junholee/skillhabing-beta-dong-kanakatuta-qi-yue-dexi-ida-65ge-noskillkara-zi-zou-surukai-fa-saikuruhe</link>
-        <dc:date>2026-05-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
