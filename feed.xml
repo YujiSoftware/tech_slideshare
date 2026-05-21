@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PDMU CONTEXT</title>
+        <link>https://docs.google.com/presentation/d/1hvlDUdAMoW2rnfiQiodPtupdPo80QgSkVOHk4gSTeMs/preview</link>
+        <dc:date>2026-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最新技術を"今は選ばない"という技術選定 (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/zui-xin-ji-shu-wo-jin-haxuan-banai-toiuji-shu-xuan-ding</link>
         <dc:date>2026-05-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>React Compiler導入から21ヶ月、いま始めるならこうやる (Tatsuya Asami)</title>
         <link>https://speakerdeck.com/astatsuya/react-compilerdao-ru-kara21keyue-imashi-merunarakouyaru</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI時代のエンジニア育成について考えてみた (Daisuke Akagawa (Akasan))</title>
-        <link>https://speakerdeck.com/akasan/sheng-cheng-aishi-dai-noensiniayu-cheng-nituitekao-etemita</link>
         <dc:date>2026-05-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
