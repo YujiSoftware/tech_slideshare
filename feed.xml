@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RailsTokyo 2026#4: AI様があれば、 Hotwireの弱点は消えるか？ (Naofumi Kagami)</title>
+        <link>https://speakerdeck.com/naofumi/railstokyo-2026-number-4-aiyang-gaareba-hotwirenoruo-dian-haxiao-eruka</link>
+        <dc:date>2026-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PDMU CONTEXT</title>
         <link>https://docs.google.com/presentation/d/1hvlDUdAMoW2rnfiQiodPtupdPo80QgSkVOHk4gSTeMs/preview</link>
         <dc:date>2026-05-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>React Compiler導入の効果と運用の工夫 (KAKEHASHI)</title>
         <link>https://speakerdeck.com/kakehashi/react-compiler-impact-and-best-practices</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Compiler導入から21ヶ月、いま始めるならこうやる (Tatsuya Asami)</title>
-        <link>https://speakerdeck.com/astatsuya/react-compilerdao-ru-kara21keyue-imashi-merunarakouyaru</link>
         <dc:date>2026-05-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
