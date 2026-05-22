@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Oxlintはいかにしてtsgolintのlint ruleを呼び出しているのか (syumai)</title>
+        <link>https://speakerdeck.com/syumai/how-oxlint-calls-tsgolint</link>
+        <dc:date>2026-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260522_LAPRAS_セキュリティニュース</title>
         <link>https://docs.google.com/presentation/d/1bfNa_sb0Yau4U0nH8A1-u8ywvUdozWJ9oiUnRnzyozA/preview</link>
         <dc:date>2026-05-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Pythonでベイズモデリング (Soogie)</title>
         <link>https://speakerdeck.com/soogie/pythondebeizumoderingu</link>
-        <dc:date>2026-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Harness Engineering and Al Agent (Kazuki Inamura)</title>
-        <link>https://speakerdeck.com/kzinmr/harness-engineering-and-al-agent</link>
         <dc:date>2026-05-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
