@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OSSのコードベースにneverthrowを漸進的に 導入して、AIにも人間にも優しい エラーハンドリングを実現する (IkedaNoritaka)</title>
+        <link>https://speakerdeck.com/noritakaikeda/ossnokodobesunineverthrowwojian-jin-de-ni-dao-ru-site-ainimoren-jian-nimoyou-sii-erahandoringuwoshi-xian-suru</link>
+        <dc:date>2026-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI Agent をどう観測するか - AI Workforce における OpenTelemetry 計装の実践 / How to Observe AI Agents: Implementing OpenTelemetry for the AI Workforce (yuzujoe)</title>
         <link>https://speakerdeck.com/yuzujoe/how-to-observe-ai-agents-implementing-opentelemetry-for-the-ai-workforce</link>
         <dc:date>2026-05-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Gitがない時代 インターネットがない時代の 開発話 (sapi_kawahara)</title>
         <link>https://speakerdeck.com/sapi_kawahara/gitganaishi-dai-intanetutoganaishi-dai-no-kai-fa-hua</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Codex使ってみた！</title>
-        <link>https://docs.google.com/presentation/d/1ztOMOhGMQu_rbmFtI97MjP3eibKLF5DwVS-dNh-HOVQ/preview</link>
         <dc:date>2026-05-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
