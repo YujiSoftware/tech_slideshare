@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI Agent をどう観測するか - AI Workforce における OpenTelemetry 計装の実践 / How to Observe AI Agents: Implementing OpenTelemetry for the AI Workforce (yuzujoe)</title>
+        <link>https://speakerdeck.com/yuzujoe/how-to-observe-ai-agents-implementing-opentelemetry-for-the-ai-workforce</link>
+        <dc:date>2026-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RailsTokyo 2026#4: AI様があれば、 Hotwireの弱点は消えるか？ (Naofumi Kagami)</title>
         <link>https://speakerdeck.com/naofumi/railstokyo-2026-number-4-aiyang-gaareba-hotwirenoruo-dian-haxiao-eruka</link>
         <dc:date>2026-05-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Codex使ってみた！</title>
         <link>https://docs.google.com/presentation/d/1ztOMOhGMQu_rbmFtI97MjP3eibKLF5DwVS-dNh-HOVQ/preview</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Compiler導入の効果と運用の工夫 (KAKEHASHI)</title>
-        <link>https://speakerdeck.com/kakehashi/react-compiler-impact-and-best-practices</link>
         <dc:date>2026-05-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
