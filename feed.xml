@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260522_LAPRAS_セキュリティニュース</title>
+        <link>https://docs.google.com/presentation/d/1bfNa_sb0Yau4U0nH8A1-u8ywvUdozWJ9oiUnRnzyozA/preview</link>
+        <dc:date>2026-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>私にとって便利なもの。個人開発LT (tanahiro2010)</title>
+        <link>https://speakerdeck.com/tanahiro2010/si-nitotutebian-li-namono-ge-ren-kai-fa-lt</link>
+        <dc:date>2026-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>“使われているハーネス／使われていないハーネス”を可視化するところから始めた話 (菅本隆文)</title>
+        <link>https://speakerdeck.com/sugamoto/shi-wareteiruhanesu-slash-shi-wareteinaihanesu-woke-shi-hua-surutokorokarashi-metahua</link>
+        <dc:date>2026-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>入門 非機能要件 (DE TEIU (DE-TEIU))</title>
+        <link>https://www.docswell.com/s/8895128/K4NJYN-2026-05-22-183449</link>
+        <dc:date>2026-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>その英語学習、AWSで代替できませんか？ (Tatsuya)</title>
+        <link>https://speakerdeck.com/suzutatsu/sonoying-yu-xue-xi-awsdedai-ti-dekimasenka</link>
+        <dc:date>2026-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践 TanStack Start ― 新規プロダクトを開発して確立した、サーバーとクライアント境界の設計パターン / Practical TanStack Start Server-Client Boundary Patterns (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/practical-tanstack-start-server-client-boundary-patterns</link>
         <dc:date>2026-05-21T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>Harness Engineering and Al Agent (Kazuki Inamura)</title>
         <link>https://speakerdeck.com/kzinmr/harness-engineering-and-al-agent</link>
         <dc:date>2026-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なんでもCopilot_Copilot Cowork (まつにぃ)</title>
-        <link>https://speakerdeck.com/yukaikunimatsu/nandemocopilot-copilot-cowork</link>
-        <dc:date>2026-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Git を GUI で 使う話 (tsuda.a)</title>
-        <link>https://speakerdeck.com/tsudaahr/git-wo-gui-de-shi-uhua</link>
-        <dc:date>2026-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Redmine次期バージョン7.0の注目新機能解説 — UI/UX強化と連携強化を中心に (MAEDA Go)</title>
-        <link>https://speakerdeck.com/vividtone/upcoming-redmine-7-dot-0-new-features</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude CodeからNano Bananaによる 画像生成チャレンジ！ (金子陽一(Yoichi Kaneko))</title>
-        <link>https://speakerdeck.com/yoichikaneko/claude-codekaranano-banananiyoru-hua-xiang-sheng-cheng-tiyarenzi</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DatabricksにおけるIcebergとDelta Lakeの現在と未来 / The Present and Future of Iceberg and Delta Lake in Databricks (Databricks Japan)</title>
-        <link>https://speakerdeck.com/databricksjapan/the-present-and-future-of-iceberg-and-delta-lake-in-databricks-61ec4e19-601d-4200-9387-31dcc1b92db6</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
