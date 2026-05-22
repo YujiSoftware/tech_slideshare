@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>tscからtsgoへ ── DenoのTypeScript基盤はどう変わったか (Yusuke Tanaka,@yusuktan)</title>
+        <link>https://www.docswell.com/s/magurotuna/59NRVP-tskaigi-2026</link>
+        <dc:date>2026-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260320_JaSST26_Tokyo_登壇資料.pdf (Shin Murakami)</title>
+        <link>https://speakerdeck.com/mura_shin/20260320-jasst-26-tokyo-deng-tan-zi-liao</link>
+        <dc:date>2026-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScript で WebAssembly を用いた 型安全なプラグイン設計 (glassmonenkey)</title>
+        <link>https://speakerdeck.com/nagano/typescript-de-webassembly-woyong-ita-xing-an-quan-napuraguinshe-ji</link>
+        <dc:date>2026-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Oxlintはいかにしてtsgolintのlint ruleを呼び出しているのか (syumai)</title>
         <link>https://speakerdeck.com/syumai/how-oxlint-calls-tsgolint</link>
         <dc:date>2026-05-21T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>生成 AI 時代のアプリ公開基盤 - Azure Static Web Apps × SwallowKit で整える実用構成 (Takumasa Hirabayashi,@himarin269)</title>
         <link>https://www.docswell.com/s/himanago/Z4NJVN-swallowkit</link>
-        <dc:date>2026-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Defender Update summary 202604 (Kentaro Higashi)</title>
-        <link>https://www.slideshare.net/slideshow/microsoft-defender-update-summary-202604/287649726</link>
-        <dc:date>2026-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Designで 文学リライトエージェントの UI案を作らせてみた (komo_fr)</title>
-        <link>https://speakerdeck.com/komofr/cdle-hiroshima-202605</link>
-        <dc:date>2026-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonでベイズモデリング (Soogie)</title>
-        <link>https://speakerdeck.com/soogie/pythondebeizumoderingu</link>
         <dc:date>2026-05-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
