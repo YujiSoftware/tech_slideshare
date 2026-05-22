@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実践 TanStack Start ― 新規プロダクトを開発して確立した、サーバーとクライアント境界の設計パターン / Practical TanStack Start Server-Client Boundary Patterns (株式会社カミナシ)</title>
+        <link>https://speakerdeck.com/kaminashi/practical-tanstack-start-server-client-boundary-patterns</link>
+        <dc:date>2026-05-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OSSのコードベースにneverthrowを漸進的に 導入して、AIにも人間にも優しい エラーハンドリングを実現する (IkedaNoritaka)</title>
         <link>https://speakerdeck.com/noritakaikeda/ossnokodobesunineverthrowwojian-jin-de-ni-dao-ru-site-ainimoren-jian-nimoyou-sii-erahandoringuwoshi-xian-suru</link>
         <dc:date>2026-05-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DatabricksにおけるIcebergとDelta Lakeの現在と未来 / The Present and Future of Iceberg and Delta Lake in Databricks (Databricks Japan)</title>
         <link>https://speakerdeck.com/databricksjapan/the-present-and-future-of-iceberg-and-delta-lake-in-databricks-61ec4e19-601d-4200-9387-31dcc1b92db6</link>
-        <dc:date>2026-05-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Gitがない時代 インターネットがない時代の 開発話 (sapi_kawahara)</title>
-        <link>https://speakerdeck.com/sapi_kawahara/gitganaishi-dai-intanetutoganaishi-dai-no-kai-fa-hua</link>
         <dc:date>2026-05-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
