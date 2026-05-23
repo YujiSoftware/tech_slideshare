@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TSKaigi2026-静的解析への投資がAI時代のコード品質を支える ── カスタムESLintルールの設計と運用 (HayatoKudou)</title>
+        <link>https://speakerdeck.com/hayatokudou/tskaigi2026-jing-de-jie-xi-henotou-zi-gaaishi-dai-nokodopin-zhi-wozhi-eru-kasutamueslintrurunoshe-ji-toyun-yong</link>
+        <dc:date>2026-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>inferと仲良くなる10分間 (ryokatsuse)</title>
+        <link>https://speakerdeck.com/ryokatsuse/infertozhong-liang-kunaru10fen-jian</link>
+        <dc:date>2026-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>権限チェックの一貫性を型で守る TypeScript による多層防御 (aster-mnch (kitagawa))</title>
+        <link>https://speakerdeck.com/mnch/quan-xian-tietukuno-guan-xing-woxing-deshou-ru-typescript-niyoruduo-ceng-fang-yu</link>
+        <dc:date>2026-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サプライチェーン攻撃への備えについて考えている #湘なんか (すてにゃん)</title>
         <link>https://speakerdeck.com/stefafafan/preparation-for-supply-chain-attacks</link>
         <dc:date>2026-05-22T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>最新技術を"今は選ばない"という技術選定 (Tech Leverages)</title>
         <link>https://speakerdeck.com/leveragestech/zui-xin-ji-shu-wo-jin-haxuan-banai-toiuji-shu-xuan-ding</link>
-        <dc:date>2026-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Au(100) 5x20表面再構成 (matelier)</title>
-        <link>https://www.docswell.com/s/matelier/K7NJRJ-2026-05-21-190625</link>
-        <dc:date>2026-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIに振り回されない 〜確率論と決定論の使い分け〜 (Shu Kobuchi)</title>
-        <link>https://speakerdeck.com/shukob/sheng-cheng-ainizhen-rihui-sarenai-que-lu-lun-tojue-ding-lun-noshi-ifen-ke</link>
-        <dc:date>2026-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>26-05-21_初めてのPython勉強会 (まさやん)</title>
-        <link>https://www.docswell.com/s/8181214906/K3JEGM-2026-05-21-183307</link>
         <dc:date>2026-05-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
