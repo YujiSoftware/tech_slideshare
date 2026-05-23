@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サプライチェーン攻撃への備えについて考えている #湘なんか (すてにゃん)</title>
+        <link>https://speakerdeck.com/stefafafan/preparation-for-supply-chain-attacks</link>
+        <dc:date>2026-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Splunk MCPサーバの利活用事例 ーKINTOテクノロジーズの取り組み (KintoTech_Dev)</title>
         <link>https://speakerdeck.com/kintotechdev/splunk-mcpsabanoli-huo-yong-shi-li-kintotekunorozizunoqu-rizu-mi</link>
         <dc:date>2026-05-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>26-05-21_初めてのPython勉強会 (まさやん)</title>
         <link>https://www.docswell.com/s/8181214906/K3JEGM-2026-05-21-183307</link>
-        <dc:date>2026-05-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilot CLI で考える複数エージェント設計 (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/github-copilot-cli-dekao-erufu-shu-ezientoshe-ji</link>
         <dc:date>2026-05-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
