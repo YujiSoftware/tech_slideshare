@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon WorkSpaces Applications の Agent Access を試してみた (JOYIT Jin)</title>
+        <link>https://www.docswell.com/s/jin_k/ZY8ME7-2026-05-23-jawsug</link>
+        <dc:date>2026-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS GameDayを企画する場合に考えたい点と育成に絡めた考慮点  #jawsug_tochigi (Ichiro Nishiuma)</title>
+        <link>https://speakerdeck.com/nishiuma/jawsugtochigi8</link>
+        <dc:date>2026-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>EdgeプロファイルでAWSアカウントを安全に使い分ける (jhashimoto)</title>
+        <link>https://speakerdeck.com/jhashimoto/edge-profile-aws</link>
+        <dc:date>2026-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今さら聞けないCancellationToken (tkym)</title>
+        <link>https://speakerdeck.com/htkym/jin-sarawen-kenaicancellationtoken</link>
+        <dc:date>2026-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Microsoft のAzure Skills Plugin とSpec Kit を使いAzure の設計から構築、テスト、運用整備をGitHub Copilot にやってもらう (Kazuki Yamabe,@kdk_wakaba)</title>
+        <link>https://www.docswell.com/s/kdk_wakaba/ZVJ46E-2026-05-23-151151</link>
+        <dc:date>2026-05-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TSKaigi2026-静的解析への投資がAI時代のコード品質を支える ── カスタムESLintルールの設計と運用 (HayatoKudou)</title>
         <link>https://speakerdeck.com/hayatokudou/tskaigi2026-jing-de-jie-xi-henotou-zi-gaaishi-dai-nokodopin-zhi-wozhi-eru-kasutamueslintrurunoshe-ji-toyun-yong</link>
         <dc:date>2026-05-22T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>実践 TanStack Start ― 新規プロダクトを開発して確立した、サーバーとクライアント境界の設計パターン / Practical TanStack Start Server-Client Boundary Patterns (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/practical-tanstack-start-server-client-boundary-patterns</link>
         <dc:date>2026-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OSSのコードベースにneverthrowを漸進的に 導入して、AIにも人間にも優しい エラーハンドリングを実現する (IkedaNoritaka)</title>
-        <link>https://speakerdeck.com/noritakaikeda/ossnokodobesunineverthrowwojian-jin-de-ni-dao-ru-site-ainimoren-jian-nimoyou-sii-erahandoringuwoshi-xian-suru</link>
-        <dc:date>2026-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Agent をどう観測するか - AI Workforce における OpenTelemetry 計装の実践 / How to Observe AI Agents: Implementing OpenTelemetry for the AI Workforce (yuzujoe)</title>
-        <link>https://speakerdeck.com/yuzujoe/how-to-observe-ai-agents-implementing-opentelemetry-for-the-ai-workforce</link>
-        <dc:date>2026-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RailsTokyo 2026#4: AI様があれば、 Hotwireの弱点は消えるか？ (Naofumi Kagami)</title>
-        <link>https://speakerdeck.com/naofumi/railstokyo-2026-number-4-aiyang-gaareba-hotwirenoruo-dian-haxiao-eruka</link>
-        <dc:date>2026-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PDMU CONTEXT</title>
-        <link>https://docs.google.com/presentation/d/1hvlDUdAMoW2rnfiQiodPtupdPo80QgSkVOHk4gSTeMs/preview</link>
-        <dc:date>2026-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最新技術を"今は選ばない"という技術選定 (Tech Leverages)</title>
-        <link>https://speakerdeck.com/leveragestech/zui-xin-ji-shu-wo-jin-haxuan-banai-toiuji-shu-xuan-ding</link>
-        <dc:date>2026-05-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
