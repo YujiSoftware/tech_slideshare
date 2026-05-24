@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Real World Effect-TS: 堅牢なプロダクトを型で組み上げる (asa1984)</title>
+        <link>https://speakerdeck.com/asa1984/real-world-effect-ts-jian-lao-napurodakutowoxing-dezu-mishang-geru</link>
+        <dc:date>2026-05-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon WorkSpaces Applications の Agent Access を試してみた (JOYIT Jin)</title>
         <link>https://www.docswell.com/s/jin_k/ZY8ME7-2026-05-23-jawsug</link>
         <dc:date>2026-05-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>その英語学習、AWSで代替できませんか？ (Tatsuya)</title>
         <link>https://speakerdeck.com/suzutatsu/sonoying-yu-xue-xi-awsdedai-ti-dekimasenka</link>
-        <dc:date>2026-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践 TanStack Start ― 新規プロダクトを開発して確立した、サーバーとクライアント境界の設計パターン / Practical TanStack Start Server-Client Boundary Patterns (株式会社カミナシ)</title>
-        <link>https://speakerdeck.com/kaminashi/practical-tanstack-start-server-client-boundary-patterns</link>
         <dc:date>2026-05-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
