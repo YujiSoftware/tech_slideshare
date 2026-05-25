@@ -6,6 +6,76 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Polymorphic Components パターンで作る、型安全でセマンティックな UI コンポーネント (ryo)</title>
+        <link>https://speakerdeck.com/ryohiy/polymorphic-components-patandezuo-ru-xing-an-quan-desemanteitukuna-ui-konponento</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>typescript-goで変わるリンターの世界 — Flintという第三の選択肢 (Tamashoo)</title>
+        <link>https://speakerdeck.com/tamashoo/typescript-godebian-warurintanoshi-jie-flinttoiudi-san-noxuan-ze-zhi</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIのために、AIを使った、Effect-TSからの脱却 〜テストを活用した安全なリファクタリングの進め方〜 (株式会社ビットキー / Bitkey Inc.)</title>
+        <link>https://speakerdeck.com/bitkey/moving-away-from-effect-ts-by-ai-for-ai</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ts-morph でプロジェクト固有のアーキテクチャガードレールを作る (PKSHA Technology（パークシャテクノロジー）)</title>
+        <link>https://speakerdeck.com/pkshadeck/ts-morph-architecture-guardrails-tskaigi-2026</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TSKaigi 2026 - enumよ、さようなら (teamLab)</title>
+        <link>https://speakerdeck.com/teamlab/tskaigi-goodbye-enum</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScriptだけでAIエージェントを作る フロント・エージェント・インフラのフルスタック実践 (Har1101)</title>
+        <link>https://speakerdeck.com/har1101/typescriptdakedeaiezientowozuo-ru-hurontoezientoinhuranohurusutatukushi-jian</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TypeScriptはどのようにどこまで推論できるのか ─ とにかく as は禁止で (ypresto)</title>
+        <link>https://speakerdeck.com/ypresto/2026-05-23-dive-into-ts-inference</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発体験を左右するライブラリの API 設計 - GraphQL スキーマ構築ライブラリから考える #tskaigi (izumin5210)</title>
+        <link>https://speakerdeck.com/izumin5210/tskaigi-2026</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プラグインで拡張される Context をtype-safe にする難しさと設計判断 (kazupon)</title>
+        <link>https://speakerdeck.com/kazupon/puraguindekuo-zhang-sareru-context-wotype-safe-nisurunan-sisatoshe-ji-pan-duan</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>業務に残された「良くない型」で考える「TypeScriptの難しさ」 (Saji)</title>
+        <link>https://speakerdeck.com/sajikix/ye-wu-nican-sareta-liang-kunaixing-dekao-eru-typescriptnonan-sisa</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【TSKaigi2026登壇資料】決定論的な型チェックへ Go 製コンパイラによる10倍速の裏側で  stableTypeOrdering から見える並列化への挑戦 (ディップ株式会社)</title>
+        <link>https://speakerdeck.com/dip_tech/tskaigi2026deng-tan-zi-liao-jue-ding-lun-de-naxing-tietukuhe-go-zhi-konpairaniyoru10bei-su-noli-ce-de-stabletypeordering-karajian-erubing-lie-hua-henotiao-zhan</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Copilot CLI の Rubber Duck 機能を使ってコーディングの品質をあげよう #techbaton_findy (すてにゃん)</title>
+        <link>https://speakerdeck.com/stefafafan/using-copilot-cli-rubber-duck</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データエージェントのためのナレッジカタログ (na0)</title>
+        <link>https://speakerdeck.com/na0/detaezientonotamenonaretuzikatarogu</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>次世代リンターで探る、tsgo 時代における型認識カスタムルールの現実解 (Yuta Takahashi)</title>
+        <link>https://speakerdeck.com/ytakahashii/exploring-type-aware-custom-rules-in-the-tsgo-era-through-the-lens-of-next-generation-linters-09ba0a80-5ff0-4d08-84bf-8a15a2179af3</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260524_セキュラジ_04SASEとは</title>
         <link>https://docs.google.com/presentation/d/1plNewdc6UzMPfqnuNfucvM-wEpNUkccVfHKpcHn5uXU/preview</link>
         <dc:date>2026-05-23T15:00:00Z</dc:date>
@@ -34,75 +104,5 @@
         <title>今さら聞けないCancellationToken (tkym)</title>
         <link>https://speakerdeck.com/htkym/jin-sarawen-kenaicancellationtoken</link>
         <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft のAzure Skills Plugin とSpec Kit を使いAzure の設計から構築、テスト、運用整備をGitHub Copilot にやってもらう (Kazuki Yamabe,@kdk_wakaba)</title>
-        <link>https://www.docswell.com/s/kdk_wakaba/ZVJ46E-2026-05-23-151151</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TSKaigi2026-静的解析への投資がAI時代のコード品質を支える ── カスタムESLintルールの設計と運用 (HayatoKudou)</title>
-        <link>https://speakerdeck.com/hayatokudou/tskaigi2026-jing-de-jie-xi-henotou-zi-gaaishi-dai-nokodopin-zhi-wozhi-eru-kasutamueslintrurunoshe-ji-toyun-yong</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>inferと仲良くなる10分間 (ryokatsuse)</title>
-        <link>https://speakerdeck.com/ryokatsuse/infertozhong-liang-kunaru10fen-jian</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>権限チェックの一貫性を型で守る TypeScript による多層防御 (aster-mnch (kitagawa))</title>
-        <link>https://speakerdeck.com/mnch/quan-xian-tietukuno-guan-xing-woxing-deshou-ru-typescript-niyoruduo-ceng-fang-yu</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サプライチェーン攻撃への備えについて考えている #湘なんか (すてにゃん)</title>
-        <link>https://speakerdeck.com/stefafafan/preparation-for-supply-chain-attacks</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Splunk MCPサーバの利活用事例 ーKINTOテクノロジーズの取り組み (KintoTech_Dev)</title>
-        <link>https://speakerdeck.com/kintotechdev/splunk-mcpsabanoli-huo-yong-shi-li-kintotekunorozizunoqu-rizu-mi</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>tscからtsgoへ ── DenoのTypeScript基盤はどう変わったか (Yusuke Tanaka,@yusuktan)</title>
-        <link>https://www.docswell.com/s/magurotuna/59NRVP-tskaigi-2026</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260320_JaSST26_Tokyo_登壇資料.pdf (Shin Murakami)</title>
-        <link>https://speakerdeck.com/mura_shin/20260320-jasst-26-tokyo-deng-tan-zi-liao</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript で WebAssembly を用いた 型安全なプラグイン設計 (glassmonenkey)</title>
-        <link>https://speakerdeck.com/nagano/typescript-de-webassembly-woyong-ita-xing-an-quan-napuraguinshe-ji</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Oxlintはいかにしてtsgolintのlint ruleを呼び出しているのか (syumai)</title>
-        <link>https://speakerdeck.com/syumai/how-oxlint-calls-tsgolint</link>
-        <dc:date>2026-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260522_LAPRAS_セキュリティニュース</title>
-        <link>https://docs.google.com/presentation/d/1bfNa_sb0Yau4U0nH8A1-u8ywvUdozWJ9oiUnRnzyozA/preview</link>
-        <dc:date>2026-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>私にとって便利なもの。個人開発LT (tanahiro2010)</title>
-        <link>https://speakerdeck.com/tanahiro2010/si-nitotutebian-li-namono-ge-ren-kai-fa-lt</link>
-        <dc:date>2026-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>“使われているハーネス／使われていないハーネス”を可視化するところから始めた話 (菅本隆文)</title>
-        <link>https://speakerdeck.com/sugamoto/shi-wareteiruhanesu-slash-shi-wareteinaihanesu-woke-shi-hua-surutokorokarashi-metahua</link>
-        <dc:date>2026-05-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入門 非機能要件 (DE TEIU (DE-TEIU))</title>
-        <link>https://www.docswell.com/s/8895128/K4NJYN-2026-05-22-183449</link>
-        <dc:date>2026-05-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
