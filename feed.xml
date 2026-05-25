@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI-DLC Workflows 2.0 のご紹介 / Intro of AI-DLC Workflows2.0 (kanamsasa)</title>
+        <link>https://speakerdeck.com/kanamasa/intro-of-ai-dlc-workflows2-dot-0</link>
+        <dc:date>2026-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RubyでRuby拡張を書いたらRubyより35倍速になったってどういうこと？？ (kazuho)</title>
+        <link>https://speakerdeck.com/kazuho/rubyderubykuo-zhang-woshu-itararubyyori35bei-su-ninatutatutedouiukoto</link>
+        <dc:date>2026-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>はじめてのAI-DLC (吉田真吾)</title>
         <link>https://speakerdeck.com/yoshidashingo/getting-started-ai-dlc</link>
         <dc:date>2026-05-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AIのために、AIを使った、Effect-TSからの脱却 〜テストを活用した安全なリファクタリングの進め方〜 (株式会社ビットキー / Bitkey Inc.)</title>
         <link>https://speakerdeck.com/bitkey/moving-away-from-effect-ts-by-ai-for-ai</link>
-        <dc:date>2026-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ts-morph でプロジェクト固有のアーキテクチャガードレールを作る (PKSHA Technology（パークシャテクノロジー）)</title>
-        <link>https://speakerdeck.com/pkshadeck/ts-morph-architecture-guardrails-tskaigi-2026</link>
-        <dc:date>2026-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TSKaigi 2026 - enumよ、さようなら (teamLab)</title>
-        <link>https://speakerdeck.com/teamlab/tskaigi-goodbye-enum</link>
         <dc:date>2026-05-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
