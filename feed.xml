@@ -6,6 +6,66 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub Copilot CLIのいいところ (tkym)</title>
+        <link>https://speakerdeck.com/htkym/github-copilot-clinoiitokoro</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CLIであることを活かしたGitHub Copilot CLI活用術 / GitHub Copilot CLI Pro Tips &amp; Tricks (Naoya.i)</title>
+        <link>https://speakerdeck.com/nao_mk2/github-copilot-cli-pro-tips-and-tricks</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Copilot CLI × M365 Work IQ 活用ネタ (Hiroki Nomura,@Shrkm1204)</title>
+        <link>https://www.docswell.com/s/shirokuma/KWRV9G-github-copilot-cli-workiq</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Equip GitHub Copilot CLI (watany)</title>
+        <link>https://speakerdeck.com/watany/equip-github-copilot-cli</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Copilot appで変わる GitHub Copilot CLI開発体験 (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/github-copilot-appdebian-waru-github-copilot-clikai-fa-ti-yan</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データ分析基盤の信頼を支える視点と設計 (Yuki)</title>
+        <link>https://speakerdeck.com/yuki_saito/detafen-xi-ji-pan-noxin-lai-wozhi-erushi-dian-toshe-ji</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>freee-mcpを Local→Remote で出してわかった MCP認可実装のリアル (てらら)</title>
+        <link>https://speakerdeck.com/terara/freee-mcpwo-local-remote-dechu-sitewakatuta-mcpren-ke-shi-zhuang-noriaru</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI-DLCで開発現場の変革を加速してみた (Akifumi Niida,@nid777)</title>
+        <link>https://www.docswell.com/s/nid/ZX242G-2026-05-25-201918</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>kintone界隈の1年(学びのコンテンツ紹介) (工場長,@superkojochou)</title>
+        <link>https://www.docswell.com/s/superkojochou/KL3Q33-2026-05-25-201206</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サメの話 (Kanako Kodera)</title>
+        <link>https://speakerdeck.com/kanakokoderashinkura/samenohua</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260525_My_experience_visiting_a_shark_fin_factory_in_Kesennuma (Typhon 666,@Typhon666_death)</title>
+        <link>https://www.slideshare.net/slideshow/20260525_my_experience_visiting_a_shark_fin_factory_in_kesennuma/287746003</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ただの営業マンがPHPカンファレンス福岡に行った時の話 (ニシ サダオミ,@sadabon444)</title>
+        <link>https://www.docswell.com/s/4997286788/5E18YQ-2026-05-25-072322</link>
+        <dc:date>2026-05-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Polymorphic Components パターンで作る、型安全でセマンティックな UI コンポーネント (ryo)</title>
         <link>https://speakerdeck.com/ryohiy/polymorphic-components-patandezuo-ru-xing-an-quan-desemanteitukuna-ui-konponento</link>
         <dc:date>2026-05-24T15:00:00Z</dc:date>
@@ -44,65 +104,5 @@
         <title>開発体験を左右するライブラリの API 設計 - GraphQL スキーマ構築ライブラリから考える #tskaigi (izumin5210)</title>
         <link>https://speakerdeck.com/izumin5210/tskaigi-2026</link>
         <dc:date>2026-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プラグインで拡張される Context をtype-safe にする難しさと設計判断 (kazupon)</title>
-        <link>https://speakerdeck.com/kazupon/puraguindekuo-zhang-sareru-context-wotype-safe-nisurunan-sisatoshe-ji-pan-duan</link>
-        <dc:date>2026-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>業務に残された「良くない型」で考える「TypeScriptの難しさ」 (Saji)</title>
-        <link>https://speakerdeck.com/sajikix/ye-wu-nican-sareta-liang-kunaixing-dekao-eru-typescriptnonan-sisa</link>
-        <dc:date>2026-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【TSKaigi2026登壇資料】決定論的な型チェックへ Go 製コンパイラによる10倍速の裏側で  stableTypeOrdering から見える並列化への挑戦 (ディップ株式会社)</title>
-        <link>https://speakerdeck.com/dip_tech/tskaigi2026deng-tan-zi-liao-jue-ding-lun-de-naxing-tietukuhe-go-zhi-konpairaniyoru10bei-su-noli-ce-de-stabletypeordering-karajian-erubing-lie-hua-henotiao-zhan</link>
-        <dc:date>2026-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilot CLI の Rubber Duck 機能を使ってコーディングの品質をあげよう #techbaton_findy (すてにゃん)</title>
-        <link>https://speakerdeck.com/stefafafan/using-copilot-cli-rubber-duck</link>
-        <dc:date>2026-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データエージェントのためのナレッジカタログ (na0)</title>
-        <link>https://speakerdeck.com/na0/detaezientonotamenonaretuzikatarogu</link>
-        <dc:date>2026-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>次世代リンターで探る、tsgo 時代における型認識カスタムルールの現実解 (Yuta Takahashi)</title>
-        <link>https://speakerdeck.com/ytakahashii/exploring-type-aware-custom-rules-in-the-tsgo-era-through-the-lens-of-next-generation-linters-09ba0a80-5ff0-4d08-84bf-8a15a2179af3</link>
-        <dc:date>2026-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260524_セキュラジ_04SASEとは</title>
-        <link>https://docs.google.com/presentation/d/1plNewdc6UzMPfqnuNfucvM-wEpNUkccVfHKpcHn5uXU/preview</link>
-        <dc:date>2026-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Real World Effect-TS: 堅牢なプロダクトを型で組み上げる (asa1984)</title>
-        <link>https://speakerdeck.com/asa1984/real-world-effect-ts-jian-lao-napurodakutowoxing-dezu-mishang-geru</link>
-        <dc:date>2026-05-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon WorkSpaces Applications の Agent Access を試してみた (JOYIT Jin)</title>
-        <link>https://www.docswell.com/s/jin_k/ZY8ME7-2026-05-23-jawsug</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS GameDayを企画する場合に考えたい点と育成に絡めた考慮点  #jawsug_tochigi (Ichiro Nishiuma)</title>
-        <link>https://speakerdeck.com/nishiuma/jawsugtochigi8</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EdgeプロファイルでAWSアカウントを安全に使い分ける (jhashimoto)</title>
-        <link>https://speakerdeck.com/jhashimoto/edge-profile-aws</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今さら聞けないCancellationToken (tkym)</title>
-        <link>https://speakerdeck.com/htkym/jin-sarawen-kenaicancellationtoken</link>
-        <dc:date>2026-05-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
