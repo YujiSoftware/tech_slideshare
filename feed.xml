@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Agentic AI時代における メルカリのAIガバナンスとガードレール実装 (ichihara)</title>
+        <link>https://speakerdeck.com/naoichihara/agentic-aishi-dai-niokeru-merukarinoaigabanansutogadorerushi-zhuang</link>
+        <dc:date>2026-05-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI-DLC Workflows 2.0 のご紹介 / Intro of AI-DLC Workflows2.0 (kanamsasa)</title>
         <link>https://speakerdeck.com/kanamasa/intro-of-ai-dlc-workflows2-dot-0</link>
         <dc:date>2026-05-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>typescript-goで変わるリンターの世界 — Flintという第三の選択肢 (Tamashoo)</title>
         <link>https://speakerdeck.com/tamashoo/typescript-godebian-warurintanoshi-jie-flinttoiudi-san-noxuan-ze-zhi</link>
-        <dc:date>2026-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIのために、AIを使った、Effect-TSからの脱却 〜テストを活用した安全なリファクタリングの進め方〜 (株式会社ビットキー / Bitkey Inc.)</title>
-        <link>https://speakerdeck.com/bitkey/moving-away-from-effect-ts-by-ai-for-ai</link>
         <dc:date>2026-05-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
