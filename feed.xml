@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>運用エージェントは "作る" から "育てる" へ - 記憶と自己進化の3層設計パターン / self-evolving-agents-three-layer-agent-design (geeawa)</title>
+        <link>https://speakerdeck.com/gawa/self-evolving-agents-three-layer-agent-design</link>
+        <dc:date>2026-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>TSKaigi 2026 アンチパターンを避ける型駆動React最適化 (seriseri)</title>
         <link>https://speakerdeck.com/seriseri/tskaigi-2026-antipatanwobi-keruxing-qu-dong-reactzui-shi-hua</link>
         <dc:date>2026-05-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GitHub Copilot CLIのいいところ (tkym)</title>
         <link>https://speakerdeck.com/htkym/github-copilot-clinoiitokoro</link>
-        <dc:date>2026-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CLIであることを活かしたGitHub Copilot CLI活用術 / GitHub Copilot CLI Pro Tips &amp; Tricks (Naoya.i)</title>
-        <link>https://speakerdeck.com/nao_mk2/github-copilot-cli-pro-tips-and-tricks</link>
         <dc:date>2026-05-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
