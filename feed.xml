@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TSKaigi 2026 アンチパターンを避ける型駆動React最適化 (seriseri)</title>
+        <link>https://speakerdeck.com/seriseri/tskaigi-2026-antipatanwobi-keruxing-qu-dong-reactzui-shi-hua</link>
+        <dc:date>2026-05-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代に改めて考える、ドメイン駆動設計 - モデリングが「AIへの共通言語」になる (Koichiro Matsuoka)</title>
         <link>https://speakerdeck.com/littlehands/aishi-dai-nigai-metekao-eru-domeinqu-dong-she-ji-moderinguga-aihenogong-tong-yan-yu-ninaru</link>
         <dc:date>2026-05-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CLIであることを活かしたGitHub Copilot CLI活用術 / GitHub Copilot CLI Pro Tips &amp; Tricks (Naoya.i)</title>
         <link>https://speakerdeck.com/nao_mk2/github-copilot-cli-pro-tips-and-tricks</link>
-        <dc:date>2026-05-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilot CLI × M365 Work IQ 活用ネタ (Hiroki Nomura,@Shrkm1204)</title>
-        <link>https://www.docswell.com/s/shirokuma/KWRV9G-github-copilot-cli-workiq</link>
         <dc:date>2026-05-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
