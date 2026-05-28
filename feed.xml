@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Getting Started with Presentation (Yuichi.Sakuraba)</title>
+        <link>https://speakerdeck.com/skrb/getting-started-with-presentation</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Microsoft Fabric 試用版で失敗しないためのポイント~容量リージョンについて~ (大竹礼二（REIJI OTAKE）)</title>
         <link>https://speakerdeck.com/reireireijinjin6/microsoft-fabric-shi-yong-ban-deshi-bai-sinaitamenopointo-rong-liang-riziyonnituite</link>
         <dc:date>2026-05-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI-DLC Workflows 2.0 のご紹介 / Intro of AI-DLC Workflows2.0 (kanamsasa)</title>
         <link>https://speakerdeck.com/kanamasa/intro-of-ai-dlc-workflows2-dot-0</link>
-        <dc:date>2026-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RubyでRuby拡張を書いたらRubyより35倍速になったってどういうこと？？ (kazuho)</title>
-        <link>https://speakerdeck.com/kazuho/rubyderubykuo-zhang-woshu-itararubyyori35bei-su-ninatutatutedouiukoto</link>
         <dc:date>2026-05-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
