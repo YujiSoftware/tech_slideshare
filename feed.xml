@@ -6,6 +6,91 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>管理アカウント単一運用からAWS Organizationsに移行するの大変で滅 (平目)</title>
+        <link>https://speakerdeck.com/hiramax/guan-li-akauntodan-yun-yong-karaaws-organizationsniyi-xing-surunoda-bian-demie</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Amazon Bedrock 経由の Claude Cowork を試してみよう・MCP にも繋いでみよう (Kazuya Sugimoto)</title>
+        <link>https://speakerdeck.com/sugimomoto/amazon-bedrock-jing-you-no-claude-cowork-woshi-sitemiyoumcp-nimoxi-idemiyou</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>長時間実行タスクを簡単にするLambda durable functionsの活用方法 (レオマロ)</title>
+        <link>https://speakerdeck.com/takuyaakaike/chang-shi-jian-shi-xing-tasukuwojian-dan-nisurulambda-durable-functionsnohuo-yong-fang-fa</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Generative UI × A2UI で AI エージェントを作った話　AI-DLC も使ってみた！ (たけのこ)</title>
+        <link>https://speakerdeck.com/kmiya84377/generative-ui-x-a2ui-de-ai-ezientowozuo-tutahua-ai-dlc-moshi-tutemita</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Composerを使ったサプライチェーン攻撃の様子を眺めてみる #phpstudy (hideki kinjyo)</title>
+        <link>https://speakerdeck.com/o0h/phpstudy-187</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ChatGPTを使ってRaspberry Pi Picoの処理系を書いた (てきめん tekimen)</title>
+        <link>https://speakerdeck.com/youkidearitai/chatgptwoshi-tuteraspberry-pi-piconochu-li-xi-woshu-ita</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fabric-cicd によるAzure DevOps デプロイ (Ryoma Nagata)</title>
+        <link>https://speakerdeck.com/ryomaru0825/fabric-cicd-niyoruazure-devops-depuroi</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure Databricks への移行時の注意点 (Satoshi ENOMOTO)</title>
+        <link>https://www.docswell.com/s/satoshi_enomoto/KY8M7N-2026-05-28-181306</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>&amp;quot;Simple Made Easy&amp;quot; Made Easier: Clojureに学ぶsimplicity (Kent OHASHI,@lagenorhynque)</title>
+        <link>https://www.docswell.com/s/lagenorhynque/K7NJ12-simple-made-easy-made-easier</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>!コスパよくインターンに受かる方法！ (るりいろぼうや)</title>
+        <link>https://speakerdeck.com/ruribou/kosupayokuintannishou-karufang-fa</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニア就活でESを書くとき、 心がけていること (Riochin)</title>
+        <link>https://speakerdeck.com/riochin/enziniajiu-huo-deeswoshu-kutoki-xin-gaketeirukoto</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「エンジニアインターン、どうやって取った？」準備のリアルを語るLT会 Progate BAR (akio)</title>
+        <link>https://speakerdeck.com/akiomatic/enziniaintan-douyatutequ-tuta-zhun-bei-noriaruwoyu-rulthui-progate-bar</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自称宇宙最速で不合格となったAIP-C01にリベンジを果たすべくAIで問題集アプリを作ってみた。 (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/zi-cheng-yu-zhou-zui-su-debu-he-ge-tonatutaaip-c01niribenziwoguo-tasubekuaidewen-ti-ji-apuriwozuo-tutemita</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>『家族アルバム みてね』における インシデント対応との向き合い方 / Approach incident response in Family Album (kohbis)</title>
+        <link>https://speakerdeck.com/kohbis/approach-incident-response-in-family-album</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>仕様駆動開発はやめた方がいいって本当？ (NAKAMURA Atsushi,@nuits_jp)</title>
+        <link>https://www.docswell.com/s/nuits_jp/5MQVYJ-2026-05-28-172532</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>育つMemoryと残る汚染 - 家族エージェント3ヶ月で見えた責務の境界 (Yusuke Shimizu)</title>
+        <link>https://speakerdeck.com/yusukeshimizu/yu-tumemorytocan-ruwu-ran-jia-zu-eziento3keyue-dejian-etaze-wu-nojing-jie</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>long-running-tasks (cipepser)</title>
+        <link>https://speakerdeck.com/cipepser/long-running-tasks</link>
+        <dc:date>2026-05-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Codeですべての日常業務を爆速化しよう！ (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/claude-codedesubetenori-chang-ye-wu-wobao-su-hua-siyou</link>
         <dc:date>2026-05-27T15:00:00Z</dc:date>
@@ -19,90 +104,5 @@
         <title>20250820 グラフィックをいじるUI</title>
         <link>https://docs.google.com/presentation/d/1o9CnY7acTsnX6SmzRKPYzRAH__7ZRIi-CCuG9s9t1CA/preview</link>
         <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Getting Started with Presentation (Yuichi.Sakuraba)</title>
-        <link>https://speakerdeck.com/skrb/getting-started-with-presentation</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Fabric 試用版で失敗しないためのポイント~容量リージョンについて~ (大竹礼二（REIJI OTAKE）)</title>
-        <link>https://speakerdeck.com/reireireijinjin6/microsoft-fabric-shi-yong-ban-deshi-bai-sinaitamenopointo-rong-liang-riziyonnituite</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260527_先週差分_今後調査予定_サマリ (NobuakiOshiro)</title>
-        <link>https://speakerdeck.com/doradora09/20260527-xian-zhou-chai-fen-jin-hou-diao-cha-yu-ding-samari-72992fdf-d387-4e08-83e0-0b9672c85dc6</link>
-        <dc:date>2026-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260527_準悲観シナリオ_v2_価格高騰見込み (NobuakiOshiro)</title>
-        <link>https://speakerdeck.com/doradora09/20260527-zhun-bei-guan-sinario-v2-jia-ge-gao-teng-jian-ip-mi</link>
-        <dc:date>2026-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260527_ホルムズ制約長期化シナリオ(準悲観シナリオ) (NobuakiOshiro)</title>
-        <link>https://speakerdeck.com/doradora09/20260527-horumusuzhi-yue-chang-qi-hua-sinario-zhun-bei-guan-sinario</link>
-        <dc:date>2026-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>運用エージェントは "作る" から "育てる" へ - 記憶と自己進化の3層設計パターン / self-evolving-agents-three-layer-agent-design (geeawa)</title>
-        <link>https://speakerdeck.com/gawa/self-evolving-agents-three-layer-agent-design</link>
-        <dc:date>2026-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TSKaigi 2026 アンチパターンを避ける型駆動React最適化 (seriseri)</title>
-        <link>https://speakerdeck.com/seriseri/tskaigi-2026-antipatanwobi-keruxing-qu-dong-reactzui-shi-hua</link>
-        <dc:date>2026-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代に改めて考える、ドメイン駆動設計 - モデリングが「AIへの共通言語」になる (Koichiro Matsuoka)</title>
-        <link>https://speakerdeck.com/littlehands/aishi-dai-nigai-metekao-eru-domeinqu-dong-she-ji-moderinguga-aihenogong-tong-yan-yu-ninaru</link>
-        <dc:date>2026-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260526_NW-JAWS #21_ELB？最高だぜぇ！ 世界はELBで回ってる (ますの＠AWS運用保守 Lv1.1,@masno_soy)</title>
-        <link>https://www.docswell.com/s/masno_soy/K4NJN8-2026-05-26-141344</link>
-        <dc:date>2026-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「使われるデータ基盤」を目指してデータアナリストとワークショップをやった話 (jackojacko_)</title>
-        <link>https://speakerdeck.com/jackojacko_/shi-warerudetaji-pan-womu-zhi-sitedetaanarisutotowakusiyotupuwoyatutahua</link>
-        <dc:date>2026-05-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ - API基礎 - 20260526</title>
-        <link>https://docs.google.com/presentation/d/13XvuKUZi-9Ld6Whd_OFbBJ4YCjHdtnKNmdAx6syr6z0/preview</link>
-        <dc:date>2026-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260526_VIoTLT_vol23_kitazaki_v1.pdf___ (Ayachika Kitazaki)</title>
-        <link>https://www.slideshare.net/slideshow/20260526_viotlt_vol23_kitazaki_v1-pdf___/287765867</link>
-        <dc:date>2026-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ビジュアルプログラミングIoTLT vol.23 (1ft-seabass)</title>
-        <link>https://speakerdeck.com/1ftseabass/2026-06-26-viotlt-vol23</link>
-        <dc:date>2026-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CloudFront VPCオリジンとVPC Latticeサービスの内部ALBをマルチアカウントで一元利用しよう (k-kun)</title>
-        <link>https://speakerdeck.com/duelist2020jp/cloudfront-vpcorizintovpc-latticesabisunonei-bu-albwomarutiakauntode-yuan-li-yong-siyou</link>
-        <dc:date>2026-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>権限管理設計を完全に理解した (r-sugi)</title>
-        <link>https://speakerdeck.com/rsugi/quan-xian-guan-li-she-ji-wowan-quan-nili-jie-sita</link>
-        <dc:date>2026-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EasyEasy_20260526 (paseri.kurosawa)</title>
-        <link>https://www.docswell.com/s/3822049/ZVJ47V-2026-05-19-233358</link>
-        <dc:date>2026-05-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>layerx-fde-practices (cipepser)</title>
-        <link>https://speakerdeck.com/cipepser/layerx-fde-practices</link>
-        <dc:date>2026-05-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
