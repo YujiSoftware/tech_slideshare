@@ -6,6 +6,81 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MoonBitをC# にTranspileする</title>
+        <link>https://docs.google.com/presentation/d/1SMvJMsM0g8w7BGw5n6Hjmr2AHSrTWgggLVe6dFIY9RM/preview</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Roslyn でフロー解析してみる (ruccho)</title>
+        <link>https://speakerdeck.com/ruccho/flow-analysis-with-roslyn</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Avaloniaでデスクトップ開発、もっとやってもいいんじゃない？ (最上土川)</title>
+        <link>https://speakerdeck.com/mogamit/avaloniadedesukutotupukai-fa-motutoyatutemoiinziyanai</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>C#とC#をinteropする（しない）</title>
+        <link>https://docs.google.com/presentation/d/1wkFJCkgCRpwEHld6MnL5zgZ8go3UkfMZbeaQGBWU-98/preview</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>C#で作るWebAssemblyランタイム (nuskey,@nuskey8)</title>
+        <link>https://www.docswell.com/s/nuskey/59NR6X-super-dotnet-new</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代から振り返るTerraform drift運用の歴史 / AI Age Reflections on the History of Terraform Drift Operations (AEON)</title>
+        <link>https://speakerdeck.com/aeonpeople/ai-age-reflections-on-the-history-of-terraform-drift-operations</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TROCCOで始めるクラウドコストを民主化するためのFinOps (Hiroki Takatsuka)</title>
+        <link>https://speakerdeck.com/tk3fftk/troccodeshi-merukuraudokosutowomin-zhu-hua-surutamenofinops</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Strands Agents超入門 (KintoTech_Dev)</title>
+        <link>https://speakerdeck.com/kintotechdev/strands-agentschao-ru-men</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>社会人9年目の僕が贈る処世術 (あべ)</title>
+        <link>https://speakerdeck.com/coco_se/she-hui-ren-9nian-mu-nopu-gazeng-ruchu-shi-shu</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>目標に届かなかったエンジニアの現在地確認 (阿部健太郎)</title>
+        <link>https://www.docswell.com/s/6073979229/ZX243M-2026-05-29-211823</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【改変版】選択を間違えないなんて無理だった話 (inori)</title>
+        <link>https://speakerdeck.com/inorinori/gai-bian-ban-xuan-ze-wojian-wei-enainantewu-li-datutahua</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大学生が本気でDatabricksを活用してDiscordサークルをデータ駆動させてみた (Kazuki Date)</title>
+        <link>https://speakerdeck.com/phantomjuju/da-xue-sheng-gaben-qi-dedatabrickswohuo-yong-sitediscordsakuruwodetaqu-dong-sasetemita</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Lemonade + Foundry Toolkit でお手軽アプリ開発 (瀬尾佳隆)</title>
+        <link>https://speakerdeck.com/seosoft/lemonade-plus-foundry-toolkit-deoshou-qing-apurikai-fa</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Network Security Perimeterを理解する (Yohei Iwasaki,@I_BOY_1204)</title>
+        <link>https://www.docswell.com/s/iboy/ZGNQMD-2026-05-29-201519</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Copilot CLIでWebアクセシビリティを改善した話 (tomokusaba)</title>
+        <link>https://speakerdeck.com/tomokusaba/github-copilot-clidewebakusesibiriteiwogai-shan-sitahua</link>
+        <dc:date>2026-05-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>類似画像検索モデルの開発ノウハウ (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/20260526a</link>
         <dc:date>2026-05-28T15:00:00Z</dc:date>
@@ -29,80 +104,5 @@
         <title>検索リランキングを事業成果につなげる 評価・改善戦略 (田代真生)</title>
         <link>https://speakerdeck.com/masakick07/jian-suo-rirankinguwoshi-ye-cheng-guo-nitunageru-ping-jia-gai-shan-zhan-lue</link>
         <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【名古屋×沖縄】初コラボ　Antigravityワークショップ (浦﨑)</title>
-        <link>https://speakerdeck.com/urasaki/ming-gu-wu-xchong-nawa-chu-korabo-antigravitywakusiyotupu</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIがなんでも答えてくれる時代になぜ学ぶのか？ (株式会社ホクソエム,@hoxo_m_inc)</title>
-        <link>https://www.docswell.com/s/hoxo-m_inc/KN7JWG-why-we-learn</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Stage 3 Decorators でできること / できないこと / TSKaigi 2026 (Susisu)</title>
-        <link>https://speakerdeck.com/susisu/tskaigi-2026</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代の私の技術インプットとアウトプット術 (tonkotsuboy_com)</title>
-        <link>https://speakerdeck.com/tonkotsuboy_com/aishi-dai-nosi-noji-shu-inpututotoautopututoshu</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>柔軟なPDFレイアウトエディタを支える型システム設計 — Discriminated UnionとConditional Typeの実践 (minako-ph)</title>
-        <link>https://speakerdeck.com/minako__ph/rou-ruan-napdfreiautoedeitawozhi-eruxing-sisutemushe-ji-discriminated-uniontoconditional-typenoshi-jian</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>管理アカウント単一運用からAWS Organizationsに移行するの大変で滅 (平目)</title>
-        <link>https://speakerdeck.com/hiramax/guan-li-akauntodan-yun-yong-karaaws-organizationsniyi-xing-surunoda-bian-demie</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Bedrock 経由の Claude Cowork を試してみよう・MCP にも繋いでみよう (Kazuya Sugimoto)</title>
-        <link>https://speakerdeck.com/sugimomoto/amazon-bedrock-jing-you-no-claude-cowork-woshi-sitemiyoumcp-nimoxi-idemiyou</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>長時間実行タスクを簡単にするLambda durable functionsの活用方法 (レオマロ)</title>
-        <link>https://speakerdeck.com/takuyaakaike/chang-shi-jian-shi-xing-tasukuwojian-dan-nisurulambda-durable-functionsnohuo-yong-fang-fa</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Generative UI × A2UI で AI エージェントを作った話　AI-DLC も使ってみた！ (たけのこ)</title>
-        <link>https://speakerdeck.com/kmiya84377/generative-ui-x-a2ui-de-ai-ezientowozuo-tutahua-ai-dlc-moshi-tutemita</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Composerを使ったサプライチェーン攻撃の様子を眺めてみる #phpstudy (hideki kinjyo)</title>
-        <link>https://speakerdeck.com/o0h/phpstudy-187</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ChatGPTを使ってRaspberry Pi Picoの処理系を書いた (てきめん tekimen)</title>
-        <link>https://speakerdeck.com/youkidearitai/chatgptwoshi-tuteraspberry-pi-piconochu-li-xi-woshu-ita</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fabric-cicd によるAzure DevOps デプロイ (Ryoma Nagata)</title>
-        <link>https://speakerdeck.com/ryomaru0825/fabric-cicd-niyoruazure-devops-depuroi</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Databricks への移行時の注意点 (Satoshi ENOMOTO)</title>
-        <link>https://www.docswell.com/s/satoshi_enomoto/KY8M7N-2026-05-28-181306</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>&amp;quot;Simple Made Easy&amp;quot; Made Easier: Clojureに学ぶsimplicity (Kent OHASHI,@lagenorhynque)</title>
-        <link>https://www.docswell.com/s/lagenorhynque/K7NJ12-simple-made-easy-made-easier</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>!コスパよくインターンに受かる方法！ (るりいろぼうや)</title>
-        <link>https://speakerdeck.com/ruribou/kosupayokuintannishou-karufang-fa</link>
-        <dc:date>2026-05-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
