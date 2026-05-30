@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI 時代のソフトウェア設計の学び方 (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/ai-shi-dai-nosohutoueashe-ji-noxue-bifang</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>3分でだいたいわかる ライブマイグレーション</title>
         <link>https://docs.google.com/presentation/d/1CowA36B3jsdwkgyfboJpQDjnYmwhSfpu-4S4LKslaak/preview</link>
         <dc:date>2026-05-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GitHub Copilot CLIでWebアクセシビリティを改善した話 (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/github-copilot-clidewebakusesibiriteiwogai-shan-sitahua</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>類似画像検索モデルの開発ノウハウ (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20260526a</link>
         <dc:date>2026-05-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
