@@ -6,6 +6,66 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>形式手法特論：公平性制約の位相的特徴づけ #kernelvm / Kernel VM Study Kansai 12th (y_taka_23)</title>
+        <link>https://speakerdeck.com/ytaka23/kernel-vm-study-kansai-12th</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>the Conditional jump mechanism for a computer without a  Program Counter (たけおか しょうぞう)</title>
+        <link>https://www.slideshare.net/slideshow/the-conditional-jump-mechanism-for-a-computer-without-a-program-counter/287832517</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIガバナンス実践 - 生成AIコネクタのデータ漏洩リスクと実務対策 (西岡 賢一郎 (Kenichiro Nishioka))</title>
+        <link>https://speakerdeck.com/knishioka/aigabanansushi-jian-sheng-cheng-aikonekutanodetalou-xie-risukutoshi-wu-dui-ce</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DynamoDBには集計系のクエリがないけどなんとかしたい (村上優稀)</title>
+        <link>https://speakerdeck.com/musan/dynamodbnihaji-ji-xi-nokueriganaikedonantokasitai</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RTSPクライアントを自作してみた話 (simotin13)</title>
+        <link>https://speakerdeck.com/simotin13/rtspkuraiantowozi-zuo-sitemitahua</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>災害救助シミュレーションの地図とRによる分析支援 (Keisuke ANDO,@NONONOexe)</title>
+        <link>https://www.docswell.com/s/NONONOexe/Z9NR7X-kanazawar-5</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI AgentのTDDルール追従性を評価する (hawky the miscellaneous)</title>
+        <link>https://speakerdeck.com/hawkymisc/ai-agentnotddruruzhui-cong-xing-woping-jia-suru</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>グラフDBとIoT (Koichiro Oki)</title>
+        <link>https://speakerdeck.com/ko2a/gurahudbtoiot</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BG770A_photo_transfer_v2.pdf (Satoru Ohguchi)</title>
+        <link>https://speakerdeck.com/ochicchi/bg770a-photo-transfer-v2</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[JAWS-UG 京都支部] オブザーバビリティにおける生成AI活用 AWS DevOps Agent 紹介/ワークショップ 20260530 (Tomoki Ikegaya)</title>
+        <link>https://speakerdeck.com/iktomoki/wakusiyotupu-20260530</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成 AI 時代の CI/CD (Tomoki Suzuki)</title>
+        <link>https://speakerdeck.com/akitomomikix/cd</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>並列実装の現場、2ヶ月間実務でAIを使い倒したAIもPCも私も限界が近い (ming)</title>
+        <link>https://speakerdeck.com/ming_ayami/bing-lie-shi-zhuang-noxian-chang-2keyue-jian-shi-wu-deaiwoshi-idao-sitaaimopcmosi-moxian-jie-gajin-i</link>
+        <dc:date>2026-05-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI 時代のソフトウェア設計の学び方 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/ai-shi-dai-nosohutoueashe-ji-noxue-bifang</link>
         <dc:date>2026-05-29T15:00:00Z</dc:date>
@@ -43,66 +103,6 @@
     <item>
         <title>Avaloniaでデスクトップ開発、もっとやってもいいんじゃない？ (最上土川)</title>
         <link>https://speakerdeck.com/mogamit/avaloniadedesukutotupukai-fa-motutoyatutemoiinziyanai</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C#とC#をinteropする（しない）</title>
-        <link>https://docs.google.com/presentation/d/1wkFJCkgCRpwEHld6MnL5zgZ8go3UkfMZbeaQGBWU-98/preview</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>C#で作るWebAssemblyランタイム (nuskey,@nuskey8)</title>
-        <link>https://www.docswell.com/s/nuskey/59NR6X-super-dotnet-new</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代から振り返るTerraform drift運用の歴史 / AI Age Reflections on the History of Terraform Drift Operations (AEON)</title>
-        <link>https://speakerdeck.com/aeonpeople/ai-age-reflections-on-the-history-of-terraform-drift-operations</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TROCCOで始めるクラウドコストを民主化するためのFinOps (Hiroki Takatsuka)</title>
-        <link>https://speakerdeck.com/tk3fftk/troccodeshi-merukuraudokosutowomin-zhu-hua-surutamenofinops</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Strands Agents超入門 (KintoTech_Dev)</title>
-        <link>https://speakerdeck.com/kintotechdev/strands-agentschao-ru-men</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社会人9年目の僕が贈る処世術 (あべ)</title>
-        <link>https://speakerdeck.com/coco_se/she-hui-ren-9nian-mu-nopu-gazeng-ruchu-shi-shu</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>目標に届かなかったエンジニアの現在地確認 (阿部健太郎)</title>
-        <link>https://www.docswell.com/s/6073979229/ZX243M-2026-05-29-211823</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【改変版】選択を間違えないなんて無理だった話 (inori)</title>
-        <link>https://speakerdeck.com/inorinori/gai-bian-ban-xuan-ze-wojian-wei-enainantewu-li-datutahua</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大学生が本気でDatabricksを活用してDiscordサークルをデータ駆動させてみた (Kazuki Date)</title>
-        <link>https://speakerdeck.com/phantomjuju/da-xue-sheng-gaben-qi-dedatabrickswohuo-yong-sitediscordsakuruwodetaqu-dong-sasetemita</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Lemonade + Foundry Toolkit でお手軽アプリ開発 (瀬尾佳隆)</title>
-        <link>https://speakerdeck.com/seosoft/lemonade-plus-foundry-toolkit-deoshou-qing-apurikai-fa</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Network Security Perimeterを理解する (Yohei Iwasaki,@I_BOY_1204)</title>
-        <link>https://www.docswell.com/s/iboy/ZGNQMD-2026-05-29-201519</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilot CLIでWebアクセシビリティを改善した話 (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/github-copilot-clidewebakusesibiriteiwogai-shan-sitahua</link>
         <dc:date>2026-05-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
