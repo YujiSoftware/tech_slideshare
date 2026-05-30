@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ふつうのFeature Flag実践入門 (irof)</title>
+        <link>https://speakerdeck.com/irof/feature-flags-in-practice</link>
+        <dc:date>2026-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>不変条件と整合性境界—ビジネスが決める設計判断と実現パターン / Invariants and Consistency Boundaries (nrs)</title>
         <link>https://speakerdeck.com/nrslib/invariants-and-consistency-boundaries</link>
         <dc:date>2026-05-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AIコーディングエージェントの活用で、コードは静かに肥大化した (篠田 陽介)</title>
         <link>https://speakerdeck.com/yosukeshinoda/aikodeinguezientonohuo-yong-de-kodohajing-kanifei-da-hua-sita</link>
         <dc:date>2026-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MoonBitをC# にTranspileする</title>
-        <link>https://docs.google.com/presentation/d/1SMvJMsM0g8w7BGw5n6Hjmr2AHSrTWgggLVe6dFIY9RM/preview</link>
-        <dc:date>2026-05-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
