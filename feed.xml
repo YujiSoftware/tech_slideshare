@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>変化に強いテストを育てるSpringBootのレイヤー設計 (Takeshi Miyajima,@tmiyatech)</title>
+        <link>https://www.docswell.com/s/tmiya-tech/53JENE-2026-05-30-095125</link>
+        <dc:date>2026-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ふつうのFeature Flag実践入門 (irof)</title>
         <link>https://speakerdeck.com/irof/feature-flags-in-practice</link>
         <dc:date>2026-05-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>BSidesTokyo_2026_TLPT2.0</title>
         <link>https://docs.google.com/presentation/d/1x7ohYJ1fc7msjmLvpyOAaEivbSfck82fV0Kl5titkOE/preview</link>
-        <dc:date>2026-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIコーディングエージェントの活用で、コードは静かに肥大化した (篠田 陽介)</title>
-        <link>https://speakerdeck.com/yosukeshinoda/aikodeinguezientonohuo-yong-de-kodohajing-kanifei-da-hua-sita</link>
         <dc:date>2026-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
