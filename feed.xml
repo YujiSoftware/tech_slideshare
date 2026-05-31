@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM AgentでTRPGを動かしたら、Agentの地獄を（多分）全部見た (tanahiro2010)</title>
+        <link>https://speakerdeck.com/tanahiro2010/llm-agentdetrpgwodong-kasitara-agentnodi-yu-wo-duo-fen-quan-bu-jian-ta</link>
+        <dc:date>2026-05-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ゆるくアラート作ってゆるくアラート消してゆるくSREしよう/EasygoingSRECreateAlerts__RemoveAlertsRepeat.pdf (Msksgm)</title>
         <link>https://speakerdeck.com/msksgm/easygoingsrecreatealerts-removealertsrepeat</link>
         <dc:date>2026-05-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>並列実装の現場、2ヶ月間実務でAIを使い倒したAIもPCも私も限界が近い (ming)</title>
         <link>https://speakerdeck.com/ming_ayami/bing-lie-shi-zhuang-noxian-chang-2keyue-jian-shi-wu-deaiwoshi-idao-sitaaimopcmosi-moxian-jie-gajin-i</link>
-        <dc:date>2026-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI 時代のソフトウェア設計の学び方 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/ai-shi-dai-nosohutoueashe-ji-noxue-bifang</link>
         <dc:date>2026-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
