@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIチームを指揮するOSS「TAKT」活用術 / How to Use “TAKT,” an OSS Tool for Orchestrating AI Teams (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/how-to-use-takt-an-oss-tool-for-orchestrating-ai-teams</link>
+        <dc:date>2026-05-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>気づいたらRubyで100作品 ー クリエイティブコーディングが生活の一部になるまで / 100 Ruby Sketches Later: How Creative Coding Became Part of My Life (chobishiba)</title>
         <link>https://speakerdeck.com/chobishiba/100-ruby-sketches-later-how-creative-coding-became-part-of-my-life</link>
         <dc:date>2026-05-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[JAWS-UG 京都支部] オブザーバビリティにおける生成AI活用 AWS DevOps Agent 紹介/ワークショップ 20260530 (Tomoki Ikegaya)</title>
         <link>https://speakerdeck.com/iktomoki/wakusiyotupu-20260530</link>
-        <dc:date>2026-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成 AI 時代の CI/CD (Tomoki Suzuki)</title>
-        <link>https://speakerdeck.com/akitomomikix/cd</link>
         <dc:date>2026-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
