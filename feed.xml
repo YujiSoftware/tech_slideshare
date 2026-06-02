@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Oxlintのカスタムルールの現況 (syumai)</title>
+        <link>https://speakerdeck.com/syumai/oxlint-custom-rule</link>
+        <dc:date>2026-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>チュートリアル：世界モデル (Hironobu Fujiyoshi)</title>
         <link>https://speakerdeck.com/hf149/tiyutoriaru-shi-jie-moderu</link>
         <dc:date>2026-05-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>グラフDBとIoT (Koichiro Oki)</title>
         <link>https://speakerdeck.com/ko2a/gurahudbtoiot</link>
-        <dc:date>2026-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BG770A_photo_transfer_v2.pdf (Satoru Ohguchi)</title>
-        <link>https://speakerdeck.com/ochicchi/bg770a-photo-transfer-v2</link>
         <dc:date>2026-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
