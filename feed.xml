@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ワンダリア横浜画像認識AI 高品質な体験を磨き込むData-Centricな開発の実践 (DeNA_Tech,@DeNAxTech)</title>
+        <link>https://www.docswell.com/s/DeNA_Tech/57NJPW-2026-06-02-173351</link>
+        <dc:date>2026-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SAM 3 × アノテーション — ワンダリアアプリの画像認識AIを支える基盤作り (DeNA_Tech,@DeNAxTech)</title>
+        <link>https://www.docswell.com/s/DeNA_Tech/ZMQVDW-2026-06-02-204843</link>
+        <dc:date>2026-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>引き算で作る社内iPad受付システム (SALT2)</title>
+        <link>https://speakerdeck.com/salt2/yin-kisuan-dezuo-rushe-nei-ipadshou-fu-sisutemu</link>
+        <dc:date>2026-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>トラッキングデータを用いた分析事例のご紹介 (DeNA_Tech,@DeNAxTech)</title>
+        <link>https://www.docswell.com/s/DeNA_Tech/5Y8MJL-2026-06-01-151127</link>
+        <dc:date>2026-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バスケ試合映像からのトラッキングデータ生成 (DeNA_Tech,@DeNAxTech)</title>
+        <link>https://www.docswell.com/s/DeNA_Tech/ZR86R4-2026-06-02-151909</link>
+        <dc:date>2026-06-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Oxcを導入して開発体験が向上した話 (Yuji Yamaguchi)</title>
         <link>https://speakerdeck.com/yug1224/2026-06-02</link>
         <dc:date>2026-06-01T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>形式手法特論：公平性制約の位相的特徴づけ #kernelvm / Kernel VM Study Kansai 12th (y_taka_23)</title>
         <link>https://speakerdeck.com/ytaka23/kernel-vm-study-kansai-12th</link>
-        <dc:date>2026-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>the Conditional jump mechanism for a computer without a  Program Counter (たけおか しょうぞう)</title>
-        <link>https://www.slideshare.net/slideshow/the-conditional-jump-mechanism-for-a-computer-without-a-program-counter/287832517</link>
-        <dc:date>2026-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIガバナンス実践 - 生成AIコネクタのデータ漏洩リスクと実務対策 (西岡 賢一郎 (Kenichiro Nishioka))</title>
-        <link>https://speakerdeck.com/knishioka/aigabanansushi-jian-sheng-cheng-aikonekutanodetalou-xie-risukutoshi-wu-dui-ce</link>
-        <dc:date>2026-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DynamoDBには集計系のクエリがないけどなんとかしたい (村上優稀)</title>
-        <link>https://speakerdeck.com/musan/dynamodbnihaji-ji-xi-nokueriganaikedonantokasitai</link>
-        <dc:date>2026-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RTSPクライアントを自作してみた話 (simotin13)</title>
-        <link>https://speakerdeck.com/simotin13/rtspkuraiantowozi-zuo-sitemitahua</link>
-        <dc:date>2026-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>災害救助シミュレーションの地図とRによる分析支援 (Keisuke ANDO,@NONONOexe)</title>
-        <link>https://www.docswell.com/s/NONONOexe/Z9NR7X-kanazawar-5</link>
         <dc:date>2026-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
