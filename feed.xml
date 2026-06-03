@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>美味しいスイスチーズを作ろう🧀🐭 (Taiga Mikami)</title>
+        <link>https://speakerdeck.com/taigamikami/mei-wei-siisuisutizuwozuo-rou</link>
+        <dc:date>2026-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI Adaptable なテストを整える工夫 / Ways to Make Your Tests AI-Adaptable (株式会社ビットキー / Bitkey Inc.)</title>
+        <link>https://speakerdeck.com/bitkey/ways-to-make-your-tests-ai-adaptable</link>
+        <dc:date>2026-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI フレンドリーなエラー監視を TypeScript で実現する (Shinobu Hayashi)</title>
+        <link>https://speakerdeck.com/shinyaigeek/ai-hurendorinaerajian-shi-wo-typescript-deshi-xian-suru</link>
+        <dc:date>2026-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新規プロダクトを高速で生み出すハーネスエンジニアリング (Ryohei Ikegami)</title>
         <link>https://speakerdeck.com/seanchas116/xin-gui-purodakutowo-gao-su-desheng-michu-su-hanesuenziniaringu</link>
         <dc:date>2026-06-02T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>変化に強いテストを育てるSpringBootのレイヤー設計 (Takeshi Miyajima,@tmiyatech)</title>
         <link>https://www.docswell.com/s/tmiya-tech/53JENE-2026-05-30-095125</link>
         <dc:date>2026-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ふつうのFeature Flag実践入門 (irof)</title>
-        <link>https://speakerdeck.com/irof/feature-flags-in-practice</link>
-        <dc:date>2026-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>不変条件と整合性境界—ビジネスが決める設計判断と実現パターン / Invariants and Consistency Boundaries (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/invariants-and-consistency-boundaries</link>
-        <dc:date>2026-05-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI時代にこそ効くGo | Why Go Works in the Age of Generative AI (mom0tomo)</title>
-        <link>https://speakerdeck.com/mom0tomo/sheng-cheng-aishi-dai-nikosoxiao-kugo-why-go-works-in-the-age-of-generative-ai</link>
-        <dc:date>2026-05-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
