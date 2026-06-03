@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>一人称で開発 (yohei watanabe,@_watany)</title>
+        <link>https://www.docswell.com/s/watany/ZX6LE2-2026-01-30-102129</link>
+        <dc:date>2026-06-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>美味しいスイスチーズを作ろう🧀🐭 (Taiga Mikami)</title>
         <link>https://speakerdeck.com/taigamikami/mei-wei-siisuisutizuwozuo-rou</link>
         <dc:date>2026-06-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SRE チームの再出発 / ゆるSRE #16 (Miyazaki Taiga)</title>
         <link>https://speakerdeck.com/mk2taiga/yurusre-number-16</link>
-        <dc:date>2026-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>変化に強いテストを育てるSpringBootのレイヤー設計 (Takeshi Miyajima,@tmiyatech)</title>
-        <link>https://www.docswell.com/s/tmiya-tech/53JENE-2026-05-30-095125</link>
         <dc:date>2026-05-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
