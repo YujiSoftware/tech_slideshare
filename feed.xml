@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Dynamic Workersについて (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/dynamic-workersnituite</link>
+        <dc:date>2026-06-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コードレビューを制するチームがソフトウェアデリバリーのフローを制す / Beyond Code Review: Distributing Its Responsibilities Across the SDLC (mtx2s)</title>
         <link>https://speakerdeck.com/mtx2s/beyond-code-review-distributing-its-responsibilities-across-the-sdlc</link>
         <dc:date>2026-06-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ゆるくアラート作ってゆるくアラート消してゆるくSREしよう/EasygoingSRECreateAlerts__RemoveAlertsRepeat.pdf (Msksgm)</title>
         <link>https://speakerdeck.com/msksgm/easygoingsrecreatealerts-removealertsrepeat</link>
-        <dc:date>2026-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>拙者、『型は欲しいが型は書きたくない』者たちとの和睦を結び、るびぃにおける型の領地安堵を実現せんと欲す者也 #sekigahara01/sekigahara01 (Masatoshi Moritsuka)</title>
-        <link>https://speakerdeck.com/sanfrecce_osaka/sekigahara01</link>
         <dc:date>2026-05-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
