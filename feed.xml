@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サプライチェーンセキュリティの空白地帯 - 信頼できる”依存性”の未来を考える (Hiroki Suezawa (@rung))</title>
+        <link>https://speakerdeck.com/rung/20260604-supply-chain-security</link>
+        <dc:date>2026-06-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Dynamic Workersについて (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/dynamic-workersnituite</link>
         <dc:date>2026-06-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLM AgentでTRPGを動かしたら、Agentの地獄を（多分）全部見た (tanahiro2010)</title>
         <link>https://speakerdeck.com/tanahiro2010/llm-agentdetrpgwodong-kasitara-agentnodi-yu-wo-duo-fen-quan-bu-jian-ta</link>
-        <dc:date>2026-05-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゆるくアラート作ってゆるくアラート消してゆるくSREしよう/EasygoingSRECreateAlerts__RemoveAlertsRepeat.pdf (Msksgm)</title>
-        <link>https://speakerdeck.com/msksgm/easygoingsrecreatealerts-removealertsrepeat</link>
         <dc:date>2026-05-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
