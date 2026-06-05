@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>分析エージェントを作っている話</title>
+        <link>https://docs.google.com/presentation/d/18uGPiAPCZFb_MmGc6J1v5keZfpKk2oy15TYEcJcL6vc/preview</link>
+        <dc:date>2026-06-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「コーディング」しない人のための Claude Code 入門　ChatGPT の次の一歩 — 業務に組み込む 育成・共有・自動化 (ふくだ（fukuda ryu）)</title>
+        <link>https://speakerdeck.com/rfdnxbro/koteinku-sinairen-notameno-claude-code-ru-men-chatgpt-noci-no-bu-ye-wu-nizu-miip-mu-yu-cheng-gong-you-zi-dong-hua</link>
+        <dc:date>2026-06-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>もりもり新機能を一挙紹介！ AgentCoreに入門して、AWS上にAIエージェントを構築しよう (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/morimorixin-ji-neng-wo-ju-shao-jie-agentcoreniru-men-site-awsshang-niaiezientowogou-zhu-siyou</link>
+        <dc:date>2026-06-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Javaの型とAI時代に型が大事な理由 / java types and type in AI era (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/java-types-and-type-in-ai-era</link>
+        <dc:date>2026-06-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude code Orchestra (Taisei Ozaki)</title>
         <link>https://speakerdeck.com/ozakiomumkj/lthui-202606findyibento-dot-pptx-dot-pptx</link>
         <dc:date>2026-06-03T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>Oxcを導入して開発体験が向上した話 (Yuji Yamaguchi)</title>
         <link>https://speakerdeck.com/yug1224/2026-06-02</link>
         <dc:date>2026-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>速さだけじゃない！ VoidZero ツールが移行先に選ばれる理由 (mizdra)</title>
-        <link>https://speakerdeck.com/mizdra/voidzero-tools</link>
-        <dc:date>2026-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Oxlintのカスタムルールの現況 (syumai)</title>
-        <link>https://speakerdeck.com/syumai/oxlint-custom-rule</link>
-        <dc:date>2026-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>チュートリアル：世界モデル (Hironobu Fujiyoshi)</title>
-        <link>https://speakerdeck.com/hf149/tiyutoriaru-shi-jie-moderu</link>
-        <dc:date>2026-05-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIチームを指揮するOSS「TAKT」活用術 / How to Use “TAKT,” an OSS Tool for Orchestrating AI Teams (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/how-to-use-takt-an-oss-tool-for-orchestrating-ai-teams</link>
-        <dc:date>2026-05-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
