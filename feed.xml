@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【OpenClaw】VPSでセルフホストしているエージェントの作業を、人間にもLLMにも参照できる場所にしたメモ (laiso 𝕏,@laiso)</title>
+        <link>https://www.docswell.com/s/laiso/K27NXN-2026-06-05-152834</link>
+        <dc:date>2026-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIで効率化できた業務・日常 (Ochtum)</title>
         <link>https://speakerdeck.com/ochtum/aidexiao-lu-hua-dekitaye-wu-ri-chang</link>
         <dc:date>2026-06-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>トラッキングデータを用いた分析事例のご紹介 (DeNA_Tech,@DeNAxTech)</title>
         <link>https://www.docswell.com/s/DeNA_Tech/5Y8MJL-2026-06-01-151127</link>
-        <dc:date>2026-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バスケ試合映像からのトラッキングデータ生成 (DeNA_Tech,@DeNAxTech)</title>
-        <link>https://www.docswell.com/s/DeNA_Tech/ZR86R4-2026-06-02-151909</link>
         <dc:date>2026-06-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
