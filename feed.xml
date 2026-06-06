@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260606_なんでもCopilot_Copilotによる「Fabricのデータエージェント」と「Foundryで創る数理最適化エージェント」の協奏・共創・競争 (Masahide TAKASUKA,@mshdtksk)</title>
+        <link>https://www.docswell.com/s/3324212129/KJW873-2026-06-05-102721</link>
+        <dc:date>2026-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLMを使った個人wikiの作成と活用 〜AIとともに自分の知識も蓄えていく〜 (takahiro1ae)</title>
+        <link>https://speakerdeck.com/takahiro1ae/llmwoshi-tutage-ren-wikinozuo-cheng-tohuo-yong-aitotomonizi-fen-nozhi-shi-moxu-eteiku</link>
+        <dc:date>2026-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>探して_入れて_作って_使う_Agent_Skills___LT.pdf (松尾淳平)</title>
+        <link>https://speakerdeck.com/peintangos/tan-site-ru-rete-zuo-tute-shi-u-agent-skills-lt</link>
+        <dc:date>2026-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>メソッドのジェネリクスでGoの夢は広がるか？ / Kyoto.go #65 (utagawa kiki)</title>
+        <link>https://speakerdeck.com/utgwkk/kyoto-dot-go-number-65</link>
+        <dc:date>2026-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GoとSIMDとWasmの今。 (asuka)</title>
+        <link>https://speakerdeck.com/askua/gotosimdtowasmnojin</link>
+        <dc:date>2026-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代のUIはどこへ行く？その2！ (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/aishi-dai-nouihadokohexing-ku-sono2</link>
         <dc:date>2026-06-05T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>AI Adaptable なテストを整える工夫 / Ways to Make Your Tests AI-Adaptable (株式会社ビットキー / Bitkey Inc.)</title>
         <link>https://speakerdeck.com/bitkey/ways-to-make-your-tests-ai-adaptable</link>
         <dc:date>2026-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI フレンドリーなエラー監視を TypeScript で実現する (Shinobu Hayashi)</title>
-        <link>https://speakerdeck.com/shinyaigeek/ai-hurendorinaerajian-shi-wo-typescript-deshi-xian-suru</link>
-        <dc:date>2026-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新規プロダクトを高速で生み出すハーネスエンジニアリング (Ryohei Ikegami)</title>
-        <link>https://speakerdeck.com/seanchas116/xin-gui-purodakutowo-gao-su-desheng-michu-su-hanesuenziniaringu</link>
-        <dc:date>2026-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ワンダリア横浜画像認識AI 高品質な体験を磨き込むData-Centricな開発の実践 (DeNA_Tech,@DeNAxTech)</title>
-        <link>https://www.docswell.com/s/DeNA_Tech/57NJPW-2026-06-02-173351</link>
-        <dc:date>2026-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SAM 3 × アノテーション — ワンダリアアプリの画像認識AIを支える基盤作り (DeNA_Tech,@DeNAxTech)</title>
-        <link>https://www.docswell.com/s/DeNA_Tech/ZMQVDW-2026-06-02-204843</link>
-        <dc:date>2026-06-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>引き算で作る社内iPad受付システム (SALT2)</title>
-        <link>https://speakerdeck.com/salt2/yin-kisuan-dezuo-rushe-nei-ipadshou-fu-sisutemu</link>
-        <dc:date>2026-06-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
