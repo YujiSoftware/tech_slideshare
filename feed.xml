@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>作って学ぶ、 JSX (TSX) ランタイムの基本 (syumai)</title>
+        <link>https://speakerdeck.com/syumai/jsx-runtime-basics</link>
+        <dc:date>2026-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIプラットフォームを運用し続けるための可観測性 (tanimuyk)</title>
+        <link>https://speakerdeck.com/tanimuyk/aipuratutohuomuwoyun-yong-sisok-kerutamenoke-guan-ce-xing</link>
+        <dc:date>2026-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Mastering Ruby Box (Satoshi Tagomori)</title>
         <link>https://speakerdeck.com/tagomoris/mastering-ruby-box</link>
         <dc:date>2026-06-05T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>コードレビューを制するチームがソフトウェアデリバリーのフローを制す / Beyond Code Review: Distributing Its Responsibilities Across the SDLC (mtx2s)</title>
         <link>https://speakerdeck.com/mtx2s/beyond-code-review-distributing-its-responsibilities-across-the-sdlc</link>
         <dc:date>2026-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一人称で開発 (yohei watanabe,@_watany)</title>
-        <link>https://www.docswell.com/s/watany/ZX6LE2-2026-01-30-102129</link>
-        <dc:date>2026-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>美味しいスイスチーズを作ろう🧀🐭 (Taiga Mikami)</title>
-        <link>https://speakerdeck.com/taigamikami/mei-wei-siisuisutizuwozuo-rou</link>
-        <dc:date>2026-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
