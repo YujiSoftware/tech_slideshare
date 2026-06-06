@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>代数的データ型って何が嬉しいの？ #frontend_phpcon_do (Takuma Kajikawa)</title>
+        <link>https://speakerdeck.com/kajitack/why-algebraic-data-type</link>
+        <dc:date>2026-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>作って学ぶ、 JSX (TSX) ランタイムの基本 (syumai)</title>
         <link>https://speakerdeck.com/syumai/jsx-runtime-basics</link>
         <dc:date>2026-06-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Dynamic Workersについて (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/dynamic-workersnituite</link>
-        <dc:date>2026-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードレビューを制するチームがソフトウェアデリバリーのフローを制す / Beyond Code Review: Distributing Its Responsibilities Across the SDLC (mtx2s)</title>
-        <link>https://speakerdeck.com/mtx2s/beyond-code-review-distributing-its-responsibilities-across-the-sdlc</link>
         <dc:date>2026-06-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
