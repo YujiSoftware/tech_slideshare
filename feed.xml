@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Mastering Ruby Box (Satoshi Tagomori)</title>
+        <link>https://speakerdeck.com/tagomoris/mastering-ruby-box</link>
+        <dc:date>2026-06-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260606_なんでもCopilot_Copilotによる「Fabricのデータエージェント」と「Foundryで創る数理最適化エージェント」の協奏・共創・競争 (Masahide TAKASUKA,@mshdtksk)</title>
         <link>https://www.docswell.com/s/3324212129/KJW873-2026-06-05-102721</link>
         <dc:date>2026-06-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>美味しいスイスチーズを作ろう🧀🐭 (Taiga Mikami)</title>
         <link>https://speakerdeck.com/taigamikami/mei-wei-siisuisutizuwozuo-rou</link>
-        <dc:date>2026-06-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Adaptable なテストを整える工夫 / Ways to Make Your Tests AI-Adaptable (株式会社ビットキー / Bitkey Inc.)</title>
-        <link>https://speakerdeck.com/bitkey/ways-to-make-your-tests-ai-adaptable</link>
         <dc:date>2026-06-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
