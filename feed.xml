@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>縦串のAGENTS.mdと横串のAgent Skills (Masayuki Matsuki,@songmu)</title>
+        <link>https://www.docswell.com/s/Songmu/KN7VEP-agents-md-and-agent-skills</link>
+        <dc:date>2026-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>セマンティック概論 - #GoogleCloudNext '26 Recap  by @Kazaneya_PR / 20260604 (風音屋 (Kazaneya))</title>
+        <link>https://speakerdeck.com/kazaneya/20260604</link>
+        <dc:date>2026-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby::Boxでできること、Refinementsでできること (Tomohiro Hashidate)</title>
         <link>https://speakerdeck.com/joker1007/ruby-boxdedekirukoto-refinementsdedekirukoto</link>
         <dc:date>2026-06-06T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>もりもり新機能を一挙紹介！ AgentCoreに入門して、AWS上にAIエージェントを構築しよう (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/morimorixin-ji-neng-wo-ju-shao-jie-agentcoreniru-men-site-awsshang-niaiezientowogou-zhu-siyou</link>
         <dc:date>2026-06-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Javaの型とAI時代に型が大事な理由 / java types and type in AI era (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/java-types-and-type-in-ai-era</link>
-        <dc:date>2026-06-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude code Orchestra (Taisei Ozaki)</title>
-        <link>https://speakerdeck.com/ozakiomumkj/lthui-202606findyibento-dot-pptx-dot-pptx</link>
-        <dc:date>2026-06-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
