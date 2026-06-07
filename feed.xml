@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>関西に縁あるMicrosoft MVPsが語るCopilotの未来 (Kaz Asada | しがない情シス)</title>
+        <link>https://speakerdeck.com/kasada/guan-xi-niyuan-arumicrosoft-mvpsgayu-rucopilotnowei-lai</link>
+        <dc:date>2026-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>代数的データ型って何が嬉しいの？ #frontend_phpcon_do (Takuma Kajikawa)</title>
         <link>https://speakerdeck.com/kajitack/why-algebraic-data-type</link>
         <dc:date>2026-06-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サプライチェーンセキュリティの空白地帯 - 信頼できる”依存性”の未来を考える (Hiroki Suezawa (@rung))</title>
         <link>https://speakerdeck.com/rung/20260604-supply-chain-security</link>
-        <dc:date>2026-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Dynamic Workersについて (Yusuke Wada)</title>
-        <link>https://speakerdeck.com/yusukebe/dynamic-workersnituite</link>
         <dc:date>2026-06-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
