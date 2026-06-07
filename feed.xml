@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby::Boxでできること、Refinementsでできること (Tomohiro Hashidate)</title>
+        <link>https://speakerdeck.com/joker1007/ruby-boxdedekirukoto-refinementsdedekirukoto</link>
+        <dc:date>2026-06-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>React、まだ楽しくて草 (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/react-madale-sikutecao</link>
         <dc:date>2026-06-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Claude code Orchestra (Taisei Ozaki)</title>
         <link>https://speakerdeck.com/ozakiomumkj/lthui-202606findyibento-dot-pptx-dot-pptx</link>
-        <dc:date>2026-06-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Codex goal 機能を 業務で現実的に 活用する方法について (kuu(Fumiya Kume),@fumiya_kume)</title>
-        <link>https://www.docswell.com/s/fumiya-kume/ZJW8J3-2026-06-04-122209</link>
         <dc:date>2026-06-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
