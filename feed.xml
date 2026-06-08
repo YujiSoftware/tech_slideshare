@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>dRuby over BLE (makicamel)</title>
+        <link>https://speakerdeck.com/makicamel/druby-over-ble</link>
+        <dc:date>2026-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「気づいたら仕事が終わっている」バクラクAIエージェント本番運用の裏側 / layerx-bakuraku-aie2026 (Yuya Matsumura)</title>
+        <link>https://speakerdeck.com/yuya4/layerx-bakuraku-aie2026</link>
+        <dc:date>2026-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>正しくソフトウェアを作る、前提を疑うための認知の視点 / doubt-premise (MinoDriven)</title>
         <link>https://speakerdeck.com/minodriven/doubt-premise</link>
         <dc:date>2026-06-07T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>【OpenClaw】VPSでセルフホストしているエージェントの作業を、人間にもLLMにも参照できる場所にしたメモ (laiso 𝕏,@laiso)</title>
         <link>https://www.docswell.com/s/laiso/K27NXN-2026-06-05-152834</link>
         <dc:date>2026-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIで効率化できた業務・日常 (Ochtum)</title>
-        <link>https://speakerdeck.com/ochtum/aidexiao-lu-hua-dekitaye-wu-ri-chang</link>
-        <dc:date>2026-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>分析エージェントを作っている話</title>
-        <link>https://docs.google.com/presentation/d/18uGPiAPCZFb_MmGc6J1v5keZfpKk2oy15TYEcJcL6vc/preview</link>
-        <dc:date>2026-06-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
