@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>正しくソフトウェアを作る、前提を疑うための認知の視点 / doubt-premise (MinoDriven)</title>
+        <link>https://speakerdeck.com/minodriven/doubt-premise</link>
+        <dc:date>2026-06-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AIを活用した脆弱性調査 @ GMO IERAE HackNight #4 「AI時代のセキュリティ攻防戦」 (GMOサイバーセキュリティ byイエラエ株式会社)</title>
         <link>https://www.docswell.com/s/ierae/KQ29DV-hacknight04-os</link>
         <dc:date>2026-06-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>分析エージェントを作っている話</title>
         <link>https://docs.google.com/presentation/d/18uGPiAPCZFb_MmGc6J1v5keZfpKk2oy15TYEcJcL6vc/preview</link>
-        <dc:date>2026-06-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「コーディング」しない人のための Claude Code 入門　ChatGPT の次の一歩 — 業務に組み込む 育成・共有・自動化 (ふくだ（fukuda ryu）)</title>
-        <link>https://speakerdeck.com/rfdnxbro/koteinku-sinairen-notameno-claude-code-ru-men-chatgpt-noci-no-bu-ye-wu-nizu-miip-mu-yu-cheng-gong-you-zi-dong-hua</link>
         <dc:date>2026-06-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
