@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Fabric 外部データ共有を試してわかったこと ~テナント間共有の便利さとガバナンスリスク~ (大竹礼二（REIJI OTAKE）)</title>
+        <link>https://speakerdeck.com/reireireijinjin6/fabric-wai-bu-detagong-you-woshi-sitewakatutakoto-tenantojian-gong-you-nobian-li-satogabanansurisuku</link>
+        <dc:date>2026-06-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>制約を表現する型を書く (yuta-ike)</title>
         <link>https://www.docswell.com/s/4136989/KN79JV-tskaigi-side-event-20260609</link>
         <dc:date>2026-06-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Ruby::Boxでできること、Refinementsでできること (Tomohiro Hashidate)</title>
         <link>https://speakerdeck.com/joker1007/ruby-boxdedekirukoto-refinementsdedekirukoto</link>
-        <dc:date>2026-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React、まだ楽しくて草 (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/react-madale-sikutecao</link>
         <dc:date>2026-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
