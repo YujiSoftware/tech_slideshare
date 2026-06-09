@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Longhorn - v1.2.2 - Shuo Wu.pptx</title>
+        <link>https://docs.google.com/presentation/d/1Yic8B1BbKpS54opaPYI7Cv1_EhpK2hKJ/preview</link>
+        <dc:date>2026-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>正しい実装,間違った仕様書 (Masahiro Yamane)</title>
         <link>https://speakerdeck.com/hirosuban_/zheng-siishi-zhuang-jian-wei-tutashi-yang-shu</link>
         <dc:date>2026-06-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>作って学ぶ、 JSX (TSX) ランタイムの基本 (syumai)</title>
         <link>https://speakerdeck.com/syumai/jsx-runtime-basics</link>
-        <dc:date>2026-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIプラットフォームを運用し続けるための可観測性 (tanimuyk)</title>
-        <link>https://speakerdeck.com/tanimuyk/aipuratutohuomuwoyun-yong-sisok-kerutamenoke-guan-ce-xing</link>
         <dc:date>2026-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
