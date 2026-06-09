@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>営業が普段使いしているCopilot in Excel (工場長,@superkojochou)</title>
+        <link>https://www.docswell.com/s/superkojochou/54N436-2026-06-07-220600</link>
+        <dc:date>2026-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLM本来の能力を解き放つサンドボックス技術とAI民主化への適用 (Yuku Kotani)</title>
         <link>https://speakerdeck.com/yukukotani/unleash-true-potential-of-llm-with-sandbox</link>
         <dc:date>2026-06-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>メソッドのジェネリクスでGoの夢は広がるか？ / Kyoto.go #65 (utagawa kiki)</title>
         <link>https://speakerdeck.com/utgwkk/kyoto-dot-go-number-65</link>
-        <dc:date>2026-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoとSIMDとWasmの今。 (asuka)</title>
-        <link>https://speakerdeck.com/askua/gotosimdtowasmnojin</link>
         <dc:date>2026-06-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
