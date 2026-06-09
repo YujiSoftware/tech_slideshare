@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>正しい実装,間違った仕様書 (Masahiro Yamane)</title>
+        <link>https://speakerdeck.com/hirosuban_/zheng-siishi-zhuang-jian-wei-tutashi-yang-shu</link>
+        <dc:date>2026-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>特徴量エンジニアリングの自動化 (SALT2)</title>
+        <link>https://speakerdeck.com/salt2/te-zheng-liang-enziniaringunozi-dong-hua</link>
+        <dc:date>2026-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>加齢で記憶力が落ちてきた私が、obsidian × claude codeで育つ第二の脳をつくった話 (Naoko Shinagawa)</title>
+        <link>https://speakerdeck.com/ratsbane666/jia-ling-deji-yi-li-galuo-titekitasi-ga-obsidian-x-claude-codedeyu-tudi-er-nonoy-wotukututahua</link>
+        <dc:date>2026-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanオンラインワークショップ - Postman入門 - 20260609</title>
+        <link>https://docs.google.com/presentation/d/1Ds8NJgtTOWGR730zFpXpHoRAvyHks5RNevslHideCtA/preview</link>
+        <dc:date>2026-06-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュリティの専門家じゃなくてもできる。「セキュリティ意識」をアップデートして サプライチェーン攻撃への耐性を高めよう。 (tk3fftk)</title>
         <link>https://speakerdeck.com/tk3fftk/sekiyuriteinozhuan-men-jia-ziyanakutemodekiru-sekiyuriteiyi-shi-woatupudetosite-sapuraitiengong-ji-henonai-xing-wogao-meyou</link>
         <dc:date>2026-06-08T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>AIプラットフォームを運用し続けるための可観測性 (tanimuyk)</title>
         <link>https://speakerdeck.com/tanimuyk/aipuratutohuomuwoyun-yong-sisok-kerutamenoke-guan-ce-xing</link>
         <dc:date>2026-06-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Mastering Ruby Box (Satoshi Tagomori)</title>
-        <link>https://speakerdeck.com/tagomoris/mastering-ruby-box</link>
-        <dc:date>2026-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260606_なんでもCopilot_Copilotによる「Fabricのデータエージェント」と「Foundryで創る数理最適化エージェント」の協奏・共創・競争 (Masahide TAKASUKA,@mshdtksk)</title>
-        <link>https://www.docswell.com/s/3324212129/KJW873-2026-06-05-102721</link>
-        <dc:date>2026-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMを使った個人wikiの作成と活用 〜AIとともに自分の知識も蓄えていく〜 (takahiro1ae)</title>
-        <link>https://speakerdeck.com/takahiro1ae/llmwoshi-tutage-ren-wikinozuo-cheng-tohuo-yong-aitotomonizi-fen-nozhi-shi-moxu-eteiku</link>
-        <dc:date>2026-06-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>探して_入れて_作って_使う_Agent_Skills___LT.pdf (松尾淳平)</title>
-        <link>https://speakerdeck.com/peintangos/tan-site-ru-rete-zuo-tute-shi-u-agent-skills-lt</link>
-        <dc:date>2026-06-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
