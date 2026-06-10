@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人間中心の意思決定支援AI (Yukino Baba)</title>
+        <link>https://speakerdeck.com/yukinobaba/human-ai-decision-making</link>
+        <dc:date>2026-06-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「AIで開発し、AIを届ける」をEvalでつなぐ   〜AIネイティブに始めるプロダクト開発の実践〜 / Connecting "Develop with AI, deliver AI" with Eval (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/connecting-develop-with-ai-deliver-ai-with-eval</link>
         <dc:date>2026-06-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>縦串のAGENTS.mdと横串のAgent Skills (Masayuki Matsuki,@songmu)</title>
         <link>https://www.docswell.com/s/Songmu/KN7VEP-agents-md-and-agent-skills</link>
-        <dc:date>2026-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セマンティック概論 - #GoogleCloudNext '26 Recap  by @Kazaneya_PR / 20260604 (風音屋 (Kazaneya))</title>
-        <link>https://speakerdeck.com/kazaneya/20260604</link>
         <dc:date>2026-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
