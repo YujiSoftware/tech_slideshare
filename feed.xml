@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「AIで開発し、AIを届ける」をEvalでつなぐ   〜AIネイティブに始めるプロダクト開発の実践〜 / Connecting "Develop with AI, deliver AI" with Eval (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/connecting-develop-with-ai-deliver-ai-with-eval</link>
+        <dc:date>2026-06-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Fabric 外部データ共有を試してわかったこと ~テナント間共有の便利さとガバナンスリスク~ (大竹礼二（REIJI OTAKE）)</title>
         <link>https://speakerdeck.com/reireireijinjin6/fabric-wai-bu-detagong-you-woshi-sitewakatutakoto-tenantojian-gong-you-nobian-li-satogabanansurisuku</link>
         <dc:date>2026-06-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>セマンティック概論 - #GoogleCloudNext '26 Recap  by @Kazaneya_PR / 20260604 (風音屋 (Kazaneya))</title>
         <link>https://speakerdeck.com/kazaneya/20260604</link>
         <dc:date>2026-06-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby::Boxでできること、Refinementsでできること (Tomohiro Hashidate)</title>
-        <link>https://speakerdeck.com/joker1007/ruby-boxdedekirukoto-refinementsdedekirukoto</link>
-        <dc:date>2026-06-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
