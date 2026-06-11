@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テスティング、話はそれからだ (もっくま,@mot0aki)</title>
+        <link>https://www.docswell.com/s/mot0aki/ZN799V-2026-06-11-204703</link>
+        <dc:date>2026-06-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>monorepo.pdf (Suzu Ito)</title>
+        <link>https://speakerdeck.com/suzuito/monorepo</link>
+        <dc:date>2026-06-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>越境するAIのために、境界を取り払う - AI 時代の開発体験向上に向けたリポジトリ統合の取り組み - (shibutani)</title>
+        <link>https://speakerdeck.com/shibukazu/yue-jing-suruainotameni-jing-jie-woqu-rifu-u-ai-shi-dai-nokai-fa-ti-yan-xiang-shang-nixiang-ketaripozitoritong-he-noqu-rizu-mi</link>
+        <dc:date>2026-06-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>The NotImplementedError Problem in Ruby (Koichi ITO)</title>
         <link>https://speakerdeck.com/koic/the-notimplementederror-problem-in-ruby</link>
         <dc:date>2026-06-10T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Postmanオンラインワークショップ - Postman入門 - 20260609</title>
         <link>https://docs.google.com/presentation/d/1Ds8NJgtTOWGR730zFpXpHoRAvyHks5RNevslHideCtA/preview</link>
-        <dc:date>2026-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティの専門家じゃなくてもできる。「セキュリティ意識」をアップデートして サプライチェーン攻撃への耐性を高めよう。 (tk3fftk)</title>
-        <link>https://speakerdeck.com/tk3fftk/sekiyuriteinozhuan-men-jia-ziyanakutemodekiru-sekiyuriteiyi-shi-woatupudetosite-sapuraitiengong-ji-henonai-xing-wogao-meyou</link>
-        <dc:date>2026-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>営業が普段使いしているCopilot in Excel (工場長,@superkojochou)</title>
-        <link>https://www.docswell.com/s/superkojochou/54N436-2026-06-07-220600</link>
-        <dc:date>2026-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM本来の能力を解き放つサンドボックス技術とAI民主化への適用 (Yuku Kotani)</title>
-        <link>https://speakerdeck.com/yukukotani/unleash-true-potential-of-llm-with-sandbox</link>
         <dc:date>2026-06-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
