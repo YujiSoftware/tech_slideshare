@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The NotImplementedError Problem in Ruby (Koichi ITO)</title>
+        <link>https://speakerdeck.com/koic/the-notimplementederror-problem-in-ruby</link>
+        <dc:date>2026-06-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2026-06-10 MIERUNE JCT #03 / GeoParquetはほんとうにCloud Optimizedなのか？</title>
         <link>https://docs.google.com/presentation/d/1z6d49Ezc83OWo0bOEpilYFiZVdOd3IfjEC6qyetW03E/preview</link>
         <dc:date>2026-06-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>LLM本来の能力を解き放つサンドボックス技術とAI民主化への適用 (Yuku Kotani)</title>
         <link>https://speakerdeck.com/yukukotani/unleash-true-potential-of-llm-with-sandbox</link>
         <dc:date>2026-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI活用を推進するために ファインディが下した、一つの小さな決断 (starfish719)</title>
-        <link>https://speakerdeck.com/starfish719/aihuo-yong-wotui-jin-surutameni-huaindeigaxia-sita-tunoxiao-sanajue-duan</link>
-        <dc:date>2026-06-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
