@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI駆動開発が変える、大規模開発の前提 ーHuman in the Loop から Human on the Loop へ / AIE2026 (Visional Engineering ＆ Design)</title>
+        <link>https://speakerdeck.com/visional_engineering_and_design/aie2026</link>
+        <dc:date>2026-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コンテキストの使い捨てをやめる — ビジネスルール駆動開発と miko — (ioki)</title>
         <link>https://speakerdeck.com/ioki/kontekisutonoshi-ishe-tewoyameru-bizinesururuqu-dong-kai-fa-to-miko</link>
         <dc:date>2026-06-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>人間中心の意思決定支援AI (Yukino Baba)</title>
         <link>https://speakerdeck.com/yukinobaba/human-ai-decision-making</link>
-        <dc:date>2026-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「AIで開発し、AIを届ける」をEvalでつなぐ   〜AIネイティブに始めるプロダクト開発の実践〜 / Connecting "Develop with AI, deliver AI" with Eval (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/connecting-develop-with-ai-deliver-ai-with-eval</link>
         <dc:date>2026-06-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
