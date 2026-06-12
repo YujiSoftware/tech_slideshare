@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コンテキストの使い捨てをやめる — ビジネスルール駆動開発と miko — (ioki)</title>
+        <link>https://speakerdeck.com/ioki/kontekisutonoshi-ishe-tewoyameru-bizinesururuqu-dong-kai-fa-to-miko</link>
+        <dc:date>2026-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Skillsは効率化、Agentsは"自分の拡張"——Builder時代のエージェント編成（CC Night 2026） (Hiroki Uemura)</title>
+        <link>https://speakerdeck.com/wemra/skillshaxiao-lu-hua-agentsha-zi-fen-nokuo-zhang-buildershi-dai-noezientobian-cheng-cc-night-2026</link>
+        <dc:date>2026-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>声を活用するプロダクト開発 (chihiro sakai)</title>
+        <link>https://speakerdeck.com/chihiroski/sheng-wohuo-yong-surupurodakutokai-fa</link>
+        <dc:date>2026-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>それ、マークダウンで書くのやめませんか？ 2026年初夏 (shoichiro)</title>
+        <link>https://speakerdeck.com/shoichiro/sore-makudaundeshu-kunoyamemasenka-2026nian-chu-xia</link>
+        <dc:date>2026-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code×Terraform IaC テンプレート駆動開発 (Itou Hideki)</title>
+        <link>https://speakerdeck.com/itouhi/claude-codexterraform-iac-tenpuretoqu-dong-kai-fa</link>
+        <dc:date>2026-06-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【AI Engineering Summit 2026│JAPAN AI株式会社】「AI で実装は速くなった プロダクトは良くなっただろうか」 (JAPAN AI株式会社)</title>
         <link>https://speakerdeck.com/japan_ai/ai-engineering-summit-2026-japan-ai-sponsor-session-dot-pptx</link>
         <dc:date>2026-06-11T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>「AIで開発し、AIを届ける」をEvalでつなぐ   〜AIネイティブに始めるプロダクト開発の実践〜 / Connecting "Develop with AI, deliver AI" with Eval (r-kagaya)</title>
         <link>https://speakerdeck.com/rkaga/connecting-develop-with-ai-deliver-ai-with-eval</link>
         <dc:date>2026-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fabric 外部データ共有を試してわかったこと ~テナント間共有の便利さとガバナンスリスク~ (大竹礼二（REIJI OTAKE）)</title>
-        <link>https://speakerdeck.com/reireireijinjin6/fabric-wai-bu-detagong-you-woshi-sitewakatutakoto-tenantojian-gong-you-nobian-li-satogabanansurisuku</link>
-        <dc:date>2026-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>制約を表現する型を書く (yuta-ike)</title>
-        <link>https://www.docswell.com/s/4136989/KN79JV-tskaigi-side-event-20260609</link>
-        <dc:date>2026-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>価格.comをAI駆動で全面刷新する  ー 30年分の技術的負債を返し、次の30年の土台をつくる ー (tkyowa)</title>
-        <link>https://speakerdeck.com/tkyowa/kakaku-com-ai-driven-system-renewal-0fc7e978-0e39-4bba-93eb-17cd56ecd1c1</link>
-        <dc:date>2026-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実装は速くなった、レビューはどうする？ ― 自身のレビューをAIで再現させるサーヴァントエンジニアリングのすゝめ / Implementation got faster. So what about reviews? — An invitation to Servant Engineering: Recreating your own code reviews with AI (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/implementation-got-faster-so-what-about-reviews-an-invitation-to-servant-engineering-recreating-your-own-code-reviews-with-ai</link>
-        <dc:date>2026-06-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Longhorn - v1.2.2 - Shuo Wu.pptx</title>
-        <link>https://docs.google.com/presentation/d/1Yic8B1BbKpS54opaPYI7Cv1_EhpK2hKJ/preview</link>
-        <dc:date>2026-06-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
