@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>EventBridge Connection (kensh)</title>
+        <link>https://speakerdeck.com/_kensh/eventbridge-connection</link>
+        <dc:date>2026-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260613_Railsを触ってみよう！</title>
+        <link>https://docs.google.com/presentation/d/1xTuZuPDckF7rPKvvsSmqf3iSYmTryCyg_apuyplK-kA/preview</link>
+        <dc:date>2026-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PostgreSQL 19 の概要 (Haruka Takatsuka)</title>
+        <link>https://www.docswell.com/s/harukat/KGN2W9-2026-06-13-154358</link>
+        <dc:date>2026-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>bandcampsyncで音楽を同期する - KoedoLUG 2026/06 (Taro Matsuzawa aka. btm,@smellman)</title>
+        <link>https://www.docswell.com/s/smellman/Z9NM21-2026-06-13-koedolug-bandcampsync</link>
+        <dc:date>2026-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI丸投げマイクロマウス開発</title>
+        <link>https://docs.google.com/presentation/d/1tIvm_boXWKgTXBXearljHEOz3eMmlzt3Xc8sC0XEcG0/preview</link>
+        <dc:date>2026-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LT-大阪電気通信大学自由工房の紹介</title>
+        <link>https://docs.google.com/presentation/d/1mnkA8pSPHy-E2TsPDTfVgIx-Xli0CkJ_JH66fmVgAVU/preview</link>
+        <dc:date>2026-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SIer20年！ 培ったスキルがスタートアップで輝く時 (しゅういちろ)</title>
+        <link>https://speakerdeck.com/shucho0103/from-sier-to-startup-unleashing-20-years-of-mastered-skills</link>
+        <dc:date>2026-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「証明はAC」で済ませない 〜Leanで競技プログラミング〜 (KowerKoint)</title>
+        <link>https://speakerdeck.com/kowerkoint/zheng-ming-haac-deji-masenai-leandejing-ji-puroguramingu</link>
+        <dc:date>2026-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>シェーダーもGoで書く！ Ebitengineで作る リアルタイムGPUシェーダーエディタ (cyokozai)</title>
+        <link>https://speakerdeck.com/yusuke427/siedamogodeshu-ku-ebitenginedezuo-ru-riarutaimugpusiedaedeita</link>
+        <dc:date>2026-06-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>新規事業を牽引する技術選定 〜フルスタックTypeScript開発の実践事例〜 (Katsuma Narisawa)</title>
         <link>https://speakerdeck.com/nullnull/xin-gui-shi-ye-woqian-yin-suruji-shu-xuan-ding-hurusutatukutypescriptkai-fa-noshi-jian-shi-li</link>
         <dc:date>2026-06-12T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>LLMと共に進化するプロセスを目指して (y_matsuwitter)</title>
         <link>https://speakerdeck.com/ymatsuwitter/llmtogong-nijin-hua-surupurosesuwomu-zhi-site</link>
         <dc:date>2026-06-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスティング、話はそれからだ (もっくま,@mot0aki)</title>
-        <link>https://www.docswell.com/s/mot0aki/ZN799V-2026-06-11-204703</link>
-        <dc:date>2026-06-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>monorepo.pdf (Suzu Ito)</title>
-        <link>https://speakerdeck.com/suzuito/monorepo</link>
-        <dc:date>2026-06-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>越境するAIのために、境界を取り払う - AI 時代の開発体験向上に向けたリポジトリ統合の取り組み - (shibutani)</title>
-        <link>https://speakerdeck.com/shibukazu/yue-jing-suruainotameni-jing-jie-woqu-rifu-u-ai-shi-dai-nokai-fa-ti-yan-xiang-shang-nixiang-ketaripozitoritong-he-noqu-rizu-mi</link>
-        <dc:date>2026-06-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The NotImplementedError Problem in Ruby (Koichi ITO)</title>
-        <link>https://speakerdeck.com/koic/the-notimplementederror-problem-in-ruby</link>
-        <dc:date>2026-06-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026-06-10 MIERUNE JCT #03 / GeoParquetはほんとうにCloud Optimizedなのか？</title>
-        <link>https://docs.google.com/presentation/d/1z6d49Ezc83OWo0bOEpilYFiZVdOd3IfjEC6qyetW03E/preview</link>
-        <dc:date>2026-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>国土数値情報 道路データがひらく空間分析​― オープンデータ × 経路探索で広がる可能性 ― (Yohei Shiwaku,@shi__works)</title>
-        <link>https://www.docswell.com/s/shi-works/KMQ6VX-2026-06-10-205515</link>
-        <dc:date>2026-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MIERUNE JCT 発表資料「宇宙から伊能忠敬ごっこ」 (じゃらしまる)</title>
-        <link>https://speakerdeck.com/syuchimu/mierune-jct-fa-biao-zi-liao-yu-zhou-karayi-neng-zhong-jing-kotuko</link>
-        <dc:date>2026-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>決定論的オーケストレーションの設計と実装 / Design and Implementation of Deterministic Orchestration (nrs)</title>
-        <link>https://speakerdeck.com/nrslib/design-and-implementation-of-deterministic-orchestration</link>
-        <dc:date>2026-06-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TAKTでAI駆動開発の品質を設計する (かとじゅん)</title>
-        <link>https://speakerdeck.com/j5ik2o/taktdeaiqu-dong-kai-fa-nopin-zhi-woshe-ji-suru</link>
-        <dc:date>2026-06-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
