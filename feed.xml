@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>機能を作るな。楽して作るな。 （LayerX社内資料） Don’t Build Features. Don’t Take the Easy Way Out. (mosa)</title>
+        <link>https://speakerdeck.com/mosa_siru/don-t-build-features-dot-don-t-take-the-easy-way-out</link>
+        <dc:date>2026-06-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Djangoユーザが知っ得なPostgreSQL機能  - 設計の選択肢を増やす / Djang-use-PostgreSQL (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/djang-use-postgresql</link>
         <dc:date>2026-06-14T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AI駆動開発が変える、大規模開発の前提 ーHuman in the Loop から Human on the Loop へ / AIE2026 (Visional Engineering ＆ Design)</title>
         <link>https://speakerdeck.com/visional_engineering_and_design/aie2026</link>
         <dc:date>2026-06-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテキストの使い捨てをやめる — ビジネスルール駆動開発と miko — (ioki)</title>
-        <link>https://speakerdeck.com/ioki/kontekisutonoshi-ishe-tewoyameru-bizinesururuqu-dong-kai-fa-to-miko</link>
-        <dc:date>2026-06-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
