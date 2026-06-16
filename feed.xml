@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIの性能が向上しても未解決な組織の重大問題は何か?/An Unsolved Organizational Problem in the Age of AI (moriyuya)</title>
+        <link>https://speakerdeck.com/moriyuya/an-unsolved-organizational-problem-in-the-age-of-ai</link>
+        <dc:date>2026-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>FDE という解 ― 暗黙知と明示知をつなぐ、伴走型エンジニアリング ― (太田 博三)</title>
         <link>https://speakerdeck.com/otanet/fde-toiujie-an-mo-zhi-toming-shi-zhi-wotunagu-ban-zou-xing-enziniaringu</link>
         <dc:date>2026-06-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>機能を作るな。楽して作るな。 （LayerX社内資料） Don’t Build Features. Don’t Take the Easy Way Out. (mosa)</title>
         <link>https://speakerdeck.com/mosa_siru/don-t-build-features-dot-don-t-take-the-easy-way-out</link>
-        <dc:date>2026-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Djangoユーザが知っ得なPostgreSQL機能  - 設計の選択肢を増やす / Djang-use-PostgreSQL (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/djang-use-postgresql</link>
         <dc:date>2026-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
