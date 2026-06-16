@@ -6,6 +6,61 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Socrates × Looker　〜セマンティックレイヤーで進化するデータ分析エージェント〜 (Uchide Hiroki(ucchi-))</title>
+        <link>https://speakerdeck.com/hanon52_/socrates-x-looker-semanteitukureiyadejin-hua-surudetafen-xi-eziento</link>
+        <dc:date>2026-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Snowflakeと仲良くなる第一歩 (あべ)</title>
+        <link>https://speakerdeck.com/coco_se/snowflaketozhong-liang-kunarudi-bu</link>
+        <dc:date>2026-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIでQAをシフトレフトする話。　　「テストケースにする前の不明点を見つけるの」 (Egawa Saori)</title>
+        <link>https://www.slideshare.net/slideshow/ai-qa/288089646</link>
+        <dc:date>2026-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agentforce 業務設計ワークシート (yuto shiraishi)</title>
+        <link>https://www.docswell.com/s/Ansuke/K27QER-2026-06-16-094304</link>
+        <dc:date>2026-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>やさしいA2A入門 (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/yasasiia2aru-men</link>
+        <dc:date>2026-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI Agent Skills運用：プロバイダー非依存とメンテナンス設計 (SALT2)</title>
+        <link>https://speakerdeck.com/salt2/ai-agent-skillsyun-yong-purobaidafei-yi-cun-tomentenansushe-ji</link>
+        <dc:date>2026-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIっぽい文章を採点して人間らしく直すアプリを作ってみた (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/aitupoiwen-zhang-wocai-dian-siteren-jian-rasikuzhi-suapuriwozuo-tutemita</link>
+        <dc:date>2026-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Bedrock AgentCore RuntimeでAuth0 Changelog調査AIをアップグレードした話 (t.t)</title>
+        <link>https://speakerdeck.com/t5u8a5a/bedrock-agentcore-runtimeteauth0-changelogdiao-cha-aiwoatuhukuretositahua</link>
+        <dc:date>2026-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>On-behalf-of Token exchange with AgentCore Identity (iganin)</title>
+        <link>https://speakerdeck.com/hironobuiga/on-behalf-of-token-exchange-with-agentcore-identity</link>
+        <dc:date>2026-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>社内 AI エージェント Synapse と セマンティックレイヤーの育て方 (Hiroaki Sano)</title>
+        <link>https://speakerdeck.com/hiroakis/she-nei-ai-eziento-synapse-to-semanteitukureiyanoyu-tefang</link>
+        <dc:date>2026-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>作って終わりにしない タイミーのセマンティックレイヤー育成の現在地 (chanyou0311)</title>
+        <link>https://speakerdeck.com/chanyou0311/zuo-tutezhong-warinisinai-taiminosemanteitukureiyayu-cheng-noxian-zai-di</link>
+        <dc:date>2026-06-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアリング戦略の作り方 / Crafting Engineering Strategy (iwashi)</title>
         <link>https://speakerdeck.com/iwashi86/crafting-engineering-strategy</link>
         <dc:date>2026-06-15T15:00:00Z</dc:date>
@@ -49,60 +104,5 @@
         <title>突然スクラムマスターになったあなたへ 〜若手が最初にぶつかる不安と、その乗り越え方〜 (Takumu Ide,@idee_tm)</title>
         <link>https://www.docswell.com/s/idee_tm/KGNQWQ-2026-05-26-184159</link>
         <dc:date>2026-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>元パティシエの Windows Server構築RTA (5分で構築するよ) (エンジニアと錯覚した竹ちゃん)</title>
-        <link>https://speakerdeck.com/takenoko729/yuan-pateisieno-windows-servergou-zhu-rta-5fen-degou-zhu-suruyo</link>
-        <dc:date>2026-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Bedrock AgentCore ワークショップ JAWS UG TOHOKU / amazon-bedrock-agentcore-workshop-jawsug-tohoku-2026 (geeawa)</title>
-        <link>https://speakerdeck.com/gawa/amazon-bedrock-agentcore-workshop-jawsug-tohoku-2026</link>
-        <dc:date>2026-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10倍の生産性を実現するAI駆動並列エージェントのすべて (熊井悠)</title>
-        <link>https://speakerdeck.com/kumaiu/10bei-nosheng-chan-xing-woshi-xian-suruaiqu-dong-bing-lie-ezientonosubete</link>
-        <dc:date>2026-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「計算できている」vs.「計算できそうにない」の境界線は現状どこにあるのか</title>
-        <link>https://docs.google.com/presentation/d/1FQs4dA9HZWDihXKiZ18z-GaIwif58tMa3IV0tlMbsPM/preview</link>
-        <dc:date>2026-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ループエンジニアリングで再考する仕様書駆動開発 (laiso 𝕏,@laiso)</title>
-        <link>https://www.docswell.com/s/laiso/ZY8VG4-sdd-in-loop-engineering</link>
-        <dc:date>2026-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Scout時代のSIer進化論 (naoki0311,@naoki0311)</title>
-        <link>https://www.docswell.com/s/naoki0311/527QW7-2026-06-13-080545</link>
-        <dc:date>2026-06-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EventBridge Connection (kensh)</title>
-        <link>https://speakerdeck.com/_kensh/eventbridge-connection</link>
-        <dc:date>2026-06-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260613_Railsを触ってみよう！</title>
-        <link>https://docs.google.com/presentation/d/1xTuZuPDckF7rPKvvsSmqf3iSYmTryCyg_apuyplK-kA/preview</link>
-        <dc:date>2026-06-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQL 19 の概要 (Haruka Takatsuka)</title>
-        <link>https://www.docswell.com/s/harukat/KGN2W9-2026-06-13-154358</link>
-        <dc:date>2026-06-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>bandcampsyncで音楽を同期する - KoedoLUG 2026/06 (Taro Matsuzawa aka. btm,@smellman)</title>
-        <link>https://www.docswell.com/s/smellman/Z9NM21-2026-06-13-koedolug-bandcampsync</link>
-        <dc:date>2026-06-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI丸投げマイクロマウス開発</title>
-        <link>https://docs.google.com/presentation/d/1tIvm_boXWKgTXBXearljHEOz3eMmlzt3Xc8sC0XEcG0/preview</link>
-        <dc:date>2026-06-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
