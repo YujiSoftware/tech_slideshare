@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FDE という解 ― 暗黙知と明示知をつなぐ、伴走型エンジニアリング ― (太田 博三)</title>
+        <link>https://speakerdeck.com/otanet/fde-toiujie-an-mo-zhi-toming-shi-zhi-wotunagu-ban-zou-xing-enziniaringu</link>
+        <dc:date>2026-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Socrates × Looker　〜セマンティックレイヤーで進化するデータ分析エージェント〜 (Uchide Hiroki(ucchi-))</title>
         <link>https://speakerdeck.com/hanon52_/socrates-x-looker-semanteitukureiyadejin-hua-surudetafen-xi-eziento</link>
         <dc:date>2026-06-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Djangoユーザが知っ得なPostgreSQL機能  - 設計の選択肢を増やす / Djang-use-PostgreSQL (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/djang-use-postgresql</link>
-        <dc:date>2026-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>突然スクラムマスターになったあなたへ 〜若手が最初にぶつかる不安と、その乗り越え方〜 (Takumu Ide,@idee_tm)</title>
-        <link>https://www.docswell.com/s/idee_tm/KGNQWQ-2026-05-26-184159</link>
         <dc:date>2026-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
