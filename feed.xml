@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kiro CLIで始めるECS構築 (Kobayashi-Riku)</title>
+        <link>https://speakerdeck.com/rikukobayashi/kiro-clideshi-meruecsgou-zhu</link>
+        <dc:date>2026-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260617第37回オープンエッジデバイス研究会</title>
+        <link>https://docs.google.com/presentation/d/1VmEPKZNpb_wUxLtTospZlEcRHjLy9pt8LTaMJTvAtQE/preview</link>
+        <dc:date>2026-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>整備して終わりにしない - CI/CD + CL でハーネスを育てる仕組み  合わせる (菅本隆文)</title>
+        <link>https://speakerdeck.com/sugamoto/cd-plus-cl-dehanesuwoyu-terushi-zu-mi-he-waseru</link>
+        <dc:date>2026-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Androidアプリ開発者のKaigiEffect (CookieySun)</title>
+        <link>https://speakerdeck.com/kktyu/androidapurikai-fa-zhe-nokaigieffect</link>
+        <dc:date>2026-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260617_AIの可能性を広めよう_MCP入門 (eXpresser)</title>
+        <link>https://www.docswell.com/s/eXpresser-UXM/Z9NMD7-20260617-MCP</link>
+        <dc:date>2026-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Expanding the Potential of AI: An Introduction to MCP (eXpresser)</title>
+        <link>https://www.docswell.com/s/eXpresser-UXM/K8NWD7-20260617-MCP</link>
+        <dc:date>2026-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Contextとはなにか (chiroruxx)</title>
+        <link>https://speakerdeck.com/chiroruxx/contexttohananika</link>
+        <dc:date>2026-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>利用率が低い組織に2クリックプロンプトで挑む (やなぎだ)</title>
+        <link>https://speakerdeck.com/y4nag1d/li-yong-lu-kadi-izu-zhi-ni2kuritukuhuronhutotetiao-mu</link>
+        <dc:date>2026-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Android の公式 Skill / Android skills (Yuki Anzai)</title>
+        <link>https://speakerdeck.com/yanzm/android-skills</link>
+        <dc:date>2026-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SMS送信の新たな選択肢、AWS End User Messaging SMSのご紹介 (miruky)</title>
+        <link>https://speakerdeck.com/miruky/smssong-xin-noxin-tanaxuan-ze-zhi-aws-end-user-messaging-smsnogoshao-jie</link>
+        <dc:date>2026-06-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>小さくはじめるSLI/SLO ～育てながら組織に定着させる実践知～ / Starting Small with SLI/SLOs: Building Adoption Through Continuous Growth (Narimichi Takamura)</title>
         <link>https://speakerdeck.com/nari_ex/slos-building-adoption-through-continuous-growth</link>
         <dc:date>2026-06-16T15:00:00Z</dc:date>
@@ -54,55 +104,5 @@
         <title>AIっぽい文章を採点して人間らしく直すアプリを作ってみた (Yuuki Yamashita)</title>
         <link>https://speakerdeck.com/yama3133/aitupoiwen-zhang-wocai-dian-siteren-jian-rasikuzhi-suapuriwozuo-tutemita</link>
         <dc:date>2026-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bedrock AgentCore RuntimeでAuth0 Changelog調査AIをアップグレードした話 (t.t)</title>
-        <link>https://speakerdeck.com/t5u8a5a/bedrock-agentcore-runtimeteauth0-changelogdiao-cha-aiwoatuhukuretositahua</link>
-        <dc:date>2026-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>On-behalf-of Token exchange with AgentCore Identity (iganin)</title>
-        <link>https://speakerdeck.com/hironobuiga/on-behalf-of-token-exchange-with-agentcore-identity</link>
-        <dc:date>2026-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>社内 AI エージェント Synapse と セマンティックレイヤーの育て方 (Hiroaki Sano)</title>
-        <link>https://speakerdeck.com/hiroakis/she-nei-ai-eziento-synapse-to-semanteitukureiyanoyu-tefang</link>
-        <dc:date>2026-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>作って終わりにしない タイミーのセマンティックレイヤー育成の現在地 (chanyou0311)</title>
-        <link>https://speakerdeck.com/chanyou0311/zuo-tutezhong-warinisinai-taiminosemanteitukureiyayu-cheng-noxian-zai-di</link>
-        <dc:date>2026-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアリング戦略の作り方 / Crafting Engineering Strategy (iwashi)</title>
-        <link>https://speakerdeck.com/iwashi86/crafting-engineering-strategy</link>
-        <dc:date>2026-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FableはすごいがローカルPCで動くLLMも活用していきたい.pdf (松尾淳平)</title>
-        <link>https://speakerdeck.com/peintangos/fablehasukoikarokarupctedong-kullmmohuo-yong-siteikitai</link>
-        <dc:date>2026-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIで技術発表スライドを作るコツ (laiso 𝕏,@laiso)</title>
-        <link>https://www.docswell.com/s/laiso/Z8NW69-tech-slide-authoring-with-ai</link>
-        <dc:date>2026-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RSA暗号を手計算したくなること、ありますよね？？ (20260615_orestudy6_rsa) (Koki Senda)</title>
-        <link>https://speakerdeck.com/thousanda/20260615-orestudy6-rsa</link>
-        <dc:date>2026-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>平成のjQueryに令和のJSXを (murasuke,@tkyk20928788)</title>
-        <link>https://www.docswell.com/s/4962106/ZMQ638-2026-06-15-201630</link>
-        <dc:date>2026-06-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>人工生命 #5 協力行動 (たけ,@logta15)</title>
-        <link>https://www.docswell.com/s/take/KJWQR1-2026-06-15-175707</link>
-        <dc:date>2026-06-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
