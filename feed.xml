@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>アーキテクチャー設計と 生成AIによるTerraform IaC テンプレートの作り方 AWS (Itou Hideki)</title>
+        <link>https://speakerdeck.com/itouhi/akitekutiyashe-ji-to-sheng-cheng-ainiyoruterraform-iac-tenpuretonozuo-rifang-aws</link>
+        <dc:date>2026-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>新卒一年目のコミュニティ駆動ライフ_新卒N年目のLT交流会.pdf (ItoJum)</title>
+        <link>https://speakerdeck.com/itojum/xin-zu-nian-mu-nokomiyuniteiqu-dong-raihu-xin-zu-nnian-mu-noltjiao-liu-hui-2f35e2bf-cf9f-4c43-be81-00245e5616a6</link>
+        <dc:date>2026-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>現地で盛り上がった WWDC26 Keynote (ZOZO Developers)</title>
+        <link>https://speakerdeck.com/zozotech/wwdc26-keynote</link>
+        <dc:date>2026-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kiroで書いた 設計書 が AI レビューの 採点基準 になる (shinji ezaki)</title>
+        <link>https://speakerdeck.com/ezaki/kirodeshu-ita-she-ji-shu-ga-ai-rebiyuno-cai-dian-ji-zhun-ninaru</link>
+        <dc:date>2026-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>小さく始める AI 活用推進 ― 日経電子版 Web チームの事例/nikkei-tech-talk47 (日本経済新聞社 エンジニア採用事務局)</title>
+        <link>https://speakerdeck.com/nikkei_engineer_recruiting/nikkei-tech-talk47</link>
+        <dc:date>2026-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>どこまでを引き受けるのか — 変わり続ける役割と、変わらない思考法 / How Much We Take On — Evolving Roles and Enduring Ways of Thinking (nrs)</title>
         <link>https://speakerdeck.com/nrslib/how-much-we-take-on-evolving-roles-and-enduring-ways-of-thinking</link>
         <dc:date>2026-06-17T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>小さくはじめるSLI/SLO ～育てながら組織に定着させる実践知～ / Starting Small with SLI/SLOs: Building Adoption Through Continuous Growth (Narimichi Takamura)</title>
         <link>https://speakerdeck.com/nari_ex/slos-building-adoption-through-continuous-growth</link>
         <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIの性能が向上しても未解決な組織の重大問題は何か?/An Unsolved Organizational Problem in the Age of AI (moriyuya)</title>
-        <link>https://speakerdeck.com/moriyuya/an-unsolved-organizational-problem-in-the-age-of-ai</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FDE という解 ― 暗黙知と明示知をつなぐ、伴走型エンジニアリング ― (太田 博三)</title>
-        <link>https://speakerdeck.com/otanet/fde-toiujie-an-mo-zhi-toming-shi-zhi-wotunagu-ban-zou-xing-enziniaringu</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Socrates × Looker　〜セマンティックレイヤーで進化するデータ分析エージェント〜 (Uchide Hiroki(ucchi-))</title>
-        <link>https://speakerdeck.com/hanon52_/socrates-x-looker-semanteitukureiyadejin-hua-surudetafen-xi-eziento</link>
-        <dc:date>2026-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Snowflakeと仲良くなる第一歩 (あべ)</title>
-        <link>https://speakerdeck.com/coco_se/snowflaketozhong-liang-kunarudi-bu</link>
-        <dc:date>2026-06-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIでQAをシフトレフトする話。　　「テストケースにする前の不明点を見つけるの」 (Egawa Saori)</title>
-        <link>https://www.slideshare.net/slideshow/ai-qa/288089646</link>
-        <dc:date>2026-06-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
