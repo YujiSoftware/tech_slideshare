@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>チームパフォーマンスを高めるための2種類のセルフマネジメント / Two Types of Self-Management for Improving Team Performance (iwashi)</title>
+        <link>https://speakerdeck.com/iwashi86/two-types-of-self-management-for-improving-team-performance</link>
+        <dc:date>2026-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロジェクト失敗につながる地雷ワード (ぶんちん)</title>
+        <link>https://speakerdeck.com/bunnchinn3/puroziekutoshi-bai-nitunagarudi-lei-wado</link>
+        <dc:date>2026-06-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アーキテクチャー設計と 生成AIによるTerraform IaC テンプレートの作り方 AWS (Itou Hideki)</title>
         <link>https://speakerdeck.com/itouhi/akitekutiyashe-ji-to-sheng-cheng-ainiyoruterraform-iac-tenpuretonozuo-rifang-aws</link>
         <dc:date>2026-06-17T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Android の公式 Skill / Android skills (Yuki Anzai)</title>
         <link>https://speakerdeck.com/yanzm/android-skills</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SMS送信の新たな選択肢、AWS End User Messaging SMSのご紹介 (miruky)</title>
-        <link>https://speakerdeck.com/miruky/smssong-xin-noxin-tanaxuan-ze-zhi-aws-end-user-messaging-smsnogoshao-jie</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>小さくはじめるSLI/SLO ～育てながら組織に定着させる実践知～ / Starting Small with SLI/SLOs: Building Adoption Through Continuous Growth (Narimichi Takamura)</title>
-        <link>https://speakerdeck.com/nari_ex/slos-building-adoption-through-continuous-growth</link>
         <dc:date>2026-06-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
