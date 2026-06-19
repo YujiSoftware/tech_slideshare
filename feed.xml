@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>攻撃者視点で考えるDetection Engineering (Ruslan Sayfiev)</title>
+        <link>https://speakerdeck.com/cryptopeg/gong-ji-zhe-shi-dian-dekao-erudetection-engineering</link>
+        <dc:date>2026-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>pnpmでできるサプライチェーン攻撃への備え / Pnpm Security Practices (Daichi KUDO)</title>
         <link>https://speakerdeck.com/da1chi/pnpm-security-practices</link>
         <dc:date>2026-06-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20260617_AIの可能性を広めよう_MCP入門 (eXpresser)</title>
         <link>https://www.docswell.com/s/eXpresser-UXM/Z9NMD7-20260617-MCP</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Expanding the Potential of AI: An Introduction to MCP (eXpresser)</title>
-        <link>https://www.docswell.com/s/eXpresser-UXM/K8NWD7-20260617-MCP</link>
         <dc:date>2026-06-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
