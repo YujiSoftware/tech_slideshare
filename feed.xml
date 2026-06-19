@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自作JavaScriptランタイムを作るための5分レシピ (Ryu)</title>
+        <link>https://speakerdeck.com/ryuapp/zi-zuo-javascriptrantaimuwozuo-rutameno5fen-resipi</link>
+        <dc:date>2026-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>続・BlueskyとXにクロスポストするツールを作った / 20260619-niigata-5min-tech (girigiribauer)</title>
+        <link>https://speakerdeck.com/girigiribauer/20260619-niigata-5min-tech</link>
+        <dc:date>2026-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ALBの疎通確認をWebサーバーなしでやる (jhashimoto)</title>
+        <link>https://speakerdeck.com/jhashimoto/alb-target-test</link>
+        <dc:date>2026-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Unity6.5におけるUnity Physics (nuskey,@nuskey8)</title>
+        <link>https://www.docswell.com/s/nuskey/57N42D-unity65-physics</link>
+        <dc:date>2026-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ローカルLLMでどこまでコードが書けるか -拡張版 /　How much code can be written on a local LLM Extended  (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-extended</link>
+        <dc:date>2026-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Reflection@C++26 (dechimal,@decimalbloat)</title>
+        <link>https://www.docswell.com/s/dechimal/K7N4PD-2026-06-19-013514</link>
+        <dc:date>2026-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260619 私の日常業務での生成 AI 活用 (Masaru Ogura)</title>
+        <link>https://speakerdeck.com/masaruogura/20260619-si-nori-chang-ye-wu-denosheng-cheng-ai-huo-yong</link>
+        <dc:date>2026-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GTX1080TIよお前はまだ戦える (のーひこ,@nohikomiso)</title>
+        <link>https://www.docswell.com/s/nohikomiso/ZQ2XD7-2026-06-19-192800</link>
+        <dc:date>2026-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>攻撃者視点で考えるDetection Engineering (Ruslan Sayfiev)</title>
         <link>https://speakerdeck.com/cryptopeg/gong-ji-zhe-shi-dian-dekao-erudetection-engineering</link>
         <dc:date>2026-06-18T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>どこまでを引き受けるのか — 変わり続ける役割と、変わらない思考法 / How Much We Take On — Evolving Roles and Enduring Ways of Thinking (nrs)</title>
         <link>https://speakerdeck.com/nrslib/how-much-we-take-on-evolving-roles-and-enduring-ways-of-thinking</link>
         <dc:date>2026-06-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「エンジニア進化論」2028年の開発完全自動化、エンジニアはどう進化するか (CyberAgent)</title>
-        <link>https://speakerdeck.com/cyberagentdevelopers/the-evolution-of-engineers</link>
-        <dc:date>2026-06-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>その問い、本当に正しいですか？AI時代のエンジニアに必要な哲学と認知科学 / ai-philosophy-cognitive-science (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/ai-philosophy-cognitive-science</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ Platform Engineering の土台に Kubernetes を選ぶのか (Ray)</title>
-        <link>https://speakerdeck.com/r4ynode/naze-platform-engineering-notu-tai-ni-kubernetes-woxuan-bunoka</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kiro CLIで始めるECS構築 (Kobayashi-Riku)</title>
-        <link>https://speakerdeck.com/rikukobayashi/kiro-clideshi-meruecsgou-zhu</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260617第37回オープンエッジデバイス研究会</title>
-        <link>https://docs.google.com/presentation/d/1VmEPKZNpb_wUxLtTospZlEcRHjLy9pt8LTaMJTvAtQE/preview</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>整備して終わりにしない - CI/CD + CL でハーネスを育てる仕組み  合わせる (菅本隆文)</title>
-        <link>https://speakerdeck.com/sugamoto/cd-plus-cl-dehanesuwoyu-terushi-zu-mi-he-waseru</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Androidアプリ開発者のKaigiEffect (CookieySun)</title>
-        <link>https://speakerdeck.com/kktyu/androidapurikai-fa-zhe-nokaigieffect</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260617_AIの可能性を広めよう_MCP入門 (eXpresser)</title>
-        <link>https://www.docswell.com/s/eXpresser-UXM/Z9NMD7-20260617-MCP</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
