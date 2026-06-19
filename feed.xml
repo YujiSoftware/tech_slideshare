@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>pnpmでできるサプライチェーン攻撃への備え / Pnpm Security Practices (Daichi KUDO)</title>
+        <link>https://speakerdeck.com/da1chi/pnpm-security-practices</link>
+        <dc:date>2026-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>脆弱性対応、どこで線を引くか (ryoji miyamoto)</title>
         <link>https://speakerdeck.com/rymiyamoto/cui-ruo-xing-dui-ying-dokodexian-woyin-kuka</link>
         <dc:date>2026-06-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Expanding the Potential of AI: An Introduction to MCP (eXpresser)</title>
         <link>https://www.docswell.com/s/eXpresser-UXM/K8NWD7-20260617-MCP</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Contextとはなにか (chiroruxx)</title>
-        <link>https://speakerdeck.com/chiroruxx/contexttohananika</link>
         <dc:date>2026-06-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
