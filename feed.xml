@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>脆弱性対応、どこで線を引くか (ryoji miyamoto)</title>
+        <link>https://speakerdeck.com/rymiyamoto/cui-ruo-xing-dui-ying-dokodexian-woyin-kuka</link>
+        <dc:date>2026-06-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>仮想化基盤の管理者権限をClaude Codeに与えてみると何ができるか (Ken Sasaki,@sasakipochi)</title>
         <link>https://www.docswell.com/s/sasakipochi/527Q6R-ClaudeCode-on-VMinfra-2026-06-19</link>
         <dc:date>2026-06-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Contextとはなにか (chiroruxx)</title>
         <link>https://speakerdeck.com/chiroruxx/contexttohananika</link>
-        <dc:date>2026-06-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>利用率が低い組織に2クリックプロンプトで挑む (やなぎだ)</title>
-        <link>https://speakerdeck.com/y4nag1d/li-yong-lu-kadi-izu-zhi-ni2kuritukuhuronhutotetiao-mu</link>
         <dc:date>2026-06-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
