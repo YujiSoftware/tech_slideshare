@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Enum 徹底入門 (hirotaka kono,@hk_it7)</title>
+        <link>https://www.docswell.com/s/hk_it7/Z8NMQ1-2026-05-30-075434</link>
+        <dc:date>2026-06-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI駆動開発を通して感じた、 AI時代のデザイナーの役割変化 (WHIsaiyo)</title>
         <link>https://speakerdeck.com/whisaiyo/whidevelopers-linklight20260618</link>
         <dc:date>2026-06-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>現地で盛り上がった WWDC26 Keynote (ZOZO Developers)</title>
         <link>https://speakerdeck.com/zozotech/wwdc26-keynote</link>
-        <dc:date>2026-06-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kiroで書いた 設計書 が AI レビューの 採点基準 になる (shinji ezaki)</title>
-        <link>https://speakerdeck.com/ezaki/kirodeshu-ita-she-ji-shu-ga-ai-rebiyuno-cai-dian-ji-zhun-ninaru</link>
         <dc:date>2026-06-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
