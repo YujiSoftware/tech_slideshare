@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Postmanオンラインワークショップ - API認証 - 20260623</title>
+        <link>https://docs.google.com/presentation/d/1rdDZW72zeJMKL4CNR_z32iQ1KpST15oMB1gjI1TVk6o/preview</link>
+        <dc:date>2026-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIが自走し切れるかは_ハーネス_で決まる___気づいたら直す_ではなく_仕組み_にする__.pdf (スナガク)</title>
+        <link>https://speakerdeck.com/sunagaku/aikazi-zou-siqie-rerukaha-hanesu-tejue-maru-qi-tuitarazhi-su-tehanaku-shi-zu-mi-nisuru</link>
+        <dc:date>2026-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SteampipeとExcel Power QueryでAWS構成定義書の作成を自動化する (jhashimoto)</title>
+        <link>https://speakerdeck.com/jhashimoto/steampipe-powerquery-aws-configdoc</link>
+        <dc:date>2026-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS Security Agent といっしょに脅威モデリングをやってみよう (amarelo_n24)</title>
+        <link>https://speakerdeck.com/amarelo_n24/aws-security-agent-toitusiyonixie-wei-moderinguwoyatutemiyou</link>
+        <dc:date>2026-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSにおける公開APIのリノベーション術/cariot-jaws-ug-lunch-36 (Cariot)</title>
+        <link>https://speakerdeck.com/cariotinc/cariot-jaws-ug-lunch-36</link>
+        <dc:date>2026-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Copilot 最新アップデート –  「一歩先」の実践活用術 (zhang.william)</title>
+        <link>https://speakerdeck.com/moulongzhang/github-copilot-zui-xin-atupudeto-bu-xian-noshi-jian-huo-yong-shu</link>
+        <dc:date>2026-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Honoでのサプライチェーン侵害対策  〜 3つのライブラリに学ぶ (Yusuke Wada)</title>
         <link>https://speakerdeck.com/yusukebe/honodenosapuraitienqin-hai-dui-ce-3tunoraiburarinixue-bu</link>
         <dc:date>2026-06-22T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>自宅仮想基盤 ハード障害と仮想化で遊ぶ おうちインフラ編 (K_Nitori0221,@K_Nitori0221)</title>
         <link>https://www.docswell.com/s/K_Nitori0221/ZJWQ7V-2026-06-20-192807</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生活に溶け込むAI ~AIアシスタントを自作しよう〜 (からあげ,@karaage0703)</title>
-        <link>https://www.docswell.com/s/karaage0703/Z1Q3DV-2026-06-20-142707</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>打倒A◯◯a Voice! 音声入力アプリを作ってみた (Yuuki Yamashita)</title>
-        <link>https://speakerdeck.com/yama3133/da-dao-aooa-voice-yin-sheng-ru-li-apuriwozuo-tutemita</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Card Clashで遊んでみた (阿部健太郎)</title>
-        <link>https://www.docswell.com/s/6073979229/5GN28X-2026-06-20-151329</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自作プログラミング言語 「Clambon（クラムボン）」を みんなで見てみる会</title>
-        <link>https://docs.google.com/presentation/d/14AVXkaQJP_CTxGP05Q2N3bXsPD5zHLexCeibb0UqN7k/preview</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>長時間動画QAにおけるマルチエージェント推論 ・SVAgent: Storyline-Guided Long Video Understanding via Cross-Modal Multi-Agent Collaboration (村川卓也)</title>
-        <link>https://speakerdeck.com/murakawatakuya/chang-shi-jian-dong-hua-qaniokerumarutiezientotui-lun-svagent-storyline-guided-long-video-understanding-via-cross-modal-multi-agent-collaboration</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CVPR2026論文紹介_VLMにとって​良いvision encoderとは何か？​Rethinking Model Selection in VLM Through the Lens of Gromov-Wasserstein Distance​ (小林優斗)</title>
-        <link>https://speakerdeck.com/kobayashi31/cvpr2026lun-wen-shao-jie-vlmnitotuteliang-ivision-encodertohahe-ka-rethinking-model-selection-in-vlm-through-the-lens-of-gromov-wasserstein-distance</link>
         <dc:date>2026-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
