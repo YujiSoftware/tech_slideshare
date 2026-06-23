@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Honoでのサプライチェーン侵害対策  〜 3つのライブラリに学ぶ (Yusuke Wada)</title>
+        <link>https://speakerdeck.com/yusukebe/honodenosapuraitienqin-hai-dui-ce-3tunoraiburarinixue-bu</link>
+        <dc:date>2026-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SaaSがこの先生きのこるには #2 (mtsuka)</title>
         <link>https://speakerdeck.com/mtsuka/saasgakonoxian-sheng-kinokoruniha-number-2</link>
         <dc:date>2026-06-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CVPR2026論文紹介_VLMにとって​良いvision encoderとは何か？​Rethinking Model Selection in VLM Through the Lens of Gromov-Wasserstein Distance​ (小林優斗)</title>
         <link>https://speakerdeck.com/kobayashi31/cvpr2026lun-wen-shao-jie-vlmnitotuteliang-ivision-encodertohahe-ka-rethinking-model-selection-in-vlm-through-the-lens-of-gromov-wasserstein-distance</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>学生がLLMと一緒に業務システム開発やってみた (Jugesuke,@jugesuke)</title>
-        <link>https://www.docswell.com/s/Jugesuke/Z6NEXW-2026-06-20-ltfesfun</link>
         <dc:date>2026-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
