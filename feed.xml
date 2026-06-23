@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JavaDoc 再入門 (nagise)</title>
+        <link>https://speakerdeck.com/nagise/javadoc-zai-ru-men</link>
+        <dc:date>2026-06-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Postmanオンラインワークショップ - API認証 - 20260623</title>
         <link>https://docs.google.com/presentation/d/1rdDZW72zeJMKL4CNR_z32iQ1KpST15oMB1gjI1TVk6o/preview</link>
         <dc:date>2026-06-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自宅LLMの話 (Kazuto Kusama)</title>
         <link>https://speakerdeck.com/jacopen/zi-zhai-llmnohua</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自宅仮想基盤 ハード障害と仮想化で遊ぶ おうちインフラ編 (K_Nitori0221,@K_Nitori0221)</title>
-        <link>https://www.docswell.com/s/K_Nitori0221/ZJWQ7V-2026-06-20-192807</link>
         <dc:date>2026-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
