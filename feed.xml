@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ウェルスナビのマルチサービス化を支える技術  〜Spring Cloud GatewayとPub/Subの実践〜 (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
+        <link>https://www.docswell.com/s/WN_Tech-PR/5MQV6J-2026-05-30</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大規模なメトリクス収集の仕組みをアーキテクチャ変更して得た学び (Masanori Tani,@uta8a)</title>
+        <link>https://www.docswell.com/s/uta8a/KJW81E-2026-05-30-jjug-spring-2026</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ビジネスルールを型システムで表現する (Yohei Kajiro)</title>
+        <link>https://www.docswell.com/s/yoheiyohei4/57NJ3N-business-rules-in-the-type-system</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PDMU CONTEXT</title>
+        <link>https://docs.google.com/presentation/d/10xphIHeHCC9iU9uPkbel8fThXBVtzOhL26SOON81i_4/preview</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue.jsで利用できるUIライブラリを知る (iwami_r)</title>
+        <link>https://speakerdeck.com/iwami_r/vue-dot-jsdeli-yong-dekiruuiraiburariwozhi-ru</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>はじめてのDatabricksもくもく会 (Takaaki Yayoi)</title>
+        <link>https://speakerdeck.com/taka_aki/hasimetenodatabricksmokumokuhui</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JavaDoc 再入門 (nagise)</title>
         <link>https://speakerdeck.com/nagise/javadoc-zai-ru-men</link>
         <dc:date>2026-06-22T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>MMA-LT.pptx</title>
         <link>https://docs.google.com/presentation/d/199sfXr1mbXxrg_3bglbZtpU7hS0sQv-N/preview</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Wio BG770A v1.0 -&amp;gt; v1.1 (MATSUOKA Takashi,@matsujirushi12)</title>
-        <link>https://www.docswell.com/s/matsujirushi/5PRGN4-2026-06-20-161026</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自宅サーバの変遷 (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/zi-zhai-sabanobian-qian</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバーメモリは難しい (YutaSudo)</title>
-        <link>https://speakerdeck.com/dochin2635/sabamemorihanan-sii</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>予算10000円から始める自宅サーバー / start diy server with in 10000 yen (Ryusei Ohkura)</title>
-        <link>https://speakerdeck.com/3l4l5/start-diy-server-with-in-10000-yen</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バックアップとLTO (zin3)</title>
-        <link>https://speakerdeck.com/zin3/batukuatuputolto</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自宅LLMの話 (Kazuto Kusama)</title>
-        <link>https://speakerdeck.com/jacopen/zi-zhai-llmnohua</link>
         <dc:date>2026-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
