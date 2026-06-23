@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LayerX  コーポレートエンジニアリング室におけるサプライチェーンセキュリティへの取り組み / Supply Chain Security at LayerX Corporate Engineering (Yuya Takeyama)</title>
+        <link>https://speakerdeck.com/yuyatakeyama/supply-chain-security-at-layerx-corporate-engineering</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ウェルスナビのマルチサービス化を支える技術  〜Spring Cloud GatewayとPub/Subの実践〜 (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
         <link>https://www.docswell.com/s/WN_Tech-PR/5MQV6J-2026-05-30</link>
         <dc:date>2026-06-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>fukuoka_sre_0_jmaki.pdf (j-maki)</title>
         <link>https://speakerdeck.com/jmakk0301/fukuoka-sre-0-jmaki</link>
         <dc:date>2026-06-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MMA-LT.pptx</title>
-        <link>https://docs.google.com/presentation/d/199sfXr1mbXxrg_3bglbZtpU7hS0sQv-N/preview</link>
-        <dc:date>2026-06-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
