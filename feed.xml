@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Lightning近況報告 (Koji NAKAMURA)</title>
+        <link>https://speakerdeck.com/kozy4324/lightningjin-kuang-bao-gao</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Transactional Outbox Pattern を使ったデータ連携方法の紹介 (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
+        <link>https://www.docswell.com/s/WN_Tech-PR/5Q221J-2026-06-24</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>一冊の本が変えた、型システムの使い方 (Yohei Kajiro)</title>
+        <link>https://www.docswell.com/s/yoheiyohei4/ZR882N-one-book-changed-how-i-use-types</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rubyでゲームを作りたい (matsudai)</title>
+        <link>https://speakerdeck.com/matsudai/rubydegemuwozuo-ritai</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>非機能要件_Viewパフォーマンス改善 (Takuto Yoshimi)</title>
+        <link>https://www.docswell.com/s/8259287/K7NNG8-2026-06-24-200147</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CDKで実現する Iot 管理体制 (Inoue Kazuki)</title>
+        <link>https://www.docswell.com/s/kazuki-inoue/ZJWW9M-2026-06-24-201115</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure Functionsの同時実行数を減らして処理速度を改善した話 (saeki)</title>
+        <link>https://speakerdeck.com/hisashi_saeki/azure-functionsnotong-shi-shi-xing-shu-wojian-rasitechu-li-su-du-wogai-shan-sitahua</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIAU_UMEMOGU_ninomiya_slide (ninomiya)</title>
+        <link>https://speakerdeck.com/ninomiya_ii/aiau-umemogu-ninomiya-slide</link>
+        <dc:date>2026-06-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【2026年版】 ベクトル検索䛸 Embedding最前線 (Tomoko Uchida)</title>
         <link>https://speakerdeck.com/mocobeta/2026nian-ban-bekutorujian-suo-embeddingzui-qian-xian</link>
         <dc:date>2026-06-23T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>Postmanオンラインワークショップ - API認証 - 20260623</title>
         <link>https://docs.google.com/presentation/d/1rdDZW72zeJMKL4CNR_z32iQ1KpST15oMB1gjI1TVk6o/preview</link>
         <dc:date>2026-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIが自走し切れるかは_ハーネス_で決まる___気づいたら直す_ではなく_仕組み_にする__.pdf (スナガク)</title>
-        <link>https://speakerdeck.com/sunagaku/aikazi-zou-siqie-rerukaha-hanesu-tejue-maru-qi-tuitarazhi-su-tehanaku-shi-zu-mi-nisuru</link>
-        <dc:date>2026-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SteampipeとExcel Power QueryでAWS構成定義書の作成を自動化する (jhashimoto)</title>
-        <link>https://speakerdeck.com/jhashimoto/steampipe-powerquery-aws-configdoc</link>
-        <dc:date>2026-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Security Agent といっしょに脅威モデリングをやってみよう (amarelo_n24)</title>
-        <link>https://speakerdeck.com/amarelo_n24/aws-security-agent-toitusiyonixie-wei-moderinguwoyatutemiyou</link>
-        <dc:date>2026-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSにおける公開APIのリノベーション術/cariot-jaws-ug-lunch-36 (Cariot)</title>
-        <link>https://speakerdeck.com/cariotinc/cariot-jaws-ug-lunch-36</link>
-        <dc:date>2026-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilot 最新アップデート –  「一歩先」の実践活用術 (zhang.william)</title>
-        <link>https://speakerdeck.com/moulongzhang/github-copilot-zui-xin-atupudeto-bu-xian-noshi-jian-huo-yong-shu</link>
-        <dc:date>2026-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Honoでのサプライチェーン侵害対策  〜 3つのライブラリに学ぶ (Yusuke Wada)</title>
-        <link>https://speakerdeck.com/yusukebe/honodenosapuraitienqin-hai-dui-ce-3tunoraiburarinixue-bu</link>
-        <dc:date>2026-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SaaSがこの先生きのこるには #2 (mtsuka)</title>
-        <link>https://speakerdeck.com/mtsuka/saasgakonoxian-sheng-kinokoruniha-number-2</link>
-        <dc:date>2026-06-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Testflight - iOS27 でのAppleIntelligenceの強化 (notoroid)</title>
-        <link>https://speakerdeck.com/notoroid/testflight-ios27-denoappleintelligencenoqiang-hua</link>
-        <dc:date>2026-06-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
