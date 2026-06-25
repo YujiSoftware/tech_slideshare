@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Zenoh on Zephyr on LiteX (takasehideki)</title>
+        <link>https://speakerdeck.com/takasehideki/zenoh-on-zephyr-on-litex</link>
+        <dc:date>2026-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kova Polygon Address</title>
+        <link>https://docs.google.com/spreadsheets/d/1eARSPL4fHbDtRL1FXbCkfl8xNdxNmL-H6qQPRwqUfYc/preview</link>
+        <dc:date>2026-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JSAI2026ランチョンセミナー登壇テーマ「AIと挑む確定申告」/Tackling Tax Returns with AI (yayoi_dd)</title>
         <link>https://speakerdeck.com/yayoi_dd/tackling-tax-returns-with-ai</link>
         <dc:date>2026-06-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>一冊の本が変えた、型システムの使い方 (Yohei Kajiro)</title>
         <link>https://www.docswell.com/s/yoheiyohei4/ZR882N-one-book-changed-how-i-use-types</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rubyでゲームを作りたい (matsudai)</title>
-        <link>https://speakerdeck.com/matsudai/rubydegemuwozuo-ritai</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非機能要件_Viewパフォーマンス改善 (Takuto Yoshimi)</title>
-        <link>https://www.docswell.com/s/8259287/K7NNG8-2026-06-24-200147</link>
         <dc:date>2026-06-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
