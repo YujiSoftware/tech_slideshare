@@ -6,6 +6,76 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JSAI2026ランチョンセミナー登壇テーマ「AIと挑む確定申告」/Tackling Tax Returns with AI (yayoi_dd)</title>
+        <link>https://speakerdeck.com/yayoi_dd/tackling-tax-returns-with-ai</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>勘定科目の推論機能における運用/Operations of Account Category Inference (yayoi_dd)</title>
+        <link>https://speakerdeck.com/yayoi_dd/operations-of-account-category-inference</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260625_Outlook の返信下書きを自動生成する - Power Automate × Azure OpenAI で考える M365 拡張 (yutakaosada)</title>
+        <link>https://speakerdeck.com/yutakaosada/20260625-outlook-nofan-xin-xia-shu-kiwozi-dong-sheng-cheng-suru-power-automate-x-azure-openai-dekao-eru-m365-kuo-zhang</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>千葉での単身赴任からAWSをやり続け、千葉に戻ってきた話 (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/qian-xie-denodan-shen-fu-ren-karaawswoyarisok-ke-qian-xie-nili-tutekitahua</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS DevOps Agent使ってみて結構いいかもと思った話 (Kobayashi-Riku)</title>
+        <link>https://speakerdeck.com/rikukobayashi/aws-devops-agentshi-tutemitejie-gou-iikamotosi-tutahua</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Google Apps ScirptでDiscord botを動かしたら動かなくなったので何とかした話 (かわしも（Shimokawa Shion）)</title>
+        <link>https://speakerdeck.com/kawashimo0/google-apps-scirptdediscord-botwodong-kasitaradong-kanakunatutanodehe-tokasitahua</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIチャットの改善から見えた、良いAI体験とは / What Constitutes a Good AI Experience: Insights from Improving AI Chat (Masatoshi Kubode)</title>
+        <link>https://speakerdeck.com/kubode/what-constitutes-a-good-ai-experience-insights-from-improving-ai-chat</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フィードバックで育てるAI開発 (Kota Minato)</title>
+        <link>https://speakerdeck.com/kotaminato/huidobatukudeyu-teruaikai-fa</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIを活用したE2Eテスト実装効率化のあゆみ / ebisu-mobile-14-kotetu (kotetu (kotetuco))</title>
+        <link>https://speakerdeck.com/kotetuco/ebisu-mobile-14-kotetu</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>iOS アプリの「これって不具合ですか？」を AI に調べてもらう (Yuki Miida)</title>
+        <link>https://speakerdeck.com/miichan/ios-apurino-koretutebu-ju-he-desuka-wo-ai-nidiao-betemorau</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHPでやってみる機械学習〜SVM編〜 (ずみ)</title>
+        <link>https://speakerdeck.com/chihiroyoshizumi/phpdeyatutemiruji-jie-xue-xi-svmbian</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Let’s Encryptのフォールバック先について #ツナギメオフライン.8 (akase244)</title>
+        <link>https://speakerdeck.com/akase244/lets-encryptnohuorubatukuxian-nituite-number-tunagimeohurain-dot-8</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OpenID Connectによるサービス間連携 (Shigeki Shoji)</title>
+        <link>https://speakerdeck.com/takesection/openid-connectniyorusabisujian-lian-xi-5f9f460a-dbb6-4f50-9c44-2829661db1ab</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜ型を書くのか？ TSKaigi2026で改めて考える #tskaigi_smarthr (Takuma Kajikawa)</title>
+        <link>https://speakerdeck.com/kajitack/tskaigimeetup-why-write-types</link>
+        <dc:date>2026-06-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIチャット検索改善の3週間 (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
         <link>https://speakerdeck.com/kworkdev/ai-chat-search-improvement-3-weeks</link>
         <dc:date>2026-06-24T15:00:00Z</dc:date>
@@ -34,75 +104,5 @@
         <title>非機能要件_Viewパフォーマンス改善 (Takuto Yoshimi)</title>
         <link>https://www.docswell.com/s/8259287/K7NNG8-2026-06-24-200147</link>
         <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDKで実現する Iot 管理体制 (Inoue Kazuki)</title>
-        <link>https://www.docswell.com/s/kazuki-inoue/ZJWW9M-2026-06-24-201115</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Functionsの同時実行数を減らして処理速度を改善した話 (saeki)</title>
-        <link>https://speakerdeck.com/hisashi_saeki/azure-functionsnotong-shi-shi-xing-shu-wojian-rasitechu-li-su-du-wogai-shan-sitahua</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIAU_UMEMOGU_ninomiya_slide (ninomiya)</title>
-        <link>https://speakerdeck.com/ninomiya_ii/aiau-umemogu-ninomiya-slide</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【2026年版】 ベクトル検索䛸 Embedding最前線 (Tomoko Uchida)</title>
-        <link>https://speakerdeck.com/mocobeta/2026nian-ban-bekutorujian-suo-embeddingzui-qian-xian</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KDDI共同講演：@niftyメール基盤移行プロジェクト - NIFTY Tech Day 2023 (ニフティ株式会社)</title>
-        <link>https://speakerdeck.com/niftycorp/nifty-tech-day-2023-adachi-mikuni</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIはどのように 組織のアジリティを変えるのか？ (J.K)</title>
-        <link>https://speakerdeck.com/junki/aihadonoyouni-zu-zhi-noaziriteiwobian-erunoka</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LayerX  コーポレートエンジニアリング室におけるサプライチェーンセキュリティへの取り組み / Supply Chain Security at LayerX Corporate Engineering (Yuya Takeyama)</title>
-        <link>https://speakerdeck.com/yuyatakeyama/supply-chain-security-at-layerx-corporate-engineering</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウェルスナビのマルチサービス化を支える技術  〜Spring Cloud GatewayとPub/Subの実践〜 (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
-        <link>https://www.docswell.com/s/WN_Tech-PR/5MQV6J-2026-05-30</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>大規模なメトリクス収集の仕組みをアーキテクチャ変更して得た学び (Masanori Tani,@uta8a)</title>
-        <link>https://www.docswell.com/s/uta8a/KJW81E-2026-05-30-jjug-spring-2026</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ビジネスルールを型システムで表現する (Yohei Kajiro)</title>
-        <link>https://www.docswell.com/s/yoheiyohei4/57NJ3N-business-rules-in-the-type-system</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PDMU CONTEXT</title>
-        <link>https://docs.google.com/presentation/d/10xphIHeHCC9iU9uPkbel8fThXBVtzOhL26SOON81i_4/preview</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue.jsで利用できるUIライブラリを知る (iwami_r)</title>
-        <link>https://speakerdeck.com/iwami_r/vue-dot-jsdeli-yong-dekiruuiraiburariwozhi-ru</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はじめてのDatabricksもくもく会 (Takaaki Yayoi)</title>
-        <link>https://speakerdeck.com/taka_aki/hasimetenodatabricksmokumokuhui</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JavaDoc 再入門 (nagise)</title>
-        <link>https://speakerdeck.com/nagise/javadoc-zai-ru-men</link>
-        <dc:date>2026-06-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
