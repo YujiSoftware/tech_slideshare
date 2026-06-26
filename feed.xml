@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>よい機能企画書(カタログ)は 業務・ユーザー深堀りがスゴい！ (WHIsaiyo)</title>
+        <link>https://speakerdeck.com/whisaiyo/whidevelopers-linklight-20260626-01</link>
+        <dc:date>2026-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>カタログで向き合った、相談の裏側にある本当の課題 (WHIsaiyo)</title>
+        <link>https://speakerdeck.com/whisaiyo/whidevelopers-linklight-20260626-02</link>
+        <dc:date>2026-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>お客様の「本当に欲しい」を形にする (WHIsaiyo)</title>
+        <link>https://speakerdeck.com/whisaiyo/whidevelopers-linklight-20260626-03</link>
+        <dc:date>2026-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FPGAの開発コンペでZephyrを使ってみた (misoji engineer)</title>
+        <link>https://speakerdeck.com/iotengineer22/fpganokai-fa-konpedezephyrwoshi-tutemita</link>
+        <dc:date>2026-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FPC(フレキシブル)基板にZephyr実装してみた。 (misoji engineer)</title>
+        <link>https://speakerdeck.com/iotengineer22/fpc-hurekisiburu-ji-ban-nizephyrshi-zhuang-sitemita</link>
+        <dc:date>2026-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Debugging Zephyr: Choosing the Right Tool When Things Go Wrong (Yasushi SHOJI)</title>
+        <link>https://speakerdeck.com/yasushishoji/debugging-zephyr-choosing-the-right-tool-when-things-go-wrong</link>
+        <dc:date>2026-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「勝手に広まる」人気 AI エージェントを爆速で作ろう！（AWS Summit Japan 2026講演資料） (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/sheng-shou-niguang-maru-ren-qi-ai-ezientowobao-su-dezuo-rou-aws-summit-japan-2026jiang-yan-zi-liao</link>
         <dc:date>2026-06-25T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>フィードバックで育てるAI開発 (Kota Minato)</title>
         <link>https://speakerdeck.com/kotaminato/huidobatukudeyu-teruaikai-fa</link>
-        <dc:date>2026-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIを活用したE2Eテスト実装効率化のあゆみ / ebisu-mobile-14-kotetu (kotetu (kotetuco))</title>
-        <link>https://speakerdeck.com/kotetuco/ebisu-mobile-14-kotetu</link>
-        <dc:date>2026-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iOS アプリの「これって不具合ですか？」を AI に調べてもらう (Yuki Miida)</title>
-        <link>https://speakerdeck.com/miichan/ios-apurino-koretutebu-ju-he-desuka-wo-ai-nidiao-betemorau</link>
-        <dc:date>2026-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPでやってみる機械学習〜SVM編〜 (ずみ)</title>
-        <link>https://speakerdeck.com/chihiroyoshizumi/phpdeyatutemiruji-jie-xue-xi-svmbian</link>
-        <dc:date>2026-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Let’s Encryptのフォールバック先について #ツナギメオフライン.8 (akase244)</title>
-        <link>https://speakerdeck.com/akase244/lets-encryptnohuorubatukuxian-nituite-number-tunagimeohurain-dot-8</link>
-        <dc:date>2026-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenID Connectによるサービス間連携 (Shigeki Shoji)</title>
-        <link>https://speakerdeck.com/takesection/openid-connectniyorusabisujian-lian-xi-5f9f460a-dbb6-4f50-9c44-2829661db1ab</link>
-        <dc:date>2026-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ型を書くのか？ TSKaigi2026で改めて考える #tskaigi_smarthr (Takuma Kajikawa)</title>
-        <link>https://speakerdeck.com/kajitack/tskaigimeetup-why-write-types</link>
         <dc:date>2026-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
