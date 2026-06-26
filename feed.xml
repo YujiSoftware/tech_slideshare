@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「アラーティング」の話をしよう— SREconや論文等の最先端とのギャップをみる (Yuuki Tsubouchi (yuuk1))</title>
+        <link>https://speakerdeck.com/yuukit/alerting-in-the-wild</link>
+        <dc:date>2026-06-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[チョークトーク資料]AWS DevOps Agent を使いこなす / AWS Dev Ops Agent Chalk Talk AWS Summit Japan 2026 (Masanori Yamaguchi)</title>
         <link>https://speakerdeck.com/kinunori/aws-dev-ops-agent-chalk-talk-aws-summit-japan-2026</link>
         <dc:date>2026-06-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Lightning近況報告 (Koji NAKAMURA)</title>
         <link>https://speakerdeck.com/kozy4324/lightningjin-kuang-bao-gao</link>
-        <dc:date>2026-06-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Transactional Outbox Pattern を使ったデータ連携方法の紹介 (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
-        <link>https://www.docswell.com/s/WN_Tech-PR/5Q221J-2026-06-24</link>
         <dc:date>2026-06-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
