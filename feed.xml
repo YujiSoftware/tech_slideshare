@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Superpowers解剖 (Taiga Mikami)</title>
+        <link>https://speakerdeck.com/taigamikami/slides-859f3ec7-a00f-4812-8517-864ceaadd3b7</link>
+        <dc:date>2026-06-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>トークンをケチるな、設計しろ：GitHub Copilotを賢く使うコンテキスト戦略 (Ochtum)</title>
         <link>https://speakerdeck.com/ochtum/tokunwoketiruna-she-ji-siro-github-copilotwoxian-kushi-ukontekisutozhan-lue</link>
         <dc:date>2026-06-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS DevOps Agent使ってみて結構いいかもと思った話 (Kobayashi-Riku)</title>
         <link>https://speakerdeck.com/rikukobayashi/aws-devops-agentshi-tutemitejie-gou-iikamotosi-tutahua</link>
-        <dc:date>2026-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Google Apps ScirptでDiscord botを動かしたら動かなくなったので何とかした話 (かわしも（Shimokawa Shion）)</title>
-        <link>https://speakerdeck.com/kawashimo0/google-apps-scirptdediscord-botwodong-kasitaradong-kanakunatutanodehe-tokasitahua</link>
         <dc:date>2026-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
