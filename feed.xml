@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>秘密度ラベル初心者が第1歩でつまづかないための「設計・運用」ポイント (seafay)</title>
+        <link>https://speakerdeck.com/seafay/purview-1point</link>
+        <dc:date>2026-06-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Superpowers解剖 (Taiga Mikami)</title>
         <link>https://speakerdeck.com/taigamikami/slides-859f3ec7-a00f-4812-8517-864ceaadd3b7</link>
         <dc:date>2026-06-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>千葉での単身赴任からAWSをやり続け、千葉に戻ってきた話 (Yuuki Yamashita)</title>
         <link>https://speakerdeck.com/yama3133/qian-xie-denodan-shen-fu-ren-karaawswoyarisok-ke-qian-xie-nili-tutekitahua</link>
-        <dc:date>2026-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS DevOps Agent使ってみて結構いいかもと思った話 (Kobayashi-Riku)</title>
-        <link>https://speakerdeck.com/rikukobayashi/aws-devops-agentshi-tutemitejie-gou-iikamotosi-tutahua</link>
         <dc:date>2026-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
