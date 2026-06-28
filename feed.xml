@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>“詰む”前に仕組みを作れ 〜技術の波に溺れないためのキャッチアップ術〜 (Sugiyama Takaaki)</title>
+        <link>https://speakerdeck.com/takasyou/jie-mu-qian-nishi-zu-miwozuo-re-ji-shu-nobo-nini-renaitamenokiyatutiatupushu</link>
+        <dc:date>2026-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>40代で“やっとエンジニアになれた”――閉じた学びを開き、空の青さを知る / 20260628 Naoki Takahashi (SHIFT EVOLVE)</title>
+        <link>https://speakerdeck.com/shift_evolve/20260628-naoki-takahashi</link>
+        <dc:date>2026-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AIの記事なのにフライデイデジタルに取材されて記事になってしまった話</title>
         <link>https://docs.google.com/presentation/d/1mz0jbUYxNWsU5pPKgZ8qZRtTxt_GEzrgizLIc1jchzA/preview</link>
         <dc:date>2026-06-28T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Kova Polygon Address</title>
         <link>https://docs.google.com/spreadsheets/d/1eARSPL4fHbDtRL1FXbCkfl8xNdxNmL-H6qQPRwqUfYc/preview</link>
         <dc:date>2026-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JSAI2026ランチョンセミナー登壇テーマ「AIと挑む確定申告」/Tackling Tax Returns with AI (yayoi_dd)</title>
-        <link>https://speakerdeck.com/yayoi_dd/tackling-tax-returns-with-ai</link>
-        <dc:date>2026-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>勘定科目の推論機能における運用/Operations of Account Category Inference (yayoi_dd)</title>
-        <link>https://speakerdeck.com/yayoi_dd/operations-of-account-category-inference</link>
-        <dc:date>2026-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
