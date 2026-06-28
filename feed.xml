@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIの記事なのにフライデイデジタルに取材されて記事になってしまった話</title>
+        <link>https://docs.google.com/presentation/d/1mz0jbUYxNWsU5pPKgZ8qZRtTxt_GEzrgizLIc1jchzA/preview</link>
+        <dc:date>2026-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>(きのこカンファレンス2026)「もう​今さら」から​始めて​続けられる、​小さな​変化の​つくりかた (Insurtechラボ,@koitake_)</title>
         <link>https://www.docswell.com/s/Insurtech-lab/Z9NN2P-2026-06-28-095852</link>
         <dc:date>2026-06-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>勘定科目の推論機能における運用/Operations of Account Category Inference (yayoi_dd)</title>
         <link>https://speakerdeck.com/yayoi_dd/operations-of-account-category-inference</link>
-        <dc:date>2026-06-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260625_Outlook の返信下書きを自動生成する - Power Automate × Azure OpenAI で考える M365 拡張 (yutakaosada)</title>
-        <link>https://speakerdeck.com/yutakaosada/20260625-outlook-nofan-xin-xia-shu-kiwozi-dong-sheng-cheng-suru-power-automate-x-azure-openai-dekao-eru-m365-kuo-zhang</link>
         <dc:date>2026-06-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
