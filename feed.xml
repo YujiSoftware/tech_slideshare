@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>時系列予測について モデル・評価尺度・静的特徴量の活用 (MIKIO KUBO,@MickeyKubo)</title>
+        <link>https://www.docswell.com/s/mikiokubo/KR88W3-forecasting</link>
+        <dc:date>2026-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>“詰む”前に仕組みを作れ 〜技術の波に溺れないためのキャッチアップ術〜 (Sugiyama Takaaki)</title>
         <link>https://speakerdeck.com/takasyou/jie-mu-qian-nishi-zu-miwozuo-re-ji-shu-nobo-nini-renaitamenokiyatutiatupushu</link>
         <dc:date>2026-06-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Zenoh on Zephyr on LiteX (takasehideki)</title>
         <link>https://speakerdeck.com/takasehideki/zenoh-on-zephyr-on-litex</link>
-        <dc:date>2026-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kova Polygon Address</title>
-        <link>https://docs.google.com/spreadsheets/d/1eARSPL4fHbDtRL1FXbCkfl8xNdxNmL-H6qQPRwqUfYc/preview</link>
         <dc:date>2026-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
