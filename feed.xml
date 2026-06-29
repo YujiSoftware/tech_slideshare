@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>5分でわかるDuckDB Quack (chanyou0311)</title>
+        <link>https://speakerdeck.com/chanyou0311/5fen-dewakaruduckdb-quack</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>シナマケミートアップ #14 - embodied-claude</title>
         <link>https://docs.google.com/presentation/d/1DjSigg8sodUzJ64auNozYiaReMsxbUkBlG62aD9UIhE/preview</link>
         <dc:date>2026-06-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>トークンをケチるな、設計しろ：GitHub Copilotを賢く使うコンテキスト戦略 (Ochtum)</title>
         <link>https://speakerdeck.com/ochtum/tokunwoketiruna-she-ji-siro-github-copilotwoxian-kushi-ukontekisutozhan-lue</link>
         <dc:date>2026-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IaC コードを資産へ：AWS CDK 社内ライブラリと横断展開 / aws-summit-japan-2026 (k.goto)</title>
-        <link>https://speakerdeck.com/gotok365/aws-summit-japan-2026</link>
-        <dc:date>2026-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
