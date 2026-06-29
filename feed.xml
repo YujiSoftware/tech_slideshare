@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>水を運ぶ人としてのリーダーシップ (izumii19)</title>
+        <link>https://speakerdeck.com/izumii19/shui-woyun-huren-tositenoritasituhu</link>
+        <dc:date>2026-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>多くの現場を見て気づいた「有名ではないエンジニア」の生きのこり方 (ken-ususugi)</title>
+        <link>https://speakerdeck.com/kenususugi/duo-kunoxian-chang-wojian-teqi-duita-you-ming-dehanaienzinia-nosheng-kinokorifang</link>
+        <dc:date>2026-06-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>時系列予測について モデル・評価尺度・静的特徴量の活用 (MIKIO KUBO,@MickeyKubo)</title>
         <link>https://www.docswell.com/s/mikiokubo/KR88W3-forecasting</link>
         <dc:date>2026-06-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>「アラーティング」の話をしよう— SREconや論文等の最先端とのギャップをみる (Yuuki Tsubouchi (yuuk1))</title>
         <link>https://speakerdeck.com/yuukit/alerting-in-the-wild</link>
-        <dc:date>2026-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[チョークトーク資料]AWS DevOps Agent を使いこなす / AWS Dev Ops Agent Chalk Talk AWS Summit Japan 2026 (Masanori Yamaguchi)</title>
-        <link>https://speakerdeck.com/kinunori/aws-dev-ops-agent-chalk-talk-aws-summit-japan-2026</link>
-        <dc:date>2026-06-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Zenoh on Zephyr on LiteX (takasehideki)</title>
-        <link>https://speakerdeck.com/takasehideki/zenoh-on-zephyr-on-litex</link>
         <dc:date>2026-06-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
