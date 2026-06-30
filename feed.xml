@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>起点・思考・出力で分解する 〜PM業務の自動化設計〜 (kazu_kichi_67)</title>
+        <link>https://speakerdeck.com/kazu_kichi_67/qi-dian-si-kao-chu-li-defen-jie-suru-pmye-wu-nozi-dong-hua-she-ji</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>5分でわかるDuckDB Quack (chanyou0311)</title>
         <link>https://speakerdeck.com/chanyou0311/5fen-dewakaruduckdb-quack</link>
         <dc:date>2026-06-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Superpowers解剖 (Taiga Mikami)</title>
         <link>https://speakerdeck.com/taigamikami/slides-859f3ec7-a00f-4812-8517-864ceaadd3b7</link>
-        <dc:date>2026-06-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>トークンをケチるな、設計しろ：GitHub Copilotを賢く使うコンテキスト戦略 (Ochtum)</title>
-        <link>https://speakerdeck.com/ochtum/tokunwoketiruna-she-ji-siro-github-copilotwoxian-kushi-ukontekisutozhan-lue</link>
         <dc:date>2026-06-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
