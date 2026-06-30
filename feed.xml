@@ -6,6 +6,71 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Multi-Agent並列開発を 安全に回すための技術 / Technology for Safely Multi-Agent Parallel Development (philomagi)</title>
+        <link>https://speakerdeck.com/tooppoo/technology-for-safely-multi-agent-parallel-development</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>鹿野さんに聞く！『TypeScriptコードレシピ集』で磨く実践力 (tonkotsuboy_com)</title>
+        <link>https://speakerdeck.com/tonkotsuboy_com/lu-ye-sanniwen-ku-typescriptkodoresipiji-demo-kushi-jian-li</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜAI時代にペアプログラミングをやるのか？ / Why Pair Programming in the AI Era? (yamamoto)</title>
+        <link>https://speakerdeck.com/yamashu/why-pair-programming-in-the-ai-era</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>本当の”仕事”を手放せる未来が見えた (mu7889yoon / Yuta Nakamura)</title>
+        <link>https://speakerdeck.com/mu7889yoon/i-saw-a-future-where-i-wouldnt-have-to-do-real-work</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI駆動開発を妨げる技術的負債の解消アプローチ / ai-refactoring-approach (MinoDriven)</title>
+        <link>https://speakerdeck.com/minodriven/ai-refactoring-approach</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JICUG あなたのAI駆動開発パートナー IBM Bob を使ったアプリ開発 vol.2 (1ft-seabass)</title>
+        <link>https://speakerdeck.com/1ftseabass/2026-06-30-jicug</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIでアプリは作れる。ならば、AIは作ったアプリをクラウドにデプロイすることはできるのか🤔 (1kano)</title>
+        <link>https://speakerdeck.com/ichirokano2/aideapurihazuo-reru-naraba-aihazuo-tutaapuriwokuraudonidepuroisurukotohadekirunoka</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【FinOps】データドリブンな意思決定を目指して (kaita)</title>
+        <link>https://speakerdeck.com/z63d/finops-detadoribunnayi-si-jue-ding-womu-zhi-site</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>#2 Snowflakeの認定資格をとろう！_雪かき部 (nakama,@tomato_data)</title>
+        <link>https://www.docswell.com/s/nakama/53JJDV-2026-06-30-213758</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI Agentをシステムに組み込む前にゆるく向き合ってみる (hayama)</title>
+        <link>https://speakerdeck.com/hayama17/ai-agentwosisutemunizu-miip-muqian-niyurukuxiang-kihe-tutemiru</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIをフル活用してオンコール機能のプロトタイプを2日で作った話 / Building an AI-Powered On-Call Prototype in Just Two Days (Narimichi Takamura)</title>
+        <link>https://speakerdeck.com/nari_ex/building-an-ai-powered-on-call-prototype-in-just-two-days</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>飲食店もAIで。レジ締めやハンディシステムをつくってる話 / Using AI for restaurant management (VTRyo)</title>
+        <link>https://speakerdeck.com/vtryo/using-ai-for-restaurant-management</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>From Prompt Engineering to Loop Engineering (shibuiwilliam)</title>
+        <link>https://speakerdeck.com/shibuiwilliam/from-prompt-engineering-to-loop-engineering</link>
+        <dc:date>2026-06-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>起点・思考・出力で分解する 〜PM業務の自動化設計〜 (kazu_kichi_67)</title>
         <link>https://speakerdeck.com/kazu_kichi_67/qi-dian-si-kao-chu-li-defen-jie-suru-pmye-wu-nozi-dong-hua-she-ji</link>
         <dc:date>2026-06-29T15:00:00Z</dc:date>
@@ -39,70 +104,5 @@
         <title>そのハーネス、本当に境界になっていますか？ (平木佳介)</title>
         <link>https://speakerdeck.com/khiraki/sonohanesu-ben-dang-nijing-jie-ninatuteimasuka</link>
         <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Frugal Architect 入門 － 各法則から学ぶクラウド設計の本質 (Hayato Tan)</title>
-        <link>https://speakerdeck.com/htan/the-frugal-architect-ru-men-ge-fa-ze-karaxue-bukuraudoshe-ji-noben-zhi</link>
-        <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>某助成金プロジェクト採択に向けて企業研究所のアウトリーチ専任者がやったこと (afroscript)</title>
-        <link>https://speakerdeck.com/afroscript/mou-zhu-cheng-jin-puroziekutocai-ze-nixiang-keteqi-ye-yan-jiu-suo-noautoritizhuan-ren-zhe-gayatutakoto</link>
-        <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>焦燥を平穏に変えるエンジニアのための哲学 (nakamichi)</title>
-        <link>https://speakerdeck.com/ichimichi/jiao-zao-woping-wen-nibian-eruenzinianotamenozhe-xue</link>
-        <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>時期が悪い！それでもRaspberry Piを買って遊んで活用するには / 20260627-osc26do-rpi-jikigawarui (Akira Ouchi)</title>
-        <link>https://speakerdeck.com/akkiesoft/20260627-osc26do-rpi-jikigawarui</link>
-        <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>水を運ぶ人としてのリーダーシップ (izumii19)</title>
-        <link>https://speakerdeck.com/izumii19/shui-woyun-huren-tositenoritasituhu</link>
-        <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>多くの現場を見て気づいた「有名ではないエンジニア」の生きのこり方 (ken-ususugi)</title>
-        <link>https://speakerdeck.com/kenususugi/duo-kunoxian-chang-wojian-teqi-duita-you-ming-dehanaienzinia-nosheng-kinokorifang</link>
-        <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>時系列予測について モデル・評価尺度・静的特徴量の活用 (MIKIO KUBO,@MickeyKubo)</title>
-        <link>https://www.docswell.com/s/mikiokubo/KR88W3-forecasting</link>
-        <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>“詰む”前に仕組みを作れ 〜技術の波に溺れないためのキャッチアップ術〜 (Sugiyama Takaaki)</title>
-        <link>https://speakerdeck.com/takasyou/jie-mu-qian-nishi-zu-miwozuo-re-ji-shu-nobo-nini-renaitamenokiyatutiatupushu</link>
-        <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>40代で“やっとエンジニアになれた”――閉じた学びを開き、空の青さを知る / 20260628 Naoki Takahashi (SHIFT EVOLVE)</title>
-        <link>https://speakerdeck.com/shift_evolve/20260628-naoki-takahashi</link>
-        <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIの記事なのにフライデイデジタルに取材されて記事になってしまった話</title>
-        <link>https://docs.google.com/presentation/d/1mz0jbUYxNWsU5pPKgZ8qZRtTxt_GEzrgizLIc1jchzA/preview</link>
-        <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(きのこカンファレンス2026)「もう​今さら」から​始めて​続けられる、​小さな​変化の​つくりかた (Insurtechラボ,@koitake_)</title>
-        <link>https://www.docswell.com/s/Insurtech-lab/Z9NN2P-2026-06-28-095852</link>
-        <dc:date>2026-06-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>秘密度ラベル初心者が第1歩でつまづかないための「設計・運用」ポイント (seafay)</title>
-        <link>https://speakerdeck.com/seafay/purview-1point</link>
-        <dc:date>2026-06-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Superpowers解剖 (Taiga Mikami)</title>
-        <link>https://speakerdeck.com/taigamikami/slides-859f3ec7-a00f-4812-8517-864ceaadd3b7</link>
-        <dc:date>2026-06-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
