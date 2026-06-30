@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>tcpdump で追う Datastream 障害調査と Transit Gateway × VPN のリアーキテクチャ設計 (hirosi1900day)</title>
+        <link>https://speakerdeck.com/hirosi1900day/tcpdump-dezhui-u-datastream-zhang-hai-diao-cha-to-transit-gateway-x-vpn-noriakitekutiyashe-ji</link>
+        <dc:date>2026-06-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Multi-Agent並列開発を 安全に回すための技術 / Technology for Safely Multi-Agent Parallel Development (philomagi)</title>
         <link>https://speakerdeck.com/tooppoo/technology-for-safely-multi-agent-parallel-development</link>
         <dc:date>2026-06-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20260629_RPALT_ノードだけで</title>
         <link>https://docs.google.com/presentation/d/1xf_AVxqaLjMyROwEcoaYQlABaLlrGaq7eRwUnTckQ_k/preview</link>
-        <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>そのハーネス、本当に境界になっていますか？ (平木佳介)</title>
-        <link>https://speakerdeck.com/khiraki/sonohanesu-ben-dang-nijing-jie-ninatuteimasuka</link>
         <dc:date>2026-06-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
