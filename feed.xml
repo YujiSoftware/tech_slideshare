@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>はてなアカウント基盤 State of the Union (cockscomb)</title>
+        <link>https://speakerdeck.com/cockscomb/hatena-account-state-of-the-union</link>
+        <dc:date>2026-06-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>徹底討論！ECS vs EKS！ (高棹大樹)</title>
         <link>https://speakerdeck.com/daitak/che-di-tao-lun-ecs-vs-eks</link>
         <dc:date>2026-06-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>シナリオを作る前に行うべきこと２点 (たまい)</title>
         <link>https://speakerdeck.com/tamai_63/sinariowozuo-ruqian-nixing-ubekikoto2dian</link>
-        <dc:date>2026-06-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自治体×RPAの世界、のぞいてみませんか? (たまい)</title>
-        <link>https://speakerdeck.com/tamai_63/zi-zhi-ti-xrpanoshi-jie-nozoitemimasenka</link>
         <dc:date>2026-06-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
