@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>地元にITの仕事を作りたい話 (ぺんた / 菅原 政行,@plageoj)</title>
+        <link>https://www.docswell.com/s/plageoj/56NNX4-2026-07-03-195247</link>
+        <dc:date>2026-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FinOps X 2026 Recap from Engineer Side #JapanFinOps (Satoshi Matsuzawa (Matt))</title>
+        <link>https://speakerdeck.com/chacco38/finops-x-2026-recap-from-engineer-side-number-japanfinops</link>
+        <dc:date>2026-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Executive Strategy Management: FinOps X 2026 recap at Japan FinOps Meetup #6 (shungoa)</title>
+        <link>https://speakerdeck.com/shungoa/executive-strategy-management-finops-x-2026-recap-at-japan-finops-meetup-number-6</link>
+        <dc:date>2026-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NDIAS CTF 2026 問題解説会資料 (bata_24)</title>
+        <link>https://speakerdeck.com/bata_24/ndias-ctf-2026-wen-ti-jie-shuo</link>
+        <dc:date>2026-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NDIAS Automotive / IoT CTF 2026 Recap - Keyfob &amp; OSINT  (tokina (himitu))</title>
+        <link>https://speakerdeck.com/himitu23/iot-ctf-2026-recap-keyfob-and-osint</link>
+        <dc:date>2026-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NDIAS Automotive IoT CTF問題解説 buried_key (ishii)</title>
+        <link>https://speakerdeck.com/ishii141/ndias-automotive-iot-ctfwen-ti-jie-shuo-buried-key</link>
+        <dc:date>2026-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NDIAS CTF 問題解説会資料 Root of (Dis)trust (smz)</title>
+        <link>https://speakerdeck.com/smz60/ndias-ctf-wen-ti-jie-shuo-hui-zi-liao-root-of-dis-trust</link>
+        <dc:date>2026-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>12年前のAndroidアプリを蘇らせた話 (しみず ゆうき)</title>
+        <link>https://speakerdeck.com/yuukis/12nian-qian-noandroidapuriwosu-rasetahua</link>
+        <dc:date>2026-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>9ヶ月のAI推進で行き着いた、 必要な『能力・権限・組織の意思』 (ふくだ（fukuda ryu）)</title>
+        <link>https://speakerdeck.com/rfdnxbro/9keyue-noaitui-jin-dexing-kizhao-ita-bi-yao-na-neng-li-quan-xian-zu-zhi-noyi-si</link>
+        <dc:date>2026-07-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>認証認可を通して学ぶ、『わからない』のつぶし方 - ID沼入口 発表資料 (calloc134)</title>
         <link>https://speakerdeck.com/calloc134/ren-zheng-ren-ke-wotong-sitexue-bu-wakaranai-notubusifang-jia-idzhao-ru-kou-fa-biao-zi-liao</link>
         <dc:date>2026-07-02T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>なぜAI時代にペアプログラミングをやるのか？ / Why Pair Programming in the AI Era? (yamamoto)</title>
         <link>https://speakerdeck.com/yamashu/why-pair-programming-in-the-ai-era</link>
-        <dc:date>2026-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>本当の”仕事”を手放せる未来が見えた (mu7889yoon / Yuta Nakamura)</title>
-        <link>https://speakerdeck.com/mu7889yoon/i-saw-a-future-where-i-wouldnt-have-to-do-real-work</link>
-        <dc:date>2026-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI駆動開発を妨げる技術的負債の解消アプローチ / ai-refactoring-approach (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/ai-refactoring-approach</link>
-        <dc:date>2026-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JICUG あなたのAI駆動開発パートナー IBM Bob を使ったアプリ開発 vol.2 (1ft-seabass)</title>
-        <link>https://speakerdeck.com/1ftseabass/2026-06-30-jicug</link>
-        <dc:date>2026-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIでアプリは作れる。ならば、AIは作ったアプリをクラウドにデプロイすることはできるのか🤔 (1kano)</title>
-        <link>https://speakerdeck.com/ichirokano2/aideapurihazuo-reru-naraba-aihazuo-tutaapuriwokuraudonidepuroisurukotohadekirunoka</link>
-        <dc:date>2026-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【FinOps】データドリブンな意思決定を目指して (kaita)</title>
-        <link>https://speakerdeck.com/z63d/finops-detadoribunnayi-si-jue-ding-womu-zhi-site</link>
-        <dc:date>2026-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>#2 Snowflakeの認定資格をとろう！_雪かき部 (nakama,@tomato_data)</title>
-        <link>https://www.docswell.com/s/nakama/53JJDV-2026-06-30-213758</link>
-        <dc:date>2026-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Agentをシステムに組み込む前にゆるく向き合ってみる (hayama)</title>
-        <link>https://speakerdeck.com/hayama17/ai-agentwosisutemunizu-miip-muqian-niyurukuxiang-kihe-tutemiru</link>
-        <dc:date>2026-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIをフル活用してオンコール機能のプロトタイプを2日で作った話 / Building an AI-Powered On-Call Prototype in Just Two Days (Narimichi Takamura)</title>
-        <link>https://speakerdeck.com/nari_ex/building-an-ai-powered-on-call-prototype-in-just-two-days</link>
-        <dc:date>2026-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>飲食店もAIで。レジ締めやハンディシステムをつくってる話 / Using AI for restaurant management (VTRyo)</title>
-        <link>https://speakerdeck.com/vtryo/using-ai-for-restaurant-management</link>
         <dc:date>2026-06-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
