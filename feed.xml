@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260704_なごあず_Microsoft Build 2026 AI関連の注目まとめ！ (Hiroki Nomura,@Shrkm1204)</title>
+        <link>https://www.docswell.com/s/shirokuma/5N77W2-2026-07-04-Build-Update-AI</link>
+        <dc:date>2026-07-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>数クリックで作れるVPC、その裏側はどうなっている？ (inori)</title>
+        <link>https://speakerdeck.com/inorinori/shu-kuritukudezuo-reruvpc-sonoli-ce-hadounatuteiru</link>
+        <dc:date>2026-07-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>次世代ランサムウェア対策の考察 / 20260704 Mitsutoshi Matsuo (SHIFT EVOLVE)</title>
+        <link>https://speakerdeck.com/shift_evolve/20260704-mitsutoshi-matsuo</link>
+        <dc:date>2026-07-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Docker Desktop不要の時代が来る？ WSL標準の「wslc」で Linuxコンテナを動かしてみた. (ueponx)</title>
+        <link>https://speakerdeck.com/ueponx/docker-desktopbu-yao-noshi-dai-galai-ru-wslbiao-zhun-no-wslc-de-linuxkontenawodong-kasitemita</link>
+        <dc:date>2026-07-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>muon first impression (Kouji Matsui)</title>
+        <link>https://speakerdeck.com/kekyo/muon-first-impression</link>
+        <dc:date>2026-07-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最新のロボティクスと確率 (Ryuichi Ueda,@ryuichiueda)</title>
         <link>https://www.docswell.com/s/ryuichiueda/K1QQRE-2026-06-24-101802</link>
         <dc:date>2026-07-03T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>t検定は中心局限定理の夢を見るか？ (statditto)</title>
         <link>https://speakerdeck.com/statditto/tjian-ding-hazhong-xin-ju-xian-ding-li-nomeng-wojian-ruka</link>
         <dc:date>2026-07-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>はてなアカウント基盤 State of the Union (cockscomb)</title>
-        <link>https://speakerdeck.com/cockscomb/hatena-account-state-of-the-union</link>
-        <dc:date>2026-06-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>徹底討論！ECS vs EKS！ (高棹大樹)</title>
-        <link>https://speakerdeck.com/daitak/che-di-tao-lun-ecs-vs-eks</link>
-        <dc:date>2026-06-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>tcpdump で追う Datastream 障害調査と Transit Gateway × VPN のリアーキテクチャ設計 (hirosi1900day)</title>
-        <link>https://speakerdeck.com/hirosi1900day/tcpdump-dezhui-u-datastream-zhang-hai-diao-cha-to-transit-gateway-x-vpn-noriakitekutiyashe-ji</link>
-        <dc:date>2026-06-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Multi-Agent並列開発を 安全に回すための技術 / Technology for Safely Multi-Agent Parallel Development (philomagi)</title>
-        <link>https://speakerdeck.com/tooppoo/technology-for-safely-multi-agent-parallel-development</link>
-        <dc:date>2026-06-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>鹿野さんに聞く！『TypeScriptコードレシピ集』で磨く実践力 (tonkotsuboy_com)</title>
-        <link>https://speakerdeck.com/tonkotsuboy_com/lu-ye-sanniwen-ku-typescriptkodoresipiji-demo-kushi-jian-li</link>
-        <dc:date>2026-06-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
