@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260707_テスト設計を語る夕べ_参考資料1</title>
+        <link>https://docs.google.com/document/d/1N_1YIxqrZQojF9TR37hBqTnI572OPSN_KI48t0rY2S8/preview</link>
+        <dc:date>2026-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260707_テスト設計を語る夕べ_参考資料2</title>
+        <link>https://docs.google.com/document/d/10nh2iry_TZIbynbIPKjvZxxc6gPFLc1X9_2WepPNW9o/preview</link>
+        <dc:date>2026-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanオンラインワークショップ - APIテストスクリプト入門 - 20260707</title>
+        <link>https://docs.google.com/presentation/d/14k2U-nBEhvz_T8xnrvFZGQO44UsBgMCSwe_BTb6hySY/preview</link>
+        <dc:date>2026-07-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLM高速化勉強会資料 (SuperHotDog)</title>
         <link>https://speakerdeck.com/superhotdogcat/llmgao-su-hua-mian-qiang-hui-zi-liao</link>
         <dc:date>2026-07-06T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>NDIAS CTF 2026 問題解説会資料 (bata_24)</title>
         <link>https://speakerdeck.com/bata_24/ndias-ctf-2026-wen-ti-jie-shuo</link>
-        <dc:date>2026-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NDIAS Automotive / IoT CTF 2026 Recap - Keyfob &amp; OSINT  (tokina (himitu))</title>
-        <link>https://speakerdeck.com/himitu23/iot-ctf-2026-recap-keyfob-and-osint</link>
-        <dc:date>2026-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NDIAS Automotive IoT CTF問題解説 buried_key (ishii)</title>
-        <link>https://speakerdeck.com/ishii141/ndias-automotive-iot-ctfwen-ti-jie-shuo-buried-key</link>
-        <dc:date>2026-07-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NDIAS CTF 問題解説会資料 Root of (Dis)trust (smz)</title>
-        <link>https://speakerdeck.com/smz60/ndias-ctf-wen-ti-jie-shuo-hui-zi-liao-root-of-dis-trust</link>
         <dc:date>2026-07-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
