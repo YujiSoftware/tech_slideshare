@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>709JAWS-UG東京.pdf (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/709jaws-ugdong-jing</link>
+        <dc:date>2026-07-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Fableと事業の未来を考え、そして失敗した話 (もっくま,@mot0aki)</title>
+        <link>https://www.docswell.com/s/mot0aki/5WRLMX-ai_future</link>
+        <dc:date>2026-07-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜtree-sitter-rubyの日本語シンボルはハイライトされないのか ～敗北編～ (ItoJum)</title>
+        <link>https://speakerdeck.com/itojum/nazetree-sitter-rubynori-ben-yu-sinboruhahairaitosarenainoka-bai-bei-bian</link>
+        <dc:date>2026-07-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最近評価が難しくなった (Mitsui)</title>
+        <link>https://speakerdeck.com/maroon8021/zui-jin-ping-jia-ganan-sikunatuta</link>
+        <dc:date>2026-07-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェントの精度を担保・改善する仕組み エージェントハーネスとは ((株)松尾研究所,@MatsuoInstitute)</title>
+        <link>https://www.docswell.com/s/MatsuoInstitute/53J9EJ-2026-07-09-180000</link>
+        <dc:date>2026-07-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Baseline対応のDOMの型定義を作った (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/baselinedui-ying-nodomnoxing-ding-yi-wozuo-tuta</link>
         <dc:date>2026-07-08T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>20260704_なごあず_Microsoft Build 2026 AI関連の注目まとめ！ (Hiroki Nomura,@Shrkm1204)</title>
         <link>https://www.docswell.com/s/shirokuma/5N77W2-2026-07-04-Build-Update-AI</link>
-        <dc:date>2026-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>数クリックで作れるVPC、その裏側はどうなっている？ (inori)</title>
-        <link>https://speakerdeck.com/inorinori/shu-kuritukudezuo-reruvpc-sonoli-ce-hadounatuteiru</link>
-        <dc:date>2026-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>次世代ランサムウェア対策の考察 / 20260704 Mitsutoshi Matsuo (SHIFT EVOLVE)</title>
-        <link>https://speakerdeck.com/shift_evolve/20260704-mitsutoshi-matsuo</link>
-        <dc:date>2026-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Docker Desktop不要の時代が来る？ WSL標準の「wslc」で Linuxコンテナを動かしてみた. (ueponx)</title>
-        <link>https://speakerdeck.com/ueponx/docker-desktopbu-yao-noshi-dai-galai-ru-wslbiao-zhun-no-wslc-de-linuxkontenawodong-kasitemita</link>
-        <dc:date>2026-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>muon first impression (Kouji Matsui)</title>
-        <link>https://speakerdeck.com/kekyo/muon-first-impression</link>
-        <dc:date>2026-07-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最新のロボティクスと確率 (Ryuichi Ueda,@ryuichiueda)</title>
-        <link>https://www.docswell.com/s/ryuichiueda/K1QQRE-2026-06-24-101802</link>
         <dc:date>2026-07-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
