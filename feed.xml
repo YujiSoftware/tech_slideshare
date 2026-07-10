@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>外さないプロダクト開発。新機能開発の事例から、カミナシのインサイトマネジメントを解く (田島佳穂)</title>
+        <link>https://speakerdeck.com/tajima_kaho/wai-sanaipurodakutokai-fa-xin-ji-neng-kai-fa-noshi-li-kara-kaminasinoinsaitomanezimentowojie-ku</link>
+        <dc:date>2026-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREの積み重ねがAI駆動開発のガードレールになった ― 7つの実践/SRE Guardrails The 7 (TomoyaKitaura)</title>
         <link>https://speakerdeck.com/tomoyakitaura/sre-guardrails-the-7</link>
         <dc:date>2026-07-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>スタートアップにおけるアジャイルの実践について #shibuyagile (bayashi)</title>
         <link>https://speakerdeck.com/murabayashi/startupagile</link>
-        <dc:date>2026-07-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Blocks を触ってみた/first-tach-aws-blocks (MURAKAMI Masahiko)</title>
-        <link>https://speakerdeck.com/fossamagna/first-tach-aws-blocks</link>
         <dc:date>2026-07-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
