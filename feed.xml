@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>低コストなログ基盤を支えるアーキテクチャ 〜Grafana Lokiの設計思想〜 (Mitsuhiro Tanda)</title>
+        <link>https://speakerdeck.com/mtanda/design-principles-of-grafana-loki</link>
+        <dc:date>2026-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>分散システム、なんですぐ死んでしまうん？耐障害性を高めたいあなたのためのレジリエンスパターン入門 (Mitsuhiro Shibuya)</title>
         <link>https://speakerdeck.com/mshibuya/fen-san-sisutemu-nandesugusi-ndesimaun-nai-zhang-hai-xing-wogao-metaianatanotamenoreziriensupatanru-men</link>
         <dc:date>2026-07-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Claude Fableと事業の未来を考え、そして失敗した話 (もっくま,@mot0aki)</title>
         <link>https://www.docswell.com/s/mot0aki/5WRLMX-ai_future</link>
-        <dc:date>2026-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜtree-sitter-rubyの日本語シンボルはハイライトされないのか ～敗北編～ (ItoJum)</title>
-        <link>https://speakerdeck.com/itojum/nazetree-sitter-rubynori-ben-yu-sinboruhahairaitosarenainoka-bai-bei-bian</link>
         <dc:date>2026-07-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
