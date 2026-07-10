@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>少人数チームで_使われるプロダクトにたどり着くための_デザインハーネス.pdf (NishaMe)</title>
+        <link>https://speakerdeck.com/nishame/shao-ren-shu-timute-shi-wareruhurotakutonitatorizhao-kutameno-tesainhanesu</link>
+        <dc:date>2026-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「正の参照」と 「負の導出」で組む ハーネスエンジニアリング (Masahiro Watanabe)</title>
         <link>https://speakerdeck.com/cottpan/zheng-nocan-zhao-to-fu-nodao-chu-dezu-mu-hanesuenziniaringu</link>
         <dc:date>2026-07-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AgentCore Harnessって何者？ (Koki Miura,@k_miura_io)</title>
         <link>https://www.docswell.com/s/k_miura_io/KY88PL-2026-07-05-114404</link>
-        <dc:date>2026-07-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Entra ID × AWS SSO : SAML直接連携 vs IAM Identity Center (ysaeki)</title>
-        <link>https://speakerdeck.com/ysaeki/azure-entra-id-x-aws-sso-samlzhi-jie-lian-xi-vs-iam-identity-center</link>
         <dc:date>2026-07-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
