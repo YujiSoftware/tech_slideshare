@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ツクアソ オープニングイベント スライド (makky)</title>
+        <link>https://speakerdeck.com/shimomuramakio/tukuaso-opuninguibento-suraido</link>
+        <dc:date>2026-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>技術イベント終了後、運営の 事後タスクは丁寧に （心がけています）/ #tamagawadev (Ichiro Nishiuma)</title>
+        <link>https://speakerdeck.com/nishiuma/tamagawadev2</link>
+        <dc:date>2026-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ソブリンクラウドの現在地 - そもそも何か。どこまで使えるか。 (Masahiko Ebisuda)</title>
+        <link>https://speakerdeck.com/ebibibi/soburinkuraudonoxian-zai-di-somosomohe-ka-dokomadeshi-eruka</link>
+        <dc:date>2026-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure SRE Agent で FinOps Agent を作ってみた～コスト最適化を実現する運用AIエージェント～ (御成門プログラマー(Tomotaka Suzuki),@onarimonprogram)</title>
+        <link>https://www.docswell.com/s/onarimon-program/5Q2E2E-2026-07-10-202702</link>
+        <dc:date>2026-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>貴方はどのエンジニアリングを磨くのか (hatyibei)</title>
+        <link>https://speakerdeck.com/hatyibei/gui-fang-hadonoenziniaringuwomo-kunoka</link>
+        <dc:date>2026-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ローカルLLMとLINE Botの組み合わせ その3 / LINE DC Generative AI Meetup #8 (you（@youtoy）)</title>
+        <link>https://speakerdeck.com/you/line-dc-gen-ai-8_20260710</link>
+        <dc:date>2026-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Codeとハーネスについて考えてみる (Oikon)</title>
         <link>https://speakerdeck.com/oikon48/claude-codetohanesunituitekao-etemiru</link>
         <dc:date>2026-07-09T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>AIと共に進めるお仕事の現在地 (wakio)</title>
         <link>https://speakerdeck.com/wakino/aitogong-nijin-meruoshi-shi-noxian-zai-di</link>
         <dc:date>2026-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開閉UIのアニメーション設計 (hiro)</title>
-        <link>https://speakerdeck.com/hiro0218/kai-bi-uinoanimesiyonshe-ji</link>
-        <dc:date>2026-07-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260707_テスト設計を語る夕べ_参考資料1</title>
-        <link>https://docs.google.com/document/d/1N_1YIxqrZQojF9TR37hBqTnI572OPSN_KI48t0rY2S8/preview</link>
-        <dc:date>2026-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260707_テスト設計を語る夕べ_参考資料2</title>
-        <link>https://docs.google.com/document/d/10nh2iry_TZIbynbIPKjvZxxc6gPFLc1X9_2WepPNW9o/preview</link>
-        <dc:date>2026-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanオンラインワークショップ - APIテストスクリプト入門 - 20260707</title>
-        <link>https://docs.google.com/presentation/d/14k2U-nBEhvz_T8xnrvFZGQO44UsBgMCSwe_BTb6hySY/preview</link>
-        <dc:date>2026-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM高速化勉強会資料 (SuperHotDog)</title>
-        <link>https://speakerdeck.com/superhotdogcat/llmgao-su-hua-mian-qiang-hui-zi-liao</link>
-        <dc:date>2026-07-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人開発でセキュリティを意識して見ようの会 (saitojo1106)</title>
-        <link>https://speakerdeck.com/saitojo1106/ge-ren-kai-fa-desekiyuriteiwoyi-shi-sitejian-younohui</link>
-        <dc:date>2026-07-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
