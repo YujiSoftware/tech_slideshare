@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Colabのみで初心者向けPythonハンズオン.pdf (mizzsugar)</title>
+        <link>https://speakerdeck.com/mizzsugar/colabnomidechu-xin-zhe-xiang-kepythonhanzuon</link>
+        <dc:date>2026-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自分のPCにPython環境を用意して_VSCodeでStreamlitアプリを動かすまでの8ステップ.pdf (mizzsugar)</title>
+        <link>https://speakerdeck.com/mizzsugar/zi-fen-nopcnipythonhuan-jing-woyong-yi-site-vscodedestreamlitapuriwodong-kasumadeno8sutetupu</link>
+        <dc:date>2026-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>完全自律ロボットを作りたくて、先に開発を自律させた話(ROS Japan UG #63 LT) (rryz_09)</title>
+        <link>https://speakerdeck.com/rryz09/wan-quan-zi-lu-robotutowozuo-ritakute-xian-nikai-fa-wozi-lu-sasetahua-ros-japan-ug-number-63-lt</link>
+        <dc:date>2026-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>やさしいループエンジニアリング入門 (Syoitu Den,@HedgehogPython)</title>
         <link>https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543</link>
         <dc:date>2026-07-09T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>最近評価が難しくなった (Mitsui)</title>
         <link>https://speakerdeck.com/maroon8021/zui-jin-ping-jia-ganan-sikunatuta</link>
-        <dc:date>2026-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントの精度を担保・改善する仕組み エージェントハーネスとは ((株)松尾研究所,@MatsuoInstitute)</title>
-        <link>https://www.docswell.com/s/MatsuoInstitute/53J9EJ-2026-07-09-180000</link>
-        <dc:date>2026-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Baseline対応のDOMの型定義を作った (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/baselinedui-ying-nodomnoxing-ding-yi-wozuo-tuta</link>
-        <dc:date>2026-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Skill で組み立てる自律 AI システム開発 (Katuyuki Kakigi)</title>
-        <link>https://www.docswell.com/s/k2works/K8NNEE-2026-07-01-160009</link>
         <dc:date>2026-07-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
