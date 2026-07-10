@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「正の参照」と 「負の導出」で組む ハーネスエンジニアリング (Masahiro Watanabe)</title>
+        <link>https://speakerdeck.com/cottpan/zheng-nocan-zhao-to-fu-nodao-chu-dezu-mu-hanesuenziniaringu</link>
+        <dc:date>2026-07-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Bookathon執筆環境構築＆チームでの執筆手順ドキュメント</title>
         <link>https://docs.google.com/document/d/1DSVRst4yv6RQBziRgYcorGWujN7R1CeQQnooSrNVMLs/preview</link>
         <dc:date>2026-07-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Azure Entra ID × AWS SSO : SAML直接連携 vs IAM Identity Center (ysaeki)</title>
         <link>https://speakerdeck.com/ysaeki/azure-entra-id-x-aws-sso-samlzhi-jie-lian-xi-vs-iam-identity-center</link>
-        <dc:date>2026-07-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ITパスポート 基本情報技術者試験 応用情報技術者試験 ゆるっと持ち寄り勉強会 (Quatrex,@Quatrex)</title>
-        <link>https://www.docswell.com/s/Quatrex/ZX22LM-2026-07-05</link>
         <dc:date>2026-07-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
