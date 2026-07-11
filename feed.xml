@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI Agent SaaS を支える自社仮想化基盤への挑戦と実運用  /  ai-agent-saas-virtualization (GMO Flatt Security)</title>
+        <link>https://speakerdeck.com/flatt_security/ai-agent-saas-virtualization</link>
+        <dc:date>2026-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>型は壁、Rustでもバグを直すな、表現できなくせよ (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/xing-habi-rustdemobaguwozhi-suna-biao-xian-dekinakuseyo</link>
         <dc:date>2026-07-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Bookathon執筆環境構築＆チームでの執筆手順ドキュメント</title>
         <link>https://docs.google.com/document/d/1DSVRst4yv6RQBziRgYcorGWujN7R1CeQQnooSrNVMLs/preview</link>
         <dc:date>2026-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>709JAWS-UG東京.pdf (Yuuki Yamashita)</title>
-        <link>https://speakerdeck.com/yama3133/709jaws-ugdong-jing</link>
-        <dc:date>2026-07-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
