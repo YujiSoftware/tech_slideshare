@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>260711_CoREシミュレータ紹介.pptx</title>
+        <link>https://docs.google.com/presentation/d/1RmnKpno8tCriUDRQBP4s-uxlJmwxnaiL/preview</link>
+        <dc:date>2026-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Foxgloveについて 実際にExtensionを開発して公開するまでの話 / About Foxglove: The Story of Developing and Releasing an Extension (Ryo Kabutan)</title>
+        <link>https://speakerdeck.com/ry0_ka/foxglovenituite-shi-ji-niextensionwokai-fa-sitegong-kai-surumadenohua</link>
+        <dc:date>2026-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Google I/O Extended Tokyo 2026 詳解Antigravity</title>
+        <link>https://docs.google.com/presentation/d/18HQoJu9OIWxHvOVI9Vimecn8P6Iaw-dgQlZjFNXWQTY/preview</link>
+        <dc:date>2026-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Hugoで静的サイト制作体験がとても良かったという話 (前川昌幸,@maepon)</title>
+        <link>https://www.docswell.com/s/maepon/5Y899R-2026-07-11-145452</link>
+        <dc:date>2026-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SSOはじめました (mk-0A0)</title>
+        <link>https://speakerdeck.com/mk0a0/ssohazimemasita</link>
+        <dc:date>2026-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>しぶいSRE: サーバから見えない障害にどう向き合うか。ラストワンマイルのデバッグ実践 / Shibui SRE (Hokuto Hoshi)</title>
         <link>https://speakerdeck.com/kanny/shibui-sre</link>
         <dc:date>2026-07-10T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>貴方はどのエンジニアリングを磨くのか (hatyibei)</title>
         <link>https://speakerdeck.com/hatyibei/gui-fang-hadonoenziniaringuwomo-kunoka</link>
-        <dc:date>2026-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ローカルLLMとLINE Botの組み合わせ その3 / LINE DC Generative AI Meetup #8 (you（@youtoy）)</title>
-        <link>https://speakerdeck.com/you/line-dc-gen-ai-8_20260710</link>
-        <dc:date>2026-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeとハーネスについて考えてみる (Oikon)</title>
-        <link>https://speakerdeck.com/oikon48/claude-codetohanesunituitekao-etemiru</link>
-        <dc:date>2026-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>外さないプロダクト開発。新機能開発の事例から、カミナシのインサイトマネジメントを解く (田島佳穂)</title>
-        <link>https://speakerdeck.com/tajima_kaho/wai-sanaipurodakutokai-fa-xin-ji-neng-kai-fa-noshi-li-kara-kaminasinoinsaitomanezimentowojie-ku</link>
-        <dc:date>2026-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREの積み重ねがAI駆動開発のガードレールになった ― 7つの実践/SRE Guardrails The 7 (TomoyaKitaura)</title>
-        <link>https://speakerdeck.com/tomoyakitaura/sre-guardrails-the-7</link>
-        <dc:date>2026-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>少人数チームで_使われるプロダクトにたどり着くための_デザインハーネス.pdf (NishaMe)</title>
-        <link>https://speakerdeck.com/nishame/shao-ren-shu-timute-shi-wareruhurotakutonitatorizhao-kutameno-tesainhanesu</link>
         <dc:date>2026-07-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
