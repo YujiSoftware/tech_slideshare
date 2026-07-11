@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>しぶいSRE: サーバから見えない障害にどう向き合うか。ラストワンマイルのデバッグ実践 / Shibui SRE (Hokuto Hoshi)</title>
+        <link>https://speakerdeck.com/kanny/shibui-sre</link>
+        <dc:date>2026-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「念のためのログ保存」を組織全体でやめるためのポリシーと仕組み作り (i2tsuki)</title>
         <link>https://speakerdeck.com/i2tsuki/nian-notamenorogubao-cun-wozu-zhi-quan-ti-deyamerutamenoporisitoshi-zu-mizuo-ri</link>
         <dc:date>2026-07-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>少人数チームで_使われるプロダクトにたどり着くための_デザインハーネス.pdf (NishaMe)</title>
         <link>https://speakerdeck.com/nishame/shao-ren-shu-timute-shi-wareruhurotakutonitatorizhao-kutameno-tesainhanesu</link>
-        <dc:date>2026-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「正の参照」と 「負の導出」で組む ハーネスエンジニアリング (Masahiro Watanabe)</title>
-        <link>https://speakerdeck.com/cottpan/zheng-nocan-zhao-to-fu-nodao-chu-dezu-mu-hanesuenziniaringu</link>
         <dc:date>2026-07-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
