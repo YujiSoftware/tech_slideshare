@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>型は壁、Rustでもバグを直すな、表現できなくせよ (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/xing-habi-rustdemobaguwozhi-suna-biao-xian-dekinakuseyo</link>
+        <dc:date>2026-07-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>低コストなログ基盤を支えるアーキテクチャ 〜Grafana Lokiの設計思想〜 (Mitsuhiro Tanda)</title>
         <link>https://speakerdeck.com/mtanda/design-principles-of-grafana-loki</link>
         <dc:date>2026-07-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>709JAWS-UG東京.pdf (Yuuki Yamashita)</title>
         <link>https://speakerdeck.com/yama3133/709jaws-ugdong-jing</link>
-        <dc:date>2026-07-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Fableと事業の未来を考え、そして失敗した話 (もっくま,@mot0aki)</title>
-        <link>https://www.docswell.com/s/mot0aki/5WRLMX-ai_future</link>
         <dc:date>2026-07-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
