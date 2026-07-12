@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Zoom2Youtube.Claude (Yasunobu Kawaguchi)</title>
+        <link>https://speakerdeck.com/kawaguti/zoom2youtube-dot-claude</link>
+        <dc:date>2026-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なぜ関数型プログラミングで「型」と「証明」が語られるのか #fp_matsuri (Takuma Kajikawa)</title>
         <link>https://speakerdeck.com/kajitack/fpmatsuri-functional-programming-types-proofs-connection</link>
         <dc:date>2026-07-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>やさしいループエンジニアリング入門 (Syoitu Den,@HedgehogPython)</title>
         <link>https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543</link>
-        <dc:date>2026-07-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ツクアソ オープニングイベント スライド (makky)</title>
-        <link>https://speakerdeck.com/shimomuramakio/tukuaso-opuninguibento-suraido</link>
         <dc:date>2026-07-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
