@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オブザーバビリティ、本当に活用できてる？ 〜API連携×生成AIで成熟度を自動評価〜 (dmmsre)</title>
+        <link>https://speakerdeck.com/dmmsre/obuzababiritei-ben-dang-nihuo-yong-dekiteru-apilian-xi-xsheng-cheng-aidecheng-shou-du-wozi-dong-ping-jia</link>
+        <dc:date>2026-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Terraform共通モジュールをチーム横断で“変えられる”運用へ ― リリースと適用の分離 (kekke-n)</title>
         <link>https://speakerdeck.com/kekke_n/terraformgong-tong-moziyuruwotimuheng-duan-de-bian-erareru-yun-yong-he-ririsutoshi-yong-nofen-li</link>
         <dc:date>2026-07-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SSOはじめました (mk-0A0)</title>
         <link>https://speakerdeck.com/mk0a0/ssohazimemasita</link>
-        <dc:date>2026-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>しぶいSRE: サーバから見えない障害にどう向き合うか。ラストワンマイルのデバッグ実践 / Shibui SRE (Hokuto Hoshi)</title>
-        <link>https://speakerdeck.com/kanny/shibui-sre</link>
         <dc:date>2026-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
