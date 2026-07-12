@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>End-to-Endで考える信頼性 — LINEアプリにおける クライアント開発×SRE連携の実践 (maru)</title>
+        <link>https://speakerdeck.com/maruloop/end-to-end-sre</link>
+        <dc:date>2026-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PetitOnes Meetup #1 「一緒に生活するAIをつくるには？」 (ありさん ( ari-san ))</title>
         <link>https://speakerdeck.com/rryz09/petitones-meetup-number-1-xu-nisheng-huo-suruaiwotukuruniha</link>
         <dc:date>2026-07-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「念のためのログ保存」を組織全体でやめるためのポリシーと仕組み作り (i2tsuki)</title>
         <link>https://speakerdeck.com/i2tsuki/nian-notamenorogubao-cun-wozu-zhi-quan-ti-deyamerutamenoporisitoshi-zu-mizuo-ri</link>
-        <dc:date>2026-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Agent SaaS を支える自社仮想化基盤への挑戦と実運用  /  ai-agent-saas-virtualization (GMO Flatt Security)</title>
-        <link>https://speakerdeck.com/flatt_security/ai-agent-saas-virtualization</link>
         <dc:date>2026-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
