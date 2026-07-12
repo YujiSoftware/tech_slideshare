@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CSに"SLO"は要らない、経営層に"99.9%"は伝わらない  - SREを全社に"翻訳"する3原則 (サイバーセキュリティクラウド)</title>
+        <link>https://speakerdeck.com/cscengineer/translating-sre-for-the-whole-company</link>
+        <dc:date>2026-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アルゴリズムは何を圧縮しているのか ─ Haskell から育った「圧縮代数」というメンタルモデル (Naoya Ito)</title>
+        <link>https://speakerdeck.com/naoya/compressed-algebra-with-haskell</link>
+        <dc:date>2026-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Zoom2Youtube.Claude (Yasunobu Kawaguchi)</title>
         <link>https://speakerdeck.com/kawaguti/zoom2youtube-dot-claude</link>
         <dc:date>2026-07-11T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>自分のPCにPython環境を用意して_VSCodeでStreamlitアプリを動かすまでの8ステップ.pdf (mizzsugar)</title>
         <link>https://speakerdeck.com/mizzsugar/zi-fen-nopcnipythonhuan-jing-woyong-yi-site-vscodedestreamlitapuriwodong-kasumadeno8sutetupu</link>
         <dc:date>2026-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>完全自律ロボットを作りたくて、先に開発を自律させた話(ROS Japan UG #63 LT) (rryz_09)</title>
-        <link>https://speakerdeck.com/rryz09/wan-quan-zi-lu-robotutowozuo-ritakute-xian-nikai-fa-wozi-lu-sasetahua-ros-japan-ug-number-63-lt</link>
-        <dc:date>2026-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>やさしいループエンジニアリング入門 (Syoitu Den,@HedgehogPython)</title>
-        <link>https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543</link>
-        <dc:date>2026-07-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
