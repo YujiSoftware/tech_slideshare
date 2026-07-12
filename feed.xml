@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PetitOnes Meetup #1 「一緒に生活するAIをつくるには？」 (ありさん ( ari-san ))</title>
+        <link>https://speakerdeck.com/rryz09/petitones-meetup-number-1-xu-nisheng-huo-suruaiwotukuruniha</link>
+        <dc:date>2026-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI と作る開発フロー設計の基礎-いつ何を使い、どう仕組みを構築するか (スナガク)</title>
+        <link>https://speakerdeck.com/sunagaku/ai-tozuo-rukai-fa-huroshe-ji-noji-chu-ituhe-woshi-i-doushi-zu-miwogou-zhu-suruka</link>
+        <dc:date>2026-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI駆動開発_ワークフロー設計 (mae616)</title>
+        <link>https://speakerdeck.com/mae616/aiqu-dong-kai-fa-wakuhuroshe-ji</link>
+        <dc:date>2026-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>セキュリティ はじめの一歩 (nikinusu)</title>
+        <link>https://speakerdeck.com/nikinusu/sekiyuritei-hazimeno-bu</link>
+        <dc:date>2026-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>セキュリティ勉強会資料 (とむとむ)</title>
+        <link>https://www.docswell.com/s/nobunaga1551/5Y897E-2026-07-12-185319</link>
+        <dc:date>2026-07-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CSに"SLO"は要らない、経営層に"99.9%"は伝わらない  - SREを全社に"翻訳"する3原則 (サイバーセキュリティクラウド)</title>
         <link>https://speakerdeck.com/cscengineer/translating-sre-for-the-whole-company</link>
         <dc:date>2026-07-11T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>AI Agent SaaS を支える自社仮想化基盤への挑戦と実運用  /  ai-agent-saas-virtualization (GMO Flatt Security)</title>
         <link>https://speakerdeck.com/flatt_security/ai-agent-saas-virtualization</link>
-        <dc:date>2026-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>型は壁、Rustでもバグを直すな、表現できなくせよ (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/xing-habi-rustdemobaguwozhi-suna-biao-xian-dekinakuseyo</link>
-        <dc:date>2026-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>低コストなログ基盤を支えるアーキテクチャ 〜Grafana Lokiの設計思想〜 (Mitsuhiro Tanda)</title>
-        <link>https://speakerdeck.com/mtanda/design-principles-of-grafana-loki</link>
-        <dc:date>2026-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>分散システム、なんですぐ死んでしまうん？耐障害性を高めたいあなたのためのレジリエンスパターン入門 (Mitsuhiro Shibuya)</title>
-        <link>https://speakerdeck.com/mshibuya/fen-san-sisutemu-nandesugusi-ndesimaun-nai-zhang-hai-xing-wogao-metaianatanotamenoreziriensupatanru-men</link>
-        <dc:date>2026-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Colabのみで初心者向けPythonハンズオン.pdf (mizzsugar)</title>
-        <link>https://speakerdeck.com/mizzsugar/colabnomidechu-xin-zhe-xiang-kepythonhanzuon</link>
-        <dc:date>2026-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自分のPCにPython環境を用意して_VSCodeでStreamlitアプリを動かすまでの8ステップ.pdf (mizzsugar)</title>
-        <link>https://speakerdeck.com/mizzsugar/zi-fen-nopcnipythonhuan-jing-woyong-yi-site-vscodedestreamlitapuriwodong-kasumadeno8sutetupu</link>
         <dc:date>2026-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
