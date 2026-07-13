@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>DMM.com 購入改善推進チーム におけるCodeRabbitを用いた レビューフロー改善の一例 (Kanon)</title>
+        <link>https://speakerdeck.com/ysknsid25/dmm-dot-com-gou-ru-gai-shan-tui-jin-timu-niokerucoderabbitwoyong-ita-rebiyuhurogai-shan-no-li</link>
+        <dc:date>2026-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>事業価値を⽣み出すSREへ SREが担うべき意思決定の5層 (kenta_hi)</title>
         <link>https://speakerdeck.com/kenta_hi/shi-ye-jia-zhi-wo-michu-susrehe-sregadan-ubekiyi-si-jue-ding-no5ceng</link>
         <dc:date>2026-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>なぜ関数型プログラミングで「型」と「証明」が語られるのか #fp_matsuri (Takuma Kajikawa)</title>
         <link>https://speakerdeck.com/kajitack/fpmatsuri-functional-programming-types-proofs-connection</link>
-        <dc:date>2026-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective (katsukamaru)</title>
-        <link>https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective</link>
         <dc:date>2026-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
