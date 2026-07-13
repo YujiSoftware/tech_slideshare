@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サンプリングは統計学である: 数理的根拠に基づき、オブザーバビリティのコストと精度を両立する (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/sampling-is-statistics</link>
+        <dc:date>2026-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Conwayの法則を"ちゃんと"使うために — 原典でConwayは何を言っていたのか (Takeo Imai)</title>
         <link>https://speakerdeck.com/bonotake/scrumsendai2026-conway</link>
         <dc:date>2026-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Google I/O Extended Tokyo 2026 詳解Antigravity</title>
         <link>https://docs.google.com/presentation/d/18HQoJu9OIWxHvOVI9Vimecn8P6Iaw-dgQlZjFNXWQTY/preview</link>
-        <dc:date>2026-07-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Hugoで静的サイト制作体験がとても良かったという話 (前川昌幸,@maepon)</title>
-        <link>https://www.docswell.com/s/maepon/5Y899R-2026-07-11-145452</link>
         <dc:date>2026-07-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
