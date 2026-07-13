@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[AWS Summit Japan 2026] Amazon ECS 最新デプロイパターン Deep Dive (kenicazu)</title>
+        <link>https://speakerdeck.com/kenicazu/aws-summit-japan-2026-ecs-deploy-pattern-dive-deep</link>
+        <dc:date>2026-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>【やさしく解説 設計編 #0】DDDのコード、読めるのに分からない人へ (HideyukiKitao)</title>
         <link>https://speakerdeck.com/panda728/yasasikujie-shuo-she-ji-bian-number-0</link>
         <dc:date>2026-07-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI駆動開発_ワークフロー設計 (mae616)</title>
         <link>https://speakerdeck.com/mae616/aiqu-dong-kai-fa-wakuhuroshe-ji</link>
-        <dc:date>2026-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ はじめの一歩 (nikinusu)</title>
-        <link>https://speakerdeck.com/nikinusu/sekiyuritei-hazimeno-bu</link>
         <dc:date>2026-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
