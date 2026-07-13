@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RACIで比較する DBA と DBRE の思想の違い 〜データベース運用をプラットフォーム化する責任設計〜 (_awache)</title>
+        <link>https://speakerdeck.com/_awache/racidebi-jiao-suru-dba-to-dbre-nosi-xiang-nowei-i-detabesuyun-yong-wopuratutohuomuhua-suruze-ren-she-ji</link>
+        <dc:date>2026-07-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DMM.com 購入改善推進チーム におけるCodeRabbitを用いた レビューフロー改善の一例 (Kanon)</title>
         <link>https://speakerdeck.com/ysknsid25/dmm-dot-com-gou-ru-gai-shan-tui-jin-timu-niokerucoderabbitwoyong-ita-rebiyuhurogai-shan-no-li</link>
         <dc:date>2026-07-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Zoom2Youtube.Claude (Yasunobu Kawaguchi)</title>
         <link>https://speakerdeck.com/kawaguti/zoom2youtube-dot-claude</link>
-        <dc:date>2026-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ関数型プログラミングで「型」と「証明」が語られるのか #fp_matsuri (Takuma Kajikawa)</title>
-        <link>https://speakerdeck.com/kajitack/fpmatsuri-functional-programming-types-proofs-connection</link>
         <dc:date>2026-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
