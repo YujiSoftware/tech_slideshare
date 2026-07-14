@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIエージェントに「ノベルティ収集等」を任せたら、営業の承認フローと同じだった話 (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/aiezientoni-noberuteishou-ji-deng-woren-setara-ying-ye-nocheng-ren-hurototong-zidatutahua</link>
+        <dc:date>2026-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DevOps, SRE &amp; Platform Engineering - A Journey Toward the Ideal Development Environment (yuriemori)</title>
+        <link>https://speakerdeck.com/yuriemori/devops-sre-and-platform-engineering-a-journey-toward-the-ideal-development-environment</link>
+        <dc:date>2026-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>公式ドキュメントの歩き方etc (あべ)</title>
+        <link>https://speakerdeck.com/coco_se/gong-shi-dokiyumentonobu-kifang-etc</link>
+        <dc:date>2026-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>人を動かすのは時間ではなく、納得感 〜新任EMが入社3ヶ月、組織を2回変えた話〜 (KAKEHASHI)</title>
         <link>https://speakerdeck.com/kakehashi/the-power-of-clarity-over-hours</link>
         <dc:date>2026-07-13T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>サンプリングは統計学である: 数理的根拠に基づき、オブザーバビリティのコストと精度を両立する (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/sampling-is-statistics</link>
         <dc:date>2026-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Conwayの法則を"ちゃんと"使うために — 原典でConwayは何を言っていたのか (Takeo Imai)</title>
-        <link>https://speakerdeck.com/bonotake/scrumsendai2026-conway</link>
-        <dc:date>2026-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オブザーバビリティ、本当に活用できてる？ 〜API連携×生成AIで成熟度を自動評価〜 (dmmsre)</title>
-        <link>https://speakerdeck.com/dmmsre/obuzababiritei-ben-dang-nihuo-yong-dekiteru-apilian-xi-xsheng-cheng-aidecheng-shou-du-wozi-dong-ping-jia</link>
-        <dc:date>2026-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Terraform共通モジュールをチーム横断で“変えられる”運用へ ― リリースと適用の分離 (kekke-n)</title>
-        <link>https://speakerdeck.com/kekke_n/terraformgong-tong-moziyuruwotimuheng-duan-de-bian-erareru-yun-yong-he-ririsutoshi-yong-nofen-li</link>
-        <dc:date>2026-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
