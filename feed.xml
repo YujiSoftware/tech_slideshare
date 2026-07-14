@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人を動かすのは時間ではなく、納得感 〜新任EMが入社3ヶ月、組織を2回変えた話〜 (KAKEHASHI)</title>
+        <link>https://speakerdeck.com/kakehashi/the-power-of-clarity-over-hours</link>
+        <dc:date>2026-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なぜ私たちのSREプラクティスはなかなか機能しないのか 〜システムより先に組織を見る〜 / Why our SRE practices aren't really working (VTRyo)</title>
         <link>https://speakerdeck.com/vtryo/why-our-sre-practices-arent-really-working</link>
         <dc:date>2026-07-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Terraform共通モジュールをチーム横断で“変えられる”運用へ ― リリースと適用の分離 (kekke-n)</title>
         <link>https://speakerdeck.com/kekke_n/terraformgong-tong-moziyuruwotimuheng-duan-de-bian-erareru-yun-yong-he-ririsutoshi-yong-nofen-li</link>
-        <dc:date>2026-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>End-to-Endで考える信頼性 — LINEアプリにおける クライアント開発×SRE連携の実践 (maru)</title>
-        <link>https://speakerdeck.com/maruloop/end-to-end-sre</link>
         <dc:date>2026-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
