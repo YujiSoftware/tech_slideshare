@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜ私たちのSREプラクティスはなかなか機能しないのか 〜システムより先に組織を見る〜 / Why our SRE practices aren't really working (VTRyo)</title>
+        <link>https://speakerdeck.com/vtryo/why-our-sre-practices-arent-really-working</link>
+        <dc:date>2026-07-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIと共生する開発者プラットフォーム：バクラクのモノレポ×マイクロサービス基盤 (sakajunquality)</title>
         <link>https://speakerdeck.com/sakajunquality/sre-next-2026-bakuraku-sakajunquality</link>
         <dc:date>2026-07-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>End-to-Endで考える信頼性 — LINEアプリにおける クライアント開発×SRE連携の実践 (maru)</title>
         <link>https://speakerdeck.com/maruloop/end-to-end-sre</link>
-        <dc:date>2026-07-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PetitOnes Meetup #1 「一緒に生活するAIをつくるには？」 (ありさん ( ari-san ))</title>
-        <link>https://speakerdeck.com/rryz09/petitones-meetup-number-1-xu-nisheng-huo-suruaiwotukuruniha</link>
         <dc:date>2026-07-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
