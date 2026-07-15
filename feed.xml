@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PR単位で使い捨てるカイポケコネクトのpreview環境の設計と運用/ ephemeral preview environments per pr (SMS tech)</title>
+        <link>https://speakerdeck.com/sms_tech/ephemeral-preview-environments-per-pr</link>
+        <dc:date>2026-07-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>成功を追わない起業と経営 〜環境や立場を活かす戦略（Homing 2026） (Yoshihito Kuranuki / 倉貫義人)</title>
         <link>https://speakerdeck.com/kuranuki/cheng-gong-wozhui-wanaiqi-ye-tojing-ying-huan-jing-yali-chang-wohuo-kasuzhan-lue-homing-2026</link>
         <dc:date>2026-07-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIエージェントで 変わるAndroid開発環境 (takahirom)</title>
         <link>https://speakerdeck.com/takahirom/aiesientote-bian-waruandroidkai-fa-huan-jing-27fc8b69-166b-445b-9988-84eed6abe1d7</link>
-        <dc:date>2026-07-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インフラ寄りSREでも 開発に踏み出せる〜境界を越えてユーザー体験に向き合いたい〜 (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/260710</link>
         <dc:date>2026-07-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
