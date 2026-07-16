@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIネイティブな組織を問い直す (Shumpei Miyawaki)</title>
+        <link>https://speakerdeck.com/smiyawaki0820/aineiteibunazu-zhi-wowen-izhi-su</link>
+        <dc:date>2026-07-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIエージェント開発フレームワークはどう選ぶ (Syoitu Den,@HedgehogPython)</title>
         <link>https://www.docswell.com/s/harinezumi/ZWRL8Q-2026-07-14-131052</link>
         <dc:date>2026-07-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[AWS Summit Japan 2026] Amazon ECS 最新デプロイパターン Deep Dive (kenicazu)</title>
         <link>https://speakerdeck.com/kenicazu/aws-summit-japan-2026-ecs-deploy-pattern-dive-deep</link>
-        <dc:date>2026-07-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【やさしく解説 設計編 #0】DDDのコード、読めるのに分からない人へ (HideyukiKitao)</title>
-        <link>https://speakerdeck.com/panda728/yasasikujie-shuo-she-ji-bian-number-0</link>
         <dc:date>2026-07-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
