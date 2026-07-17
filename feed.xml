@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>【Λ（らむだ）】最近のアプデ情報 / RPALT20260717 (Λ)</title>
+        <link>https://speakerdeck.com/lambda/rpalt20260717</link>
+        <dc:date>2026-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大量データに対しても、生成AIを用いてリーズナブルにデータ加工をしたい！Databricksのai_queryについて調べてみた (Kamoshika)</title>
+        <link>https://speakerdeck.com/kamoshika/20260717-databricks-ai-query</link>
+        <dc:date>2026-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>個人開発で育てる「大規模設計の苗床」 - AI時代の1人開発から始める業務への知識接続 / The Seedbed for Large-Scale Design - From AI-Era Solo Projects to Professional Knowledge (株式会社ビットキー / Bitkey Inc.)</title>
+        <link>https://speakerdeck.com/bitkey/the-seedbed-for-large-scale-design-from-ai-era-solo-projects-to-professional-knowledge</link>
+        <dc:date>2026-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「Run Power App」アクションを使ったPower Automate for desktopとPower Appsアプリの連携方法のご紹介 (きぬあさ,@kinuasa)</title>
+        <link>https://www.docswell.com/s/kinuasa/KE193D-20260717-RPALT</link>
+        <dc:date>2026-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SvelteのHTMLはどう解釈されているのか / How Svelte compile HTML (yamanoku)</title>
+        <link>https://speakerdeck.com/yamanoku/how-svelte-compile-html</link>
+        <dc:date>2026-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代の開発生産性は、個人技からチーム設計へ (Atsushi Nakatsugawa)</title>
         <link>https://speakerdeck.com/moongift/aishi-dai-nokai-fa-sheng-chan-xing-ha-ge-ren-ji-karatimushe-ji-he</link>
         <dc:date>2026-07-16T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>AIネイティブな組織を問い直す (Shumpei Miyawaki)</title>
         <link>https://speakerdeck.com/smiyawaki0820/aineiteibunazu-zhi-wowen-izhi-su</link>
         <dc:date>2026-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェント開発フレームワークはどう選ぶ (Syoitu Den,@HedgehogPython)</title>
-        <link>https://www.docswell.com/s/harinezumi/ZWRL8Q-2026-07-14-131052</link>
-        <dc:date>2026-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SRE本の知られざる名シーン / The Hidden Gems of Google SRE Book (Narimichi Takamura)</title>
-        <link>https://speakerdeck.com/nari_ex/the-hidden-gems-of-google-sre-book</link>
-        <dc:date>2026-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>機械学習分子動力学の 最近の動向 (matelier)</title>
-        <link>https://www.docswell.com/s/matelier/5R897E-2026-07-15-204524</link>
-        <dc:date>2026-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260715_新卒N年目のLT交流会！最近沼ったことをシェアしよう！ (saku)</title>
-        <link>https://speakerdeck.com/saku0719/20260715-xin-zu-nnian-mu-noltjiao-liu-hui-zui-jin-zhao-tutakotowosieasiyou</link>
-        <dc:date>2026-07-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIが安心安全に意思決定できる基盤を目指して (Kenji Matsuda)</title>
-        <link>https://speakerdeck.com/nek0128/aigaan-xin-an-quan-niyi-si-jue-ding-dekiruji-pan-womu-zhi-site</link>
-        <dc:date>2026-07-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
