@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発が速く安くなった後の話　AI時代のソフトウェアエンジニアリング組織論 #devsumi (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda</link>
+        <dc:date>2026-07-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>脆弱性診断は一期一会♪ちょっと変わった診断案件の事例紹介 (腐った玉葱)</title>
         <link>https://www.docswell.com/s/wild0ni0n/5Y89R4-2026-07-16-195354</link>
         <dc:date>2026-07-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【Claude Code】鹿野さんに聞く 私の推しの並行開発環境 大公開  / claude-code-parallel-2026-07-15 (tonkotsuboy_com)</title>
         <link>https://speakerdeck.com/tonkotsuboy_com/claude-code-parallel-2026-07-15</link>
-        <dc:date>2026-07-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PR単位で使い捨てるカイポケコネクトのpreview環境の設計と運用/ ephemeral preview environments per pr (SMS tech)</title>
-        <link>https://speakerdeck.com/sms_tech/ephemeral-preview-environments-per-pr</link>
         <dc:date>2026-07-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
