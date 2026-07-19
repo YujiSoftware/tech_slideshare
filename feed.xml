@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CDKでPRごとに使い捨て環境立てたら便利すぎました (Masashi Tomooka)</title>
+        <link>https://speakerdeck.com/tmokmss/cdkdeprgotonishi-ishe-tehuan-jing-li-tetarabian-li-sugimasita</link>
+        <dc:date>2026-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェア設計に溶けるインフラ ― AWS CDK のインフラ認識論 (Kenji Kono)</title>
         <link>https://speakerdeck.com/konokenj/epistemology-of-cdk</link>
         <dc:date>2026-07-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>非定型なドキュメントを効率よくリファクタする 〜えぇ！？仕様書27本の移行が1日で終わったって！？〜 (subroh_0508)</title>
         <link>https://speakerdeck.com/subroh0508/fei-ding-xing-nadokiyumentowoxiao-lu-yokurihuakutasuru-ee-shi-yang-shu-27ben-noyi-xing-ga1ri-dezhong-watutatute</link>
-        <dc:date>2026-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Native × GraphQLで TanStack Queryを 選んだ理由 (Tsubasa SEKIGUCHI)</title>
-        <link>https://speakerdeck.com/tinykitten/react-native-x-graphqlde-tanstack-querywo-xuan-ndali-you</link>
         <dc:date>2026-07-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
