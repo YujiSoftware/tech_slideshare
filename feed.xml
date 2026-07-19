@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェア設計に溶けるインフラ ― AWS CDK のインフラ認識論 (Kenji Kono)</title>
+        <link>https://speakerdeck.com/konokenj/epistemology-of-cdk</link>
+        <dc:date>2026-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby を余すところなく愛する人のための「オートマトンと形式言語理論」入門</title>
         <link>https://docs.google.com/presentation/d/1ZfueAQyVJsC2pmUYgIGdb_fmnFExYaCRnr9vcCf5uNk/preview</link>
         <dc:date>2026-07-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>React Native × GraphQLで TanStack Queryを 選んだ理由 (Tsubasa SEKIGUCHI)</title>
         <link>https://speakerdeck.com/tinykitten/react-native-x-graphqlde-tanstack-querywo-xuan-ndali-you</link>
-        <dc:date>2026-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AICoEでAIネイティブ組織への進化 (YukiOgawa)</title>
-        <link>https://speakerdeck.com/yukiogawa/aicoedeaineiteibuzu-zhi-henojin-hua</link>
         <dc:date>2026-07-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
