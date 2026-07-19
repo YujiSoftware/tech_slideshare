@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ルールを書いて終わらせないハーネスエンジニアリング (Yuji Yamaguchi)</title>
+        <link>https://speakerdeck.com/yug1224/2026-07-18</link>
+        <dc:date>2026-07-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIに書かせたCDK、動くだけで満足してませんか？今日から始める、CDKハーネス設計！ (Shota Kawasaki)</title>
         <link>https://speakerdeck.com/kawaaaas/ainishu-kasetacdk-dong-kudakedeman-zu-sitemasenka-jin-ri-karashi-meru-cdkhanesushe-ji</link>
         <dc:date>2026-07-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20260716_イベント資料.pdf (okad)</title>
         <link>https://speakerdeck.com/ryotam/20260716-ihentozi-liao</link>
-        <dc:date>2026-07-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コーディングエージェントを安全に実行させる新しいアプローチ 〜Docker Sandboxes・AI Governance〜 (根本 征(Tadashi Nemoto))</title>
-        <link>https://www.docswell.com/s/tadashi0713/53J9N2-docker-sandboxes-ai-governance</link>
         <dc:date>2026-07-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
