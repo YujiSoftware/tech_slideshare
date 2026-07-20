@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人とAIが共創する ガードレール設計 (Yoshi)</title>
+        <link>https://speakerdeck.com/yoshi17/ren-toaigagong-chuang-suru-gadorerushe-ji</link>
+        <dc:date>2026-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260720_クラウド女子会×PyLadiesTokyoコラボ Amazon Bedrock ハンズオン用資料 (yuuuka)</title>
         <link>https://speakerdeck.com/yuuka51/20260720-kuraudonu-zi-hui-xpyladiestokyokorabo-amazon-bedrock-hanzuonyong-zi-liao</link>
         <dc:date>2026-07-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SvelteのHTMLはどう解釈されているのか / How Svelte compile HTML (yamanoku)</title>
         <link>https://speakerdeck.com/yamanoku/how-svelte-compile-html</link>
-        <dc:date>2026-07-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代の開発生産性は、個人技からチーム設計へ (Atsushi Nakatsugawa)</title>
-        <link>https://speakerdeck.com/moongift/aishi-dai-nokai-fa-sheng-chan-xing-ha-ge-ren-ji-karatimushe-ji-he</link>
         <dc:date>2026-07-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
