@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHPで作られた大規模ECサイトから学ぶ負荷対策入門 in PHP Conference 2026 (ozaki-kota)</title>
+        <link>https://speakerdeck.com/ozakikota/phpdezuo-raretada-gui-mo-ecsaitokaraxue-bufu-he-dui-ce-ru-men-in-php-conference-2026</link>
+        <dc:date>2026-07-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>1000人規模の組織でデザインハーネスを導入するための第一歩 (PKSHA Technology（パークシャテクノロジー）)</title>
         <link>https://speakerdeck.com/pkshadeck/1000ren-gui-mo-nozu-zhi-dedezainhanesuwodao-ru-surutamenodi-bu</link>
         <dc:date>2026-07-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI駆動開発時代の品質保証 (NaoyaYamamoto(Nao))</title>
         <link>https://speakerdeck.com/naonana777/aiqu-dong-kai-fa-shi-dai-pin-zhi-bao-zheng</link>
-        <dc:date>2026-07-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>1on1で使えるクリーン・ランゲージのご紹介 (kawanotron)</title>
-        <link>https://speakerdeck.com/kawanotron/1on1deshi-eru-kurinrangezi-nogoshao-jie</link>
         <dc:date>2026-07-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
