@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>WebMCPを試してみました (jsakamoto)</title>
+        <link>https://speakerdeck.com/jsakamoto/webmcpwoshi-sitemimasita</link>
+        <dc:date>2026-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロンプトじゃ足りない、QAむけAIを育てるの　JaSST nano 20260721 (Egawa Saori)</title>
         <link>https://www.slideshare.net/slideshow/qa-ai-jasst-nano-20260721/288706837</link>
         <dc:date>2026-07-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIに書かせたCDK、動くだけで満足してませんか？今日から始める、CDKハーネス設計！ (Shota Kawasaki)</title>
         <link>https://speakerdeck.com/kawaaaas/ainishu-kasetacdk-dong-kudakedeman-zu-sitemasenka-jin-ri-karashi-meru-cdkhanesushe-ji</link>
-        <dc:date>2026-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDKでPRごとに使い捨て環境立てたら便利すぎました (Masashi Tomooka)</title>
-        <link>https://speakerdeck.com/tmokmss/cdkdeprgotonishi-ishe-tehuan-jing-li-tetarabian-li-sugimasita</link>
         <dc:date>2026-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
