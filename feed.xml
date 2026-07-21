@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>チャリンコオブザーバビリティ (kinoppyd,@GhostBrain)</title>
+        <link>https://www.docswell.com/s/kinoppyd/5Q2EG3-charinko-observability</link>
+        <dc:date>2026-07-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>cpu-moeで満足するな — Qwen 35Bをさらに速くする3フラグ実測 (RTX 4070) (井本 賢,@kenimo49)</title>
         <link>https://www.docswell.com/s/kenimo49/5JWE34-qwen35-3flags</link>
         <dc:date>2026-07-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>大量データに対しても、生成AIを用いてリーズナブルにデータ加工をしたい！Databricksのai_queryについて調べてみた (Kamoshika)</title>
         <link>https://speakerdeck.com/kamoshika/20260717-databricks-ai-query</link>
-        <dc:date>2026-07-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人開発で育てる「大規模設計の苗床」 - AI時代の1人開発から始める業務への知識接続 / The Seedbed for Large-Scale Design - From AI-Era Solo Projects to Professional Knowledge (株式会社ビットキー / Bitkey Inc.)</title>
-        <link>https://speakerdeck.com/bitkey/the-seedbed-for-large-scale-design-from-ai-era-solo-projects-to-professional-knowledge</link>
         <dc:date>2026-07-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
