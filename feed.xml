@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>インフラ側からみた PostgreSQL の Row Level Security (RLS) ~ オーロラ (Aurora) ソースを添えて ~ / Henry Engineer Meetup #8 (nabeo)</title>
+        <link>https://speakerdeck.com/nabeo/henry-engineer-meetup-number-8</link>
+        <dc:date>2026-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フルスタックTypeScript入門 ～Hono RPCとZodで実現する型共有～ (kouki.miura)</title>
+        <link>https://speakerdeck.com/koukimiura/hurusutatukutypescriptru-men-hono-rpctozoddeshi-xian-suruxing-gong-you</link>
+        <dc:date>2026-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>就職氷河期が日本のキャリア教育を作った (yukio)</title>
+        <link>https://speakerdeck.com/yukio0113/jiu-zhi-bing-he-qi-gari-ben-nokiyariajiao-yu-wozuo-tuta</link>
+        <dc:date>2026-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>41歳でAWSが好きすぎてITエンジニアになったおっさんの話 (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/41sui-deawsgahao-kisugiteitenzinianinatutaotusannohua</link>
+        <dc:date>2026-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>キャリアLT会#3 (Beli)</title>
+        <link>https://speakerdeck.com/beli68/career-lt-3</link>
+        <dc:date>2026-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>私を変えた3つの出会い (山元綾子,@aya_polytope)</title>
+        <link>https://www.docswell.com/s/Nanopiko/53JL8Y-Rougai</link>
+        <dc:date>2026-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260722【JAWS-UG東京 ランチタイムLT会 #37④】AWS Well-Architectedフレームワークに沿った回答をするAIエージェントを作ってみた (Taka)</title>
+        <link>https://speakerdeck.com/nozakijcom/20260722-jaws-ugdong-jing-rantitaimulthui-number-37-aws-well-architectedhuremuwakuniyan-tutahui-da-wosuruaiesientowozuo-tutemita</link>
+        <dc:date>2026-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Serverlessしかなかったので、ブラウザに働いてもらいました (tanahiro2010)</title>
+        <link>https://speakerdeck.com/tanahiro2010/serverlesssikanakatutanode-burauzanidong-itemoraimasita</link>
+        <dc:date>2026-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュアなコンテナイメージをつくろう 〜CVE-free コンテナイメージ「Takumi Images」の概要と裏話〜 (GMO Flatt Security)</title>
         <link>https://speakerdeck.com/flatt_security/secure-container-images</link>
         <dc:date>2026-07-21T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>人とAIが共創する ガードレール設計 (Yoshi)</title>
         <link>https://speakerdeck.com/yoshi17/ren-toaigagong-chuang-suru-gadorerushe-ji</link>
         <dc:date>2026-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260720_クラウド女子会×PyLadiesTokyoコラボ Amazon Bedrock ハンズオン用資料 (yuuuka)</title>
-        <link>https://speakerdeck.com/yuuka51/20260720-kuraudonu-zi-hui-xpyladiestokyokorabo-amazon-bedrock-hanzuonyong-zi-liao</link>
-        <dc:date>2026-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPで作られた大規模ECサイトから学ぶ負荷対策入門 in PHP Conference 2026 (ozaki-kota)</title>
-        <link>https://speakerdeck.com/ozakikota/phpdezuo-raretada-gui-mo-ecsaitokaraxue-bufu-he-dui-ce-ru-men-in-php-conference-2026</link>
-        <dc:date>2026-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>1000人規模の組織でデザインハーネスを導入するための第一歩 (PKSHA Technology（パークシャテクノロジー）)</title>
-        <link>https://speakerdeck.com/pkshadeck/1000ren-gui-mo-nozu-zhi-dedezainhanesuwodao-ru-surutamenodi-bu</link>
-        <dc:date>2026-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI-native時代の信頼性を育てる、 インシデント学習と改善ループの実践 (foostan)</title>
-        <link>https://speakerdeck.com/foostan/ai-nativeshi-dai-noxin-lai-xing-woyu-teru-insidentoxue-xi-togai-shan-rupunoshi-jian</link>
-        <dc:date>2026-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDKで書くECSのベストプラクティス、 改めて考え直す2026 #cdkconf2026 (maki)</title>
-        <link>https://speakerdeck.com/makies/best-practices-for-ecs-with-cdk-a-2026-refresh</link>
-        <dc:date>2026-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践！既存 Project への AI-Driven Development 適用〜 一ヶ月で Project 唯一のフロントエンドエンジニアを作り出せ〜 (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/20260715a</link>
-        <dc:date>2026-07-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIコーディング初心者勉強会#1 ClaudeCodeで始めよう！ (Quatrex,@Quatrex)</title>
-        <link>https://www.docswell.com/s/Quatrex/KMQGJL-2026-07-19</link>
-        <dc:date>2026-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データマネジメント試験対策教材１〜データマネジメント基礎〜 (よしむら＠データマネジメント担当)</title>
-        <link>https://speakerdeck.com/yoshimura_datam/detamanezimentoshi-yan-dui-ce-jiao-cai-1-detamanezimentoji-chu</link>
-        <dc:date>2026-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
