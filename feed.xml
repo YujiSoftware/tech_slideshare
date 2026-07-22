@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュアなコンテナイメージをつくろう 〜CVE-free コンテナイメージ「Takumi Images」の概要と裏話〜 (GMO Flatt Security)</title>
+        <link>https://speakerdeck.com/flatt_security/secure-container-images</link>
+        <dc:date>2026-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PHP アプリケーションに類似画像検索を後付けする (msng)</title>
         <link>https://speakerdeck.com/msng/add-similar-image-search-to-php-apps</link>
         <dc:date>2026-07-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データマネジメント試験対策教材１〜データマネジメント基礎〜 (よしむら＠データマネジメント担当)</title>
         <link>https://speakerdeck.com/yoshimura_datam/detamanezimentoshi-yan-dui-ce-jiao-cai-1-detamanezimentoji-chu</link>
-        <dc:date>2026-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ルールを書いて終わらせないハーネスエンジニアリング (Yuji Yamaguchi)</title>
-        <link>https://speakerdeck.com/yug1224/2026-07-18</link>
         <dc:date>2026-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
