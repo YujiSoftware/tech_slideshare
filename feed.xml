@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>PHP アプリケーションに類似画像検索を後付けする (msng)</title>
+        <link>https://speakerdeck.com/msng/add-similar-image-search-to-php-apps</link>
+        <dc:date>2026-07-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WebMCPを試してみました (jsakamoto)</title>
         <link>https://speakerdeck.com/jsakamoto/webmcpwoshi-sitemimasita</link>
         <dc:date>2026-07-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ルールを書いて終わらせないハーネスエンジニアリング (Yuji Yamaguchi)</title>
         <link>https://speakerdeck.com/yug1224/2026-07-18</link>
-        <dc:date>2026-07-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIに書かせたCDK、動くだけで満足してませんか？今日から始める、CDKハーネス設計！ (Shota Kawasaki)</title>
-        <link>https://speakerdeck.com/kawaaaas/ainishu-kasetacdk-dong-kudakedeman-zu-sitemasenka-jin-ri-karashi-meru-cdkhanesushe-ji</link>
         <dc:date>2026-07-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
