@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CLIを使わない開発を考える</title>
+        <link>https://docs.google.com/presentation/d/1uA5t7mC099Rxghm6XrXcOvlio4EpfzQHb0AYRmQ-vyI/preview</link>
+        <dc:date>2026-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェントのための検索 (takatori)</title>
+        <link>https://speakerdeck.com/takatorisatoshi/aiezientonotamenojian-suo</link>
+        <dc:date>2026-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition (Takuto Wada)</title>
         <link>https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition</link>
         <dc:date>2026-07-23T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>インフラ側からみた PostgreSQL の Row Level Security (RLS) ~ オーロラ (Aurora) ソースを添えて ~ / Henry Engineer Meetup #8 (nabeo)</title>
         <link>https://speakerdeck.com/nabeo/henry-engineer-meetup-number-8</link>
-        <dc:date>2026-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フルスタックTypeScript入門 ～Hono RPCとZodで実現する型共有～ (kouki.miura)</title>
-        <link>https://speakerdeck.com/koukimiura/hurusutatukutypescriptru-men-hono-rpctozoddeshi-xian-suruxing-gong-you</link>
-        <dc:date>2026-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>就職氷河期が日本のキャリア教育を作った (yukio)</title>
-        <link>https://speakerdeck.com/yukio0113/jiu-zhi-bing-he-qi-gari-ben-nokiyariajiao-yu-wozuo-tuta</link>
         <dc:date>2026-07-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
