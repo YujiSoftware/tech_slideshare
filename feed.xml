@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データエンジニアリングとドメイン駆動設計 (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/detaenziniaringutodomeinqu-dong-she-ji</link>
+        <dc:date>2026-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Built Our Own Background Agent at LayerX #aidevex_findy  (LayerX)</title>
         <link>https://speakerdeck.com/layerx/built-our-own-background-agent-at-layerx-number-aidevex-findy</link>
         <dc:date>2026-07-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プロンプトじゃ足りない、QAむけAIを育てるの　JaSST nano 20260721 (Egawa Saori)</title>
         <link>https://www.slideshare.net/slideshow/qa-ai-jasst-nano-20260721/288706837</link>
-        <dc:date>2026-07-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テストデータ作成スクリプト (ayuka uesugi)</title>
-        <link>https://www.docswell.com/s/4875856/ZQ2L33-2026-07-21-181157</link>
         <dc:date>2026-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
