@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コードを読まない時代の死角: 検出から検証へ、脆弱性診断AIエージェントの現在地 / state-of-vulnerability-ai-agents (GMO Flatt Security)</title>
+        <link>https://speakerdeck.com/flatt_security/state-of-vulnerability-ai-agents</link>
+        <dc:date>2026-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データエンジニアリングとドメイン駆動設計 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/detaenziniaringutodomeinqu-dong-she-ji</link>
         <dc:date>2026-07-22T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>WebMCPを試してみました (jsakamoto)</title>
         <link>https://speakerdeck.com/jsakamoto/webmcpwoshi-sitemimasita</link>
         <dc:date>2026-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロンプトじゃ足りない、QAむけAIを育てるの　JaSST nano 20260721 (Egawa Saori)</title>
-        <link>https://www.slideshare.net/slideshow/qa-ai-jasst-nano-20260721/288706837</link>
-        <dc:date>2026-07-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
