@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>どこまでAIに任せるか 〜確率論と決定論の境界決定〜 (Shu Kobuchi)</title>
+        <link>https://speakerdeck.com/shukob/dokomadeainiren-seruka-que-lu-lun-tojue-ding-lun-nojing-jie-jue-ding</link>
+        <dc:date>2026-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>iOS/Androidの二刀流エンジニアがFlutter &amp; TypeScriptへ越境後の現在地 - Flutterがメインになって見えた景色と現在の醍醐味 / Dual-Platform Mobile Engineer Shifts to Flutter &amp; TypeScript - The View and Real Thrill of Going Flutter-First (株式会社ビットキー / Bitkey Inc.)</title>
+        <link>https://speakerdeck.com/bitkey/dual-platform-mobile-engineer-shifts-to-flutter-and-typescript-the-view-and-real-thrill-of-going-flutter-first</link>
+        <dc:date>2026-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>現場との対話から始める “作る前に問い直す”業務改善 (mochico50)</title>
+        <link>https://speakerdeck.com/mochico50/xian-chang-tonodui-hua-karashi-meru-zuo-ruqian-niwen-izhi-su-ye-wu-gai-shan</link>
+        <dc:date>2026-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>全社でのソフトウェアサプライチェーン攻撃対策をやってみた with Takumi Guard (kaita)</title>
+        <link>https://speakerdeck.com/z63d/quan-she-denosohutoueasapuraitiengong-ji-dui-ce-woyatutemita-with-takumi-guard</link>
+        <dc:date>2026-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AntigravityをAgent Platform APIで利用してみた (Issei.Komori)</title>
+        <link>https://speakerdeck.com/icck/antigravitywoagent-platform-apiteli-yong-sitemita</link>
+        <dc:date>2026-07-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コードを読まない時代の死角: 検出から検証へ、脆弱性診断AIエージェントの現在地 / state-of-vulnerability-ai-agents (GMO Flatt Security)</title>
         <link>https://speakerdeck.com/flatt_security/state-of-vulnerability-ai-agents</link>
         <dc:date>2026-07-22T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>私を変えた3つの出会い (山元綾子,@aya_polytope)</title>
         <link>https://www.docswell.com/s/Nanopiko/53JL8Y-Rougai</link>
-        <dc:date>2026-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260722【JAWS-UG東京 ランチタイムLT会 #37④】AWS Well-Architectedフレームワークに沿った回答をするAIエージェントを作ってみた (Taka)</title>
-        <link>https://speakerdeck.com/nozakijcom/20260722-jaws-ugdong-jing-rantitaimulthui-number-37-aws-well-architectedhuremuwakuniyan-tutahui-da-wosuruaiesientowozuo-tutemita</link>
-        <dc:date>2026-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Serverlessしかなかったので、ブラウザに働いてもらいました (tanahiro2010)</title>
-        <link>https://speakerdeck.com/tanahiro2010/serverlesssikanakatutanode-burauzanidong-itemoraimasita</link>
-        <dc:date>2026-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュアなコンテナイメージをつくろう 〜CVE-free コンテナイメージ「Takumi Images」の概要と裏話〜 (GMO Flatt Security)</title>
-        <link>https://speakerdeck.com/flatt_security/secure-container-images</link>
-        <dc:date>2026-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHP アプリケーションに類似画像検索を後付けする (msng)</title>
-        <link>https://speakerdeck.com/msng/add-similar-image-search-to-php-apps</link>
-        <dc:date>2026-07-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WebMCPを試してみました (jsakamoto)</title>
-        <link>https://speakerdeck.com/jsakamoto/webmcpwoshi-sitemimasita</link>
         <dc:date>2026-07-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
