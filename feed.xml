@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代におけるテストの基礎の再定義 / Rethinking the Fundamentals of Testing in the AI Era (Matsu)</title>
+        <link>https://speakerdeck.com/mineo_matsuya/rethinking-the-fundamentals-of-testing-in-the-ai-era</link>
+        <dc:date>2026-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI Dev Day 発表スライド (Tadatoshi Sekiguchi)</title>
         <link>https://www.docswell.com/s/3335137/5GNJLX-2026-07-24-115939</link>
         <dc:date>2026-07-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIが実装を自走する時代の認知負債との戦い (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/20260715b</link>
-        <dc:date>2026-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI-Slopなデザインを生まないためのデザインプロセス戦略 (takanorip)</title>
-        <link>https://speakerdeck.com/takanorip/ai-slopnadezainwosheng-manaitamenodezainpurosesuzhan-lue</link>
         <dc:date>2026-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
