@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>元和菓子職人、エンジニアになって５年経ちました。 (daichi)</title>
+        <link>https://speakerdeck.com/daikin555/yuan-he-guo-zi-zhi-ren-enzinianinatute5nian-jing-timasita</link>
+        <dc:date>2026-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>事業成長とAI活用を止めないデータ基盤アーキテクチャの設計思想 (Noriaki Hiraki)</title>
+        <link>https://speakerdeck.com/hiracky16/shi-ye-cheng-chang-toaihuo-yong-wozhi-menaidetaji-pan-akitekutiyanoshe-ji-si-xiang</link>
+        <dc:date>2026-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanワークショップ: API テスト自動化 - 20260724</title>
+        <link>https://docs.google.com/presentation/d/1SZYVYlLmicgYWmjYkBH4zh6BRl17Y4JFmSY1nSD6MH0/preview</link>
+        <dc:date>2026-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>書籍セキュアAPIについて (RiiiM(りむ))</title>
+        <link>https://speakerdeck.com/riiimparm/shu-ji-sekiyuaapinituite</link>
+        <dc:date>2026-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2年かけて Deno に DOMMatrix を実装した話 / How I implemented DOMMatrix in Deno over two years (petamoriken / 森建)</title>
+        <link>https://speakerdeck.com/petamoriken/how-i-implemented-dommatrix-in-deno-over-two-years</link>
+        <dc:date>2026-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>量子コンピュータ見学報告 (のーひこ,@nohikomiso)</title>
+        <link>https://www.docswell.com/s/nohikomiso/K7N1GD-2026-07-24-195353</link>
+        <dc:date>2026-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>えだまめ早食いMRアプリ開発記～世界えだまめ早食い選手権をXRとAIでハックした話～ (fubuky35,@fubuki35)</title>
+        <link>https://www.docswell.com/s/fubuky35/K4NL3Y-2026-07-21-201351</link>
+        <dc:date>2026-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クラウドを使う側から、作る側へ / 大吉祥寺.pm 2026前夜祭 (FUJIWARA Shunichiro)</title>
         <link>https://speakerdeck.com/fujiwara3/da-ji-xiang-si-dot-pm-2026qian-ye-ji</link>
         <dc:date>2026-07-23T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>AntigravityをAgent Platform APIで利用してみた (Issei.Komori)</title>
         <link>https://speakerdeck.com/icck/antigravitywoagent-platform-apiteli-yong-sitemita</link>
-        <dc:date>2026-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードを読まない時代の死角: 検出から検証へ、脆弱性診断AIエージェントの現在地 / state-of-vulnerability-ai-agents (GMO Flatt Security)</title>
-        <link>https://speakerdeck.com/flatt_security/state-of-vulnerability-ai-agents</link>
-        <dc:date>2026-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データエンジニアリングとドメイン駆動設計 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/detaenziniaringutodomeinqu-dong-she-ji</link>
-        <dc:date>2026-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Built Our Own Background Agent at LayerX #aidevex_findy  (LayerX)</title>
-        <link>https://speakerdeck.com/layerx/built-our-own-background-agent-at-layerx-number-aidevex-findy</link>
-        <dc:date>2026-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代における開発生産性と進化可能性を高める技術戦略 / AI DevEX Conference 2026 (Shodai Suzuki)</title>
-        <link>https://speakerdeck.com/soarteclab/ai-devex-conference-2026</link>
-        <dc:date>2026-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI x 開発生産性を取り巻く予算戦略と投資対効果 (Masato Ishigaki / 石垣雅人)</title>
-        <link>https://speakerdeck.com/i35_267/ai-x-kai-fa-sheng-chan-xing-woqu-rijuan-kuyu-suan-zhan-lue-totou-zi-dui-xiao-guo</link>
-        <dc:date>2026-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「惜しいデザイン」 を生み出さないための AIレビューループ (Kazuhiro Tobita)</title>
-        <link>https://speakerdeck.com/0b1tk/xi-siidezain-wosheng-michu-sanaitameno-airebiyurupu</link>
-        <dc:date>2026-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260711_Agile経験者だから​こそわかる​PMBOK第8版 (Insurtechラボ,@koitake_)</title>
-        <link>https://www.docswell.com/s/Insurtech-lab/K6N9NP-2026-07-11-072016</link>
         <dc:date>2026-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
