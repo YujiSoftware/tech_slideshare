@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI Dev Day 発表スライド (Tadatoshi Sekiguchi)</title>
+        <link>https://www.docswell.com/s/3335137/5GNJLX-2026-07-24-115939</link>
+        <dc:date>2026-07-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CLIを使わない開発を考える</title>
         <link>https://docs.google.com/presentation/d/1uA5t7mC099Rxghm6XrXcOvlio4EpfzQHb0AYRmQ-vyI/preview</link>
         <dc:date>2026-07-23T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AI-Slopなデザインを生まないためのデザインプロセス戦略 (takanorip)</title>
         <link>https://speakerdeck.com/takanorip/ai-slopnadezainwosheng-manaitamenodezainpurosesuzhan-lue</link>
         <dc:date>2026-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>インフラ側からみた PostgreSQL の Row Level Security (RLS) ~ オーロラ (Aurora) ソースを添えて ~ / Henry Engineer Meetup #8 (nabeo)</title>
-        <link>https://speakerdeck.com/nabeo/henry-engineer-meetup-number-8</link>
-        <dc:date>2026-07-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
