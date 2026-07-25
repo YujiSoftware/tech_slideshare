@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代に、なぜエンジニアはまだ集まるのか (wabi)</title>
+        <link>https://speakerdeck.com/wabi_1318/aishi-dai-ni-nazeenziniahamadaji-marunoka</link>
+        <dc:date>2026-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2026-07-25 Akires Tech #2 LT キャリアパスの話(公開版) (hayapi,@yo_hayasaka)</title>
         <link>https://www.docswell.com/s/yohaya/527181-watashi-no-career-path</link>
         <dc:date>2026-07-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>書籍セキュアAPIについて (RiiiM(りむ))</title>
         <link>https://speakerdeck.com/riiimparm/shu-ji-sekiyuaapinituite</link>
-        <dc:date>2026-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2年かけて Deno に DOMMatrix を実装した話 / How I implemented DOMMatrix in Deno over two years (petamoriken / 森建)</title>
-        <link>https://speakerdeck.com/petamoriken/how-i-implemented-dommatrix-in-deno-over-two-years</link>
         <dc:date>2026-07-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
