@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI工学特論: MLOps・継続的評価 (Asei Sugiyama)</title>
+        <link>https://speakerdeck.com/asei/aigong-xue-te-lun-mlopsji-sok-de-ping-jia-b257eb10-fb3e-4159-828b-8445b7ff2f37</link>
+        <dc:date>2026-07-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ゲームプログラマのための設計講習会 (nuskey,@nuskey8)</title>
         <link>https://www.docswell.com/s/nuskey/ZX2GY4-architectual-design-seminar</link>
         <dc:date>2026-07-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>現場との対話から始める “作る前に問い直す”業務改善 (mochico50)</title>
         <link>https://speakerdeck.com/mochico50/xian-chang-tonodui-hua-karashi-meru-zuo-ruqian-niwen-izhi-su-ye-wu-gai-shan</link>
-        <dc:date>2026-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>全社でのソフトウェアサプライチェーン攻撃対策をやってみた with Takumi Guard (kaita)</title>
-        <link>https://speakerdeck.com/z63d/quan-she-denosohutoueasapuraitiengong-ji-dui-ce-woyatutemita-with-takumi-guard</link>
         <dc:date>2026-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
