@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ゲームプログラマのための設計講習会 (nuskey,@nuskey8)</title>
+        <link>https://www.docswell.com/s/nuskey/ZX2GY4-architectual-design-seminar</link>
+        <dc:date>2026-07-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>元和菓子職人、エンジニアになって５年経ちました。 (daichi)</title>
         <link>https://speakerdeck.com/daikin555/yuan-he-guo-zi-zhi-ren-enzinianinatute5nian-jing-timasita</link>
         <dc:date>2026-07-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>全社でのソフトウェアサプライチェーン攻撃対策をやってみた with Takumi Guard (kaita)</title>
         <link>https://speakerdeck.com/z63d/quan-she-denosohutoueasapuraitiengong-ji-dui-ce-woyatutemita-with-takumi-guard</link>
-        <dc:date>2026-07-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AntigravityをAgent Platform APIで利用してみた (Issei.Komori)</title>
-        <link>https://speakerdeck.com/icck/antigravitywoagent-platform-apiteli-yong-sitemita</link>
         <dc:date>2026-07-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
