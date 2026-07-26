@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CloudWatchから始めるAWS監視 (butadora)</title>
+        <link>https://speakerdeck.com/butadora/cloudwatchkarashi-meruawsjian-shi</link>
+        <dc:date>2026-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アプリ開発者が知っておくべき『トランザクション分離レベル』とRead Committed の罠 (kouki.miura)</title>
+        <link>https://speakerdeck.com/koukimiura/apurikai-fa-zhe-gazhi-tuteokubeki-toranzakusiyonfen-li-reberu-toread-committed-nomin</link>
+        <dc:date>2026-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PostgreSQL 18で考えるUUID主キー (Kazuhiro Seo)</title>
+        <link>https://speakerdeck.com/kazuhiro1982/postgresql-18dekao-eruuuidzhu-ki</link>
+        <dc:date>2026-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>秦野アジャイル #2 (髙橋直規（幡ヶ谷亭直吉）)</title>
+        <link>https://speakerdeck.com/hiliteeternal/qin-ye-aziyairu-number-2</link>
+        <dc:date>2026-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>システム監視を 「システムを監視するだけ」で 終わらせないために (sei_ud)</title>
+        <link>https://speakerdeck.com/seiud/sisutemujian-shi-wo-sisutemuwojian-shi-surutake-te-zhong-warasenaitameni</link>
+        <dc:date>2026-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>システム監視入門 (gr1m0h)</title>
+        <link>https://speakerdeck.com/grimoh/sisutemujian-shi-ru-men</link>
+        <dc:date>2026-07-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>人間の目はかわらない、だからJPEGは30年もつ (yuzneri)</title>
         <link>https://speakerdeck.com/yuzneri/ren-jian-nomu-hakawaranai-dakarajpegha30nian-motu</link>
         <dc:date>2026-07-25T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>オートマトンと字句解析でRoslynを読む (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/otomatontozi-ju-jie-xi-deroslynwodu-mu</link>
         <dc:date>2026-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「ユーザー価値か、事業成果か？」 そんな意思決定で悩む前に PMがやるべきこと (inagaki)</title>
-        <link>https://speakerdeck.com/inagakikay/yuzajia-zhi-ka-shi-ye-cheng-guo-ka-yi-si-jue-ding-noqian-nisonnakotodenao-muqian-ni-pmgayarubekikoto</link>
-        <dc:date>2026-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI工学特論: MLOps・継続的評価 (Asei Sugiyama)</title>
-        <link>https://speakerdeck.com/asei/aigong-xue-te-lun-mlopsji-sok-de-ping-jia-b257eb10-fb3e-4159-828b-8445b7ff2f37</link>
-        <dc:date>2026-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ゲームプログラマのための設計講習会 (nuskey,@nuskey8)</title>
-        <link>https://www.docswell.com/s/nuskey/ZX2GY4-architectual-design-seminar</link>
-        <dc:date>2026-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>元和菓子職人、エンジニアになって５年経ちました。 (daichi)</title>
-        <link>https://speakerdeck.com/daikin555/yuan-he-guo-zi-zhi-ren-enzinianinatute5nian-jing-timasita</link>
-        <dc:date>2026-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業成長とAI活用を止めないデータ基盤アーキテクチャの設計思想 (Noriaki Hiraki)</title>
-        <link>https://speakerdeck.com/hiracky16/shi-ye-cheng-chang-toaihuo-yong-wozhi-menaidetaji-pan-akitekutiyanoshe-ji-si-xiang</link>
-        <dc:date>2026-07-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ: API テスト自動化 - 20260724</title>
-        <link>https://docs.google.com/presentation/d/1SZYVYlLmicgYWmjYkBH4zh6BRl17Y4JFmSY1nSD6MH0/preview</link>
-        <dc:date>2026-07-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
