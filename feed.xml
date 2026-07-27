@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>論語・武士道・産業革命から見る　かわるもの、かわらないもの (nakamichi)</title>
+        <link>https://speakerdeck.com/ichimichi/lun-yu-wu-shi-dao-chan-ye-ge-ming-karajian-ru-kawarumono-kawaranaimono</link>
+        <dc:date>2026-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CloudWatchから始めるAWS監視 (butadora)</title>
         <link>https://speakerdeck.com/butadora/cloudwatchkarashi-meruawsjian-shi</link>
         <dc:date>2026-07-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>数値で見る Microsoft MVP 〜Spec Kit と GitHub Copilot Agent で作るデータ可視化ダッシュボード〜 (yutakaosada)</title>
         <link>https://speakerdeck.com/yutakaosada/shu-zhi-dejian-ru-microsoft-mvp-spec-kit-to-github-copilot-agent-dezuo-rudetake-shi-hua-datusiyubodo</link>
-        <dc:date>2026-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オートマトンと字句解析でRoslynを読む (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/otomatontozi-ju-jie-xi-deroslynwodu-mu</link>
         <dc:date>2026-07-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
