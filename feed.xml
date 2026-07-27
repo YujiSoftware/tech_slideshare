@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>お前はもうアクセシビリティをやっている</title>
+        <link>https://docs.google.com/presentation/d/1gPy5u6CPbcjPqIM3QTkkKtKnwNwTa94cepwxGp_ns3A/preview</link>
+        <dc:date>2026-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LT とは何か (Jxck)</title>
+        <link>https://www.docswell.com/s/jxck/Z6N1NL-how-to-lightning-talk</link>
+        <dc:date>2026-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コンポーネント名には何を含めるべきなのか？ / what-should-be-included-in-component-names (airRnot)</title>
+        <link>https://speakerdeck.com/airrnot1106/what-should-be-included-in-component-names</link>
+        <dc:date>2026-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>歴史から理解するクラウドインフラのしくみ (t.kizawa)</title>
+        <link>https://speakerdeck.com/kizawa2020/li-shi-karali-jie-surukuraudoinhuranosikumi</link>
+        <dc:date>2026-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI驚き屋発見器 (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/aijing-kiwu-fa-jian-qi</link>
+        <dc:date>2026-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モデルの使い分け - 実装の規定を GPT-5.6 に移して、Claude を言葉と監修に回すまで (biwakonbu)</title>
+        <link>https://speakerdeck.com/biwakonbu/moderunoshi-ifen-ke-shi-zhuang-nogui-ding-wo-gpt-5-dot-6-niyi-site-claude-woyan-xie-tojian-xiu-nihui-sumade</link>
+        <dc:date>2026-07-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>テックカンファレンス三大ステークホルダーの文化人類学 ─ 違いを認め合う関係性作り (bash0C7)</title>
         <link>https://speakerdeck.com/bash0c7/tetukukanhuarensusan-da-sutekuhorudanowen-hua-ren-lei-xue-wei-iworen-mehe-uguan-xi-xing-zuo-ri</link>
         <dc:date>2026-07-26T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>今さら聞けない .NET CLI (tkym)</title>
         <link>https://speakerdeck.com/htkym/jin-sarawen-kenai-net-cli</link>
-        <dc:date>2026-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ここ半年くらいでAIに作らせたR用ツール (eitsupi)</title>
-        <link>https://speakerdeck.com/eitsupi/kokoban-nian-kuraideainizuo-rasetaryong-turu</link>
-        <dc:date>2026-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webの技術とガジェットで子どもも大人も楽しめるワクワク体験を提供する / Qiita Tech Festa Day 2026 (you（@youtoy）)</title>
-        <link>https://speakerdeck.com/you/qiita-tech-festa-day-2026</link>
-        <dc:date>2026-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仕様書のない組織を運営する 〜 エンジニア、PTA会長になる 〜 #kichijojipm (sakutaro,@saku_238)</title>
-        <link>https://www.docswell.com/s/saku_238/KJW6XV-20260725_kichijojipm_dresscode</link>
-        <dc:date>2026-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260725_ChatGPTのHuggingFace攻撃について_compressed (NobuakiOshiro)</title>
-        <link>https://speakerdeck.com/doradora09/20260725-chatgptnohuggingfacegong-ji-nituite-compressed</link>
-        <dc:date>2026-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026-07-25 OpenClaw schdulerをマスターする @ AI社会実装勉強会 (Naka Masato)</title>
-        <link>https://speakerdeck.com/nakamasato/2026-07-25-openclaw-schdulerwomasutasuru-at-aishe-hui-shi-zhuang-mian-qiang-hui</link>
-        <dc:date>2026-07-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オフェンシブセキュリティと隠蔽実行技術 (Fire)</title>
-        <link>https://speakerdeck.com/firefire2/ohuensibusekiyuriteitoyin-bi-shi-xing-ji-shu</link>
         <dc:date>2026-07-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
