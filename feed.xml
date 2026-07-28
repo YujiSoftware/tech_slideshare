@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>reFACToring</title>
+        <link>https://speakerdeck.com/moznion/refactoring</link>
+        <dc:date>2026-07-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュリティ研修【MIXI 26新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2026_new_grad_training_security</link>
         <dc:date>2026-07-27T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AI時代に、なぜエンジニアはまだ集まるのか (wabi)</title>
         <link>https://speakerdeck.com/wabi_1318/aishi-dai-ni-nazeenziniahamadaji-marunoka</link>
         <dc:date>2026-07-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026-07-25 Akires Tech #2 LT キャリアパスの話(公開版) (hayapi,@yo_hayasaka)</title>
-        <link>https://www.docswell.com/s/yohaya/527181-watashi-no-career-path</link>
-        <dc:date>2026-07-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
