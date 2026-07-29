@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2026-07-29 AI駆動開発　ShipKit ツール29</title>
+        <link>https://docs.google.com/presentation/d/1BDjHdDjHc1sYttOLPVCDjYQGQtWH0U0pCzsVKvgscvU/preview</link>
+        <dc:date>2026-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>これ１kumamoto_ai_guideline.pdf (Tasano)</title>
+        <link>https://speakerdeck.com/tamakiasano1/kore1kumamoto-ai-guideline</link>
+        <dc:date>2026-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>医療事務養成の専門学校でのAI教育  非エンジニアの学生にAIを1年間使ってもらって、感じたこと (Naoya Wada)</title>
+        <link>https://speakerdeck.com/naochim2026/yi-liao-shi-wu-yang-cheng-nozhuan-men-xue-xiao-denoaijiao-yu-fei-enzinianoxue-sheng-niaiwo1nian-jian-shi-tutemoratute-gan-zitakoto</link>
+        <dc:date>2026-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ウォーターフォール開発案件のPMとしてAI活用を模索している話 (da-hatakeyama)</title>
+        <link>https://speakerdeck.com/hatahata021/exploring-the-use-of-ai-as-a-project-manager-for-waterfall-development-projects</link>
+        <dc:date>2026-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2026-07-29 AI駆動開発勉強会ウェビナー</title>
+        <link>https://docs.google.com/presentation/d/1yVkIGpnKGwMfY1gnnAPJF3xhqWLaQHvoSoZxsGETP8o/preview</link>
+        <dc:date>2026-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>仕様書を書く前にハーネスを作る - Agent Native開発は「探索を速く、判定を固く」 (Gota)</title>
+        <link>https://speakerdeck.com/gotalab555/shi-yang-shu-woshu-kuqian-nihanesuwozuo-ru-agent-nativekai-fa-ha-tan-suo-wosu-ku-pan-ding-wogu-ku</link>
+        <dc:date>2026-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データエンジニアこそ組織のオントロジーに向き合うべき — 問いに答えるAIから、事業を動かすAIへ (harry)</title>
+        <link>https://speakerdeck.com/gappy50/it-is-data-engineers-who-should-be-tackling-the-organizations-ontology</link>
+        <dc:date>2026-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI Engineeringは、AIプロダクトだけのものか？ 〜AIがソフトウェアを作る時代の新しい当たり前〜 / No AI in your product. AI Engineering in your development. (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/no-ai-in-your-product-ai-engineering-in-your-development</link>
+        <dc:date>2026-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データ活用研修 データマネジメント【MIXI 26新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2026_new_grad_training_data_management</link>
+        <dc:date>2026-07-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>こちらを採用　機械と言葉とこころ_5分LT_explain_MNIST</title>
         <link>https://docs.google.com/presentation/d/1TTNfZUa62Cz1Vu--KPvH7YljWushjiHmTsUUw7Z2kqk/preview</link>
         <dc:date>2026-07-28T15:00:00Z</dc:date>
@@ -58,51 +103,6 @@
     <item>
         <title>現場で使える  AWS DevOps Agent  活用ノウハウ - Release Management 機能の検証結果を添えて / AWS DevOps Agent Release Management  and Know-How (Masanori Yamaguchi)</title>
         <link>https://speakerdeck.com/kinunori/aws-devops-agent-release-management-and-know-how</link>
-        <dc:date>2026-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>水を噴き出すスイッチングハブ (maijun)</title>
-        <link>https://speakerdeck.com/maijun/shui-wopen-kichu-susuitutinkuhahu</link>
-        <dc:date>2026-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Swift＆Xcodeのバージョンアップにまつわる怖かった思い出 / Scary Memories of Swift and Xcode Updates (株式会社ビットキー / Bitkey Inc.)</title>
-        <link>https://speakerdeck.com/bitkey/scary-memories-of-swift-and-xcode-updates</link>
-        <dc:date>2026-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fabric Skills ・ Fabric MCP使ってみた ~設定方法 ・ 使い分け ・ ユースケース~ (大竹礼二（REIJI OTAKE）)</title>
-        <link>https://speakerdeck.com/reireireijinjin6/fabric-skills-fabric-mcpshi-tutemita-she-ding-fang-fa-shi-ifen-ke-yusukesu</link>
-        <dc:date>2026-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あなたの知らないタイムスタンプの世界 (Satoshi ENOMOTO)</title>
-        <link>https://www.docswell.com/s/satoshi_enomoto/K4NLLJ-2026-07-28-184926</link>
-        <dc:date>2026-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニア達の「完全に理解した」Talk　#79 (akihiko.KIgure,@ic_lifewood)</title>
-        <link>https://www.docswell.com/s/ic_lifewood/KN7GGG-2026-07-28-194126</link>
-        <dc:date>2026-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>小型ローカルAIで日本語の音声会話botを作った話 (wancoimo)</title>
-        <link>https://speakerdeck.com/route250/xiao-xing-rokaruaideri-ben-yu-noyin-sheng-hui-hua-botwozuo-tutahua</link>
-        <dc:date>2026-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>世界一やさしいSnowflakeのはじめかた (ikageso17g)</title>
-        <link>https://www.docswell.com/s/alfortx/K7N118-2026-07-28-210215</link>
-        <dc:date>2026-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JICUG あなたのAI駆動開発パートナー IBM Bob を使ったアプリ開発 vol.3 (1ft-seabass)</title>
-        <link>https://speakerdeck.com/1ftseabass/2026-07-28-jicug</link>
-        <dc:date>2026-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>信頼できるテスティングAIをどう育てるか？ (odan tomohiro)</title>
-        <link>https://speakerdeck.com/odan611/xin-lai-dekirutesuteinguaiwo-douyu-teruka</link>
         <dc:date>2026-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
