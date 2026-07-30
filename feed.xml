@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>愛のままにわがままに、価値は社内だけでは育たない #PdESession (sakutaro,@saku_238)</title>
+        <link>https://www.docswell.com/s/saku_238/5X29JP-20260717_pdesession9_dresscode</link>
+        <dc:date>2026-07-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「分かち、分かり、分かり合う」〜チームで育むアーキテクチャの実践〜 (yonekubo / アーキテクトの教科書,@tyonekubo)</title>
+        <link>https://www.docswell.com/s/tyonekubo/KJW66X-architecting-as-a-team</link>
+        <dc:date>2026-07-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>決定論と非決定論を組み合わせた AI Agentの構築と改善 (zakky / Rintaro Yamazaki)</title>
+        <link>https://speakerdeck.com/tarorin0305/jue-ding-lun-tofei-jue-ding-lun-wozu-mihe-waseta-ai-agentnogou-zhu-togai-shan</link>
+        <dc:date>2026-07-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AIで帳票OCRが「簡単に」作れる時代になった？ (Shohei Kondo)</title>
         <link>https://speakerdeck.com/kon_shou/sheng-cheng-aidezhang-piao-ocrga-jian-dan-ni-zuo-rerushi-dai-ninatuta</link>
         <dc:date>2026-07-29T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>komatsuna「分散システムにおけるバグ分析手法」 (こまつな)</title>
         <link>https://speakerdeck.com/komatsunaqa/komatsuna-fen-san-sisutemuniokerubagufen-xi-shou-fa</link>
-        <dc:date>2026-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QAタスクをスキル化したいときに考えること (aomoriringo)</title>
-        <link>https://speakerdeck.com/aomoriringo/qatasukuwosukiruhua-sitaitokinikao-erukoto-81c5e64f-e7f7-4951-84b5-3aa991f13086</link>
-        <dc:date>2026-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026-07-28 3-shakeテックランチ Cloud Run のデプロイパラメータを考える / Cloud Run Deploy Parameter (SUZUKI Masashi)</title>
-        <link>https://speakerdeck.com/masasuzu/cloud-run-deploy-parameter</link>
-        <dc:date>2026-07-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloud Run Sandboxes さわってみた (すこしのバイパス検証) (RiiiM(りむ))</title>
-        <link>https://speakerdeck.com/riiimparm/cloud-run-sandboxes-sawatutemita-sukosinobaipasujian-zheng</link>
         <dc:date>2026-07-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
