@@ -3,7 +3,7 @@ application {
 }
 
 tasks.register("deploy", Exec) {
-    group "distribution"
+    group = "distribution"
     dependsOn tasks.assemble
 
     doFirst {
@@ -25,27 +25,27 @@ tasks.register("deploy", Exec) {
 
 dependencies {
     // https://mvnrepository.com/artifact/mysql/mysql-connector-java
-    implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.28'
+    implementation "mysql:mysql-connector-java:8.0.28"
 
     // https://mvnrepository.com/artifact/org.slf4j/slf4j-api
-    implementation group: 'org.slf4j', name: 'slf4j-api', version: '1.7.21'
+    implementation "org.slf4j:slf4j-api:1.7.21"
 
     // https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
-    implementation group: 'ch.qos.logback', name: 'logback-classic', version: '1.2.9'
+    implementation "ch.qos.logback:logback-classic:1.2.9"
 
     // https://mvnrepository.com/artifact/org.jsoup/jsoup
-    implementation group: 'org.jsoup', name: 'jsoup', version: '1.15.3'
+    implementation "org.jsoup:jsoup:1.15.3"
 
     // https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api
-    implementation group: 'jakarta.xml.bind', name: 'jakarta.xml.bind-api', version: '3.0.0'
+    implementation "jakarta.xml.bind:jakarta.xml.bind-api:3.0.0"
 
     // https://mvnrepository.com/artifact/com.sun.xml.bind/jaxb-impl
-    runtimeOnly group: 'com.sun.xml.bind', name: 'jaxb-impl', version: '3.0.0'
+    runtimeOnly "com.sun.xml.bind:jaxb-impl:3.0.0"
 
     // https://mvnrepository.com/artifact/tools.jackson.core/jackson-databind
-    implementation group: 'tools.jackson.core', name: 'jackson-databind', version: '3.0.2'
+    implementation "tools.jackson.core:jackson-databind:3.0.2"
 
-    testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter', version: '5.14.1'
+    testImplementation "org.junit.jupiter:junit-jupiter:5.14.1"
 
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }

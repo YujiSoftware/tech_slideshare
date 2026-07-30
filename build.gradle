@@ -1,6 +1,6 @@
 allprojects {
-    group 'tech.slideshare'
-    version '1.0-SNAPSHOT'
+    group = 'tech.slideshare'
+    version = '1.0-SNAPSHOT'
 }
 
 subprojects {

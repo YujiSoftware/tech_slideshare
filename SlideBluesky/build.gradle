@@ -10,7 +10,7 @@ application {
 }
 
 tasks.register("deploy", Exec) {
-    group "distribution"
+    group = "distribution"
     dependsOn tasks.assemble
 
     doFirst {
