@@ -20,7 +20,7 @@ public class SlideShareParser implements Parser {
     private static final Logger logger = LoggerFactory.getLogger(SlideShareParser.class);
 
     public static final String USER_AGENT
-            = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0";
+            = "curl/8.14.1";
 
     private static final List<String> spamWords = List.of(
             "film",
