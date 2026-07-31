@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>RAGりたいけど、RAGれない…。toC 医療ドメインでの “遅延拡張” RAG (TRIBEAU)</title>
+        <link>https://speakerdeck.com/tribeau/retrieval-augmented-generation</link>
+        <dc:date>2026-07-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Retriever と Reranker、結局どうする？ (hkazuakey)</title>
         <link>https://speakerdeck.com/kazuaki/retriever-to-reranker-jie-ju-dousuru</link>
         <dc:date>2026-07-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>これ１kumamoto_ai_guideline.pdf (Tasano)</title>
         <link>https://speakerdeck.com/tamakiasano1/kore1kumamoto-ai-guideline</link>
-        <dc:date>2026-07-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>医療事務養成の専門学校でのAI教育  非エンジニアの学生にAIを1年間使ってもらって、感じたこと (Naoya Wada)</title>
-        <link>https://speakerdeck.com/naochim2026/yi-liao-shi-wu-yang-cheng-nozhuan-men-xue-xiao-denoaijiao-yu-fei-enzinianoxue-sheng-niaiwo1nian-jian-shi-tutemoratute-gan-zitakoto</link>
         <dc:date>2026-07-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
