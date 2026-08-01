@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Raspberry Piのベアメタル環境circleにプリエンプトスケジューラ (Kazuhiro Takahashi)</title>
+        <link>https://www.docswell.com/s/alvstakahashi/KQ2EPN-2026-07-17-102513</link>
+        <dc:date>2026-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>robosemi2026夏 (Kazu,@kzs321)</title>
         <link>https://www.docswell.com/s/kazu-321/51QWN8-2026-08-01-184353</link>
         <dc:date>2026-07-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Reframing the Agile Manifesto (Koichi ITO)</title>
         <link>https://speakerdeck.com/koic/reframing-the-agile-manifesto</link>
-        <dc:date>2026-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アクセシビリティを_事業_にするということ (tuna)</title>
-        <link>https://speakerdeck.com/tunaoisi4/akusesihiriteiwo-shi-ye-nisurutoiukoto</link>
         <dc:date>2026-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
