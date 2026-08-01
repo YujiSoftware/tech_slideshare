@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Reframing the Agile Manifesto (Koichi ITO)</title>
+        <link>https://speakerdeck.com/koic/reframing-the-agile-manifesto</link>
+        <dc:date>2026-07-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アクセシビリティを_事業_にするということ (tuna)</title>
         <link>https://speakerdeck.com/tunaoisi4/akusesihiriteiwo-shi-ye-nisurutoiukoto</link>
         <dc:date>2026-07-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成AIで帳票OCRが「簡単に」作れる時代になった？ (Shohei Kondo)</title>
         <link>https://speakerdeck.com/kon_shou/sheng-cheng-aidezhang-piao-ocrga-jian-dan-ni-zuo-rerushi-dai-ninatuta</link>
-        <dc:date>2026-07-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OS使わず動作するLLMランタイム「NIGHTRUN」をRaspberry Piで動かしてみた (Koki Miura,@k_miura_io)</title>
-        <link>https://www.docswell.com/s/k_miura_io/5PRYQG-2026-07-30-202510</link>
         <dc:date>2026-07-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
