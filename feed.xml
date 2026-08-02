@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>クラウドセキュリティ入門　～安全なクラウド利用のための基礎知識～ (LHazy)</title>
+        <link>https://speakerdeck.com/lhazy/kuraudosekiyuriteiru-men-an-quan-nakuraudoli-yong-notamenoji-chu-zhi-shi</link>
+        <dc:date>2026-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OKRの本質 / Scrum Fest Osaka 2026 (Yasunobu Kawaguchi)</title>
         <link>https://speakerdeck.com/kawaguti/okr-essence-scrum-fest-osaka-2026</link>
         <dc:date>2026-08-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>OpenClaw Windows Hub × Microsoft Foundry の Entra ID 認証のセットアップが 少し面倒だったお話 (Kazuki Yamabe,@kdk_wakaba)</title>
         <link>https://www.docswell.com/s/kdk_wakaba/ZQ2LPM-2026-08-01-154555</link>
-        <dc:date>2026-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Functions for GoのGo紹介 (Ryuji Iwata,@qt_luigi)</title>
-        <link>https://www.docswell.com/s/qt-luigi/57N18J-azure-functions-for-go</link>
         <dc:date>2026-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
