@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[しろおび夏祭り2026]  AI利用の脅威とリスク、その対策 (tatsuiman)</title>
+        <link>https://speakerdeck.com/tatsui/shiroobi-ai-security-session2-slides-v3</link>
+        <dc:date>2026-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI研修(Day1)【MIXI 26新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day1</link>
         <dc:date>2026-08-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>QR呼び出しサービス 「YOBUNE」を作った話 (moyashi)</title>
         <link>https://speakerdeck.com/moyashi/qrhu-bichu-sisabisu-yobune-wozuo-tutahua</link>
-        <dc:date>2026-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Copilot Observability Agent GA!!～KQLを書くのをやめて、AIに質問する運用へ!～ (御成門プログラマー(Tomotaka Suzuki),@onarimonprogram)</title>
-        <link>https://www.docswell.com/s/onarimon-program/53JLVM-2026-08-01-153927</link>
         <dc:date>2026-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
