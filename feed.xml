@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>転職を「転機」にする/Turning a job change into a turning point (hachi (Hayao Kimura))</title>
+        <link>https://speakerdeck.com/hayaokimura/turning-a-job-change-into-a-turning-point</link>
+        <dc:date>2026-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Raspberry Piのベアメタル環境circleにプリエンプトスケジューラ (Kazuhiro Takahashi)</title>
         <link>https://www.docswell.com/s/alvstakahashi/KQ2EPN-2026-07-17-102513</link>
         <dc:date>2026-08-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>eltanin</title>
         <link>https://docs.google.com/presentation/d/1l5ZwuwcTelS_2skYxzmO8ZVD_VB19D0abNLfGn2vAKE/preview</link>
-        <dc:date>2026-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Reframing the Agile Manifesto (Koichi ITO)</title>
-        <link>https://speakerdeck.com/koic/reframing-the-agile-manifesto</link>
         <dc:date>2026-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
