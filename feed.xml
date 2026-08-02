@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OKRの本質 / Scrum Fest Osaka 2026 (Yasunobu Kawaguchi)</title>
+        <link>https://speakerdeck.com/kawaguti/okr-essence-scrum-fest-osaka-2026</link>
+        <dc:date>2026-08-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>NOC人生初リーダー初APチームでおもっくそ Merakiインキーした話 (NeGI NOC 参加報告) (上野大弥,@Cat5e_LabFairy)</title>
         <link>https://www.docswell.com/s/7817921960/K7N12J-2026-08-02-145455</link>
         <dc:date>2026-08-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Azure Functions for GoのGo紹介 (Ryuji Iwata,@qt_luigi)</title>
         <link>https://www.docswell.com/s/qt-luigi/57N18J-azure-functions-for-go</link>
-        <dc:date>2026-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AAgent Framework for GoのGo紹介 (Ryuji Iwata,@qt_luigi)</title>
-        <link>https://www.docswell.com/s/qt-luigi/KJW6PQ-agent-framework-or-go</link>
         <dc:date>2026-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
