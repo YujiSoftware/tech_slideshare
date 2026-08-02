@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI研修(Day1)【MIXI 26新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day1</link>
+        <dc:date>2026-08-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>クラウドセキュリティ入門　～安全なクラウド利用のための基礎知識～ (LHazy)</title>
         <link>https://speakerdeck.com/lhazy/kuraudosekiyuriteiru-men-an-quan-nakuraudoli-yong-notamenoji-chu-zhi-shi</link>
         <dc:date>2026-08-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Azure Copilot Observability Agent GA!!～KQLを書くのをやめて、AIに質問する運用へ!～ (御成門プログラマー(Tomotaka Suzuki),@onarimonprogram)</title>
         <link>https://www.docswell.com/s/onarimon-program/53JLVM-2026-08-01-153927</link>
-        <dc:date>2026-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenClaw Windows Hub × Microsoft Foundry の Entra ID 認証のセットアップが 少し面倒だったお話 (Kazuki Yamabe,@kdk_wakaba)</title>
-        <link>https://www.docswell.com/s/kdk_wakaba/ZQ2LPM-2026-08-01-154555</link>
         <dc:date>2026-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
