@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260801_スクフェス大阪 (hikari)</title>
+        <link>https://speakerdeck.com/kgnkhkr/20260801-sukuhuesuda-ban</link>
+        <dc:date>2026-08-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MIRU2026 チュートリアル講演2：三次元データ処理の動向 (Naoya Chiba)</title>
         <link>https://speakerdeck.com/nnchiba/miru2026-tiyutoriarujiang-yan-2-san-ci-yuan-detachu-li-nodong-xiang</link>
         <dc:date>2026-08-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ものぐさバイブコーディング</title>
         <link>https://docs.google.com/presentation/d/1aa5KP0jLtqvqwXEr_a9uLx0J7oWcNv_tBAgMdSjWXJI/preview</link>
-        <dc:date>2026-07-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初めてのGitHub Actions / GitHub Actions at First (philomagi)</title>
-        <link>https://speakerdeck.com/tooppoo/github-actions-at-first</link>
         <dc:date>2026-07-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
