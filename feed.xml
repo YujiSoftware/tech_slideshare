@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>苦手なことに向き合い続けた半年間 (山本一将｜焚き火を愛するエンジニア,@kyamamoto9120)</title>
+        <link>https://www.docswell.com/s/kyamamoto9120/ZMQ9WJ-2026-08-06-190000</link>
+        <dc:date>2026-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロポーザルを書いてもらう (pvcresin)</title>
+        <link>https://speakerdeck.com/pvcresin/puropozaruwoshu-itemorau</link>
+        <dc:date>2026-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>究極のコードレビュー環境を目指して 脱IDEを始めた話 (Killinsun - Ryota Takeuchi,@kill_in_sun)</title>
+        <link>https://www.docswell.com/s/killinsun/5Y87WN-build-ultimate-code-review-toolkit</link>
+        <dc:date>2026-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>形骸化しない社内勉強会の取り組み - オーナーシップの作り方 / In-house study session (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/in-house-study-session</link>
+        <dc:date>2026-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>分散するデザイン組織をつなぐ　デザインミートアップの取り組み/nikkei-tech-talk49 (日本経済新聞社 エンジニア採用事務局)</title>
+        <link>https://speakerdeck.com/nikkei_engineer_recruiting/nikkei-tech-talk49</link>
+        <dc:date>2026-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>26.7イノベーション・リリース &amp; 新しいバージョン番号 (mikoma)</title>
+        <link>https://speakerdeck.com/ikomachi226/26-dot-7inobesiyonririsu-and-xin-siibaziyonfan-hao</link>
+        <dc:date>2026-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>dotflesの世界から覗くランチャーアプリ (Horikawa,@Hol1kgmg)</title>
+        <link>https://www.docswell.com/s/Hol1kgmg/5E1W46-lancher-app-for-dotfiles</link>
+        <dc:date>2026-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>去年の今日はじめて勉強会に参加して、なぜか衛星通信に興味を持ちました (ウタカタ)</title>
+        <link>https://speakerdeck.com/awanoju_nin/qu-nian-nojin-ri-hazimetemian-qiang-hui-nican-jia-site-nazekawei-xing-tong-xin-nixing-wei-wochi-timasita</link>
+        <dc:date>2026-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>修正PRを食べてレビュースキルが賢くなる：Claude Codeによる自己改善サイクル (um(うめ))</title>
         <link>https://speakerdeck.com/yuyaumetsu/xiu-zheng-prwoshi-heterehiyusukirukaxian-kunaru-claude-codeniyoruzi-ji-gai-shan-saikuru</link>
         <dc:date>2026-08-05T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>Cdle福岡20260805 (Masami)</title>
         <link>https://www.docswell.com/s/Masami_Fukuda/KY87NN-2026-08-05-221116</link>
         <dc:date>2026-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ふとした出会いで生まれたSkillが、 社内利用1位になるまで (earlgrayMK)</title>
-        <link>https://speakerdeck.com/mikimhk/how-a-skill-born-from-a-chance-encounter-became-the-most-used-tool-in-the-company</link>
-        <dc:date>2026-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今こそ聞きたいソフトウェア設計　ドメイン駆動設計再入門 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/jin-kosowen-kitaisohutoueashe-ji-domeinqu-dong-she-ji-zai-ru-men</link>
-        <dc:date>2026-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業価値と Engineering 2026年度版 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/fy2026_bootcamp_kuroda</link>
-        <dc:date>2026-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Willを強みに変え、価値を創出する (Masayuki Matsuki,@songmu)</title>
-        <link>https://www.docswell.com/s/Songmu/Z271XG-will-to-strength-to-value</link>
-        <dc:date>2026-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サイバー捜査員研修（後半） (Nomizo Nomizo)</title>
-        <link>https://speakerdeck.com/nomizone/training-session-for-cyber-investigators-part-2</link>
-        <dc:date>2026-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「作って終わり」を卒業する  『MLflowで実践するLLMOps』著者と学ぶ もくもく会 (Takaaki Yayoi)</title>
-        <link>https://speakerdeck.com/taka_aki/zuo-tutezhong-wari-wozu-ye-suru-mlflowdeshi-jian-surullmops-zhu-zhe-toxue-bu-mokumokuhui</link>
-        <dc:date>2026-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260804＿NW-JAWS (snowwhite)</title>
-        <link>https://speakerdeck.com/yuri_snowwhite/20260804-nw-jaws</link>
-        <dc:date>2026-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIコードアポカリプス (すぎうり)</title>
-        <link>https://speakerdeck.com/uproad3/aikodoapokaripusu</link>
-        <dc:date>2026-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
