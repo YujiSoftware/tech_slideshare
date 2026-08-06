@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>制約理論（ToC）入門　2026版 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/fy2026_bootcamp_uejima</link>
+        <dc:date>2026-08-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モノリス Rails でも日中に  rails db:migrate を走らせたい！ / Daytime rails db:migrate on Monolithic Rails! (Shintani Teppei)</title>
         <link>https://speakerdeck.com/euglena1215/daytime-rails-db-migrate-on-monolithic-rails</link>
         <dc:date>2026-08-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>会議AIエージェント「SecureMemo」シリーズ紹介 − なぜ私たちは精度に一番こだわるのか (Nishika-Inc)</title>
         <link>https://speakerdeck.com/nishikainc/xian-chang-deshi-eruyin-sheng-ren-shi-llm-nishika-ai-product-lab-number-1-hui-yi-aieziento-securememo-sirizushao-jie-nazesi-tatihajing-du-ni-fan-kodawarunoka</link>
-        <dc:date>2026-08-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ASRは精度だけでは足りない − 専門用語の誤認識にどう向き合うか (Nishika-Inc)</title>
-        <link>https://speakerdeck.com/nishikainc/asrhajing-du-dakedehazu-rinai-zhuan-men-yong-yu-nowu-ren-shi-nidouxiang-kihe-uka</link>
         <dc:date>2026-08-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
