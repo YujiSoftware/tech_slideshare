@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>修正PRを食べてレビュースキルが賢くなる：Claude Codeによる自己改善サイクル (um(うめ))</title>
+        <link>https://speakerdeck.com/yuyaumetsu/xiu-zheng-prwoshi-heterehiyusukirukaxian-kunaru-claude-codeniyoruzi-ji-gai-shan-saikuru</link>
+        <dc:date>2026-08-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>堅牢でスケーラブルな働き方を構築する技術 (小田中育生)</title>
         <link>https://speakerdeck.com/ikuodanaka/jian-lao-tesukerahurunadong-kifang-wogou-zhu-suruji-shu</link>
         <dc:date>2026-08-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIコードアポカリプス (すぎうり)</title>
         <link>https://speakerdeck.com/uproad3/aikodoapokaripusu</link>
-        <dc:date>2026-08-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>-AIが認証し、AIが認証を書く-  AI Agent 時代の認証ライブラリ Better Authを理解する (Kaito.K)</title>
-        <link>https://speakerdeck.com/sc30gsw/aigaren-zheng-si-aigaren-zheng-woshu-ku-ai-agent-shi-dai-noren-zheng-raiburari-better-authwoli-jie-suru</link>
         <dc:date>2026-08-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
