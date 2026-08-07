@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSからCloudflareへ移して わかった「サーバを所有しない」こと</title>
+        <link>https://docs.google.com/presentation/d/1MVF6nWVXKlFVjLMnUoCtjkQ8pJBh4knmBcv5kFJn_eY/preview</link>
+        <dc:date>2026-08-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>え？フロントエンドエンジニアの ワイがインフラも！？ (puku0x)</title>
+        <link>https://speakerdeck.com/puku0x/e-hurontoendoenziniano-waigainhuramo</link>
+        <dc:date>2026-08-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agent 時代の Kaggle 展望 / kaggle-in-the-agentic-era (Shotaro Ishihara)</title>
+        <link>https://speakerdeck.com/upura/kaggle-in-the-agentic-era</link>
+        <dc:date>2026-08-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ガバメント AI 源内を地方自治体は活用できるのか 可能性と課題、期待について (takeda_h)</title>
         <link>https://speakerdeck.com/takeda_h/gabamento-ai-yuan-nei-wodi-fang-zi-zhi-ti-hahuo-yong-dekirunoka-ke-neng-xing-toke-ti-qi-dai-nituite</link>
         <dc:date>2026-08-06T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>去年の今日はじめて勉強会に参加して、なぜか衛星通信に興味を持ちました (ウタカタ)</title>
         <link>https://speakerdeck.com/awanoju_nin/qu-nian-nojin-ri-hazimetemian-qiang-hui-nican-jia-site-nazekawei-xing-tong-xin-nixing-wei-wochi-timasita</link>
-        <dc:date>2026-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>修正PRを食べてレビュースキルが賢くなる：Claude Codeによる自己改善サイクル (um(うめ))</title>
-        <link>https://speakerdeck.com/yuyaumetsu/xiu-zheng-prwoshi-heterehiyusukirukaxian-kunaru-claude-codeniyoruzi-ji-gai-shan-saikuru</link>
-        <dc:date>2026-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>堅牢でスケーラブルな働き方を構築する技術 (小田中育生)</title>
-        <link>https://speakerdeck.com/ikuodanaka/jian-lao-tesukerahurunadong-kifang-wogou-zhu-suruji-shu</link>
-        <dc:date>2026-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HUMAN MADE Inc. COMPANY PROFILE (HUMAN MADE Inc.)</title>
-        <link>https://speakerdeck.com/humanmade_pr/human-made-inc-company-profile-6e05a074-211c-4436-bc60-da8f4b03835f</link>
         <dc:date>2026-08-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
