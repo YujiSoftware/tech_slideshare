@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWSで物の情報をシェアするアプリつくってみた ―VLMとベクトル検索で、角度を問わず物体同定― (Takuya Yamazaki)</title>
+        <link>https://www.docswell.com/s/kkmtyyz/5PRXME-2026-08-08-205601</link>
+        <dc:date>2026-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Denoで作るはじめてのCLI実行ファイルハンズオン (hidao)</title>
+        <link>https://speakerdeck.com/hidao80/denodezuo-ruhazimetenoclishi-xing-huairuhanzuon</link>
+        <dc:date>2026-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ホームラボ紹介 (世良泰明)</title>
+        <link>https://speakerdeck.com/y_sera15/homuraboshao-jie</link>
+        <dc:date>2026-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TalosLinuxはいいぞ！！！(超突貫LT) (Sora Akatuki,@_Sora_Engineer)</title>
+        <link>https://www.docswell.com/s/AkatukiSora/5N7NL2-2026-08-08-163255</link>
+        <dc:date>2026-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IaCとバックアップで自宅鯖を壊そう！！！ (Sora Akatuki,@_Sora_Engineer)</title>
+        <link>https://www.docswell.com/s/AkatukiSora/Z6NLG4-2026-08-08-163726</link>
+        <dc:date>2026-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS Transform Custom による Spring Boot 2.xから4.xへのVerUp (Satoshi Kaneyasu)</title>
+        <link>https://speakerdeck.com/satoshi256kbyte/aws-transform-custom-niyoru-spring-boot-2-dot-xkara4-dot-xhenoverup</link>
+        <dc:date>2026-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[Shingen.py] 2026.08.08 AIエージェント駆動開発の進め方 (3時間で動くMVPを作ろう) (Hiroki Abe)</title>
+        <link>https://www.docswell.com/s/hroabe/KN7N12-2026-08-08-064119</link>
+        <dc:date>2026-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AlibabaのAI戦略をコンサルがガチ分析してみた (Yusuke Kishimoto)</title>
+        <link>https://speakerdeck.com/ykishimotoy/alibabanoaizhan-lue-wokonsarugagatifen-xi-sitemita</link>
+        <dc:date>2026-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>QwenとHermesで無料でAI駆動開発を試してみた (dinosauria123,@dinosauria123)</title>
+        <link>https://www.docswell.com/s/dinosauria123/5X2QPM-2026-08-08-213053</link>
+        <dc:date>2026-08-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>研究発表の仕方 / Happy Presentation (kaityo256)</title>
         <link>https://speakerdeck.com/kaityo256/happy-presentation</link>
         <dc:date>2026-08-07T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>氷川神社の話 (sapi_kawahara)</title>
         <link>https://speakerdeck.com/sapi_kawahara/bing-chuan-shen-she-nohua</link>
         <dc:date>2026-08-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第3回 やさしいClaude Code などLT大会　Gemini APIによるAI即興ジャム </title>
-        <link>https://docs.google.com/presentation/d/13XvRak56t8N91OFIZC_6LhxuZJdGHTOw3ZbnJn-00ws/preview</link>
-        <dc:date>2026-08-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>仕様駆動開発の消費期限 (watany)</title>
-        <link>https://speakerdeck.com/watany/expiration-date-of-sdd</link>
-        <dc:date>2026-08-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>制約理論（ToC）入門　2026版 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/fy2026_bootcamp_uejima</link>
-        <dc:date>2026-08-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モノリス Rails でも日中に  rails db:migrate を走らせたい！ / Daytime rails db:migrate on Monolithic Rails! (Shintani Teppei)</title>
-        <link>https://speakerdeck.com/euglena1215/daytime-rails-db-migrate-on-monolithic-rails</link>
-        <dc:date>2026-08-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ときめかないミーティングはアップデートのシグナル #scrumosaka (asumikam)</title>
-        <link>https://speakerdeck.com/asumikam/tokimeki-is-important-for-meetings</link>
-        <dc:date>2026-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>苦手なことに向き合い続けた半年間 (山本一将｜焚き火を愛するエンジニア,@kyamamoto9120)</title>
-        <link>https://www.docswell.com/s/kyamamoto9120/ZMQ9WJ-2026-08-06-190000</link>
-        <dc:date>2026-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロポーザルを書いてもらう (pvcresin)</title>
-        <link>https://speakerdeck.com/pvcresin/puropozaruwoshu-itemorau</link>
-        <dc:date>2026-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>究極のコードレビュー環境を目指して 脱IDEを始めた話 (Killinsun - Ryota Takeuchi,@kill_in_sun)</title>
-        <link>https://www.docswell.com/s/killinsun/5Y87WN-build-ultimate-code-review-toolkit</link>
-        <dc:date>2026-08-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>形骸化しない社内勉強会の取り組み - オーナーシップの作り方 / In-house study session (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/in-house-study-session</link>
-        <dc:date>2026-08-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
