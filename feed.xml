@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20分でわかるセキュアAPI (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/20fen-dewakarusekiyuaapi</link>
+        <dc:date>2026-08-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>情報系学生のための「論文の書き方」入門― LaTeX・論理構成・生成AIを使った推敲・添削 (Koki Yamada,@KokiYamada6)</title>
         <link>https://www.docswell.com/s/2625216247/ZX2QWM-2026-08-10-180107</link>
         <dc:date>2026-08-09T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>[Shingen.py] 2026.08.08 AIで山梨オープンデータ活用＆ハッカソンに挑戦！もくもく会 (Hiroki Abe)</title>
         <link>https://www.docswell.com/s/hroabe/5MQ919-2026-08-07-115228</link>
         <dc:date>2026-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSからCloudflareへ移して わかった「サーバを所有しない」こと</title>
-        <link>https://docs.google.com/presentation/d/1MVF6nWVXKlFVjLMnUoCtjkQ8pJBh4knmBcv5kFJn_eY/preview</link>
-        <dc:date>2026-08-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
