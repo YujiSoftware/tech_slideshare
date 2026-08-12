@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LanceDB入門 (Tomoko Uchida)</title>
+        <link>https://speakerdeck.com/mocobeta/lancedb-nyuumon</link>
+        <dc:date>2026-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DatadogのBits Chatが開発組織にもたらしたもの / What Bits Chat Has Brought Us (SMS tech)</title>
         <link>https://speakerdeck.com/sms_tech/what-bits-chat-has-brought-us</link>
         <dc:date>2026-08-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AlibabaのAI戦略をコンサルがガチ分析してみた (Yusuke Kishimoto)</title>
         <link>https://speakerdeck.com/ykishimotoy/alibabanoaizhan-lue-wokonsarugagatifen-xi-sitemita</link>
-        <dc:date>2026-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QwenとHermesで無料でAI駆動開発を試してみた (dinosauria123,@dinosauria123)</title>
-        <link>https://www.docswell.com/s/dinosauria123/5X2QPM-2026-08-08-213053</link>
         <dc:date>2026-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
