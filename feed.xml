@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIと共に料金分析をしてみる (Siromi)</title>
+        <link>https://speakerdeck.com/siromi/seisei-ai-totomoni-ryoukin-bunseki-o-shi-te-miru</link>
+        <dc:date>2026-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>地震情報アプリを作ってみた (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/jishin-jouhou-o-tsuku-te-mita</link>
+        <dc:date>2026-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェントアーキテクト生成メタエージェント (Taka)</title>
+        <link>https://speakerdeck.com/nozakijcom/ai-seisei-meta-ejento</link>
+        <dc:date>2026-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>MulticaとPi Coding Agentで、小規模OSSを30本同時運用した流れ (eiei114)</title>
+        <link>https://speakerdeck.com/eiei114/multica-to-pi-coding-agent-de-shoukibo-oss-o-30-hondouji-unyou-shita-nagare</link>
+        <dc:date>2026-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ハーレムエンジニアリング (yamachan)</title>
+        <link>https://speakerdeck.com/kazuma777777/haremu-enjiniaringu</link>
+        <dc:date>2026-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>FDEの心得 (Noriaki Oji)</title>
         <link>https://speakerdeck.com/noriakioji/fde-no-kokoroe</link>
         <dc:date>2026-08-11T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>Denoで作るはじめてのCLI実行ファイルハンズオン (hidao)</title>
         <link>https://speakerdeck.com/hidao80/denodezuo-ruhazimetenoclishi-xing-huairuhanzuon</link>
-        <dc:date>2026-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ホームラボ紹介 (世良泰明)</title>
-        <link>https://speakerdeck.com/y_sera15/homuraboshao-jie</link>
-        <dc:date>2026-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TalosLinuxはいいぞ！！！(超突貫LT) (Sora Akatuki,@_Sora_Engineer)</title>
-        <link>https://www.docswell.com/s/AkatukiSora/5N7NL2-2026-08-08-163255</link>
-        <dc:date>2026-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IaCとバックアップで自宅鯖を壊そう！！！ (Sora Akatuki,@_Sora_Engineer)</title>
-        <link>https://www.docswell.com/s/AkatukiSora/Z6NLG4-2026-08-08-163726</link>
-        <dc:date>2026-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Transform Custom による Spring Boot 2.xから4.xへのVerUp (Satoshi Kaneyasu)</title>
-        <link>https://speakerdeck.com/satoshi256kbyte/aws-transform-custom-niyoru-spring-boot-2-dot-xkara4-dot-xhenoverup</link>
-        <dc:date>2026-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[Shingen.py] 2026.08.08 AIエージェント駆動開発の進め方 (3時間で動くMVPを作ろう) (Hiroki Abe)</title>
-        <link>https://www.docswell.com/s/hroabe/KN7N12-2026-08-08-064119</link>
         <dc:date>2026-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
