@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ブラウザ研修 2026 (Recruit)</title>
+        <link>https://speakerdeck.com/recruitengineers/fy2026_bootcamp_furukawa</link>
+        <dc:date>2026-08-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AIと共に料金分析をしてみる (Siromi)</title>
         <link>https://speakerdeck.com/siromi/seisei-ai-totomoni-ryoukin-bunseki-o-shi-te-miru</link>
         <dc:date>2026-08-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWSで物の情報をシェアするアプリつくってみた ―VLMとベクトル検索で、角度を問わず物体同定― (Takuya Yamazaki)</title>
         <link>https://www.docswell.com/s/kkmtyyz/5PRXME-2026-08-08-205601</link>
-        <dc:date>2026-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Denoで作るはじめてのCLI実行ファイルハンズオン (hidao)</title>
-        <link>https://speakerdeck.com/hidao80/denodezuo-ruhazimetenoclishi-xing-huairuhanzuon</link>
         <dc:date>2026-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
