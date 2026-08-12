@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FDEの心得 (Noriaki Oji)</title>
+        <link>https://speakerdeck.com/noriakioji/fde-no-kokoroe</link>
+        <dc:date>2026-08-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LanceDB入門 (Tomoko Uchida)</title>
         <link>https://speakerdeck.com/mocobeta/lancedb-nyuumon</link>
         <dc:date>2026-08-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[Shingen.py] 2026.08.08 AIエージェント駆動開発の進め方 (3時間で動くMVPを作ろう) (Hiroki Abe)</title>
         <link>https://www.docswell.com/s/hroabe/KN7N12-2026-08-08-064119</link>
-        <dc:date>2026-08-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AlibabaのAI戦略をコンサルがガチ分析してみた (Yusuke Kishimoto)</title>
-        <link>https://speakerdeck.com/ykishimotoy/alibabanoaizhan-lue-wokonsarugagatifen-xi-sitemita</link>
         <dc:date>2026-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
