@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュリティ・キャンプ2026B3 LLMアプリからAIエージェントまで /seccamp2026-b3 (JJ (yuasa),@melonattacker)</title>
+        <link>https://www.docswell.com/s/melonattacker/ZDM6MV-seccamp-b3</link>
+        <dc:date>2026-08-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ブラウザ研修 2026 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/fy2026_bootcamp_furukawa</link>
         <dc:date>2026-08-12T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>モダンフロントエンド 開発研修 (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/fy2026_bootcamp_sato</link>
         <dc:date>2026-08-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSで物の情報をシェアするアプリつくってみた ―VLMとベクトル検索で、角度を問わず物体同定― (Takuya Yamazaki)</title>
-        <link>https://www.docswell.com/s/kkmtyyz/5PRXME-2026-08-08-205601</link>
-        <dc:date>2026-08-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
