@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Amazon LeoとAWS Ground Stationで考える衛星通信の話 (ウタカタ)</title>
+        <link>https://speakerdeck.com/awanoju_nin/amazon-leo-to-aws-ground-station-de-kangaeru-eisei-tsuushin-no-hanashi</link>
+        <dc:date>2026-08-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2026-08-15 JAWS-UG 茨城 #16 Secrets ManagerにおけるSecret値の管理(Terraformの場合) / Secrets Manager Secrets (SUZUKI Masashi)</title>
+        <link>https://speakerdeck.com/masasuzu/secrets-manager-secrets</link>
+        <dc:date>2026-08-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kiro Crew入門 - 常駐エージェントの仕組みと使いどころ / Intro to Kiro Crew (Kazuki Adachi)</title>
+        <link>https://speakerdeck.com/k_adachi_01/intro-to-kiro-crew-1b609575-6a2f-4a5c-a8d2-87c33fbd374b</link>
+        <dc:date>2026-08-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>大学のIR担当者になったら知っておきたい 「民間企業におけるデータ基盤の構築・運用」入門 / 20251021 (風音屋 (Kazaneya))</title>
         <link>https://speakerdeck.com/kazaneya/20251021</link>
         <dc:date>2026-08-14T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>20分でわかるセキュアAPI (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/20fen-dewakarusekiyuaapi</link>
         <dc:date>2026-08-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>情報系学生のための「論文の書き方」入門― LaTeX・論理構成・生成AIを使った推敲・添削 (Koki Yamada,@KokiYamada6)</title>
-        <link>https://www.docswell.com/s/2625216247/ZX2QWM-2026-08-10-180107</link>
-        <dc:date>2026-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIインフラの最新技術動向2026 (OCP China) (Masayuki Kobayashi)</title>
-        <link>https://speakerdeck.com/markunet/aiinhuranozui-xin-ji-shu-dong-xiang-2026-ocp-china</link>
-        <dc:date>2026-08-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モバイルアプリ開発概論2026 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/fy2026_bootcamp_kokubo</link>
-        <dc:date>2026-08-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
