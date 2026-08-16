@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェアエンジニアにとっての生成AI - 特性を知って使い倒す / generative ai for software enginner (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/generative-ai-for-software-enginner</link>
+        <dc:date>2026-08-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Amazon LeoとAWS Ground Stationで考える衛星通信の話 (ウタカタ)</title>
         <link>https://speakerdeck.com/awanoju_nin/amazon-leo-to-aws-ground-station-de-kangaeru-eisei-tsuushin-no-hanashi</link>
         <dc:date>2026-08-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>セキュリティ・キャンプ2026B2 セキュリティ分析LLMエージェントの実装 /seccamp2026-b2  (Masayoshi Mizutani)</title>
         <link>https://speakerdeck.com/mizutani/seccamp2026-b2</link>
-        <dc:date>2026-08-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20分でわかるセキュアAPI (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/20fen-dewakarusekiyuaapi</link>
         <dc:date>2026-08-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
