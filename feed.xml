@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIがコードを書くなら、もう勉強しなくていい？AI時代に基礎を学ぶ理由 (Yusuke Tanaka,@yusuktan)</title>
+        <link>https://www.docswell.com/s/magurotuna/53J4YJ-2026-08-16-aiau-craft-day</link>
+        <dc:date>2026-08-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ソフトウェアエンジニアにとっての生成AI - 特性を知って使い倒す / generative ai for software enginner (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/generative-ai-for-software-enginner</link>
         <dc:date>2026-08-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LLM・AIエージェントシステムベストプラクティス (shibuiwilliam)</title>
         <link>https://speakerdeck.com/shibuiwilliam/llm-ai</link>
-        <dc:date>2026-08-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ・キャンプ2026B2 セキュリティ分析LLMエージェントの実装 /seccamp2026-b2  (Masayoshi Mizutani)</title>
-        <link>https://speakerdeck.com/mizutani/seccamp2026-b2</link>
         <dc:date>2026-08-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
