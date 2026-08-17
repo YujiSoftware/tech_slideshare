@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>in-process GraphQL のすすめ #ginzajs (izumin5210)</title>
+        <link>https://speakerdeck.com/izumin5210/in-process-graphql-ginzajs-11</link>
+        <dc:date>2026-08-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Googleが発表した新Web標準ドラフト――WebMCP。実際どうなの？ IO Extendedで実装・登壇して分かったこと (tanahiro2010)</title>
         <link>https://speakerdeck.com/tanahiro2010/google-ga-happyou-shita-shin-web-hyoujun-dorafuto-webmcp-jissai-douna-no-io-extended-de-jissou-toudan-shi-te-wakata-koto</link>
         <dc:date>2026-08-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>FDEの心得 (Noriaki Oji)</title>
         <link>https://speakerdeck.com/noriakioji/fde-no-kokoroe</link>
-        <dc:date>2026-08-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LanceDB入門 (Tomoko Uchida)</title>
-        <link>https://speakerdeck.com/mocobeta/lancedb-nyuumon</link>
         <dc:date>2026-08-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
