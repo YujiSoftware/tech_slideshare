@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JaSSTnano_HITL_どこに置くのなの_v0.1.pptx</title>
+        <link>https://docs.google.com/presentation/d/1oBb--Mje9WHF4MHSsOWeYeMNVgH7MNDI/preview</link>
+        <dc:date>2026-08-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AgentforceとSalesforceフローとSlackで実現する 「自走型エージェント」構築手順 (Yoshi)</title>
+        <link>https://speakerdeck.com/yoshi17/agentforcetosalesforcehurotoslackdeshi-xian-suru-zi-zou-xing-eziento-gou-zhu-shou-shun</link>
+        <dc:date>2026-08-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>あえてアプリ開発を「終わらせる」話 (chokkura)</title>
+        <link>https://speakerdeck.com/chokkura/aete-kaihatsu-o-owaraseru-hanashi</link>
+        <dc:date>2026-08-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanワークショップ - モックサーバー - 20260818</title>
+        <link>https://docs.google.com/presentation/d/1AYbO7pbKqyJv9JwCXyt886g_9wQHJUnyyEhMEar5RwY/preview</link>
+        <dc:date>2026-08-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>APIを2つに割ったらタイムラインが30倍速くなった話（@Ginzajs #11） (asahi)</title>
         <link>https://speakerdeck.com/ashunar0/api-o-2-tsu-ni-watara-taimu-rain-ga-30-bai-hayaku-nata-hanashi-ginzajs-11</link>
         <dc:date>2026-08-17T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>セキュリティ・キャンプ2026B3 LLMアプリからAIエージェントまで /seccamp2026-b3 (JJ (yuasa),@melonattacker)</title>
         <link>https://www.docswell.com/s/melonattacker/ZDM6MV-seccamp-b3</link>
         <dc:date>2026-08-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ブラウザ研修 2026 (Recruit)</title>
-        <link>https://speakerdeck.com/recruitengineers/fy2026_bootcamp_furukawa</link>
-        <dc:date>2026-08-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIと共に料金分析をしてみる (Siromi)</title>
-        <link>https://speakerdeck.com/siromi/seisei-ai-totomoni-ryoukin-bunseki-o-shi-te-miru</link>
-        <dc:date>2026-08-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>地震情報アプリを作ってみた (Yuuki Yamashita)</title>
-        <link>https://speakerdeck.com/yama3133/jishin-jouhou-o-tsuku-te-mita</link>
-        <dc:date>2026-08-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントアーキテクト生成メタエージェント (Taka)</title>
-        <link>https://speakerdeck.com/nozakijcom/ai-seisei-meta-ejento</link>
-        <dc:date>2026-08-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
