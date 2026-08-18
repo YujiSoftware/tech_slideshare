@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>我々はどう生きるか (gree_tech)</title>
+        <link>https://speakerdeck.com/gree_tech/wo-hadousheng-kiruka</link>
+        <dc:date>2026-08-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>バグを直したら useEffect が消えた (taki)</title>
         <link>https://speakerdeck.com/colorful12/bagu-o-naoshitara-useeffect-ga-kieta</link>
         <dc:date>2026-08-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>MulticaとPi Coding Agentで、小規模OSSを30本同時運用した流れ (eiei114)</title>
         <link>https://speakerdeck.com/eiei114/multica-to-pi-coding-agent-de-shoukibo-oss-o-30-hondouji-unyou-shita-nagare</link>
-        <dc:date>2026-08-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハーレムエンジニアリング (yamachan)</title>
-        <link>https://speakerdeck.com/kazuma777777/haremu-enjiniaringu</link>
         <dc:date>2026-08-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
