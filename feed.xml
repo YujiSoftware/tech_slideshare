@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>承認済みなのに差戻しできてしまうバグ、型で潰せます (SHINCHI Takahiro)</title>
+        <link>https://speakerdeck.com/shinchit/shouninzumina-noni-sashimodoshi-deki-te-shimau-bagu-kata-de-tsubusemasu</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHPの非同期対応 これまでとこれから (_ma_me_)</title>
+        <link>https://www.docswell.com/s/1313108/59NLLJ-2026-08-15-213955</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260819第39回オープンエッジデバイス研究会</title>
         <link>https://docs.google.com/presentation/d/14c5xihLtGJ-_GvSVc69stwBAbJMnx8U49S19ryFGDj8/preview</link>
         <dc:date>2026-08-18T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>「受託脳」から「提案脳」へ〜「一緒に悩んで、いいものつくる」を目指して (Yoshihito Kuranuki / 倉貫義人)</title>
         <link>https://speakerdeck.com/kuranuki/from-order-taking-brain-to-proposal-brain</link>
         <dc:date>2026-08-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RubyでPDFを作りたくなったら Kyobashi.rb #13 資料 (Shun Nishitani)</title>
-        <link>https://speakerdeck.com/nisshy82/ruby-de-pdf-o-tsukuritaku-natara-kyobashi-rb-13-shiryou</link>
-        <dc:date>2026-08-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIがコードを書くなら、もう勉強しなくていい？AI時代に基礎を学ぶ理由 (Yusuke Tanaka,@yusuktan)</title>
-        <link>https://www.docswell.com/s/magurotuna/53J4YJ-2026-08-16-aiau-craft-day</link>
-        <dc:date>2026-08-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
