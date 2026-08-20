@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ビジネス部⾨主体のデータ基盤の活⽤事例 ~SnowflakeとTROCCOが担う役割~ @p_UG「データ基盤/活用におけるAI活用紹介 ~Terraformや設計改善まで~」 (Ryo Suzuki)</title>
+        <link>https://speakerdeck.com/ryo_suzuki/huo-yong-niokeruaihuo-yong-shao-jie-terraformyashe-ji-gai-shan-made</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Go 1.27 の標準パッケージに uuid が入った！のでいろいろ喋る / go_127_std_go_uuid (convto)</title>
         <link>https://speakerdeck.com/convto/go-127-std-go-uuid</link>
         <dc:date>2026-08-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>我々はどう生きるか (gree_tech)</title>
         <link>https://speakerdeck.com/gree_tech/wo-hadousheng-kiruka</link>
-        <dc:date>2026-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バグを直したら useEffect が消えた (taki)</title>
-        <link>https://speakerdeck.com/colorful12/bagu-o-naoshitara-useeffect-ga-kieta</link>
         <dc:date>2026-08-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
