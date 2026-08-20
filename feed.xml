@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>現代のコンピュータに おける自作OS事情</title>
+        <link>https://docs.google.com/presentation/d/1mbLk70RKi-ExLzb78WosCu5DujpQN2K7B9iSbUGRXq4/preview</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIエージェント時代の企業セキュリティ入門_0728 (connect24h,@connect24h)</title>
         <link>https://www.docswell.com/s/connect24h/KE1W77-2026-08-19-002524</link>
         <dc:date>2026-08-19T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>in-process GraphQL のすすめ #ginzajs (izumin5210)</title>
         <link>https://speakerdeck.com/izumin5210/in-process-graphql-ginzajs-11</link>
         <dc:date>2026-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Googleが発表した新Web標準ドラフト――WebMCP。実際どうなの？ IO Extendedで実装・登壇して分かったこと (tanahiro2010)</title>
-        <link>https://speakerdeck.com/tanahiro2010/google-ga-happyou-shita-shin-web-hyoujun-dorafuto-webmcp-jissai-douna-no-io-extended-de-jissou-toudan-shi-te-wakata-koto</link>
-        <dc:date>2026-08-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
