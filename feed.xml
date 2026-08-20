@@ -6,6 +6,61 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ドメイン駆動で設計する、機能的凝集されたフロントエンドコンポーネント (IkedaNoritaka)</title>
+        <link>https://speakerdeck.com/noritakaikeda/domein-kudou-de-sekkei-suru-kinouteki-gyoushuu-sareta</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DDDのエッセンスを取り入れたAIでの開発 (ak2ie)</title>
+        <link>https://speakerdeck.com/ak2ie/ddd-no-essensu-o-toriireta-ai-deno-kaihatsu</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>tamachi.go 誕生の裏側 (ryoji miyamoto)</title>
+        <link>https://speakerdeck.com/rymiyamoto/tamachi-go-tanjou-no-uragawa</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>音声トリガーのアクションをDIでE2Eテストする (tai2)</title>
+        <link>https://www.docswell.com/s/tai2/KY87JE-2026-08-20-200115</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GenAIge Cafe #10 生成AIとここまで、これから。 (ayane)</title>
+        <link>https://speakerdeck.com/blueb/genaige-cafe-10-seisei-ai-to-koko-made-korekara</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260820_アウトカムが二値のデータに対するCausal Impact@LINEヤフー Data Science Share #2 / Causal Impact for Binary Outcomes (BrainPad)</title>
+        <link>https://speakerdeck.com/brainpadpr/causal-impact-for-binary-outcomes</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code Skills を使ったドキュメント更新運用 (mani)</title>
+        <link>https://speakerdeck.com/marnysan111/claude-code-skills-o-tsukata-dokyumento-koushin-unyou</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>lldbを使ってCRubyの中を覗く - Kashiwa.rb #26</title>
+        <link>https://docs.google.com/presentation/d/1qG1RN7L-N7Mc8AmpMjUBfWjp_tgq21OZ4-KF6m-pxkw/preview</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIにブラウザを触らせて、E2EテストをPlaywrightで書く (koji_kawamura)</title>
+        <link>https://speakerdeck.com/koji_kawamura/ai-ni-o-sawarase-te-e2e-tesuto-o-playwright-de-kaku</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実装前のバグを見つけるために、 AI-DLC Workflows v2 を個人開発で入れた話 (Hidetaka Okamoto,@hidetaka_dev)</title>
+        <link>https://www.docswell.com/s/hideokamoto/5MQ9PX-2026-08-20-193318</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>One Year of Learning English with AI @エンジニア英語キャリア Meetup #3 (Kenta Suzuki)</title>
+        <link>https://speakerdeck.com/kekekenta/one-year-of-learning-english-with-ai-enjinia-eigo-kyaria-meetup-3</link>
+        <dc:date>2026-08-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ビジネス部⾨主体のデータ基盤の活⽤事例 ~SnowflakeとTROCCOが担う役割~ @p_UG「データ基盤/活用におけるAI活用紹介 ~Terraformや設計改善まで~」 (Ryo Suzuki)</title>
         <link>https://speakerdeck.com/ryo_suzuki/huo-yong-niokeruaihuo-yong-shao-jie-terraformyashe-ji-gai-shan-made</link>
         <dc:date>2026-08-19T15:00:00Z</dc:date>
@@ -49,60 +104,5 @@
         <title>CLI Agentを使い分ける (Taisei Ozaki)</title>
         <link>https://speakerdeck.com/ozakiomumkj/cli-agent-o-tsukaiwakeru</link>
         <dc:date>2026-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Symfonyが 簡単にAI agentになる (hideki kinjyo)</title>
-        <link>https://speakerdeck.com/o0h/phpstudy-190</link>
-        <dc:date>2026-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>やるのか (chatii)</title>
-        <link>https://speakerdeck.com/chatii/yaru-no-ka</link>
-        <dc:date>2026-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>まずはプロンプトガイドを読もう、話はそれからだ (Akira TSURUDA)</title>
-        <link>https://speakerdeck.com/kiakiraki/mazuha-o-yomou-hanashi-ha-sore-karada</link>
-        <dc:date>2026-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非機能要件起点のAIエージェント構築 (Kenji Takatani)</title>
-        <link>https://speakerdeck.com/takateeen_knj/20260818-jawsug-8e04294a-400f-415d-bb77-19d1a2f8e92b</link>
-        <dc:date>2026-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AgentCoreで作る市バスエージェント (Koki Miura,@k_miura_io)</title>
-        <link>https://www.docswell.com/s/k_miura_io/5MQ9R2-2026-08-18-204205</link>
-        <dc:date>2026-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JaSSTnano_HITL_どこに置くのなの_v0.1.pptx</title>
-        <link>https://docs.google.com/presentation/d/1oBb--Mje9WHF4MHSsOWeYeMNVgH7MNDI/preview</link>
-        <dc:date>2026-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AgentforceとSalesforceフローとSlackで実現する 「自走型エージェント」構築手順 (Yoshi)</title>
-        <link>https://speakerdeck.com/yoshi17/agentforcetosalesforcehurotoslackdeshi-xian-suru-zi-zou-xing-eziento-gou-zhu-shou-shun</link>
-        <dc:date>2026-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あえてアプリ開発を「終わらせる」話 (chokkura)</title>
-        <link>https://speakerdeck.com/chokkura/aete-kaihatsu-o-owaraseru-hanashi</link>
-        <dc:date>2026-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanワークショップ - モックサーバー - 20260818</title>
-        <link>https://docs.google.com/presentation/d/1AYbO7pbKqyJv9JwCXyt886g_9wQHJUnyyEhMEar5RwY/preview</link>
-        <dc:date>2026-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>APIを2つに割ったらタイムラインが30倍速くなった話（@Ginzajs #11） (asahi)</title>
-        <link>https://speakerdeck.com/ashunar0/api-o-2-tsu-ni-watara-taimu-rain-ga-30-bai-hayaku-nata-hanashi-ginzajs-11</link>
-        <dc:date>2026-08-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>我々はどう生きるか (gree_tech)</title>
-        <link>https://speakerdeck.com/gree_tech/wo-hadousheng-kiruka</link>
-        <dc:date>2026-08-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
