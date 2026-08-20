@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>現実的なセキュリティ体制の構築  限られたリソースの中で成果を最大化する「選択と集中」 (株式会社出前館)</title>
+        <link>https://speakerdeck.com/demaecan/app-architecture-transformation</link>
+        <dc:date>2026-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>一人でちいさくはじめる Platform Engineering (syossan27)</title>
+        <link>https://speakerdeck.com/syossan27/ichininde-chiisaku-hajimeru-platform-engineering</link>
+        <dc:date>2026-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ドメイン駆動で設計する、機能的凝集されたフロントエンドコンポーネント (IkedaNoritaka)</title>
         <link>https://speakerdeck.com/noritakaikeda/domein-kudou-de-sekkei-suru-kinouteki-gyoushuu-sareta</link>
         <dc:date>2026-08-19T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>20260819第39回オープンエッジデバイス研究会</title>
         <link>https://docs.google.com/presentation/d/14c5xihLtGJ-_GvSVc69stwBAbJMnx8U49S19ryFGDj8/preview</link>
-        <dc:date>2026-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[OEDC報告]OEDC×Iwaken Lab. XR開発者向けマイコン入門ハンズオン</title>
-        <link>https://docs.google.com/presentation/d/1ECoKpOoApMKklmhuv15AqDc0zFAa6KlERBSF9qeMxDg/preview</link>
-        <dc:date>2026-08-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CLI Agentを使い分ける (Taisei Ozaki)</title>
-        <link>https://speakerdeck.com/ozakiomumkj/cli-agent-o-tsukaiwakeru</link>
         <dc:date>2026-08-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
