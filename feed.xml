@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLMの出力を"いい感じに"する技術 / Taming LLM Output: AI Agent Design Patterns with FastAPI (Shinichi Nakagawa)</title>
+        <link>https://speakerdeck.com/shinyorke/taming-llm-output-ai-agent-design-patterns-with-fastapi</link>
+        <dc:date>2026-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>35分でわかるEffective Platform Engineering (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/35-bun-de-wakaru-effective-platform-engineering</link>
         <dc:date>2026-08-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>現代のコンピュータに おける自作OS事情</title>
         <link>https://docs.google.com/presentation/d/1mbLk70RKi-ExLzb78WosCu5DujpQN2K7B9iSbUGRXq4/preview</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェント時代の企業セキュリティ入門_0728 (connect24h,@connect24h)</title>
-        <link>https://www.docswell.com/s/connect24h/KE1W77-2026-08-19-002524</link>
         <dc:date>2026-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
