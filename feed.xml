@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Introduction to Macros in Scheme (Masanori Ogino)</title>
+        <link>https://speakerdeck.com/omasanori/introduction-to-macros-in-scheme</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>KEEBHOLIC NAGOYA Vol.2 (shakupan)</title>
+        <link>https://speakerdeck.com/shakupan/keebholic-nagoya-vol-dot-2</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIに既存システムを理解させる技術　～レガシーを見捨てないハーネスエンジニアリング入門～ (Ochtum)</title>
+        <link>https://speakerdeck.com/ochtum/ai-ni-kison-shisutemu-o-rikai-saseru-gijutsu-o-misutenai-hanesu-enjiniaringu-nyuumon</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SO-101でフィジカルAIやってみた (Riku)</title>
         <link>https://speakerdeck.com/riku0405/so-101-de-fijikaru-ai-ya-te-mita</link>
         <dc:date>2026-08-20T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>20260820_アウトカムが二値のデータに対するCausal Impact@LINEヤフー Data Science Share #2 / Causal Impact for Binary Outcomes (BrainPad)</title>
         <link>https://speakerdeck.com/brainpadpr/causal-impact-for-binary-outcomes</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Code Skills を使ったドキュメント更新運用 (mani)</title>
-        <link>https://speakerdeck.com/marnysan111/claude-code-skills-o-tsukata-dokyumento-koushin-unyou</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>lldbを使ってCRubyの中を覗く - Kashiwa.rb #26</title>
-        <link>https://docs.google.com/presentation/d/1qG1RN7L-N7Mc8AmpMjUBfWjp_tgq21OZ4-KF6m-pxkw/preview</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIにブラウザを触らせて、E2EテストをPlaywrightで書く (koji_kawamura)</title>
-        <link>https://speakerdeck.com/koji_kawamura/ai-ni-o-sawarase-te-e2e-tesuto-o-playwright-de-kaku</link>
         <dc:date>2026-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
