@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIと壁打ちしながら進めるコスト管理 (Ryoma Fujiwara)</title>
+        <link>https://speakerdeck.com/fufuhu/ai-to-kabe-uchi-shi-nagara-susumeru-kosuto-kanri</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Introduction to Macros in Scheme (Masanori Ogino)</title>
         <link>https://speakerdeck.com/omasanori/introduction-to-macros-in-scheme</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>GenAIge Cafe #10 生成AIとここまで、これから。 (ayane)</title>
         <link>https://speakerdeck.com/blueb/genaige-cafe-10-seisei-ai-to-koko-made-korekara</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260820_アウトカムが二値のデータに対するCausal Impact@LINEヤフー Data Science Share #2 / Causal Impact for Binary Outcomes (BrainPad)</title>
-        <link>https://speakerdeck.com/brainpadpr/causal-impact-for-binary-outcomes</link>
         <dc:date>2026-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
