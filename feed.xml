@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SO-101でフィジカルAIやってみた (Riku)</title>
+        <link>https://speakerdeck.com/riku0405/so-101-de-fijikaru-ai-ya-te-mita</link>
+        <dc:date>2026-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ローカルSLM 10並列で創る「嘘をつかない集合知能」 (yuyuka)</title>
+        <link>https://speakerdeck.com/yuyuka12777/rokaru-slm-10-heiretsu-de-tsukuru-uso-o-tsukanai-shuugou-chinou</link>
+        <dc:date>2026-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Discordを用いたラボオートメーション関連情報収集の自動化 (noguhiro2002)</title>
+        <link>https://speakerdeck.com/noguhiro2002/discord-o-mochiita-rabo-otomeshon-kanren-jouhou-shuushuu-no-jidouka</link>
+        <dc:date>2026-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアでも捗る デザイナー的思考入門(bitA Edit 新ver) (Tsubasa SEKIGUCHI)</title>
+        <link>https://speakerdeck.com/tinykitten/enziniademobu-ru-dezainade-si-kao-ru-men-bita-edit</link>
+        <dc:date>2026-08-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>それでもやっぱりMCP - Cloudflare Workers で作る Remote MCP サーバー (Hidetaka Okamoto,@hidetaka_dev)</title>
         <link>https://www.docswell.com/s/hideokamoto/ZR8W22-2026-08-07-193326</link>
         <dc:date>2026-08-20T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>AIにブラウザを触らせて、E2EテストをPlaywrightで書く (koji_kawamura)</title>
         <link>https://speakerdeck.com/koji_kawamura/ai-ni-o-sawarase-te-e2e-tesuto-o-playwright-de-kaku</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実装前のバグを見つけるために、 AI-DLC Workflows v2 を個人開発で入れた話 (Hidetaka Okamoto,@hidetaka_dev)</title>
-        <link>https://www.docswell.com/s/hideokamoto/5MQ9PX-2026-08-20-193318</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>One Year of Learning English with AI @エンジニア英語キャリア Meetup #3 (Kenta Suzuki)</title>
-        <link>https://speakerdeck.com/kekekenta/one-year-of-learning-english-with-ai-enjinia-eigo-kyaria-meetup-3</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ビジネス部⾨主体のデータ基盤の活⽤事例 ~SnowflakeとTROCCOが担う役割~ @p_UG「データ基盤/活用におけるAI活用紹介 ~Terraformや設計改善まで~」 (Ryo Suzuki)</title>
-        <link>https://speakerdeck.com/ryo_suzuki/huo-yong-niokeruaihuo-yong-shao-jie-terraformyashe-ji-gai-shan-made</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go 1.27 の標準パッケージに uuid が入った！のでいろいろ喋る / go_127_std_go_uuid (convto)</title>
-        <link>https://speakerdeck.com/convto/go-127-std-go-uuid</link>
         <dc:date>2026-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
