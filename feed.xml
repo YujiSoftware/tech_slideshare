@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>8bit CPU 2026 (KOBA789)</title>
+        <link>https://speakerdeck.com/koba789/8bit-cpu-2026</link>
+        <dc:date>2026-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FastAPI の並行処理モデルを完全に理解する (Yuki Ishikawa)</title>
+        <link>https://speakerdeck.com/hoto17296/fastapi-no-heikou-shori-moderu-o-kanzen-ni-rikai-suru</link>
+        <dc:date>2026-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Viteなし・Bunだけで作るHono+React最小構成ハンズオン (hidao)</title>
         <link>https://speakerdeck.com/hidao80/vite-nashi-bun-dakede-tsukuru-hono-react-saishou-kousei</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>関数電卓プログラミングの世界: Tranformer On Calc (stepney141)</title>
         <link>https://www.docswell.com/s/stepney141/5GN6DJ-kernel-vm-tokyo-19</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>不幸な GC (Chen)</title>
-        <link>https://speakerdeck.com/chencmd/fukouna-gc</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Building a Custom Programming Language and OS with OCaml, LLVM, and Generative AI (Kiwamu Okabe,@master_q)</title>
-        <link>https://www.slideshare.net/slideshow/building-a-custom-programming-language-and-os-with-ocaml-llvm-and-generative-ai/289411924</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
