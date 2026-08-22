@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>三人寄ればチューリング完全 (Takumi Sueda)</title>
+        <link>https://speakerdeck.com/puhitaku/sannin-yore-ba-churingu-kanzen</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>30年振りにコンパイラの定数整数除算を改善した (herumi)</title>
         <link>https://speakerdeck.com/herumi/improved-constant-integer-division-in-compilers-after-30-years</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>現実的なセキュリティ体制の構築  限られたリソースの中で成果を最大化する「選択と集中」 (株式会社出前館)</title>
         <link>https://speakerdeck.com/demaecan/app-architecture-transformation</link>
-        <dc:date>2026-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一人でちいさくはじめる Platform Engineering (syossan27)</title>
-        <link>https://speakerdeck.com/syossan27/ichininde-chiisaku-hajimeru-platform-engineering</link>
         <dc:date>2026-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
