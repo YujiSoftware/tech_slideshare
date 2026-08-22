@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go を使い始めて 2 ヶ月の学び / My first two months with Go (Daisuke Garaike)</title>
+        <link>https://speakerdeck.com/contour_gara/my-first-two-months-with-go</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>動的にallow/denyできる ファイルサンドボックスを作る (Takaya Saeki)</title>
         <link>https://speakerdeck.com/nullpo_head/deny-dekiru-o-tsukuru</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DDDのエッセンスを取り入れたAIでの開発 (ak2ie)</title>
         <link>https://speakerdeck.com/ak2ie/ddd-no-essensu-o-toriireta-ai-deno-kaihatsu</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>tamachi.go 誕生の裏側 (ryoji miyamoto)</title>
-        <link>https://speakerdeck.com/rymiyamoto/tamachi-go-tanjou-no-uragawa</link>
         <dc:date>2026-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
