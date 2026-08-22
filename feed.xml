@@ -6,103 +6,103 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
-        <title>作って理解するCoding Agent 〜フレームワークに頼らないピュア Python での実装〜 (Takanobu Nozawa)</title>
-        <link>https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou</link>
+        <title>Viteなし・Bunだけで作るHono+React最小構成ハンズオン (hidao)</title>
+        <link>https://speakerdeck.com/hidao80/vite-nashi-bun-dakede-tsukuru-hono-react-saishou-kousei</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>三人寄ればチューリング完全 (Takumi Sueda)</title>
-        <link>https://speakerdeck.com/puhitaku/sannin-yore-ba-churingu-kanzen</link>
+        <title>Windows の互換機能 - 古いプログラムはなぜ動作できるのか (Murachi Akira)</title>
+        <link>https://speakerdeck.com/murachiakira/microsoft-windows-compatibility-technology</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>30年振りにコンパイラの定数整数除算を改善した (herumi)</title>
-        <link>https://speakerdeck.com/herumi/improved-constant-integer-division-in-compilers-after-30-years</link>
+        <title>Azure AIエージェントによる自律型運用の実践 (Kento Yamada,@ymd65536)</title>
+        <link>https://www.docswell.com/s/ymd65536/ZL3ND8-2026-08-22</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Oxlintはいいぞ（続） (Yuji Yamaguchi)</title>
-        <link>https://speakerdeck.com/yug1224/2026-08-21</link>
+        <title>AIの中の人になってみる (tkym)</title>
+        <link>https://speakerdeck.com/htkym/ai-no-naka-no-hito-ni-na-te-miru</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Go を使い始めて 2 ヶ月の学び / My first two months with Go (Daisuke Garaike)</title>
-        <link>https://speakerdeck.com/contour_gara/my-first-two-months-with-go</link>
+        <title>AutoGenesis ネイティブE2Eを “AIに生成させ、Appiumで実行する” (なかしょ)</title>
+        <link>https://speakerdeck.com/nakasho/autogenesis-neitibu-e2e-o-ai-ni-seisei-sase-appium-de-jikkou-suru</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>動的にallow/denyできる ファイルサンドボックスを作る (Takaya Saeki)</title>
-        <link>https://speakerdeck.com/nullpo_head/deny-dekiru-o-tsukuru</link>
+        <title>Kiro Crew で始める マルチエージェント開発 (Kazuki Miura)</title>
+        <link>https://speakerdeck.com/miu_crescent/kiro-crew-de-hajimeru-maruchi-ejento-kaihatsu</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Webエンジニアなのにブラウザの仕組みがわからないので、Pythonで自作してみた (Tatsuki)</title>
-        <link>https://speakerdeck.com/tatsuki12/web-enjiniana-noni-no-shikumi-ga-wakaranai-node-python-de-jisaku-shi-te-mita</link>
+        <title>なぜ働いているとTauriでツールを作りたくなるのか (DE TEIU (DE-TEIU))</title>
+        <link>https://www.docswell.com/s/8895128/ZY87XE-2026-08-22-133100</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>AIと壁打ちしながら進めるコスト管理 (Ryoma Fujiwara)</title>
-        <link>https://speakerdeck.com/fufuhu/ai-to-kabe-uchi-shi-nagara-susumeru-kosuto-kanri</link>
+        <title>個人的に感動した サクラエディタの機能2026822 ゆるweb (miki.kosaka)</title>
+        <link>https://speakerdeck.com/mikikosaka/kojinteki-ni-kandou-shita-sakura-edita-no-kinou-2026822-yuru-web</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Introduction to Macros in Scheme (Masanori Ogino)</title>
-        <link>https://speakerdeck.com/omasanori/introduction-to-macros-in-scheme</link>
+        <title>ソフトウェアとハードウェアの境界―コンパイラの例から考える</title>
+        <link>https://docs.google.com/presentation/d/1m4G4si-gmNkhANSjvm5NewK2_iuPE6sO27dDBXDFOXc/preview</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>KEEBHOLIC NAGOYA Vol.2 (shakupan)</title>
-        <link>https://speakerdeck.com/shakupan/keebholic-nagoya-vol-dot-2</link>
+        <title>EFI_MEMORY_DESCRIPTOR</title>
+        <link>https://docs.google.com/presentation/d/1mW1pnPyByRpxJqniHuA0QvJmeGGSvRypfOmkj-pBLIc/preview</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>AIに既存システムを理解させる技術　～レガシーを見捨てないハーネスエンジニアリング入門～ (Ochtum)</title>
-        <link>https://speakerdeck.com/ochtum/ai-ni-kison-shisutemu-o-rikai-saseru-gijutsu-o-misutenai-hanesu-enjiniaringu-nyuumon</link>
+        <title>Bit Ordering on Serial Transmitting  (たけおか しょうぞう)</title>
+        <link>https://www.slideshare.net/slideshow/understanding-bit-ordering-with-endianness-in-hardware-and-software-systems/289417761</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>SO-101でフィジカルAIやってみた (Riku)</title>
-        <link>https://speakerdeck.com/riku0405/so-101-de-fijikaru-ai-ya-te-mita</link>
-        <dc:date>2026-08-20T15:00:00Z</dc:date>
+        <title>RapidCopy2 Matrix I/Oエンジンによるファイルコピーソフトウェアの設計と実装 (Kengo Sawatsu)</title>
+        <link>https://speakerdeck.com/kengosawa2/o-enjin-niyoru-no-sekkei-to-jissou</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>ローカルSLM 10並列で創る「嘘をつかない集合知能」 (yuyuka)</title>
-        <link>https://speakerdeck.com/yuyuka12777/rokaru-slm-10-heiretsu-de-tsukuru-uso-o-tsukanai-shuugou-chinou</link>
-        <dc:date>2026-08-20T15:00:00Z</dc:date>
+        <title>NANDでも描画したい！ (nichica)</title>
+        <link>https://speakerdeck.com/nichica906/nand-demo-byouga-shitai</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Discordを用いたラボオートメーション関連情報収集の自動化 (noguhiro2002)</title>
-        <link>https://speakerdeck.com/noguhiro2002/discord-o-mochiita-rabo-otomeshon-kanren-jouhou-shuushuu-no-jidouka</link>
-        <dc:date>2026-08-20T15:00:00Z</dc:date>
+        <title>形式手法特論：Hyperproperty とモデル検査 #kernelvm / Kernel VM Study Tokyo 19th (y_taka_23)</title>
+        <link>https://speakerdeck.com/ytaka23/kernel-vm-study-tokyo-19th</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>エンジニアでも捗る デザイナー的思考入門(bitA Edit 新ver) (Tsubasa SEKIGUCHI)</title>
-        <link>https://speakerdeck.com/tinykitten/enziniademobu-ru-dezainade-si-kao-ru-men-bita-edit</link>
-        <dc:date>2026-08-20T15:00:00Z</dc:date>
+        <title>:syncing_time: (sksat)</title>
+        <link>https://speakerdeck.com/sksat/syncing-time</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>それでもやっぱりMCP - Cloudflare Workers で作る Remote MCP サーバー (Hidetaka Okamoto,@hidetaka_dev)</title>
-        <link>https://www.docswell.com/s/hideokamoto/ZR8W22-2026-08-07-193326</link>
-        <dc:date>2026-08-20T15:00:00Z</dc:date>
+        <title>Rust×eBPFでEDRっぽいものをつくる (5unl1fe3)</title>
+        <link>https://speakerdeck.com/sunlife3/rustxebpf-de-edr-ppoi-mono-o-tsukuru</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>LLMの出力を"いい感じに"する技術 / Taming LLM Output: AI Agent Design Patterns with FastAPI (Shinichi Nakagawa)</title>
-        <link>https://speakerdeck.com/shinyorke/taming-llm-output-ai-agent-design-patterns-with-fastapi</link>
-        <dc:date>2026-08-20T15:00:00Z</dc:date>
+        <title>typoなんかねぇよ (らすぴー)</title>
+        <link>https://speakerdeck.com/raspython3/typo-nanka-neeyo</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>35分でわかるEffective Platform Engineering (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/35-bun-de-wakaru-effective-platform-engineering</link>
-        <dc:date>2026-08-20T15:00:00Z</dc:date>
+        <title>関数電卓プログラミングの世界: Tranformer On Calc (stepney141)</title>
+        <link>https://www.docswell.com/s/stepney141/5GN6DJ-kernel-vm-tokyo-19</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>何から手をつける？SmartHRのセキュリティ対策の考え方 (SmartHR, Inc.)</title>
-        <link>https://speakerdeck.com/smarthr/nani-kara-te-o-tsukeru-smarthr-no-sekyuriti-taisaku-no-kangaekata</link>
-        <dc:date>2026-08-20T15:00:00Z</dc:date>
+        <title>不幸な GC (Chen)</title>
+        <link>https://speakerdeck.com/chencmd/fukouna-gc</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>世界の評価軸が変わった時代に生き残るエンジニア.pptx (はち@ テクノロジーメディア「Newbee」,@PassionateHachi)</title>
-        <link>https://www.docswell.com/s/PassionateHachi/K6NL2E-2026-08-20-202255</link>
-        <dc:date>2026-08-20T15:00:00Z</dc:date>
+        <title>Building a Custom Programming Language and OS with OCaml, LLVM, and Generative AI (Kiwamu Okabe,@master_q)</title>
+        <link>https://www.slideshare.net/slideshow/building-a-custom-programming-language-and-os-with-ocaml-llvm-and-generative-ai/289411924</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
