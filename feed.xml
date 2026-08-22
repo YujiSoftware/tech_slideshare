@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Webエンジニアなのにブラウザの仕組みがわからないので、Pythonで自作してみた (Tatsuki)</title>
+        <link>https://speakerdeck.com/tatsuki12/web-enjiniana-noni-no-shikumi-ga-wakaranai-node-python-de-jisaku-shi-te-mita</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIと壁打ちしながら進めるコスト管理 (Ryoma Fujiwara)</title>
         <link>https://speakerdeck.com/fufuhu/ai-to-kabe-uchi-shi-nagara-susumeru-kosuto-kanri</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>音声トリガーのアクションをDIでE2Eテストする (tai2)</title>
         <link>https://www.docswell.com/s/tai2/KY87JE-2026-08-20-200115</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GenAIge Cafe #10 生成AIとここまで、これから。 (ayane)</title>
-        <link>https://speakerdeck.com/blueb/genaige-cafe-10-seisei-ai-to-koko-made-korekara</link>
         <dc:date>2026-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
