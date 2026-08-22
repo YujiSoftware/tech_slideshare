@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>30年振りにコンパイラの定数整数除算を改善した (herumi)</title>
+        <link>https://speakerdeck.com/herumi/improved-constant-integer-division-in-compilers-after-30-years</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Oxlintはいいぞ（続） (Yuji Yamaguchi)</title>
+        <link>https://speakerdeck.com/yug1224/2026-08-21</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Go を使い始めて 2 ヶ月の学び / My first two months with Go (Daisuke Garaike)</title>
         <link>https://speakerdeck.com/contour_gara/my-first-two-months-with-go</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>一人でちいさくはじめる Platform Engineering (syossan27)</title>
         <link>https://speakerdeck.com/syossan27/ichininde-chiisaku-hajimeru-platform-engineering</link>
         <dc:date>2026-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ドメイン駆動で設計する、機能的凝集されたフロントエンドコンポーネント (IkedaNoritaka)</title>
-        <link>https://speakerdeck.com/noritakaikeda/domein-kudou-de-sekkei-suru-kinouteki-gyoushuu-sareta</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DDDのエッセンスを取り入れたAIでの開発 (ak2ie)</title>
-        <link>https://speakerdeck.com/ak2ie/ddd-no-essensu-o-toriireta-ai-deno-kaihatsu</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
