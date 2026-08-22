@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>作って理解するCoding Agent 〜フレームワークに頼らないピュア Python での実装〜 (Takanobu Nozawa)</title>
+        <link>https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>三人寄ればチューリング完全 (Takumi Sueda)</title>
         <link>https://speakerdeck.com/puhitaku/sannin-yore-ba-churingu-kanzen</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>世界の評価軸が変わった時代に生き残るエンジニア.pptx (はち@ テクノロジーメディア「Newbee」,@PassionateHachi)</title>
         <link>https://www.docswell.com/s/PassionateHachi/K6NL2E-2026-08-20-202255</link>
-        <dc:date>2026-08-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現実的なセキュリティ体制の構築  限られたリソースの中で成果を最大化する「選択と集中」 (株式会社出前館)</title>
-        <link>https://speakerdeck.com/demaecan/app-architecture-transformation</link>
         <dc:date>2026-08-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
