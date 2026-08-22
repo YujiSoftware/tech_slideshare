@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>動的にallow/denyできる ファイルサンドボックスを作る (Takaya Saeki)</title>
+        <link>https://speakerdeck.com/nullpo_head/deny-dekiru-o-tsukuru</link>
+        <dc:date>2026-08-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Webエンジニアなのにブラウザの仕組みがわからないので、Pythonで自作してみた (Tatsuki)</title>
         <link>https://speakerdeck.com/tatsuki12/web-enjiniana-noni-no-shikumi-ga-wakaranai-node-python-de-jisaku-shi-te-mita</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>tamachi.go 誕生の裏側 (ryoji miyamoto)</title>
         <link>https://speakerdeck.com/rymiyamoto/tamachi-go-tanjou-no-uragawa</link>
-        <dc:date>2026-08-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>音声トリガーのアクションをDIでE2Eテストする (tai2)</title>
-        <link>https://www.docswell.com/s/tai2/KY87JE-2026-08-20-200115</link>
         <dc:date>2026-08-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
