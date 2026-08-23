@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Pythonの実行はどこまで賢くなったのか？ CPythonとPyPyから見る最適化のしくみ (curekoshimizu)</title>
+        <link>https://speakerdeck.com/curekoshimizu/python-no-jikkou-ha-doko-made-kashikoku-nata-no-ka-cpython-to-pypy-kara-miru-saitekika-no-shikumi</link>
+        <dc:date>2026-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>8bit CPU 2026 (KOBA789)</title>
         <link>https://speakerdeck.com/koba789/8bit-cpu-2026</link>
         <dc:date>2026-08-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>typoなんかねぇよ (らすぴー)</title>
         <link>https://speakerdeck.com/raspython3/typo-nanka-neeyo</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>関数電卓プログラミングの世界: Tranformer On Calc (stepney141)</title>
-        <link>https://www.docswell.com/s/stepney141/5GN6DJ-kernel-vm-tokyo-19</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
