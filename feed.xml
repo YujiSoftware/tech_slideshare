@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データ活用研修 問いの発見と仮説構築【MIXI 26新卒技術研修】 (MIXI ENGINEERS)</title>
+        <link>https://speakerdeck.com/mixi_engineers/2026_new_grad_training_problem-framing-hypothesis-building</link>
+        <dc:date>2026-08-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Pythonの実行はどこまで賢くなったのか？ CPythonとPyPyから見る最適化のしくみ (curekoshimizu)</title>
         <link>https://speakerdeck.com/curekoshimizu/python-no-jikkou-ha-doko-made-kashikoku-nata-no-ka-cpython-to-pypy-kara-miru-saitekika-no-shikumi</link>
         <dc:date>2026-08-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Rust×eBPFでEDRっぽいものをつくる (5unl1fe3)</title>
         <link>https://speakerdeck.com/sunlife3/rustxebpf-de-edr-ppoi-mono-o-tsukuru</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>typoなんかねぇよ (らすぴー)</title>
-        <link>https://speakerdeck.com/raspython3/typo-nanka-neeyo</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
