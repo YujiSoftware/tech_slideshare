@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>パッケージマネージャー Nix はなぜ純粋関数型言語で設定を記述するのか (ryu,@ryu_trifolium)</title>
+        <link>https://www.docswell.com/s/ryu_trifolium/ZPRLYQ-2026-07-12-001112</link>
+        <dc:date>2026-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【書籍出版記念】 10周回って、エージェント開発は RAGがすべてだった。〜RAGの歴史と開発現場で見えた実践知〜 (為藤アキラ)</title>
+        <link>https://speakerdeck.com/akiratameto/shoseki-shuppan-kinen-10-shuukai-tte-ejento-kaihatsu-ha-rag-ga-subetedata-rag-no-rekishi-to-kaihatsu-genba-de-mieta-jissen-chi</link>
+        <dc:date>2026-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データ活用研修 問いの発見と仮説構築【MIXI 26新卒技術研修】 (MIXI ENGINEERS)</title>
         <link>https://speakerdeck.com/mixi_engineers/2026_new_grad_training_problem-framing-hypothesis-building</link>
         <dc:date>2026-08-22T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>形式手法特論：Hyperproperty とモデル検査 #kernelvm / Kernel VM Study Tokyo 19th (y_taka_23)</title>
         <link>https://speakerdeck.com/ytaka23/kernel-vm-study-tokyo-19th</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>:syncing_time: (sksat)</title>
-        <link>https://speakerdeck.com/sksat/syncing-time</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rust×eBPFでEDRっぽいものをつくる (5unl1fe3)</title>
-        <link>https://speakerdeck.com/sunlife3/rustxebpf-de-edr-ppoi-mono-o-tsukuru</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
