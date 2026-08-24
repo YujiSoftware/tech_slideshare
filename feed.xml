@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>dbt in Microsoft Fabric (Ryoma Nagata)</title>
+        <link>https://speakerdeck.com/ryomaru0825/dbt-in-microsoft-fabric</link>
+        <dc:date>2026-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>人工生命 #6 間接互恵 (たけ,@logta15)</title>
+        <link>https://www.docswell.com/s/take/K1Q7DP-2026-08-24-170116</link>
+        <dc:date>2026-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>元パティシエがProxmoxで ライブマイグレーションを ライブデモやったらぁ〜 (エンジニアと錯覚した竹ちゃん)</title>
+        <link>https://speakerdeck.com/takenoko729/moto-ga-proxmox-de-o-raibu-demo-yatara</link>
+        <dc:date>2026-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>紙 to デジタル  (ichien178)</title>
+        <link>https://speakerdeck.com/ichien178/kami-to-dejitaru</link>
+        <dc:date>2026-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代の兎と亀_LT (miso_taku,@miso_taku0221)</title>
+        <link>https://www.docswell.com/s/miso_taku/KL3NWL-2026-08-24-193622</link>
+        <dc:date>2026-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>8a1 - 今からでも間に合う 開発者ポータルBackstage入門 (Hitoshi Kamezaki,@tutle2005)</title>
+        <link>https://www.docswell.com/s/turtle2005/ZJWN71-2026-08-24-200000</link>
+        <dc:date>2026-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ansible-core2.21 のアップデート情報 (akira6592,@akira6592)</title>
+        <link>https://www.docswell.com/s/akira6592/Z8NL79-ansible-core2.21-updates</link>
+        <dc:date>2026-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>レガシーPHP転生 〜父がドメインエキスパートだったのでDDD+Claude Codeでチート開発します〜 (panda_program)</title>
         <link>https://speakerdeck.com/panda_program/cheating-development-with-domain-expert-and-claude-code-94bf62f6-da8a-422f-9ae6-f2fccc021fec</link>
         <dc:date>2026-08-23T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>Kiro Crew で始める マルチエージェント開発 (Kazuki Miura)</title>
         <link>https://speakerdeck.com/miu_crescent/kiro-crew-de-hajimeru-maruchi-ejento-kaihatsu</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ働いているとTauriでツールを作りたくなるのか (DE TEIU (DE-TEIU))</title>
-        <link>https://www.docswell.com/s/8895128/ZY87XE-2026-08-22-133100</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人的に感動した サクラエディタの機能2026822 ゆるweb (miki.kosaka)</title>
-        <link>https://speakerdeck.com/mikikosaka/kojinteki-ni-kandou-shita-sakura-edita-no-kinou-2026822-yuru-web</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェアとハードウェアの境界―コンパイラの例から考える</title>
-        <link>https://docs.google.com/presentation/d/1m4G4si-gmNkhANSjvm5NewK2_iuPE6sO27dDBXDFOXc/preview</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EFI_MEMORY_DESCRIPTOR</title>
-        <link>https://docs.google.com/presentation/d/1mW1pnPyByRpxJqniHuA0QvJmeGGSvRypfOmkj-pBLIc/preview</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bit Ordering on Serial Transmitting  (たけおか しょうぞう)</title>
-        <link>https://www.slideshare.net/slideshow/understanding-bit-ordering-with-endianness-in-hardware-and-software-systems/289417761</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RapidCopy2 Matrix I/Oエンジンによるファイルコピーソフトウェアの設計と実装 (Kengo Sawatsu)</title>
-        <link>https://speakerdeck.com/kengosawa2/o-enjin-niyoru-no-sekkei-to-jissou</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NANDでも描画したい！ (nichica)</title>
-        <link>https://speakerdeck.com/nichica906/nand-demo-byouga-shitai</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
