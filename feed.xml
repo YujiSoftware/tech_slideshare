@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>go test を速くする (sivchari)</title>
+        <link>https://speakerdeck.com/sivchari/go-test-o-hayaku-suru</link>
+        <dc:date>2026-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>dbt in Microsoft Fabric (Ryoma Nagata)</title>
         <link>https://speakerdeck.com/ryomaru0825/dbt-in-microsoft-fabric</link>
         <dc:date>2026-08-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AutoGenesis ネイティブE2Eを “AIに生成させ、Appiumで実行する” (なかしょ)</title>
         <link>https://speakerdeck.com/nakasho/autogenesis-neitibu-e2e-o-ai-ni-seisei-sase-appium-de-jikkou-suru</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kiro Crew で始める マルチエージェント開発 (Kazuki Miura)</title>
-        <link>https://speakerdeck.com/miu_crescent/kiro-crew-de-hajimeru-maruchi-ejento-kaihatsu</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
