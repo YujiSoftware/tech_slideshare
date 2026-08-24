@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>レガシーPHP転生 〜父がドメインエキスパートだったのでDDD+Claude Codeでチート開発します〜 (panda_program)</title>
+        <link>https://speakerdeck.com/panda_program/cheating-development-with-domain-expert-and-claude-code-94bf62f6-da8a-422f-9ae6-f2fccc021fec</link>
+        <dc:date>2026-08-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>パッケージマネージャー Nix はなぜ純粋関数型言語で設定を記述するのか (ryu,@ryu_trifolium)</title>
         <link>https://www.docswell.com/s/ryu_trifolium/ZPRLYQ-2026-07-12-001112</link>
         <dc:date>2026-08-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>NANDでも描画したい！ (nichica)</title>
         <link>https://speakerdeck.com/nichica906/nand-demo-byouga-shitai</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>形式手法特論：Hyperproperty とモデル検査 #kernelvm / Kernel VM Study Tokyo 19th (y_taka_23)</title>
-        <link>https://speakerdeck.com/ytaka23/kernel-vm-study-tokyo-19th</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
