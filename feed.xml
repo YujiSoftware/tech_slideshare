@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>What's new in Go 1.27? (Koya IWAMURA)</title>
+        <link>https://speakerdeck.com/ciarana/whats-new-in-go-1-dot-27</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>回復法は人それぞれ。まずは自分の型を知る #tachikawaany (Ichiro Nishiuma)</title>
         <link>https://speakerdeck.com/nishiuma/tachikawaany2</link>
         <dc:date>2026-08-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI時代の兎と亀_LT (miso_taku,@miso_taku0221)</title>
         <link>https://www.docswell.com/s/miso_taku/KL3NWL-2026-08-24-193622</link>
-        <dc:date>2026-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>8a1 - 今からでも間に合う 開発者ポータルBackstage入門 (Hitoshi Kamezaki,@tutle2005)</title>
-        <link>https://www.docswell.com/s/turtle2005/ZJWN71-2026-08-24-200000</link>
         <dc:date>2026-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
