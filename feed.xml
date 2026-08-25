@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>回復法は人それぞれ。まずは自分の型を知る #tachikawaany (Ichiro Nishiuma)</title>
+        <link>https://speakerdeck.com/nishiuma/tachikawaany2</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>HealthKitのデータ取得の基本 (USAMI Kosuke,@usamik26)</title>
         <link>https://www.docswell.com/s/usami-k/56NLWX-healthkit-overview</link>
         <dc:date>2026-08-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>8a1 - 今からでも間に合う 開発者ポータルBackstage入門 (Hitoshi Kamezaki,@tutle2005)</title>
         <link>https://www.docswell.com/s/turtle2005/ZJWN71-2026-08-24-200000</link>
-        <dc:date>2026-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ansible-core2.21 のアップデート情報 (akira6592,@akira6592)</title>
-        <link>https://www.docswell.com/s/akira6592/Z8NL79-ansible-core2.21-updates</link>
         <dc:date>2026-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
