@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>go-spidermonkeyでAIエージェントのCode Modeを実装する (syumai)</title>
+        <link>https://speakerdeck.com/syumai/go-spidermonkey-de-ai-ejento-no-code-mode-o-jissou-suru</link>
+        <dc:date>2026-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260825_雪かき部_データを取り込んでAIに聞くまでを体験！ Snowflake AI活用入門 (Masahide TAKASUKA,@mshdtksk)</title>
         <link>https://www.docswell.com/s/3324212129/KJWN63-2026-08-14-140754</link>
         <dc:date>2026-08-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Azure AIエージェントによる自律型運用の実践 (Kento Yamada,@ymd65536)</title>
         <link>https://www.docswell.com/s/ymd65536/ZL3ND8-2026-08-22</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIの中の人になってみる (tkym)</title>
-        <link>https://speakerdeck.com/htkym/ai-no-naka-no-hito-ni-na-te-miru</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
