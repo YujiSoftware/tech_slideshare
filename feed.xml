@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>HealthKitのデータ取得の基本 (USAMI Kosuke,@usamik26)</title>
+        <link>https://www.docswell.com/s/usami-k/56NLWX-healthkit-overview</link>
+        <dc:date>2026-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI に実装を任せても、人間の動作確認はなくならない：Android における証跡作成の 爆速化 (高田 晴彦,@tfandkusu)</title>
+        <link>https://www.docswell.com/s/tfandkusu/51Q7PP-adb-raycast</link>
+        <dc:date>2026-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>無人店舗のエアコンの無駄を月 70万円節約した話 (r-sugi)</title>
+        <link>https://speakerdeck.com/rsugi/mujin-tenpo-no-eakon-no-muda-o-tsuki-70-manen-setsuyaku-shita-hanashi</link>
+        <dc:date>2026-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>_JAWS-UG_AI_ML__N41_N__自分の顔が誰に似ているかそっくり判定AIエージェント.pdf (Taka)</title>
+        <link>https://speakerdeck.com/nozakijcom/jaws-ug-ai-ml-n41-n-jibun-no-kao-ga-dare-ni-ni-te-iru-ka-sokkuri-hantei-ai-ejento</link>
+        <dc:date>2026-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIとペアプロを始める。人との会話が消えていく。なんだか寂しい。  / The Conversations We Lost to AI (yuki)</title>
+        <link>https://speakerdeck.com/honyanya/the-conversations-we-lost-to-ai</link>
+        <dc:date>2026-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なんでも作れる時代に、作らないものを決める (山本一将｜焚き火を愛するエンジニア,@kyamamoto9120)</title>
+        <link>https://www.docswell.com/s/kyamamoto9120/5L3N7L-2026-08-25-193000</link>
+        <dc:date>2026-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[2026-08-25]AIによる自動化と人の介入、その狭間で揺れる信頼性についての俺の思いを、波よ聞いてくれ (tosite)</title>
+        <link>https://speakerdeck.com/tosite/2026-08-25-toiawase-to-ai-sonokan-de-yureru-shinraisei-nitsuiteno-ore-no-omoi-o-nami-yo-kii-te-kure</link>
+        <dc:date>2026-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>専門家になれないPdMが、 知識に頼らず判断する思考法 (crr)</title>
         <link>https://speakerdeck.com/koyangi/senmonka-ni-narenai-pdm-ga-chishiki-ni-tayorazu-handan-suru-shikouhou</link>
         <dc:date>2026-08-24T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>ansible-core2.21 のアップデート情報 (akira6592,@akira6592)</title>
         <link>https://www.docswell.com/s/akira6592/Z8NL79-ansible-core2.21-updates</link>
         <dc:date>2026-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>レガシーPHP転生 〜父がドメインエキスパートだったのでDDD+Claude Codeでチート開発します〜 (panda_program)</title>
-        <link>https://speakerdeck.com/panda_program/cheating-development-with-domain-expert-and-claude-code-94bf62f6-da8a-422f-9ae6-f2fccc021fec</link>
-        <dc:date>2026-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>パッケージマネージャー Nix はなぜ純粋関数型言語で設定を記述するのか (ryu,@ryu_trifolium)</title>
-        <link>https://www.docswell.com/s/ryu_trifolium/ZPRLYQ-2026-07-12-001112</link>
-        <dc:date>2026-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【書籍出版記念】 10周回って、エージェント開発は RAGがすべてだった。〜RAGの歴史と開発現場で見えた実践知〜 (為藤アキラ)</title>
-        <link>https://speakerdeck.com/akiratameto/shoseki-shuppan-kinen-10-shuukai-tte-ejento-kaihatsu-ha-rag-ga-subetedata-rag-no-rekishi-to-kaihatsu-genba-de-mieta-jissen-chi</link>
-        <dc:date>2026-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データ活用研修 問いの発見と仮説構築【MIXI 26新卒技術研修】 (MIXI ENGINEERS)</title>
-        <link>https://speakerdeck.com/mixi_engineers/2026_new_grad_training_problem-framing-hypothesis-building</link>
-        <dc:date>2026-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Pythonの実行はどこまで賢くなったのか？ CPythonとPyPyから見る最適化のしくみ (curekoshimizu)</title>
-        <link>https://speakerdeck.com/curekoshimizu/python-no-jikkou-ha-doko-made-kashikoku-nata-no-ka-cpython-to-pypy-kara-miru-saitekika-no-shikumi</link>
-        <dc:date>2026-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>8bit CPU 2026 (KOBA789)</title>
-        <link>https://speakerdeck.com/koba789/8bit-cpu-2026</link>
-        <dc:date>2026-08-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FastAPI の並行処理モデルを完全に理解する (Yuki Ishikawa)</title>
-        <link>https://speakerdeck.com/hoto17296/fastapi-no-heikou-shori-moderu-o-kanzen-ni-rikai-suru</link>
-        <dc:date>2026-08-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
