@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Reactで作るVB6風レガシーフォーム (murasuke,@tkyk20928788)</title>
+        <link>https://www.docswell.com/s/4962106/ZR8WNE-2026-08-24-202204</link>
+        <dc:date>2026-08-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>go-spidermonkeyでAIエージェントのCode Modeを実装する (syumai)</title>
         <link>https://speakerdeck.com/syumai/go-spidermonkey-de-ai-ejento-no-code-mode-o-jissou-suru</link>
         <dc:date>2026-08-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Windows の互換機能 - 古いプログラムはなぜ動作できるのか (Murachi Akira)</title>
         <link>https://speakerdeck.com/murachiakira/microsoft-windows-compatibility-technology</link>
-        <dc:date>2026-08-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure AIエージェントによる自律型運用の実践 (Kento Yamada,@ymd65536)</title>
-        <link>https://www.docswell.com/s/ymd65536/ZL3ND8-2026-08-22</link>
         <dc:date>2026-08-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
