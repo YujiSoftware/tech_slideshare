@@ -6,6 +6,86 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Rust で作ったネイティブを Ruby から使う (yo_waka)</title>
+        <link>https://speakerdeck.com/waka/rust-de-tsukuta-neitibu-o-ruby-kara-tsukau</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWSとGitHub Actionsの責任境界と 組織で安全に使用する取り組み (Nealle)</title>
+        <link>https://speakerdeck.com/nealle/responsibility-boundaries-between-aws-and-github-actions</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OTelドキュメントの解説から 再学習するObservability用語や概念 (kato)</title>
+        <link>https://speakerdeck.com/yushikatoaws/otel-dokyumento-no-kaisetsu-kara-saigakushuu-suru-observability-yougo-ya-gainen</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VPCでもFloatingIPを使いたいんだ (Yasunobu Kotani (はくひめ))</title>
+        <link>https://speakerdeck.com/y_kotani/vpc-demo-floatingip-o-tsukaitai-nda</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロジェクトのリズムを 体に取り込む (Kozo Taira)</title>
+        <link>https://speakerdeck.com/kozotaira/purojekuto-no-rizumu-o-karada-ni-torikomu</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Offers Deep Dive｜それ、本当にClaude Codeじゃないとダメ？｜ハヤカワ五味｜2026-08-26</title>
+        <link>https://docs.google.com/presentation/d/12rSpChcazf-jpaCo3ptcp8LfbbNq7XFc0I2p0YFX3hU/preview</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>中小企業に就職して転職せず30年。結果どうなった？ (hmatsu47(まつ),@hmatsu47)</title>
+        <link>https://www.docswell.com/s/hmatsu47/5X231P-career-lt</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>安定公務員みたいな学校から 毎年アップデートされる世界へ (maijun)</title>
+        <link>https://speakerdeck.com/maijun/antei-koumuin-mitaina-gakkou-kara-maitoshi-appudeto-sareru-sekai-he</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>依頼する技術 #tachikawaany (Hiromi Hishida)</title>
+        <link>https://speakerdeck.com/77web/irai-suru-gijutsu-tachikawaany</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kiro５兄弟のいまどきのセキュリティ基礎知識 (Hiroo Katoh)</title>
+        <link>https://speakerdeck.com/kentapapa/kiro-kyoudai-no-imadoki-no-sekyuriti-kiso-chishiki</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アクセスキー流出時の対応で再認識した攻撃側と防御側の非対称性について (kazzpapa3)</title>
+        <link>https://speakerdeck.com/kazzpapa3/akusesu-ki-ryuushutsuji-no-taiou-de-saininshiki-shita-kougekigawa-to-bougyogawa-no-hitaishousei-nitsuite</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SecurityAgentを使用して自分のサイトにペネトレレーションテストを行った結果について (いとさん)</title>
+        <link>https://speakerdeck.com/ito33_0/securityagent-o-shiyou-shi-te-jibun-no-saito-ni-penetoreshon-tesuto-o-okonata-kekka-nitsuite</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>markdown-poster-introduction.pptx</title>
+        <link>https://docs.google.com/presentation/d/1vpGxKmm_AdX_z3uMeyPt0t-2n8H16qsr/preview</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ClaudeCodeでゲームの企画と秒速プロトタイピング</title>
+        <link>https://docs.google.com/presentation/d/1yTTW-gFPSJlX6yScZVz9fQtKytPEvVJD92KbYSKuk-s/preview</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>より多くの実運用環境に対応できるOneLake診断の管理構成 (Ryusei Iida)</title>
+        <link>https://speakerdeck.com/ryuseiiida/yori-ooku-no-jitsuunyou-kankyou-ni-taiou-dekiru-onelake-shindan-no-kanri-kousei</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fabric Data AgentのFoundry連携 (Hyodo Katsuki)</title>
+        <link>https://www.docswell.com/s/6140290960/KDM7DG-2026-08-26-190337</link>
+        <dc:date>2026-08-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>What's new in Go 1.27? (Koya IWAMURA)</title>
         <link>https://speakerdeck.com/ciarana/whats-new-in-go-1-dot-27</link>
         <dc:date>2026-08-25T15:00:00Z</dc:date>
@@ -24,85 +104,5 @@
         <title>AI に実装を任せても、人間の動作確認はなくならない：Android における証跡作成の 爆速化 (高田 晴彦,@tfandkusu)</title>
         <link>https://www.docswell.com/s/tfandkusu/51Q7PP-adb-raycast</link>
         <dc:date>2026-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>無人店舗のエアコンの無駄を月 70万円節約した話 (r-sugi)</title>
-        <link>https://speakerdeck.com/rsugi/mujin-tenpo-no-eakon-no-muda-o-tsuki-70-manen-setsuyaku-shita-hanashi</link>
-        <dc:date>2026-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>_JAWS-UG_AI_ML__N41_N__自分の顔が誰に似ているかそっくり判定AIエージェント.pdf (Taka)</title>
-        <link>https://speakerdeck.com/nozakijcom/jaws-ug-ai-ml-n41-n-jibun-no-kao-ga-dare-ni-ni-te-iru-ka-sokkuri-hantei-ai-ejento</link>
-        <dc:date>2026-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIとペアプロを始める。人との会話が消えていく。なんだか寂しい。  / The Conversations We Lost to AI (yuki)</title>
-        <link>https://speakerdeck.com/honyanya/the-conversations-we-lost-to-ai</link>
-        <dc:date>2026-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なんでも作れる時代に、作らないものを決める (山本一将｜焚き火を愛するエンジニア,@kyamamoto9120)</title>
-        <link>https://www.docswell.com/s/kyamamoto9120/5L3N7L-2026-08-25-193000</link>
-        <dc:date>2026-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[2026-08-25]AIによる自動化と人の介入、その狭間で揺れる信頼性についての俺の思いを、波よ聞いてくれ (tosite)</title>
-        <link>https://speakerdeck.com/tosite/2026-08-25-toiawase-to-ai-sonokan-de-yureru-shinraisei-nitsuiteno-ore-no-omoi-o-nami-yo-kii-te-kure</link>
-        <dc:date>2026-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>専門家になれないPdMが、 知識に頼らず判断する思考法 (crr)</title>
-        <link>https://speakerdeck.com/koyangi/senmonka-ni-narenai-pdm-ga-chishiki-ni-tayorazu-handan-suru-shikouhou</link>
-        <dc:date>2026-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自分が "コントロールできる" と思い込んで "引き出しを増やす" (konifar)</title>
-        <link>https://speakerdeck.com/konifar/jibun-ga-kontororu-dekiru-to-omoikon-de-hikidashi-o-fuyasu</link>
-        <dc:date>2026-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Reactで作るVB6風レガシーフォーム (murasuke,@tkyk20928788)</title>
-        <link>https://www.docswell.com/s/4962106/ZR8WNE-2026-08-24-202204</link>
-        <dc:date>2026-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>go-spidermonkeyでAIエージェントのCode Modeを実装する (syumai)</title>
-        <link>https://speakerdeck.com/syumai/go-spidermonkey-de-ai-ejento-no-code-mode-o-jissou-suru</link>
-        <dc:date>2026-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260825_雪かき部_データを取り込んでAIに聞くまでを体験！ Snowflake AI活用入門 (Masahide TAKASUKA,@mshdtksk)</title>
-        <link>https://www.docswell.com/s/3324212129/KJWN63-2026-08-14-140754</link>
-        <dc:date>2026-08-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>go test を速くする (sivchari)</title>
-        <link>https://speakerdeck.com/sivchari/go-test-o-hayaku-suru</link>
-        <dc:date>2026-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbt in Microsoft Fabric (Ryoma Nagata)</title>
-        <link>https://speakerdeck.com/ryomaru0825/dbt-in-microsoft-fabric</link>
-        <dc:date>2026-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>人工生命 #6 間接互恵 (たけ,@logta15)</title>
-        <link>https://www.docswell.com/s/take/K1Q7DP-2026-08-24-170116</link>
-        <dc:date>2026-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>元パティシエがProxmoxで ライブマイグレーションを ライブデモやったらぁ〜 (エンジニアと錯覚した竹ちゃん)</title>
-        <link>https://speakerdeck.com/takenoko729/moto-ga-proxmox-de-o-raibu-demo-yatara</link>
-        <dc:date>2026-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>紙 to デジタル  (ichien178)</title>
-        <link>https://speakerdeck.com/ichien178/kami-to-dejitaru</link>
-        <dc:date>2026-08-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代の兎と亀_LT (miso_taku,@miso_taku0221)</title>
-        <link>https://www.docswell.com/s/miso_taku/KL3NWL-2026-08-24-193622</link>
-        <dc:date>2026-08-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
