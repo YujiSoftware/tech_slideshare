@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI駆動開発はどこまで来たのか？ ファインディの最新実態調査で読み解く現在地 Devin Con Tokyo (Go-yamada)</title>
+        <link>https://speakerdeck.com/akiratom/ai-kudou-kaihatsu-ha-doko-made-kita-no-ka-no-saishin-jittai-chousa-de-yomitoku-genzaichi-devin-con-tokyo</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>RSSとCodexを使ってX投稿自動化してみた (Ochtum)</title>
         <link>https://speakerdeck.com/ochtum/rss-to-codex-o-tsuka-te-x-toukou-jidouka-shi-te-mita</link>
         <dc:date>2026-08-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>What's new in Go 1.27? (Koya IWAMURA)</title>
         <link>https://speakerdeck.com/ciarana/whats-new-in-go-1-dot-27</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>回復法は人それぞれ。まずは自分の型を知る #tachikawaany (Ichiro Nishiuma)</title>
-        <link>https://speakerdeck.com/nishiuma/tachikawaany2</link>
         <dc:date>2026-08-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
