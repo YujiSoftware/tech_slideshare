@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「面白い！」を信じ抜け。激動の時代を貫く、オンリーワン・エンジニアの条件 (t.kizawa)</title>
+        <link>https://speakerdeck.com/kizawa2020/omoshiroi-o-shinji-nuke-gekidou-no-jidai-o-tsuranuku-onri-wan-enjinia-no-jouken</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI駆動開発はどこまで来たのか？ ファインディの最新実態調査で読み解く現在地 Devin Con Tokyo (Go-yamada)</title>
         <link>https://speakerdeck.com/akiratom/ai-kudou-kaihatsu-ha-doko-made-kita-no-ka-no-saishin-jittai-chousa-de-yomitoku-genzaichi-devin-con-tokyo</link>
         <dc:date>2026-08-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Fabric Data AgentのFoundry連携 (Hyodo Katsuki)</title>
         <link>https://www.docswell.com/s/6140290960/KDM7DG-2026-08-26-190337</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>What's new in Go 1.27? (Koya IWAMURA)</title>
-        <link>https://speakerdeck.com/ciarana/whats-new-in-go-1-dot-27</link>
         <dc:date>2026-08-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
