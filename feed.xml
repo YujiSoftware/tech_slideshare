@@ -6,6 +6,61 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI駆動開発をチームに根付かせる - 「1行も書かない」チームがHarnessを育てた1年 -  (Ken'ichirou Kimura)</title>
+        <link>https://speakerdeck.com/kenichirokimura/embedding-ai-driven-development-into-your-team</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goのrate.Limiterで、429との戦いを終わらせる (SHINCHI Takahiro)</title>
+        <link>https://speakerdeck.com/shinchit/go-no-rate-limiter-de-429-tono-tatakai-o-owaraseru</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>tamachi.goを支える技術 (ryoji miyamoto)</title>
+        <link>https://speakerdeck.com/rymiyamoto/tamachi-go-o-sasaeru-gijutsu</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今更聞けない データ基盤 基本のキ：Tableauを活かす！失敗しない導入ステップとリアルな費用感 (Yukako Tabata)</title>
+        <link>https://speakerdeck.com/tbtykk/imasara-kikenai-deta-kiban-kihon-no-tableau-o-ikasu-shippai-shinai-dounyuu-suteppu-to-riaruna-hiyoukan</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SSMJP-20260827-01-NLOG2N2 (nlog2n2,@nlog2n2)</title>
+        <link>https://www.docswell.com/s/nlog2n2/ZGNM1M-2026-08-27-200044</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>手順書の成立条件 / 実施者・前提知識・判断条件を引き継ぎ事例から考える (Keiichi Tanaka,@silpheed_kt)</title>
+        <link>https://www.docswell.com/s/silpheed_kt/KL3816-2026-08-27-200723</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GKE アップグレード前に知っておきたい Blue/Green と PDB の関係 (Sota Takaki)</title>
+        <link>https://speakerdeck.com/stkk/green-to-pdb-no-kankei</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ローカルネットワークで使うOpenWebUI</title>
+        <link>https://docs.google.com/presentation/d/1g5CAuoHDFPQfbDMj0rD0gtKGViFuA_AOkTBuTU9XDag/preview</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>作れる人から、伸ばせる人へ~Anthropicの5アーキタイプで読み解く、成長率日本一の開発組織~ / Builder to Grower (ヤマモトヒロキ)</title>
+        <link>https://speakerdeck.com/hirokiyamamoto14/builder-to-grower</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[ OracleTechnologyNight#102]SQL性能改善の武器としてのパラレル実行詳細 (oracle4engineer)</title>
+        <link>https://speakerdeck.com/oracle4engineer/oracletechnologynight102-oracle-parallel-execution-detail</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>『自分で判断できるか』を基準に、プロダクトのハンズオン研修でAI利用の線を引いてみた / Where We Drew the Line on AI in Hands-on Training (yuki)</title>
+        <link>https://speakerdeck.com/honyanya/where-we-drew-the-line-on-ai-in-hands-on-training</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ALB ログから Trace を気合で繋げる技術 (Hayato Kawai)</title>
         <link>https://speakerdeck.com/fohte/alb-rogu-kara-trace-o-kiai-de-tsunageru-gijutsu</link>
         <dc:date>2026-08-26T15:00:00Z</dc:date>
@@ -48,61 +103,6 @@
     <item>
         <title>AWSとGitHub Actionsの責任境界と 組織で安全に使用する取り組み (Nealle)</title>
         <link>https://speakerdeck.com/nealle/responsibility-boundaries-between-aws-and-github-actions</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OTelドキュメントの解説から 再学習するObservability用語や概念 (kato)</title>
-        <link>https://speakerdeck.com/yushikatoaws/otel-dokyumento-no-kaisetsu-kara-saigakushuu-suru-observability-yougo-ya-gainen</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VPCでもFloatingIPを使いたいんだ (Yasunobu Kotani (はくひめ))</title>
-        <link>https://speakerdeck.com/y_kotani/vpc-demo-floatingip-o-tsukaitai-nda</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロジェクトのリズムを 体に取り込む (Kozo Taira)</title>
-        <link>https://speakerdeck.com/kozotaira/purojekuto-no-rizumu-o-karada-ni-torikomu</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Offers Deep Dive｜それ、本当にClaude Codeじゃないとダメ？｜ハヤカワ五味｜2026-08-26</title>
-        <link>https://docs.google.com/presentation/d/12rSpChcazf-jpaCo3ptcp8LfbbNq7XFc0I2p0YFX3hU/preview</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>中小企業に就職して転職せず30年。結果どうなった？ (hmatsu47(まつ),@hmatsu47)</title>
-        <link>https://www.docswell.com/s/hmatsu47/5X231P-career-lt</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>安定公務員みたいな学校から 毎年アップデートされる世界へ (maijun)</title>
-        <link>https://speakerdeck.com/maijun/antei-koumuin-mitaina-gakkou-kara-maitoshi-appudeto-sareru-sekai-he</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>依頼する技術 #tachikawaany (Hiromi Hishida)</title>
-        <link>https://speakerdeck.com/77web/irai-suru-gijutsu-tachikawaany</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kiro５兄弟のいまどきのセキュリティ基礎知識 (Hiroo Katoh)</title>
-        <link>https://speakerdeck.com/kentapapa/kiro-kyoudai-no-imadoki-no-sekyuriti-kiso-chishiki</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>アクセスキー流出時の対応で再認識した攻撃側と防御側の非対称性について (kazzpapa3)</title>
-        <link>https://speakerdeck.com/kazzpapa3/akusesu-ki-ryuushutsuji-no-taiou-de-saininshiki-shita-kougekigawa-to-bougyogawa-no-hitaishousei-nitsuite</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SecurityAgentを使用して自分のサイトにペネトレレーションテストを行った結果について (いとさん)</title>
-        <link>https://speakerdeck.com/ito33_0/securityagent-o-shiyou-shi-te-jibun-no-saito-ni-penetoreshon-tesuto-o-okonata-kekka-nitsuite</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>markdown-poster-introduction.pptx</title>
-        <link>https://docs.google.com/presentation/d/1vpGxKmm_AdX_z3uMeyPt0t-2n8H16qsr/preview</link>
         <dc:date>2026-08-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
