@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI駆動開発を組織で促すために (LINEヤフーTech (LY Corporation Tech))</title>
+        <link>https://speakerdeck.com/lycorptech_jp/aidlc-aidd-workshop</link>
+        <dc:date>2026-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>サーバー常駐型の 簡易障害調査AI エージェントを作ってみた話 (masayoshi)</title>
+        <link>https://speakerdeck.com/masayoshi/saba-jouchuugata-no-kani-shougai-chousa-ai-ejento-o-tsuku-te-mita-hanashi</link>
+        <dc:date>2026-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI駆動開発をチームに根付かせる - 「1行も書かない」チームがHarnessを育てた1年 -  (Ken'ichirou Kimura)</title>
         <link>https://speakerdeck.com/kenichirokimura/embedding-ai-driven-development-into-your-team</link>
         <dc:date>2026-08-26T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>AIエージェントのためのデータ設計 (Daisuke Nakajima)</title>
         <link>https://speakerdeck.com/daiz21/ai-ejento-no-tame-no-deta-sekkei</link>
         <dc:date>2026-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rust で作ったネイティブを Ruby から使う (yo_waka)</title>
-        <link>https://speakerdeck.com/waka/rust-de-tsukuta-neitibu-o-ruby-kara-tsukau</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWSとGitHub Actionsの責任境界と 組織で安全に使用する取り組み (Nealle)</title>
-        <link>https://speakerdeck.com/nealle/responsibility-boundaries-between-aws-and-github-actions</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
