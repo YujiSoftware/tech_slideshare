@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ALB ログから Trace を気合で繋げる技術 (Hayato Kawai)</title>
+        <link>https://speakerdeck.com/fohte/alb-rogu-kara-trace-o-kiai-de-tsunageru-gijutsu</link>
+        <dc:date>2026-08-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>50代で初転職した話 (YAMADA Hirotaka)</title>
         <link>https://speakerdeck.com/yda/50-dai-de-hatsutenshoku-shita-hanashi</link>
         <dc:date>2026-08-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>markdown-poster-introduction.pptx</title>
         <link>https://docs.google.com/presentation/d/1vpGxKmm_AdX_z3uMeyPt0t-2n8H16qsr/preview</link>
-        <dc:date>2026-08-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ClaudeCodeでゲームの企画と秒速プロトタイピング</title>
-        <link>https://docs.google.com/presentation/d/1yTTW-gFPSJlX6yScZVz9fQtKytPEvVJD92KbYSKuk-s/preview</link>
         <dc:date>2026-08-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
