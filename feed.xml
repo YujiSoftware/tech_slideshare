@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ことみんの登壇資料の作り方〜登壇はいいぞ〜 (ことみん / kotomin_m)</title>
+        <link>https://speakerdeck.com/kotomin_m/kotomin-no-toudanshiryounotsukurikata-php-tech-talk-night</link>
+        <dc:date>2026-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>顧客の要望は2次情報である 〜アンテナを張るFDEの構造論〜 (Noriaki Oji)</title>
         <link>https://speakerdeck.com/noriakioji/kokyaku-no-youbou-ha-2-jijouhoudearu-antena-o-haru-fde-no-kouzouron</link>
         <dc:date>2026-08-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「面白い！」を信じ抜け。激動の時代を貫く、オンリーワン・エンジニアの条件 (t.kizawa)</title>
         <link>https://speakerdeck.com/kizawa2020/omoshiroi-o-shinji-nuke-gekidou-no-jidai-o-tsuranuku-onri-wan-enjinia-no-jouken</link>
-        <dc:date>2026-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI駆動開発はどこまで来たのか？ ファインディの最新実態調査で読み解く現在地 Devin Con Tokyo (Go-yamada)</title>
-        <link>https://speakerdeck.com/akiratom/ai-kudou-kaihatsu-ha-doko-made-kita-no-ka-no-saishin-jittai-chousa-de-yomitoku-genzaichi-devin-con-tokyo</link>
         <dc:date>2026-08-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
