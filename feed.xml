@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claude Codeの体系的な理解と知識のフック (Oikon)</title>
+        <link>https://speakerdeck.com/oikon48/cc</link>
+        <dc:date>2026-08-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Codeで開発以外の業務も爆速化しよう！ (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou</link>
         <dc:date>2026-08-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[ OracleTechnologyNight#102]SQL性能改善の武器としてのパラレル実行詳細 (oracle4engineer)</title>
         <link>https://speakerdeck.com/oracle4engineer/oracletechnologynight102-oracle-parallel-execution-detail</link>
-        <dc:date>2026-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『自分で判断できるか』を基準に、プロダクトのハンズオン研修でAI利用の線を引いてみた / Where We Drew the Line on AI in Hands-on Training (yuki)</title>
-        <link>https://speakerdeck.com/honyanya/where-we-drew-the-line-on-ai-in-hands-on-training</link>
         <dc:date>2026-08-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
