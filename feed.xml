@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>指示待ちから変化に応じるClaude Codeへ！~環境からAgentへの帰り道を作る~ (Gota)</title>
+        <link>https://speakerdeck.com/gotalab555/shijimachi-kara-henka-ni-oujiru-claude-code-he-kankyou-kara-agent-heno-kaerimichi-o-tsukuru</link>
+        <dc:date>2026-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Code × git worktree で並列開発 (続き) -差分のサービスだけを併設する- (NearMeの技術発表資料です)</title>
+        <link>https://speakerdeck.com/nearme_tech/claude-code-worktree-2</link>
+        <dc:date>2026-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI 駆動開発と規律 (Katuyuki Kakigi,@k2works)</title>
         <link>https://www.docswell.com/s/k2works/KMQ948-2026-08-26-100339</link>
         <dc:date>2026-08-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>手順書の成立条件 / 実施者・前提知識・判断条件を引き継ぎ事例から考える (Keiichi Tanaka,@silpheed_kt)</title>
         <link>https://www.docswell.com/s/silpheed_kt/KL3816-2026-08-27-200723</link>
-        <dc:date>2026-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GKE アップグレード前に知っておきたい Blue/Green と PDB の関係 (Sota Takaki)</title>
-        <link>https://speakerdeck.com/stkk/green-to-pdb-no-kankei</link>
-        <dc:date>2026-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ローカルネットワークで使うOpenWebUI</title>
-        <link>https://docs.google.com/presentation/d/1g5CAuoHDFPQfbDMj0rD0gtKGViFuA_AOkTBuTU9XDag/preview</link>
         <dc:date>2026-08-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
