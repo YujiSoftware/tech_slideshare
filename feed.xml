@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ServerSideSwiftAndContainerMachine - アプリ実装そのままクラウド (notoroid)</title>
+        <link>https://speakerdeck.com/notoroid/serversideswiftandcontainermachine-jissou-sonomama-kura-udo</link>
+        <dc:date>2026-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>有効化しないとどうなるか、試してみた ― S3 Tablesとカタログ (yuuuka)</title>
         <link>https://speakerdeck.com/yuuka51/yuukouka-shinai-to-dou-naru-ka-tameshi-te-mita-s3-tables-to-katarogu</link>
         <dc:date>2026-08-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>技術イベントの甲府一極集中問題をオープンデータで解決してみる (しみず ゆうき)</title>
         <link>https://speakerdeck.com/yuukis/gijutsu-ibento-no-koufu-ichikyoku-shuuchuu-mondai-o-opun-deta-de-kaiketsu-shi-te-miru</link>
-        <dc:date>2026-08-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ことみんの登壇資料の作り方〜登壇はいいぞ〜 (ことみん / kotomin_m)</title>
-        <link>https://speakerdeck.com/kotomin_m/kotomin-no-toudanshiryounotsukurikata-php-tech-talk-night</link>
         <dc:date>2026-08-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
