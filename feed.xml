@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>あなたの知らないバージョン命名規則 (Satoru Takeuchi)</title>
+        <link>https://speakerdeck.com/sat/anata-no-shiranai-bajon-meimei-kisoku</link>
+        <dc:date>2026-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DMMブックスのNext.js化を加速させるAI活用 / Migrating DMM Books to Next.js with AI (Kentaro Matsushita)</title>
         <link>https://speakerdeck.com/kentarom/migrating-dmm-books-to-next-dot-js-with-ai</link>
         <dc:date>2026-08-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Goのrate.Limiterで、429との戦いを終わらせる (SHINCHI Takahiro)</title>
         <link>https://speakerdeck.com/shinchit/go-no-rate-limiter-de-429-tono-tatakai-o-owaraseru</link>
-        <dc:date>2026-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>tamachi.goを支える技術 (ryoji miyamoto)</title>
-        <link>https://speakerdeck.com/rymiyamoto/tamachi-go-o-sasaeru-gijutsu</link>
         <dc:date>2026-08-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
