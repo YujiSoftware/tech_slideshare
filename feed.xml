@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>有効化しないとどうなるか、試してみた ― S3 Tablesとカタログ (yuuuka)</title>
+        <link>https://speakerdeck.com/yuuka51/yuukouka-shinai-to-dou-naru-ka-tameshi-te-mita-s3-tables-to-katarogu</link>
+        <dc:date>2026-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260829-セキュリティー勉強会in塩尻-AWS セキュリティ設計と実装 (平賀博司)</title>
+        <link>https://speakerdeck.com/hiragahh/20260829-sekyuriti-benkyoukai-in-shiojiri-aws-sekyuriti-sekkei-to-jissou</link>
+        <dc:date>2026-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>脆弱性とこれからの話 2026 summer  - 2026のCVE津波を乗り越えるには (Riotaro OKADA)</title>
+        <link>https://speakerdeck.com/okdt/vulnerability_and_thefuture-2026shiojiri</link>
+        <dc:date>2026-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLMアプリ、 雰囲気で運用してませんか？ 〜LLMOpsの現在地〜 (Takaaki Yayoi)</title>
+        <link>https://speakerdeck.com/taka_aki/llm-funiki-de-unyou-shi-temasen-ka-llmops-no-genzaichi</link>
+        <dc:date>2026-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自分でつくるIoT、思ったより身近だった話〜Pico 2 W × kintone × CodexでやってみたIoT電子工作〜 (Mizu,@Masaki_Mizutani)</title>
+        <link>https://www.docswell.com/s/4015497516/ZR8M61-2026-08-29-175508</link>
+        <dc:date>2026-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ファンクタからモナド / Functor to Monad (kii310)</title>
+        <link>https://speakerdeck.com/kii310/functor-to-monad</link>
+        <dc:date>2026-08-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>あなたの知らないバージョン命名規則 (Satoru Takeuchi)</title>
         <link>https://speakerdeck.com/sat/anata-no-shiranai-bajon-meimei-kisoku</link>
         <dc:date>2026-08-28T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>ことみんの登壇資料の作り方〜登壇はいいぞ〜 (ことみん / kotomin_m)</title>
         <link>https://speakerdeck.com/kotomin_m/kotomin-no-toudanshiryounotsukurikata-php-tech-talk-night</link>
         <dc:date>2026-08-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>顧客の要望は2次情報である 〜アンテナを張るFDEの構造論〜 (Noriaki Oji)</title>
-        <link>https://speakerdeck.com/noriakioji/kokyaku-no-youbou-ha-2-jijouhoudearu-antena-o-haru-fde-no-kouzouron</link>
-        <dc:date>2026-08-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update (opelab)</title>
-        <link>https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update</link>
-        <dc:date>2026-08-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI駆動開発を組織で促すために (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/aidlc-aidd-workshop</link>
-        <dc:date>2026-08-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サーバー常駐型の 簡易障害調査AI エージェントを作ってみた話 (masayoshi)</title>
-        <link>https://speakerdeck.com/masayoshi/saba-jouchuugata-no-kani-shougai-chousa-ai-ejento-o-tsuku-te-mita-hanashi</link>
-        <dc:date>2026-08-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI駆動開発をチームに根付かせる - 「1行も書かない」チームがHarnessを育てた1年 -  (Ken'ichirou Kimura)</title>
-        <link>https://speakerdeck.com/kenichirokimura/embedding-ai-driven-development-into-your-team</link>
-        <dc:date>2026-08-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goのrate.Limiterで、429との戦いを終わらせる (SHINCHI Takahiro)</title>
-        <link>https://speakerdeck.com/shinchit/go-no-rate-limiter-de-429-tono-tatakai-o-owaraseru</link>
-        <dc:date>2026-08-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
