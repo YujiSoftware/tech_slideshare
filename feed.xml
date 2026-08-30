@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ハーネス設計入門 〜プロンプト、コンテキストの次〜 (kinopee)</title>
+        <link>https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi</link>
+        <dc:date>2026-08-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>APIセキュリティを組織で実現するには~注力する点と設計・実装に入れたい対策~ (RiiiM(りむ))</title>
         <link>https://speakerdeck.com/riiimparm/api-sekyuriti-o-soshiki-de-jitsugen-suru-niha-chuuryoku-suru-ten-to-sekkei-jissou-ni-iretai-taisaku</link>
         <dc:date>2026-08-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>モバイルアプリでループエンジニアの「検証」をどうするか試行錯誤中 (Taqucinco)</title>
         <link>https://speakerdeck.com/taqucinco123/de-rupu-enjinia-no-kenshou-o-dou-suru-ka-shikou-sakugochuu</link>
-        <dc:date>2026-08-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>全社に広がるMCPサーバーを、 どう安全に管理するか MCPass開発の舞台裏 (k.muguruma)</title>
-        <link>https://speakerdeck.com/mtpooh/2026-08-28-postman-api-night-mcpass</link>
         <dc:date>2026-08-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
