@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>経験談から伝える! AIによって既に変わってしまった転職事情 (iWonder118)</title>
+        <link>https://speakerdeck.com/iwonder118/keikendan-kara-tsutaeru-ai-niyotte-sudeni-kawa-te-shimata-tenshoku-jijou</link>
+        <dc:date>2026-08-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>第7回 プロジェクトマネージャ勉強会 (Quatrex,@Quatrex)</title>
         <link>https://www.docswell.com/s/Quatrex/ZN7Q9W-2026-08-30</link>
         <dc:date>2026-08-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>指示待ちから変化に応じるClaude Codeへ！~環境からAgentへの帰り道を作る~ (Gota)</title>
         <link>https://speakerdeck.com/gotalab555/shijimachi-kara-henka-ni-oujiru-claude-code-he-kankyou-kara-agent-heno-kaerimichi-o-tsukuru</link>
-        <dc:date>2026-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Code × git worktree で並列開発 (続き) -差分のサービスだけを併設する- (NearMeの技術発表資料です)</title>
-        <link>https://speakerdeck.com/nearme_tech/claude-code-worktree-2</link>
         <dc:date>2026-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
