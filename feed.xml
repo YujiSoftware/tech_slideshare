@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Look Dev Meetup #50 (Baku Hashimoto)</title>
+        <link>https://speakerdeck.com/baku89/look-dev-meetup-number-50</link>
+        <dc:date>2026-08-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>いいUIとは？初心者向けに事例をもとにUIデザインを分解 (原 佑一｜クリエイティブディレクター)</title>
         <link>https://speakerdeck.com/yuichi_hara7/ii-ui-toha-shoshinshamuke-ni-jirei-o-moto-ni-ui-dezain-o-bunkai</link>
         <dc:date>2026-08-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>あなたの知らないバージョン命名規則 (Satoru Takeuchi)</title>
         <link>https://speakerdeck.com/sat/anata-no-shiranai-bajon-meimei-kisoku</link>
-        <dc:date>2026-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DMMブックスのNext.js化を加速させるAI活用 / Migrating DMM Books to Next.js with AI (Kentaro Matsushita)</title>
-        <link>https://speakerdeck.com/kentarom/migrating-dmm-books-to-next-dot-js-with-ai</link>
         <dc:date>2026-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
