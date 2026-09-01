@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claude Codeを組織的に動かして月400PRを実現した話 (happy_ryo)</title>
+        <link>https://speakerdeck.com/happy_ryo/claude-code-o-soshikiteki-ni-ugokashi-te-tsuki-400pr-o-jitsugen-shita-hanashi</link>
+        <dc:date>2026-08-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Look Dev Meetup #50 (Baku Hashimoto)</title>
         <link>https://speakerdeck.com/baku89/look-dev-meetup-number-50</link>
         <dc:date>2026-08-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ファンクタからモナド / Functor to Monad (kii310)</title>
         <link>https://speakerdeck.com/kii310/functor-to-monad</link>
-        <dc:date>2026-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あなたの知らないバージョン命名規則 (Satoru Takeuchi)</title>
-        <link>https://speakerdeck.com/sat/anata-no-shiranai-bajon-meimei-kisoku</link>
         <dc:date>2026-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
