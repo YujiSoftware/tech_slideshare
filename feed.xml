@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ローカルLLMでどこまでコードが書けるか -LLM基礎知識 /　How much code can be written on a local LLM - fundamental knowledge (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-fundamental-knowledge</link>
+        <dc:date>2026-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI駆動開発時代のBackstage ― AIがコードを書く世界で、Golden Pathは誰が為に？ / Backstage in the AI-Driven Development Era (Shintaro Kitamura)</title>
+        <link>https://speakerdeck.com/skitamura7446/backstage-in-the-ai-driven-development-era</link>
+        <dc:date>2026-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OneLake Security × Data Agent ~AI時代だからこそ考えたい、データアクセスと権限制御~ (大竹礼二（REIJI OTAKE）)</title>
+        <link>https://speakerdeck.com/reireireijinjin6/onelake-security-x-data-agent-ai-jidaida-karakoso-kangaetai-deta-akusesu-to-kengen-seigyo</link>
+        <dc:date>2026-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>hash-2026-090 2-CDLE-AI・機械学習のための数学 — どう理解し、どう勉強するか (田中政宏)</title>
+        <link>https://www.docswell.com/s/5969682/K6N66L-2026-09-02-215935</link>
+        <dc:date>2026-09-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Claude Codeを組織的に動かして月400PRを実現した話 (happy_ryo)</title>
         <link>https://speakerdeck.com/happy_ryo/claude-code-o-soshikiteki-ni-ugokashi-te-tsuki-400pr-o-jitsugen-shita-hanashi</link>
         <dc:date>2026-08-31T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>20260829-セキュリティー勉強会in塩尻-AWS セキュリティ設計と実装 (平賀博司)</title>
         <link>https://speakerdeck.com/hiragahh/20260829-sekyuriti-benkyoukai-in-shiojiri-aws-sekyuriti-sekkei-to-jissou</link>
-        <dc:date>2026-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脆弱性とこれからの話 2026 summer  - 2026のCVE津波を乗り越えるには (Riotaro OKADA)</title>
-        <link>https://speakerdeck.com/okdt/vulnerability_and_thefuture-2026shiojiri</link>
-        <dc:date>2026-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMアプリ、 雰囲気で運用してませんか？ 〜LLMOpsの現在地〜 (Takaaki Yayoi)</title>
-        <link>https://speakerdeck.com/taka_aki/llm-funiki-de-unyou-shi-temasen-ka-llmops-no-genzaichi</link>
-        <dc:date>2026-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自分でつくるIoT、思ったより身近だった話〜Pico 2 W × kintone × CodexでやってみたIoT電子工作〜 (Mizu,@Masaki_Mizutani)</title>
-        <link>https://www.docswell.com/s/4015497516/ZR8M61-2026-08-29-175508</link>
-        <dc:date>2026-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ファンクタからモナド / Functor to Monad (kii310)</title>
-        <link>https://speakerdeck.com/kii310/functor-to-monad</link>
         <dc:date>2026-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
