@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260902 日本ロボット学会学術講演会 (Ryuichi Ueda,@ryuichiueda)</title>
+        <link>https://www.docswell.com/s/ryuichiueda/ZQ24N7-2026-09-02-rsj2026</link>
+        <dc:date>2026-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ローカルLLMでどこまでコードが書けるか -LLM基礎知識 /　How much code can be written on a local LLM - fundamental knowledge (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-fundamental-knowledge</link>
         <dc:date>2026-09-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>有効化しないとどうなるか、試してみた ― S3 Tablesとカタログ (yuuuka)</title>
         <link>https://speakerdeck.com/yuuka51/yuukouka-shinai-to-dou-naru-ka-tameshi-te-mita-s3-tables-to-katarogu</link>
-        <dc:date>2026-08-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260829-セキュリティー勉強会in塩尻-AWS セキュリティ設計と実装 (平賀博司)</title>
-        <link>https://speakerdeck.com/hiragahh/20260829-sekyuriti-benkyoukai-in-shiojiri-aws-sekyuriti-sekkei-to-jissou</link>
         <dc:date>2026-08-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
