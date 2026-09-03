@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Benchmarking Vector Databases: pgvector vs. LanceDB (tsho)</title>
+        <link>https://speakerdeck.com/tsho/benchmarking-vector-databases-pgvector-vs-lancedb</link>
+        <dc:date>2026-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LL言語やWebフレームワークの PostgreSQL対応 〜DBの機能がユーザーに届くまで〜 (武田 憲太郎)</title>
+        <link>https://speakerdeck.com/kentaroutakeda/ll-gengoya-web-furemu-waku-no-postgresql-taiou-db-no-kinou-ga-yuza-ni-todoku-made</link>
+        <dc:date>2026-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ベッドロック便利だなという話 (HAYATO FUKUSHIMA)</title>
+        <link>https://speakerdeck.com/fukushimasurao/beddo-rokku-benrida-natoiu-hanashi</link>
+        <dc:date>2026-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260903 Tokyo Jazug Night #62 | Azure エンジニアよ、 その環境は本当にセキュアか？ (Olivia)</title>
+        <link>https://speakerdeck.com/olivia_0707/20260903-tokyo-jazug-night-62-azure-enjinia-yo-sono-kankyou-ha-hontouni-ka</link>
+        <dc:date>2026-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure App Service / Container Apps の組み込み認証 (Kuniteru Asami)</title>
+        <link>https://speakerdeck.com/kuniteru/container-apps-no-kumikomi-ninshou</link>
+        <dc:date>2026-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>イベントストーミング実践事例 ―業務理解から機能改善、大規模リプレイスまで_20260902 (MonotaRO)</title>
+        <link>https://speakerdeck.com/monotaro/87f1a1491c5bd1359b63ac03f84c09a2</link>
+        <dc:date>2026-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Bet AI Day 2026丨LayerXの採用を支える組織AIの現在地と、Agentに任せる未来 (LayerX)</title>
         <link>https://speakerdeck.com/layerx/bet-ai-day-2026-session09</link>
         <dc:date>2026-09-02T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>第7回 プロジェクトマネージャ勉強会 (Quatrex,@Quatrex)</title>
         <link>https://www.docswell.com/s/Quatrex/ZN7Q9W-2026-08-30</link>
-        <dc:date>2026-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon DocumentDB入門 (shinadaa_1717)</title>
-        <link>https://speakerdeck.com/shinadaa1717/amazon-documentdb-nyuumon</link>
-        <dc:date>2026-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>百聞は一見にしかず！測って楽しいWio BG770A (MATSUOKA Takashi,@matsujirushi12)</title>
-        <link>https://www.docswell.com/s/matsujirushi/K4N64Y-2026-08-29-225703</link>
-        <dc:date>2026-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EMの役割で 変わったこと・変わらなかったこと (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/260825</link>
-        <dc:date>2026-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PdMからみた EMの役割の変化 /  When EM Meets PdM (ヤマモトヒロキ)</title>
-        <link>https://speakerdeck.com/hirokiyamamoto14/when-em-meets-pdm</link>
-        <dc:date>2026-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハーネス設計入門 〜プロンプト、コンテキストの次〜 (kinopee)</title>
-        <link>https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi</link>
-        <dc:date>2026-08-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>APIセキュリティを組織で実現するには~注力する点と設計・実装に入れたい対策~ (RiiiM(りむ))</title>
-        <link>https://speakerdeck.com/riiimparm/api-sekyuriti-o-soshiki-de-jitsugen-suru-niha-chuuryoku-suru-ten-to-sekkei-jissou-ni-iretai-taisaku</link>
         <dc:date>2026-08-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
