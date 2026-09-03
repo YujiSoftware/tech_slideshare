@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIで進めるQA自動化の現在地 - E2Eリグレッションテストの整備と維持 - (shibutani)</title>
+        <link>https://speakerdeck.com/shibukazu/aidejin-meruqazi-dong-hua-noxian-zai-di-e2eriguretusiyontesutonozheng-bei-towei-chi</link>
+        <dc:date>2026-09-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Benchmarking Vector Databases: pgvector vs. LanceDB (tsho)</title>
         <link>https://speakerdeck.com/tsho/benchmarking-vector-databases-pgvector-vs-lancedb</link>
         <dc:date>2026-09-02T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>経験談から伝える! AIによって既に変わってしまった転職事情 (iWonder118)</title>
         <link>https://speakerdeck.com/iwonder118/keikendan-kara-tsutaeru-ai-niyotte-sudeni-kawa-te-shimata-tenshoku-jijou</link>
         <dc:date>2026-08-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第7回 プロジェクトマネージャ勉強会 (Quatrex,@Quatrex)</title>
-        <link>https://www.docswell.com/s/Quatrex/ZN7Q9W-2026-08-30</link>
-        <dc:date>2026-08-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
