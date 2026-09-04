@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>少人数データチームのDevin活用実践事例 (Runa Yamada)</title>
+        <link>https://speakerdeck.com/runandy16/shouninzuu-deta-chimu-no-devin-katsuyou-jissen-jirei</link>
+        <dc:date>2026-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanワークショップ - API基礎 - 20260904</title>
+        <link>https://docs.google.com/presentation/d/1yaG8R65RhNg_BKGKHoIuZpirEFtIO-Dh7guvTN63iCA/preview</link>
+        <dc:date>2026-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Web Sustainability Guidelines（WSG） (株式会社ミツエーリンクス,@Mitsue_Links)</title>
+        <link>https://www.docswell.com/s/Mitsue-Links/ZJWRVX-2026-09-04-165922</link>
+        <dc:date>2026-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>How to Get Started with Minimal Self-Hosted Operations—Starting with Photos / 写真から始まる ミニマムセルフホスト運用 の始め方 (Arishow)</title>
+        <link>https://speakerdeck.com/arishow/shashin-kara-hajimaru-unyou-no-hajimekata</link>
+        <dc:date>2026-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2026-09-04 SRE Tech Talk #15 怠惰なTerraform /  Lazy Terraform (SUZUKI Masashi)</title>
+        <link>https://speakerdeck.com/masasuzu/lazy-terraform</link>
+        <dc:date>2026-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PfEingのアプローチで働こう (rin（林晃 / Akira Hayashi）)</title>
+        <link>https://speakerdeck.com/rindrics/pfeing-no-apurochi-de-hatarakou</link>
+        <dc:date>2026-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title> GitOpsに潜む競合を、構造から見直す (g0xu)</title>
+        <link>https://speakerdeck.com/g0xu/gitops-ni-hisomu-kyougou-o-kouzou-kara-minaosu</link>
+        <dc:date>2026-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIでアウトプットできる時代だからこそ、自分の言葉で考えることの大切さ / What's Left to Think, When AI Can Write? (モブエンジニア（Masaki Okuda）)</title>
+        <link>https://speakerdeck.com/masakiokuda/whats-left-to-think-when-ai-can-write</link>
+        <dc:date>2026-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データエンジニアの困りごとをDevinと一緒に解消する (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/deta-enjinia-no-komarigoto-o-devin-to-issho-ni-kaishou-suru</link>
+        <dc:date>2026-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Bet AI Day 2026丨Production-Ready AI Agents — エンタープライズの実務を任せるための設計と運用 (LayerX)</title>
         <link>https://speakerdeck.com/layerx/bet-ai-day-2026-session04</link>
         <dc:date>2026-09-03T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>Benchmarking Vector Databases: pgvector vs. LanceDB (tsho)</title>
         <link>https://speakerdeck.com/tsho/benchmarking-vector-databases-pgvector-vs-lancedb</link>
         <dc:date>2026-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LL言語やWebフレームワークの PostgreSQL対応 〜DBの機能がユーザーに届くまで〜 (武田 憲太郎)</title>
-        <link>https://speakerdeck.com/kentaroutakeda/ll-gengoya-web-furemu-waku-no-postgresql-taiou-db-no-kinou-ga-yuza-ni-todoku-made</link>
-        <dc:date>2026-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ベッドロック便利だなという話 (HAYATO FUKUSHIMA)</title>
-        <link>https://speakerdeck.com/fukushimasurao/beddo-rokku-benrida-natoiu-hanashi</link>
-        <dc:date>2026-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260903 Tokyo Jazug Night #62 | Azure エンジニアよ、 その環境は本当にセキュアか？ (Olivia)</title>
-        <link>https://speakerdeck.com/olivia_0707/20260903-tokyo-jazug-night-62-azure-enjinia-yo-sono-kankyou-ha-hontouni-ka</link>
-        <dc:date>2026-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure App Service / Container Apps の組み込み認証 (Kuniteru Asami)</title>
-        <link>https://speakerdeck.com/kuniteru/container-apps-no-kumikomi-ninshou</link>
-        <dc:date>2026-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>イベントストーミング実践事例 ―業務理解から機能改善、大規模リプレイスまで_20260902 (MonotaRO)</title>
-        <link>https://speakerdeck.com/monotaro/87f1a1491c5bd1359b63ac03f84c09a2</link>
-        <dc:date>2026-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bet AI Day 2026丨LayerXの採用を支える組織AIの現在地と、Agentに任せる未来 (LayerX)</title>
-        <link>https://speakerdeck.com/layerx/bet-ai-day-2026-session09</link>
-        <dc:date>2026-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIを上手に使っていこうとしたら越境せざるを得なくなった話 〜実践1年で見えた境界を越えなければならない理由と進め方〜 / Crossing borders with AI (TomoyaKitaura)</title>
-        <link>https://speakerdeck.com/tomoyakitaura/crossing-borders-with-ai</link>
-        <dc:date>2026-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260902 日本ロボット学会学術講演会 (Ryuichi Ueda,@ryuichiueda)</title>
-        <link>https://www.docswell.com/s/ryuichiueda/ZQ24N7-2026-09-02-rsj2026</link>
-        <dc:date>2026-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ローカルLLMでどこまでコードが書けるか -LLM基礎知識 /　How much code can be written on a local LLM - fundamental knowledge (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-fundamental-knowledge</link>
-        <dc:date>2026-09-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
