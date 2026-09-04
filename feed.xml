@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Bet AI Day 2026丨デザインハーネス：専門職の判断基準をコードのように運用する (LayerX)</title>
+        <link>https://speakerdeck.com/layerx/bet-ai-day-2026-session05</link>
+        <dc:date>2026-09-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>少人数データチームのDevin活用実践事例 (Runa Yamada)</title>
         <link>https://speakerdeck.com/runandy16/shouninzuu-deta-chimu-no-devin-katsuyou-jissen-jirei</link>
         <dc:date>2026-09-03T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIで進めるQA自動化の現在地 - E2Eリグレッションテストの整備と維持 - (shibutani)</title>
         <link>https://speakerdeck.com/shibukazu/aidejin-meruqazi-dong-hua-noxian-zai-di-e2eriguretusiyontesutonozheng-bei-towei-chi</link>
-        <dc:date>2026-09-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Benchmarking Vector Databases: pgvector vs. LanceDB (tsho)</title>
-        <link>https://speakerdeck.com/tsho/benchmarking-vector-databases-pgvector-vs-lancedb</link>
         <dc:date>2026-09-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
