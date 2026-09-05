@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIで実装は速くなった。なのにプロダクトは速くならない。職能の壁を越えて価値のフローを設計する (nwiizo)</title>
+        <link>https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru</link>
+        <dc:date>2026-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>KPIだけでは評価できないプロダクトが考えるべき Evalsという第二の評価系 / Beyond KPIs: Evals as a Second Evaluation Framework for Products #PdEConf (Aki / @LoveIdahoBurger)</title>
         <link>https://speakerdeck.com/aki_iinuma/beyond-kpis-evals-as-a-second-evaluation-framework-for-products-number-pdeconf</link>
         <dc:date>2026-09-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>生成AI時代の クレデンシャルとパーミッション設計 (NRI Netcom)</title>
         <link>https://speakerdeck.com/nrinetcom/seisei-ai-jidai-no-to-pa-misshon-sekkei</link>
-        <dc:date>2026-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェント時代のコードレビューを設計する (nogu)</title>
-        <link>https://speakerdeck.com/nogu66/ai-ejento-jidai-no-kodo-rebyu-o-sekkei-suru</link>
         <dc:date>2026-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
