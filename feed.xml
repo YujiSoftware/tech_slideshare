@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代に、プロダクトの数だけ積み上がる所有コストをどうエンジニアリングするか / Engineering the Cost of Ownership (Kazuki Maeda)</title>
+        <link>https://speakerdeck.com/kzkmaeda/engineering-the-cost-of-ownership</link>
+        <dc:date>2026-09-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プロダクトエンジニアに必要な「いい感じ」に作る能力 〜たくさん作れる時代に、どこまで作るかの決め方〜 (Jotaro Nishime)</title>
         <link>https://speakerdeck.com/jnishime_dresscode/purodakuto-enjinia-ni-hitsuyouna-ii-kanji-ni-tsukuru-nouryoku-takusan-tsukureru-jidai-ni-doko-made-tsukuru-kano-kimekata</link>
         <dc:date>2026-09-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Bet AI Day 2026丨How We Bet AI: AIとともに働く場をつくる (LayerX)</title>
         <link>https://speakerdeck.com/layerx/bet-ai-day-2026-session08</link>
-        <dc:date>2026-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bet AI Day 2026丨AIを「使う」から、AIが「働く」へ ― LayerXが進める「組織AI」の社会実装 (LayerX)</title>
-        <link>https://speakerdeck.com/layerx/bet-ai-day-2026-session01</link>
         <dc:date>2026-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
