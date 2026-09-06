@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vibes Containers 〜AIで変わるコンテナ設計と運用〜 (Tetsuya Kikuchi)</title>
+        <link>https://speakerdeck.com/tkikuc/vibes-containers-ai-de-kawaru-kontena-sekkei-to-unyou</link>
+        <dc:date>2026-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ハードウェア研究で国際トップ会議を目指す！IROS 2027での論文採択を目指して (金田礼人)</title>
         <link>https://speakerdeck.com/ayatokanada/hadowea-kenkyuu-de-kokusai-toppu-kaigi-o-mezasu-iros-2027-deno-ronbun-saitaku-o-mezashi-te</link>
         <dc:date>2026-09-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Web Sustainability Guidelines（WSG） (株式会社ミツエーリンクス,@Mitsue_Links)</title>
         <link>https://www.docswell.com/s/Mitsue-Links/ZJWRVX-2026-09-04-165922</link>
-        <dc:date>2026-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>How to Get Started with Minimal Self-Hosted Operations—Starting with Photos / 写真から始まる ミニマムセルフホスト運用 の始め方 (Arishow)</title>
-        <link>https://speakerdeck.com/arishow/shashin-kara-hajimaru-unyou-no-hajimekata</link>
         <dc:date>2026-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
