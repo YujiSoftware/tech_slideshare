@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践 (サイバーセキュリティクラウド)</title>
+        <link>https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine</link>
+        <dc:date>2026-09-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「コラボ企画」第3回 SECKUN Next × みんなのセキュリティ勉強会 参加者アンケート</title>
         <link>https://docs.google.com/forms/d/e/1FAIpQLSdmnxBbQa1623jHfcQ0SdEUUTAv060I-dzsq2gyrMOygZ5y0g/viewform</link>
         <dc:date>2026-09-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>PfEingのアプローチで働こう (rin（林晃 / Akira Hayashi）)</title>
         <link>https://speakerdeck.com/rindrics/pfeing-no-apurochi-de-hatarakou</link>
-        <dc:date>2026-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> GitOpsに潜む競合を、構造から見直す (g0xu)</title>
-        <link>https://speakerdeck.com/g0xu/gitops-ni-hisomu-kyougou-o-kouzou-kara-minaosu</link>
         <dc:date>2026-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
