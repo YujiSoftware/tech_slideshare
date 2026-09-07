@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ニューラルかな漢字変換の仕組みと運用（第59回 情報科学若手の会 若手特別講演 登壇資料） (Keita Miwa)</title>
+        <link>https://speakerdeck.com/miwa_keita/kanakanji-henkan-no-shikumi-to-unyou-dai-59-kai-jouhou-kagaku-wakate-no-kai-wakate-tokubetsu-kouen-toudan-shiryou</link>
+        <dc:date>2026-09-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>全員がプロダクトへ向き合う組織を持続成長させるために——組織づくりのフライホイールと4象限 / The Flywheel Model and Four Quadrants for Organizational Design (hiro-torii)</title>
         <link>https://speakerdeck.com/hiro_torii/the-flywheel-model-and-four-quadrants-for-organizational-design</link>
         <dc:date>2026-09-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Bet AI Day 2026丨デザインハーネス：専門職の判断基準をコードのように運用する (LayerX)</title>
         <link>https://speakerdeck.com/layerx/bet-ai-day-2026-session05</link>
-        <dc:date>2026-09-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>少人数データチームのDevin活用実践事例 (Runa Yamada)</title>
-        <link>https://speakerdeck.com/runandy16/shouninzuu-deta-chimu-no-devin-katsuyou-jissen-jirei</link>
         <dc:date>2026-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
