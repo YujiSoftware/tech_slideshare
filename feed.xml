@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Building an Out-of-Order CPU (Latte72)</title>
+        <link>https://speakerdeck.com/latte72/building-an-out-of-order-cpu</link>
+        <dc:date>2026-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ニューラルかな漢字変換の仕組みと運用（第59回 情報科学若手の会 若手特別講演 登壇資料） (Keita Miwa)</title>
         <link>https://speakerdeck.com/miwa_keita/kanakanji-henkan-no-shikumi-to-unyou-dai-59-kai-jouhou-kagaku-wakate-no-kai-wakate-tokubetsu-kouen-toudan-shiryou</link>
         <dc:date>2026-09-06T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>エンジニアリングは、 どこまで拡大解釈できるか 「一人でもプロダクトが作れるこの時代に、 私は、あなたとプロダクトを作りたいのです」 と言われるために心技体を繋いでいく (KEITA YANAGAWA)</title>
         <link>https://speakerdeck.com/gimupop/pdeconfarence</link>
         <dc:date>2026-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bet AI Day 2026丨デザインハーネス：専門職の判断基準をコードのように運用する (LayerX)</title>
-        <link>https://speakerdeck.com/layerx/bet-ai-day-2026-session05</link>
-        <dc:date>2026-09-03T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
