@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアはどこまで越境するべきか＿Take (UPSIDER, Inc. Tech&amp;Product div.)</title>
+        <link>https://speakerdeck.com/upsider_tech/enjinia-ha-doko-made-ekkyou-surubeki-ka-take</link>
+        <dc:date>2026-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データ組織を受託からプロダクトオーナーへ変える (kunpe / Kumpei Yamada)</title>
+        <link>https://speakerdeck.com/ymdpharm/0908-product-engineering-talks</link>
+        <dc:date>2026-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>敢えて溶かさない、 PdMとエンジニアの境界 / PdM–Engineer Boundary (ヤマモトヒロキ)</title>
+        <link>https://speakerdeck.com/hirokiyamamoto14/pdm-engineer-boundary</link>
+        <dc:date>2026-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代のAPI品質を支えるガードレール / API Guardrails for API quality in the AI ​​era (Yoichi Kawasaki)</title>
+        <link>https://speakerdeck.com/yokawasa/api-guardrails-for-api-quality-in-the-ai-era</link>
+        <dc:date>2026-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>大本営参謀の情報戦記 (老兵は死なず、ただハックするのみ)</title>
+        <link>https://speakerdeck.com/snoopy0806/daihonei-sanbou-no-jouhou-senki</link>
+        <dc:date>2026-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>shumoku meetup #1 (Akitoshi Saeki,@konoe_akitoshi)</title>
+        <link>https://www.docswell.com/s/konoe_akitoshi/K4N68G-2026-09-08-190027</link>
+        <dc:date>2026-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Tab5をRubyで動くパソコンにする (Katsuhiko Kageyama)</title>
         <link>https://speakerdeck.com/kishima/tab5-o-ruby-de-ugoku-pasokon-ni-suru</link>
         <dc:date>2026-09-07T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>【視聴者参加型！】AWSセキュリティアンチパターンクイズ (Shun Yoshie)</title>
         <link>https://speakerdeck.com/syoshie/shichousha-sankagata-aws</link>
-        <dc:date>2026-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「全員が全部やる」体制で スループット3倍　〜1人1案件 × AI開発を支えた「プロセス監督」の2ヶ月〜 (のんちゃん)</title>
-        <link>https://speakerdeck.com/non0113/zenin-ga-zenbu-yaru-taisei-de-suruputto-3-bai-1-hito-1-anken-x-ai-kaihatsu-o-sasaeta-purosesu-kantoku-no-2-kagetsu</link>
-        <dc:date>2026-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webとヘルスデータ (Yuku Kotani)</title>
-        <link>https://speakerdeck.com/yukukotani/web-for-health-data</link>
-        <dc:date>2026-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いま、生成AIにKaggleをどこまで 任せられるか — ROGIIコンペでの進め方とTips (monnu)</title>
-        <link>https://speakerdeck.com/k951286/ima-seisei-ai-ni-kaggle-o-doko-made-makaserareru-ka-rogii-konpe-deno-susumekata-to-tips</link>
-        <dc:date>2026-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIで実装は速くなった。なのにプロダクトは速くならない。職能の壁を越えて価値のフローを設計する (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru</link>
-        <dc:date>2026-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KPIだけでは評価できないプロダクトが考えるべき Evalsという第二の評価系 / Beyond KPIs: Evals as a Second Evaluation Framework for Products #PdEConf (Aki / @LoveIdahoBurger)</title>
-        <link>https://speakerdeck.com/aki_iinuma/beyond-kpis-evals-as-a-second-evaluation-framework-for-products-number-pdeconf</link>
-        <dc:date>2026-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代に、プロダクトの数だけ積み上がる所有コストをどうエンジニアリングするか / Engineering the Cost of Ownership (Kazuki Maeda)</title>
-        <link>https://speakerdeck.com/kzkmaeda/engineering-the-cost-of-ownership</link>
         <dc:date>2026-09-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
