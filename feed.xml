@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Tab5をRubyで動くパソコンにする (Katsuhiko Kageyama)</title>
+        <link>https://speakerdeck.com/kishima/tab5-o-ruby-de-ugoku-pasokon-ni-suru</link>
+        <dc:date>2026-09-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「従来型SOCの限界 -machinespeedの攻撃にどう立ち向かうか-」 (ohhara,@ohhara_shiojiri)</title>
         <link>https://www.docswell.com/s/ohhara_shiojiri/58N66Y-2026-09-02-164916</link>
         <dc:date>2026-09-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI時代に、プロダクトの数だけ積み上がる所有コストをどうエンジニアリングするか / Engineering the Cost of Ownership (Kazuki Maeda)</title>
         <link>https://speakerdeck.com/kzkmaeda/engineering-the-cost-of-ownership</link>
-        <dc:date>2026-09-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プロダクトエンジニアに必要な「いい感じ」に作る能力 〜たくさん作れる時代に、どこまで作るかの決め方〜 (Jotaro Nishime)</title>
-        <link>https://speakerdeck.com/jnishime_dresscode/purodakuto-enjinia-ni-hitsuyouna-ii-kanji-ni-tsukuru-nouryoku-takusan-tsukureru-jidai-ni-doko-made-tsukuru-kano-kimekata</link>
         <dc:date>2026-09-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
