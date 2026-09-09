@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIに丸投げしないトイル削減 / Eliminating Toil Without Leaving It All to AI (kohbis)</title>
+        <link>https://speakerdeck.com/kohbis/eliminating-toil-without-leaving-it-all-to-ai</link>
+        <dc:date>2026-09-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS DevOps Agentで インシデント対応をAIに任せたい (HonMarkHunt)</title>
         <link>https://speakerdeck.com/honmarkhunt/aws-devops-agent-de-inshidento-taiou-o-ai-ni-makasetai</link>
         <dc:date>2026-09-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>shumoku meetup #1 (Akitoshi Saeki,@konoe_akitoshi)</title>
         <link>https://www.docswell.com/s/konoe_akitoshi/K4N68G-2026-09-08-190027</link>
-        <dc:date>2026-09-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Tab5をRubyで動くパソコンにする (Katsuhiko Kageyama)</title>
-        <link>https://speakerdeck.com/kishima/tab5-o-ruby-de-ugoku-pasokon-ni-suru</link>
         <dc:date>2026-09-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
