@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>逆最適化と機械学習 (Shinsaku Sakaue)</title>
+        <link>https://speakerdeck.com/ssakaue/gyakusaitekika-to-kikai-gakushuu</link>
+        <dc:date>2026-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>多層防御と最⼩権限で実現する、安全なAIエージェント設計パターン (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/20260908a</link>
         <dc:date>2026-09-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ハードウェア研究で国際トップ会議を目指す！IROS 2027での論文採択を目指して (金田礼人)</title>
         <link>https://speakerdeck.com/ayatokanada/hadowea-kenkyuu-de-kokusai-toppu-kaigi-o-mezasu-iros-2027-deno-ronbun-saitaku-o-mezashi-te</link>
-        <dc:date>2026-09-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザインハーネス 〜AIが生成する"デザイン"の妥当性を、誰がどう担保するのか〜 / PdEConf2026 Design Harness (kgsi)</title>
-        <link>https://speakerdeck.com/kgsi/pdeconf2026-design-harness</link>
         <dc:date>2026-09-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
