@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIで仕事のやり方を変える (Kentaro Matsumoto)</title>
+        <link>https://speakerdeck.com/matsu7874/ai-de-shigoto-no-yarikata-o-kaeru</link>
+        <dc:date>2026-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プラットフォームエンジニアリングでAIの価値を最大化する (Lapi)</title>
+        <link>https://speakerdeck.com/dragoneena12/purattofomu-enjiniaringu-de-ai-no-kachi-o-saidaika-suru</link>
+        <dc:date>2026-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Multica × 長期記憶：40個のミニプロジェクト管理 (eiei114)</title>
+        <link>https://speakerdeck.com/eiei114/multica-x-chouki-kioku-40-ko-no-mini-purojekuto-kanri</link>
+        <dc:date>2026-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>物理もいいけど仮想もね 〜SD-WANの推しポイント〜 (モブエンジニア（Masaki Okuda）)</title>
+        <link>https://speakerdeck.com/masakiokuda/physical-is-great-but-so-is-virtual-key-selling-points-of-sd-wan</link>
+        <dc:date>2026-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>個人開発基盤をまるごとCloudflareに引っ越して爆速で総合的体験を向上させた話 (Tsubasa SEKIGUCHI)</title>
+        <link>https://speakerdeck.com/tinykitten/kojin-kaihatsu-kiban-o-marugoto-cloudflare-ni-hikkoshi-te-de-sougouteki-taiken-o-koujou-saseta-hanashi</link>
+        <dc:date>2026-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>逆最適化と機械学習 (Shinsaku Sakaue)</title>
         <link>https://speakerdeck.com/ssakaue/gyakusaitekika-to-kikai-gakushuu</link>
         <dc:date>2026-09-08T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>Building an Out-of-Order CPU (Latte72)</title>
         <link>https://speakerdeck.com/latte72/building-an-out-of-order-cpu</link>
         <dc:date>2026-09-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ニューラルかな漢字変換の仕組みと運用（第59回 情報科学若手の会 若手特別講演 登壇資料） (Keita Miwa)</title>
-        <link>https://speakerdeck.com/miwa_keita/kanakanji-henkan-no-shikumi-to-unyou-dai-59-kai-jouhou-kagaku-wakate-no-kai-wakate-tokubetsu-kouen-toudan-shiryou</link>
-        <dc:date>2026-09-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>全員がプロダクトへ向き合う組織を持続成長させるために——組織づくりのフライホイールと4象限 / The Flywheel Model and Four Quadrants for Organizational Design (hiro-torii)</title>
-        <link>https://speakerdeck.com/hiro_torii/the-flywheel-model-and-four-quadrants-for-organizational-design</link>
-        <dc:date>2026-09-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260906 Kiro Products (midnight480)</title>
-        <link>https://speakerdeck.com/midnight480/20260906-kiro-products</link>
-        <dc:date>2026-09-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vibes Containers 〜AIで変わるコンテナ設計と運用〜 (Tetsuya Kikuchi)</title>
-        <link>https://speakerdeck.com/tkikuc/vibes-containers-ai-de-kawaru-kontena-sekkei-to-unyou</link>
-        <dc:date>2026-09-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハードウェア研究で国際トップ会議を目指す！IROS 2027での論文採択を目指して (金田礼人)</title>
-        <link>https://speakerdeck.com/ayatokanada/hadowea-kenkyuu-de-kokusai-toppu-kaigi-o-mezasu-iros-2027-deno-ronbun-saitaku-o-mezashi-te</link>
-        <dc:date>2026-09-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
