@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>多層防御と最⼩権限で実現する、安全なAIエージェント設計パターン (LINEヤフーTech (LY Corporation Tech))</title>
+        <link>https://speakerdeck.com/lycorptech_jp/20260908a</link>
+        <dc:date>2026-09-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>より使われるサービスに。行政プロダクトのグロース戦略 (Yasuhiro Okada)</title>
         <link>https://speakerdeck.com/middleokada/yori-tsukawareru-sabisu-ni-gyousei-purodakuto-no-senryaku</link>
         <dc:date>2026-09-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>デザインハーネス 〜AIが生成する"デザイン"の妥当性を、誰がどう担保するのか〜 / PdEConf2026 Design Harness (kgsi)</title>
         <link>https://speakerdeck.com/kgsi/pdeconf2026-design-harness</link>
-        <dc:date>2026-09-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践 (サイバーセキュリティクラウド)</title>
-        <link>https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine</link>
         <dc:date>2026-09-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
