@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>OpenTelemetry eBPF Instrumentationの舞台裏 / Behind the Scenes of OpenTelemetry eBPF Instrumentation (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/behind-the-scenes-of-opentelemetry-ebpf-instrumentation</link>
+        <dc:date>2026-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GoにおけるFFIのこれまでとこれから (Masaaki Goshima)</title>
         <link>https://speakerdeck.com/goccy/go-niokeru-ffi-no-kore-madeto-korekara</link>
         <dc:date>2026-09-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Multica × 長期記憶：40個のミニプロジェクト管理 (eiei114)</title>
         <link>https://speakerdeck.com/eiei114/multica-x-chouki-kioku-40-ko-no-mini-purojekuto-kanri</link>
-        <dc:date>2026-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>物理もいいけど仮想もね 〜SD-WANの推しポイント〜 (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/physical-is-great-but-so-is-virtual-key-selling-points-of-sd-wan</link>
         <dc:date>2026-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
