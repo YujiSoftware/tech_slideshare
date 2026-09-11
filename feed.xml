@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ros2-perf-multihost: Automated Coordination Framework for Objective Architecture Evaluation in Distributed Systems (takasehideki)</title>
+        <link>https://speakerdeck.com/takasehideki/roscon20260924</link>
+        <dc:date>2026-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DEFCON 34 CHVCTF Badge問  (ishii)</title>
+        <link>https://speakerdeck.com/ishii141/defcon-34-chvctf-badge-toi</link>
+        <dc:date>2026-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DEFCON 34 CHV CTF Tiny Trek (Takumi Matsuura)</title>
+        <link>https://speakerdeck.com/tm99hjkl/defcon-34-chv-ctf-tiny-trek</link>
+        <dc:date>2026-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DEFCON34-Write-up_HYCu-MYCu (okzkey)</title>
+        <link>https://speakerdeck.com/daikiokazaki/defcon34-write-up-hycu-mycu</link>
+        <dc:date>2026-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DEFCON_CHV_CTF_Write-up.pdf (bata_24)</title>
+        <link>https://speakerdeck.com/bata_24/defcon-chv-ctf-write-up-48174970-07a6-4d96-8a14-3bbac35509d1</link>
+        <dc:date>2026-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Maritime Hacking Village CTF 2026 Report (DEF CON 34 recap) (tokina (himitu))</title>
+        <link>https://speakerdeck.com/himitu23/maritime-hacking-village-ctf-2026-report-def-con-34-recap</link>
+        <dc:date>2026-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260911_HCCJP_AdaptiveCloudUpdates (osamut)</title>
+        <link>https://speakerdeck.com/sdosamut/20260911-hccjp-adaptivecloudupdates</link>
+        <dc:date>2026-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JPUG勉強会 OSSデータベースの内部構造を理解しよう(第２回) (Atsushi Ogawa)</title>
+        <link>https://speakerdeck.com/oga5/jpug-benkyoukai-oss-detabesu-no-naibu-kouzou-o-rikai-shiyou-dai-kai</link>
+        <dc:date>2026-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>標準パッケージに uuid が追加された 背景から見る Go らしい意思決定 / go_127_uuid_decision (convto)</title>
         <link>https://speakerdeck.com/convto/go-127-uuid-decision</link>
         <dc:date>2026-09-10T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>thread_parallel_with_free-threaded_Python_and_NumPy.pdf (Riku Sakamoto)</title>
         <link>https://speakerdeck.com/riku_sakamoto/thread-parallel-with-free-threaded-python-and-numpy</link>
         <dc:date>2026-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>stapy#122 - StoryHub Benchmark コンテンツ生成タスクのためのLLMベンチマークの設計と運用</title>
-        <link>https://docs.google.com/presentation/d/1pPodNoKEusav9A7G8XkitBXqvHHfMEd4mkaYsE-cCyU/preview</link>
-        <dc:date>2026-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deploying a Full-Stack Bun-Native Framework on Cloudflare Workers (daiki7nohe)</title>
-        <link>https://speakerdeck.com/7nohe/deploying-a-full-stack-bun-native-framework-on-cloudflare-workers</link>
-        <dc:date>2026-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>WAF 運用改善の承認サイクル/SRE_BizReach_MIXI_1 (Visional Engineering ＆ Design)</title>
-        <link>https://speakerdeck.com/visional_engineering_and_design/sre-bizreach-mixi-25e1ebe1-facb-4604-9d95-1a4113f1b885</link>
-        <dc:date>2026-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIに丸投げしないトイル削減 / Eliminating Toil Without Leaving It All to AI (kohbis)</title>
-        <link>https://speakerdeck.com/kohbis/eliminating-toil-without-leaving-it-all-to-ai</link>
-        <dc:date>2026-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS DevOps Agentで インシデント対応をAIに任せたい (HonMarkHunt)</title>
-        <link>https://speakerdeck.com/honmarkhunt/aws-devops-agent-de-inshidento-taiou-o-ai-ni-makasetai</link>
-        <dc:date>2026-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI 駆動 Terraform 開発/SRE_BizReach_MIXI_2 (Visional Engineering ＆ Design)</title>
-        <link>https://speakerdeck.com/visional_engineering_and_design/sre-bizreach-mixi</link>
-        <dc:date>2026-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIで仕事のやり方を変える (Kentaro Matsumoto)</title>
-        <link>https://speakerdeck.com/matsu7874/ai-de-shigoto-no-yarikata-o-kaeru</link>
-        <dc:date>2026-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プラットフォームエンジニアリングでAIの価値を最大化する (Lapi)</title>
-        <link>https://speakerdeck.com/dragoneena12/purattofomu-enjiniaringu-de-ai-no-kachi-o-saidaika-suru</link>
-        <dc:date>2026-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
