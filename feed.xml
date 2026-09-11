@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GoにおけるFFIのこれまでとこれから (Masaaki Goshima)</title>
+        <link>https://speakerdeck.com/goccy/go-niokeru-ffi-no-kore-madeto-korekara</link>
+        <dc:date>2026-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[GoCon2026] When Goroutines Are Not Enough: Runtime Locality in High-Throughput Go (Takeru Hayasaka)</title>
+        <link>https://speakerdeck.com/takehaya/gocon2026-when-goroutines-are-not-enough-runtime-locality-in-high-throughput-go</link>
+        <dc:date>2026-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>エンジニアがビジネスに踏み込むために共通言語として「会計」を学ぶ (umaidashi)</title>
         <link>https://speakerdeck.com/umaidashi/enjinia-ga-bijinesu-ni-fumikomu-tame-ni-kyoutsuu-gengo-toshite-kaikei-o-manabu</link>
         <dc:date>2026-09-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>物理もいいけど仮想もね 〜SD-WANの推しポイント〜 (モブエンジニア（Masaki Okuda）)</title>
         <link>https://speakerdeck.com/masakiokuda/physical-is-great-but-so-is-virtual-key-selling-points-of-sd-wan</link>
-        <dc:date>2026-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>個人開発基盤をまるごとCloudflareに引っ越して爆速で総合的体験を向上させた話 (Tsubasa SEKIGUCHI)</title>
-        <link>https://speakerdeck.com/tinykitten/kojin-kaihatsu-kiban-o-marugoto-cloudflare-ni-hikkoshi-te-de-sougouteki-taiken-o-koujou-saseta-hanashi</link>
-        <dc:date>2026-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>逆最適化と機械学習 (Shinsaku Sakaue)</title>
-        <link>https://speakerdeck.com/ssakaue/gyakusaitekika-to-kikai-gakushuu</link>
         <dc:date>2026-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
