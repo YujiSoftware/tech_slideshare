@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>例外の正しい扱い方 そのエラー try-catchして大丈夫？ (Watanabe Jin)</title>
+        <link>https://speakerdeck.com/jinwatanabe/reigai-no-tadashii-atsukaikata-sono-era-try-catch-shi-te-daijoubu</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>勾配流から乖離した学習ダイナミクス (Han Bao)</title>
+        <link>https://speakerdeck.com/hanbao/rikigakukei-kara-mita-gendaitekina-kikai-gakushuu</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ros2-perf-multihost: Automated Coordination Framework for Objective Architecture Evaluation in Distributed Systems (takasehideki)</title>
         <link>https://speakerdeck.com/takasehideki/roscon20260924</link>
         <dc:date>2026-09-10T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Amazon Quick on DesktopがIAM Identity Centerで動かない理由 (YukiOgawa)</title>
         <link>https://speakerdeck.com/yukiogawa/amazon-quick-on-desktop-ga-iam-identity-center-de-ugokanai-riyuu</link>
-        <dc:date>2026-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一人だけ、Kiroが静止する日 (Hideyuki Nagata)</title>
-        <link>https://speakerdeck.com/hideg/ichinin-dake-kiro-ga-seishi-suru-hi</link>
-        <dc:date>2026-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>thread_parallel_with_free-threaded_Python_and_NumPy.pdf (Riku Sakamoto)</title>
-        <link>https://speakerdeck.com/riku_sakamoto/thread-parallel-with-free-threaded-python-and-numpy</link>
         <dc:date>2026-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
