@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>標準パッケージに uuid が追加された 背景から見る Go らしい意思決定 / go_127_uuid_decision (convto)</title>
+        <link>https://speakerdeck.com/convto/go-127-uuid-decision</link>
+        <dc:date>2026-09-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>OpenTelemetry eBPF Instrumentationの舞台裏 / Behind the Scenes of OpenTelemetry eBPF Instrumentation (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/behind-the-scenes-of-opentelemetry-ebpf-instrumentation</link>
         <dc:date>2026-09-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>プラットフォームエンジニアリングでAIの価値を最大化する (Lapi)</title>
         <link>https://speakerdeck.com/dragoneena12/purattofomu-enjiniaringu-de-ai-no-kachi-o-saidaika-suru</link>
-        <dc:date>2026-09-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Multica × 長期記憶：40個のミニプロジェクト管理 (eiei114)</title>
-        <link>https://speakerdeck.com/eiei114/multica-x-chouki-kioku-40-ko-no-mini-purojekuto-kanri</link>
         <dc:date>2026-09-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
