@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Webの地図 (Yosuke Furukawa)</title>
+        <link>https://speakerdeck.com/yosuke_furukawa/web-no-chizu</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フロントエンドUIフレームワークのこれまでとこれから (TOMIKAWA Sotaro)</title>
+        <link>https://speakerdeck.com/ssssota/frontend-ui-framework-futures</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Intent as Code (Shoppingjaws)</title>
+        <link>https://speakerdeck.com/shoppingjaws/intent-as-code</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI Agent時代のリアーキテクチャ戦略と実践 (Kazuhito Hokamura)</title>
         <link>https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen</link>
         <dc:date>2026-09-11T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>OpenTelemetry eBPF Instrumentationの舞台裏 / Behind the Scenes of OpenTelemetry eBPF Instrumentation (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/behind-the-scenes-of-opentelemetry-ebpf-instrumentation</link>
-        <dc:date>2026-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GoにおけるFFIのこれまでとこれから (Masaaki Goshima)</title>
-        <link>https://speakerdeck.com/goccy/go-niokeru-ffi-no-kore-madeto-korekara</link>
-        <dc:date>2026-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[GoCon2026] When Goroutines Are Not Enough: Runtime Locality in High-Throughput Go (Takeru Hayasaka)</title>
-        <link>https://speakerdeck.com/takehaya/gocon2026-when-goroutines-are-not-enough-runtime-locality-in-high-throughput-go</link>
-        <dc:date>2026-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアがビジネスに踏み込むために共通言語として「会計」を学ぶ (umaidashi)</title>
-        <link>https://speakerdeck.com/umaidashi/enjinia-ga-bijinesu-ni-fumikomu-tame-ni-kyoutsuu-gengo-toshite-kaikei-o-manabu</link>
         <dc:date>2026-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
