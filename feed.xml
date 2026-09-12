@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>synctest時代のhttptest  Go 1.27で変わるHTTPサーバテストの裏側 / go conference2026 synctest and httptest (Yoichiro Shimizu)</title>
+        <link>https://speakerdeck.com/budougumi0617/go-conference2026-synctest-and-httptest</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>問いに答えるAIから、ビジネスを動かすAIへ！Snowflakeで作るオントロジー (harry)</title>
+        <link>https://speakerdeck.com/gappy50/bs5227-snowflake-world-tour-tokyo-ontology-harry</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>例外の正しい扱い方 そのエラー try-catchして大丈夫？ (Watanabe Jin)</title>
         <link>https://speakerdeck.com/jinwatanabe/reigai-no-tadashii-atsukaikata-sono-era-try-catch-shi-te-daijoubu</link>
         <dc:date>2026-09-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>DXRuby互換のPicoRuby.wasmライブラリを作っている (ItoJum)</title>
         <link>https://speakerdeck.com/itojum/dxruby-gokan-no-picoruby-wasm-raiburari-o-tsuku-te-iru</link>
-        <dc:date>2026-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Omarchy Quattro の日本語設定周り (Akira Shimosako)</title>
-        <link>https://speakerdeck.com/simosako/omarchy-quattro-no-nihongo-settei-mawari</link>
-        <dc:date>2026-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Quick on DesktopがIAM Identity Centerで動かない理由 (YukiOgawa)</title>
-        <link>https://speakerdeck.com/yukiogawa/amazon-quick-on-desktop-ga-iam-identity-center-de-ugokanai-riyuu</link>
         <dc:date>2026-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
