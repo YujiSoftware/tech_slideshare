@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260908_ターゲットとスコープを決める発表法 (モブエンジニア（Masaki Okuda）)</title>
+        <link>https://speakerdeck.com/masakiokuda/how-to-present-defining-the-target-and-scope</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「好き」と「見やすい」の間でつくるスライド (inori)</title>
+        <link>https://speakerdeck.com/inorinori/suki-to-miyasui-no-ma-de-tsukuru-suraido</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LTのテーマ どうきめてる？〜5つの型と私のやり方〜 (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/lt-no-tema-dou-kime-teru-5-tsu-no-kata-to-watashi-no-yarikata</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ピアノ練習をサポートするAIくんを作ってみた (Hiroki Nomura,@Shrkm1204)</title>
+        <link>https://www.docswell.com/s/shirokuma/527YMG-piano-support-app</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260912_codex+computerUse用のマシン購入を考える (NobuakiOshiro)</title>
+        <link>https://speakerdeck.com/doradora09/20260912-codex-computeruse-you-no-mashin-kounyuu-o-kangaeru</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Webの地図 (Yosuke Furukawa)</title>
         <link>https://speakerdeck.com/yosuke_furukawa/web-no-chizu</link>
         <dc:date>2026-09-11T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>DEFCON_CHV_CTF_Write-up.pdf (bata_24)</title>
         <link>https://speakerdeck.com/bata_24/defcon-chv-ctf-write-up-48174970-07a6-4d96-8a14-3bbac35509d1</link>
-        <dc:date>2026-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Maritime Hacking Village CTF 2026 Report (DEF CON 34 recap) (tokina (himitu))</title>
-        <link>https://speakerdeck.com/himitu23/maritime-hacking-village-ctf-2026-report-def-con-34-recap</link>
-        <dc:date>2026-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260911_HCCJP_AdaptiveCloudUpdates (osamut)</title>
-        <link>https://speakerdeck.com/sdosamut/20260911-hccjp-adaptivecloudupdates</link>
-        <dc:date>2026-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JPUG勉強会 OSSデータベースの内部構造を理解しよう(第２回) (Atsushi Ogawa)</title>
-        <link>https://speakerdeck.com/oga5/jpug-benkyoukai-oss-detabesu-no-naibu-kouzou-o-rikai-shiyou-dai-kai</link>
-        <dc:date>2026-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>標準パッケージに uuid が追加された 背景から見る Go らしい意思決定 / go_127_uuid_decision (convto)</title>
-        <link>https://speakerdeck.com/convto/go-127-uuid-decision</link>
-        <dc:date>2026-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OpenTelemetry eBPF Instrumentationの舞台裏 / Behind the Scenes of OpenTelemetry eBPF Instrumentation (ymotongpoo)</title>
-        <link>https://speakerdeck.com/ymotongpoo/behind-the-scenes-of-opentelemetry-ebpf-instrumentation</link>
         <dc:date>2026-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
