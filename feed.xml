@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Reactの設計論 (uhyo)</title>
+        <link>https://speakerdeck.com/uhyo/react-no-sekkeiron</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>synctest時代のhttptest  Go 1.27で変わるHTTPサーバテストの裏側 / go conference2026 synctest and httptest (Yoichiro Shimizu)</title>
         <link>https://speakerdeck.com/budougumi0617/go-conference2026-synctest-and-httptest</link>
         <dc:date>2026-09-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>従業員データ基盤でのパターンマッチをご紹介_Roppongi.rb スポンサーLT (ItoJum)</title>
         <link>https://speakerdeck.com/itojum/juugyouin-deta-kiban-deno-patan-macchi-o-goshoukai-roppongi-rb-suponsa-lt</link>
-        <dc:date>2026-09-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DXRuby互換のPicoRuby.wasmライブラリを作っている (ItoJum)</title>
-        <link>https://speakerdeck.com/itojum/dxruby-gokan-no-picoruby-wasm-raiburari-o-tsuku-te-iru</link>
         <dc:date>2026-09-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
