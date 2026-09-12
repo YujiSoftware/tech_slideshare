@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Snowflakeのコスト最適化を支えるアーキテクチャ設計 (Tatsuya Koreeda)</title>
+        <link>https://speakerdeck.com/ktatsuya/snowflake-no-kosuto-saitekika-o-sasaeru-akitekucha-sekkei</link>
+        <dc:date>2026-09-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260908_ターゲットとスコープを決める発表法 (モブエンジニア（Masaki Okuda）)</title>
         <link>https://speakerdeck.com/masakiokuda/how-to-present-defining-the-target-and-scope</link>
         <dc:date>2026-09-11T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DEFCON34-Write-up_HYCu-MYCu (okzkey)</title>
         <link>https://speakerdeck.com/daikiokazaki/defcon34-write-up-hycu-mycu</link>
-        <dc:date>2026-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DEFCON_CHV_CTF_Write-up.pdf (bata_24)</title>
-        <link>https://speakerdeck.com/bata_24/defcon-chv-ctf-write-up-48174970-07a6-4d96-8a14-3bbac35509d1</link>
         <dc:date>2026-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
