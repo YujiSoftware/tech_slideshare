@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>あるけみー式LTスライド作成術 (Ryotaro Harada)</title>
+        <link>https://speakerdeck.com/alchemy1115/aruke-mi-shiki-lt-suraido-sakuseijutsu</link>
+        <dc:date>2026-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>巨大モノリシックアプリ モダン化大作戦 (Ryomm)</title>
         <link>https://speakerdeck.com/ktcryomm/kyodai-modanka-daisakusen</link>
         <dc:date>2026-09-12T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>勾配流から乖離した学習ダイナミクス (Han Bao)</title>
         <link>https://speakerdeck.com/hanbao/rikigakukei-kara-mita-gendaitekina-kikai-gakushuu</link>
         <dc:date>2026-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ros2-perf-multihost: Automated Coordination Framework for Objective Architecture Evaluation in Distributed Systems (takasehideki)</title>
-        <link>https://speakerdeck.com/takasehideki/roscon20260924</link>
-        <dc:date>2026-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
