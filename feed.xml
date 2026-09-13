@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2026-09-12 なぜテストを書くか？ (Frontend Conference Fukuoka 2026)</title>
+        <link>https://docs.google.com/presentation/d/1nlYpJ3cgt1LEUNnyGZCfHTt_AGfWHplQZCQpfvjOqHE/preview</link>
+        <dc:date>2026-09-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AgentCore CLI で進化した AWS での AI エージェントの作り方 : 必要な機能を必要な時に (Takahiro Kubo)</title>
         <link>https://speakerdeck.com/icoxfog417/modern-ai-agent-development-with-aws-agentcore-cli</link>
         <dc:date>2026-09-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>DEFCON 34 CHVCTF Badge問  (ishii)</title>
         <link>https://speakerdeck.com/ishii141/defcon-34-chvctf-badge-toi</link>
-        <dc:date>2026-09-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DEFCON 34 CHV CTF Tiny Trek (Takumi Matsuura)</title>
-        <link>https://speakerdeck.com/tm99hjkl/defcon-34-chv-ctf-tiny-trek</link>
         <dc:date>2026-09-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
