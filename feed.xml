@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Slack上でインフラをトラブルシュートする！ Agentic Platform Engineeringの第一歩 (teru0x1)</title>
+        <link>https://speakerdeck.com/teru0x1/slack-ue-de-infura-o-toraburu-shuto-suru-agentic-platform-engineering-no-daiippo</link>
+        <dc:date>2026-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260914 AIエージェント時代のPlatform Engineering　LLM基盤とプロダクトの責務境界線 (Taiki Kanzaki)</title>
+        <link>https://speakerdeck.com/kanfab1/20260914-ai-ejento-jidai-no-platform-engineering-llm-kiban-to-purodakuto-no-sekimu-kyoukaisen</link>
+        <dc:date>2026-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Codeの使い⽅ ＋Skills (ga1hir)</title>
+        <link>https://www.docswell.com/s/ga1hir/KY8LVN-2026-09-14-183841</link>
+        <dc:date>2026-09-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>アプリをもっと"iOSアプリっぽく"する小さな工夫 / Small Touches That Make Your App Feel More Like an iOS App (matsuji)</title>
         <link>https://speakerdeck.com/matsuji/small-touches-that-make-your-app-feel-more-like-an-ios-app</link>
         <dc:date>2026-09-13T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Reactの設計論 (uhyo)</title>
         <link>https://speakerdeck.com/uhyo/react-no-sekkeiron</link>
-        <dc:date>2026-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>synctest時代のhttptest  Go 1.27で変わるHTTPサーバテストの裏側 / go conference2026 synctest and httptest (Yoichiro Shimizu)</title>
-        <link>https://speakerdeck.com/budougumi0617/go-conference2026-synctest-and-httptest</link>
-        <dc:date>2026-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>問いに答えるAIから、ビジネスを動かすAIへ！Snowflakeで作るオントロジー (harry)</title>
-        <link>https://speakerdeck.com/gappy50/bs5227-snowflake-world-tour-tokyo-ontology-harry</link>
-        <dc:date>2026-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>例外の正しい扱い方 そのエラー try-catchして大丈夫？ (Watanabe Jin)</title>
-        <link>https://speakerdeck.com/jinwatanabe/reigai-no-tadashii-atsukaikata-sono-era-try-catch-shi-te-daijoubu</link>
         <dc:date>2026-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
