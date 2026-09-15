@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>安心して変更できるWebフロントエンドの作り方 (Hiroyuki ANAI)</title>
+        <link>https://speakerdeck.com/pirosikick/anshin-shi-te-henkou-dekiru-web-furonto-endo-no-tsukurikata</link>
+        <dc:date>2026-09-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Slack上でインフラをトラブルシュートする！ Agentic Platform Engineeringの第一歩 (teru0x1)</title>
         <link>https://speakerdeck.com/teru0x1/slack-ue-de-infura-o-toraburu-shuto-suru-agentic-platform-engineering-no-daiippo</link>
         <dc:date>2026-09-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title> SQL文一行も書けない人事がCortexもろもろを使って人事業務を楽にしてみる (ponponmikan)</title>
         <link>https://speakerdeck.com/ponponmikankan/sql-bun-ikkou-mo-kakenai-jinji-ga-cortex-moromoro-o-tsuka-te-jinji-gyoumu-o-raku-ni-shi-te-miru</link>
-        <dc:date>2026-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Reactの設計論 (uhyo)</title>
-        <link>https://speakerdeck.com/uhyo/react-no-sekkeiron</link>
         <dc:date>2026-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
