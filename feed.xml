@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ADRで防ぐ、AIコーディングの仕様ドリフト (kaz toc)</title>
+        <link>https://speakerdeck.com/kaztoc/adr-de-fusegu-ai-kodingu-no-shiyou-dorifuto</link>
+        <dc:date>2026-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>設計と製品のリポジトリをつないでAI開発を回してみた (Ochtum)</title>
+        <link>https://speakerdeck.com/ochtum/sekkei-to-seihin-no-o-tsunai-de-ai-kaihatsu-o-mawashi-te-mita</link>
+        <dc:date>2026-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>EPS画像を書式変換して利用する (matelier)</title>
+        <link>https://www.docswell.com/s/matelier/KL3RV3-2026-09-15-002004</link>
+        <dc:date>2026-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIによるクリエイティブ生成を行う上での試行錯誤 (PLAID Tech)</title>
         <link>https://speakerdeck.com/plaidtech/iterating-on-ai-creative-generation</link>
         <dc:date>2026-09-14T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>AgentCore CLI で進化した AWS での AI エージェントの作り方 : 必要な機能を必要な時に (Takahiro Kubo)</title>
         <link>https://speakerdeck.com/icoxfog417/modern-ai-agent-development-with-aws-agentcore-cli</link>
         <dc:date>2026-09-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Snowflakeのコスト最適化を支えるアーキテクチャ設計 (Tatsuya Koreeda)</title>
-        <link>https://speakerdeck.com/ktatsuya/snowflake-no-kosuto-saitekika-o-sasaeru-akitekucha-sekkei</link>
-        <dc:date>2026-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260908_ターゲットとスコープを決める発表法 (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/how-to-present-defining-the-target-and-scope</link>
-        <dc:date>2026-09-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「好き」と「見やすい」の間でつくるスライド (inori)</title>
-        <link>https://speakerdeck.com/inorinori/suki-to-miyasui-no-ma-de-tsukuru-suraido</link>
-        <dc:date>2026-09-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
