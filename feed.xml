@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>データ界隈LT祭 第1回LT登壇 (タロウ)</title>
+        <link>https://speakerdeck.com/taromatsui_cccmkhd/deta-kaiwai-lt-matsuri-dai-1-kai-lt-toudan</link>
+        <dc:date>2026-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIレビューは３層でまわす (しの)</title>
         <link>https://www.docswell.com/s/3402128/KVJYJ3-2026-09-15-202358</link>
         <dc:date>2026-09-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>あるけみー式LTスライド作成術 (Ryotaro Harada)</title>
         <link>https://speakerdeck.com/alchemy1115/aruke-mi-shiki-lt-suraido-sakuseijutsu</link>
         <dc:date>2026-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>巨大モノリシックアプリ モダン化大作戦 (Ryomm)</title>
-        <link>https://speakerdeck.com/ktcryomm/kyodai-modanka-daisakusen</link>
-        <dc:date>2026-09-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
