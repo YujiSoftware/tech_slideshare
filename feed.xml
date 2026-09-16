@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>一人で完結させないAI活用。仲間の成功体験を作る仕組み作り (ono.takayuki)</title>
+        <link>https://speakerdeck.com/takahal/ichinin-de-kanketsu-sasenai-ai-katsuyou-nakama-no-seikou-taiken-o-tsukuru-shikumizukuri</link>
+        <dc:date>2026-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Yahoo!ショッピングでのAI-DLCの取り組みについて (LINEヤフーTech (LY Corporation Tech))</title>
         <link>https://speakerdeck.com/lycorptech_jp/yahoo-shopping-ai-dlc-initiative</link>
         <dc:date>2026-09-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Slack上でインフラをトラブルシュートする！ Agentic Platform Engineeringの第一歩 (teru0x1)</title>
         <link>https://speakerdeck.com/teru0x1/slack-ue-de-infura-o-toraburu-shuto-suru-agentic-platform-engineering-no-daiippo</link>
-        <dc:date>2026-09-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260914 AIエージェント時代のPlatform Engineering　LLM基盤とプロダクトの責務境界線 (Taiki Kanzaki)</title>
-        <link>https://speakerdeck.com/kanfab1/20260914-ai-ejento-jidai-no-platform-engineering-llm-kiban-to-purodakuto-no-sekimu-kyoukaisen</link>
         <dc:date>2026-09-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
