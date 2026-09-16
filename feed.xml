@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260916【JAWS-UG朝会 #85LT②】NATゲートウェイの料金を何とかしたい (Taka)</title>
+        <link>https://speakerdeck.com/nozakijcom/20260916-jaws-ug-choukai-85lt-nat-geto-wei-no-ryoukin-o-nantoka-shitai</link>
+        <dc:date>2026-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>現場勉強会で変えた製造業のAWSへの興味関心 (榎本将希)</title>
+        <link>https://speakerdeck.com/eno1001/genba-benkyoukai-de-kaeta-seizougyou-no-aws-heno-kyoumi-kanshin</link>
+        <dc:date>2026-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>パーソナライズPodcastを作った話 (repunit11)</title>
+        <link>https://speakerdeck.com/repunit/podcast-o-tsukuta-hanashi</link>
+        <dc:date>2026-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NRUG Vol.19 New Relic AI Agentでアラート疲れを軽減した話 (大村雄哉)</title>
+        <link>https://speakerdeck.com/youmjww/nrug-vol-19-new-relic-ai-agent-de-zukare-o-keigen-shita-hanashi</link>
+        <dc:date>2026-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>非機能要件対応でCloudWatch LogsのS3エクスポートを担当したら、最も簡単だと思っていた方法が意外と大変だった話 (三与木 輝)</title>
+        <link>https://speakerdeck.com/miruky/hikinou-youken-taiou-de-cloudwatch-logs-no-s3-o-tantou-shitara-mottomo-kantanda-to-omo-te-ita-houhou-ga-igaito-taihendata-hanashi</link>
+        <dc:date>2026-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI 時代のスタートアップエコシステ厶から考究する技術的負債との向き合い方 (memory)</title>
         <link>https://speakerdeck.com/m3m0r7/thinking-about-tech-debt-in-ai-era</link>
         <dc:date>2026-09-15T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>AIによるクリエイティブ生成を行う上での試行錯誤 (PLAID Tech)</title>
         <link>https://speakerdeck.com/plaidtech/iterating-on-ai-creative-generation</link>
-        <dc:date>2026-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>鈴芽堂_Instagram改善ワークショップ (老兵は死なず、ただハックするのみ)</title>
-        <link>https://speakerdeck.com/snoopy0806/suzu-medou-instagram-kaizen-wakushoppu</link>
-        <dc:date>2026-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CLIライブラリ開発を支える技術 (Hiroshi TANABE)</title>
-        <link>https://speakerdeck.com/htnabe/cli-raiburari-kaihatsu-o-sasaeru-gijutsu</link>
-        <dc:date>2026-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevFest Meetup #2 2026/09/15 - 自作 TUI Agents View tingtt/agentsctl</title>
-        <link>https://docs.google.com/presentation/d/1k38cvKRrzqZoQc-FEPAlk9SSAap0zuQWCezk9DEDRY8/preview</link>
-        <dc:date>2026-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Oracle Cloud  Network Path Analyzerを試してみた/I Tried Out Oracle Cloud Network Path Analyzer (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/i-tried-out-oracle-cloud-network-path-analyzer</link>
-        <dc:date>2026-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Java 27新機能 / Java 27 new features (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/java-27-new-features</link>
         <dc:date>2026-09-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
