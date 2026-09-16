@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI 時代のスタートアップエコシステ厶から考究する技術的負債との向き合い方 (memory)</title>
+        <link>https://speakerdeck.com/m3m0r7/thinking-about-tech-debt-in-ai-era</link>
+        <dc:date>2026-09-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Streamlitで実現する自然言語データアプリ開発 (Ayumu Yamaguchi)</title>
         <link>https://speakerdeck.com/ayumu_yamaguchi/streamlit-de-jitsugen-suru-shizen-gengo-kaihatsu</link>
         <dc:date>2026-09-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Java 27新機能 / Java 27 new features (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/java-27-new-features</link>
-        <dc:date>2026-09-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents (223)</title>
-        <link>https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents</link>
         <dc:date>2026-09-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
