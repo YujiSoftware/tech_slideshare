@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIで社員の自主発信に広報目線を組み込む (もっさん)</title>
+        <link>https://speakerdeck.com/_mossann_t/ai-de-shain-no-jishu-hasshin-ni-kouhou-mesen-o-kumikomu</link>
+        <dc:date>2026-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLMアプリケーション評価駆動開発の歩き方 (PharmaX（旧YOJO Technologies）開発チーム)</title>
+        <link>https://speakerdeck.com/pharma_x_tech/llm-apurikeshon-hyouka-kudou-kaihatsu-no-arukikata</link>
+        <dc:date>2026-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>9月24日発売！書籍『LLMアプリケーション評価駆動開発』の歩き方 - 書籍紹介 - 第2部「実戦編」 (os1ma)</title>
+        <link>https://speakerdeck.com/os1ma/9-tsuki-24-nichi-hatsubai-shoseki-llm-apurikeshon-hyouka-kudou-kaihatsu-no-arukikata-shoseki-shoukai-dai-2-bu-jissenhen</link>
+        <dc:date>2026-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Hermes Agentで、AIが調べて記事を書くブログを作った話 (ayane)</title>
+        <link>https://speakerdeck.com/blueb/hermes-agent-de-ai-ga-shirabe-te-kiji-o-kaku-o-tsukuta-hanashi</link>
+        <dc:date>2026-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>開発投資の期待値を上げるプロダクトロードマップづくり ~プロダクトエンジニアが越境して事業を伸ばす~ (Kenta Suzuki)</title>
+        <link>https://speakerdeck.com/kekekenta/kaihatsu-toushi-no-kitaichi-o-ageru-zukuri-purodakuto-enjinia-ga-ekkyou-shi-te-jigyou-o-nobasu</link>
+        <dc:date>2026-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SREへの勘違いに気づいた後の話 (yuden)</title>
+        <link>https://speakerdeck.com/tomodakengo/sre-heno-kanchigai-ni-kizuita-nochi-no-hanashi</link>
+        <dc:date>2026-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Androidだけじゃない、DroidKaigiで広がった私の技術スタック (Akio Itaya)</title>
+        <link>https://speakerdeck.com/akkeylab/android-dakejanai-droidkaigi-de-hirogata-watashi-no-gijutsu-sutakku</link>
+        <dc:date>2026-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>白金鉱業Meetup Vol.25 【初学者向け発表枠】「で、この施策って効いてるの」に答える効果検証の基礎 ~ATE / ATT / CATE / LATEを現場の問いに翻訳する~ (BrainPad)</title>
+        <link>https://speakerdeck.com/brainpadpr/the-basics-of-effectiveness-evaluation-answering-the-question-so-is-this-initiative-working</link>
+        <dc:date>2026-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>白金鉱業Meetup Vol.25 アウトカムが二値のデータに対するCausal Impact  (BrainPad)</title>
+        <link>https://speakerdeck.com/brainpadpr/causal-impact-for-binary-outcomes-c68db320-6104-4965-b7d8-40529a68b4fd</link>
+        <dc:date>2026-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Postmanオンラインワークショップ - Postman入門 - 20260917</title>
+        <link>https://docs.google.com/presentation/d/1gsPo5CYKtuknh_ltYlBv5bwbbaL2X2ZakjN2pT0Cmvc/preview</link>
+        <dc:date>2026-09-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>現場で役立つ技術負債の効果的な返済方法 (増田 亨)</title>
         <link>https://speakerdeck.com/masuda220/genba-de-yakudatsu-gijutsu-fusai-no-koukatekina-hensai-houhou</link>
         <dc:date>2026-09-16T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>現場勉強会で変えた製造業のAWSへの興味関心 (榎本将希)</title>
         <link>https://speakerdeck.com/eno1001/genba-benkyoukai-de-kaeta-seizougyou-no-aws-heno-kyoumi-kanshin</link>
-        <dc:date>2026-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>パーソナライズPodcastを作った話 (repunit11)</title>
-        <link>https://speakerdeck.com/repunit/podcast-o-tsukuta-hanashi</link>
-        <dc:date>2026-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NRUG Vol.19 New Relic AI Agentでアラート疲れを軽減した話 (大村雄哉)</title>
-        <link>https://speakerdeck.com/youmjww/nrug-vol-19-new-relic-ai-agent-de-zukare-o-keigen-shita-hanashi</link>
-        <dc:date>2026-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>非機能要件対応でCloudWatch LogsのS3エクスポートを担当したら、最も簡単だと思っていた方法が意外と大変だった話 (三与木 輝)</title>
-        <link>https://speakerdeck.com/miruky/hikinou-youken-taiou-de-cloudwatch-logs-no-s3-o-tantou-shitara-mottomo-kantanda-to-omo-te-ita-houhou-ga-igaito-taihendata-hanashi</link>
-        <dc:date>2026-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI 時代のスタートアップエコシステ厶から考究する技術的負債との向き合い方 (memory)</title>
-        <link>https://speakerdeck.com/m3m0r7/thinking-about-tech-debt-in-ai-era</link>
-        <dc:date>2026-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Streamlitで実現する自然言語データアプリ開発 (Ayumu Yamaguchi)</title>
-        <link>https://speakerdeck.com/ayumu_yamaguchi/streamlit-de-jitsugen-suru-shizen-gengo-kaihatsu</link>
-        <dc:date>2026-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>人間はどの意思決定を手放せるのか (Yoshitaka Kawashima)</title>
-        <link>https://speakerdeck.com/kawasima/ningen-ha-dono-ishi-kettei-o-tebanaseru-no-ka</link>
-        <dc:date>2026-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代の「技術的負債」の変質ー概念の終焉と再解釈、エージェントと共に向かう先 (nwiizo)</title>
-        <link>https://speakerdeck.com/nwiizo/ai-jidai-no-gijutsuteki-fusai-no-henshitsu-gainen-no-shuuen-to-saikaishaku-ejento-totomoni-mukau-saki</link>
-        <dc:date>2026-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>一人で完結させないAI活用。仲間の成功体験を作る仕組み作り (ono.takayuki)</title>
-        <link>https://speakerdeck.com/takahal/ichinin-de-kanketsu-sasenai-ai-katsuyou-nakama-no-seikou-taiken-o-tsukuru-shikumizukuri</link>
-        <dc:date>2026-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Yahoo!ショッピングでのAI-DLCの取り組みについて (LINEヤフーTech (LY Corporation Tech))</title>
-        <link>https://speakerdeck.com/lycorptech_jp/yahoo-shopping-ai-dlc-initiative</link>
-        <dc:date>2026-09-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIを活用するために決めた "やらないこと" - 価値に注目する / Not betting on AI (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/not-betting-on-ai</link>
         <dc:date>2026-09-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
