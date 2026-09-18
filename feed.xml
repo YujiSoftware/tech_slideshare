@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>今話題のAI「Jev」って何？ 宇宙最速で学ぶ会 (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai</link>
+        <dc:date>2026-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>絵ではじめるKubernetesセキュリティ (Aoi Takahashi)</title>
         <link>https://speakerdeck.com/aoi1/irasuto-de-hajimeru-kubernetes-sekyuriti</link>
         <dc:date>2026-09-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>おい、エージェントを使って終わらせろ (nwiizo)</title>
         <link>https://speakerdeck.com/nwiizo/oi-ejento-o-tsuka-te-owarasero</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Deployment の 先にある AI Agent 基盤 - kagent vNext、Agent Substrate、Hermes から読み解く Agent Runtime の現在地 / k8s-matsuri-2-ai-agent-platform-amsy810 (Masaya Aoyama (@amsy810))</title>
-        <link>https://speakerdeck.com/masayaaoyama/k8s-matsuri-2-ai-agent-platform-amsy810</link>
         <dc:date>2026-09-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
