@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI Agent入門〜今更聞けないAgentの話〜 (Magy)</title>
+        <link>https://speakerdeck.com/hiromimaganuma/ai-agent-nyuumon-imasara-kikenai-agent-no-hanashi</link>
+        <dc:date>2026-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Fine-Tuningっていつ使うの？〜小さなLLMをモデルルーターにして分かったこと〜 (Tkoya)</title>
+        <link>https://speakerdeck.com/ayanoyuki/fine-tuning-tte-itsu-tsukau-no-chiisana-llm-o-ni-shi-te-wakata-koto</link>
+        <dc:date>2026-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2026-09-18 gotanda.sre Terraformで複数環境作ったり、複数Stateに分割したりそれとTerragrunt / Terraform multi envs and multi states (SUZUKI Masashi)</title>
+        <link>https://speakerdeck.com/masasuzu/terraform-multi-envs-and-multi-states</link>
+        <dc:date>2026-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Notion AIで手順書運用しようず (Yasutaka Kato,@ma_anago)</title>
+        <link>https://www.docswell.com/s/ma_anago/ZN78N2-2026-09-18-094227</link>
+        <dc:date>2026-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OTel Native な自作 CLI ツールを作ってみないか？/Why Not Build Your Own OTel-Native CLI Tool? (Msksgm)</title>
+        <link>https://speakerdeck.com/msksgm/why-not-build-your-own-otel-native-cli-tool</link>
+        <dc:date>2026-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>人間という高価な検証モジュールの設計と実装 (kyuridenamida)</title>
+        <link>https://speakerdeck.com/kyuridenamida/ningen-toiu-koukana-kenshou-mojuru-no-sekkei-to-jissou</link>
+        <dc:date>2026-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜレスポンスボディを読み切るのか - Go 1.27で進化した net/http のコネクション再利用メカニズム＿Ryu (UPSIDER, Inc. Tech&amp;Product div.)</title>
+        <link>https://speakerdeck.com/upsider_tech/http-no-sairiyou-mekanizumu-ryu</link>
+        <dc:date>2026-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>あけおめLINE 傾向とその対策 (nasa9084)</title>
+        <link>https://speakerdeck.com/nasa9084/ake-ome-line-keikou-to-sono-taisaku</link>
+        <dc:date>2026-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Operational Excellence Pillar を理解する (Takano)</title>
+        <link>https://speakerdeck.com/takano0131/operational-excellence-pillar-o-rikai-suru</link>
+        <dc:date>2026-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>アジャイルコーチで何が変わったのか？― NIT×RED JOURNEY、伴走での個人と組織の変化 (もっくま,@mot0aki)</title>
+        <link>https://www.docswell.com/s/mot0aki/5DMV7D-rednitlab</link>
+        <dc:date>2026-09-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>負債のメタファと2026年 / Debt Metaphor in Agentic Engineering Age 202609 Edition (Takuto WADA)</title>
         <link>https://speakerdeck.com/twada/debt-metaphor-in-agentic-engineering-age-202609-edition</link>
         <dc:date>2026-09-17T15:00:00Z</dc:date>
@@ -53,56 +103,6 @@
     <item>
         <title>Hermes Agentで、AIが調べて記事を書くブログを作った話 (ayane)</title>
         <link>https://speakerdeck.com/blueb/hermes-agent-de-ai-ga-shirabe-te-kiji-o-kaku-o-tsukuta-hanashi</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>開発投資の期待値を上げるプロダクトロードマップづくり ~プロダクトエンジニアが越境して事業を伸ばす~ (Kenta Suzuki)</title>
-        <link>https://speakerdeck.com/kekekenta/kaihatsu-toushi-no-kitaichi-o-ageru-zukuri-purodakuto-enjinia-ga-ekkyou-shi-te-jigyou-o-nobasu</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREへの勘違いに気づいた後の話 (yuden)</title>
-        <link>https://speakerdeck.com/tomodakengo/sre-heno-kanchigai-ni-kizuita-nochi-no-hanashi</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Androidだけじゃない、DroidKaigiで広がった私の技術スタック (Akio Itaya)</title>
-        <link>https://speakerdeck.com/akkeylab/android-dakejanai-droidkaigi-de-hirogata-watashi-no-gijutsu-sutakku</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>白金鉱業Meetup Vol.25 【初学者向け発表枠】「で、この施策って効いてるの」に答える効果検証の基礎 ~ATE / ATT / CATE / LATEを現場の問いに翻訳する~ (BrainPad)</title>
-        <link>https://speakerdeck.com/brainpadpr/the-basics-of-effectiveness-evaluation-answering-the-question-so-is-this-initiative-working</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>白金鉱業Meetup Vol.25 アウトカムが二値のデータに対するCausal Impact  (BrainPad)</title>
-        <link>https://speakerdeck.com/brainpadpr/causal-impact-for-binary-outcomes-c68db320-6104-4965-b7d8-40529a68b4fd</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Postmanオンラインワークショップ - Postman入門 - 20260917</title>
-        <link>https://docs.google.com/presentation/d/1gsPo5CYKtuknh_ltYlBv5bwbbaL2X2ZakjN2pT0Cmvc/preview</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現場で役立つ技術負債の効果的な返済方法 (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/genba-de-yakudatsu-gijutsu-fusai-no-koukatekina-hensai-houhou</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザイナーがいない部署にハーネスを設計する (太田賢一)</title>
-        <link>https://speakerdeck.com/kenichiota0711/dezaina-ga-inai-busho-ni-hanesu-o-sekkei-suru</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeを「使うほど育つ」AI秘書にするノウハウ (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>技術的負債から考える、AI時代のエンジニアリング投資 — ビズリーチの技術的負債と向き合った経験から、変更し続けられるソフトウェアを考える/ technical-debt-con2026 (Visional Engineering ＆ Design)</title>
-        <link>https://speakerdeck.com/visional_engineering_and_design/technical-debt-con2026</link>
         <dc:date>2026-09-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
