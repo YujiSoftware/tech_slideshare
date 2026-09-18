@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREの越境 / SRE Collaboration (y-ohgi)</title>
+        <link>https://speakerdeck.com/y0hgi/sre-collaboration</link>
+        <dc:date>2026-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜ、SREはロールであるべきか (Kazuki Nitta)</title>
+        <link>https://speakerdeck.com/ntk221/naze-sre-ha-rorudearubeki-ka</link>
+        <dc:date>2026-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>9月DojoMeeting共有</title>
         <link>https://docs.google.com/presentation/d/1o5oX5Iu71kBhvIl9PbLDhsRDY8SE-7JpwtmDjXKwWik/preview</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>データ_AIの事業の勝敗をわけるもの (KJ(Kenji Matsuda))</title>
         <link>https://speakerdeck.com/nek0128/20260915-deta-ai-no-jigyou-no-shouhai-o-wakeru-mono-1</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIで社員の自主発信に広報目線を組み込む (もっさん)</title>
-        <link>https://speakerdeck.com/_mossann_t/ai-de-shain-no-jishu-hasshin-ni-kouhou-mesen-o-kumikomu</link>
-        <dc:date>2026-09-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMアプリケーション評価駆動開発の歩き方 (PharmaX（旧YOJO Technologies）開発チーム)</title>
-        <link>https://speakerdeck.com/pharma_x_tech/llm-apurikeshon-hyouka-kudou-kaihatsu-no-arukikata</link>
         <dc:date>2026-09-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
