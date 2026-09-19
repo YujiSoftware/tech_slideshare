@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIエージェントが再発見したサーバーレス #serverlessjp (NAKAYAMA Masahiro,@nekoruri)</title>
+        <link>https://www.docswell.com/s/nekoruri/ZDMVQV-serverlessdays2026</link>
+        <dc:date>2026-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最速のread性能を目指すピュアC#製組み込みDB実装 - C# Kaigi 2026 (hadashiA)</title>
         <link>https://speakerdeck.com/hadashia/saisoku-no-read-seinou-o-mezasu-pyua-c-sei-kumikomi-db-jissou-c-kaigi-2026</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Turning AI into Business Impact / "AI" の事業インパクトを最大化する (Agata Naomichi)</title>
         <link>https://speakerdeck.com/agatan/turning-ai-into-business-impact</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREの越境 / SRE Collaboration (y-ohgi)</title>
-        <link>https://speakerdeck.com/y0hgi/sre-collaboration</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
