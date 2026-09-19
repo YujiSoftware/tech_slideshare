@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>コーディングエージェントに全部書かせない！－AI に任せる実装と、決定論的に作るサーバーレス基盤の境界設計 (Takumasa Hirabayashi,@himarin269)</title>
+        <link>https://www.docswell.com/s/himanago/59N779-serverlessdays2026swallowkit</link>
+        <dc:date>2026-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure Serverless 2026：Production-ready な AI エージェント基盤 / Azure Serverless 2026: Production-Ready AI Agent Platform (miyake)</title>
+        <link>https://speakerdeck.com/miyake/azure-serverless-2026-production-ready-ai-agent-platform</link>
+        <dc:date>2026-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エージェントはローカル、検証はMicroVM — Lambda MicroVMsでつくるServerless CI (fujioka-a)</title>
+        <link>https://speakerdeck.com/fujioka6789/microvms-serveless-ci-local-work-and-vm-verification</link>
+        <dc:date>2026-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SAT ソルバーの仕組みと制約ソルバーへの応用 (tsoh)</title>
+        <link>https://speakerdeck.com/tsoh/sat-soru-ba-no-shikumi-to-seiyaku-soru-ba-heno-ouyou</link>
+        <dc:date>2026-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>EventBridge に「合流」はない ― サーバーレスのワークフローを育てるということ / No Join in EventBridge (Yusuke Shimizu)</title>
+        <link>https://speakerdeck.com/yusukeshimizu/no-join-in-eventbridge</link>
+        <dc:date>2026-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ネットワーク運用×AIエージェント： セキュアなオンプレ環境と固定費の壁を乗り越えるpull型サーバーレスアーキテクチャ (ぼいど,@void_tech3)</title>
         <link>https://www.docswell.com/s/void_tech3/5Y8L6D-serverless-days2026</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>なぜ、SREはロールであるべきか (Kazuki Nitta)</title>
         <link>https://speakerdeck.com/ntk221/naze-sre-ha-rorudearubeki-ka</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>9月DojoMeeting共有</title>
-        <link>https://docs.google.com/presentation/d/1o5oX5Iu71kBhvIl9PbLDhsRDY8SE-7JpwtmDjXKwWik/preview</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>多摩.dev #4.5 (髙橋直規（幡ヶ谷亭直吉）)</title>
-        <link>https://speakerdeck.com/hiliteeternal/tama-dev-4-5</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Agent入門〜今更聞けないAgentの話〜 (Magy)</title>
-        <link>https://speakerdeck.com/hiromimaganuma/ai-agent-nyuumon-imasara-kikenai-agent-no-hanashi</link>
-        <dc:date>2026-09-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Fine-Tuningっていつ使うの？〜小さなLLMをモデルルーターにして分かったこと〜 (Tkoya)</title>
-        <link>https://speakerdeck.com/ayanoyuki/fine-tuning-tte-itsu-tsukau-no-chiisana-llm-o-ni-shi-te-wakata-koto</link>
-        <dc:date>2026-09-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026-09-18 gotanda.sre Terraformで複数環境作ったり、複数Stateに分割したりそれとTerragrunt / Terraform multi envs and multi states (SUZUKI Masashi)</title>
-        <link>https://speakerdeck.com/masasuzu/terraform-multi-envs-and-multi-states</link>
-        <dc:date>2026-09-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
