@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最速のread性能を目指すピュアC#製組み込みDB実装 - C# Kaigi 2026 (hadashiA)</title>
+        <link>https://speakerdeck.com/hadashia/saisoku-no-read-seinou-o-mezasu-pyua-c-sei-kumikomi-db-jissou-c-kaigi-2026</link>
+        <dc:date>2026-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>コーディングエージェントに全部書かせない！－AI に任せる実装と、決定論的に作るサーバーレス基盤の境界設計 (Takumasa Hirabayashi,@himarin269)</title>
         <link>https://www.docswell.com/s/himanago/59N779-serverlessdays2026swallowkit</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SREの越境 / SRE Collaboration (y-ohgi)</title>
         <link>https://speakerdeck.com/y0hgi/sre-collaboration</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ、SREはロールであるべきか (Kazuki Nitta)</title>
-        <link>https://speakerdeck.com/ntk221/naze-sre-ha-rorudearubeki-ka</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
