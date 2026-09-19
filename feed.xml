@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>The Rails Doctrine Decade (Koichi ITO)</title>
+        <link>https://speakerdeck.com/koic/the-rails-doctrine-decade</link>
+        <dc:date>2026-09-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>C#の現在地 進化の歴史と、AI時代の.NET Everywhere (Yoshifumi Kawai)</title>
         <link>https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>絵ではじめるKubernetesセキュリティ (Aoi Takahashi)</title>
         <link>https://speakerdeck.com/aoi1/irasuto-de-hajimeru-kubernetes-sekyuriti</link>
-        <dc:date>2026-09-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>速く作れる。その次は、速く確かめられる開発へ 〜AIネイティブ開発を支える、Shift Down〜 / Can build fast. Next, moving to development where we can verify fast. (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/can-build-fast-next-moving-to-development-where-we-can-verify-fast</link>
         <dc:date>2026-09-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
