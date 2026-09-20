@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>品質と信頼性を地続きにする (gr1m0h)</title>
+        <link>https://speakerdeck.com/grimoh/hinshitsu-to-shinraisei-o-jitsuzuki-ni-suru</link>
+        <dc:date>2026-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>動作中のプログラムの中身をリアルタイムに覗く / Realtime Debugger for CSharp with Roslyn (Prota)</title>
         <link>https://speakerdeck.com/prota/realtime-debugger-for-csharp-with-roslyn</link>
         <dc:date>2026-09-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>その Lambda、8分で 管理者権限まで奪われます (k1nakayama)</title>
         <link>https://speakerdeck.com/k1nakayama/sono-lambda-8-bun-de-kanrisha-kengen-made-ubawaremasu</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>数値変えただけで年間約100万円コスト削減した話 (syossan27)</title>
-        <link>https://speakerdeck.com/syossan27/suuchi-kaeta-dakede-nenkan-yaku-100-manen-kosuto-sakugen-shita-hanashi</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
