@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>動作中のプログラムの中身をリアルタイムに覗く / Realtime Debugger for CSharp with Roslyn (Prota)</title>
+        <link>https://speakerdeck.com/prota/realtime-debugger-for-csharp-with-roslyn</link>
+        <dc:date>2026-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>すこし踏み込む CancellationToken (tkym)</title>
         <link>https://speakerdeck.com/htkym/sukoshi-fumikomu-cancellationtoken</link>
         <dc:date>2026-09-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>数値変えただけで年間約100万円コスト削減した話 (syossan27)</title>
         <link>https://speakerdeck.com/syossan27/suuchi-kaeta-dakede-nenkan-yaku-100-manen-kosuto-sakugen-shita-hanashi</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント (nakanao)</title>
-        <link>https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
