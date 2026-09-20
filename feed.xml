@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>JPO365UG57_どこまでPowerAutomate_どこからCopilotStudio_はる (Haru@PowerAutomate,@isamu_Automate)</title>
+        <link>https://www.docswell.com/s/isamu_Automate/ZGNVVN-2026-09-19-170454</link>
+        <dc:date>2026-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Cloudflare Workers 向けアプリを C# で構築する ～WASM Native AOT への道～ (neno)</title>
         <link>https://speakerdeck.com/nenonaninu/cloudflare-workers-muke-o-c-de-kouchiku-suru-wasm-native-aot-heno-michi</link>
         <dc:date>2026-09-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>外から家のPCの電源入れたい！をＰＨＰで解決する (かわしも（Shimokawa Shion）)</title>
         <link>https://speakerdeck.com/kawashimo0/soto-kara-ie-no-pc-no-dengen-iretai-o-de-kaiketsu-suru</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ「決定性」が 決定的に重要なのか？ Durable Execution 基盤の数理的理解 #serverlessjp / ServerlessDays Tokyo 2026 (y_taka_23)</title>
-        <link>https://speakerdeck.com/ytaka23/serverlessdays-tokyo-2026</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
