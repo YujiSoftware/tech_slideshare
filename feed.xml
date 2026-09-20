@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>すこし踏み込む CancellationToken (tkym)</title>
+        <link>https://speakerdeck.com/htkym/sukoshi-fumikomu-cancellationtoken</link>
+        <dc:date>2026-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>え、こんなに早く改修できるの？──新人エンジニアとスクラムマスターの2人が語る、AI×アジャイル開発の現場 (Yoshihiro Sasago)</title>
         <link>https://speakerdeck.com/ysasago/e-konnani-hayaku-kaishuu-dekiru-no-shinjin-enjinia-to-sukuramu-masuta-no-2-hito-ga-kataru-aix-kaihatsu-no-genba</link>
         <dc:date>2026-09-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント (nakanao)</title>
         <link>https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Rails Doctrine Decade (Koichi ITO)</title>
-        <link>https://speakerdeck.com/koic/the-rails-doctrine-decade</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
