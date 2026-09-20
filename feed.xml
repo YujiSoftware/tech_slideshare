@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Cloudflare Workers 向けアプリを C# で構築する ～WASM Native AOT への道～ (neno)</title>
+        <link>https://speakerdeck.com/nenonaninu/cloudflare-workers-muke-o-c-de-kouchiku-suru-wasm-native-aot-heno-michi</link>
+        <dc:date>2026-09-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>品質と信頼性を地続きにする (gr1m0h)</title>
         <link>https://speakerdeck.com/grimoh/hinshitsu-to-shinraisei-o-jitsuzuki-ni-suru</link>
         <dc:date>2026-09-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>なぜ「決定性」が 決定的に重要なのか？ Durable Execution 基盤の数理的理解 #serverlessjp / ServerlessDays Tokyo 2026 (y_taka_23)</title>
         <link>https://speakerdeck.com/ytaka23/serverlessdays-tokyo-2026</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>その Lambda、8分で 管理者権限まで奪われます (k1nakayama)</title>
-        <link>https://speakerdeck.com/k1nakayama/sono-lambda-8-bun-de-kanrisha-kengen-made-ubawaremasu</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
