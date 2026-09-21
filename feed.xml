@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIアプリのDBはTiDBだけでいい！3種のDBをTiDB1本に (最上土川,@MogamiTsuchikaw)</title>
+        <link>https://www.docswell.com/s/mogami/KN782L-tidb</link>
+        <dc:date>2026-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AgentCore Runtime上にAgentic Coding基盤を構築・展開する際の設計ポイントと限界点  / Design considerations and limitations when building an agentic coding platform on AgentCore Runtime (Har1101)</title>
+        <link>https://speakerdeck.com/har1101/design-considerations-and-limitations-when-building-an-agentic-coding-platform-on-agentcore-runtime</link>
+        <dc:date>2026-09-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>JPO365UG57_どこまでPowerAutomate_どこからCopilotStudio_はる (Haru@PowerAutomate,@isamu_Automate)</title>
         <link>https://www.docswell.com/s/isamu_Automate/ZGNVVN-2026-09-19-170454</link>
         <dc:date>2026-09-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ブランドキットやスキル全部 Copilot にやらせてみた (Ota Hirofumi,@hrfmjp)</title>
         <link>https://www.docswell.com/s/hrfmjp/KVJYY4-2026-09-19-163418</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SharePointアプリの作り方（SPFxとAIで始めるMicrosoft 365アプリ開発） (ことりちゅん,@KotorinChunChun)</title>
-        <link>https://www.docswell.com/s/KotorinChunChun/K4NRRD-2026-09-19-195044</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>外から家のPCの電源入れたい！をＰＨＰで解決する (かわしも（Shimokawa Shion）)</title>
-        <link>https://speakerdeck.com/kawashimo0/soto-kara-ie-no-pc-no-dengen-iretai-o-de-kaiketsu-suru</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
