@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Kamipo on Rails 2026 (kamipo)</title>
+        <link>https://speakerdeck.com/kamipo/kamipo-on-rails-2026</link>
+        <dc:date>2026-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ふとしたことから始めたNET ランタイムへのコントリビュート (prozolic（プロゾリック）,@zolic8)</title>
         <link>https://www.docswell.com/s/prozolic/KGNV4N-2026-09-19-230203</link>
         <dc:date>2026-09-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ネットワーク運用×AIエージェント： セキュアなオンプレ環境と固定費の壁を乗り越えるpull型サーバーレスアーキテクチャ (ぼいど,@void_tech3)</title>
         <link>https://www.docswell.com/s/void_tech3/5Y8L6D-serverless-days2026</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIが増やしたコードをAIに探させない ～  jscpdとknipの違いと使い分け ～ (hidao)</title>
-        <link>https://speakerdeck.com/hidao80/ai-ga-fuyashita-kodo-o-ai-ni-sagasasenai-jscpd-to-knip-no-chigai-to-tsukaiwake</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
