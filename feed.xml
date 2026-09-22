@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ふとしたことから始めたNET ランタイムへのコントリビュート (prozolic（プロゾリック）,@zolic8)</title>
+        <link>https://www.docswell.com/s/prozolic/KGNV4N-2026-09-19-230203</link>
+        <dc:date>2026-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Goodbye ShellScript, Hello File-based App (Shunsuke Tsuchiya)</title>
+        <link>https://speakerdeck.com/shunsock/goodbye-shellscript-hello-file-based-app</link>
+        <dc:date>2026-09-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIアプリのDBはTiDBだけでいい！3種のDBをTiDB1本に (最上土川,@MogamiTsuchikaw)</title>
         <link>https://www.docswell.com/s/mogami/KN782L-tidb</link>
         <dc:date>2026-09-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AIが増やしたコードをAIに探させない ～  jscpdとknipの違いと使い分け ～ (hidao)</title>
         <link>https://speakerdeck.com/hidao80/ai-ga-fuyashita-kodo-o-ai-ni-sagasasenai-jscpd-to-knip-no-chigai-to-tsukaiwake</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>takemura_HomeAssistant_工場活用入門20260919.pptx</title>
-        <link>https://docs.google.com/presentation/d/1_mOJS9GsxuIHn713GcDNvu7WAU949tDD/preview</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ブランドキットやスキル全部 Copilot にやらせてみた (Ota Hirofumi,@hrfmjp)</title>
-        <link>https://www.docswell.com/s/hrfmjp/KVJYY4-2026-09-19-163418</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
