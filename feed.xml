@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エンジニアとボクサーの共通項　9月度LT (岡本知行)</title>
+        <link>https://www.docswell.com/s/8508651/K1QEN3-2026-09-22-121158</link>
+        <dc:date>2026-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>.NET WebAssemblyで実現するクライアントサイドAI推論：NuGetからViteまで、2つのエコシステムを繋ぐビルド戦略 (Yusuke Yamada)</title>
         <link>https://speakerdeck.com/yamachu/net-webassembly-de-jitsugen-suru-ai-suiron-nuget-kara-vite-made-2-tsu-no-eko-shisutemu-o-tsunagu-senryaku</link>
         <dc:date>2026-09-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>SAT ソルバーの仕組みと制約ソルバーへの応用 (tsoh)</title>
         <link>https://speakerdeck.com/tsoh/sat-soru-ba-no-shikumi-to-seiyaku-soru-ba-heno-ouyou</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EventBridge に「合流」はない ― サーバーレスのワークフローを育てるということ / No Join in EventBridge (Yusuke Shimizu)</title>
-        <link>https://speakerdeck.com/yusukeshimizu/no-join-in-eventbridge</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
