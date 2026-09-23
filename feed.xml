@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>.NET WebAssemblyで実現するクライアントサイドAI推論：NuGetからViteまで、2つのエコシステムを繋ぐビルド戦略 (Yusuke Yamada)</title>
+        <link>https://speakerdeck.com/yamachu/net-webassembly-de-jitsugen-suru-ai-suiron-nuget-kara-vite-made-2-tsu-no-eko-shisutemu-o-tsunagu-senryaku</link>
+        <dc:date>2026-09-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Kamipo on Rails 2026 (kamipo)</title>
         <link>https://speakerdeck.com/kamipo/kamipo-on-rails-2026</link>
         <dc:date>2026-09-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>EventBridge に「合流」はない ― サーバーレスのワークフローを育てるということ / No Join in EventBridge (Yusuke Shimizu)</title>
         <link>https://speakerdeck.com/yusukeshimizu/no-join-in-eventbridge</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ネットワーク運用×AIエージェント： セキュアなオンプレ環境と固定費の壁を乗り越えるpull型サーバーレスアーキテクチャ (ぼいど,@void_tech3)</title>
-        <link>https://www.docswell.com/s/void_tech3/5Y8L6D-serverless-days2026</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
