@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20260912_スクラムにジェネラリストは必要か (ryugen04)</title>
+        <link>https://speakerdeck.com/ryugen04/20260912-sukuramu-ni-ha-hitsuyou-ka</link>
+        <dc:date>2026-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「AIに仕事を任せる」は、どこまでできる？｜Tableauで始めるAI×データ活用 実践ガイド (Yukako Tabata)</title>
         <link>https://speakerdeck.com/tbtykk/ai-ni-shigoto-o-makaseru-ha-doko-made-dekiru-tableau-de-hajimeru-aix-deta-katsuyou-jissen-gaido</link>
         <dc:date>2026-09-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIアプリのDBはTiDBだけでいい！3種のDBをTiDB1本に (最上土川,@MogamiTsuchikaw)</title>
         <link>https://www.docswell.com/s/mogami/KN782L-tidb</link>
-        <dc:date>2026-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AgentCore Runtime上にAgentic Coding基盤を構築・展開する際の設計ポイントと限界点  / Design considerations and limitations when building an agentic coding platform on AgentCore Runtime (Har1101)</title>
-        <link>https://speakerdeck.com/har1101/design-considerations-and-limitations-when-building-an-agentic-coding-platform-on-agentcore-runtime</link>
         <dc:date>2026-09-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
