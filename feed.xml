@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「AIに仕事を任せる」は、どこまでできる？｜Tableauで始めるAI×データ活用 実践ガイド (Yukako Tabata)</title>
+        <link>https://speakerdeck.com/tbtykk/ai-ni-shigoto-o-makaseru-ha-doko-made-dekiru-tableau-de-hajimeru-aix-deta-katsuyou-jissen-gaido</link>
+        <dc:date>2026-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IBM Bob Dojo #1 仕様駆動開発入門 (Akira Onishi (IBM))</title>
+        <link>https://speakerdeck.com/oniak3ibm/bobdojo01-specdrivendevelopment</link>
+        <dc:date>2026-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CDLE佐賀イベント 参加者アンケート</title>
+        <link>https://docs.google.com/forms/d/e/1FAIpQLSfIqGy3e_a-nPLHeSNyzcMS1V7IkFDt6VbavIo2225TQZ9AjA/viewform</link>
+        <dc:date>2026-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Jevは麻雀の何切るに答えられるのか? (DE TEIU (DE-TEIU))</title>
+        <link>https://www.docswell.com/s/8895128/527YVN-2026-09-24-185436</link>
+        <dc:date>2026-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Apple Intelligence を用いた個人情報誤送信防止、及びユーザーリクエスト体験の改善について (Yuki Kuwashima)</title>
+        <link>https://speakerdeck.com/yukiny/apple-intelligence-o-mochiita-kojin-jouhou-ayama-soushin-boushi-oyobi-yuza-rikuesuto-taiken-no-kaizen-nitsuite</link>
+        <dc:date>2026-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>iOS 27でニュースアプリはどう変わる！？ 〜日経電子版の新機能対応と、開発事例から〜 (Kazuki Nakashima)</title>
+        <link>https://speakerdeck.com/lynnswap/ios27</link>
+        <dc:date>2026-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20260924_VIoTLT_vol24_kitazaki_v1 (Zakkiea)</title>
+        <link>https://speakerdeck.com/kitazaki/20260924-viotlt-vol24-kitazaki-v1</link>
+        <dc:date>2026-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>家庭植物工場×Node-REDの話 (maepu)</title>
+        <link>https://speakerdeck.com/maepu/katei-shokubutsu-koujou-xnode-red-no-hanashi</link>
+        <dc:date>2026-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>可視化から始めたAI駆動開発_ochi_ver1.01 / AI-Driven Development Starting with Visualization_ver1.01 (yayoi_dd)</title>
+        <link>https://speakerdeck.com/yayoi_dd/ai-driven-development-starting-with-visualization-ver1-dot-01</link>
+        <dc:date>2026-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>名古屋Ruby会議05_LT.pdf (Yuji Teshima)</title>
         <link>https://speakerdeck.com/yujiteshima/nagoya-ruby-kaigi-05-lt</link>
         <dc:date>2026-09-23T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>AgentCore Runtime上にAgentic Coding基盤を構築・展開する際の設計ポイントと限界点  / Design considerations and limitations when building an agentic coding platform on AgentCore Runtime (Har1101)</title>
         <link>https://speakerdeck.com/har1101/design-considerations-and-limitations-when-building-an-agentic-coding-platform-on-agentcore-runtime</link>
         <dc:date>2026-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JPO365UG57_どこまでPowerAutomate_どこからCopilotStudio_はる (Haru@PowerAutomate,@isamu_Automate)</title>
-        <link>https://www.docswell.com/s/isamu_Automate/ZGNVVN-2026-09-19-170454</link>
-        <dc:date>2026-09-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Workers 向けアプリを C# で構築する ～WASM Native AOT への道～ (neno)</title>
-        <link>https://speakerdeck.com/nenonaninu/cloudflare-workers-muke-o-c-de-kouchiku-suru-wasm-native-aot-heno-michi</link>
-        <dc:date>2026-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>品質と信頼性を地続きにする (gr1m0h)</title>
-        <link>https://speakerdeck.com/grimoh/hinshitsu-to-shinraisei-o-jitsuzuki-ni-suru</link>
-        <dc:date>2026-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>動作中のプログラムの中身をリアルタイムに覗く / Realtime Debugger for CSharp with Roslyn (Prota)</title>
-        <link>https://speakerdeck.com/prota/realtime-debugger-for-csharp-with-roslyn</link>
-        <dc:date>2026-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>すこし踏み込む CancellationToken (tkym)</title>
-        <link>https://speakerdeck.com/htkym/sukoshi-fumikomu-cancellationtoken</link>
-        <dc:date>2026-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>え、こんなに早く改修できるの？──新人エンジニアとスクラムマスターの2人が語る、AI×アジャイル開発の現場 (Yoshihiro Sasago)</title>
-        <link>https://speakerdeck.com/ysasago/e-konnani-hayaku-kaishuu-dekiru-no-shinjin-enjinia-to-sukuramu-masuta-no-2-hito-ga-kataru-aix-kaihatsu-no-genba</link>
-        <dc:date>2026-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>wkhtmltopdfの次どうするか問題2026 (Shinichi Maeshima)</title>
-        <link>https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026</link>
-        <dc:date>2026-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントが再発見したサーバーレス #serverlessjp (NAKAYAMA Masahiro,@nekoruri)</title>
-        <link>https://www.docswell.com/s/nekoruri/ZDMVQV-serverlessdays2026</link>
-        <dc:date>2026-09-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最速のread性能を目指すピュアC#製組み込みDB実装 - C# Kaigi 2026 (hadashiA)</title>
-        <link>https://speakerdeck.com/hadashia/saisoku-no-read-seinou-o-mezasu-pyua-c-sei-kumikomi-db-jissou-c-kaigi-2026</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
