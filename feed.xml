@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜 (kinopee)</title>
+        <link>https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu</link>
+        <dc:date>2026-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>速習iPhone Duo対応 (野瀬田　裕樹)</title>
         <link>https://speakerdeck.com/yuukiw00w/su-xi-iphone-duodui-ying</link>
         <dc:date>2026-09-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コーディングエージェントに全部書かせない！－AI に任せる実装と、決定論的に作るサーバーレス基盤の境界設計 (Takumasa Hirabayashi,@himarin269)</title>
         <link>https://www.docswell.com/s/himanago/59N779-serverlessdays2026swallowkit</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Serverless 2026：Production-ready な AI エージェント基盤 / Azure Serverless 2026: Production-Ready AI Agent Platform (miyake)</title>
-        <link>https://speakerdeck.com/miyake/azure-serverless-2026-production-ready-ai-agent-platform</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
