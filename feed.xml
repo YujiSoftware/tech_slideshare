@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>速習iPhone Duo対応 (野瀬田　裕樹)</title>
+        <link>https://speakerdeck.com/yuukiw00w/su-xi-iphone-duodui-ying</link>
+        <dc:date>2026-09-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREとは何か、AWSでどう始めるか (KOKI TAMURA)</title>
         <link>https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka</link>
         <dc:date>2026-09-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Azure Serverless 2026：Production-ready な AI エージェント基盤 / Azure Serverless 2026: Production-Ready AI Agent Platform (miyake)</title>
         <link>https://speakerdeck.com/miyake/azure-serverless-2026-production-ready-ai-agent-platform</link>
-        <dc:date>2026-09-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エージェントはローカル、検証はMicroVM — Lambda MicroVMsでつくるServerless CI (fujioka-a)</title>
-        <link>https://speakerdeck.com/fujioka6789/microvms-serveless-ci-local-work-and-vm-verification</link>
         <dc:date>2026-09-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
