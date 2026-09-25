@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>統計勉強会2020 統計学の基礎と分析方法 (Daiki Nakamura)</title>
+        <link>https://speakerdeck.com/arumakan/tong-ji-mian-qiang-hui-2020-tong-ji-xue-falseji-chu-tofen-xi-fang-fa</link>
+        <dc:date>2026-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260912_スクラムにジェネラリストは必要か (ryugen04)</title>
         <link>https://speakerdeck.com/ryugen04/20260912-sukuramu-ni-ha-hitsuyou-ka</link>
         <dc:date>2026-09-24T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Goodbye ShellScript, Hello File-based App (Shunsuke Tsuchiya)</title>
         <link>https://speakerdeck.com/shunsock/goodbye-shellscript-hello-file-based-app</link>
         <dc:date>2026-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIアプリのDBはTiDBだけでいい！3種のDBをTiDB1本に (最上土川,@MogamiTsuchikaw)</title>
-        <link>https://www.docswell.com/s/mogami/KN782L-tidb</link>
-        <dc:date>2026-09-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
