@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Verilogで学ぶCPU自作入門.pdf (uyuki)</title>
+        <link>https://speakerdeck.com/uyuki234/verilog-de-manabu-cpu-jisaku-nyuumon</link>
+        <dc:date>2026-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Figma Make風デザインアプリケーションをBedrock AgentCore × Strands Agents SDKで実装してみた (yucn)</title>
         <link>https://speakerdeck.com/yucn/figma-make-kaze-dezain-apurikeshon-o-bedrock-agentcore-x-strands-agents-sdk-de-jissou-shi-te-mita</link>
         <dc:date>2026-09-24T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Kamipo on Rails 2026 (kamipo)</title>
         <link>https://speakerdeck.com/kamipo/kamipo-on-rails-2026</link>
         <dc:date>2026-09-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ふとしたことから始めたNET ランタイムへのコントリビュート (prozolic（プロゾリック）,@zolic8)</title>
-        <link>https://www.docswell.com/s/prozolic/KGNV4N-2026-09-19-230203</link>
-        <dc:date>2026-09-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
