@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「今盗んで、後で解く」に備える ― AWSのポスト量子暗号入門 (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/ima-nusun-de-atode-toku-ni-sonaeru-aws-no-posuto-ryoushi-angou-nyuumon</link>
+        <dc:date>2026-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代の移行戦略　〜八つ目の”R”〜 (Yasutaka Kato,@ma_anago)</title>
+        <link>https://www.docswell.com/s/ma_anago/Z1QELL-2026-09-25-115529</link>
+        <dc:date>2026-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CursorのチャットはチームのSlackチャンネルへ自動投稿、文字起こしによる議事録はチケットへ同梱 (小島 優介,@kojimadev)</title>
+        <link>https://www.docswell.com/s/kojimadev/5X2DRY-2026-09-25-121921</link>
+        <dc:date>2026-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>生成AIに物理的に助けてもらった話 (アールスリーインスティテュート,@gusukuSupport)</title>
+        <link>https://www.docswell.com/s/r3it/ZQ27YE-2026-09-25-195216</link>
+        <dc:date>2026-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>どこかで誰かが見ていてくれる (HANACCHI)</title>
+        <link>https://speakerdeck.com/hanacchi/doko-kade-dare-kaga-mi-te-i-te-kureru</link>
+        <dc:date>2026-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>IBM Bob でAI駆動開発『QC-Playbook』 (1kano)</title>
+        <link>https://speakerdeck.com/ichirokano2/ibm-bob-de-ai-kudou-kaihatsu-qc-playbook</link>
+        <dc:date>2026-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Verilogで学ぶCPU自作入門.pdf (uyuki)</title>
         <link>https://speakerdeck.com/uyuki234/verilog-de-manabu-cpu-jisaku-nyuumon</link>
         <dc:date>2026-09-24T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>名古屋Ruby会議05_LT.pdf (Yuji Teshima)</title>
         <link>https://speakerdeck.com/yujiteshima/nagoya-ruby-kaigi-05-lt</link>
         <dc:date>2026-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜 (kinopee)</title>
-        <link>https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu</link>
-        <dc:date>2026-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>速習iPhone Duo対応 (野瀬田　裕樹)</title>
-        <link>https://speakerdeck.com/yuukiw00w/su-xi-iphone-duodui-ying</link>
-        <dc:date>2026-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREとは何か、AWSでどう始めるか (KOKI TAMURA)</title>
-        <link>https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka</link>
-        <dc:date>2026-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エンジニアとボクサーの共通項　9月度LT (岡本知行)</title>
-        <link>https://www.docswell.com/s/8508651/K1QEN3-2026-09-22-121158</link>
-        <dc:date>2026-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>.NET WebAssemblyで実現するクライアントサイドAI推論：NuGetからViteまで、2つのエコシステムを繋ぐビルド戦略 (Yusuke Yamada)</title>
-        <link>https://speakerdeck.com/yamachu/net-webassembly-de-jitsugen-suru-ai-suiron-nuget-kara-vite-made-2-tsu-no-eko-shisutemu-o-tsunagu-senryaku</link>
-        <dc:date>2026-09-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kamipo on Rails 2026 (kamipo)</title>
-        <link>https://speakerdeck.com/kamipo/kamipo-on-rails-2026</link>
-        <dc:date>2026-09-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
