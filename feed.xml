@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Figma Make風デザインアプリケーションをBedrock AgentCore × Strands Agents SDKで実装してみた (yucn)</title>
+        <link>https://speakerdeck.com/yucn/figma-make-kaze-dezain-apurikeshon-o-bedrock-agentcore-x-strands-agents-sdk-de-jissou-shi-te-mita</link>
+        <dc:date>2026-09-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>統計勉強会2020 統計学の基礎と分析方法 (Daiki Nakamura)</title>
         <link>https://speakerdeck.com/arumakan/tong-ji-mian-qiang-hui-2020-tong-ji-xue-falseji-chu-tofen-xi-fang-fa</link>
         <dc:date>2026-09-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ふとしたことから始めたNET ランタイムへのコントリビュート (prozolic（プロゾリック）,@zolic8)</title>
         <link>https://www.docswell.com/s/prozolic/KGNV4N-2026-09-19-230203</link>
-        <dc:date>2026-09-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Goodbye ShellScript, Hello File-based App (Shunsuke Tsuchiya)</title>
-        <link>https://speakerdeck.com/shunsock/goodbye-shellscript-hello-file-based-app</link>
         <dc:date>2026-09-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
