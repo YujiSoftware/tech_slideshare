@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>個人開発はCloudflareにすべて賭けろ (asahi)</title>
+        <link>https://speakerdeck.com/ashunar0/kojin-kaihatsu-ha-cloudflare-ni-subete-kakero</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」 (Ryota Arai)</title>
         <link>https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>IBM Bob Dojo #1 仕様駆動開発入門 (Akira Onishi (IBM))</title>
         <link>https://speakerdeck.com/oniak3ibm/bobdojo01-specdrivendevelopment</link>
-        <dc:date>2026-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CDLE佐賀イベント 参加者アンケート</title>
-        <link>https://docs.google.com/forms/d/e/1FAIpQLSfIqGy3e_a-nPLHeSNyzcMS1V7IkFDt6VbavIo2225TQZ9AjA/viewform</link>
         <dc:date>2026-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
