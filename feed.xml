@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>高負荷プロダクション環境におけるAWS Lambdaのリアル 〜スケールとコストを左右する実行ライフサイクルの技術仕様〜 (maimyyym)</title>
+        <link>https://speakerdeck.com/maimyyym/the-reality-of-aws-lambda-in-high-load-production</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>個人開発はCloudflareにすべて賭けろ (asahi)</title>
         <link>https://speakerdeck.com/ashunar0/kojin-kaihatsu-ha-cloudflare-ni-subete-kakero</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「AIに仕事を任せる」は、どこまでできる？｜Tableauで始めるAI×データ活用 実践ガイド (Yukako Tabata)</title>
         <link>https://speakerdeck.com/tbtykk/ai-ni-shigoto-o-makaseru-ha-doko-made-dekiru-tableau-de-hajimeru-aix-deta-katsuyou-jissen-gaido</link>
-        <dc:date>2026-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>IBM Bob Dojo #1 仕様駆動開発入門 (Akira Onishi (IBM))</title>
-        <link>https://speakerdeck.com/oniak3ibm/bobdojo01-specdrivendevelopment</link>
         <dc:date>2026-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
