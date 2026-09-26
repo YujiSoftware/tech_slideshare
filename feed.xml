@@ -6,103 +6,103 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
-        <title>高負荷プロダクション環境におけるAWS Lambdaのリアル 〜スケールとコストを左右する実行ライフサイクルの技術仕様〜 (maimyyym)</title>
-        <link>https://speakerdeck.com/maimyyym/the-reality-of-aws-lambda-in-high-load-production</link>
+        <title>AIに会社の文脈を理解させる技術～上流工程・非エンジニアにも広げるハーネスエンジニアリング実践～ (Ochtum)</title>
+        <link>https://speakerdeck.com/ochtum/ai-ni-kaisha-no-bunmyaku-o-rikai-saseru-gijutsu-jouryuu-koutei-hienjinia-nimo-hirogeru-hanesu-enjiniaringu-jissen</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>個人開発はCloudflareにすべて賭けろ (asahi)</title>
-        <link>https://speakerdeck.com/ashunar0/kojin-kaihatsu-ha-cloudflare-ni-subete-kakero</link>
+        <title>OpenClawでAzure DevOpsのWiki更新を自動化する - クラウドAIだけでは届かない場所へ (yutakaosada)</title>
+        <link>https://speakerdeck.com/yutakaosada/openclaw-de-azure-devops-no-wiki-koushin-o-jidouka-suru-kura-udo-ai-dakede-ha-todokanai-basho-he</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」 (Ryota Arai)</title>
-        <link>https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca</link>
+        <title>GitHub Agentic Workflows を触ってみる (tkym)</title>
+        <link>https://speakerdeck.com/htkym/github-agentic-workflows-o-sawa-te-miru</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>人にやさしく、AIにやさしく、書き手を選ばないIaCのガードレール再考 / Rethinking IaC Guardrails for Humans and AI Alike (kohbis)</title>
-        <link>https://speakerdeck.com/kohbis/rethinking-iac-guardrails-for-humans-and-ai-alike</link>
+        <title>新しい仕組み、次から次へと：ケース管理? Project Perception? ISOC? (石川 陽一 Yoichi Ishikawa,@ishiayaya)</title>
+        <link>https://www.docswell.com/s/ishiayaya/Z3JD62-ISOC</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>AI Slopを生まないPlatform Service設計 (skijima404)</title>
-        <link>https://speakerdeck.com/skijima404/ai-slop-o-umanai-platform-service-sekkei</link>
+        <title>空論ジェネリックプロセス～テスト資産とAIで紡ぐ、再現可能なパフォーマンスチューニングの話～ (tosite)</title>
+        <link>https://speakerdeck.com/tosite/kuuron-tesuto-shisan-to-ai-de-tsumugu-saigen-kanouna-no-hanashi</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>認知負荷を吸収し、プロダクトをまたぐPR Preview基盤の設計事例 (taiki45)</title>
-        <link>https://speakerdeck.com/taiki45/ninchi-fuka-o-kyuushuu-shi-purodakuto-o-matagu-pr-preview-kiban-no-sekkei-jirei</link>
+        <title>JAWS-UG 福岡 KYUSYU QUEST - AWSコミュニティ支援のいまむかし (awsj communty program manager - Shigeru Numaguchi)</title>
+        <link>https://speakerdeck.com/awsjcpm/jaws-ug-fukuoka-kyusyu-quest-aws-komyuniti-shien-no-ima-mukashi</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>AIエージェントの権限管理 3:  Agentic RAG の Fine grained access control 編 (Renya Kujirada)</title>
-        <link>https://speakerdeck.com/ren8k/agentic-rag-fine-grained-access-control</link>
+        <title>AWS DevOps Agent スキルをつかいこなそう / Master AWS DevOps Agent Skills (Masanori Yamaguchi)</title>
+        <link>https://speakerdeck.com/kinunori/master-aws-devops-agent-skills</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>AntiGravity IDEとUnityをCLI連携してシーンを操作してみる_MKTkakumei_Material Labo‗2026_09_26 (菊川誠)</title>
-        <link>https://www.docswell.com/s/3694871/Z9N7WM-2026-09-13-114614</link>
+        <title>Amazon Bedrock Agents ClassicからAmazon Bedrock AgentCoreへ移行した際、ガードレール設定が2箇所に割れた話 (Kohei Matsunobu)</title>
+        <link>https://speakerdeck.com/matsunobu/amazon-bedrock-agents-classic-kara-amazon-bedrock-agentcore-he-ikou-shita-sai-gadoreru-settei-ga-2-kasho-ni-wareta-hanashi</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Azure Copilot Resiliency Agentをいろいろ試してみる (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/azure-copilot-resiliency-agent-o-iroiro-tameshi-te-miru</link>
+        <title>本番環境だけ動かない不具合を追いかけたら、AWS WAFに行きついた話 (うな)</title>
+        <link>https://speakerdeck.com/yunauna_u7/honban-kankyou-dake-ugokanai-fuguai-o-oikaketara-aws-waf-ni-ikitsuita-hanashi</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>「今盗んで、後で解く」に備える ― AWSのポスト量子暗号入門 (Yuuki Yamashita)</title>
-        <link>https://speakerdeck.com/yama3133/ima-nusun-de-atode-toku-ni-sonaeru-aws-no-posuto-ryoushi-angou-nyuumon</link>
-        <dc:date>2026-09-24T15:00:00Z</dc:date>
+        <title>JAWS-UG 東京支部が始める、JAWS-UG支部コラボ / JAWS-UG lunchtime  LT Collaboration (y-ohgi)</title>
+        <link>https://speakerdeck.com/y0hgi/jaws-ug-lunchtime-lt-collaboration</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>AI時代の移行戦略　〜八つ目の”R”〜 (Yasutaka Kato,@ma_anago)</title>
-        <link>https://www.docswell.com/s/ma_anago/Z1QELL-2026-09-25-115529</link>
-        <dc:date>2026-09-24T15:00:00Z</dc:date>
+        <title>AWS FinOps Agent 結局何が得意なの？ (Siromi)</title>
+        <link>https://speakerdeck.com/siromi/aws-finops-agent-kekkyoku-nani-ga-tokuina-no</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>CursorのチャットはチームのSlackチャンネルへ自動投稿、文字起こしによる議事録はチケットへ同梱 (小島 優介,@kojimadev)</title>
-        <link>https://www.docswell.com/s/kojimadev/5X2DRY-2026-09-25-121921</link>
-        <dc:date>2026-09-24T15:00:00Z</dc:date>
+        <title>AWSに止められる覚悟してますか？ (モリゾー)</title>
+        <link>https://speakerdeck.com/morizo_1984/aws-ni-tomerareru-kakugo-shi-temasu-ka</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>生成AIに物理的に助けてもらった話 (アールスリーインスティテュート,@gusukuSupport)</title>
-        <link>https://www.docswell.com/s/r3it/ZQ27YE-2026-09-25-195216</link>
-        <dc:date>2026-09-24T15:00:00Z</dc:date>
+        <title>AI感のないAWS構成図をAIエージェントに描かせたい！ (さご)</title>
+        <link>https://speakerdeck.com/sagochiko/aws-drawio-diagram-skill</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>どこかで誰かが見ていてくれる (HANACCHI)</title>
-        <link>https://speakerdeck.com/hanacchi/doko-kade-dare-kaga-mi-te-i-te-kureru</link>
-        <dc:date>2026-09-24T15:00:00Z</dc:date>
+        <title>Lambda MicroVMsは常駐サーバーの代わりに なるか？ Kiro Crew を動かして検証してみた / Kiro Crew on Lambda MicroVMs (Kazuki Adachi)</title>
+        <link>https://speakerdeck.com/k_adachi_01/kiro-crew-on-lambda-microvms</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>IBM Bob でAI駆動開発『QC-Playbook』 (1kano)</title>
-        <link>https://speakerdeck.com/ichirokano2/ibm-bob-de-ai-kudou-kaihatsu-qc-playbook</link>
-        <dc:date>2026-09-24T15:00:00Z</dc:date>
+        <title>1980s real-time-os update 20260926 (Noboru T,@noborutkhs)</title>
+        <link>https://www.docswell.com/s/noborutkhs/KX2N1N-2026-09-26-182533</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Verilogで学ぶCPU自作入門.pdf (uyuki)</title>
-        <link>https://speakerdeck.com/uyuki234/verilog-de-manabu-cpu-jisaku-nyuumon</link>
-        <dc:date>2026-09-24T15:00:00Z</dc:date>
+        <title>こんなこともできる最近の Python の型ヒント (Yusuke Miyazaki)</title>
+        <link>https://speakerdeck.com/ymyzk/python-type-hints-updates</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>Figma Make風デザインアプリケーションをBedrock AgentCore × Strands Agents SDKで実装してみた (yucn)</title>
-        <link>https://speakerdeck.com/yucn/figma-make-kaze-dezain-apurikeshon-o-bedrock-agentcore-x-strands-agents-sdk-de-jissou-shi-te-mita</link>
-        <dc:date>2026-09-24T15:00:00Z</dc:date>
+        <title>shachipy20260926 (miso_taku,@miso_taku0221)</title>
+        <link>https://www.docswell.com/s/miso_taku/ZMQRWX-2026-09-26-154158</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>統計勉強会2020 統計学の基礎と分析方法 (Daiki Nakamura)</title>
-        <link>https://speakerdeck.com/arumakan/tong-ji-mian-qiang-hui-2020-tong-ji-xue-falseji-chu-tofen-xi-fang-fa</link>
-        <dc:date>2026-09-24T15:00:00Z</dc:date>
+        <title>ikisatsu AIエージェントの&amp;quot;経緯&amp;quot;をチームで共有する (Akifumi Niida,@nid777)</title>
+        <link>https://www.docswell.com/s/nid/KQ2Q3Y-2026-09-26-200019</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>20260912_スクラムにジェネラリストは必要か (ryugen04)</title>
-        <link>https://speakerdeck.com/ryugen04/20260912-sukuramu-ni-ha-hitsuyou-ka</link>
-        <dc:date>2026-09-24T15:00:00Z</dc:date>
+        <title>エンジニア経験0のデザイナーが アプリを0からリリースまで 作ってみる (都村　美帆)</title>
+        <link>https://speakerdeck.com/abokadotyann/enjinia-keiken-0-no-dezaina-ga-o-0-kara-ririsu-made-tsuku-te-miru</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
     <item>
-        <title>「AIに仕事を任せる」は、どこまでできる？｜Tableauで始めるAI×データ活用 実践ガイド (Yukako Tabata)</title>
-        <link>https://speakerdeck.com/tbtykk/ai-ni-shigoto-o-makaseru-ha-doko-made-dekiru-tableau-de-hajimeru-aix-deta-katsuyou-jissen-gaido</link>
-        <dc:date>2026-09-23T15:00:00Z</dc:date>
+        <title>Conventional Commitsでコミットログにシンプルな秩序を (hidao)</title>
+        <link>https://speakerdeck.com/hidao80/conventional-commits-de-komitto-rogu-ni-shinpuruna-chitsujo-o</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
