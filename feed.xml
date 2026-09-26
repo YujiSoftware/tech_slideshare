@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人にやさしく、AIにやさしく、書き手を選ばないIaCのガードレール再考 / Rethinking IaC Guardrails for Humans and AI Alike (kohbis)</title>
+        <link>https://speakerdeck.com/kohbis/rethinking-iac-guardrails-for-humans-and-ai-alike</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI Slopを生まないPlatform Service設計 (skijima404)</title>
         <link>https://speakerdeck.com/skijima404/ai-slop-o-umanai-platform-service-sekkei</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Jevは麻雀の何切るに答えられるのか? (DE TEIU (DE-TEIU))</title>
         <link>https://www.docswell.com/s/8895128/527YVN-2026-09-24-185436</link>
-        <dc:date>2026-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Apple Intelligence を用いた個人情報誤送信防止、及びユーザーリクエスト体験の改善について (Yuki Kuwashima)</title>
-        <link>https://speakerdeck.com/yukiny/apple-intelligence-o-mochiita-kojin-jouhou-ayama-soushin-boushi-oyobi-yuza-rikuesuto-taiken-no-kaizen-nitsuite</link>
         <dc:date>2026-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
