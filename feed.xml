@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI Slopを生まないPlatform Service設計 (skijima404)</title>
+        <link>https://speakerdeck.com/skijima404/ai-slop-o-umanai-platform-service-sekkei</link>
+        <dc:date>2026-09-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>認知負荷を吸収し、プロダクトをまたぐPR Preview基盤の設計事例 (taiki45)</title>
         <link>https://speakerdeck.com/taiki45/ninchi-fuka-o-kyuushuu-shi-purodakuto-o-matagu-pr-preview-kiban-no-sekkei-jirei</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Apple Intelligence を用いた個人情報誤送信防止、及びユーザーリクエスト体験の改善について (Yuki Kuwashima)</title>
         <link>https://speakerdeck.com/yukiny/apple-intelligence-o-mochiita-kojin-jouhou-ayama-soushin-boushi-oyobi-yuza-rikuesuto-taiken-no-kaizen-nitsuite</link>
-        <dc:date>2026-09-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>iOS 27でニュースアプリはどう変わる！？ 〜日経電子版の新機能対応と、開発事例から〜 (Kazuki Nakashima)</title>
-        <link>https://speakerdeck.com/lynnswap/ios27</link>
         <dc:date>2026-09-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
