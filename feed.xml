@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>全社員がAIを「使う」の次へ　ーノンエンジニア1,500人が安全に業務を作り変えるゴールデンパスとガードレール (リンクアンドモチベーション)</title>
+        <link>https://speakerdeck.com/lmi/pek2026-link-and-motivation</link>
+        <dc:date>2026-09-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>公式サンプルが コンパイルできない 〜tracing::info! のエラーから Rust のマクロを読む〜 (Retasusan)</title>
         <link>https://speakerdeck.com/retasusan/koushiki-sanpuru-ga-konpairu-dekinai-tracing-info-no-era-kara-rust-no-makuro-o-yomu</link>
         <dc:date>2026-09-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI感のないAWS構成図をAIエージェントに描かせたい！ (さご)</title>
         <link>https://speakerdeck.com/sagochiko/aws-drawio-diagram-skill</link>
-        <dc:date>2026-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Lambda MicroVMsは常駐サーバーの代わりに なるか？ Kiro Crew を動かして検証してみた / Kiro Crew on Lambda MicroVMs (Kazuki Adachi)</title>
-        <link>https://speakerdeck.com/k_adachi_01/kiro-crew-on-lambda-microvms</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
