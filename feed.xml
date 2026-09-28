@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>3人で1000GPU超を統合運用する？マルチクラウド＆オンプレを跨ぐ、構築と運用のリアル！ (kazuki odo)</title>
+        <link>https://speakerdeck.com/kazukun0716/3-hito-de-1000gpu-chou-o-tougou-unyou-suru-o-matagu-kouchiku-to-unyou-no-riaru</link>
+        <dc:date>2026-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セルフサービスのオブザーバビリティ基盤をOpenTelemetryで作る / Building a Self-Service Observability Platform with OpenTelemetry (ymotongpoo)</title>
         <link>https://speakerdeck.com/ymotongpoo/observability-platform-with-otel</link>
         <dc:date>2026-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>本番環境だけ動かない不具合を追いかけたら、AWS WAFに行きついた話 (うな)</title>
         <link>https://speakerdeck.com/yunauna_u7/honban-kankyou-dake-ugokanai-fuguai-o-oikaketara-aws-waf-ni-ikitsuita-hanashi</link>
-        <dc:date>2026-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS-UG 東京支部が始める、JAWS-UG支部コラボ / JAWS-UG lunchtime  LT Collaboration (y-ohgi)</title>
-        <link>https://speakerdeck.com/y0hgi/jaws-ug-lunchtime-lt-collaboration</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
