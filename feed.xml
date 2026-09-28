@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LLM-Wiki for TC39 Meetings (Jxck)</title>
+        <link>https://www.docswell.com/s/jxck/K3JDML-llm-wiki-for-tc39-meetings</link>
+        <dc:date>2026-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>カンファレンス参加のついでに旅に出よう→カンファレンス登壇のために旅に出よう（？） (hmatsu47(まつ),@hmatsu47)</title>
+        <link>https://www.docswell.com/s/hmatsu47/K27GM7-orestudy-doujin</link>
+        <dc:date>2026-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>KanaAI (shreyas shinde)</title>
+        <link>https://speakerdeck.com/shreyas1009/kanaai</link>
+        <dc:date>2026-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>開発者とSREが同じ仕組みを使う、ローカルに閉じない自律AIエージェントのつくり方 (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
         <link>https://www.docswell.com/s/WN_Tech-PR/ZY8QXP-2026-09-07-111839</link>
         <dc:date>2026-09-27T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>空論ジェネリックプロセス～テスト資産とAIで紡ぐ、再現可能なパフォーマンスチューニングの話～ (tosite)</title>
         <link>https://speakerdeck.com/tosite/kuuron-tesuto-shisan-to-ai-de-tsumugu-saigen-kanouna-no-hanashi</link>
-        <dc:date>2026-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAWS-UG 福岡 KYUSYU QUEST - AWSコミュニティ支援のいまむかし (awsj communty program manager - Shigeru Numaguchi)</title>
-        <link>https://speakerdeck.com/awsjcpm/jaws-ug-fukuoka-kyusyu-quest-aws-komyuniti-shien-no-ima-mukashi</link>
-        <dc:date>2026-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS DevOps Agent スキルをつかいこなそう / Master AWS DevOps Agent Skills (Masanori Yamaguchi)</title>
-        <link>https://speakerdeck.com/kinunori/master-aws-devops-agent-skills</link>
-        <dc:date>2026-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Amazon Bedrock Agents ClassicからAmazon Bedrock AgentCoreへ移行した際、ガードレール設定が2箇所に割れた話 (Kohei Matsunobu)</title>
-        <link>https://speakerdeck.com/matsunobu/amazon-bedrock-agents-classic-kara-amazon-bedrock-agentcore-he-ikou-shita-sai-gadoreru-settei-ga-2-kasho-ni-wareta-hanashi</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
