@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セルフサービスのオブザーバビリティ基盤をOpenTelemetryで作る / Building a Self-Service Observability Platform with OpenTelemetry (ymotongpoo)</title>
+        <link>https://speakerdeck.com/ymotongpoo/observability-platform-with-otel</link>
+        <dc:date>2026-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20260828_品質と開発生産性を両立させる、AI時代のE2Eテストの考え方 (MagicPod)</title>
         <link>https://speakerdeck.com/magicpod/20260828-event</link>
         <dc:date>2026-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JAWS-UG 東京支部が始める、JAWS-UG支部コラボ / JAWS-UG lunchtime  LT Collaboration (y-ohgi)</title>
         <link>https://speakerdeck.com/y0hgi/jaws-ug-lunchtime-lt-collaboration</link>
-        <dc:date>2026-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS FinOps Agent 結局何が得意なの？ (Siromi)</title>
-        <link>https://speakerdeck.com/siromi/aws-finops-agent-kekkyoku-nani-ga-tokuina-no</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
