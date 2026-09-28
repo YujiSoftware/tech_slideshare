@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>開発者とSREが同じ仕組みを使う、ローカルに閉じない自律AIエージェントのつくり方 (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
+        <link>https://www.docswell.com/s/WN_Tech-PR/ZY8QXP-2026-09-07-111839</link>
+        <dc:date>2026-09-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>3人で1000GPU超を統合運用する？マルチクラウド＆オンプレを跨ぐ、構築と運用のリアル！ (kazuki odo)</title>
         <link>https://speakerdeck.com/kazukun0716/3-hito-de-1000gpu-chou-o-tougou-unyou-suru-o-matagu-kouchiku-to-unyou-no-riaru</link>
         <dc:date>2026-09-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Amazon Bedrock Agents ClassicからAmazon Bedrock AgentCoreへ移行した際、ガードレール設定が2箇所に割れた話 (Kohei Matsunobu)</title>
         <link>https://speakerdeck.com/matsunobu/amazon-bedrock-agents-classic-kara-amazon-bedrock-agentcore-he-ikou-shita-sai-gadoreru-settei-ga-2-kasho-ni-wareta-hanashi</link>
-        <dc:date>2026-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>本番環境だけ動かない不具合を追いかけたら、AWS WAFに行きついた話 (うな)</title>
-        <link>https://speakerdeck.com/yunauna_u7/honban-kankyou-dake-ugokanai-fuguai-o-oikaketara-aws-waf-ni-ikitsuita-hanashi</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
