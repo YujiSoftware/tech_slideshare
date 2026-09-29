@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GitHub を使う上で知っておくと嬉しいかも Tips 2026 (サイボウズ開発本部,@cybozuinsideout)</title>
+        <link>https://www.docswell.com/s/cybozu-tech/K4NM4D-github-tips-2026</link>
+        <dc:date>2026-09-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「全員インシデント コマンダー」の、その先へ 〜 全員障害対応の文化をつくる NewsPicks流Failure Fridayのご紹介 (Yuki Ando,@integrated1453)</title>
         <link>https://www.docswell.com/s/integrated1453/KWRYV4-pagerduty-tech-hub</link>
         <dc:date>2026-09-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>OpenClawでAzure DevOpsのWiki更新を自動化する - クラウドAIだけでは届かない場所へ (yutakaosada)</title>
         <link>https://speakerdeck.com/yutakaosada/openclaw-de-azure-devops-no-wiki-koushin-o-jidouka-suru-kura-udo-ai-dakede-ha-todokanai-basho-he</link>
-        <dc:date>2026-09-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Agentic Workflows を触ってみる (tkym)</title>
-        <link>https://speakerdeck.com/htkym/github-agentic-workflows-o-sawa-te-miru</link>
         <dc:date>2026-09-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
