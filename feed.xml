@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[AWS大喜利]こんなアーキテクチャは嫌だ ~コスト編~ (yamachan)</title>
+        <link>https://speakerdeck.com/kazuma777777/aws-daigi-ri-konna-akitekucha-ha-iyada-kosutohen</link>
+        <dc:date>2026-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「登壇に踏み出せない」の正体を探る (Sakurai)</title>
         <link>https://speakerdeck.com/sakuraikotone/toudan-ni-fumidasenai-no-shoutai-o-saguru</link>
         <dc:date>2026-09-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【データ横丁主催】AI Agentがコンテキストを使って仕事をした後、何が残るのか― 組織の経験を次の判断に引き継ぐ「Agent Memory」 (KoheiOgawa)</title>
         <link>https://speakerdeck.com/shisyu_gaku/deta-yokochou-shusai-ai-agent-ga-kontekisuto-o-tsuka-te-shigoto-o-shita-nochi-nani-ga-nokoru-no-ka-soshiki-no-keiken-o-tsugi-no-handan-ni-hikitsugu-agent-memory</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテキスト 〜AI（エージェント）の組織利用 にもっとも重要なもの ／2026年9月29日 アトラシアン株式会社 渡辺 隆 (データ横丁)</title>
-        <link>https://speakerdeck.com/datayokocho/kontekisuto-ai-ejento-no-soshiki-riyou-ni-mottomo-juuyouna-mono-2026-toshi-9-tsuki-29-hi-kabushikigaisha-watanabe-takashi</link>
         <dc:date>2026-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
