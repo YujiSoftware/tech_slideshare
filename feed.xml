@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>設計次第でAIコードの読む量は減らせる / designing-for-code-reading (MinoDriven)</title>
+        <link>https://speakerdeck.com/minodriven/designing-for-code-reading</link>
+        <dc:date>2026-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[AWS大喜利]こんなアーキテクチャは嫌だ ~コスト編~ (yamachan)</title>
         <link>https://speakerdeck.com/kazuma777777/aws-daigi-ri-konna-akitekucha-ha-iyada-kosutohen</link>
         <dc:date>2026-09-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI の判定を ワークフローに組み込んでみよう (桑野翔)</title>
         <link>https://speakerdeck.com/kuwan0/ai-no-hantei-o-waku-furo-ni-kumikon-de-miyou</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【データ横丁主催】AI Agentがコンテキストを使って仕事をした後、何が残るのか― 組織の経験を次の判断に引き継ぐ「Agent Memory」 (KoheiOgawa)</title>
-        <link>https://speakerdeck.com/shisyu_gaku/deta-yokochou-shusai-ai-agent-ga-kontekisuto-o-tsuka-te-shigoto-o-shita-nochi-nani-ga-nokoru-no-ka-soshiki-no-keiken-o-tsugi-no-handan-ni-hikitsugu-agent-memory</link>
         <dc:date>2026-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
