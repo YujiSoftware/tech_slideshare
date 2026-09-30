@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>あなたの知らないAmazon VPC Route Server／Amazon VPC Route Server you don't know about (モブエンジニア（Masaki Okuda）)</title>
+        <link>https://speakerdeck.com/masakiokuda/amazon-vpc-route-server-you-dont-know-about</link>
+        <dc:date>2026-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>私の推しは「聞いてから進む」AIです -AI-DLCに一人でアプリを作らせた話 (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/watashi-no-oshi-ha-kii-tekara-susumu-ai-desu-ai-dlc-ni-ichinin-de-o-tsukuraseta-hanashi</link>
+        <dc:date>2026-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>LLMの安全なモデル乗り換え戦略！Shadow TestingとA/B検証 - Google Cloud × Google ADK で実践するモデル評価・検証基盤と実証知見 (Shu Kobuchi)</title>
+        <link>https://speakerdeck.com/shukob/llm-shadow-testing-and-ab-testing</link>
+        <dc:date>2026-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>npm との違いを手がかりにGo の依存管理を理解したい (OPTiM)</title>
+        <link>https://speakerdeck.com/optim/20260930-gobash-shiraki</link>
+        <dc:date>2026-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>テスト駆動開発から始める　なでしこ3 入門 (Katuyuki Kakigi,@k2works)</title>
+        <link>https://www.docswell.com/s/k2works/KDMQWG-2026-09-30-124321</link>
+        <dc:date>2026-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Serverlessのすゝめ (tanahiro2010)</title>
+        <link>https://speakerdeck.com/tanahiro2010/serverless-no-susume</link>
+        <dc:date>2026-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コードレビューのボトルネックを"する側"と"される側"の両面から解消する (yub0n)</title>
+        <link>https://speakerdeck.com/yub0n/kodo-rebyu-no-botorunekku-o-suru-gawa-to-sarerugawa-no-ryoumen-kara-kaishou-suru</link>
+        <dc:date>2026-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>みんな大好きPHP財団ニュース</title>
+        <link>https://docs.google.com/presentation/d/1fKc3rwBA56MbsxDFNchEHKotcDusH-XCZzV2ImeoIGU/preview</link>
+        <dc:date>2026-09-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>設計次第でAIコードの読む量は減らせる / designing-for-code-reading (MinoDriven)</title>
         <link>https://speakerdeck.com/minodriven/designing-for-code-reading</link>
         <dc:date>2026-09-29T15:00:00Z</dc:date>
@@ -63,46 +103,6 @@
     <item>
         <title>いつか登壇したいを 叶えるためのLT会！.pptx</title>
         <link>https://docs.google.com/presentation/d/1QJjP4G_w3QkKZo7I4rkjgwsYPM6sTppQ/preview</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeと一緒に、 自分用スライドワークスペースを作ってみた.pptx</title>
-        <link>https://docs.google.com/presentation/d/1U5S2vWtoVWIoEX7fV47j-dY9bzwu7f1o/preview</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20260929LT.pptx</title>
-        <link>https://docs.google.com/presentation/d/14PB2OK1SXivLvpU7KdcOy2Z6fadpkzAV/preview</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>9.29LT会用.pptx .pptx</title>
-        <link>https://docs.google.com/presentation/d/1js2x258UVqFiPIsm6QRJJ1xLz4qzepK-/preview</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テストについて 最近知ってやってみたこと (tsubasa usami)</title>
-        <link>https://speakerdeck.com/chikichiki/tesuto-nitsuite-saikin-shi-te-ya-te-mita-koto</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Snowflake × Power BI 構成こそFabricを使う理由 ~ Fabric導入によるメリット3選 ~ (大竹礼二（REIJI OTAKE）)</title>
-        <link>https://speakerdeck.com/reireireijinjin6/snowflake-x-power-bi-kousei-koso-fabric-o-tsukau-riyuu-fabric-dounyuu-niyoru-meritto-3-sen</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCP を Databricks でどう使う？ ― マネージド MCP Server と Unity AI Gatewayを試してみた (Satoshi ENOMOTO)</title>
-        <link>https://www.docswell.com/s/satoshi_enomoto/5Y86E4-2026-09-29-190459</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VS Code × GitHub Copilot での Fabric 開発 (Ryoma Nagata)</title>
-        <link>https://speakerdeck.com/ryomaru0825/vs-code-x-github-copilot-deno-fabric-kaihatsu</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI の判定を ワークフローに組み込んでみよう (桑野翔)</title>
-        <link>https://speakerdeck.com/kuwan0/ai-no-hantei-o-waku-furo-ni-kumikon-de-miyou</link>
         <dc:date>2026-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
