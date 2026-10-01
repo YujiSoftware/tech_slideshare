@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>なんでもCopilot#102 臨時会！「吉田が語る最新のコパ系情報(その1)」 (Taiki Yoshida,@TaikiYoshidaJP)</title>
+        <link>https://www.docswell.com/s/TaikiYoshida/KE1798-nandemocopilot-202609</link>
+        <dc:date>2026-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Explore It! を 地図にする (Jumpei Ito)</title>
+        <link>https://speakerdeck.com/sadonosake/explore-it-o-chizu-ni-suru</link>
+        <dc:date>2026-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GemmaをJevのように使ってみる / Use Gemma like Jev (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/use-gemma-like-jev</link>
         <dc:date>2026-09-30T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AI臭い文章とは何なのか (Kiminori Yokoi)</title>
         <link>https://speakerdeck.com/nasuvitz/ai-kusai-bunshou-toha-nanina-no-ka</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SmartHRの全社AI推進は、どう始まったか (Yoshiki Konishi)</title>
-        <link>https://speakerdeck.com/yoshikikonishi_/smarthr-no-zensha-ai-suishin-ha-dou-hajimata-ka</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>React Nativeでの OTA Updateって、 どう説明する？ (Ichiki)</title>
-        <link>https://speakerdeck.com/ichiki1023/react-native-deno-ota-update-tte-dou-setsumei-suru</link>
         <dc:date>2026-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
