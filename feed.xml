@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>MCPゲートウェイを作って運用してわかったこと — Agent時代の権限管理の現在地 (k.muguruma)</title>
+        <link>https://speakerdeck.com/mtpooh/20261001-des37-mcpass</link>
+        <dc:date>2026-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>なんでもCopilot#102 臨時会！「吉田が語る最新のコパ系情報(その1)」 (Taiki Yoshida,@TaikiYoshidaJP)</title>
         <link>https://www.docswell.com/s/TaikiYoshida/KE1798-nandemocopilot-202609</link>
         <dc:date>2026-09-30T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>営業オントロジーの作り方と、エージェントからの辿り方 ── ナレッジワークの現場から (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
         <link>https://speakerdeck.com/kworkdev/sales-ontology-agent-navigation</link>
         <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI臭い文章とは何なのか (Kiminori Yokoi)</title>
-        <link>https://speakerdeck.com/nasuvitz/ai-kusai-bunshou-toha-nanina-no-ka</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
