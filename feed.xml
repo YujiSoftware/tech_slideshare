@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>GemmaをJevのように使ってみる / Use Gemma like Jev (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/use-gemma-like-jev</link>
+        <dc:date>2026-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>パスキー導入で下した判断と、その後の運用 (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
+        <link>https://www.docswell.com/s/WN_Tech-PR/Z3JDEL-2026-10-01</link>
+        <dc:date>2026-09-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>QAエンジニアの暗黙知を可視化する：自動テスト戦略とAIの差分から見えたもの (hashi)</title>
         <link>https://speakerdeck.com/ryotakahashi/qa-enjinia-no-anmoku-chi-o-kashika-suru-jidou-tesuto-senryaku-to-ai-no-sabun-kara-mieta-mono</link>
         <dc:date>2026-09-30T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>React Nativeでの OTA Updateって、 どう説明する？ (Ichiki)</title>
         <link>https://speakerdeck.com/ichiki1023/react-native-deno-ota-update-tte-dou-setsumei-suru</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Reliable Agent実現への第一歩：Agentforce level1 &amp;amp; 2 (yuto shiraishi)</title>
-        <link>https://www.docswell.com/s/Ansuke/Z9NDR1-2026-09-29-204814</link>
-        <dc:date>2026-09-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Meet AgentCore Identity Consent Portal (iganin)</title>
-        <link>https://speakerdeck.com/hironobuiga/meet-agentcore-identity-consent-portal</link>
         <dc:date>2026-09-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
