@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIは爆速なのに、私が詰まっていた話 ― 音声入力と鳴くマスコットでボトルネックを削る (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/ai-ha-na-noni-watashi-ga-tsuma-te-ita-hanashi-onsei-nyuuryoku-to-naku-masukotto-de-botorunekku-o-kezuru</link>
+        <dc:date>2026-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>検証フェーズはAIの回答を判断するための学習機会 (Toru_Kubota)</title>
+        <link>https://speakerdeck.com/toru_kubota/kenshou-fezu-ha-ai-no-kaitou-o-handan-suru-tame-no-gakushuu-kikai</link>
+        <dc:date>2026-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>TGSのために半年でShaderLabHLSLを完全に理解した〜Shadow編〜 (砂時計,@5unad0ke1)</title>
+        <link>https://www.docswell.com/s/5unad0ke1/54NWMY-2026-10-02-201532</link>
+        <dc:date>2026-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Incremental HTTP (kazuho)</title>
         <link>https://speakerdeck.com/kazuho/incremental-http</link>
         <dc:date>2026-10-01T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>みんな大好きPHP財団ニュース</title>
         <link>https://docs.google.com/presentation/d/1fKc3rwBA56MbsxDFNchEHKotcDusH-XCZzV2ImeoIGU/preview</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>設計次第でAIコードの読む量は減らせる / designing-for-code-reading (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/designing-for-code-reading</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[AWS大喜利]こんなアーキテクチャは嫌だ ~コスト編~ (yamachan)</title>
-        <link>https://speakerdeck.com/kazuma777777/aws-daigi-ri-konna-akitekucha-ha-iyada-kosutohen</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「登壇に踏み出せない」の正体を探る (Sakurai)</title>
-        <link>https://speakerdeck.com/sakuraikotone/toudan-ni-fumidasenai-no-shoutai-o-saguru</link>
         <dc:date>2026-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
