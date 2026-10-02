@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Incremental HTTP (kazuho)</title>
+        <link>https://speakerdeck.com/kazuho/incremental-http</link>
+        <dc:date>2026-10-01T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>MCPゲートウェイを作って運用してわかったこと — Agent時代の権限管理の現在地 (k.muguruma)</title>
         <link>https://speakerdeck.com/mtpooh/20261001-des37-mcpass</link>
         <dc:date>2026-10-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「登壇に踏み出せない」の正体を探る (Sakurai)</title>
         <link>https://speakerdeck.com/sakuraikotone/toudan-ni-fumidasenai-no-shoutai-o-saguru</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>営業オントロジーの作り方と、エージェントからの辿り方 ── ナレッジワークの現場から (KNOWLEDGE WORK / 株式会社ナレッジワーク)</title>
-        <link>https://speakerdeck.com/kworkdev/sales-ontology-agent-navigation</link>
         <dc:date>2026-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
