@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ビジネスを止めない技術的負債の返済のための戦略とその手法 - 技術的負債と向き合う / Complexity and Simplicity (soudai sone)</title>
+        <link>https://speakerdeck.com/soudai/complexity-and-simplicity</link>
+        <dc:date>2026-10-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIは爆速なのに、私が詰まっていた話 ― 音声入力と鳴くマスコットでボトルネックを削る (Yuuki Yamashita)</title>
         <link>https://speakerdeck.com/yama3133/ai-ha-na-noni-watashi-ga-tsuma-te-ita-hanashi-onsei-nyuuryoku-to-naku-masukotto-de-botorunekku-o-kezuru</link>
         <dc:date>2026-10-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コードレビューのボトルネックを"する側"と"される側"の両面から解消する (yub0n)</title>
         <link>https://speakerdeck.com/yub0n/kodo-rebyu-no-botorunekku-o-suru-gawa-to-sarerugawa-no-ryoumen-kara-kaishou-suru</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>みんな大好きPHP財団ニュース</title>
-        <link>https://docs.google.com/presentation/d/1fKc3rwBA56MbsxDFNchEHKotcDusH-XCZzV2ImeoIGU/preview</link>
         <dc:date>2026-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
