@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生成AIと進める探索的データ分析（2026.10.03 第122回Tokyo.R勉強会） (tatamiya)</title>
+        <link>https://speakerdeck.com/tatamiya/seisei-ai-to-susumeru-tansakuteki-deta-bunseki-2026-10-03-dai-122-kai-tokyo-r-benkyoukai</link>
+        <dc:date>2026-10-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>今こそ知りたいAmplifyGen2 (k.masachika)</title>
+        <link>https://speakerdeck.com/mkdev10/ima-koso-shiritai-amplifygen2</link>
+        <dc:date>2026-10-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>DevFest Sapporo 2026 - Agentic Codingと未来</title>
+        <link>https://docs.google.com/presentation/d/1gyIfKggeIfZZZSXyI4ozqsrYQcMfj1iFGpIiDu3KZgs/preview</link>
+        <dc:date>2026-10-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【JAZUG 16周年LT】Azureエンジニアよ、その認証は本当にセキュアか？～パスキー時代のデバイスコードフロー攻撃 (Shuji Noguchi,@nogushu)</title>
+        <link>https://www.docswell.com/s/carol0226/K6NDGX-2026-09-29-102422</link>
+        <dc:date>2026-10-02T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JAZUG 16周年記念ショートセッション・Azure Virtual Desktopのマスター作りのアレコレ (Daisuke Iwai,@iwai_d)</title>
+        <link>https://www.docswell.com/s/dai-peugeot306/5Q2Q43-2026-10-03-172522</link>
+        <dc:date>2026-10-02T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ビジネスを止めない技術的負債の返済のための戦略とその手法 - 技術的負債と向き合う / Complexity and Simplicity (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/complexity-and-simplicity</link>
         <dc:date>2026-10-02T15:00:00Z</dc:date>
@@ -78,31 +103,6 @@
     <item>
         <title>私の推しは「聞いてから進む」AIです -AI-DLCに一人でアプリを作らせた話 (Yuuki Yamashita)</title>
         <link>https://speakerdeck.com/yama3133/watashi-no-oshi-ha-kii-tekara-susumu-ai-desu-ai-dlc-ni-ichinin-de-o-tsukuraseta-hanashi</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLMの安全なモデル乗り換え戦略！Shadow TestingとA/B検証 - Google Cloud × Google ADK で実践するモデル評価・検証基盤と実証知見 (Shu Kobuchi)</title>
-        <link>https://speakerdeck.com/shukob/llm-shadow-testing-and-ab-testing</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>npm との違いを手がかりにGo の依存管理を理解したい (OPTiM)</title>
-        <link>https://speakerdeck.com/optim/20260930-gobash-shiraki</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスト駆動開発から始める　なでしこ3 入門 (Katuyuki Kakigi,@k2works)</title>
-        <link>https://www.docswell.com/s/k2works/KDMQWG-2026-09-30-124321</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Serverlessのすゝめ (tanahiro2010)</title>
-        <link>https://speakerdeck.com/tanahiro2010/serverless-no-susume</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードレビューのボトルネックを"する側"と"される側"の両面から解消する (yub0n)</title>
-        <link>https://speakerdeck.com/yub0n/kodo-rebyu-no-botorunekku-o-suru-gawa-to-sarerugawa-no-ryoumen-kara-kaishou-suru</link>
         <dc:date>2026-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
