@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2026-09-26 Platform Engineering Kaigi 2026 インフラとアプリの境界線と委譲の設計 / Drawing the Infra and App Line  (SUZUKI Masashi)</title>
+        <link>https://speakerdeck.com/masasuzu/drawing-the-infra-and-app-line</link>
+        <dc:date>2026-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AIと進める探索的データ分析（2026.10.03 第122回Tokyo.R勉強会） (tatamiya)</title>
         <link>https://speakerdeck.com/tatamiya/seisei-ai-to-susumeru-tansakuteki-deta-bunseki-2026-10-03-dai-122-kai-tokyo-r-benkyoukai</link>
         <dc:date>2026-10-02T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>あなたの知らないAmazon VPC Route Server／Amazon VPC Route Server you don't know about (モブエンジニア（Masaki Okuda）)</title>
         <link>https://speakerdeck.com/masakiokuda/amazon-vpc-route-server-you-dont-know-about</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>私の推しは「聞いてから進む」AIです -AI-DLCに一人でアプリを作らせた話 (Yuuki Yamashita)</title>
-        <link>https://speakerdeck.com/yama3133/watashi-no-oshi-ha-kii-tekara-susumu-ai-desu-ai-dlc-ni-ichinin-de-o-tsukuraseta-hanashi</link>
         <dc:date>2026-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
