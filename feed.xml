@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>FactoryBotアンチパターン / factory_bot anti-patterns (toshimaru)</title>
+        <link>https://speakerdeck.com/toshimaru/factory-bot-anti-patterns</link>
+        <dc:date>2026-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自サークルのIdPからログアウトできるようになるまで (taiseiue)</title>
+        <link>https://speakerdeck.com/taiseiue/how-to-logout-from-wsoft</link>
+        <dc:date>2026-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agentic Software Factoryに、すごく賢いIF文を。 / super smart IF statement into the Agentic Software Factory. (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/super-smart-if-statement-into-the-agentic-software-factory</link>
+        <dc:date>2026-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>jevを業務を入れるまでにやること (Gota)</title>
+        <link>https://speakerdeck.com/gotalab555/jev-o-gyoumu-o-ireru-madeni-yaru-koto</link>
+        <dc:date>2026-10-04T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2026-09-26 Platform Engineering Kaigi 2026 インフラとアプリの境界線と委譲の設計 / Drawing the Infra and App Line  (SUZUKI Masashi)</title>
         <link>https://speakerdeck.com/masasuzu/drawing-the-infra-and-app-line</link>
         <dc:date>2026-10-04T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>パスキー導入で下した判断と、その後の運用 (ウェルスナビ株式会社 技術広報チーム,@WealthNavi_Tech)</title>
         <link>https://www.docswell.com/s/WN_Tech-PR/Z3JDEL-2026-10-01</link>
         <dc:date>2026-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QAエンジニアの暗黙知を可視化する：自動テスト戦略とAIの差分から見えたもの (hashi)</title>
-        <link>https://speakerdeck.com/ryotakahashi/qa-enjinia-no-anmoku-chi-o-kashika-suru-jidou-tesuto-senryaku-to-ai-no-sabun-kara-mieta-mono</link>
-        <dc:date>2026-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>行動するAIのためのオントロジー ｜ DevRev — Encraft #26.pdf (Takanori Suzuki)</title>
-        <link>https://speakerdeck.com/dvrv_tknrszk/koudou-suru-ai-no-tame-no-devrev-encraft-26</link>
-        <dc:date>2026-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代のコードレビューは人に向けるな、仕組みに向けろ (meijin)</title>
-        <link>https://speakerdeck.com/texmeijin/ai-jidai-no-kodo-rebyu-ha-hito-ni-mukeru-na-shikumi-ni-mukero</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>あなたの知らないAmazon VPC Route Server／Amazon VPC Route Server you don't know about (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/amazon-vpc-route-server-you-dont-know-about</link>
-        <dc:date>2026-09-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
