@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ConfigMapのImmutable機能を使ってヒヤッとした話と得られた知見／A Close Call with ConfigMap Immutability and the Lessons Learned (モブエンジニア（Masaki Okuda）)</title>
+        <link>https://speakerdeck.com/masakiokuda/a-close-call-with-configmap-immutability-and-the-lessons-learned</link>
+        <dc:date>2026-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>10分で完全理解するコク味 (Yoshitaka Fujii,@ystkfujii)</title>
+        <link>https://www.docswell.com/s/ystkfujii/Z7NDMD-2026-10-06-200908</link>
+        <dc:date>2026-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Jetson Orin Nanoとk3sとローカルLLMで音声文字起こしシステム作ってみた (世良泰明)</title>
+        <link>https://speakerdeck.com/y_sera15/jetson-orin-nano-to-k3s-to-rokaru-llm-de-onsei-moji-okoshi-shisutemu-tsuku-te-mita</link>
+        <dc:date>2026-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ai_cording_with_k8s_knowledge.pdf (mochizuki875)</title>
+        <link>https://speakerdeck.com/mochizuki875/ai-cording-with-k8s-knowledge</link>
+        <dc:date>2026-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>KubeCon に刺激を受けて、Kubernetesドキュメントの日本語翻訳をやってみた (j-maki)</title>
+        <link>https://speakerdeck.com/jmakk0301/kubecon-ni-shigeki-o-uke-te-kubernetes-no-nihongo-honyaku-o-ya-te-mita</link>
+        <dc:date>2026-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代の品質管理 - CIコストを抑える検証フローの作り方 (Hidetaka Okamoto,@hidetaka_dev)</title>
+        <link>https://www.docswell.com/s/hideokamoto/KR8749-2026-10-06-140158</link>
+        <dc:date>2026-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代のAPI開発を加速する品質ガードレール / API Quality Guardrails in the AI Era (Yoichi Kawasaki)</title>
+        <link>https://speakerdeck.com/yokawasa/api-quality-guardrails-in-the-ai-era</link>
+        <dc:date>2026-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>見えないものを探る要求要件定義に必要な基本的思考 / invisible-requirement-thinking (MinoDriven)</title>
         <link>https://speakerdeck.com/minodriven/invisible-requirement-thinking</link>
         <dc:date>2026-10-05T15:00:00Z</dc:date>
@@ -69,40 +104,5 @@
         <title>ビジネスを止めない技術的負債の返済のための戦略とその手法 - 技術的負債と向き合う / Complexity and Simplicity (soudai sone)</title>
         <link>https://speakerdeck.com/soudai/complexity-and-simplicity</link>
         <dc:date>2026-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIは爆速なのに、私が詰まっていた話 ― 音声入力と鳴くマスコットでボトルネックを削る (Yuuki Yamashita)</title>
-        <link>https://speakerdeck.com/yama3133/ai-ha-na-noni-watashi-ga-tsuma-te-ita-hanashi-onsei-nyuuryoku-to-naku-masukotto-de-botorunekku-o-kezuru</link>
-        <dc:date>2026-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>検証フェーズはAIの回答を判断するための学習機会 (Toru_Kubota)</title>
-        <link>https://speakerdeck.com/toru_kubota/kenshou-fezu-ha-ai-no-kaitou-o-handan-suru-tame-no-gakushuu-kikai</link>
-        <dc:date>2026-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TGSのために半年でShaderLabHLSLを完全に理解した〜Shadow編〜 (砂時計,@5unad0ke1)</title>
-        <link>https://www.docswell.com/s/5unad0ke1/54NWMY-2026-10-02-201532</link>
-        <dc:date>2026-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Incremental HTTP (kazuho)</title>
-        <link>https://speakerdeck.com/kazuho/incremental-http</link>
-        <dc:date>2026-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>MCPゲートウェイを作って運用してわかったこと — Agent時代の権限管理の現在地 (k.muguruma)</title>
-        <link>https://speakerdeck.com/mtpooh/20261001-des37-mcpass</link>
-        <dc:date>2026-10-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なんでもCopilot#102 臨時会！「吉田が語る最新のコパ系情報(その1)」 (Taiki Yoshida,@TaikiYoshidaJP)</title>
-        <link>https://www.docswell.com/s/TaikiYoshida/KE1798-nandemocopilot-202609</link>
-        <dc:date>2026-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Explore It! を 地図にする (Jumpei Ito)</title>
-        <link>https://speakerdeck.com/sadonosake/explore-it-o-chizu-ni-suru</link>
-        <dc:date>2026-09-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
