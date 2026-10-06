@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リアーキテクチャから Datadog 導入へ  〜動かす基盤の次は、見る基盤を整える〜 (okkun_sh)</title>
+        <link>https://speakerdeck.com/okkun_sh/kara-datadog-dounyuu-he-ugokasu-kiban-no-tsugi-ha-miru-kiban-o-totonoeru</link>
+        <dc:date>2026-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ConfigMapのImmutable機能を使ってヒヤッとした話と得られた知見／A Close Call with ConfigMap Immutability and the Lessons Learned (モブエンジニア（Masaki Okuda）)</title>
         <link>https://speakerdeck.com/masakiokuda/a-close-call-with-configmap-immutability-and-the-lessons-learned</link>
         <dc:date>2026-10-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JAZUG 16周年記念ショートセッション・Azure Virtual Desktopのマスター作りのアレコレ (Daisuke Iwai,@iwai_d)</title>
         <link>https://www.docswell.com/s/dai-peugeot306/5Q2Q43-2026-10-03-172522</link>
-        <dc:date>2026-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ビジネスを止めない技術的負債の返済のための戦略とその手法 - 技術的負債と向き合う / Complexity and Simplicity (soudai sone)</title>
-        <link>https://speakerdeck.com/soudai/complexity-and-simplicity</link>
         <dc:date>2026-10-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
