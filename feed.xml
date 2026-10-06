@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>見えないものを探る要求要件定義に必要な基本的思考 / invisible-requirement-thinking (MinoDriven)</title>
+        <link>https://speakerdeck.com/minodriven/invisible-requirement-thinking</link>
+        <dc:date>2026-10-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SystemVerilogの話 (ds54e)</title>
         <link>https://www.docswell.com/s/ds54e/K8W631-2025-09-07-212222</link>
         <dc:date>2026-10-05T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Explore It! を 地図にする (Jumpei Ito)</title>
         <link>https://speakerdeck.com/sadonosake/explore-it-o-chizu-ni-suru</link>
-        <dc:date>2026-09-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GemmaをJevのように使ってみる / Use Gemma like Jev (Naoki Kishida)</title>
-        <link>https://speakerdeck.com/kishida/use-gemma-like-jev</link>
         <dc:date>2026-09-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
