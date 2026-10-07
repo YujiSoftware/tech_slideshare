@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>contenteditable と日本語入力に向き合う (taki)</title>
+        <link>https://speakerdeck.com/colorful12/contenteditable-to-nihongo-nyuuryoku-ni-mukiau</link>
+        <dc:date>2026-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代、ホワイトワーカーは結局どうすれば良いのか？環境解説とOODA型キャリア戦略 (Tsuyoshi Hisamatsu)</title>
+        <link>https://speakerdeck.com/makaibito/ai-jidai-ha-kekkyoku-dou-sure-ba-yoi-no-ka-kankyou-kaisetsu-to-ooda-kata-kyaria-senryaku</link>
+        <dc:date>2026-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vue Fes Japan の “作る側”に関わってみて (Naoki Haba)</title>
+        <link>https://speakerdeck.com/naokihaba/vue-fes-japan-no-tsukuru-gawa-ni-kakawa-te-mi-te</link>
+        <dc:date>2026-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>企業向けAI研修の実際（しろうず） (ATSUSHI SHIROUZU)</title>
+        <link>https://speakerdeck.com/shirouzu001/agi-fukuoka-lt</link>
+        <dc:date>2026-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>基礎教養系-AIはどうやって言葉を紡ぐのか (Yu-i)</title>
+        <link>https://speakerdeck.com/yue_neg_631/kiso-kyouyoukei-ai-ha-dou-ya-te-kotoba-o-tsumugu-no-ka</link>
+        <dc:date>2026-10-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リアーキテクチャから Datadog 導入へ  〜動かす基盤の次は、見る基盤を整える〜 (okkun_sh)</title>
         <link>https://speakerdeck.com/okkun_sh/kara-datadog-dounyuu-he-ugokasu-kiban-no-tsugi-ha-miru-kiban-o-totonoeru</link>
         <dc:date>2026-10-06T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>2026-09-26 Platform Engineering Kaigi 2026 インフラとアプリの境界線と委譲の設計 / Drawing the Infra and App Line  (SUZUKI Masashi)</title>
         <link>https://speakerdeck.com/masasuzu/drawing-the-infra-and-app-line</link>
         <dc:date>2026-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIと進める探索的データ分析（2026.10.03 第122回Tokyo.R勉強会） (tatamiya)</title>
-        <link>https://speakerdeck.com/tatamiya/seisei-ai-to-susumeru-tansakuteki-deta-bunseki-2026-10-03-dai-122-kai-tokyo-r-benkyoukai</link>
-        <dc:date>2026-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今こそ知りたいAmplifyGen2 (k.masachika)</title>
-        <link>https://speakerdeck.com/mkdev10/ima-koso-shiritai-amplifygen2</link>
-        <dc:date>2026-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DevFest Sapporo 2026 - Agentic Codingと未来</title>
-        <link>https://docs.google.com/presentation/d/1gyIfKggeIfZZZSXyI4ozqsrYQcMfj1iFGpIiDu3KZgs/preview</link>
-        <dc:date>2026-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【JAZUG 16周年LT】Azureエンジニアよ、その認証は本当にセキュアか？～パスキー時代のデバイスコードフロー攻撃 (Shuji Noguchi,@nogushu)</title>
-        <link>https://www.docswell.com/s/carol0226/K6NDGX-2026-09-29-102422</link>
-        <dc:date>2026-10-02T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JAZUG 16周年記念ショートセッション・Azure Virtual Desktopのマスター作りのアレコレ (Daisuke Iwai,@iwai_d)</title>
-        <link>https://www.docswell.com/s/dai-peugeot306/5Q2Q43-2026-10-03-172522</link>
-        <dc:date>2026-10-02T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
