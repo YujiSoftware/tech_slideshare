@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代に必要な脅威モデリング― 変化の速度に負けない理解とリスク判断 (masakane55)</title>
+        <link>https://speakerdeck.com/masakane55/ai-jidai-ni-hitsuyouna-kyoui-moderingu-henka-no-sokudo-ni-makenai-rikai-to-risuku-handan</link>
+        <dc:date>2026-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>8年目iOSアプリにあたりまえを導入する (Ockey,@_ockey_)</title>
         <link>https://www.docswell.com/s/Ockey/59NDPV-StandardPracticiesForiOSAppIn8Year</link>
         <dc:date>2026-10-07T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>SystemVerilogの話 (ds54e)</title>
         <link>https://www.docswell.com/s/ds54e/K8W631-2025-09-07-212222</link>
         <dc:date>2026-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FactoryBotアンチパターン / factory_bot anti-patterns (toshimaru)</title>
-        <link>https://speakerdeck.com/toshimaru/factory-bot-anti-patterns</link>
-        <dc:date>2026-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
