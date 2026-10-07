@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>8年目iOSアプリにあたりまえを導入する (Ockey,@_ockey_)</title>
+        <link>https://www.docswell.com/s/Ockey/59NDPV-StandardPracticiesForiOSAppIn8Year</link>
+        <dc:date>2026-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[AWS 秋のクラウドオペレーション祭り 2026]AWS DevOps Agentで変わる リリースと運用対応  ~リリース管理機能と  Directed actions のご紹介~ (Toshihiro Furuno)</title>
+        <link>https://speakerdeck.com/furuton/aws-aki-no-matsuri-2026-aws-devops-agent-de-kawaru-ririsu-to-unyou-ririsu-kanri-kinou-to-directed-actions-no-goshoukai</link>
+        <dc:date>2026-10-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>逆の立場から考える職務経歴書 / A Resume from the Employer’s Perspective (iwashi)</title>
         <link>https://speakerdeck.com/iwashi86/a-resume-from-the-employers-perspective</link>
         <dc:date>2026-10-06T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>FactoryBotアンチパターン / factory_bot anti-patterns (toshimaru)</title>
         <link>https://speakerdeck.com/toshimaru/factory-bot-anti-patterns</link>
-        <dc:date>2026-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自サークルのIdPからログアウトできるようになるまで (taiseiue)</title>
-        <link>https://speakerdeck.com/taiseiue/how-to-logout-from-wsoft</link>
-        <dc:date>2026-10-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agentic Software Factoryに、すごく賢いIF文を。 / super smart IF statement into the Agentic Software Factory. (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/super-smart-if-statement-into-the-agentic-software-factory</link>
         <dc:date>2026-10-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
