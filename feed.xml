@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LocalStack を使ったサーバーレスアプリケーション開発 / Serverless Development with LocalStack (Yoshiaki Yoshida)</title>
+        <link>https://speakerdeck.com/kakakakakku/serverless-development-with-localstack</link>
+        <dc:date>2026-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIエージェントガバナンス入門：FINOS AIGFとAgent Governance Toolkit (Satoshi Ito)</title>
         <link>https://speakerdeck.com/sato4/ai-nyuumon-finos-aigf-to-agent-governance-toolkit</link>
         <dc:date>2026-10-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>KubeCon に刺激を受けて、Kubernetesドキュメントの日本語翻訳をやってみた (j-maki)</title>
         <link>https://speakerdeck.com/jmakk0301/kubecon-ni-shigeki-o-uke-te-kubernetes-no-nihongo-honyaku-o-ya-te-mita</link>
-        <dc:date>2026-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代の品質管理 - CIコストを抑える検証フローの作り方 (Hidetaka Okamoto,@hidetaka_dev)</title>
-        <link>https://www.docswell.com/s/hideokamoto/KR8749-2026-10-06-140158</link>
         <dc:date>2026-10-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
