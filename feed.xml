@@ -6,6 +6,56 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>継続的なAIコスト最適化 (Atsushi Tanaka)</title>
+        <link>https://speakerdeck.com/bgpat/keizokutekina-ai-kosuto-saitekika</link>
+        <dc:date>2026-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI活用の舞台装置が、自走を促す (tbpgr)</title>
+        <link>https://speakerdeck.com/tbpgr/0f1aae6e-804f-4eeb-a6b8-677cc8acbb9c</link>
+        <dc:date>2026-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>KMP in DroidKaigi &amp;amp; iOSDC (USAMI Kosuke,@usamik26)</title>
+        <link>https://www.docswell.com/s/usami-k/Z8NDXY-kmp_droidkaigi_iosdc</link>
+        <dc:date>2026-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コードで差別化できない時代の ソフトウェアエンジニアリング / Software Engineering in an Era Where Code Doesn’t Differentiate (Naoki Kishida)</title>
+        <link>https://speakerdeck.com/kishida/software-engineering-in-an-era-where-code-doesnt-differentiate</link>
+        <dc:date>2026-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[2026-10-09]一枚の布で作らなくてもいい。 信頼性は「パッチワーク」で紡がれる～既存の運用と新しい可能性をつなぎ合わせてきたCREの話～ (tosite)</title>
+        <link>https://speakerdeck.com/tosite/2026-10-09-ichimai-no-nuno-de-tsukuranaku-temo-ii-shinraisei-ha-pacchiwaku-de-tsumugareru-kison-no-unyou-to-atarashii-kanousei-o-tsunagi-awase-te-kita-cre-no-hanashi</link>
+        <dc:date>2026-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ハードウェアコンペでもAI駆動開発が進んでいる話 (misoji engineer)</title>
+        <link>https://speakerdeck.com/iotengineer22/hadowea-konpe-demo-ai-kudou-kaihatsu-ga-susun-de-iru-hanashi</link>
+        <dc:date>2026-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20261009_LT会_ポケモン画像解析 (koji_kawamura)</title>
+        <link>https://speakerdeck.com/koji_kawamura/20261009-lt-kai-gazou-kaiseki</link>
+        <dc:date>2026-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20261009_HCCJP_AdaptiveCloudUpdates (osamut)</title>
+        <link>https://speakerdeck.com/sdosamut/20261009-hccjp-adaptivecloudupdates</link>
+        <dc:date>2026-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ハイブリッドクラウド研究会第78回勉強会_三井情報(プライベートパス構成で読み解くAzure Localのネットワーク) (MKI Hybrid)</title>
+        <link>https://speakerdeck.com/mkihybrid/kenkyuukai-dai-78-kai-benkyoukai-mitsui-jouhou-puraibeto-pasu-kousei-de-yomitoku-azure-local-no-nettowaku</link>
+        <dc:date>2026-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>kintoneのリモートMCPサーバーを作ってみた (▢い芸人,@_katsumi)</title>
+        <link>https://www.docswell.com/s/mobilebiz/ZMQRE6-kintone-remote-mcp</link>
+        <dc:date>2026-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LocalStack を使ったサーバーレスアプリケーション開発 / Serverless Development with LocalStack (Yoshiaki Yoshida)</title>
         <link>https://speakerdeck.com/kakakakakku/serverless-development-with-localstack</link>
         <dc:date>2026-10-08T15:00:00Z</dc:date>
@@ -54,55 +104,5 @@
         <title>contenteditable と日本語入力に向き合う (taki)</title>
         <link>https://speakerdeck.com/colorful12/contenteditable-to-nihongo-nyuuryoku-ni-mukiau</link>
         <dc:date>2026-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代、ホワイトワーカーは結局どうすれば良いのか？環境解説とOODA型キャリア戦略 (Tsuyoshi Hisamatsu)</title>
-        <link>https://speakerdeck.com/makaibito/ai-jidai-ha-kekkyoku-dou-sure-ba-yoi-no-ka-kankyou-kaisetsu-to-ooda-kata-kyaria-senryaku</link>
-        <dc:date>2026-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue Fes Japan の “作る側”に関わってみて (Naoki Haba)</title>
-        <link>https://speakerdeck.com/naokihaba/vue-fes-japan-no-tsukuru-gawa-ni-kakawa-te-mi-te</link>
-        <dc:date>2026-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>企業向けAI研修の実際（しろうず） (ATSUSHI SHIROUZU)</title>
-        <link>https://speakerdeck.com/shirouzu001/agi-fukuoka-lt</link>
-        <dc:date>2026-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>基礎教養系-AIはどうやって言葉を紡ぐのか (Yu-i)</title>
-        <link>https://speakerdeck.com/yue_neg_631/kiso-kyouyoukei-ai-ha-dou-ya-te-kotoba-o-tsumugu-no-ka</link>
-        <dc:date>2026-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リアーキテクチャから Datadog 導入へ  〜動かす基盤の次は、見る基盤を整える〜 (okkun_sh)</title>
-        <link>https://speakerdeck.com/okkun_sh/kara-datadog-dounyuu-he-ugokasu-kiban-no-tsugi-ha-miru-kiban-o-totonoeru</link>
-        <dc:date>2026-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ConfigMapのImmutable機能を使ってヒヤッとした話と得られた知見／A Close Call with ConfigMap Immutability and the Lessons Learned (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/a-close-call-with-configmap-immutability-and-the-lessons-learned</link>
-        <dc:date>2026-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10分で完全理解するコク味 (Yoshitaka Fujii,@ystkfujii)</title>
-        <link>https://www.docswell.com/s/ystkfujii/Z7NDMD-2026-10-06-200908</link>
-        <dc:date>2026-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Jetson Orin Nanoとk3sとローカルLLMで音声文字起こしシステム作ってみた (世良泰明)</title>
-        <link>https://speakerdeck.com/y_sera15/jetson-orin-nano-to-k3s-to-rokaru-llm-de-onsei-moji-okoshi-shisutemu-tsuku-te-mita</link>
-        <dc:date>2026-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ai_cording_with_k8s_knowledge.pdf (mochizuki875)</title>
-        <link>https://speakerdeck.com/mochizuki875/ai-cording-with-k8s-knowledge</link>
-        <dc:date>2026-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>KubeCon に刺激を受けて、Kubernetesドキュメントの日本語翻訳をやってみた (j-maki)</title>
-        <link>https://speakerdeck.com/jmakk0301/kubecon-ni-shigeki-o-uke-te-kubernetes-no-nihongo-honyaku-o-ya-te-mita</link>
-        <dc:date>2026-10-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
