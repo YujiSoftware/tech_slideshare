@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIエージェントガバナンス入門：FINOS AIGFとAgent Governance Toolkit (Satoshi Ito)</title>
+        <link>https://speakerdeck.com/sato4/ai-nyuumon-finos-aigf-to-agent-governance-toolkit</link>
+        <dc:date>2026-10-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>転んだ話が背中を預ける理由になる / A_story_about_falling_down_gives_you_a_reason_to_watch_each_other_s_backs.pdf (Pauli)</title>
         <link>https://speakerdeck.com/pauli/a-story-about-falling-down-gives-you-a-reason-to-watch-each-other-s-backs</link>
         <dc:date>2026-10-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI時代の品質管理 - CIコストを抑える検証フローの作り方 (Hidetaka Okamoto,@hidetaka_dev)</title>
         <link>https://www.docswell.com/s/hideokamoto/KR8749-2026-10-06-140158</link>
-        <dc:date>2026-10-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代のAPI開発を加速する品質ガードレール / API Quality Guardrails in the AI Era (Yoichi Kawasaki)</title>
-        <link>https://speakerdeck.com/yokawasa/api-quality-guardrails-in-the-ai-era</link>
         <dc:date>2026-10-05T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
