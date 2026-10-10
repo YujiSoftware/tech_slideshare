@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>子育てエンジニアの可処分時間が減っても成長を諦めない戦い方 (aki)</title>
+        <link>https://speakerdeck.com/sudoakiy/kosodate-enjinia-no-kashobun-jikan-ga-he-temo-seichou-o-akiramenai-tatakaikata</link>
+        <dc:date>2026-10-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI駆動開発の時代になったのでトヨタ生産方式から見直す (terurou)</title>
         <link>https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu</link>
         <dc:date>2026-10-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>8年目iOSアプリにあたりまえを導入する (Ockey,@_ockey_)</title>
         <link>https://www.docswell.com/s/Ockey/59NDPV-StandardPracticiesForiOSAppIn8Year</link>
-        <dc:date>2026-10-07T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[AWS 秋のクラウドオペレーション祭り 2026]AWS DevOps Agentで変わる リリースと運用対応  ~リリース管理機能と  Directed actions のご紹介~ (Toshihiro Furuno)</title>
-        <link>https://speakerdeck.com/furuton/aws-aki-no-matsuri-2026-aws-devops-agent-de-kawaru-ririsu-to-unyou-ririsu-kanri-kinou-to-directed-actions-no-goshoukai</link>
         <dc:date>2026-10-07T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
