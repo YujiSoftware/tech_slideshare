@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>分析の民主化を支えるメタデータ整備の実践 (KAKEHASHI)</title>
+        <link>https://speakerdeck.com/kakehashi/democratizing-data-with-metadata</link>
+        <dc:date>2026-10-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>継続的なAIコスト最適化 (Atsushi Tanaka)</title>
         <link>https://speakerdeck.com/bgpat/keizokutekina-ai-kosuto-saitekika</link>
         <dc:date>2026-10-08T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コミュニケーションは受け手が決める〜読まれる職務経歴書の作り方/Communication makes your career (小田中育生)</title>
         <link>https://speakerdeck.com/ikuodanaka/communication-makes-your-career</link>
-        <dc:date>2026-10-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>contenteditable と日本語入力に向き合う (taki)</title>
-        <link>https://speakerdeck.com/colorful12/contenteditable-to-nihongo-nyuuryoku-ni-mukiau</link>
         <dc:date>2026-10-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
