@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>月間100万人のサービス刷新で、 技術選定をHonoに振り切った話 (bara)</title>
+        <link>https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a</link>
+        <dc:date>2026-10-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実体験から学ぶ分析エージェントの開発と運⽤ (Recruit)</title>
         <link>https://speakerdeck.com/recruitengineers/data-engineering-summit2026-zenyasai-yamamoto</link>
         <dc:date>2026-10-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LocalStack を使ったサーバーレスアプリケーション開発 / Serverless Development with LocalStack (Yoshiaki Yoshida)</title>
         <link>https://speakerdeck.com/kakakakakku/serverless-development-with-localstack</link>
-        <dc:date>2026-10-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントガバナンス入門：FINOS AIGFとAgent Governance Toolkit (Satoshi Ito)</title>
-        <link>https://speakerdeck.com/sato4/ai-nyuumon-finos-aigf-to-agent-governance-toolkit</link>
         <dc:date>2026-10-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
