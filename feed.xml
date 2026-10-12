@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Grok Bot Tokyo Hackathon (taiga)</title>
+        <link>https://speakerdeck.com/taigakono/grok-bot-tokyo-hackathon</link>
+        <dc:date>2026-10-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI主導のプログラミング学習アプリを作ってみた (econanringo)</title>
         <link>https://speakerdeck.com/econanringo/ai-shudou-no-puroguramingu-gakushuu-o-tsuku-te-mita</link>
         <dc:date>2026-10-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コードで差別化できない時代の ソフトウェアエンジニアリング / Software Engineering in an Era Where Code Doesn’t Differentiate (Naoki Kishida)</title>
         <link>https://speakerdeck.com/kishida/software-engineering-in-an-era-where-code-doesnt-differentiate</link>
-        <dc:date>2026-10-08T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[2026-10-09]一枚の布で作らなくてもいい。 信頼性は「パッチワーク」で紡がれる～既存の運用と新しい可能性をつなぎ合わせてきたCREの話～ (tosite)</title>
-        <link>https://speakerdeck.com/tosite/2026-10-09-ichimai-no-nuno-de-tsukuranaku-temo-ii-shinraisei-ha-pacchiwaku-de-tsumugareru-kison-no-unyou-to-atarashii-kanousei-o-tsunagi-awase-te-kita-cre-no-hanashi</link>
         <dc:date>2026-10-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
