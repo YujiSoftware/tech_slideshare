@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>TypeScript環境向け DSLを作ろう☕️ (kazuhi-ra)</title>
+        <link>https://www.docswell.com/s/kazuhi-ra/5X23NX-2026-09-04-125634</link>
+        <dc:date>2026-10-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIで速く作れる時代に、整合性をどう保つか 〜動くものを作る前にチームで決めること〜 (Insurtechラボ,@koitake_)</title>
         <link>https://www.docswell.com/s/Insurtech-lab/ZR87NN-2026-10-12-131905</link>
         <dc:date>2026-10-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI駆動開発の時代になったのでトヨタ生産方式から見直す (terurou)</title>
         <link>https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu</link>
-        <dc:date>2026-10-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>事業活動を AI Ready にする攻めと守りのデータエンジニアリング /  data-engineering-for-ai-ready-business (pei0804)</title>
-        <link>https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business</link>
         <dc:date>2026-10-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
