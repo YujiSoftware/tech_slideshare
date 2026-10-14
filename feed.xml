@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>HTML-in-Canvasで作る未来のWeb UI表現 (IKEDA Yasunobu)</title>
+        <link>https://speakerdeck.com/clockmaker/html-in-canvas</link>
+        <dc:date>2026-10-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>10万円からはじめる8K VR180 Movie</title>
         <link>https://docs.google.com/presentation/d/1U3GIdYVONjo2sqVCNTc1UDCl4-hpiRuceVuMnLWK1-k/preview</link>
         <dc:date>2026-10-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI EC Analytics Automation (Fumiaki Satou)</title>
         <link>https://speakerdeck.com/fumiaki0604/ai-ec-analytics-automation</link>
-        <dc:date>2026-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>月間100万人のサービス刷新で、 技術選定をHonoに振り切った話 (bara)</title>
-        <link>https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a</link>
         <dc:date>2026-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
