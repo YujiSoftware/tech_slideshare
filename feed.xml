@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自作バイナリを動かす「入口」8選 (Takumi Sueda)</title>
+        <link>https://speakerdeck.com/puhitaku/jisaku-bainari-o-ugokasu-iriguchi-8-sen</link>
+        <dc:date>2026-10-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実践！Cloud Run ハンズオン！！ / Cloud Run handson (y-ohgi)</title>
         <link>https://speakerdeck.com/y0hgi/cloud-run-handson</link>
         <dc:date>2026-10-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>色んな意味で導入が難しいFinOpsの誘い (ウタカタ)</title>
         <link>https://speakerdeck.com/awanoju_nin/ironna-imi-de-dounyuu-ga-muzukashii-finops-no-sasoi</link>
-        <dc:date>2026-10-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CapacitorとAndroid端末でつくるAndroidアプリ (hidao)</title>
-        <link>https://speakerdeck.com/hidao80/capacitor-to-android-tanmatsu-de-tsukuru-android</link>
         <dc:date>2026-10-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
