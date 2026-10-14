@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>フロントエンドのモデルに境界を引く (baby)</title>
+        <link>https://speakerdeck.com/babywkb/furonto-endo-no-moderu-ni-kyoukai-o-hiku</link>
+        <dc:date>2026-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>HTML-in-Canvasで作る未来のWeb UI表現 (IKEDA Yasunobu)</title>
         <link>https://speakerdeck.com/clockmaker/html-in-canvas</link>
         <dc:date>2026-10-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Claude Codeと歩むアプリ開発／App Development with Claude Code (モブエンジニア（Masaki Okuda）)</title>
         <link>https://speakerdeck.com/masakiokuda/app-development-with-claude-code</link>
-        <dc:date>2026-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI EC Analytics Automation (Fumiaki Satou)</title>
-        <link>https://speakerdeck.com/fumiaki0604/ai-ec-analytics-automation</link>
         <dc:date>2026-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
