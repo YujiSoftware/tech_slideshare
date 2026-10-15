@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「UNIXという考え方」再考 (Masayuki Matsuki,@songmu)</title>
+        <link>https://www.docswell.com/s/Songmu/5WR64J-unix-philosophy</link>
+        <dc:date>2026-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIのスピードに負けないための開発フロー (kyuridenamida)</title>
         <link>https://speakerdeck.com/kyuridenamida/ai-no-supido-ni-makenai-tame-no-kaihatsu-furo</link>
         <dc:date>2026-10-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>USB PDを使ってスマホを労わりたい (らすぴー)</title>
         <link>https://speakerdeck.com/raspython3/usb-pd-o-tsuka-te-sumaho-o-rou-waritai</link>
-        <dc:date>2026-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Flaskで色々作ってみたpdf (tynkou)</title>
-        <link>https://www.docswell.com/s/2607549797/ZJWY3X-2026-10-11-174934</link>
         <dc:date>2026-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
