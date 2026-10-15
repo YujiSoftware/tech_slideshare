@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIのスピードに負けないための開発フロー (kyuridenamida)</title>
+        <link>https://speakerdeck.com/kyuridenamida/ai-no-supido-ni-makenai-tame-no-kaihatsu-furo</link>
+        <dc:date>2026-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンドのモデルに境界を引く (baby)</title>
         <link>https://speakerdeck.com/babywkb/furonto-endo-no-moderu-ni-kyoukai-o-hiku</link>
         <dc:date>2026-10-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Flaskで色々作ってみたpdf (tynkou)</title>
         <link>https://www.docswell.com/s/2607549797/ZJWY3X-2026-10-11-174934</link>
-        <dc:date>2026-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeと歩むアプリ開発／App Development with Claude Code (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/app-development-with-claude-code</link>
         <dc:date>2026-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
