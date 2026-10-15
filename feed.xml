@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Post AI時代のリファクタリング実践記 / Refactoring in the post AI era (株式会社カミナシ)</title>
+        <link>https://speakerdeck.com/kaminashi/refactoring-in-the-post-ai-era</link>
+        <dc:date>2026-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>普段使いで開発のモチベを取り戻した話 (ペンギン内閣,@PenguinCabinet)</title>
+        <link>https://www.docswell.com/s/PenguinCabinet/53JDP8-findy-2026-10</link>
+        <dc:date>2026-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Linuxでゲームは普通に遊べるか (yukio)</title>
+        <link>https://speakerdeck.com/yukio0113/linux-de-gemu-ha-futsuu-ni-asoberu-ka</link>
+        <dc:date>2026-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なんでもCopilot#105 臨時会！「吉田が語る最新のコパ系情報(その2)」 (Taiki Yoshida,@TaikiYoshidaJP)</title>
+        <link>https://www.docswell.com/s/TaikiYoshida/ZMQ8VG-nandemocopilot-202610</link>
+        <dc:date>2026-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ターミナル温故知新 ～ホスト機の端末を尋ねて～ (てらうちたかし)</title>
+        <link>https://speakerdeck.com/takter00/taminaru-onkochishin-hosutoki-no-tanmatsu-o-tazune-te</link>
+        <dc:date>2026-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「UNIXという考え方」再考 (Masayuki Matsuki,@songmu)</title>
         <link>https://www.docswell.com/s/Songmu/5WR64J-unix-philosophy</link>
         <dc:date>2026-10-14T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>実践！ SRE × AI - ABEMA における AIOps - (tetsuya28)</title>
         <link>https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops</link>
         <dc:date>2026-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自社のレビュー履歴からAIコードレビュアーをつくる方法 (estie | エスティ)</title>
-        <link>https://speakerdeck.com/estie/jisha-no-rebyu-rireki-kara-ai-o-tsukuru-houhou</link>
-        <dc:date>2026-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Grok Bot Tokyo Hackathon (taiga)</title>
-        <link>https://speakerdeck.com/taigakono/grok-bot-tokyo-hackathon</link>
-        <dc:date>2026-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI主導のプログラミング学習アプリを作ってみた (econanringo)</title>
-        <link>https://speakerdeck.com/econanringo/ai-shudou-no-puroguramingu-gakushuu-o-tsuku-te-mita</link>
-        <dc:date>2026-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>卒論を Typst で書いた話 (ごま(gomazarashi),@goma_ouniv)</title>
-        <link>https://www.docswell.com/s/gomazarashi/5R87VN-2026-10-11-161039</link>
-        <dc:date>2026-10-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>USB PDを使ってスマホを労わりたい (らすぴー)</title>
-        <link>https://speakerdeck.com/raspython3/usb-pd-o-tsuka-te-sumaho-o-rou-waritai</link>
-        <dc:date>2026-10-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
