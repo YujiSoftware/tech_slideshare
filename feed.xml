@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>詳解システム・パフォーマンス１章</title>
+        <link>https://docs.google.com/presentation/d/1DPtHHKT581EuLqsidvqq5CdxGnVJvy4bG78QR4BU8mE/preview</link>
+        <dc:date>2026-10-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Post AI時代のリファクタリング実践記 / Refactoring in the post AI era (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/refactoring-in-the-post-ai-era</link>
         <dc:date>2026-10-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>人生やりたいことリストのすすめ　FIRE後の楽しみを可視化する (IPUSIRON,@ipusiron)</title>
         <link>https://www.docswell.com/s/ipusiron/ZGN668-2026-08-15-213702</link>
-        <dc:date>2026-10-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践！ SRE × AI - ABEMA における AIOps - (tetsuya28)</title>
-        <link>https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops</link>
         <dc:date>2026-10-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
