@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ブックマーク・タブを減らせない人にすすめたい ターミナル+CLIによる整理整頓術 (Shisato Yano)</title>
+        <link>https://www.docswell.com/s/ShisatoYano/K27374-2026-10-16-122420</link>
+        <dc:date>2026-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サブエージェントと Claude Mods で作る独自 Advisor ツールの話 (Kenichi Odo)</title>
         <link>https://speakerdeck.com/kenichiodo/sabu-ejento-to-claude-mods-de-tsukuru-dokuji-advisor-tsuru-no-hanashi</link>
         <dc:date>2026-10-15T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>MCPのハンズオンのテーマ選定にめっちゃ苦慮したお話 (eXpresser,@eXpresser_UXM)</title>
         <link>https://www.docswell.com/s/eXpresser-UXM/KPR79G-2026-10-13-182034</link>
         <dc:date>2026-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>TypeScript環境向け DSLを作ろう☕️ (kazuhi-ra)</title>
-        <link>https://www.docswell.com/s/kazuhi-ra/5X23NX-2026-09-04-125634</link>
-        <dc:date>2026-10-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
