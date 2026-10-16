@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Optunaの最新リリースv5.0について (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/20261016-optuna-meetup-v5</link>
+        <dc:date>2026-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Rustuna: Rustによる高速なOptuna実装 (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/20261016-optuna-meetup-rustuna</link>
+        <dc:date>2026-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Conditional PED-ANOVA: Hyperparameter Importance in Hierarchical &amp; Dynamic Search Spaces (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/20261016-conditional-ped-anova</link>
+        <dc:date>2026-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OptunaHub: ブラックボックス最適化のためのプラットフォーム (Preferred Networks)</title>
+        <link>https://speakerdeck.com/pfn/20261016-optunahub</link>
+        <dc:date>2026-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Optunaを作ったときにやりたかったこと、その後 (2026/10/16, Optuna Meetup #3) (Takuya Akiba)</title>
+        <link>https://speakerdeck.com/iwiwi/16-optuna-meetup-number-3</link>
+        <dc:date>2026-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代のシステム開発に乗り遅れそう? (Hiroki Sato)</title>
+        <link>https://speakerdeck.com/shzex/ai-jidai-no-shisutemu-kaihatsu-ni-noriokuresou</link>
+        <dc:date>2026-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AmebaブログはKMPから卒業します (伊藤光次郎)</title>
+        <link>https://speakerdeck.com/kmars0605/ameba-ha-kmp-kara-sotsugyou-shimasu</link>
+        <dc:date>2026-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Terraformで素数をマイニングしたら、ブロックチェーンが生まれた 〜 Infrastructure as Code。つまりCode。なら何でもできますよね？ 〜 (tanahiro2010)</title>
+        <link>https://speakerdeck.com/tanahiro2010/terraform-de-sosuu-o-mainingu-shitara-burokku-chen-ga-umareta-infrastructure-as-code-tsumari-code-nara-nani-demo-dekimasu-yone</link>
+        <dc:date>2026-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>DGX Spark でどこまでハッキングができるのか？ (kash1064)</title>
         <link>https://speakerdeck.com/kash1064/dgx-spark-de-doko-made-hakkingu-ga-dekiru-no-ka</link>
         <dc:date>2026-10-15T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>「UNIXという考え方」再考 (Masayuki Matsuki,@songmu)</title>
         <link>https://www.docswell.com/s/Songmu/5WR64J-unix-philosophy</link>
         <dc:date>2026-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIのスピードに負けないための開発フロー (kyuridenamida)</title>
-        <link>https://speakerdeck.com/kyuridenamida/ai-no-supido-ni-makenai-tame-no-kaihatsu-furo</link>
-        <dc:date>2026-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドのモデルに境界を引く (baby)</title>
-        <link>https://speakerdeck.com/babywkb/furonto-endo-no-moderu-ni-kyoukai-o-hiku</link>
-        <dc:date>2026-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HTML-in-Canvasで作る未来のWeb UI表現 (IKEDA Yasunobu)</title>
-        <link>https://speakerdeck.com/clockmaker/html-in-canvas</link>
-        <dc:date>2026-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>10万円からはじめる8K VR180 Movie</title>
-        <link>https://docs.google.com/presentation/d/1U3GIdYVONjo2sqVCNTc1UDCl4-hpiRuceVuMnLWK1-k/preview</link>
-        <dc:date>2026-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>NDIでApple Vision Proにリアルタイム映像送信 (jyouryuusui)</title>
-        <link>https://speakerdeck.com/jyouryuusui/ndi-de-apple-vision-pro-ni-riarutaimu-eizou-soushin</link>
-        <dc:date>2026-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「しゃべらないAI」Jevとは？生成AIとの違いをハンズオンで体験 (eXpresser,@eXpresser_UXM)</title>
-        <link>https://www.docswell.com/s/eXpresser-UXM/53JQMD-2026-10-14-jev</link>
-        <dc:date>2026-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自作バイナリを動かす「入口」8選 (Takumi Sueda)</title>
-        <link>https://speakerdeck.com/puhitaku/jisaku-bainari-o-ugokasu-iriguchi-8-sen</link>
-        <dc:date>2026-10-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実践！Cloud Run ハンズオン！！ / Cloud Run handson (y-ohgi)</title>
-        <link>https://speakerdeck.com/y0hgi/cloud-run-handson</link>
-        <dc:date>2026-10-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
