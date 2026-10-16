@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>QA4AI 2026-Oct 生成AI時代の品質保証 (Takahiro Toku)</title>
+        <link>https://speakerdeck.com/tokuty/qa4ai-2026-oct-seisei-ai-jidai-no-hinshitsu-hoshou</link>
+        <dc:date>2026-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>フィジカルAIの社会実装に向けて -AIエージェントからAgentic Roboticsへ- (Hironobu Fujiyoshi)</title>
+        <link>https://speakerdeck.com/hf149/fijikaru-ai-no-shakai-jissou-ni-muke-te-ai-ejento-kara-agentic-robotics-he</link>
+        <dc:date>2026-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>現場と育てるRailsモデリング 〜Spreadsheetから始めたモデル設計〜 (siroemk)</title>
+        <link>https://speakerdeck.com/siroemk/genba-to-sodateru-rails-moderingu-spreadsheet-kara-hajimeta-moderu-sekkei</link>
+        <dc:date>2026-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Optunaの最新リリースv5.0について (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/20261016-optuna-meetup-v5</link>
         <dc:date>2026-10-15T15:00:00Z</dc:date>
@@ -88,21 +103,6 @@
     <item>
         <title>Linuxでゲームは普通に遊べるか (yukio)</title>
         <link>https://speakerdeck.com/yukio0113/linux-de-gemu-ha-futsuu-ni-asoberu-ka</link>
-        <dc:date>2026-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なんでもCopilot#105 臨時会！「吉田が語る最新のコパ系情報(その2)」 (Taiki Yoshida,@TaikiYoshidaJP)</title>
-        <link>https://www.docswell.com/s/TaikiYoshida/ZMQ8VG-nandemocopilot-202610</link>
-        <dc:date>2026-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ターミナル温故知新 ～ホスト機の端末を尋ねて～ (てらうちたかし)</title>
-        <link>https://speakerdeck.com/takter00/taminaru-onkochishin-hosutoki-no-tanmatsu-o-tazune-te</link>
-        <dc:date>2026-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「UNIXという考え方」再考 (Masayuki Matsuki,@songmu)</title>
-        <link>https://www.docswell.com/s/Songmu/5WR64J-unix-philosophy</link>
         <dc:date>2026-10-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
