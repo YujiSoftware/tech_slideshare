@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サブエージェントと Claude Mods で作る独自 Advisor ツールの話 (Kenichi Odo)</title>
+        <link>https://speakerdeck.com/kenichiodo/sabu-ejento-to-claude-mods-de-tsukuru-dokuji-advisor-tsuru-no-hanashi</link>
+        <dc:date>2026-10-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Beyond Your Data Engineering 2026 - お前の考える狭いデータエンジニアリングの枠組みを越えてゆけ #data_summit_findy by @Kazaneya_PR (株式会社風音屋,@Kazaneya_PR)</title>
         <link>https://www.docswell.com/s/kazaneya/Z4N7EN-2026-10-09</link>
         <dc:date>2026-10-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>TypeScript環境向け DSLを作ろう☕️ (kazuhi-ra)</title>
         <link>https://www.docswell.com/s/kazuhi-ra/5X23NX-2026-09-04-125634</link>
-        <dc:date>2026-10-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIで速く作れる時代に、整合性をどう保つか 〜動くものを作る前にチームで決めること〜 (Insurtechラボ,@koitake_)</title>
-        <link>https://www.docswell.com/s/Insurtech-lab/ZR87NN-2026-10-12-131905</link>
         <dc:date>2026-10-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
