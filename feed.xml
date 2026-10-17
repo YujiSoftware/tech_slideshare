@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ウェブアクセシビリティまなびTai! (中村直樹,@momdo_)</title>
+        <link>https://www.docswell.com/s/momdo/KL323D-2026-10-16-223101</link>
+        <dc:date>2026-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ダイジェスト・AI基盤つくった体験を話す (75-8)</title>
+        <link>https://www.docswell.com/s/75-8/5273W4-2026-10-17-110322</link>
+        <dc:date>2026-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>最近流行ってるDecisionモデルってなーに？ Microsoft-Decision-1を動かして、JevとOpenAIと日本語で比べてみた (Hiroki Nomura,@Shrkm1204)</title>
+        <link>https://www.docswell.com/s/shirokuma/5Q2JEW-what-is-microsoft-decision-1-model</link>
+        <dc:date>2026-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure VM 上のWindows Server の構築作業をMicrosoft Foundry の Agent に任せてみる (Kazuki Yamabe,@kdk_wakaba)</title>
+        <link>https://www.docswell.com/s/kdk_wakaba/K7NM92-2026-10-17-155911</link>
+        <dc:date>2026-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>同人誌を支えたGithub (Koki Miura,@k_miura_io)</title>
+        <link>https://www.docswell.com/s/k_miura_io/ZJWVEJ-2026-10-17-161919</link>
+        <dc:date>2026-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「Docker Desktop不要の時代」は来たのか？」 (ueponx)</title>
+        <link>https://speakerdeck.com/ueponx/docker-desktop-fuyou-no-jidai-ha-kita-no-ka-bbdf422c-ba68-496d-8a72-8278fa28e862</link>
+        <dc:date>2026-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>その Valkey 使いこなしていますか？ (Takafumi ONAKA)</title>
         <link>https://speakerdeck.com/onk/2026-10-17-are-you-making-the-most-of-valkey</link>
         <dc:date>2026-10-16T15:00:00Z</dc:date>
@@ -73,36 +103,6 @@
     <item>
         <title>AI時代のシステム開発に乗り遅れそう? (Hiroki Sato)</title>
         <link>https://speakerdeck.com/shzex/ai-jidai-no-shisutemu-kaihatsu-ni-noriokuresou</link>
-        <dc:date>2026-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AmebaブログはKMPから卒業します (伊藤光次郎)</title>
-        <link>https://speakerdeck.com/kmars0605/ameba-ha-kmp-kara-sotsugyou-shimasu</link>
-        <dc:date>2026-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Terraformで素数をマイニングしたら、ブロックチェーンが生まれた 〜 Infrastructure as Code。つまりCode。なら何でもできますよね？ 〜 (tanahiro2010)</title>
-        <link>https://speakerdeck.com/tanahiro2010/terraform-de-sosuu-o-mainingu-shitara-burokku-chen-ga-umareta-infrastructure-as-code-tsumari-code-nara-nani-demo-dekimasu-yone</link>
-        <dc:date>2026-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>DGX Spark でどこまでハッキングができるのか？ (kash1064)</title>
-        <link>https://speakerdeck.com/kash1064/dgx-spark-de-doko-made-hakkingu-ga-dekiru-no-ka</link>
-        <dc:date>2026-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ブックマーク・タブを減らせない人にすすめたい ターミナル+CLIによる整理整頓術 (Shisato Yano)</title>
-        <link>https://www.docswell.com/s/ShisatoYano/K27374-2026-10-16-122420</link>
-        <dc:date>2026-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サブエージェントと Claude Mods で作る独自 Advisor ツールの話 (Kenichi Odo)</title>
-        <link>https://speakerdeck.com/kenichiodo/sabu-ejento-to-claude-mods-de-tsukuru-dokuji-advisor-tsuru-no-hanashi</link>
-        <dc:date>2026-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Beyond Your Data Engineering 2026 - お前の考える狭いデータエンジニアリングの枠組みを越えてゆけ #data_summit_findy by @Kazaneya_PR (株式会社風音屋,@Kazaneya_PR)</title>
-        <link>https://www.docswell.com/s/kazaneya/Z4N7EN-2026-10-09</link>
         <dc:date>2026-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
