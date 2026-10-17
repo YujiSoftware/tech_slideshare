@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>その Valkey 使いこなしていますか？ (Takafumi ONAKA)</title>
+        <link>https://speakerdeck.com/onk/2026-10-17-are-you-making-the-most-of-valkey</link>
+        <dc:date>2026-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Outboxパターンの素振りをした (Kazuki Nitta)</title>
         <link>https://speakerdeck.com/ntk221/outbox-patan-no-soburi-o-shita</link>
         <dc:date>2026-10-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Beyond Your Data Engineering 2026 - お前の考える狭いデータエンジニアリングの枠組みを越えてゆけ #data_summit_findy by @Kazaneya_PR (株式会社風音屋,@Kazaneya_PR)</title>
         <link>https://www.docswell.com/s/kazaneya/Z4N7EN-2026-10-09</link>
-        <dc:date>2026-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Code 入門 (nogu)</title>
-        <link>https://speakerdeck.com/nogu66/claude-code-nyuumon</link>
         <dc:date>2026-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
