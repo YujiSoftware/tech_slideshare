@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ソフトウェア ファクトリー - 再現性のあるソフトウェアの工場づくり / Software factory (Takahiro Ikeuchi)</title>
+        <link>https://speakerdeck.com/iktakahiro/software-factory</link>
+        <dc:date>2026-10-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Event is what happens (MOROHASHI Kyosuke)</title>
         <link>https://speakerdeck.com/moro/event-is-what-happens</link>
         <dc:date>2026-10-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Post AI時代のリファクタリング実践記 / Refactoring in the post AI era (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/refactoring-in-the-post-ai-era</link>
-        <dc:date>2026-10-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>普段使いで開発のモチベを取り戻した話 (ペンギン内閣,@PenguinCabinet)</title>
-        <link>https://www.docswell.com/s/PenguinCabinet/53JDP8-findy-2026-10</link>
         <dc:date>2026-10-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
