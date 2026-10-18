@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CIで使うLambda MicroVMs 最高なんだよなぁ！ (くらっち)</title>
+        <link>https://speakerdeck.com/kuracchi_enj1/ci-de-tsukau-lambda-microvms-saikouna-nda-yonaa</link>
+        <dc:date>2026-10-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LambdaWebFunctionsを試してみた / exploring-lambda-web-functions (koukihosaka)</title>
         <link>https://speakerdeck.com/koukihosaka/exploring-lambda-web-functions</link>
         <dc:date>2026-10-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コーディング自動化の次へ。人の介入をゼロにするファクトリーとサポートAIによる実践 (Seiji Takahashi)</title>
         <link>https://speakerdeck.com/timakin/kodingu-jidouka-no-tsugi-he-hito-no-kainyuu-o-zero-ni-suru-to-sapoto-ai-niyoru-jissen</link>
-        <dc:date>2026-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ソフトウェア ファクトリー - 再現性のあるソフトウェアの工場づくり / Software factory (Takahiro Ikeuchi)</title>
-        <link>https://speakerdeck.com/iktakahiro/software-factory</link>
         <dc:date>2026-10-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
