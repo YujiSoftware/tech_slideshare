@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title> Railsのためのパスキー実践入門 〜マルチテナントSaaSでの意思決定〜 (utakaha)</title>
+        <link>https://speakerdeck.com/utakaha/rails-no-tame-no-pasu-ki-jissen-nyuumon-maruchi-tenanto-saas-deno-ishi-kettei</link>
+        <dc:date>2026-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Web Framework Benchmark Battle 2026, Any% (Akira Matsuda)</title>
         <link>https://speakerdeck.com/a_matsuda/web-framework-benchmark-battle-2026-any-percent</link>
         <dc:date>2026-10-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Rustuna: Rustによる高速なOptuna実装 (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/20261016-optuna-meetup-rustuna</link>
-        <dc:date>2026-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Conditional PED-ANOVA: Hyperparameter Importance in Hierarchical &amp; Dynamic Search Spaces (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/20261016-conditional-ped-anova</link>
         <dc:date>2026-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
