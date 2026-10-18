@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>LambdaWebFunctionsを試してみた / exploring-lambda-web-functions (koukihosaka)</title>
+        <link>https://speakerdeck.com/koukihosaka/exploring-lambda-web-functions</link>
+        <dc:date>2026-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[JAWS-UG彩の国埼玉#12]そろそろ準備する？re:Invent2026をやさしく解説 / reinvent2026-sainokuni (sh_fk2)</title>
+        <link>https://speakerdeck.com/sh_fk2/reinvent2026-sainokuni</link>
+        <dc:date>2026-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>re:Invent初参加で変わったこと、2回目にやってみたいこと（JAWS-UG彩の国埼玉 #12） (株式会社みずほ銀⾏ 情報数理⼯学研究所 デジタル技術開発部)</title>
+        <link>https://speakerdeck.com/mhrtech/jawsug-saitama12-reinvent-2026</link>
+        <dc:date>2026-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>初海外で注意すべきこと12選！！！安全快適なre:invent生活にするために (Yuuuuuuu)</title>
+        <link>https://speakerdeck.com/yuuuuuuu168/hatsukaigai-de-chuui-subeki-koto-12-sen-anzen-kaitekina-re-invent-seikatsu-ni-suru-tame-ni</link>
+        <dc:date>2026-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vite + Rust で Wasm を ES Modulesとして使う (hacusk)</title>
+        <link>https://speakerdeck.com/hacusk/vite-rust-de-wasm-o-es-modules-toshite-tsukau</link>
+        <dc:date>2026-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Webの試作を、ストアの「入口」にする (Yukio MURAKAMI)</title>
+        <link>https://speakerdeck.com/m_yukio/web-no-shisaku-o-sutoa-no-iriguchi-ni-suru</link>
+        <dc:date>2026-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title> Railsのためのパスキー実践入門 〜マルチテナントSaaSでの意思決定〜 (utakaha)</title>
         <link>https://speakerdeck.com/utakaha/rails-no-tame-no-pasu-ki-jissen-nyuumon-maruchi-tenanto-saas-deno-ishi-kettei</link>
         <dc:date>2026-10-17T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>ソフトウェア ファクトリー - 再現性のあるソフトウェアの工場づくり / Software factory (Takahiro Ikeuchi)</title>
         <link>https://speakerdeck.com/iktakahiro/software-factory</link>
         <dc:date>2026-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Event is what happens (MOROHASHI Kyosuke)</title>
-        <link>https://speakerdeck.com/moro/event-is-what-happens</link>
-        <dc:date>2026-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>QA4AI 2026-Oct 生成AI時代の品質保証 (Takahiro Toku)</title>
-        <link>https://speakerdeck.com/tokuty/qa4ai-2026-oct-seisei-ai-jidai-no-hinshitsu-hoshou</link>
-        <dc:date>2026-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フィジカルAIの社会実装に向けて -AIエージェントからAgentic Roboticsへ- (Hironobu Fujiyoshi)</title>
-        <link>https://speakerdeck.com/hf149/fijikaru-ai-no-shakai-jissou-ni-muke-te-ai-ejento-kara-agentic-robotics-he</link>
-        <dc:date>2026-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現場と育てるRailsモデリング 〜Spreadsheetから始めたモデル設計〜 (siroemk)</title>
-        <link>https://speakerdeck.com/siroemk/genba-to-sodateru-rails-moderingu-spreadsheet-kara-hajimeta-moderu-sekkei</link>
-        <dc:date>2026-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Optunaの最新リリースv5.0について (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/20261016-optuna-meetup-v5</link>
-        <dc:date>2026-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Rustuna: Rustによる高速なOptuna実装 (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/20261016-optuna-meetup-rustuna</link>
-        <dc:date>2026-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
