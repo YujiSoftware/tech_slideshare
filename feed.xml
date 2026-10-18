@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Web Framework Benchmark Battle 2026, Any% (Akira Matsuda)</title>
+        <link>https://speakerdeck.com/a_matsuda/web-framework-benchmark-battle-2026-any-percent</link>
+        <dc:date>2026-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>全ての永続トークンを、生まれる前に消し去りたい！ (sylph01)</title>
+        <link>https://speakerdeck.com/sylph01/subete-no-eizoku-tokun-o-umareru-mae-ni-keshi-saritai</link>
+        <dc:date>2026-10-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>日本語に強いオープンな大規模言語モデル「LLM-jp」 (Yusuke Oda)</title>
         <link>https://speakerdeck.com/odashi/nihongo-ni-tsuyoi-opunna-daikibo-gengo-moderu-llm-jp</link>
         <dc:date>2026-10-17T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Conditional PED-ANOVA: Hyperparameter Importance in Hierarchical &amp; Dynamic Search Spaces (Preferred Networks)</title>
         <link>https://speakerdeck.com/pfn/20261016-conditional-ped-anova</link>
-        <dc:date>2026-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OptunaHub: ブラックボックス最適化のためのプラットフォーム (Preferred Networks)</title>
-        <link>https://speakerdeck.com/pfn/20261016-optunahub</link>
-        <dc:date>2026-10-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Optunaを作ったときにやりたかったこと、その後 (2026/10/16, Optuna Meetup #3) (Takuya Akiba)</title>
-        <link>https://speakerdeck.com/iwiwi/16-optuna-meetup-number-3</link>
         <dc:date>2026-10-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
