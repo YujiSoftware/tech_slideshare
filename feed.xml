@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIで開発が速くなった先で、開発チームは何を目指すか (Yuki Shiho)</title>
+        <link>https://speakerdeck.com/shihochan/ai-de-kaihatsu-ga-hayaku-nata-saki-de-kaihatsu-chimu-ha-nani-o-mezasu-ka</link>
+        <dc:date>2026-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI コーディングと人間の認知スループット / CTO Night &amp; Day 2026 Morning Session / AI Coding and Human Cognitive Throughput (Tamirlan 893 Torgayev)</title>
         <link>https://speakerdeck.com/prog893/ai-coding-and-human-cognitive-throughput</link>
         <dc:date>2026-10-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>最近流行ってるDecisionモデルってなーに？ Microsoft-Decision-1を動かして、JevとOpenAIと日本語で比べてみた (Hiroki Nomura,@Shrkm1204)</title>
         <link>https://www.docswell.com/s/shirokuma/5Q2JEW-what-is-microsoft-decision-1-model</link>
-        <dc:date>2026-10-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure VM 上のWindows Server の構築作業をMicrosoft Foundry の Agent に任せてみる (Kazuki Yamabe,@kdk_wakaba)</title>
-        <link>https://www.docswell.com/s/kdk_wakaba/K7NM92-2026-10-17-155911</link>
         <dc:date>2026-10-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
