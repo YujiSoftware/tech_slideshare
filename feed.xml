@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Databricksメトリクスビューはじめてのもくもく会 (Takaaki Yayoi)</title>
+        <link>https://speakerdeck.com/taka_aki/databricks-hajimete-no-mokumokukai</link>
+        <dc:date>2026-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>いつか登壇したいを 叶えるためのLT会！ #2.pptx</title>
+        <link>https://docs.google.com/presentation/d/1BGuZbHtkaOGajJ7nTJZkKHE-KqnbFcsW/preview</link>
+        <dc:date>2026-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Local CI × GitHub Actions (gogutan)</title>
         <link>https://speakerdeck.com/gogutan/local-ci-x-github-actions</link>
         <dc:date>2026-10-19T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>sue445's proposals 2026 (sue445)</title>
         <link>https://speakerdeck.com/sue445/sue445-s-proposals-2026</link>
         <dc:date>2026-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CIで使うLambda MicroVMs 最高なんだよなぁ！ (くらっち)</title>
-        <link>https://speakerdeck.com/kuracchi_enj1/ci-de-tsukau-lambda-microvms-saikouna-nda-yonaa</link>
-        <dc:date>2026-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LambdaWebFunctionsを試してみた / exploring-lambda-web-functions (koukihosaka)</title>
-        <link>https://speakerdeck.com/koukihosaka/exploring-lambda-web-functions</link>
-        <dc:date>2026-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
