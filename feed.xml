@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Local CI × GitHub Actions (gogutan)</title>
+        <link>https://speakerdeck.com/gogutan/local-ci-x-github-actions</link>
+        <dc:date>2026-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>20261020テストセンターハンズオン_土田 (土田真有)</title>
         <link>https://www.docswell.com/s/Tsuchida/K4N7R8-2026-10-20-163017</link>
         <dc:date>2026-10-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>LambdaWebFunctionsを試してみた / exploring-lambda-web-functions (koukihosaka)</title>
         <link>https://speakerdeck.com/koukihosaka/exploring-lambda-web-functions</link>
-        <dc:date>2026-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[JAWS-UG彩の国埼玉#12]そろそろ準備する？re:Invent2026をやさしく解説 / reinvent2026-sainokuni (sh_fk2)</title>
-        <link>https://speakerdeck.com/sh_fk2/reinvent2026-sainokuni</link>
         <dc:date>2026-10-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
