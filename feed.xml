@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20261020テストセンターハンズオン_土田 (土田真有)</title>
+        <link>https://www.docswell.com/s/Tsuchida/K4N7R8-2026-10-20-163017</link>
+        <dc:date>2026-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20261020_Agentforce テスト手法と実践 (ayuka uesugi)</title>
+        <link>https://www.docswell.com/s/4875856/5R8472-2026-10-20-182620</link>
+        <dc:date>2026-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20261020_スクリプト・テスト (土田真有)</title>
+        <link>https://www.docswell.com/s/Tsuchida/58NED1-2026-10-20-183100</link>
+        <dc:date>2026-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>コンテナ運用におけるネットワーク・コンテナコストの削減方法／How to Reduce Network and Container Costs in Container Operations (モブエンジニア（Masaki Okuda）)</title>
+        <link>https://speakerdeck.com/masakiokuda/how-to-reduce-network-and-container-costs-in-container-operations</link>
+        <dc:date>2026-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>CloudWatch Logsのコスト最適化：どこまでAIに任せてどこから人間が承認すべきか (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/cloudwatch-logs-no-kosuto-saitekika-doko-made-ai-ni-makase-te-doko-kara-ningen-ga-shounin-subeki-ka</link>
+        <dc:date>2026-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS における AI for FinOps / FinOps for AI (masa kato)</title>
+        <link>https://speakerdeck.com/masakato/finops-for-ai</link>
+        <dc:date>2026-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>FinOps Agentが生んだ技術負債:コスト自動調査の落とし穴と解消までの道のり (T.REX)</title>
+        <link>https://speakerdeck.com/oasis1994liveforever/finops-agent-ga-unda-gijutsu-fusai-kosuto-jidou-chousa-no-otoshiana-to-kaishou-madeno-michinori</link>
+        <dc:date>2026-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI利用による健康障害 (chokkura)</title>
+        <link>https://speakerdeck.com/chokkura/ai-riyou-niyoru-kenkou-shougai</link>
+        <dc:date>2026-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIで音楽が学びになる (Kaleido Future)</title>
+        <link>https://speakerdeck.com/marine_kf/ai-de-ongaku-ga-manabi-ni-naru</link>
+        <dc:date>2026-10-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ストレスなくAIと付き合いたい！こんなときどうしてる？ (Nami Kimura)</title>
         <link>https://speakerdeck.com/namiki64/osaka-claude-meetup-20261019</link>
         <dc:date>2026-10-19T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>[JAWS-UG彩の国埼玉#12]そろそろ準備する？re:Invent2026をやさしく解説 / reinvent2026-sainokuni (sh_fk2)</title>
         <link>https://speakerdeck.com/sh_fk2/reinvent2026-sainokuni</link>
         <dc:date>2026-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>re:Invent初参加で変わったこと、2回目にやってみたいこと（JAWS-UG彩の国埼玉 #12） (株式会社みずほ銀⾏ 情報数理⼯学研究所 デジタル技術開発部)</title>
-        <link>https://speakerdeck.com/mhrtech/jawsug-saitama12-reinvent-2026</link>
-        <dc:date>2026-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>初海外で注意すべきこと12選！！！安全快適なre:invent生活にするために (Yuuuuuuu)</title>
-        <link>https://speakerdeck.com/yuuuuuuu168/hatsukaigai-de-chuui-subeki-koto-12-sen-anzen-kaitekina-re-invent-seikatsu-ni-suru-tame-ni</link>
-        <dc:date>2026-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vite + Rust で Wasm を ES Modulesとして使う (hacusk)</title>
-        <link>https://speakerdeck.com/hacusk/vite-rust-de-wasm-o-es-modules-toshite-tsukau</link>
-        <dc:date>2026-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webの試作を、ストアの「入口」にする (Yukio MURAKAMI)</title>
-        <link>https://speakerdeck.com/m_yukio/web-no-shisaku-o-sutoa-no-iriguchi-ni-suru</link>
-        <dc:date>2026-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> Railsのためのパスキー実践入門 〜マルチテナントSaaSでの意思決定〜 (utakaha)</title>
-        <link>https://speakerdeck.com/utakaha/rails-no-tame-no-pasu-ki-jissen-nyuumon-maruchi-tenanto-saas-deno-ishi-kettei</link>
-        <dc:date>2026-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Web Framework Benchmark Battle 2026, Any% (Akira Matsuda)</title>
-        <link>https://speakerdeck.com/a_matsuda/web-framework-benchmark-battle-2026-any-percent</link>
-        <dc:date>2026-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>全ての永続トークンを、生まれる前に消し去りたい！ (sylph01)</title>
-        <link>https://speakerdeck.com/sylph01/subete-no-eizoku-tokun-o-umareru-mae-ni-keshi-saritai</link>
-        <dc:date>2026-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>日本語に強いオープンな大規模言語モデル「LLM-jp」 (Yusuke Oda)</title>
-        <link>https://speakerdeck.com/odashi/nihongo-ni-tsuyoi-opunna-daikibo-gengo-moderu-llm-jp</link>
-        <dc:date>2026-10-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ウェブアクセシビリティまなびTai! (中村直樹,@momdo_)</title>
-        <link>https://www.docswell.com/s/momdo/KL323D-2026-10-16-223101</link>
-        <dc:date>2026-10-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
