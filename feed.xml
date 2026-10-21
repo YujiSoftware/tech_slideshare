@@ -6,6 +6,36 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>四人組女子アニメにみる アジャイル成功事例 (Yasutaka Kato,@ma_anago)</title>
+        <link>https://www.docswell.com/s/ma_anago/57NMMN-2026-10-21-123339</link>
+        <dc:date>2026-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>オンプレミス環境にCloudWatch Agentを導入するならばSystemsManager Agentも一緒に導入しよう (amarelo_n24)</title>
+        <link>https://speakerdeck.com/amarelo_n24/kankyou-ni-cloudwatch-agent-o-dounyuu-surunara-ba-systemsmanager-agent-mo-issho-ni-dounyuu-shiyou</link>
+        <dc:date>2026-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AWS AgentCoreを使って RAGを構築してみた.pptx</title>
+        <link>https://docs.google.com/presentation/d/1qUIzRNrpRPiB9cJx_Zfmu3J4Ujilcent/preview</link>
+        <dc:date>2026-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>VRゲームにおけるサウンド設計.pptx</title>
+        <link>https://docs.google.com/presentation/d/14qDQpJejrk_LXKwb89piNgC763hVZ0Cl/preview</link>
+        <dc:date>2026-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>strnatcmpが便利すぎる件とarray_flipに潜む罠 (岡本知行)</title>
+        <link>https://www.docswell.com/s/8508651/Z9NYYX-2026-10-21-183306</link>
+        <dc:date>2026-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>PHPの脆弱性修正リリースで私たちがすべきこと (Akinori Takigawa)</title>
+        <link>https://speakerdeck.com/akinoriakatsuka/php-no-zeijakusei-shuusei-ririsu-de-watashitachi-ga-subeki-koto</link>
+        <dc:date>2026-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>[JA] Domain Modeling with Vanilla Rails: 「操作」から再考するRailsの設計論 (Yuichi Goto)</title>
         <link>https://speakerdeck.com/yasaichi/ja-domain-modeling-with-vanilla-rails-sousa-kara-saikou-suru-rails-no-sekkeiron</link>
         <dc:date>2026-10-20T15:00:00Z</dc:date>
@@ -74,35 +104,5 @@
         <title>ストレスなくAIと付き合いたい！こんなときどうしてる？ (Nami Kimura)</title>
         <link>https://speakerdeck.com/namiki64/osaka-claude-meetup-20261019</link>
         <dc:date>2026-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>freeeにおける⼤規模ソフトウェアファクトリーの実践_AI×開発組織Summit 2026 (freee)</title>
-        <link>https://speakerdeck.com/freee/freee-niokeru-kibo-no-jissen-aix-kaihatsu-soshiki-summit-2026</link>
-        <dc:date>2026-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIで開発が速くなった先で、開発チームは何を目指すか (Yuki Shiho)</title>
-        <link>https://speakerdeck.com/shihochan/ai-de-kaihatsu-ga-hayaku-nata-saki-de-kaihatsu-chimu-ha-nani-o-mezasu-ka</link>
-        <dc:date>2026-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI コーディングと人間の認知スループット / CTO Night &amp; Day 2026 Morning Session / AI Coding and Human Cognitive Throughput (Tamirlan 893 Torgayev)</title>
-        <link>https://speakerdeck.com/prog893/ai-coding-and-human-cognitive-throughput</link>
-        <dc:date>2026-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Power Automate for desktopのPowerPointアクション実践ガイド (きぬあさ,@kinuasa)</title>
-        <link>https://www.docswell.com/s/kinuasa/KE1MJ6-20261019-RPALT</link>
-        <dc:date>2026-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LT会発表資料20261019 (林実里)</title>
-        <link>https://www.docswell.com/s/5153259/5X2V3G-2026-10-19-130739</link>
-        <dc:date>2026-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>どうしてStrands Harnessはトークンコストを抑えられるのさ？ (Tatsuya)</title>
-        <link>https://speakerdeck.com/suzutatsu/doushite-strands-harness-ha-o-osaerareru-no-sa</link>
-        <dc:date>2026-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
