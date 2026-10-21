@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>[JA] Domain Modeling with Vanilla Rails: 「操作」から再考するRailsの設計論 (Yuichi Goto)</title>
+        <link>https://speakerdeck.com/yasaichi/ja-domain-modeling-with-vanilla-rails-sousa-kara-saikou-suru-rails-no-sekkeiron</link>
+        <dc:date>2026-10-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Databricksメトリクスビューはじめてのもくもく会 (Takaaki Yayoi)</title>
         <link>https://speakerdeck.com/taka_aki/databricks-hajimete-no-mokumokukai</link>
         <dc:date>2026-10-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>どうしてStrands Harnessはトークンコストを抑えられるのさ？ (Tatsuya)</title>
         <link>https://speakerdeck.com/suzutatsu/doushite-strands-harness-ha-o-osaerareru-no-sa</link>
-        <dc:date>2026-10-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>sue445's proposals 2026 (sue445)</title>
-        <link>https://speakerdeck.com/sue445/sue445-s-proposals-2026</link>
         <dc:date>2026-10-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
