@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ログ検索体験から逆算するログ基盤設計 (hirosi1900day)</title>
+        <link>https://speakerdeck.com/hirosi1900day/rogu-kensaku-taiken-kara-gyakusan-suru-rogu-kiban-sekkei</link>
+        <dc:date>2026-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エージェントを使い続けるためのメタワーク / Meta-work for keeping using the agent (r-kagaya)</title>
+        <link>https://speakerdeck.com/rkaga/meta-work-for-keeping-using-the-agent</link>
+        <dc:date>2026-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIにまかせるほど人に残るもの KoR2026のOSTから (shu_numata)</title>
         <link>https://speakerdeck.com/swamp09/ai-ni-makaseru-hodo-hito-ni-nokoru-mono-kor2026-no-ost-kara</link>
         <dc:date>2026-10-21T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Databricksメトリクスビューはじめてのもくもく会 (Takaaki Yayoi)</title>
         <link>https://speakerdeck.com/taka_aki/databricks-hajimete-no-mokumokukai</link>
         <dc:date>2026-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>いつか登壇したいを 叶えるためのLT会！ #2.pptx</title>
-        <link>https://docs.google.com/presentation/d/1BGuZbHtkaOGajJ7nTJZkKHE-KqnbFcsW/preview</link>
-        <dc:date>2026-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Local CI × GitHub Actions (gogutan)</title>
-        <link>https://speakerdeck.com/gogutan/local-ci-x-github-actions</link>
-        <dc:date>2026-10-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
