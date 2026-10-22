@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>僕のハーネスを紹介します (watany)</title>
+        <link>https://speakerdeck.com/watany/let-me-introduce-my-harness-2</link>
+        <dc:date>2026-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ログ検索体験から逆算するログ基盤設計 (hirosi1900day)</title>
         <link>https://speakerdeck.com/hirosi1900day/rogu-kensaku-taiken-kara-gyakusan-suru-rogu-kiban-sekkei</link>
         <dc:date>2026-10-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[JA] Domain Modeling with Vanilla Rails: 「操作」から再考するRailsの設計論 (Yuichi Goto)</title>
         <link>https://speakerdeck.com/yasaichi/ja-domain-modeling-with-vanilla-rails-sousa-kara-saikou-suru-rails-no-sekkeiron</link>
-        <dc:date>2026-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Databricksメトリクスビューはじめてのもくもく会 (Takaaki Yayoi)</title>
-        <link>https://speakerdeck.com/taka_aki/databricks-hajimete-no-mokumokukai</link>
         <dc:date>2026-10-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
