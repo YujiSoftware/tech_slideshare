@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIにまかせるほど人に残るもの KoR2026のOSTから (shu_numata)</title>
+        <link>https://speakerdeck.com/swamp09/ai-ni-makaseru-hodo-hito-ni-nokoru-mono-kor2026-no-ost-kara</link>
+        <dc:date>2026-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Helm で実践する Kubernetes マニフェスト管理のシフトダウン＿Sao (UPSIDER, Inc. Tech&amp;Product div.)</title>
+        <link>https://speakerdeck.com/upsider_tech/helm-de-jissen-suru-kubernetes-manifesuto-kanri-no-shifuto-daun-sao</link>
+        <dc:date>2026-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>20261022_GitHub Copilot CLI × Agentic DevOps — Deployで終わらせないために (yutakaosada)</title>
+        <link>https://speakerdeck.com/yutakaosada/20261022-github-copilot-cli-x-agentic-devops-deploy-de-owarasenai-tame-ni</link>
+        <dc:date>2026-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Copilotの可観測性 ― OpenTelemetryによるCLIの観測からSDKへの拡張まで (Kento Yamada,@ymd65536)</title>
+        <link>https://www.docswell.com/s/ymd65536/ZY8RJL-2026-10-22</link>
+        <dc:date>2026-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>【データ横丁主催】AI エージェント時代のTranslytical  Data Platform (KoheiOgawa)</title>
+        <link>https://speakerdeck.com/shisyu_gaku/deta-yokochou-shusai-ai-ejento-jidai-no-translytical-data-platform</link>
+        <dc:date>2026-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データプラットフォームは 「サービングレイヤー」の時代へ  〜 ClickHouse が実現する、 AI時代のデータプラットフォーム 〜 (データ横丁)</title>
+        <link>https://speakerdeck.com/datayokocho/deta-purattofomu-ha-no-jidai-he-clickhouse-ga-jitsugen-suru-ai-jidai-no-deta-purattofomu</link>
+        <dc:date>2026-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>GitHub Copilot App はいいぞー (Yohei Iwasaki,@I_BOY_1204)</title>
+        <link>https://www.docswell.com/s/iboy/Z7NM8N-yonaaz23</link>
+        <dc:date>2026-10-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>HydraFusionとエージェントワークフローの可能性について (tomokusaba)</title>
         <link>https://speakerdeck.com/tomokusaba/hydrafusion-to-no-kanousei-nitsuite</link>
         <dc:date>2026-10-21T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>Local CI × GitHub Actions (gogutan)</title>
         <link>https://speakerdeck.com/gogutan/local-ci-x-github-actions</link>
-        <dc:date>2026-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20261020テストセンターハンズオン_土田 (土田真有)</title>
-        <link>https://www.docswell.com/s/Tsuchida/K4N7R8-2026-10-20-163017</link>
-        <dc:date>2026-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20261020_Agentforce テスト手法と実践 (ayuka uesugi)</title>
-        <link>https://www.docswell.com/s/4875856/5R8472-2026-10-20-182620</link>
-        <dc:date>2026-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20261020_スクリプト・テスト (土田真有)</title>
-        <link>https://www.docswell.com/s/Tsuchida/58NED1-2026-10-20-183100</link>
-        <dc:date>2026-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コンテナ運用におけるネットワーク・コンテナコストの削減方法／How to Reduce Network and Container Costs in Container Operations (モブエンジニア（Masaki Okuda）)</title>
-        <link>https://speakerdeck.com/masakiokuda/how-to-reduce-network-and-container-costs-in-container-operations</link>
-        <dc:date>2026-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>CloudWatch Logsのコスト最適化：どこまでAIに任せてどこから人間が承認すべきか (Yuuki Yamashita)</title>
-        <link>https://speakerdeck.com/yama3133/cloudwatch-logs-no-kosuto-saitekika-doko-made-ai-ni-makase-te-doko-kara-ningen-ga-shounin-subeki-ka</link>
-        <dc:date>2026-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS における AI for FinOps / FinOps for AI (masa kato)</title>
-        <link>https://speakerdeck.com/masakato/finops-for-ai</link>
-        <dc:date>2026-10-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>FinOps Agentが生んだ技術負債:コスト自動調査の落とし穴と解消までの道のり (T.REX)</title>
-        <link>https://speakerdeck.com/oasis1994liveforever/finops-agent-ga-unda-gijutsu-fusai-kosuto-jidou-chousa-no-otoshiana-to-kaishou-madeno-michinori</link>
         <dc:date>2026-10-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
