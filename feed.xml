@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代のGraphQL (joe_re)</title>
+        <link>https://speakerdeck.com/joere/ai-jidai-no-graphql</link>
+        <dc:date>2026-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ひとりで作れる時代に、 判断をみんなで持つには。/ Build alone share judgment (こぎそ / Shinichi Kogiso)</title>
         <link>https://speakerdeck.com/kgsi/build-alone-share-judgment</link>
         <dc:date>2026-10-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>strnatcmpが便利すぎる件とarray_flipに潜む罠 (岡本知行)</title>
         <link>https://www.docswell.com/s/8508651/Z9NYYX-2026-10-21-183306</link>
-        <dc:date>2026-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PHPの脆弱性修正リリースで私たちがすべきこと (Akinori Takigawa)</title>
-        <link>https://speakerdeck.com/akinoriakatsuka/php-no-zeijakusei-shuusei-ririsu-de-watashitachi-ga-subeki-koto</link>
         <dc:date>2026-10-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
