@@ -6,6 +6,46 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>計測からはじめるスクロール性能改善 (Naka)</title>
+        <link>https://speakerdeck.com/junpswift/keisoku-kara-hajimeru-sukuroru-seinou-kaizen</link>
+        <dc:date>2026-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Zero-Tap Sign-In対応、結局何をすればいいの？ (mitohato14)</title>
+        <link>https://speakerdeck.com/mitohato14/zero-tap-sign-in-taiou-kekkyoku-nani-o-sure-ba-ii-no</link>
+        <dc:date>2026-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自宅サーバと脆弱性 (モブエンジニア)</title>
+        <link>https://speakerdeck.com/masakiokuda/jitaku-saba-to-zeijakusei</link>
+        <dc:date>2026-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ログ設計の公式リファレンスを 自宅サーバーの条件に 合わせて考えてみた。 (lgtmmube)</title>
+        <link>https://speakerdeck.com/lgtmmube/rogu-sekkei-no-koushiki-rifarensu-o-jitaku-saba-no-jouken-ni-awase-te-kangae-te-mita</link>
+        <dc:date>2026-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>「触ればわかる」のためのUIモーション (HIBIKI CUBE)</title>
+        <link>https://speakerdeck.com/hibiki_cube/saware-ba-wakaru-no-tame-no-ui-mo-shon</link>
+        <dc:date>2026-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI駆動開発でつくる安全工学ツール_2026-10-23京都_.pdf (Kenichiro Tanaka)</title>
+        <link>https://speakerdeck.com/kenntanaka/ai-kudou-kaihatsu-de-tsukuru-anzen-kougaku-tsuru-2026-10-23-kyouto</link>
+        <dc:date>2026-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>私なりのハーネスエンジニアリング ～独自の言語処理系の開発を通して～  (瀬尾佳隆)</title>
+        <link>https://speakerdeck.com/seosoft/watashi-narino-hanesu-enjiniaringu-dokuji-no-gengo-shorikei-no-kaihatsu-otooshite</link>
+        <dc:date>2026-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>BacklogのRAG 今ならこう作る - S3 Vectorsと自前パイプラインの勘所 (Tsuyoshi Yamasaki)</title>
+        <link>https://speakerdeck.com/revsystem/2026-10-23-aws-community-builders-meetup-kyushu-2026</link>
+        <dc:date>2026-10-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>LLM-as-a-Judgeは本当に信頼できるのか――評価器を評価する話 (Takaaki Yayoi)</title>
         <link>https://speakerdeck.com/taka_aki/llm-as-a-judge-ha-hontouni-shinrai-dekiru-no-ka-hyoukaki-o-hyouka-suru-hanashi</link>
         <dc:date>2026-10-22T15:00:00Z</dc:date>
@@ -64,45 +104,5 @@
         <title>データプラットフォームは 「サービングレイヤー」の時代へ  〜 ClickHouse が実現する、 AI時代のデータプラットフォーム 〜 (データ横丁)</title>
         <link>https://speakerdeck.com/datayokocho/deta-purattofomu-ha-no-jidai-he-clickhouse-ga-jitsugen-suru-ai-jidai-no-deta-purattofomu</link>
         <dc:date>2026-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilot App はいいぞー (Yohei Iwasaki,@I_BOY_1204)</title>
-        <link>https://www.docswell.com/s/iboy/Z7NM8N-yonaaz23</link>
-        <dc:date>2026-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>HydraFusionとエージェントワークフローの可能性について (tomokusaba)</title>
-        <link>https://speakerdeck.com/tomokusaba/hydrafusion-to-no-kanousei-nitsuite</link>
-        <dc:date>2026-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>今年読んだ本を5分でざっくり紹介する (DE TEIU (DE-TEIU))</title>
-        <link>https://www.docswell.com/s/8895128/Z2736M-2026-10-21-230146</link>
-        <dc:date>2026-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kiro Crewで「みのるん式」仕事術やってみた (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/kiro-crew-de-minoru-nshiki-shigotojutsu-ya-te-mita</link>
-        <dc:date>2026-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>四人組女子アニメにみる アジャイル成功事例 (Yasutaka Kato,@ma_anago)</title>
-        <link>https://www.docswell.com/s/ma_anago/57NMMN-2026-10-21-123339</link>
-        <dc:date>2026-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンプレミス環境にCloudWatch Agentを導入するならばSystemsManager Agentも一緒に導入しよう (amarelo_n24)</title>
-        <link>https://speakerdeck.com/amarelo_n24/kankyou-ni-cloudwatch-agent-o-dounyuu-surunara-ba-systemsmanager-agent-mo-issho-ni-dounyuu-shiyou</link>
-        <dc:date>2026-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS AgentCoreを使って RAGを構築してみた.pptx</title>
-        <link>https://docs.google.com/presentation/d/1qUIzRNrpRPiB9cJx_Zfmu3J4Ujilcent/preview</link>
-        <dc:date>2026-10-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>VRゲームにおけるサウンド設計.pptx</title>
-        <link>https://docs.google.com/presentation/d/14qDQpJejrk_LXKwb89piNgC763hVZ0Cl/preview</link>
-        <dc:date>2026-10-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
