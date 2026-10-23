@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>学びを記事・スライド・Xへ高速展開する― AI-assisted Learning Loopで回すコンテンツ生成術 (Ochtum)</title>
+        <link>https://speakerdeck.com/ochtum/manabi-o-kiji-suraido-x-he-kousoku-tenkai-suru-ai-assisted-learning-loop-de-mawasu-kontentsu-seiseijutsu</link>
+        <dc:date>2026-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>計測からはじめるスクロール性能改善 (Naka)</title>
         <link>https://speakerdeck.com/junpswift/keisoku-kara-hajimeru-sukuroru-seinou-kaizen</link>
         <dc:date>2026-10-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>【データ横丁主催】AI エージェント時代のTranslytical  Data Platform (KoheiOgawa)</title>
         <link>https://speakerdeck.com/shisyu_gaku/deta-yokochou-shusai-ai-ejento-jidai-no-translytical-data-platform</link>
-        <dc:date>2026-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データプラットフォームは 「サービングレイヤー」の時代へ  〜 ClickHouse が実現する、 AI時代のデータプラットフォーム 〜 (データ横丁)</title>
-        <link>https://speakerdeck.com/datayokocho/deta-purattofomu-ha-no-jidai-he-clickhouse-ga-jitsugen-suru-ai-jidai-no-deta-purattofomu</link>
         <dc:date>2026-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
