@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Microsoft のサポート ライフサイクルを理解する (Murachi Akira)</title>
+        <link>https://speakerdeck.com/murachiakira/microsoft-support-lifecycle</link>
+        <dc:date>2026-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure AIによるエージェント型運用の計画と実行を評価しよう (Kento Yamada,@ymd65536)</title>
+        <link>https://www.docswell.com/s/ymd65536/ZDM4PV-2026-10-24</link>
+        <dc:date>2026-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バックエンドの知識地図においてMicrosoftとGitHubの製品は語られているか (Kento Yamada,@ymd65536)</title>
+        <link>https://www.docswell.com/s/ymd65536/5N734L-2026-10-24</link>
+        <dc:date>2026-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2026-10-24 JAWS JAWS-UG 茨城 #18 IAM Policy Autopilotってなにさ。terraform planからIAM Policyつくれるの? / What's IAM Policy Autopilot   (SUZUKI Masashi)</title>
+        <link>https://speakerdeck.com/masasuzu/whats-iam-policy-autopilot</link>
+        <dc:date>2026-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Creating an evacuation planning AI agent using open data (otsuka)</title>
+        <link>https://speakerdeck.com/zzzzico/creating-an-evacuation-planning-ai-agent-using-open-data</link>
+        <dc:date>2026-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure Site Recovery for Azure Local (Norio SASHIZAKI,@sshzk)</title>
+        <link>https://www.docswell.com/s/sshzk/KQ2J6V-2026-10-24-174653</link>
+        <dc:date>2026-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>fm-towns オンデバイスAI -  Foundation Modelsを評価する (notoroid)</title>
+        <link>https://speakerdeck.com/notoroid/fm-towns-ai-foundation-models-o-hyouka-suru</link>
+        <dc:date>2026-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>シンプルな設定ファイルで実現する AWS IAM Identity Center の ユーザー管理Terraformフレームワークを公開しました / Simplifying AWS IAM Identity Center User Management: An Open-Source Terraform Framework (Takashi Yamaguchi)</title>
+        <link>https://speakerdeck.com/yamaguchitk333/simplifying-aws-iam-identity-center-user-management-an-open-source-terraform-framework</link>
+        <dc:date>2026-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>第9回 プロジェクトマネージャ勉強会 (Quatrex,@Quatrex)</title>
+        <link>https://www.docswell.com/s/Quatrex/ZMQ8MW-2026-10-24</link>
+        <dc:date>2026-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>契約で守るコンパウンドプロダクトのデザインシステム (Yuji Yamaguchi)</title>
         <link>https://speakerdeck.com/yug1224/2026-10-24</link>
         <dc:date>2026-10-23T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>私なりのハーネスエンジニアリング ～独自の言語処理系の開発を通して～  (瀬尾佳隆)</title>
         <link>https://speakerdeck.com/seosoft/watashi-narino-hanesu-enjiniaringu-dokuji-no-gengo-shorikei-no-kaihatsu-otooshite</link>
         <dc:date>2026-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BacklogのRAG 今ならこう作る - S3 Vectorsと自前パイプラインの勘所 (Tsuyoshi Yamasaki)</title>
-        <link>https://speakerdeck.com/revsystem/2026-10-23-aws-community-builders-meetup-kyushu-2026</link>
-        <dc:date>2026-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>LLM-as-a-Judgeは本当に信頼できるのか――評価器を評価する話 (Takaaki Yayoi)</title>
-        <link>https://speakerdeck.com/taka_aki/llm-as-a-judge-ha-hontouni-shinrai-dekiru-no-ka-hyoukaki-o-hyouka-suru-hanashi</link>
-        <dc:date>2026-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代のGraphQL (joe_re)</title>
-        <link>https://speakerdeck.com/joere/ai-jidai-no-graphql</link>
-        <dc:date>2026-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ひとりで作れる時代に、 判断をみんなで持つには。/ Build alone share judgment (こぎそ / Shinichi Kogiso)</title>
-        <link>https://speakerdeck.com/kgsi/build-alone-share-judgment</link>
-        <dc:date>2026-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>僕のハーネスを紹介します (watany)</title>
-        <link>https://speakerdeck.com/watany/let-me-introduce-my-harness-2</link>
-        <dc:date>2026-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ログ検索体験から逆算するログ基盤設計 (hirosi1900day)</title>
-        <link>https://speakerdeck.com/hirosi1900day/rogu-kensaku-taiken-kara-gyakusan-suru-rogu-kiban-sekkei</link>
-        <dc:date>2026-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>エージェントを使い続けるためのメタワーク / Meta-work for keeping using the agent (r-kagaya)</title>
-        <link>https://speakerdeck.com/rkaga/meta-work-for-keeping-using-the-agent</link>
-        <dc:date>2026-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIにまかせるほど人に残るもの KoR2026のOSTから (shu_numata)</title>
-        <link>https://speakerdeck.com/swamp09/ai-ni-makaseru-hodo-hito-ni-nokoru-mono-kor2026-no-ost-kara</link>
-        <dc:date>2026-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Helm で実践する Kubernetes マニフェスト管理のシフトダウン＿Sao (UPSIDER, Inc. Tech&amp;Product div.)</title>
-        <link>https://speakerdeck.com/upsider_tech/helm-de-jissen-suru-kubernetes-manifesuto-kanri-no-shifuto-daun-sao</link>
-        <dc:date>2026-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
