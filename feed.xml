@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>決定的なフロントエンドアーキテクチャがいい (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend</link>
+        <dc:date>2026-10-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「私が一番顧客に詳しい」を捨てる～ 全員が一次情報に精通する開発チームをつくり、PMが次のボトルネックへ染み出すまで (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/building-a-engineering-team-where-everyone-knows-the-source-and-the-pm-moves-on-to-the-next-bottleneck</link>
         <dc:date>2026-10-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>20261022_GitHub Copilot CLI × Agentic DevOps — Deployで終わらせないために (yutakaosada)</title>
         <link>https://speakerdeck.com/yutakaosada/20261022-github-copilot-cli-x-agentic-devops-deploy-de-owarasenai-tame-ni</link>
-        <dc:date>2026-10-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilotの可観測性 ― OpenTelemetryによるCLIの観測からSDKへの拡張まで (Kento Yamada,@ymd65536)</title>
-        <link>https://www.docswell.com/s/ymd65536/ZY8RJL-2026-10-22</link>
         <dc:date>2026-10-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
