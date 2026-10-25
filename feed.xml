@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Active Directory 権限設計ポイント (Fumiya Okazaki)</title>
+        <link>https://www.docswell.com/s/FumiyaOkazaki/KQ24DJ-2026-09-07-022824</link>
+        <dc:date>2026-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Steerable Visual Representations (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/261020</link>
         <dc:date>2026-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>第9回 プロジェクトマネージャ勉強会 (Quatrex,@Quatrex)</title>
         <link>https://www.docswell.com/s/Quatrex/ZMQ8MW-2026-10-24</link>
-        <dc:date>2026-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>契約で守るコンパウンドプロダクトのデザインシステム (Yuji Yamaguchi)</title>
-        <link>https://speakerdeck.com/yug1224/2026-10-24</link>
         <dc:date>2026-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
