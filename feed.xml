@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vue.jsで作る空間解析アプリとCapacitorプラグインのData Bridge (Hal)</title>
+        <link>https://speakerdeck.com/hal_spidernight/vue-js-de-tsukuru-kuukan-kaiseki-to-capacitor-puragu-in-no-data-bridge</link>
+        <dc:date>2026-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Contributing to Vite+ Inside Stories (Naoki Haba,@naokihaba)</title>
         <link>https://www.docswell.com/s/naokihaba/K4N7JN-2026-10-15-132213</link>
         <dc:date>2026-10-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>自宅サーバと脆弱性 (モブエンジニア)</title>
         <link>https://speakerdeck.com/masakiokuda/jitaku-saba-to-zeijakusei</link>
-        <dc:date>2026-10-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ログ設計の公式リファレンスを 自宅サーバーの条件に 合わせて考えてみた。 (lgtmmube)</title>
-        <link>https://speakerdeck.com/lgtmmube/rogu-sekkei-no-koushiki-rifarensu-o-jitaku-saba-no-jouken-ni-awase-te-kangae-te-mita</link>
         <dc:date>2026-10-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
