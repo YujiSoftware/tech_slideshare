@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Steerable Visual Representations (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/261020</link>
+        <dc:date>2026-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Splunkでログ分析を体験しよう！(よわよわセキュリティLT用） (gorosuke5656,@GenkgGorosuke)</title>
+        <link>https://www.docswell.com/s/gorosuke5656/KVJNR4-2026-10-24-100954</link>
+        <dc:date>2026-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Adversary Infrastructure Hunting101 (DiscoNinja)</title>
+        <link>https://speakerdeck.com/disconinja/adversary-infrastructure-hunting101</link>
+        <dc:date>2026-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>脅威モデリングって何？やってみてどうだった？ (Capi)</title>
+        <link>https://speakerdeck.com/yousaku/kyoui-moderingu-tte-nani-ya-te-mi-te-doudata</link>
+        <dc:date>2026-10-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ガチで放置できるClaude Code実行環境の作り方.pdf (Lamaglama39)</title>
         <link>https://speakerdeck.com/lamaglama39/de-houchi-dekiru-claude-code-jikkou-kankyou-no-tsukurikata</link>
         <dc:date>2026-10-24T15:00:00Z</dc:date>
@@ -84,25 +104,5 @@
         <title>契約で守るコンパウンドプロダクトのデザインシステム (Yuji Yamaguchi)</title>
         <link>https://speakerdeck.com/yug1224/2026-10-24</link>
         <dc:date>2026-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>決定的なフロントエンドアーキテクチャがいい (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend</link>
-        <dc:date>2026-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「私が一番顧客に詳しい」を捨てる～ 全員が一次情報に精通する開発チームをつくり、PMが次のボトルネックへ染み出すまで (株式会社カミナシ)</title>
-        <link>https://speakerdeck.com/kaminashi/building-a-engineering-team-where-everyone-knows-the-source-and-the-pm-moves-on-to-the-next-bottleneck</link>
-        <dc:date>2026-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>学びを記事・スライド・Xへ高速展開する― AI-assisted Learning Loopで回すコンテンツ生成術 (Ochtum)</title>
-        <link>https://speakerdeck.com/ochtum/manabi-o-kiji-suraido-x-he-kousoku-tenkai-suru-ai-assisted-learning-loop-de-mawasu-kontentsu-seiseijutsu</link>
-        <dc:date>2026-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>計測からはじめるスクロール性能改善 (Naka)</title>
-        <link>https://speakerdeck.com/junpswift/keisoku-kara-hajimeru-sukuroru-seinou-kaizen</link>
-        <dc:date>2026-10-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
