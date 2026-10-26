@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Let's Change Our World—Again (Koji SHIMADA)</title>
+        <link>https://speakerdeck.com/snoozer05/lets-change-our-world-again</link>
+        <dc:date>2026-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Active Directory 権限設計ポイント (Fumiya Okazaki)</title>
         <link>https://www.docswell.com/s/FumiyaOkazaki/KQ24DJ-2026-09-07-022824</link>
         <dc:date>2026-10-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>シンプルな設定ファイルで実現する AWS IAM Identity Center の ユーザー管理Terraformフレームワークを公開しました / Simplifying AWS IAM Identity Center User Management: An Open-Source Terraform Framework (Takashi Yamaguchi)</title>
         <link>https://speakerdeck.com/yamaguchitk333/simplifying-aws-iam-identity-center-user-management-an-open-source-terraform-framework</link>
-        <dc:date>2026-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>第9回 プロジェクトマネージャ勉強会 (Quatrex,@Quatrex)</title>
-        <link>https://www.docswell.com/s/Quatrex/ZMQ8MW-2026-10-24</link>
         <dc:date>2026-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
