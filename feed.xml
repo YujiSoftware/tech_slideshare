@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代、つくる力を自分たちの手に。 ──電通×KAG、アジャイルとAI駆動開発で挑む開発の変革 (yuukiyo)</title>
+        <link>https://speakerdeck.com/yuukiyo/dentsu-kag-ai-agile-transformation</link>
+        <dc:date>2026-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Draft AIエージェントの トークン消費を最小化する 8つの原則 (kinopee)</title>
         <link>https://speakerdeck.com/kinopeee/draft-ai-ejento-no-tokun-shouhi-o-saishouka-suru-8-tsu-no-gensoku</link>
         <dc:date>2026-10-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>バックエンドの知識地図においてMicrosoftとGitHubの製品は語られているか (Kento Yamada,@ymd65536)</title>
         <link>https://www.docswell.com/s/ymd65536/5N734L-2026-10-24</link>
-        <dc:date>2026-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026-10-24 JAWS JAWS-UG 茨城 #18 IAM Policy Autopilotってなにさ。terraform planからIAM Policyつくれるの? / What's IAM Policy Autopilot   (SUZUKI Masashi)</title>
-        <link>https://speakerdeck.com/masasuzu/whats-iam-policy-autopilot</link>
         <dc:date>2026-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
