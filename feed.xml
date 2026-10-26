@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AWS BuilderCardsを社内実践して見えたSales職への提案教育／Insights_from_Implementing_AWS_BuilderCards_Internally_Training_for_Sales_Roles_.pdf (モブエンジニア)</title>
+        <link>https://speakerdeck.com/masakiokuda/insights-from-implementing-aws-buildercards-internally-training-for-sales-roles</link>
+        <dc:date>2026-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>壊れたコードはCI に送らない - CI と同じ環境の検証を push 前に回す方法 (CircleCI Japan,@CircleCIJapan)</title>
+        <link>https://www.docswell.com/s/circleci-japan/5MQPW2-2026-10-26-172733</link>
+        <dc:date>2026-10-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWS Continuum for Penetration Testing に Deep Dive してみる (浅野晴輝)</title>
         <link>https://speakerdeck.com/asanoharuki/aws-continuum-for-penetration-testing-ni-deep-dive-shi-te-miru</link>
         <dc:date>2026-10-25T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Creating an evacuation planning AI agent using open data (otsuka)</title>
         <link>https://speakerdeck.com/zzzzico/creating-an-evacuation-planning-ai-agent-using-open-data</link>
-        <dc:date>2026-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Azure Site Recovery for Azure Local (Norio SASHIZAKI,@sshzk)</title>
-        <link>https://www.docswell.com/s/sshzk/KQ2J6V-2026-10-24-174653</link>
-        <dc:date>2026-10-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>fm-towns オンデバイスAI -  Foundation Modelsを評価する (notoroid)</title>
-        <link>https://speakerdeck.com/notoroid/fm-towns-ai-foundation-models-o-hyouka-suru</link>
         <dc:date>2026-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
