@@ -6,6 +6,51 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テストツールでAIを使ってAPIを移植 (青柳康平,@aoyagikouhei)</title>
+        <link>https://www.docswell.com/s/aoyagikouhei/Z9NQ8J-2026-10-27-201150</link>
+        <dc:date>2026-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>相次ぐ不正アクセスを深掘りしてみよう.pptx</title>
+        <link>https://docs.google.com/presentation/d/1YSQYJqIORuZb76gWbEBJXIj3HrSKdx8-/preview</link>
+        <dc:date>2026-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>(swiftc) NonCopyableとライフタイム修飾子 (Himeshi)</title>
+        <link>https://speakerdeck.com/teamhimeh/swiftc-noncopyable-and-lifetime-annotation</link>
+        <dc:date>2026-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>自転車×自動車 相互視点シミュレーター (Akihiro Komori)</title>
+        <link>https://www.docswell.com/s/1831404/KGNPX8-2026-10-27-201054</link>
+        <dc:date>2026-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>構造で守らせる　データ・法務・セキュリティ・開発チームとつくる AI時代のデータガバナンスとデータ基盤のリアル (LegalOn Technologies, Inc)</title>
+        <link>https://speakerdeck.com/legalontechnologies/ai-data-governance-real</link>
+        <dc:date>2026-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>データマネジメント × 法務で作りあげる、 freeeの新しいデータガバナンスへの軌跡 (freee)</title>
+        <link>https://speakerdeck.com/freee/deta-manejimento-x-houmu-de-tsukuriageru-freee-no-atarashii-heno-kiseki</link>
+        <dc:date>2026-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Grok Botを完全に理解するため個人ゲーム開発スタジオを作ってみた (星影,@unsoluble_sugar)</title>
+        <link>https://www.docswell.com/s/unsoluble_sugar/KX27EY-2026-10-27-grok-bot-game-studio</link>
+        <dc:date>2026-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>E2Eテストの最初の第一歩 (もっくま,@mot0aki)</title>
+        <link>https://www.docswell.com/s/mot0aki/51QNJL-2026-10-27-195903</link>
+        <dc:date>2026-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Devin プロモコードの受け取りと適用(2026.10.27)  (kinopee)</title>
+        <link>https://speakerdeck.com/kinopeee/devin-no-uketori-to-tekiyou-2026-10-27</link>
+        <dc:date>2026-10-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI活用の基礎体験ハンズオン（松尾研 AXエバンジェリスト講座） (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/ai-katsuyou-no-kiso-taiken-matsuo-ken-ax-kouza</link>
         <dc:date>2026-10-26T15:00:00Z</dc:date>
@@ -59,50 +104,5 @@
         <title>Splunkでログ分析を体験しよう！(よわよわセキュリティLT用） (gorosuke5656,@GenkgGorosuke)</title>
         <link>https://www.docswell.com/s/gorosuke5656/KVJNR4-2026-10-24-100954</link>
         <dc:date>2026-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Adversary Infrastructure Hunting101 (DiscoNinja)</title>
-        <link>https://speakerdeck.com/disconinja/adversary-infrastructure-hunting101</link>
-        <dc:date>2026-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>脅威モデリングって何？やってみてどうだった？ (Capi)</title>
-        <link>https://speakerdeck.com/yousaku/kyoui-moderingu-tte-nani-ya-te-mi-te-doudata</link>
-        <dc:date>2026-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ガチで放置できるClaude Code実行環境の作り方.pdf (Lamaglama39)</title>
-        <link>https://speakerdeck.com/lamaglama39/de-houchi-dekiru-claude-code-jikkou-kankyou-no-tsukurikata</link>
-        <dc:date>2026-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>パラグラフから始めるアカデミック・ライティング (Seitaro Iwama)</title>
-        <link>https://speakerdeck.com/neuroiwm/paragurafu-kara-hajimeru-akademikku</link>
-        <dc:date>2026-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vue.jsで作る空間解析アプリとCapacitorプラグインのData Bridge (Hal)</title>
-        <link>https://speakerdeck.com/hal_spidernight/vue-js-de-tsukuru-kuukan-kaiseki-to-capacitor-puragu-in-no-data-bridge</link>
-        <dc:date>2026-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Contributing to Vite+ Inside Stories (Naoki Haba,@naokihaba)</title>
-        <link>https://www.docswell.com/s/naokihaba/K4N7JN-2026-10-15-132213</link>
-        <dc:date>2026-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title> AstroとRustで考えるフロントエンドツールチェーンの今 (Kenji)</title>
-        <link>https://speakerdeck.com/knj/astro-to-rust-de-kangaeru-no-ima</link>
-        <dc:date>2026-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>入社4ヶ月で 2つのプロダクトの撤退判断 (tkt)</title>
-        <link>https://speakerdeck.com/tkt42u19421/nyuusha-4-kagetsude-2-tsu-no-purodakuto-no-tettai-handan</link>
-        <dc:date>2026-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft のサポート ライフサイクルを理解する (Murachi Akira)</title>
-        <link>https://speakerdeck.com/murachiakira/microsoft-support-lifecycle</link>
-        <dc:date>2026-10-23T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
