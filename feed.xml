@@ -6,6 +6,21 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>3回つくってわかった、 定期実行ジョブ基盤の本質情報 (Naoto Takai)</title>
+        <link>https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>書き手が人でもAIでも正しくなる道、 SREを埋め込んだDeveloper Platform / tech drivers day8 (mekka)</title>
+        <link>https://speakerdeck.com/chmikata/tech-drivers-day8</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI秘書と毎日働くのはもう当たり前。開発以外の業務に足りない機能をどう埋める？ (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/ai-hisho-to-mainichi-hataraku-no-ha-mou-atarimae-kaihatsu-igai-no-gyoumu-ni-tarinai-kinou-o-dou-umeru</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>テストツールでAIを使ってAPIを移植 (青柳康平,@aoyagikouhei)</title>
         <link>https://www.docswell.com/s/aoyagikouhei/Z9NQ8J-2026-10-27-201150</link>
         <dc:date>2026-10-26T15:00:00Z</dc:date>
@@ -89,20 +104,5 @@
         <title>Let's Change Our World—Again (Koji SHIMADA)</title>
         <link>https://speakerdeck.com/snoozer05/lets-change-our-world-again</link>
         <dc:date>2026-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Active Directory 権限設計ポイント (Fumiya Okazaki)</title>
-        <link>https://www.docswell.com/s/FumiyaOkazaki/KQ24DJ-2026-09-07-022824</link>
-        <dc:date>2026-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Steerable Visual Representations (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/261020</link>
-        <dc:date>2026-10-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Splunkでログ分析を体験しよう！(よわよわセキュリティLT用） (gorosuke5656,@GenkgGorosuke)</title>
-        <link>https://www.docswell.com/s/gorosuke5656/KVJNR4-2026-10-24-100954</link>
-        <dc:date>2026-10-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
