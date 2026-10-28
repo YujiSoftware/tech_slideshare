@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIがコードを書いてくれる時代、我々は何を確かめるのか (Yosuke Furukawa)</title>
+        <link>https://speakerdeck.com/yosuke_furukawa/ai-ga-kodo-o-kai-te-kureru-jidai-wareware-ha-nani-o-tashikameru-no-ka</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIで選択肢が広がった組織設計の理想と現実 (konifar)</title>
         <link>https://speakerdeck.com/konifar/ai-de-sentakushi-ga-hirogata-soshiki-sekkei-no-risou-to-genjitsu</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Draft AIエージェントの トークン消費を最小化する 8つの原則 (kinopee)</title>
         <link>https://speakerdeck.com/kinopeee/draft-ai-ejento-no-tokun-shouhi-o-saishouka-suru-8-tsu-no-gensoku</link>
         <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS BuilderCardsを社内実践して見えたSales職への提案教育／Insights_from_Implementing_AWS_BuilderCards_Internally_Training_for_Sales_Roles_.pdf (モブエンジニア)</title>
-        <link>https://speakerdeck.com/masakiokuda/insights-from-implementing-aws-buildercards-internally-training-for-sales-roles</link>
-        <dc:date>2026-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
