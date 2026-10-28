@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代のシニアエンジニアとは (Yosuke Furukawa)</title>
+        <link>https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Ruby から Emacs を操作したい (phigasui)</title>
         <link>https://speakerdeck.com/phigasui/ruby-kara-emacs-o-sousa-shitai</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>3回つくってわかった、 定期実行ジョブ基盤の本質情報 (Naoto Takai)</title>
         <link>https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>書き手が人でもAIでも正しくなる道、 SREを埋め込んだDeveloper Platform / tech drivers day8 (mekka)</title>
-        <link>https://speakerdeck.com/chmikata/tech-drivers-day8</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
