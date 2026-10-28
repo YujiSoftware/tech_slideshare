@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>全社エージェント活用を加速するメルカリのAIセキュリティ&amp;ガバナンス実践 (Hi120ki)</title>
+        <link>https://speakerdeck.com/hi120ki/mercari-ai-security-conference-2026</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>現代AI入門: 大規模言語モデルから思考するシステムへ — Test-Time Scaling, Loop, Harness, RSI (Masafumi Oyamada)</title>
         <link>https://speakerdeck.com/stillpedant/thinking-systems</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>壊れたコードはCI に送らない - CI と同じ環境の検証を push 前に回す方法 (CircleCI Japan,@CircleCIJapan)</title>
         <link>https://www.docswell.com/s/circleci-japan/5MQPW2-2026-10-26-172733</link>
-        <dc:date>2026-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AWS Continuum for Penetration Testing に Deep Dive してみる (浅野晴輝)</title>
-        <link>https://speakerdeck.com/asanoharuki/aws-continuum-for-penetration-testing-ni-deep-dive-shi-te-miru</link>
         <dc:date>2026-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
