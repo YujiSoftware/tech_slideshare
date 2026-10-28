@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>現代AI入門: 大規模言語モデルから思考するシステムへ — Test-Time Scaling, Loop, Harness, RSI (Masafumi Oyamada)</title>
+        <link>https://speakerdeck.com/stillpedant/thinking-systems</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>3回つくってわかった、 定期実行ジョブ基盤の本質情報 (Naoto Takai)</title>
         <link>https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AWS Continuum for Penetration Testing に Deep Dive してみる (浅野晴輝)</title>
         <link>https://speakerdeck.com/asanoharuki/aws-continuum-for-penetration-testing-ni-deep-dive-shi-te-miru</link>
-        <dc:date>2026-10-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Let's Change Our World—Again (Koji SHIMADA)</title>
-        <link>https://speakerdeck.com/snoozer05/lets-change-our-world-again</link>
         <dc:date>2026-10-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
