@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>漸進的過負荷の原則 (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/20260123</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIがコードを書いてくれる時代、我々は何を確かめるのか (Yosuke Furukawa)</title>
         <link>https://speakerdeck.com/yosuke_furukawa/ai-ga-kodo-o-kai-te-kureru-jidai-wareware-ha-nani-o-tashikameru-no-ka</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI時代、つくる力を自分たちの手に。 ──電通×KAG、アジャイルとAI駆動開発で挑む開発の変革 (yuukiyo)</title>
         <link>https://speakerdeck.com/yuukiyo/dentsu-kag-ai-agile-transformation</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Draft AIエージェントの トークン消費を最小化する 8つの原則 (kinopee)</title>
-        <link>https://speakerdeck.com/kinopeee/draft-ai-ejento-no-tokun-shouhi-o-saishouka-suru-8-tsu-no-gensoku</link>
         <dc:date>2026-10-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
