@@ -6,6 +6,71 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Ruby から Emacs を操作したい (phigasui)</title>
+        <link>https://speakerdeck.com/phigasui/ruby-kara-emacs-o-sousa-shitai</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Checking deployed ECH keys with Ruby (thekuwayama)</title>
+        <link>https://speakerdeck.com/thekuwayama/checking-deployed-ech-keys-with-ruby</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Cloudflare Workersに非公開のWebアプリをデプロイする (iwami_r)</title>
+        <link>https://speakerdeck.com/iwami_r/cloudflare-workers-ni-hikoukai-no-web-o-suru</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2026-10-28 ChatからAgentへの道程 (Ichiro Suzuki)</title>
+        <link>https://speakerdeck.com/chollo/2026-10-28-chat-kara-agent-heno-doutei</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>re:Invent事前勉強会2026資料 (山下光洋,@yamamanx)</title>
+        <link>https://www.docswell.com/s/yamamugi/52768N-reinvent2026jizentokyo</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>これだけは抑えておきたい！後悔しない re:Invent の過ごし方 / AWS re:Invent 2026 prestudy (Masanori Yamaguchi)</title>
+        <link>https://speakerdeck.com/kinunori/aws-re-invent-2026-prestudy</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>reInvent2026stby LT00 "Change your life!" (Shinichiro Kawano)</title>
+        <link>https://speakerdeck.com/shinichirokawano/reinvent2026stby-lt00-change-your-life</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[re:Invent2026事前勉強会(有志開催)]続きは、ラスベガスの廊下で / continue-in-the-vegas-hallway (sh_fk2)</title>
+        <link>https://speakerdeck.com/sh_fk2/continue-in-the-vegas-hallway</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ラスベガスで道民会を実施してる話。あとヌードルアジア。 (Kazuki Miura)</title>
+        <link>https://speakerdeck.com/miu_crescent/rasubegasu-de-douminkai-o-jisshi-shi-teru-hanashi-ato-nudoru-ajia</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>渡米前の準備を制す！re:Invent 2026徹底準備術 / The Ultimate Preparation Guide for re:Invent 2026 (Yuji Oshima)</title>
+        <link>https://speakerdeck.com/yuj1osm/the-ultimate-preparation-guide-for-re-invent-2026</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>re:Inventを支えるユーザーコミュニティ (awsj communty program manager - Shigeru Numaguchi)</title>
+        <link>https://speakerdeck.com/awsjcpm/re-invent-o-sasaeru-yuza-komyuniti</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2026-10-28 Jagu'e'r月末 Tech Lunch Online#18 - Google Cloud を語る！ Cloud Run のプロビジョニングとデプロイの隙間を埋める - tfstate との連携 / Cloud Run Deploy and Provisioning (SUZUKI Masashi)</title>
+        <link>https://speakerdeck.com/masasuzu/cloud-run-deploy-and-provisioning</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>バッチで安く、A/Bで確かめ、動的ルーティングで届ける Google Cloudで実現するLLM選定戦略 (Shu Kobuchi)</title>
+        <link>https://speakerdeck.com/shukob/google-cloud-llm-routing-strategy</link>
+        <dc:date>2026-10-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>漸進的過負荷の原則 (SansanTech)</title>
         <link>https://speakerdeck.com/sansantech/20260123</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
@@ -39,70 +104,5 @@
         <title>書き手が人でもAIでも正しくなる道、 SREを埋め込んだDeveloper Platform / tech drivers day8 (mekka)</title>
         <link>https://speakerdeck.com/chmikata/tech-drivers-day8</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI秘書と毎日働くのはもう当たり前。開発以外の業務に足りない機能をどう埋める？ (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/ai-hisho-to-mainichi-hataraku-no-ha-mou-atarimae-kaihatsu-igai-no-gyoumu-ni-tarinai-kinou-o-dou-umeru</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テストツールでAIを使ってAPIを移植 (青柳康平,@aoyagikouhei)</title>
-        <link>https://www.docswell.com/s/aoyagikouhei/Z9NQ8J-2026-10-27-201150</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>相次ぐ不正アクセスを深掘りしてみよう.pptx</title>
-        <link>https://docs.google.com/presentation/d/1YSQYJqIORuZb76gWbEBJXIj3HrSKdx8-/preview</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>(swiftc) NonCopyableとライフタイム修飾子 (Himeshi)</title>
-        <link>https://speakerdeck.com/teamhimeh/swiftc-noncopyable-and-lifetime-annotation</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>自転車×自動車 相互視点シミュレーター (Akihiro Komori)</title>
-        <link>https://www.docswell.com/s/1831404/KGNPX8-2026-10-27-201054</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>構造で守らせる　データ・法務・セキュリティ・開発チームとつくる AI時代のデータガバナンスとデータ基盤のリアル (LegalOn Technologies, Inc)</title>
-        <link>https://speakerdeck.com/legalontechnologies/ai-data-governance-real</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データマネジメント × 法務で作りあげる、 freeeの新しいデータガバナンスへの軌跡 (freee)</title>
-        <link>https://speakerdeck.com/freee/deta-manejimento-x-houmu-de-tsukuriageru-freee-no-atarashii-heno-kiseki</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Grok Botを完全に理解するため個人ゲーム開発スタジオを作ってみた (星影,@unsoluble_sugar)</title>
-        <link>https://www.docswell.com/s/unsoluble_sugar/KX27EY-2026-10-27-grok-bot-game-studio</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>E2Eテストの最初の第一歩 (もっくま,@mot0aki)</title>
-        <link>https://www.docswell.com/s/mot0aki/51QNJL-2026-10-27-195903</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Devin プロモコードの受け取りと適用(2026.10.27)  (kinopee)</title>
-        <link>https://speakerdeck.com/kinopeee/devin-no-uketori-to-tekiyou-2026-10-27</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI活用の基礎体験ハンズオン（松尾研 AXエバンジェリスト講座） (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/ai-katsuyou-no-kiso-taiken-matsuo-ken-ax-kouza</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Codeから見る、エンジニアの世界の変容とその先 (Oikon)</title>
-        <link>https://speakerdeck.com/oikon48/qiita-con-claude-code</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代、つくる力を自分たちの手に。 ──電通×KAG、アジャイルとAI駆動開発で挑む開発の変革 (yuukiyo)</title>
-        <link>https://speakerdeck.com/yuukiyo/dentsu-kag-ai-agile-transformation</link>
-        <dc:date>2026-10-26T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
