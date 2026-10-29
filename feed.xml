@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIが生成したコードは読むべきか？抽象化設計とコードの品質保証 / abstraction-design-and-quality (MinoDriven)</title>
+        <link>https://speakerdeck.com/minodriven/abstraction-design-and-quality</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ひとりで始めた AI駆動開発、チームに広げて何が変わったのか (Kenichi Odo)</title>
         <link>https://speakerdeck.com/kenichiodo/hitori-de-hajimeta-ai-kudou-kaihatsu-chimu-ni-hiroge-te-nani-ga-kawata-no-ka</link>
         <dc:date>2026-10-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>全社エージェント活用を加速するメルカリのAIセキュリティ&amp;ガバナンス実践 (Hi120ki)</title>
         <link>https://speakerdeck.com/hi120ki/mercari-ai-security-conference-2026</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現代AI入門: 大規模言語モデルから思考するシステムへ — Test-Time Scaling, Loop, Harness, RSI (Masafumi Oyamada)</title>
-        <link>https://speakerdeck.com/stillpedant/thinking-systems</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
