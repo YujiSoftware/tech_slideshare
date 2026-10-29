@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代のIaC入門 〜なぜインフラをコードで管理したいのか？〜 / Introduction to IaC in the AI Era (アキキー | Akihisa Ikeda)</title>
+        <link>https://speakerdeck.com/akihisaikeda/introduction-to-iac-in-the-ai-era</link>
+        <dc:date>2026-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>BSVによるSpace_Invadersの再設計_俺の勉強会LT (桜井　厚)</title>
         <link>https://www.docswell.com/s/sakurai/Z1Q8M2-2026-10-19-093119</link>
         <dc:date>2026-10-29T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Checking deployed ECH keys with Ruby (thekuwayama)</title>
         <link>https://speakerdeck.com/thekuwayama/checking-deployed-ech-keys-with-ruby</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Cloudflare Workersに非公開のWebアプリをデプロイする (iwami_r)</title>
-        <link>https://speakerdeck.com/iwami_r/cloudflare-workers-ni-hikoukai-no-web-o-suru</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
