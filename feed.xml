@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIがコードを書く時代に、OSSメンテナは何をしているのか</title>
+        <link>https://docs.google.com/presentation/d/e/2PACX-1vRt9RA7iDvpqngE9TWosb1ck2HX04Kurw5f3JLkuaVOJvD_JE7CvwZ78VAriPsVBG8z1QCYWh_qtPWo/pub</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>E2Eってつらくないですか？E2Eの管理コストを下げる手段とその実践 (Kosei Akaboshi (akaboshinit))</title>
+        <link>https://speakerdeck.com/akaboshinit/e2e-tte-tsurakunaidesu-ka-e2e-no-kanri-kosuto-o-sageru-shudan-to-sono-jissen</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「PR数は意味をなさなくなった」は本当か (Takafumi Omuro)</title>
         <link>https://speakerdeck.com/tomuro/pr-kazu-ha-imi-o-nasanaku-nata-ha-hontou-ka</link>
         <dc:date>2026-10-28T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>2026-10-28 ChatからAgentへの道程 (Ichiro Suzuki)</title>
         <link>https://speakerdeck.com/chollo/2026-10-28-chat-kara-agent-heno-doutei</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>re:Invent事前勉強会2026資料 (山下光洋,@yamamanx)</title>
-        <link>https://www.docswell.com/s/yamamugi/52768N-reinvent2026jizentokyo</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>これだけは抑えておきたい！後悔しない re:Invent の過ごし方 / AWS re:Invent 2026 prestudy (Masanori Yamaguchi)</title>
-        <link>https://speakerdeck.com/kinunori/aws-re-invent-2026-prestudy</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
