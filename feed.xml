@@ -6,6 +6,61 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「PR数は意味をなさなくなった」は本当か (Takafumi Omuro)</title>
+        <link>https://speakerdeck.com/tomuro/pr-kazu-ha-imi-o-nasanaku-nata-ha-hontou-ka</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI Search (Foundry IQ) におけるRAGデータの準備と配置 (Ryoma Nagata)</title>
+        <link>https://speakerdeck.com/ryomaru0825/ai-search-foundry-iq-niokeru-rag-deta-no-junbi-to-haichi</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>OneLakeをデータソースにした AI Search（Foundry IQ）の ライフサイクル管理 (Ryusei Iida)</title>
+        <link>https://speakerdeck.com/ryuseiiida/onelake-o-deta-sosu-ni-shita-ai-search-foundry-iq-no-raifusaikuru-kanri</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>kintone のリモート MCP サーバーを作ってみた (▢い芸人,@_katsumi)</title>
+        <link>https://www.docswell.com/s/mobilebiz/5MQPVX-2026-10-29-devkin-meetup</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SwiftUIのTabViewをループ可能に！ (Ockey,@_ockey_)</title>
+        <link>https://www.docswell.com/s/Ockey/K7N8E7-LoopableTabView</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>ファイル共有の実装方法と落とし穴 (Kazuki Akiya)</title>
+        <link>https://www.docswell.com/s/Tengu712/58N31X-2026-10-29-140816</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>EventBridge入門 〜開発未経験・AWS初心者がイベント駆動を理解してみる〜 (inori)</title>
+        <link>https://speakerdeck.com/inorinori/eventbridge-nyuumon-kaihatsu-mikeiken-aws-shoshinsha-ga-ibento-kudou-o-rikai-shi-te-miru</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>推論基盤と Scale-Up Interconnect の現状と制約から俯瞰する技術動向 (Masayuki Kobayashi)</title>
+        <link>https://speakerdeck.com/markunet/suiron-kiban-to-scale-up-interconnect-no-genjou-to-seiyaku-kara-fukan-suru-gijutsu-doukou</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>『塊魂モバイル』のすごいところ (しゅういちろ)</title>
+        <link>https://speakerdeck.com/shucho0103/katamari-tamashii-mobairu-no-sugoi-tokoro</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>カンファレンス懇親会の楽しみ方 ぼっちになっても、割と楽しい/ #tachikawaany (Ichiro Nishiuma)</title>
+        <link>https://speakerdeck.com/nishiuma/tachikawaany3</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>2拠点SRE活動始めてみた | sogaoh's LT @ ホンマでっかSRE勉強会 #3 (Hisashi SOGA)</title>
+        <link>https://speakerdeck.com/sogaoh/20261029-honmadekkasre-lt</link>
+        <dc:date>2026-10-28T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIが生成したコードは読むべきか？抽象化設計とコードの品質保証 / abstraction-design-and-quality (MinoDriven)</title>
         <link>https://speakerdeck.com/minodriven/abstraction-design-and-quality</link>
         <dc:date>2026-10-28T15:00:00Z</dc:date>
@@ -48,61 +103,6 @@
     <item>
         <title>これだけは抑えておきたい！後悔しない re:Invent の過ごし方 / AWS re:Invent 2026 prestudy (Masanori Yamaguchi)</title>
         <link>https://speakerdeck.com/kinunori/aws-re-invent-2026-prestudy</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>reInvent2026stby LT00 "Change your life!" (Shinichiro Kawano)</title>
-        <link>https://speakerdeck.com/shinichirokawano/reinvent2026stby-lt00-change-your-life</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[re:Invent2026事前勉強会(有志開催)]続きは、ラスベガスの廊下で / continue-in-the-vegas-hallway (sh_fk2)</title>
-        <link>https://speakerdeck.com/sh_fk2/continue-in-the-vegas-hallway</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ラスベガスで道民会を実施してる話。あとヌードルアジア。 (Kazuki Miura)</title>
-        <link>https://speakerdeck.com/miu_crescent/rasubegasu-de-douminkai-o-jisshi-shi-teru-hanashi-ato-nudoru-ajia</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>渡米前の準備を制す！re:Invent 2026徹底準備術 / The Ultimate Preparation Guide for re:Invent 2026 (Yuji Oshima)</title>
-        <link>https://speakerdeck.com/yuj1osm/the-ultimate-preparation-guide-for-re-invent-2026</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>re:Inventを支えるユーザーコミュニティ (awsj communty program manager - Shigeru Numaguchi)</title>
-        <link>https://speakerdeck.com/awsjcpm/re-invent-o-sasaeru-yuza-komyuniti</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026-10-28 Jagu'e'r月末 Tech Lunch Online#18 - Google Cloud を語る！ Cloud Run のプロビジョニングとデプロイの隙間を埋める - tfstate との連携 / Cloud Run Deploy and Provisioning (SUZUKI Masashi)</title>
-        <link>https://speakerdeck.com/masasuzu/cloud-run-deploy-and-provisioning</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>バッチで安く、A/Bで確かめ、動的ルーティングで届ける Google Cloudで実現するLLM選定戦略 (Shu Kobuchi)</title>
-        <link>https://speakerdeck.com/shukob/google-cloud-llm-routing-strategy</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>漸進的過負荷の原則 (SansanTech)</title>
-        <link>https://speakerdeck.com/sansantech/20260123</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIがコードを書いてくれる時代、我々は何を確かめるのか (Yosuke Furukawa)</title>
-        <link>https://speakerdeck.com/yosuke_furukawa/ai-ga-kodo-o-kai-te-kureru-jidai-wareware-ha-nani-o-tashikameru-no-ka</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIで選択肢が広がった組織設計の理想と現実 (konifar)</title>
-        <link>https://speakerdeck.com/konifar/ai-de-sentakushi-ga-hirogata-soshiki-sekkei-no-risou-to-genjitsu</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>全社エージェント活用を加速するメルカリのAIセキュリティ&amp;ガバナンス実践 (Hi120ki)</title>
-        <link>https://speakerdeck.com/hi120ki/mercari-ai-security-conference-2026</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
