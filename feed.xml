@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>BSVによるSpace_Invadersの再設計_俺の勉強会LT (桜井　厚)</title>
+        <link>https://www.docswell.com/s/sakurai/Z1Q8M2-2026-10-19-093119</link>
+        <dc:date>2026-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIがコードを書く時代に、OSSメンテナは何をしているのか</title>
         <link>https://docs.google.com/presentation/d/e/2PACX-1vRt9RA7iDvpqngE9TWosb1ck2HX04Kurw5f3JLkuaVOJvD_JE7CvwZ78VAriPsVBG8z1QCYWh_qtPWo/pub</link>
         <dc:date>2026-10-28T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Cloudflare Workersに非公開のWebアプリをデプロイする (iwami_r)</title>
         <link>https://speakerdeck.com/iwami_r/cloudflare-workers-ni-hikoukai-no-web-o-suru</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026-10-28 ChatからAgentへの道程 (Ichiro Suzuki)</title>
-        <link>https://speakerdeck.com/chollo/2026-10-28-chat-kara-agent-heno-doutei</link>
         <dc:date>2026-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
