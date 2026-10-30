@@ -6,6 +6,41 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>人工生命 #7 互恵性 (たけ,@logta15)</title>
+        <link>https://www.docswell.com/s/take/Z9NQML-2026-10-30-174018</link>
+        <dc:date>2026-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>re:Invent 2026事前勉強会の資料(GBH) (山下光洋,@yamamanx)</title>
+        <link>https://www.docswell.com/s/yamamugi/Z276QV-reinvent2026jizenshinjuku</link>
+        <dc:date>2026-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>re:Inventで、人生は変わったのか？ / growth-builders-hub-1-reinvent-2026 (株式会社みずほ銀⾏ 情報数理⼯学研究所 デジタル技術開発部)</title>
+        <link>https://speakerdeck.com/mhrtech/growth-builders-hub-1-reinvent-2026</link>
+        <dc:date>2026-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>re:Inforceがなくなった最初の年のre:Inventで注目すべきAWSのセキュリティについて (平木佳介)</title>
+        <link>https://speakerdeck.com/khiraki/re-inforce-ga-nakunata-saisho-no-toshi-no-re-invent-de-chuumoku-subeki-aws-no-sekyuriti-nitsuite</link>
+        <dc:date>2026-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>re:Invent の去年のスケジュールを公開します！ (Kazuki Miura)</title>
+        <link>https://speakerdeck.com/miu_crescent/re-invent-no-kyonen-no-sukejuru-o-koukai-shimasu</link>
+        <dc:date>2026-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>SVG だけで Web サイトを作ってみた話 / 20261030-niigata-5min-tech (girigiribauer)</title>
+        <link>https://speakerdeck.com/girigiribauer/20261030-niigata-5min-tech</link>
+        <dc:date>2026-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Technical Project Manager の役割とやりがい、少しだけ AI (Ryo Yoshii)</title>
+        <link>https://speakerdeck.com/yoshiiryo1/technical-project-manager-no-yakuwari-to-yarigai-sukoshi-dake-ai</link>
+        <dc:date>2026-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>WebアプリでもインフラでもAIエージェントでも大事なのはログ！ (くらっち)</title>
         <link>https://speakerdeck.com/kuracchi_enj1/web-demo-infura-demo-ai-ejento-demo-daijina-no-ha-rogu</link>
         <dc:date>2026-10-29T15:00:00Z</dc:date>
@@ -68,41 +103,6 @@
     <item>
         <title>ファイル共有の実装方法と落とし穴 (Kazuki Akiya)</title>
         <link>https://www.docswell.com/s/Tengu712/58N31X-2026-10-29-140816</link>
-        <dc:date>2026-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>EventBridge入門 〜開発未経験・AWS初心者がイベント駆動を理解してみる〜 (inori)</title>
-        <link>https://speakerdeck.com/inorinori/eventbridge-nyuumon-kaihatsu-mikeiken-aws-shoshinsha-ga-ibento-kudou-o-rikai-shi-te-miru</link>
-        <dc:date>2026-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>推論基盤と Scale-Up Interconnect の現状と制約から俯瞰する技術動向 (Masayuki Kobayashi)</title>
-        <link>https://speakerdeck.com/markunet/suiron-kiban-to-scale-up-interconnect-no-genjou-to-seiyaku-kara-fukan-suru-gijutsu-doukou</link>
-        <dc:date>2026-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>『塊魂モバイル』のすごいところ (しゅういちろ)</title>
-        <link>https://speakerdeck.com/shucho0103/katamari-tamashii-mobairu-no-sugoi-tokoro</link>
-        <dc:date>2026-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>カンファレンス懇親会の楽しみ方 ぼっちになっても、割と楽しい/ #tachikawaany (Ichiro Nishiuma)</title>
-        <link>https://speakerdeck.com/nishiuma/tachikawaany3</link>
-        <dc:date>2026-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2拠点SRE活動始めてみた | sogaoh's LT @ ホンマでっかSRE勉強会 #3 (Hisashi SOGA)</title>
-        <link>https://speakerdeck.com/sogaoh/20261029-honmadekkasre-lt</link>
-        <dc:date>2026-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIが生成したコードは読むべきか？抽象化設計とコードの品質保証 / abstraction-design-and-quality (MinoDriven)</title>
-        <link>https://speakerdeck.com/minodriven/abstraction-design-and-quality</link>
-        <dc:date>2026-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ひとりで始めた AI駆動開発、チームに広げて何が変わったのか (Kenichi Odo)</title>
-        <link>https://speakerdeck.com/kenichiodo/hitori-de-hajimeta-ai-kudou-kaihatsu-chimu-ni-hiroge-te-nani-ga-kawata-no-ka</link>
         <dc:date>2026-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
