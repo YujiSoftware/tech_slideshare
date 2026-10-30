@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>生き様としてのSRE (Yutaro Sugai)</title>
+        <link>https://speakerdeck.com/hokkai7go/ikisama-toshiteno-sre</link>
+        <dc:date>2026-10-29T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>You Have Agency（サンキュー、Ruby） (Koji SHIMADA)</title>
         <link>https://speakerdeck.com/snoozer05/you-have-agency</link>
         <dc:date>2026-10-29T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>AI時代のシニアエンジニアとは (Yosuke Furukawa)</title>
         <link>https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha</link>
         <dc:date>2026-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Ruby から Emacs を操作したい (phigasui)</title>
-        <link>https://speakerdeck.com/phigasui/ruby-kara-emacs-o-sousa-shitai</link>
-        <dc:date>2026-10-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
