@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>具体と抽象を往復するエンジニアリング (miso_taku,@miso_taku0221)</title>
+        <link>https://www.docswell.com/s/miso_taku/Z7N847-2026-10-30-195525</link>
+        <dc:date>2026-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>幾何学的深層学習入門 ～３次元構造と対称性を学習するニューラルネットワーク～ (Tatsunori Taniai)</title>
+        <link>https://speakerdeck.com/taniai/kikagakuteki-shinsou-gakushuu-nyuumon-jigen-kouzou-to-taishousei-o-gakushuu-suru</link>
+        <dc:date>2026-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>人工生命 #7 互恵性 (たけ,@logta15)</title>
         <link>https://www.docswell.com/s/take/Z9NQML-2026-10-30-174018</link>
         <dc:date>2026-10-29T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>kintone のリモート MCP サーバーを作ってみた (▢い芸人,@_katsumi)</title>
         <link>https://www.docswell.com/s/mobilebiz/5MQPVX-2026-10-29-devkin-meetup</link>
-        <dc:date>2026-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SwiftUIのTabViewをループ可能に！ (Ockey,@_ockey_)</title>
-        <link>https://www.docswell.com/s/Ockey/K7N8E7-LoopableTabView</link>
-        <dc:date>2026-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ファイル共有の実装方法と落とし穴 (Kazuki Akiya)</title>
-        <link>https://www.docswell.com/s/Tengu712/58N31X-2026-10-29-140816</link>
         <dc:date>2026-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
