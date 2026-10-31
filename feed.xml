@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>日本語入力システム(IME)の為のコーパス作り</title>
+        <link>https://docs.google.com/presentation/d/1r7gOc1_dd4efKwusHpDnRbF28NeIaGeoRnHtQOfM1As/preview</link>
+        <dc:date>2026-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>1週間、Opus封印でお願いします (KintoTech_Dev)</title>
         <link>https://speakerdeck.com/kintotechdev/1-shuukan-opus-fuuin-de-onegai-shimasu</link>
         <dc:date>2026-10-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI Search (Foundry IQ) におけるRAGデータの準備と配置 (Ryoma Nagata)</title>
         <link>https://speakerdeck.com/ryomaru0825/ai-search-foundry-iq-niokeru-rag-deta-no-junbi-to-haichi</link>
-        <dc:date>2026-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>OneLakeをデータソースにした AI Search（Foundry IQ）の ライフサイクル管理 (Ryusei Iida)</title>
-        <link>https://speakerdeck.com/ryuseiiida/onelake-o-deta-sosu-ni-shita-ai-search-foundry-iq-no-raifusaikuru-kanri</link>
         <dc:date>2026-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
