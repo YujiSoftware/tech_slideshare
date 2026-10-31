@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claudeで位置情報を触ってみる (nokonoko1203)</title>
+        <link>https://speakerdeck.com/nokonoko1203/claude-de-ichi-jouhou-o-sawa-te-miru</link>
+        <dc:date>2026-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>日本語入力システム(IME)の為のコーパス作り</title>
         <link>https://docs.google.com/presentation/d/1r7gOc1_dd4efKwusHpDnRbF28NeIaGeoRnHtQOfM1As/preview</link>
         <dc:date>2026-10-30T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>「PR数は意味をなさなくなった」は本当か (Takafumi Omuro)</title>
         <link>https://speakerdeck.com/tomuro/pr-kazu-ha-imi-o-nasanaku-nata-ha-hontou-ka</link>
-        <dc:date>2026-10-28T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI Search (Foundry IQ) におけるRAGデータの準備と配置 (Ryoma Nagata)</title>
-        <link>https://speakerdeck.com/ryomaru0825/ai-search-foundry-iq-niokeru-rag-deta-no-junbi-to-haichi</link>
         <dc:date>2026-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
