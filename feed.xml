@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>新米を「売り越さない」、Aurora DSQLで作る在庫ゼロ死守の限定ドロップEC (Yuuki Yamashita)</title>
+        <link>https://speakerdeck.com/yama3133/shinmai-o-uri-kosanai-aurora-dsql-de-tsukuru-zaiko-zero-shishu-no-gentei-doroppu-ec</link>
+        <dc:date>2026-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Devfest Okayama 2026 - ADKとAntigravityで 自分だけのAIアシスタントを作ろう！</title>
+        <link>https://docs.google.com/presentation/d/1l0OC9cj28bGLnGj2O-_Ar8mWbWEgFJbBMqiYIBHAtXg/preview</link>
+        <dc:date>2026-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Claude Codeの接続先を選ぶ (西岡 賢一郎 (Kenichiro Nishioka))</title>
+        <link>https://speakerdeck.com/knishioka/claude-code-no-setsuzokusaki-o-erabu</link>
+        <dc:date>2026-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プロジェクトに伴走する  Agent を Slack に置く (熊懐葵)</title>
+        <link>https://speakerdeck.com/aoikumadaki/purojekuto-ni-bansou-suru-agent-o-slack-ni-oku</link>
+        <dc:date>2026-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Vibe CodingでローカルLLM搭載スマホアプリを作ろう！</title>
+        <link>https://docs.google.com/presentation/d/1BozB4m9HLbkJpjV1VBBddDXJq2zbzpQ--Wm1BMIlNKA/preview</link>
+        <dc:date>2026-10-30T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>視野はAIに、視座は人に  / ai-for-breadth-humans-for-perspective (Yukiya Nakagawa)</title>
         <link>https://speakerdeck.com/nkzn/ai-for-breadth-humans-for-perspective</link>
         <dc:date>2026-10-30T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>WebアプリでもインフラでもAIエージェントでも大事なのはログ！ (くらっち)</title>
         <link>https://speakerdeck.com/kuracchi_enj1/web-demo-infura-demo-ai-ejento-demo-daijina-no-ha-rogu</link>
         <dc:date>2026-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生き様としてのSRE (Yutaro Sugai)</title>
-        <link>https://speakerdeck.com/hokkai7go/ikisama-toshiteno-sre</link>
-        <dc:date>2026-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>You Have Agency（サンキュー、Ruby） (Koji SHIMADA)</title>
-        <link>https://speakerdeck.com/snoozer05/you-have-agency</link>
-        <dc:date>2026-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代のIaC入門 〜なぜインフラをコードで管理したいのか？〜 / Introduction to IaC in the AI Era (アキキー | Akihisa Ikeda)</title>
-        <link>https://speakerdeck.com/akihisaikeda/introduction-to-iac-in-the-ai-era</link>
-        <dc:date>2026-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>BSVによるSpace_Invadersの再設計_俺の勉強会LT (桜井　厚)</title>
-        <link>https://www.docswell.com/s/sakurai/Z1Q8M2-2026-10-19-093119</link>
-        <dc:date>2026-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIがコードを書く時代に、OSSメンテナは何をしているのか</title>
-        <link>https://docs.google.com/presentation/d/e/2PACX-1vRt9RA7iDvpqngE9TWosb1ck2HX04Kurw5f3JLkuaVOJvD_JE7CvwZ78VAriPsVBG8z1QCYWh_qtPWo/pub</link>
-        <dc:date>2026-10-28T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
