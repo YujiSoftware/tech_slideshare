@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20261101GISA-FOSS4G (Toshikazu SETO)</title>
+        <link>https://speakerdeck.com/tosseto/20261101gisa-foss4g</link>
+        <dc:date>2026-10-31T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Growing PicoRuby's Ecosystem on ESP32 (Y_uuu)</title>
         <link>https://speakerdeck.com/yuuu/growing-picorubys-ecosystem-on-esp32</link>
         <dc:date>2026-10-31T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>re:Inventで、人生は変わったのか？ / growth-builders-hub-1-reinvent-2026 (株式会社みずほ銀⾏ 情報数理⼯学研究所 デジタル技術開発部)</title>
         <link>https://speakerdeck.com/mhrtech/growth-builders-hub-1-reinvent-2026</link>
-        <dc:date>2026-10-29T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>re:Inforceがなくなった最初の年のre:Inventで注目すべきAWSのセキュリティについて (平木佳介)</title>
-        <link>https://speakerdeck.com/khiraki/re-inforce-ga-nakunata-saisho-no-toshi-no-re-invent-de-chuumoku-subeki-aws-no-sekyuriti-nitsuite</link>
         <dc:date>2026-10-29T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
