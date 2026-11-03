@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>慶應義塾大学 AI実践05 論文執筆の仕組み化 (Semantic Machine Intelligence Lab., Keio Univ.)</title>
+        <link>https://speakerdeck.com/keio_smilab/ai-in-practice-05-systematizing-ai-research-writing</link>
+        <dc:date>2026-11-03T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>llm-d に入門してみた / Try out llm-d (kota2and3kan)</title>
         <link>https://speakerdeck.com/kota2and3kan/try-out-llm-d</link>
         <dc:date>2026-11-01T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Claudeで位置情報を触ってみる (nokonoko1203)</title>
         <link>https://speakerdeck.com/nokonoko1203/claude-de-ichi-jouhou-o-sawa-te-miru</link>
-        <dc:date>2026-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>日本語入力システム(IME)の為のコーパス作り</title>
-        <link>https://docs.google.com/presentation/d/1r7gOc1_dd4efKwusHpDnRbF28NeIaGeoRnHtQOfM1As/preview</link>
         <dc:date>2026-10-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
