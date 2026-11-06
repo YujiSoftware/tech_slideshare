@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>デザインハーネスはじめの一歩 (Satty)</title>
+        <link>https://speakerdeck.com/satty9556/dezain-hanesu-hajime-no-ichiho</link>
+        <dc:date>2026-11-05T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>とにかくエージェントにSQLを書かせたい</title>
         <link>https://docs.google.com/presentation/d/1i2zdjLzTs4EImUt0L_gVXbURbevqtylpOnt4JNAJ_BQ/preview</link>
         <dc:date>2026-11-04T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>新米を「売り越さない」、Aurora DSQLで作る在庫ゼロ死守の限定ドロップEC (Yuuki Yamashita)</title>
         <link>https://speakerdeck.com/yama3133/shinmai-o-uri-kosanai-aurora-dsql-de-tsukuru-zaiko-zero-shishu-no-gentei-doroppu-ec</link>
-        <dc:date>2026-10-30T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Devfest Okayama 2026 - ADKとAntigravityで 自分だけのAIアシスタントを作ろう！</title>
-        <link>https://docs.google.com/presentation/d/1l0OC9cj28bGLnGj2O-_Ar8mWbWEgFJbBMqiYIBHAtXg/preview</link>
         <dc:date>2026-10-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
