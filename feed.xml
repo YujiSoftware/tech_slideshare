@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Active Directory と Entra ID のむむむな関係 (Murachi Akira)</title>
+        <link>https://speakerdeck.com/murachiakira/entraidandaddc-20261106</link>
+        <dc:date>2026-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>デザインハーネスはじめの一歩 (Satty)</title>
         <link>https://speakerdeck.com/satty9556/dezain-hanesu-hajime-no-ichiho</link>
         <dc:date>2026-11-05T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>「まず自分が背中を見せる」から始まった ──「打席に立ち続ける」ことで技を磨き、縁を結ぶということ (Natty | なってぃ)</title>
         <link>https://speakerdeck.com/natty_natty254/mazu-jibun-ga-senaka-o-miseru-kara-hajimata-daseki-ni-tachi-tsuzukeru-koto-de-waza-o-migaki-en-o-musubu-toiu-koto</link>
         <dc:date>2026-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>新米を「売り越さない」、Aurora DSQLで作る在庫ゼロ死守の限定ドロップEC (Yuuki Yamashita)</title>
-        <link>https://speakerdeck.com/yama3133/shinmai-o-uri-kosanai-aurora-dsql-de-tsukuru-zaiko-zero-shishu-no-gentei-doroppu-ec</link>
-        <dc:date>2026-10-30T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
