@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>パブリックサブネットを持たない Web配信基盤の現在地 (Ryo Suzuki,@suzryo)</title>
+        <link>https://www.docswell.com/s/suzryo/KDMX88-2026-11-07-160134</link>
+        <dc:date>2026-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>生成AI時代のIAMのマニアックな話 (Takuro SASAKI)</title>
         <link>https://speakerdeck.com/takuros/jaws-festa-2026-public</link>
         <dc:date>2026-11-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Growing PicoRuby's Ecosystem on ESP32 (Y_uuu)</title>
         <link>https://speakerdeck.com/yuuu/growing-picorubys-ecosystem-on-esp32</link>
-        <dc:date>2026-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>勉強会の懇親会が苦手な人も楽しめる場をつくりたい (uutan1108)</title>
-        <link>https://speakerdeck.com/ohmori_yusuke/benkyoukai-no-konshinkai-ga-nigatena-hito-mo-tanoshimeru-ba-o-tsukuritai</link>
         <dc:date>2026-10-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
