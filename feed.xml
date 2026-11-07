@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代に求められる優秀なTechLeadの振る舞い (pospome)</title>
+        <link>https://speakerdeck.com/pospome/ai-jidai-ni-motomerareru-yuushuuna-techlead-no-furumai-2</link>
+        <dc:date>2026-11-06T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Microsoft Entra Kerberos で実現するクラウド デバイス管理 (tamaiyutaro)</title>
         <link>https://speakerdeck.com/tamaiyutaro/microsoft-entra-kerberos-de-jitsugen-suru-kura-udo-debaisu-kanri</link>
         <dc:date>2026-11-06T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>増え続けるプロダクトの品質をどう担保するか。ProductSpecとTypeScriptによる取り組み (joe_re)</title>
         <link>https://speakerdeck.com/joere/fue-tsuzukeru-purodakuto-no-hinshitsu-o-dou-tanpo-suru-ka-productspec-to-typescript-niyoru-torikumi</link>
-        <dc:date>2026-10-31T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>20261101GISA-FOSS4G (Toshikazu SETO)</title>
-        <link>https://speakerdeck.com/tosseto/20261101gisa-foss4g</link>
         <dc:date>2026-10-31T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
