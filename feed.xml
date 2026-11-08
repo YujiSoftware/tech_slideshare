@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サボる子はいねぇがー！AgentCoreハーネスの脆弱性に学ぶ、エージェントの入力バリデーション (iwamot)</title>
+        <link>https://speakerdeck.com/iwamot/ai-agents-need-input-validation</link>
+        <dc:date>2026-11-07T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSを利用する上で知っておきたい名前解決の話 2026 (nagisa_53)</title>
         <link>https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026</link>
         <dc:date>2026-11-07T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>コードレビューをなくして見えたもの (henteko)</title>
         <link>https://speakerdeck.com/henteko/kodo-rebyu-o-nakushi-te-mieta-mono</link>
-        <dc:date>2026-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SharePoint リストを、Power Automate フローが動き出す操作盤にしよう (Haru｜Microsoft認定トレーナー(MCT)・PowerAutomate,@isamu_Automate)</title>
-        <link>https://www.docswell.com/s/isamu_Automate170/KE1DQD-2026-11-01-153912</link>
         <dc:date>2026-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
