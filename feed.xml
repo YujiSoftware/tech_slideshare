@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Bun - Seed Deck</title>
+        <link>https://docs.google.com/presentation/d/1QX8GisBdDq-JeGVItYgE329FFhYhVz_4OzckzZfOwuI/preview</link>
+        <dc:date>2026-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI時代の組織作り：チーム開発から「個人×AI」への移行と、持続可能な「開発資本」の築き方 (ham)</title>
+        <link>https://speakerdeck.com/ham0215/20261030-ai-jidai-no-soshikizukuri-chimu-kaihatsu-kara-kojin-ai-heno-ikou-to-jizoku-kanouna-kaihatsu-shihon-no-kizukikata</link>
+        <dc:date>2026-11-08T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>サボる子はいねぇがー！AgentCoreハーネスの脆弱性に学ぶ、エージェントの入力バリデーション (iwamot)</title>
         <link>https://speakerdeck.com/iwamot/ai-agents-need-input-validation</link>
         <dc:date>2026-11-07T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AI-DLC v2 紹介 Specの次は、開発プロセスごとAIへ (kato83)</title>
         <link>https://speakerdeck.com/kato83/ai-dlc-v2-shoukai-spec-no-tsugi-ha-kaihatsu-purosesugoto-ai-he</link>
-        <dc:date>2026-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現役ITエンジニアが語る、好きな仕事を選べる自分になる方法 (小島 優介,@kojimadev)</title>
-        <link>https://www.docswell.com/s/kojimadev/ZMQP98-2026-11-02-124331</link>
-        <dc:date>2026-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>コードレビューをなくして見えたもの (henteko)</title>
-        <link>https://speakerdeck.com/henteko/kodo-rebyu-o-nakushi-te-mieta-mono</link>
         <dc:date>2026-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
