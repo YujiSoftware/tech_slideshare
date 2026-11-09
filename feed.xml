@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Go における Gra ceful Shutdown とハマりどころ (ogidow)</title>
+        <link>https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown</link>
+        <dc:date>2026-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>並列度を下げたら速くなった — go build の重複コンパイルを実測で見る (Tomoaki)</title>
+        <link>https://speakerdeck.com/tomoaki25/slides-cd95d381-a27b-4a9a-8b53-0abd69397a1b</link>
+        <dc:date>2026-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Bun - Seed Deck</title>
         <link>https://docs.google.com/presentation/d/1QX8GisBdDq-JeGVItYgE329FFhYhVz_4OzckzZfOwuI/preview</link>
         <dc:date>2026-11-08T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>慶應義塾大学 AI実践05 論文執筆の仕組み化 (Semantic Machine Intelligence Lab., Keio Univ.)</title>
         <link>https://speakerdeck.com/keio_smilab/ai-in-practice-05-systematizing-ai-research-writing</link>
         <dc:date>2026-11-03T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>llm-d に入門してみた / Try out llm-d (kota2and3kan)</title>
-        <link>https://speakerdeck.com/kota2and3kan/try-out-llm-d</link>
-        <dc:date>2026-11-01T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI-DLC v2 紹介 Specの次は、開発プロセスごとAIへ (kato83)</title>
-        <link>https://speakerdeck.com/kato83/ai-dlc-v2-shoukai-spec-no-tsugi-ha-kaihatsu-purosesugoto-ai-he</link>
-        <dc:date>2026-11-01T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
