@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Claude Code ハーネス Deep Dive – 君はどこまで制御する？ - (Kenji Takatani)</title>
+        <link>https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive</link>
+        <dc:date>2026-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIと始める監視基盤なしの セキュリティ監視 / secmon-without-a-siem (Masayoshi Mizutani)</title>
         <link>https://speakerdeck.com/mizutani/ai-to-hajimeru-kanshi-kiban-nashi-no-sekyuriti-kanshi-2</link>
         <dc:date>2026-11-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>続・ソフトウェアアーキテクトのための意思決定術:  Decision Readiness, Revisited — When AI Changes the Economics of Software Architecture (Koji SHIMADA)</title>
         <link>https://speakerdeck.com/snoozer05/decision-readiness-revisited</link>
-        <dc:date>2026-11-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI時代のエンジニアの情報発信〜個人の発信を組織の力に変える〜 (かわまた)</title>
-        <link>https://speakerdeck.com/ryo_kawamata/ai-jidai-no-enjinia-no-jouhou-hasshin-kojin-no-hasshin-o-soshiki-no-chikara-ni-kaeru</link>
         <dc:date>2026-11-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
