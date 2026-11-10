@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIと始める監視基盤なしの セキュリティ監視 / secmon-without-a-siem (Masayoshi Mizutani)</title>
+        <link>https://speakerdeck.com/mizutani/ai-to-hajimeru-kanshi-kiban-nashi-no-sekyuriti-kanshi-2</link>
+        <dc:date>2026-11-09T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>属人化したISMS運用をGitHubとAIで仕組み化した1年間の記録 (Shohei Koyama / Sion)</title>
         <link>https://speakerdeck.com/sioncojp/zokujinka-shita-isms-unyou-o-github-to-ai-de-shikumika-shita-1-nenkan-no-kiroku</link>
         <dc:date>2026-11-09T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI時代のエンジニアの情報発信〜個人の発信を組織の力に変える〜 (かわまた)</title>
         <link>https://speakerdeck.com/ryo_kawamata/ai-jidai-no-enjinia-no-jouhou-hasshin-kojin-no-hasshin-o-soshiki-no-chikara-ni-kaeru</link>
-        <dc:date>2026-11-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Copilot Coworkで「みのるん式」やってみた (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/copilot-cowork-minoru-nshiki</link>
         <dc:date>2026-11-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
