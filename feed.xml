@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>セキュリティ専任チームなしで攻撃を先回りするSREが実践したSIEM on Amazon OpenSearch Service (サイバーセキュリティクラウド)</title>
+        <link>https://speakerdeck.com/cscengineer/siem-on-opensearch-without-security-team</link>
+        <dc:date>2026-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>PostgreSQL オプティマイザ統計の秘密 (Noriyoshi Shinoda)</title>
         <link>https://speakerdeck.com/nori_shinoda/shiryou-cm2-postgresql-optimizer-stats-20261103-1</link>
         <dc:date>2026-11-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>習慣化するための技術 / Techniques for Habit Formation (Ryusei Ohkura)</title>
         <link>https://speakerdeck.com/3l4l5/techniques-for-habit-formation</link>
-        <dc:date>2026-11-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PR投げたらClaudeがレビューしてくれる仕組みを作ってみた (くらっち)</title>
-        <link>https://speakerdeck.com/kuracchi_enj1/yokohama-north-meetup-18</link>
         <dc:date>2026-11-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
