@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>SREのためのFinOps入門 (Masahiro Yoshizawa)</title>
+        <link>https://speakerdeck.com/muziyoshiz/introduction-to-finops-for-sres</link>
+        <dc:date>2026-11-10T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>セキュリティ専任チームなしで攻撃を先回りするSREが実践したSIEM on Amazon OpenSearch Service (サイバーセキュリティクラウド)</title>
         <link>https://speakerdeck.com/cscengineer/siem-on-opensearch-without-security-team</link>
         <dc:date>2026-11-10T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>とにかくエージェントにSQLを書かせたい</title>
         <link>https://docs.google.com/presentation/d/1i2zdjLzTs4EImUt0L_gVXbURbevqtylpOnt4JNAJ_BQ/preview</link>
-        <dc:date>2026-11-04T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>習慣化するための技術 / Techniques for Habit Formation (Ryusei Ohkura)</title>
-        <link>https://speakerdeck.com/3l4l5/techniques-for-habit-formation</link>
         <dc:date>2026-11-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
