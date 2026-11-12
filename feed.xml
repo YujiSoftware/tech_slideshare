@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20261024_スクラム祭り三島 (hikari)</title>
+        <link>https://speakerdeck.com/kgnkhkr/20261024-sukuramu-matsuri-mishima</link>
+        <dc:date>2026-11-11T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>SREのためのFinOps入門 (Masahiro Yoshizawa)</title>
         <link>https://speakerdeck.com/muziyoshiz/introduction-to-finops-for-sres</link>
         <dc:date>2026-11-10T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>デザインハーネスはじめの一歩 (Satty)</title>
         <link>https://speakerdeck.com/satty9556/dezain-hanesu-hajime-no-ichiho</link>
         <dc:date>2026-11-05T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>とにかくエージェントにSQLを書かせたい</title>
-        <link>https://docs.google.com/presentation/d/1i2zdjLzTs4EImUt0L_gVXbURbevqtylpOnt4JNAJ_BQ/preview</link>
-        <dc:date>2026-11-04T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
