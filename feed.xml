@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Linuxネットワークスタック進化の軌跡: 過去10年の歩みと最新トレンド (orimanabu)</title>
+        <link>https://speakerdeck.com/orimanabu/onic2026-linux-kernel-networking</link>
+        <dc:date>2026-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Datadog AAP に 攻撃を見張ってもらうという選択 (hirosi1900day)</title>
+        <link>https://speakerdeck.com/hirosi1900day/datadog-ibento-pptx-1</link>
+        <dc:date>2026-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リテールメディアを支えるデータ基盤の現在と未来のお話 in Tokyo dbt Meetup #22 (Kazuya Araki,@kazuya_araki_jp)</title>
         <link>https://www.docswell.com/s/kazuya_araki_jp/ZDMXLW-2026-11-11-tokyo-dbt-meetup-22</link>
         <dc:date>2026-11-11T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>Microsoft Entra Kerberos で実現するクラウド デバイス管理 (tamaiyutaro)</title>
         <link>https://speakerdeck.com/tamaiyutaro/microsoft-entra-kerberos-de-jitsugen-suru-kura-udo-debaisu-kanri</link>
-        <dc:date>2026-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>パブリックサブネットを持たない Web配信基盤の現在地 (Ryo Suzuki,@suzryo)</title>
-        <link>https://www.docswell.com/s/suzryo/KDMX88-2026-11-07-160134</link>
-        <dc:date>2026-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AI時代のIAMのマニアックな話 (Takuro SASAKI)</title>
-        <link>https://speakerdeck.com/takuros/jaws-festa-2026-public</link>
         <dc:date>2026-11-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
