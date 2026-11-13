@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ぼくのClaude Codeの使い方 (Michael Tedder)</title>
+        <link>https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata</link>
+        <dc:date>2026-11-12T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Linuxネットワークスタック進化の軌跡: 過去10年の歩みと最新トレンド (orimanabu)</title>
         <link>https://speakerdeck.com/orimanabu/onic2026-linux-kernel-networking</link>
         <dc:date>2026-11-12T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI時代に求められる優秀なTechLeadの振る舞い (pospome)</title>
         <link>https://speakerdeck.com/pospome/ai-jidai-ni-motomerareru-yuushuuna-techlead-no-furumai-2</link>
-        <dc:date>2026-11-06T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Entra Kerberos で実現するクラウド デバイス管理 (tamaiyutaro)</title>
-        <link>https://speakerdeck.com/tamaiyutaro/microsoft-entra-kerberos-de-jitsugen-suru-kura-udo-debaisu-kanri</link>
         <dc:date>2026-11-06T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
