@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>落とし穴にハマってわかった 開発生産性を測るときに気をつけたいこと (ムナカタ)</title>
+        <link>https://speakerdeck.com/munakata/fukusei-otoshiana-ni-hama-te-wakata-kaihatsu-seisansei-o-hakaru-toki-ni-ki-o-tsuketai-koto-no-kopi-1</link>
+        <dc:date>2026-11-13T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「チャットボット」から「AI エージェント」への育て方 / AWS Startups ウェビナー 2026-11-13 / From Chatbot to AI Agent (Tamirlan 893 Torgayev)</title>
         <link>https://speakerdeck.com/prog893/from-chatbot-to-ai-agent</link>
         <dc:date>2026-11-13T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>並列度を下げたら速くなった — go build の重複コンパイルを実測で見る (Tomoaki)</title>
         <link>https://speakerdeck.com/tomoaki25/slides-cd95d381-a27b-4a9a-8b53-0abd69397a1b</link>
         <dc:date>2026-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Bun - Seed Deck</title>
-        <link>https://docs.google.com/presentation/d/1QX8GisBdDq-JeGVItYgE329FFhYhVz_4OzckzZfOwuI/preview</link>
-        <dc:date>2026-11-08T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
