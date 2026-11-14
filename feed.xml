@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>常時稼働エージェントの作り方（Claude公式ブログを資料化） (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata</link>
+        <dc:date>2026-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>落とし穴にハマってわかった 開発生産性を測るときに気をつけたいこと (ムナカタ)</title>
         <link>https://speakerdeck.com/munakata/fukusei-otoshiana-ni-hama-te-wakata-kaihatsu-seisansei-o-hakaru-toki-ni-ki-o-tsuketai-koto-no-kopi-1</link>
         <dc:date>2026-11-13T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Go における Gra ceful Shutdown とハマりどころ (ogidow)</title>
         <link>https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown</link>
-        <dc:date>2026-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>並列度を下げたら速くなった — go build の重複コンパイルを実測で見る (Tomoaki)</title>
-        <link>https://speakerdeck.com/tomoaki25/slides-cd95d381-a27b-4a9a-8b53-0abd69397a1b</link>
         <dc:date>2026-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
