@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>E2E Test というハーネス — AI時代の自動テスト民主化 (Daishu)</title>
+        <link>https://speakerdeck.com/daishukojima/ttf2026-e2e-test-harness</link>
+        <dc:date>2026-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>常時稼働エージェントの作り方（Claude公式ブログを資料化） (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata</link>
         <dc:date>2026-11-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>属人化したISMS運用をGitHubとAIで仕組み化した1年間の記録 (Shohei Koyama / Sion)</title>
         <link>https://speakerdeck.com/sioncojp/zokujinka-shita-isms-unyou-o-github-to-ai-de-shikumika-shita-1-nenkan-no-kiroku</link>
-        <dc:date>2026-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go における Gra ceful Shutdown とハマりどころ (ogidow)</title>
-        <link>https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown</link>
         <dc:date>2026-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
