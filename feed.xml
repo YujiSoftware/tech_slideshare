@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>cdkdがどんだけ早いか、実際に動かして見てみよう (Makky12)</title>
+        <link>https://speakerdeck.com/smt7174/20261114-jawsug-nagoya-matsusaka-demo</link>
+        <dc:date>2026-11-14T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>E2E Test というハーネス — AI時代の自動テスト民主化 (Daishu)</title>
         <link>https://speakerdeck.com/daishukojima/ttf2026-e2e-test-harness</link>
         <dc:date>2026-11-14T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIと始める監視基盤なしの セキュリティ監視 / secmon-without-a-siem (Masayoshi Mizutani)</title>
         <link>https://speakerdeck.com/mizutani/ai-to-hajimeru-kanshi-kiban-nashi-no-sekyuriti-kanshi-2</link>
-        <dc:date>2026-11-09T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>属人化したISMS運用をGitHubとAIで仕組み化した1年間の記録 (Shohei Koyama / Sion)</title>
-        <link>https://speakerdeck.com/sioncojp/zokujinka-shita-isms-unyou-o-github-to-ai-de-shikumika-shita-1-nenkan-no-kiroku</link>
         <dc:date>2026-11-09T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
