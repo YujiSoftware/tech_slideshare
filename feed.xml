@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>さようならSSH鍵、こんにちはゼロトラスト ― AIフレンドリーで快適な自宅鯖SSH (Atalie)</title>
+        <link>https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026</link>
+        <dc:date>2026-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>なぜ動くと世界が広がるのか (iWonder118)</title>
+        <link>https://speakerdeck.com/iwonder118/naze-ugoku-to-sekai-ga-hirogaru-no-ka</link>
+        <dc:date>2026-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>こんなに変わった！ AWSネットワークの常識 (Shota Shiratori)</title>
         <link>https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote</link>
         <dc:date>2026-11-14T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>セキュリティ専任チームなしで攻撃を先回りするSREが実践したSIEM on Amazon OpenSearch Service (サイバーセキュリティクラウド)</title>
         <link>https://speakerdeck.com/cscengineer/siem-on-opensearch-without-security-team</link>
-        <dc:date>2026-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>PostgreSQL オプティマイザ統計の秘密 (Noriyoshi Shinoda)</title>
-        <link>https://speakerdeck.com/nori_shinoda/shiryou-cm2-postgresql-optimizer-stats-20261103-1</link>
-        <dc:date>2026-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Claude Code ハーネス Deep Dive – 君はどこまで制御する？ - (Kenji Takatani)</title>
-        <link>https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive</link>
         <dc:date>2026-11-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
