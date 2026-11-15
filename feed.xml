@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>マネージャーをエスパーにしない　マネジメントされる側から始める、働きやすい現場づくり (comi)</title>
+        <link>https://speakerdeck.com/comi190327/comi-1113-manager-not-esper</link>
+        <dc:date>2026-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>まなぶ・まねぶ・ならう-AI時代も変わらない、成長の要素- / see-act-lean (Hiromi Hishida)</title>
+        <link>https://speakerdeck.com/77web/see-act-learn</link>
+        <dc:date>2026-11-15T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>さようならSSH鍵、こんにちはゼロトラスト ― AIフレンドリーで快適な自宅鯖SSH (Atalie)</title>
         <link>https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026</link>
         <dc:date>2026-11-15T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>20261024_スクラム祭り三島 (hikari)</title>
         <link>https://speakerdeck.com/kgnkhkr/20261024-sukuramu-matsuri-mishima</link>
         <dc:date>2026-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>SREのためのFinOps入門 (Masahiro Yoshizawa)</title>
-        <link>https://speakerdeck.com/muziyoshiz/introduction-to-finops-for-sres</link>
-        <dc:date>2026-11-10T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>セキュリティ専任チームなしで攻撃を先回りするSREが実践したSIEM on Amazon OpenSearch Service (サイバーセキュリティクラウド)</title>
-        <link>https://speakerdeck.com/cscengineer/siem-on-opensearch-without-security-team</link>
-        <dc:date>2026-11-10T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
