@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>自動計装なしでECSサービスをApplication Signalsに載せるまで (Itaru Ota)</title>
+        <link>https://speakerdeck.com/ota1022/jawsug-container31</link>
+        <dc:date>2026-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2026-11-16 JAWS-UG コンテナ支部 #31 ゆるLT大会 ECR のライフサイクルポリシーを いい感じに設定したい  / ECR Lifecycle policy (SUZUKI Masashi)</title>
         <link>https://speakerdeck.com/masasuzu/2026-11-16-jaws-ug-kontena-shibu-31-yuru-lt-taikai-ecr-no-raifusaikuru-porishi-o-ii-kanji-ni-settei-shitai-ecr-lifecycle-policy</link>
         <dc:date>2026-11-15T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>リテールメディアを支えるデータ基盤の現在と未来のお話 in Tokyo dbt Meetup #22 (Kazuya Araki,@kazuya_araki_jp)</title>
         <link>https://www.docswell.com/s/kazuya_araki_jp/ZDMXLW-2026-11-11-tokyo-dbt-meetup-22</link>
-        <dc:date>2026-11-11T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>dbt の考えるアナリティクスエンジ ニアの未来 (と私の雑感) (myshmeh)</title>
-        <link>https://speakerdeck.com/myshmeh_/external-tokyo-dbt-meetup-22-1</link>
         <dc:date>2026-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
