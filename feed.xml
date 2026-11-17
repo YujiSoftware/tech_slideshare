@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Copilot Cowork - 拡張性実装ガイド (Taiki Yoshida,@TaikiYoshidaJP)</title>
+        <link>https://www.docswell.com/s/TaikiYoshida/5L3Y8D-cowork-implementation-guide</link>
+        <dc:date>2026-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>専門家に使ってもらうAIプロダクトをつくる - 病院の医事課向けDPCコーディング支援システムの設計と評価 (Takashi Nishibayashi)</title>
         <link>https://speakerdeck.com/hagino3000/building-ai-product-for-expert</link>
         <dc:date>2026-11-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>ぼくのClaude Codeの使い方 (Michael Tedder)</title>
         <link>https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata</link>
-        <dc:date>2026-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Linuxネットワークスタック進化の軌跡: 過去10年の歩みと最新トレンド (orimanabu)</title>
-        <link>https://speakerdeck.com/orimanabu/onic2026-linux-kernel-networking</link>
         <dc:date>2026-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
