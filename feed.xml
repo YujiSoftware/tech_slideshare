@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>専門家に使ってもらうAIプロダクトをつくる - 病院の医事課向けDPCコーディング支援システムの設計と評価 (Takashi Nishibayashi)</title>
+        <link>https://speakerdeck.com/hagino3000/building-ai-product-for-expert</link>
+        <dc:date>2026-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>RAGの改善を速く回すための評価基盤 (yosukeyoshida)</title>
+        <link>https://speakerdeck.com/yosukeyoshida/slides</link>
+        <dc:date>2026-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>自動計装なしでECSサービスをApplication Signalsに載せるまで (Itaru Ota)</title>
         <link>https://speakerdeck.com/ota1022/jawsug-container31</link>
         <dc:date>2026-11-16T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>Linuxネットワークスタック進化の軌跡: 過去10年の歩みと最新トレンド (orimanabu)</title>
         <link>https://speakerdeck.com/orimanabu/onic2026-linux-kernel-networking</link>
         <dc:date>2026-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Datadog AAP に 攻撃を見張ってもらうという選択 (hirosi1900day)</title>
-        <link>https://speakerdeck.com/hirosi1900day/datadog-ibento-pptx-1</link>
-        <dc:date>2026-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リテールメディアを支えるデータ基盤の現在と未来のお話 in Tokyo dbt Meetup #22 (Kazuya Araki,@kazuya_araki_jp)</title>
-        <link>https://www.docswell.com/s/kazuya_araki_jp/ZDMXLW-2026-11-11-tokyo-dbt-meetup-22</link>
-        <dc:date>2026-11-11T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
