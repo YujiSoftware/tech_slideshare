@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Vitest を（安全に）高速化する (asa1984)</title>
+        <link>https://speakerdeck.com/asa1984/vitest-o-anzen-ni-kousokuka-suru</link>
+        <dc:date>2026-11-16T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Copilot Cowork - 拡張性実装ガイド (Taiki Yoshida,@TaikiYoshidaJP)</title>
         <link>https://www.docswell.com/s/TaikiYoshida/5L3Y8D-cowork-implementation-guide</link>
         <dc:date>2026-11-16T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>高品質と高スピードを支える品質のシフトレフトのアプローチ (Hiroki Iseri)</title>
         <link>https://speakerdeck.com/goyoki/shift-left-approach-for-team-improvement</link>
-        <dc:date>2026-11-12T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ぼくのClaude Codeの使い方 (Michael Tedder)</title>
-        <link>https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata</link>
         <dc:date>2026-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
