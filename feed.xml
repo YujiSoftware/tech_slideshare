@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIパフォーマンスエンジニアリングの最前線 (YOSHIFUJI Naoki @Tenstorrent)</title>
+        <link>https://speakerdeck.com/lwisteria_tt/ai-pafomansu-enjiniaringu-no-saizensen</link>
+        <dc:date>2026-11-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Vitest を（安全に）高速化する (asa1984)</title>
         <link>https://speakerdeck.com/asa1984/vitest-o-anzen-ni-kousokuka-suru</link>
         <dc:date>2026-11-16T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>人間＋AIを「チーム」としてプロセスを再設計する (Koichiro Matsuoka)</title>
         <link>https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1</link>
         <dc:date>2026-11-13T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>高品質と高スピードを支える品質のシフトレフトのアプローチ (Hiroki Iseri)</title>
-        <link>https://speakerdeck.com/goyoki/shift-left-approach-for-team-improvement</link>
-        <dc:date>2026-11-12T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
