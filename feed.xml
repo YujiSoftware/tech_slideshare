@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>CNDW2026_lambdamicroVMs_CI__1_.pdf (clouddev-code)</title>
+        <link>https://speakerdeck.com/cloudevcode/cndw2026-lambdamicrovms-ci-1</link>
+        <dc:date>2026-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>オブザーバビリティを組織とともに成長させる - データと知識をつなぐ場としてのGrafana (Mitsuhiro Tanda)</title>
         <link>https://speakerdeck.com/mtanda/growing-observability-with-your-organization</link>
         <dc:date>2026-11-18T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>なぜ動くと世界が広がるのか (iWonder118)</title>
         <link>https://speakerdeck.com/iwonder118/naze-ugoku-to-sekai-ga-hirogaru-no-ka</link>
         <dc:date>2026-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>こんなに変わった！ AWSネットワークの常識 (Shota Shiratori)</title>
-        <link>https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote</link>
-        <dc:date>2026-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
