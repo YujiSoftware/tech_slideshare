@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オブザーバビリティを組織とともに成長させる - データと知識をつなぐ場としてのGrafana (Mitsuhiro Tanda)</title>
+        <link>https://speakerdeck.com/mtanda/growing-observability-with-your-organization</link>
+        <dc:date>2026-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>信頼性を犠牲にせず、PR マージからデプロイまで人の介入を完全にゼロにするまでの道のり (Kenta Takahashi)</title>
+        <link>https://speakerdeck.com/knwoop/cndw2026-zero-touch-deploy</link>
+        <dc:date>2026-11-18T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>分析AIエージェントを育てる、動く環境を育てる (Codatum)</title>
         <link>https://speakerdeck.com/codatum/bunseki-ai-ejento-o-sodateru-ugoku-kankyou-o-sodateru</link>
         <dc:date>2026-11-17T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>こんなに変わった！ AWSネットワークの常識 (Shota Shiratori)</title>
         <link>https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote</link>
-        <dc:date>2026-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>cdkdがどんだけ早いか、実際に動かして見てみよう (Makky12)</title>
-        <link>https://speakerdeck.com/smt7174/20261114-jawsug-nagoya-matsusaka-demo</link>
-        <dc:date>2026-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>E2E Test というハーネス — AI時代の自動テスト民主化 (Daishu)</title>
-        <link>https://speakerdeck.com/daishukojima/ttf2026-e2e-test-harness</link>
         <dc:date>2026-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
