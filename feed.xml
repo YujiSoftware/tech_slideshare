@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>分析AIエージェントを育てる、動く環境を育てる (Codatum)</title>
+        <link>https://speakerdeck.com/codatum/bunseki-ai-ejento-o-sodateru-ugoku-kankyou-o-sodateru</link>
+        <dc:date>2026-11-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～ (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen</link>
         <dc:date>2026-11-17T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>E2E Test というハーネス — AI時代の自動テスト民主化 (Daishu)</title>
         <link>https://speakerdeck.com/daishukojima/ttf2026-e2e-test-harness</link>
-        <dc:date>2026-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>常時稼働エージェントの作り方（Claude公式ブログを資料化） (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata</link>
         <dc:date>2026-11-14T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
