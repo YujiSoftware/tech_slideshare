@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～ (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen</link>
+        <dc:date>2026-11-17T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Terraform 0 to 100：100個以上のリポジトリを常に最新にし続けるための自動化 (sue445)</title>
         <link>https://speakerdeck.com/sue445/terraform-0-to-100</link>
         <dc:date>2026-11-17T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>常時稼働エージェントの作り方（Claude公式ブログを資料化） (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata</link>
         <dc:date>2026-11-14T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>落とし穴にハマってわかった 開発生産性を測るときに気をつけたいこと (ムナカタ)</title>
-        <link>https://speakerdeck.com/munakata/fukusei-otoshiana-ni-hama-te-wakata-kaihatsu-seisansei-o-hakaru-toki-ni-ki-o-tsuketai-koto-no-kopi-1</link>
-        <dc:date>2026-11-13T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
