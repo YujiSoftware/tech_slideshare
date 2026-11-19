@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Platform Engineering をベースとした Agentic Software Factory の実践 (Yuki Ito)</title>
+        <link>https://speakerdeck.com/110y/agentic-software-factory-based-on-platform-engineering</link>
+        <dc:date>2026-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Agent Routerで作るマルチテナント 推論基盤  #CNDW2026 / Building Multi-Tenant Inference Platform with Agent Router #CNDW2026 (Shingo Omura)</title>
+        <link>https://speakerdeck.com/everpeace/building-multi-tenant-inference-platform-with-agentrouter</link>
+        <dc:date>2026-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>現地速報！ Microsoft Ignite アップデートレポート (Kaz Asada | しがない情シス)</title>
         <link>https://speakerdeck.com/kasada/2026-11-18-ignite2026-genchi-sokuhou</link>
         <dc:date>2026-11-18T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>マネージャーをエスパーにしない　マネジメントされる側から始める、働きやすい現場づくり (comi)</title>
         <link>https://speakerdeck.com/comi190327/comi-1113-manager-not-esper</link>
-        <dc:date>2026-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>まなぶ・まねぶ・ならう-AI時代も変わらない、成長の要素- / see-act-lean (Hiromi Hishida)</title>
-        <link>https://speakerdeck.com/77web/see-act-learn</link>
-        <dc:date>2026-11-15T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>さようならSSH鍵、こんにちはゼロトラスト ― AIフレンドリーで快適な自宅鯖SSH (Atalie)</title>
-        <link>https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026</link>
         <dc:date>2026-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
