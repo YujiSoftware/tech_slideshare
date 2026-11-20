@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>経験の浅いチームでアラート対応の 改善からチームに SRE を根付かせる (i2tsuki)</title>
+        <link>https://speakerdeck.com/i2tsuki/11-19codmonmixialertlt</link>
+        <dc:date>2026-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Microsoft Ignite 2026 個人的に気になった Azure インフラ基盤アップデートを Recap！ (Kazuki Yamabe,@kdk_wakaba)</title>
         <link>https://www.docswell.com/s/kdk_wakaba/ZWR7D8-2026-11-19-202511</link>
         <dc:date>2026-11-19T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>専門家に使ってもらうAIプロダクトをつくる - 病院の医事課向けDPCコーディング支援システムの設計と評価 (Takashi Nishibayashi)</title>
         <link>https://speakerdeck.com/hagino3000/building-ai-product-for-expert</link>
-        <dc:date>2026-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>RAGの改善を速く回すための評価基盤 (yosukeyoshida)</title>
-        <link>https://speakerdeck.com/yosukeyoshida/slides</link>
         <dc:date>2026-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
