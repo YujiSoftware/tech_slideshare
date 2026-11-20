@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>オンプレADの侵害がEntraIDの侵害につながるとき (Fire)</title>
+        <link>https://speakerdeck.com/firefire2/20261120-ad-no-shingai-ga-entraid-no-shingai-ni-tsunagaru-toki-techbaton</link>
+        <dc:date>2026-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Go でトランザクション、どう書いてますか？ (Kenta Takahashi)</title>
+        <link>https://speakerdeck.com/knwoop/slides</link>
+        <dc:date>2026-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AIでペネトレーションテストは どこまで内製化できるのか (ぐらにゅ,@gurany_tou)</title>
         <link>https://www.docswell.com/s/gurany_tou/Z8NP71-2026-11-20-231724</link>
         <dc:date>2026-11-20T15:00:00Z</dc:date>
@@ -94,15 +104,5 @@
         <title>設計手法を「道具」として使いこなすために (Akira Suenami)</title>
         <link>https://speakerdeck.com/a_suenami/sekkei-shuhou-o-dougu-toshite-tsukaikonasu-tame-ni</link>
         <dc:date>2026-11-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIパフォーマンスエンジニアリングの最前線 (YOSHIFUJI Naoki @Tenstorrent)</title>
-        <link>https://speakerdeck.com/lwisteria_tt/ai-pafomansu-enjiniaringu-no-saizensen</link>
-        <dc:date>2026-11-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Vitest を（安全に）高速化する (asa1984)</title>
-        <link>https://speakerdeck.com/asa1984/vitest-o-anzen-ni-kousokuka-suru</link>
-        <dc:date>2026-11-16T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
