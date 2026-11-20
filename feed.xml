@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>エージェントの管理もエージェントに – herdr-core と自作バックログで作る司令塔 – (NearMeの技術発表資料です)</title>
+        <link>https://speakerdeck.com/nearme_tech/herdr-core-lead-agent</link>
+        <dc:date>2026-11-19T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Test Impact Analysis を武器に立ち向かう、AI 時代のテスト増加に対するヌーラボのアプローチ / getting-started-datadog-test-impact-analysis (逆井（さかさい）)</title>
         <link>https://speakerdeck.com/k6s4i53rx/getting-started-datadog-test-impact-analysis</link>
         <dc:date>2026-11-19T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>自動計装なしでECSサービスをApplication Signalsに載せるまで (Itaru Ota)</title>
         <link>https://speakerdeck.com/ota1022/jawsug-container31</link>
         <dc:date>2026-11-16T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026-11-16 JAWS-UG コンテナ支部 #31 ゆるLT大会 ECR のライフサイクルポリシーを いい感じに設定したい  / ECR Lifecycle policy (SUZUKI Masashi)</title>
-        <link>https://speakerdeck.com/masasuzu/2026-11-16-jaws-ug-kontena-shibu-31-yuru-lt-taikai-ecr-no-raifusaikuru-porishi-o-ii-kanji-ni-settei-shitai-ecr-lifecycle-policy</link>
-        <dc:date>2026-11-15T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
