@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>それ、本当に経費？Cloudflare の モデル Clairic と Clefで判定してみた (Yuichi Umezu,@np_ur_)</title>
+        <link>https://www.docswell.com/s/yuichi-umezu/5WR7J1-2026-11-21-140214</link>
+        <dc:date>2026-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>実測データからサービスの成長余力を測る。負荷シナリオ・テストデータ・限界値の設計 (zosokh)</title>
         <link>https://speakerdeck.com/kazatohiei/cndw2026-jissoku-deta-kara-sabisu-no-seichou-yoryoku-o-hakaru</link>
         <dc:date>2026-11-20T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>分析AIエージェントを育てる、動く環境を育てる (Codatum)</title>
         <link>https://speakerdeck.com/codatum/bunseki-ai-ejento-o-sodateru-ugoku-kankyou-o-sodateru</link>
-        <dc:date>2026-11-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～ (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen</link>
         <dc:date>2026-11-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
