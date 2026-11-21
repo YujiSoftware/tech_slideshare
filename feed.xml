@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>実測データからサービスの成長余力を測る。負荷シナリオ・テストデータ・限界値の設計 (zosokh)</title>
+        <link>https://speakerdeck.com/kazatohiei/cndw2026-jissoku-deta-kara-sabisu-no-seichou-yoryoku-o-hakaru</link>
+        <dc:date>2026-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Kubernetes, Agones, WebRTC, GPU で作る クラウドゲーミング基盤を本番運用に乗せるまで (viviON)</title>
+        <link>https://speakerdeck.com/vivion/cndw2026-cloud-gaming-on-kubernetes</link>
+        <dc:date>2026-11-20T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データから見る AI時代のエンジニア転職と採用 (＠OkrandJ)</title>
         <link>https://speakerdeck.com/junya_okura/tenshoku-toumeika-rabo</link>
         <dc:date>2026-11-20T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～ (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen</link>
-        <dc:date>2026-11-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Terraform 0 to 100：100個以上のリポジトリを常に最新にし続けるための自動化 (sue445)</title>
-        <link>https://speakerdeck.com/sue445/terraform-0-to-100</link>
-        <dc:date>2026-11-17T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>生成AIを​用いて​チーム開発する​際の​７つの​ポイント　仮説検証の​ポイントを​漫画​「瑠璃の​宝石」を​ヒントに​して (Insurtechラボ,@koitake_)</title>
-        <link>https://www.docswell.com/s/Insurtech-lab/KY84MP-2026-11-14-092035</link>
         <dc:date>2026-11-17T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
