@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>数行の変更でDockerビルドを最大91%高速化～GitLab CIの実行基盤を社内40リポジトリに展開するまで～ (picopico)</title>
+        <link>https://speakerdeck.com/picopico/suukou-no-henkou-de-docker-o-saidai-91-kousokuka</link>
+        <dc:date>2026-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リリースしたで終わらない。 観測できるフロントエンド開発 (yamakenji24)</title>
         <link>https://speakerdeck.com/yamakenji24/20261122-jsconf2026-lt-kenji-yamashita</link>
         <dc:date>2026-11-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>閉域網でのAPI公開の選択肢全部比較！ (Takano)</title>
         <link>https://speakerdeck.com/takano0131/nwjaws-2026-11</link>
-        <dc:date>2026-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Platform Engineering をベースとした Agentic Software Factory の実践 (Yuki Ito)</title>
-        <link>https://speakerdeck.com/110y/agentic-software-factory-based-on-platform-engineering</link>
         <dc:date>2026-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
