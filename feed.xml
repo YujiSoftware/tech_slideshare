@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ワークフローからハーネスへ — Web フレームワークの作者たちが AI エージェントに向かう理由 (azukiazusa)</title>
+        <link>https://speakerdeck.com/azukiazusa1/slide-ca142a4a-9ec4-4750-91c1-07892c44a423</link>
+        <dc:date>2026-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Karkada さんの論文 × 2 の紹介: (1) Closed-Form Training Dynamics Reveal Learned Features and Linear Structure in Word2Vec-like Models, (2) Symmetry in language statistics shapes the geometry of model representations (Sho Yokoi)</title>
         <link>https://speakerdeck.com/eumesy/symmetry-in-language-statistics-shapes-the-geometry-of-model-representations</link>
         <dc:date>2026-11-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>CNDW2026_lambdamicroVMs_CI__1_.pdf (clouddev-code)</title>
         <link>https://speakerdeck.com/cloudevcode/cndw2026-lambdamicrovms-ci-1</link>
-        <dc:date>2026-11-18T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オブザーバビリティを組織とともに成長させる - データと知識をつなぐ場としてのGrafana (Mitsuhiro Tanda)</title>
-        <link>https://speakerdeck.com/mtanda/growing-observability-with-your-organization</link>
         <dc:date>2026-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
