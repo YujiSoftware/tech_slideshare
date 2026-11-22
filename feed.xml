@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>useReducerで実現する、堅牢で拡張可能なスプシ風コンポーネント設計 (Yuki Yata)</title>
+        <link>https://speakerdeck.com/arfes0e2b3c/jsconf2026-yata</link>
+        <dc:date>2026-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>数行の変更でDockerビルドを最大91%高速化～GitLab CIの実行基盤を社内40リポジトリに展開するまで～ (picopico)</title>
         <link>https://speakerdeck.com/picopico/suukou-no-henkou-de-docker-o-saidai-91-kousokuka</link>
         <dc:date>2026-11-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Test Impact Analysis を武器に立ち向かう、AI 時代のテスト増加に対するヌーラボのアプローチ / getting-started-datadog-test-impact-analysis (逆井（さかさい）)</title>
         <link>https://speakerdeck.com/k6s4i53rx/getting-started-datadog-test-impact-analysis</link>
-        <dc:date>2026-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>閉域網でのAPI公開の選択肢全部比較！ (Takano)</title>
-        <link>https://speakerdeck.com/takano0131/nwjaws-2026-11</link>
         <dc:date>2026-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
