@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リリースしたで終わらない。 観測できるフロントエンド開発 (yamakenji24)</title>
+        <link>https://speakerdeck.com/yamakenji24/20261122-jsconf2026-lt-kenji-yamashita</link>
+        <dc:date>2026-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>プラガブルで宣言的なソフトウェアファクトリーを支えるTypeScript (Seiji Takahashi)</title>
         <link>https://speakerdeck.com/timakin/definitive-and-pluggable-software-factory</link>
         <dc:date>2026-11-21T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Platform Engineering をベースとした Agentic Software Factory の実践 (Yuki Ito)</title>
         <link>https://speakerdeck.com/110y/agentic-software-factory-based-on-platform-engineering</link>
-        <dc:date>2026-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Agent Routerで作るマルチテナント 推論基盤  #CNDW2026 / Building Multi-Tenant Inference Platform with Agent Router #CNDW2026 (Shingo Omura)</title>
-        <link>https://speakerdeck.com/everpeace/building-multi-tenant-inference-platform-with-agentrouter</link>
         <dc:date>2026-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
