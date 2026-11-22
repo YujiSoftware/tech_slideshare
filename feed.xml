@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>プラガブルで宣言的なソフトウェアファクトリーを支えるTypeScript (Seiji Takahashi)</title>
+        <link>https://speakerdeck.com/timakin/definitive-and-pluggable-software-factory</link>
+        <dc:date>2026-11-21T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>フロントエンドのテストカバレッジは 100%強制がいい (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20261122-jsconfjp2026-coverage-100</link>
         <dc:date>2026-11-21T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Agent Routerで作るマルチテナント 推論基盤  #CNDW2026 / Building Multi-Tenant Inference Platform with Agent Router #CNDW2026 (Shingo Omura)</title>
         <link>https://speakerdeck.com/everpeace/building-multi-tenant-inference-platform-with-agentrouter</link>
         <dc:date>2026-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>現地速報！ Microsoft Ignite アップデートレポート (Kaz Asada | しがない情シス)</title>
-        <link>https://speakerdeck.com/kasada/2026-11-18-ignite2026-genchi-sokuhou</link>
-        <dc:date>2026-11-18T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
