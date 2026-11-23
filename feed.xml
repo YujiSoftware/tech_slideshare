@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>増田純大『野獣大百科』 (増田純大)</title>
+        <link>https://speakerdeck.com/masudajundai/yajuu-daihyakka</link>
+        <dc:date>2026-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Lean で手続き的プログラム の証明が書けるようになった (井上亜星)</title>
         <link>https://speakerdeck.com/inoueasei/slide-aa115490-ea99-4286-9de2-40794f4e861f</link>
         <dc:date>2026-11-22T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>New Relicのアラート対応をClaude Codeで自動修正するワークフローを作った話 (Gaku07jp)</title>
         <link>https://speakerdeck.com/manabuseki/new-relic-no-taiou-o-claude-code-de-jidou-shuusei-suru-waku-furo-o-tsukuta-hanashi</link>
         <dc:date>2026-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>経験の浅いチームでアラート対応の 改善からチームに SRE を根付かせる (i2tsuki)</title>
-        <link>https://speakerdeck.com/i2tsuki/11-19codmonmixialertlt</link>
-        <dc:date>2026-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
