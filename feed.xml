@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Webメール開発を大幅に変えたJMAPというゲームチェンジャー (Wataru Morita)</title>
+        <link>https://speakerdeck.com/tascript/jmap-is-game-changer</link>
+        <dc:date>2026-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>useReducerで実現する、堅牢で拡張可能なスプシ風コンポーネント設計 (Yuki Yata)</title>
         <link>https://speakerdeck.com/arfes0e2b3c/jsconf2026-yata</link>
         <dc:date>2026-11-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エージェントの管理もエージェントに – herdr-core と自作バックログで作る司令塔 – (NearMeの技術発表資料です)</title>
         <link>https://speakerdeck.com/nearme_tech/herdr-core-lead-agent</link>
-        <dc:date>2026-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Test Impact Analysis を武器に立ち向かう、AI 時代のテスト増加に対するヌーラボのアプローチ / getting-started-datadog-test-impact-analysis (逆井（さかさい）)</title>
-        <link>https://speakerdeck.com/k6s4i53rx/getting-started-datadog-test-impact-analysis</link>
         <dc:date>2026-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
