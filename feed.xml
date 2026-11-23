@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>デザインシステムのフィードバックループをほぼ自動化した話 (Tony / Tongari / Naoto Togawa)</title>
+        <link>https://speakerdeck.com/tongari07/dezain-shisutemu-no-fidobakku-rupu-o-hobo-jidouka-shita-hanashi</link>
+        <dc:date>2026-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>増田純大『野獣大百科』 (増田純大)</title>
         <link>https://speakerdeck.com/masudajundai/yajuu-daihyakka</link>
         <dc:date>2026-11-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AIでペネトレーションテストは どこまで内製化できるのか (ぐらにゅ,@gurany_tou)</title>
         <link>https://www.docswell.com/s/gurany_tou/Z8NP71-2026-11-20-231724</link>
-        <dc:date>2026-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>New Relicのアラート対応をClaude Codeで自動修正するワークフローを作った話 (Gaku07jp)</title>
-        <link>https://speakerdeck.com/manabuseki/new-relic-no-taiou-o-claude-code-de-jidou-shuusei-suru-waku-furo-o-tsukuta-hanashi</link>
         <dc:date>2026-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
