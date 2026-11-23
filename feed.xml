@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Lean で手続き的プログラム の証明が書けるようになった (井上亜星)</title>
+        <link>https://speakerdeck.com/inoueasei/slide-aa115490-ea99-4286-9de2-40794f4e861f</link>
+        <dc:date>2026-11-22T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>モノリシックなフロントエンドに境界を引いてコツコツ分割した話 (Toshihisa Tomatsu)</title>
         <link>https://www.docswell.com/s/toshi_toma/K6NRV7-deconstructing-monolith</link>
         <dc:date>2026-11-22T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>経験の浅いチームでアラート対応の 改善からチームに SRE を根付かせる (i2tsuki)</title>
         <link>https://speakerdeck.com/i2tsuki/11-19codmonmixialertlt</link>
-        <dc:date>2026-11-19T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Microsoft Ignite 2026 個人的に気になった Azure インフラ基盤アップデートを Recap！ (Kazuki Yamabe,@kdk_wakaba)</title>
-        <link>https://www.docswell.com/s/kdk_wakaba/ZWR7D8-2026-11-19-202511</link>
         <dc:date>2026-11-19T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
