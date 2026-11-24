@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>品質を積み上げられるようにする (Hiroki Iseri)</title>
+        <link>https://speakerdeck.com/goyoki/building-up-of-quality</link>
+        <dc:date>2026-11-23T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>業務×Copilot活用入門 #2 毎月のデータ集計を「更新するだけ」に！ (パワ実,@pawami_powerpf)</title>
         <link>https://www.docswell.com/s/Pawami/ZWRQJR-gyomu-copilot-02</link>
         <dc:date>2026-11-23T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>オンプレADの侵害がEntraIDの侵害につながるとき (Fire)</title>
         <link>https://speakerdeck.com/firefire2/20261120-ad-no-shingai-ga-entraid-no-shingai-ni-tsunagaru-toki-techbaton</link>
-        <dc:date>2026-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Go でトランザクション、どう書いてますか？ (Kenta Takahashi)</title>
-        <link>https://speakerdeck.com/knwoop/slides</link>
         <dc:date>2026-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
