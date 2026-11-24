@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>不具合データを用いたプロダクトコードの弱点可視化 (tarappo)</title>
+        <link>https://speakerdeck.com/tarappo/fuguai-deta-o-mochiita-purodakuto-kodo-no-jakuten-kashika</link>
+        <dc:date>2026-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI時代の実践・形式検証入門</title>
         <link>https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/preview</link>
         <dc:date>2026-11-24T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>How SRE Grew Out of Server-Side Work and Became the Team's Own / サーバサイドから始まったSREを チームに渡すまで (maaaato)</title>
         <link>https://speakerdeck.com/maaaato/how-sre-grew-out-of-server-side-work-and-became-the-team-s-own</link>
-        <dc:date>2026-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>それ、本当に経費？Cloudflare の モデル Clairic と Clefで判定してみた (Yuichi Umezu,@np_ur_)</title>
-        <link>https://www.docswell.com/s/yuichi-umezu/5WR7J1-2026-11-21-140214</link>
         <dc:date>2026-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
