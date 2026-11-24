@@ -6,6 +6,26 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI時代の実践・形式検証入門</title>
+        <link>https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/preview</link>
+        <dc:date>2026-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>[NW-JAWS DAY]「うちのAWS、インターネット出られないんで」― AWS外の自社サービスをPrivateLinkでシュッと公開する方法 (Yuta Kimi)</title>
+        <link>https://speakerdeck.com/ykimi/20261114-nw-jaws-day-kimi</link>
+        <dc:date>2026-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>JavaScriptはシングルバイナリの夢を見るか / Does JavaScript Dream of a Single Binary? (TOMIKAWA Sotaro)</title>
+        <link>https://speakerdeck.com/ssssota/javascript-ha-shinguru-bainari-no-yume-o-miru-ka</link>
+        <dc:date>2026-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>The Cost of the DOM (ypresto)</title>
+        <link>https://speakerdeck.com/ypresto/the-cost-of-the-dom</link>
+        <dc:date>2026-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>品質を積み上げられるようにする (Hiroki Iseri)</title>
         <link>https://speakerdeck.com/goyoki/building-up-of-quality</link>
         <dc:date>2026-11-23T15:00:00Z</dc:date>
@@ -83,26 +103,6 @@
     <item>
         <title>それ、本当に経費？Cloudflare の モデル Clairic と Clefで判定してみた (Yuichi Umezu,@np_ur_)</title>
         <link>https://www.docswell.com/s/yuichi-umezu/5WR7J1-2026-11-21-140214</link>
-        <dc:date>2026-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>実測データからサービスの成長余力を測る。負荷シナリオ・テストデータ・限界値の設計 (zosokh)</title>
-        <link>https://speakerdeck.com/kazatohiei/cndw2026-jissoku-deta-kara-sabisu-no-seichou-yoryoku-o-hakaru</link>
-        <dc:date>2026-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Kubernetes, Agones, WebRTC, GPU で作る クラウドゲーミング基盤を本番運用に乗せるまで (viviON)</title>
-        <link>https://speakerdeck.com/vivion/cndw2026-cloud-gaming-on-kubernetes</link>
-        <dc:date>2026-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>データから見る AI時代のエンジニア転職と採用 (＠OkrandJ)</title>
-        <link>https://speakerdeck.com/junya_okura/tenshoku-toumeika-rabo</link>
-        <dc:date>2026-11-20T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>オンプレADの侵害がEntraIDの侵害につながるとき (Fire)</title>
-        <link>https://speakerdeck.com/firefire2/20261120-ad-no-shingai-ga-entraid-no-shingai-ni-tsunagaru-toki-techbaton</link>
         <dc:date>2026-11-20T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
