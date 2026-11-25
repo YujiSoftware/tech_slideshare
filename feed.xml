@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AI-DLC最前線のCognitive Surrenderに陥らないチーム作り (yuukiyo)</title>
+        <link>https://speakerdeck.com/yuukiyo/building-teams-that-resist-cognitive-surrender-in-ai-dlc</link>
+        <dc:date>2026-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AIエージェントの認証がまとめて進化！ ～pre:Inventで来た3つのアップデート～ (みのるん)</title>
+        <link>https://speakerdeck.com/minorun365/ai-agent-auth-preinvent-2026</link>
+        <dc:date>2026-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>GitHub Copilot が切り拓くエージェント時代の開発ワークフロー (zhang.william)</title>
         <link>https://speakerdeck.com/moulongzhang/20261124-githubconnecttokyo-session2</link>
         <dc:date>2026-11-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>フロントエンドのテストカバレッジは 100%強制がいい (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20261122-jsconfjp2026-coverage-100</link>
-        <dc:date>2026-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ワークフローからハーネスへ — Web フレームワークの作者たちが AI エージェントに向かう理由 (azukiazusa)</title>
-        <link>https://speakerdeck.com/azukiazusa1/slide-ca142a4a-9ec4-4750-91c1-07892c44a423</link>
-        <dc:date>2026-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Karkada さんの論文 × 2 の紹介: (1) Closed-Form Training Dynamics Reveal Learned Features and Linear Structure in Word2Vec-like Models, (2) Symmetry in language statistics shapes the geometry of model representations (Sho Yokoi)</title>
-        <link>https://speakerdeck.com/eumesy/symmetry-in-language-statistics-shapes-the-geometry-of-model-representations</link>
         <dc:date>2026-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
