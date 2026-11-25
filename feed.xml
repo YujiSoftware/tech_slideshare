@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>最近のMySQL事情について (yoku0825)</title>
+        <link>https://speakerdeck.com/yoku0825/mysql-in-2026</link>
+        <dc:date>2026-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>観測者から当事者へ、AI 時代にドメインへ深入りする知識と技術 / From Observer to Practitioner: Going Deep into Domains in the Age of AI (nrs)</title>
+        <link>https://speakerdeck.com/nrslib/from-observer-to-practitioner-going-deep-into-domains-in-the-age-of-ai</link>
+        <dc:date>2026-11-24T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI-DLC最前線のCognitive Surrenderに陥らないチーム作り (yuukiyo)</title>
         <link>https://speakerdeck.com/yuukiyo/building-teams-that-resist-cognitive-surrender-in-ai-dlc</link>
         <dc:date>2026-11-24T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>リリースしたで終わらない。 観測できるフロントエンド開発 (yamakenji24)</title>
         <link>https://speakerdeck.com/yamakenji24/20261122-jsconf2026-lt-kenji-yamashita</link>
-        <dc:date>2026-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>プラガブルで宣言的なソフトウェアファクトリーを支えるTypeScript (Seiji Takahashi)</title>
-        <link>https://speakerdeck.com/timakin/definitive-and-pluggable-software-factory</link>
-        <dc:date>2026-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>フロントエンドのテストカバレッジは 100%強制がいい (弁護士ドットコム)</title>
-        <link>https://speakerdeck.com/bengo4com/20261122-jsconfjp2026-coverage-100</link>
         <dc:date>2026-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
