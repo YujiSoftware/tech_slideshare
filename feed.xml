@@ -6,6 +6,31 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIと速く作れる時代に、要求と設計をどう確かめるか ーイベントストーミングとSDDの実践ー (syobochim)</title>
+        <link>https://speakerdeck.com/syobochim/20261125-modeling-forum-eventstorming-and-kiro</link>
+        <dc:date>2026-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>エンジニアが 売上を作るということ (らむ)</title>
+        <link>https://speakerdeck.com/lamb_moko/enjinia-ga-uriage-o-tsukuru-toiu-koto</link>
+        <dc:date>2026-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Welcome JXL! (dynamis)</title>
+        <link>https://speakerdeck.com/dynamis/welcome-jxl</link>
+        <dc:date>2026-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Math.sumPreciseから学ぶ、ECMAScript仕様の数値の種類 (syumai)</title>
+        <link>https://speakerdeck.com/syumai/slides-303885bd-9a9f-41a1-b9e5-04ac53bb041c</link>
+        <dc:date>2026-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Canvas 2D Context Next (petamoriken / 森建)</title>
+        <link>https://speakerdeck.com/petamoriken/canvas-2d-context-next</link>
+        <dc:date>2026-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>最近のMySQL事情について (yoku0825)</title>
         <link>https://speakerdeck.com/yoku0825/mysql-in-2026</link>
         <dc:date>2026-11-24T15:00:00Z</dc:date>
@@ -79,30 +104,5 @@
         <title>Lean で手続き的プログラム の証明が書けるようになった (井上亜星)</title>
         <link>https://speakerdeck.com/inoueasei/slide-aa115490-ea99-4286-9de2-40794f4e861f</link>
         <dc:date>2026-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モノリシックなフロントエンドに境界を引いてコツコツ分割した話 (Toshihisa Tomatsu)</title>
-        <link>https://www.docswell.com/s/toshi_toma/K6NRV7-deconstructing-monolith</link>
-        <dc:date>2026-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Webメール開発を大幅に変えたJMAPというゲームチェンジャー (Wataru Morita)</title>
-        <link>https://speakerdeck.com/tascript/jmap-is-game-changer</link>
-        <dc:date>2026-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>useReducerで実現する、堅牢で拡張可能なスプシ風コンポーネント設計 (Yuki Yata)</title>
-        <link>https://speakerdeck.com/arfes0e2b3c/jsconf2026-yata</link>
-        <dc:date>2026-11-22T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>数行の変更でDockerビルドを最大91%高速化～GitLab CIの実行基盤を社内40リポジトリに展開するまで～ (picopico)</title>
-        <link>https://speakerdeck.com/picopico/suukou-no-henkou-de-docker-o-saidai-91-kousokuka</link>
-        <dc:date>2026-11-21T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>リリースしたで終わらない。 観測できるフロントエンド開発 (yamakenji24)</title>
-        <link>https://speakerdeck.com/yamakenji24/20261122-jsconf2026-lt-kenji-yamashita</link>
-        <dc:date>2026-11-21T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
