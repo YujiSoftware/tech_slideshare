@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>サービスチーム全員で2年半続けているドメインモデリングのリアル / domain-modeling-with-the-whole-service-team (株式会社カミナシ)</title>
+        <link>https://speakerdeck.com/kaminashi/domain-modeling-with-the-whole-service-team</link>
+        <dc:date>2026-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ローカルLLMによるデジタルフォレンジック支援ハーネスの設計と実装 (S.Nakano)</title>
         <link>https://speakerdeck.com/sumeshi/design-and-implementation-of-a-local-llm-harness-for-digital-forensics-ja</link>
         <dc:date>2026-11-25T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>業務×Copilot活用入門 #2 毎月のデータ集計を「更新するだけ」に！ (パワ実,@pawami_powerpf)</title>
         <link>https://www.docswell.com/s/Pawami/ZWRQJR-gyomu-copilot-02</link>
         <dc:date>2026-11-23T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>デザインシステムのフィードバックループをほぼ自動化した話 (Tony / Tongari / Naoto Togawa)</title>
-        <link>https://speakerdeck.com/tongari07/dezain-shisutemu-no-fidobakku-rupu-o-hobo-jidouka-shita-hanashi</link>
-        <dc:date>2026-11-22T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
