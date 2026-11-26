@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX (civitaspo)</title>
+        <link>https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx</link>
+        <dc:date>2026-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>「良いデザイン」をAIに判断させるには 〜チームで育てるデザインハーネス〜 (Tatsuroh Nakamura)</title>
         <link>https://speakerdeck.com/tatsuroro/20261126-nikkei-teck-talk-51-design</link>
         <dc:date>2026-11-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>[NW-JAWS DAY]「うちのAWS、インターネット出られないんで」― AWS外の自社サービスをPrivateLinkでシュッと公開する方法 (Yuta Kimi)</title>
         <link>https://speakerdeck.com/ykimi/20261114-nw-jaws-day-kimi</link>
-        <dc:date>2026-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>JavaScriptはシングルバイナリの夢を見るか / Does JavaScript Dream of a Single Binary? (TOMIKAWA Sotaro)</title>
-        <link>https://speakerdeck.com/ssssota/javascript-ha-shinguru-bainari-no-yume-o-miru-ka</link>
         <dc:date>2026-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
