@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>「良いデザイン」をAIに判断させるには 〜チームで育てるデザインハーネス〜 (Tatsuroh Nakamura)</title>
+        <link>https://speakerdeck.com/tatsuroro/20261126-nikkei-teck-talk-51-design</link>
+        <dc:date>2026-11-25T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Jev で実現する Generative UI (azukiazusa)</title>
         <link>https://speakerdeck.com/azukiazusa1/slide-efc59f7e-336f-4e6c-8919-27211ebc3d07</link>
         <dc:date>2026-11-25T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>JavaScriptはシングルバイナリの夢を見るか / Does JavaScript Dream of a Single Binary? (TOMIKAWA Sotaro)</title>
         <link>https://speakerdeck.com/ssssota/javascript-ha-shinguru-bainari-no-yume-o-miru-ka</link>
-        <dc:date>2026-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>The Cost of the DOM (ypresto)</title>
-        <link>https://speakerdeck.com/ypresto/the-cost-of-the-dom</link>
         <dc:date>2026-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
