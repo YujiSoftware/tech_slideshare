@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>組織で結果を出すAI駆動開発 全開発工程を自動化するアーキテクチャ設計の実践知 (sergicalsix)</title>
+        <link>https://speakerdeck.com/sergicalsix/ai-driven-development-in-organizations</link>
+        <dc:date>2026-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>蓄積をどう解釈すれば基盤整備に踏み出せるか — 10 年目のクラウドサインの場合 (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20261126-findy-archconf2026-cloudsign</link>
         <dc:date>2026-11-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>Math.sumPreciseから学ぶ、ECMAScript仕様の数値の種類 (syumai)</title>
         <link>https://speakerdeck.com/syumai/slides-303885bd-9a9f-41a1-b9e5-04ac53bb041c</link>
-        <dc:date>2026-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Canvas 2D Context Next (petamoriken / 森建)</title>
-        <link>https://speakerdeck.com/petamoriken/canvas-2d-context-next</link>
         <dc:date>2026-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
