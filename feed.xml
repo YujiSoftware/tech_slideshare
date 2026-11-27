@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ESの実践知とAI時代の再評価 〜「暗黙の前提」を排除し開発の認知負荷を下げる〜 / Practical Event Sourcing in the AI Era: Removing Hidden Assumptions for Clarity (株式会社ビットキー / Bitkey Inc.)</title>
+        <link>https://speakerdeck.com/bitkey/practical-event-sourcing-in-the-ai-era-removing-hidden-assumptions-for-claritypractical-event-sourcing-in-the-ai-era-removing-hidden-assumptions-for-clarity</link>
+        <dc:date>2026-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>後回しできる設計、 前倒しすべき設計。 (KaoruTsuda)</title>
+        <link>https://speakerdeck.com/anizozina/akitekucha-kanfarensu-2026-atomawashi-dekiru-sekkei-maedaoshi-subeki-sekkei</link>
+        <dc:date>2026-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>ISUCON2026 マルチリージョン構成におけるデータのインメモリ化 #isucon_namalog (Yoshinori Kawasaki)</title>
         <link>https://speakerdeck.com/kawasy/isucon2026-statemachine-replication-for-multi-region-in-memory-data-store-maruchi-rijon-kousei-niokeru-deta-no-in-memorika-e46becf2-a792-4df7-b614-7d36bae5e42e</link>
         <dc:date>2026-11-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>観測者から当事者へ、AI 時代にドメインへ深入りする知識と技術 / From Observer to Practitioner: Going Deep into Domains in the Age of AI (nrs)</title>
         <link>https://speakerdeck.com/nrslib/from-observer-to-practitioner-going-deep-into-domains-in-the-age-of-ai</link>
-        <dc:date>2026-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI-DLC最前線のCognitive Surrenderに陥らないチーム作り (yuukiyo)</title>
-        <link>https://speakerdeck.com/yuukiyo/building-teams-that-resist-cognitive-surrender-in-ai-dlc</link>
-        <dc:date>2026-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェントの認証がまとめて進化！ ～pre:Inventで来た3つのアップデート～ (みのるん)</title>
-        <link>https://speakerdeck.com/minorun365/ai-agent-auth-preinvent-2026</link>
         <dc:date>2026-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
