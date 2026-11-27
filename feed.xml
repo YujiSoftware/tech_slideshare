@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>テスト自動化の先、テスト自律化に向けて (Matsu)</title>
+        <link>https://speakerdeck.com/mineo_matsuya/jidouka-no-saki-tesuto-jiritsuka-ni-muke-te-pptx</link>
+        <dc:date>2026-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX (civitaspo)</title>
         <link>https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx</link>
         <dc:date>2026-11-26T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>AI時代の実践・形式検証入門</title>
         <link>https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/preview</link>
-        <dc:date>2026-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>[NW-JAWS DAY]「うちのAWS、インターネット出られないんで」― AWS外の自社サービスをPrivateLinkでシュッと公開する方法 (Yuta Kimi)</title>
-        <link>https://speakerdeck.com/ykimi/20261114-nw-jaws-day-kimi</link>
         <dc:date>2026-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
