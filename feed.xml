@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>蓄積をどう解釈すれば基盤整備に踏み出せるか — 10 年目のクラウドサインの場合 (弁護士ドットコム)</title>
+        <link>https://speakerdeck.com/bengo4com/20261126-findy-archconf2026-cloudsign</link>
+        <dc:date>2026-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>価格.comのAI駆動による全面刷新の現在地と振り返り (tkyowa)</title>
         <link>https://speakerdeck.com/tkyowa/kakaku-com-ai-driven-system-renewal-202611</link>
         <dc:date>2026-11-26T15:00:00Z</dc:date>
@@ -99,10 +104,5 @@
         <title>Canvas 2D Context Next (petamoriken / 森建)</title>
         <link>https://speakerdeck.com/petamoriken/canvas-2d-context-next</link>
         <dc:date>2026-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>最近のMySQL事情について (yoku0825)</title>
-        <link>https://speakerdeck.com/yoku0825/mysql-in-2026</link>
-        <dc:date>2026-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
