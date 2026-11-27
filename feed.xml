@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>ISUCON2026 マルチリージョン構成におけるデータのインメモリ化 #isucon_namalog (Yoshinori Kawasaki)</title>
+        <link>https://speakerdeck.com/kawasy/isucon2026-statemachine-replication-for-multi-region-in-memory-data-store-maruchi-rijon-kousei-niokeru-deta-no-in-memorika-e46becf2-a792-4df7-b614-7d36bae5e42e</link>
+        <dc:date>2026-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>モダナイズの目的に立ち返る (増田 亨)</title>
+        <link>https://speakerdeck.com/masuda220/aaa5fadd-e9cc-4c01-9359-b8389de8037a</link>
+        <dc:date>2026-11-26T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AI使って開発するなら、モデリングするんだよ - 4つの図で始めるモデリングと、AIにモデルを実装させるアーキテクチャ (Koichiro Matsuoka)</title>
         <link>https://speakerdeck.com/littlehands/umtp-suraido-20261125</link>
         <dc:date>2026-11-26T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>AIエージェントの認証がまとめて進化！ ～pre:Inventで来た3つのアップデート～ (みのるん)</title>
         <link>https://speakerdeck.com/minorun365/ai-agent-auth-preinvent-2026</link>
-        <dc:date>2026-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>GitHub Copilot が切り拓くエージェント時代の開発ワークフロー (zhang.william)</title>
-        <link>https://speakerdeck.com/moulongzhang/20261124-githubconnecttokyo-session2</link>
-        <dc:date>2026-11-24T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>不具合データを用いたプロダクトコードの弱点可視化 (tarappo)</title>
-        <link>https://speakerdeck.com/tarappo/fuguai-deta-o-mochiita-purodakuto-kodo-no-jakuten-kashika</link>
         <dc:date>2026-11-24T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
