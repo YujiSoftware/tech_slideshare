@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>リファクタリング再入門 - AI時代の価値考察 (nagise)</title>
+        <link>https://speakerdeck.com/nagise/2026-jjug-ccc-fall</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>Semi-Realtime Data Warehouse with Trino, Apache Arrow, and Iceberg (Tomohiro Hashidate)</title>
         <link>https://speakerdeck.com/joker1007/slides-bfb23f65-d603-4ad6-abc2-dfaae687d0ca</link>
         <dc:date>2026-11-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>サービスチーム全員で2年半続けているドメインモデリングのリアル / domain-modeling-with-the-whole-service-team (株式会社カミナシ)</title>
         <link>https://speakerdeck.com/kaminashi/domain-modeling-with-the-whole-service-team</link>
-        <dc:date>2026-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ローカルLLMによるデジタルフォレンジック支援ハーネスの設計と実装 (S.Nakano)</title>
-        <link>https://speakerdeck.com/sumeshi/design-and-implementation-of-a-local-llm-harness-for-digital-forensics-ja</link>
         <dc:date>2026-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
