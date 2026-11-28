@@ -6,6 +6,66 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>20261128 YAPC::Tokyo テーブルはクラスではない： SQLファーストなスキーマ管理</title>
+        <link>https://docs.google.com/presentation/d/1R80oV7fi4L_j2RPMZoYedkQ9L7bHqdKfg2eGLpUsGY0/preview</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>君もユーザー体験バリデーターにならないか？UI品質を向上させるデザイン批評の技術 (ninjinkun)</title>
+        <link>https://speakerdeck.com/ninjinkun/user-experience-validator</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>音声対話システムのオブザーバビリティ (ryuichi1208)</title>
+        <link>https://speakerdeck.com/ryuichi1208/onsei-taiwa-shisutemu-no-64f191f4-bf53-4d70-a4c7-9fd53e2cad8b</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI活用の足場をAIでつくる ─AIハーネスで実現する基幹システムのモダナイズ (ZOZO Developers)</title>
+        <link>https://speakerdeck.com/zozotech/ai-harness-core-system-modernization</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Azure で構築する Production-Ready な AI Agent アーキテクチャベストプラクティス (miyake)</title>
+        <link>https://speakerdeck.com/miyake/archconf2026</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>あけおめLINE 傾向とその対策 (nasa9084)</title>
+        <link>https://speakerdeck.com/nasa9084/yapc-tokyo-2026</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI駆動開発における既存のプロセスとレビューの学び直し ― 新規事業、ゼロから1年の実録 (kotala)</title>
+        <link>https://speakerdeck.com/kotalab/deck</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>NOT A HOTELのスマートホームが実践する、非日常の体験を止めない可用性設計 (imashin)</title>
+        <link>https://speakerdeck.com/shinsuke_imai/2026-akitekucha-conference-nota</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>イベント駆動とイベントソーシングで業務フローを支えられるアーキテクチャへ挑戦 (10xinc)</title>
+        <link>https://speakerdeck.com/10xinc/slide-submission</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>プラットフォームは誰のために、何を引き受けるのか AIエージェント時代に問い直すPlatform Engineering (Kazuto Kusama)</title>
+        <link>https://speakerdeck.com/jacopen/purattofomu-ha-dare-no-tame-ni-nani-o-hikiukeru-no-ka-ai-ejento-jidai-ni-toi-naosu-platform-engineering</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>AI駆動開発の1年後 〜実装の自動化から、開発ライフサイクル全体の自動化へ〜 (tbashiyy)</title>
+        <link>https://speakerdeck.com/tbashiyy/ai-kudou-kaihatsu-no-1-toshigo</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>実践！オンボーディングRTA 〜難易度SSSのエンジニアリングマネージャーを3ヶ月で引き継ぐ技術〜 / Onboarding Speedrun — Your Mission: Complete an SSS-Rank Engineering Manager Handoff in Three Months (ar_tama)</title>
+        <link>https://speakerdeck.com/ar_tama/onboarding-speedrun</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>リファクタリング再入門 - AI時代の価値考察 (nagise)</title>
         <link>https://speakerdeck.com/nagise/2026-jjug-ccc-fall</link>
         <dc:date>2026-11-27T15:00:00Z</dc:date>
@@ -44,65 +104,5 @@
         <title>蓄積をどう解釈すれば基盤整備に踏み出せるか — 10 年目のクラウドサインの場合 (弁護士ドットコム)</title>
         <link>https://speakerdeck.com/bengo4com/20261126-findy-archconf2026-cloudsign</link>
         <dc:date>2026-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>価格.comのAI駆動による全面刷新の現在地と振り返り (tkyowa)</title>
-        <link>https://speakerdeck.com/tkyowa/kakaku-com-ai-driven-system-renewal-202611</link>
-        <dc:date>2026-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ESの実践知とAI時代の再評価 〜「暗黙の前提」を排除し開発の認知負荷を下げる〜 / Practical Event Sourcing in the AI Era: Removing Hidden Assumptions for Clarity (株式会社ビットキー / Bitkey Inc.)</title>
-        <link>https://speakerdeck.com/bitkey/practical-event-sourcing-in-the-ai-era-removing-hidden-assumptions-for-claritypractical-event-sourcing-in-the-ai-era-removing-hidden-assumptions-for-clarity</link>
-        <dc:date>2026-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>後回しできる設計、 前倒しすべき設計。 (KaoruTsuda)</title>
-        <link>https://speakerdeck.com/anizozina/akitekucha-kanfarensu-2026-atomawashi-dekiru-sekkei-maedaoshi-subeki-sekkei</link>
-        <dc:date>2026-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>ISUCON2026 マルチリージョン構成におけるデータのインメモリ化 #isucon_namalog (Yoshinori Kawasaki)</title>
-        <link>https://speakerdeck.com/kawasy/isucon2026-statemachine-replication-for-multi-region-in-memory-data-store-maruchi-rijon-kousei-niokeru-deta-no-in-memorika-e46becf2-a792-4df7-b614-7d36bae5e42e</link>
-        <dc:date>2026-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>モダナイズの目的に立ち返る (増田 亨)</title>
-        <link>https://speakerdeck.com/masuda220/aaa5fadd-e9cc-4c01-9359-b8389de8037a</link>
-        <dc:date>2026-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AI使って開発するなら、モデリングするんだよ - 4つの図で始めるモデリングと、AIにモデルを実装させるアーキテクチャ (Koichiro Matsuoka)</title>
-        <link>https://speakerdeck.com/littlehands/umtp-suraido-20261125</link>
-        <dc:date>2026-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>テスト自動化の先、テスト自律化に向けて (Matsu)</title>
-        <link>https://speakerdeck.com/mineo_matsuya/jidouka-no-saki-tesuto-jiritsuka-ni-muke-te-pptx</link>
-        <dc:date>2026-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX (civitaspo)</title>
-        <link>https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx</link>
-        <dc:date>2026-11-26T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>「良いデザイン」をAIに判断させるには 〜チームで育てるデザインハーネス〜 (Tatsuroh Nakamura)</title>
-        <link>https://speakerdeck.com/tatsuroro/20261126-nikkei-teck-talk-51-design</link>
-        <dc:date>2026-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Jev で実現する Generative UI (azukiazusa)</title>
-        <link>https://speakerdeck.com/azukiazusa1/slide-efc59f7e-336f-4e6c-8919-27211ebc3d07</link>
-        <dc:date>2026-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開  / offers-claude-code-2026-11-26 (tonkotsuboy_com)</title>
-        <link>https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6</link>
-        <dc:date>2026-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>サービスチーム全員で2年半続けているドメインモデリングのリアル / domain-modeling-with-the-whole-service-team (株式会社カミナシ)</title>
-        <link>https://speakerdeck.com/kaminashi/domain-modeling-with-the-whole-service-team</link>
-        <dc:date>2026-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
