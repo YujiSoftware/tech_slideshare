@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>AIエージェント中心アーキテクチャ―人の判断を仕組みに移し、チームの役割を変えるまで / architecture-con2026 (Visional Engineering ＆ Design)</title>
+        <link>https://speakerdeck.com/visional_engineering_and_design/architecture-con2026</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>AWSのAI-DLC v2に学ぶ AIにドメイン境界を守らせる設計 (かとじゅん)</title>
         <link>https://speakerdeck.com/j5ik2o/archcon2026</link>
         <dc:date>2026-11-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>エンジニアが 売上を作るということ (らむ)</title>
         <link>https://speakerdeck.com/lamb_moko/enjinia-ga-uriage-o-tsukuru-toiu-koto</link>
-        <dc:date>2026-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>Welcome JXL! (dynamis)</title>
-        <link>https://speakerdeck.com/dynamis/welcome-jxl</link>
         <dc:date>2026-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
