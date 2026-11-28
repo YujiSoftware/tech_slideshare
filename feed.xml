@@ -6,6 +6,16 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>Semi-Realtime Data Warehouse with Trino, Apache Arrow, and Iceberg (Tomohiro Hashidate)</title>
+        <link>https://speakerdeck.com/joker1007/slides-bfb23f65-d603-4ad6-abc2-dfaae687d0ca</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
+        <title>Perlと歩む未来  - go-perl がつなぐPerlの過去と未来 - (Masaaki Goshima)</title>
+        <link>https://speakerdeck.com/goccy/perl-to-ayumu-mirai-go-perl-ga-tsunagu-perl-no-kako-to-mirai</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>データサイエンティストの Claude Code 活用術-Claude Code にデータ分析をさせる方法論 (よっしーDS)</title>
         <link>https://speakerdeck.com/yossyds/deta-saientisuto-no-claude-code-katsuyoujutsu</link>
         <dc:date>2026-11-27T15:00:00Z</dc:date>
@@ -93,16 +103,6 @@
     <item>
         <title>ローカルLLMによるデジタルフォレンジック支援ハーネスの設計と実装 (S.Nakano)</title>
         <link>https://speakerdeck.com/sumeshi/design-and-implementation-of-a-local-llm-harness-for-digital-forensics-ja</link>
-        <dc:date>2026-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>なぜ認証認可エンジニアはデジタルアイデンティティという言葉を使うのか (freee)</title>
-        <link>https://speakerdeck.com/freee/naze-ninshou-ninka-enjinia-ha-dejitaru-aidentiti-toiu-kotoba-o-tsukau-no-ka</link>
-        <dc:date>2026-11-25T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIと速く作れる時代に、要求と設計をどう確かめるか ーイベントストーミングとSDDの実践ー (syobochim)</title>
-        <link>https://speakerdeck.com/syobochim/20261125-modeling-forum-eventstorming-and-kiro</link>
         <dc:date>2026-11-25T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
