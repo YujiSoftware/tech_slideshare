@@ -6,6 +6,11 @@
         <description>インターネット上に公開された技術系勉強会のスライドをツイートするbotです。</description>
     </channel>
     <item>
+        <title>意思決定の構造を読み解く コードリーディング技法 (SansanTech)</title>
+        <link>https://speakerdeck.com/sansantech/261127</link>
+        <dc:date>2026-11-27T15:00:00Z</dc:date>
+    </item>
+    <item>
         <title>CTOからエンジニアへ (Issei Naruta)</title>
         <link>https://speakerdeck.com/mirakui/20261127-yapc-lt</link>
         <dc:date>2026-11-27T15:00:00Z</dc:date>
@@ -98,11 +103,6 @@
     <item>
         <title>データサイエンティストの Claude Code 活用術-Claude Code にデータ分析をさせる方法論 (よっしーDS)</title>
         <link>https://speakerdeck.com/yossyds/deta-saientisuto-no-claude-code-katsuyoujutsu</link>
-        <dc:date>2026-11-27T15:00:00Z</dc:date>
-    </item>
-    <item>
-        <title>AIエージェント中心アーキテクチャ―人の判断を仕組みに移し、チームの役割を変えるまで / architecture-con2026 (Visional Engineering ＆ Design)</title>
-        <link>https://speakerdeck.com/visional_engineering_and_design/architecture-con2026</link>
         <dc:date>2026-11-27T15:00:00Z</dc:date>
     </item>
 </rdf:RDF>
